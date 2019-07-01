@@ -12,43 +12,44 @@ Questions:
 '''
 
 import requests
+import requests_cache
 from urllib.parse import urljoin,urlparse
 import json
-import os,os.path
+import os,os.path,sys,datetime
 from jsonschema import Draft4Validator
 
+
 CFAPI = "https://api.codeforamerica.org/api/"
-CACHE = ".cache"
-GITHUB_AUTH = os.environ.get("GITHUB_TOKEN","")
+GITHUB_AUTH = (os.environ.get("GITHUB_TOKEN",""),'')
 
 GITHUB_CONTENT_API_URL = 'https://api.github.com/repos{repo_path}/contents/{file_path}'
+
+class RateLimitException(Exception): pass
 
 def github_api(url,headers=None):
     resp = requests.get(url, auth=GITHUB_AUTH, headers=headers)
     if resp.status_code == 403:
-        raise Exception(resp.text)
+        reset_time = resp.headers.get("X-RateLimit-Reset",None)
+        if reset_time != None:
+            print("Reset on %s" % datetime.datetime.fromtimestamp(int(reset_time)))
+        raise RateLimitException(resp.text)
     return resp
     
 def fetchall(url,cache=None):
     print("Fetching %s"%url)
-    cache_file = os.path.join(CACHE,"%s.json"%cache)
-    if cache and os.path.exists(cache_file):
-        return json.loads(open(cache_file).read())
     n = url 
-    while n != None and len(result) < 50:
+    result = []
+    while n != None:
         resp = requests.get(n)
         print(".")
         o = resp.json()
         result += o["objects"]
         n = o["pages"].get("next",None)
 
-    if cache:
-        with open(cache_file,"w") as f:
-            f.write(json.dumps(result,indent=1))
     return result
         
 def get_brigades(cache=True):
-    brigades = fetchall(urljoin(CFAPI,"organizations","?type=Brigade"),cache="_brigades")
+    brigades = fetchall(urljoin(CFAPI,"organizations","?type=Brigade, Code for America, Official"),cache="_brigades")
 
     print("Fetched %i organizations" % len(brigades))
     return brigades
@@ -59,7 +60,10 @@ def get_project_civicjson(code_url):
     request_headers = {'Accept': 'application/vnd.github.v3.raw'}
     response = github_api(civic_url, headers=request_headers)
     if response.status_code == 200:
-        return response.json()
+        try:
+            return response.json()
+        except json.decoder.JSONDecodeError as e:
+            raise ValueError("JSON Decode Error: %s" % str(e))
     else:
         print(code_url,response.status_code)
     return None
@@ -68,55 +72,78 @@ def get_project_civicjson(code_url):
 if __name__ == "__main__":
     if os.environ.get("GITHUB_TOKEN"):
         print("Using Github Token")
-
-    if not os.path.exists(CACHE):
-        os.mkdir(CACHE)
-
-    project_cache = os.path.join(CACHE,"projects.json")
-    if not os.path.exists(project_cache):
-        # get brigades
-        brigades = get_brigades()
-
-        # and brigade projects
-        projects = [] 
-        for br in brigades[:5]:
-            print("getting projects for %s" % br["name"])
-            b_projects = fetchall( br["all_projects"] )
-            print("... %i projects retrieved" % len(b_projects) )
-            projects += b_projects 
-        
-        with open(project_cache,"w") as f:
-            f.write( json.dumps(projects, indent=1) )
-        print("Saved %i projects" % len(projects) )
-
     else:
-        with open(project_cache,"r") as f:
-            projects = json.loads(f.read())
+        print("You need a Github Token (or else this will rate-limit fairly quickly)")
+        sys.exit(1)
 
+    # Install requests cache
+    # Cache 404s from Github API requests for civic.json
+    requests_cache.install_cache(allowable_codes=(200,404))
+
+    brigades = get_brigades()
+    csv_brigades = dict([ (b["name"],b) for b in brigades if not b["projects_list_url"] or "github" not in b["projects_list_url"]])
+
+    # Load Projects (from cache if exists)
+    # and brigade projects
+    projects = [] 
+    for br in brigades:
+        print("getting projects for %s" % br["name"])
+        b_projects = fetchall( br["all_projects"] )
+        print("... %i projects retrieved" % len(b_projects) )
+        projects += b_projects 
+    
     print("loaded %i projects" % len(projects))
-    #print(projects)
-    # Check for Civic.json
-    github_hosted = [ p for p in projects if p.get("code_url") and "github" in p.get("code_url","") ]
-    print("%i of %i code-hosting on github" % (len(github_hosted),len(projects)))
+
+    # Go through projects and check for Civic.json
+    github_hosted = [ 
+        p for p in projects 
+        if p.get("code_url") 
+            and "github" in p.get("code_url","") 
+    ]
+    print("%i of %i code-hosting on github" % \
+            (len(github_hosted),len(projects)))
   
-     
     civicjson_schema = requests.get(
         'https://raw.githubusercontent.com/DCgov/civic.json/master/schema.json'
     ).json()
     v = Draft4Validator(civicjson_schema)
 
+    # Assumes we need github for civic.json (as does the cfapi)
     # Check for Civicjson and validate
-    for gh in github_hosted:
-        civicjson = get_project_civicjson(gh["code_url"])
-        if civicjson:
-            valid = v.is_valid(civicjson)
-            print(gh["name"], valid and "VALID" or "NOT-VALID")
-            gh["civicjson"] = civicjson
-            gh["civicjson_is_valid"] = valid
-            if not valid:
-                gh["civicjson_errors"] = [error for error in sorted(v.iter_errors(civicjson), key=str)]
-                print(gh["civicjson_errors"])
-        else:
-            print(gh["name"])
 
+    annotated_projects = []
+    for gh in github_hosted:
+        try:
+            civicjson = get_project_civicjson(gh["code_url"])
+            if civicjson:
+                valid = v.is_valid(civicjson)
+                print(gh["name"], valid and "VALID" or "NOT-VALID")
+                gh["civicjson"] = civicjson
+                gh["civicjson_is_valid"] = valid
+                if gh["organization"]["name"] in csv_brigades:
+                    plu = csv_brigades[gh["organization"]["name"]]["projects_list_url"]
+                    if "csv" in plu.lower():
+                        gh["csv_project_list"] = True
+                    elif not plu:
+                        gh["no_project_list"] = True
+                if not valid:
+                    gh["civicjson_errors"] = [
+                        error.message 
+                        for error in sorted(v.iter_errors(civicjson), key=str)
+                    ]
+                    print(gh["civicjson_errors"])
+            else:
+                print(gh["name"])
+        except ValueError as e:
+            # When we have a bad json file
+            civicjson = None
+            gh["civicjson"] = {}
+            gh["civicjson_is_valid"] = False
+            gh["civicjson_errors"] = [str(e)]
+        except RateLimitException as e:
+            print("**** Rate limited ****: %s" % e)
+            break
+        annotated_projects.append(gh)
+
+    print( "%i annotated projects" % len(annotated_projects) )
 
