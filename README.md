@@ -4,14 +4,14 @@ The Brigade Project Index is designed to create a searchable repository of proje
 
 # Contributing Members
 
-Andrew Natoli, Open Charlotte Brigade, andrew@opencharlotte.org, @Andrew Natoli 
-Alison Lawyer, OpenOakland, alison@openoakland.org, @alison
-Bonnie Wolfe, Hack for LA,, bonnie@hackforla.org, @Bonnie Wolfe
-Colin King-Bailey, Open Oakland, ckingbailey@gmail.com, @ckingbailey 
-Greg Boyer, Code for SF, greg@codeforsanfancisco.org, @Gregory Boyer 
-Nikolaj Baer, Open San Diego, nikolaj.baer@gmail.com, @Nikolaj Baer
-Maile Malin, Hack for LA, mmalin@codeforamerica.org, @maile
-Tom Dooner, Open Oakland, CfA, tdooner@codeforamerical.org, @tdooner
+* Andrew Natoli, Open Charlotte Brigade, andrew@opencharlotte.org, @Andrew Natoli 
+* Alison Lawyer, OpenOakland, alison@openoakland.org, @alison
+* Bonnie Wolfe, Hack for LA,, bonnie@hackforla.org, @Bonnie Wolfe
+* Colin King-Bailey, Open Oakland, ckingbailey@gmail.com, @ckingbailey 
+* Greg Boyer, Code for SF, greg@codeforsanfancisco.org, @Gregory Boyer 
+* Nikolaj Baer, Open San Diego, nikolaj.baer@gmail.com, @Nikolaj Baer
+* Maile Malin, Hack for LA, mmalin@codeforamerica.org, @maile
+* Tom Dooner, Open Oakland, CfA, tdooner@codeforamerical.org, @tdooner
 
 # Getting Involved
 
@@ -31,7 +31,12 @@ https://github.com/codeforamerica/brigade-project-index/projects/1
 (https://discourse.codeforamerica.org/t/brigade-network-project-indexing/533)
 
 
+# MVP
 
+The current mvp, based on the stories on github (https://github.com/codeforamerica/brigade-project-index/projects/2) is based around leveraging github, a central tool for most projects in the brigade network. The MVP includes the following pieces:
+* Education on github best practices, tagging, descriptions. User research will be needed to determine how native github metadata can be a source of the project info, but the team agrees that high github literacy is fundamental to a successful implementation
+* A taxonomy for skills and interests to allow for standardized grouping and searching of projects. 
+* A methodology (e.g. working group?) for maintaining taxonomies. 
 
 ## Technologies Used
 
