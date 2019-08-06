@@ -37,16 +37,22 @@ The current mvp, based on the stories on github (https://github.com/codeforameri
 * Education on github best practices, tagging, descriptions. User research will be needed to determine how native github metadata can be a source of the project info, but the team agrees that high github literacy is fundamental to a successful implementation
 * A taxonomy for skills and interests to allow for standardized grouping and searching of projects. 
 * A methodology (e.g. working group?) for maintaining taxonomies. 
+* A defined set of metadata describing projects, potentially defined as a json file. 
+* An interface that consolidates projects into a searchable list
 
-## Technologies Used
+
 
 # Project Description
 
+## Technologies Used
+* Github
+
 ## Guiding Principles
+* Have an open and accessible process with outreach, documentation, public discussions and transparent decisions
+* Enable grassroots-driven projects across the brigade network with the minimum number of barriers (technical and otherwise) to inclusion in the index
+
 
 # Needs of this project
-
-# brigade-project-index
 
 
 
