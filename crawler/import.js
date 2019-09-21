@@ -53,58 +53,78 @@ require('yargs')
                 commitMessage
             } = argv;
 
+
+            // prepare interfaces
             const sheets = await GitSheets.create();
-            const tree = sheets.repo.createTree();
+            const { repo, git } = sheets;
+
+
+            // gather input
+            const toolsCommit = await sheets.repo.resolveRef();
+
+            const commitRef = commitTo
+                ? (
+                    commitTo == 'HEAD' || commitTo.startsWith('refs/')
+                    ? commitTo
+                    : `refs/heads/${commitTo}`
+                )
+                : null;
+
+            const inputCommit = await repo.resolveRef(commitRef);
+
+            const tree = inputCommit
+                ? await repo.createTreeFromRef(inputCommit)
+                : repo.createTree();
+
+
+            // prepare output
+            let organizationsTree, projectsTree, outputCommit;
 
             if (organizations || all) {
-                let outputHash;
                 try {
-                    outputHash = await importOrganizations(tree, organizationsSource);
+                    organizationsTree = await buildOrganizationsTree(repo, organizationsSource);
                     console.error('tree ready');
                 } catch (err) {
                     console.error('failed to import organizations:', err);
                     process.exit(1);
                 }
 
-                if (commitTo) {
-                    const commitRef = commitTo == 'HEAD' || commitTo.startsWith('refs/')
-                        ? commitTo
-                        : `refs/heads/${commitTo}`;
+                tree.merge(organizationsTree, { mode: 'replace' }, './organizations/');
 
+                if (commitRef) {
                     const parents = [
-                        await sheets.repo.resolveRef(commitRef),
-                        await sheets.repo.resolveRef()
+                        outputCommit || inputCommit,
+                        toolsCommit
                     ];
 
-                    const git = await sheets.repo.getGit();
-
-                    outputHash = await git.commitTree(
+                    outputCommit = await git.commitTree(
                         {
                             p: parents,
                             m: (commitMessage || `🔁 imported organizations`) + `\n\nOrganizations-Source: ${organizationsSource}`
                         },
-                        outputHash
+                        await tree.write()
                     );
 
-                    await git.updateRef(commitRef, outputHash);
-                    console.warn(`committed new tree to "${commitRef}": ${parents.join('+')}->${outputHash}`);
+                    await git.updateRef(commitRef, outputCommit);
+                    console.warn(`committed new tree to "${commitRef}": ${parents.join('+')}->${outputCommit}`);
                 }
-
-                console.log(outputHash);
             }
+
+            console.log(outputCommit || await tree.write());
         }
     })
     .demandCommand()
     .help()
     .argv;
 
-async function importOrganizations(tree, organizationsSource) {
+async function buildOrganizationsTree(repo, organizationsSource) {
 
     // load data from JSON URL
     const { data: organizations } = await axios.get(organizationsSource);
 
 
     // build tree
+    const tree = repo.createTree();
     const progressBar = new ProgressBar('loading organizations :percent [:bar] :rate/s :etas', { total: organizations.length });
 
     for (const organization of organizations) {
@@ -118,6 +138,7 @@ async function importOrganizations(tree, organizationsSource) {
         progressBar.tick();
     }
 
+
     // write tree
-    return await tree.write();
+    return tree;
 }
