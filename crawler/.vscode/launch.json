@@ -11,7 +11,7 @@
             "program": "${workspaceFolder}/import.js",
             "cwd": "${workspaceFolder}",
             "args": [
-                "--brigades",
+                "--organizations",
                 "--commit-to=data"
             ],
             "skipFiles": [

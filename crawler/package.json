@@ -5,7 +5,9 @@
   "author": "Chris Alfano <chris@jarv.us>",
   "license": "MIT",
   "dependencies": {
+    "axios": "^0.19.0",
     "gitsheets": "file:../gitsheets/backend",
+    "progress": "^2.0.3",
     "yargs": "^14.0.0"
   }
 }

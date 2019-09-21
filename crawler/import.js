@@ -1,14 +1,21 @@
 #!/usr/bin/env node
 
+const axios = require('axios');
 const GitSheets = require('gitsheets');
+const ProgressBar = require('progress');
 
 require('yargs')
     .command({
         command: '$0',
-        desc: 'Import brigade data from CfAPI network',
+        desc: 'Import brigade and project data from CfAPI network',
         builder: {
-            brigades: {
-                describe: 'Import brigades',
+            'organizations-source': {
+                describe: 'URL to JSON file listing organizations to scan',
+                type: 'string',
+                default: 'https://raw.githubusercontent.com/codeforamerica/brigade-information/master/organizations.json'
+            },
+            organizations: {
+                describe: 'Import organizations',
                 boolean: true,
                 default: false
             },
@@ -22,11 +29,6 @@ require('yargs')
                 boolean: true,
                 default: false
             },
-            append: {
-                describe: 'Whether to layer imported data on top of current',
-                boolean: true,
-                default: false
-            },
             'commit-to': {
                 describe: 'A target branch/ref to commit the imported tree to',
                 type: 'string'
@@ -37,23 +39,30 @@ require('yargs')
             },
         },
         handler: async argv => {
-            const { brigades, projects, all, commitTo, commitMessage, append } = argv;
+            const {
+                // import sets
+                organizations,
+                projects,
+                all,
+
+                // import options
+                organizationsSource,
+
+                // commit options
+                commitTo,
+                commitMessage
+            } = argv;
 
             const sheets = await GitSheets.create();
             const tree = sheets.repo.createTree();
 
-            if (append) {
-                // TODO: load an existing tree instead
-                throw new Error('append is not yet implemented');
-            }
-
-            if (brigades || all) {
+            if (organizations || all) {
                 let outputHash;
                 try {
-                    outputHash = await importBrigades(tree, argv);
+                    outputHash = await importOrganizations(tree, organizationsSource);
                     console.error('tree ready');
                 } catch (err) {
-                    console.error('failed to import brigades:', err);
+                    console.error('failed to import organizations:', err);
                     process.exit(1);
                 }
 
@@ -72,7 +81,7 @@ require('yargs')
                     outputHash = await git.commitTree(
                         {
                             p: parents,
-                            m: commitMessage || `🔁 imported`
+                            m: (commitMessage || `🔁 imported organizations`) + `\n\nOrganizations-Source: ${organizationsSource}`
                         },
                         outputHash
                     );
@@ -89,6 +98,26 @@ require('yargs')
     .help()
     .argv;
 
-async function importBrigades(tree, argv) {
-    return '4b825dc642cb6eb9a060e54bf8d69288fbee4904';
+async function importOrganizations(tree, organizationsSource) {
+
+    // load data from JSON URL
+    const { data: organizations } = await axios.get(organizationsSource);
+
+
+    // build tree
+    const progressBar = new ProgressBar('loading organizations :percent [:bar] :rate/s :etas', { total: organizations.length });
+
+    for (const organization of organizations) {
+        const organizationData = {
+            ...organization,
+            name: null
+        };
+        const toml = GitSheets.stringifyRecord(organizationData);
+        const blob = await tree.writeChild(`${organization.name}.toml`, toml);
+
+        progressBar.tick();
+    }
+
+    // write tree
+    return await tree.write();
 }
