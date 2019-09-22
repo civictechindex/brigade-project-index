@@ -1,0 +1,10 @@
+code_url = "https://github.com/opensavannah/open-data-directive"
+git_branch = "master"
+git_url = "git://github.com/opensavannah/open-data-directive.git"
+topics = [
+  "codeforamerica",
+  "opendata",
+  "opengov",
+  "opensavannah",
+  "savannah"
+]

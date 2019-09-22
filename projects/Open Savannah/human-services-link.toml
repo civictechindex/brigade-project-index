@@ -1,0 +1,10 @@
+code_url = "https://github.com/opensavannah/human-services-link"
+git_branch = "master"
+git_url = "git://github.com/opensavannah/human-services-link.git"
+link_url = "https://opensavannah.github.io/human-services-link"
+topics = [
+  "civic-tech",
+  "human-services-data-specification",
+  "open-eligibility",
+  "openreferral"
+]

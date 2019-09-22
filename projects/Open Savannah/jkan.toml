@@ -1,0 +1,11 @@
+code_url = "https://github.com/opensavannah/jkan"
+git_branch = "gh-pages"
+git_url = "git://github.com/opensavannah/jkan.git"
+link_url = "http://data.opensavannah.org"
+topics = [
+  "civic-tech",
+  "code-for-america",
+  "jkan",
+  "open-data",
+  "open-data-portal"
+]

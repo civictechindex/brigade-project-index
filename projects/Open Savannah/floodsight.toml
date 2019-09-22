@@ -1,0 +1,12 @@
+code_url = "https://github.com/opensavannah/floodsight"
+git_branch = "dev"
+git_url = "git://github.com/opensavannah/floodsight.git"
+topics = [
+  "branch-backend",
+  "bucket",
+  "citizen-science",
+  "crowdsource-monitoring",
+  "frontend",
+  "sea-level-rise",
+  "storybook"
+]

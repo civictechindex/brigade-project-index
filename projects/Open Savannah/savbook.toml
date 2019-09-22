@@ -1,0 +1,12 @@
+code_url = "https://github.com/opensavannah/savbook"
+git_branch = "master"
+git_url = "git://github.com/opensavannah/savbook.git"
+link_url = "https://savbook.io"
+topics = [
+  "citybook",
+  "civic-tech",
+  "code-for-america",
+  "help-wanted",
+  "savbook",
+  "social-services"
+]

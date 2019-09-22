@@ -1,0 +1,14 @@
+code_url = "https://github.com/opensavannah/savmaps"
+git_branch = "master"
+git_url = "git://github.com/opensavannah/savmaps.git"
+link_url = "https://opensavannah.github.io/savmaps"
+topics = [
+  "codeforamerica",
+  "google-sheets",
+  "human-services",
+  "human-services-data-specification",
+  "leaflet",
+  "open-elegibility",
+  "savannah",
+  "social-services"
+]

@@ -1,0 +1,17 @@
+code_url = "https://github.com/opensavannah/openbudgetsav.org"
+git_branch = "master"
+git_url = "git://github.com/opensavannah/openbudgetsav.org.git"
+link_url = "http://openbudgetsav.org"
+topics = [
+  "civic-tech",
+  "codeforamerica",
+  "d3js",
+  "expenses",
+  "flow-diagram",
+  "jekyll",
+  "openbudget",
+  "openbudgets",
+  "opengovernment",
+  "opensavannah",
+  "revenue"
+]

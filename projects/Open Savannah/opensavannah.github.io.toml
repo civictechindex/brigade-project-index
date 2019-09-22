@@ -1,0 +1,13 @@
+code_url = "https://github.com/opensavannah/opensavannah.github.io"
+git_branch = "master"
+git_url = "git://github.com/opensavannah/opensavannah.github.io.git"
+link_url = "https://opensavannah.org/"
+topics = [
+  "brigade",
+  "brigadehub",
+  "codeforamerica",
+  "membership-management",
+  "nodejs",
+  "opensavannah",
+  "project-management"
+]
