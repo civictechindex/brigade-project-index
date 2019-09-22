@@ -1,0 +1,13 @@
+city = "Miami, FL"
+events_url = "https://www.meetup.com/code-for-miami/"
+latitude = "25.7890"
+longitude = "-80.2264"
+projects_list_url = "https://github.com/Code-for-Miami"
+rss = "https://google.com/alerts/feeds/06912685966400056337/15201841917646222185"
+tags = [ "Brigade", "Code for America", "Official" ]
+type = "Brigade, Code for America, Official"
+website = "https://www.codeformiami.com/"
+
+[social_profiles]
+facebook = "https://www.facebook.com/CodeForMiami/"
+twitter = "@codeformiami"

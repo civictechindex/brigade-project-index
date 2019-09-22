@@ -1,0 +1,12 @@
+city = "San Diego, CA"
+events_url = "https://www.meetup.com/Open-San-Diego"
+latitude = "32.7153"
+longitude = "-117.1573"
+projects_list_url = "https://github.com/opensandiego"
+rss = "https://google.com/alerts/feeds/06912685966400056337/16695061524097679642"
+tags = [ "Brigade", "Code for America", "Official" ]
+type = "Brigade, Code for America, Official"
+website = "https://opensandiego.org/"
+
+[social_profiles]
+twitter = "@OpenSanDiego"

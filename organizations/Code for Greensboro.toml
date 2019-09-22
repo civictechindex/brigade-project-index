@@ -1,0 +1,18 @@
+city = "Greensboro, NC"
+events_url = "https://www.meetup.com/Code-for-Greensboro/"
+latitude = "36.0690"
+longitude = "-79.7947"
+projects_list_url = "https://github.com/codeforgso"
+rss = "https://google.com/alerts/feeds/06912685966400056337/15266640778775468197"
+tags = [
+  "Brigade",
+  "Code for America",
+  "Code for America Partner Brigade",
+  "Official"
+]
+type = "Brigade, Code for America, Code for America Partner Brigade, Official"
+website = "https://codeforgreensboro.org/"
+
+[social_profiles]
+facebook = "https://www.facebook.com/codeforgreensboro/"
+twitter = "@CodeForGSO"

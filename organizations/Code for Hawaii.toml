@@ -1,0 +1,13 @@
+city = "Honolulu, HI"
+events_url = "https://www.meetup.com/Code-for-Hawaii/"
+latitude = "21.3069"
+longitude = "-157.8583"
+projects_list_url = "https://github.com/codeforhawaii"
+rss = "http://blog.codeforhawaii.org/"
+tags = [ "Brigade", "Code for America", "Official" ]
+type = "Brigade, Code for America, Official"
+website = "http://www.codeforhawaii.org/"
+
+[social_profiles]
+facebook = "https://www.facebook.com/codeforhawaii/"
+twitter = "@codeforhawaii"

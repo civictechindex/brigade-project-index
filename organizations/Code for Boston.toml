@@ -1,0 +1,13 @@
+city = "Boston, MA"
+events_url = "https://www.meetup.com/Code-for-Boston/"
+latitude = "42.3584"
+longitude = "-71.0598"
+projects_list_url = "https://github.com/codeforboston/"
+rss = "https://google.com/alerts/feeds/06912685966400056337/7301583704927493688"
+tags = [ "Brigade", "Code for America", "Official" ]
+type = "Brigade, Code for America, Official"
+website = "https://www.codeforboston.org"
+
+[social_profiles]
+facebook = "https://www.facebook.com/codeforboston/"
+twitter = "@codeforboston"

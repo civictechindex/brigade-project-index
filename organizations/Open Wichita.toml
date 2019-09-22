@@ -1,0 +1,12 @@
+city = "Wichita, KS"
+events_url = "http://www.meetup.com/openwichita/"
+latitude = "37.6870"
+longitude = "-97.3356"
+projects_list_url = "https://github.com/openwichita"
+tags = [ "Brigade" ]
+type = "Brigade"
+website = "http://openwichita.com/"
+
+[social_profiles]
+facebook = "https://www.facebook.com/openwichita/"
+twitter = "@openwichita"

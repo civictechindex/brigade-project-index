@@ -1,0 +1,11 @@
+city = "Chicago, IL"
+events_url = "https://www.meetup.com/code-for-chicago/"
+latitude = "41.8755616"
+longitude = "-87.6244212"
+previous_names = [ "Open Uptown" ]
+projects_list_url = "https://github.com/code-for-chicago/"
+tags = [ "Brigade", "Code for America", "Official" ]
+website = "https://codeforchicago.org/"
+
+[social_profiles]
+twitter = "@open_uptown"

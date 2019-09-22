@@ -1,0 +1,13 @@
+city = "Oakland, CA"
+events_url = "https://www.meetup.com/OpenOakland/"
+latitude = "37.8044"
+longitude = "-122.2711"
+projects_list_url = "https://docs.google.com/spreadsheets/d/e/2PACX-1vQ3ynEZMQT5_9rQDmZjtJchEy_UisUDlhe1BclIzAiaTK3nAWAs_2qghnTUco3c_NKqyTOIFz8_ykYn/pub?output=csv"
+rss = "https://www.openoakland.org/blog/"
+tags = [ "Brigade", "Code for America", "Official" ]
+type = "Brigade, Code for America, Official"
+website = "https://openoakland.org/"
+
+[social_profiles]
+facebook = "https://www.facebook.com/openoak/"
+twitter = "@openoakland"
