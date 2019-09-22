@@ -1,0 +1,14 @@
+code_url = "https://github.com/CodeforHawaii/ACLU"
+git_branch = "master"
+git_url = "git://github.com/CodeforHawaii/ACLU.git"
+link_url = "https://aclu.codeforhawaii.org/#/"
+topics = [
+  "aclu",
+  "civil-rights",
+  "code-for-america",
+  "code-for-hawaii",
+  "hawaii",
+  "land",
+  "mapping",
+  "public-data"
+]
