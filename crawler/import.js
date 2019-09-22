@@ -90,7 +90,7 @@ require('yargs')
                     orgsTree = await loadOrgsTree(repo, orgsSource);
                     console.error('orgs tree loaded');
                 } catch (err) {
-                    console.error('failed to import organizations:', err);
+                    console.error('failed to load organizations:', err);
                     process.exit(1);
                 }
 
@@ -183,7 +183,9 @@ async function loadOrgsTree(repo, orgsSource) {
 
     // build tree
     const tree = repo.createTree();
-    const progressBar = new ProgressBar('loading orgs :percent [:bar] :rate/s :etas', { total: orgs.length });
+    const progressBar = new ProgressBar('loading orgs :percent [:bar] :rate/s :etas', {
+        total: orgs.length
+    });
 
     for (const org of orgs) {
         const orgData = {
