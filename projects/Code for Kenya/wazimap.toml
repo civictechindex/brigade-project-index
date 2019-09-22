@@ -1,0 +1,14 @@
+code_url = "https://github.com/CodeForAfrica/wazimap"
+git_branch = "master"
+git_url = "git://github.com/CodeForAfrica/wazimap.git"
+link_url = "http://wazimap.readthedocs.org/en/latest/"
+topics = [
+  "africa",
+  "census",
+  "census-data",
+  "census-reporter",
+  "demographics",
+  "hurumap",
+  "survey-data",
+  "wazimap"
+]

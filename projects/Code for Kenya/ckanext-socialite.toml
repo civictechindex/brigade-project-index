@@ -1,0 +1,13 @@
+code_url = "https://github.com/CodeForAfrica/ckanext-socialite"
+git_branch = "develop"
+git_url = "git://github.com/CodeForAfrica/ckanext-socialite.git"
+topics = [
+  "ckan",
+  "ckan-extension",
+  "facebook",
+  "github",
+  "google",
+  "login",
+  "oauth2",
+  "twitter"
+]

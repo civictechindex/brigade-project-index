@@ -1,0 +1,18 @@
+code_url = "https://github.com/CodeForAfrica/politwoops"
+git_branch = "master"
+git_url = "git://github.com/CodeForAfrica/politwoops.git"
+link_url = "https://politwoops.codeforkenya.org"
+topics = [
+  "africa",
+  "bot",
+  "civic-tech",
+  "civic-watchdog",
+  "code-for-africa",
+  "deleted-tweets",
+  "kenya",
+  "politicians",
+  "politwoops",
+  "track-politicians",
+  "tweets",
+  "twitter"
+]

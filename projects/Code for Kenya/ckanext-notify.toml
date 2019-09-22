@@ -1,0 +1,10 @@
+code_url = "https://github.com/CodeForAfrica/ckanext-notify"
+git_branch = "master"
+git_url = "git://github.com/CodeForAfrica/ckanext-notify.git"
+topics = [
+  "ckan",
+  "ckan-extension",
+  "ckan-notify",
+  "notifications",
+  "slack"
+]

@@ -1,0 +1,22 @@
+code_url = "https://github.com/CodeForAfrica/sensors.AFRICA"
+git_branch = "master"
+git_url = "git://github.com/CodeForAfrica/sensors.AFRICA.git"
+link_url = "https://sensors.africa"
+topics = [
+  "abuja",
+  "africa",
+  "air-quality",
+  "air-quality-measurements",
+  "air-quality-sensor",
+  "dar-es-salaam",
+  "kampala",
+  "kenya",
+  "lagos",
+  "nairobi",
+  "nigeria",
+  "sensor-data-collection",
+  "sensors",
+  "sensors-africa",
+  "tanzania",
+  "uganda"
+]

@@ -1,0 +1,14 @@
+code_url = "https://github.com/CodeForAfrica/AfricanSpending"
+git_branch = "master"
+git_url = "git://github.com/CodeForAfrica/AfricanSpending.git"
+link_url = "https://africanspending.org/"
+topics = [
+  "africa",
+  "css",
+  "government",
+  "government-procurement",
+  "government-spending",
+  "javascript",
+  "open-contracting",
+  "open-spending"
+]
