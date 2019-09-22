@@ -27,11 +27,30 @@
             "cwd": "${workspaceFolder}",
             "args": [
                 "--projects",
-                "--commit-to=data"
+                "--commit-to=index",
+                "--commit-orgs-to=cfapi/orgs"
             ],
+            "env": {
+                "GITHUB_USER": "${input:githubUsername}",
+                "GITHUB_TOKEN": "${input:githubToken}"
+            },
             "skipFiles": [
                 "<node_internals>/**"
             ]
+        }
+    ],
+    "inputs": [
+        {
+            "id": "githubUsername",
+            "type": "promptString",
+            "description": "GitHub Username",
+            "default": ""
+        },
+        {
+            "id": "githubToken",
+            "type": "promptString",
+            "description": "GitHub Personal Access Token",
+            "default": ""
         }
     ]
 }
