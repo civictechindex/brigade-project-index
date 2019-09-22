@@ -31,7 +31,7 @@
                 "--commit-orgs-to=cfapi/orgs"
             ],
             "env": {
-                "GITHUB_USER": "${input:githubUsername}",
+                "GITHUB_ACTOR": "${input:githubActor}",
                 "GITHUB_TOKEN": "${input:githubToken}"
             },
             "skipFiles": [
@@ -41,7 +41,7 @@
     ],
     "inputs": [
         {
-            "id": "githubUsername",
+            "id": "githubActor",
             "type": "promptString",
             "description": "GitHub Username",
             "default": ""
