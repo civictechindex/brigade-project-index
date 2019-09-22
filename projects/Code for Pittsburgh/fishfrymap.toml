@@ -1,0 +1,21 @@
+code_url = "https://github.com/CodeForPittsburgh/fishfrymap"
+git_branch = "master"
+git_url = "git://github.com/CodeForPittsburgh/fishfrymap.git"
+link_url = "https://fishfry.codeforpgh.com/map"
+topics = [
+  "bootleaf",
+  "bootstrap",
+  "cartography",
+  "fish",
+  "fry",
+  "jquery",
+  "leaflet",
+  "lent",
+  "map",
+  "mapbox",
+  "momentjs",
+  "openstreetmap",
+  "osm",
+  "pittsburgh",
+  "stamen"
+]
