@@ -1,0 +1,16 @@
+code_url = "https://github.com/CodeForAfrica/ClimateChangeProjections"
+git_branch = "master"
+git_url = "git://github.com/CodeForAfrica/ClimateChangeProjections.git"
+link_url = "https://climatechange.codeforafrica.org"
+topics = [
+  "africa",
+  "climate",
+  "climate-change",
+  "data-journalism",
+  "geo",
+  "geo-datasets",
+  "global-warming",
+  "map",
+  "projections",
+  "storylab"
+]

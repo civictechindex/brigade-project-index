@@ -1,0 +1,26 @@
+code_url = "https://github.com/CodeForAfrica/academy.AFRICA"
+git_branch = "master"
+git_url = "git://github.com/CodeForAfrica/academy.AFRICA.git"
+link_url = "https://academy.africa/"
+topics = [
+  "abuja",
+  "academy",
+  "academy-africa",
+  "africa",
+  "cape-town",
+  "code-for-africa",
+  "dar-es-salaam",
+  "data-journalism",
+  "digital-journalism",
+  "github-pages",
+  "google-news-lab",
+  "jekyll",
+  "johannesburg",
+  "journalism",
+  "journalism-training",
+  "lagos",
+  "nairobi",
+  "storylab",
+  "storylab-academy",
+  "training"
+]
