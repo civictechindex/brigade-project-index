@@ -185,14 +185,20 @@ require('yargs')
                     const org = await sheets.parseBlob(orgBlobs[orgBlobName]);
                     const orgName = path.basename(orgBlobName, '.toml');
                     const { projects_list_url: projectsListUrl } = org;
-                    const githubMatch = githubOrgRegex.exec(projectsListUrl);
+
+                    if (!projectsListUrl) {
+                        console.error(`skipping org with no projects list: ${orgName}`);
+                        continue;
+                    }
 
                     let orgProjectsTree;
+                    const githubMatch = githubOrgRegex.exec(projectsListUrl);
+
                     if (githubMatch) {
                         const { username } = githubMatch.groups;
                         orgProjectsTree = await loadGithubProjects(repo, username);
                     } else {
-                        console.error(`Skipping non-GitHub projects list: ${projectsListUrl}`);
+                        console.error(`skipping non-GitHub projects list for ${orgName}: ${projectsListUrl}`);
                         continue;
                     }
 
