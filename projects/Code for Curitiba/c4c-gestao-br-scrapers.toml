@@ -1,0 +1,11 @@
+code_url = "https://github.com/CodeForCuritiba/c4c-gestao-br-scrapers"
+git_branch = "develop"
+git_url = "git://github.com/CodeForCuritiba/c4c-gestao-br-scrapers.git"
+topics = [
+  "crawler",
+  "curitiba",
+  "opendata",
+  "parser",
+  "python",
+  "webscraping"
+]
