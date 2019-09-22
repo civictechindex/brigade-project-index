@@ -1,0 +1,5 @@
+code_url = "https://github.com/codeformuenster/traffic-dynamics"
+git_branch = "master"
+git_url = "git://github.com/codeformuenster/traffic-dynamics.git"
+link_url = "https://traffics.codeformuenster.org"
+topics = [ "cars", "cyclists", "docker-image" ]

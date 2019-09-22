@@ -1,0 +1,4 @@
+code_url = "https://github.com/codeformuenster/docker-nextcloud"
+git_branch = "master"
+git_url = "git://github.com/codeformuenster/docker-nextcloud.git"
+link_url = "https://hub.docker.com/r/codeformuenster/nextcloud/builds"

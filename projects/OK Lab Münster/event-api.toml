@@ -1,0 +1,5 @@
+code_url = "https://github.com/codeformuenster/event-api"
+git_branch = "master"
+git_url = "git://github.com/codeformuenster/event-api.git"
+link_url = "https://hub.docker.com/r/codeformuenster/event-api/"
+topics = [ "dockerfile", "elasticsearch", "open-api" ]

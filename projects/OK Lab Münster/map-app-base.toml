@@ -1,0 +1,4 @@
+code_url = "https://github.com/codeformuenster/map-app-base"
+git_branch = "master"
+git_url = "git://github.com/codeformuenster/map-app-base.git"
+topics = [ "elasticsearch", "gatsby", "kinto", "react" ]
