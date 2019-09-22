@@ -1,0 +1,16 @@
+code_url = "https://github.com/CodeforAustralia/school-finder"
+git_branch = "master"
+git_url = "git://github.com/CodeforAustralia/school-finder.git"
+link_url = "https://education.nsw.gov.au/school-finder"
+topics = [
+  "australia",
+  "cartodb",
+  "education",
+  "googlemaps",
+  "government",
+  "govtech",
+  "location-based",
+  "map",
+  "mapbox",
+  "schools"
+]
