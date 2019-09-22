@@ -1,0 +1,13 @@
+code_url = "https://github.com/OpenDataSTL/stl-process-vacant-parcels"
+git_branch = "master"
+git_url = "git://github.com/OpenDataSTL/stl-process-vacant-parcels.git"
+link_url = "http://arcgis.com/apps/webappviewer/index.html?id=45e326c1532e4e87a3c2cdbea911dc7a"
+topics = [
+  "arcgis",
+  "civic-tech",
+  "civictech",
+  "gis",
+  "mapping",
+  "vacancies",
+  "visualization"
+]
