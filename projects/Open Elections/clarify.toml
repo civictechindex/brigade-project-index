@@ -1,0 +1,4 @@
+code_url = "https://github.com/openelections/clarify"
+git_branch = "master"
+git_url = "git://github.com/openelections/clarify.git"
+topics = [ "clarity", "election", "python", "xml" ]

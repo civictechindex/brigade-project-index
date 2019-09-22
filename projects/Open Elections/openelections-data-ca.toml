@@ -1,0 +1,4 @@
+code_url = "https://github.com/openelections/openelections-data-ca"
+git_branch = "master"
+git_url = "git://github.com/openelections/openelections-data-ca.git"
+topics = [ "california-elections", "openelections-data" ]

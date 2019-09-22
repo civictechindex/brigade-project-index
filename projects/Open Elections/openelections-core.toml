@@ -1,0 +1,4 @@
+code_url = "https://github.com/openelections/openelections-core"
+git_branch = "dev"
+git_url = "git://github.com/openelections/openelections-core.git"
+topics = [ "elections", "openelections" ]
