@@ -1,0 +1,5 @@
+code_url = "https://github.com/18F/cg-dashboard"
+git_branch = "master"
+git_url = "git://github.com/18F/cg-dashboard.git"
+link_url = "https://dashboard.fr.cloud.gov"
+topics = [ "cloud", "cloud-foundry", "cloudfoundry", "gov", "react" ]

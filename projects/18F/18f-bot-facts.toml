@@ -1,0 +1,4 @@
+code_url = "https://github.com/18F/18f-bot-facts"
+git_branch = "master"
+git_url = "git://github.com/18F/18f-bot-facts.git"
+topics = [ "bot", "bot-responses", "charlie" ]

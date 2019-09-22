@@ -1,0 +1,13 @@
+code_url = "https://github.com/18F/frontend"
+git_branch = "master"
+git_url = "git://github.com/18F/frontend.git"
+link_url = "https://frontend.18f.gov/"
+topics = [
+  "18f",
+  "css",
+  "frontend",
+  "guide",
+  "guild",
+  "html",
+  "javascript"
+]

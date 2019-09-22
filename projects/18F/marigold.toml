@@ -1,0 +1,5 @@
+code_url = "https://github.com/18F/marigold"
+git_branch = "master"
+git_url = "git://github.com/18F/marigold.git"
+link_url = "http://federalist.18f.gov.s3-website-us-east-1.amazonaws.com/site/18F/marigold/"
+topics = [ "experimental" ]

@@ -1,0 +1,12 @@
+code_url = "https://github.com/18F/tts-buy-bug-bounty"
+git_branch = "master"
+git_url = "git://github.com/18F/tts-buy-bug-bounty.git"
+topics = [
+  "bounty",
+  "bug",
+  "government",
+  "gsa",
+  "open-government",
+  "tts",
+  "tts-bug-bounty"
+]

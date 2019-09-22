@@ -1,0 +1,13 @@
+code_url = "https://github.com/18F/cms-hitech-apd"
+git_branch = "master"
+git_url = "git://github.com/18F/cms-hitech-apd.git"
+link_url = "https://eapd.cms.gov"
+topics = [
+  "18f-human-services",
+  "apd",
+  "cms",
+  "eapd",
+  "hhs",
+  "hitech",
+  "medicaid"
+]

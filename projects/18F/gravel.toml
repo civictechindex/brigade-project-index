@@ -1,0 +1,10 @@
+code_url = "https://github.com/18F/gravel"
+git_branch = "master"
+git_url = "git://github.com/18F/gravel.git"
+topics = [
+  "boulder",
+  "cloud-dot-gov",
+  "lets-encrypt",
+  "letsencrypt",
+  "letsencrypt-utils"
+]

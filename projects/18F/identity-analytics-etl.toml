@@ -1,0 +1,4 @@
+code_url = "https://github.com/18F/identity-analytics-etl"
+git_branch = "master"
+git_url = "git://github.com/18F/identity-analytics-etl.git"
+topics = [ "analytics", "etl", "login-gov" ]

@@ -1,0 +1,4 @@
+code_url = "https://github.com/18F/identity-oidc-ios"
+git_branch = "master"
+git_url = "git://github.com/18F/identity-oidc-ios.git"
+topics = [ "login-gov" ]

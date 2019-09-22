@@ -1,0 +1,9 @@
+code_url = "https://github.com/18F/data-federation-project"
+git_branch = "master"
+git_url = "git://github.com/18F/data-federation-project.git"
+topics = [
+  "10x-data-federation",
+  "data-federation",
+  "ingest-data",
+  "opendata"
+]

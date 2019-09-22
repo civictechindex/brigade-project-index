@@ -1,0 +1,5 @@
+code_url = "https://github.com/18F/federalist.18f.gov"
+git_branch = "master"
+git_url = "git://github.com/18F/federalist.18f.gov.git"
+link_url = "https://federalist.18f.gov"
+topics = [ "active", "federalist" ]
