@@ -1,0 +1,19 @@
+code_url = "https://github.com/hackforla/spare"
+git_branch = "dev"
+git_url = "git://github.com/hackforla/spare.git"
+link_url = "http://whatcanyouspare.org/"
+topics = [
+  "code-for-america",
+  "django",
+  "donation",
+  "donations",
+  "giving",
+  "hack-for-la",
+  "helping",
+  "homeless",
+  "homelessness",
+  "non-profit",
+  "react",
+  "sharing",
+  "unhoused"
+]

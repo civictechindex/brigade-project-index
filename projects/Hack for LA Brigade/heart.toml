@@ -1,0 +1,11 @@
+code_url = "https://github.com/hackforla/heart"
+git_branch = "develop"
+git_url = "git://github.com/hackforla/heart.git"
+topics = [
+  "civic-tech",
+  "code-for-america",
+  "hack-for-la",
+  "homeless",
+  "la-county",
+  "record-expungement"
+]

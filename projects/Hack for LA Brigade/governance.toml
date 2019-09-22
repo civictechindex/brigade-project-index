@@ -1,0 +1,9 @@
+code_url = "https://github.com/hackforla/governance"
+git_branch = "master"
+git_url = "git://github.com/hackforla/governance.git"
+topics = [
+  "community-engagment",
+  "meeting-minutes",
+  "organizational-structure",
+  "project-management"
+]

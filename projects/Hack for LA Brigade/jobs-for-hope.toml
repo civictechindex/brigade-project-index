@@ -1,0 +1,10 @@
+code_url = "https://github.com/hackforla/jobs-for-hope"
+git_branch = "master"
+git_url = "git://github.com/hackforla/jobs-for-hope.git"
+link_url = "https://jobs-for-hope.herokuapp.com/"
+topics = [
+  "code-for-america",
+  "hack-for-la",
+  "homelessness",
+  "jobsearch"
+]
