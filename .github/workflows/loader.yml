@@ -2,7 +2,7 @@ name: Index Loader
 
 on:
   schedule:
-  - cron: 16 * * * *
+  - cron: 30 * * * *
 
 jobs:
   load:
@@ -22,7 +22,11 @@ jobs:
         git config user.email "github-bot@brigade.cloud"
         git config user.name "Brigade Bot"
         git remote set-url origin https://brigade-bot:${{ secrets.GH_TOKEN }}@github.com/codeforamerica/brigade-project-index.git
+        git fetch origin refs/heads/index:refs/heads/index refs/heads/cfapi/orgs:refs/heads/cfapi/orgs
     - run: node import.js --all --commit-to=index --commit-orgs-to=cfapi/orgs
       env:
         GITHUB_USER: brigade-bot
         GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+    - name: Push results
+      run: |
+        git push origin refs/heads/index refs/heads/cfapi/orgs
