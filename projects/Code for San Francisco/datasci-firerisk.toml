@@ -1,0 +1,11 @@
+code_url = "https://github.com/sfbrigade/datasci-firerisk"
+git_branch = "master"
+git_url = "git://github.com/sfbrigade/datasci-firerisk.git"
+link_url = "http://codeforsanfrancisco.org/projects/SF-Fire-Risk-Project"
+topics = [
+  "civic-hacking",
+  "civic-tech",
+  "data-science",
+  "machine-learning",
+  "predictive-modeling"
+]
