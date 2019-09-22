@@ -1,0 +1,13 @@
+code_url = "https://github.com/codeforatlanta/future-greenspaces"
+git_branch = "master"
+git_url = "git://github.com/codeforatlanta/future-greenspaces.git"
+topics = [
+  "atl",
+  "green-spaces",
+  "greenspace",
+  "new-park",
+  "parcel",
+  "park",
+  "population",
+  "postgis"
+]
