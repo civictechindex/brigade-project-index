@@ -257,6 +257,14 @@ async function loadOrgsTree(repo, orgsSource) {
             ...org,
             name: null
         };
+
+        // null-out empty strings
+        for (const key in orgData) {
+            if (orgData[key] === '') {
+                orgData[key] = null;
+            }
+        }
+
         const toml = GitSheets.stringifyRecord(orgData);
         const blob = await tree.writeChild(`${org.name}.toml`, toml);
 
