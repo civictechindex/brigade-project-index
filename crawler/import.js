@@ -12,6 +12,9 @@ const githubOrgRegex = new RegExp('^https?://(www\.)?github\.com(/orgs)?/(?<user
 const { GITHUB_USER: githubUser, GITHUB_TOKEN: githubToken } = process.env;
 const githubAxios = axios.create({
     baseURL: 'https://api.github.com',
+    headers: {
+        Accept: 'application/vnd.github.mercy-preview+json'
+    },
     auth: githubUser && githubToken
         ? { username: githubUser, password: githubToken }
         : null
@@ -335,13 +338,12 @@ async function loadGithubProjects(repo, username) {
         }
 
         // extract interesting bits of data
-        const tagsResponse = await githubAxios.get(repo.tags_url);
         const projectData = {
             code_url: repo.html_url,
             git_url: repo.git_url,
             git_branch: repo.default_branch,
             link_url: repo.homepage || null,
-            tags: tagsResponse.data.length ? tagsResponse.data : null
+            topics: repo.topics.length ? repo.topics : null
         };
         const toml = GitSheets.stringifyRecord(projectData);
         const blob = await tree.writeChild(`${repo.name}.toml`, toml);
