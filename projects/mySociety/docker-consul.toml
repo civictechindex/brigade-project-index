@@ -1,0 +1,5 @@
+code_url = "https://github.com/mysociety/docker-consul"
+git_branch = "master"
+git_url = "git://github.com/mysociety/docker-consul.git"
+link_url = "https://www.mysociety.org/"
+topics = [ "deployment", "docker" ]

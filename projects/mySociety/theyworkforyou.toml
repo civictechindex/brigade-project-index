@@ -1,0 +1,16 @@
+code_url = "https://github.com/mysociety/theyworkforyou"
+git_branch = "master"
+git_url = "git://github.com/mysociety/theyworkforyou.git"
+link_url = "http://www.theyworkforyou.com/"
+topics = [
+  "civic-tech",
+  "civictech",
+  "democracy",
+  "mysociety",
+  "parliament",
+  "parliamentary-monitoring",
+  "politicians",
+  "politics",
+  "transparency",
+  "uk"
+]

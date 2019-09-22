@@ -1,0 +1,5 @@
+code_url = "https://github.com/mysociety/research-repository"
+git_branch = "master"
+git_url = "git://github.com/mysociety/research-repository.git"
+link_url = "http://research.mysociety.org/"
+topics = [ "django", "mysociety", "python", "repository", "research" ]

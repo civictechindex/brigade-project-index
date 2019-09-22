@@ -1,0 +1,4 @@
+code_url = "https://github.com/mysociety/alaveteli-capistrano-vm"
+git_branch = "master"
+git_url = "git://github.com/mysociety/alaveteli-capistrano-vm.git"
+topics = [ "alaveteli" ]

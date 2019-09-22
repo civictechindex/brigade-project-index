@@ -1,0 +1,13 @@
+code_url = "https://github.com/mysociety/writetothem"
+git_branch = "master"
+git_url = "git://github.com/mysociety/writetothem.git"
+link_url = "https://www.writetothem.com"
+topics = [
+  "civic-tech",
+  "civictech",
+  "communication",
+  "mysociety",
+  "perl",
+  "php",
+  "representatives"
+]

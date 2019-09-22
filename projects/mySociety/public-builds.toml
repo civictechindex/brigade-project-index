@@ -1,0 +1,5 @@
+code_url = "https://github.com/mysociety/public-builds"
+git_branch = "master"
+git_url = "git://github.com/mysociety/public-builds.git"
+link_url = "https://www.mysociety.org/"
+topics = [ "docker", "packer" ]
