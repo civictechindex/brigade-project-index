@@ -1,0 +1,11 @@
+city = "Denton, TX"
+latitude = "33.2148412"
+longitude = "-97.13306829999999"
+projects_list_url = "https://github.com/OpenDenton"
+tags = [ "Brigade" ]
+type = "Brigade"
+website = "https://www.opendenton.com/"
+
+[social_profiles]
+facebook = "https://www.facebook.com/opendenton/"
+twitter = "@opendenton"

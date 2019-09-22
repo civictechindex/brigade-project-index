@@ -1,0 +1,18 @@
+city = "Kansas City, MO"
+events_url = "https://www.meetup.com/KCBrigade/"
+latitude = "39.100105"
+longitude = "-94.5781416"
+previous_names = [ "Code for Kansas City" ]
+projects_list_url = "https://github.com/codeforkansascity"
+tags = [
+  "Brigade",
+  "Code for America",
+  "Code for America Partner Brigade",
+  "Official"
+]
+type = "Brigade, Code for America, Code for America Partner Brigade, Official"
+website = "https://codeforokc.org/"
+
+[social_profiles]
+facebook = "https://www.facebook.com/codeforkc"
+twitter = "@codeforkc"
