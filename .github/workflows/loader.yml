@@ -21,5 +21,5 @@ jobs:
       run: |
         git config user.email "github-bot@brigade.cloud"
         git config user.name "Brigade Bot"
-        git remote set-url origin https://brigade-bot:${{secrets.GITHUB_TOKEN}}@github.com/codeforamerica/brigade-project-index.git
+        git remote set-url origin https://brigade-bot:${{secrets.GH_TOKEN}}@github.com/codeforamerica/brigade-project-index.git
     - run: node import.js --all --commit-to=index --commit-orgs-to=cfapi/orgs
