@@ -1,0 +1,16 @@
+code_url = "https://github.com/CodeForAfrica/sensors.AFRICA-AQ-api"
+git_branch = "master"
+git_url = "git://github.com/CodeForAfrica/sensors.AFRICA-AQ-api.git"
+link_url = "https://api.aq.sensors.africa/"
+topics = [
+  "africa",
+  "air-quality",
+  "air-quality-data",
+  "api",
+  "api-rest",
+  "api-service",
+  "data-journalism",
+  "open-data",
+  "sensors",
+  "sensors-africa"
+]

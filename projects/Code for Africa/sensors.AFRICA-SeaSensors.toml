@@ -1,0 +1,21 @@
+code_url = "https://github.com/CodeForAfrica/sensors.AFRICA-SeaSensors"
+git_branch = "master"
+git_url = "git://github.com/CodeForAfrica/sensors.AFRICA-SeaSensors.git"
+link_url = "https://alpha.seasensors.africa/"
+topics = [
+  "africa",
+  "blast-tracker",
+  "code-for-africa",
+  "dar-es-salaam",
+  "dynamite-fishing",
+  "gatsbyjs",
+  "js",
+  "open-africa",
+  "react",
+  "sea-sensors",
+  "sensors",
+  "sensors-africa",
+  "tanzania",
+  "underwater-acoustics",
+  "underwater-migrophones"
+]

@@ -1,0 +1,16 @@
+code_url = "https://github.com/CodeForAfrica/HURUmap"
+git_branch = "master"
+git_url = "git://github.com/CodeForAfrica/HURUmap.git"
+link_url = "https://hurumap.org"
+topics = [
+  "africa",
+  "geo-datasets",
+  "geographies",
+  "hurumap",
+  "kenya",
+  "nigeria",
+  "south-africa",
+  "tanzania",
+  "uganda",
+  "zambia"
+]
