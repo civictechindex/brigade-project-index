@@ -3,6 +3,10 @@ name: Index Loader
 on:
   schedule:
   - cron: 0 * * * *
+  push:
+    branches:
+    - loader
+    - master
 
 jobs:
   load:
