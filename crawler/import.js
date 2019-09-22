@@ -199,6 +199,6 @@ async function loadOrgsTree(repo, orgsSource) {
     }
 
 
-    // write tree
+    // return tree
     return tree;
 }
