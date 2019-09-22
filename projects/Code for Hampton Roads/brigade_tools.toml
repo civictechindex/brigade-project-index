@@ -1,0 +1,4 @@
+code_url = "https://github.com/Code4HR/brigade_tools"
+git_branch = "master"
+git_url = "git://github.com/Code4HR/brigade_tools.git"
+topics = [ "deprecated" ]
