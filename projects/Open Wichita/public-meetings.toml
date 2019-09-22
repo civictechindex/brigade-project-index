@@ -1,0 +1,4 @@
+code_url = "https://github.com/openwichita/public-meetings"
+git_branch = "master"
+git_url = "git://github.com/openwichita/public-meetings.git"
+topics = [ "css", "design", "elixir", "erlang", "html", "phoenix" ]

@@ -1,0 +1,4 @@
+code_url = "https://github.com/openwichita/keeperbot"
+git_branch = "master"
+git_url = "git://github.com/openwichita/keeperbot.git"
+topics = [ "bot", "chatbot", "javascript", "slack" ]

@@ -1,0 +1,4 @@
+code_url = "https://github.com/openwichita/docs"
+git_branch = "master"
+git_url = "git://github.com/openwichita/docs.git"
+topics = [ "documentation", "markdown" ]

@@ -1,0 +1,5 @@
+code_url = "https://github.com/openwichita/openbudgetwichita"
+git_branch = "master"
+git_url = "git://github.com/openwichita/openbudgetwichita.git"
+link_url = "https://budget.openwichita.org/"
+topics = [ "budget", "d3", "open-data", "openbudgets" ]
