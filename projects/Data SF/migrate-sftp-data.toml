@@ -1,0 +1,4 @@
+code_url = "https://github.com/DataSF/migrate-sftp-data"
+git_branch = "master"
+git_url = "git://github.com/DataSF/migrate-sftp-data.git"
+topics = [ "etl", "extract", "load" ]

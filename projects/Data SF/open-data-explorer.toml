@@ -1,0 +1,5 @@
+code_url = "https://github.com/DataSF/open-data-explorer"
+git_branch = "develop"
+git_url = "git://github.com/DataSF/open-data-explorer.git"
+link_url = "http://edge.explore.datasf.org"
+topics = [ "exploratory-data-analysis", "opendata", "transparency" ]

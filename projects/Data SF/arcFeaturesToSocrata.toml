@@ -1,0 +1,4 @@
+code_url = "https://github.com/DataSF/arcFeaturesToSocrata"
+git_branch = "master"
+git_url = "git://github.com/DataSF/arcFeaturesToSocrata.git"
+topics = [ "etl", "extract", "load", "transform" ]
