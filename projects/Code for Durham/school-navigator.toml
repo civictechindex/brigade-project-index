@@ -1,0 +1,18 @@
+code_url = "https://github.com/codefordurham/school-navigator"
+git_branch = "master"
+git_url = "git://github.com/codefordurham/school-navigator.git"
+link_url = "https://durhamschoolnavigator.org"
+topics = [
+  "angular",
+  "civic-data",
+  "civic-tech",
+  "codeforamerica",
+  "css",
+  "django",
+  "django-rest-framework",
+  "education",
+  "gis",
+  "html",
+  "postgis",
+  "python"
+]
