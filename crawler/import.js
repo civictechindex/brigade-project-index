@@ -70,15 +70,13 @@ require('yargs')
             const toolsCommit = await sheets.repo.resolveRef();
             const commitRef = normalizeRef(commitTo);
             const commitOrgsRef = normalizeRef(commitOrgsTo);
-            const inputCommit = await repo.resolveRef(commitRef);
-            const outputTree = inputCommit
-                ? await repo.createTreeFromRef(inputCommit)
-                : repo.createTree();
 
 
             // prepare output
             let orgsCommit;
-            let outputCommit;
+            let outputCommit = commitRef && await repo.resolveRef(commitRef)
+                || await git.commitTree({ m: 'beginning new index' }, EMPTY_TREE_HASH);
+            const outputTree = await repo.createTreeFromRef(outputCommit);
 
 
             // load organizations
@@ -133,18 +131,12 @@ require('yargs')
 
 
                 // generate commit to index branch if tree has changed
-                const outputCommitParent = outputCommit
-                    || inputCommit
-                    || await git.commitTree({ m: 'beginning new index' }, EMPTY_TREE_HASH);
-
                 const outputCommitParents = [
-                    outputCommitParent,
+                    outputCommit,
                     orgsCommit
                 ];
 
-                if (await git.getTreeHash(outputCommitParent) == outputTreeHash) {
-                    outputCommit = outputCommitParent;
-                } else {
+                if (await git.getTreeHash(outputCommit) != outputTreeHash) {
                     outputCommit = await git.commitTree(
                         {
                             p: outputCommitParents,
