@@ -1,0 +1,12 @@
+code_url = "https://github.com/uscensusbureau/census-academy"
+git_branch = "master"
+git_url = "git://github.com/uscensusbureau/census-academy.git"
+link_url = "https://uscensusbureau.github.io/census-academy/"
+topics = [
+  "census",
+  "civic-digital-fellowship",
+  "civic-tech",
+  "data-science",
+  "education",
+  "open-data"
+]
