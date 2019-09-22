@@ -81,7 +81,7 @@ require('yargs')
 
 
             // gather input
-            const toolsCommit = await sheets.repo.resolveRef();
+            const loaderCommit = await sheets.repo.resolveRef();
             const commitRef = normalizeRef(commitTo);
             const commitOrgsRef = normalizeRef(commitOrgsTo);
 
@@ -125,7 +125,7 @@ require('yargs')
                 } else {
                     orgsCommit = await git.commitTree(orgsTreeHash, {
                         p: orgsCommitParent,
-                        m: `📥 imported organizations from cfapi repo\n\nSource-Url: ${orgsSource}\nImporter-Version: ${toolsCommit}`
+                        m: `📥 imported organizations from cfapi repo\n\nSource-Url: ${orgsSource}\nLoader-Version: ${loaderCommit}`
                     });
 
                     // optionally write new intermediary orgs commit to ref
@@ -154,7 +154,7 @@ require('yargs')
                     outputCommit = await git.commitTree(
                         {
                             p: outputCommitParents,
-                            m: (commitMessage || `🔁 refreshed organizations from cfapi`) + `\n\nImporter-Version: ${toolsCommit}`
+                            m: (commitMessage || `🔁 refreshed organizations from cfapi`) + `\n\nLoader-Version: ${loaderCommit}`
                         },
                         outputTreeHash
                     );
@@ -213,7 +213,7 @@ require('yargs')
                         outputCommit = await git.commitTree(
                             {
                                 p: outputCommit,
-                                m: (commitMessage || `🔁 refreshed projects from ${orgName}`) + `\n\nSource-Url: ${projectsListUrl}\nImporter-Version: ${toolsCommit}\n`
+                                m: (commitMessage || `🔁 refreshed projects from ${orgName}`) + `\n\nSource-Url: ${projectsListUrl}\nLoader-Version: ${loaderCommit}\n`
                             },
                             outputTreeHash
                         );
