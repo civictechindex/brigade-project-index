@@ -1,0 +1,11 @@
+code_url = "https://github.com/CodeForFoco/codeforfoco.github.io"
+git_branch = "master"
+git_url = "git://github.com/CodeForFoco/codeforfoco.github.io.git"
+link_url = "http://codeforfoco.org"
+topics = [
+  "civic-hacking",
+  "code-for-america",
+  "foco",
+  "jekyll",
+  "website"
+]
