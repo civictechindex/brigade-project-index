@@ -1,0 +1,20 @@
+name: Index Loader
+
+on:
+  schedule:
+  - cron: 0 2 * * *
+
+jobs:
+  load:
+
+    runs-on: ubuntu-18.04
+    
+    steps:
+    - uses: actions/checkout@master
+      with:
+        ref: loader
+    - uses: actions/setup-node@master
+      with:
+        node-version: 12.x 
+    - run: npm install
+    - run: node import.js --all
