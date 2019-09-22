@@ -1,0 +1,12 @@
+code_url = "https://github.com/CodeForAfrica/ckanext-openafrica"
+git_branch = "master"
+git_url = "git://github.com/CodeForAfrica/ckanext-openafrica.git"
+link_url = "http://openafrica.net"
+topics = [
+  "africa",
+  "ckan",
+  "ckan-extension",
+  "data",
+  "open-data",
+  "openafrica"
+]

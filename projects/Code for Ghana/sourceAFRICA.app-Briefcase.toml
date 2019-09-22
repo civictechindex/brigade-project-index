@@ -1,0 +1,13 @@
+code_url = "https://github.com/CodeForAfrica/sourceAFRICA.app-Briefcase"
+git_branch = "master"
+git_url = "git://github.com/CodeForAfrica/sourceAFRICA.app-Briefcase.git"
+link_url = "https://sourceafrica.net/"
+topics = [
+  "africa",
+  "briefcase",
+  "documentcloud",
+  "documentcloud-api",
+  "documents",
+  "jekyll",
+  "sourceafrica"
+]

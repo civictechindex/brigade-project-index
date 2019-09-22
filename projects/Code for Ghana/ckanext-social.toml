@@ -1,0 +1,15 @@
+code_url = "https://github.com/CodeForAfrica/ckanext-social"
+git_branch = "master"
+git_url = "git://github.com/CodeForAfrica/ckanext-social.git"
+topics = [
+  "africa",
+  "andela",
+  "ckan",
+  "ckan-extension",
+  "ckanext",
+  "open-africa",
+  "open-data",
+  "social",
+  "social-network",
+  "social-sharing"
+]

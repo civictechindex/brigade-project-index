@@ -1,0 +1,20 @@
+code_url = "https://github.com/CodeForAfrica/LivingWage.KE"
+git_branch = "gh-pages"
+git_url = "git://github.com/CodeForAfrica/LivingWage.KE.git"
+link_url = "https://livingwage.peopledaily.co.ke/"
+topics = [
+  "africa",
+  "ancir",
+  "calculator",
+  "calorie-calculator",
+  "data-journalism",
+  "datadrivenjournalism",
+  "domestic-workers",
+  "education",
+  "health",
+  "ilab",
+  "kenya",
+  "living-wage",
+  "people-daily",
+  "sdgs"
+]

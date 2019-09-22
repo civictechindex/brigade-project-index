@@ -1,0 +1,17 @@
+code_url = "https://github.com/CodeForAfrica/sensors.AFRICA-api"
+git_branch = "master"
+git_url = "git://github.com/CodeForAfrica/sensors.AFRICA-api.git"
+link_url = "https://api.sensors.africa/"
+topics = [
+  "africa",
+  "air-quality",
+  "air-quality-data",
+  "api-rest",
+  "code-for-africa",
+  "django-rest-framework",
+  "open-data",
+  "sensor",
+  "sensors-africa",
+  "sensors-api",
+  "sensors-data"
+]
