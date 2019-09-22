@@ -1,0 +1,11 @@
+code_url = "https://github.com/opendata-heilbronn/victron-data-adapter"
+git_branch = "master"
+git_url = "git://github.com/opendata-heilbronn/victron-data-adapter.git"
+topics = [
+  "docker",
+  "dotnet-core",
+  "influxdb",
+  "solar-charger",
+  "ve-direct",
+  "victron"
+]
