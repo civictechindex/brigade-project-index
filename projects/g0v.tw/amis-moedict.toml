@@ -1,0 +1,5 @@
+code_url = "https://github.com/g0v/amis-moedict"
+git_branch = "master"
+git_url = "git://github.com/g0v/amis-moedict.git"
+link_url = "https://amis.moedict.tw"
+topics = [ "amis", "cordova", "g0v", "moedict", "nodejs" ]
