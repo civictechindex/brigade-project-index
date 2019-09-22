@@ -1,10 +1,21 @@
 #!/usr/bin/env node
 
+const path = require('path');
 const axios = require('axios');
 const GitSheets = require('gitsheets');
 const ProgressBar = require('progress');
+const parseLinkHeader = require('parse-link-header');
 
 const EMPTY_TREE_HASH = '4b825dc642cb6eb9a060e54bf8d69288fbee4904';
+
+const githubOrgRegex = new RegExp('^https?://(www\.)?github\.com(/orgs)?/(?<username>[^/]+)/?$');
+const { GITHUB_USER: githubUser, GITHUB_TOKEN: githubToken } = process.env;
+const githubAxios = axios.create({
+    baseURL: 'https://api.github.com',
+    auth: githubUser && githubToken
+        ? { username: githubUser, password: githubToken }
+        : null
+});
 
 require('yargs')
     .command({
@@ -154,6 +165,60 @@ require('yargs')
             }
 
 
+            // load projects
+            if (projects || all) {
+
+                // get orgs tree to scan
+                const orgsTree = await outputTree.getChild('organizations');
+                if (!orgsTree) {
+                    throw new Error('run with --orgs to generate new orgs tree or with --commit-to set to an index branch with an existing orgs tree');
+                }
+
+
+                // load projects from mixed org sources
+                const orgBlobs = await orgsTree.getBlobMap();
+
+                for (const orgBlobName in orgBlobs) {
+                    const org = await sheets.parseBlob(orgBlobs[orgBlobName]);
+                    const orgName = path.basename(orgBlobName, '.toml');
+                    const { projects_list_url: projectsListUrl } = org;
+                    const githubMatch = githubOrgRegex.exec(projectsListUrl);
+
+                    let orgProjectsTree;
+                    if (githubMatch) {
+                        const { username } = githubMatch.groups;
+                        orgProjectsTree = await loadGithubProjects(repo, username);
+                    } else {
+                        console.error(`Skipping non-GitHub projects list: ${projectsListUrl}`);
+                        continue;
+                    }
+
+
+                    // merge into output tree
+                    await outputTree.writeChild(`projects/${orgName}`, orgProjectsTree);
+                    const outputTreeHash = await outputTree.write();
+
+
+                    // generate commit to index branch if tree has changed
+                    if (await git.getTreeHash(outputCommit) != outputTreeHash) {
+                        outputCommit = await git.commitTree(
+                            {
+                                p: outputCommit,
+                                m: (commitMessage || `🔁 refreshed projects from ${orgName}`) + `\n\nSource-Url: ${projectsListUrl}\nImporter-Version: ${toolsCommit}\n`
+                            },
+                            outputTreeHash
+                        );
+
+                        // optionally commit main index tree into
+                        if (commitRef) {
+                            await git.updateRef(commitRef, outputCommit);
+                            console.warn(`merged ${orgName} projects tree into "${commitRef}": ${outputCommit}`);
+                        }
+                    }
+                }
+            }
+
+
             // output final hash to STDOUT
             console.log(outputCommit || await outputTree.write());
         }
@@ -194,6 +259,84 @@ async function loadOrgsTree(repo, orgsSource) {
         };
         const toml = GitSheets.stringifyRecord(orgData);
         const blob = await tree.writeChild(`${org.name}.toml`, toml);
+
+        progressBar.tick();
+    }
+
+
+    // return tree
+    return tree;
+}
+
+async function loadGithubProjects(repo, username) {
+
+    // load repos
+    console.error(`loading repos from github.com/${username}...`);
+    const repos = [];
+    let next = `/users/${username}/repos`;
+    let reposProgressBar;
+
+    do {
+        let response;
+
+        try {
+            response = await githubAxios.get(next);
+        } catch (err) {
+            console.error(`GitHub request failed: ${err.response.data.message || err.response.status}`);
+            if (err.response.status == 403) {
+                console.error('Try setting GITHUB_USER and GITHUB_TOKEN');
+            }
+            process.exit(1);
+        }
+
+        repos.push(...response.data);
+
+
+        // handle paging
+        const links = response.headers.link ? parseLinkHeader(response.headers.link) : {};
+        if (links.next) {
+            if (!reposProgressBar) {
+                reposProgressBar = new ProgressBar(`pages :current/:total [:bar] :etas`, {
+                    total: links.last ? parseInt(links.last.page) : 1
+                });
+            }
+
+            reposProgressBar.tick();
+            next = links.next.url;
+        } else {
+            next = null;
+
+            if (reposProgressBar) {
+                reposProgressBar.tick();
+            }
+        }
+    } while (next);
+
+
+    // build tree
+    const tree = repo.createTree();
+    const progressBar = new ProgressBar('building projects list :current/:total [:bar] :etas', {
+        total: repos.length
+    });
+
+    for (const repo of repos) {
+        // skip archived
+        if (repo.archived) {
+            progressBar.tick();
+            continue;
+        }
+
+        // extract interesting bits of data
+        const tagsResponse = await githubAxios.get(repo.tags_url);
+        const projectData = {
+            code_url: repo.html_url,
+            git_url: repo.git_url,
+            git_branch: repo.default_branch,
+            link_url: repo.homepage || null,
+            tags: tagsResponse.data.length ? tagsResponse.data : null
+        };
+        const toml = GitSheets.stringifyRecord(projectData);
+        const blob = await tree.writeChild(`${repo.name}.toml`, toml);
 
         progressBar.tick();
     }
