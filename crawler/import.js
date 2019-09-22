@@ -183,7 +183,7 @@ async function loadOrgsTree(repo, orgsSource) {
 
     // build tree
     const tree = repo.createTree();
-    const progressBar = new ProgressBar('loading orgs :percent [:bar] :rate/s :etas', {
+    const progressBar = new ProgressBar('building orgs list :current/:total [:bar] :etas', {
         total: orgs.length
     });
 
