@@ -1,0 +1,5 @@
+code_url = "https://github.com/codeforbtv/docs"
+git_branch = "gh-pages"
+git_url = "git://github.com/codeforbtv/docs.git"
+link_url = "http://codeforbtv.org/docs/"
+topics = [ "cfbtv-brigade" ]
