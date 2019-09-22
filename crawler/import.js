@@ -111,7 +111,7 @@ require('yargs')
                 } else {
                     orgsCommit = await git.commitTree(orgsTreeHash, {
                         p: orgsCommitParent,
-                        m: `📥 imported organizations from cfapi repo\n\nOrgs-Source: ${orgsSource}\nImporter-Version: ${toolsCommit}`
+                        m: `📥 imported organizations from cfapi repo\n\nSource-Url: ${orgsSource}\nImporter-Version: ${toolsCommit}`
                     });
 
                     // optionally write new intermediary orgs commit to ref
