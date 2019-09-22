@@ -197,6 +197,11 @@ require('yargs')
                     if (githubMatch) {
                         const { username } = githubMatch.groups;
                         orgProjectsTree = await loadGithubProjects(repo, username);
+
+                        if (!orgProjectsTree) {
+                            console.error(`skipping empty projects list for ${orgName}: ${projectsListUrl}`);
+                            continue;
+                        }
                     } else {
                         console.error(`skipping non-GitHub projects list for ${orgName}: ${projectsListUrl}`);
                         continue;
@@ -300,10 +305,16 @@ async function loadGithubProjects(repo, username) {
             response = await githubAxios.get(next);
         } catch (err) {
             console.error(`GitHub request failed: ${err.response.data.message || err.response.status}`);
+
+            if (err.response.status == 404) {
+                return null;
+            }
+
+            // GitHub will return 403 when you hit rate limit without auth
             if (err.response.status == 403) {
                 console.error('Try setting GITHUB_USER and GITHUB_TOKEN');
+                process.exit(1);
             }
-            process.exit(1);
         }
 
         repos.push(...response.data);
