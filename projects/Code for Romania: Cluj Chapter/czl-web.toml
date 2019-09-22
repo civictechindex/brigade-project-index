@@ -1,0 +1,15 @@
+code_url = "https://github.com/code4romania/czl-web"
+git_branch = "master"
+git_url = "git://github.com/code4romania/czl-web.git"
+link_url = "http://cezicelegea.ro/"
+topics = [
+  "automatization",
+  "civic-hacking",
+  "civic-tech",
+  "code4ro",
+  "legal",
+  "legislation",
+  "react",
+  "tracker",
+  "web"
+]

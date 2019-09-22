@@ -1,0 +1,16 @@
+code_url = "https://github.com/code4romania/monitorizare-vot"
+git_branch = "develop"
+git_url = "git://github.com/code4romania/monitorizare-vot.git"
+link_url = "http://monitorizarevot.ro"
+topics = [
+  "api",
+  "civic-hacking",
+  "civic-tech",
+  "code4ro",
+  "dotnet",
+  "election-data",
+  "election-monitoring",
+  "elections",
+  "monitoring",
+  "monitorizare-vot"
+]
