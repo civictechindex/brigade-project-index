@@ -1,0 +1,5 @@
+code_url = "https://github.com/OpenUpSA/municipal-data"
+git_branch = "master"
+git_url = "git://github.com/OpenUpSA/municipal-data.git"
+link_url = "https://municipalmoney.gov.za/"
+topics = [ "babbage", "fiscaldata", "opendata" ]
