@@ -1,0 +1,10 @@
+code_url = "https://github.com/codeforamerica/citybook"
+git_branch = "master"
+git_url = "git://github.com/codeforamerica/citybook.git"
+link_url = "https://www.citybook.io"
+topics = [
+  "civic-tech",
+  "contact-spreadsheet",
+  "google-spreadsheet",
+  "referral"
+]

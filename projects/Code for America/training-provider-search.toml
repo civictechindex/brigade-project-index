@@ -1,0 +1,9 @@
+code_url = "https://github.com/codeforamerica/training-provider-search"
+git_branch = "master"
+git_url = "git://github.com/codeforamerica/training-provider-search.git"
+topics = [
+  "codeforamerica-workforce",
+  "codeforamerica-workforce-2018",
+  "jobs",
+  "workforce-development"
+]

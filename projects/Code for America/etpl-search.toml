@@ -1,0 +1,10 @@
+code_url = "https://github.com/codeforamerica/etpl-search"
+git_branch = "master"
+git_url = "git://github.com/codeforamerica/etpl-search.git"
+link_url = "https://findtraining.org"
+topics = [
+  "codeforamerica-workforce",
+  "codeforamerica-workforce-2018",
+  "jobs",
+  "workforce-development"
+]
