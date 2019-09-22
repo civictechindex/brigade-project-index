@@ -4,17 +4,19 @@ const axios = require('axios');
 const GitSheets = require('gitsheets');
 const ProgressBar = require('progress');
 
+const EMPTY_TREE_HASH = '4b825dc642cb6eb9a060e54bf8d69288fbee4904';
+
 require('yargs')
     .command({
         command: '$0',
         desc: 'Import brigade and project data from CfAPI network',
         builder: {
-            'organizations-source': {
+            'orgs-source': {
                 describe: 'URL to JSON file listing organizations to scan',
                 type: 'string',
                 default: 'https://raw.githubusercontent.com/codeforamerica/brigade-information/master/organizations.json'
             },
-            organizations: {
+            orgs: {
                 describe: 'Import organizations',
                 boolean: true,
                 default: false
@@ -30,27 +32,32 @@ require('yargs')
                 default: false
             },
             'commit-to': {
-                describe: 'A target branch/ref to commit the imported tree to',
+                describe: 'A target branch/ref to commit the projected network tree to',
                 type: 'string'
             },
             'commit-message': {
                 describe: 'A commit message to use if commit-branch is specified',
                 type: 'string'
             },
+            'commit-orgs-to': {
+                describe: 'A target branch/ref to commit the imported orgs tree to',
+                type: 'string'
+            },
         },
         handler: async argv => {
             const {
                 // import sets
-                organizations,
+                orgs,
                 projects,
                 all,
 
                 // import options
-                organizationsSource,
+                orgsSource,
 
                 // commit options
                 commitTo,
-                commitMessage
+                commitMessage,
+                commitOrgsTo
             } = argv;
 
 
@@ -61,79 +68,138 @@ require('yargs')
 
             // gather input
             const toolsCommit = await sheets.repo.resolveRef();
-
-            const commitRef = commitTo
-                ? (
-                    commitTo == 'HEAD' || commitTo.startsWith('refs/')
-                    ? commitTo
-                    : `refs/heads/${commitTo}`
-                )
-                : null;
-
+            const commitRef = normalizeRef(commitTo);
+            const commitOrgsRef = normalizeRef(commitOrgsTo);
             const inputCommit = await repo.resolveRef(commitRef);
-
-            const tree = inputCommit
+            const outputTree = inputCommit
                 ? await repo.createTreeFromRef(inputCommit)
                 : repo.createTree();
 
 
             // prepare output
-            let organizationsTree, projectsTree, outputCommit;
+            let orgsCommit;
+            let outputCommit;
 
-            if (organizations || all) {
+
+            // load organizations
+            if (orgs || all) {
+
+                // load tree from online cfapi repo
+                let orgsTree;
+
                 try {
-                    organizationsTree = await buildOrganizationsTree(repo, organizationsSource);
-                    console.error('tree ready');
+                    console.error('loading orgs tree from cfapi repo...');
+                    orgsTree = await loadOrgsTree(repo, orgsSource);
+                    console.error('orgs tree loaded');
                 } catch (err) {
                     console.error('failed to import organizations:', err);
                     process.exit(1);
                 }
 
-                tree.merge(organizationsTree, { mode: 'replace' }, './organizations/');
+                const orgsTreeHash = await orgsTree.write();
+                console.error(`orgs tree written: ${orgsTreeHash}`);
 
-                if (commitRef) {
-                    const parents = [
-                        outputCommit || inputCommit,
-                        toolsCommit
-                    ];
 
+                // check for existing orgs commit
+                const orgsCommitParent = commitOrgsRef ? await repo.resolveRef(commitOrgsRef) : null;
+
+
+                // generate intermediary commit of loaded orgs tree, or reuse previous if tree unchanged
+                if (
+                    orgsCommitParent
+                    && await git.getTreeHash(orgsCommitParent) == orgsTreeHash
+                ) {
+                    orgsCommit = orgsCommitParent;
+                } else {
+                    orgsCommit = await git.commitTree(orgsTreeHash, {
+                        p: orgsCommitParent,
+                        m: `📥 imported organizations from cfapi repo\n\nOrgs-Source: ${orgsSource}\nImporter-Version: ${toolsCommit}`
+                    });
+
+                    // optionally write new intermediary orgs commit to ref
+                    if (commitOrgsRef) {
+                        await git.updateRef(commitOrgsRef, orgsCommit);
+                        console.warn(`committed imported orgs tree to ${commitOrgsRef}: ${orgsCommit}`);
+                    }
+                }
+
+
+                // merge orgs tree into main index tre
+                await outputTree.writeChild('./organizations/', orgsTree);
+
+                // TODO: enrich/normalize/transform orgs tree as desired for index branch
+
+                const outputTreeHash = await outputTree.write();
+
+
+                // generate commit to index branch if tree has changed
+                const outputCommitParent = outputCommit
+                    || inputCommit
+                    || await git.commitTree({ m: 'beginning new index' }, EMPTY_TREE_HASH);
+
+                const outputCommitParents = [
+                    outputCommitParent,
+                    orgsCommit
+                ];
+
+                if (await git.getTreeHash(outputCommitParent) == outputTreeHash) {
+                    outputCommit = outputCommitParent;
+                } else {
                     outputCommit = await git.commitTree(
                         {
-                            p: parents,
-                            m: (commitMessage || `🔁 imported organizations`) + `\n\nOrganizations-Source: ${organizationsSource}`
+                            p: outputCommitParents,
+                            m: (commitMessage || `🔁 refreshed organizations from cfapi`) + `\n\nImporter-Version: ${toolsCommit}`
                         },
-                        await tree.write()
+                        outputTreeHash
                     );
 
-                    await git.updateRef(commitRef, outputCommit);
-                    console.warn(`committed new tree to "${commitRef}": ${parents.join('+')}->${outputCommit}`);
+                    // optionally commit main index tree into
+                    if (commitRef) {
+                        await git.updateRef(commitRef, outputCommit);
+                        console.warn(`merged new orgs tree into "${commitRef}": ${outputCommitParents.join('+')}->${outputCommit}`);
+                    }
                 }
             }
 
-            console.log(outputCommit || await tree.write());
+
+            // output final hash to STDOUT
+            console.log(outputCommit || await outputTree.write());
         }
     })
     .demandCommand()
     .help()
     .argv;
 
-async function buildOrganizationsTree(repo, organizationsSource) {
+
+function normalizeRef(ref) {
+    if (!ref) {
+        return null;
+    }
+
+    if (ref == 'HEAD' || ref.startsWith('refs/')) {
+        return ref;
+    }
+
+    return `refs/heads/${ref}`;
+}
+
+async function loadOrgsTree(repo, orgsSource) {
 
     // load data from JSON URL
-    const { data: organizations } = await axios.get(organizationsSource);
+    const { data: orgs } = await axios.get(orgsSource);
 
 
     // build tree
     const tree = repo.createTree();
-    const progressBar = new ProgressBar('loading organizations :percent [:bar] :rate/s :etas', { total: organizations.length });
+    const progressBar = new ProgressBar('loading orgs :percent [:bar] :rate/s :etas', { total: orgs.length });
 
-    for (const organization of organizations) {
-        const organizationData = {
-            ...organization,
+    for (const org of orgs) {
+        const orgData = {
+            ...org,
             name: null
         };
-        const toml = GitSheets.stringifyRecord(organizationData);
-        const blob = await tree.writeChild(`${organization.name}.toml`, toml);
+        const toml = GitSheets.stringifyRecord(orgData);
+        const blob = await tree.writeChild(`${org.name}.toml`, toml);
 
         progressBar.tick();
     }

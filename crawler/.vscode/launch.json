@@ -7,11 +7,26 @@
         {
             "type": "node",
             "request": "launch",
-            "name": "Import brigades",
+            "name": "Import organizations",
             "program": "${workspaceFolder}/import.js",
             "cwd": "${workspaceFolder}",
             "args": [
-                "--organizations",
+                "--orgs",
+                "--commit-to=index",
+                "--commit-orgs-to=cfapi/orgs"
+            ],
+            "skipFiles": [
+                "<node_internals>/**"
+            ]
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "Import projects",
+            "program": "${workspaceFolder}/import.js",
+            "cwd": "${workspaceFolder}",
+            "args": [
+                "--projects",
                 "--commit-to=data"
             ],
             "skipFiles": [
