@@ -1,0 +1,12 @@
+code_url = "https://github.com/code4romania/sna-client"
+git_branch = "master"
+git_url = "git://github.com/code4romania/sna-client.git"
+link_url = "https://code4.ro/en/project/portalul-strategiei-nationale-anticoruptie/"
+topics = [
+  "civic-hacking",
+  "civic-tech",
+  "code4ro",
+  "d3",
+  "react",
+  "typescript"
+]
