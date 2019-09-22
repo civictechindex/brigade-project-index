@@ -1,0 +1,25 @@
+name: Index Loader
+
+on:
+  schedule:
+  - cron: 8 * * * *
+
+jobs:
+  load:
+
+    runs-on: ubuntu-18.04
+
+    steps:
+    - uses: actions/checkout@master
+      with:
+        ref: loader
+    - uses: actions/setup-node@master
+      with:
+        node-version: 12.x
+    - run: npm install
+    - name: Configure git
+      run: |
+        git config user.email "github-bot@brigade.cloud"
+        git config user.name "Brigade Bot"
+        git remote set-url origin https://brigade-bot:${{secrets.GH_TOKEN}}@github.com/codeforamerica/brigade-project-index.git
+    - run: node import.js --all --commit-to=index --commit-orgs-to=cfapi/orgs
