@@ -1,0 +1,15 @@
+code_url = "https://github.com/codeforsanjose/heartofthevalley"
+git_branch = "master"
+git_url = "git://github.com/codeforsanjose/heartofthevalley.git"
+link_url = "https://www.codeforsanjose.com/heartofthevalley/"
+topics = [
+  "art",
+  "javascript",
+  "mapbox",
+  "mapbox-gl-js",
+  "maps",
+  "mural",
+  "nodejs",
+  "production",
+  "sanjose"
+]

@@ -1,0 +1,15 @@
+code_url = "https://github.com/codeforsanjose/renters-rights"
+git_branch = "master"
+git_url = "git://github.com/codeforsanjose/renters-rights.git"
+link_url = "https://rentersrightsguide.org"
+topics = [
+  "civic-tech",
+  "housing",
+  "production",
+  "rails",
+  "react",
+  "react-on-rails",
+  "renter-rights",
+  "renters",
+  "san-jose"
+]
