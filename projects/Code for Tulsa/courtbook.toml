@@ -1,0 +1,11 @@
+code_url = "https://github.com/codefortulsa/courtbook"
+git_branch = "master"
+git_url = "git://github.com/codefortulsa/courtbook.git"
+topics = [
+  "courtbook",
+  "courtbot",
+  "courtbot-ui",
+  "crime",
+  "oklahoma",
+  "tulsa"
+]

@@ -1,0 +1,4 @@
+code_url = "https://github.com/codefortulsa/summer-meals-sites"
+git_branch = "master"
+git_url = "git://github.com/codefortulsa/summer-meals-sites.git"
+topics = [ "food-security", "geojson", "mapbox", "mapbox-geocoding" ]
