@@ -1,0 +1,11 @@
+code_url = "https://github.com/Chicago/opengrid-svc-plenario"
+git_branch = "master"
+git_url = "git://github.com/Chicago/opengrid-svc-plenario.git"
+topics = [
+  "chicago",
+  "government",
+  "java",
+  "opengrid",
+  "plenario",
+  "smart-cities"
+]

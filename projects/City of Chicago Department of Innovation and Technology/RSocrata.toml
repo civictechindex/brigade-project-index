@@ -1,0 +1,5 @@
+code_url = "https://github.com/Chicago/RSocrata"
+git_branch = "master"
+git_url = "git://github.com/Chicago/RSocrata.git"
+link_url = "https://CRAN.R-project.org/package=RSocrata"
+topics = [ "chicago", "government", "open-data", "r", "socrata", "soda" ]

@@ -1,0 +1,12 @@
+code_url = "https://github.com/Chicago/west-nile-virus-predictions"
+git_branch = "master"
+git_url = "git://github.com/Chicago/west-nile-virus-predictions.git"
+topics = [
+  "cdph",
+  "chicago",
+  "data-science",
+  "disease-surveillance",
+  "public-health",
+  "r",
+  "west-nile-virus"
+]

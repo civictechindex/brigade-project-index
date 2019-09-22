@@ -1,0 +1,12 @@
+code_url = "https://github.com/Chicago/open-data-etl-utility-kit"
+git_branch = "master"
+git_url = "git://github.com/Chicago/open-data-etl-utility-kit.git"
+topics = [
+  "chicago",
+  "etl",
+  "government",
+  "kettle",
+  "open-data",
+  "pentaho",
+  "socrata"
+]

@@ -1,0 +1,12 @@
+code_url = "https://github.com/Chicago/lead-model"
+git_branch = "master"
+git_url = "git://github.com/Chicago/lead-model.git"
+topics = [
+  "cdph",
+  "chicago",
+  "data-science",
+  "government",
+  "lead-safe",
+  "public-health",
+  "python"
+]

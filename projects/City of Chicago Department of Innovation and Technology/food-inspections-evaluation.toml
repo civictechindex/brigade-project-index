@@ -1,0 +1,13 @@
+code_url = "https://github.com/Chicago/food-inspections-evaluation"
+git_branch = "master"
+git_url = "git://github.com/Chicago/food-inspections-evaluation.git"
+link_url = "http://chicago.github.io/food-inspections-evaluation/"
+topics = [
+  "cdph",
+  "chicago",
+  "data-science",
+  "food-poisoning",
+  "open-data",
+  "open-science",
+  "public-health"
+]
