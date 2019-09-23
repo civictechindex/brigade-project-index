@@ -4,13 +4,21 @@ git_url = "git://github.com/CodeForAfrica/HURUmap.git"
 link_url = "https://hurumap.org"
 topics = [
   "africa",
+  "census",
+  "citizens",
+  "dashboard",
+  "django",
+  "django-apps",
   "geo-datasets",
   "geographies",
   "hurumap",
+  "journalists",
   "kenya",
   "nigeria",
+  "python",
   "south-africa",
   "tanzania",
   "uganda",
+  "wazimap",
   "zambia"
 ]
