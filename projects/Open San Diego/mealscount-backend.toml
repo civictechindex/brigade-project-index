@@ -2,7 +2,9 @@ code_url = "https://github.com/opensandiego/mealscount-backend"
 git_branch = "validate"
 git_url = "git://github.com/opensandiego/mealscount-backend.git"
 topics = [
+  "community-eligibility-provision",
   "educational-technology",
   "elementary-school-kids",
-  "meal-management"
+  "meal-management",
+  "open-san-diego"
 ]

@@ -2,3 +2,4 @@ code_url = "https://github.com/opensandiego/open-dsd-notifications"
 git_branch = "master"
 git_url = "git://github.com/opensandiego/open-dsd-notifications.git"
 link_url = "http://www.OpenSanDiego.com"
+topics = [ "inactive", "open-san-diego" ]
