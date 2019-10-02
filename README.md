@@ -46,7 +46,7 @@ The current mvp, based on the stories on github (https://github.com/codeforameri
 
 ## Technologies Used
 * Github
-* publicode.yml https://github.com/italia/publiccode.yml
+* [publicode.yml](https://github.com/italia/publiccode.yml)
 
 ## Guiding Principles
 * Have an open and accessible process with outreach, documentation, public discussions and transparent decisions
