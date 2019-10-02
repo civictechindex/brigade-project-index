@@ -1,0 +1,5 @@
+code_url = "https://github.com/CivicTechTO/tocityhall-app"
+description = "A mobile app for providing input on upcoming votes in city hall."
+link_url = "https://tocityhall-webapp-staging.herokuapp.com/browser/www/"
+status = "experiment"
+topics = [ "toronto", "canada", "democracy", "voting" ]
