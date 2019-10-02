@@ -1,0 +1,8 @@
+code_url = "https://github.com/kodujdlapolski/factchecker-plugin-chrome"
+description = """
+<span style="font-weight: 400;">The Demagog.org.pl initiative has been checking statements made by Polish politicians for over 2 years now. Demagog’s goal is to keep an eye on the politicians’ public activity and check whether they are telling the truth, using a fact-check methodology. We analyse how politicians form their arguments, we check the underlying facts, and we label them with: “truth”, “lie”, “manipulation” or “impossible to verify”.</span>\r
+\r
+We act as a registered Demagog Association, which goal is to enhance the quality of public debate in Poland and allow citizens to participate being properly informed.\r
+\r
+Join us in our fact-checking work or help us with ICT-related challenges. We are currently working on a fresh website and a browser plugin to highlight checked statements."""
+link_url = "https://codeforpoland.org/projects/demagog-fact-checking/"
