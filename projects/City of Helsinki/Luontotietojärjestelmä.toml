@@ -1,0 +1,5 @@
+code_url = "https://github.com/City-of-Helsinki/ltj"
+description = "City of Helsinki nature information database"
+link_url = "https://api.hel.fi/ltj/v1"
+status = "alpha"
+topics = [ "nature", "gis", "protection" ]

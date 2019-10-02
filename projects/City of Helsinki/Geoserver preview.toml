@@ -1,0 +1,4 @@
+description = "Backend and UI for previewing and downloading datasets hosted on a Geoserver instance"
+link_url = "http://dev.hel.fi/geoserver-preview"
+status = "alpha"
+topics = [ "geoserver", "gis" ]
