@@ -304,17 +304,19 @@ async function loadGithubProjects(repo, username) {
         try {
             response = await githubAxios.get(next);
         } catch (err) {
-            console.error(`GitHub request failed: ${err.response.data.message || err.response.status}`);
+            console.error(`GitHub request failed: ${err.response ? err.response.data.message || err.response.status : err.message}`);
 
-            if (err.response.status == 404) {
+            if (err.response && err.response.status == 404) {
                 return null;
             }
 
             // GitHub will return 403 when you hit rate limit without auth
-            if (err.response.status == 403) {
+            if (err.response && err.response.status == 403) {
                 console.error('Try setting GITHUB_ACTOR and GITHUB_TOKEN');
                 process.exit(1);
             }
+
+            return null;
         }
 
         repos.push(...response.data);
