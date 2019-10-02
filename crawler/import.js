@@ -8,7 +8,7 @@ const parseLinkHeader = require('parse-link-header');
 
 const EMPTY_TREE_HASH = '4b825dc642cb6eb9a060e54bf8d69288fbee4904';
 
-const githubOrgRegex = new RegExp('^https?://(www\.)?github\.com(/orgs)?/(?<username>[^/]+)/?$');
+const githubOrgRegex = new RegExp('^(https?://)?(www\.)?github\.com(/orgs)?/(?<username>[^/]+)/?$');
 const { GITHUB_ACTOR: githubActor, GITHUB_TOKEN: githubToken } = process.env;
 const githubAxios = axios.create({
     baseURL: 'https://api.github.com',
