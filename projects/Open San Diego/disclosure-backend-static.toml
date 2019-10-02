@@ -2,3 +2,4 @@ code_url = "https://github.com/opensandiego/disclosure-backend-static"
 git_branch = "master"
 git_url = "git://github.com/opensandiego/disclosure-backend-static.git"
 link_url = "https://caciviclab.org/odca-jekyll/"
+topics = [ "open-san-diego" ]

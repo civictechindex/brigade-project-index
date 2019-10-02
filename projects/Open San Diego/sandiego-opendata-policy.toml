@@ -1,3 +1,4 @@
 code_url = "https://github.com/opensandiego/sandiego-opendata-policy"
 git_branch = "master"
 git_url = "git://github.com/opensandiego/sandiego-opendata-policy.git"
+topics = [ "inactive", "open-san-diego" ]

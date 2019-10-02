@@ -1,3 +1,9 @@
 code_url = "https://github.com/opensandiego/project-template"
 git_branch = "master"
 git_url = "git://github.com/opensandiego/project-template.git"
+topics = [
+  "civic-tech",
+  "open-san-diego",
+  "project-management",
+  "project-template"
+]
