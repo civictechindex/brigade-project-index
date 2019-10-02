@@ -1,0 +1,9 @@
+categories = "launched"
+description = """
+Ich möchte eine Datenbank bauen, in der ich mehrere Versionen des 
+gleichen Geodatensatzes ablegen kann. Ich möchte damit den zeitlichen 
+Verlauf, also Änderungen am Datensatz festhalten. Die API soll den 
+Zugriff auf die verschiedenen Snapshots ermöglichen.
+
+Ich plane mit PostgreSQL/PostGIS zu arbeiten, um vom der Funktionserweiterung durch PostGIS zu profitieren."""
+type = "Data Portal"
