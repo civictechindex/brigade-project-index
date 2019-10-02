@@ -2,11 +2,13 @@
 
 const path = require('path');
 const axios = require('axios');
+const csvParser = require('csv-parser');
 const GitSheets = require('gitsheets');
 const ProgressBar = require('progress');
 const parseLinkHeader = require('parse-link-header');
 
 const EMPTY_TREE_HASH = '4b825dc642cb6eb9a060e54bf8d69288fbee4904';
+const CFAPI_FIELDS = ['name', 'description', 'link_url', 'code_url', 'type', 'categories', 'tags', 'organization_name', 'status'];
 
 const githubOrgRegex = new RegExp('^(https?://)?(www\.)?github\.com(/orgs)?/(?<username>[^/]+)/?$');
 const { GITHUB_ACTOR: githubActor, GITHUB_TOKEN: githubToken } = process.env;
@@ -203,8 +205,13 @@ require('yargs')
                             continue;
                         }
                     } else {
-                        console.error(`skipping non-GitHub projects list for ${orgName}: ${projectsListUrl}`);
-                        continue;
+                        // fetch curated CSV or jsJSONon feed
+                        orgProjectsTree = await loadFeedProjects(repo, projectsListUrl);
+
+                        if (!orgProjectsTree) {
+                            console.error(`skipping empty projects list for ${orgName}: ${projectsListUrl}`);
+                            continue;
+                        }
                     }
 
 
@@ -366,6 +373,153 @@ async function loadGithubProjects(repo, username) {
         };
         const toml = GitSheets.stringifyRecord(projectData);
         const blob = await tree.writeChild(`${repo.name}.toml`, toml);
+
+        progressBar.tick();
+    }
+
+
+    // return tree
+    return tree;
+}
+
+async function loadFeedProjects(repo, projectsListUrl) {
+
+    // auto-prepend http://
+    if (!projectsListUrl.match(/^https?:\/\//)) {
+        projectsListUrl = `http://${projectsListUrl}`;
+    }
+
+
+    // load response from URL
+    console.error(`loading projects from ${projectsListUrl}...`);
+    let response;
+
+    try {
+        response = await axios.get(projectsListUrl, { responseType: 'stream' });
+    } catch (err) {
+        console.error(`Feed request failed: ${err.message}`);
+
+        if (err.response && err.response.status == 404) {
+            return null;
+        }
+
+        return null;
+    }
+
+
+    // read and normalize content type
+    let contentType = response.headers['content-type'] || '';
+
+    // look for text/csv or application/json anywhere within the response's Content-Type
+    if (contentType.includes('text/csv')) {
+        contentType = 'text/csv';
+    } else if (contentType.includes('application/json')) {
+        contentType = 'application/json';
+    } else {
+        // if Content-Type wasn't CSV or JSON, see if filename extension in URL is
+        const lowerCaseUrl = projectsListUrl.toLowerCase();
+
+        if (lowerCaseUrl.endsWith('.json')) {
+            contentType = 'application/json';
+        } else if(lowerCaseUrl.endsWith('.csv')) {
+            contentType = 'text/csv';
+        } else {
+            console.error(`Response Content-Type must be text/csv or application/csv, got: ${contentType}`);
+            return null;
+        }
+    }
+
+
+    // extract projects array from response
+    let projects;
+
+    if (contentType == 'text/csv') {
+        projects = await new Promise((resolve, reject) => {
+            const rows = [];
+
+            response.data
+                .pipe(csvParser())
+                .on('data', row => rows.push(row))
+                .on('end', () => resolve(rows))
+                .on('error', reject);
+        });
+    } else {
+        projects = await new Promise((resolve, reject) => {
+            const chunks = [];
+
+            response.data
+                .on('data', chunk => chunks.push(chunk))
+                .on('end', () => resolve(JSON.parse(Buffer.concat(chunks).toString('utf8'))))
+                .on('error', reject);
+        });
+    }
+
+
+    // build tree
+    const tree = repo.createTree();
+    const progressBar = new ProgressBar('building projects list :current/:total [:bar] :etas', {
+        total: projects.length
+    });
+
+    for (const project of projects) {
+        // extract interesting bits of data
+        const projectData = {};
+
+        if (typeof project == 'string') {
+            projectData.code_url = project;
+            projectData.name = path.basename(project);
+        } else {
+
+            // cfapi mapped these two fields, presumably some systems use it
+            if (project.homepage) {
+                projectData.link_url = project.homepage;
+            }
+
+            if (project.html_url) {
+                projectData.code_url = project.html_url;
+            }
+
+            // split tags into trimmed array if needed
+            if (typeof project.tags == 'string') {
+                project.tags = project.tags.trim().split(/\s*,\s*/).filter(tag => tag);
+            }
+
+            // extract known CfAPI fields
+            for (const sourceKey of CFAPI_FIELDS) {
+                const sourceValue = project[sourceKey];
+
+                if (!sourceValue) {
+                    continue;
+                } else if (Array.isArray(sourceValue) && !sourceValue.length) {
+                    continue;
+                }
+
+                let destKey = sourceKey;
+
+                if (destKey == 'tags') {
+                    destKey = 'topics';
+                }
+
+                projectData[destKey] = sourceValue;
+            }
+        }
+
+        if (!projectData.name) {
+            console.error('Skipping project with no name');
+            continue;
+        }
+
+        let name = projectData.name;
+        delete projectData.name;
+
+        // if name can't be written only to path, record as field
+        if (name.includes('/')) {
+            projectData.name = name;
+            name = name.replace(/\//g, '--');
+        }
+
+        const toml = GitSheets.stringifyRecord(projectData);
+        const blob = await tree.writeChild(`${name}.toml`, toml);
 
         progressBar.tick();
     }
