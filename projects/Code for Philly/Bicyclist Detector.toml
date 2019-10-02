@@ -1,0 +1,3 @@
+description = "The aim of this project is to create a bicyclist detector. Given a video, the algorithm should detect the bicyclist within each frame of the video. Hopefully, this can be used to get bicyclist counts."
+status = "Prototyping"
+topics = [ "Biking", "Computer Vision", "Machine Learning" ]

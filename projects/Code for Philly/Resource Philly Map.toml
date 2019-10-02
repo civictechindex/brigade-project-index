@@ -1,0 +1,12 @@
+code_url = "https://github.com/mattschaff/phillyresourcemap"
+description = "Resource Philly Map (RPM) aims to make accessing critical services across the city quick and easy for people in need."
+link_url = "https://dev-link-love.pantheonsite.io"
+status = "Prototyping"
+topics = [
+  "map",
+  "Mapping",
+  "Homelessness",
+  "services",
+  "Food Insecurity",
+  "Urban housing"
+]

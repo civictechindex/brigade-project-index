@@ -1,0 +1,5 @@
+code_url = "https://github.com/chorebox-team/chorebox"
+description = "Chorebox is to be an alternative to -autoconf- -- only unlike -autoconf-, it will run at install-time rather than be a tool that only the developer needs. Some might shrink from this strategy in that it creates one more dependency -- but really, it doesn't do so any more than requiring this or that library would --- and using this strategy (rather than that embraced by -autoconf-) will afford far more flexibility in package design."
+link_url = "http://chorebox.wordpress.com"
+status = "Prototyping"
+topics = [ "configuration", "library" ]

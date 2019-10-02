@@ -1,0 +1,13 @@
+code_url = "https://github.com/CodeForPhilly/decentralized-data"
+description = "We are creating an open-source adapter to allow [Noms](https://github.com/attic-labs/noms) to store its data on [IPFS](http://ipfs.io).  This trio of technologies will provide top-to-bottom support for distributed version control of tabular data."
+link_url = "https://codeforphilly.github.io/decentralized-data/"
+status = "Bootstrapping"
+topics = [
+  "Open Data",
+  "Mentorship",
+  "GIS",
+  "Hacking",
+  "programming",
+  "science",
+  "Data Science"
+]

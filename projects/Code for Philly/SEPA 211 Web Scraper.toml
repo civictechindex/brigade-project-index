@@ -1,0 +1,4 @@
+code_url = "https://github.com/grahamalama/sepa211scraper"
+description = "A web scraper to pull all of the services from 211SEPA."
+status = "Drifting"
+topics = [ "services", "resources", "SEPA" ]

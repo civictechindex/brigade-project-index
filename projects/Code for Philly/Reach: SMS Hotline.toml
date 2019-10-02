@@ -1,0 +1,4 @@
+code_url = "http://github.com/mikeghen/reach"
+description = "This application connects clients with providers through SMS and web chat. Conversations are routed through Twilio to Slack. Providers in Slack can directly chat with the clients. The Gateway Server manages this interaction by:"
+link_url = "http://reachtechnologies.net/"
+status = "Testing"

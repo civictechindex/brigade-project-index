@@ -1,0 +1,5 @@
+code_url = "https://github.com/anmins/Philly-311-Dashboard"
+description = "We're building a dashboard to interface with the Philly 311 data. It provides a useful way for Philly residents to check on 311 requests they've made, as well as explore the data in depth."
+link_url = "https://hackadashery.github.io/"
+status = "Prototyping"
+topics = [ "311 data", "dashboard" ]

@@ -1,0 +1,5 @@
+code_url = "https://github.com/ppierdo/Voter-Turnout-Maps.git"
+description = "This project maps the voter turnout in the November 2014 general election.  It looks at the percentage of registered voters who voted in each census block group; it also examines demographic characteristics reported by the American Community Survey to try to find correlations between demographics and turnout."
+link_url = "https://github.com/ppierdo/Voter-Turnout-Maps/tree/gh-pages"
+status = "Maintaining"
+topics = [ "voter registration", "Voting" ]

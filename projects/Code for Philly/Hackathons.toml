@@ -1,0 +1,13 @@
+code_url = "http://appsforphilly.org/education"
+description = "This project serves as a hub for planning and updating Code for Philly-organized hackathons. PM us if you have ideas for new verticals to explore or want to share feedback on hackathons more generally."
+link_url = "http://appsforphilly.org/"
+status = "Maintaining"
+topics = [
+  "Hacking",
+  "hackthons",
+  "Education",
+  "Transportation",
+  "Health",
+  "arts and culture",
+  "Democracy"
+]
