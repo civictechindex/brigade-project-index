@@ -1,3 +1,9 @@
 code_url = "https://github.com/codeforboston/clean-slate"
 git_branch = "master"
 git_url = "git://github.com/codeforboston/clean-slate.git"
+topics = [
+  "code-for-america",
+  "code-for-boston",
+  "criminal-justice",
+  "expungement"
+]
