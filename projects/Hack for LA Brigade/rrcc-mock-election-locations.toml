@@ -2,4 +2,10 @@ code_url = "https://github.com/hackforla/rrcc-mock-election-locations"
 git_branch = "master"
 git_url = "git://github.com/hackforla/rrcc-mock-election-locations.git"
 link_url = "https://hackforla.github.io/rrcc-mock-election-locations/"
-topics = [ "code-for-america", "hack-for-la" ]
+topics = [
+  "code-for-america",
+  "elections",
+  "hack-for-la",
+  "la-county",
+  "map-visualization"
+]
