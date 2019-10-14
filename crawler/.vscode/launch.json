@@ -1,0 +1,56 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "Import organizations",
+            "program": "${workspaceFolder}/import.js",
+            "cwd": "${workspaceFolder}",
+            "args": [
+                "--orgs",
+                "--commit-to=index",
+                "--commit-orgs-to=cfapi/orgs"
+            ],
+            "skipFiles": [
+                "<node_internals>/**"
+            ]
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "Import projects",
+            "program": "${workspaceFolder}/import.js",
+            "cwd": "${workspaceFolder}",
+            "args": [
+                "--projects",
+                "--commit-to=index",
+                "--commit-orgs-to=cfapi/orgs"
+            ],
+            "env": {
+                "GITHUB_ACTOR": "${input:githubActor}",
+                "GITHUB_TOKEN": "${input:githubToken}"
+            },
+            "skipFiles": [
+                "<node_internals>/**"
+            ]
+        }
+    ],
+    "inputs": [
+        {
+            "id": "githubActor",
+            "type": "promptString",
+            "description": "GitHub Username",
+            "default": ""
+        },
+        {
+            "id": "githubToken",
+            "type": "promptString",
+            "description": "GitHub Personal Access Token",
+            "default": ""
+        }
+    ]
+}
