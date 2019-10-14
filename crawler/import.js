@@ -11,6 +11,7 @@ const EMPTY_TREE_HASH = '4b825dc642cb6eb9a060e54bf8d69288fbee4904';
 const CFAPI_FIELDS = ['name', 'description', 'link_url', 'code_url', 'type', 'categories', 'tags', 'organization_name', 'status'];
 
 const githubOrgRegex = new RegExp('^(https?://)?(www\.)?github\.com(/orgs)?/(?<username>[^/]+)/?$');
+const githubTopicRegex = new RegExp('^(https?://)?(www\.)?github\.com/topics/(?<topic>[^/]+)/?$');
 const { GITHUB_ACTOR: githubActor, GITHUB_TOKEN: githubToken } = process.env;
 const githubAxios = axios.create({
     baseURL: 'https://api.github.com',
@@ -194,11 +195,20 @@ require('yargs')
                     }
 
                     let orgProjectsTree;
-                    const githubMatch = githubOrgRegex.exec(projectsListUrl);
+                    const githubOrgMatch = githubOrgRegex.exec(projectsListUrl);
+                    const githubTopicMatch = githubTopicRegex.exec(projectsListUrl);
 
-                    if (githubMatch) {
-                        const { username } = githubMatch.groups;
-                        orgProjectsTree = await loadGithubProjects(repo, username);
+                    if (githubOrgMatch) {
+                        const { username } = githubOrgMatch.groups;
+                        orgProjectsTree = await loadGithubOrgProjects(repo, username);
+
+                        if (!orgProjectsTree) {
+                            console.error(`skipping empty projects list for ${orgName}: ${projectsListUrl}`);
+                            continue;
+                        }
+                    } else if (githubTopicMatch) {
+                        const { topic } = githubTopicMatch.groups;
+                        orgProjectsTree = await loadGithubTopicProjects(repo, topic);
 
                         if (!orgProjectsTree) {
                             console.error(`skipping empty projects list for ${orgName}: ${projectsListUrl}`);
@@ -297,7 +307,7 @@ async function loadOrgsTree(repo, orgsSource) {
     return tree;
 }
 
-async function loadGithubProjects(repo, username) {
+async function loadGithubOrgProjects(repo, username) {
 
     // load repos
     console.error(`loading repos from github.com/${username}...`);
@@ -327,6 +337,92 @@ async function loadGithubProjects(repo, username) {
         }
 
         repos.push(...response.data);
+
+
+        // handle paging
+        const links = response.headers.link ? parseLinkHeader(response.headers.link) : {};
+        if (links.next) {
+            if (!reposProgressBar) {
+                reposProgressBar = new ProgressBar(`pages :current/:total [:bar] :etas`, {
+                    total: links.last ? parseInt(links.last.page) : 1
+                });
+            }
+
+            reposProgressBar.tick();
+            next = links.next.url;
+        } else {
+            next = null;
+
+            if (reposProgressBar) {
+                reposProgressBar.tick();
+            }
+        }
+    } while (next);
+
+
+    // build tree
+    const tree = repo.createTree();
+    const progressBar = new ProgressBar('building projects list :current/:total [:bar] :etas', {
+        total: repos.length
+    });
+
+    for (const repo of repos) {
+        // skip archived
+        if (repo.archived) {
+            progressBar.tick();
+            continue;
+        }
+
+        // extract interesting bits of data
+        const projectData = {
+            code_url: repo.html_url,
+            git_url: repo.git_url,
+            git_branch: repo.default_branch,
+            link_url: repo.homepage || null,
+            topics: repo.topics.length ? repo.topics : null
+        };
+        const toml = GitSheets.stringifyRecord(projectData);
+        const blob = await tree.writeChild(`${repo.name}.toml`, toml);
+
+        progressBar.tick();
+    }
+
+
+    // return tree
+    return tree;
+}
+
+async function loadGithubTopicProjects(repo, topic) {
+    https://api.github.comhack-for-la
+
+    // load repos
+    console.error(`loading repos from github.com/topics${topic}...`);
+    const repos = [];
+    let next = `/search/repositories?q=topic:${topic}`;
+    let reposProgressBar;
+
+    do {
+        let response;
+
+        try {
+            response = await githubAxios.get(next);
+        } catch (err) {
+            console.error(`GitHub request failed: ${err.response ? err.response.data.message || err.response.status : err.message}`);
+
+            if (err.response && err.response.status == 404) {
+                return null;
+            }
+
+            // GitHub will return 403 when you hit rate limit without auth
+            if (err.response && err.response.status == 403) {
+                console.error('Try setting GITHUB_ACTOR and GITHUB_TOKEN');
+                process.exit(1);
+            }
+
+            return null;
+        }
+
+        repos.push(...response.data.items);
 
 
         // handle paging
