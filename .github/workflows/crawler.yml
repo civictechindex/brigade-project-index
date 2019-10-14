@@ -28,7 +28,12 @@ jobs:
         git config user.name "Brigade Bot"
         git remote set-url origin https://brigade-bot:${{ secrets.BOT_GITHUB_TOKEN }}@github.com/codeforamerica/brigade-project-index.git
         git fetch origin refs/heads/index/v1:refs/heads/index/v1 refs/heads/cfapi/orgs/v1:refs/heads/cfapi/orgs/v1
-    - run: node crawler/import.js --all --commit-to=index/v1 --commit-orgs-to=cfapi/orgs/v1
+    - run: |
+        node crawler/import.js \
+          --all \
+          --commit-to=index/v1 \
+          --commit-orgs-to=cfapi/orgs/v1 \
+          --orgs-source=https://raw.githubusercontent.com/themightychris/brigade-information/patch-1/organizations.json
       env:
         GITHUB_ACTOR: brigade-bot
         GITHUB_TOKEN: ${{ secrets.BOT_GITHUB_TOKEN }}
