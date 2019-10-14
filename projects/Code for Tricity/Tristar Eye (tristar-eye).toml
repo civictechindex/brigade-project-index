@@ -4,3 +4,13 @@ Get Tricity traffic reports in real time.\r
 \r
 Two clicks to check congestion in whole Tricity."""
 link_url = "https://codeforpoland.org/projects/tristar-eye/"
+topics = [
+  "cdi",
+  "errai",
+  "gwt",
+  "gwt-material",
+  "java",
+  "java-8",
+  "jetty",
+  "material-design"
+]
