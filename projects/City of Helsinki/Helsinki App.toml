@@ -2,3 +2,11 @@ code_url = "https://github.com/City-of-Helsinki/open-city-app"
 description = "Mobile App for sending service requests"
 link_url = "https://play.google.com/store/apps/details?id=fi.hel.helsinki&hl=fi&lr=lang_fi&rdid=fi.hel.helsinki"
 status = "alpha"
+topics = [
+  "android",
+  "api",
+  "democracy",
+  "events",
+  "ios",
+  "municipalities"
+]

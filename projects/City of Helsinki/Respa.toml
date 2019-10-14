@@ -2,3 +2,18 @@ code_url = "https://github.com/City-of-Helsinki/respa"
 description = "Resource reservation booking system backend"
 link_url = "https://dev.hel.fi/apis/respa/"
 status = "beta"
+topics = [
+  "access-control",
+  "booking",
+  "booking-api",
+  "booking-engine",
+  "booking-system",
+  "meeting-room-booking",
+  "microsoft-exchange",
+  "payment",
+  "reservation",
+  "reservation-system",
+  "resource-api",
+  "resource-management",
+  "room-booking"
+]

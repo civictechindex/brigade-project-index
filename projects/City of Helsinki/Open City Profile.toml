@@ -1,3 +1,4 @@
 code_url = "https://github.com/City-of-Helsinki/open-city-profile"
 description = "MyData-based user account for city services."
 status = "alpha"
+topics = [ "django", "django-rest-framework" ]

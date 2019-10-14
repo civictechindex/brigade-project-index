@@ -2,4 +2,11 @@ code_url = "https://github.com/City-of-Helsinki/linkedevents"
 description = "API and UI for City of Helsinki events"
 link_url = "https://linkedevents.hel.fi"
 status = "beta"
-topics = [ "culture", "events", "tourism" ]
+topics = [
+  "culture",
+  "django",
+  "django-rest-framework",
+  "event-management",
+  "events",
+  "tourism"
+]

@@ -3,13 +3,13 @@ description = "Service Map of the Helsinki Metropolitan Area"
 link_url = "http://servicemap.hel.fi"
 status = "beta"
 topics = [
-  "map",
-  "culture",
-  "library",
-  "gis",
-  "opentripplanner",
   "accessibility",
-  "schools",
+  "culture",
+  "gis",
+  "library",
+  "map",
   "openstreetmap",
+  "opentripplanner",
+  "schools",
   "services"
 ]

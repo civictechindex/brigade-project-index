@@ -2,4 +2,23 @@ code_url = "https://github.com/City-of-Helsinki/respa"
 description = "Resource reservation system frontend"
 link_url = "https://varaamo.hel.fi"
 status = "beta"
-topics = [ "library", "spaces", "resources", "booking", "reservation" ]
+topics = [
+  "access-control",
+  "booking",
+  "booking",
+  "booking-api",
+  "booking-engine",
+  "booking-system",
+  "library",
+  "meeting-room-booking",
+  "microsoft-exchange",
+  "payment",
+  "reservation",
+  "reservation",
+  "reservation-system",
+  "resource-api",
+  "resource-management",
+  "resources",
+  "room-booking",
+  "spaces"
+]

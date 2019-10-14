@@ -3,9 +3,9 @@ description = "Website for participatory democracy"
 link_url = "http://kerrokantasi.hel.fi"
 status = "beta"
 topics = [
-  "decision-making",
-  "hearing",
-  "democracy",
   "city planning",
+  "decision-making",
+  "democracy",
+  "hearing",
   "participation"
 ]
