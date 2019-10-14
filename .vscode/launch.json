@@ -12,8 +12,8 @@
             "cwd": "${workspaceFolder}",
             "args": [
                 "--orgs",
-                "--commit-to=index",
-                "--commit-orgs-to=cfapi/orgs",
+                "--commit-to=index/v1",
+                "--commit-orgs-to=cfapi/orgs/v1",
                 "--orgs-source=https://raw.githubusercontent.com/themightychris/brigade-information/patch-1/organizations.json"
             ],
             "skipFiles": [
@@ -28,8 +28,8 @@
             "cwd": "${workspaceFolder}",
             "args": [
                 "--projects",
-                "--commit-to=index",
-                "--commit-orgs-to=cfapi/orgs"
+                "--commit-to=index/v1",
+                "--commit-orgs-to=cfapi/orgs/v1"
             ],
             "env": {
                 "GITHUB_ACTOR": "${input:githubActor}",
@@ -45,13 +45,13 @@
             "id": "githubActor",
             "type": "promptString",
             "description": "GitHub Username",
-            "default": ""
+            "default": "themightychris"
         },
         {
             "id": "githubToken",
             "type": "promptString",
             "description": "GitHub Personal Access Token",
-            "default": ""
+            "default": "ac3b31ce10b171c3de6fc9b99869d5a99ffabbf0"
         }
     ]
 }
