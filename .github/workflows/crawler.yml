@@ -19,7 +19,9 @@ jobs:
     - uses: actions/setup-node@master
       with:
         node-version: 12.x
-    - run: npm install
+    - run: |
+        cd crawler
+        npm install
     - name: Configure git
       run: |
         git config user.email "github-bot@brigade.cloud"
