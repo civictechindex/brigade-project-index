@@ -199,6 +199,7 @@ require('yargs')
                     const githubTopicMatch = githubTopicRegex.exec(projectsListUrl);
 
                     if (githubOrgMatch) {
+                        continue;
                         const { username } = githubOrgMatch.groups;
                         orgProjectsTree = await loadGithubOrgProjects(repo, username);
 
@@ -207,6 +208,7 @@ require('yargs')
                             continue;
                         }
                     } else if (githubTopicMatch) {
+                        continue;
                         const { topic } = githubTopicMatch.groups;
                         orgProjectsTree = await loadGithubTopicProjects(repo, topic);
 

@@ -7,13 +7,14 @@
         {
             "type": "node",
             "request": "launch",
-            "name": "Import organizations",
-            "program": "${workspaceFolder}/import.js",
+            "name": "Crawl organizations",
+            "program": "${workspaceFolder}/crawler/run.js",
             "cwd": "${workspaceFolder}",
             "args": [
                 "--orgs",
                 "--commit-to=index",
-                "--commit-orgs-to=cfapi/orgs"
+                "--commit-orgs-to=cfapi/orgs",
+                "--orgs-source=https://raw.githubusercontent.com/themightychris/brigade-information/patch-1/organizations.json"
             ],
             "skipFiles": [
                 "<node_internals>/**"
@@ -22,8 +23,8 @@
         {
             "type": "node",
             "request": "launch",
-            "name": "Import projects",
-            "program": "${workspaceFolder}/import.js",
+            "name": "Crawl projects",
+            "program": "${workspaceFolder}/crawler/run.js",
             "cwd": "${workspaceFolder}",
             "args": [
                 "--projects",
