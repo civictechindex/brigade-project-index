@@ -1,2 +1,10 @@
 code_url = "https://github.com/openoakland/woeip"
 description = "We are creating a digital platform for West Oakland residents to collect, visualize, and act on the air quality data which affect them."
+topics = [
+  "air-pollution",
+  "air-quality",
+  "code-for-america",
+  "environmental-justice",
+  "openoakland",
+  "west-oakland"
+]
