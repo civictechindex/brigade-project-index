@@ -1,6 +1,6 @@
 # brigade-project-index loader
 
-This branch contains the tooling for automatically populating and updating the [`cfapi/orgs`](https://github.com/codeforamerica/brigade-project-index/tree/cfapi/orgs) and [`index`](https://github.com/codeforamerica/brigade-project-index/tree/index) branches.
+This branch contains the tooling for automatically populating and updating the [`cfapi/orgs/v1`](https://github.com/codeforamerica/brigade-project-index/tree/cfapi/orgs/v1) and [`index/v1`](https://github.com/codeforamerica/brigade-project-index/tree/index/v1) branches.
 
 ## Running automatically
 
@@ -15,7 +15,7 @@ Automated runs make use of the [`brigade-bot`](https://github.com/brigade-bot) G
 With node v12+ installed:
 
 ```bash
-node import.js --all --commit-to=index --commit-orgs-to=cfapi/orgs
+node run.js --all --commit-to=index/v1 --commit-orgs-to=cfapi/orgs/v1
 ```
 
 To avoid hitting GitHub's API rate limits easily, [generate a Personal Access Token](https://github.com/settings/tokens) and provide it via the environment:
@@ -28,7 +28,7 @@ export GITHUB_TOKEN="my-personal-access-token"
 To see all available options:
 
 ```bash
-node import.js --help
+node run.js --help
 ```
 
 ### Debugging with Visual Studio Code
