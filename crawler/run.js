@@ -636,6 +636,10 @@ async function loadFeedProjects(repo, projectsListUrl) {
             if (response.data.topics.length) {
                 projectData.topics = (projectData.topics || []).concat(response.data.topics);
             }
+
+            if (projectData.topics) {
+                projectData.topics = projectData.topics.sort();
+            }
         }
 
         const toml = GitSheets.stringifyRecord(projectData);
