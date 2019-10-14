@@ -12,6 +12,7 @@ const CFAPI_FIELDS = ['name', 'description', 'link_url', 'code_url', 'type', 'ca
 
 const githubOrgRegex = new RegExp('^(https?://)?(www\.)?github\.com(/orgs)?/(?<username>[^/]+)/?$');
 const githubTopicRegex = new RegExp('^(https?://)?(www\.)?github\.com/topics/(?<topic>[^/]+)/?$');
+const githubRepoRegex = new RegExp('^(https?://)?(www\.)?github\.com/(?<username>[^/]+)/(?<repo>[^/]+)/?$');
 const { GITHUB_ACTOR: githubActor, GITHUB_TOKEN: githubToken } = process.env;
 const githubAxios = axios.create({
     baseURL: 'https://api.github.com',
@@ -614,6 +615,27 @@ async function loadFeedProjects(repo, projectsListUrl) {
         if (name.includes('/')) {
             projectData.name = name;
             name = name.replace(/\//g, '--');
+        }
+
+        // load github data
+        const githubRepoMatch = projectData.code_url && githubRepoRegex.exec(projectData.code_url);
+        if (githubRepoMatch) {
+            const { username, repo } = githubRepoMatch.groups;
+            let response;
+
+            try {
+                response = await githubAxios.get(`/repos/${username}/${repo}`);
+            } catch (err) {
+                console.error(`GitHub request failed: ${err.response ? err.response.data.message || err.response.status : err.message}`);
+
+                if (err.response && err.response.status == 404) {
+                    return null;
+                }
+            }
+
+            if (response.data.topics.length) {
+                projectData.topics = (projectData.topics || []).concat(response.data.topics);
+            }
         }
 
         const toml = GitSheets.stringifyRecord(projectData);
