@@ -1,11 +1,10 @@
-name: Index Loader
+name: Index Crawler
 
 on:
   schedule:
   - cron: 0 * * * *
   push:
     branches:
-    - loader
     - master
 
 jobs:
