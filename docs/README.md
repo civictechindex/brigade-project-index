@@ -11,3 +11,4 @@
 - [Network-wide topic search engine](https://hackforla.github.io/github-api-test/)
 - [Network-wide index status board](https://brigade-project-index-test.herokuapp.com/#/topics)
 - [`publiccode.yml` standard](https://docs.italia.it/italia/developers-italia/publiccodeyml-en/en/master/)
+- [GitHub Community Health Files standards](https://help.github.com/en/articles/creating-a-default-community-health-file-for-your-organization)
