@@ -9,3 +9,4 @@
   - [`master:.github/workflows`](https://github.com/codeforamerica/brigade-project-index/blob/master/.github/workflows/crawler.yml): GitHub Actions Workflow that runs the crawler every hour
   - [Actions log](https://github.com/codeforamerica/brigade-project-index/actions): History of crawler runs
 - [Network-wide topic search engine](https://hackforla.github.io/github-api-test/)
+- [Network-wide index status board](https://brigade-project-index-test.herokuapp.com/#/topics)
