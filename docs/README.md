@@ -1,5 +1,17 @@
 # Brigade Project Index
 
+## How Can I Get Involved?
+
+- Tag your projects on github!
+  - Using the github "Topics", tag your poject directly in github with #code-for-america and your brigade tag (e.g. code-for-sf). Then include tags from this list:  https://docs.google.com/spreadsheets/d/1bu18qYQjixoWQWhhXoEEd5KT0QbpDxxvdEEITvq5XgI/edit#gid=0.
+  
+- [Search for Projects](https://brigade-project-index-test.herokuapp.com/#/topics)
+
+- Join the discussion!
+  - We primarily use slack (https://cfa.slack.com #brigade-project-index), and meet every 2 weeks, usually Sunday at 6pm. Drop a note in the slack channel to be included. 
+
+
+
 ## Resources
 
 - [`brigade-project-index` GitHub repository](https://github.com/codeforamerica/brigade-project-index)
