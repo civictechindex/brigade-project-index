@@ -2,4 +2,10 @@ code_url = "https://github.com/codefordenver/members"
 git_branch = "master"
 git_url = "git://github.com/codefordenver/members.git"
 link_url = "https://members.codefordenver.org"
-topics = [ "active-project" ]
+topics = [
+  "brigade-tool",
+  "code-for-america",
+  "code-for-denver",
+  "onboarding",
+  "resources"
+]

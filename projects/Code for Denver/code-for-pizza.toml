@@ -1,3 +1,9 @@
 code_url = "https://github.com/codefordenver/code-for-pizza"
 git_branch = "master"
 git_url = "git://github.com/codefordenver/code-for-pizza.git"
+topics = [
+  "brigade-tool",
+  "calculator",
+  "code-for-america",
+  "code-for-denver"
+]

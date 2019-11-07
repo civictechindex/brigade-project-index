@@ -1,3 +1,10 @@
 code_url = "https://github.com/codefordenver/waterbeacon"
 git_branch = "master"
 git_url = "git://github.com/codefordenver/waterbeacon.git"
+topics = [
+  "code-for-america",
+  "code-for-denver",
+  "health",
+  "water",
+  "waterquality"
+]
