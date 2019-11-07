@@ -65,13 +65,13 @@
             "id": "githubActor",
             "type": "promptString",
             "description": "GitHub Username",
-            "default": "themightychris"
+            "default": ""
         },
         {
             "id": "githubToken",
             "type": "promptString",
             "description": "GitHub Personal Access Token",
-            "default": "ac3b31ce10b171c3de6fc9b99869d5a99ffabbf0"
+            "default": ""
         }
     ]
 }
