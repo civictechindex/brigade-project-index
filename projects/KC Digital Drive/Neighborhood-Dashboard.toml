@@ -2,3 +2,9 @@ code_url = "https://github.com/codeforkansascity/Neighborhood-Dashboard"
 git_branch = "master"
 git_url = "git://github.com/codeforkansascity/Neighborhood-Dashboard.git"
 link_url = "https://neighborhood-dashboard.codeforkc.org/"
+topics = [
+  "code-for-america",
+  "code-for-kc",
+  "neighborhood",
+  "neighborhood-map"
+]

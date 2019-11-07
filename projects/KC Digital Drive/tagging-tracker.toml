@@ -1,3 +1,10 @@
 code_url = "https://github.com/codeforkansascity/tagging-tracker"
 git_branch = "master"
 git_url = "git://github.com/codeforkansascity/tagging-tracker.git"
+topics = [
+  "blight",
+  "code-for-america",
+  "code-for-kc",
+  "graffiti",
+  "neighborhood"
+]

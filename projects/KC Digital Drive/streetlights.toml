@@ -1,3 +1,9 @@
 code_url = "https://github.com/codeforkansascity/streetlights"
 git_branch = "master"
 git_url = "git://github.com/codeforkansascity/streetlights.git"
+topics = [
+  "code-for-america",
+  "code-for-kc",
+  "infrastructure",
+  "smart-city"
+]
