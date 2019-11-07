@@ -1,0 +1,4 @@
+code_url = "https://github.com/codeformuenster/docker-kibana-oss-plugins"
+git_branch = "master"
+git_url = "git://github.com/codeformuenster/docker-kibana-oss-plugins.git"
+topics = [ "dockerfile", "kibana" ]
