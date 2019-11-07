@@ -1,4 +1,5 @@
 code_url = "https://github.com/18F/samhsa-prototype"
 git_branch = "master"
 git_url = "git://github.com/18F/samhsa-prototype.git"
-link_url = "https://findtreatmentbeta.18f.gov/"
+link_url = "https://findtreatment.gov/"
+topics = [ "federalist", "samhsa" ]
