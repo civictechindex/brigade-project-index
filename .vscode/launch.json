@@ -14,7 +14,7 @@
                 "--orgs",
                 "--commit-to=index/v1",
                 "--commit-orgs-to=cfapi/orgs/v1",
-                "--orgs-source=https://raw.githubusercontent.com/themightychris/brigade-information/patch-1/organizations.json"
+                "--orgs-source=https://raw.githubusercontent.com/themightychris/brigade-information/master/organizations.json"
             ],
             "skipFiles": [
                 "<node_internals>/**"
