@@ -200,7 +200,6 @@ require('yargs')
                     const githubTopicMatch = githubTopicRegex.exec(projectsListUrl);
 
                     if (githubOrgMatch) {
-                        continue;
                         const { username } = githubOrgMatch.groups;
                         orgProjectsTree = await loadGithubOrgProjects(repo, username);
 
@@ -209,7 +208,6 @@ require('yargs')
                             continue;
                         }
                     } else if (githubTopicMatch) {
-                        continue;
                         const { topic } = githubTopicMatch.groups;
                         orgProjectsTree = await loadGithubTopicProjects(repo, topic);
 
@@ -218,7 +216,7 @@ require('yargs')
                             continue;
                         }
                     } else {
-                        // fetch curated CSV or jsJSONon feed
+                        // fetch curated CSV or JSON feed
                         orgProjectsTree = await loadFeedProjects(repo, projectsListUrl);
 
                         if (!orgProjectsTree) {
