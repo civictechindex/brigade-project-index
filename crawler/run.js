@@ -188,7 +188,11 @@ require('yargs')
                 for (const orgBlobName in orgBlobs) {
                     const org = await sheets.parseBlob(orgBlobs[orgBlobName]);
                     const orgName = path.basename(orgBlobName, '.toml');
-                    const { projects_list_url: projectsListUrl } = org;
+                    let { projects_list_url: projectsListUrl, projects_tag: projectsTag } = org;
+
+                    if (!projectsListUrl && projectsTag) {
+                        projectsListUrl = `https://github.com/topics/${projectsTag}`;
+                    }
 
                     if (!projectsListUrl) {
                         console.error(`skipping org with no projects list: ${orgName}`);
