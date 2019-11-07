@@ -38,6 +38,26 @@
             "skipFiles": [
                 "<node_internals>/**"
             ]
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "Crawl all",
+            "program": "${workspaceFolder}/crawler/run.js",
+            "cwd": "${workspaceFolder}",
+            "args": [
+                "--all",
+                "--commit-to=index/v1",
+                "--commit-orgs-to=cfapi/orgs/v1",
+                "--orgs-source=https://raw.githubusercontent.com/themightychris/brigade-information/master/organizations.json"
+            ],
+            "env": {
+                "GITHUB_ACTOR": "${input:githubActor}",
+                "GITHUB_TOKEN": "${input:githubToken}"
+            },
+            "skipFiles": [
+                "<node_internals>/**"
+            ]
         }
     ],
     "inputs": [
