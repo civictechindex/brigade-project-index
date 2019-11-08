@@ -14,7 +14,7 @@
                 "--orgs",
                 "--commit-to=index/v1",
                 "--commit-orgs-to=cfapi/orgs/v1",
-                "--orgs-source=https://raw.githubusercontent.com/themightychris/brigade-information/master/organizations.json"
+                // "--orgs-source=https://raw.githubusercontent.com/themightychris/brigade-information/master/organizations.json"
             ],
             "skipFiles": [
                 "<node_internals>/**"
@@ -49,7 +49,7 @@
                 "--all",
                 "--commit-to=index/v1",
                 "--commit-orgs-to=cfapi/orgs/v1",
-                "--orgs-source=https://raw.githubusercontent.com/themightychris/brigade-information/master/organizations.json"
+                // "--orgs-source=https://raw.githubusercontent.com/themightychris/brigade-information/master/organizations.json"
             ],
             "env": {
                 "GITHUB_ACTOR": "${input:githubActor}",
