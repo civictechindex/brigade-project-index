@@ -58,7 +58,21 @@
             "skipFiles": [
                 "<node_internals>/**"
             ]
-        }
+        },
+        {
+            "type": "node",
+            "request": "attach",
+            "skipFiles": [
+                "<node_internals>/**/*.js"
+            ],
+
+            "name": "attach build-json",
+            "port": 9229,
+            "restart": true,
+            "trace": true,
+            "localRoot": "${workspaceFolder}/.holo/branches/static-api-v1.lenses/build-json",
+            "remoteRoot": "/hab/cache/hololens/holo/lens-npm-run"
+        },
     ],
     "inputs": [
         {

@@ -1,0 +1,12 @@
+[hololens]
+package = "holo/lens-npm-run"
+
+[hololens.npm-run]
+root = ".holo/branches/static-api-v1.lenses/build-json/"
+command = "build"
+
+[hololens.input]
+files = "**"
+
+[hololens.output]
+merge = "replace"
