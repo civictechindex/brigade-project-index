@@ -2,4 +2,5 @@ code_url = "https://github.com/Chicago/opengrid"
 git_branch = "master"
 git_url = "git://github.com/Chicago/opengrid.git"
 link_url = "http://opengrid.io"
+name = "opengrid"
 topics = [ "leaflet", "nodejs", "opengrid", "smart-cities" ]

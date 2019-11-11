@@ -2,6 +2,7 @@ code_url = "https://github.com/Chicago/lead-safe-api-docs"
 git_branch = "master"
 git_url = "git://github.com/Chicago/lead-safe-api-docs.git"
 link_url = "http://dev.cityofchicago.org/docs/lead-safe/"
+name = "lead-safe-api-docs"
 topics = [
   "api",
   "cdph",

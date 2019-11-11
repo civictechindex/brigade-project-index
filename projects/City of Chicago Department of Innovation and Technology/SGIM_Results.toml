@@ -1,4 +1,5 @@
 code_url = "https://github.com/Chicago/SGIM_Results"
 git_branch = "master"
 git_url = "git://github.com/Chicago/SGIM_Results.git"
+name = "SGIM_Results"
 topics = [ "etl", "kettle", "open-data", "opti", "pentaho", "socrata" ]

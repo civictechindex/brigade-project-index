@@ -1,6 +1,7 @@
 code_url = "https://github.com/Chicago/osd-bike-routes"
 git_branch = "master"
 git_url = "git://github.com/Chicago/osd-bike-routes.git"
+name = "osd-bike-routes"
 topics = [
   "bike-routes",
   "chicago",

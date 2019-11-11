@@ -1,3 +1,4 @@
 code_url = "https://github.com/Chicago/sdp-feature-fetcher"
 git_branch = "master"
 git_url = "git://github.com/Chicago/sdp-feature-fetcher.git"
+name = "sdp-feature-fetcher"

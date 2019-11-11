@@ -2,4 +2,5 @@ code_url = "https://github.com/Chicago/chicago.github.com"
 git_branch = "master"
 git_url = "git://github.com/Chicago/chicago.github.com.git"
 link_url = "http://dev.cityofchicago.org/projects"
+name = "chicago.github.com"
 topics = [ "chicago", "government", "website" ]

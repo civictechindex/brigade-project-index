@@ -1,4 +1,5 @@
 code_url = "https://github.com/Chicago/journal-chicago"
 git_branch = "master"
 git_url = "git://github.com/Chicago/journal-chicago.git"
+name = "journal-chicago"
 topics = [ "chicago", "r", "rmarkdown" ]

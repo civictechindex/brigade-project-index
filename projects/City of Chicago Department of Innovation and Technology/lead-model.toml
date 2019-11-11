@@ -1,6 +1,7 @@
 code_url = "https://github.com/Chicago/lead-model"
 git_branch = "master"
 git_url = "git://github.com/Chicago/lead-model.git"
+name = "lead-model"
 topics = [
   "cdph",
   "chicago",

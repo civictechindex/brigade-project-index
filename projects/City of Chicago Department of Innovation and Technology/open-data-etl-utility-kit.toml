@@ -1,6 +1,7 @@
 code_url = "https://github.com/Chicago/open-data-etl-utility-kit"
 git_branch = "master"
 git_url = "git://github.com/Chicago/open-data-etl-utility-kit.git"
+name = "open-data-etl-utility-kit"
 topics = [
   "chicago",
   "etl",
