@@ -9,4 +9,5 @@ sein neue Kameras hinzuzufügen. Das User Interface ist responsive, damit
 nicht lang läuft. Zur Zeit wird die App nur für Berlin entwickelt, da es
  einen soliden OSM Datensatz gibt, den wir als Grundlage verwenden."""
 link_url = "http://cctv.antares.uberspace.de/"
+name = "CCTVWATCH - Big Brother is watching you"
 type = "Community Plattform"

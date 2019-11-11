@@ -4,4 +4,5 @@ description = """
 Ein R Paket, um einfach auf die Daten von daten.berlin.de
 zuzugreifen. Führ nähere Infos, folgt den Links unten:"""
 link_url = "http://www.dirk-schumacher.net/RBerlinData/"
+name = "Daten.berlin.de für R"
 type = "Code"

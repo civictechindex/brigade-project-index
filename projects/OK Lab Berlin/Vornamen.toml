@@ -5,4 +5,5 @@ Neugeborende in Deutschland, Österreich und der Schweiz. Angezeigt
 werden die 3 Staaten, alle Bundesländer und alle Großstädte (100.000 
 Einwohner und mehr). Haben die Städte überhaupt ein Open Data Portal?"""
 link_url = "http://vornamen.tursics.de/"
+name = "Vornamen"
 type = "website"

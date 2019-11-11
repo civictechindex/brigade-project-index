@@ -6,4 +6,5 @@ Verlauf, also Änderungen am Datensatz festhalten. Die API soll den
 Zugriff auf die verschiedenen Snapshots ermöglichen.
 
 Ich plane mit PostgreSQL/PostGIS zu arbeiten, um vom der Funktionserweiterung durch PostGIS zu profitieren."""
+name = "Geodaten mit Zeitdimension"
 type = "Data Portal"

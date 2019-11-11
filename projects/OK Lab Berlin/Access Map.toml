@@ -5,4 +5,5 @@ Kleines Projekt das mit einem Slider visualisiert, wie barrierefrei
 Nahverkehrssysteme sind, indem nicht barrierefreie Stationen ausradiert 
 werden. Bisher für New York, London, Hamburg und Berlin umgesetzt. """
 link_url = "https://arduina.github.io/access_map/"
+name = "Access Map"
 type = "website"
