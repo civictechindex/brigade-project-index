@@ -2,6 +2,7 @@ code_url = "https://github.com/code4romania/sna-api"
 git_branch = "develop"
 git_url = "git://github.com/code4romania/sna-api.git"
 link_url = "https://code4.ro/en/project/portalul-strategiei-nationale-anticoruptie/"
+name = "sna-api"
 topics = [
   "civic-hacking",
   "civic-tech",

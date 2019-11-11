@@ -2,6 +2,7 @@ code_url = "https://github.com/code4romania/monitorizare-vot-ios"
 git_branch = "develop"
 git_url = "git://github.com/code4romania/monitorizare-vot-ios.git"
 link_url = "https://votemonitor.org/"
+name = "monitorizare-vot-ios"
 topics = [
   "civic-hacking",
   "civic-tech",

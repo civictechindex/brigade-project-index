@@ -2,6 +2,7 @@ code_url = "https://github.com/code4romania/inlar"
 git_branch = "master"
 git_url = "git://github.com/code4romania/inlar.git"
 link_url = "http://inlar.org/"
+name = "inlar"
 topics = [
   "civic-hacking",
   "civic-tech",

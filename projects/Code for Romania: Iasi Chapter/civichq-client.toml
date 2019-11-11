@@ -2,6 +2,7 @@ code_url = "https://github.com/code4romania/civichq-client"
 git_branch = "develop"
 git_url = "git://github.com/code4romania/civichq-client.git"
 link_url = "http://centrucivic.ro/"
+name = "civichq-client"
 topics = [
   "civic-apps",
   "civic-tech",
