@@ -1,6 +1,7 @@
 city = "San Francisco, CA"
 latitude = "37.7759"
 longitude = "-122.4137"
+name = "Data SF"
 projects_list_url = "https://github.com/datasf"
 rss = "http://datasf.org/blog/"
 tags = [ "Government" ]

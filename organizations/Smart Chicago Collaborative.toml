@@ -1,6 +1,7 @@
 city = "Chicago, IL"
 latitude = "41.8781"
 longitude = "-87.6298"
+name = "Smart Chicago Collaborative"
 projects_list_url = "https://github.com/smartchicago"
 rss = "http://www.smartchicagocollaborative.org/feed/"
 tags = [ "partner", "midwest" ]

@@ -2,6 +2,7 @@ city = "St. Louis, MO"
 events_url = "https://www.meetup.com/OpenSTL"
 latitude = "38.6272"
 longitude = "-90.1977"
+name = "OpenSTL"
 projects_list_url = "https://github.com/OpenDataSTL/"
 rss = "http://buildforstl.org/feed"
 tags = [ "Brigade", "Code for America", "Official" ]

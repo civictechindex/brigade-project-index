@@ -1,6 +1,7 @@
 city = "Chicago, IL"
 latitude = "41.8781"
 longitude = "-87.6298"
+name = "FreeGeekChicago"
 projects_list_url = "https://github.com/sc3/"
 rss = "http://freegeekchicago.org/feed"
 tags = [ "partner", "midwest" ]

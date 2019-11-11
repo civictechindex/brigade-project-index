@@ -1,6 +1,7 @@
 city = "San Francisco, CA"
 latitude = "37.7759"
 longitude = "-122.4137"
+name = "Code for America"
 projects_list_url = "https://github.com/codeforamerica"
 rss = "http://www.codeforamerica.org/blog/"
 tags = [ "Code for All" ]

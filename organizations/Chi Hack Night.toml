@@ -1,6 +1,7 @@
 city = "Chicago, IL"
 latitude = "41.8781"
 longitude = "-87.6298"
+name = "Chi Hack Night"
 projects_list_url = "https://raw.github.com/open-city/civic-json-files/master/projects.json"
 rss = "http://chihacknight.org/blog/"
 tags = [ "Brigade", "midwest" ]

@@ -1,6 +1,7 @@
 city = "Detroit, MI"
 latitude = "42.3314"
 longitude = "-83.0458"
+name = "Detroit Water Project"
 projects_list_url = "https://github.com/detroitwaterproject"
 tags = [ "partner" ]
 type = "partner"

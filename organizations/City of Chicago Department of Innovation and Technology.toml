@@ -1,6 +1,7 @@
 city = "Chicago, IL"
 latitude = "41.8781"
 longitude = "-87.6298"
+name = "City of Chicago Department of Innovation and Technology"
 projects_list_url = "https://github.com/chicago"
 tags = [ "Government", "midwest" ]
 type = "Government, midwest"

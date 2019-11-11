@@ -1,6 +1,7 @@
 city = "Washington, DC"
 latitude = "38.9072"
 longitude = "-77.0365"
+name = "US Census Bureau"
 projects_list_url = "https://github.com/uscensusbureau"
 tags = [ "Government" ]
 type = "Government"

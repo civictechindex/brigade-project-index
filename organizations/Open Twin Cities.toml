@@ -2,6 +2,7 @@ city = "Minneapolis, MN"
 events_url = "https://www.meetup.com/OpenTwinCities/"
 latitude = "44.9537"
 longitude = "-93.0900"
+name = "Open Twin Cities"
 projects_list_url = "https://github.com/opentwincities"
 rss = "http://opentwincities.org/posts/"
 tags = [ "Brigade", "Code for America", "Official" ]
