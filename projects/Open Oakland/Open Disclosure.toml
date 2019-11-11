@@ -1,6 +1,7 @@
 code_url = "https://github.com/caciviclab/odca-jekyll"
 description = "Open Disclosure helps Oaklanders understand the role of money in their local politics."
 link_url = "https://www.opendisclosure.io/"
+name = "Open Disclosure"
 topics = [
   "california",
   "campaign-finance",
