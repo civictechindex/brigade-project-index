@@ -2,4 +2,5 @@ code_url = "https://github.com/codeformuenster/muenster-dashboard"
 git_branch = "master"
 git_url = "git://github.com/codeformuenster/muenster-dashboard.git"
 link_url = "https://mein-ms.de/"
+name = "muenster-dashboard"
 topics = [ "elasticsearch", "open-data", "react" ]

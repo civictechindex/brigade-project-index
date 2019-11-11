@@ -1,3 +1,4 @@
 code_url = "https://github.com/codeformuenster/anaconda"
 git_branch = "master"
 git_url = "git://github.com/codeformuenster/anaconda.git"
+name = "anaconda"

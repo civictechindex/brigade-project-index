@@ -1,3 +1,4 @@
 code_url = "https://github.com/codeformuenster/gum"
 git_branch = "dockerized-redirect"
 git_url = "git://github.com/codeformuenster/gum.git"
+name = "gum"

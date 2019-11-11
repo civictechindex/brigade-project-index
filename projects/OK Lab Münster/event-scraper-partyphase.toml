@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeformuenster/event-scraper-partyphase"
 git_branch = "master"
 git_url = "git://github.com/codeformuenster/event-scraper-partyphase.git"
+name = "event-scraper-partyphase"
 topics = [ "event-scraper" ]

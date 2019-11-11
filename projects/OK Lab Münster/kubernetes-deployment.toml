@@ -1,6 +1,7 @@
 code_url = "https://github.com/codeformuenster/kubernetes-deployment"
 git_branch = "master"
 git_url = "git://github.com/codeformuenster/kubernetes-deployment.git"
+name = "kubernetes-deployment"
 topics = [
   "cluster",
   "docker",

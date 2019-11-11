@@ -2,4 +2,5 @@ code_url = "https://github.com/codeformuenster/nominatim-api"
 git_branch = "master"
 git_url = "git://github.com/codeformuenster/nominatim-api.git"
 link_url = "https://cloud.docker.com/u/codeformuenster/repository/docker/codeformuenster/nominatim-api"
+name = "nominatim-api"
 topics = [ "nominatim" ]
