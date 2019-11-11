@@ -1,4 +1,5 @@
 description = "For the state of North Carolina, there are three ways to receive the balance of one’s EBT card (food stamps): on a purchase receipt, through the website or calling the 800-number. Many EBT recipients are without data or internet access. Therefore, each of these options come with accessibility problems."
 link_url = "http://codeforcharlotte.org/balance/"
+name = "Balance"
 status = "Hibernating"
 topics = [ "Public Services" ]

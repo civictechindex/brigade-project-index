@@ -1,5 +1,6 @@
 code_url = "https://github.com/codeforamerica/citygram"
 description = "Project Description: Citygram is a geographic notification platform designed to work with open government data. It allows residents to designate area(s) of a city they are interested in and subscribe to one or more topics – for example, you can subscribe to road closures in a 1/2 mile radius around your house."
 link_url = "http://citygram.org"
+name = "Citygram"
 status = "Maintaining"
 topics = [ "Mapping", "Open Data" ]
