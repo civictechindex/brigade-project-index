@@ -2,4 +2,5 @@ code_url = "https://github.com/codefortulsa/landuse"
 git_branch = "master"
 git_url = "git://github.com/codefortulsa/landuse.git"
 link_url = "http://codefortulsa.github.io/landuse/map"
+name = "landuse"
 topics = [ "boundary", "census", "geocode" ]

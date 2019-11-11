@@ -1,4 +1,5 @@
 code_url = "https://github.com/codefortulsa/courtbot-engine"
 git_branch = "master"
 git_url = "git://github.com/codefortulsa/courtbot-engine.git"
+name = "courtbot-engine"
 topics = [ "codefortulsa", "courtbot", "crime" ]
