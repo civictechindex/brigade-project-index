@@ -2,6 +2,7 @@ code_url = "https://github.com/helloGov/webapp"
 git_branch = "master"
 git_url = "git://github.com/helloGov/webapp.git"
 link_url = "https://hellogov.app"
+name = "webapp"
 topics = [
   "angular",
   "code-for-america",

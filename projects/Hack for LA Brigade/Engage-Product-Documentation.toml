@@ -1,6 +1,7 @@
 code_url = "https://github.com/hackla-engage/Engage-Product-Documentation"
 git_branch = "master"
 git_url = "git://github.com/hackla-engage/Engage-Product-Documentation.git"
+name = "Engage-Product-Documentation"
 topics = [
   "civic-tech",
   "code-for-america",

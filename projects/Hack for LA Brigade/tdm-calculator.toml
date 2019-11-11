@@ -1,6 +1,7 @@
 code_url = "https://github.com/hackforla/tdm-calculator"
 git_branch = "master"
 git_url = "git://github.com/hackforla/tdm-calculator.git"
+name = "tdm-calculator"
 topics = [
   "code-for-america",
   "hack-for-la",

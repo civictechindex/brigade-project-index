@@ -1,4 +1,5 @@
 code_url = "https://github.com/OpenSTL/VRMS"
 git_branch = "master"
 git_url = "git://github.com/OpenSTL/VRMS.git"
+name = "VRMS"
 topics = [ "code-for-america", "hack-for-la", "open-stl" ]

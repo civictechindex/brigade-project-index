@@ -2,6 +2,7 @@ code_url = "https://github.com/Public-Tree-Map/public-tree-map"
 git_branch = "master"
 git_url = "git://github.com/Public-Tree-Map/public-tree-map.git"
 link_url = "https://public-tree-map.surge.sh"
+name = "public-tree-map"
 topics = [
   "code-for-america",
   "hack-for-la",
