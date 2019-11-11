@@ -2,6 +2,7 @@ code_url = "https://github.com/OpenUpSA/pmg-cms-2"
 git_branch = "master"
 git_url = "git://github.com/OpenUpSA/pmg-cms-2.git"
 link_url = "https://pmg.org.za/"
+name = "pmg-cms-2"
 topics = [
   "open-data",
   "parliament",

@@ -1,3 +1,4 @@
 code_url = "https://github.com/OpenUpSA/django-template"
 git_branch = "master"
 git_url = "git://github.com/OpenUpSA/django-template.git"
+name = "django-template"

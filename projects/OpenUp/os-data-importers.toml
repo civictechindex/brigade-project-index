@@ -1,3 +1,4 @@
 code_url = "https://github.com/OpenUpSA/os-data-importers"
 git_branch = "master"
 git_url = "git://github.com/OpenUpSA/os-data-importers.git"
+name = "os-data-importers"

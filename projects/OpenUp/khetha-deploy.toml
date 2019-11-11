@@ -1,3 +1,4 @@
 code_url = "https://github.com/OpenUpSA/khetha-deploy"
 git_branch = "develop"
 git_url = "git://github.com/OpenUpSA/khetha-deploy.git"
+name = "khetha-deploy"

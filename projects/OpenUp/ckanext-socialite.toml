@@ -1,3 +1,4 @@
 code_url = "https://github.com/OpenUpSA/ckanext-socialite"
 git_branch = "develop"
 git_url = "git://github.com/OpenUpSA/ckanext-socialite.git"
+name = "ckanext-socialite"

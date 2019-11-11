@@ -1,3 +1,4 @@
 code_url = "https://github.com/OpenUpSA/elasticsearch-0.90"
 git_branch = "master"
 git_url = "git://github.com/OpenUpSA/elasticsearch-0.90.git"
+name = "elasticsearch-0.90"

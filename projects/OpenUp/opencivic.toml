@@ -1,3 +1,4 @@
 code_url = "https://github.com/OpenUpSA/opencivic"
 git_branch = "7.x-1.x"
 git_url = "git://github.com/OpenUpSA/opencivic.git"
+name = "opencivic"
