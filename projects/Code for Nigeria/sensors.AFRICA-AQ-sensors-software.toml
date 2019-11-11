@@ -1,4 +1,5 @@
 code_url = "https://github.com/CodeForAfrica/sensors.AFRICA-AQ-sensors-software"
 git_branch = "develop"
 git_url = "git://github.com/CodeForAfrica/sensors.AFRICA-AQ-sensors-software.git"
+name = "sensors.AFRICA-AQ-sensors-software"
 topics = [ "air-quality", "sensors", "sensors-africa" ]

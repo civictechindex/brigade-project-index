@@ -2,6 +2,7 @@ code_url = "https://github.com/CodeForAfrica/HealthTools.API"
 git_branch = "master"
 git_url = "git://github.com/CodeForAfrica/HealthTools.API.git"
 link_url = "https://api.healthtools.codeforafrica.org/"
+name = "HealthTools.API"
 topics = [
   "africa",
   "doctor",

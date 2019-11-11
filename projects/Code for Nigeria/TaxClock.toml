@@ -2,6 +2,7 @@ code_url = "https://github.com/CodeForAfrica/TaxClock"
 git_branch = "master"
 git_url = "git://github.com/CodeForAfrica/TaxClock.git"
 link_url = "https://taxclock.codeforkenya.org/"
+name = "TaxClock"
 topics = [
   "africa",
   "african-spending",

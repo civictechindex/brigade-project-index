@@ -2,6 +2,7 @@ code_url = "https://github.com/CodeForAfrica/academy.AFRICA"
 git_branch = "master"
 git_url = "git://github.com/CodeForAfrica/academy.AFRICA.git"
 link_url = "https://academy.africa/"
+name = "academy.AFRICA"
 topics = [
   "abuja",
   "academy",
