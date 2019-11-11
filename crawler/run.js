@@ -289,19 +289,14 @@ async function loadOrgsTree(repo, orgsSource) {
     });
 
     for (const org of orgs) {
-        const orgData = {
-            ...org,
-            name: null
-        };
-
         // null-out empty strings
-        for (const key in orgData) {
-            if (orgData[key] === '') {
-                orgData[key] = null;
+        for (const key in org) {
+            if (org[key] === '') {
+                org[key] = null;
             }
         }
 
-        const toml = GitSheets.stringifyRecord(orgData);
+        const toml = GitSheets.stringifyRecord(org);
         const blob = await tree.writeChild(`${org.name}.toml`, toml);
 
         progressBar.tick();
@@ -611,11 +606,9 @@ async function loadFeedProjects(repo, projectsListUrl) {
         }
 
         let name = projectData.name;
-        delete projectData.name;
 
         // if name can't be written only to path, record as field
         if (name.includes('/')) {
-            projectData.name = name;
             name = name.replace(/\//g, '--');
         }
 
