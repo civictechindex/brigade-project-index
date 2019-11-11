@@ -1,4 +1,5 @@
 code_url = "https://github.com/Code4HR/NDoCH-2015-promotion"
 git_branch = "master"
 git_url = "git://github.com/Code4HR/NDoCH-2015-promotion.git"
+name = "NDoCH-2015-promotion"
 topics = [ "deprecated", "official" ]

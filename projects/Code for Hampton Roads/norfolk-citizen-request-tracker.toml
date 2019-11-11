@@ -2,4 +2,5 @@ code_url = "https://github.com/Code4HR/norfolk-citizen-request-tracker"
 git_branch = "master"
 git_url = "git://github.com/Code4HR/norfolk-citizen-request-tracker.git"
 link_url = "http://www.norfolk.gov/requesttracker.aspx"
+name = "norfolk-citizen-request-tracker"
 topics = [ "deprecated" ]

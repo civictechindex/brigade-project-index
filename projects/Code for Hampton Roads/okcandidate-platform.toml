@@ -2,4 +2,5 @@ code_url = "https://github.com/Code4HR/okcandidate-platform"
 git_branch = "develop"
 git_url = "git://github.com/Code4HR/okcandidate-platform.git"
 link_url = "https://okcandidate-dev.herokuapp.com/"
+name = "okcandidate-platform"
 topics = [ "active", "official", "okcandidate" ]

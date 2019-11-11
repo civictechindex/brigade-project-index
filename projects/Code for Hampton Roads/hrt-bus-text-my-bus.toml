@@ -1,4 +1,5 @@
 code_url = "https://github.com/Code4HR/hrt-bus-text-my-bus"
 git_branch = "master"
 git_url = "git://github.com/Code4HR/hrt-bus-text-my-bus.git"
+name = "hrt-bus-text-my-bus"
 topics = [ "deprecated" ]

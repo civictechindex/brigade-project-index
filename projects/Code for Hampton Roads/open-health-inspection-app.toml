@@ -2,4 +2,5 @@ code_url = "https://github.com/Code4HR/open-health-inspection-app"
 git_branch = "gh-pages"
 git_url = "git://github.com/Code4HR/open-health-inspection-app.git"
 link_url = "http://ohi.code4hr.org"
+name = "open-health-inspection-app"
 topics = [ "official", "ohi" ]

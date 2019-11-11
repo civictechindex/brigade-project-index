@@ -2,4 +2,5 @@ code_url = "https://github.com/Code4HR/titan"
 git_branch = "master"
 git_url = "git://github.com/Code4HR/titan.git"
 link_url = "http://gisapp1.norfolk.gov/TidalFLUX/home.aspx"
+name = "titan"
 topics = [ "deprecated" ]

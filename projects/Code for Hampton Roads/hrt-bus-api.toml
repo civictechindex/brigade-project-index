@@ -2,4 +2,5 @@ code_url = "https://github.com/Code4HR/hrt-bus-api"
 git_branch = "master"
 git_url = "git://github.com/Code4HR/hrt-bus-api.git"
 link_url = "api.hrtb.us/api"
+name = "hrt-bus-api"
 topics = [ "hrtbus", "official" ]

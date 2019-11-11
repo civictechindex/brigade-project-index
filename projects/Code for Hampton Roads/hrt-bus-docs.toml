@@ -2,4 +2,5 @@ code_url = "https://github.com/Code4HR/hrt-bus-docs"
 git_branch = "master"
 git_url = "git://github.com/Code4HR/hrt-bus-docs.git"
 link_url = "https://docs.hrtbus.app/"
+name = "hrt-bus-docs"
 topics = [ "hrtbus" ]

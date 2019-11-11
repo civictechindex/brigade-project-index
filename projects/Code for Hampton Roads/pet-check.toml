@@ -2,4 +2,5 @@ code_url = "https://github.com/Code4HR/pet-check"
 git_branch = "master"
 git_url = "git://github.com/Code4HR/pet-check.git"
 link_url = "http://pets.c4hrva.us"
+name = "pet-check"
 topics = [ "deprecated" ]

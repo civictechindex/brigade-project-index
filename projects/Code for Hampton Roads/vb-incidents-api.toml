@@ -1,4 +1,5 @@
 code_url = "https://github.com/Code4HR/vb-incidents-api"
 git_branch = "master"
 git_url = "git://github.com/Code4HR/vb-incidents-api.git"
+name = "vb-incidents-api"
 topics = [ "deprecated" ]

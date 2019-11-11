@@ -2,4 +2,5 @@ code_url = "https://github.com/Code4HR/cbf-clean"
 git_branch = "master"
 git_url = "git://github.com/Code4HR/cbf-clean.git"
 link_url = "http://cbf-clean.meteor.com/"
+name = "cbf-clean"
 topics = [ "official" ]

@@ -1,4 +1,5 @@
 code_url = "https://github.com/Code4HR/hrt-bus-finder-ssr"
 git_branch = "master"
 git_url = "git://github.com/Code4HR/hrt-bus-finder-ssr.git"
+name = "hrt-bus-finder-ssr"
 topics = [ "hrtbus" ]

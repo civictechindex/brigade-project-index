@@ -2,4 +2,5 @@ code_url = "https://github.com/Code4HR/localart"
 git_branch = "master"
 git_url = "git://github.com/Code4HR/localart.git"
 link_url = "http://iartnorfolk.com"
+name = "localart"
 topics = [ "deprecated", "official" ]

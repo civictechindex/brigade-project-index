@@ -1,4 +1,5 @@
 code_url = "https://github.com/Code4HR/hrva-wiki"
 git_branch = "master"
 git_url = "git://github.com/Code4HR/hrva-wiki.git"
+name = "hrva-wiki"
 topics = [ "deprecated" ]
