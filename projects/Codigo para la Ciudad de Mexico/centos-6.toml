@@ -1,3 +1,4 @@
 code_url = "https://github.com/LabPLC/centos-6"
 git_branch = "master"
 git_url = "git://github.com/LabPLC/centos-6.git"
+name = "centos-6"
