@@ -4,6 +4,7 @@ Get Tricity traffic reports in real time.\r
 \r
 Two clicks to check congestion in whole Tricity."""
 link_url = "https://codeforpoland.org/projects/tristar-eye/"
+name = "Tristar Eye (tristar-eye)"
 topics = [
   "cdi",
   "errai",
