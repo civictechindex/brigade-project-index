@@ -1,6 +1,7 @@
 code_url = "https://github.com/City-of-Helsinki/helerm"
 description = "Electronic Records Management Classification System for the City of Helsinki  - helerm"
 link_url = "https://tiedonohjaus.hel.ninja/"
+name = "Tiedonohjaus"
 status = "beta"
 topics = [
   "classification",

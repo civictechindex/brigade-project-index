@@ -1,6 +1,7 @@
 code_url = "https://github.com/City-of-Helsinki/servicemap"
 description = "Service Map of the Helsinki Metropolitan Area"
 link_url = "http://servicemap.hel.fi"
+name = "Service Map"
 status = "beta"
 topics = [
   "accessibility",

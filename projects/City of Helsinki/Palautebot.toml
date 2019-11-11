@@ -1,3 +1,4 @@
 code_url = "https://github.com/City-of-Helsinki/palautebot"
 description = "A bot that listens to feedback on Twitter and feeds it through Open311 feedback API"
+name = "Palautebot"
 status = "alpha"

@@ -1,5 +1,6 @@
 code_url = "https://github.com/City-of-Helsinki/devheldev"
 description = "Helsinki Developers' Portal"
 link_url = "http://dev.hel.fi/"
+name = "dev.hel.fi"
 status = "live"
 topics = [ "developers", "wagtail" ]

@@ -1,6 +1,7 @@
 code_url = "https://github.com/City-of-Helsinki/respa"
 description = "Resource reservation system frontend"
 link_url = "https://varaamo.hel.fi"
+name = "Varaamo"
 status = "beta"
 topics = [
   "access-control",
