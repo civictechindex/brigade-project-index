@@ -1,3 +1,4 @@
 code_url = "https://github.com/CodeForAfrica/ckanext-datajson"
 git_branch = "datagov"
 git_url = "git://github.com/CodeForAfrica/ckanext-datajson.git"
+name = "ckanext-datajson"

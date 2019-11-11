@@ -2,6 +2,7 @@ code_url = "https://github.com/CodeForAfrica/sensors.AFRICA-StormWatch"
 git_branch = "master"
 git_url = "git://github.com/CodeForAfrica/sensors.AFRICA-StormWatch.git"
 link_url = "https://stormwatch.sensors.africa/"
+name = "sensors.AFRICA-StormWatch"
 topics = [
   "africa",
   "extreme-weather",

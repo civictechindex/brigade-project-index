@@ -2,6 +2,7 @@ code_url = "https://github.com/CodeForAfrica/CodeOfConduct"
 git_branch = "master"
 git_url = "git://github.com/CodeForAfrica/CodeOfConduct.git"
 link_url = "https://codeforafrica.github.io/CodeOfConduct/"
+name = "CodeOfConduct"
 topics = [
   "code-for-africa",
   "code-of-conduct",

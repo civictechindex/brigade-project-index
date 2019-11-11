@@ -2,6 +2,7 @@ code_url = "https://github.com/CodeForAfrica/CodeForAfrica.org"
 git_branch = "master"
 git_url = "git://github.com/CodeForAfrica/CodeForAfrica.org.git"
 link_url = "https://codeforafrica.org/"
+name = "CodeForAfrica.org"
 topics = [
   "africa",
   "cameroon",

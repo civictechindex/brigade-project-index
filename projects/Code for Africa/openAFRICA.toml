@@ -2,6 +2,7 @@ code_url = "https://github.com/CodeForAfrica/openAFRICA"
 git_branch = "master"
 git_url = "git://github.com/CodeForAfrica/openAFRICA.git"
 link_url = "https://openafrica.net/"
+name = "openAFRICA"
 topics = [
   "africa",
   "ckan",

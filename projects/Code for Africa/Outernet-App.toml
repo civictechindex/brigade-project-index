@@ -2,4 +2,5 @@ code_url = "https://github.com/CodeForAfrica/Outernet-App"
 git_branch = "develop"
 git_url = "git://github.com/CodeForAfrica/Outernet-App.git"
 link_url = "https://www.outernet.is/"
+name = "Outernet-App"
 topics = [ "desktop", "outernet", "vuejs" ]

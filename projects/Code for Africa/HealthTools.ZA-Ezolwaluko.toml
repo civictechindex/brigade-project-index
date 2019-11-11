@@ -2,6 +2,7 @@ code_url = "https://github.com/CodeForAfrica/HealthTools.ZA-Ezolwaluko"
 git_branch = "master"
 git_url = "git://github.com/CodeForAfrica/HealthTools.ZA-Ezolwaluko.git"
 link_url = "https://ezolwaluko.org.za/en"
+name = "HealthTools.ZA-Ezolwaluko"
 topics = [
   "africa",
   "city-press",

@@ -2,6 +2,7 @@ code_url = "https://github.com/CodeForAfrica/sensors.AFRICA-SeaSensors-ComingSoo
 git_branch = "master"
 git_url = "git://github.com/CodeForAfrica/sensors.AFRICA-SeaSensors-ComingSoon.git"
 link_url = "https://seasensors.africa/"
+name = "sensors.AFRICA-SeaSensors-ComingSoon"
 topics = [
   "blast-fishing",
   "iot",

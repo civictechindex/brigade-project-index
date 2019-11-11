@@ -1,6 +1,7 @@
 code_url = "https://github.com/CodeForAfrica/codeafrica.org"
 git_branch = "gh-pages"
 git_url = "git://github.com/CodeForAfrica/codeafrica.org.git"
+name = "codeafrica.org"
 topics = [
   "africa",
   "africancommons",
