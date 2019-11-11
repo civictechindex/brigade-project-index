@@ -2,4 +2,5 @@ code_url = "https://github.com/Code-for-Miami/project-landing-page-template"
 git_branch = "master"
 git_url = "git://github.com/Code-for-Miami/project-landing-page-template.git"
 link_url = "http://codefor.miami/project-landing-page-template/"
+name = "project-landing-page-template"
 topics = [ "bootstrap4", "code-for-miami", "landing-page", "opensource" ]

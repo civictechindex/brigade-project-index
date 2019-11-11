@@ -2,6 +2,7 @@ code_url = "https://github.com/Code-for-Miami/fbi-api"
 git_branch = "master"
 git_url = "git://github.com/Code-for-Miami/fbi-api.git"
 link_url = "http://138.197.90.94/"
+name = "fbi-api"
 topics = [
   "api",
   "clojure",

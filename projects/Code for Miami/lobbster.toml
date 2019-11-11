@@ -1,4 +1,5 @@
 code_url = "https://github.com/Code-for-Miami/lobbster"
 git_branch = "master"
 git_url = "git://github.com/Code-for-Miami/lobbster.git"
+name = "lobbster"
 topics = [ "civic-tech", "code-for-miami", "ruby-on-rails" ]
