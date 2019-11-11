@@ -2,6 +2,7 @@ city = "Helsinki, Finland"
 events_url = "http://dev.hel.fi/events/"
 latitude = "60.16799112034094"
 longitude = "24.948300559109786"
+name = "City of Helsinki"
 projects_list_url = "http://dev.hel.fi/projects/projects.csv"
 rss = "http://dev.hel.fi/blog/feed/"
 tags = [ "Government" ]

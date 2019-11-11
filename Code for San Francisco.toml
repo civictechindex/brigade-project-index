@@ -2,6 +2,7 @@ city = "San Francisco, CA"
 events_url = "https://www.meetup.com/Code-for-San-Francisco-Civic-Hack-Night/"
 latitude = "37.7749"
 longitude = "-122.4194"
+name = "Code for San Francisco"
 projects_list_url = "https://github.com/sfbrigade"
 rss = "http://codeforsanfrancisco.org/blog/"
 tags = [ "Brigade", "Code for America", "Official" ]

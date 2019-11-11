@@ -1,6 +1,7 @@
 city = "Taipei, Taiwan"
 latitude = "25.0478"
 longitude = "121.5319"
+name = "g0v.tw"
 projects_list_url = "https://github.com/g0v/"
 rss = "https://g0vsite.firebaseio.com/feed/blog/articles"
 tags = [ "Brigade", "Code for All" ]

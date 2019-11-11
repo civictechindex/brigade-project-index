@@ -2,6 +2,7 @@ city = "Savannah, GA"
 events_url = "https://www.meetup.com/opensavannah/"
 latitude = "32.0835"
 longitude = "-81.0998"
+name = "Open Savannah"
 projects_list_url = "https://github.com/opensavannah"
 rss = "https://blog.opensavannah.org/feed"
 tags = [ "Brigade", "Code for America", "Official" ]

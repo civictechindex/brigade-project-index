@@ -2,6 +2,7 @@ city = "Vancouver, BC"
 events_url = "http://www.meetup.com/Code-for-Canada-Vancouver"
 latitude = "49.2811"
 longitude = "-123.0440"
+name = "Code for Vancouver"
 projects_list_url = "https://github.com/codeforcanada"
 tags = [ "Brigade" ]
 type = "Brigade"
