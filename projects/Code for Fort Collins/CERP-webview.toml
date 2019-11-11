@@ -2,4 +2,5 @@ code_url = "https://github.com/CodeForFoco/CERP-webview"
 git_branch = "master"
 git_url = "git://github.com/CodeForFoco/CERP-webview.git"
 link_url = "https://cerp-code-foco.herokuapp.com/"
+name = "CERP-webview"
 topics = [ "civic-hacking", "code-for-america" ]

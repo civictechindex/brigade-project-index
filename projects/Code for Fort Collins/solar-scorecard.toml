@@ -2,4 +2,5 @@ code_url = "https://github.com/CodeForFoco/solar-scorecard"
 git_branch = "master"
 git_url = "git://github.com/CodeForFoco/solar-scorecard.git"
 link_url = "http://solar-scorecard.org/"
+name = "solar-scorecard"
 topics = [ "community-driven", "renewable-energy", "solar" ]

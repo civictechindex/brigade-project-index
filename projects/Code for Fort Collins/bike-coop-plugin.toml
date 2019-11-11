@@ -1,4 +1,5 @@
 code_url = "https://github.com/CodeForFoco/bike-coop-plugin"
 git_branch = "master"
 git_url = "git://github.com/CodeForFoco/bike-coop-plugin.git"
+name = "bike-coop-plugin"
 topics = [ "wordpress-plugin" ]
