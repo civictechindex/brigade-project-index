@@ -1,1 +1,3 @@
 code_url = "https://github.com/biolithic/banpweb"
+flags = [ "github_404" ]
+name = "banpweb"

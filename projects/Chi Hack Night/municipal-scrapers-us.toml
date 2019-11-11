@@ -1,1 +1,3 @@
 code_url = "https://github.com/datamade/municipal-scrapers-us"
+flags = [ "github_404" ]
+name = "municipal-scrapers-us"

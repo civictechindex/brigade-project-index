@@ -1,1 +1,3 @@
 code_url = "https://github.com/cmbirk/chicagocode.org"
+flags = [ "github_404" ]
+name = "chicagocode.org"

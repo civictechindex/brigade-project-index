@@ -1,1 +1,9 @@
 code_url = "https://github.com/Chicago/osd-bike-routes"
+name = "osd-bike-routes"
+topics = [
+  "bike-routes",
+  "chicago",
+  "geojson-data",
+  "government",
+  "open-data"
+]

@@ -1,1 +1,3 @@
 code_url = "https://github.com/jpfahrenbach/datamandering"
+flags = [ "github_404" ]
+name = "datamandering"

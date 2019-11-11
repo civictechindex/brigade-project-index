@@ -1,1 +1,9 @@
 code_url = "https://github.com/datamade/csvdedupe"
+name = "csvdedupe"
+topics = [
+  "cli",
+  "csv-files",
+  "dedupe",
+  "entity-resolution",
+  "record-linkage"
+]

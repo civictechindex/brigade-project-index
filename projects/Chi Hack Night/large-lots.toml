@@ -1,1 +1,3 @@
 code_url = "https://github.com/datamade/large-lots"
+flags = [ "github_404" ]
+name = "large-lots"

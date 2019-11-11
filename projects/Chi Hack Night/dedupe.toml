@@ -1,1 +1,9 @@
 code_url = "https://github.com/datamade/dedupe"
+name = "dedupe"
+topics = [
+  "dedupe",
+  "entity-resolution",
+  "python",
+  "python-library",
+  "record-linkage"
+]
