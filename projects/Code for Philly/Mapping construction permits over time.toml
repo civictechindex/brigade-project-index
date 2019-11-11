@@ -1,5 +1,6 @@
 code_url = "https://github.com/jimRsmiley/phila-construction-permit-heatmap"
 description = "Mapping the change in construction permits over time to see if it indicates neighborhoods in change."
 link_url = "http://constructionpermits.phl.io"
+name = "Mapping construction permits over time"
 status = "Maintaining"
 topics = [ "Maps" ]

@@ -1,5 +1,16 @@
 code_url = "https://github.com/yurykorzun/notinphilly"
 description = "Not in Philly"
 link_url = "http://notinphilly.org"
+name = "Not in Philly"
 status = "Testing"
-topics = [ "Garbage", "Communities", "Mapping", "Sanitation" ]
+topics = [
+  "Communities",
+  "Garbage",
+  "Mapping",
+  "Sanitation",
+  "city",
+  "civic",
+  "codeforphilly",
+  "community",
+  "litter"
+]

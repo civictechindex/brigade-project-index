@@ -1,5 +1,6 @@
 code_url = "https://github.com/patmaiden/septa-ninja"
 description = "Get set up - see our [README page](https://github.com/patmaiden/septa-ninja/blob/master/README.md)"
 link_url = "http://www.septa.ninja"
+name = "Septa Ninja"
 status = "Testing"
-topics = [ "Transit", "Accessibility", "Crowdsourcing", "SEPTA" ]
+topics = [ "Accessibility", "Crowdsourcing", "SEPTA", "Transit" ]

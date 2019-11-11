@@ -1,5 +1,6 @@
 code_url = "https://github.com/UnlockedLab/unlockphilly"
 description = "Using open data and crowd sourcing our mission is to make Philadelphia a more accessible city that welcomes and embraces people of all ages and abilities."
 link_url = "http://www.unlockphilly.com"
+name = "Unlock Philly"
 status = "Maintaining"
-topics = [ "Transit", "Accessibility" ]
+topics = [ "Accessibility", "Transit" ]

@@ -1,5 +1,6 @@
 code_url = "https://github.com/CfABrigadePhiladelphia/patco-gtfs"
 description = "Google came up with an awesome specification for transit data: [GTFS](https://developers.google.com/transit/gtfs/reference).  Many transit agencies publish their schedules as GTFS for Google and other developers to use in transit applications; PATCO does not currently publish theirs as GTFS.  This project takes the data from the [PATCO PDF schedules](http://www.ridepatco.org/schedules/schedules.asp), and transforms them into GTFS."
 link_url = "https://github.com/flibbertigibbet/patco-gtfs/releases"
+name = "PATCO GTFS"
 status = "Maintaining"
 topics = [ "Transit", "Transportation" ]

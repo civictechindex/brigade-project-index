@@ -1,4 +1,5 @@
 code_url = "https://github.com/maneesha/phila_city_council"
 link_url = "http://phlcitycouncil.pythonanywhere.com/"
+name = "Philadelphia City Council"
 status = "Prototyping"
-topics = [ "opengov", "Democracy" ]
+topics = [ "Democracy", "opengov" ]

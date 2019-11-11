@@ -1,9 +1,10 @@
 code_url = "https://github.com/CodeForPhilly/mentorphilly"
 link_url = "http://mentorphilly.org"
+name = "MentorPhilly"
 status = "Prototyping"
 topics = [
-  "Mentorship",
   "CivicEngagement",
-  "Returning-Citizens",
-  "Reentry-Network"
+  "Mentorship",
+  "Reentry-Network",
+  "Returning-Citizens"
 ]

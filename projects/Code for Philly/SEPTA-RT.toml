@@ -1,5 +1,6 @@
 code_url = "https://github.com/CfABrigadePhiladelphia/SEPTA-RT"
 description = "SEPTA-RT: Real-time map of SEPTA mobile App Users"
 link_url = "http://septa-rt.phl.io"
+name = "SEPTA-RT"
 status = "Commenting"
 topics = [ "Transit" ]

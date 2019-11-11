@@ -1,5 +1,6 @@
 code_url = "https://github.com/flibbertigibbet/opentripplanner-mobile-site"
 description = "The [OpenTripPlanner](https://codeforphilly.org/projects/otp) project has a great API, but the website for the project doesn't work on mobile. The goal of this project is to provide a mobile-first website that uses the OpenTripPlanner API to plan trips."
 link_url = "http://flibbertigibbet.github.io/opentripplanner-mobile-site/"
+name = "opentripplanner-mobile-site"
 status = "Prototyping"
-topics = [ "OpenTripPlanner", "Transportation", "Transit", "Mobile" ]
+topics = [ "Mobile", "OpenTripPlanner", "Transit", "Transportation" ]

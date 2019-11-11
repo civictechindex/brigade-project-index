@@ -1,4 +1,6 @@
 code_url = "https://github.com/theONEdotnet/Alexa-Skill-about-Philly.git"
+flags = [ "github_404" ]
+name = 'Designing a Voice User Interface for "Smart Cities"'
 status = "Commenting"
 topics = [
   "smart city",

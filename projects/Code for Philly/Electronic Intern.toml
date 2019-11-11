@@ -1,4 +1,5 @@
 code_url = "https://github.com/davewalk/electronic_intern"
 description = 'Electronic Intern will help the [PhillyASAP](http://phillyasap.org/) program maintain their listing of after-school programs in Philadelphia. Instead of having interns spend all summer cold-calling these programs, Electronic Intern will send automated calls that will direct the location to either send in their details by fax, a submit form on the website or press "4" to be directed back to PhillyASAP.'
+name = "Electronic Intern"
 status = "Drifting"
-topics = [ "Voice", "PhillyASAP", "After-school Programs" ]
+topics = [ "After-school Programs", "PhillyASAP", "Voice" ]

@@ -1,5 +1,6 @@
 code_url = "https://github.com/codeforphilly/cityx/"
 description = "DeputyDashboard"
 link_url = "https://github.com/codeforphilly/cityx/"
+name = "DeputyDashboard"
 status = "Testing"
-topics = [ "Property", "Parcel", "permits", "violations" ]
+topics = [ "Parcel", "Property", "permits", "violations" ]

@@ -1,4 +1,6 @@
 code_url = "https://github.com/DaJour/database-management-system"
 description = "Travel with me as I discover the ins and outs of a catalog database"
+flags = [ "github_404" ]
+name = "Database Management System"
 status = "Prototyping"
 topics = [ "data management" ]

@@ -1,4 +1,5 @@
 code_url = "http://github.com/boutell/bike-me-now"
 description = 'An indego app with just two buttons: "Closest Bike" and "Closest Dock."'
+name = "Bike Me Now"
 status = "Prototyping"
-topics = [ "bike sharing", "indego", "Cycling" ]
+topics = [ "Cycling", "bike sharing", "indego" ]

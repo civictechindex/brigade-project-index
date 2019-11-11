@@ -1,5 +1,6 @@
 code_url = "https://github.com/ptvirgo/trashinator-django"
 description = "Every year, the City of Philadelphia disposes **1 ton** of waste *per resident.* That is ... *impressive.*  The city has *also* made it a goal to [eliminate litter and landfill use](https://cleanphl.org/programs/zerowaste/) by 2035."
 link_url = "https://django.pablovirgo.com/trash"
+name = "Trashinator"
 status = "Prototyping"
-topics = [ "Environment", "Data" ]
+topics = [ "Data", "Environment" ]

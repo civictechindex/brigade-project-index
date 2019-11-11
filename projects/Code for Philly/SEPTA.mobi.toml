@@ -1,5 +1,6 @@
 code_url = "https://github.com/JarvusInnovations/SeptaMobi"
 description = "[SEPTA.mobi](http://septa.mobi) is a simple mobile website for finding live bus and trolley positions."
 link_url = "http://v3.septa.mobi"
+name = "SEPTA.mobi"
 status = "Maintaining"
 topics = [ "Transit" ]

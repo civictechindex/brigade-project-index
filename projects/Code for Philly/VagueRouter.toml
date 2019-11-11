@@ -1,5 +1,6 @@
 code_url = "https://github.com/dmiddlecamp/VagueRouter"
 description = "My Apps 4 Septa App!"
 link_url = "http://middle.camp/septa/"
+name = "VagueRouter"
 status = "Drifting"
-topics = [ "Transit", "Maps" ]
+topics = [ "Maps", "Transit" ]

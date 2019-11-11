@@ -1,4 +1,5 @@
 code_url = "https://github.com/JohnYagecic/PhillyRenewablesDashboard"
 description = "The goal is to translate real time solar radiation and wind data into a graphic descriptor of the availability of energy from renewable sources.  Users could use the simple interface to decide whether or not to plug in.  Need immediate help with data discovery of real-time wind data and historical time series data sets for electricity production from renewables.  Private weather stations and solar panels could be a high value data set, but their availability is unknown."
+name = "Philly Renewables Dashboard"
 status = "Commenting"
-topics = [ "renewable energy", "Data Science" ]
+topics = [ "Data Science", "renewable energy" ]
