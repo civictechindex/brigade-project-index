@@ -1,4 +1,5 @@
 code_url = "https://github.com/BMGhack/bmghack.github.io"
 git_branch = "master"
 git_url = "git://github.com/BMGhack/bmghack.github.io.git"
+name = "bmghack.github.io"
 topics = [ "civic-hacking", "civic-tech", "code-for-america", "indiana" ]
