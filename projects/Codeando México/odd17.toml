@@ -2,6 +2,7 @@ code_url = "https://github.com/CodeandoMexico/odd17"
 git_branch = "gh-pages"
 git_url = "git://github.com/CodeandoMexico/odd17.git"
 link_url = "http://odd17.codeandomexico.org"
+name = "odd17"
 topics = [
   "civic-tech",
   "codeando-mexico",

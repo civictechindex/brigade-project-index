@@ -1,6 +1,7 @@
 code_url = "https://github.com/CodeandoMexico/chambas"
 git_branch = "master"
 git_url = "git://github.com/CodeandoMexico/chambas.git"
+name = "chambas"
 topics = [
   "civic-tech",
   "codeando-mexico",

@@ -2,4 +2,5 @@ code_url = "https://github.com/CodeandoMexico/drtoolkit"
 git_branch = "master"
 git_url = "git://github.com/CodeandoMexico/drtoolkit.git"
 link_url = "http://disasterrelief.codeforall.org/"
+name = "drtoolkit"
 topics = [ "civic-hacking", "civic-tech", "open-source" ]

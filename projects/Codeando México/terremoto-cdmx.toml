@@ -2,4 +2,5 @@ code_url = "https://github.com/CodeandoMexico/terremoto-cdmx"
 git_branch = "master"
 git_url = "git://github.com/CodeandoMexico/terremoto-cdmx.git"
 link_url = "https://sismomexico.com.mx"
+name = "terremoto-cdmx"
 topics = [ "civic-tech", "disaster-response", "humanitarian", "mexico" ]
