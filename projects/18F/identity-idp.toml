@@ -2,4 +2,5 @@ code_url = "https://github.com/18F/identity-idp"
 git_branch = "master"
 git_url = "git://github.com/18F/identity-idp.git"
 link_url = "https://secure.login.gov/"
+name = "identity-idp"
 topics = [ "login-gov" ]

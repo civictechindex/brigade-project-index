@@ -2,4 +2,5 @@ code_url = "https://github.com/18F/18f.gsa.gov"
 git_branch = "master"
 git_url = "git://github.com/18F/18f.gsa.gov.git"
 link_url = "https://18f.gsa.gov"
+name = "18f.gsa.gov"
 topics = [ "active", "federalist" ]

@@ -1,6 +1,7 @@
 code_url = "https://github.com/18F/identity-oidc-gin"
 git_branch = "master"
 git_url = "git://github.com/18F/identity-oidc-gin.git"
+name = "identity-oidc-gin"
 topics = [
   "gin-gonic",
   "go",

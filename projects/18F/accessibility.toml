@@ -2,4 +2,5 @@ code_url = "https://github.com/18F/accessibility"
 git_branch = "18f-pages"
 git_url = "git://github.com/18F/accessibility.git"
 link_url = "https://pages.18f.gov/accessibility/"
+name = "accessibility"
 topics = [ "a11y", "accessibility", "best-practices" ]

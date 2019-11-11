@@ -1,3 +1,4 @@
 code_url = "https://github.com/18F/cf-service-connect"
 git_branch = "master"
 git_url = "git://github.com/18F/cf-service-connect.git"
+name = "cf-service-connect"

@@ -2,4 +2,5 @@ code_url = "https://github.com/18F/uswds-jekyll"
 git_branch = "master"
 git_url = "git://github.com/18F/uswds-jekyll.git"
 link_url = "https://federalist-proxy.app.cloud.gov/site/18f/uswds-jekyll/"
+name = "uswds-jekyll"
 topics = [ "government", "jekyll-theme", "uswds" ]

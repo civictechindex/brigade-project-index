@@ -1,3 +1,4 @@
 code_url = "https://github.com/18F/analytics-reporter-api"
 git_branch = "master"
 git_url = "git://github.com/18F/analytics-reporter-api.git"
+name = "analytics-reporter-api"

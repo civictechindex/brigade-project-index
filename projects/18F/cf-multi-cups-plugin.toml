@@ -1,3 +1,4 @@
 code_url = "https://github.com/18F/cf-multi-cups-plugin"
 git_branch = "master"
 git_url = "git://github.com/18F/cf-multi-cups-plugin.git"
+name = "cf-multi-cups-plugin"

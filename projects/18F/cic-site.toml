@@ -2,4 +2,5 @@ code_url = "https://github.com/18F/cic-site"
 git_branch = "master"
 git_url = "git://github.com/18F/cic-site.git"
 link_url = "https://federalist-proxy.app.cloud.gov/site/18f/cic-site/"
+name = "cic-site"
 topics = [ "cloud", "government", "howto", "jekyll", "procurement" ]

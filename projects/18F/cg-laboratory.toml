@@ -2,6 +2,7 @@ code_url = "https://github.com/18F/cg-laboratory"
 git_branch = "master"
 git_url = "git://github.com/18F/cg-laboratory.git"
 link_url = "https://cloud.gov"
+name = "cg-laboratory"
 topics = [
   "18f",
   "cloud-foundry",

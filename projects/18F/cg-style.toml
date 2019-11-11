@@ -2,6 +2,7 @@ code_url = "https://github.com/18F/cg-style"
 git_branch = "master"
 git_url = "git://github.com/18F/cg-style.git"
 link_url = "https://styleguide.fr.cloud.gov"
+name = "cg-style"
 topics = [
   "cloudfoundry",
   "cloudgov-style",

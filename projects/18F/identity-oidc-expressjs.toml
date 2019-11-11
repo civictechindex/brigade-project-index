@@ -1,6 +1,7 @@
 code_url = "https://github.com/18F/identity-oidc-expressjs"
 git_branch = "master"
 git_url = "git://github.com/18F/identity-oidc-expressjs.git"
+name = "identity-oidc-expressjs"
 topics = [
   "expressjs",
   "login-gov",

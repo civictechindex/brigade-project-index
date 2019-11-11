@@ -1,4 +1,5 @@
 code_url = "https://github.com/18F/identity-dashboard"
 git_branch = "master"
 git_url = "git://github.com/18F/identity-dashboard.git"
+name = "identity-dashboard"
 topics = [ "login-gov" ]

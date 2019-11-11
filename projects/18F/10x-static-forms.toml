@@ -1,4 +1,5 @@
 code_url = "https://github.com/18F/10x-static-forms"
 git_branch = "master"
 git_url = "git://github.com/18F/10x-static-forms.git"
+name = "10x-static-forms"
 topics = [ "10x", "government-forms", "jamstack", "static-sites" ]

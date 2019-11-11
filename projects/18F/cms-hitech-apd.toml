@@ -2,6 +2,7 @@ code_url = "https://github.com/18F/cms-hitech-apd"
 git_branch = "master"
 git_url = "git://github.com/18F/cms-hitech-apd.git"
 link_url = "https://eapd.cms.gov"
+name = "cms-hitech-apd"
 topics = [
   "18f-human-services",
   "apd",

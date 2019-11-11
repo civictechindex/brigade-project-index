@@ -1,6 +1,7 @@
 code_url = "https://github.com/18F/gravel"
 git_branch = "master"
 git_url = "git://github.com/18F/gravel.git"
+name = "gravel"
 topics = [
   "boulder",
   "cloud-dot-gov",

@@ -2,4 +2,5 @@ code_url = "https://github.com/18F/identity-style-guide"
 git_branch = "master"
 git_url = "git://github.com/18F/identity-style-guide.git"
 link_url = "https://design.login.gov"
+name = "identity-style-guide"
 topics = [ "login-gov" ]

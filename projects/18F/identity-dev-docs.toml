@@ -2,4 +2,5 @@ code_url = "https://github.com/18F/identity-dev-docs"
 git_branch = "master"
 git_url = "git://github.com/18F/identity-dev-docs.git"
 link_url = "https://developers.login.gov"
+name = "identity-dev-docs"
 topics = [ "login-gov" ]

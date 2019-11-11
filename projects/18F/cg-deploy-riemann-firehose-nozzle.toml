@@ -1,3 +1,4 @@
 code_url = "https://github.com/18F/cg-deploy-riemann-firehose-nozzle"
 git_branch = "master"
 git_url = "git://github.com/18F/cg-deploy-riemann-firehose-nozzle.git"
+name = "cg-deploy-riemann-firehose-nozzle"

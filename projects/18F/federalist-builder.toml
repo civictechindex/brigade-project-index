@@ -1,4 +1,5 @@
 code_url = "https://github.com/18F/federalist-builder"
 git_branch = "staging"
 git_url = "git://github.com/18F/federalist-builder.git"
+name = "federalist-builder"
 topics = [ "federalist" ]

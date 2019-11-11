@@ -2,4 +2,5 @@ code_url = "https://github.com/18F/nsf-sbir"
 git_branch = "dev"
 git_url = "git://github.com/18F/nsf-sbir.git"
 link_url = "https://seedfund.nsf.gov"
+name = "nsf-sbir"
 topics = [ "nsf", "sbir" ]

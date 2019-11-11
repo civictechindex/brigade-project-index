@@ -1,6 +1,7 @@
 code_url = "https://github.com/18F/dol-whd-14c"
 git_branch = "master"
 git_url = "git://github.com/18F/dol-whd-14c.git"
+name = "dol-whd-14c"
 topics = [
   "14c-application",
   "14c-certificate",

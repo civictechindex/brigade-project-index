@@ -2,6 +2,7 @@ code_url = "https://github.com/18F/analytics.usa.gov"
 git_branch = "master"
 git_url = "git://github.com/18F/analytics.usa.gov.git"
 link_url = "https://analytics.usa.gov"
+name = "analytics.usa.gov"
 topics = [
   "analytics",
   "analytics-dashboard",

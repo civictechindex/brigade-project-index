@@ -1,3 +1,4 @@
 code_url = "https://github.com/18F/golang-api-backend"
 git_branch = "master"
 git_url = "git://github.com/18F/golang-api-backend.git"
+name = "golang-api-backend"

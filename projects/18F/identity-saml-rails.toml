@@ -1,4 +1,5 @@
 code_url = "https://github.com/18F/identity-saml-rails"
 git_branch = "master"
 git_url = "git://github.com/18F/identity-saml-rails.git"
+name = "identity-saml-rails"
 topics = [ "login-gov" ]

@@ -1,4 +1,5 @@
 code_url = "https://github.com/18F/hubot-scripts-us-federal-holidays-reminder"
 git_branch = "master"
 git_url = "git://github.com/18F/hubot-scripts-us-federal-holidays-reminder.git"
+name = "hubot-scripts-us-federal-holidays-reminder"
 topics = [ "charlie", "hubot", "hubot-script", "hubot-scripts" ]
