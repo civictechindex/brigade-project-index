@@ -2,4 +2,5 @@ code_url = "https://github.com/codeforokc/codeofconduct"
 git_branch = "master"
 git_url = "git://github.com/codeforokc/codeofconduct.git"
 link_url = "http://codeforokc.org"
+name = "codeofconduct"
 topics = [ "codeofconduct" ]
