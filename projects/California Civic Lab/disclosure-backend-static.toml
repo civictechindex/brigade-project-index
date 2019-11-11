@@ -2,6 +2,7 @@ code_url = "https://github.com/caciviclab/disclosure-backend-static"
 git_branch = "master"
 git_url = "git://github.com/caciviclab/disclosure-backend-static.git"
 link_url = "https://caciviclab.org/odca-jekyll/"
+name = "disclosure-backend-static"
 topics = [
   "california",
   "campaign-finance",
