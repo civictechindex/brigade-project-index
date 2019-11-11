@@ -2,6 +2,7 @@ code_url = "https://github.com/CodeForAfrica/HealthTools.KE-theStarHealth"
 git_branch = "master"
 git_url = "git://github.com/CodeForAfrica/HealthTools.KE-theStarHealth.git"
 link_url = "http://health.the-star.co.ke"
+name = "HealthTools.KE-theStarHealth"
 topics = [
   "africa",
   "civic-apps",

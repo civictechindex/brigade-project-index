@@ -2,6 +2,7 @@ code_url = "https://github.com/CodeForAfrica/AlertME"
 git_branch = "master"
 git_url = "git://github.com/CodeForAfrica/AlertME.git"
 link_url = "https://greenalert.oxpeckers.org/"
+name = "AlertME"
 topics = [
   "africa",
   "alertme",

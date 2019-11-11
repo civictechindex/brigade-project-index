@@ -2,6 +2,7 @@ code_url = "https://github.com/CodeForAfrica/GotToVote"
 git_branch = "master"
 git_url = "git://github.com/CodeForAfrica/GotToVote.git"
 link_url = "https://kenya.gottovote.cc"
+name = "GotToVote"
 topics = [
   "africa",
   "elections",

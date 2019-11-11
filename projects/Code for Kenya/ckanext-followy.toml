@@ -1,6 +1,7 @@
 code_url = "https://github.com/CodeForAfrica/ckanext-followy"
 git_branch = "master"
 git_url = "git://github.com/CodeForAfrica/ckanext-followy.git"
+name = "ckanext-followy"
 topics = [
   "ckan",
   "ckan-extension",

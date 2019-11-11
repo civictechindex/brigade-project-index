@@ -2,6 +2,7 @@ code_url = "https://github.com/CodeForAfrica/politwoops"
 git_branch = "master"
 git_url = "git://github.com/CodeForAfrica/politwoops.git"
 link_url = "https://politwoops.codeforkenya.org"
+name = "politwoops"
 topics = [
   "africa",
   "bot",

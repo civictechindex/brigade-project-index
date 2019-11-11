@@ -2,6 +2,7 @@ code_url = "https://github.com/CodeForAfrica/TenderBlackList.WB"
 git_branch = "master"
 git_url = "git://github.com/CodeForAfrica/TenderBlackList.WB.git"
 link_url = "https://tenderblacklist-wb.codeforafrica.org/"
+name = "TenderBlackList.WB"
 topics = [
   "blacklist",
   "debarred",

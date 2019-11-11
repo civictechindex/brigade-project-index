@@ -1,6 +1,7 @@
 code_url = "https://github.com/CodeForAfrica/ckanext-social"
 git_branch = "master"
 git_url = "git://github.com/CodeForAfrica/ckanext-social.git"
+name = "ckanext-social"
 topics = [
   "africa",
   "andela",
