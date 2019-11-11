@@ -1,4 +1,5 @@
 code_url = "https://github.com/opencleveland/drocer-webapp"
 git_branch = "master"
 git_url = "git://github.com/opencleveland/drocer-webapp.git"
+name = "drocer-webapp"
 topics = [ "cleveland", "extractor", "legislation" ]

@@ -1,3 +1,4 @@
 code_url = "https://github.com/opencleveland/historical_aerial_downloader"
 git_branch = "master"
 git_url = "git://github.com/opencleveland/historical_aerial_downloader.git"
+name = "historical_aerial_downloader"
