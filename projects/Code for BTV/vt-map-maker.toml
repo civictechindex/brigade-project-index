@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforbtv/vt-map-maker"
 git_branch = "master"
 git_url = "git://github.com/codeforbtv/vt-map-maker.git"
+name = "vt-map-maker"
 topics = [ "geospatial" ]
