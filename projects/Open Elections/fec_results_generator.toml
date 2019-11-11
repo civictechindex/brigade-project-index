@@ -1,3 +1,4 @@
 code_url = "https://github.com/openelections/fec_results_generator"
 git_branch = "master"
 git_url = "git://github.com/openelections/fec_results_generator.git"
+name = "fec_results_generator"

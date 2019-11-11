@@ -1,3 +1,4 @@
 code_url = "https://github.com/openelections/openelections-data-vt"
 git_branch = "master"
 git_url = "git://github.com/openelections/openelections-data-vt.git"
+name = "openelections-data-vt"

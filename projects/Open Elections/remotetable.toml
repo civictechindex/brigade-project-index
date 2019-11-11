@@ -1,3 +1,4 @@
 code_url = "https://github.com/openelections/remotetable"
 git_branch = "master"
 git_url = "git://github.com/openelections/remotetable.git"
+name = "remotetable"

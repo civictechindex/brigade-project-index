@@ -1,4 +1,5 @@
 code_url = "https://github.com/openelections/openelections-data-or"
 git_branch = "master"
 git_url = "git://github.com/openelections/openelections-data-or.git"
+name = "openelections-data-or"
 topics = [ "elections", "openelections-data", "oregon" ]
