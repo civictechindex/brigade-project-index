@@ -2,6 +2,7 @@ code_url = "https://github.com/codeformunich/radlquartier"
 git_branch = "master"
 git_url = "git://github.com/codeformunich/radlquartier.git"
 link_url = "http://mvg.manuel.red/"
+name = "radlquartier"
 topics = [
   "data-science",
   "data-visualization",
