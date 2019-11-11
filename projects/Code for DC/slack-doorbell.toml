@@ -1,3 +1,4 @@
 code_url = "https://github.com/codefordc/slack-doorbell"
 git_branch = "master"
 git_url = "git://github.com/codefordc/slack-doorbell.git"
+name = "slack-doorbell"
