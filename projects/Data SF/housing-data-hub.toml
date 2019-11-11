@@ -2,4 +2,5 @@ code_url = "https://github.com/DataSF/housing-data-hub"
 git_branch = "gh-pages"
 git_url = "git://github.com/DataSF/housing-data-hub.git"
 link_url = "http://housing.datasf.org"
+name = "housing-data-hub"
 topics = [ "housing", "jekyll" ]

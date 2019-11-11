@@ -1,4 +1,5 @@
 code_url = "https://github.com/DataSF/Shp-To-Socrata"
 git_branch = "master"
 git_url = "git://github.com/DataSF/Shp-To-Socrata.git"
+name = "Shp-To-Socrata"
 topics = [ "etl", "extract", "load", "transform" ]

@@ -1,4 +1,5 @@
 code_url = "https://github.com/DataSF/Geojson-to-Socrata"
 git_branch = "master"
 git_url = "git://github.com/DataSF/Geojson-to-Socrata.git"
+name = "Geojson-to-Socrata"
 topics = [ "etl", "extract", "load", "transform" ]

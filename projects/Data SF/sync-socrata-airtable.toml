@@ -1,3 +1,4 @@
 code_url = "https://github.com/DataSF/sync-socrata-airtable"
 git_branch = "master"
 git_url = "git://github.com/DataSF/sync-socrata-airtable.git"
+name = "sync-socrata-airtable"
