@@ -2,6 +2,7 @@ code_url = "https://github.com/CodeforHawaii/ACLU"
 git_branch = "master"
 git_url = "git://github.com/CodeforHawaii/ACLU.git"
 link_url = "https://aclu.codeforhawaii.org/#/"
+name = "ACLU"
 topics = [
   "aclu",
   "civil-rights",
