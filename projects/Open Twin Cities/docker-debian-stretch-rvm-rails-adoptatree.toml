@@ -1,3 +1,4 @@
 code_url = "https://github.com/OpenTwinCities/docker-debian-stretch-rvm-rails-adoptatree"
 git_branch = "master"
 git_url = "git://github.com/OpenTwinCities/docker-debian-stretch-rvm-rails-adoptatree.git"
+name = "docker-debian-stretch-rvm-rails-adoptatree"

@@ -1,4 +1,5 @@
 code_url = "https://github.com/OpenTwinCities/mn_candidate_scraper"
 git_branch = "master"
 git_url = "git://github.com/OpenTwinCities/mn_candidate_scraper.git"
+name = "mn_candidate_scraper"
 topics = [ "election-data", "elections", "minnesota" ]

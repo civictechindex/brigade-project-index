@@ -1,3 +1,4 @@
 code_url = "https://github.com/OpenTwinCities/cfapi_attendance_sync"
 git_branch = "master"
 git_url = "git://github.com/OpenTwinCities/cfapi_attendance_sync.git"
+name = "cfapi_attendance_sync"
