@@ -1,3 +1,4 @@
 code_url = "https://github.com/cforlando/brigade-resources"
 git_branch = "master"
 git_url = "git://github.com/cforlando/brigade-resources.git"
+name = "brigade-resources"
