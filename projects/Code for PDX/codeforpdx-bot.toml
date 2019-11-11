@@ -1,3 +1,4 @@
 code_url = "https://github.com/codeforpdx/codeforpdx-bot"
 git_branch = "master"
 git_url = "git://github.com/codeforpdx/codeforpdx-bot.git"
+name = "codeforpdx-bot"
