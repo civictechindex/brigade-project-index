@@ -1,5 +1,6 @@
 code_url = "https://github.com/CivicTechTO/open-cabinet"
 description = "Making it easier to discover what Canada's federal cabinet is up to."
 link_url = "opencabinet.ca"
+name = "OpenCabinet"
 status = "alpha"
-topics = [ "canada", "democracy", "parliament", "opendata" ]
+topics = [ "canada", "democracy", "opendata", "parliament" ]

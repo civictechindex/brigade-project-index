@@ -1,5 +1,6 @@
 code_url = "https://github.com/CivicTechTO/civictechto-jekyll"
 description = "An experimental port of our website to Jekyll from Wordpress."
 link_url = "https://civictechto.herokuapp.com/"
+name = "CTTO Website Revamp"
 status = "experiment"
 topics = [ "internal" ]
