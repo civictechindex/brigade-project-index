@@ -2,6 +2,7 @@ code_url = "https://github.com/open-austin/budgetparty"
 git_branch = "master"
 git_url = "git://github.com/open-austin/budgetparty.git"
 link_url = "https://austinbudget.party"
+name = "budgetparty"
 topics = [
   "austin",
   "budget",

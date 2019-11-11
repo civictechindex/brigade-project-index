@@ -2,6 +2,7 @@ code_url = "https://github.com/open-austin/influence-texas"
 git_branch = "master"
 git_url = "git://github.com/open-austin/influence-texas.git"
 link_url = "https://www.influencetexas.com/"
+name = "influence-texas"
 topics = [
   "campaign-finance",
   "legislative-bill-analysis",

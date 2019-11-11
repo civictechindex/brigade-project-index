@@ -1,4 +1,5 @@
 code_url = "https://github.com/open-austin/capture"
 git_branch = "master"
 git_url = "git://github.com/open-austin/capture.git"
+name = "capture"
 topics = [ "transportation" ]
