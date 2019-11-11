@@ -622,20 +622,20 @@ async function loadFeedProjects(repo, projectsListUrl) {
 
             try {
                 response = await githubAxios.get(`/repos/${username}/${repo}`);
+
+                if (response.data.topics.length) {
+                    projectData.topics = (projectData.topics || []).concat(response.data.topics);
+                }
+
+                if (projectData.topics) {
+                    projectData.topics = projectData.topics.sort();
+                }
             } catch (err) {
                 console.error(`GitHub request failed: ${err.response ? err.response.data.message || err.response.status : err.message}`);
 
                 if (err.response && err.response.status == 404) {
-                    return null;
+                    projectData.flags = [ 'github_404' ]
                 }
-            }
-
-            if (response.data.topics.length) {
-                projectData.topics = (projectData.topics || []).concat(response.data.topics);
-            }
-
-            if (projectData.topics) {
-                projectData.topics = projectData.topics.sort();
             }
         }
 
