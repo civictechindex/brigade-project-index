@@ -631,10 +631,10 @@ async function loadFeedProjects(repo, projectsListUrl) {
                     projectData.topics = projectData.topics.sort();
                 }
             } catch (err) {
-                console.error(`GitHub request failed: ${err.response ? err.response.data.message || err.response.status : err.message}`);
-
                 if (err.response && err.response.status == 404) {
                     projectData.flags = [ 'github_404' ]
+                } else {
+                    console.error(`GitHub request failed: ${err.response ? err.response.data.message || err.response.status : err.message}`);
                 }
             }
         }
