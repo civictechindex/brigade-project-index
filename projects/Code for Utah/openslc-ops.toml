@@ -1,3 +1,4 @@
 code_url = "https://github.com/OpenSaltLake/openslc-ops"
 git_branch = "master"
 git_url = "git://github.com/OpenSaltLake/openslc-ops.git"
+name = "openslc-ops"
