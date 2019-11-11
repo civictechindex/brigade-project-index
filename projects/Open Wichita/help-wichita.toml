@@ -1,4 +1,5 @@
 code_url = "https://github.com/openwichita/help-wichita"
 git_branch = "master"
 git_url = "git://github.com/openwichita/help-wichita.git"
+name = "help-wichita"
 topics = [ "opportunities", "twitter-bot", "wichita" ]

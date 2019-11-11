@@ -2,4 +2,5 @@ code_url = "https://github.com/openwichita/ow-help-wanted"
 git_branch = "master"
 git_url = "git://github.com/openwichita/ow-help-wanted.git"
 link_url = "https://help.openwichita.com"
+name = "ow-help-wanted"
 topics = [ "javascript", "node", "react", "serverless" ]
