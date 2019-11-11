@@ -1,4 +1,5 @@
 code_url = "https://github.com/uscensusbureau/SABLE"
 git_branch = "master"
 git_url = "git://github.com/uscensusbureau/SABLE.git"
+name = "SABLE"
 topics = [ "machine-learning", "text-classification", "web-scraping" ]

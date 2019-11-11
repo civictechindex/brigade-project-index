@@ -2,4 +2,5 @@ code_url = "https://github.com/uscensusbureau/census-small-business"
 git_branch = "master"
 git_url = "git://github.com/uscensusbureau/census-small-business.git"
 link_url = "https://uscensusbureau.github.io/census-small-business/"
+name = "census-small-business"
 topics = [ "census-bureau", "census-data", "small-business" ]
