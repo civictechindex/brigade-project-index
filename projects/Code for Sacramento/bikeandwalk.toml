@@ -2,4 +2,5 @@ code_url = "https://github.com/code4sac/bikeandwalk"
 git_branch = "master"
 git_url = "git://github.com/code4sac/bikeandwalk.git"
 link_url = "app.bikeandwalk.org"
+name = "bikeandwalk"
 topics = [ "javascript", "python", "transportation" ]
