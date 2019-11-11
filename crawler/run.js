@@ -375,6 +375,7 @@ async function loadGithubOrgProjects(repo, username) {
 
         // extract interesting bits of data
         const projectData = {
+            name: repo.name,
             code_url: repo.html_url,
             git_url: repo.git_url,
             git_branch: repo.default_branch,
@@ -461,6 +462,7 @@ async function loadGithubTopicProjects(repo, topic) {
 
         // extract interesting bits of data
         const projectData = {
+            name: repo.name,
             code_url: repo.html_url,
             git_url: repo.git_url,
             git_branch: repo.default_branch,
