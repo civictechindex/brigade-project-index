@@ -2,4 +2,5 @@ code_url = "https://github.com/CodeForAsheville/email-all-nc-legislators"
 git_branch = "master"
 git_url = "git://github.com/CodeForAsheville/email-all-nc-legislators.git"
 link_url = "https://www.ncmegaphone.com"
+name = "email-all-nc-legislators"
 topics = [ "civictech", "email", "html", "northcarolina" ]
