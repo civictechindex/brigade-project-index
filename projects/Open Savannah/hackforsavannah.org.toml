@@ -2,6 +2,7 @@ code_url = "https://github.com/opensavannah/hackforsavannah.org"
 git_branch = "master"
 git_url = "git://github.com/opensavannah/hackforsavannah.org.git"
 link_url = "http://hackforsavannah.org"
+name = "hackforsavannah.org"
 topics = [
   "civic-tech",
   "code-for-america",

@@ -1,6 +1,7 @@
 code_url = "https://github.com/opensavannah/citycampsav.org"
 git_branch = "master"
 git_url = "git://github.com/opensavannah/citycampsav.org.git"
+name = "citycampsav.org"
 topics = [
   "city-camp",
   "civic-tech",

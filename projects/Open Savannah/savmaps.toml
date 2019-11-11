@@ -2,6 +2,7 @@ code_url = "https://github.com/opensavannah/savmaps"
 git_branch = "master"
 git_url = "git://github.com/opensavannah/savmaps.git"
 link_url = "https://opensavannah.github.io/savmaps"
+name = "savmaps"
 topics = [
   "codeforamerica",
   "google-sheets",

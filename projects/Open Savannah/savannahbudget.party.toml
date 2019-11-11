@@ -2,6 +2,7 @@ code_url = "https://github.com/opensavannah/savannahbudget.party"
 git_branch = "master"
 git_url = "git://github.com/opensavannah/savannahbudget.party.git"
 link_url = "http://savannahbudget.party"
+name = "savannahbudget.party"
 topics = [
   "budget-simulation",
   "civic-tech",

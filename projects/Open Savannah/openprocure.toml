@@ -2,6 +2,7 @@ code_url = "https://github.com/opensavannah/openprocure"
 git_branch = "master"
 git_url = "git://github.com/opensavannah/openprocure.git"
 link_url = "http://openprocure.us"
+name = "openprocure"
 topics = [
   "codeforamerica",
   "help-wanted",

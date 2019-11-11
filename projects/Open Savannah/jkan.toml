@@ -2,6 +2,7 @@ code_url = "https://github.com/opensavannah/jkan"
 git_branch = "gh-pages"
 git_url = "git://github.com/opensavannah/jkan.git"
 link_url = "http://data.opensavannah.org"
+name = "jkan"
 topics = [
   "civic-tech",
   "code-for-america",

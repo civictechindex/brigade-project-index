@@ -2,6 +2,7 @@ code_url = "https://github.com/opensavannah/track-a-cat"
 git_branch = "master"
 git_url = "git://github.com/opensavannah/track-a-cat.git"
 link_url = "https://opensavannah.github.io/track-a-cat"
+name = "track-a-cat"
 topics = [
   "bus",
   "chatham-area-transit",

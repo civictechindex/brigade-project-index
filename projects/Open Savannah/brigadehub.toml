@@ -2,6 +2,7 @@ code_url = "https://github.com/opensavannah/brigadehub"
 git_branch = "master"
 git_url = "git://github.com/opensavannah/brigadehub.git"
 link_url = "https://opensavannah.org"
+name = "brigadehub"
 topics = [
   "brigadehub",
   "civic-tech",

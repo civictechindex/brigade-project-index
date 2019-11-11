@@ -1,6 +1,7 @@
 code_url = "https://github.com/opensavannah/card-sort-activity-webapp"
 git_branch = "master"
 git_url = "git://github.com/opensavannah/card-sort-activity-webapp.git"
+name = "card-sort-activity-webapp"
 topics = [
   "card-sorting",
   "codeforamerica",

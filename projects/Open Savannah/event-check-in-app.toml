@@ -1,6 +1,7 @@
 code_url = "https://github.com/opensavannah/event-check-in-app"
 git_branch = "master"
 git_url = "git://github.com/opensavannah/event-check-in-app.git"
+name = "event-check-in-app"
 topics = [
   "check-in",
   "codeforamerica",

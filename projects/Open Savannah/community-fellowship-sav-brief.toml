@@ -2,6 +2,7 @@ code_url = "https://github.com/opensavannah/community-fellowship-sav-brief"
 git_branch = "master"
 git_url = "git://github.com/opensavannah/community-fellowship-sav-brief.git"
 link_url = "https://opensavannah.github.io/community-fellowship-sav-brief"
+name = "community-fellowship-sav-brief"
 topics = [
   "budget-app",
   "civic-apps-team",

@@ -1,6 +1,7 @@
 code_url = "https://github.com/opensavannah/floodsight"
 git_branch = "dev"
 git_url = "git://github.com/opensavannah/floodsight.git"
+name = "floodsight"
 topics = [
   "branch-backend",
   "bucket",
