@@ -1,6 +1,7 @@
 code_url = "https://github.com/opendata-heilbronn/victron-data-adapter"
 git_branch = "master"
 git_url = "git://github.com/opendata-heilbronn/victron-data-adapter.git"
+name = "victron-data-adapter"
 topics = [
   "docker",
   "dotnet-core",
