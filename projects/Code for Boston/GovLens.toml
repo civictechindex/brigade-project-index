@@ -1,6 +1,7 @@
 code_url = "https://github.com/codeforboston/GovLens"
 git_branch = "master"
 git_url = "git://github.com/codeforboston/GovLens.git"
+name = "GovLens"
 topics = [
   "code-for-america",
   "code-for-boston",

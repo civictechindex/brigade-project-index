@@ -2,6 +2,7 @@ code_url = "https://github.com/codeforboston/windfall-elimination"
 git_branch = "develop"
 git_url = "git://github.com/codeforboston/windfall-elimination.git"
 link_url = "https://observablehq.com/@thadk/windfall-awareness-notebook-prototype"
+name = "windfall-elimination"
 topics = [
   "code-for-america",
   "code-for-boston",
