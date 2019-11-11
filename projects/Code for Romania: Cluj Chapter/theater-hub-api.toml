@@ -2,6 +2,7 @@ code_url = "https://github.com/code4romania/theater-hub-api"
 git_branch = "master"
 git_url = "git://github.com/code4romania/theater-hub-api.git"
 link_url = "http://theaterhub.ro/"
+name = "theater-hub-api"
 topics = [
   "civic-hacking",
   "civic-tech",

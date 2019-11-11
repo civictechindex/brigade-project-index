@@ -2,6 +2,7 @@ code_url = "https://github.com/code4romania/monitorizare-vot-ong"
 git_branch = "master"
 git_url = "git://github.com/code4romania/monitorizare-vot-ong.git"
 link_url = "https://monitorizarevotong.azurewebsites.net/swagger/ui"
+name = "monitorizare-vot-ong"
 topics = [
   "civic-hacking",
   "civic-tech",
