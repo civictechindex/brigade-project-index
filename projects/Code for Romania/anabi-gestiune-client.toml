@@ -2,6 +2,7 @@ code_url = "https://github.com/code4romania/anabi-gestiune-client"
 git_branch = "master"
 git_url = "git://github.com/code4romania/anabi-gestiune-client.git"
 link_url = "https://code4.ro/ro/apps/anabi/"
+name = "anabi-gestiune-client"
 topics = [
   "anabi",
   "civic-hacking",

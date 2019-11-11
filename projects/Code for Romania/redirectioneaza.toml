@@ -2,6 +2,7 @@ code_url = "https://github.com/code4romania/redirectioneaza"
 git_branch = "master"
 git_url = "git://github.com/code4romania/redirectioneaza.git"
 link_url = "https://redirectioneaza.ro/"
+name = "redirectioneaza"
 topics = [
   "civic-hacking",
   "civic-tech",
