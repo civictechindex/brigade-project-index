@@ -1,3 +1,4 @@
 code_url = "https://github.com/g0v/eia_crawler"
 git_branch = "master"
 git_url = "git://github.com/g0v/eia_crawler.git"
+name = "eia_crawler"
