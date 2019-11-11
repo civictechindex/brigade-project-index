@@ -2,4 +2,5 @@ code_url = "https://github.com/codeforsanjose/codeforsanjose.github.io"
 git_branch = "master"
 git_url = "git://github.com/codeforsanjose/codeforsanjose.github.io.git"
 link_url = "https://www.codeforsanjose.com"
+name = "codeforsanjose.github.io"
 topics = [ "production", "website" ]

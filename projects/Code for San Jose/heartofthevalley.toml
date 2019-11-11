@@ -2,6 +2,7 @@ code_url = "https://github.com/codeforsanjose/heartofthevalley"
 git_branch = "master"
 git_url = "git://github.com/codeforsanjose/heartofthevalley.git"
 link_url = "https://www.codeforsanjose.com/heartofthevalley/"
+name = "heartofthevalley"
 topics = [
   "art",
   "javascript",

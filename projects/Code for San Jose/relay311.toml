@@ -2,4 +2,5 @@ code_url = "https://github.com/codeforsanjose/relay311"
 git_branch = "master"
 git_url = "git://github.com/codeforsanjose/relay311.git"
 link_url = "https://codeforsanjose.github.io/relay311/open311/"
+name = "relay311"
 topics = [ "inactive" ]

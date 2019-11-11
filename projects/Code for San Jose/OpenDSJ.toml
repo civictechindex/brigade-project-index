@@ -2,6 +2,7 @@ code_url = "https://github.com/codeforsanjose/OpenDSJ"
 git_branch = "3vivekb-master"
 git_url = "git://github.com/codeforsanjose/OpenDSJ.git"
 link_url = "http://www.codeforsanjose.com/opendisclosure/"
+name = "OpenDSJ"
 topics = [
   "campaign-finance-data",
   "dashboard",

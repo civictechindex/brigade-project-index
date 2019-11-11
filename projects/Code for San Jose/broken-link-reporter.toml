@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforsanjose/broken-link-reporter"
 git_branch = "master"
 git_url = "git://github.com/codeforsanjose/broken-link-reporter.git"
+name = "broken-link-reporter"
 topics = [ "python", "utilities" ]

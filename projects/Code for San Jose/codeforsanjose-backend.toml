@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforsanjose/codeforsanjose-backend"
 git_branch = "develop"
 git_url = "git://github.com/codeforsanjose/codeforsanjose-backend.git"
+name = "codeforsanjose-backend"
 topics = [ "inactive", "website" ]

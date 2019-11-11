@@ -2,6 +2,7 @@ code_url = "https://github.com/codeforsanjose/renters-rights"
 git_branch = "master"
 git_url = "git://github.com/codeforsanjose/renters-rights.git"
 link_url = "https://rentersrightsguide.org"
+name = "renters-rights"
 topics = [
   "civic-tech",
   "housing",
