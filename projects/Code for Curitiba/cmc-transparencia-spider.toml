@@ -2,4 +2,5 @@ code_url = "https://github.com/CodeForCuritiba/cmc-transparencia-spider"
 git_branch = "master"
 git_url = "git://github.com/CodeForCuritiba/cmc-transparencia-spider.git"
 link_url = "https://cmc-transparencia.herokuapp.com/"
+name = "cmc-transparencia-spider"
 topics = [ "government-data", "scraper", "transparency" ]
