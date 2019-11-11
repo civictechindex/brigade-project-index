@@ -1,3 +1,4 @@
 code_url = "https://github.com/loomio/loomio_webhooks"
 git_branch = "master"
 git_url = "git://github.com/loomio/loomio_webhooks.git"
+name = "loomio_webhooks"
