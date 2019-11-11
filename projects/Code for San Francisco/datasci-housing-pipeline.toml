@@ -1,4 +1,5 @@
 code_url = "https://github.com/sfbrigade/datasci-housing-pipeline"
 git_branch = "master"
 git_url = "git://github.com/sfbrigade/datasci-housing-pipeline.git"
+name = "datasci-housing-pipeline"
 topics = [ "code-for-america", "code-for-sf", "housing-policies" ]

@@ -1,6 +1,7 @@
 code_url = "https://github.com/sfbrigade/datasci_justice-by-public-defender"
 git_branch = "master"
 git_url = "git://github.com/sfbrigade/datasci_justice-by-public-defender.git"
+name = "datasci_justice-by-public-defender"
 topics = [
   "justice",
   "machine-learning",

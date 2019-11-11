@@ -1,3 +1,4 @@
 code_url = "https://github.com/sfbrigade/github-auto-label"
 git_branch = "master"
 git_url = "git://github.com/sfbrigade/github-auto-label.git"
+name = "github-auto-label"

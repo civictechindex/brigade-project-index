@@ -1,6 +1,7 @@
 code_url = "https://github.com/sfbrigade/twabler"
 git_branch = "master"
 git_url = "git://github.com/sfbrigade/twabler.git"
+name = "twabler"
 topics = [
   "code-for-america",
   "code-for-sf",
