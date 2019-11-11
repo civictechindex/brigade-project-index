@@ -2,4 +2,5 @@ code_url = "https://github.com/codeforamerica/la_message"
 git_branch = "master"
 git_url = "git://github.com/codeforamerica/la_message.git"
 link_url = "https://message.labenefits.org"
+name = "la_message"
 topics = [ "integrated-benefits", "ruby-on-rails", "twilio" ]

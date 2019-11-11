@@ -1,3 +1,4 @@
 code_url = "https://github.com/codeforamerica/boto_rsync3"
 git_branch = "master"
 git_url = "git://github.com/codeforamerica/boto_rsync3.git"
+name = "boto_rsync3"

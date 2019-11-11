@@ -1,3 +1,4 @@
 code_url = "https://github.com/codeforamerica/heroku-buildpack-ruby"
 git_branch = "master"
 git_url = "git://github.com/codeforamerica/heroku-buildpack-ruby.git"
+name = "heroku-buildpack-ruby"

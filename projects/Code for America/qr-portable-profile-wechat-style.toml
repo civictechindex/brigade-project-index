@@ -2,6 +2,7 @@ code_url = "https://github.com/codeforamerica/qr-portable-profile-wechat-style"
 git_branch = "master"
 git_url = "git://github.com/codeforamerica/qr-portable-profile-wechat-style.git"
 link_url = "https://portable-profile-v2.herokuapp.com/"
+name = "qr-portable-profile-wechat-style"
 topics = [
   "codeforamerica-workforce",
   "codeforamerica-workforce-2018",
