@@ -2,4 +2,5 @@ code_url = "https://github.com/code-for-nashville/nashville-zone-lookup"
 git_branch = "master"
 git_url = "git://github.com/code-for-nashville/nashville-zone-lookup.git"
 link_url = "https://nashville-zone-lookup.herokuapp.com/"
+name = "nashville-zone-lookup"
 topics = [ "civic-tech", "phoenix", "vue", "zoning" ]

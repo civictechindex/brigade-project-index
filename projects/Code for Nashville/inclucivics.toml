@@ -2,4 +2,5 @@ code_url = "https://github.com/code-for-nashville/inclucivics"
 git_branch = "master"
 git_url = "git://github.com/code-for-nashville/inclucivics.git"
 link_url = "http://www.codefornashville.org/inclucivics/"
+name = "inclucivics"
 topics = [ "civic-tech", "data-viz", "diversity-measurement" ]
