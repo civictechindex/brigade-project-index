@@ -2,4 +2,5 @@ code_url = "https://github.com/opensandiego/sd-playgrounds-parks"
 git_branch = "master"
 git_url = "git://github.com/opensandiego/sd-playgrounds-parks.git"
 link_url = "http://opensandiego.github.io/sd-playgrounds-parks"
+name = "sd-playgrounds-parks"
 topics = [ "inactive", "open-san-diego" ]

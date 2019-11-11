@@ -1,4 +1,5 @@
 code_url = "https://github.com/opensandiego/tacos-and-transit"
 git_branch = "master"
 git_url = "git://github.com/opensandiego/tacos-and-transit.git"
+name = "tacos-and-transit"
 topics = [ "data-viz", "open-san-diego" ]

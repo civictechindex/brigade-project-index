@@ -1,4 +1,5 @@
 code_url = "https://github.com/opensandiego/WeBikeSD-iOS"
 git_branch = "develop"
 git_url = "git://github.com/opensandiego/WeBikeSD-iOS.git"
+name = "WeBikeSD-iOS"
 topics = [ "inactive", "open-san-diego" ]
