@@ -1,4 +1,5 @@
 code_url = "https://github.com/CodeforAustralia/brian"
 git_branch = "master"
 git_url = "git://github.com/CodeforAustralia/brian.git"
+name = "brian"
 topics = [ "australia", "corrections", "justice" ]
