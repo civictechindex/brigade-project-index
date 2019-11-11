@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforkansascity/OpenRecords"
 git_branch = "master"
 git_url = "git://github.com/codeforkansascity/OpenRecords.git"
+name = "OpenRecords"
 topics = [ "code-for-america", "code-for-kc", "foia", "open-records" ]

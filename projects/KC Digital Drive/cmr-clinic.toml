@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforkansascity/cmr-clinic"
 git_branch = "develop"
 git_url = "git://github.com/codeforkansascity/cmr-clinic.git"
+name = "cmr-clinic"
 topics = [ "code-for-america", "code-for-kc", "expungement" ]

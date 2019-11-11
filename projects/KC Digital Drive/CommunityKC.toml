@@ -2,6 +2,7 @@ code_url = "https://github.com/codeforkansascity/CommunityKC"
 git_branch = "master"
 git_url = "git://github.com/codeforkansascity/CommunityKC.git"
 link_url = "http://communitykc.org"
+name = "CommunityKC"
 topics = [
   "code-for-america",
   "code-for-kc",
