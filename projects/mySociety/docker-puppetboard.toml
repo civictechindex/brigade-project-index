@@ -2,4 +2,5 @@ code_url = "https://github.com/mysociety/docker-puppetboard"
 git_branch = "master"
 git_url = "git://github.com/mysociety/docker-puppetboard.git"
 link_url = "https://www.mysociety.org/"
+name = "docker-puppetboard"
 topics = [ "deployment", "docker", "puppetboard" ]

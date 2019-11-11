@@ -1,4 +1,5 @@
 code_url = "https://github.com/mysociety/alaveteli-experiments"
 git_branch = "master"
 git_url = "git://github.com/mysociety/alaveteli-experiments.git"
+name = "alaveteli-experiments"
 topics = [ "alaveteli" ]

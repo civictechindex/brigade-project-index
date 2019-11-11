@@ -1,6 +1,7 @@
 code_url = "https://github.com/mysociety/fixmystreet-mobile"
 git_branch = "master"
 git_url = "git://github.com/mysociety/fixmystreet-mobile.git"
+name = "fixmystreet-mobile"
 topics = [
   "civic-tech",
   "civictech",

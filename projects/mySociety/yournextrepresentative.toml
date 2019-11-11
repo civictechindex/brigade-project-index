@@ -2,4 +2,5 @@ code_url = "https://github.com/mysociety/yournextrepresentative"
 git_branch = "master"
 git_url = "git://github.com/mysociety/yournextrepresentative.git"
 link_url = "https://candidates.democracyclub.org.uk/"
+name = "yournextrepresentative"
 topics = [ "civic-tech", "data", "elections", "politics" ]

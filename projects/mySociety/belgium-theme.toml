@@ -2,4 +2,5 @@ code_url = "https://github.com/mysociety/belgium-theme"
 git_branch = "master"
 git_url = "git://github.com/mysociety/belgium-theme.git"
 link_url = "https://transparencia.be/"
+name = "belgium-theme"
 topics = [ "alaveteli", "alaveteli-theme" ]

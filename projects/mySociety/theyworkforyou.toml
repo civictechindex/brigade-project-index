@@ -2,6 +2,7 @@ code_url = "https://github.com/mysociety/theyworkforyou"
 git_branch = "master"
 git_url = "git://github.com/mysociety/theyworkforyou.git"
 link_url = "http://www.theyworkforyou.com/"
+name = "theyworkforyou"
 topics = [
   "civic-tech",
   "civictech",

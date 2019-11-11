@@ -1,3 +1,4 @@
 code_url = "https://github.com/mysociety/petitions"
 git_branch = "master"
 git_url = "git://github.com/mysociety/petitions.git"
+name = "petitions"

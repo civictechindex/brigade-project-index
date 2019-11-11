@@ -2,4 +2,5 @@ code_url = "https://github.com/mysociety/ruby-msg"
 git_branch = "master"
 git_url = "git://github.com/mysociety/ruby-msg.git"
 link_url = "http://ruby-msg.googlecode.com"
+name = "ruby-msg"
 topics = [ "alaveteli" ]

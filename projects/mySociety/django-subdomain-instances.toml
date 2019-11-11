@@ -1,3 +1,4 @@
 code_url = "https://github.com/mysociety/django-subdomain-instances"
 git_branch = "master"
 git_url = "git://github.com/mysociety/django-subdomain-instances.git"
+name = "django-subdomain-instances"

@@ -1,3 +1,4 @@
 code_url = "https://github.com/mysociety/django-pipeline-csscompressor"
 git_branch = "master"
 git_url = "git://github.com/mysociety/django-pipeline-csscompressor.git"
+name = "django-pipeline-csscompressor"

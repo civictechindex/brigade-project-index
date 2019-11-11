@@ -2,4 +2,5 @@ code_url = "https://github.com/mysociety/asknepal-theme"
 git_branch = "master"
 git_url = "git://github.com/mysociety/asknepal-theme.git"
 link_url = "https://asknepal.info/"
+name = "asknepal-theme"
 topics = [ "alaveteli", "alaveteli-theme" ]

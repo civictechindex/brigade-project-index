@@ -1,4 +1,5 @@
 code_url = "https://github.com/mysociety/active_model_otp"
 git_branch = "master"
 git_url = "git://github.com/mysociety/active_model_otp.git"
+name = "active_model_otp"
 topics = [ "alaveteli" ]

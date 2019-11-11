@@ -1,3 +1,4 @@
 code_url = "https://github.com/mysociety/django-select-time-widget"
 git_branch = "master"
 git_url = "git://github.com/mysociety/django-select-time-widget.git"
+name = "django-select-time-widget"

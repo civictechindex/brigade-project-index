@@ -2,4 +2,5 @@ code_url = "https://github.com/mysociety/puppet-elasticsearch"
 git_branch = "master"
 git_url = "git://github.com/mysociety/puppet-elasticsearch.git"
 link_url = "https://www.mysociety.org/"
+name = "puppet-elasticsearch"
 topics = [ "elasticsearch", "puppet" ]

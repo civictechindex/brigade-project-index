@@ -2,6 +2,7 @@ code_url = "https://github.com/mysociety/alaveteli"
 git_branch = "develop"
 git_url = "git://github.com/mysociety/alaveteli.git"
 link_url = "https://alaveteli.org"
+name = "alaveteli"
 topics = [
   "access-to-information",
   "alaveteli",
