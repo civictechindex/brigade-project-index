@@ -1,6 +1,7 @@
 code_url = "https://github.com/CodeForAfrica/rapidpro-bongolive"
 git_branch = "master"
 git_url = "git://github.com/CodeForAfrica/rapidpro-bongolive.git"
+name = "rapidpro-bongolive"
 topics = [
   "africancommons",
   "bongolive",

@@ -2,6 +2,7 @@ code_url = "https://github.com/CodeForAfrica/HURUmap"
 git_branch = "master"
 git_url = "git://github.com/CodeForAfrica/HURUmap.git"
 link_url = "https://hurumap.org"
+name = "HURUmap"
 topics = [
   "africa",
   "census",

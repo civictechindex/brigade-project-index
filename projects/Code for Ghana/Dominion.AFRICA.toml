@@ -2,6 +2,7 @@ code_url = "https://github.com/CodeForAfrica/Dominion.AFRICA"
 git_branch = "master"
 git_url = "git://github.com/CodeForAfrica/Dominion.AFRICA.git"
 link_url = "https://dominion.investigate.africa"
+name = "Dominion.AFRICA"
 topics = [
   "africa",
   "civic-activists",

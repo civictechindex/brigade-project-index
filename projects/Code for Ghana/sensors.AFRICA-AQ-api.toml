@@ -2,6 +2,7 @@ code_url = "https://github.com/CodeForAfrica/sensors.AFRICA-AQ-api"
 git_branch = "master"
 git_url = "git://github.com/CodeForAfrica/sensors.AFRICA-AQ-api.git"
 link_url = "https://api.aq.sensors.africa/"
+name = "sensors.AFRICA-AQ-api"
 topics = [
   "africa",
   "air-quality",

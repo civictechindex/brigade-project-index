@@ -2,6 +2,7 @@ code_url = "https://github.com/CodeForAfrica/BiscuitIndex"
 git_branch = "master"
 git_url = "git://github.com/CodeForAfrica/BiscuitIndex.git"
 link_url = "https://biscuitindex.codeforkenya.org"
+name = "BiscuitIndex"
 topics = [
   "africa",
   "biscuit",

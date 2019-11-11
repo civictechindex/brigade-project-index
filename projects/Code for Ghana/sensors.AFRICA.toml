@@ -2,6 +2,7 @@ code_url = "https://github.com/CodeForAfrica/sensors.AFRICA"
 git_branch = "master"
 git_url = "git://github.com/CodeForAfrica/sensors.AFRICA.git"
 link_url = "https://sensors.africa"
+name = "sensors.AFRICA"
 topics = [
   "abuja",
   "africa",
