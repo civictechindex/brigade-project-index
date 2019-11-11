@@ -1,3 +1,4 @@
 code_url = "https://github.com/codeforatlanta/homestead-static"
 git_branch = "master"
 git_url = "git://github.com/codeforatlanta/homestead-static.git"
+name = "homestead-static"
