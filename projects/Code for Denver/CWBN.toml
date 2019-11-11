@@ -2,6 +2,7 @@ code_url = "https://github.com/codefordenver/CWBN"
 git_branch = "master"
 git_url = "git://github.com/codefordenver/CWBN.git"
 link_url = "http://cwb.codefordenver.org"
+name = "CWBN"
 topics = [
   "code-for-america",
   "code-for-denver",

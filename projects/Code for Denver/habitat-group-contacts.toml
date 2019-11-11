@@ -1,6 +1,7 @@
 code_url = "https://github.com/codefordenver/habitat-group-contacts"
 git_branch = "master"
 git_url = "git://github.com/codefordenver/habitat-group-contacts.git"
+name = "habitat-group-contacts"
 topics = [
   "code-for-america",
   "code-for-denver",

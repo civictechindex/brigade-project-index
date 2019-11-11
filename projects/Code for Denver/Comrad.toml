@@ -1,6 +1,7 @@
 code_url = "https://github.com/codefordenver/Comrad"
 git_branch = "development"
 git_url = "git://github.com/codefordenver/Comrad.git"
+name = "Comrad"
 topics = [
   "code-for-america",
   "code-for-denver",

@@ -1,6 +1,7 @@
 code_url = "https://github.com/codefordenver/ideaLab"
 git_branch = "master"
 git_url = "git://github.com/codefordenver/ideaLab.git"
+name = "ideaLab"
 topics = [
   "3d-printing",
   "code-for-america",

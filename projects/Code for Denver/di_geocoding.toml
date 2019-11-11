@@ -1,3 +1,4 @@
 code_url = "https://github.com/codefordenver/di_geocoding"
 git_branch = "master"
 git_url = "git://github.com/codefordenver/di_geocoding.git"
+name = "di_geocoding"

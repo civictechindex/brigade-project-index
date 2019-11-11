@@ -1,4 +1,5 @@
 code_url = "https://github.com/codefordenver/shift-api"
 git_branch = "master"
 git_url = "git://github.com/codefordenver/shift-api.git"
+name = "shift-api"
 topics = [ "api", "census", "code-for-america", "code-for-denver" ]
