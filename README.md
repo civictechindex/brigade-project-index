@@ -12,6 +12,7 @@ The Brigade Project Index is designed to create a searchable repository of proje
 * Nikolaj Baer, Open San Diego, nikolaj.baer@gmail.com, @Nikolaj Baer
 * Maile Malin, Hack for LA, mmalin@codeforamerica.org, @maile
 * Tom Dooner, Open Oakland, CfA, tdooner@codeforamerical.org, @tdooner
+* Chris Alfano, Code for Philly, chris@codeforphilly.org, `@chris (former NAC)`
 
 ## Getting Involved
 
