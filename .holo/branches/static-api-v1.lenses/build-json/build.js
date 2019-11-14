@@ -2,47 +2,73 @@
 
 const Gitsheets = require('gitsheets');
 
-build(process.env.HOLOLENS_INPUT);
+outputResult(build(process.env.HOLOLENS_INPUT));
 
 async function build (inputTreeHash) {
 
     // prepare interfaces
     const gitsheets = await Gitsheets.create();
-    const { repo, git } = gitsheets;
 
 
     // prepare output
-    const outputTree = repo.createTree();
+    const outputTree = gitsheets.repo.createTree();
 
 
     // read through all records and write data into output tree
-    const recordsStream = await gitsheets.getRows(inputTreeHash);
+    console.error(`Reading records from tree: ${inputTreeHash}`);
+    const recordsStream = await gitsheets.export(inputTreeHash);
+
     await new Promise ((resolve, reject) => {
-        const records = {};
         const promises = [];
 
+        let lastPrefixLogged;
         recordsStream
-            .on('data', (row) => {
-                records[row._path] = row;
-                debugger;
-                outputTree;
-                if (row._path.startsWith('organizations/')) {
-                    const orgName = row._path.substr(14);
-                    const writePromise = outputTree.writeChild(`${orgName}.json`, JSON.stringify(row));
-                    promises.push(writePromise);
+            .on('data', (record) => {
+                const recordPath = record._path;
+                delete record._path;
+
+                if (recordPath.startsWith('organizations/')) {
+                    const [, orgName] = recordPath.split('/');
+
+                    promises.push(
+                        outputTree.writeChild(`${orgName}.json`, JSON.stringify(record))
+                    );
+
+                    if (lastPrefixLogged != 'organizations') {
+                        console.error('Reading organizations...');
+                        lastPrefixLogged = 'organizations';
+                    }
+                } else if (recordPath.startsWith('projects/')) {
+                    const [, orgName, projectName] = recordPath.split('/');
+
+                    promises.push(
+                        outputTree.writeChild(`${orgName}/${projectName}.json`, JSON.stringify(record))
+                    );
+
+                    if (lastPrefixLogged != 'projects') {
+                        console.error('Reading projects...');
+                        lastPrefixLogged = 'projects';
+                    }
                 }
             })
             .on('end', () => Promise.all(promises).then(resolve).catch(reject))
             .on('error', reject);
     });
 
-    debugger;
 
-    // const fs = require('fs');
+    return outputTree;
+}
 
-    // fs.mkdirSync('./dist');
-    // fs.writeFileSync('./dist/hello.md', '# Hello World');
+async function outputResult(result) {
+    result = await result;
 
+    if (result.isTree) {
+        const treeHash = await result.write();
+        console.log(treeHash);
+        process.exit(0);
+        return;
+    }
 
-    process.exit(123);
+    console.error('no result');
+    process.exit(1);
 }
