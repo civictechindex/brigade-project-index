@@ -22,7 +22,8 @@ To avoid hitting GitHub's API rate limits easily, [generate a Personal Access To
 
 ```bash
 export GITHUB_ACTOR="my-username"
-export GITHUB_TOKEN="my-personal-access-token"
+read -s -p "GitHub Personal Access Token: " GITHUB_TOKEN
+export GITHUB_TOKEN
 ```
 
 To see all available options:
