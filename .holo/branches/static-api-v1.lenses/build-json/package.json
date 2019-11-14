@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "build": "node --inspect-brk=0.0.0.0 build.js"
+    "build": "node build.js"
   },
   "dependencies": {
     "gitsheets": "file:/src/gitsheets/backend"
