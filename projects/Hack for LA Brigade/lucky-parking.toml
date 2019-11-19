@@ -2,4 +2,12 @@ code_url = "https://github.com/hackforla/lucky-parking"
 git_branch = "master"
 git_url = "git://github.com/hackforla/lucky-parking.git"
 name = "lucky-parking"
-topics = [ "code-for-america", "hack-for-la" ]
+topics = [
+  "citations",
+  "civictechindex",
+  "code-for-all",
+  "code-for-america",
+  "hack-for-la",
+  "parking",
+  "street-parking"
+]

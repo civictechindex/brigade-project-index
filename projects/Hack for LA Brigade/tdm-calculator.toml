@@ -3,6 +3,8 @@ git_branch = "master"
 git_url = "git://github.com/hackforla/tdm-calculator.git"
 name = "tdm-calculator"
 topics = [
+  "civictechindex",
+  "code-for-all",
   "code-for-america",
   "hack-for-la",
   "ladot",

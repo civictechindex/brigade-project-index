@@ -4,6 +4,8 @@ git_url = "git://github.com/hackforla/jobs-for-hope.git"
 link_url = "https://jobs-for-hope.herokuapp.com/"
 name = "jobs-for-hope"
 topics = [
+  "civictechindex",
+  "code-for-all",
   "code-for-america",
   "hack-for-la",
   "homelessness",

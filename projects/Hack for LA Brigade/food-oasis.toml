@@ -1,0 +1,15 @@
+code_url = "https://github.com/hackforla/food-oasis"
+git_branch = "master"
+git_url = "git://github.com/hackforla/food-oasis.git"
+link_url = "https://foodoasis.la"
+name = "food-oasis"
+topics = [
+  "civictechindex",
+  "code-for-all",
+  "code-for-america",
+  "community-gardens",
+  "farmers-markets",
+  "food-deserts",
+  "hack-for-la",
+  "los-angeles"
+]
