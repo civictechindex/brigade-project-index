@@ -3,3 +3,4 @@ git_branch = "master"
 git_url = "git://github.com/BetaNYC/Boundaries-Map.git"
 link_url = "https://Boundaries.beta.nyc"
 name = "Boundaries-Map"
+topics = [ "community-districts" ]
