@@ -1,0 +1,13 @@
+code_url = "https://github.com/hackforla/311-data"
+git_branch = "master"
+git_url = "git://github.com/hackforla/311-data.git"
+link_url = "https://hackforla.github.io/311-data/"
+name = "311-data"
+topics = [
+  "311-data",
+  "civictechindex",
+  "code-for-all",
+  "code-for-america",
+  "hack-for-la",
+  "neighborhood-councils"
+]
