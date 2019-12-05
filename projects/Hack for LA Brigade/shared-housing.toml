@@ -1,6 +1,7 @@
 code_url = "https://github.com/hackforla/shared-housing"
 git_branch = "master"
 git_url = "git://github.com/hackforla/shared-housing.git"
+link_url = "https://www.hackforla.org/"
 name = "shared-housing"
 topics = [
   "civictechindex",
