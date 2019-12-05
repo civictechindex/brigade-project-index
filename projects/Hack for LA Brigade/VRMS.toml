@@ -1,5 +1,13 @@
-code_url = "https://github.com/OpenSTL/VRMS"
+code_url = "https://github.com/hackforla/VRMS"
 git_branch = "master"
-git_url = "git://github.com/OpenSTL/VRMS.git"
+git_url = "git://github.com/hackforla/VRMS.git"
 name = "VRMS"
-topics = [ "code-for-america", "hack-for-la", "open-stl" ]
+topics = [
+  "civictechindex",
+  "code-for-all",
+  "code-for-america",
+  "github-api",
+  "hack-for-la",
+  "meetup-api",
+  "sign-in"
+]
