@@ -14,6 +14,7 @@
                 "--orgs",
                 "--commit-to=index/v1",
                 "--commit-orgs-to=cfapi/orgs/v1",
+                "--orgs-source=https://gist.githubusercontent.com/themightychris/192929e226f7077d0b08013fcda81952/raw/ffe6fcecea0d84f8317d5fc1a4c57cb136d580d3/test-organizations.json"
                 // "--orgs-source=https://raw.githubusercontent.com/themightychris/brigade-information/master/organizations.json"
             ],
             "skipFiles": [
@@ -62,16 +63,51 @@
         {
             "type": "node",
             "request": "attach",
+            "name": "attach build-json",
             "skipFiles": [
                 "<node_internals>/**/*.js"
             ],
 
-            "name": "attach build-json",
             "port": 9229,
             "restart": true,
             "trace": true,
             "localRoot": "${workspaceFolder}/.holo/branches/static-api-v1.lenses/build-json",
             "remoteRoot": "/hab/cache/hololens/holo/lens-npm-run"
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "launch projection",
+
+            "program": "${workspaceFolder:hologit}/bin/cli.js",
+            "cwd": "${workspaceFolder}",
+            "args": [
+                "--debug",
+                "project",
+                "static-api-v1",
+                "--commit-to=static-api/v1"
+            ],
+
+            "skipFiles": [
+                "<node_internals>/**/*.js"
+            ],
+            "localRoot": "${workspaceFolder}/.holo/branches/static-api-v1.lenses/build-json",
+            "remoteRoot": "/hab/cache/hololens/holo/lens-npm-run"
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "launch build-json",
+
+            "program": "${workspaceFolder}/.holo/branches/static-api-v1.lenses/build-json/build.js",
+            "cwd": "${workspaceFolder}",
+            "env": {
+                "HOLOLENS_INPUT": "refs/heads/index/v1"
+            },
+
+            "skipFiles": [
+                "<node_internals>/**/*.js"
+            ]
         },
     ],
     "inputs": [
