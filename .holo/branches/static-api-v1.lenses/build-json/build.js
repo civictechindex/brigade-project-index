@@ -61,6 +61,9 @@ async function build (inputTreeHash) {
                         ...resourceIdentifier,
                         links: {
                             self: resourcePath
+                        },
+                        attributes: {
+                            name: orgName
                         }
                     });
                 } else if (recordPath.startsWith('projects/')) {
@@ -92,6 +95,9 @@ async function build (inputTreeHash) {
                         ...resourceIdentifier,
                         links: {
                             self: resourcePath
+                        },
+                        attributes: {
+                            name: projectName
                         }
                     });
                 }
