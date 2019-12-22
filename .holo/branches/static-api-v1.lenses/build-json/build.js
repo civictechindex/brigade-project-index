@@ -30,25 +30,29 @@ async function build (inputTreeHash) {
                 if (recordPath.startsWith('organizations/')) {
                     const [, orgName] = recordPath.split('/');
 
-                    promises.push(
-                        outputTree.writeChild(`${orgName}.json`, JSON.stringify(record))
-                    );
-
+                    // detect switch in record type
                     if (lastPrefixLogged != 'organizations') {
                         console.error('Reading organizations...');
                         lastPrefixLogged = 'organizations';
                     }
+
+                    // write full record to canonical path
+                    promises.push(
+                        outputTree.writeChild(`organizations/${orgName}.json`, JSON.stringify(record))
+                    );
                 } else if (recordPath.startsWith('projects/')) {
                     const [, orgName, projectName] = recordPath.split('/');
 
-                    promises.push(
-                        outputTree.writeChild(`${orgName}/${projectName}.json`, JSON.stringify(record))
-                    );
-
+                    // detect switch in record type
                     if (lastPrefixLogged != 'projects') {
                         console.error('Reading projects...');
                         lastPrefixLogged = 'projects';
                     }
+
+                    // write full record to canonical path
+                    promises.push(
+                        outputTree.writeChild(`organizations/${orgName}/${projectName}.json`, JSON.stringify(record))
+                    );
                 }
             })
             .on('end', () => Promise.all(promises).then(resolve).catch(reject))
