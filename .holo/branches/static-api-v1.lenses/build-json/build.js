@@ -72,7 +72,7 @@ async function build (inputTreeHash) {
                     });
                 } else if (recordPath.startsWith('projects/')) {
                     const [, orgName, projectName] = recordPath.split('/');
-                    const resourcePath = `organizations/${orgName}/${projectName}.json`;
+                    const resourcePath = `organizations/${orgName}/projects/${projectName}.json`;
                     const resourceIdentifier = {
                         type: 'project',
                         id: `${orgName}/${projectName}`,
