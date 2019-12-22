@@ -76,6 +76,17 @@ async function build (inputTreeHash) {
                             self: resourcePath
                         }
                     };
+                    const relationships = {
+                        organization: {
+                            data: {
+                                type: 'organization',
+                                id: orgName
+                            },
+                            links: {
+                                related: `organizations/${orgName}.json`
+                            }
+                        }
+                    };
 
                     // detect switch in record type
                     if (lastPrefixLogged != 'projects') {
@@ -88,7 +99,8 @@ async function build (inputTreeHash) {
                         outputTree.writeChild(resourcePath, JSON.stringify({
                             data: {
                                 ...resourceIdentifier,
-                                attributes: record
+                                attributes: record,
+                                relationships
                             }
                         }))
                     );
@@ -98,7 +110,8 @@ async function build (inputTreeHash) {
                         ...resourceIdentifier,
                         attributes: {
                             name: projectName
-                        }
+                        },
+                        relationships
                     });
                 }
             })
