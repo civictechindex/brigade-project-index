@@ -38,6 +38,9 @@ async function build (inputTreeHash) {
                     const resourceIdentifier = {
                         type: 'organization',
                         id: orgName,
+                        links: {
+                            self: resourcePath
+                        }
                     };
 
                     // detect switch in record type
@@ -59,9 +62,6 @@ async function build (inputTreeHash) {
                     // add to index
                     organizationsIndex.push({
                         ...resourceIdentifier,
-                        links: {
-                            self: resourcePath
-                        },
                         attributes: {
                             name: orgName
                         }
@@ -71,7 +71,10 @@ async function build (inputTreeHash) {
                     const resourcePath = `organizations/${orgName}/${projectName}.json`;
                     const resourceIdentifier = {
                         type: 'project',
-                        id: `${orgName}/${projectName}`
+                        id: `${orgName}/${projectName}`,
+                        links: {
+                            self: resourcePath
+                        }
                     };
 
                     // detect switch in record type
@@ -93,9 +96,6 @@ async function build (inputTreeHash) {
                     // add to index
                     projectsIndex.push({
                         ...resourceIdentifier,
-                        links: {
-                            self: resourcePath
-                        },
                         attributes: {
                             name: projectName
                         }
