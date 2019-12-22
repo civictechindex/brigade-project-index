@@ -39,7 +39,7 @@ async function build (inputTreeHash) {
                         type: 'organization',
                         id: orgName,
                         links: {
-                            self: resourcePath
+                            self: `/${resourcePath}`
                         }
                     };
 
@@ -73,7 +73,7 @@ async function build (inputTreeHash) {
                         type: 'project',
                         id: `${orgName}/${projectName}`,
                         links: {
-                            self: resourcePath
+                            self: `/${resourcePath}`
                         }
                     };
                     const relationships = {
@@ -83,7 +83,7 @@ async function build (inputTreeHash) {
                                 id: orgName
                             },
                             links: {
-                                related: `organizations/${orgName}.json`
+                                related: `/organizations/${orgName}.json`
                             }
                         }
                     };
