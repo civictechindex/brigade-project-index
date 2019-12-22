@@ -17,6 +17,7 @@ async function build (inputTreeHash) {
     // initialize accumulators
     const organizationsIndex = [];
     const projectsIndex = [];
+    const orgProjectsIndexes = {};
 
 
     // read through all records and write data into output tree
@@ -43,11 +44,13 @@ async function build (inputTreeHash) {
                         }
                     };
 
+
                     // detect switch in record type
                     if (lastPrefixLogged != 'organizations') {
                         console.error('Reading organizations...');
                         lastPrefixLogged = 'organizations';
                     }
+
 
                     // write full record to canonical path
                     promises.push(
@@ -59,7 +62,8 @@ async function build (inputTreeHash) {
                         }))
                     );
 
-                    // add to index
+
+                    // add to global index
                     organizationsIndex.push({
                         ...resourceIdentifier,
                         attributes: {
@@ -88,11 +92,13 @@ async function build (inputTreeHash) {
                         }
                     };
 
+
                     // detect switch in record type
                     if (lastPrefixLogged != 'projects') {
                         console.error('Reading projects...');
                         lastPrefixLogged = 'projects';
                     }
+
 
                     // write full record to canonical path
                     promises.push(
@@ -105,7 +111,8 @@ async function build (inputTreeHash) {
                         }))
                     );
 
-                    // add to index
+
+                    // add to global index
                     projectsIndex.push({
                         ...resourceIdentifier,
                         attributes: {
@@ -113,10 +120,23 @@ async function build (inputTreeHash) {
                         },
                         relationships
                     });
+
+
+                    // add to org index
+                    if (!(orgName in orgProjectsIndexes)) {
+                        orgProjectsIndexes[orgName] = [];
+                    }
+
+                    orgProjectsIndexes[orgName].push({
+                        ...resourceIdentifier,
+                        attributes: {
+                            name: projectName
+                        }
+                    });
                 }
             })
             .on('end', () => {
-                // write index files
+                // write global index files
                 promises.push(
                     outputTree.writeChild(`organizations.json`, JSON.stringify({
                         data: organizationsIndex
@@ -125,6 +145,15 @@ async function build (inputTreeHash) {
                         data: projectsIndex
                     }))
                 );
+
+                // write organization index files
+                for (const orgName in orgProjectsIndexes) {
+                    promises.push(
+                        outputTree.writeChild(`organizations/${orgName}/projects.json`, JSON.stringify({
+                            data: orgProjectsIndexes[orgName]
+                        }))
+                    );
+                }
 
                 // finish when all promises are resolved
                 Promise.all(promises).then(resolve).catch(reject);
