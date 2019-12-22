@@ -464,6 +464,7 @@ async function loadGithubTopicProjects(repo, topic) {
         const projectData = {
             name: repo.name,
             code_url: repo.html_url,
+            description: repo.description,
             git_url: repo.git_url,
             git_branch: repo.default_branch,
             link_url: repo.homepage || null,
