@@ -3,6 +3,6 @@
     "build": "node build.js"
   },
   "dependencies": {
-    "gitsheets": "file:/src/gitsheets/backend"
+    "gitsheets": "^0.3.x"
   }
 }
