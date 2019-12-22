@@ -38,7 +38,13 @@ async function build (inputTreeHash) {
 
                     // write full record to canonical path
                     promises.push(
-                        outputTree.writeChild(`organizations/${orgName}.json`, JSON.stringify(record))
+                        outputTree.writeChild(`organizations/${orgName}.json`, JSON.stringify({
+                            data: {
+                                type: 'organization',
+                                id: orgName,
+                                attributes: record
+                            }
+                        }))
                     );
                 } else if (recordPath.startsWith('projects/')) {
                     const [, orgName, projectName] = recordPath.split('/');
@@ -51,7 +57,13 @@ async function build (inputTreeHash) {
 
                     // write full record to canonical path
                     promises.push(
-                        outputTree.writeChild(`organizations/${orgName}/${projectName}.json`, JSON.stringify(record))
+                        outputTree.writeChild(`organizations/${orgName}/${projectName}.json`, JSON.stringify({
+                            data: {
+                                type: 'project',
+                                id: `${orgName}/${projectName}`,
+                                attributes: record
+                            }
+                        }))
                     );
                 }
             })
