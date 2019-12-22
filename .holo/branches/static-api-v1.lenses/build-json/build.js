@@ -14,6 +14,11 @@ async function build (inputTreeHash) {
     const outputTree = gitsheets.repo.createTree();
 
 
+    // initialize accumulators
+    const organizationsIndex = [];
+    const projectsIndex = [];
+
+
     // read through all records and write data into output tree
     console.error(`Reading records from tree: ${inputTreeHash}`);
     const recordsStream = await gitsheets.export(inputTreeHash);
@@ -29,6 +34,11 @@ async function build (inputTreeHash) {
 
                 if (recordPath.startsWith('organizations/')) {
                     const [, orgName] = recordPath.split('/');
+                    const resourcePath = `organizations/${orgName}.json`;
+                    const resourceIdentifier = {
+                        type: 'organization',
+                        id: orgName,
+                    };
 
                     // detect switch in record type
                     if (lastPrefixLogged != 'organizations') {
@@ -38,16 +48,28 @@ async function build (inputTreeHash) {
 
                     // write full record to canonical path
                     promises.push(
-                        outputTree.writeChild(`organizations/${orgName}.json`, JSON.stringify({
+                        outputTree.writeChild(resourcePath, JSON.stringify({
                             data: {
-                                type: 'organization',
-                                id: orgName,
+                                ...resourceIdentifier,
                                 attributes: record
                             }
                         }))
                     );
+
+                    // add to index
+                    organizationsIndex.push({
+                        ...resourceIdentifier,
+                        links: {
+                            self: resourcePath
+                        }
+                    });
                 } else if (recordPath.startsWith('projects/')) {
                     const [, orgName, projectName] = recordPath.split('/');
+                    const resourcePath = `organizations/${orgName}/${projectName}.json`;
+                    const resourceIdentifier = {
+                        type: 'project',
+                        id: `${orgName}/${projectName}`
+                    };
 
                     // detect switch in record type
                     if (lastPrefixLogged != 'projects') {
@@ -57,17 +79,37 @@ async function build (inputTreeHash) {
 
                     // write full record to canonical path
                     promises.push(
-                        outputTree.writeChild(`organizations/${orgName}/${projectName}.json`, JSON.stringify({
+                        outputTree.writeChild(resourcePath, JSON.stringify({
                             data: {
-                                type: 'project',
-                                id: `${orgName}/${projectName}`,
+                                ...resourceIdentifier,
                                 attributes: record
                             }
                         }))
                     );
+
+                    // add to index
+                    projectsIndex.push({
+                        ...resourceIdentifier,
+                        links: {
+                            self: resourcePath
+                        }
+                    });
                 }
             })
-            .on('end', () => Promise.all(promises).then(resolve).catch(reject))
+            .on('end', () => {
+                // write index files
+                promises.push(
+                    outputTree.writeChild(`organizations.json`, JSON.stringify({
+                        data: organizationsIndex
+                    })),
+                    outputTree.writeChild(`projects.json`, JSON.stringify({
+                        data: projectsIndex
+                    }))
+                );
+
+                // finish when all promises are resolved
+                Promise.all(promises).then(resolve).catch(reject);
+            })
             .on('error', reject);
     });
 
