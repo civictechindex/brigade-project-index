@@ -1,4 +1,5 @@
 code_url = "https://github.com/openchattanooga/cpd-zones-old"
+description = "Helps Chattanoogans find which CPD zone they live in."
 git_branch = "master"
 git_url = "git://github.com/openchattanooga/cpd-zones-old.git"
 link_url = "http://cpd-zones.herokuapp.com/"

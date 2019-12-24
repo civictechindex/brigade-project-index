@@ -1,4 +1,5 @@
 code_url = "https://github.com/openchattanooga/chadocs"
+description = "Easily search through various documents produced by Chattanooga and Hamilton County."
 git_branch = "master"
 git_url = "git://github.com/openchattanooga/chadocs.git"
 name = "chadocs"

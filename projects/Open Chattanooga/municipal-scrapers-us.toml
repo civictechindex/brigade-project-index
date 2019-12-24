@@ -1,4 +1,5 @@
 code_url = "https://github.com/openchattanooga/municipal-scrapers-us"
+description = "Scrapers for US municipal governments."
 git_branch = "master"
 git_url = "git://github.com/openchattanooga/municipal-scrapers-us.git"
 name = "municipal-scrapers-us"

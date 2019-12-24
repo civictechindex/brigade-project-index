@@ -1,4 +1,5 @@
 code_url = "https://github.com/openchattanooga/search311server"
+description = "The files used to create and configure the search 311 server."
 git_branch = "master"
 git_url = "git://github.com/openchattanooga/search311server.git"
 name = "search311server"

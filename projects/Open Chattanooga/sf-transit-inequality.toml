@@ -1,4 +1,5 @@
 code_url = "https://github.com/openchattanooga/sf-transit-inequality"
+description = "A mashup to overlaying demographic info with the all the major mass transit routes in the San Francisco Bay Area."
 git_branch = "master"
 git_url = "git://github.com/openchattanooga/sf-transit-inequality.git"
 link_url = "http://dangrover.github.io/sf-transit-inequality"

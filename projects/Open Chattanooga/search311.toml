@@ -1,4 +1,5 @@
 code_url = "https://github.com/openchattanooga/search311"
+description = "Search 311 data via Elasticsearch"
 git_branch = "master"
 git_url = "git://github.com/openchattanooga/search311.git"
 name = "search311"

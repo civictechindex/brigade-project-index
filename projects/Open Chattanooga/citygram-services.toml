@@ -1,4 +1,5 @@
 code_url = "https://github.com/openchattanooga/citygram-services"
+description = "Web content transformation proxies for open data API's"
 git_branch = "master"
 git_url = "git://github.com/openchattanooga/citygram-services.git"
 link_url = "https://citygram-services.herokuapp.com/"
