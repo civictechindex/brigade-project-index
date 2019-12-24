@@ -1,4 +1,5 @@
 code_url = "https://github.com/CodeForCuritiba/CityScore"
+description = "Dashboard de indicadores de serviços públicos. Fork do Github da cidade de Boston"
 git_branch = "master"
 git_url = "git://github.com/CodeForCuritiba/CityScore.git"
 name = "CityScore"

@@ -1,4 +1,5 @@
 code_url = "https://github.com/CodeForCuritiba/nfe-biblioteca"
+description = "API em javascript para carregar dados sobre Nota Fiscal de Consumidor Eletrônica através do link exibido no DANFE"
 git_branch = "master"
 git_url = "git://github.com/CodeForCuritiba/nfe-biblioteca.git"
 name = "nfe-biblioteca"

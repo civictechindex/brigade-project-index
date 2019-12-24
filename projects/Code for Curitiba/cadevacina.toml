@@ -1,4 +1,5 @@
 code_url = "https://github.com/CodeForCuritiba/cadevacina"
+description = "Website para doação de vacina entre unidades de saude"
 git_branch = "master"
 git_url = "git://github.com/CodeForCuritiba/cadevacina.git"
 name = "cadevacina"

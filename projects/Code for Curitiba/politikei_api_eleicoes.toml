@@ -1,4 +1,5 @@
 code_url = "https://github.com/CodeForCuritiba/politikei_api_eleicoes"
+description = "Git repository to politikei api to 2016 elections"
 git_branch = "master"
 git_url = "git://github.com/CodeForCuritiba/politikei_api_eleicoes.git"
 name = "politikei_api_eleicoes"

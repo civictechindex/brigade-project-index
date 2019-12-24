@@ -1,4 +1,5 @@
 code_url = "https://github.com/CodeForCuritiba/csv_portal_curitiba"
+description = "Web portal to list Curitiba csv open data apis"
 git_branch = "master"
 git_url = "git://github.com/CodeForCuritiba/csv_portal_curitiba.git"
 name = "csv_portal_curitiba"

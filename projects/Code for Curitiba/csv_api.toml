@@ -1,4 +1,5 @@
 code_url = "https://github.com/CodeForCuritiba/csv_api"
+description = "Create an API using a list of CSV files"
 git_branch = "master"
 git_url = "git://github.com/CodeForCuritiba/csv_api.git"
 link_url = "https://csvapi.herokuapp.com"

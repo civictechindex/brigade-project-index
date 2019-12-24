@@ -1,4 +1,5 @@
 code_url = "https://github.com/CodeForCuritiba/datascience-kit"
+description = "Imagem docker responsável pelo kit de desenvolvimento de Data Science"
 git_branch = "master"
 git_url = "git://github.com/CodeForCuritiba/datascience-kit.git"
 name = "datascience-kit"

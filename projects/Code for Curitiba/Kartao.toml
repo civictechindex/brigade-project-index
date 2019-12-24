@@ -1,4 +1,5 @@
 code_url = "https://github.com/CodeForCuritiba/Kartao"
+description = "Mapa e serviços para usuários do cartão de transporte de Curitiba"
 git_branch = "master"
 git_url = "git://github.com/CodeForCuritiba/Kartao.git"
 name = "Kartao"

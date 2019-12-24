@@ -1,4 +1,5 @@
 code_url = "https://github.com/CodeForCuritiba/crawler_vereadorescuritiba"
+description = "Programa nodejs para recuperar a lista dos candidatos a vereador de Curitiba publicada no site da Gazeta do Povo"
 git_branch = "master"
 git_url = "git://github.com/CodeForCuritiba/crawler_vereadorescuritiba.git"
 name = "crawler_vereadorescuritiba"

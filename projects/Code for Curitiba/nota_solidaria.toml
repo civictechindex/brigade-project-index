@@ -1,4 +1,5 @@
 code_url = "https://github.com/CodeForCuritiba/nota_solidaria"
+description = "App para escanear as notas fiscais do Paraná para doação / Application to scan Paraná invoices and make quick transfer to NGO for donation."
 git_branch = "master"
 git_url = "git://github.com/CodeForCuritiba/nota_solidaria.git"
 name = "nota_solidaria"
