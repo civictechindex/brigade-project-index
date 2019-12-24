@@ -1,4 +1,5 @@
 code_url = "https://github.com/OpenMaine/campaign-finance"
+description = "Initially, campaign finance information for the 2019 Portland Mayoral Elections."
 git_branch = "master"
 git_url = "git://github.com/OpenMaine/campaign-finance.git"
 name = "campaign-finance"

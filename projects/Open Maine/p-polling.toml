@@ -1,4 +1,5 @@
 code_url = "https://github.com/OpenMaine/p-polling"
+description = "Polling place location map for Maine"
 git_branch = "master"
 git_url = "git://github.com/OpenMaine/p-polling.git"
 name = "p-polling"

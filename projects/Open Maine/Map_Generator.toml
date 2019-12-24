@@ -1,4 +1,5 @@
 code_url = "https://github.com/OpenMaine/Map_Generator"
+description = "This is a small utility for generating maps for independent political campaigns."
 git_branch = "master"
 git_url = "git://github.com/OpenMaine/Map_Generator.git"
 name = "Map_Generator"
