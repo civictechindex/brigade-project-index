@@ -1,4 +1,5 @@
 code_url = "https://github.com/codefordc/rfj_expungement"
+description = "Tool for pro bono attorneys helping the Rising for Justice’s Expungement Clinic"
 git_branch = "master"
 git_url = "git://github.com/codefordc/rfj_expungement.git"
 name = "rfj_expungement"

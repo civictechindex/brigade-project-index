@@ -1,4 +1,5 @@
 code_url = "https://github.com/codefordc/slack-doorbell"
+description = '"Doorbell", so members can text Twilio and it alerts us all on Slack'
 git_branch = "master"
 git_url = "git://github.com/codefordc/slack-doorbell.git"
 name = "slack-doorbell"

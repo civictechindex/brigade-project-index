@@ -1,4 +1,5 @@
 code_url = "https://github.com/codefordc/uptime"
+description = "A basic app to monitor site uptime"
 git_branch = "release"
 git_url = "git://github.com/codefordc/uptime.git"
 name = "uptime"

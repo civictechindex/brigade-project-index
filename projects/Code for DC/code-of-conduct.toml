@@ -1,4 +1,5 @@
 code_url = "https://github.com/codefordc/code-of-conduct"
+description = "This repository contains the Code of Conduct used in the Code for DC community and Code for DC related events."
 git_branch = "master"
 git_url = "git://github.com/codefordc/code-of-conduct.git"
 name = "code-of-conduct"

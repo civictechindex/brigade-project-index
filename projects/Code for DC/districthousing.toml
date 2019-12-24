@@ -1,4 +1,5 @@
 code_url = "https://github.com/codefordc/districthousing"
+description = "District Housing lets caseworkers help clients apply for Section 8 housing by automatically filling out multiple PDF applications using one online form. "
 git_branch = "master"
 git_url = "git://github.com/codefordc/districthousing.git"
 link_url = "http://codefordc.github.io/districthousing/"

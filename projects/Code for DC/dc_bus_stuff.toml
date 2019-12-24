@@ -1,4 +1,5 @@
 code_url = "https://github.com/codefordc/dc_bus_stuff"
+description = "looking at DC bustime data"
 git_branch = "master"
 git_url = "git://github.com/codefordc/dc_bus_stuff.git"
 name = "dc_bus_stuff"

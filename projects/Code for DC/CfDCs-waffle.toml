@@ -1,4 +1,5 @@
 code_url = "https://github.com/codefordc/CfDCs-waffle"
+description = "This repo acts as the top-level waffle board for Code For DC's projects. Learn more about Waffle here => https://github.com/waffleio/waffle.io"
 git_branch = "master"
 git_url = "git://github.com/codefordc/CfDCs-waffle.git"
 name = "CfDCs-waffle"

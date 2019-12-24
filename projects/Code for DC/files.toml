@@ -1,4 +1,5 @@
 code_url = "https://github.com/codefordc/files"
+description = "A metarepository for Code for DC files of various sorts"
 git_branch = "release"
 git_url = "git://github.com/codefordc/files.git"
 name = "files"

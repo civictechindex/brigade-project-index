@@ -1,4 +1,5 @@
 code_url = "https://github.com/codefordc/dc-campaign-finance-scraper"
+description = "Provides data from http://www.ocf.dc.gov/serv/download.asp in a nicer way"
 git_branch = "master"
 git_url = "git://github.com/codefordc/dc-campaign-finance-scraper.git"
 name = "dc-campaign-finance-scraper"

@@ -1,4 +1,5 @@
 code_url = "https://github.com/codefordc/traffic_counter"
+description = "DIY Traffic Counter w/ Arduino"
 git_branch = "master"
 git_url = "git://github.com/codefordc/traffic_counter.git"
 name = "traffic_counter"

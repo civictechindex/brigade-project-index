@@ -1,4 +1,5 @@
 code_url = "https://github.com/codefordc/hospital-pricing"
+description = "Repository to store data related to DC hospital pricing"
 git_branch = "master"
 git_url = "git://github.com/codefordc/hospital-pricing.git"
 name = "hospital-pricing"

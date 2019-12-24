@@ -1,4 +1,5 @@
 code_url = "https://github.com/codefordc/rent-stabilization"
+description = "Evaluate how a change in rent stabilization policy would affect rental properties in the District."
 git_branch = "master"
 git_url = "git://github.com/codefordc/rent-stabilization.git"
 name = "rent-stabilization"

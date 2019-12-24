@@ -1,4 +1,5 @@
 code_url = "https://github.com/codefordc/dc-campaign-finance-watch"
+description = "Displays data about DC Campaign Finance on a site"
 git_branch = "develop"
 git_url = "git://github.com/codefordc/dc-campaign-finance-watch.git"
 link_url = "https://campaign-finance.codefordc.org"
