@@ -1,4 +1,5 @@
 code_url = "https://github.com/CodeforChemnitz/sensor_node-module-esp8266"
+description = "WiFi Module for the SensorNode"
 git_branch = "master"
 git_url = "git://github.com/CodeforChemnitz/sensor_node-module-esp8266.git"
 name = "sensor_node-module-esp8266"

@@ -1,4 +1,5 @@
 code_url = "https://github.com/CodeforChemnitz/SensorProvisioning"
+description = "Provisioning of a sensor node. Mainly to init the Wifi with SSID and password."
 git_branch = "master"
 git_url = "git://github.com/CodeforChemnitz/SensorProvisioning.git"
 name = "SensorProvisioning"

@@ -1,4 +1,5 @@
 code_url = "https://github.com/CodeforChemnitz/codefor.de"
+description = "The website for Code for Germany. Includes the blog, projects list and basic info about the group."
 git_branch = "gh-pages"
 git_url = "git://github.com/CodeforChemnitz/codefor.de.git"
 link_url = "http://codefor.de"

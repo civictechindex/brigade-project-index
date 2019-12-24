@@ -1,4 +1,5 @@
 code_url = "https://github.com/CodeforChemnitz/SensorAPI"
+description = ":satellite: :chart_with_upwards_trend: open API to manage network of sensors and accept their data"
 git_branch = "master"
 git_url = "git://github.com/CodeforChemnitz/SensorAPI.git"
 name = "SensorAPI"

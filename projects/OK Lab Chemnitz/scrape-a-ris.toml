@@ -1,4 +1,5 @@
 code_url = "https://github.com/CodeforChemnitz/scrape-a-ris"
+description = "Scrape-A-RIS is a scraper for assembly information systems (Ratsinformationssysteme) using Somacos SessionNet, written in Python."
 git_branch = "master"
 git_url = "git://github.com/CodeforChemnitz/scrape-a-ris.git"
 name = "scrape-a-ris"

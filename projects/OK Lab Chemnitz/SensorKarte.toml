@@ -1,4 +1,5 @@
 code_url = "https://github.com/CodeforChemnitz/SensorKarte"
+description = "Citizen-Science Sensor Karte - Verwaltung von Sensor-Stationen und deren Sensoren"
 git_branch = "master"
 git_url = "git://github.com/CodeforChemnitz/SensorKarte.git"
 name = "SensorKarte"
