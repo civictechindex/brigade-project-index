@@ -1,4 +1,5 @@
 code_url = "https://github.com/CodeforOkinawa/cal5374"
+description = "generate .ics from 5374 csv data"
 git_branch = "master"
 git_url = "git://github.com/CodeforOkinawa/cal5374.git"
 link_url = "http://cal5374.herokuapp.com/"
