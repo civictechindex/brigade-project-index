@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforgso/data-sources"
+description = "Released datasets for various projects."
 git_branch = "master"
 git_url = "git://github.com/codeforgso/data-sources.git"
 name = "data-sources"
