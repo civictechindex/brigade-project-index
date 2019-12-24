@@ -1,4 +1,5 @@
 code_url = "https://github.com/CodeForBuffalo/openstl_site"
+description = "OpenSTL's website, a lightweight, backend-free open data portal, powered by JKAN.io"
 git_branch = "gh-pages"
 git_url = "git://github.com/CodeForBuffalo/openstl_site.git"
 name = "openstl_site"

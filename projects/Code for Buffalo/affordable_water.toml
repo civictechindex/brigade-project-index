@@ -1,4 +1,5 @@
 code_url = "https://github.com/CodeForBuffalo/affordable_water"
+description = "A site to apply for Buffalo's Residential Affordable Water Program"
 git_branch = "master"
 git_url = "git://github.com/CodeForBuffalo/affordable_water.git"
 name = "affordable_water"
