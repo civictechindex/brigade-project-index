@@ -1,4 +1,5 @@
 code_url = "https://github.com/code-for-tb/irma-scrapers"
+description = "Screen scrapers relating to hurricane Irma"
 git_branch = "master"
 git_url = "git://github.com/code-for-tb/irma-scrapers.git"
 name = "irma-scrapers"

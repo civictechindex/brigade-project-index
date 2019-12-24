@@ -1,4 +1,5 @@
 code_url = "https://github.com/code-for-tb/flgeo_subsidence"
+description = "Florida Geological Subsidence Data Helpers"
 git_branch = "master"
 git_url = "git://github.com/code-for-tb/flgeo_subsidence.git"
 name = "flgeo_subsidence"

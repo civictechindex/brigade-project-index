@@ -1,4 +1,5 @@
 code_url = "https://github.com/code-for-tb/irma-scraped-data"
+description = "Data scraped by https://github.com/simonw/irma-scrapers"
 git_branch = "master"
 git_url = "git://github.com/code-for-tb/irma-scraped-data.git"
 name = "irma-scraped-data"

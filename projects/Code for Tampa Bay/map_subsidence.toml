@@ -1,4 +1,5 @@
 code_url = "https://github.com/code-for-tb/map_subsidence"
+description = "A web application that imports, manages, and exports subsidence reports"
 git_branch = "master"
 git_url = "git://github.com/code-for-tb/map_subsidence.git"
 name = "map_subsidence"
