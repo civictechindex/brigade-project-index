@@ -1,4 +1,5 @@
 code_url = "https://github.com/OpenDataDE/de-geojson-data"
+description = "A collection of GeoJSON files for Delaware!"
 git_branch = "master"
 git_url = "git://github.com/OpenDataDE/de-geojson-data.git"
 name = "de-geojson-data"

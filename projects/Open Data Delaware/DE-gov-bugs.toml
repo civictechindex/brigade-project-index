@@ -1,4 +1,5 @@
 code_url = "https://github.com/OpenDataDE/DE-gov-bugs"
+description = "A place to submit bug reports and usability feedback for Delaware government websites"
 git_branch = "master"
 git_url = "git://github.com/OpenDataDE/DE-gov-bugs.git"
 name = "DE-gov-bugs"

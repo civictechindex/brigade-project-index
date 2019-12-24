@@ -1,4 +1,5 @@
 code_url = "https://github.com/OpenDataDE/html2csv"
+description = "Reads HTML files, converting tables into CSV files"
 git_branch = "master"
 git_url = "git://github.com/OpenDataDE/html2csv.git"
 name = "html2csv"

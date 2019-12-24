@@ -1,4 +1,5 @@
 code_url = "https://github.com/OpenDataDE/State-zip-code-GeoJSON"
+description = "Zip code boundaries for each of the 50 states"
 git_branch = "master"
 git_url = "git://github.com/OpenDataDE/State-zip-code-GeoJSON.git"
 name = "State-zip-code-GeoJSON"

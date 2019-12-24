@@ -1,4 +1,5 @@
 code_url = "https://github.com/OpenDataDE/renovatedODDEWebsite"
+description = "a home for the in-progress source code for the renovated ODDE website: www.opendatadelaware.com"
 git_branch = "master"
 git_url = "git://github.com/OpenDataDE/renovatedODDEWebsite.git"
 name = "renovatedODDEWebsite"

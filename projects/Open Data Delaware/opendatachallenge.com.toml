@@ -1,4 +1,5 @@
 code_url = "https://github.com/OpenDataDE/opendatachallenge.com"
+description = "Repository for the Open Data Challenge website"
 git_branch = "master"
 git_url = "git://github.com/OpenDataDE/opendatachallenge.com.git"
 name = "opendatachallenge.com"

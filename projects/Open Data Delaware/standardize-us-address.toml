@@ -1,4 +1,5 @@
 code_url = "https://github.com/OpenDataDE/standardize-us-address"
+description = "Helper function that standarizes a US address"
 git_branch = "master"
 git_url = "git://github.com/OpenDataDE/standardize-us-address.git"
 name = "standardize-us-address"
