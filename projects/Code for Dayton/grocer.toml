@@ -1,4 +1,5 @@
 code_url = "https://github.com/codefordayton/grocer"
+description = "Find grocery stores, farmers markets, ethnic food stores, and CSA's in the Dayton region"
 git_branch = "gh-pages"
 git_url = "git://github.com/codefordayton/grocer.git"
 name = "grocer"

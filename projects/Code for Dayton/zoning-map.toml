@@ -1,4 +1,5 @@
 code_url = "https://github.com/codefordayton/zoning-map"
+description = "Project to enable web-based interactive zoning maps."
 git_branch = "master"
 git_url = "git://github.com/codefordayton/zoning-map.git"
 name = "zoning-map"

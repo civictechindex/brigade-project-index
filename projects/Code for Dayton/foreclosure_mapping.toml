@@ -1,4 +1,5 @@
 code_url = "https://github.com/codefordayton/foreclosure_mapping"
+description = "Mapping foreclosures in Montgomery County, Ohio."
 git_branch = "master"
 git_url = "git://github.com/codefordayton/foreclosure_mapping.git"
 name = "foreclosure_mapping"

@@ -1,4 +1,5 @@
 code_url = "https://github.com/codefordayton/responders-api"
+description = "API for disaster recovery first responders"
 git_branch = "master"
 git_url = "git://github.com/codefordayton/responders-api.git"
 name = "responders-api"

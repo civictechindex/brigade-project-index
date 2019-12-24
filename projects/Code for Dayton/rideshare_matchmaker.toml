@@ -1,4 +1,5 @@
 code_url = "https://github.com/codefordayton/rideshare_matchmaker"
+description = "Help event organizers and employers suggest rideshares to their travellers"
 git_branch = "master"
 git_url = "git://github.com/codefordayton/rideshare_matchmaker.git"
 name = "rideshare_matchmaker"

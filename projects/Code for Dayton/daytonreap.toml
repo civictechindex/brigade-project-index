@@ -1,4 +1,5 @@
 code_url = "https://github.com/codefordayton/daytonreap"
+description = "Web application to streamline Dayton's REAP (Real Estate Acquisition Process) Program"
 git_branch = "master"
 git_url = "git://github.com/codefordayton/daytonreap.git"
 name = "daytonreap"

@@ -1,4 +1,5 @@
 code_url = "https://github.com/codefordayton/evented"
+description = "(Inactive) An aggregator of Dayton, OH community events for redistribution via API."
 git_branch = "master"
 git_url = "git://github.com/codefordayton/evented.git"
 name = "evented"
