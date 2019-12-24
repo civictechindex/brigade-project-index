@@ -1,4 +1,5 @@
 code_url = "https://github.com/opendenton/Denton-Dashboard"
+description = "Static dashboard for open data in Denton."
 git_branch = "master"
 git_url = "git://github.com/opendenton/Denton-Dashboard.git"
 name = "Denton-Dashboard"

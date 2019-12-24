@@ -1,4 +1,5 @@
 code_url = "https://github.com/opendenton/City-of-Denton-Datasets"
+description = "Issue tracker for City of Denton Datasets"
 git_branch = "master"
 git_url = "git://github.com/opendenton/City-of-Denton-Datasets.git"
 name = "City-of-Denton-Datasets"

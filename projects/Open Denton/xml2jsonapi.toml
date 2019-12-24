@@ -1,4 +1,5 @@
 code_url = "https://github.com/opendenton/xml2jsonapi"
+description = "A simple XML to JSON server. Convert any XML feed into JSON"
 git_branch = "master"
 git_url = "git://github.com/opendenton/xml2jsonapi.git"
 name = "xml2jsonapi"

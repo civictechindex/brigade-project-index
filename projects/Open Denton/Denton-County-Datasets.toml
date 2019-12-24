@@ -1,4 +1,5 @@
 code_url = "https://github.com/opendenton/Denton-County-Datasets"
+description = "Issue Tracker for Denton County Open Data"
 git_branch = "master"
 git_url = "git://github.com/opendenton/Denton-County-Datasets.git"
 name = "Denton-County-Datasets"

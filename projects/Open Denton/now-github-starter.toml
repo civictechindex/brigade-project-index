@@ -1,4 +1,5 @@
 code_url = "https://github.com/opendenton/now-github-starter"
+description = "Starter project to demonstrate a project whose pull requests get automatically deployed"
 git_branch = "master"
 git_url = "git://github.com/opendenton/now-github-starter.git"
 name = "now-github-starter"

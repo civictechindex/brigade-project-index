@@ -1,4 +1,5 @@
 code_url = "https://github.com/opendenton/opendenton.labs"
+description = "Static site for landing page of Open Denton Labs"
 git_branch = "master"
 git_url = "git://github.com/opendenton/opendenton.labs.git"
 name = "opendenton.labs"

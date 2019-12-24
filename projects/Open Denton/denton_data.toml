@@ -1,4 +1,5 @@
 code_url = "https://github.com/opendenton/denton_data"
+description = "A prototype of an ETL and API for Open Denton "
 git_branch = "master"
 git_url = "git://github.com/opendenton/denton_data.git"
 link_url = "https://www.opendenton.com/denton_data"
