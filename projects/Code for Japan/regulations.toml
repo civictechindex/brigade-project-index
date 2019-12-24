@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforjapan/regulations"
+description = "Code for Japan の規約類です。"
 git_branch = "master"
 git_url = "git://github.com/codeforjapan/regulations.git"
 name = "regulations"

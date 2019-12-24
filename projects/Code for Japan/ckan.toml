@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforjapan/ckan"
+description = "CKAN is an open-source DMS (data management system) for powering data hubs and data portals. CKAN makes it easy to publish, share and use data. It powers the thedatahub.org, catalog.data.gov and data.gov.uk among many other sites."
 git_branch = "master"
 git_url = "git://github.com/codeforjapan/ckan.git"
 link_url = "http://ckan.org/"

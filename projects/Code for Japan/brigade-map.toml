@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforjapan/brigade-map"
+description = "Brigade の一覧地図です"
 git_branch = "master"
 git_url = "git://github.com/codeforjapan/brigade-map.git"
 name = "brigade-map"

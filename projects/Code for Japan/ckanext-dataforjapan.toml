@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforjapan/ckanext-dataforjapan"
+description = "CKAN extension for Data for Japan"
 git_branch = "master"
 git_url = "git://github.com/codeforjapan/ckanext-dataforjapan.git"
 name = "ckanext-dataforjapan"

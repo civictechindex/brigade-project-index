@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforjapan/tumblrExporter"
+description = "Code for Japan Webサイトの Tumblr から個別のデータを抜き出すスクリプト"
 git_branch = "master"
 git_url = "git://github.com/codeforjapan/tumblrExporter.git"
 name = "tumblrExporter"

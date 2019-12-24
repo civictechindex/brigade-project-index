@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforjapan/corporate-fellowship"
+description = "Code for Japan のコーポレートフェローシップに関する情報です。"
 git_branch = "master"
 git_url = "git://github.com/codeforjapan/corporate-fellowship.git"
 name = "corporate-fellowship"

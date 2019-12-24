@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforjapan/scrape_c4j_tumblr"
+description = "Code for Japan の旧記事（Tumblr利用）をスクレイピングして、WordPressからインポートできるCSV形式のファイルに落とし込むスクレイパーです。"
 git_branch = "master"
 git_url = "git://github.com/codeforjapan/scrape_c4j_tumblr.git"
 name = "scrape_c4j_tumblr"

@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforjapan/codeforelection"
+description = "衆院選2017候補者データベース作成プロジェクト"
 git_branch = "master"
 git_url = "git://github.com/codeforjapan/codeforelection.git"
 name = "codeforelection"
