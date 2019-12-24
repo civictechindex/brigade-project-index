@@ -1,4 +1,5 @@
 code_url = "https://github.com/openlexington/lexington-buildings"
+description = "Proposed import of buildings for Louisville using data from data.louisvilleky.gov."
 git_branch = "master"
 git_url = "git://github.com/openlexington/lexington-buildings.git"
 name = "lexington-buildings"

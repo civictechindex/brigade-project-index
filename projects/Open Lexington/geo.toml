@@ -1,4 +1,5 @@
 code_url = "https://github.com/openlexington/geo"
+description = "geo.openlexington.org - an openstreetmap server for fayette county kentucky"
 git_branch = "openlexington"
 git_url = "git://github.com/openlexington/geo.git"
 name = "geo"

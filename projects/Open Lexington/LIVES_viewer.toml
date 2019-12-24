@@ -1,4 +1,5 @@
 code_url = "https://github.com/openlexington/LIVES_viewer"
+description = "A simple web app for viewing LIVES standard health inspection data."
 git_branch = "master"
 git_url = "git://github.com/openlexington/LIVES_viewer.git"
 name = "LIVES_viewer"

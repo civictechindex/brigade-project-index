@@ -1,4 +1,5 @@
 code_url = "https://github.com/openlexington/grocer"
+description = "Find grocery stores, farmers markets, ethnic food stores, and CSA's in the Lexington area"
 git_branch = "gh-pages"
 git_url = "git://github.com/openlexington/grocer.git"
 name = "grocer"

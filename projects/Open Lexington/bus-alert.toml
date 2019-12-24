@@ -1,4 +1,5 @@
 code_url = "https://github.com/openlexington/bus-alert"
+description = "Lexington mobile app to remind you when your bus is approaching"
 git_branch = "master"
 git_url = "git://github.com/openlexington/bus-alert.git"
 name = "bus-alert"

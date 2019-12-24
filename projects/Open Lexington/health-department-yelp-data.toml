@@ -1,4 +1,5 @@
 code_url = "https://github.com/openlexington/health-department-yelp-data"
+description = "This repo holds the health scores in LIVES format that Yelp uses"
 git_branch = "gh-pages"
 git_url = "git://github.com/openlexington/health-department-yelp-data.git"
 link_url = "http://lives.openlexington.org/"
