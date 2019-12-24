@@ -1,4 +1,5 @@
 code_url = "https://github.com/opennebraska/DCparcels"
+description = "Douglas County Nebraska parcel search"
 git_branch = "master"
 git_url = "git://github.com/opennebraska/DCparcels.git"
 name = "DCparcels"

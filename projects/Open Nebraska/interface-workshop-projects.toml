@@ -1,4 +1,5 @@
 code_url = "https://github.com/opennebraska/interface-workshop-projects"
+description = "Code from attendees at our Interface School workshop on civic hacking"
 git_branch = "master"
 git_url = "git://github.com/opennebraska/interface-workshop-projects.git"
 name = "interface-workshop-projects"

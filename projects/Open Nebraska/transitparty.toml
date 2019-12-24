@@ -1,4 +1,5 @@
 code_url = "https://github.com/opennebraska/transitparty"
+description = "Visualizing the Omaha Metro transit system"
 git_branch = "master"
 git_url = "git://github.com/opennebraska/transitparty.git"
 link_url = "http://transitparty.opennebraska.io/"

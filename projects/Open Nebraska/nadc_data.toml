@@ -1,4 +1,5 @@
 code_url = "https://github.com/opennebraska/nadc_data"
+description = "Scripts to download and parse ready-to-upload data to our Nebraska campaign finance app."
 git_branch = "master"
 git_url = "git://github.com/opennebraska/nadc_data.git"
 link_url = "https://github.com/OWH-projects/nadc_data"

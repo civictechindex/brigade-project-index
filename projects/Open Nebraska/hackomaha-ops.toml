@@ -1,4 +1,5 @@
 code_url = "https://github.com/opennebraska/hackomaha-ops"
+description = "Oops, we visualized your data again"
 git_branch = "master"
 git_url = "git://github.com/opennebraska/hackomaha-ops.git"
 name = "hackomaha-ops"
