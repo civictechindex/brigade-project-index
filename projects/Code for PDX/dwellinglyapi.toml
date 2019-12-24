@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforpdx/dwellinglyapi"
+description = "dwellingly api production pipeline (connected to heroku)"
 git_branch = "master"
 git_url = "git://github.com/codeforpdx/dwellinglyapi.git"
 name = "dwellinglyapi"

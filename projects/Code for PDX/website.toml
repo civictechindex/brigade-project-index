@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforpdx/website"
+description = "Code for PDX website"
 git_branch = "master"
 git_url = "git://github.com/codeforpdx/website.git"
 name = "website"

@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforpdx/dwellingly-db-DO-NOT-USE"
+description = "Express functions to grab data for Dwelling.ly"
 git_branch = "master"
 git_url = "git://github.com/codeforpdx/dwellingly-db-DO-NOT-USE.git"
 name = "dwellingly-db-DO-NOT-USE"
