@@ -1,4 +1,5 @@
 code_url = "https://github.com/codefordurham/Traffic-Stops"
+description = "A website to monitor and identify racial profiling practices by North Carolina law enforcement agencies."
 git_branch = "master"
 git_url = "git://github.com/codefordurham/Traffic-Stops.git"
 name = "Traffic-Stops"
