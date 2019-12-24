@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforamerica/socrata-python"
+description = "A library for accessing the Socrata API from Python"
 git_branch = "master"
 git_url = "git://github.com/codeforamerica/socrata-python.git"
 link_url = "http://www.socrata.com"

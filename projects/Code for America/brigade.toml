@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforamerica/brigade"
+description = "The Code for America Brigade Website"
 git_branch = "master"
 git_url = "git://github.com/codeforamerica/brigade.git"
 link_url = "https://brigade.codeforamerica.org"

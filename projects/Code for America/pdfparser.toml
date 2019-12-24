@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforamerica/pdfparser"
+description = "A command line utility written in Java for working with PDF forms"
 git_branch = "master"
 git_url = "git://github.com/codeforamerica/pdfparser.git"
 name = "pdfparser"

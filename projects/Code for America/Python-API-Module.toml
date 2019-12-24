@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforamerica/Python-API-Module"
+description = "A base class for Python API wrappers"
 git_branch = "master"
 git_url = "git://github.com/codeforamerica/Python-API-Module.git"
 name = "Python-API-Module"

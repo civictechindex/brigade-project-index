@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforamerica/open311-on-joget"
+description = "Open311 back-end implementation using Joget workflow engine."
 git_branch = "master"
 git_url = "git://github.com/codeforamerica/open311-on-joget.git"
 name = "open311-on-joget"

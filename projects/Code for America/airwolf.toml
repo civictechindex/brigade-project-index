@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforamerica/airwolf"
+description = "Code for the SF application helper"
 git_branch = "master"
 git_url = "git://github.com/codeforamerica/airwolf.git"
 name = "airwolf"

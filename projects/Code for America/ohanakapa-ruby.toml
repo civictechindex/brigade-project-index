@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforamerica/ohanakapa-ruby"
+description = "A Ruby wrapper for https://github.com/codeforamerica/ohana-api"
 git_branch = "master"
 git_url = "git://github.com/codeforamerica/ohanakapa-ruby.git"
 name = "ohanakapa-ruby"

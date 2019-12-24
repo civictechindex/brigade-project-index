@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforamerica/DemoDexter"
+description = "Collect stats and make maps on a neighborhood level using a network database, OpenStreetMap, & city records"
 git_branch = "master"
 git_url = "git://github.com/codeforamerica/DemoDexter.git"
 link_url = "http://demodexter.heroku.com"

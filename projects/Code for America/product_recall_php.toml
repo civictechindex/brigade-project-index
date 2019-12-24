@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforamerica/product_recall_php"
+description = "PHP Library for Product Recall API"
 git_branch = "master"
 git_url = "git://github.com/codeforamerica/product_recall_php.git"
 link_url = "http://search.usa.gov/api/recalls"

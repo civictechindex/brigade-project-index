@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforamerica/job-commute-search"
+description = "Tool for job seekers to find a job with a good driving or public transit commute."
 git_branch = "master"
 git_url = "git://github.com/codeforamerica/job-commute-search.git"
 link_url = "https://job-commute-search.herokuapp.com"

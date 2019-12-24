@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforamerica/pyramidongae"
+description = "A simple demonstration of using Pyramid on Google App Engine."
 git_branch = "master"
 git_url = "git://github.com/codeforamerica/pyramidongae.git"
 name = "pyramidongae"

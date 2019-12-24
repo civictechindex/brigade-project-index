@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforamerica/cfa_laptop"
+description = "Configuration file for CfA Laptops"
 git_branch = "master"
 git_url = "git://github.com/codeforamerica/cfa_laptop.git"
 name = "cfa_laptop"

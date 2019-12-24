@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforamerica/civictech"
+description = "A meta repository for @ondrae's work increasing the quantity and quality of the civic technology movement."
 git_branch = "master"
 git_url = "git://github.com/codeforamerica/civictech.git"
 name = "civictech"

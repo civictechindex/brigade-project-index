@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforamerica/congress"
+description = "Ruby wrapper for the Sunlight Congress API"
 git_branch = "master"
 git_url = "git://github.com/codeforamerica/congress.git"
 link_url = "http://sunlightlabs.github.io/congress/"

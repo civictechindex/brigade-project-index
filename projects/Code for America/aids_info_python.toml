@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforamerica/aids_info_python"
+description = "Python wrapper for the AIDSinfo drug information API"
 git_branch = "master"
 git_url = "git://github.com/codeforamerica/aids_info_python.git"
 name = "aids_info_python"

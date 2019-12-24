@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforamerica/open311"
+description = "A Ruby wrapper for the Open311 API"
 git_branch = "master"
 git_url = "git://github.com/codeforamerica/open311.git"
 link_url = "http://open311.org/"

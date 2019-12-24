@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforamerica/django-cc"
+description = "Opinionated Cookiecutter for Django projects WIP use at your own risk."
 git_branch = "master"
 git_url = "git://github.com/codeforamerica/django-cc.git"
 name = "django-cc"

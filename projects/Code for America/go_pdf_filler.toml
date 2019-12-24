@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforamerica/go_pdf_filler"
+description = "Test application for filling PDFs from CSV with golang"
 git_branch = "master"
 git_url = "git://github.com/codeforamerica/go_pdf_filler.git"
 name = "go_pdf_filler"

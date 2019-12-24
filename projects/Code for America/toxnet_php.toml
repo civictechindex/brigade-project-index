@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforamerica/toxnet_php"
+description = "Toxnet Web Service API Php Library"
 git_branch = "master"
 git_url = "git://github.com/codeforamerica/toxnet_php.git"
 link_url = "http://toxnet.nlm.nih.gov/toxnetapi/TOXNETWebService.html"

@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforamerica/sms_mta"
+description = "SMS app to get bus times from the Macon Transit Authority's schedule."
 git_branch = "master"
 git_url = "git://github.com/codeforamerica/sms_mta.git"
 name = "sms_mta"

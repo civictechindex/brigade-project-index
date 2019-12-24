@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforamerica/gollum"
+description = "A simple, Git-powered wiki with a sweet API and local frontend."
 git_branch = "master"
 git_url = "git://github.com/codeforamerica/gollum.git"
 name = "gollum"

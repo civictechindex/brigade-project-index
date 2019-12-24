@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforamerica/procure-io"
+description = "Procurement software for the 21st century."
 git_branch = "master"
 git_url = "git://github.com/codeforamerica/procure-io.git"
 name = "procure-io"

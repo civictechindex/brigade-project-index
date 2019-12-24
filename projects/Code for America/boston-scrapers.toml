@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforamerica/boston-scrapers"
+description = "Scripts and programs to extract data from the City of Boston"
 git_branch = "master"
 git_url = "git://github.com/codeforamerica/boston-scrapers.git"
 link_url = "http://datacouch.com/newurbanmechs"

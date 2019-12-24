@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforamerica/epa_python"
+description = "Python wrapper for the multiple APIs available through the EPA"
 git_branch = "master"
 git_url = "git://github.com/codeforamerica/epa_python.git"
 link_url = "http://www.epa.gov/enviro/facts/ef_restful.html"

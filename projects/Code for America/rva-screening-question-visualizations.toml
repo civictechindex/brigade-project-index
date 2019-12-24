@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforamerica/rva-screening-question-visualizations"
+description = "A simple static site with visualizations of eligibility questions used for screening patients at safety net health services."
 git_branch = "master"
 git_url = "git://github.com/codeforamerica/rva-screening-question-visualizations.git"
 link_url = "http://codeforamerica.github.io/rva-screening-question-visualizations/"

@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforamerica/sfpark"
+description = "Ruby library for the SFPark api"
 git_branch = "master"
 git_url = "git://github.com/codeforamerica/sfpark.git"
 name = "sfpark"

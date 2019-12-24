@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforamerica/chimecms.org"
+description = "The chimecms.org site."
 git_branch = "master"
 git_url = "git://github.com/codeforamerica/chimecms.org.git"
 name = "chimecms.org"

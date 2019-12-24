@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforamerica/spy_glass"
+description = "utility for defining web content transformation proxies"
 git_branch = "master"
 git_url = "git://github.com/codeforamerica/spy_glass.git"
 name = "spy_glass"

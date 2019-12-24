@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforamerica/mapper"
+description = "community mapping tools"
 git_branch = "master"
 git_url = "git://github.com/codeforamerica/mapper.git"
 link_url = "http://max.couchone.com/mapper/_design/app/index.html"

@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforamerica/chime-starter"
+description = "A starter chime site for city governments for use with Chime CMS"
 git_branch = "master"
 git_url = "git://github.com/codeforamerica/chime-starter.git"
 name = "chime-starter"

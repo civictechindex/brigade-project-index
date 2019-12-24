@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforamerica/styling_open_data_catalog"
+description = "Static HTML and resources to change the style of the Open Data Catalog."
 git_branch = "master"
 git_url = "git://github.com/codeforamerica/styling_open_data_catalog.git"
 name = "styling_open_data_catalog"

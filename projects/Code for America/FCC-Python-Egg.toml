@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforamerica/FCC-Python-Egg"
+description = "A Python wrapper for the FCC Reboot APIs."
 git_branch = "master"
 git_url = "git://github.com/codeforamerica/FCC-Python-Egg.git"
 name = "FCC-Python-Egg"

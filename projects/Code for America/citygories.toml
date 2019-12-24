@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforamerica/citygories"
+description = "A web service that provides related terms for concepts in cities."
 git_branch = "master"
 git_url = "git://github.com/codeforamerica/citygories.git"
 name = "citygories"

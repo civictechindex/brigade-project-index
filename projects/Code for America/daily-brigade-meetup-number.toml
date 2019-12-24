@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforamerica/daily-brigade-meetup-number"
+description = "Some throw away code to save the daily number of Brigade meetup members."
 git_branch = "master"
 git_url = "git://github.com/codeforamerica/daily-brigade-meetup-number.git"
 name = "daily-brigade-meetup-number"

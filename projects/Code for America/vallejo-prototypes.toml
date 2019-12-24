@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforamerica/vallejo-prototypes"
+description = "A meta-repo for Team Vallejo to share prototype screenshots, mocks, etc. and provide feedback."
 git_branch = "master"
 git_url = "git://github.com/codeforamerica/vallejo-prototypes.git"
 name = "vallejo-prototypes"

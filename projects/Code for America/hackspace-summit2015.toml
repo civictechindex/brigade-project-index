@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforamerica/hackspace-summit2015"
+description = "An experiment in using Waffle to run our Hackspace during the 2015 Summit"
 git_branch = "master"
 git_url = "git://github.com/codeforamerica/hackspace-summit2015.git"
 name = "hackspace-summit2015"

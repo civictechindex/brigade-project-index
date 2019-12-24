@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforamerica/empire-inmates"
+description = "Scrapes data on New York State inmates."
 git_branch = "master"
 git_url = "git://github.com/codeforamerica/empire-inmates.git"
 name = "empire-inmates"

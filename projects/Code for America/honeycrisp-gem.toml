@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforamerica/honeycrisp-gem"
+description = "A Rails gem with base styles and Javascript for Code for America products"
 git_branch = "master"
 git_url = "git://github.com/codeforamerica/honeycrisp-gem.git"
 link_url = "http://honeycrisp.herokuapp.com"

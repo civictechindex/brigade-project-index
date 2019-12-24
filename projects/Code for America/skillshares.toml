@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforamerica/skillshares"
+description = "A collection of notes for internal Code for America skillshares."
 git_branch = "master"
 git_url = "git://github.com/codeforamerica/skillshares.git"
 name = "skillshares"

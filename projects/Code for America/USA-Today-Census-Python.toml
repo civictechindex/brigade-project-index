@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforamerica/USA-Today-Census-Python"
+description = "A Python wrapper for USA Today's Census API"
 git_branch = "master"
 git_url = "git://github.com/codeforamerica/USA-Today-Census-Python.git"
 name = "USA-Today-Census-Python"

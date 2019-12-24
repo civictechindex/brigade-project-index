@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforamerica/longbeach-resources"
+description = "Resource matching API for Long Beach."
 git_branch = "master"
 git_url = "git://github.com/codeforamerica/longbeach-resources.git"
 name = "longbeach-resources"

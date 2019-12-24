@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforamerica/SolarWidget"
+description = "This is a widget for ArcGIS to measure solar capabilities of rooftops."
 git_branch = "master"
 git_url = "git://github.com/codeforamerica/SolarWidget.git"
 link_url = "http://solar-1.apphb.com"

@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforamerica/balance"
+description = "A text message system for checking one's EBT card balance (SNAP benefits and more)"
 git_branch = "master"
 git_url = "git://github.com/codeforamerica/balance.git"
 name = "balance"

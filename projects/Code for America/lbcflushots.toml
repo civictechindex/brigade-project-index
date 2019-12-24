@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforamerica/lbcflushots"
+description = "Flu shot finder for the City of Long Beach, Calif. A redeployment of @tkompare's Chicago app."
 git_branch = "gh-pages"
 git_url = "git://github.com/codeforamerica/lbcflushots.git"
 link_url = "http://www.lbcflushots.org"

@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforamerica/hipaa-sample-app"
+description = "Sample Rails application to test HIPAA compliant hosting on AWS"
 git_branch = "master"
 git_url = "git://github.com/codeforamerica/hipaa-sample-app.git"
 name = "hipaa-sample-app"

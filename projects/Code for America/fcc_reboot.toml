@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforamerica/fcc_reboot"
+description = "A Ruby wrapper for the FCC Reboot APIs."
 git_branch = "master"
 git_url = "git://github.com/codeforamerica/fcc_reboot.git"
 name = "fcc_reboot"

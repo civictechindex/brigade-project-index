@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforamerica/address-normalizer"
+description = "A simple tool that takes a CSV file with addresses and normalizes them."
 git_branch = "master"
 git_url = "git://github.com/codeforamerica/address-normalizer.git"
 name = "address-normalizer"

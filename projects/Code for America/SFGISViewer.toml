@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforamerica/SFGISViewer"
+description = "Esri Flex Viewer on San Francisco GIS Data"
 git_branch = "master"
 git_url = "git://github.com/codeforamerica/SFGISViewer.git"
 name = "SFGISViewer"

@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforamerica/ceviche-starter"
+description = "Generic site for ceviche"
 git_branch = "master"
 git_url = "git://github.com/codeforamerica/ceviche-starter.git"
 name = "ceviche-starter"

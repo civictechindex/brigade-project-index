@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforamerica/commons"
+description = "Ruby wrapper fo the Civic Commons Marketplace API"
 git_branch = "master"
 git_url = "git://github.com/codeforamerica/commons.git"
 link_url = "http://marketplace.civiccommons.org/api"

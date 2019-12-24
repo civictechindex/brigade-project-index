@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforamerica/criminal_case_search"
+description = "Prototype app for filtering NYC Arrest/Arraignment data based on flexible criteria."
 git_branch = "master"
 git_url = "git://github.com/codeforamerica/criminal_case_search.git"
 name = "criminal_case_search"

@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforamerica/gotissues"
+description = "Does the civic issue finder actually work?"
 git_branch = "master"
 git_url = "git://github.com/codeforamerica/gotissues.git"
 link_url = "https://got-issues.herokuapp.com/"

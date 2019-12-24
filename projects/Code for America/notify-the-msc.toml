@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforamerica/notify-the-msc"
+description = "A way for emergency first responders to notify outreach workers. Team Long Beach's in-progress app."
 git_branch = "master"
 git_url = "git://github.com/codeforamerica/notify-the-msc.git"
 link_url = "http://notify-the-msc-staging.herokuapp.com"

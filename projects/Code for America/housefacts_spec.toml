@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforamerica/housefacts_spec"
+description = "The official specification for the House Facts Data Standard."
 git_branch = "master"
 git_url = "git://github.com/codeforamerica/housefacts_spec.git"
 name = "housefacts_spec"

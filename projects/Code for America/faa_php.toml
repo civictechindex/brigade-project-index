@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforamerica/faa_php"
+description = "PHP Library for FAA API"
 git_branch = "master"
 git_url = "git://github.com/codeforamerica/faa_php.git"
 link_url = "http://services.faa.gov/"

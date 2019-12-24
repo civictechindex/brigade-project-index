@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforamerica/code-osmosis-send-a-post"
+description = "A quick #code-osmosis challenge for people to figure out how to send an HTTP POST request"
 git_branch = "master"
 git_url = "git://github.com/codeforamerica/code-osmosis-send-a-post.git"
 name = "code-osmosis-send-a-post"

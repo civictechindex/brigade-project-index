@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforamerica/peernetwork"
+description = "Peer Network website for Code for America"
 git_branch = "gh-pages"
 git_url = "git://github.com/codeforamerica/peernetwork.git"
 name = "peernetwork"

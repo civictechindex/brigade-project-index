@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforamerica/civic-cloud"
+description = "A placeholder/meta-repository for efforts to build and manage independent local hosting infrastructures"
 git_branch = "master"
 git_url = "git://github.com/codeforamerica/civic-cloud.git"
 name = "civic-cloud"

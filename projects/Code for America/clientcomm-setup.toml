@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforamerica/clientcomm-setup"
+description = "Dot and brew files for the ClientComm Team"
 git_branch = "master"
 git_url = "git://github.com/codeforamerica/clientcomm-setup.git"
 name = "clientcomm-setup"

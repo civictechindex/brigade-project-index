@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforamerica/denver-311"
+description = "A dynamic infographic for 311 data in the City and County of Denver"
 git_branch = "master"
 git_url = "git://github.com/codeforamerica/denver-311.git"
 name = "denver-311"

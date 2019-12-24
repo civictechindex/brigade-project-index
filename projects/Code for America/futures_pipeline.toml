@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforamerica/futures_pipeline"
+description = "Ruby wrapper for the Futures, Inc. US Military Pipeline API"
 git_branch = "master"
 git_url = "git://github.com/codeforamerica/futures_pipeline.git"
 name = "futures_pipeline"

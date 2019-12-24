@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforamerica/windygrid"
+description = "Some static assets for the Chicago superduperuber dashboard"
 git_branch = "master"
 git_url = "git://github.com/codeforamerica/windygrid.git"
 name = "windygrid"

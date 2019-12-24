@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforamerica/naics-api"
+description = "Basic API to return NAICS codes and information"
 git_branch = "master"
 git_url = "git://github.com/codeforamerica/naics-api.git"
 name = "naics-api"

@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforamerica/build-week"
+description = "Meta-repo for tracking Build Week projects"
 git_branch = "master"
 git_url = "git://github.com/codeforamerica/build-week.git"
 name = "build-week"

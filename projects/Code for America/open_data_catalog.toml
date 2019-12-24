@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforamerica/open_data_catalog"
+description = "A Django web application to help cities easily create an open data catalog."
 git_branch = "master"
 git_url = "git://github.com/codeforamerica/open_data_catalog.git"
 name = "open_data_catalog"

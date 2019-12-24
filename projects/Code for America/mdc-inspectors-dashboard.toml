@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforamerica/mdc-inspectors-dashboard"
+description = "[MDC Fellowship 2015] Clone of mdc-feedback, fed by mdc-inspectors"
 git_branch = "master"
 git_url = "git://github.com/codeforamerica/mdc-inspectors-dashboard.git"
 link_url = "https://mdc-inspectors-dashboard.herokuapp.com/"

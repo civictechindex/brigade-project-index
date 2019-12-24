@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforamerica/code-osmosis"
+description = "Topics/ideas for Code Osmosis sessions"
 git_branch = "master"
 git_url = "git://github.com/codeforamerica/code-osmosis.git"
 name = "code-osmosis"

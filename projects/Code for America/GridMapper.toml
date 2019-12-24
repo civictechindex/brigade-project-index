@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforamerica/GridMapper"
+description = "Map reports from first responders on a grid overlay. See https://github.com/mapmeld/GridMapAuth for password protection with Node.js"
 git_branch = "master"
 git_url = "git://github.com/codeforamerica/GridMapper.git"
 link_url = "http://gridmapper.herokuapp.com/?src=github"

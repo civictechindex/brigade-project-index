@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforamerica/metaportal"
+description = "A portal for all the data about data portals."
 git_branch = "master"
 git_url = "git://github.com/codeforamerica/metaportal.git"
 name = "metaportal"

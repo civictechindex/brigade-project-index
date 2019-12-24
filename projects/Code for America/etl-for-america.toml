@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforamerica/etl-for-america"
+description = 'A convening place for ETL, data integration, and "plumbing the pipes" of government data'
 git_branch = "master"
 git_url = "git://github.com/codeforamerica/etl-for-america.git"
 name = "etl-for-america"

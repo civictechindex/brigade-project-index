@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforamerica/recordtrac-setup"
+description = "Setup app for RecordTrac"
 git_branch = "master"
 git_url = "git://github.com/codeforamerica/recordtrac-setup.git"
 name = "recordtrac-setup"

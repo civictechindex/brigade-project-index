@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforamerica/data-portal-info-collector"
+description = "Find a fips code for a state, county, city, town etc."
 git_branch = "master"
 git_url = "git://github.com/codeforamerica/data-portal-info-collector.git"
 name = "data-portal-info-collector"

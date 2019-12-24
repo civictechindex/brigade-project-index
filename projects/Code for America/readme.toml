@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforamerica/readme"
+description = "CFA README template with standardized repository guidelines"
 git_branch = "master"
 git_url = "git://github.com/codeforamerica/readme.git"
 name = "readme"

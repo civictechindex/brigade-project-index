@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforamerica/broadband_map_python"
+description = "Python wrapper for Broadband Map APIs http://broadbandmap.gov/developer"
 git_branch = "master"
 git_url = "git://github.com/codeforamerica/broadband_map_python.git"
 name = "broadband_map_python"

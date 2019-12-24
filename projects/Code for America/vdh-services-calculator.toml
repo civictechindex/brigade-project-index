@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforamerica/vdh-services-calculator"
+description = "Calculates eligibility levels for the VA Department of Health"
 git_branch = "gh-pages"
 git_url = "git://github.com/codeforamerica/vdh-services-calculator.git"
 link_url = "http://scale.rvahealth.org/"

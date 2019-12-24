@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforamerica/git-jekyll-preview"
+description = "Preview your Github-hosted websites before making them live."
 git_branch = "master"
 git_url = "git://github.com/codeforamerica/git-jekyll-preview.git"
 link_url = "http://jekit.codeforamerica.org"

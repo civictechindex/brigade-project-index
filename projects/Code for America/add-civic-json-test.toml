@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforamerica/add-civic-json-test"
+description = "Use this project to test the automated creation of a pull request adding a civic.json file."
 git_branch = "master"
 git_url = "git://github.com/codeforamerica/add-civic-json-test.git"
 name = "add-civic-json-test"

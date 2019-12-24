@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforamerica/cc-mkplc-widget"
+description = "JS Widget for the Civic Commons Marketplace"
 git_branch = "master"
 git_url = "git://github.com/codeforamerica/cc-mkplc-widget.git"
 name = "cc-mkplc-widget"

@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforamerica/DNS-Service"
+description = "DNS records for codeforamerica.org"
 git_branch = "master"
 git_url = "git://github.com/codeforamerica/DNS-Service.git"
 name = "DNS-Service"

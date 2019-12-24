@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforamerica/realms-wiki"
+description = "Git based wiki inspired by Gollum"
 git_branch = "master"
 git_url = "git://github.com/codeforamerica/realms-wiki.git"
 link_url = "http://realms.io"

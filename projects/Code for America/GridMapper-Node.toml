@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforamerica/GridMapper-Node"
+description = "Map reports from first responders on a color-coded grid overlay. Site includes a public-facing site and a grid editor with login required. Replaces https://github.com/codeforamerica/GridMapper"
 git_branch = "master"
 git_url = "git://github.com/codeforamerica/GridMapper-Node.git"
 link_url = "http://gridmapauth.heroku.com/auth"

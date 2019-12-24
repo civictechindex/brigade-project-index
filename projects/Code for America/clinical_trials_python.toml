@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforamerica/clinical_trials_python"
+description = "Python API for the ClinicalTrials.gov API"
 git_branch = "master"
 git_url = "git://github.com/codeforamerica/clinical_trials_python.git"
 link_url = "http://clinicaltrials.gov/ct2/info/linking"

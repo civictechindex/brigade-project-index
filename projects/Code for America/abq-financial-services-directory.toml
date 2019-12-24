@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforamerica/abq-financial-services-directory"
+description = "Directory of services offered by non-profits, government, and other organizations in Albuquerque."
 git_branch = "gh-pages"
 git_url = "git://github.com/codeforamerica/abq-financial-services-directory.git"
 name = "abq-financial-services-directory"

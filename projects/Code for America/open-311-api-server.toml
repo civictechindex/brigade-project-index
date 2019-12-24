@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforamerica/open-311-api-server"
+description = "A simple Rails API to serve service request data in the Open311 spec"
 git_branch = "master"
 git_url = "git://github.com/codeforamerica/open-311-api-server.git"
 name = "open-311-api-server"

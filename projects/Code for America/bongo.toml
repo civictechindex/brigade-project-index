@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforamerica/bongo"
+description = "A Python API wrapper for Iowa City's bus data."
 git_branch = "master"
 git_url = "git://github.com/codeforamerica/bongo.git"
 link_url = "http://ebongo.org/api/"

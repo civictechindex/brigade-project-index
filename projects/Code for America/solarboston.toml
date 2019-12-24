@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforamerica/solarboston"
+description = "This is a replication of the Solar Boston project"
 git_branch = "master"
 git_url = "git://github.com/codeforamerica/solarboston.git"
 name = "solarboston"

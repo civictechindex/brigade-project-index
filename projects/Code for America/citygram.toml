@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforamerica/citygram"
+description = "Subscribe to your city."
 git_branch = "master"
 git_url = "git://github.com/codeforamerica/citygram.git"
 name = "citygram"

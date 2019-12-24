@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforamerica/health"
+description = "Meta repo to view all health project issues"
 git_branch = "master"
 git_url = "git://github.com/codeforamerica/health.git"
 name = "health"

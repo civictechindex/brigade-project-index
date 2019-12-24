@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforamerica/likeminded_api_wrappers"
+description = "Consume the Likeminded API in different languages."
 git_branch = "master"
 git_url = "git://github.com/codeforamerica/likeminded_api_wrappers.git"
 name = "likeminded_api_wrappers"

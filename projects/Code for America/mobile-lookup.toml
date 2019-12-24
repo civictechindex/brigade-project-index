@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforamerica/mobile-lookup"
+description = "Lookup mobile phone numbers from a list."
 git_branch = "master"
 git_url = "git://github.com/codeforamerica/mobile-lookup.git"
 name = "mobile-lookup"

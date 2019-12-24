@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforamerica/hello-dog"
+description = "Our IRC/Campfire bot based on Hubot"
 git_branch = "master"
 git_url = "git://github.com/codeforamerica/hello-dog.git"
 name = "hello-dog"

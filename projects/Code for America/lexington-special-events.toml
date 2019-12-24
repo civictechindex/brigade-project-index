@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforamerica/lexington-special-events"
+description = "Special events management system for Lexington, KY"
 git_branch = "master"
 git_url = "git://github.com/codeforamerica/lexington-special-events.git"
 link_url = "http://lexington-events.herokuapp.com/"

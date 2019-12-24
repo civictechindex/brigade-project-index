@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforamerica/servicecensus"
+description = "Local Digital Services Census. Also https://services-census.herokuapp.com"
 git_branch = "master"
 git_url = "git://github.com/codeforamerica/servicecensus.git"
 link_url = "https://services-census-2016.herokuapp.com"

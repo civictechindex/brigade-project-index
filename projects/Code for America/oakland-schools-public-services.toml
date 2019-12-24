@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforamerica/oakland-schools-public-services"
+description = "A visualization of the public services in the neighborhood of Oakland public schools."
 git_branch = "master"
 git_url = "git://github.com/codeforamerica/oakland-schools-public-services.git"
 name = "oakland-schools-public-services"

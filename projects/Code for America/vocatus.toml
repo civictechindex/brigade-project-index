@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforamerica/vocatus"
+description = "An automated advocate for patient rights"
 git_branch = "master"
 git_url = "git://github.com/codeforamerica/vocatus.git"
 name = "vocatus"

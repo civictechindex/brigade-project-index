@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforamerica/three"
+description = "An easy-to-use Python wrapper for the Open311 API."
 git_branch = "master"
 git_url = "git://github.com/codeforamerica/three.git"
 link_url = "three.codeforamerica.org"

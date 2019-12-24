@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforamerica/summitbeta"
+description = "Planning, documentation, design for BETA (A tiny Code for America conference)"
 git_branch = "master"
 git_url = "git://github.com/codeforamerica/summitbeta.git"
 name = "summitbeta"

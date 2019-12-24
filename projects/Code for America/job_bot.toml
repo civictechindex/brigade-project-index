@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforamerica/job_bot"
+description = "Registers users for CalJobs"
 git_branch = "master"
 git_url = "git://github.com/codeforamerica/job_bot.git"
 name = "job_bot"

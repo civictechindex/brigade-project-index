@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforamerica/RVA-FAMIS"
+description = "Search FAMIS coverage & copays"
 git_branch = "master"
 git_url = "git://github.com/codeforamerica/RVA-FAMIS.git"
 name = "RVA-FAMIS"

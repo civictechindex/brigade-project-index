@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforamerica/ticket-to-ride-imports"
+description = "Import jobs for loading data from Ticket to RIDE into various school district student information systems."
 git_branch = "master"
 git_url = "git://github.com/codeforamerica/ticket-to-ride-imports.git"
 name = "ticket-to-ride-imports"

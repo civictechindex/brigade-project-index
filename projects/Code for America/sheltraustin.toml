@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforamerica/sheltraustin"
+description = "Python version of Sheltr.org App built for Austin"
 git_branch = "master"
 git_url = "git://github.com/codeforamerica/sheltraustin.git"
 name = "sheltraustin"

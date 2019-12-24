@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforamerica/muralmapper"
+description = "A CouchDB + Nodejs + Twitter application that crowd sources mural art mapping."
 git_branch = "master"
 git_url = "git://github.com/codeforamerica/muralmapper.git"
 link_url = "http://artmapper.org"

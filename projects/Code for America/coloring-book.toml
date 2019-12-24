@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforamerica/coloring-book"
+description = "A place to hold the pages for a coloring book designed by those @ CfA. "
 git_branch = "master"
 git_url = "git://github.com/codeforamerica/coloring-book.git"
 name = "coloring-book"

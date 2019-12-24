@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforamerica/cmr-workstation-setup"
+description = "A repository for the Clear My Record engineering team to collect shared workstation settings"
 git_branch = "master"
 git_url = "git://github.com/codeforamerica/cmr-workstation-setup.git"
 name = "cmr-workstation-setup"

@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforamerica/rxNormRef_php"
+description = "Web Application for rxNorm API - Semantic Drug Reference Tool"
 git_branch = "master"
 git_url = "git://github.com/codeforamerica/rxNormRef_php.git"
 name = "rxNormRef_php"

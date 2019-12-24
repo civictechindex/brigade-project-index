@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforamerica/ohana-api"
+description = "The open source API directory of community social services."
 git_branch = "master"
 git_url = "git://github.com/codeforamerica/ohana-api.git"
 link_url = "http://ohana-api-demo.herokuapp.com/api"

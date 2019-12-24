@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforamerica/RedPen"
+description = "Red Pen automatically maps and labels your red and blue dots in Field Papers"
 git_branch = "master"
 git_url = "git://github.com/codeforamerica/RedPen.git"
 name = "RedPen"

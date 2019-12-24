@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforamerica/2010BasicCensusMap"
+description = "Census Map data from 2010 using ESRI Data Sources"
 git_branch = "master"
 git_url = "git://github.com/codeforamerica/2010BasicCensusMap.git"
 link_url = "http://censusmap.apphb.com/"

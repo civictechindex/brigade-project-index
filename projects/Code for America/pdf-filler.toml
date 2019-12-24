@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforamerica/pdf-filler"
+description = "Fill PDF forms with a small python module and a .jar command line utility."
 git_branch = "master"
 git_url = "git://github.com/codeforamerica/pdf-filler.git"
 name = "pdf-filler"

@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforamerica/publisher"
+description = "The cross-proposition publishing platform for the single domain"
 git_branch = "master"
 git_url = "git://github.com/codeforamerica/publisher.git"
 name = "publisher"

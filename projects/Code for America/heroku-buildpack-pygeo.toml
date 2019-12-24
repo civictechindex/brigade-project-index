@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforamerica/heroku-buildpack-pygeo"
+description = "Python buildpack"
 git_branch = "master"
 git_url = "git://github.com/codeforamerica/heroku-buildpack-pygeo.git"
 name = "heroku-buildpack-pygeo"

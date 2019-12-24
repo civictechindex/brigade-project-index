@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforamerica/networkplatform"
+description = "A meta repo to gather the work on the network platform."
 git_branch = "master"
 git_url = "git://github.com/codeforamerica/networkplatform.git"
 link_url = "https://waffle.io/codeforamerica/networkplatform"

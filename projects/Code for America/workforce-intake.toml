@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforamerica/workforce-intake"
+description = "A prototype intake application for workforce service eligibility screening"
 git_branch = "master"
 git_url = "git://github.com/codeforamerica/workforce-intake.git"
 name = "workforce-intake"

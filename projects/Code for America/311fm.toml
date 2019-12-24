@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforamerica/311fm"
+description = "A 311 service request viewer built on the open311 api"
 git_branch = "master"
 git_url = "git://github.com/codeforamerica/311fm.git"
 link_url = "http://311.fm"

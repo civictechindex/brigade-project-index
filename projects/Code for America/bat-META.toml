@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforamerica/bat-META"
+description = "The purpose of the META BAT is to test the BAT approval and creation process for proposed Brigade Action Teams. "
 git_branch = "master"
 git_url = "git://github.com/codeforamerica/bat-META.git"
 name = "bat-META"

@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforamerica/cfa-wufoo"
+description = "A custom css stylesheet for Code for America Wufoo forms."
 git_branch = "gh-pages"
 git_url = "git://github.com/codeforamerica/cfa-wufoo.git"
 name = "cfa-wufoo"

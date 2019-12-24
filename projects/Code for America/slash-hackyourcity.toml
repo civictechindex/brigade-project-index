@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforamerica/slash-hackyourcity"
+description = "A Slack app to easily find civic hacks that need your help. /hackyourcity"
 git_branch = "master"
 git_url = "git://github.com/codeforamerica/slash-hackyourcity.git"
 name = "slash-hackyourcity"

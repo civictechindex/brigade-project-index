@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforamerica/vallejo_watch"
+description = "View, create, and manage quality of life issues."
 git_branch = "master"
 git_url = "git://github.com/codeforamerica/vallejo_watch.git"
 name = "vallejo_watch"

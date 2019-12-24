@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforamerica/broadband_map_ruby"
+description = "Ruby Wrapper for the Broadband Maps  API - http://broadbandmap.gov/developer"
 git_branch = "master"
 git_url = "git://github.com/codeforamerica/broadband_map_ruby.git"
 name = "broadband_map_ruby"

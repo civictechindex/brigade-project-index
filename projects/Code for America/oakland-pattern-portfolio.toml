@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforamerica/oakland-pattern-portfolio"
+description = "A pattern portfolio for the City of Oakland based on GitHub's Primer"
 git_branch = "master"
 git_url = "git://github.com/codeforamerica/oakland-pattern-portfolio.git"
 name = "oakland-pattern-portfolio"

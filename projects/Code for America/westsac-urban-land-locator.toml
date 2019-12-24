@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforamerica/westsac-urban-land-locator"
+description = "List of land available for $1 lease for agricultural purposes in West Sacramento"
 git_branch = "master"
 git_url = "git://github.com/codeforamerica/westsac-urban-land-locator.git"
 link_url = "http://acres.online"

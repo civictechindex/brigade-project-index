@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforamerica/OpenTrails"
+description = "OpenTrails (Open Trail System Specification) Converter & Validator"
 git_branch = "master"
 git_url = "git://github.com/codeforamerica/OpenTrails.git"
 link_url = "http://open-trails.herokuapp.com/"

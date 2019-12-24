@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforamerica/meme"
+description = "Meme generator"
 git_branch = "master"
 git_url = "git://github.com/codeforamerica/meme.git"
 name = "meme"

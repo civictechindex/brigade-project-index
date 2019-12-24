@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforamerica/cfaweb-blog-archive"
+description = "A static site hosting an archive of Code for America's blog. Built with Jekyll, hosted on S3."
 git_branch = "master"
 git_url = "git://github.com/codeforamerica/cfaweb-blog-archive.git"
 name = "cfaweb-blog-archive"

@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforamerica/heroku-buildpack-lame"
+description = "Heroku buildpack for LAME MP3 encoder"
 git_branch = "master"
 git_url = "git://github.com/codeforamerica/heroku-buildpack-lame.git"
 name = "heroku-buildpack-lame"

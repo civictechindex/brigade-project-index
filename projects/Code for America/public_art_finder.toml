@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforamerica/public_art_finder"
+description = "All the stuff needed to get a barebones Public Art Finder mobile website setup in your city."
 git_branch = "master"
 git_url = "git://github.com/codeforamerica/public_art_finder.git"
 name = "public_art_finder"

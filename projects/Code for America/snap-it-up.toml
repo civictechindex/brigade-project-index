@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforamerica/snap-it-up"
+description = "Super-simple dashboard showing the status of SNAP-related web services."
 git_branch = "master"
 git_url = "git://github.com/codeforamerica/snap-it-up.git"
 link_url = "http://status.citizenonboard.com/ "

@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforamerica/cfa_dashboard"
+description = "A dashboard for various CfA-related info"
 git_branch = "master"
 git_url = "git://github.com/codeforamerica/cfa_dashboard.git"
 name = "cfa_dashboard"

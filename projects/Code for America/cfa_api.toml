@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforamerica/cfa_api"
+description = "CFA as a service"
 git_branch = "master"
 git_url = "git://github.com/codeforamerica/cfa_api.git"
 name = "cfa_api"

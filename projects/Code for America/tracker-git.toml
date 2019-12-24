@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforamerica/tracker-git"
+description = "Integrations with Pivotal Tracker based on current Git repository."
 git_branch = "master"
 git_url = "git://github.com/codeforamerica/tracker-git.git"
 name = "tracker-git"

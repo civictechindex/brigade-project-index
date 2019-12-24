@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforamerica/geodata-checkout"
+description = "Draw an area and view geodata inside that neighborhood as an interactive map, time-enabled KML, or GeoJSON"
 git_branch = "master"
 git_url = "git://github.com/codeforamerica/geodata-checkout.git"
 link_url = "http://historicchicago.heroku.com/"

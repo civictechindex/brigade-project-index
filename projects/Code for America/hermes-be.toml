@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforamerica/hermes-be"
+description = "Backend code for Hermes (including DB migrations, REST API, cron scripts, etc.)"
 git_branch = "master"
 git_url = "git://github.com/codeforamerica/hermes-be.git"
 name = "hermes-be"

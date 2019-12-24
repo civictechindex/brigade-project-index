@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforamerica/Data-Wiki"
+description = "A Drupal-based front end for merging and improving datasets"
 git_branch = "master"
 git_url = "git://github.com/codeforamerica/Data-Wiki.git"
 name = "Data-Wiki"

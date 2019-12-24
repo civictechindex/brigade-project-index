@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforamerica/brigade-content"
+description = "A meta repo to discuss and collect what new Brigade content is needed."
 git_branch = "master"
 git_url = "git://github.com/codeforamerica/brigade-content.git"
 name = "brigade-content"

@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforamerica/OpenOpenDataCensus"
+description = "An open data census builder."
 git_branch = "master"
 git_url = "git://github.com/codeforamerica/OpenOpenDataCensus.git"
 name = "OpenOpenDataCensus"

@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforamerica/food-locator"
+description = "A text message system for finding food based on a google calendar's event information about food distributions."
 git_branch = "master"
 git_url = "git://github.com/codeforamerica/food-locator.git"
 name = "food-locator"

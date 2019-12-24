@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforamerica/route_view"
+description = "Quickly see traffic cameras along your route."
 git_branch = "master"
 git_url = "git://github.com/codeforamerica/route_view.git"
 name = "route_view"

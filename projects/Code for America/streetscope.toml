@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforamerica/streetscope"
+description = "A geocoder for OpenAddresses"
 git_branch = "master"
 git_url = "git://github.com/codeforamerica/streetscope.git"
 name = "streetscope"

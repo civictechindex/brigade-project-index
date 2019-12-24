@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforamerica/message_macon"
+description = "Allow citizens to text issues to SeeClickFix Macon through Open311."
 git_branch = "master"
 git_url = "git://github.com/codeforamerica/message_macon.git"
 link_url = "messagemacon.com"

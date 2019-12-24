@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforamerica/data-catalogs"
+description = "Keeping track of government data catalogues"
 git_branch = "master"
 git_url = "git://github.com/codeforamerica/data-catalogs.git"
 name = "data-catalogs"

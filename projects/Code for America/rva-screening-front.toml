@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforamerica/rva-screening-front"
+description = "Public landing page for RVA's Screening App"
 git_branch = "gh-pages"
 git_url = "git://github.com/codeforamerica/rva-screening-front.git"
 name = "rva-screening-front"

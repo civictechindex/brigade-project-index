@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforamerica/mdc-municipality-geo-api"
+description = "[MDC Fellowship 2015] Simple geospatial API for Miami-Dade municipalities. Based on fork of https://github.com/codeforamerica/US-Census-Area-API"
 git_branch = "master"
 git_url = "git://github.com/codeforamerica/mdc-municipality-geo-api.git"
 link_url = "https://still-eyrie-4551.herokuapp.com/"

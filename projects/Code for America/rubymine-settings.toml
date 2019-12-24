@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforamerica/rubymine-settings"
+description = "Standard settings for RubyMine"
 git_branch = "master"
 git_url = "git://github.com/codeforamerica/rubymine-settings.git"
 name = "rubymine-settings"

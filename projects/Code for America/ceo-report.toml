@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforamerica/ceo-report"
+description = "A series of graphs summarizing poverty in NYC."
 git_branch = "gh-pages"
 git_url = "git://github.com/codeforamerica/ceo-report.git"
 name = "ceo-report"

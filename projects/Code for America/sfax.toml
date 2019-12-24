@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforamerica/sfax"
+description = "SFax API Wrapper for Ruby"
 git_branch = "master"
 git_url = "git://github.com/codeforamerica/sfax.git"
 name = "sfax"
