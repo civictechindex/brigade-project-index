@@ -1,4 +1,5 @@
 code_url = "https://github.com/codefortomorrow/OpeneatsCrowdsourcingApp"
+description = "The app is used to scan barcode and take the product pictures for collecting food data."
 git_branch = "master"
 git_url = "git://github.com/codefortomorrow/OpeneatsCrowdsourcingApp.git"
 name = "OpeneatsCrowdsourcingApp"
