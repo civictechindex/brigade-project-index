@@ -1,4 +1,5 @@
 code_url = "https://github.com/CodeForBrazil/ckan-docker"
+description = "Developing and deploying CKAN with Docker"
 git_branch = "master"
 git_url = "git://github.com/CodeForBrazil/ckan-docker.git"
 name = "ckan-docker"
