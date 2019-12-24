@@ -1,4 +1,5 @@
 code_url = "https://github.com/cforlando/open511-orl"
+description = "Open511 implementation for Orlando road closures, accidents, and events"
 git_branch = "master"
 git_url = "git://github.com/cforlando/open511-orl.git"
 name = "open511-orl"

@@ -1,4 +1,5 @@
 code_url = "https://github.com/cforlando/OPD-Visualizations"
+description = "Collection of web graphics displaying Orlando Police Dept dispatch data"
 git_branch = "master"
 git_url = "git://github.com/cforlando/OPD-Visualizations.git"
 name = "OPD-Visualizations"

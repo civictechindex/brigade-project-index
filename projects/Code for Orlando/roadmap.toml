@@ -1,4 +1,5 @@
 code_url = "https://github.com/cforlando/roadmap"
+description = "A project for helping us make process and documentation of our brigade and some of its inner workings."
 git_branch = "master"
 git_url = "git://github.com/cforlando/roadmap.git"
 name = "roadmap"

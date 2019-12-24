@@ -1,4 +1,5 @@
 code_url = "https://github.com/cforlando/wiki-heroku"
+description = "Heroku deploy manifest for Wiki.js"
 git_branch = "master"
 git_url = "git://github.com/cforlando/wiki-heroku.git"
 name = "wiki-heroku"

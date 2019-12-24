@@ -1,4 +1,5 @@
 code_url = "https://github.com/cforlando/brigade-resources"
+description = "CfO brigade resourses like file templates"
 git_branch = "master"
 git_url = "git://github.com/cforlando/brigade-resources.git"
 name = "brigade-resources"
