@@ -1,4 +1,5 @@
 code_url = "https://github.com/project-open-data/db-to-api"
+description = "Turns a Database into a Secure, RESTful API"
 git_branch = "master"
 git_url = "git://github.com/project-open-data/db-to-api.git"
 name = "db-to-api"
