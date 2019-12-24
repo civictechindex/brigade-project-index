@@ -1,4 +1,5 @@
 code_url = "https://github.com/CodeForAfrica/sensors.AFRICA-AQ-api"
+description = "The sensors.AFRICA air quality API receiving, storing, and processing data received from sensors across the continentent. Accessible at https://api.aq.sensors.africa/"
 git_branch = "master"
 git_url = "git://github.com/CodeForAfrica/sensors.AFRICA-AQ-api.git"
 link_url = "https://api.aq.sensors.africa/"

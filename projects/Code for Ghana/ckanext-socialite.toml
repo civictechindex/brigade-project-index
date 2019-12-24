@@ -1,4 +1,5 @@
 code_url = "https://github.com/CodeForAfrica/ckanext-socialite"
+description = "[EXPERIMENTAL] A CKAN extension to allow login using Google, Facebook, Twitter or Github."
 git_branch = "develop"
 git_url = "git://github.com/CodeForAfrica/ckanext-socialite.git"
 name = "ckanext-socialite"

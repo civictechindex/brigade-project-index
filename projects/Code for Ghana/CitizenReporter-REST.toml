@@ -1,4 +1,5 @@
 code_url = "https://github.com/CodeForAfrica/CitizenReporter-REST"
+description = "Wordpress Plugin for enabling custom REST endpoints on CitizenReporter "
 git_branch = "master"
 git_url = "git://github.com/CodeForAfrica/CitizenReporter-REST.git"
 name = "CitizenReporter-REST"

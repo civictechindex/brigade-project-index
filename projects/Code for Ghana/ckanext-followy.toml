@@ -1,4 +1,5 @@
 code_url = "https://github.com/CodeForAfrica/ckanext-followy"
+description = "[ARCHIVED] A CKAN extension to show the datasets a user is following."
 git_branch = "master"
 git_url = "git://github.com/CodeForAfrica/ckanext-followy.git"
 name = "ckanext-followy"

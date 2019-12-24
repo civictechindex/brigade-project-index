@@ -1,4 +1,5 @@
 code_url = "https://github.com/CodeForAfrica/bubble-network-flourish"
+description = "The Code for Africa Bubble Network dataviz ported to the Flourish framework"
 git_branch = "master"
 git_url = "git://github.com/CodeForAfrica/bubble-network-flourish.git"
 name = "bubble-network-flourish"

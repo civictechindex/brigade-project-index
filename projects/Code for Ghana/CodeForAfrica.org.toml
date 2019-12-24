@@ -1,4 +1,5 @@
 code_url = "https://github.com/CodeForAfrica/CodeForAfrica.org"
+description = "The @CodeForAfrica landing page. Built with Jekyll and hosted on Github Pages. Accessible at https://codeforafrica.org/"
 git_branch = "master"
 git_url = "git://github.com/CodeForAfrica/CodeForAfrica.org.git"
 link_url = "https://codeforafrica.org/"

@@ -1,4 +1,5 @@
 code_url = "https://github.com/CodeForAfrica/geomancer"
+description = "Open source tool to help journalists easily mash up data based on shared geography."
 git_branch = "master"
 git_url = "git://github.com/CodeForAfrica/geomancer.git"
 name = "geomancer"

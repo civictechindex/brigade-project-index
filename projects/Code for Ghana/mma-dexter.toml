@@ -1,4 +1,5 @@
 code_url = "https://github.com/CodeForAfrica/mma-dexter"
+description = "Dexter document monitor for MMA"
 git_branch = "master"
 git_url = "git://github.com/CodeForAfrica/mma-dexter.git"
 name = "mma-dexter"

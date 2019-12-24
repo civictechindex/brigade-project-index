@@ -1,4 +1,5 @@
 code_url = "https://github.com/CodeForAfrica/ckanext-notify"
+description = "[EXPERIMENTAL] CKAN extension to provide more options for notifications such as Slack notifications."
 git_branch = "master"
 git_url = "git://github.com/CodeForAfrica/ckanext-notify.git"
 name = "ckanext-notify"
