@@ -1,4 +1,5 @@
 code_url = "https://github.com/Code-for-Miami/miami-gtfs"
+description = "Get a real-time view of Miami Dade County's Traffic Information"
 git_branch = "master"
 git_url = "git://github.com/Code-for-Miami/miami-gtfs.git"
 name = "miami-gtfs"

@@ -1,4 +1,5 @@
 code_url = "https://github.com/Code-for-Miami/repository_status_keys"
+description = "✅ - Live, Maintained :zap: :sleeping: - Live, Unmaintained :zap::construction: - Live, Under Construction :sleeping: - Unmaintained"
 git_branch = "master"
 git_url = "git://github.com/Code-for-Miami/repository_status_keys.git"
 name = "repository_status_keys"

@@ -1,4 +1,5 @@
 code_url = "https://github.com/Code-for-Miami/legislature-tracker"
+description = ":sleeping: An application that pulls in Open States data and combines with editorial expertise to create a live view into a state legislature session."
 git_branch = "master"
 git_url = "git://github.com/Code-for-Miami/legislature-tracker.git"
 link_url = "http://code-for-miami.github.io/legislature-tracker"

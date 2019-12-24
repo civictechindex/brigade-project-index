@@ -1,4 +1,5 @@
 code_url = "https://github.com/Code-for-Miami/miami-tree-permits"
+description = "proof of concept for city of miami's open permit data"
 git_branch = "master"
 git_url = "git://github.com/Code-for-Miami/miami-tree-permits.git"
 name = "miami-tree-permits"

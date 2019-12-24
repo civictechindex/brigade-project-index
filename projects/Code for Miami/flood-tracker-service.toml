@@ -1,4 +1,5 @@
 code_url = "https://github.com/Code-for-Miami/flood-tracker-service"
+description = "A ELK backend for Flood Tracker to pipe the data to ES"
 git_branch = "master"
 git_url = "git://github.com/Code-for-Miami/flood-tracker-service.git"
 name = "flood-tracker-service"

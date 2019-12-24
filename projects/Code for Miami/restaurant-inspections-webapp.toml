@@ -1,4 +1,5 @@
 code_url = "https://github.com/Code-for-Miami/restaurant-inspections-webapp"
+description = ":zap::construction: Web application that shows information of the Miami-Dade county Restaurant Inspections using https://github.com/Code-for-Miami/restaurant-inspections-api/"
 git_branch = "master"
 git_url = "git://github.com/Code-for-Miami/restaurant-inspections-webapp.git"
 name = "restaurant-inspections-webapp"
