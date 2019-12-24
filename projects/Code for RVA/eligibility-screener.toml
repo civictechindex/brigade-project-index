@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforrva/eligibility-screener"
+description = "Platform for SMS-based eligibility screeners for assistance programs."
 git_branch = "master"
 git_url = "git://github.com/codeforrva/eligibility-screener.git"
 name = "eligibility-screener"

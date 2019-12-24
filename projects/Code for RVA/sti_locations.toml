@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforrva/sti_locations"
+description = "A node.js version of the STI SMS location finder app"
 git_branch = "master"
 git_url = "git://github.com/codeforrva/sti_locations.git"
 name = "sti_locations"

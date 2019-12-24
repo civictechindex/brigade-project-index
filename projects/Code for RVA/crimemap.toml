@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforrva/crimemap"
+description = "Mapped crime data from local police "
 git_branch = "master"
 git_url = "git://github.com/codeforrva/crimemap.git"
 name = "crimemap"
