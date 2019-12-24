@@ -1,4 +1,5 @@
 code_url = "https://github.com/CodeforHawaii/uipa_org"
+description = "Managing all the changes from the original froide installation for uipa.org"
 git_branch = "master"
 git_url = "git://github.com/CodeforHawaii/uipa_org.git"
 link_url = "http://uipa.org"

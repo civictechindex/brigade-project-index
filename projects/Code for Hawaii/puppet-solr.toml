@@ -1,4 +1,5 @@
 code_url = "https://github.com/CodeforHawaii/puppet-solr"
+description = "Puppet module for installing solr with a stand alone jetty server"
 git_branch = "master"
 git_url = "git://github.com/CodeforHawaii/puppet-solr.git"
 name = "puppet-solr"

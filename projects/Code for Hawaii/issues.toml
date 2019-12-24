@@ -1,4 +1,5 @@
 code_url = "https://github.com/CodeforHawaii/issues"
+description = "http://waffle.io/CodeForHawaii/issues meta-repo to link all Code For Hawaii issues together"
 git_branch = "master"
 git_url = "git://github.com/CodeforHawaii/issues.git"
 name = "issues"

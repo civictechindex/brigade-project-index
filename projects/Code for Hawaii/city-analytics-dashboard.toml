@@ -1,4 +1,5 @@
 code_url = "https://github.com/CodeforHawaii/city-analytics-dashboard"
+description = "Display google analytics from a city's website as a dashboard"
 git_branch = "master"
 git_url = "git://github.com/CodeforHawaii/city-analytics-dashboard.git"
 name = "city-analytics-dashboard"

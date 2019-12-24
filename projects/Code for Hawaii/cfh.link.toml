@@ -1,4 +1,5 @@
 code_url = "https://github.com/CodeforHawaii/cfh.link"
+description = "Code For Hawaii link shortener.  Forked from YOURLS"
 git_branch = "master"
 git_url = "git://github.com/CodeforHawaii/cfh.link.git"
 link_url = "http://cfh.link"

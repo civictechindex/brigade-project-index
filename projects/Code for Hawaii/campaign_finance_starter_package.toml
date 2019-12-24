@@ -1,4 +1,5 @@
 code_url = "https://github.com/CodeforHawaii/campaign_finance_starter_package"
+description = "Simple html/javascript starter package for visualizing Hawaii Campaign Finance data for Civic*Celerator http://civic.celerator.org/"
 git_branch = "master"
 git_url = "git://github.com/CodeforHawaii/campaign_finance_starter_package.git"
 name = "campaign_finance_starter_package"

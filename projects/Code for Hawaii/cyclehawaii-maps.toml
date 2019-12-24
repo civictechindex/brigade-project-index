@@ -1,4 +1,5 @@
 code_url = "https://github.com/CodeforHawaii/cyclehawaii-maps"
+description = "Web page for viewing map tiles of uploaded CyclePhilly trips"
 git_branch = "master"
 git_url = "git://github.com/CodeforHawaii/cyclehawaii-maps.git"
 link_url = "http://cfabrigadephiladelphia.github.io/cyclephilly-maps/"

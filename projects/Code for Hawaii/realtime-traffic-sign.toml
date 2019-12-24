@@ -1,4 +1,5 @@
 code_url = "https://github.com/CodeforHawaii/realtime-traffic-sign"
+description = "Realtime Traffic Data"
 git_branch = "master"
 git_url = "git://github.com/CodeforHawaii/realtime-traffic-sign.git"
 name = "realtime-traffic-sign"

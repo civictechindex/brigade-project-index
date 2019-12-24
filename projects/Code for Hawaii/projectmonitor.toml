@@ -1,4 +1,5 @@
 code_url = "https://github.com/CodeforHawaii/projectmonitor"
+description = "ProjectMonitor is a CI display aggregator. It displays the status of multiple Continuous Integration builds on a single web page."
 git_branch = "master"
 git_url = "git://github.com/CodeforHawaii/projectmonitor.git"
 link_url = "cfa-project-monitor.herokuapp.com"

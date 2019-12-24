@@ -1,4 +1,5 @@
 code_url = "https://github.com/CodeforHawaii/statedecoded-vagrant"
+description = "Vagrant configuration for State Decoded, to make it easy to get started, in the spirit of GitMachines."
 git_branch = "master"
 git_url = "git://github.com/CodeforHawaii/statedecoded-vagrant.git"
 name = "statedecoded-vagrant"

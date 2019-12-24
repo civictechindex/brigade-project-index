@@ -1,4 +1,5 @@
 code_url = "https://github.com/CodeforHawaii/makerhawaii-android"
+description = "Android app for makerhawaii.com"
 git_branch = "master"
 git_url = "git://github.com/CodeforHawaii/makerhawaii-android.git"
 name = "makerhawaii-android"

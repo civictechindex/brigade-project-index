@@ -1,4 +1,5 @@
 code_url = "https://github.com/CodeforHawaii/CutePets"
+description = "Twitter bot that posts adoptable pets in your city."
 git_branch = "master"
 git_url = "git://github.com/CodeforHawaii/CutePets.git"
 name = "CutePets"

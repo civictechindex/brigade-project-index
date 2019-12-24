@@ -1,4 +1,5 @@
 code_url = "https://github.com/CodeforHawaii/openhawaii-datasets"
+description = "Data sets used on medium.com/open-hawaii"
 git_branch = "master"
 git_url = "git://github.com/CodeforHawaii/openhawaii-datasets.git"
 name = "openhawaii-datasets"
