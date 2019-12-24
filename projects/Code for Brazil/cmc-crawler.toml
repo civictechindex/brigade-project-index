@@ -1,4 +1,5 @@
 code_url = "https://github.com/CodeForBrazil/cmc-crawler"
+description = "Web crawler that imports the data of the Chamber of municipal councilors of Curitiba city -  Brazil"
 git_branch = "master"
 git_url = "git://github.com/CodeForBrazil/cmc-crawler.git"
 name = "cmc-crawler"
