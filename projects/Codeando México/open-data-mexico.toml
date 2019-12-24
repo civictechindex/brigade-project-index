@@ -1,4 +1,5 @@
 code_url = "https://github.com/CodeandoMexico/open-data-mexico"
+description = "Open data sources compilation for Mexico"
 git_branch = "master"
 git_url = "git://github.com/CodeandoMexico/open-data-mexico.git"
 name = "open-data-mexico"

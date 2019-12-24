@@ -1,4 +1,5 @@
 code_url = "https://github.com/CodeandoMexico/ckanext-datamx_theme"
+description = "Codeando Mexico's Custom Theme CKAN Extension."
 git_branch = "master"
 git_url = "git://github.com/CodeandoMexico/ckanext-datamx_theme.git"
 name = "ckanext-datamx_theme"
