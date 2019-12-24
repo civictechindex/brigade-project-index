@@ -1,4 +1,5 @@
 code_url = "https://github.com/hacktahoe/tahoe-dot-gov"
+description = "tahoe.gov forum and knowledge base source"
 git_branch = "master"
 git_url = "git://github.com/hacktahoe/tahoe-dot-gov.git"
 name = "tahoe-dot-gov"

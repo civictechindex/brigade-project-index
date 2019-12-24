@@ -1,4 +1,5 @@
 code_url = "https://github.com/hacktahoe/tahoe_answers"
+description = "A fork of the honolulu answers CfA Fellows project for contributing patches"
 git_branch = "master"
 git_url = "git://github.com/hacktahoe/tahoe_answers.git"
 link_url = "https://hnlgovanswers.herokuapp.com/"
