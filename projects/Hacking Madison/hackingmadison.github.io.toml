@@ -1,4 +1,5 @@
 code_url = "https://github.com/HackingMadison/hackingmadison.github.io"
+description = "Static version of the Hacking Madison website, hosted by Github"
 git_branch = "master"
 git_url = "git://github.com/HackingMadison/hackingmadison.github.io.git"
 name = "hackingmadison.github.io"

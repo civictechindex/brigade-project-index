@@ -1,4 +1,5 @@
 code_url = "https://github.com/HackingMadison/shareabouts-littlelibraries"
+description = "A Shareabouts instance for Madison's Little Library is a mapping application for crowdsourced info gathering."
 git_branch = "master"
 git_url = "git://github.com/HackingMadison/shareabouts-littlelibraries.git"
 name = "shareabouts-littlelibraries"

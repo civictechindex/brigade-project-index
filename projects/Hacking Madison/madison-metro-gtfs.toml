@@ -1,4 +1,5 @@
 code_url = "https://github.com/HackingMadison/madison-metro-gtfs"
+description = "The GTFS files for the Madison Metro system"
 git_branch = "master"
 git_url = "git://github.com/HackingMadison/madison-metro-gtfs.git"
 name = "madison-metro-gtfs"
