@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeformuenster/parkleitsystem-api"
+description = "Ein API-Wrapper für das Parkleitsystem des Tiefbauamts Münster."
 git_branch = "master"
 git_url = "git://github.com/codeformuenster/parkleitsystem-api.git"
 link_url = "http://www.stadt-muenster.de/tiefbauamt/parkleitsystem/"

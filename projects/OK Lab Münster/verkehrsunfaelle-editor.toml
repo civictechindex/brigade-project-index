@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeformuenster/verkehrsunfaelle-editor"
+description = "Ein Editor um die Geokoordinaten in unserer Verkehrsunfälle-Datenbank manuell zu korrigieren."
 git_branch = "master"
 git_url = "git://github.com/codeformuenster/verkehrsunfaelle-editor.git"
 link_url = "https://crashes-editor.codeformuenster.org/"

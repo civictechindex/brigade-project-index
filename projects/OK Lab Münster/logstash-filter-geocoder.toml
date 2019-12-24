@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeformuenster/logstash-filter-geocoder"
+description = "Logstash filter that converts strings (addresses) into coordinates using geocoder gem"
 git_branch = "master"
 git_url = "git://github.com/codeformuenster/logstash-filter-geocoder.git"
 name = "logstash-filter-geocoder"

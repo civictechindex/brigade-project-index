@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeformuenster/datadive-on-time-series"
+description = "Code (python, scikit-learn) zum DataScience Münster Wettbewerb: Besucherzahlen vorhersagen mit Machine Learning"
 git_branch = "master"
 git_url = "git://github.com/codeformuenster/datadive-on-time-series.git"
 name = "datadive-on-time-series"

@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeformuenster/open-events"
+description = "Freie Termindatenbank inklusive diverse Scraper zum Auslesen von Terminen."
 git_branch = "master"
 git_url = "git://github.com/codeformuenster/open-events.git"
 link_url = "http://events.input23.de/"

@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeformuenster/openair-cologne"
+description = "Analyzing air pollution data from openair.cologne"
 git_branch = "master"
 git_url = "git://github.com/codeformuenster/openair-cologne.git"
 name = "openair-cologne"

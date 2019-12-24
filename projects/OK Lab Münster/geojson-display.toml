@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeformuenster/geojson-display"
+description = "Show geojson files from any url"
 git_branch = "master"
 git_url = "git://github.com/codeformuenster/geojson-display.git"
 name = "geojson-display"

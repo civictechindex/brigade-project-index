@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeformuenster/verkehrsunfaelle-http"
+description = "HTTP service for Münster traffic accidents"
 git_branch = "master"
 git_url = "git://github.com/codeformuenster/verkehrsunfaelle-http.git"
 name = "verkehrsunfaelle-http"

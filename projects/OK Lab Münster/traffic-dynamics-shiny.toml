@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeformuenster/traffic-dynamics-shiny"
+description = "Shiny-App zur Visualisierung Münsteraner Verkehrsdaten und deren Analyse"
 git_branch = "master"
 git_url = "git://github.com/codeformuenster/traffic-dynamics-shiny.git"
 link_url = "https://traffics.codeformuenster.org"

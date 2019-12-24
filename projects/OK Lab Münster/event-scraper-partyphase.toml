@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeformuenster/event-scraper-partyphase"
+description = "Ruby scraper for the Partyphase Münster portal"
 git_branch = "master"
 git_url = "git://github.com/codeformuenster/event-scraper-partyphase.git"
 name = "event-scraper-partyphase"

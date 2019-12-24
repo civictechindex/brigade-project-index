@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeformuenster/traffic-dynamics-analyze"
+description = "Statistische Analysen Münsteraner Verkehrszähldaten"
 git_branch = "master"
 git_url = "git://github.com/codeformuenster/traffic-dynamics-analyze.git"
 name = "traffic-dynamics-analyze"

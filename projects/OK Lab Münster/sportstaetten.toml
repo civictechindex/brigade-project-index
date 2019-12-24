@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeformuenster/sportstaetten"
+description = "Übersicht vorhandener Sportstätten in Münster"
 git_branch = "master"
 git_url = "git://github.com/codeformuenster/sportstaetten.git"
 name = "sportstaetten"
