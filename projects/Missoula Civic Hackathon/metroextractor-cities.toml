@@ -1,4 +1,5 @@
 code_url = "https://github.com/Blue-Sky-Skunkworks/metroextractor-cities"
+description = "JSON cities bounding boxes for chef-metroextractor"
 git_branch = "master"
 git_url = "git://github.com/Blue-Sky-Skunkworks/metroextractor-cities.git"
 link_url = "https://mapzen.com/metro-extracts"
