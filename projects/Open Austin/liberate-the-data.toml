@@ -1,4 +1,5 @@
 code_url = "https://github.com/open-austin/liberate-the-data"
+description = ":sun_with_face: Datasets the we would like to see published in a machine readable format"
 git_branch = "master"
 git_url = "git://github.com/open-austin/liberate-the-data.git"
 name = "liberate-the-data"

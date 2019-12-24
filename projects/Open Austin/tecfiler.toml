@@ -1,4 +1,5 @@
 code_url = "https://github.com/open-austin/tecfiler"
+description = "A system for filing campaign finance reports required by the Texas Ethics Commission. Open source and can be deployed anywhere in Texas."
 git_branch = "master"
 git_url = "git://github.com/open-austin/tecfiler.git"
 name = "tecfiler"

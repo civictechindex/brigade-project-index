@@ -1,4 +1,5 @@
 code_url = "https://github.com/open-austin/transitime-docker"
+description = "Dockerfile for transitime. Don't use this! Its just an experiment."
 git_branch = "master"
 git_url = "git://github.com/open-austin/transitime-docker.git"
 name = "transitime-docker"

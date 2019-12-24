@@ -1,4 +1,5 @@
 code_url = "https://github.com/open-austin/construction-permits"
+description = ":construction: City of Austin Construction Permits"
 git_branch = "master"
 git_url = "git://github.com/open-austin/construction-permits.git"
 name = "construction-permits"

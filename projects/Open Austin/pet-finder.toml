@@ -1,4 +1,5 @@
 code_url = "https://github.com/open-austin/pet-finder"
+description = "An application to quickly and easily help owners find lost pets."
 git_branch = "master"
 git_url = "git://github.com/open-austin/pet-finder.git"
 name = "pet-finder"

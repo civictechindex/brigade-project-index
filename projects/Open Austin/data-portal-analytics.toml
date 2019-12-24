@@ -1,4 +1,5 @@
 code_url = "https://github.com/open-austin/data-portal-analytics"
+description = "a place for scripts and datasets that study trends on the open data portal at http://data.austintexas.gov"
 git_branch = "master"
 git_url = "git://github.com/open-austin/data-portal-analytics.git"
 name = "data-portal-analytics"

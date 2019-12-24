@@ -1,4 +1,5 @@
 code_url = "https://github.com/open-austin/complaint-map"
+description = "Mapping and tagging elements of a legal complaint"
 git_branch = "master"
 git_url = "git://github.com/open-austin/complaint-map.git"
 name = "complaint-map"

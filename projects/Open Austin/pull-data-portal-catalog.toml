@@ -1,4 +1,5 @@
 code_url = "https://github.com/open-austin/pull-data-portal-catalog"
+description = "Pull metadata on datasets published at data.austintexas.gov"
 git_branch = "master"
 git_url = "git://github.com/open-austin/pull-data-portal-catalog.git"
 link_url = "http://data.open-austin.org/data-catalogs/views/by-department.html"

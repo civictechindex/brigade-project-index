@@ -1,4 +1,5 @@
 code_url = "https://github.com/open-austin/voteatx-svc2"
+description = "backend redux"
 git_branch = "master"
 git_url = "git://github.com/open-austin/voteatx-svc2.git"
 name = "voteatx-svc2"

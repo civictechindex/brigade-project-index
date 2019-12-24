@@ -1,4 +1,5 @@
 code_url = "https://github.com/open-austin/meetup-proxy-aws-lambda"
+description = "A proxy for the Meetup.com API that lives in AWS Lambda & API Gateway"
 git_branch = "master"
 git_url = "git://github.com/open-austin/meetup-proxy-aws-lambda.git"
 name = "meetup-proxy-aws-lambda"

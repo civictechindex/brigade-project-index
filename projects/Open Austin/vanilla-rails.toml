@@ -1,4 +1,5 @@
 code_url = "https://github.com/open-austin/vanilla-rails"
+description = "A Starter App on Rails with Bootstrap & Devise preinstalled"
 git_branch = "master"
 git_url = "git://github.com/open-austin/vanilla-rails.git"
 name = "vanilla-rails"

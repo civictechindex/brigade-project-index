@@ -1,4 +1,5 @@
 code_url = "https://github.com/open-austin/aac-pets-feed"
+description = "feeder to populate the pet alerts db"
 git_branch = "master"
 git_url = "git://github.com/open-austin/aac-pets-feed.git"
 name = "aac-pets-feed"

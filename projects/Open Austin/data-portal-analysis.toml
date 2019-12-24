@@ -1,4 +1,5 @@
 code_url = "https://github.com/open-austin/data-portal-analysis"
+description = "Taking Austin's Data Portal to the Next Level"
 git_branch = "develop"
 git_url = "git://github.com/open-austin/data-portal-analysis.git"
 name = "data-portal-analysis"

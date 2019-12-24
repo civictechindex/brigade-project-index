@@ -1,4 +1,5 @@
 code_url = "https://github.com/open-austin/onebusaway-docker"
+description = "Docker scripts to start a oneBusAway server. Do not use this."
 git_branch = "master"
 git_url = "git://github.com/open-austin/onebusaway-docker.git"
 name = "onebusaway-docker"

@@ -1,4 +1,5 @@
 code_url = "https://github.com/open-austin/austin-recycles"
+description = "Application and web service that provides trash and recycling pickup information for the City of Austin."
 git_branch = "master"
 git_url = "git://github.com/open-austin/austin-recycles.git"
 link_url = "http://austin-recycles.open-austin.org/"

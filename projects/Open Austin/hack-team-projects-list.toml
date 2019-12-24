@@ -1,4 +1,5 @@
 code_url = "https://github.com/open-austin/hack-team-projects-list"
+description = "A .csv summary of current and past hack team projects"
 git_branch = "master"
 git_url = "git://github.com/open-austin/hack-team-projects-list.git"
 name = "hack-team-projects-list"

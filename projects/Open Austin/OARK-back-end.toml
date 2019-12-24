@@ -1,4 +1,5 @@
 code_url = "https://github.com/open-austin/OARK-back-end"
+description = "Bootstrap app for building a new NodeJS backend-app"
 git_branch = "master"
 git_url = "git://github.com/open-austin/OARK-back-end.git"
 name = "OARK-back-end"

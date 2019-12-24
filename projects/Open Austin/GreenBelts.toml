@@ -1,4 +1,5 @@
 code_url = "https://github.com/open-austin/GreenBelts"
+description = "Interactive web map app to chat and share geo-tagged content about local Austin green spaces. "
 git_branch = "master"
 git_url = "git://github.com/open-austin/GreenBelts.git"
 name = "GreenBelts"

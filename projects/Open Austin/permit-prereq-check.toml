@@ -1,4 +1,5 @@
 code_url = "https://github.com/open-austin/permit-prereq-check"
+description = "web app to check prerequisites for building permits"
 git_branch = "master"
 git_url = "git://github.com/open-austin/permit-prereq-check.git"
 link_url = "https://www.open-austin.org/permit-prereq-check"
