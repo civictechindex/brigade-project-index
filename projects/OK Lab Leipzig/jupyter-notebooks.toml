@@ -1,4 +1,5 @@
 code_url = "https://github.com/CodeforLeipzig/jupyter-notebooks"
+description = "Experimenting with visualisation of data used in our Code For Leipzig projects"
 git_branch = "master"
 git_url = "git://github.com/CodeforLeipzig/jupyter-notebooks.git"
 link_url = "https://github.com/CodeforLeipzig/jupyter-notebooks/blob/master/stadtratmonitor/stadtratmonitor.ipynb"

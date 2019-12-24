@@ -1,4 +1,5 @@
 code_url = "https://github.com/CodeforLeipzig/city_council_leipzig_scraper"
+description = "Scraper for https://ratsinfo.leipzig.de/"
 git_branch = "master"
 git_url = "git://github.com/CodeforLeipzig/city_council_leipzig_scraper.git"
 name = "city_council_leipzig_scraper"

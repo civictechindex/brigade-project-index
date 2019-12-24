@@ -1,4 +1,5 @@
 code_url = "https://github.com/CodeforLeipzig/wo-ist-markt-scraper"
+description = "https://www.leipzig.de/freizeit-kultur-und-tourismus/einkaufen-und-ausgehen/maerkte/wochenmaerkte/ scrapen und Ziel-Geojson konvertieren"
 git_branch = "master"
 git_url = "git://github.com/CodeforLeipzig/wo-ist-markt-scraper.git"
 name = "wo-ist-markt-scraper"

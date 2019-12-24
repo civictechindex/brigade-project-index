@@ -1,4 +1,5 @@
 code_url = "https://github.com/CodeforLeipzig/locationdata-handler"
+description = "Projects for extracting location data from texts and georeference them"
 git_branch = "master"
 git_url = "git://github.com/CodeforLeipzig/locationdata-handler.git"
 name = "locationdata-handler"

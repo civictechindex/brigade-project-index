@@ -1,4 +1,5 @@
 code_url = "https://github.com/CodeforLeipzig/matomo"
+description = "web analytics configuration for our hosted sites"
 git_branch = "master"
 git_url = "git://github.com/CodeforLeipzig/matomo.git"
 name = "matomo"
