@@ -1,4 +1,5 @@
 code_url = "https://github.com/CodeForCary/Hydronium"
+description = "Data access layer for Town of Cary Aquastar portal"
 git_branch = "master"
 git_url = "git://github.com/CodeForCary/Hydronium.git"
 name = "Hydronium"

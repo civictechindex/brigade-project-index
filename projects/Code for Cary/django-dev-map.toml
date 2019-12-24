@@ -1,4 +1,5 @@
 code_url = "https://github.com/CodeForCary/django-dev-map"
+description = "Latest iteration of the Code for Cary Development Map Application"
 git_branch = "master"
 git_url = "git://github.com/CodeForCary/django-dev-map.git"
 name = "django-dev-map"

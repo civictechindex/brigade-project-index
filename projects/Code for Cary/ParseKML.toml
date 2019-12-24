@@ -1,4 +1,5 @@
 code_url = "https://github.com/CodeForCary/ParseKML"
+description = "The Python script I use to hack out the Site Sub Plan data, resulting in a single-purpose KML file."
 git_branch = "master"
 git_url = "git://github.com/CodeForCary/ParseKML.git"
 name = "ParseKML"

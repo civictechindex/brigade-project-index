@@ -1,4 +1,5 @@
 code_url = "https://github.com/CodeForCary/GeoJSON"
+description = "GeoJSON data for map layers"
 git_branch = "master"
 git_url = "git://github.com/CodeForCary/GeoJSON.git"
 name = "GeoJSON"

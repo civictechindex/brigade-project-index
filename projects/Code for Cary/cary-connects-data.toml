@@ -1,4 +1,5 @@
 code_url = "https://github.com/CodeForCary/cary-connects-data"
+description = "Parking and Business GeoJSON data files"
 git_branch = "master"
 git_url = "git://github.com/CodeForCary/cary-connects-data.git"
 name = "cary-connects-data"
