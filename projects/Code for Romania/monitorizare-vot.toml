@@ -1,4 +1,5 @@
 code_url = "https://github.com/code4romania/monitorizare-vot"
+description = "Aplicație destinată observatorilor electorali și ONG-urilor care îi acreditează pentru supraveghea alegerilor parlamentare din 2016."
 git_branch = "develop"
 git_url = "git://github.com/code4romania/monitorizare-vot.git"
 link_url = "http://monitorizarevot.ro"

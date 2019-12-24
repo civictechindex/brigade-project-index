@@ -1,4 +1,5 @@
 code_url = "https://github.com/code4romania/catalog-avere-api"
+description = "API pentru colectarea și gestionarea declarațiilor de avere."
 git_branch = "master"
 git_url = "git://github.com/code4romania/catalog-avere-api.git"
 name = "catalog-avere-api"
