@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforanchorage/whatworkscities"
+description = "Click-that-hood data for iditarod south route, what works citie and brigades"
 git_branch = "master"
 git_url = "git://github.com/codeforanchorage/whatworkscities.git"
 name = "whatworkscities"

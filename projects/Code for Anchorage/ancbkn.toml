@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforanchorage/ancbkn"
+description = "api for anchorage data"
 git_branch = "master"
 git_url = "git://github.com/codeforanchorage/ancbkn.git"
 name = "ancbkn"

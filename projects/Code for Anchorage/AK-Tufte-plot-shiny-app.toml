@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforanchorage/AK-Tufte-plot-shiny-app"
+description = "Recreating the Tufte styled climate change chart in R and shiny"
 git_branch = "master"
 git_url = "git://github.com/codeforanchorage/AK-Tufte-plot-shiny-app.git"
 name = "AK-Tufte-plot-shiny-app"

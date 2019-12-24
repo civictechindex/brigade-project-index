@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforanchorage/hellobot"
+description = "Text in Hello and get a response in one of the many languages spoken in Anchorage"
 git_branch = "master"
 git_url = "git://github.com/codeforanchorage/hellobot.git"
 name = "hellobot"

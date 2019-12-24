@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforanchorage/wheels-on-the-bus"
+description = "Wrangling the Anchorage Peoplemover data into a format readable by Google Maps."
 git_branch = "master"
 git_url = "git://github.com/codeforanchorage/wheels-on-the-bus.git"
 name = "wheels-on-the-bus"

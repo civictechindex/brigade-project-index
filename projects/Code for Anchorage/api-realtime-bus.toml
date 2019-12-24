@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforanchorage/api-realtime-bus"
+description = "Create a realtime bus API for Transit App, Google and other services to use in coordination with the Muni."
 git_branch = "master"
 git_url = "git://github.com/codeforanchorage/api-realtime-bus.git"
 name = "api-realtime-bus"

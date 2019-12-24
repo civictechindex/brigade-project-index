@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforanchorage/bradley-tower"
+description = "Simple, Jekyll-based site builder for Mayoral Dashboard"
 git_branch = "master"
 git_url = "git://github.com/codeforanchorage/bradley-tower.git"
 name = "bradley-tower"

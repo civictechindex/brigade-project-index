@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforanchorage/food-inspections-evaluation"
+description = "This repository contains the code to generate predictions of critical violations at food establishments in Chicago. It also contains the results of an evaluation of the effectiveness of those predictions."
 git_branch = "master"
 git_url = "git://github.com/codeforanchorage/food-inspections-evaluation.git"
 link_url = "http://chicago.github.io/food-inspections-evaluation/"

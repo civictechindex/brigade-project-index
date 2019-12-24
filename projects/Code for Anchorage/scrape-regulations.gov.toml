@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforanchorage/scrape-regulations.gov"
+description = "small script to pull all the comments on a public request for comments on a environmental issue. "
 git_branch = "master"
 git_url = "git://github.com/codeforanchorage/scrape-regulations.gov.git"
 name = "scrape-regulations.gov"

@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforanchorage/Open_Trails_Anchorage"
+description = "Convert the gis files for trails around anchorage into geojson"
 git_branch = "master"
 git_url = "git://github.com/codeforanchorage/Open_Trails_Anchorage.git"
 name = "Open_Trails_Anchorage"

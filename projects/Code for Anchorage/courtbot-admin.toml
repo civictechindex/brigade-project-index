@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforanchorage/courtbot-admin"
+description = "Admin iterface for viewing Courtbot logs and history."
 git_branch = "master"
 git_url = "git://github.com/codeforanchorage/courtbot-admin.git"
 name = "courtbot-admin"

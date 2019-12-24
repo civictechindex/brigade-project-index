@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforanchorage/trailstranscoder_dev_env"
+description = "A development environment for https://github.com/codeforanchorage/trailstranscoder"
 git_branch = "master"
 git_url = "git://github.com/codeforanchorage/trailstranscoder_dev_env.git"
 name = "trailstranscoder_dev_env"

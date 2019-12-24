@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforanchorage/ice-status"
+description = "Ice thickness and status of lagoons and rinks in Anchorage and Eagle River"
 git_branch = "master"
 git_url = "git://github.com/codeforanchorage/ice-status.git"
 name = "ice-status"

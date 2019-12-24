@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforanchorage/csfp_food_box"
+description = "Commodity Supplemental Food Program eligibility calculator for Alaska"
 git_branch = "master"
 git_url = "git://github.com/codeforanchorage/csfp_food_box.git"
 name = "csfp_food_box"

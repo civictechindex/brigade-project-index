@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforanchorage/courtview-scraper"
+description = "A set of scripts for scraping the public data from Courtview for purposes of basic contingency analysis"
 git_branch = "master"
 git_url = "git://github.com/codeforanchorage/courtview-scraper.git"
 name = "courtview-scraper"

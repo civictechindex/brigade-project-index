@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforanchorage/census-communities-usa"
+description = "Mapping and analyzing local business data from the Census Bureau."
 git_branch = "master"
 git_url = "git://github.com/codeforanchorage/census-communities-usa.git"
 name = "census-communities-usa"

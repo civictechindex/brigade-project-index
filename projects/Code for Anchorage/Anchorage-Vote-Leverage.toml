@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforanchorage/Anchorage-Vote-Leverage"
+description = "A shiny web app to see how a vote in the November 2014 election would fit into different precincts in Anchorage. "
 git_branch = "master"
 git_url = "git://github.com/codeforanchorage/Anchorage-Vote-Leverage.git"
 name = "Anchorage-Vote-Leverage"
