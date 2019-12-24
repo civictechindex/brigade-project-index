@@ -1,4 +1,5 @@
 code_url = "https://github.com/18F/federalist-garden-build"
+description = "A container image that builds each site as part of the Federalist platform"
 git_branch = "staging"
 git_url = "git://github.com/18F/federalist-garden-build.git"
 name = "federalist-garden-build"

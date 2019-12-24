@@ -1,4 +1,5 @@
 code_url = "https://github.com/18F/federalist-uswds-jekyll"
+description = "Reference implementation of USWDS 2.0 for Jekyll on Federalist.  Demo ->"
 git_branch = "master"
 git_url = "git://github.com/18F/federalist-uswds-jekyll.git"
 link_url = "https://federalist-proxy.app.cloud.gov/site/18f/federalist-uswds-jekyll/"

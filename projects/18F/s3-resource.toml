@@ -1,4 +1,5 @@
 code_url = "https://github.com/18F/s3-resource"
+description = "Concourse resource for interacting with AWS S3"
 git_branch = "master"
 git_url = "git://github.com/18F/s3-resource.git"
 name = "s3-resource"

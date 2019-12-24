@@ -1,4 +1,5 @@
 code_url = "https://github.com/18F/culper"
+description = "Culper is the foundation for NBIS eApp, supporting the SF-86, SF-85, and SF-85P. This is its source code and developer documentation. For background information and a demo video see https://github.com/18F/culper/wiki"
 git_branch = "develop"
 git_url = "git://github.com/18F/culper.git"
 name = "culper"

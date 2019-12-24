@@ -1,4 +1,5 @@
 code_url = "https://github.com/18F/site-scanning"
+description = "A 10x project for creating a home for individual website scanners "
 git_branch = "master"
 git_url = "git://github.com/18F/site-scanning.git"
 link_url = "https://site-scanning.app.cloud.gov"

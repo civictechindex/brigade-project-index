@@ -1,4 +1,5 @@
 code_url = "https://github.com/18F/logsearch-for-cloudfoundry"
+description = "A Logsearch addon that customises Logsearch to work with Cloud Foundry data"
 git_branch = "master"
 git_url = "git://github.com/18F/logsearch-for-cloudfoundry.git"
 name = "logsearch-for-cloudfoundry"

@@ -1,4 +1,5 @@
 code_url = "https://github.com/18F/cg-nessus-agent-boshrelease"
+description = "Bosh release for the nessus agent"
 git_branch = "master"
 git_url = "git://github.com/18F/cg-nessus-agent-boshrelease.git"
 name = "cg-nessus-agent-boshrelease"

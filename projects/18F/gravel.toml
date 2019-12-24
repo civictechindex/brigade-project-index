@@ -1,4 +1,5 @@
 code_url = "https://github.com/18F/gravel"
+description = "Integration environment for Let's Encrypt."
 git_branch = "master"
 git_url = "git://github.com/18F/gravel.git"
 name = "gravel"

@@ -1,4 +1,5 @@
 code_url = "https://github.com/18F/dsnap-registration"
+description = "Front-end application for interacting with the d-snap rules service"
 git_branch = "master"
 git_url = "git://github.com/18F/dsnap-registration.git"
 name = "dsnap-registration"

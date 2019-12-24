@@ -1,4 +1,5 @@
 code_url = "https://github.com/18F/cg-awslogs-boshrelease"
+description = "This BOSH release helps your Cloud Foundry deployment automatically ship audit logs to AWS CloudWatch Logs."
 git_branch = "master"
 git_url = "git://github.com/18F/cg-awslogs-boshrelease.git"
 name = "cg-awslogs-boshrelease"

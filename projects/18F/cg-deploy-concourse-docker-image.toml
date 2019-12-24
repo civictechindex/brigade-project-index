@@ -1,4 +1,5 @@
 code_url = "https://github.com/18F/cg-deploy-concourse-docker-image"
+description = "Build and deploy Docker image used in Concourse pipeline tasks"
 git_branch = "master"
 git_url = "git://github.com/18F/cg-deploy-concourse-docker-image.git"
 name = "cg-deploy-concourse-docker-image"

@@ -1,4 +1,5 @@
 code_url = "https://github.com/18F/glossary"
+description = "A glossary panel for your site to help readers understand jargon"
 git_branch = "master"
 git_url = "git://github.com/18F/glossary.git"
 name = "glossary"

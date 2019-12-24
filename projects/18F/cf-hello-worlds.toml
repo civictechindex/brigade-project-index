@@ -1,4 +1,5 @@
 code_url = "https://github.com/18F/cf-hello-worlds"
+description = "Hello World apps for Cloud Foundry"
 git_branch = "master"
 git_url = "git://github.com/18F/cf-hello-worlds.git"
 name = "cf-hello-worlds"

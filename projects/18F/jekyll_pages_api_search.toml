@@ -1,4 +1,5 @@
 code_url = "https://github.com/18F/jekyll_pages_api_search"
+description = "Jekyll search plugin based on lunr.js and jekyll_pages_api"
 git_branch = "master"
 git_url = "git://github.com/18F/jekyll_pages_api_search.git"
 link_url = "https://rubygems.org/gems/jekyll_pages_api_search"

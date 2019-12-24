@@ -1,4 +1,5 @@
 code_url = "https://github.com/18F/cg-deploy-stratos"
+description = "Deployment pipeline for Stratos"
 git_branch = "master"
 git_url = "git://github.com/18F/cg-deploy-stratos.git"
 name = "cg-deploy-stratos"

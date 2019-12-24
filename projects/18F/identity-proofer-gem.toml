@@ -1,4 +1,5 @@
 code_url = "https://github.com/18F/identity-proofer-gem"
+description = "delegate ID proofing to vendors"
 git_branch = "master"
 git_url = "git://github.com/18F/identity-proofer-gem.git"
 name = "identity-proofer-gem"

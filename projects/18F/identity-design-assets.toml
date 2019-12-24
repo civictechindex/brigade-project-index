@@ -1,4 +1,5 @@
 code_url = "https://github.com/18F/identity-design-assets"
+description = "A place for the login.gov design team to version and store design assets (illustrations, sketch files, etc.) "
 git_branch = "master"
 git_url = "git://github.com/18F/identity-design-assets.git"
 name = "identity-design-assets"

@@ -1,4 +1,5 @@
 code_url = "https://github.com/18F/cg-deploy-riemann-firehose-nozzle"
+description = "Bosh deployment manifest and deployment pipeline for the 18F Cloud Foundry deployment"
 git_branch = "master"
 git_url = "git://github.com/18F/cg-deploy-riemann-firehose-nozzle.git"
 name = "cg-deploy-riemann-firehose-nozzle"

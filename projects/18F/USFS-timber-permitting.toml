@@ -1,4 +1,5 @@
 code_url = "https://github.com/18F/USFS-timber-permitting"
+description = "The focal point for an 18F/TTS project with the United States Forest Service on timber permitting"
 git_branch = "master"
 git_url = "git://github.com/18F/USFS-timber-permitting.git"
 name = "USFS-timber-permitting"

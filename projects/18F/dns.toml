@@ -1,4 +1,5 @@
 code_url = "https://github.com/18F/dns"
+description = "DNS configuration for domains managed by GSA TTS"
 git_branch = "master"
 git_url = "git://github.com/18F/dns.git"
 link_url = "https://github.com/18F/dns/blob/master/doc/architecture.md"

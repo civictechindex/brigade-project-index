@@ -1,4 +1,5 @@
 code_url = "https://github.com/18F/cg-compliance-docs"
+description = "cloud.gov security policies and procedures"
 git_branch = "master"
 git_url = "git://github.com/18F/cg-compliance-docs.git"
 name = "cg-compliance-docs"

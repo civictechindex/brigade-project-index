@@ -1,4 +1,5 @@
 code_url = "https://github.com/18F/cg-elb-log-ingestor-boshrelease"
+description = "boshrelease for 18F/cg-elb-log-ingestor"
 git_branch = "master"
 git_url = "git://github.com/18F/cg-elb-log-ingestor-boshrelease.git"
 name = "cg-elb-log-ingestor-boshrelease"

@@ -1,4 +1,5 @@
 code_url = "https://github.com/18F/18f-bot-facts"
+description = "Lists of facts used by 18F bot"
 git_branch = "master"
 git_url = "git://github.com/18F/18f-bot-facts.git"
 name = "18f-bot-facts"

@@ -1,4 +1,5 @@
 code_url = "https://github.com/18F/18f-bot"
+description = "18F's Slack bot, Charlie. Based on Hubot."
 git_branch = "master"
 git_url = "git://github.com/18F/18f-bot.git"
 name = "18f-bot"

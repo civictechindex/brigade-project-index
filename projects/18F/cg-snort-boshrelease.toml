@@ -1,4 +1,5 @@
 code_url = "https://github.com/18F/cg-snort-boshrelease"
+description = "BOSH Release for Snort IDS"
 git_branch = "master"
 git_url = "git://github.com/18F/cg-snort-boshrelease.git"
 name = "cg-snort-boshrelease"

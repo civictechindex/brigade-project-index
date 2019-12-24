@@ -1,4 +1,5 @@
 code_url = "https://github.com/18F/dtmo-per-diem-api-prototype"
+description = "Mock API backend to demonstrate functionality for new site "
 git_branch = "master"
 git_url = "git://github.com/18F/dtmo-per-diem-api-prototype.git"
 name = "dtmo-per-diem-api-prototype"

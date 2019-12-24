@@ -1,4 +1,5 @@
 code_url = "https://github.com/18F/federalist"
+description = "Federalist builds the user-interface of government websites."
 git_branch = "staging"
 git_url = "git://github.com/18F/federalist.git"
 link_url = "https://federalist.18f.gov/"

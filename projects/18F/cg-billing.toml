@@ -1,4 +1,5 @@
 code_url = "https://github.com/18F/cg-billing"
+description = "Aggregates quota requests and publishes usage for customers"
 git_branch = "master"
 git_url = "git://github.com/18F/cg-billing.git"
 name = "cg-billing"

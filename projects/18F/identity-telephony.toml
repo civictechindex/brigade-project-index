@@ -1,4 +1,5 @@
 code_url = "https://github.com/18F/identity-telephony"
+description = "A gem that provides an API to send text messages and voice calls for login.gov"
 git_branch = "master"
 git_url = "git://github.com/18F/identity-telephony.git"
 name = "identity-telephony"

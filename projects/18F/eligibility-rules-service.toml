@@ -1,4 +1,5 @@
 code_url = "https://github.com/18F/eligibility-rules-service"
+description = "Researching an eligibility rules service - project documentation and task management"
 git_branch = "master"
 git_url = "git://github.com/18F/eligibility-rules-service.git"
 name = "eligibility-rules-service"

@@ -1,4 +1,5 @@
 code_url = "https://github.com/18F/federal-grant-reporting"
+description = "Improving the experience of federal grant reporting."
 git_branch = "master"
 git_url = "git://github.com/18F/federal-grant-reporting.git"
 name = "federal-grant-reporting"

@@ -1,4 +1,5 @@
 code_url = "https://github.com/18F/cg-scripts"
+description = "Scripts to assist with the configuration and operation of Cloud Foundry."
 git_branch = "master"
 git_url = "git://github.com/18F/cg-scripts.git"
 name = "cg-scripts"

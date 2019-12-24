@@ -1,4 +1,5 @@
 code_url = "https://github.com/18F/crt-portal"
+description = "Using this repo for issues, code is at usdoj/crt-portal"
 git_branch = "master"
 git_url = "git://github.com/18F/crt-portal.git"
 name = "crt-portal"

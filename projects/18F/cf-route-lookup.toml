@@ -1,4 +1,5 @@
 code_url = "https://github.com/18F/cf-route-lookup"
+description = "A Cloud Foundry CLI plugin to find the application(s) associated with a given hostname"
 git_branch = "master"
 git_url = "git://github.com/18F/cf-route-lookup.git"
 name = "cf-route-lookup"

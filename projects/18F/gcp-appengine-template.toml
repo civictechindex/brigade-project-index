@@ -1,4 +1,5 @@
 code_url = "https://github.com/18F/gcp-appengine-template"
+description = "Template for creating a GCP app"
 git_branch = "master"
 git_url = "git://github.com/18F/gcp-appengine-template.git"
 name = "gcp-appengine-template"

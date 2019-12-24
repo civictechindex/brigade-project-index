@@ -1,4 +1,5 @@
 code_url = "https://github.com/18F/ghad"
+description = "GitHub administration command line tool"
 git_branch = "master"
 git_url = "git://github.com/18F/ghad.git"
 name = "ghad"

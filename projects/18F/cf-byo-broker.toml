@@ -1,4 +1,5 @@
 code_url = "https://github.com/18F/cf-byo-broker"
+description = "Tutorials showing how to bring your own service broker to any Cloud Foundry"
 git_branch = "master"
 git_url = "git://github.com/18F/cf-byo-broker.git"
 name = "cf-byo-broker"

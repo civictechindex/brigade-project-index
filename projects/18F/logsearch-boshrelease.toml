@@ -1,4 +1,5 @@
 code_url = "https://github.com/18F/logsearch-boshrelease"
+description = "A BOSH-scalable ELK release"
 git_branch = "develop"
 git_url = "git://github.com/18F/logsearch-boshrelease.git"
 link_url = "http://logsearch.io"

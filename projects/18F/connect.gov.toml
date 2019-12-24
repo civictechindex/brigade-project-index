@@ -1,4 +1,5 @@
 code_url = "https://github.com/18F/connect.gov"
+description = "Static site to disambiguate login.gov and ConneCT.ct.gov"
 git_branch = "master"
 git_url = "git://github.com/18F/connect.gov.git"
 name = "connect.gov"

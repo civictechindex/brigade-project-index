@@ -1,4 +1,5 @@
 code_url = "https://github.com/18F/pdns-release"
+description = "BOSH Release of the PowerDNS DNS Server"
 git_branch = "master"
 git_url = "git://github.com/18F/pdns-release.git"
 name = "pdns-release"

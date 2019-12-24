@@ -1,4 +1,5 @@
 code_url = "https://github.com/18F/identity-terraform"
+description = "Terraform modules published by the Login.gov team"
 git_branch = "master"
 git_url = "git://github.com/18F/identity-terraform.git"
 name = "identity-terraform"

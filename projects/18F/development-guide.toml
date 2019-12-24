@@ -1,4 +1,5 @@
 code_url = "https://github.com/18F/development-guide"
+description = "A set of guidelines and best practices for an awesome engineering team"
 git_branch = "master"
 git_url = "git://github.com/18F/development-guide.git"
 name = "development-guide"
