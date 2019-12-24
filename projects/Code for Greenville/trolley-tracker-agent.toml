@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforgreenville/trolley-tracker-agent"
+description = "Android app for reporting the current location of the trolley"
 git_branch = "master"
 git_url = "git://github.com/codeforgreenville/trolley-tracker-agent.git"
 name = "trolley-tracker-agent"

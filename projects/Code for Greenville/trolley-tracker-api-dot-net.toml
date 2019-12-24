@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforgreenville/trolley-tracker-api-dot-net"
+description = "API for tracking Greenville's trolleys with .NET"
 git_branch = "master"
 git_url = "git://github.com/codeforgreenville/trolley-tracker-api-dot-net.git"
 name = "trolley-tracker-api-dot-net"

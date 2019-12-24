@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforgreenville/trolley-tracker-android-client"
+description = "The Android client for the Downtown Greenville trolley tracker"
 git_branch = "master"
 git_url = "git://github.com/codeforgreenville/trolley-tracker-android-client.git"
 name = "trolley-tracker-android-client"

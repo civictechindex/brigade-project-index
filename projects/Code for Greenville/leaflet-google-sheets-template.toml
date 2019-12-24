@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforgreenville/leaflet-google-sheets-template"
+description = "Pull data from a public Google Sheet and create a Leaflet Map and shareable GeoJSON"
 git_branch = "master"
 git_url = "git://github.com/codeforgreenville/leaflet-google-sheets-template.git"
 name = "leaflet-google-sheets-template"
