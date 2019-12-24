@@ -1,4 +1,5 @@
 code_url = "https://github.com/Code4HR/vb-adt-heatmaps"
+description = "An experimental fork of the JavaScript Library for HTML5 canvas based heatmaps. This fork applies heatmaps to City of Virginia Beach Average Daily Traffic data."
 git_branch = "master"
 git_url = "git://github.com/Code4HR/vb-adt-heatmaps.git"
 name = "vb-adt-heatmaps"

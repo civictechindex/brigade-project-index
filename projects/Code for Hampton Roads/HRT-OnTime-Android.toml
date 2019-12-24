@@ -1,4 +1,5 @@
 code_url = "https://github.com/Code4HR/HRT-OnTime-Android"
+description = "An Android version of the HRT OnTime app. Find out where your bus is from your Android phone!"
 git_branch = "master"
 git_url = "git://github.com/Code4HR/HRT-OnTime-Android.git"
 name = "HRT-OnTime-Android"

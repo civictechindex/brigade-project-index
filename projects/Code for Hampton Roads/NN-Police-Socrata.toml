@@ -1,4 +1,5 @@
 code_url = "https://github.com/Code4HR/NN-Police-Socrata"
+description = "Gathers Newport News Police Open Data to feed to Socrata [Prototyping] "
 git_branch = "master"
 git_url = "git://github.com/Code4HR/NN-Police-Socrata.git"
 name = "NN-Police-Socrata"

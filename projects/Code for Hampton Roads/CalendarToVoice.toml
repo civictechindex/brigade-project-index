@@ -1,4 +1,5 @@
 code_url = "https://github.com/Code4HR/CalendarToVoice"
+description = "An Alexa Flash briefing skill published via Serverless Framework that converts events from an icalendar .ICS into a spoken calendar for today.  Release from Code for Hampton Roads"
 git_branch = "master"
 git_url = "git://github.com/Code4HR/CalendarToVoice.git"
 name = "CalendarToVoice"

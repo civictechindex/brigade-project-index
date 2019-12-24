@@ -1,4 +1,5 @@
 code_url = "https://github.com/Code4HR/open-health-inspection-scraper"
+description = "Scraper for the open-health-inspector app."
 git_branch = "master"
 git_url = "git://github.com/Code4HR/open-health-inspection-scraper.git"
 name = "open-health-inspection-scraper"

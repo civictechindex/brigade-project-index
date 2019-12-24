@@ -1,4 +1,5 @@
 code_url = "https://github.com/Code4HR/hrt-bus-healthcheck"
+description = "lambda + alarm to notify when bus app is down"
 git_branch = "master"
 git_url = "git://github.com/Code4HR/hrt-bus-healthcheck.git"
 name = "hrt-bus-healthcheck"

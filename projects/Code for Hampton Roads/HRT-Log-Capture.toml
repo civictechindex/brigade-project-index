@@ -1,4 +1,5 @@
 code_url = "https://github.com/Code4HR/HRT-Log-Capture"
+description = "Tail-Reformat-Push the HRT Real-Time GPS Logs"
 git_branch = "master"
 git_url = "git://github.com/Code4HR/HRT-Log-Capture.git"
 name = "HRT-Log-Capture"

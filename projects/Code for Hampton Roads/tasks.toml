@@ -1,4 +1,5 @@
 code_url = "https://github.com/Code4HR/tasks"
+description = "Running issue list for our brigade"
 git_branch = "master"
 git_url = "git://github.com/Code4HR/tasks.git"
 link_url = "http://tasks.code4hr.org"

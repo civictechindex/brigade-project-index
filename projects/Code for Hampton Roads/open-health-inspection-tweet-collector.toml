@@ -1,4 +1,5 @@
 code_url = "https://github.com/Code4HR/open-health-inspection-tweet-collector"
+description = "A simple node.js application that allows a user to collect tweets from Twitter's search API, and write them to a MongoDB collection."
 git_branch = "master"
 git_url = "git://github.com/Code4HR/open-health-inspection-tweet-collector.git"
 name = "open-health-inspection-tweet-collector"
