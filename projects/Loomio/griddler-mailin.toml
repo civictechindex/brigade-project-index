@@ -1,4 +1,5 @@
 code_url = "https://github.com/loomio/griddler-mailin"
+description = "Adapter to allow the use of Mailin (http://mailin.io/) with Griddler (http://griddler.io/)"
 git_branch = "master"
 git_url = "git://github.com/loomio/griddler-mailin.git"
 name = "griddler-mailin"

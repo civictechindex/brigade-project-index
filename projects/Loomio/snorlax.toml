@@ -1,4 +1,5 @@
 code_url = "https://github.com/loomio/snorlax"
+description = "Snorlax is an opinionated, flexible and well-RESTed controller for Rails APIs"
 git_branch = "master"
 git_url = "git://github.com/loomio/snorlax.git"
 name = "snorlax"

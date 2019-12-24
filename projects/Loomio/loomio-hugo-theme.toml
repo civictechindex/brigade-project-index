@@ -1,4 +1,5 @@
 code_url = "https://github.com/loomio/loomio-hugo-theme"
+description = "A Loomio branded Hugo theme for use in Loomio Help and Loomio Blog"
 git_branch = "master"
 git_url = "git://github.com/loomio/loomio-hugo-theme.git"
 name = "loomio-hugo-theme"

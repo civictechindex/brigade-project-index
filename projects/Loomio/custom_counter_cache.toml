@@ -1,4 +1,5 @@
 code_url = "https://github.com/loomio/custom_counter_cache"
+description = "Custom counter_cache functionality that supports conditions and multiple models."
 git_branch = "master"
 git_url = "git://github.com/loomio/custom_counter_cache.git"
 link_url = "https://github.com/cedric/custom_counter_cache"

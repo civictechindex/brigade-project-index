@@ -1,4 +1,5 @@
 code_url = "https://github.com/loomio/loomio_org_plugin"
+description = "Code specific to the Loomio.org installation of Loomio"
 git_branch = "master"
 git_url = "git://github.com/loomio/loomio_org_plugin.git"
 name = "loomio_org_plugin"
