@@ -1,4 +1,5 @@
 code_url = "https://github.com/CodeForAfrica/HURUmap"
+description = "HURUmap is an interactive web platform that allows citizens and journalists to explore, visualise, and download census data. This gives them the power to give context to stories that was otherwise hard to spot. Accessible at https://hurumap.org"
 git_branch = "master"
 git_url = "git://github.com/CodeForAfrica/HURUmap.git"
 link_url = "https://hurumap.org"

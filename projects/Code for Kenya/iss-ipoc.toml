@@ -1,4 +1,5 @@
 code_url = "https://github.com/CodeForAfrica/iss-ipoc"
+description = "Scraper for ISS IPOC"
 git_branch = "master"
 git_url = "git://github.com/CodeForAfrica/iss-ipoc.git"
 link_url = "http://www.ipocafrica.org/"

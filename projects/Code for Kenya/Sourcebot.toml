@@ -1,4 +1,5 @@
 code_url = "https://github.com/CodeForAfrica/Sourcebot"
+description = "An open source newsbot to help African news organisations deliver personalized news and engage more effectively via messaging platforms."
 git_branch = "master"
 git_url = "git://github.com/CodeForAfrica/Sourcebot.git"
 name = "Sourcebot"

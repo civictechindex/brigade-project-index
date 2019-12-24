@@ -1,4 +1,5 @@
 code_url = "https://github.com/CodeForAfrica/HealthWatch"
+description = "Nigeria health portal based on Kenya's StarHealth"
 git_branch = "master"
 git_url = "git://github.com/CodeForAfrica/HealthWatch.git"
 name = "HealthWatch"

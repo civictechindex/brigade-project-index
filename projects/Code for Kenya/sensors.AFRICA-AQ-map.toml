@@ -1,4 +1,5 @@
 code_url = "https://github.com/CodeForAfrica/sensors.AFRICA-AQ-map"
+description = "The sensors.AFRICA map showing data from air quality sensors deployed across the continent. Accessible at https://map.aq.sensors.africa/"
 git_branch = "master"
 git_url = "git://github.com/CodeForAfrica/sensors.AFRICA-AQ-map.git"
 link_url = "https://map.aq.sensors.africa/"
