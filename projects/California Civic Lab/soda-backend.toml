@@ -1,4 +1,5 @@
 code_url = "https://github.com/caciviclab/soda-backend"
+description = "using soda to get data as json"
 git_branch = "master"
 git_url = "git://github.com/caciviclab/soda-backend.git"
 name = "soda-backend"

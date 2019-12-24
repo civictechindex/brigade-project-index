@@ -1,4 +1,5 @@
 code_url = "https://github.com/caciviclab/disclosure-cookbook"
+description = "The Chef cookbook that configures a server"
 git_branch = "master"
 git_url = "git://github.com/caciviclab/disclosure-cookbook.git"
 name = "disclosure-cookbook"

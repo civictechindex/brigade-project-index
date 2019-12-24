@@ -1,4 +1,5 @@
 code_url = "https://github.com/caciviclab/django-calaccess-raw-data"
+description = "A Django app to download, extract and load campaign finance and lobbying activity data from the California Secretary of State's CAL-ACCESS database"
 git_branch = "master"
 git_url = "git://github.com/caciviclab/django-calaccess-raw-data.git"
 link_url = "http://django-calaccess-raw-data.californiacivicdata.org"

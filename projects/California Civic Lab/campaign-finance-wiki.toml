@@ -1,4 +1,5 @@
 code_url = "https://github.com/caciviclab/campaign-finance-wiki"
+description = "A resource for understanding how campaign finance works in the state of California."
 git_branch = "master"
 git_url = "git://github.com/caciviclab/campaign-finance-wiki.git"
 name = "campaign-finance-wiki"
