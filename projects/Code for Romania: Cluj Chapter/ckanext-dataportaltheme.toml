@@ -1,4 +1,5 @@
 code_url = "https://github.com/code4romania/ckanext-dataportaltheme"
+description = "Data Portal - theme"
 git_branch = "master"
 git_url = "git://github.com/code4romania/ckanext-dataportaltheme.git"
 name = "ckanext-dataportaltheme"

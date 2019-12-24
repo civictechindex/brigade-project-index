@@ -1,4 +1,5 @@
 code_url = "https://github.com/code4romania/ckanext-mediumfeed"
+description = "Data Portal extension for integrating a Medium feed"
 git_branch = "master"
 git_url = "git://github.com/code4romania/ckanext-mediumfeed.git"
 name = "ckanext-mediumfeed"

@@ -1,4 +1,5 @@
 code_url = "https://github.com/code4romania/monitorizare-vot-votanti-client"
+description = "Aplicatie React pentru monitorizarea incidentelor din cadrul alegerilor parlamentare din 2016."
 git_branch = "develop"
 git_url = "git://github.com/code4romania/monitorizare-vot-votanti-client.git"
 link_url = "https://monitorizarevot.ro/"

@@ -1,4 +1,5 @@
 code_url = "https://github.com/code4romania/expert-consultation-client"
+description = "Digital tool for legal consultation on law proposals"
 git_branch = "develop"
 git_url = "git://github.com/code4romania/expert-consultation-client.git"
 name = "expert-consultation-client"

@@ -1,4 +1,5 @@
 code_url = "https://github.com/code4romania/data-portal-config"
+description = "Configuration repo for Dataportal CKAN instance "
 git_branch = "master"
 git_url = "git://github.com/code4romania/data-portal-config.git"
 name = "data-portal-config"

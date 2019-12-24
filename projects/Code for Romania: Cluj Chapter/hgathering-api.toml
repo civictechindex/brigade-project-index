@@ -1,4 +1,5 @@
 code_url = "https://github.com/code4romania/hgathering-api"
+description = "Api para reunir información de los centros de acopio habilitados para apoyar a los damnificados por el sismo en México"
 git_branch = "master"
 git_url = "git://github.com/code4romania/hgathering-api.git"
 name = "hgathering-api"
