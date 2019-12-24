@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforsanjose/transparentCA"
+description = "Analyze compensation of public workers within the state (county/city/state/school districts/etc)."
 git_branch = "master"
 git_url = "git://github.com/codeforsanjose/transparentCA.git"
 name = "transparentCA"

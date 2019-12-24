@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforsanjose/recycling"
+description = "Crowdsourcing data about which residential buildings do not have recycling in Chicago"
 git_branch = "master"
 git_url = "git://github.com/codeforsanjose/recycling.git"
 name = "recycling"

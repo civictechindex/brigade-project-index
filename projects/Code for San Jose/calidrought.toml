@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforsanjose/calidrought"
+description = "An API for serving up data on the California drought."
 git_branch = "master"
 git_url = "git://github.com/codeforsanjose/calidrought.git"
 name = "calidrought"

@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforsanjose/VTA-City_Analysis"
+description = "This project is connecting VTA's ridership with local traffic data within VTA's public transportation service"
 git_branch = "master"
 git_url = "git://github.com/codeforsanjose/VTA-City_Analysis.git"
 name = "VTA-City_Analysis"

@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforsanjose/blog_archive"
+description = "Code for San José's Blog content"
 git_branch = "master"
 git_url = "git://github.com/codeforsanjose/blog_archive.git"
 name = "blog_archive"

@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforsanjose/calischools"
+description = "An API platform around the California Department of Education School Directory."
 git_branch = "master"
 git_url = "git://github.com/codeforsanjose/calischools.git"
 name = "calischools"

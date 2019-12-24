@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforsanjose/open311-gateway"
+description = "311 Gateway coded in Go."
 git_branch = "master"
 git_url = "git://github.com/codeforsanjose/open311-gateway.git"
 name = "open311-gateway"

@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforsanjose/crisisresponse"
+description = "An internal tool to help the Seattle Police Department respond to the needs of people in crisis"
 git_branch = "master"
 git_url = "git://github.com/codeforsanjose/crisisresponse.git"
 name = "crisisresponse"

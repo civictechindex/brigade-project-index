@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforsanjose/go-donorschoose"
+description = "An API wrapper for donorschoose.org"
 git_branch = "master"
 git_url = "git://github.com/codeforsanjose/go-donorschoose.git"
 name = "go-donorschoose"

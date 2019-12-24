@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforsanjose/jail-stats-data"
+description = "SCC Jail Statistics Data."
 git_branch = "master"
 git_url = "git://github.com/codeforsanjose/jail-stats-data.git"
 name = "jail-stats-data"

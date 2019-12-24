@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforsanjose/iD"
+description = "The easy-to-use OpenStreetMap editor in JavaScript."
 git_branch = "master"
 git_url = "git://github.com/codeforsanjose/iD.git"
 link_url = "http://www.openstreetmap.org/edit?editor=id"

@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforsanjose/bot311"
+description = "Extensible Open311 chatbot to report issues in your community"
 git_branch = "master"
 git_url = "git://github.com/codeforsanjose/bot311.git"
 name = "bot311"
