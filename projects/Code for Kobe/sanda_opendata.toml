@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforkobe/sanda_opendata"
+description = "三田市のオープンデータを保存して"
 git_branch = "master"
 git_url = "git://github.com/codeforkobe/sanda_opendata.git"
 name = "sanda_opendata"

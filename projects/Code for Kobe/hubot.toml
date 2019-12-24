@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforkobe/hubot"
+description = "A Hubot for the Code for Kobe"
 git_branch = "master"
 git_url = "git://github.com/codeforkobe/hubot.git"
 name = "hubot"
