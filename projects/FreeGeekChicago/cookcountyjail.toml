@@ -1,4 +1,5 @@
 code_url = "https://github.com/sc3/cookcountyjail"
+description = "A Django app that tracks the population of Cook County Jail over time and summarizes trends."
 git_branch = "master"
 git_url = "git://github.com/sc3/cookcountyjail.git"
 link_url = "http://cookcountyjail.recoveredfactory.net/api/1.0/?format=json"

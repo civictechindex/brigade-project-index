@@ -1,4 +1,5 @@
 code_url = "https://github.com/sc3/irs-990-extract"
+description = "Node.js extractor for IRS 990 data"
 git_branch = "master"
 git_url = "git://github.com/sc3/irs-990-extract.git"
 name = "irs-990-extract"

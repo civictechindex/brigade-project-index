@@ -1,4 +1,5 @@
 code_url = "https://github.com/sc3/python-ilcs"
+description = "A Python package of utilities for dealing with data referencing the Illinois Compiled Statutes (ILCS)."
 git_branch = "master"
 git_url = "git://github.com/sc3/python-ilcs.git"
 name = "python-ilcs"

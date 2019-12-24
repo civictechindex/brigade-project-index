@@ -1,4 +1,5 @@
 code_url = "https://github.com/sc3/python-iucr"
+description = "Python package for working with Illinois Uniform Crime Reporting (IUCR) data."
 git_branch = "master"
 git_url = "git://github.com/sc3/python-iucr.git"
 name = "python-iucr"

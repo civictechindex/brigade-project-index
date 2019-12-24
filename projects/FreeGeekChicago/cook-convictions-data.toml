@@ -1,4 +1,5 @@
 code_url = "https://github.com/sc3/cook-convictions-data"
+description = "Django project for loading, cleaning and querying data about criminal convictions in Cook County, Illinois"
 git_branch = "master"
 git_url = "git://github.com/sc3/cook-convictions-data.git"
 name = "cook-convictions-data"

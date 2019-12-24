@@ -1,4 +1,5 @@
 code_url = "https://github.com/sc3/ccj-scraper"
+description = "A scraper"
 git_branch = "master"
 git_url = "git://github.com/sc3/ccj-scraper.git"
 name = "ccj-scraper"

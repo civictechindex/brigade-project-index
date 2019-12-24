@@ -1,4 +1,5 @@
 code_url = "https://github.com/sc3/townsquare-flask"
+description = "Keep track of volunteers' contributions of hours"
 git_branch = "master"
 git_url = "git://github.com/sc3/townsquare-flask.git"
 link_url = "http://townsquare-pwmaps.rhcloud.com/"

@@ -1,4 +1,5 @@
 code_url = "https://github.com/sc3/freegeekchicagopanel"
+description = "A panel to display locally at FreeGeekChicago, displaying twitter feed, bus routes, calendar, and other information."
 git_branch = "master"
 git_url = "git://github.com/sc3/freegeekchicagopanel.git"
 name = "freegeekchicagopanel"

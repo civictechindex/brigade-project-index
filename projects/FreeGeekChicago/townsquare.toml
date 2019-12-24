@@ -1,4 +1,5 @@
 code_url = "https://github.com/sc3/townsquare"
+description = "A Drupal distribution for volunteer management by the Supreme Chi-Town Coding Crew."
 git_branch = "master"
 git_url = "git://github.com/sc3/townsquare.git"
 name = "townsquare"

@@ -1,4 +1,5 @@
 code_url = "https://github.com/sc3/django-townsquare"
+description = "Python-Django port of  Townsquare project found at https://github.com/sc3/townsquare"
 git_branch = "master"
 git_url = "git://github.com/sc3/django-townsquare.git"
 name = "django-townsquare"
