@@ -1,4 +1,5 @@
 code_url = "https://github.com/Chicago/sdp-feature-fetcher"
+description = "Software to extract and calculate features from various data sources for use in smart data platform (https://chicago.github.io/smart-data-platform/)"
 git_branch = "master"
 git_url = "git://github.com/Chicago/sdp-feature-fetcher.git"
 name = "sdp-feature-fetcher"

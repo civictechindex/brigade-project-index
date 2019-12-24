@@ -1,4 +1,5 @@
 code_url = "https://github.com/Chicago/journal-chicago"
+description = 'An "RMarkdown HTML theme" for a bootstrapped, modern, clean interface intended for technical writings. This design is a modification of the Bootswatch Journal theme.'
 git_branch = "master"
 git_url = "git://github.com/Chicago/journal-chicago.git"
 name = "journal-chicago"

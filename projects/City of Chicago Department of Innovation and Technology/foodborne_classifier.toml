@@ -1,4 +1,5 @@
 code_url = "https://github.com/Chicago/foodborne_classifier"
+description = "The classifier used in the http://foodborne.smartchicagoapps.org/ application."
 git_branch = "master"
 git_url = "git://github.com/Chicago/foodborne_classifier.git"
 name = "foodborne_classifier"

@@ -1,4 +1,5 @@
 code_url = "https://github.com/Chicago/foodborne_survey"
+description = "A 2014 survey of Chicago residents regarding Foodborne Chicago"
 git_branch = "master"
 git_url = "git://github.com/Chicago/foodborne_survey.git"
 name = "foodborne_survey"

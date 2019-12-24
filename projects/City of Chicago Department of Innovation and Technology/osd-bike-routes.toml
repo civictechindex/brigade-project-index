@@ -1,4 +1,5 @@
 code_url = "https://github.com/Chicago/osd-bike-routes"
+description = "Open source release of bike routes in Chicago."
 git_branch = "master"
 git_url = "git://github.com/Chicago/osd-bike-routes.git"
 name = "osd-bike-routes"

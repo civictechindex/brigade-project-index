@@ -1,4 +1,5 @@
 code_url = "https://github.com/Chicago/foodborne"
+description = "Manages tweets about food poisoning in Chicago and presents Open311 form for reporting incidents."
 git_branch = "master"
 git_url = "git://github.com/Chicago/foodborne.git"
 link_url = "http://foodborne.smartchicagoapps.org/"

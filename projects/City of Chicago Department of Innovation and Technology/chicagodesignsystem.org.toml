@@ -1,4 +1,5 @@
 code_url = "https://github.com/Chicago/chicagodesignsystem.org"
+description = "A one page, 1 line website to redirect to design.chicago.gov"
 git_branch = "master"
 git_url = "git://github.com/Chicago/chicagodesignsystem.org.git"
 name = "chicagodesignsystem.org"

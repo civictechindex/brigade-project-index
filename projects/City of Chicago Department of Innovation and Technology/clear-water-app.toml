@@ -1,4 +1,5 @@
 code_url = "https://github.com/Chicago/clear-water-app"
+description = "Generate water quality predictions for Chicago beaches, and upload to https://data.cityofchicago.org/Parks-Recreation/Beach-E-coli-Predictions/xvsz-3xcj"
 git_branch = "master"
 git_url = "git://github.com/Chicago/clear-water-app.git"
 name = "clear-water-app"

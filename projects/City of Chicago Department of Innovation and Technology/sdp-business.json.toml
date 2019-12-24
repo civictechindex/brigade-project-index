@@ -1,4 +1,5 @@
 code_url = "https://github.com/Chicago/sdp-business.json"
+description = "A file which combines all business-related records from diverse sources."
 git_branch = "master"
 git_url = "git://github.com/Chicago/sdp-business.json.git"
 name = "sdp-business.json"

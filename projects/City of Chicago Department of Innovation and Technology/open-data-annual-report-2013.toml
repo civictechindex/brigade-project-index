@@ -1,4 +1,5 @@
 code_url = "https://github.com/Chicago/open-data-annual-report-2013"
+description = "Source code driving the online version of City of Chicago's Open Data Annual report."
 git_branch = "gh-pages"
 git_url = "git://github.com/Chicago/open-data-annual-report-2013.git"
 link_url = "report.cityofchicago.org/open-data-2013"

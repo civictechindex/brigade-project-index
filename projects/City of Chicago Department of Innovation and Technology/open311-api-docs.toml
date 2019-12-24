@@ -1,4 +1,5 @@
 code_url = "https://github.com/Chicago/open311-api-docs"
+description = "API documentation for the City of Chicago Open311 system."
 git_branch = "master"
 git_url = "git://github.com/Chicago/open311-api-docs.git"
 link_url = "http://dev.cityofchicago.org/docs/open311"

@@ -1,4 +1,5 @@
 code_url = "https://github.com/Chicago/contributor-license-agreement"
+description = "Standard text used by the City of Chicago for a contributor license agreement (CLA)."
 git_branch = "master"
 git_url = "git://github.com/Chicago/contributor-license-agreement.git"
 name = "contributor-license-agreement"

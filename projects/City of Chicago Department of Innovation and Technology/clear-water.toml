@@ -1,4 +1,5 @@
 code_url = "https://github.com/Chicago/clear-water"
+description = "Forecasting elevated levels of E. coli at Chicago beaches to provide proper warning to beach-goers."
 git_branch = "master"
 git_url = "git://github.com/Chicago/clear-water.git"
 link_url = "http://chicago.github.io/clear-water"
