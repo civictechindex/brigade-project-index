@@ -1,4 +1,5 @@
 code_url = "https://github.com/opensatx/ideas"
+description = "Ideas for projects for the brigade to work on"
 git_branch = "master"
 git_url = "git://github.com/opensatx/ideas.git"
 name = "ideas"
