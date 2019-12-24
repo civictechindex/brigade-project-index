@@ -1,4 +1,5 @@
 code_url = "https://github.com/openwichita/openbudgetwichita"
+description = "Visualizations of Wichita's budget data, and explanations about the budget process."
 git_branch = "master"
 git_url = "git://github.com/openwichita/openbudgetwichita.git"
 link_url = "https://budget.openwichita.org/"

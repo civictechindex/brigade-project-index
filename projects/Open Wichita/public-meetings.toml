@@ -1,4 +1,5 @@
 code_url = "https://github.com/openwichita/public-meetings"
+description = "A service to show all upcoming available public meetings for the City of Wichita."
 git_branch = "master"
 git_url = "git://github.com/openwichita/public-meetings.git"
 name = "public-meetings"

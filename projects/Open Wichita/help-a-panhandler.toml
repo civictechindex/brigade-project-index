@@ -1,4 +1,5 @@
 code_url = "https://github.com/openwichita/help-a-panhandler"
+description = "Quickly report location of panhandlers so service providers can know where to assist."
 git_branch = "master"
 git_url = "git://github.com/openwichita/help-a-panhandler.git"
 name = "help-a-panhandler"

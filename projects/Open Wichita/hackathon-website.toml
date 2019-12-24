@@ -1,4 +1,5 @@
 code_url = "https://github.com/openwichita/hackathon-website"
+description = "Website for the yearly Open Wichita Hackathon"
 git_branch = "master"
 git_url = "git://github.com/openwichita/hackathon-website.git"
 name = "hackathon-website"

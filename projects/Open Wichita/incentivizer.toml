@@ -1,4 +1,5 @@
 code_url = "https://github.com/openwichita/incentivizer"
+description = "Incentive system for Open Wichita contributions"
 git_branch = "master"
 git_url = "git://github.com/openwichita/incentivizer.git"
 name = "incentivizer"

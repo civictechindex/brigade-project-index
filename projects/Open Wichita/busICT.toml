@@ -1,4 +1,5 @@
 code_url = "https://github.com/openwichita/busICT"
+description = "A tool for making it easier to use the bus in Wichita"
 git_branch = "master"
 git_url = "git://github.com/openwichita/busICT.git"
 name = "busICT"

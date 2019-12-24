@@ -1,4 +1,5 @@
 code_url = "https://github.com/openwichita/civic-search"
+description = "Node.js wrapper for the Google Civic Information API."
 git_branch = "master"
 git_url = "git://github.com/openwichita/civic-search.git"
 name = "civic-search"

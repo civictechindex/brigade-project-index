@@ -1,4 +1,5 @@
 code_url = "https://github.com/openwichita/ow-help-wanted"
+description = "Web app to show all `help-wanted` issues for Open Wichita"
 git_branch = "master"
 git_url = "git://github.com/openwichita/ow-help-wanted.git"
 link_url = "https://help.openwichita.com"
