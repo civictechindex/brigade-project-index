@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforeurope/tz-geo"
+description = "timezone functions using a geojson file with global timezones"
 git_branch = "master"
 git_url = "git://github.com/codeforeurope/tz-geo.git"
 name = "tz-geo"

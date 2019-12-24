@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforeurope/issue-reporting"
+description = "Reference Open311 API server implementation"
 git_branch = "master"
 git_url = "git://github.com/codeforeurope/issue-reporting.git"
 name = "issue-reporting"

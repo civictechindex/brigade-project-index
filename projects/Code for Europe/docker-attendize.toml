@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforeurope/docker-attendize"
+description = "Docker for https://www.attendize.com"
 git_branch = "master"
 git_url = "git://github.com/codeforeurope/docker-attendize.git"
 name = "docker-attendize"

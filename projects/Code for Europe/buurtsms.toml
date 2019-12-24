@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforeurope/buurtsms"
+description = "A Ruby on Rails app to receive (and send) SMS"
 git_branch = "master"
 git_url = "git://github.com/codeforeurope/buurtsms.git"
 link_url = "http://buurtsms.herokuapp.com"

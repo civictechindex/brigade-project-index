@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforeurope/multi-slack"
+description = "Slack team to team communication"
 git_branch = "master"
 git_url = "git://github.com/codeforeurope/multi-slack.git"
 name = "multi-slack"

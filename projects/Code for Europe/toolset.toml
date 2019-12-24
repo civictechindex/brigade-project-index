@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforeurope/toolset"
+description = "Default Toolset"
 git_branch = "master"
 git_url = "git://github.com/codeforeurope/toolset.git"
 name = "toolset"

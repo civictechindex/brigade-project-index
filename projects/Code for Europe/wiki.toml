@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforeurope/wiki"
+description = "Common wiki for Code4Europe"
 git_branch = "master"
 git_url = "git://github.com/codeforeurope/wiki.git"
 name = "wiki"

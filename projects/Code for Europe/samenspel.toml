@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforeurope/samenspel"
+description = "An open source team collaboration platform based on Teambox/Crewmate"
 git_branch = "master"
 git_url = "git://github.com/codeforeurope/samenspel.git"
 name = "samenspel"

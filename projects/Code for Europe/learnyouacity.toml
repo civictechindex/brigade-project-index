@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforeurope/learnyouacity"
+description = "Game to teach yourself where the streets of a city are, web/OSM-based"
 git_branch = "master"
 git_url = "git://github.com/codeforeurope/learnyouacity.git"
 name = "learnyouacity"

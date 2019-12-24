@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforeurope/civichq-api"
+description = "API that aggregates information about open source civic tech applications and systems."
 git_branch = "master"
 git_url = "git://github.com/codeforeurope/civichq-api.git"
 link_url = "http://codeforeu.github.io/portfolio"

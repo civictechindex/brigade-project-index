@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforeurope/art-explorer-demo"
+description = "A demo app, built on the Manchester Art Gallery Open Data API"
 git_branch = "master"
 git_url = "git://github.com/codeforeurope/art-explorer-demo.git"
 name = "art-explorer-demo"

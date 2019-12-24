@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforeurope/open311_java"
+description = "Java language binding (wrapper) to the Open311 REST API"
 git_branch = "master"
 git_url = "git://github.com/codeforeurope/open311_java.git"
 name = "open311_java"

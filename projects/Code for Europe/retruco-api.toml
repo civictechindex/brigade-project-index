@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforeurope/retruco-api"
+description = "Web API of Retruco, a software to vote on data items"
 git_branch = "master"
 git_url = "git://github.com/codeforeurope/retruco-api.git"
 name = "retruco-api"

@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforeurope/i18n-me"
+description = "This repository contains a list of github repositories in need of i18n"
 git_branch = "master"
 git_url = "git://github.com/codeforeurope/i18n-me.git"
 name = "i18n-me"
