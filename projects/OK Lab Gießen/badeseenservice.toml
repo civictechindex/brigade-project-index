@@ -1,4 +1,5 @@
 code_url = "https://github.com/CodeForGiessen/badeseenservice"
+description = "API for the badeseen mobile app"
 git_branch = "master"
 git_url = "git://github.com/CodeForGiessen/badeseenservice.git"
 link_url = "http://ci.andinfinity.de/codeforgiessen/badeseenservice/"
