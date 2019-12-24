@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforprinceton/ashtag"
+description = "Upgrade of AshTag to latest Quasar Framework"
 git_branch = "master"
 git_url = "git://github.com/codeforprinceton/ashtag.git"
 name = "ashtag"

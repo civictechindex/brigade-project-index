@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforprinceton/civic.json"
+description = "A specification of the civic.json metadata standard for civic technology projects"
 git_branch = "master"
 git_url = "git://github.com/codeforprinceton/civic.json.git"
 name = "civic.json"

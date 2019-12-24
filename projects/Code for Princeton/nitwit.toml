@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforprinceton/nitwit"
+description = "Twitter spidering "
 git_branch = "master"
 git_url = "git://github.com/codeforprinceton/nitwit.git"
 name = "nitwit"
