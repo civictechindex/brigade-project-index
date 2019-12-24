@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforkansascity/kc-open-data-library"
+description = "A inventory of open data in the Kansas City Area."
 git_branch = "master"
 git_url = "git://github.com/codeforkansascity/kc-open-data-library.git"
 name = "kc-open-data-library"

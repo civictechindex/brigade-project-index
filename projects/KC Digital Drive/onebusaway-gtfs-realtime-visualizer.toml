@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforkansascity/onebusaway-gtfs-realtime-visualizer"
+description = "A visualizer for GTFS-realtime transit data."
 git_branch = "master"
 git_url = "git://github.com/codeforkansascity/onebusaway-gtfs-realtime-visualizer.git"
 link_url = "https://github.com/OneBusAway/onebusaway-gtfs-realtime-visualizer/wiki"

@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforkansascity/OpenRecords"
+description = "UNDER DEVELOPMENT Phase 1: An app allowing citizens to identify the custodians of public municipal and county records in the Kansas City metropolitan area. Phase 2: An extension allowing citizens to submit automated records requests. Phase 3: A tool allowing custodians to process and respond to records requests. "
 git_branch = "master"
 git_url = "git://github.com/codeforkansascity/OpenRecords.git"
 name = "OpenRecords"

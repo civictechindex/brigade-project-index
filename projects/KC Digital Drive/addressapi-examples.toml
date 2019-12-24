@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforkansascity/addressapi-examples"
+description = "Sample code for accessing the Address-API data."
 git_branch = "master"
 git_url = "git://github.com/codeforkansascity/addressapi-examples.git"
 name = "addressapi-examples"

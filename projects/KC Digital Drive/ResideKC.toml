@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforkansascity/ResideKC"
+description = "ResideKC provides civic information to residents based on street address."
 git_branch = "master"
 git_url = "git://github.com/codeforkansascity/ResideKC.git"
 link_url = " http://reside-kc.herokuapp.com/"

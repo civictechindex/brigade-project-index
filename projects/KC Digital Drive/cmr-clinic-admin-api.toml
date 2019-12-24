@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforkansascity/cmr-clinic-admin-api"
+description = "Administration and API for Clear My Record"
 git_branch = "develop"
 git_url = "git://github.com/codeforkansascity/cmr-clinic-admin-api.git"
 name = "cmr-clinic-admin-api"

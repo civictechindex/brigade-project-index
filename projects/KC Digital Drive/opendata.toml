@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforkansascity/opendata"
+description = "Open data folder for static data files to be used by multiple projects. "
 git_branch = "master"
 git_url = "git://github.com/codeforkansascity/opendata.git"
 name = "opendata"

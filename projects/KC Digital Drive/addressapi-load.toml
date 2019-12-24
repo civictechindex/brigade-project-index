@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforkansascity/addressapi-load"
+description = "Concerning the processes and issues of collecting and loading data into the Address-API database."
 git_branch = "master"
 git_url = "git://github.com/codeforkansascity/addressapi-load.git"
 name = "addressapi-load"
