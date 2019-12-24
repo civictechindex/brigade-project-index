@@ -1,4 +1,5 @@
 code_url = "https://github.com/opendata-heilbronn/multi-snake"
+description = "next gen snake game (curr. Android, iOS, ...)"
 git_branch = "master"
 git_url = "git://github.com/opendata-heilbronn/multi-snake.git"
 name = "multi-snake"

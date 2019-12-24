@@ -1,4 +1,5 @@
 code_url = "https://github.com/opendata-heilbronn/esp8266template"
+description = "Simple Template for a ESP 8266 Wifi Server and sensor reader"
 git_branch = "master"
 git_url = "git://github.com/opendata-heilbronn/esp8266template.git"
 name = "esp8266template"

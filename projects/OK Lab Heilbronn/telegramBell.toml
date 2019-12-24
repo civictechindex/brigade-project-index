@@ -1,4 +1,5 @@
 code_url = "https://github.com/opendata-heilbronn/telegramBell"
+description = "A bell for notifying when there are very important messages"
 git_branch = "master"
 git_url = "git://github.com/opendata-heilbronn/telegramBell.git"
 name = "telegramBell"

@@ -1,4 +1,5 @@
 code_url = "https://github.com/opendata-heilbronn/victron-data-adapter"
+description = ".NET Core Adapter to forward the streaming data from a Victron solar charge controller to a InfluxDB"
 git_branch = "master"
 git_url = "git://github.com/opendata-heilbronn/victron-data-adapter.git"
 name = "victron-data-adapter"

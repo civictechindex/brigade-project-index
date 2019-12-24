@@ -1,4 +1,5 @@
 code_url = "https://github.com/opendata-heilbronn/crimemap"
+description = "Kriminalstatistik Region Heilbronn"
 git_branch = "master"
 git_url = "git://github.com/opendata-heilbronn/crimemap.git"
 name = "crimemap"

@@ -1,4 +1,5 @@
 code_url = "https://github.com/opendata-heilbronn/data-dashboard"
+description = "Show an #OpenData data dashboard of various cities"
 git_branch = "master"
 git_url = "git://github.com/opendata-heilbronn/data-dashboard.git"
 link_url = "http://www.datenwaben.de"

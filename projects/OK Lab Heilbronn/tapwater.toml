@@ -1,4 +1,5 @@
 code_url = "https://github.com/opendata-heilbronn/tapwater"
+description = "tapwater project - restart"
 git_branch = "master"
 git_url = "git://github.com/opendata-heilbronn/tapwater.git"
 name = "tapwater"

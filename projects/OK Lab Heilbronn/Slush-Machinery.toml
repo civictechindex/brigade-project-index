@@ -1,4 +1,5 @@
 code_url = "https://github.com/opendata-heilbronn/Slush-Machinery"
+description = "Control software for a slush machine"
 git_branch = "master"
 git_url = "git://github.com/opendata-heilbronn/Slush-Machinery.git"
 name = "Slush-Machinery"

@@ -1,4 +1,5 @@
 code_url = "https://github.com/opendata-heilbronn/wlanvisual"
+description = "WLAN RSSI Visualisation with ESP8266 and WS2812b-LEDs (and a little OLED Display)"
 git_branch = "master"
 git_url = "git://github.com/opendata-heilbronn/wlanvisual.git"
 name = "wlanvisual"
