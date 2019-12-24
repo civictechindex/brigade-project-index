@@ -1,4 +1,5 @@
 code_url = "https://github.com/BetaNYC/BoardTrack"
+description = "BoardTrack is a community board attendance tracking tool and data standard that helps community board staff submit attendance records to the Manhattan Borough President’s community board liaisons. In turn, liaisons can quickly analyze attendance history."
 git_branch = "master"
 git_url = "git://github.com/BetaNYC/BoardTrack.git"
 name = "BoardTrack"

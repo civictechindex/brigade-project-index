@@ -1,4 +1,5 @@
 code_url = "https://github.com/BetaNYC/AHV"
+description = "This repository contains scripts to scrape AHV permits from BISweb and to visualize AHV issuances via Tableau Public"
 git_branch = "master"
 git_url = "git://github.com/BetaNYC/AHV.git"
 link_url = "https://beta.nyc/ahv/"

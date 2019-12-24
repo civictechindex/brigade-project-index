@@ -1,4 +1,5 @@
 code_url = "https://github.com/BetaNYC/open_government"
+description = "Open Government, released as part of #PDFtribute"
 git_branch = "master"
 git_url = "git://github.com/BetaNYC/open_government.git"
 name = "open_government"

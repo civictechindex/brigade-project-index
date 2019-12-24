@@ -1,4 +1,5 @@
 code_url = "https://github.com/BetaNYC/illegal-hotel-inspections"
+description = "Through a Freedom of Information request, WNYC obtained records from the Mayor's Office of Special Enforcement of 2,684 inspections looking for illegal short-term rental activity in New York City. The inspections occurred from October 2013 through April 2015."
 git_branch = "master"
 git_url = "git://github.com/BetaNYC/illegal-hotel-inspections.git"
 link_url = "http://www.wnyc.org/story/when-inspectors-look-illegal-hotels/"

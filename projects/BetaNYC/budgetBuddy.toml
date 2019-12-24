@@ -1,4 +1,5 @@
 code_url = "https://github.com/BetaNYC/budgetBuddy"
+description = "An API for more intuitive access to NYC Budget Data, current and historical"
 git_branch = "master"
 git_url = "git://github.com/BetaNYC/budgetBuddy.git"
 link_url = "http://budgetbuddy.herokuapp.com"

@@ -1,4 +1,5 @@
 code_url = "https://github.com/BetaNYC/bad-data-guide"
+description = "An exhaustive reference to problems seen in real-world data along with suggestions on how to resolve them."
 git_branch = "master"
 git_url = "git://github.com/BetaNYC/bad-data-guide.git"
 name = "bad-data-guide"

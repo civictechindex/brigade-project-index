@@ -1,4 +1,5 @@
 code_url = "https://github.com/BetaNYC/student-citibike"
+description = "a sinatra-app for playing with JSON and the citibike data!"
 git_branch = "master"
 git_url = "git://github.com/BetaNYC/student-citibike.git"
 name = "student-citibike"

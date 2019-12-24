@@ -1,4 +1,5 @@
 code_url = "https://github.com/BetaNYC/ops-message"
+description = "This is an open repo / task list to manage the publication of BetaNYC's newsletter, its other quarterly publications, and its annual report."
 git_branch = "master"
 git_url = "git://github.com/BetaNYC/ops-message.git"
 name = "ops-message"

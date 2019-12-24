@@ -1,4 +1,5 @@
 code_url = "https://github.com/BetaNYC/service-alerts"
+description = "We are scraping real time MTA alert data and capturing it in a database to visualize frequency, duration and time of different alert types (sick passenger, rail condition, police activity, etc.) on an interactive map."
 git_branch = "master"
 git_url = "git://github.com/BetaNYC/service-alerts.git"
 name = "service-alerts"

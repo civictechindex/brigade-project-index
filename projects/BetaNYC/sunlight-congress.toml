@@ -1,4 +1,5 @@
 code_url = "https://github.com/BetaNYC/sunlight-congress"
+description = "A wrapper for the Sunlight Foundation's Congress API"
 git_branch = "master"
 git_url = "git://github.com/BetaNYC/sunlight-congress.git"
 link_url = "https://github.com/steveklabnik/sunlight-congress"
