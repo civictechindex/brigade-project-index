@@ -1,4 +1,5 @@
 code_url = "https://github.com/open-data-standards/data-schemas"
+description = "Simple schemas for open datasets"
 git_branch = "gh-pages"
 git_url = "git://github.com/open-data-standards/data-schemas.git"
 name = "data-schemas"

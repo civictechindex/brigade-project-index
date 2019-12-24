@@ -1,4 +1,5 @@
 code_url = "https://github.com/open-data-standards/data-catalog-schema"
+description = "Data and API Catalog Schema"
 git_branch = "master"
 git_url = "git://github.com/open-data-standards/data-catalog-schema.git"
 name = "data-catalog-schema"
