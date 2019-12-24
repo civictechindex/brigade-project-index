@@ -1,4 +1,5 @@
 code_url = "https://github.com/LabPLC/donde_checarme"
+description = "Visualizador de centros de Salud de SEDESA"
 git_branch = "master"
 git_url = "git://github.com/LabPLC/donde_checarme.git"
 name = "donde_checarme"

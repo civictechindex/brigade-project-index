@@ -1,4 +1,5 @@
 code_url = "https://github.com/LabPLC/centos-6"
+description = "Acordeon para instalar, configurar y operar nuestro servidor CentOS 6.x"
 git_branch = "master"
 git_url = "git://github.com/LabPLC/centos-6.git"
 name = "centos-6"

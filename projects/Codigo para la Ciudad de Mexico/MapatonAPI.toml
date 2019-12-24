@@ -1,4 +1,5 @@
 code_url = "https://github.com/LabPLC/MapatonAPI"
+description = "API pública y open-source para el consumo de los datos resultantes de MapatónCDMX"
 git_branch = "master"
 git_url = "git://github.com/LabPLC/MapatonAPI.git"
 name = "MapatonAPI"

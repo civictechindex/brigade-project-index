@@ -1,4 +1,5 @@
 code_url = "https://github.com/LabPLC/HackCDMX-VizVidaMuerte"
+description = "Visualización interactiva de nacimientos y defunciones de la ciudad de México"
 git_branch = "master"
 git_url = "git://github.com/LabPLC/HackCDMX-VizVidaMuerte.git"
 name = "HackCDMX-VizVidaMuerte"
