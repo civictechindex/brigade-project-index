@@ -1,4 +1,5 @@
 code_url = "https://github.com/Code-For-Chicago/homeless_portal"
+description = "NDoCH project: Homelessness Portal w/ ChiPubLib"
 git_branch = "master"
 git_url = "git://github.com/Code-For-Chicago/homeless_portal.git"
 name = "homeless_portal"

@@ -1,4 +1,5 @@
 code_url = "https://github.com/Code-For-Chicago/projects"
+description = "A repository we'll use to track projects using the 'issues' feature."
 git_branch = "master"
 git_url = "git://github.com/Code-For-Chicago/projects.git"
 name = "projects"
