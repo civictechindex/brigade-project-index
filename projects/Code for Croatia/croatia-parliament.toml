@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforcroatia/croatia-parliament"
+description = "Scrapes www.sabor.hr for parliament assembly"
 git_branch = "master"
 git_url = "git://github.com/codeforcroatia/croatia-parliament.git"
 name = "croatia-parliament"

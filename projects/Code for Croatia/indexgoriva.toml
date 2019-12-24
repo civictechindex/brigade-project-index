@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforcroatia/indexgoriva"
+description = "A django app showing Croatian motor fuel price indexes."
 git_branch = "master"
 git_url = "git://github.com/codeforcroatia/indexgoriva.git"
 name = "indexgoriva"

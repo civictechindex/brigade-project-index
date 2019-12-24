@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforcroatia/DownRightNow"
+description = "Simple github-page to redirect to when doing maintenance."
 git_branch = "gh-pages"
 git_url = "git://github.com/codeforcroatia/DownRightNow.git"
 link_url = "http://codeforcroatia.github.io/DownRightNow"

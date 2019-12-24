@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforcroatia/imamopravoznati-stats"
+description = "Scan an alaveteli instance and generate FOI performance graphs by calendar year."
 git_branch = "master"
 git_url = "git://github.com/codeforcroatia/imamopravoznati-stats.git"
 link_url = "http://stats.imamopravoznati.org"

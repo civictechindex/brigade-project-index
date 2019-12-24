@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforcroatia/tools_for_civic_hackers"
+description = "Forkable tools of the Code for Croatia local groups"
 git_branch = "master"
 git_url = "git://github.com/codeforcroatia/tools_for_civic_hackers.git"
 name = "tools_for_civic_hackers"
