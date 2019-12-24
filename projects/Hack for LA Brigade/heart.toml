@@ -1,4 +1,5 @@
 code_url = "https://github.com/hackforla/heart"
+description = "Heart is a project working directly with the LA City Attorney’s Homeless Engagement and Response Team. We are building a database and case management system to streamline their workflow and enable them to scale their program. Find us on the Hack for LA Slack #heart."
 git_branch = "develop"
 git_url = "git://github.com/hackforla/heart.git"
 link_url = "https://www.lacityattorney.org/community-justice"
