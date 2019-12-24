@@ -1,4 +1,5 @@
 code_url = "https://github.com/CodeForSummitCounty/census-data-sample"
+description = "Sample Ruby web app for consuming the US Census Data API (see http://www.census.gov/developers/)"
 git_branch = "master"
 git_url = "git://github.com/CodeForSummitCounty/census-data-sample.git"
 name = "census-data-sample"

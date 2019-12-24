@@ -1,4 +1,5 @@
 code_url = "https://github.com/CodeForSummitCounty/census_base_layout"
+description = "Basic layout, js/jq and css for HackNEO's census."
 git_branch = "master"
 git_url = "git://github.com/CodeForSummitCounty/census_base_layout.git"
 name = "census_base_layout"

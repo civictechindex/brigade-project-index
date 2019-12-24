@@ -1,4 +1,5 @@
 code_url = "https://github.com/CodeForSummitCounty/parkaccess"
+description = "New iteration of parkaccess, hosted on Heroku"
 git_branch = "master"
 git_url = "git://github.com/CodeForSummitCounty/parkaccess.git"
 name = "parkaccess"
