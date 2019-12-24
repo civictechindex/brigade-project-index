@@ -1,4 +1,5 @@
 code_url = "https://github.com/BMGhack/uReport-client"
+description = "A redesigned front-end for Bloomington's citizen reporting application"
 git_branch = "master"
 git_url = "git://github.com/BMGhack/uReport-client.git"
 name = "uReport-client"

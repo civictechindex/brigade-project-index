@@ -1,4 +1,5 @@
 code_url = "https://github.com/BMGhack/open311QL"
+description = "An Express hosted GraphQL server to expose the Open311 (GeoReport v2) API"
 git_branch = "master"
 git_url = "git://github.com/BMGhack/open311QL.git"
 name = "open311QL"
