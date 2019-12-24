@@ -1,4 +1,5 @@
 code_url = "https://github.com/DataSF/webtask-open-data-algolia"
+description = "Syncing script for datasets to algolia using webtask.io"
 git_branch = "master"
 git_url = "git://github.com/DataSF/webtask-open-data-algolia.git"
 name = "webtask-open-data-algolia"

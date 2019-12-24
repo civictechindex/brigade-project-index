@@ -1,4 +1,5 @@
 code_url = "https://github.com/DataSF/metadata_viewer"
+description = "simple web app to serve up dataset metadata"
 git_branch = "master"
 git_url = "git://github.com/DataSF/metadata_viewer.git"
 name = "metadata_viewer"

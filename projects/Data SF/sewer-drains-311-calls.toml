@@ -1,4 +1,5 @@
 code_url = "https://github.com/DataSF/sewer-drains-311-calls"
+description = "ETL to get Sewer Drain related 311 calls and output them as an shp file on the sftp"
 git_branch = "master"
 git_url = "git://github.com/DataSF/sewer-drains-311-calls.git"
 name = "sewer-drains-311-calls"

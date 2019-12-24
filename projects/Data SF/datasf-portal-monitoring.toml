@@ -1,4 +1,5 @@
 code_url = "https://github.com/DataSF/datasf-portal-monitoring"
+description = "Tools to monitor when datasets are created, updated or updated on your city's open data portal "
 git_branch = "master"
 git_url = "git://github.com/DataSF/datasf-portal-monitoring.git"
 name = "datasf-portal-monitoring"

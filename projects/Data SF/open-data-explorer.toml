@@ -1,4 +1,5 @@
 code_url = "https://github.com/DataSF/open-data-explorer"
+description = "To promote exploration and use of open data - currently in beta"
 git_branch = "develop"
 git_url = "git://github.com/DataSF/open-data-explorer.git"
 link_url = "http://edge.explore.datasf.org"

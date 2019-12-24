@@ -1,4 +1,5 @@
 code_url = "https://github.com/DataSF/inventory_update"
+description = "This respository contains various ETL jobs needed to complete the City and County of San Francisco's annual systems inventory update, as per CA Government Code 6270.5"
 git_branch = "master"
 git_url = "git://github.com/DataSF/inventory_update.git"
 link_url = "http://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=GOV&sectionNum=6270.5."

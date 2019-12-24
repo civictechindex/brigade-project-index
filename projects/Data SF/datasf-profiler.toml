@@ -1,4 +1,5 @@
 code_url = "https://github.com/DataSF/datasf-profiler"
+description = "A Tool to Profile DataSF's Public Data"
 git_branch = "master"
 git_url = "git://github.com/DataSF/datasf-profiler.git"
 name = "datasf-profiler"

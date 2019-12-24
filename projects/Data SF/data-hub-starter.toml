@@ -1,4 +1,5 @@
 code_url = "https://github.com/DataSF/data-hub-starter"
+description = 'Data Hub Starter for deploying new "hubs" similar to the Housing Data Hub'
 git_branch = "master"
 git_url = "git://github.com/DataSF/data-hub-starter.git"
 name = "data-hub-starter"

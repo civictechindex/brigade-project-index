@@ -1,4 +1,5 @@
 code_url = "https://github.com/DataSF/metadata-management-tool"
+description = "Datasf internal tool to manage city's metadata"
 git_branch = "master"
 git_url = "git://github.com/DataSF/metadata-management-tool.git"
 name = "metadata-management-tool"

@@ -1,4 +1,5 @@
 code_url = "https://github.com/DataSF/migrate-sftp-data"
+description = "Migrates CSV files on the SFTP server to the open data portal"
 git_branch = "master"
 git_url = "git://github.com/DataSF/migrate-sftp-data.git"
 name = "migrate-sftp-data"
