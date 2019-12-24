@@ -1,4 +1,5 @@
 code_url = "https://github.com/CodeForPittsburgh/citytwitter"
+description = "A list of all the twitter accounts associated with the City of Pittsburgh"
 git_branch = "master"
 git_url = "git://github.com/CodeForPittsburgh/citytwitter.git"
 name = "citytwitter"

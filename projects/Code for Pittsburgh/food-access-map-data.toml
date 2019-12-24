@@ -1,4 +1,5 @@
 code_url = "https://github.com/CodeForPittsburgh/food-access-map-data"
+description = "Data for the food access map"
 git_branch = "master"
 git_url = "git://github.com/CodeForPittsburgh/food-access-map-data.git"
 name = "food-access-map-data"

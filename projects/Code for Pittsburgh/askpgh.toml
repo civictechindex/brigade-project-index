@@ -1,4 +1,5 @@
 code_url = "https://github.com/CodeForPittsburgh/askpgh"
+description = "DEPRECATED ASKBOT is a Q&A forum, written in Django/Python and Javascript. **TRANSLATORS**: please note that the translation environment is available at Transifex"
 git_branch = "master"
 git_url = "git://github.com/CodeForPittsburgh/askpgh.git"
 link_url = "http://askbot.com"

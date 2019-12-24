@@ -1,4 +1,5 @@
 code_url = "https://github.com/CodeForPittsburgh/SQLCrashData"
+description = "Maps and data for Bike Crashes"
 git_branch = "master"
 git_url = "git://github.com/CodeForPittsburgh/SQLCrashData.git"
 name = "SQLCrashData"

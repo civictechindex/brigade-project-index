@@ -1,4 +1,5 @@
 code_url = "https://github.com/CodeForPittsburgh/pa-candidate-email-scraper"
+description = "use public sources to combine candidate list with publicly declared information."
 git_branch = "master"
 git_url = "git://github.com/CodeForPittsburgh/pa-candidate-email-scraper.git"
 name = "pa-candidate-email-scraper"

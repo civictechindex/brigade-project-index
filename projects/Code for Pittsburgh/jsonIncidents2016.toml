@@ -1,4 +1,5 @@
 code_url = "https://github.com/CodeForPittsburgh/jsonIncidents2016"
+description = "2016 Police Blotter Incident Data"
 git_branch = "master"
 git_url = "git://github.com/CodeForPittsburgh/jsonIncidents2016.git"
 name = "jsonIncidents2016"
