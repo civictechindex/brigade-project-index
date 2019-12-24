@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeformunich/radlquartier"
+description = "Command-line tool to prepare and extract bike sharing data. Plus example implementations of visualizations and a example website."
 git_branch = "master"
 git_url = "git://github.com/codeformunich/radlquartier.git"
 link_url = "http://mvg.manuel.red/"

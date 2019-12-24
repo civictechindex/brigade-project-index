@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeformunich/datasets"
+description = "Please collect useful bits of data here for reuse"
 git_branch = "master"
 git_url = "git://github.com/codeformunich/datasets.git"
 name = "datasets"

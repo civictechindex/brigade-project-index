@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeformunich/bikewatch"
+description = "Visualization of the mvg bike data"
 git_branch = "master"
 git_url = "git://github.com/codeformunich/bikewatch.git"
 name = "bikewatch"
