@@ -1,4 +1,5 @@
 code_url = "https://github.com/CodeForBaltimore/JuryInstructions"
+description = "A proof-of-concept app to generate criminal pattern jury instructions."
 git_branch = "master"
 git_url = "git://github.com/CodeForBaltimore/JuryInstructions.git"
 name = "JuryInstructions"
