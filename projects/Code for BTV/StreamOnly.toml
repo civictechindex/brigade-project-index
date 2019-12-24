@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforbtv/StreamOnly"
+description = "A custom plugin for Omeka that allows the visitor to listen to protected audio files, but prevents the most common methods of downloading these files. It also limits the number of listeners simultaneously accessing protected audio files."
 git_branch = "master"
 git_url = "git://github.com/codeforbtv/StreamOnly.git"
 name = "StreamOnly"

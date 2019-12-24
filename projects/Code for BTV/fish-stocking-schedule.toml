@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforbtv/fish-stocking-schedule"
+description = "Vermont Fish & Wildlife Stocking Schedule"
 git_branch = "master"
 git_url = "git://github.com/codeforbtv/fish-stocking-schedule.git"
 name = "fish-stocking-schedule"

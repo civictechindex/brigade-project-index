@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforbtv/SafeToSwim"
+description = "A deep learning service that identifies and tracks harmful algal blooms (HABs)."
 git_branch = "master"
 git_url = "git://github.com/codeforbtv/SafeToSwim.git"
 name = "SafeToSwim"

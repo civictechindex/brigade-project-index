@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforbtv/theme-public-c4sf"
+description = "Publicly-accessible routes, views, and controllers for Brigadehub"
 git_branch = "master"
 git_url = "git://github.com/codeforbtv/theme-public-c4sf.git"
 name = "theme-public-c4sf"
