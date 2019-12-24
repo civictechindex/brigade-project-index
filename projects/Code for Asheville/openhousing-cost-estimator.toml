@@ -1,4 +1,5 @@
 code_url = "https://github.com/CodeForAsheville/openhousing-cost-estimator"
+description = "Let’s build a tool that calculates what level of rent meets the 30% affordability standard. Then we could possibly add available properties that meet this criteria?"
 git_branch = "master"
 git_url = "git://github.com/CodeForAsheville/openhousing-cost-estimator.git"
 name = "openhousing-cost-estimator"

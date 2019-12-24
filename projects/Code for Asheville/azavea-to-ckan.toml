@@ -1,4 +1,5 @@
 code_url = "https://github.com/CodeForAsheville/azavea-to-ckan"
+description = "Transfers datasets from Azalea Open Data to CKAN"
 git_branch = "master"
 git_url = "git://github.com/CodeForAsheville/azavea-to-ckan.git"
 name = "azavea-to-ckan"

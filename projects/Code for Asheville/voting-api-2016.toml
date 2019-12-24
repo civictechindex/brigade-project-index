@@ -1,4 +1,5 @@
 code_url = "https://github.com/CodeForAsheville/voting-api-2016"
+description = "API to get registered voters & sample ballot links"
 git_branch = "master"
 git_url = "git://github.com/CodeForAsheville/voting-api-2016.git"
 name = "voting-api-2016"

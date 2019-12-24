@@ -1,4 +1,5 @@
 code_url = "https://github.com/CodeForAsheville/voting"
+description = "Demo rails voting app"
 git_branch = "master"
 git_url = "git://github.com/CodeForAsheville/voting.git"
 name = "voting"

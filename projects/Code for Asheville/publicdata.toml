@@ -1,4 +1,5 @@
 code_url = "https://github.com/CodeForAsheville/publicdata"
+description = "This repository can be used to store public records request data. One day, we'll probably put this data on OpenWNC! "
 git_branch = "master"
 git_url = "git://github.com/CodeForAsheville/publicdata.git"
 name = "publicdata"

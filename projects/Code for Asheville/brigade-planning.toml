@@ -1,4 +1,5 @@
 code_url = "https://github.com/CodeForAsheville/brigade-planning"
+description = "General planning notes, guidelines and resources for the Code for Asheville brigade"
 git_branch = "master"
 git_url = "git://github.com/CodeForAsheville/brigade-planning.git"
 name = "brigade-planning"
