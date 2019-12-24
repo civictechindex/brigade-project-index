@@ -1,4 +1,5 @@
 code_url = "https://github.com/code-for-nashville/nashville-public-library-python"
+description = "Resources and notebooks for the Nashville Public Library Python classes in May 2018"
 git_branch = "master"
 git_url = "git://github.com/code-for-nashville/nashville-public-library-python.git"
 name = "nashville-public-library-python"

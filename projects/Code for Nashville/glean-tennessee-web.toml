@@ -1,4 +1,5 @@
 code_url = "https://github.com/code-for-nashville/glean-tennessee-web"
+description = "This project was created during Nashville's Civic Day of Hacking to allow farmers and other food providers to notify the Society of St. Andrew of food donations available for harvest and pick up."
 git_branch = "master"
 git_url = "git://github.com/code-for-nashville/glean-tennessee-web.git"
 link_url = "https://glean-tennessee.firebaseapp.com/"

@@ -1,4 +1,5 @@
 code_url = "https://github.com/code-for-nashville/oss-intro-class"
+description = "An example open source project to practice hacking on"
 git_branch = "master"
 git_url = "git://github.com/code-for-nashville/oss-intro-class.git"
 name = "oss-intro-class"

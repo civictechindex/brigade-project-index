@@ -1,4 +1,5 @@
 code_url = "https://github.com/code-for-nashville/open-data-accountability"
+description = "A Rails based application for holding a community with an open data portal accountable for keeping that data fresh."
 git_branch = "master"
 git_url = "git://github.com/code-for-nashville/open-data-accountability.git"
 name = "open-data-accountability"
