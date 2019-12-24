@@ -1,4 +1,5 @@
 code_url = "https://github.com/uscensusbureau/census-dp"
+description = "Disclosure Avoidance Repository"
 git_branch = "master"
 git_url = "git://github.com/uscensusbureau/census-dp.git"
 name = "census-dp"

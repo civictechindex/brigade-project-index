@@ -1,4 +1,5 @@
 code_url = "https://github.com/uscensusbureau/census-academy"
+description = "A Khan Academy-like video training platform for census data"
 git_branch = "master"
 git_url = "git://github.com/uscensusbureau/census-academy.git"
 link_url = "https://uscensusbureau.github.io/census-academy/"

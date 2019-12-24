@@ -1,4 +1,5 @@
 code_url = "https://github.com/uscensusbureau/drb_rounder"
+description = "Rounding and data analysis software developed by the US Census Disclosure Review Board"
 git_branch = "master"
 git_url = "git://github.com/uscensusbureau/drb_rounder.git"
 name = "drb_rounder"

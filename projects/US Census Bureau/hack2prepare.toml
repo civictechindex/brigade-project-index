@@ -1,4 +1,5 @@
 code_url = "https://github.com/uscensusbureau/hack2prepare"
+description = "A playbook for leaner and more impactful hackathons, using Waffle.io. Co-created in collaboration with the U.S. Census Bureau"
 git_branch = "master"
 git_url = "git://github.com/uscensusbureau/hack2prepare.git"
 name = "hack2prepare"

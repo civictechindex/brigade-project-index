@@ -1,4 +1,5 @@
 code_url = "https://github.com/uscensusbureau/census-wikidata-bot"
+description = "Project to develop a bot that is built to push Census data to Wikidata"
 git_branch = "master"
 git_url = "git://github.com/uscensusbureau/census-wikidata-bot.git"
 name = "census-wikidata-bot"

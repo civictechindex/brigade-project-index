@@ -1,4 +1,5 @@
 code_url = "https://github.com/uscensusbureau/pseo_beta"
+description = "A beta d3 app to demo the post secondary education outcomes dataset"
 git_branch = "master"
 git_url = "git://github.com/uscensusbureau/pseo_beta.git"
 link_url = "https://uscensusbureau.github.io/pseo_beta/"

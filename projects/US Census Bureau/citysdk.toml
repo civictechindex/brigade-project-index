@@ -1,4 +1,5 @@
 code_url = "https://github.com/uscensusbureau/citysdk"
+description = "Convenience JavaScript utilities for working with Census APIs: Statistics, Cartographic GeoJSON, lat/lng -> FIPS, and other niceties (written in ClojureScript)"
 git_branch = "master"
 git_url = "git://github.com/uscensusbureau/citysdk.git"
 link_url = "https://uscensusbureau.github.io/citysdk"

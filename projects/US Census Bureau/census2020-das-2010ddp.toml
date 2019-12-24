@@ -1,4 +1,5 @@
 code_url = "https://github.com/uscensusbureau/census2020-das-2010ddp"
+description = "2020 Census 2010 Demonstration Data Products Disclosure Avoidance System"
 git_branch = "master"
 git_url = "git://github.com/uscensusbureau/census2020-das-2010ddp.git"
 name = "census2020-das-2010ddp"

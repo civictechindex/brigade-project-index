@@ -1,4 +1,5 @@
 code_url = "https://github.com/uscensusbureau/census2020-das-e2e"
+description = "Disclosure Avoidance System for the 2020 Census, End-to-End release"
 git_branch = "master"
 git_url = "git://github.com/uscensusbureau/census2020-das-e2e.git"
 name = "census2020-das-e2e"
