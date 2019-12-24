@@ -1,4 +1,5 @@
 code_url = "https://github.com/codefornola/311"
+description = "A project to visualize the data of the NOLA 311 system"
 git_branch = "master"
 git_url = "git://github.com/codefornola/311.git"
 name = "311"

@@ -1,4 +1,5 @@
 code_url = "https://github.com/codefornola/norta-data"
+description = "Code and Documentation for New Orleans RTA data"
 git_branch = "master"
 git_url = "git://github.com/codefornola/norta-data.git"
 name = "norta-data"

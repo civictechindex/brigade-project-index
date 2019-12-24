@@ -1,4 +1,5 @@
 code_url = "https://github.com/codefornola/brigadehub"
+description = "Simplify your CfA brigade's website maintenance"
 git_branch = "edge"
 git_url = "git://github.com/codefornola/brigadehub.git"
 link_url = "http://brigadehub.herokuapp.com/"

@@ -1,4 +1,5 @@
 code_url = "https://github.com/codefornola/address-autocomplete"
+description = "A tool to autocomplete valid New Orleans addresses in html forms"
 git_branch = "master"
 git_url = "git://github.com/codefornola/address-autocomplete.git"
 name = "address-autocomplete"

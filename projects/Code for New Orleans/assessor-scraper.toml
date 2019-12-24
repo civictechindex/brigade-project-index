@@ -1,4 +1,5 @@
 code_url = "https://github.com/codefornola/assessor-scraper"
+description = "A project to scrape the assessor's website and make the data accessible for advanced queries"
 git_branch = "master"
 git_url = "git://github.com/codefornola/assessor-scraper.git"
 name = "assessor-scraper"
