@@ -1,4 +1,5 @@
 code_url = "https://github.com/openkawasaki/wikipediatown"
+description = "ウィキペディア タウンを作成するプロジェクト"
 git_branch = "master"
 git_url = "git://github.com/openkawasaki/wikipediatown.git"
 name = "wikipediatown"
