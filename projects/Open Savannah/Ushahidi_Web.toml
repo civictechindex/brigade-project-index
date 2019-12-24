@@ -1,4 +1,5 @@
 code_url = "https://github.com/opensavannah/Ushahidi_Web"
+description = "Ushahidi v2. A platform that allows information collection, visualization and interactive mapping, allowing anyone to submit information through text messaging using a mobile phone, email or web form."
 git_branch = "develop"
 git_url = "git://github.com/opensavannah/Ushahidi_Web.git"
 link_url = "http://www.ushahidi.com"

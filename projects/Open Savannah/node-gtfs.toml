@@ -1,4 +1,5 @@
 code_url = "https://github.com/opensavannah/node-gtfs"
+description = "GTFS node.js client"
 git_branch = "master"
 git_url = "git://github.com/opensavannah/node-gtfs.git"
 name = "node-gtfs"

@@ -1,4 +1,5 @@
 code_url = "https://github.com/opensavannah/weave-a-dream-grant"
+description = "application information for $2K grant from City of Savannah"
 git_branch = "master"
 git_url = "git://github.com/opensavannah/weave-a-dream-grant.git"
 name = "weave-a-dream-grant"

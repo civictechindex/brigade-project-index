@@ -1,4 +1,5 @@
 code_url = "https://github.com/opensavannah/liberate-the-pdf"
+description = "Pro-hacks for scraping public data stuck in PDFs by Carl V. Lewis of Open Savannah"
 git_branch = "master"
 git_url = "git://github.com/opensavannah/liberate-the-pdf.git"
 name = "liberate-the-pdf"

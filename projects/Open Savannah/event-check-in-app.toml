@@ -1,4 +1,5 @@
 code_url = "https://github.com/opensavannah/event-check-in-app"
+description = "A kiosk app for check-in at meetups and events held. Built originally for The Creative Coast."
 git_branch = "master"
 git_url = "git://github.com/opensavannah/event-check-in-app.git"
 name = "event-check-in-app"

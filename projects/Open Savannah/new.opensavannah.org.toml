@@ -1,4 +1,5 @@
 code_url = "https://github.com/opensavannah/new.opensavannah.org"
+description = "gatsby (react) + airtable + medium + netifly-powered static site for brigade (inspired by planninglabs.nyc and USWDS)"
 git_branch = "master"
 git_url = "git://github.com/opensavannah/new.opensavannah.org.git"
 link_url = "http://new.opensavannah.org"

@@ -1,4 +1,5 @@
 code_url = "https://github.com/opensavannah/instagram-real-time-map"
+description = "Show Instagram images with a certain #hashtag on a map"
 git_branch = "master"
 git_url = "git://github.com/opensavannah/instagram-real-time-map.git"
 name = "instagram-real-time-map"

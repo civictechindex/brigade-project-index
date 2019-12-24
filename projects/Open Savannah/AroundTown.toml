@@ -1,4 +1,5 @@
 code_url = "https://github.com/opensavannah/AroundTown"
+description = "A simple app to help you get around in Savannah, GA"
 git_branch = "master"
 git_url = "git://github.com/opensavannah/AroundTown.git"
 name = "AroundTown"

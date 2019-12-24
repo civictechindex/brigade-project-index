@@ -1,4 +1,5 @@
 code_url = "https://github.com/opensavannah/card-sort-activity-webapp"
+description = "simple react app with kanban-like card that can be rearranged collaboratively for card sorting workshops"
 git_branch = "master"
 git_url = "git://github.com/opensavannah/card-sort-activity-webapp.git"
 name = "card-sort-activity-webapp"

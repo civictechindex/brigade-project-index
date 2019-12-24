@@ -1,4 +1,5 @@
 code_url = "https://github.com/opensavannah/cfapi"
+description = "The Code for America API. Tracks and motivates activity and participation across the civic technology movement."
 git_branch = "master"
 git_url = "git://github.com/opensavannah/cfapi.git"
 link_url = "http://codeforamerica.org/api"

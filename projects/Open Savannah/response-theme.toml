@@ -1,4 +1,5 @@
 code_url = "https://github.com/opensavannah/response-theme"
+description = "Jekyll theme scaffold for deploying CFA disaster response/shelter tracking map"
 git_branch = "master"
 git_url = "git://github.com/opensavannah/response-theme.git"
 name = "response-theme"

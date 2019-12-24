@@ -1,4 +1,5 @@
 code_url = "https://github.com/opensavannah/github-playground"
+description = "A safe place to experiment with git & GitHub in a group setting"
 git_branch = "master"
 git_url = "git://github.com/opensavannah/github-playground.git"
 name = "github-playground"

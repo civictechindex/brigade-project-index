@@ -1,4 +1,5 @@
 code_url = "https://github.com/opensavannah/app.drainsavannah.org"
+description = 'A web app that allows citizens to "adopt" a storm drain in Savannah, Ga.'
 git_branch = "develop"
 git_url = "git://github.com/opensavannah/app.drainsavannah.org.git"
 link_url = "https://drainsavannah.org"

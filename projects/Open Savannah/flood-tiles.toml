@@ -1,4 +1,5 @@
 code_url = "https://github.com/opensavannah/flood-tiles"
+description = "A Web app for simulating simple inundation scenarios on the fly, in any modern browser. "
 git_branch = "master"
 git_url = "git://github.com/opensavannah/flood-tiles.git"
 name = "flood-tiles"

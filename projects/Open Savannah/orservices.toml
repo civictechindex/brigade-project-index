@@ -1,4 +1,5 @@
 code_url = "https://github.com/opensavannah/orservices"
+description = "Laravel/MySQL/Vue.js app that pull data from an AirTable with Open Referral template."
 git_branch = "master"
 git_url = "git://github.com/opensavannah/orservices.git"
 link_url = "http://orservices.sarapis.org"

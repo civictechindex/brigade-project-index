@@ -1,4 +1,5 @@
 code_url = "https://github.com/opensavannah/savannah-aldermanic-lookup-app"
+description = "Enter your address to find out who your aldermanic representative and county commisioner is."
 git_branch = "master"
 git_url = "git://github.com/opensavannah/savannah-aldermanic-lookup-app.git"
 name = "savannah-aldermanic-lookup-app"

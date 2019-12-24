@@ -1,4 +1,5 @@
 code_url = "https://github.com/opensavannah/police-report-data"
+description = "raw spreadsheet police report numerical data by beat"
 git_branch = "master"
 git_url = "git://github.com/opensavannah/police-report-data.git"
 name = "police-report-data"

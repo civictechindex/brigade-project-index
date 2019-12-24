@@ -1,4 +1,5 @@
 code_url = "https://github.com/opensavannah/sav-public-datasets"
+description = "Existing public datasets on the Savannah, Ga MSA"
 git_branch = "master"
 git_url = "git://github.com/opensavannah/sav-public-datasets.git"
 name = "sav-public-datasets"

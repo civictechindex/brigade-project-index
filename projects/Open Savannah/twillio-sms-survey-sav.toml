@@ -1,4 +1,5 @@
 code_url = "https://github.com/opensavannah/twillio-sms-survey-sav"
+description = "Simple sms survey with live responses and cached results. No db needed."
 git_branch = "master"
 git_url = "git://github.com/opensavannah/twillio-sms-survey-sav.git"
 name = "twillio-sms-survey-sav"

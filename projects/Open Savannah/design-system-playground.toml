@@ -1,4 +1,5 @@
 code_url = "https://github.com/opensavannah/design-system-playground"
+description = "Experiment with design systems by updating stateful theme data which controls typography and colors."
 git_branch = "master"
 git_url = "git://github.com/opensavannah/design-system-playground.git"
 link_url = "https://johnpolacek.github.io/design-system-playground/"

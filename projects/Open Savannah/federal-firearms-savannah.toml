@@ -1,4 +1,5 @@
 code_url = "https://github.com/opensavannah/federal-firearms-savannah"
+description = "🔫  Data and interactive map for all 59 federal-firearms license holders in Savannah-Chatham County"
 git_branch = "master"
 git_url = "git://github.com/opensavannah/federal-firearms-savannah.git"
 name = "federal-firearms-savannah"

@@ -1,4 +1,5 @@
 code_url = "https://github.com/opensavannah/neighborhood-association-directory"
+description = "Names and contact information for neighborhood association presidents."
 git_branch = "master"
 git_url = "git://github.com/opensavannah/neighborhood-association-directory.git"
 name = "neighborhood-association-directory"

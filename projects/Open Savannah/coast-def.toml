@@ -1,4 +1,5 @@
 code_url = "https://github.com/opensavannah/coast-def"
+description = "A model which simulates coastal flooding, and evaluated the economic benefits of climate adaptation strategies."
 git_branch = "master"
 git_url = "git://github.com/opensavannah/coast-def.git"
 name = "coast-def"

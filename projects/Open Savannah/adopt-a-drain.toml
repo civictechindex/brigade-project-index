@@ -1,4 +1,5 @@
 code_url = "https://github.com/opensavannah/adopt-a-drain"
+description = "Deploy an Adopt-a-Drain program for the Grand River watershed."
 git_branch = "master"
 git_url = "git://github.com/opensavannah/adopt-a-drain.git"
 link_url = "https://lgrow-staging.herokuapp.com"

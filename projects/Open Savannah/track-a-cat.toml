@@ -1,4 +1,5 @@
 code_url = "https://github.com/opensavannah/track-a-cat"
+description = ":trolleybus: Real-time location-tracking app for Chatham Area Transit's new trolley fleet, with plans to expand eventually to entire bus service area"
 git_branch = "master"
 git_url = "git://github.com/opensavannah/track-a-cat.git"
 link_url = "https://opensavannah.github.io/track-a-cat"

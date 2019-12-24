@@ -1,4 +1,5 @@
 code_url = "https://github.com/opensavannah/savmaps"
+description = ":world_map: WIP leaflet.js with tabletop.js-powered Google Sheet map of social services"
 git_branch = "master"
 git_url = "git://github.com/opensavannah/savmaps.git"
 link_url = "https://opensavannah.github.io/savmaps"

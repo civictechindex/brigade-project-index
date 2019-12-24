@@ -1,4 +1,5 @@
 code_url = "https://github.com/opensavannah/opensav-forum-desktop-app"
+description = "Open Savannah's Discourse Forum (http://forum.opensavannah.org) as a desktop app for Windows and OSX. Compiled with electron."
 git_branch = "master"
 git_url = "git://github.com/opensavannah/opensav-forum-desktop-app.git"
 name = "opensav-forum-desktop-app"

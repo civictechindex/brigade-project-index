@@ -1,4 +1,5 @@
 code_url = "https://github.com/opensavannah/dropbox-paper-docs"
+description = "Documentation from Open Savannah Dropbox Paper folder"
 git_branch = "master"
 git_url = "git://github.com/opensavannah/dropbox-paper-docs.git"
 name = "dropbox-paper-docs"

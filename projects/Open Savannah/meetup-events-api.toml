@@ -1,4 +1,5 @@
 code_url = "https://github.com/opensavannah/meetup-events-api"
+description = "Norfolk Local Developer Meetups"
 git_branch = "master"
 git_url = "git://github.com/opensavannah/meetup-events-api.git"
 link_url = "https://meetup-events-api.herokuapp.com/meetup_events/nldm.html"
