@@ -1,4 +1,5 @@
 code_url = "https://github.com/Open-NC/reentry-open-referral-gql-api"
+description = "GraphQL API and DB creation for the open referral standard"
 git_branch = "master"
 git_url = "git://github.com/Open-NC/reentry-open-referral-gql-api.git"
 name = "reentry-open-referral-gql-api"
