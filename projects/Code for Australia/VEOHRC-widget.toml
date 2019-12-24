@@ -1,4 +1,5 @@
 code_url = "https://github.com/CodeforAustralia/VEOHRC-widget"
+description = "3rd Party Widget for VEOHRC Enquiries"
 git_branch = "master"
 git_url = "git://github.com/CodeforAustralia/VEOHRC-widget.git"
 name = "VEOHRC-widget"

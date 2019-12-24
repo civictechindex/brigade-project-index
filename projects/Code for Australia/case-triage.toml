@@ -1,4 +1,5 @@
 code_url = "https://github.com/CodeforAustralia/case-triage"
+description = "Case triaging"
 git_branch = "master"
 git_url = "git://github.com/CodeforAustralia/case-triage.git"
 name = "case-triage"

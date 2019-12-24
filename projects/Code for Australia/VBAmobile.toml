@@ -1,4 +1,5 @@
 code_url = "https://github.com/CodeforAustralia/VBAmobile"
+description = "Victorian Biodiversity Atlas data collection tool for mobile use."
 git_branch = "master"
 git_url = "git://github.com/CodeforAustralia/VBAmobile.git"
 name = "VBAmobile"

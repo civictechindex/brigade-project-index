@@ -1,4 +1,5 @@
 code_url = "https://github.com/CodeforAustralia/VBAspecies"
+description = "A public API to access the latest version of species list produced and used by VBA (Victoria Biodiversity Atlas)"
 git_branch = "master"
 git_url = "git://github.com/CodeforAustralia/VBAspecies.git"
 link_url = "https://vba.dse.vic.gov.au/"

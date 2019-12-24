@@ -1,4 +1,5 @@
 code_url = "https://github.com/CodeforAustralia/lexiProject"
+description = "This is a new version of Lexi, now developed with Django"
 git_branch = "master"
 git_url = "git://github.com/CodeforAustralia/lexiProject.git"
 name = "lexiProject"

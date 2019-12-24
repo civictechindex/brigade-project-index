@@ -1,4 +1,5 @@
 code_url = "https://github.com/CodeforAustralia/talent"
+description = "An app that showcases talented and influential developers on Github"
 git_branch = "master"
 git_url = "git://github.com/CodeforAustralia/talent.git"
 name = "talent"

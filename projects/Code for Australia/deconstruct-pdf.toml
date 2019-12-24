@@ -1,4 +1,5 @@
 code_url = "https://github.com/CodeforAustralia/deconstruct-pdf"
+description = "Deconstruct pdf files to text and html"
 git_branch = "master"
 git_url = "git://github.com/CodeforAustralia/deconstruct-pdf.git"
 name = "deconstruct-pdf"

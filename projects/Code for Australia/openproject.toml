@@ -1,4 +1,5 @@
 code_url = "https://github.com/CodeforAustralia/openproject"
+description = "OpenProject is a web based project management system built on Ruby on Rails"
 git_branch = "dev"
 git_url = "git://github.com/CodeforAustralia/openproject.git"
 link_url = "https://openproject.org"

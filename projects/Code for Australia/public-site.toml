@@ -1,4 +1,5 @@
 code_url = "https://github.com/CodeforAustralia/public-site"
+description = "Public website for Code for Australia - http://www.codeforaustralia.org"
 git_branch = "master"
 git_url = "git://github.com/CodeforAustralia/public-site.git"
 name = "public-site"

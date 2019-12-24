@@ -1,4 +1,5 @@
 code_url = "https://github.com/CodeforAustralia/dscv"
+description = "DSCV Proof of Concept: online dispute assessment and triage"
 git_branch = "master"
 git_url = "git://github.com/CodeforAustralia/dscv.git"
 name = "dscv"

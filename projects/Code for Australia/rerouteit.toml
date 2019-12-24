@@ -1,4 +1,5 @@
 code_url = "https://github.com/CodeforAustralia/rerouteit"
+description = "Code For Australia's version of the US ReRoute It transport choices application"
 git_branch = "develop"
 git_url = "git://github.com/CodeforAustralia/rerouteit.git"
 name = "rerouteit"

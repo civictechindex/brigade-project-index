@@ -1,4 +1,5 @@
 code_url = "https://github.com/CodeforAustralia/sms-notification-reminder"
+description = "This is a prototype to help automate the process of sending text reminders to people. It connects with Outlook's API and MessageMedia text service. "
 git_branch = "master"
 git_url = "git://github.com/CodeforAustralia/sms-notification-reminder.git"
 link_url = "http://bit.ly/sms-ns"

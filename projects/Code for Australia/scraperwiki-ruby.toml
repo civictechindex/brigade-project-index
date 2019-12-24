@@ -1,4 +1,5 @@
 code_url = "https://github.com/CodeforAustralia/scraperwiki-ruby"
+description = "ScraperWiki Ruby library for scraping and saving data "
 git_branch = "master"
 git_url = "git://github.com/CodeforAustralia/scraperwiki-ruby.git"
 name = "scraperwiki-ruby"
