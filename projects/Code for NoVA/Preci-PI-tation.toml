@@ -1,4 +1,5 @@
 code_url = "https://github.com/sarl-hackerspace/Preci-PI-tation"
+description = "An interdisciplinary project using a Raspberry Pi to automatically water plans."
 git_branch = "master"
 git_url = "git://github.com/sarl-hackerspace/Preci-PI-tation.git"
 name = "Preci-PI-tation"
