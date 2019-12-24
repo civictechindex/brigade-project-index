@@ -1,4 +1,5 @@
 code_url = "https://github.com/g0v/ivod-download-client"
+description = "ivod download client"
 git_branch = "master"
 git_url = "git://github.com/g0v/ivod-download-client.git"
 name = "ivod-download-client"

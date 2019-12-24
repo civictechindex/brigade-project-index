@@ -1,4 +1,5 @@
 code_url = "https://github.com/g0v/dkan-theme"
+description = "Clone of dkan theme for data.g0v.tw usage"
 git_branch = "master"
 git_url = "git://github.com/g0v/dkan-theme.git"
 name = "dkan-theme"

@@ -1,4 +1,5 @@
 code_url = "https://github.com/g0v/hackpad-parser"
+description = "Parse the ideal pool and project information"
 git_branch = "master"
 git_url = "git://github.com/g0v/hackpad-parser.git"
 name = "hackpad-parser"

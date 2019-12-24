@@ -1,4 +1,5 @@
 code_url = "https://github.com/g0v/easycard-donation"
+description = "data source: http://www.easycard.com.tw/news/post-page.aspx?id=1581"
 git_branch = "master"
 git_url = "git://github.com/g0v/easycard-donation.git"
 name = "easycard-donation"

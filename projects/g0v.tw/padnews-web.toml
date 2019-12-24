@@ -1,4 +1,5 @@
 code_url = "https://github.com/g0v/padnews-web"
+description = "A web client for padnews."
 git_branch = "master"
 git_url = "git://github.com/g0v/padnews-web.git"
 name = "padnews-web"

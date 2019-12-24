@@ -1,4 +1,5 @@
 code_url = "https://github.com/g0v/g0v-shadow"
+description = "shadow website for all gov.tw website"
 git_branch = "master"
 git_url = "git://github.com/g0v/g0v-shadow.git"
 name = "g0v-shadow"

@@ -1,4 +1,5 @@
 code_url = "https://github.com/g0v/election-village"
+description = "crawler for 2010 borough chief election candidate list and result"
 git_branch = "master"
 git_url = "git://github.com/g0v/election-village.git"
 name = "election-village"

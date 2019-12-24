@@ -1,4 +1,5 @@
 code_url = "https://github.com/g0v/dkan-core"
+description = "data.g0v.tw use DKAN. dkan-core doesn't include any 3-party module and drupal in code."
 git_branch = "7.x-1.x"
 git_url = "git://github.com/g0v/dkan-core.git"
 link_url = "http://data.g0v.tw"

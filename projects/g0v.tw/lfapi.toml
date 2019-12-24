@@ -1,4 +1,5 @@
 code_url = "https://github.com/g0v/lfapi"
+description = "mirror of http://www.public-software-group.org/mercurial/lfapi"
 git_branch = "master"
 git_url = "git://github.com/g0v/lfapi.git"
 name = "lfapi"

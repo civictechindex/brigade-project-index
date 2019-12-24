@@ -1,4 +1,5 @@
 code_url = "https://github.com/g0v/ly-committee"
+description = "Name lists of legislative committee members."
 git_branch = "master"
 git_url = "git://github.com/g0v/ly-committee.git"
 name = "ly-committee"

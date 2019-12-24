@@ -1,4 +1,5 @@
 code_url = "https://github.com/g0v/aqx-graphite"
+description = "A processor that sends AQX measures to graphite"
 git_branch = "master"
 git_url = "git://github.com/g0v/aqx-graphite.git"
 name = "aqx-graphite"

@@ -1,4 +1,5 @@
 code_url = "https://github.com/g0v/tw-rental-house-data"
+description = "Collection of Taiwan Rental House Data from Public Website"
 git_branch = "master"
 git_url = "git://github.com/g0v/tw-rental-house-data.git"
 name = "tw-rental-house-data"

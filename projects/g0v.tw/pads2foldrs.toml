@@ -1,4 +1,5 @@
 code_url = "https://github.com/g0v/pads2foldrs"
+description = "Extract hackfoldr links from g0v hackpads."
 git_branch = "master"
 git_url = "git://github.com/g0v/pads2foldrs.git"
 name = "pads2foldrs"

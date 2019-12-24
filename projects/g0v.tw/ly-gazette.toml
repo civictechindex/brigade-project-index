@@ -1,4 +1,5 @@
 code_url = "https://github.com/g0v/ly-gazette"
+description = "parsed gazettes"
 git_branch = "master"
 git_url = "git://github.com/g0v/ly-gazette.git"
 name = "ly-gazette"

@@ -1,4 +1,5 @@
 code_url = "https://github.com/g0v/conference-map-message-server"
+description = "socket.io server for conference-map (我的活動地圖)"
 git_branch = "master"
 git_url = "git://github.com/g0v/conference-map-message-server.git"
 name = "conference-map-message-server"

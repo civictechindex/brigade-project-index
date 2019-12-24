@@ -1,4 +1,5 @@
 code_url = "https://github.com/g0v/tcbus"
+description = "臺中市公車地圖 (採用 leaflet 連 OSM 底圖)"
 git_branch = "gh-pages"
 git_url = "git://github.com/g0v/tcbus.git"
 name = "tcbus"

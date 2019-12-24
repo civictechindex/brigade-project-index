@@ -1,4 +1,5 @@
 code_url = "https://github.com/g0v/g0v-paradise"
+description = "vagrant settings for g0v box"
 git_branch = "gh-pages"
 git_url = "git://github.com/g0v/g0v-paradise.git"
 name = "g0v-paradise"

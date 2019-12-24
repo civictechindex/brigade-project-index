@@ -1,4 +1,5 @@
 code_url = "https://github.com/g0v/moedict-data-twblg"
+description = "臺灣閩南語常用詞辭典 資料檔"
 git_branch = "master"
 git_url = "git://github.com/g0v/moedict-data-twblg.git"
 name = "moedict-data-twblg"

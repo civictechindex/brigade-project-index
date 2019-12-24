@@ -1,4 +1,5 @@
 code_url = "https://github.com/g0v/potluckmap"
+description = "create a collaborative osm map that can have multiple sources such as url's of remote geojson/gpx/csv(spreadsheet) pages, each of which can be independently edited/updated."
 git_branch = "gh-pages"
 git_url = "git://github.com/g0v/potluckmap.git"
 name = "potluckmap"

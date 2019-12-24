@@ -1,4 +1,5 @@
 code_url = "https://github.com/g0v/mediawiki"
+description = "The collaborative editing software that runs Wikipedia. This is a mirror from gerrit.wikimedia.org. See https://www.mediawiki.org/wiki/Developer_access for contributing."
 git_branch = "master"
 git_url = "git://github.com/g0v/mediawiki.git"
 link_url = "https://www.mediawiki.org"

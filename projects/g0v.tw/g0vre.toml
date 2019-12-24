@@ -1,4 +1,5 @@
 code_url = "https://github.com/g0v/g0vre"
+description = "Generic Reader/Extractor service for *.gov.tw URLs"
 git_branch = "master"
 git_url = "git://github.com/g0v/g0vre.git"
 name = "g0vre"

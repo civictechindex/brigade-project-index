@@ -1,4 +1,5 @@
 code_url = "https://github.com/g0v/addressbook-data-converter"
+description = "addressbook data converter - convert Taiwan government open contact data in popolized format"
 git_branch = "master"
 git_url = "git://github.com/g0v/addressbook-data-converter.git"
 name = "addressbook-data-converter"

@@ -1,4 +1,5 @@
 code_url = "https://github.com/g0v/twly_crawler"
+description = "Crawl Taiwan Congress Data by Scrapy"
 git_branch = "master"
 git_url = "git://github.com/g0v/twly_crawler.git"
 name = "twly_crawler"

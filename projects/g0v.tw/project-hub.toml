@@ -1,4 +1,5 @@
 code_url = "https://github.com/g0v/project-hub"
+description = "project hub (read only version)"
 git_branch = "gh-pages"
 git_url = "git://github.com/g0v/project-hub.git"
 name = "project-hub"

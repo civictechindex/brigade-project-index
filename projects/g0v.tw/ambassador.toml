@@ -1,4 +1,5 @@
 code_url = "https://github.com/g0v/ambassador"
+description = "Yet another g0v project hub."
 git_branch = "master"
 git_url = "git://github.com/g0v/ambassador.git"
 name = "ambassador"

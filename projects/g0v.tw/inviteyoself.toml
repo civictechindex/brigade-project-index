@@ -1,4 +1,5 @@
 code_url = "https://github.com/g0v/inviteyoself"
+description = "Allow people to invite themselves to your slack team."
 git_branch = "prod"
 git_url = "git://github.com/g0v/inviteyoself.git"
 link_url = "http://join.g0v.today"

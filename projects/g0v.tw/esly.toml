@@ -1,4 +1,5 @@
 code_url = "https://github.com/g0v/esly"
+description = "Some play to index parsed ly gazette in ES"
 git_branch = "master"
 git_url = "git://github.com/g0v/esly.git"
 name = "esly"

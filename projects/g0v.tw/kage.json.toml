@@ -1,4 +1,5 @@
 code_url = "https://github.com/g0v/kage.json"
+description = "parse KAGE format to JSON for future use"
 git_branch = "master"
 git_url = "git://github.com/g0v/kage.json.git"
 name = "kage.json"

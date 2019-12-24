@@ -1,4 +1,5 @@
 code_url = "https://github.com/g0v/poll"
+description = "2014全臺投開票所"
 git_branch = "develop"
 git_url = "git://github.com/g0v/poll.git"
 name = "poll"

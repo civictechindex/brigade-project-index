@@ -1,4 +1,5 @@
 code_url = "https://github.com/g0v/b0t-hubot"
+description = "g0v irc robot by hubot (http://hubot.github.com/)"
 git_branch = "master"
 git_url = "git://github.com/g0v/b0t-hubot.git"
 name = "b0t-hubot"

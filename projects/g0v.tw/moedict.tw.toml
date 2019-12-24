@@ -1,4 +1,5 @@
 code_url = "https://github.com/g0v/moedict.tw"
+description = "Static API serving for moedict"
 git_branch = "master"
 git_url = "git://github.com/g0v/moedict.tw.git"
 name = "moedict.tw"

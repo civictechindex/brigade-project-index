@@ -1,4 +1,5 @@
 code_url = "https://github.com/g0v/ppt-commitment-parser"
+description = "將施政報告或施政綱要轉換成 CSV 的工具。"
 git_branch = "master"
 git_url = "git://github.com/g0v/ppt-commitment-parser.git"
 name = "ppt-commitment-parser"

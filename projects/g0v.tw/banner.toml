@@ -1,4 +1,5 @@
 code_url = "https://github.com/g0v/banner"
+description = "Code for a header that states that a website was made by the g0v team. "
 git_branch = "master"
 git_url = "git://github.com/g0v/banner.git"
 name = "banner"

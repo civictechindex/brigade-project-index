@@ -1,4 +1,5 @@
 code_url = "https://github.com/g0v/lfrest"
+description = "Reimplementation of lfapi with pgrest"
 git_branch = "master"
 git_url = "git://github.com/g0v/lfrest.git"
 name = "lfrest"

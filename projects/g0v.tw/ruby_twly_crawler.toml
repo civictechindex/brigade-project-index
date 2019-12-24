@@ -1,4 +1,5 @@
 code_url = "https://github.com/g0v/ruby_twly_crawler"
+description = "立法院爬蟲，抓取立委資訊並可隨屆次分割。"
 git_branch = "master"
 git_url = "git://github.com/g0v/ruby_twly_crawler.git"
 name = "ruby_twly_crawler"

@@ -1,4 +1,5 @@
 code_url = "https://github.com/g0v/congress-vote-analytics"
+description = "選票成份分析網站"
 git_branch = "master"
 git_url = "git://github.com/g0v/congress-vote-analytics.git"
 name = "congress-vote-analytics"

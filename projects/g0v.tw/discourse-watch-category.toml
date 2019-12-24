@@ -1,4 +1,5 @@
 code_url = "https://github.com/g0v/discourse-watch-category"
+description = "Watches a category for all the users in a particular group"
 git_branch = "master"
 git_url = "git://github.com/g0v/discourse-watch-category.git"
 name = "discourse-watch-category"

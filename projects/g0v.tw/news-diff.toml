@@ -1,4 +1,5 @@
 code_url = "https://github.com/g0v/news-diff"
+description = "A news crawler, parser and diff engine"
 git_branch = "master"
 git_url = "git://github.com/g0v/news-diff.git"
 name = "news-diff"

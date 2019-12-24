@@ -1,4 +1,5 @@
 code_url = "https://github.com/g0v/twbot-data"
+description = "BOT/BTO/RO/OT/BOO/Other cases data retrieved from http://http://ppp.pcc.gov.tw/"
 git_branch = "master"
 git_url = "git://github.com/g0v/twbot-data.git"
 name = "twbot-data"

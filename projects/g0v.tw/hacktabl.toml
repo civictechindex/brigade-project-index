@@ -1,4 +1,5 @@
 code_url = "https://github.com/g0v/hacktabl"
+description = "Comparison table generator, using Ethercalc and Google Doc as the content backend."
 git_branch = "dev"
 git_url = "git://github.com/g0v/hacktabl.git"
 link_url = "http://hacktabl.org"

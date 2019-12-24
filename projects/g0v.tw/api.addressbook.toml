@@ -1,4 +1,5 @@
 code_url = "https://github.com/g0v/api.addressbook"
+description = "Taiwan government open contact server backend"
 git_branch = "master"
 git_url = "git://github.com/g0v/api.addressbook.git"
 name = "api.addressbook"
