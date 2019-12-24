@@ -1,4 +1,5 @@
 code_url = "https://github.com/opencleveland/python-legistar-scraper"
+description = "Scrapes municipal data from Legistar websites"
 git_branch = "master"
 git_url = "git://github.com/opencleveland/python-legistar-scraper.git"
 name = "python-legistar-scraper"

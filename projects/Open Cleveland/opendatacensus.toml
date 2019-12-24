@@ -1,4 +1,5 @@
 code_url = "https://github.com/opencleveland/opendatacensus"
+description = "Open Data Census website and dashboard"
 git_branch = "master"
 git_url = "git://github.com/opencleveland/opendatacensus.git"
 link_url = "http://census.okfn.org/"

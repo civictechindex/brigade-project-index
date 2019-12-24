@@ -1,4 +1,5 @@
 code_url = "https://github.com/opencleveland/cartodb-tutorial"
+description = "An introduction to web-mapping using CartoDB"
 git_branch = "gh-pages"
 git_url = "git://github.com/opencleveland/cartodb-tutorial.git"
 name = "cartodb-tutorial"
