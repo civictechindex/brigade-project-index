@@ -1,4 +1,5 @@
 code_url = "https://github.com/codefortulsa/open-search-map"
+description = "This is an HTML mobile app for adding and viewing search and rescue activities."
 git_branch = "master"
 git_url = "git://github.com/codefortulsa/open-search-map.git"
 name = "open-search-map"

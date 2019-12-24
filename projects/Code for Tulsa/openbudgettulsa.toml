@@ -1,4 +1,5 @@
 code_url = "https://github.com/codefortulsa/openbudgettulsa"
+description = "Visualizations of Tulsa's budget data, and explanations about the budget process, adopted from Oklahoma City's Open Budget project"
 git_branch = "master"
 git_url = "git://github.com/codefortulsa/openbudgettulsa.git"
 link_url = "https://tulsa-openbudget.herokuapp.com"

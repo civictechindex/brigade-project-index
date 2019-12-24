@@ -1,4 +1,5 @@
 code_url = "https://github.com/codefortulsa/localtour"
+description = "HTML5 Mobile web-app for displaying information from a Localwiki deployment as an tour."
 git_branch = "master"
 git_url = "git://github.com/codefortulsa/localtour.git"
 name = "localtour"

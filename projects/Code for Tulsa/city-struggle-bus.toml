@@ -1,4 +1,5 @@
 code_url = "https://github.com/codefortulsa/city-struggle-bus"
+description = "An easy-to-use, custom search engine for local governance issues. When a city councilor is considering an issue, they need to know what other cities are doing about it, so they can make informed decisions."
 git_branch = "master"
 git_url = "git://github.com/codefortulsa/city-struggle-bus.git"
 link_url = "https://city-struggle-bus.herokuapp.com/"

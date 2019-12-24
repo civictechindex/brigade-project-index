@@ -1,4 +1,5 @@
 code_url = "https://github.com/codefortulsa/hack-lab-seed"
+description = "Starter project for hack lab classes"
 git_branch = "master"
 git_url = "git://github.com/codefortulsa/hack-lab-seed.git"
 name = "hack-lab-seed"

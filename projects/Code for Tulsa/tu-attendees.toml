@@ -1,4 +1,5 @@
 code_url = "https://github.com/codefortulsa/tu-attendees"
+description = "People who attended our GitHub class for TU"
 git_branch = "master"
 git_url = "git://github.com/codefortulsa/tu-attendees.git"
 name = "tu-attendees"

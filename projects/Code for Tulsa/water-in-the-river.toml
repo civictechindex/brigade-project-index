@@ -1,4 +1,5 @@
 code_url = "https://github.com/codefortulsa/water-in-the-river"
+description = "A simple app that checks data from USGS, USACE, and SWPA to determine if (and when) there is water in the Tulsa Riverside stretch of the Arkansas River."
 git_branch = "master"
 git_url = "git://github.com/codefortulsa/water-in-the-river.git"
 link_url = "http://istherewaterintheriver.com"

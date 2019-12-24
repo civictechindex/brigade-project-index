@@ -1,4 +1,5 @@
 code_url = "https://github.com/codefortulsa/oscn-notebooks"
+description = "A collection of notebooks for researching oscn.net"
 git_branch = "master"
 git_url = "git://github.com/codefortulsa/oscn-notebooks.git"
 name = "oscn-notebooks"

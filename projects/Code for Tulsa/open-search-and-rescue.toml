@@ -1,4 +1,5 @@
 code_url = "https://github.com/codefortulsa/open-search-and-rescue"
+description = "Open Search and Rescue is an application to help Search & Rescue teams organize, deploy, and operate."
 git_branch = "master"
 git_url = "git://github.com/codefortulsa/open-search-and-rescue.git"
 name = "open-search-and-rescue"

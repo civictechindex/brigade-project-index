@@ -1,4 +1,5 @@
 code_url = "https://github.com/codefortulsa/oscn-case-api"
+description = "An API for getting Oklahoma State Court Network data as JSON."
 git_branch = "master"
 git_url = "git://github.com/codefortulsa/oscn-case-api.git"
 name = "oscn-case-api"

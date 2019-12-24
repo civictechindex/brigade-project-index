@@ -1,4 +1,5 @@
 code_url = "https://github.com/codefortulsa/policies"
+description = "Various policies we are working on."
 git_branch = "master"
 git_url = "git://github.com/codefortulsa/policies.git"
 name = "policies"

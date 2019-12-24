@@ -1,4 +1,5 @@
 code_url = "https://github.com/codefortulsa/oscn"
+description = "Python utilities for scraping OSCN cases."
 git_branch = "master"
 git_url = "git://github.com/codefortulsa/oscn.git"
 name = "oscn"

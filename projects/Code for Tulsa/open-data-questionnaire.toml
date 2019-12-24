@@ -1,4 +1,5 @@
 code_url = "https://github.com/codefortulsa/open-data-questionnaire"
+description = "Dervied from 2013 Minneapolis Open Data Questionnaire Press Release"
 git_branch = "master"
 git_url = "git://github.com/codefortulsa/open-data-questionnaire.git"
 name = "open-data-questionnaire"
