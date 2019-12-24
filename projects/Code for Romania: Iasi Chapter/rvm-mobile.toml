@@ -1,4 +1,5 @@
 code_url = "https://github.com/code4romania/rvm-mobile"
+description = "Project for managing resources and volunteers for DSU (Departamentul pt Situatii de Urgenta)"
 git_branch = "master"
 git_url = "git://github.com/code4romania/rvm-mobile.git"
 name = "rvm-mobile"

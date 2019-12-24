@@ -1,4 +1,5 @@
 code_url = "https://github.com/code4romania/monitorizare-vot-android"
+description = "Android election monitoring app - a mobile app through which commissioned observers can easily report back to their respective NGOs throughout the election day"
 git_branch = "develop"
 git_url = "git://github.com/code4romania/monitorizare-vot-android.git"
 link_url = "https://votemonitor.org/"

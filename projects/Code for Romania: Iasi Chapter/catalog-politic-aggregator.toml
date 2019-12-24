@@ -1,4 +1,5 @@
 code_url = "https://github.com/code4romania/catalog-politic-aggregator"
+description = "Data aggregator for composing profiles of politicians"
 git_branch = "develop"
 git_url = "git://github.com/code4romania/catalog-politic-aggregator.git"
 link_url = "http://catalogpolitic.ro"
