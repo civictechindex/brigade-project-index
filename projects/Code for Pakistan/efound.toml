@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforpakistan/efound"
+description = "efound provides services for mediation between owner of a good and the one who aims to trace this ownership. It allows the user to scan QR codes, barcodes, NFC tag or an RFID tag and read or write information against the tag ID in the central database."
 git_branch = "master"
 git_url = "git://github.com/codeforpakistan/efound.git"
 link_url = "http://efound.info"

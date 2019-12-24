@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforpakistan/Missing-Persons-Portal"
+description = "A web portal where people can add the information of any missing persons and can also search the database of missing persons using their identifying features and information."
 git_branch = "master"
 git_url = "git://github.com/codeforpakistan/Missing-Persons-Portal.git"
 name = "Missing-Persons-Portal"

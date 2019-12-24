@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforpakistan/EasyDrive"
+description = "A community based traffic congestion reporting system using GIS. "
 git_branch = "master"
 git_url = "git://github.com/codeforpakistan/EasyDrive.git"
 name = "EasyDrive"

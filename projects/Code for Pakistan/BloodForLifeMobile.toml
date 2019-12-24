@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforpakistan/BloodForLifeMobile"
+description = "Mobile port for BloodForLife"
 git_branch = "master"
 git_url = "git://github.com/codeforpakistan/BloodForLifeMobile.git"
 name = "BloodForLifeMobile"

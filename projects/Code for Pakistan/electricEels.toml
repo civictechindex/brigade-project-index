@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforpakistan/electricEels"
+description = "Google Maps based power outage visualizer in Ionic - created for the NIC's SDG Hackathon 2017"
 git_branch = "master"
 git_url = "git://github.com/codeforpakistan/electricEels.git"
 name = "electricEels"
