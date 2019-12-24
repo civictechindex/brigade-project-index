@@ -1,4 +1,5 @@
 code_url = "https://github.com/codefordenver/Comrad-cloud-data"
+description = "Cloud scripts that aggregate and distribute popularity data to all instances of Comrad. Will be used in the future to push regular updates to the music library database from public sources like MusicBrainz."
 git_branch = "master"
 git_url = "git://github.com/codefordenver/Comrad-cloud-data.git"
 name = "Comrad-cloud-data"

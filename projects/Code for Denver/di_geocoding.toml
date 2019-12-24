@@ -1,4 +1,5 @@
 code_url = "https://github.com/codefordenver/di_geocoding"
+description = "Data Initiative Online Geocoding Tool"
 git_branch = "master"
 git_url = "git://github.com/codefordenver/di_geocoding.git"
 name = "di_geocoding"

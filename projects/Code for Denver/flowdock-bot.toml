@@ -1,4 +1,5 @@
 code_url = "https://github.com/codefordenver/flowdock-bot"
+description = "a flowdock-bot with onboarding "
 git_branch = "master"
 git_url = "git://github.com/codefordenver/flowdock-bot.git"
 name = "flowdock-bot"

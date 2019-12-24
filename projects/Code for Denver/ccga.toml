@@ -1,4 +1,5 @@
 code_url = "https://github.com/codefordenver/ccga"
+description = "Compendium of Cancer Genome Aberrations"
 git_branch = "master"
 git_url = "git://github.com/codefordenver/ccga.git"
 name = "ccga"

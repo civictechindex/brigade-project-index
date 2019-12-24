@@ -1,4 +1,5 @@
 code_url = "https://github.com/codefordenver/members"
+description = "Online portal for Code for Denver members"
 git_branch = "master"
 git_url = "git://github.com/codefordenver/members.git"
 link_url = "https://members.codefordenver.org"

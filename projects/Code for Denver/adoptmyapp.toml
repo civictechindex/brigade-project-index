@@ -1,4 +1,5 @@
 code_url = "https://github.com/codefordenver/adoptmyapp"
+description = "Adopt My App is an app that helps people share and rescue abandoned apps and hackathon projects"
 git_branch = "master"
 git_url = "git://github.com/codefordenver/adoptmyapp.git"
 name = "adoptmyapp"

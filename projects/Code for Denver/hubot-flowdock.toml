@@ -1,4 +1,5 @@
 code_url = "https://github.com/codefordenver/hubot-flowdock"
+description = "Flowdock adapter for Hubot chat bot"
 git_branch = "master"
 git_url = "git://github.com/codefordenver/hubot-flowdock.git"
 name = "hubot-flowdock"

@@ -1,4 +1,5 @@
 code_url = "https://github.com/codefordenver/accident-hotspotter"
+description = "Visualize accident prone areas along your route in Denver Colorado"
 git_branch = "master"
 git_url = "git://github.com/codefordenver/accident-hotspotter.git"
 name = "accident-hotspotter"

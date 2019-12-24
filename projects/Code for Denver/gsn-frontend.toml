@@ -1,4 +1,5 @@
 code_url = "https://github.com/codefordenver/gsn-frontend"
+description = "Frontend repo for Generation Schools Network project."
 git_branch = "master"
 git_url = "git://github.com/codefordenver/gsn-frontend.git"
 name = "gsn-frontend"

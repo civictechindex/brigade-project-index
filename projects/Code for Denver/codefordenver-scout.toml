@@ -1,4 +1,5 @@
 code_url = "https://github.com/codefordenver/codefordenver-scout"
+description = "Code For Denver's Discord Bot"
 git_branch = "master"
 git_url = "git://github.com/codefordenver/codefordenver-scout.git"
 name = "codefordenver-scout"

@@ -1,4 +1,5 @@
 code_url = "https://github.com/codefordenver/project-defaults"
+description = "A series of default files for new project repos"
 git_branch = "master"
 git_url = "git://github.com/codefordenver/project-defaults.git"
 name = "project-defaults"

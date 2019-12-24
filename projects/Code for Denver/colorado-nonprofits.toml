@@ -1,4 +1,5 @@
 code_url = "https://github.com/codefordenver/colorado-nonprofits"
+description = "Info on nonprofits in colorado"
 git_branch = "master"
 git_url = "git://github.com/codefordenver/colorado-nonprofits.git"
 name = "colorado-nonprofits"

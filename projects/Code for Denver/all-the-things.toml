@@ -1,4 +1,5 @@
 code_url = "https://github.com/codefordenver/all-the-things"
+description = "Waffle board for tracking all the CfD work in progress"
 git_branch = "master"
 git_url = "git://github.com/codefordenver/all-the-things.git"
 name = "all-the-things"

@@ -1,4 +1,5 @@
 code_url = "https://github.com/codefordenver/Comrad"
+description = "Open-source web application for use by community radio stations "
 git_branch = "development"
 git_url = "git://github.com/codefordenver/Comrad.git"
 name = "Comrad"
