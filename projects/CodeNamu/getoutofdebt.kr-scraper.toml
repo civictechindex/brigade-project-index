@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforseoul/getoutofdebt.kr-scraper"
+description = "우리 지역 채무 탈출 데이터 스크래이핑 코드"
 git_branch = "master"
 git_url = "git://github.com/codeforseoul/getoutofdebt.kr-scraper.git"
 name = "getoutofdebt.kr-scraper"

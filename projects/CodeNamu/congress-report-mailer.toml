@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforseoul/congress-report-mailer"
+description = "Congress Report 프로젝트 메일러 소스코드"
 git_branch = "master"
 git_url = "git://github.com/codeforseoul/congress-report-mailer.git"
 name = "congress-report-mailer"

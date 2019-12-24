@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforseoul/congress-report-web"
+description = "Congress Report 웹페이지 소스코드"
 git_branch = "develop"
 git_url = "git://github.com/codeforseoul/congress-report-web.git"
 name = "congress-report-web"

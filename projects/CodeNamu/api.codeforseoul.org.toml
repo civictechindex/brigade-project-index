@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforseoul/api.codeforseoul.org"
+description = "Restful API managed by Code for Seoul"
 git_branch = "master"
 git_url = "git://github.com/codeforseoul/api.codeforseoul.org.git"
 name = "api.codeforseoul.org"

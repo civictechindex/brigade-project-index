@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforseoul/FdAS"
+description = "코드포서울 노고팀의 시민편의 프로젝트입니다. Service about welfare of Seoul city, collecting various data and providing welfare services of one's own need, not everything."
 git_branch = "develop"
 git_url = "git://github.com/codeforseoul/FdAS.git"
 link_url = "welfare4u.com"

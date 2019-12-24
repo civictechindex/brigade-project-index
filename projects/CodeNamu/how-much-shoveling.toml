@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforseoul/how-much-shoveling"
+description = "정부의 재정데이터중 건설관련 비용을 지도상에 표시하여 보다 쉽게 건설관련 비용의 흐름과 유용성을 보여줍니다."
 git_branch = "master"
 git_url = "git://github.com/codeforseoul/how-much-shoveling.git"
 link_url = "http://codeforseoul.org/how-much-shoveling/"
