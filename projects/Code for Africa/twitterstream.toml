@@ -1,4 +1,5 @@
 code_url = "https://github.com/CodeForAfrica/twitterstream"
+description = "Stream content from a #hashtag into a csv / spreadsheet"
 git_branch = "master"
 git_url = "git://github.com/CodeForAfrica/twitterstream.git"
 link_url = "https://twitterstream.codeforafrica.tech/"

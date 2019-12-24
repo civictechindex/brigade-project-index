@@ -1,4 +1,5 @@
 code_url = "https://github.com/CodeForAfrica/aleph_crawlers"
+description = "Crawlers for the Aleph document service"
 git_branch = "master"
 git_url = "git://github.com/CodeForAfrica/aleph_crawlers.git"
 name = "aleph_crawlers"

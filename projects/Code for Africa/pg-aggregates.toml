@@ -1,4 +1,5 @@
 code_url = "https://github.com/CodeForAfrica/pg-aggregates"
+description = "Aggregates for PostGraphile Relay connections"
 git_branch = "master"
 git_url = "git://github.com/CodeForAfrica/pg-aggregates.git"
 name = "pg-aggregates"

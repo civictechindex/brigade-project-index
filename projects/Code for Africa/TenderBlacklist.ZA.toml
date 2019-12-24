@@ -1,4 +1,5 @@
 code_url = "https://github.com/CodeForAfrica/TenderBlacklist.ZA"
+description = "Search companies blacklisted by National Treasury in South Africa. Accessible to https://tenderblacklist-za.codeforafrica.org/"
 git_branch = "master"
 git_url = "git://github.com/CodeForAfrica/TenderBlacklist.ZA.git"
 link_url = "https://tenderblacklist-za.codeforafrica.org/"

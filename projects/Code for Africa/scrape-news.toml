@@ -1,4 +1,5 @@
 code_url = "https://github.com/CodeForAfrica/scrape-news"
+description = "Scrape South African news"
 git_branch = "master"
 git_url = "git://github.com/CodeForAfrica/scrape-news.git"
 name = "scrape-news"
