@@ -1,4 +1,5 @@
 code_url = "https://github.com/openzagreb/zagreb-datasets"
+description = "All datasets we have for City of Zagreb"
 git_branch = "master"
 git_url = "git://github.com/openzagreb/zagreb-datasets.git"
 name = "zagreb-datasets"
