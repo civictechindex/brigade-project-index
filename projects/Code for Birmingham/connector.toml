@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforbirmingham/connector"
+description = "A management tool for the brigade's projects"
 git_branch = "master"
 git_url = "git://github.com/codeforbirmingham/connector.git"
 name = "connector"

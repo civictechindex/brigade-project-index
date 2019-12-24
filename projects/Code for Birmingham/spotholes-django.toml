@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforbirmingham/spotholes-django"
+description = "The spotholes api retooled in python"
 git_branch = "master"
 git_url = "git://github.com/codeforbirmingham/spotholes-django.git"
 name = "spotholes-django"

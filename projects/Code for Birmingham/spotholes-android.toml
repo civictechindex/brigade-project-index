@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforbirmingham/spotholes-android"
+description = "Pothole Reporting app for Code for Birmingham"
 git_branch = "development"
 git_url = "git://github.com/codeforbirmingham/spotholes-android.git"
 name = "spotholes-android"

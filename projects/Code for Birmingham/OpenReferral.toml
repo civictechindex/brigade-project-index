@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforbirmingham/OpenReferral"
+description = "OpenReferral - a human services data interchange specification"
 git_branch = "master"
 git_url = "git://github.com/codeforbirmingham/OpenReferral.git"
 name = "OpenReferral"

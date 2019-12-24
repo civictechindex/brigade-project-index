@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforbirmingham/spotholes"
+description = "Rails backend with administrative interface and pothole reporting API."
 git_branch = "development"
 git_url = "git://github.com/codeforbirmingham/spotholes.git"
 name = "spotholes"
