@@ -1,4 +1,5 @@
 code_url = "https://github.com/sfbrigade/twonjob"
+description = "server for pulling and archiving tweets"
 git_branch = "master"
 git_url = "git://github.com/sfbrigade/twonjob.git"
 name = "twonjob"

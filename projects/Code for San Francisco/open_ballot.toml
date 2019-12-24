@@ -1,4 +1,5 @@
 code_url = "https://github.com/sfbrigade/open_ballot"
+description = "An educational tool around ballot measures"
 git_branch = "master"
 git_url = "git://github.com/sfbrigade/open_ballot.git"
 name = "open_ballot"

@@ -1,4 +1,5 @@
 code_url = "https://github.com/sfbrigade/adopt-a-drain"
+description = 'A web application that allows citizens to "adopt" a storm drain in San Francisco. In use, and in development at other brigades. Looking for a maintainer or someone interested in developing further in collaboration with others across the country.'
 git_branch = "master"
 git_url = "git://github.com/sfbrigade/adopt-a-drain.git"
 link_url = "http://adoptadrain.sfwater.org/"

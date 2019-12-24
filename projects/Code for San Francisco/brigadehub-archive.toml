@@ -1,4 +1,5 @@
 code_url = "https://github.com/sfbrigade/brigadehub-archive"
+description = "Static snapshot of Brigadehub Code for San Francisco site"
 git_branch = "gh-pages"
 git_url = "git://github.com/sfbrigade/brigadehub-archive.git"
 name = "brigadehub-archive"

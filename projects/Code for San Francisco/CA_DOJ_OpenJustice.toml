@@ -1,4 +1,5 @@
 code_url = "https://github.com/sfbrigade/CA_DOJ_OpenJustice"
+description = "Statistical hypothesis tests and predictive modeling for the CA DOJ's OpenJustice project."
 git_branch = "master"
 git_url = "git://github.com/sfbrigade/CA_DOJ_OpenJustice.git"
 name = "CA_DOJ_OpenJustice"

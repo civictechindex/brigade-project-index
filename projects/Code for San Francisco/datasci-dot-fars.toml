@@ -1,4 +1,5 @@
 code_url = "https://github.com/sfbrigade/datasci-dot-fars"
+description = "Understanding the Department of Transportation FARS dataset"
 git_branch = "master"
 git_url = "git://github.com/sfbrigade/datasci-dot-fars.git"
 name = "datasci-dot-fars"

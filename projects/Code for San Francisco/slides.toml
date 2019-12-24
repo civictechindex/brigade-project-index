@@ -1,4 +1,5 @@
 code_url = "https://github.com/sfbrigade/slides"
+description = "A site that scans a public Google Drive folder for presentations and showcases them for future reference"
 git_branch = "master"
 git_url = "git://github.com/sfbrigade/slides.git"
 name = "slides"

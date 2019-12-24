@@ -1,4 +1,5 @@
 code_url = "https://github.com/sfbrigade/phosphorus"
+description = "Http API and web interface for dedupe"
 git_branch = "master"
 git_url = "git://github.com/sfbrigade/phosphorus.git"
 name = "phosphorus"

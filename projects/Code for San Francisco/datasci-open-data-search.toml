@@ -1,4 +1,5 @@
 code_url = "https://github.com/sfbrigade/datasci-open-data-search"
+description = "This project aims to use analytics of search text to improve the user experience at https://data.sfgov.org/"
 git_branch = "master"
 git_url = "git://github.com/sfbrigade/datasci-open-data-search.git"
 name = "datasci-open-data-search"

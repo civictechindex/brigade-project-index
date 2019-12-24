@@ -1,4 +1,5 @@
 code_url = "https://github.com/sfbrigade/datasci-SF-addresses"
+description = "Internal address validation tool for use by the brigade, targeted at the city of San Francisco"
 git_branch = "master"
 git_url = "git://github.com/sfbrigade/datasci-SF-addresses.git"
 name = "datasci-SF-addresses"

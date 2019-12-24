@@ -1,4 +1,5 @@
 code_url = "https://github.com/sfbrigade/fund-site"
+description = "Site for Code for SF funding information"
 git_branch = "gh-pages"
 git_url = "git://github.com/sfbrigade/fund-site.git"
 name = "fund-site"

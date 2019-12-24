@@ -1,4 +1,5 @@
 code_url = "https://github.com/sfbrigade/sf-crime-data"
+description = "Search SFPD incidents from SF OpenData with focus on campus safety."
 git_branch = "gh-pages"
 git_url = "git://github.com/sfbrigade/sf-crime-data.git"
 link_url = "http://sfcrimedata.org"

@@ -1,4 +1,5 @@
 code_url = "https://github.com/sfbrigade/FusionTable-MapApp-CordovaDroid"
+description = "this is a android Cordova instance with an internal submodule of the similarly named site that displays health dept scores"
 git_branch = "master"
 git_url = "git://github.com/sfbrigade/FusionTable-MapApp-CordovaDroid.git"
 name = "FusionTable-MapApp-CordovaDroid"

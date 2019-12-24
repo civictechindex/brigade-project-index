@@ -1,4 +1,5 @@
 code_url = "https://github.com/sfbrigade/councilmatic"
+description = "A City Council Legislative Information Subscription Service"
 git_branch = "master"
 git_url = "git://github.com/sfbrigade/councilmatic.git"
 name = "councilmatic"

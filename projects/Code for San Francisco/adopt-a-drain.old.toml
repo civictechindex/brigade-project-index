@@ -1,4 +1,5 @@
 code_url = "https://github.com/sfbrigade/adopt-a-drain.old"
+description = "AdoptaDrain is an online civic tool that supports the City of San Francisco Adopta-Spot program."
 git_branch = "develop"
 git_url = "git://github.com/sfbrigade/adopt-a-drain.old.git"
 link_url = "http://adoptadrainsf.herokuapp.com/"

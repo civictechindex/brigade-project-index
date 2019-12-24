@@ -1,4 +1,5 @@
 code_url = "https://github.com/sfbrigade/SlackMultiTeam"
+description = "Allows Slack communication across different teams, effectively creating 'shared channels'"
 git_branch = "master"
 git_url = "git://github.com/sfbrigade/SlackMultiTeam.git"
 name = "SlackMultiTeam"

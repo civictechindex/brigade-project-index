@@ -1,4 +1,5 @@
 code_url = "https://github.com/sfbrigade/c4sfcensusgeocoder"
+description = "Code for San Francisco Geocoding Tool"
 git_branch = "master"
 git_url = "git://github.com/sfbrigade/c4sfcensusgeocoder.git"
 name = "c4sfcensusgeocoder"

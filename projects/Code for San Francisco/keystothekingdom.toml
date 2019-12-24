@@ -1,4 +1,5 @@
 code_url = "https://github.com/sfbrigade/keystothekingdom"
+description = "A small Node/Mongo tool to manage SSO credentials + Chrome extension. Relies on Github OAuth for login."
 git_branch = "master"
 git_url = "git://github.com/sfbrigade/keystothekingdom.git"
 name = "keystothekingdom"

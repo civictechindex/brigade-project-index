@@ -1,4 +1,5 @@
 code_url = "https://github.com/sfbrigade/datasci-home-credit-default"
+description = "Kaggle Competition Predicting Home Credit Default Risk"
 git_branch = "master"
 git_url = "git://github.com/sfbrigade/datasci-home-credit-default.git"
 name = "datasci-home-credit-default"

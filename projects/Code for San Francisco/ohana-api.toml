@@ -1,4 +1,5 @@
 code_url = "https://github.com/sfbrigade/ohana-api"
+description = "The open source API directory of community social services."
 git_branch = "master"
 git_url = "git://github.com/sfbrigade/ohana-api.git"
 name = "ohana-api"

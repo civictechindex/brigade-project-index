@@ -1,4 +1,5 @@
 code_url = "https://github.com/sfbrigade/slackin"
+description = "Fork of slackin -- deploys the production branch to sfbrigade-slackin"
 git_branch = "master"
 git_url = "git://github.com/sfbrigade/slackin.git"
 link_url = "http://c4sf.me/slack"
