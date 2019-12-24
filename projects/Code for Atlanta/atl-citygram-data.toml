@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforatlanta/atl-citygram-data"
+description = "Scraping & Collecting data to plug in to the Atlanta Citygram app"
 git_branch = "master"
 git_url = "git://github.com/codeforatlanta/atl-citygram-data.git"
 name = "atl-citygram-data"

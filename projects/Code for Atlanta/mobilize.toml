@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforatlanta/mobilize"
+description = "Create React apps with no build configuration."
 git_branch = "next"
 git_url = "git://github.com/codeforatlanta/mobilize.git"
 name = "mobilize"

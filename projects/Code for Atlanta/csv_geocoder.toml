@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforatlanta/csv_geocoder"
+description = "add geocode info to csv file"
 git_branch = "master"
 git_url = "git://github.com/codeforatlanta/csv_geocoder.git"
 name = "csv_geocoder"

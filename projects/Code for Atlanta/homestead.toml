@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforatlanta/homestead"
+description = "Vue (Nuxt) app to apply for the Fulton County Homestead Exemption"
 git_branch = "master"
 git_url = "git://github.com/codeforatlanta/homestead.git"
 link_url = "https://www.fultonhomestead.org"

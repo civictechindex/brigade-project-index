@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforatlanta/apd-crime-data"
+description = "Working with publicly available data on Atlanta Police Department's \"Crime Data Downloads\" site at http://www.atlantapd.org/crimedatadownloads.aspx"
 git_branch = "master"
 git_url = "git://github.com/codeforatlanta/apd-crime-data.git"
 name = "apd-crime-data"

@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforatlanta/GeorgiaElectionResultsScraper"
+description = "Georgia Election Results Scraper"
 git_branch = "master"
 git_url = "git://github.com/codeforatlanta/GeorgiaElectionResultsScraper.git"
 name = "GeorgiaElectionResultsScraper"

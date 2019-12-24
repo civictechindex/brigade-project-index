@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforatlanta/atlanta-candidate-ui"
+description = "UI for https://github.com/jordanstreiff/atlanta-candidate-api"
 git_branch = "master"
 git_url = "git://github.com/codeforatlanta/atlanta-candidate-ui.git"
 name = "atlanta-candidate-ui"

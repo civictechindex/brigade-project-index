@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforatlanta/nature-events-calendar"
+description = "Scrapers to consolidate local nature-related events into a single calendar"
 git_branch = "master"
 git_url = "git://github.com/codeforatlanta/nature-events-calendar.git"
 name = "nature-events-calendar"

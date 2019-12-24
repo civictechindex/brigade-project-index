@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforatlanta/open-data"
+description = "A list of open data resources for metro Atlanta and the state of Georgia."
 git_branch = "master"
 git_url = "git://github.com/codeforatlanta/open-data.git"
 name = "open-data"

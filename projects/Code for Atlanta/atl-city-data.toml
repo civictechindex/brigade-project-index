@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforatlanta/atl-city-data"
+description = "Pulling together, cleaning, and visualizing data from the City of Atlanta.  For a list of datasets, see https://github.com/codeforatlanta/open-data#atlanta-4"
 git_branch = "master"
 git_url = "git://github.com/codeforatlanta/atl-city-data.git"
 name = "atl-city-data"

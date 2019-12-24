@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforatlanta/codeforatlanta.org"
+description = "Static website"
 git_branch = "master"
 git_url = "git://github.com/codeforatlanta/codeforatlanta.org.git"
 name = "codeforatlanta.org"

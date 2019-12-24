@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforatlanta/wiki"
+description = "Documentation wiki primarily for the leadership team"
 git_branch = "master"
 git_url = "git://github.com/codeforatlanta/wiki.git"
 name = "wiki"

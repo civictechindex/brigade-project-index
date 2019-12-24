@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforatlanta/voting-wait-times"
+description = "Crowdsourced wait times at voting precincts"
 git_branch = "master"
 git_url = "git://github.com/codeforatlanta/voting-wait-times.git"
 link_url = "https://voting-wait-times.firebaseapp.com/"
