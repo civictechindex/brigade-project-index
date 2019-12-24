@@ -1,4 +1,5 @@
 code_url = "https://github.com/presidential-innovation-fellows/pif-website"
+description = "PIF website, jekyll flavored"
 git_branch = "master"
 git_url = "git://github.com/presidential-innovation-fellows/pif-website.git"
 name = "pif-website"
