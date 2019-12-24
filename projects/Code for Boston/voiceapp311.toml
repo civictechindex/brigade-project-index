@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforboston/voiceapp311"
+description = "Voice assistant connection to Boston services"
 git_branch = "master"
 git_url = "git://github.com/codeforboston/voiceapp311.git"
 name = "voiceapp311"

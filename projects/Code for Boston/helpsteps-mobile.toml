@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforboston/helpsteps-mobile"
+description = "mobile frontend for helpsteps"
 git_branch = "master"
 git_url = "git://github.com/codeforboston/helpsteps-mobile.git"
 name = "helpsteps-mobile"

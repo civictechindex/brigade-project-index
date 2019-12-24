@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforboston/need-now"
+description = "Resource finder serving the immediate needs of people who are homeless in Cambridge."
 git_branch = "master"
 git_url = "git://github.com/codeforboston/need-now.git"
 link_url = "http://need-now.herokuapp.com"

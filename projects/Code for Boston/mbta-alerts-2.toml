@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforboston/mbta-alerts-2"
+description = "The bot that tweets from the MBTA Alerts API. Saving 9K @mbta_alerts Twitter followers from information blackout!"
 git_branch = "master"
 git_url = "git://github.com/codeforboston/mbta-alerts-2.git"
 name = "mbta-alerts-2"

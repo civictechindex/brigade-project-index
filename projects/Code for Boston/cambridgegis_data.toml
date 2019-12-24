@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforboston/cambridgegis_data"
+description = "City of Cambridge GIS Data"
 git_branch = "master"
 git_url = "git://github.com/codeforboston/cambridgegis_data.git"
 name = "cambridgegis_data"

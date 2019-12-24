@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforboston/admin"
+description = "For tracking in-progress design work on our projects."
 git_branch = "master"
 git_url = "git://github.com/codeforboston/admin.git"
 name = "admin"

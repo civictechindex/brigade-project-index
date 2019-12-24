@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforboston/ma-laws-frontend"
+description = "Massachusetts code of law web app. Consumes the ma-law API."
 git_branch = "master"
 git_url = "git://github.com/codeforboston/ma-laws-frontend.git"
 name = "ma-laws-frontend"

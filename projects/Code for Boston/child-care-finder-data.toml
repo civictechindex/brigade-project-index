@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforboston/child-care-finder-data"
+description = "Data/scripts powering the EEC MA Child Care Finder"
 git_branch = "master"
 git_url = "git://github.com/codeforboston/child-care-finder-data.git"
 name = "child-care-finder-data"

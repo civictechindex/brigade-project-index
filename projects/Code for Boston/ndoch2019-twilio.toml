@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforboston/ndoch2019-twilio"
+description = "A Twilio chatbot for MA record clearance eligibility"
 git_branch = "master"
 git_url = "git://github.com/codeforboston/ndoch2019-twilio.git"
 name = "ndoch2019-twilio"

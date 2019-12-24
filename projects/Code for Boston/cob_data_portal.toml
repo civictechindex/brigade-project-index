@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforboston/cob_data_portal"
+description = "Exploration of the City of Boston's Socrata data portal"
 git_branch = "master"
 git_url = "git://github.com/codeforboston/cob_data_portal.git"
 name = "cob_data_portal"

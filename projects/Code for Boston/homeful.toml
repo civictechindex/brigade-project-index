@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforboston/homeful"
+description = "Crowdfunding to help homeless people."
 git_branch = "master"
 git_url = "git://github.com/codeforboston/homeful.git"
 name = "homeful"

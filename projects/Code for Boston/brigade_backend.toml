@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforboston/brigade_backend"
+description = "A RESTful backend for a Code for America brigade."
 git_branch = "master"
 git_url = "git://github.com/codeforboston/brigade_backend.git"
 name = "brigade_backend"

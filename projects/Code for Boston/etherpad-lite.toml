@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforboston/etherpad-lite"
+description = "Etherpad: Really real-time collaborative document editing"
 git_branch = "develop"
 git_url = "git://github.com/codeforboston/etherpad-lite.git"
 link_url = "http://etherpad.org"

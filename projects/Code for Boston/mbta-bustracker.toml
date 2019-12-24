@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforboston/mbta-bustracker"
+description = "Tracks all MBTA buses and subway trains"
 git_branch = "master"
 git_url = "git://github.com/codeforboston/mbta-bustracker.git"
 name = "mbta-bustracker"

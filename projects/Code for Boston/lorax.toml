@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforboston/lorax"
+description = "An adopt-a-tree app for Cambridge, Boston, and whoever else"
 git_branch = "master"
 git_url = "git://github.com/codeforboston/lorax.git"
 name = "lorax"

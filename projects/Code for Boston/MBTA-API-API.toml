@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforboston/MBTA-API-API"
+description = "An API for your MBTA bus API"
 git_branch = "master"
 git_url = "git://github.com/codeforboston/MBTA-API-API.git"
 name = "MBTA-API-API"

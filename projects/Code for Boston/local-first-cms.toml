@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforboston/local-first-cms"
+description = "Template for local first websites"
 git_branch = "master"
 git_url = "git://github.com/codeforboston/local-first-cms.git"
 name = "local-first-cms"

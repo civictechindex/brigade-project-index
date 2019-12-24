@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforboston/GovLens"
+description = "We scan thousands of government websites to check how well they stack up on security, accessibility, and public accountability."
 git_branch = "master"
 git_url = "git://github.com/codeforboston/GovLens.git"
 name = "GovLens"

@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforboston/calendar_api"
+description = "Calendar API and admin tools."
 git_branch = "master"
 git_url = "git://github.com/codeforboston/calendar_api.git"
 name = "calendar_api"
