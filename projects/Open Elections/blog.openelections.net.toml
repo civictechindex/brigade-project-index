@@ -1,4 +1,5 @@
 code_url = "https://github.com/openelections/blog.openelections.net"
+description = "Blog for openelections"
 git_branch = "master"
 git_url = "git://github.com/openelections/blog.openelections.net.git"
 name = "blog.openelections.net"

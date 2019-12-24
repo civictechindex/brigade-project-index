@@ -1,4 +1,5 @@
 code_url = "https://github.com/openelections/dashboard"
+description = "Dashboard for The OpenElections Project."
 git_branch = "master"
 git_url = "git://github.com/openelections/dashboard.git"
 name = "dashboard"

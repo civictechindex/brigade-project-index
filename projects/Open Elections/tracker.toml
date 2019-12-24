@@ -1,4 +1,5 @@
 code_url = "https://github.com/openelections/tracker"
+description = "Progress tracker for OpenElections work"
 git_branch = "master"
 git_url = "git://github.com/openelections/tracker.git"
 name = "tracker"

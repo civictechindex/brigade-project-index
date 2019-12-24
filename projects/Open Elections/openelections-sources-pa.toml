@@ -1,4 +1,5 @@
 code_url = "https://github.com/openelections/openelections-sources-pa"
+description = "Source election results files from Pennsylvania"
 git_branch = "master"
 git_url = "git://github.com/openelections/openelections-sources-pa.git"
 name = "openelections-sources-pa"

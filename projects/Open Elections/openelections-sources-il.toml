@@ -1,4 +1,5 @@
 code_url = "https://github.com/openelections/openelections-sources-il"
+description = "Source files for Illinois results"
 git_branch = "master"
 git_url = "git://github.com/openelections/openelections-sources-il.git"
 name = "openelections-sources-il"

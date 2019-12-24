@@ -1,4 +1,5 @@
 code_url = "https://github.com/openelections/openelections-sources-ia"
+description = "Sources for Iowa elections"
 git_branch = "master"
 git_url = "git://github.com/openelections/openelections-sources-ia.git"
 name = "openelections-sources-ia"

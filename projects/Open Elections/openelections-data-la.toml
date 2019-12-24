@@ -1,4 +1,5 @@
 code_url = "https://github.com/openelections/openelections-data-la"
+description = "Raw and pre-processed election results for Louisiana"
 git_branch = "master"
 git_url = "git://github.com/openelections/openelections-data-la.git"
 name = "openelections-data-la"

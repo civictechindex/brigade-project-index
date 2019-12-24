@@ -1,4 +1,5 @@
 code_url = "https://github.com/openelections/openelections-data-or"
+description = "Pre-processed results for Oregon elections"
 git_branch = "master"
 git_url = "git://github.com/openelections/openelections-data-or.git"
 name = "openelections-data-or"

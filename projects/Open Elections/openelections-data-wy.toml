@@ -1,4 +1,5 @@
 code_url = "https://github.com/openelections/openelections-data-wy"
+description = "Certified election results for Wyoming elections."
 git_branch = "master"
 git_url = "git://github.com/openelections/openelections-data-wy.git"
 name = "openelections-data-wy"

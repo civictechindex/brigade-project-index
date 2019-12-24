@@ -1,4 +1,5 @@
 code_url = "https://github.com/openelections/openelections-sources-oh"
+description = "Original certified election results from Ohio"
 git_branch = "master"
 git_url = "git://github.com/openelections/openelections-sources-oh.git"
 name = "openelections-sources-oh"

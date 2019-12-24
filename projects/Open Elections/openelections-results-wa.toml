@@ -1,4 +1,5 @@
 code_url = "https://github.com/openelections/openelections-results-wa"
+description = "Published certified results from Washington state elections"
 git_branch = "master"
 git_url = "git://github.com/openelections/openelections-results-wa.git"
 name = "openelections-results-wa"

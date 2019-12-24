@@ -1,4 +1,5 @@
 code_url = "https://github.com/openelections/openelections-data-nm"
+description = "Pre-processed election results for New Mexico"
 git_branch = "master"
 git_url = "git://github.com/openelections/openelections-data-nm.git"
 name = "openelections-data-nm"

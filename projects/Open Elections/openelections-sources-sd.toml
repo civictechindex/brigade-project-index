@@ -1,4 +1,5 @@
 code_url = "https://github.com/openelections/openelections-sources-sd"
+description = "Official results files from South Dakota jurisdictions"
 git_branch = "master"
 git_url = "git://github.com/openelections/openelections-sources-sd.git"
 name = "openelections-sources-sd"

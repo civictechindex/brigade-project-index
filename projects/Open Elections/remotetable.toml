@@ -1,4 +1,5 @@
 code_url = "https://github.com/openelections/remotetable"
+description = "Open remote tables, be they CSV, XLSX, HTML, XML, ... "
 git_branch = "master"
 git_url = "git://github.com/openelections/remotetable.git"
 name = "remotetable"

@@ -1,4 +1,5 @@
 code_url = "https://github.com/openelections/openelections-metadata"
+description = "Metadata about elections in states"
 git_branch = "master"
 git_url = "git://github.com/openelections/openelections-metadata.git"
 name = "openelections-metadata"

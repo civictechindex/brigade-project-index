@@ -1,4 +1,5 @@
 code_url = "https://github.com/openelections/openelections-sources-mt"
+description = "Official results files from Montana jurisdictions"
 git_branch = "master"
 git_url = "git://github.com/openelections/openelections-sources-mt.git"
 name = "openelections-sources-mt"

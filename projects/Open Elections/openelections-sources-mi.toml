@@ -1,4 +1,5 @@
 code_url = "https://github.com/openelections/openelections-sources-mi"
+description = "Pre-processed election results for Michigan elections"
 git_branch = "master"
 git_url = "git://github.com/openelections/openelections-sources-mi.git"
 name = "openelections-sources-mi"

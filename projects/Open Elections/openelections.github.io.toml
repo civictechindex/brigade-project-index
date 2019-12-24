@@ -1,4 +1,5 @@
 code_url = "https://github.com/openelections/openelections.github.io"
+description = "Entry point into Openelections project status and data"
 git_branch = "master"
 git_url = "git://github.com/openelections/openelections.github.io.git"
 name = "openelections.github.io"

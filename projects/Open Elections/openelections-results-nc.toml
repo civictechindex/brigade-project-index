@@ -1,4 +1,5 @@
 code_url = "https://github.com/openelections/openelections-results-nc"
+description = "Raw Results for North Carolina elections"
 git_branch = "master"
 git_url = "git://github.com/openelections/openelections-results-nc.git"
 name = "openelections-results-nc"

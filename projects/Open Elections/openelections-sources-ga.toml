@@ -1,4 +1,5 @@
 code_url = "https://github.com/openelections/openelections-sources-ga"
+description = "Unprocessed election results files for Georgia elections"
 git_branch = "master"
 git_url = "git://github.com/openelections/openelections-sources-ga.git"
 name = "openelections-sources-ga"

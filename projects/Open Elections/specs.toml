@@ -1,4 +1,5 @@
 code_url = "https://github.com/openelections/specs"
+description = "Specs for OpenElections Data"
 git_branch = "master"
 git_url = "git://github.com/openelections/specs.git"
 name = "specs"

@@ -1,4 +1,5 @@
 code_url = "https://github.com/openelections/openelections-sources-nd"
+description = "Original results source documents for North Dakota elections"
 git_branch = "master"
 git_url = "git://github.com/openelections/openelections-sources-nd.git"
 name = "openelections-sources-nd"

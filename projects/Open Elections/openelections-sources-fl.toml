@@ -1,4 +1,5 @@
 code_url = "https://github.com/openelections/openelections-sources-fl"
+description = "Original source documents from Florida elections"
 git_branch = "master"
 git_url = "git://github.com/openelections/openelections-sources-fl.git"
 name = "openelections-sources-fl"

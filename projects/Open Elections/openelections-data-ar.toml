@@ -1,4 +1,5 @@
 code_url = "https://github.com/openelections/openelections-data-ar"
+description = "Converted CSVs of Arkansas election results that are provided in PDF."
 git_branch = "master"
 git_url = "git://github.com/openelections/openelections-data-ar.git"
 name = "openelections-data-ar"

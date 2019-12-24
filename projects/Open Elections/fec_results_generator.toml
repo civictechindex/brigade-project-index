@@ -1,4 +1,5 @@
 code_url = "https://github.com/openelections/fec_results_generator"
+description = "JSON API Generator for FecResults Library"
 git_branch = "master"
 git_url = "git://github.com/openelections/fec_results_generator.git"
 name = "fec_results_generator"

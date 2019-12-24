@@ -1,4 +1,5 @@
 code_url = "https://github.com/openelections/openelections-data-ri"
+description = "Pre-processed election results from Rhode Island"
 git_branch = "master"
 git_url = "git://github.com/openelections/openelections-data-ri.git"
 name = "openelections-data-ri"

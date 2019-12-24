@@ -1,4 +1,5 @@
 code_url = "https://github.com/openelections/openelections-data-fl"
+description = "Converted CSV files of precinct-level election results"
 git_branch = "master"
 git_url = "git://github.com/openelections/openelections-data-fl.git"
 name = "openelections-data-fl"

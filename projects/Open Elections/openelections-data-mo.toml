@@ -1,4 +1,5 @@
 code_url = "https://github.com/openelections/openelections-data-mo"
+description = "Pre-processed election results for Missouri elections"
 git_branch = "master"
 git_url = "git://github.com/openelections/openelections-data-mo.git"
 name = "openelections-data-mo"

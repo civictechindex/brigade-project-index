@@ -1,4 +1,5 @@
 code_url = "https://github.com/openelections/openelections-sources-ut"
+description = "Source election results data from Utah"
 git_branch = "master"
 git_url = "git://github.com/openelections/openelections-sources-ut.git"
 name = "openelections-sources-ut"

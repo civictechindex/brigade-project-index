@@ -1,4 +1,5 @@
 code_url = "https://github.com/openelections/openelections-sources-wv"
+description = "Source data for West Virginia results"
 git_branch = "master"
 git_url = "git://github.com/openelections/openelections-sources-wv.git"
 name = "openelections-sources-wv"

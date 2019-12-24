@@ -1,4 +1,5 @@
 code_url = "https://github.com/openelections/openelections-results-tx"
+description = "Published results data for Texas elections"
 git_branch = "master"
 git_url = "git://github.com/openelections/openelections-results-tx.git"
 name = "openelections-results-tx"

@@ -1,4 +1,5 @@
 code_url = "https://github.com/openelections/metadata"
+description = "Python API wrapper for OpenElections metadata API"
 git_branch = "master"
 git_url = "git://github.com/openelections/metadata.git"
 name = "metadata"

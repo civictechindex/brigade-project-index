@@ -1,4 +1,5 @@
 code_url = "https://github.com/openelections/openelections-sources"
+description = "Page for latest source file additions"
 git_branch = "master"
 git_url = "git://github.com/openelections/openelections-sources.git"
 name = "openelections-sources"

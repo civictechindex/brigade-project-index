@@ -1,4 +1,5 @@
 code_url = "https://github.com/openelections/openelections-sources-ne"
+description = "Official results files from Nebraska jurisdictions"
 git_branch = "master"
 git_url = "git://github.com/openelections/openelections-sources-ne.git"
 name = "openelections-sources-ne"

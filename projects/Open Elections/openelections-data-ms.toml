@@ -1,4 +1,5 @@
 code_url = "https://github.com/openelections/openelections-data-ms"
+description = "Converted CSVs of Mississippi election results"
 git_branch = "master"
 git_url = "git://github.com/openelections/openelections-data-ms.git"
 name = "openelections-data-ms"
