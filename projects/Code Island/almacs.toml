@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeisland/almacs"
+description = "find locations of former almacs"
 git_branch = "master"
 git_url = "git://github.com/codeisland/almacs.git"
 name = "almacs"

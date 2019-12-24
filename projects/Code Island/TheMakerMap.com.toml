@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeisland/TheMakerMap.com"
+description = "Hosting the TheMakerMap.com Static Site"
 git_branch = "gh-pages"
 git_url = "git://github.com/codeisland/TheMakerMap.com.git"
 name = "TheMakerMap.com"

@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeisland/national-open-data-census"
+description = "Project to identify and categorize Providence and Rhode Island open data"
 git_branch = "master"
 git_url = "git://github.com/codeisland/national-open-data-census.git"
 name = "national-open-data-census"

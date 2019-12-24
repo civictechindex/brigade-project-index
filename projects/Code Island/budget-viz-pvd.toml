@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeisland/budget-viz-pvd"
+description = "See how your tax contribution is divided up in the city budget."
 git_branch = "master"
 git_url = "git://github.com/codeisland/budget-viz-pvd.git"
 name = "budget-viz-pvd"
