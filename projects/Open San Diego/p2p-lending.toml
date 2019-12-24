@@ -1,4 +1,5 @@
 code_url = "https://github.com/opensandiego/p2p-lending"
+description = "Peer-to-Peer lending app in partnership with Linda Vista Library"
 git_branch = "master"
 git_url = "git://github.com/opensandiego/p2p-lending.git"
 name = "p2p-lending"

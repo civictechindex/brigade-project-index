@@ -1,4 +1,5 @@
 code_url = "https://github.com/opensandiego/mealscount-backend"
+description = "Optimizing a free-meal reimbursement program for K-12 schools"
 git_branch = "validate"
 git_url = "git://github.com/opensandiego/mealscount-backend.git"
 name = "mealscount-backend"

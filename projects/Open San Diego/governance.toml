@@ -1,4 +1,5 @@
 code_url = "https://github.com/opensandiego/governance"
+description = "Open San Diego repo dedicated to tracking organizational items"
 git_branch = "master"
 git_url = "git://github.com/opensandiego/governance.git"
 name = "governance"

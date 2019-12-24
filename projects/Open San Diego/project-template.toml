@@ -1,4 +1,5 @@
 code_url = "https://github.com/opensandiego/project-template"
+description = "New Project Template for Open San Diego projects"
 git_branch = "master"
 git_url = "git://github.com/opensandiego/project-template.git"
 name = "project-template"
