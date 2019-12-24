@@ -1,4 +1,5 @@
 code_url = "https://github.com/CodeForFtL/fort-lauderdale-polling-places"
+description = "Guide on how to leverage the city of Fort Lauderdale's ArcGIS data"
 git_branch = "master"
 git_url = "git://github.com/CodeForFtL/fort-lauderdale-polling-places.git"
 name = "fort-lauderdale-polling-places"
