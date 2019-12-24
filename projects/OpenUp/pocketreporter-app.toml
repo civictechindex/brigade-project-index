@@ -1,4 +1,5 @@
 code_url = "https://github.com/OpenUpSA/pocketreporter-app"
+description = "An HTML5 offline version of the pocketreporter app"
 git_branch = "master"
 git_url = "git://github.com/OpenUpSA/pocketreporter-app.git"
 name = "pocketreporter-app"

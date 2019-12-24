@@ -1,4 +1,5 @@
 code_url = "https://github.com/OpenUpSA/eskom-enquiry"
+description = "A tool for searching through an archive of Eskom-related documents"
 git_branch = "master"
 git_url = "git://github.com/OpenUpSA/eskom-enquiry.git"
 link_url = "https://eskom.openup.org.za"

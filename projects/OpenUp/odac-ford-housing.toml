@@ -1,4 +1,5 @@
 code_url = "https://github.com/OpenUpSA/odac-ford-housing"
+description = "USSD, SMS & Web application for disseminating information relating to the progress of government housing projects."
 git_branch = "master"
 git_url = "git://github.com/OpenUpSA/odac-ford-housing.git"
 name = "odac-ford-housing"

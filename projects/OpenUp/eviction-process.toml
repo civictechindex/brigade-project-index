@@ -1,4 +1,5 @@
 code_url = "https://github.com/OpenUpSA/eviction-process"
+description = "DEPRECATED 2019-07-31 Eviction process website by OpenUp"
 git_branch = "master"
 git_url = "git://github.com/OpenUpSA/eviction-process.git"
 name = "eviction-process"

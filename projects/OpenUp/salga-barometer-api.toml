@@ -1,4 +1,5 @@
 code_url = "https://github.com/OpenUpSA/salga-barometer-api"
+description = "API service for the Salga Municipal Barometer"
 git_branch = "master"
 git_url = "git://github.com/OpenUpSA/salga-barometer-api.git"
 name = "salga-barometer-api"

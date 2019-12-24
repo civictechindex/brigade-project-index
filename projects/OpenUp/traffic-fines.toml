@@ -1,4 +1,5 @@
 code_url = "https://github.com/OpenUpSA/traffic-fines"
+description = "Is your municipality treating traffic fines as a revenue source?"
 git_branch = "master"
 git_url = "git://github.com/OpenUpSA/traffic-fines.git"
 name = "traffic-fines"

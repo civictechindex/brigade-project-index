@@ -1,4 +1,5 @@
 code_url = "https://github.com/OpenUpSA/censusreporter"
+description = "DEPRECATED: Fork of Census Reporter for showing South African census data"
 git_branch = "master"
 git_url = "git://github.com/OpenUpSA/censusreporter.git"
 name = "censusreporter"

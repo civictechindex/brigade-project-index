@@ -1,4 +1,5 @@
 code_url = "https://github.com/OpenUpSA/crime-stats-demystifed"
+description = "crime numbers per geographic districts"
 git_branch = "master"
 git_url = "git://github.com/OpenUpSA/crime-stats-demystifed.git"
 name = "crime-stats-demystifed"

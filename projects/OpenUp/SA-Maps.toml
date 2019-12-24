@@ -1,4 +1,5 @@
 code_url = "https://github.com/OpenUpSA/SA-Maps"
+description = "South African Shapefiles, GIS data and other useful mapping stuff"
 git_branch = "master"
 git_url = "git://github.com/OpenUpSA/SA-Maps.git"
 name = "SA-Maps"

@@ -1,4 +1,5 @@
 code_url = "https://github.com/OpenUpSA/docker-elasticsearch"
+description = "Customised ElasticSearch Docker image"
 git_branch = "master"
 git_url = "git://github.com/OpenUpSA/docker-elasticsearch.git"
 name = "docker-elasticsearch"

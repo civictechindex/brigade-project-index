@@ -1,4 +1,5 @@
 code_url = "https://github.com/OpenUpSA/healthe-forms"
+description = "Generate Health-E forms"
 git_branch = "master"
 git_url = "git://github.com/OpenUpSA/healthe-forms.git"
 name = "healthe-forms"

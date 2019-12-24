@@ -1,4 +1,5 @@
 code_url = "https://github.com/OpenUpSA/waste-removal-widget"
+description = "Waste removal digital tooling that can be integrated on South African municipality websites by means of a single JavaScript file."
 git_branch = "master"
 git_url = "git://github.com/OpenUpSA/waste-removal-widget.git"
 link_url = "https://action-takers-waste-removal.netlify.com/"

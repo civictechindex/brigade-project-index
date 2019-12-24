@@ -1,4 +1,5 @@
 code_url = "https://github.com/OpenUpSA/mpr-stats"
+description = "Simple statistic dashboard for mpr"
 git_branch = "master"
 git_url = "git://github.com/OpenUpSA/mpr-stats.git"
 name = "mpr-stats"

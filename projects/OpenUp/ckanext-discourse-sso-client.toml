@@ -1,4 +1,5 @@
 code_url = "https://github.com/OpenUpSA/ckanext-discourse-sso-client"
+description = "SSO Client for CKAN to authenticate users against a Discourse-style SSO provider"
 git_branch = "master"
 git_url = "git://github.com/OpenUpSA/ckanext-discourse-sso-client.git"
 name = "ckanext-discourse-sso-client"

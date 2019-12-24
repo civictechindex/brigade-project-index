@@ -1,4 +1,5 @@
 code_url = "https://github.com/OpenUpSA/elections-api"
+description = "An API on top of the IEC elections data"
 git_branch = "master"
 git_url = "git://github.com/OpenUpSA/elections-api.git"
 name = "elections-api"

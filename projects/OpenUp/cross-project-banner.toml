@@ -1,4 +1,5 @@
 code_url = "https://github.com/OpenUpSA/cross-project-banner"
+description = "Simple script to add an OpenUp banner to our projects"
 git_branch = "master"
 git_url = "git://github.com/OpenUpSA/cross-project-banner.git"
 name = "cross-project-banner"

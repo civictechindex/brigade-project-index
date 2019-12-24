@@ -1,4 +1,5 @@
 code_url = "https://github.com/OpenUpSA/hospital-finder"
+description = "Find good hospitals near you"
 git_branch = "master"
 git_url = "git://github.com/OpenUpSA/hospital-finder.git"
 link_url = "http://hospitals.code4sa.org"

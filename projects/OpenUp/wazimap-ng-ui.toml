@@ -1,4 +1,5 @@
 code_url = "https://github.com/OpenUpSA/wazimap-ng-ui"
+description = "User interface for Wazimap next generation"
 git_branch = "master"
 git_url = "git://github.com/OpenUpSA/wazimap-ng-ui.git"
 name = "wazimap-ng-ui"

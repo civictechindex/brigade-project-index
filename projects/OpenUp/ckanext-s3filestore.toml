@@ -1,4 +1,5 @@
 code_url = "https://github.com/OpenUpSA/ckanext-s3filestore"
+description = "Use Amazon S3 as a filestore for CKAN"
 git_branch = "master"
 git_url = "git://github.com/OpenUpSA/ckanext-s3filestore.git"
 name = "ckanext-s3filestore"

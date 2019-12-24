@@ -1,4 +1,5 @@
 code_url = "https://github.com/OpenUpSA/post-offices"
+description = "Post Offices on a map"
 git_branch = "master"
 git_url = "git://github.com/OpenUpSA/post-offices.git"
 name = "post-offices"

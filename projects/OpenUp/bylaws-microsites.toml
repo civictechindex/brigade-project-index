@@ -1,4 +1,5 @@
 code_url = "https://github.com/OpenUpSA/bylaws-microsites"
+description = "By-laws microsites for municipalities"
 git_branch = "master"
 git_url = "git://github.com/OpenUpSA/bylaws-microsites.git"
 name = "bylaws-microsites"

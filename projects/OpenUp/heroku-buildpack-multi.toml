@@ -1,4 +1,5 @@
 code_url = "https://github.com/OpenUpSA/heroku-buildpack-multi"
+description = "DEPRECATED: Composable buildpacks"
 git_branch = "master"
 git_url = "git://github.com/OpenUpSA/heroku-buildpack-multi.git"
 name = "heroku-buildpack-multi"

@@ -1,4 +1,5 @@
 code_url = "https://github.com/OpenUpSA/health-e-story-db"
+description = "Wordpress plugin to help Health-e maintain a syndication and impact database"
 git_branch = "master"
 git_url = "git://github.com/OpenUpSA/health-e-story-db.git"
 name = "health-e-story-db"

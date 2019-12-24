@@ -1,4 +1,5 @@
 code_url = "https://github.com/OpenUpSA/odac-idp"
+description = "Demo Web application for browsing through information relating to the government's numerous Integrated Development Plans."
 git_branch = "master"
 git_url = "git://github.com/OpenUpSA/odac-idp.git"
 link_url = "http://idp.code4sa.org"

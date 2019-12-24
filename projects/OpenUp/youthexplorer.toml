@@ -1,4 +1,5 @@
 code_url = "https://github.com/OpenUpSA/youthexplorer"
+description = "Youth Explorer version of Wazimap"
 git_branch = "master"
 git_url = "git://github.com/OpenUpSA/youthexplorer.git"
 name = "youthexplorer"

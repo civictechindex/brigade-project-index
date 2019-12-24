@@ -1,4 +1,5 @@
 code_url = "https://github.com/OpenUpSA/za-hansard"
+description = "A parser for South African Hansards, as published at  http://www.parliament.gov.za/live/content.php?Category_ID=119"
 git_branch = "master"
 git_url = "git://github.com/OpenUpSA/za-hansard.git"
 name = "za-hansard"

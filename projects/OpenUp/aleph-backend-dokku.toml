@@ -1,4 +1,5 @@
 code_url = "https://github.com/OpenUpSA/aleph-backend-dokku"
+description = "Dokku Dockerfile deployment for Aleph 2 backend components"
 git_branch = "master"
 git_url = "git://github.com/OpenUpSA/aleph-backend-dokku.git"
 name = "aleph-backend-dokku"

@@ -1,4 +1,5 @@
 code_url = "https://github.com/OpenUpSA/saflii-gazettes"
+description = "Scripts to publish gazettes to SAFLII"
 git_branch = "master"
 git_url = "git://github.com/OpenUpSA/saflii-gazettes.git"
 name = "saflii-gazettes"

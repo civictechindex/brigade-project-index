@@ -1,4 +1,5 @@
 code_url = "https://github.com/OpenUpSA/vulekamali-discourse"
+description = "Configuration and instructions for setting up Discourse for vulekamali"
 git_branch = "master"
 git_url = "git://github.com/OpenUpSA/vulekamali-discourse.git"
 name = "vulekamali-discourse"

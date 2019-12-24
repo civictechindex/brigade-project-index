@@ -1,4 +1,5 @@
 code_url = "https://github.com/OpenUpSA/scrape-cron"
+description = "Use Travis CI to trigger web scrape jobs"
 git_branch = "master"
 git_url = "git://github.com/OpenUpSA/scrape-cron.git"
 name = "scrape-cron"

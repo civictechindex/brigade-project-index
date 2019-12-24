@@ -1,4 +1,5 @@
 code_url = "https://github.com/OpenUpSA/election-survey-tool"
+description = "A simple client-only JavaScript app based on Backbone.js"
 git_branch = "master"
 git_url = "git://github.com/OpenUpSA/election-survey-tool.git"
 name = "election-survey-tool"

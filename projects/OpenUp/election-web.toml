@@ -1,4 +1,5 @@
 code_url = "https://github.com/OpenUpSA/election-web"
+description = "Web app that displays South African election results"
 git_branch = "master"
 git_url = "git://github.com/OpenUpSA/election-web.git"
 name = "election-web"
