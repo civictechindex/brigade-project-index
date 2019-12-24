@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforabq/ABQ-Open-Data-Census"
+description = "Inventory and evaluation the open data made available by the City of Albuquerque"
 git_branch = "master"
 git_url = "git://github.com/codeforabq/ABQ-Open-Data-Census.git"
 name = "ABQ-Open-Data-Census"
