@@ -1,4 +1,5 @@
 code_url = "https://github.com/milwaukeedata/QualityOfLife"
+description = "Deriving and computing a fine-grained quality-of-life measure."
 git_branch = "master"
 git_url = "git://github.com/milwaukeedata/QualityOfLife.git"
 name = "QualityOfLife"

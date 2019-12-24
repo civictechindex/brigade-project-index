@@ -1,4 +1,5 @@
 code_url = "https://github.com/milwaukeedata/MKE-communitydatabase"
+description = "The Milwaukee Poverty Database, a catalog of poverty-related data in Milwaukee!"
 git_branch = "master"
 git_url = "git://github.com/milwaukeedata/MKE-communitydatabase.git"
 name = "MKE-communitydatabase"

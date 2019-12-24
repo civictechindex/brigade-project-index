@@ -1,4 +1,5 @@
 code_url = "https://github.com/milwaukeedata/MKE_2012_Parking_Violations"
+description = "All parking violations issued in 2012 in the City of Milwaukee"
 git_branch = "master"
 git_url = "git://github.com/milwaukeedata/MKE_2012_Parking_Violations.git"
 name = "MKE_2012_Parking_Violations"

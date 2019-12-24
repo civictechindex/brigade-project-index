@@ -1,4 +1,5 @@
 code_url = "https://github.com/milwaukeedata/brigade-content"
+description = "This is a repo for all of the content that will be used to populate Brigade sites, and might be useful to other Brigades."
 git_branch = "master"
 git_url = "git://github.com/milwaukeedata/brigade-content.git"
 name = "brigade-content"

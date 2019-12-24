@@ -1,4 +1,5 @@
 code_url = "https://github.com/milwaukeedata/mdi-website"
+description = "The Milwaukee Data Initiative Web Site"
 git_branch = "master"
 git_url = "git://github.com/milwaukeedata/mdi-website.git"
 name = "mdi-website"
