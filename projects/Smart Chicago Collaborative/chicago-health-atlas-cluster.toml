@@ -1,4 +1,5 @@
 code_url = "https://github.com/smartchicago/chicago-health-atlas-cluster"
+description = "Tool for clustering duplicate patient record ids based on match threshold."
 git_branch = "master"
 git_url = "git://github.com/smartchicago/chicago-health-atlas-cluster.git"
 name = "chicago-health-atlas-cluster"

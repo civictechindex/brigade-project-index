@@ -1,4 +1,5 @@
 code_url = "https://github.com/smartchicago/scc-proxy"
+description = "A simple proxy server that allows us to control access to the Google Maps API"
 git_branch = "master"
 git_url = "git://github.com/smartchicago/scc-proxy.git"
 name = "scc-proxy"

@@ -1,4 +1,5 @@
 code_url = "https://github.com/smartchicago/cutgroup-signups"
+description = "Small app to handle CUT Group signups"
 git_branch = "master"
 git_url = "git://github.com/smartchicago/cutgroup-signups.git"
 name = "cutgroup-signups"

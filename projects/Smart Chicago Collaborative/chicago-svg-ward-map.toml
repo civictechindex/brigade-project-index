@@ -1,4 +1,5 @@
 code_url = "https://github.com/smartchicago/chicago-svg-ward-map"
+description = "A simple demonstration for plotting a SVG (Scalable Vector Graphic) map of the wards of the City of Chicago"
 git_branch = "master"
 git_url = "git://github.com/smartchicago/chicago-svg-ward-map.git"
 name = "chicago-svg-ward-map"

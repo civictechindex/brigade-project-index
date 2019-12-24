@@ -1,4 +1,5 @@
 code_url = "https://github.com/smartchicago/311-fm-webapp"
+description = "A tool to track, analyze, and compare 311 requests across the city of Chicago."
 git_branch = "master"
 git_url = "git://github.com/smartchicago/311-fm-webapp.git"
 link_url = "http://www.chicagoworksforyou.com"

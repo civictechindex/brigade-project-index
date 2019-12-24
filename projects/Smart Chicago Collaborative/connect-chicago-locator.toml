@@ -1,4 +1,5 @@
 code_url = "https://github.com/smartchicago/connect-chicago-locator"
+description = "Search for and view information about places where you can use a computer for free in Chicago. Part of the Connect Chicago website."
 git_branch = "master"
 git_url = "git://github.com/smartchicago/connect-chicago-locator.git"
 link_url = "locations.weconnectchicago.org"

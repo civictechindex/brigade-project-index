@@ -1,4 +1,5 @@
 code_url = "https://github.com/smartchicago/Wufoo-to-Twilio-SMS"
+description = "Connects Wufoo form to Twilio to send text messages."
 git_branch = "master"
 git_url = "git://github.com/smartchicago/Wufoo-to-Twilio-SMS.git"
 name = "Wufoo-to-Twilio-SMS"

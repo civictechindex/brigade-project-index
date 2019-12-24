@@ -1,4 +1,5 @@
 code_url = "https://github.com/smartchicago/tabula"
+description = "Tabula is a tool for liberating data tables trapped inside PDF files"
 git_branch = "master"
 git_url = "git://github.com/smartchicago/tabula.git"
 name = "tabula"

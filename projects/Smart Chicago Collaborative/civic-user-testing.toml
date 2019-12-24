@@ -1,4 +1,5 @@
 code_url = "https://github.com/smartchicago/civic-user-testing"
+description = "In the spirit of Civic Tech Patterns, this is a collection of methods and practices for creating and executing tests for civic technology with residents."
 git_branch = "master"
 git_url = "git://github.com/smartchicago/civic-user-testing.git"
 name = "civic-user-testing"

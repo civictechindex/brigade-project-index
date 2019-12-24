@@ -1,4 +1,5 @@
 code_url = "https://github.com/smartchicago/opengrid-svc-plenario"
+description = "Service layer to stream data from plenar.io to OpenGrid"
 git_branch = "master"
 git_url = "git://github.com/smartchicago/opengrid-svc-plenario.git"
 name = "opengrid-svc-plenario"

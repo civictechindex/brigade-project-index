@@ -1,4 +1,5 @@
 code_url = "https://github.com/smartchicago/google_business_api_url_signer"
+description = "Signs URLs used to call Google's business APIs"
 git_branch = "master"
 git_url = "git://github.com/smartchicago/google_business_api_url_signer.git"
 name = "google_business_api_url_signer"

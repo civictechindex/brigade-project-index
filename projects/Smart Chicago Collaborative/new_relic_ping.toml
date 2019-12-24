@@ -1,4 +1,5 @@
 code_url = "https://github.com/smartchicago/new_relic_ping"
+description = "Provides endpoint for NewRelic HTTP ping monitoring for Rails applications"
 git_branch = "master"
 git_url = "git://github.com/smartchicago/new_relic_ping.git"
 name = "new_relic_ping"

@@ -1,4 +1,5 @@
 code_url = "https://github.com/smartchicago/connect-chicago-scripts"
+description = "processing and backup scripts for connect chicago"
 git_branch = "master"
 git_url = "git://github.com/smartchicago/connect-chicago-scripts.git"
 name = "connect-chicago-scripts"
