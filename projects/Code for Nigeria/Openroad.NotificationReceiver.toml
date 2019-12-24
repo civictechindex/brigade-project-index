@@ -1,4 +1,5 @@
 code_url = "https://github.com/CodeForAfrica/Openroad.NotificationReceiver"
+description = "Listening and saving messages from notifications."
 git_branch = "master"
 git_url = "git://github.com/CodeForAfrica/Openroad.NotificationReceiver.git"
 name = "Openroad.NotificationReceiver"

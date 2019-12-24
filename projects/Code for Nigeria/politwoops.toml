@@ -1,4 +1,5 @@
 code_url = "https://github.com/CodeForAfrica/politwoops"
+description = "Politwoops tracks deleted tweets by public officials, including people currently in office and candidates for office. Accessible at https://politwoops.codeforkenya.org"
 git_branch = "master"
 git_url = "git://github.com/CodeForAfrica/politwoops.git"
 link_url = "https://politwoops.codeforkenya.org"

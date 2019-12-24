@@ -1,4 +1,5 @@
 code_url = "https://github.com/CodeForAfrica/aipam"
+description = "Clustering PAM data using a tsne algorithm, visualising in clips on a 2D mosaic and allowing users to catagorise sounds."
 git_branch = "master"
 git_url = "git://github.com/CodeForAfrica/aipam.git"
 name = "aipam"

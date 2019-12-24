@@ -1,4 +1,5 @@
 code_url = "https://github.com/CodeForAfrica/wbdata"
+description = "A python library for accessing world bank data"
 git_branch = "dev"
 git_url = "git://github.com/CodeForAfrica/wbdata.git"
 name = "wbdata"

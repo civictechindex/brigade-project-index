@@ -1,4 +1,5 @@
 code_url = "https://github.com/CodeForAfrica/rapidpro-bongolive"
+description = "A tiny express.js app to serve SMSs from BongoLive to RapidPro."
 git_branch = "master"
 git_url = "git://github.com/CodeForAfrica/rapidpro-bongolive.git"
 name = "rapidpro-bongolive"

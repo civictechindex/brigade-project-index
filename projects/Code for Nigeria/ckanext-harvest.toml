@@ -1,4 +1,5 @@
 code_url = "https://github.com/CodeForAfrica/ckanext-harvest"
+description = "Remote harvesting extension for CKAN"
 git_branch = "master"
 git_url = "git://github.com/CodeForAfrica/ckanext-harvest.git"
 name = "ckanext-harvest"

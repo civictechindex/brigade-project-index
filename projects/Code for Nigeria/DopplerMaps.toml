@@ -1,4 +1,5 @@
 code_url = "https://github.com/CodeForAfrica/DopplerMaps"
+description = "Doppler Maps is a tool based on D3.js for generating lightweight, responsive multiple maps."
 git_branch = "master"
 git_url = "git://github.com/CodeForAfrica/DopplerMaps.git"
 name = "DopplerMaps"
