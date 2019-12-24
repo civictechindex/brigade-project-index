@@ -1,4 +1,5 @@
 code_url = "https://github.com/code4sac/hashtagmap"
+description = "Mapping hashtags with a heatmap style map..."
 git_branch = "master"
 git_url = "git://github.com/code4sac/hashtagmap.git"
 name = "hashtagmap"

@@ -1,4 +1,5 @@
 code_url = "https://github.com/code4sac/scout"
+description = "Data analysis and exploration tool used to facilitate the process of creating civic apps from open data sets"
 git_branch = "master"
 git_url = "git://github.com/code4sac/scout.git"
 name = "scout"

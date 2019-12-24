@@ -1,4 +1,5 @@
 code_url = "https://github.com/code4sac/openbudgetsac.org"
+description = "Code for Sacramento's Open Budget Project (landing page + D3.js files)"
 git_branch = "gh-pages"
 git_url = "git://github.com/code4sac/openbudgetsac.org.git"
 link_url = "http://openbudgetsac.org"

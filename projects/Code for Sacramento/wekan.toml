@@ -1,4 +1,5 @@
 code_url = "https://github.com/code4sac/wekan"
+description = "Code4Sac open data portal."
 git_branch = "master"
 git_url = "git://github.com/code4sac/wekan.git"
 name = "wekan"

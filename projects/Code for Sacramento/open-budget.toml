@@ -1,4 +1,5 @@
 code_url = "https://github.com/code4sac/open-budget"
+description = "Open Budgets for the City of Sacramento"
 git_branch = "master"
 git_url = "git://github.com/code4sac/open-budget.git"
 name = "open-budget"

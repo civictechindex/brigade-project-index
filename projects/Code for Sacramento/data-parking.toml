@@ -1,4 +1,5 @@
 code_url = "https://github.com/code4sac/data-parking"
+description = "data files related to parking in sac"
 git_branch = "master"
 git_url = "git://github.com/code4sac/data-parking.git"
 name = "data-parking"

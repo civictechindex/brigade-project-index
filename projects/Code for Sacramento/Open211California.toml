@@ -1,4 +1,5 @@
 code_url = "https://github.com/code4sac/Open211California"
+description = "Research and data for accessing California county systems' 211 information"
 git_branch = "master"
 git_url = "git://github.com/code4sac/Open211California.git"
 name = "Open211California"

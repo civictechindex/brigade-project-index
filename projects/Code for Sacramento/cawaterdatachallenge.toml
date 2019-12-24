@@ -1,4 +1,5 @@
 code_url = "https://github.com/code4sac/cawaterdatachallenge"
+description = "Code For Sacramento's answer to questions from the 2018 California Safe Drinking Water Data Challenge"
 git_branch = "master"
 git_url = "git://github.com/code4sac/cawaterdatachallenge.git"
 name = "cawaterdatachallenge"

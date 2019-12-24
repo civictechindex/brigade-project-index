@@ -1,4 +1,5 @@
 code_url = "https://github.com/code4sac/sac-crime-data-db"
+description = "Convert Sacramento CSV crime exports to MySQL"
 git_branch = "master"
 git_url = "git://github.com/code4sac/sac-crime-data-db.git"
 name = "sac-crime-data-db"

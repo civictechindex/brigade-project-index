@@ -1,4 +1,5 @@
 code_url = "https://github.com/code4sac/github-demo"
+description = "Demonstration project for getting started on GitHub"
 git_branch = "master"
 git_url = "git://github.com/code4sac/github-demo.git"
 name = "github-demo"

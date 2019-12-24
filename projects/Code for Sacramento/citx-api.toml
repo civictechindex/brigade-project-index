@@ -1,4 +1,5 @@
 code_url = "https://github.com/code4sac/citx-api"
+description = "An API to wrap civic information around categories and topics that people care about instead of the fragmented structure of government."
 git_branch = "master"
 git_url = "git://github.com/code4sac/citx-api.git"
 link_url = "https://citx.herokuapp.com"

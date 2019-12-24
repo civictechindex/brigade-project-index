@@ -1,4 +1,5 @@
 code_url = "https://github.com/code4sac/bikecounter"
+description = "A bicycle (and pedestrian) traffic counter, designed in partnership with SABA."
 git_branch = "master"
 git_url = "git://github.com/code4sac/bikecounter.git"
 name = "bikecounter"

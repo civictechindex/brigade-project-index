@@ -1,4 +1,5 @@
 code_url = "https://github.com/code4sac/white-house-salaries"
+description = "White House salary data formerly available at open.whitehouse.gov"
 git_branch = "master"
 git_url = "git://github.com/code4sac/white-house-salaries.git"
 name = "white-house-salaries"

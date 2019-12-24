@@ -1,4 +1,5 @@
 code_url = "https://github.com/code4sac/losrios-api"
+description = "An API for accessing structured Los Rios Community College class data"
 git_branch = "master"
 git_url = "git://github.com/code4sac/losrios-api.git"
 name = "losrios-api"

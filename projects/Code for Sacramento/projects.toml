@@ -1,4 +1,5 @@
 code_url = "https://github.com/code4sac/projects"
+description = "This is our project idea funnel. This is where we collect ideas, vet ideas, and convert those ideas into active projects."
 git_branch = "master"
 git_url = "git://github.com/code4sac/projects.git"
 name = "projects"
