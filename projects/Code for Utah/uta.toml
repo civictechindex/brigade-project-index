@@ -1,4 +1,5 @@
 code_url = "https://github.com/OpenSaltLake/uta"
+description = "Map current location of public transportation vehicles, and bus stops."
 git_branch = "master"
 git_url = "git://github.com/OpenSaltLake/uta.git"
 link_url = "https://opensaltlake.github.io/uta/"

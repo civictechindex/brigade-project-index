@@ -1,4 +1,5 @@
 code_url = "https://github.com/OpenSaltLake/slco-court-calendar-service"
+description = "Request court calendar events from the API."
 git_branch = "master"
 git_url = "git://github.com/OpenSaltLake/slco-court-calendar-service.git"
 link_url = "https://slco-court-calendar-service.herokuapp.com/"

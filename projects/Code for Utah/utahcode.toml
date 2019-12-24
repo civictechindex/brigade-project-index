@@ -1,4 +1,5 @@
 code_url = "https://github.com/OpenSaltLake/utahcode"
+description = "Legal Code for the State of Utah"
 git_branch = "master"
 git_url = "git://github.com/OpenSaltLake/utahcode.git"
 name = "utahcode"

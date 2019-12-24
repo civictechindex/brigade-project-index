@@ -1,4 +1,5 @@
 code_url = "https://github.com/OpenSaltLake/code-utah"
+description = "Website for the Code Utah events"
 git_branch = "master"
 git_url = "git://github.com/OpenSaltLake/code-utah.git"
 name = "code-utah"
