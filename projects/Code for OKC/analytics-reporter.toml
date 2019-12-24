@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforokc/analytics-reporter"
+description = "Lightweight analytics reporting and publishing tool for Google Analytics data. Powers https://analytics.usa.gov, http://analytics.phila.gov, and more."
 git_branch = "master"
 git_url = "git://github.com/codeforokc/analytics-reporter.git"
 name = "analytics-reporter"

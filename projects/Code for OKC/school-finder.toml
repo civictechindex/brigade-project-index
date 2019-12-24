@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforokc/school-finder"
+description = "Geolocation-based web app for locating schools and school districts near you"
 git_branch = "master"
 git_url = "git://github.com/codeforokc/school-finder.git"
 name = "school-finder"
