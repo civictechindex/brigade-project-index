@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforeauclaire/vms"
+description = "Virtual Machine Spinner (For quick dev & demos)"
 git_branch = "master"
 git_url = "git://github.com/codeforeauclaire/vms.git"
 name = "vms"
