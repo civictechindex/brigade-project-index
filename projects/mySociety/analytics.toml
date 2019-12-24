@@ -1,4 +1,5 @@
 code_url = "https://github.com/mysociety/analytics"
+description = "Some helpful bits of JavaScript for tracking events in Google Analytics."
 git_branch = "master"
 git_url = "git://github.com/mysociety/analytics.git"
 link_url = "https://www.mysociety.org/"

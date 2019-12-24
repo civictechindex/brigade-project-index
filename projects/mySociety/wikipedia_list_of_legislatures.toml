@@ -1,4 +1,5 @@
 code_url = "https://github.com/mysociety/wikipedia_list_of_legislatures"
+description = "Get csv of the list of legislatures"
 git_branch = "master"
 git_url = "git://github.com/mysociety/wikipedia_list_of_legislatures.git"
 link_url = "https://morph.io/mysociety/wikipedia_list_of_legislatures"

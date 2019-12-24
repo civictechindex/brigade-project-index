@@ -1,4 +1,5 @@
 code_url = "https://github.com/mysociety/pombola_extract_info_pages"
+description = "Convert Pombola info pages and blog posts to Jekyll"
 git_branch = "master"
 git_url = "git://github.com/mysociety/pombola_extract_info_pages.git"
 name = "pombola_extract_info_pages"

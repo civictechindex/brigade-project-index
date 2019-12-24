@@ -1,4 +1,5 @@
 code_url = "https://github.com/mysociety/sync-ep-to-jkan"
+description = "Syncs EveryPolitician data to mySociety's data portal."
 git_branch = "master"
 git_url = "git://github.com/mysociety/sync-ep-to-jkan.git"
 link_url = "http://data.mysociety.org/sources/everypolitician/"

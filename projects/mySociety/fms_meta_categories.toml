@@ -1,4 +1,5 @@
 code_url = "https://github.com/mysociety/fms_meta_categories"
+description = "Set of meta-categories to combine FMS reports across different areas. "
 git_branch = "master"
 git_url = "git://github.com/mysociety/fms_meta_categories.git"
 name = "fms_meta_categories"

@@ -1,4 +1,5 @@
 code_url = "https://github.com/mysociety/fixmystreet-international"
+description = "Related activity for international reuse of FixMyStreet"
 git_branch = "master"
 git_url = "git://github.com/mysociety/fixmystreet-international.git"
 name = "fixmystreet-international"

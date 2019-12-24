@@ -1,4 +1,5 @@
 code_url = "https://github.com/mysociety/django-failedloginblocker"
+description = "Fork which is packaged and released on PyPI"
 git_branch = "master"
 git_url = "git://github.com/mysociety/django-failedloginblocker.git"
 name = "django-failedloginblocker"

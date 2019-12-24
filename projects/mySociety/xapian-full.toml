@@ -1,4 +1,5 @@
 code_url = "https://github.com/mysociety/xapian-full"
+description = "Ruby Xapian bindings, including xapian-core"
 git_branch = "master"
 git_url = "git://github.com/mysociety/xapian-full.git"
 name = "xapian-full"

@@ -1,4 +1,5 @@
 code_url = "https://github.com/mysociety/pmo"
+description = "A repository to allow the PMO team to track issues across multiple projects."
 git_branch = "master"
 git_url = "git://github.com/mysociety/pmo.git"
 name = "pmo"

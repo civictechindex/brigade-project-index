@@ -1,4 +1,5 @@
 code_url = "https://github.com/mysociety/zurich_mobile"
+description = "Mobile app for Zurich version of FixMyStreet"
 git_branch = "master"
 git_url = "git://github.com/mysociety/zurich_mobile.git"
 name = "zurich_mobile"

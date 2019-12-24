@@ -1,4 +1,5 @@
 code_url = "https://github.com/mysociety/node-jade-amd"
+description = "Helpers for working with Jade templates in an AMD setting"
 git_branch = "master"
 git_url = "git://github.com/mysociety/node-jade-amd.git"
 name = "node-jade-amd"

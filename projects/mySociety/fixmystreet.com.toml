@@ -1,4 +1,5 @@
 code_url = "https://github.com/mysociety/fixmystreet.com"
+description = "Deploy-specific scripts for fixmystreet.com. The FixMyStreet code is at https://github.com/mysociety/fixmystreet"
 git_branch = "master"
 git_url = "git://github.com/mysociety/fixmystreet.com.git"
 link_url = "https://www.fixmystreet.com/"

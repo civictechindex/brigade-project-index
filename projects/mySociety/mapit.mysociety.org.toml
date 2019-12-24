@@ -1,4 +1,5 @@
 code_url = "https://github.com/mysociety/mapit.mysociety.org"
+description = "A Django project for running mySociety's main instance of MapIt for the UK"
 git_branch = "master"
 git_url = "git://github.com/mysociety/mapit.mysociety.org.git"
 link_url = "http://mapit.mysociety.org"

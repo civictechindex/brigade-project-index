@@ -1,4 +1,5 @@
 code_url = "https://github.com/mysociety/za-parliament-image-scraper"
+description = "Scrape images from the ZA Parliament website."
 git_branch = "master"
 git_url = "git://github.com/mysociety/za-parliament-image-scraper.git"
 name = "za-parliament-image-scraper"

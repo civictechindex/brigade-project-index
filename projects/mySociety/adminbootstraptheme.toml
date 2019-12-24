@@ -1,4 +1,5 @@
 code_url = "https://github.com/mysociety/adminbootstraptheme"
+description = "A theme for the Alaveteli admin interface that uses Twitter's Bootstrap project to prettify it"
 git_branch = "master"
 git_url = "git://github.com/mysociety/adminbootstraptheme.git"
 name = "adminbootstraptheme"

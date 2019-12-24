@@ -1,4 +1,5 @@
 code_url = "https://github.com/mysociety/fms_geographic_data"
+description = "UK FMS count data by time and geographic area"
 git_branch = "master"
 git_url = "git://github.com/mysociety/fms_geographic_data.git"
 name = "fms_geographic_data"

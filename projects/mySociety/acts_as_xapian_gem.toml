@@ -1,4 +1,5 @@
 code_url = "https://github.com/mysociety/acts_as_xapian_gem"
+description = "acts_as_xapian plugin converted to a gem. Provides integration with the xapian fulltext search engine."
 git_branch = "master"
 git_url = "git://github.com/mysociety/acts_as_xapian_gem.git"
 link_url = "http://www.mikenelsons.com/projects"

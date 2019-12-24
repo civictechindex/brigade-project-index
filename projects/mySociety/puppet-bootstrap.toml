@@ -1,4 +1,5 @@
 code_url = "https://github.com/mysociety/puppet-bootstrap"
+description = "Puppet module to complete initial instance bootstrap"
 git_branch = "master"
 git_url = "git://github.com/mysociety/puppet-bootstrap.git"
 link_url = "https://www.mysociety.org/"

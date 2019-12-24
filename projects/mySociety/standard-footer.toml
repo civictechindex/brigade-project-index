@@ -1,4 +1,5 @@
 code_url = "https://github.com/mysociety/standard-footer"
+description = "The reference implementation of the standard mySociety footer, for use across all of the sites we operate."
 git_branch = "master"
 git_url = "git://github.com/mysociety/standard-footer.git"
 name = "standard-footer"

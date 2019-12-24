@@ -1,4 +1,5 @@
 code_url = "https://github.com/mysociety/misc-scripts"
+description = "Miscellaneous scripts (deploying, log rotation, lockfiles, git hooks, server config, etc)"
 git_branch = "master"
 git_url = "git://github.com/mysociety/misc-scripts.git"
 name = "misc-scripts"

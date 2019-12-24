@@ -1,4 +1,5 @@
 code_url = "https://github.com/mysociety/python-simpledb"
+description = "Open Source Python library for accessing Amazon SimpleDB API"
 git_branch = "master"
 git_url = "git://github.com/mysociety/python-simpledb.git"
 link_url = "http://sixapart.com"

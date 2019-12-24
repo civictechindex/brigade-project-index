@@ -1,4 +1,5 @@
 code_url = "https://github.com/mysociety/varnish-apikey"
+description = "Api management and caching using Varnish http-accelerator and Redis key-value store"
 git_branch = "master"
 git_url = "git://github.com/mysociety/varnish-apikey.git"
 name = "varnish-apikey"

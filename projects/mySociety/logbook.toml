@@ -1,4 +1,5 @@
 code_url = "https://github.com/mysociety/logbook"
+description = "A simple service for recording research events."
 git_branch = "master"
 git_url = "git://github.com/mysociety/logbook.git"
 name = "logbook"

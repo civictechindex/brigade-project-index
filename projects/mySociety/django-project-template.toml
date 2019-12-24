@@ -1,4 +1,5 @@
 code_url = "https://github.com/mysociety/django-project-template"
+description = "A mySociety-specific Django project template"
 git_branch = "master"
 git_url = "git://github.com/mysociety/django-project-template.git"
 name = "django-project-template"

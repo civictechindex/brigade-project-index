@@ -1,4 +1,5 @@
 code_url = "https://github.com/mysociety/home-poplus"
+description = "Website for the POPLUS environment. It serves as a hub for all poplus components, deployments, workspaces, etc."
 git_branch = "gh-pages"
 git_url = "git://github.com/mysociety/home-poplus.git"
 link_url = "poplus.org"

@@ -1,4 +1,5 @@
 code_url = "https://github.com/mysociety/strip_attributes"
+description = "StripAttributes is an ActiveModel extension that automatically strips all attributes of leading and trailing whitespace before validation. If the attribute is blank, it strips the value to nil."
 git_branch = "master"
 git_url = "git://github.com/mysociety/strip_attributes.git"
 link_url = "https://github.com/rmm5t/strip_attributes"

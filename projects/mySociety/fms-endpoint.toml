@@ -1,4 +1,5 @@
 code_url = "https://github.com/mysociety/fms-endpoint"
+description = "basic problem-reports database and Open311 server, suitable for use with http://fixmystreet.org"
 git_branch = "master"
 git_url = "git://github.com/mysociety/fms-endpoint.git"
 name = "fms-endpoint"

@@ -1,4 +1,5 @@
 code_url = "https://github.com/mysociety/annual-report"
+description = "Simple static site describing mySociety’s year in numbers"
 git_branch = "master"
 git_url = "git://github.com/mysociety/annual-report.git"
 link_url = "https://mysociety.org"

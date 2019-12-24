@@ -1,4 +1,5 @@
 code_url = "https://github.com/mysociety/consul"
+description = "Consul - Open Government and E-Participation Web Software"
 git_branch = "master"
 git_url = "git://github.com/mysociety/consul.git"
 name = "consul"

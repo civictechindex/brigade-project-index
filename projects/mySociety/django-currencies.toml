@@ -1,4 +1,5 @@
 code_url = "https://github.com/mysociety/django-currencies"
+description = "django-currencies allows you to define different currencies, and includes template tags/filters to allow easy conversion between them."
 git_branch = "master"
 git_url = "git://github.com/mysociety/django-currencies.git"
 link_url = "http://pypi.python.org/pypi/django-currencies"

@@ -1,4 +1,5 @@
 code_url = "https://github.com/mysociety/django-os-geocoder"
+description = "A Django app that lets you load Ordnance Survey data and use it to find places"
 git_branch = "master"
 git_url = "git://github.com/mysociety/django-os-geocoder.git"
 name = "django-os-geocoder"

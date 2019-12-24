@@ -1,4 +1,5 @@
 code_url = "https://github.com/mysociety/check_lsi_raid"
+description = "Monitoring plugin to check MegaRAID controllers"
 git_branch = "master"
 git_url = "git://github.com/mysociety/check_lsi_raid.git"
 name = "check_lsi_raid"

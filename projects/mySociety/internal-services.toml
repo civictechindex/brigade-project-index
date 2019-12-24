@@ -1,4 +1,5 @@
 code_url = "https://github.com/mysociety/internal-services"
+description = "Internal services (e.g. rate limiting, representatives, email utils)"
 git_branch = "master"
 git_url = "git://github.com/mysociety/internal-services.git"
 name = "internal-services"

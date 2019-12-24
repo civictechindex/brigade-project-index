@@ -1,4 +1,5 @@
 code_url = "https://github.com/mysociety/commonlib"
+description = "mySociety code common to several projects"
 git_branch = "master"
 git_url = "git://github.com/mysociety/commonlib.git"
 name = "commonlib"

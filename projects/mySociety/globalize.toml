@@ -1,4 +1,5 @@
 code_url = "https://github.com/mysociety/globalize"
+description = "Rails I18n de-facto standard library for ActiveRecord model/data translation."
 git_branch = "master"
 git_url = "git://github.com/mysociety/globalize.git"
 name = "globalize"

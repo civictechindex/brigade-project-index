@@ -1,4 +1,5 @@
 code_url = "https://github.com/mysociety/collideoscope"
+description = "Extra code for Collideoscope that doesn't fit into the main FixMyStreet repository"
 git_branch = "master"
 git_url = "git://github.com/mysociety/collideoscope.git"
 link_url = "https://www.collideoscope.org.uk/"

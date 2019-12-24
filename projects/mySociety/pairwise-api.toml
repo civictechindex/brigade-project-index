@@ -1,4 +1,5 @@
 code_url = "https://github.com/mysociety/pairwise-api"
+description = "API that powers allourideas.org and photocracy.org"
 git_branch = "master"
 git_url = "git://github.com/mysociety/pairwise-api.git"
 link_url = "api.allourideas.org"

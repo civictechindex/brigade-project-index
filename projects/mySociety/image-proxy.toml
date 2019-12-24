@@ -1,4 +1,5 @@
 code_url = "https://github.com/mysociety/image-proxy"
+description = "An image proxy using the Express Node.js framework"
 git_branch = "master"
 git_url = "git://github.com/mysociety/image-proxy.git"
 name = "image-proxy"

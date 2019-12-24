@@ -1,4 +1,5 @@
 code_url = "https://github.com/mysociety/django-subdomain-instances"
+description = "A way of allowing subdomains to be served by the same project, and associating objects with particular subdomains."
 git_branch = "master"
 git_url = "git://github.com/mysociety/django-subdomain-instances.git"
 name = "django-subdomain-instances"

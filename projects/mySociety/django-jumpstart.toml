@@ -1,4 +1,5 @@
 code_url = "https://github.com/mysociety/django-jumpstart"
+description = "A template Django project that makes starting new projects easier on the mySoc setup"
 git_branch = "master"
 git_url = "git://github.com/mysociety/django-jumpstart.git"
 name = "django-jumpstart"

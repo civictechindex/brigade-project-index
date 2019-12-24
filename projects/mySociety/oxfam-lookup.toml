@@ -1,4 +1,5 @@
 code_url = "https://github.com/mysociety/oxfam-lookup"
+description = "Postcode/address to representative lookup, via MapIt/EveryPolitician"
 git_branch = "master"
 git_url = "git://github.com/mysociety/oxfam-lookup.git"
 name = "oxfam-lookup"

@@ -1,4 +1,5 @@
 code_url = "https://github.com/mysociety/uk_planning_scraper"
+description = "A Ruby gem to get planning applications data from UK council websites."
 git_branch = "master"
 git_url = "git://github.com/mysociety/uk_planning_scraper.git"
 name = "uk_planning_scraper"

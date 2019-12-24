@@ -1,4 +1,5 @@
 code_url = "https://github.com/mysociety/gaze"
+description = "The mySociety Gazetteer web service"
 git_branch = "master"
 git_url = "git://github.com/mysociety/gaze.git"
 link_url = "http://gaze.mysociety.org/"

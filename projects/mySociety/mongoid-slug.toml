@@ -1,4 +1,5 @@
 code_url = "https://github.com/mysociety/mongoid-slug"
+description = "Generates a URL slug/permalink based on fields in a Mongoid-based model"
 git_branch = "master"
 git_url = "git://github.com/mysociety/mongoid-slug.git"
 link_url = "http://github.com/digitalplaywright/mongoid-slug"

@@ -1,4 +1,5 @@
 code_url = "https://github.com/mysociety/id-mapper"
+description = "A ruby gem to interface with https://github.com/mysociety/id-mapping-store"
 git_branch = "master"
 git_url = "git://github.com/mysociety/id-mapper.git"
 link_url = "https://www.mysociety.org/"

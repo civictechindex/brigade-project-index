@@ -1,4 +1,5 @@
 code_url = "https://github.com/mysociety/django-mptt"
+description = "Utilities for implementing a modified pre-order traversal tree in django."
 git_branch = "master"
 git_url = "git://github.com/mysociety/django-mptt.git"
 name = "django-mptt"

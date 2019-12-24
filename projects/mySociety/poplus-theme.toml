@@ -1,4 +1,5 @@
 code_url = "https://github.com/mysociety/poplus-theme"
+description = "Shared Sass theme for Poplus component sites like mapit.poplus.org and popit.poplus.org"
 git_branch = "master"
 git_url = "git://github.com/mysociety/poplus-theme.git"
 name = "poplus-theme"

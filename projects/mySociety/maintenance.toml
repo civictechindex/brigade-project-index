@@ -1,4 +1,5 @@
 code_url = "https://github.com/mysociety/maintenance"
+description = "This repo provides a page to use during any temporary downtime (e.g. during a deploy)."
 git_branch = "master"
 git_url = "git://github.com/mysociety/maintenance.git"
 name = "maintenance"

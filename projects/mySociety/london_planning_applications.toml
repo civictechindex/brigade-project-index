@@ -1,4 +1,5 @@
 code_url = "https://github.com/mysociety/london_planning_applications"
+description = "Planning applications from all 35 London local planning authorities"
 git_branch = "master"
 git_url = "git://github.com/mysociety/london_planning_applications.git"
 link_url = "https://morph.io/adrianshort/london_planning_applications"

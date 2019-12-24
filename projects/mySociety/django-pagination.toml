@@ -1,4 +1,5 @@
 code_url = "https://github.com/mysociety/django-pagination"
+description = "A set of utilities for creating robust pagination tools throughout a django application"
 git_branch = "master"
 git_url = "git://github.com/mysociety/django-pagination.git"
 link_url = "https://pypi.org/project/mysociety-django-pagination/"

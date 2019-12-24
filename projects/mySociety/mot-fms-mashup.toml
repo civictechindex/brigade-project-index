@@ -1,4 +1,5 @@
 code_url = "https://github.com/mysociety/mot-fms-mashup"
+description = "Short spike project to explore MOT data mashed up with reports from FixMyStreet"
 git_branch = "master"
 git_url = "git://github.com/mysociety/mot-fms-mashup.git"
 name = "mot-fms-mashup"
