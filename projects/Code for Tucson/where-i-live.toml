@@ -1,4 +1,5 @@
 code_url = "https://github.com/CodeForTucson/where-i-live"
+description = "Web-based search tool that displays useful information about an address entered and its surroundings."
 git_branch = "master"
 git_url = "git://github.com/CodeForTucson/where-i-live.git"
 name = "where-i-live"

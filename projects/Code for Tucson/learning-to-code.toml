@@ -1,4 +1,5 @@
 code_url = "https://github.com/CodeForTucson/learning-to-code"
+description = "Collections, ratings, and reviews for web-based coding tutorials"
 git_branch = "master"
 git_url = "git://github.com/CodeForTucson/learning-to-code.git"
 name = "learning-to-code"

@@ -1,4 +1,5 @@
 code_url = "https://github.com/CodeForTucson/ContactMerge"
+description = "Programs to merge contact information (names, addresses, phone, etc) for non-profits who manage contacts in disparate systems."
 git_branch = "master"
 git_url = "git://github.com/CodeForTucson/ContactMerge.git"
 name = "ContactMerge"

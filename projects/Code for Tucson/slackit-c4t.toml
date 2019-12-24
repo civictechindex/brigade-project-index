@@ -1,4 +1,5 @@
 code_url = "https://github.com/CodeForTucson/slackit-c4t"
+description = "Slackit server/integration to provide Slack invite button on Code for Tucson website"
 git_branch = "master"
 git_url = "git://github.com/CodeForTucson/slackit-c4t.git"
 name = "slackit-c4t"

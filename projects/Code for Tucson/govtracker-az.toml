@@ -1,4 +1,5 @@
 code_url = "https://github.com/CodeForTucson/govtracker-az"
+description = "Making local AZ government info available to citizens."
 git_branch = "master"
 git_url = "git://github.com/CodeForTucson/govtracker-az.git"
 name = "govtracker-az"
