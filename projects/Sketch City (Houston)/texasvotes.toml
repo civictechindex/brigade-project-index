@@ -1,4 +1,5 @@
 code_url = "https://github.com/sketch-city/texasvotes"
+description = "A web application to help people in Texas find useful voter information including their polling place and it's hours."
 git_branch = "master"
 git_url = "git://github.com/sketch-city/texasvotes.git"
 name = "texasvotes"

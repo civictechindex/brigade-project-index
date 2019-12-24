@@ -1,4 +1,5 @@
 code_url = "https://github.com/sketch-city/voting-machine-mapping"
+description = "Mapping voting machine types, versions, ages, and vulnerabilities through the State of Texas"
 git_branch = "master"
 git_url = "git://github.com/sketch-city/voting-machine-mapping.git"
 name = "voting-machine-mapping"

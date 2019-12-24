@@ -1,4 +1,5 @@
 code_url = "https://github.com/sketch-city/dedupe"
+description = ":id: A python library for accurate and scaleable data deduplication and entity-resolution."
 git_branch = "master"
 git_url = "git://github.com/sketch-city/dedupe.git"
 link_url = "https://github.com/datamade/dedupe"

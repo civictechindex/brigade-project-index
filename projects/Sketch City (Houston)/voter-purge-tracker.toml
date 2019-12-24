@@ -1,4 +1,5 @@
 code_url = "https://github.com/sketch-city/voter-purge-tracker"
+description = "Tracking Harris County voter rolls to know when people have been suspended or removed."
 git_branch = "master"
 git_url = "git://github.com/sketch-city/voter-purge-tracker.git"
 name = "voter-purge-tracker"
