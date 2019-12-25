@@ -3,8 +3,8 @@ name: Index Website
 on:
   push:
     branches:
-    - index/v1
-    - master
+      - 'index/v1'
+      - master
 
 jobs:
   holobranch-projections:
