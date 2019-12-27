@@ -2,11 +2,13 @@
 
 The Brigade Project Index is designed to create a searchable repository of projects, current and past, create within the Code for America brigade network. We want to empower projects to find volunteers, volunteers to provide valuable contributions to projects, governments to leverage successful proejcts, brigades to foster success, and much more; through awareness of and connections to the work happening across the nation. 
 
+## History
+
 ## Including Your Brigade/Organization in the Index
 
 The index is populated by an automated crawler that starts from the [`brigade-information` project](https://github.com/codeforamerica/brigade-information)'s [`organizations.json` data file](https://github.com/codeforamerica/brigade-information/blob/master/organizations.json). To add or update your civic tech organization's listing in the index, open a pull request against the `brigade-information` project according to its [*How to add or edit your Brigade for the API*](https://github.com/codeforamerica/brigade-information#how-to-add-or-edit-your-brigade-for-the-api) instructions.
 
-## Contributing Members
+## Who We Are
 
 * Andrew Natoli, Open Charlotte Brigade, andrew@opencharlotte.org, @Andrew Natoli 
 * Alison Lawyer, OpenOakland, alison@openoakland.org, @alison
@@ -33,6 +35,8 @@ https://github.com/codeforamerica/brigade-project-index/projects/1
 
 5. For more context, feel free to read through the discourse topic that outlines much of the historical work done around this project:
 (https://discourse.codeforamerica.org/t/brigade-network-project-indexing/533)
+
+6. Read the project brief for an understanding of the current product and it's roadmap: https://docs.google.com/document/d/164Osa-ArdlJppQXqhKmAGjyqaCvkVZ8ZkMg4a3Wkmlk/edit?folder=1yaJe0QQSEw_fKljTJ719o9hQlJAKwGr5#
 
 ## MVP
 
