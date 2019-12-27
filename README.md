@@ -20,6 +20,10 @@ The index is populated by an automated crawler that starts from the [`brigade-in
 * Tom Dooner, Open Oakland, CfA, tdooner@codeforamerical.org, @tdooner
 * Chris Alfano, Code for Philly, chris@codeforphilly.org, `@chris (former NAC)`
 
+
+## How We Work
+
+
 ## Getting Involved
 
 1. Review the Google Drive for meeting agendas and notes: 
