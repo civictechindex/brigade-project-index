@@ -1,8 +1,12 @@
-# Project Intro/Objective
+# Objective
 
-The Brigade Project Index is designed to create a searchable repository of projects, current and past, create within the Code for America brigade network. We want to empower projects to find volunteers, volunteers to provide valuable contributions to projects, governments to leverage successful proejcts, brigades to foster success, and much more; through awareness of and connections to the work happening across the nation. 
+Make Civic projects discoverable. 
+
+For research, for volunteering, for collarboration, find and contribute civic projects to a nationwide network of volunteers.
 
 ## History
+
+Begun in August 2019 by 8 brigades in the Code for America network, Project Index has reached out to other members of the civic community, including Democracy Lab.
 
 ## Including Your Brigade/Organization in the Index
 
