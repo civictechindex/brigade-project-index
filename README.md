@@ -14,13 +14,11 @@ The index is populated by an automated crawler that starts from the [`brigade-in
 
 ## Who We Are
 
-* Andrew Natoli, Open Charlotte Brigade, andrew@opencharlotte.org, @Andrew Natoli 
 * Alison Lawyer, OpenOakland, alison@openoakland.org, @alison
 * Bonnie Wolfe, Hack for LA,, bonnie@hackforla.org, @Bonnie Wolfe
 * Colin King-Bailey, Open Oakland, ckingbailey@gmail.com, @ckingbailey 
 * Greg Boyer, Code for SF, greg@codeforsanfancisco.org, @Gregory Boyer 
 * Nikolaj Baer, Open San Diego, nikolaj.baer@gmail.com, @Nikolaj Baer
-* Maile Malin, Hack for LA, mmalin@codeforamerica.org, @maile
 * Tom Dooner, Open Oakland, CfA, tdooner@codeforamerical.org, @tdooner
 * Chris Alfano, Code for Philly, chris@codeforphilly.org, `@chris (former NAC)`
 
