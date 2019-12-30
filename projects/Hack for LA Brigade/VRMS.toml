@@ -1,14 +1,6 @@
-code_url = "https://github.com/hackforla/VRMS"
-description = "Volunteer Relationship Management System: This is an ambitious project to create a system that will help us measure our human capital development, reduce repetitive tasks and processes, and improve outcomes."
+code_url = "https://github.com/OpenSTL/VRMS"
+description = "Volunteer Relationship Management System"
 git_branch = "master"
-git_url = "git://github.com/hackforla/VRMS.git"
+git_url = "git://github.com/OpenSTL/VRMS.git"
 name = "VRMS"
-topics = [
-  "civictechindex",
-  "code-for-all",
-  "code-for-america",
-  "github-api",
-  "hack-for-la",
-  "meetup-api",
-  "sign-in"
-]
+topics = [ "code-for-america", "hack-for-la", "open-stl" ]
