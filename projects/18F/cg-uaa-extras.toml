@@ -1,5 +1,0 @@
-code_url = "https://github.com/18F/cg-uaa-extras"
-description = "This application provides for platform invitations using the /invite_users UAA API endpoint and allowing password resets for cloud.gov IdP users"
-git_branch = "master"
-git_url = "git://github.com/18F/cg-uaa-extras.git"
-name = "cg-uaa-extras"
