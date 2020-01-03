@@ -1,0 +1,6 @@
+code_url = "https://github.com/codefordenver/mattermost-server"
+description = "Open source Slack-alternative in Golang and React - Mattermost"
+git_branch = "master"
+git_url = "git://github.com/codefordenver/mattermost-server.git"
+link_url = "https://mattermost.com"
+name = "mattermost-server"
