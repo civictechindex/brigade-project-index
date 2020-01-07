@@ -1,0 +1,5 @@
+code_url = "https://github.com/18F/cg-deploy-opslogin"
+description = "Deploy dedicated UAA instances for cloud.gov operations team"
+git_branch = "master"
+git_url = "git://github.com/18F/cg-deploy-opslogin.git"
+name = "cg-deploy-opslogin"
