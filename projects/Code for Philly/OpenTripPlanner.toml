@@ -3,4 +3,4 @@ description = "A deployment of the OpenTripPlanner multi-modal trip planning too
 link_url = "http://opentrips.phl.io/"
 name = "OpenTripPlanner"
 status = "Maintaining"
-topics = [ "Biking", "Cycling", "Transit", "Transport", "bicyc" ]
+topics = [ "Transit", "Cycling", "Transport", "Biking", "bicyc" ]
