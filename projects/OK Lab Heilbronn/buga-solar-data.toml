@@ -1,0 +1,5 @@
+code_url = "https://github.com/opendata-heilbronn/buga-solar-data"
+description = "Daten der Solaranlage für den Farmbot auf der Bundesgartenschau 2019"
+git_branch = "master"
+git_url = "git://github.com/opendata-heilbronn/buga-solar-data.git"
+name = "buga-solar-data"
