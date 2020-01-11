@@ -1,4 +1,6 @@
 code_url = "https://github.com/codeforgreenville/hackgreenville-com"
-git_branch = "master"
+description = "HackGreenville's Website"
+git_branch = "develop"
 git_url = "git://github.com/codeforgreenville/hackgreenville-com.git"
+link_url = "https://hackgreenville.com"
 name = "hackgreenville-com"
