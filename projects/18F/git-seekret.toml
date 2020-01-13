@@ -1,5 +1,0 @@
-code_url = "https://github.com/18F/git-seekret"
-description = "Git module to prevent from committing sensitive information into the repository."
-git_branch = "master"
-git_url = "git://github.com/18F/git-seekret.git"
-name = "git-seekret"
