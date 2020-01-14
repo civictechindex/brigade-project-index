@@ -1,0 +1,5 @@
+code_url = "https://github.com/open-austin/purge-alert"
+description = "browser extension for monitoring voter registration status"
+git_branch = "master"
+git_url = "git://github.com/open-austin/purge-alert.git"
+name = "purge-alert"
