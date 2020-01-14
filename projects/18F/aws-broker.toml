@@ -1,0 +1,5 @@
+code_url = "https://github.com/18F/aws-broker"
+description = "Cloud Foundry AWS RDS Service Broker"
+git_branch = "master"
+git_url = "git://github.com/18F/aws-broker.git"
+name = "aws-broker"
