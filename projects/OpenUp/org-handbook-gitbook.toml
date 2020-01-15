@@ -1,0 +1,5 @@
+code_url = "https://github.com/OpenUpSA/org-handbook-gitbook"
+description = "Synced git repo of our organisational handbook gitbook"
+git_branch = "master"
+git_url = "git://github.com/OpenUpSA/org-handbook-gitbook.git"
+name = "org-handbook-gitbook"
