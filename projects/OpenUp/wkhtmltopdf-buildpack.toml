@@ -1,0 +1,5 @@
+code_url = "https://github.com/OpenUpSA/wkhtmltopdf-buildpack"
+description = "Heroku buildpack for WKHTMLTOPDF"
+git_branch = "master"
+git_url = "git://github.com/OpenUpSA/wkhtmltopdf-buildpack.git"
+name = "wkhtmltopdf-buildpack"
