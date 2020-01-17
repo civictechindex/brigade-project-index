@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforamerica/cmr-datashare-terraform"
+description = "Terraform scripts for setting up our SFTP server"
 git_branch = "master"
 git_url = "git://github.com/codeforamerica/cmr-datashare-terraform.git"
 name = "cmr-datashare-terraform"
