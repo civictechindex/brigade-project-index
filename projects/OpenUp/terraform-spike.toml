@@ -1,4 +1,5 @@
 code_url = "https://github.com/OpenUpSA/terraform-spike"
+description = "An experiment in provisioning resources using terraform"
 git_branch = "master"
 git_url = "git://github.com/OpenUpSA/terraform-spike.git"
 name = "terraform-spike"
