@@ -1,6 +1,0 @@
-code_url = "https://github.com/codeformuenster/immoscout"
-description = "Scraping offers for real estate markets."
-git_branch = "master"
-git_url = "git://github.com/codeformuenster/immoscout.git"
-name = "immoscout"
-topics = [ "dockerfile", "scraper" ]
