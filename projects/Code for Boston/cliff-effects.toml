@@ -1,6 +1,7 @@
 code_url = "https://github.com/codeforboston/cliff-effects"
-description = "Cliff effects guidance prototype"
+description = "Cliff effects guidance prototype (archived)"
 git_branch = "dev"
 git_url = "git://github.com/codeforboston/cliff-effects.git"
 link_url = "https://codeforboston.github.io/cliff-effects/#/"
 name = "cliff-effects"
+topics = [ "archived", "outdated" ]
