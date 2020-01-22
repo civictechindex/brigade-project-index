@@ -1,6 +1,6 @@
 code_url = "https://github.com/code4romania/catpol-declaratii"
 description = "Crowd sourcing implementation of Moonsheep platform for Romanian asset declarations."
-git_branch = "master"
+git_branch = "develop"
 git_url = "git://github.com/code4romania/catpol-declaratii.git"
 name = "catpol-declaratii"
 topics = [
