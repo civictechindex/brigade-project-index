@@ -4,3 +4,11 @@ git_branch = "master"
 git_url = "git://github.com/Code4PuertoRico/suministrospr.git"
 link_url = "https://suministrospr.com"
 name = "suministrospr"
+topics = [
+  "civic-tech",
+  "code4pr",
+  "disaster-response",
+  "django",
+  "python",
+  "suministros-puerto-rico"
+]
