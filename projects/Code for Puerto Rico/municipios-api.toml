@@ -1,0 +1,15 @@
+code_url = "https://github.com/Code4PuertoRico/municipios-api"
+description = "Simple Flask API for getting distance and adjacency information on Puerto Rico's municipalities"
+git_branch = "master"
+git_url = "git://github.com/Code4PuertoRico/municipios-api.git"
+link_url = "https://municipios.rauln.com"
+name = "municipios-api"
+topics = [
+  "flask-api",
+  "graph-algorithms",
+  "municipalities",
+  "puerto-rico",
+  "puerto-rico-municipalities",
+  "zappa",
+  "zappa-flask"
+]
