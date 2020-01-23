@@ -3,3 +3,4 @@ description = "cloud.gov infrastructure provisioning and deployment"
 git_branch = "master"
 git_url = "git://github.com/18F/cg-provision.git"
 name = "cg-provision"
+topics = [ "cloud-gov" ]
