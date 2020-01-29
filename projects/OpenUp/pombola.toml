@@ -4,3 +4,4 @@ git_branch = "master"
 git_url = "git://github.com/OpenUpSA/pombola.git"
 link_url = "http://pa.org.za/"
 name = "pombola"
+topics = [ "politicians", "southafrica" ]
