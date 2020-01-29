@@ -1,5 +1,5 @@
 code_url = "https://github.com/OpenUpSA/ansible-config"
-description = "EXPERIMENTAL - trying out ansible for server setup and perhaps app deployment"
+description = "Ansible playbooks and inventory for OpenUp"
 git_branch = "master"
 git_url = "git://github.com/OpenUpSA/ansible-config.git"
 name = "ansible-config"
