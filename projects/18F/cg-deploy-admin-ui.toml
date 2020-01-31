@@ -1,0 +1,5 @@
+code_url = "https://github.com/18F/cg-deploy-admin-ui"
+description = "Source for the Bosh deployment manifest and deployment pipeline for the 18F admin-ui deployment"
+git_branch = "master"
+git_url = "git://github.com/18F/cg-deploy-admin-ui.git"
+name = "cg-deploy-admin-ui"
