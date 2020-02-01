@@ -1,6 +1,5 @@
 code_url = "https://github.com/18F/example"
-description = "👀 Easy deploy to Netlify. Click link to try it out. This is an example of how cState should look and function like from a production/user standpoint, this here has exampleSite with the proper hieracracy."
+description = "This is an example of how cState - a static status page that runs on Federalist and used Netlify CMS for content editing and github oauth"
 git_branch = "master"
 git_url = "git://github.com/18F/example.git"
-link_url = "https://app.netlify.com/start/deploy?repository=https://github.com/cstate/example"
 name = "example"
