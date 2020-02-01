@@ -1,0 +1,5 @@
+code_url = "https://github.com/code4romania/deploy-scripts"
+description = "Deployment scripts for Code for Romania projects"
+git_branch = "master"
+git_url = "git://github.com/code4romania/deploy-scripts.git"
+name = "deploy-scripts"
