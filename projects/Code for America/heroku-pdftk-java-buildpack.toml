@@ -1,0 +1,5 @@
+code_url = "https://github.com/codeforamerica/heroku-pdftk-java-buildpack"
+description = "Install pdftk-java on Heroku"
+git_branch = "master"
+git_url = "git://github.com/codeforamerica/heroku-pdftk-java-buildpack.git"
+name = "heroku-pdftk-java-buildpack"
