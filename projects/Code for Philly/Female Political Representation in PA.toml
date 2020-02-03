@@ -2,4 +2,4 @@ code_url = "https://github.com/TRys8/Female-Political-Representation-in-PA"
 description = "Some women from Rittenhouse Political stopped by Code for Philly a month or two ago to ask for help with a data set in CSV.  They would like to visually display the data in tables, graphs, and ultimately a \"heat map\" to show how women have been represented in PA from 2000-2014.  Click the developer's link to go to the GitHub page.  We are working in Python and potentially JavaScript down the line to display this data in a palatable manner for end users."
 name = "Female Political Representation in PA"
 status = "Bootstrapping"
-topics = [ "Equality", "Politics", "Women's Rights" ]
+topics = [ "Politics", "Equality", "Women's Rights" ]
