@@ -1,0 +1,5 @@
+code_url = "https://github.com/18F/static-statuspage-example"
+description = "This is an example of how cState - a static status page that runs on Federalist and uses Netlify CMS for content editing and github oauth"
+git_branch = "master"
+git_url = "git://github.com/18F/static-statuspage-example.git"
+name = "static-statuspage-example"
