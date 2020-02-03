@@ -4,3 +4,16 @@ git_branch = "master"
 git_url = "git://github.com/BetaNYC/SLAM.git"
 link_url = "https://slam.beta.nyc"
 name = "SLAM"
+topics = [
+  "carto",
+  "civic-data",
+  "civic-tech",
+  "community-boards",
+  "liquor-licenses",
+  "nyc",
+  "open-data",
+  "restaurant-inspection",
+  "sidewalk-cafe",
+  "slam",
+  "svelte"
+]
