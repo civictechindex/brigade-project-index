@@ -1,0 +1,5 @@
+code_url = "https://github.com/18F/cg-deploy-s3-broker"
+description = "part of cloud.gov, supporting our S3 service"
+git_branch = "master"
+git_url = "git://github.com/18F/cg-deploy-s3-broker.git"
+name = "cg-deploy-s3-broker"

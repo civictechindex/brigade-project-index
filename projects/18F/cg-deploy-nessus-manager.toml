@@ -1,0 +1,5 @@
+code_url = "https://github.com/18F/cg-deploy-nessus-manager"
+description = "Pipeline for deployment of Nessus Manager for cloud.gov"
+git_branch = "master"
+git_url = "git://github.com/18F/cg-deploy-nessus-manager.git"
+name = "cg-deploy-nessus-manager"
