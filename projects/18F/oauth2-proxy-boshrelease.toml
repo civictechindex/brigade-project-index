@@ -1,0 +1,4 @@
+code_url = "https://github.com/18F/oauth2-proxy-boshrelease"
+git_branch = "master"
+git_url = "git://github.com/18F/oauth2-proxy-boshrelease.git"
+name = "oauth2-proxy-boshrelease"

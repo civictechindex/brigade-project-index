@@ -1,0 +1,5 @@
+code_url = "https://github.com/18F/oauth2_proxy"
+description = "A reverse proxy that provides authentication using OAuth2"
+git_branch = "master"
+git_url = "git://github.com/18F/oauth2_proxy.git"
+name = "oauth2_proxy"

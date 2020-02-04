@@ -1,0 +1,5 @@
+code_url = "https://github.com/18F/kubernetes-release"
+description = "BOSH release for Kubernetes"
+git_branch = "master"
+git_url = "git://github.com/18F/kubernetes-release.git"
+name = "kubernetes-release"
