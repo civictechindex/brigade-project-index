@@ -1,12 +1,14 @@
 code_url = "https://github.com/code4romania/seismic-risc"
-description = "Let's save lives together!"
+description = "Web app for keeping track of buildings in danger of collapsing in the event of an earthquake"
 git_branch = "master"
 git_url = "git://github.com/code4romania/seismic-risc.git"
 name = "seismic-risc"
 topics = [
   "civic-tech",
   "code4ro",
+  "crowdsourcing",
   "django",
+  "earthquakes",
   "javascript",
   "python",
   "react"
