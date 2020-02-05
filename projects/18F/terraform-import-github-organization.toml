@@ -1,0 +1,6 @@
+code_url = "https://github.com/18F/terraform-import-github-organization"
+description = "Script to fully automate Terraform import of Github Org (teams, users, and repos)"
+git_branch = "master"
+git_url = "git://github.com/18F/terraform-import-github-organization.git"
+link_url = "https://www.chrisanthropic.com/blog/2017/script-to-automate-importing-github-org-into-terraform/"
+name = "terraform-import-github-organization"
