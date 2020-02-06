@@ -1,5 +1,5 @@
 code_url = "https://github.com/18F/shibboleth-boshrelease"
-description = "[WIP] IdP using shibboleth as a BOSH release"
+description = "IdP using Shibboleth as a BOSH release"
 git_branch = "master"
 git_url = "git://github.com/18F/shibboleth-boshrelease.git"
 name = "shibboleth-boshrelease"
