@@ -1,0 +1,5 @@
+code_url = "https://github.com/CodeForCuritiba/curitiba-dados-abertos"
+description = "API de carga dos dados pré limpos do site do Curitiba Dados Abertos"
+git_branch = "master"
+git_url = "git://github.com/CodeForCuritiba/curitiba-dados-abertos.git"
+name = "curitiba-dados-abertos"
