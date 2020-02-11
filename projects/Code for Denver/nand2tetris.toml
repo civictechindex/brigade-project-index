@@ -1,0 +1,5 @@
+code_url = "https://github.com/codefordenver/nand2tetris"
+description = "Code for Denver’s nand2tetris learning group. "
+git_branch = "master"
+git_url = "git://github.com/codefordenver/nand2tetris.git"
+name = "nand2tetris"
