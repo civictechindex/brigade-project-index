@@ -1,0 +1,6 @@
+code_url = "https://github.com/18F/openfisca-core"
+description = "OpenFisca core engine. See other repositories for countries-specific code & data."
+git_branch = "master"
+git_url = "git://github.com/18F/openfisca-core.git"
+link_url = "https://openfisca.org"
+name = "openfisca-core"
