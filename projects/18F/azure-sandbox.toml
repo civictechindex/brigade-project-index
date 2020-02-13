@@ -1,0 +1,6 @@
+code_url = "https://github.com/18F/azure-sandbox"
+description = "Temporary home for deploying services into Azure: reliably, repeatably, compliantly"
+git_branch = "master"
+git_url = "git://github.com/18F/azure-sandbox.git"
+name = "azure-sandbox"
+topics = [ "azure", "unmaintained" ]
