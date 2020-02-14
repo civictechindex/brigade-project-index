@@ -1,0 +1,5 @@
+code_url = "https://github.com/18F/sonarqube-on-cf"
+description = "How to deploy SonarQube on Cloud Foundry"
+git_branch = "master"
+git_url = "git://github.com/18F/sonarqube-on-cf.git"
+name = "sonarqube-on-cf"
