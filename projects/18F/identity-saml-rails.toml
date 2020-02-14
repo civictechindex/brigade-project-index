@@ -1,6 +1,0 @@
-code_url = "https://github.com/18F/identity-saml-rails"
-description = "Test Service Provider for the Identity project"
-git_branch = "master"
-git_url = "git://github.com/18F/identity-saml-rails.git"
-name = "identity-saml-rails"
-topics = [ "login-gov" ]
