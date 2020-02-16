@@ -1,5 +1,5 @@
 code_url = "https://github.com/hackforla/lucky-parking"
-description = "Begin task to be done first and then moves to Machine learning task"
+description = "Helps people look for nearby street parking with the least probability of getting citations"
 git_branch = "master"
 git_url = "git://github.com/hackforla/lucky-parking.git"
 name = "lucky-parking"
