@@ -1,0 +1,7 @@
+code_url = "https://github.com/hackforla/website"
+description = "Hack for LA's website"
+git_branch = "gh-pages"
+git_url = "git://github.com/hackforla/website.git"
+link_url = "https://www.hackforla.org"
+name = "website"
+topics = [ "docker-compose", "gh-pages", "hack-for-la", "jekyll" ]
