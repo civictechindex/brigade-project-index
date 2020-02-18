@@ -1,0 +1,5 @@
+code_url = "https://github.com/Chicago/census2020_ward_rpt"
+description = "Census 2020 Report"
+git_branch = "master"
+git_url = "git://github.com/Chicago/census2020_ward_rpt.git"
+name = "census2020_ward_rpt"
