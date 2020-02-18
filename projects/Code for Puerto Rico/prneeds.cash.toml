@@ -3,3 +3,4 @@ description = "Repository of grassroots efforts in Puerto Rico"
 git_branch = "master"
 git_url = "git://github.com/Code4PuertoRico/prneeds.cash.git"
 name = "prneeds.cash"
+topics = [ "disaster-relief", "donations", "gatsby", "puerto-rico" ]
