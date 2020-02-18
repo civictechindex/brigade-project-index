@@ -3,3 +3,9 @@ description = "Adopt pets easier with PetAdoption for Android"
 git_branch = "develop"
 git_url = "git://github.com/cforlando/PetAdoption-Android.git"
 name = "PetAdoption-Android"
+topics = [
+  "android",
+  "code-for-america",
+  "code-for-orlando",
+  "pet-adoption"
+]

@@ -3,3 +3,10 @@ description = "Explore a gallery of local artwork through the Street Art Orlando
 git_branch = "master"
 git_url = "git://github.com/cforlando/street-art-orlando-android.git"
 name = "street-art-orlando-android"
+topics = [
+  "android",
+  "art",
+  "code-for-america",
+  "code-for-orlando",
+  "murals"
+]

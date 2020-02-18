@@ -3,3 +3,4 @@ description = "Chronic illness productivity app centered around the metaphor of 
 git_branch = "master"
 git_url = "git://github.com/cforlando/Daily-Spoonie.git"
 name = "Daily-Spoonie"
+topics = [ "code-for-america", "code-for-orlando", "health-care" ]

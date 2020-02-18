@@ -3,3 +3,9 @@ description = "Fox-Dono is a very special fox, who keeps track of when meetings 
 git_branch = "master"
 git_url = "git://github.com/cforlando/Fox-Dono.git"
 name = "Fox-Dono"
+topics = [
+  "code-for-america",
+  "code-for-orlando",
+  "meeting-planner",
+  "productivity"
+]

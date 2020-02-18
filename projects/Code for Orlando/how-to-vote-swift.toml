@@ -3,3 +3,10 @@ description = "Voting information in the 21st Century"
 git_branch = "master"
 git_url = "git://github.com/cforlando/how-to-vote-swift.git"
 name = "how-to-vote-swift"
+topics = [
+  "code-for-america",
+  "code-for-orlando",
+  "concept",
+  "swift",
+  "voter-engagement"
+]
