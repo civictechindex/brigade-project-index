@@ -2,3 +2,9 @@ code_url = "https://github.com/cforlando/expungement-journey"
 git_branch = "master"
 git_url = "git://github.com/cforlando/expungement-journey.git"
 name = "expungement-journey"
+topics = [
+  "code-for-america",
+  "code-for-orlando",
+  "record-clearance",
+  "record-expungement"
+]

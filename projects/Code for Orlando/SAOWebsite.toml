@@ -3,3 +3,10 @@ description = "Frontend for Street Art Orlando App"
 git_branch = "master"
 git_url = "git://github.com/cforlando/SAOWebsite.git"
 name = "SAOWebsite"
+topics = [
+  "art",
+  "code-for-america",
+  "code-for-orlando",
+  "murals",
+  "web"
+]

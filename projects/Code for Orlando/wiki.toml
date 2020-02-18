@@ -3,3 +3,4 @@ description = "How to's for all things Code for Orlando"
 git_branch = "master"
 git_url = "git://github.com/cforlando/wiki.git"
 name = "wiki"
+topics = [ "meeting-minutes", "project-management" ]
