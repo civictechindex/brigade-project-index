@@ -2,7 +2,7 @@
 
 Make Civic projects discoverable. 
 
-For research, for volunteering, for collarboration, find and contribute civic projects to a nationwide network of volunteers.
+For research, for volunteering, for collaboration, find and contribute civic projects to a nationwide network of volunteers.
 
 ## History
 
