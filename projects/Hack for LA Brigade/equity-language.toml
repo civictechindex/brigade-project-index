@@ -1,12 +1,14 @@
-code_url = "https://github.com/hackforla/gender-equity"
+code_url = "https://github.com/hackforla/equity-language"
 description = "A project to help cities replace gender exclusive language with gender inclusive language."
 git_branch = "master"
-git_url = "git://github.com/hackforla/gender-equity.git"
-name = "gender-equity"
+git_url = "git://github.com/hackforla/equity-language.git"
+name = "equity-language"
 topics = [
+  "abelist-language",
   "civictechindex",
   "code-for-america",
   "gender-equity",
   "gender-inclusive-language",
+  "gender-neutral-language",
   "hack-for-la"
 ]
