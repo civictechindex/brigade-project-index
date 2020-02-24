@@ -1,5 +1,5 @@
 code_url = "https://github.com/18F/cg-deploy-shibboleth"
-description = ":cloud:.gov Shibboleth :airplane: Concourse Deployment"
+description = "cloud.gov deployment for Shibboleth."
 git_branch = "master"
 git_url = "git://github.com/18F/cg-deploy-shibboleth.git"
 name = "cg-deploy-shibboleth"
