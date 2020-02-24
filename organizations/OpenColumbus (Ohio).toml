@@ -1,0 +1,15 @@
+city = "Columbus, OH"
+events_url = "https://www.meetup.com/OpenColumbus/"
+latitude = "39.9622601"
+longitude = "-83.0007065"
+name = "OpenColumbus (Ohio)"
+previous_names = [ "Code for Columbus" ]
+projects_list_url = "https://github.com/SCODEMeetup"
+tags = [ "Brigade", "Code for America", "Official" ]
+type = "Brigade, Code for America, Official"
+website = "http://site.opencolumbus.com/"
+
+[social_profiles]
+facebook = "https://www.facebook.com/opencolumbus/"
+linkedin = "https://www.linkedin.com/company/opencolumbus/"
+twitter = "@OpenColumbus"
