@@ -4,3 +4,4 @@ git_branch = "gh-pages"
 git_url = "git://github.com/open-data-standards/permitdata.org.git"
 link_url = "https://permitdata.org"
 name = "permitdata.org"
+topics = [ "government", "open-data", "opendata", "pemits", "standards" ]
