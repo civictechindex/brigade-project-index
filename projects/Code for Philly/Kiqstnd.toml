@@ -2,4 +2,4 @@ code_url = "https://github.com/csharpie/kiqstnd"
 description = "A bike parking locator that allows users to find Bike Parking published through Open Data Philly and allows for user input to display parking they've discovered. In addition, a map overlay of Bike Theft data would be able to be toggled to show theft by month and year."
 name = "Kiqstnd"
 status = "Bootstrapping"
-topics = [ "Mapping", "Bike", "Crime Mapping", "Parking", "Biking" ]
+topics = [ "Bike", "Biking", "Crime Mapping", "Mapping", "Parking" ]
