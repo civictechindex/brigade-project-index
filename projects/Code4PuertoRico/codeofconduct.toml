@@ -1,5 +1,11 @@
 code_url = "https://github.com/Code4PuertoRico/codeofconduct"
-description = "Code for America's Code of Conduct"
+description = "Código de conducta de Code 4 Puerto Rico / Code 4 Puerto Rico Code of Conduct"
 git_branch = "master"
 git_url = "git://github.com/Code4PuertoRico/codeofconduct.git"
 name = "codeofconduct"
+topics = [
+  "code-of-conduct",
+  "code4puertorico",
+  "codigo-de-conduta",
+  "puerto-rico"
+]
