@@ -3,3 +3,4 @@ description = "(public) AWS Lambdas used by the Login.gov project"
 git_branch = "master"
 git_url = "git://github.com/18F/identity-lambda-functions.git"
 name = "identity-lambda-functions"
+topics = [ "login-gov" ]
