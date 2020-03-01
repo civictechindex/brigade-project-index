@@ -1,5 +1,6 @@
 code_url = "https://github.com/Chicago/design-system-site"
-description = "This site is a example site for Chicago Digital Web Sites. It is the most recent published version of the Chicago Design System theme, found on our CDN."
+description = "This site is an example site for Chicago Digital Web Sites. It uses the latest public version of the Chicago Design System theme on our CDN."
 git_branch = "master"
 git_url = "git://github.com/Chicago/design-system-site.git"
+link_url = "https://chicago.github.io/design-system-site/"
 name = "design-system-site"
