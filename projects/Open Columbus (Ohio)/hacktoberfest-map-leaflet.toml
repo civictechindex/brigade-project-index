@@ -1,0 +1,6 @@
+code_url = "https://github.com/SCODEMeetup/hacktoberfest-map-leaflet"
+description = "Simple Leaflet.js map showing Smart Columbus Experience Center location"
+git_branch = "master"
+git_url = "git://github.com/SCODEMeetup/hacktoberfest-map-leaflet.git"
+name = "hacktoberfest-map-leaflet"
+topics = [ "leaflet", "leaflet-layer", "leaflet-map", "leafletjs" ]

@@ -1,0 +1,5 @@
+code_url = "https://github.com/SCODEMeetup/imr"
+description = "The infant mortality rate is the number of deaths of children under one year of age per 1000 live births. 2-3 babies in Franklin County die before the age of 1 every week."
+git_branch = "master"
+git_url = "git://github.com/SCODEMeetup/imr.git"
+name = "imr"

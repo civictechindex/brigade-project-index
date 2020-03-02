@@ -1,0 +1,5 @@
+code_url = "https://github.com/SCODEMeetup/cbus_fair_chrome_extension"
+description = "A Chrome extension that rates bus route accessibility compared to a business's operating hours. "
+git_branch = "master"
+git_url = "git://github.com/SCODEMeetup/cbus_fair_chrome_extension.git"
+name = "cbus_fair_chrome_extension"
