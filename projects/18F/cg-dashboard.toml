@@ -1,7 +1,0 @@
-code_url = "https://github.com/18F/cg-dashboard"
-description = "A web dashboard for managing Cloud Foundry Apps"
-git_branch = "master"
-git_url = "git://github.com/18F/cg-dashboard.git"
-link_url = "https://dashboard.fr.cloud.gov"
-name = "cg-dashboard"
-topics = [ "cloud", "cloud-foundry", "cloudfoundry", "gov", "react" ]
