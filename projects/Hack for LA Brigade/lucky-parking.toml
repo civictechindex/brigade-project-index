@@ -2,6 +2,7 @@ code_url = "https://github.com/hackforla/lucky-parking"
 description = "Helps people look for nearby street parking with the least probability of getting citations"
 git_branch = "master"
 git_url = "git://github.com/hackforla/lucky-parking.git"
+link_url = "https://www.hackforla.org/projects/lucky-parking.html"
 name = "lucky-parking"
 topics = [
   "citations",
