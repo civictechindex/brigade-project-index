@@ -1,7 +1,7 @@
-code_url = "https://github.com/Code4PuertoRico/papeleta-pr"
+code_url = "https://github.com/Code4PuertoRico/paravotar"
 description = "Una herramienta para practicar tu voto con la papeleta de Puerto Rico."
 git_branch = "master"
-git_url = "git://github.com/Code4PuertoRico/papeleta-pr.git"
+git_url = "git://github.com/Code4PuertoRico/paravotar.git"
 link_url = "https://paravotar.org"
-name = "papeleta-pr"
+name = "paravotar"
 topics = [ "civic-tech", "code4pr", "gatsby", "puerto-rico", "voting" ]
