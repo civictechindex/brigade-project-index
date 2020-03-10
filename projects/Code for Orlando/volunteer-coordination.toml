@@ -4,3 +4,4 @@ git_branch = "master"
 git_url = "git://github.com/cforlando/volunteer-coordination.git"
 link_url = "http://cl.ly/1n1s1w1O3X1Z"
 name = "volunteer-coordination"
+topics = [ "community-organizing", "inactive" ]

@@ -3,3 +3,4 @@ description = "Biking utility"
 git_branch = "master"
 git_url = "git://github.com/cforlando/bike-orlando-android.git"
 name = "bike-orlando-android"
+topics = [ "inactive" ]

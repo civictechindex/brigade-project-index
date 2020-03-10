@@ -2,3 +2,4 @@ code_url = "https://github.com/cforlando/wordpress-heroku-php"
 git_branch = "master"
 git_url = "git://github.com/cforlando/wordpress-heroku-php.git"
 name = "wordpress-heroku-php"
+topics = [ "inactive" ]

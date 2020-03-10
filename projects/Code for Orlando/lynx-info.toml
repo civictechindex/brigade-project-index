@@ -3,3 +3,4 @@ description = "Connect Lynx' info to riders and observers"
 git_branch = "master"
 git_url = "git://github.com/cforlando/lynx-info.git"
 name = "lynx-info"
+topics = [ "inactive" ]

@@ -3,3 +3,4 @@ description = "New website WP theme!"
 git_branch = "master"
 git_url = "git://github.com/cforlando/new-code-for-orlando-website.git"
 name = "new-code-for-orlando-website"
+topics = [ "inactive" ]
