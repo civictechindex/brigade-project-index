@@ -4,3 +4,4 @@ git_branch = "master"
 git_url = "git://github.com/cforlando/citygram-services.git"
 link_url = "https://citygram-services.herokuapp.com/"
 name = "citygram-services"
+topics = [ "inactive" ]
