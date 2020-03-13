@@ -1,0 +1,5 @@
+code_url = "https://github.com/codeforboston/beacon"
+description = "A Slackbot to help newcomers get oriented"
+git_branch = "master"
+git_url = "git://github.com/codeforboston/beacon.git"
+name = "beacon"
