@@ -1,0 +1,5 @@
+code_url = "https://github.com/CodeForBaltimore/COVID-19-test-locations"
+description = "A tool to help find testing locations for COVID-19 in the United States"
+git_branch = "master"
+git_url = "git://github.com/CodeForBaltimore/COVID-19-test-locations.git"
+name = "COVID-19-test-locations"
