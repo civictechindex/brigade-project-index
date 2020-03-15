@@ -1,5 +1,5 @@
 code_url = "https://github.com/OpenMaine/openmaine-website"
-description = "This is the source of the website for openmaine.org. It's based on a bootstrap theme, but currently just HTML, CSS, and JavaScript. NOTE: These files correspond to the live site. Don't edit the main branch. Instead, make a new branch, make your changes, and issue a pull request."
+description = "This is the source of the website for openmaine.org. It's based on a bootstrap theme, but currently just HTML, CSS, and JavaScript. NOTE: These files correspond to the actual site. It's usually best not to edit the main branch. Instead, make a new branch, make your changes, and issue a pull request."
 git_branch = "master"
 git_url = "git://github.com/OpenMaine/openmaine-website.git"
 name = "openmaine-website"
