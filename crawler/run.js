@@ -7,6 +7,8 @@ const GitSheets = require('gitsheets');
 const ProgressBar = require('progress');
 const parseLinkHeader = require('parse-link-header');
 
+const CodeForAmericaNetwork = require('./lib/repositories/organizations/CodeForAmericaNetwork.js');
+
 const EMPTY_TREE_HASH = '4b825dc642cb6eb9a060e54bf8d69288fbee4904';
 const CFAPI_FIELDS = ['name', 'description', 'link_url', 'code_url', 'type', 'categories', 'tags', 'organization_name', 'status'];
 
@@ -144,9 +146,8 @@ require('yargs')
                 let orgsTree;
 
                 try {
-                    logger.info('loading orgs tree from cfapi repo...');
-                    orgsTree = await loadOrgsTree(repo, orgsSource);
-                    logger.info('orgs tree loaded');
+                    const organizations = await CodeForAmericaNetwork.loadFromUrl(orgsSource);
+                    orgsTree = await organizations.buildTree(repo);
                 } catch (err) {
                     logger.error(`failed to load organizations: ${err}`);
                     process.exit(1);
@@ -314,37 +315,6 @@ function normalizeRef(ref) {
     }
 
     return `refs/heads/${ref}`;
-}
-
-async function loadOrgsTree(repo, orgsSource) {
-
-    // load data from JSON URL
-    const { data: orgs } = await axios.get(orgsSource);
-
-
-    // build tree
-    const tree = repo.createTree();
-    const progressBar = new ProgressBar('building orgs list :current/:total [:bar] :etas', {
-        total: orgs.length
-    });
-
-    for (const org of orgs) {
-        // null-out empty strings
-        for (const key in org) {
-            if (org[key] === '') {
-                org[key] = null;
-            }
-        }
-
-        const toml = GitSheets.stringifyRecord(org);
-        const blob = await tree.writeChild(`${org.name}.toml`, toml);
-
-        progressBar.tick();
-    }
-
-
-    // return tree
-    return tree;
 }
 
 async function loadGithubOrgProjects(repo, username) {
