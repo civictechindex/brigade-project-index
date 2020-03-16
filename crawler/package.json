@@ -11,5 +11,8 @@
     "parse-link-header": "^1.0.1",
     "progress": "^2.0.3",
     "yargs": "^14.0.0"
+  },
+  "devDependencies": {
+    "winston": "^3.2.1"
   }
 }

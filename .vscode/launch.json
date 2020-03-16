@@ -10,6 +10,9 @@
             "name": "Crawl organizations",
             "program": "${workspaceFolder}/crawler/run.js",
             "cwd": "${workspaceFolder}",
+            "env": {
+                "DEBUG": "1"
+            },
             "args": [
                 "--orgs",
                 "--commit-to=index/v1",
@@ -26,6 +29,9 @@
             "name": "Crawl projects",
             "program": "${workspaceFolder}/crawler/run.js",
             "cwd": "${workspaceFolder}",
+            "env": {
+                "DEBUG": "1"
+            },
             "args": [
                 "--projects",
                 "--commit-to=index/v1",
@@ -45,6 +51,9 @@
             "name": "Crawl all",
             "program": "${workspaceFolder}/crawler/run.js",
             "cwd": "${workspaceFolder}",
+            "env": {
+                "DEBUG": "1"
+            },
             "args": [
                 "--all",
                 "--commit-to=index/v1",
