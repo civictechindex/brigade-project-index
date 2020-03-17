@@ -1,4 +1,6 @@
 code_url = "https://github.com/codeforjapan/vs-covid19"
+description = "VS COVID-19 企業による支援リスト（政府提供オープンデータ使用）"
 git_branch = "master"
 git_url = "git://github.com/codeforjapan/vs-covid19.git"
+link_url = "https://vscovid19.code4japan.org/"
 name = "vs-covid19"
