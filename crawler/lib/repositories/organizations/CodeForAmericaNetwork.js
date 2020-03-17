@@ -31,7 +31,7 @@ module.exports = class CodeForAmericaNetwork extends Organizations {
     }
 
     static async loadFromArray (organizationsArray) {
-        const organizations = new CodeForAmericaNetwork();
+        const organizations = new this();
 
         for (const org of organizationsArray) {
             // null-out empty strings
