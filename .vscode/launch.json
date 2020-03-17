@@ -5,36 +5,40 @@
     "version": "0.2.0",
     "configurations": [
         {
-          "type": "node",
-          "request": "launch",
-          "name": "crawler: Jest All",
-          "cwd": "${workspaceFolder}/crawler",
-          "env": {
-              "DEBUG": "1"
-          },
-          "program": "${workspaceFolder}/crawler/node_modules/.bin/jest",
-          "args": [
-              "--runInBand",
+            "type": "node",
+            "request": "launch",
+            "name": "Crawler: Jest All",
+            "cwd": "${workspaceFolder}/crawler",
+            "env": {
+                "DEBUG": "1",
+                "GITHUB_ACTOR": "${input:githubActor}",
+                "GITHUB_TOKEN": "${input:githubToken}",
+            },
+            "program": "${workspaceFolder}/crawler/node_modules/.bin/jest",
+            "args": [
+                "--runInBand",
             ],
-          "console": "integratedTerminal",
-          "internalConsoleOptions": "neverOpen",
-          "disableOptimisticBPs": true
+            "console": "integratedTerminal",
+            "internalConsoleOptions": "neverOpen",
+            "disableOptimisticBPs": true
         },
         {
-          "type": "node",
-          "request": "launch",
-          "name": "crawler: Jest Current File",
-          "cwd": "${workspaceFolder}/crawler",
-          "env": {
-              "DEBUG": "1"
-          },
-          "program": "${workspaceFolder}/crawler/node_modules/.bin/jest",
-          "args": [
-            "${fileBasenameNoExtension}",
-          ],
-          "console": "integratedTerminal",
-          "internalConsoleOptions": "neverOpen",
-          "disableOptimisticBPs": true
+            "type": "node",
+            "request": "launch",
+            "name": "Crawler: Jest Current File",
+            "cwd": "${workspaceFolder}/crawler",
+            "env": {
+                "DEBUG": "1",
+                "GITHUB_ACTOR": "${input:githubActor}",
+                "GITHUB_TOKEN": "${input:githubToken}",
+            },
+            "program": "${workspaceFolder}/crawler/node_modules/.bin/jest",
+            "args": [
+                "${fileBasenameNoExtension}",
+            ],
+            "console": "integratedTerminal",
+            "internalConsoleOptions": "neverOpen",
+            "disableOptimisticBPs": true
         },
         {
             "type": "node",
@@ -49,7 +53,7 @@
                 "--orgs",
                 "--commit-to=index/v1",
                 "--commit-orgs-to=cfapi/orgs/v1",
-                // "--orgs-source=https://raw.githubusercontent.com/themightychris/brigade-information/master/organizations.json"
+                "--orgs-source=https://gist.githubusercontent.com/themightychris/192929e226f7077d0b08013fcda81952/raw/ffe6fcecea0d84f8317d5fc1a4c57cb136d580d3/test-organizations.json"
             ],
             "skipFiles": [
                 "<node_internals>/**"
@@ -62,17 +66,15 @@
             "program": "${workspaceFolder}/crawler/run.js",
             "cwd": "${workspaceFolder}",
             "env": {
-                "DEBUG": "1"
+                "DEBUG": "1",
+                "GITHUB_ACTOR": "${input:githubActor}",
+                "GITHUB_TOKEN": "${input:githubToken}"
             },
             "args": [
                 "--projects",
                 "--commit-to=index/v1",
                 "--commit-orgs-to=cfapi/orgs/v1"
             ],
-            "env": {
-                "GITHUB_ACTOR": "${input:githubActor}",
-                "GITHUB_TOKEN": "${input:githubToken}"
-            },
             "skipFiles": [
                 "<node_internals>/**"
             ]
@@ -84,18 +86,16 @@
             "program": "${workspaceFolder}/crawler/run.js",
             "cwd": "${workspaceFolder}",
             "env": {
-                "DEBUG": "1"
+                "DEBUG": "1",
+                "GITHUB_ACTOR": "${input:githubActor}",
+                "GITHUB_TOKEN": "${input:githubToken}"
             },
             "args": [
                 "--all",
                 "--commit-to=index/v1",
                 "--commit-orgs-to=cfapi/orgs/v1",
-                // "--orgs-source=https://raw.githubusercontent.com/themightychris/brigade-information/master/organizations.json"
+                "--orgs-source=https://gist.githubusercontent.com/themightychris/192929e226f7077d0b08013fcda81952/raw/ffe6fcecea0d84f8317d5fc1a4c57cb136d580d3/test-organizations.json"
             ],
-            "env": {
-                "GITHUB_ACTOR": "${input:githubActor}",
-                "GITHUB_TOKEN": "${input:githubToken}"
-            },
             "skipFiles": [
                 "<node_internals>/**"
             ]
