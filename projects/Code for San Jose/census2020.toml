@@ -1,6 +1,6 @@
 code_url = "https://github.com/codeforsanjose/census2020"
 description = "Website to inform community members about the Census 2020"
-git_branch = "master"
+git_branch = "staging"
 git_url = "git://github.com/codeforsanjose/census2020.git"
 link_url = "https://census-2020.herokuapp.com/"
 name = "census2020"
