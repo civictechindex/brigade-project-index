@@ -3,11 +3,13 @@ const GitSheets = require('gitsheets');
 
 const CodeForAmericaNetwork = require('../CodeForAmericaNetwork.js');
 
+
 describe('Organizations: Code for America Network', () => {
     let organizations;
 
     test('loads from official url', async () => {
         organizations = await CodeForAmericaNetwork.loadFromUrl();
+        expect(organizations).toBeInstanceOf(CodeForAmericaNetwork);
     });
 
     test('has > 200 brigades', () => {

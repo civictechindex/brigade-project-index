@@ -2,10 +2,18 @@ const GitSheets = require('gitsheets');
 
 
 /**
- * Gateway to a collection of organizations
+ * Gateway to a collection of projects
  * @class
  */
-module.exports = class Organizations extends Map {
+module.exports = class Projects extends Map {
+
+    static async canLoadFromOrganization (organizationData) {
+        throw new Error(`${this.name} missing required implementation for canLoadFromOrganization`);
+    }
+
+    static async loadFromOrganization (organizationData) {
+        throw new Error(`${this.name} missing required implementation for loadFromOrganization`);
+    }
 
     async buildTree (repo) {
         const tree = repo.createTree();
