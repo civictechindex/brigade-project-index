@@ -1,5 +1,6 @@
 code_url = "https://github.com/codeforpakistan/covid19"
-description = "COVID-19 Dashboard"
+description = "COVID-19 Pakistan Dashboard"
 git_branch = "master"
 git_url = "git://github.com/codeforpakistan/covid19.git"
+link_url = "https://corona.nhsrc.gov.pk/"
 name = "covid19"
