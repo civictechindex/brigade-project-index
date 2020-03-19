@@ -1,0 +1,5 @@
+code_url = "https://github.com/18F/snap-prescreener-prototype"
+description = "A pre-screener prototype for SNAP benefits, powered by our SNAP API prototype"
+git_branch = "master"
+git_url = "git://github.com/18F/snap-prescreener-prototype.git"
+name = "snap-prescreener-prototype"
