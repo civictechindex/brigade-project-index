@@ -1,0 +1,5 @@
+code_url = "https://github.com/OpenMaine/covid19-website"
+description = "The covid19 subdomain on the openmaine.org website. COVID-19 projects will generally have their own repos."
+git_branch = "master"
+git_url = "git://github.com/OpenMaine/covid19-website.git"
+name = "covid19-website"
