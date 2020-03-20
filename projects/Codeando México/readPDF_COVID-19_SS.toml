@@ -1,5 +1,0 @@
-code_url = "https://github.com/CodeandoMexico/readPDF_COVID-19_SS"
-description = "Hace scraping al portal de la Secretaria de Salud de México para leer el informe en PDF de casos positivos de COVID19  y los transforma en un archivo JSON o CSV"
-git_branch = "master"
-git_url = "git://github.com/CodeandoMexico/readPDF_COVID-19_SS.git"
-name = "readPDF_COVID-19_SS"
