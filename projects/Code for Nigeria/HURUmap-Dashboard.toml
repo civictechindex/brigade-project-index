@@ -1,0 +1,6 @@
+code_url = "https://github.com/CodeForAfrica/HURUmap-Dashboard"
+description = "Wordpress-powered backend for Takwimu.AFRICA. Includes chart creation tools, snippets manager, Gutenberg blocks for WYSIWYG editorial interface, and elasticsearch integration. Main site accessible at https://takwimu.africa/"
+git_branch = "master"
+git_url = "git://github.com/CodeForAfrica/HURUmap-Dashboard.git"
+link_url = "https://takwimu.africa"
+name = "HURUmap-Dashboard"
