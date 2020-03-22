@@ -193,6 +193,12 @@ require('yargs')
                     const orgName = path.basename(orgBlobName, '.toml');
 
                     const orgProjects = await Organization.loadProjects(org);
+
+                    if (!orgProjects) {
+                        logger.warn(`no projects loader is able to handle organization '${orgName}', skipping organization...`);
+                        continue;
+                    }
+
                     // TODO: decorate projects with github (and other) data where available and not already loaded via .github cache
                     const orgProjectsTree = await orgProjects.buildTree(repo);
 
