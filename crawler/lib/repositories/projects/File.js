@@ -183,7 +183,7 @@ module.exports = class File extends Projects {
             }
         }
 
-        return record;
+        return super.buildRecord(record);
     }
 };
 

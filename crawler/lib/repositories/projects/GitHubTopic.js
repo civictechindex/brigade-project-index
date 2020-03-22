@@ -101,7 +101,7 @@ module.exports = class GitHubTopic extends Projects {
     }
 
     buildRecord (data) {
-        return {
+        return super.buildRecord({
             name: data.name,
             code_url: data.html_url,
             description: data.description,
@@ -109,6 +109,6 @@ module.exports = class GitHubTopic extends Projects {
             git_branch: data.default_branch,
             link_url: data.homepage || null,
             topics: data.topics.length ? data.topics : null
-        };
+        });
     }
 };

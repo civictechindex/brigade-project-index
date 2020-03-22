@@ -30,6 +30,15 @@ module.exports = class Projects extends Map {
     }
 
     buildRecord (data) {
+        // always sort topics
+        if (data.topics && Array.isArray(data.topics)) {
+            data.topics.sort((a, b) => a.localeCompare(b, undefined, {
+                sensitivity: 'base',
+                ignorePunctuation: true,
+                numeric: true
+            }));
+        }
+
         return data;
     }
 };
