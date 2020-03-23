@@ -3,4 +3,4 @@ description = "Manual and automated processes of sourcing data for the stop-covi
 git_branch = "master"
 git_url = "git://github.com/sfbrigade/data-covid19-sfbayarea.git"
 name = "data-covid19-sfbayarea"
-topics = [ "data", "python", "web-scraping" ]
+topics = [ "covid-19", "data", "python", "web-scraping" ]
