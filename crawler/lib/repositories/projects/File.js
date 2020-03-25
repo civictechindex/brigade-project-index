@@ -119,7 +119,11 @@ module.exports = class File extends Projects {
 
                     const data = JSON.parse(Buffer.concat(chunks).toString('utf8'));
                     for (const datum of data) {
-                        projects.set(extractName(datum), datum);
+                        const projectName = extractName(datum);
+
+                        if (projectName) {
+                            projects.set(projectName, datum);
+                        }
                     }
 
                     resolve(projects);
@@ -139,7 +143,11 @@ module.exports = class File extends Projects {
                 }))
                 .on('error', reject)
                 .on('data', row => {
-                    projects.set(extractName(row), row);
+                    const projectName = extractName(row);
+
+                    if (projectName) {
+                        projects.set(projectName, row);
+                    }
                 })
                 .on('end', () => resolve(projects));
         });
