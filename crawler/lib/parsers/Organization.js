@@ -17,5 +17,7 @@ module.exports = class Organization {
                 return repositoryClass.loadFromOrganization(organizationData);
             }
         }
+
+        return null;
     }
 };
