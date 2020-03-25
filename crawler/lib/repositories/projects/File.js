@@ -133,7 +133,10 @@ module.exports = class File extends Projects {
             projects.metadata = metadata;
 
             csvStream
-                .pipe(csvParser())
+                .pipe(csvParser({
+                    mapHeaders: ({ header }) => header.trim(),
+                    mapValues: ({ value }) => value.trim()
+                }))
                 .on('error', reject)
                 .on('data', row => {
                     projects.set(extractName(row), row);
