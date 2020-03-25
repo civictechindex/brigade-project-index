@@ -3,3 +3,10 @@ description = "Mapping when/where food pickups are available during covid-19 cri
 git_branch = "master"
 git_url = "git://github.com/OpenMaine/covid19-foodmap.git"
 name = "covid19-foodmap"
+topics = [
+  "codeforamerica",
+  "covid-19",
+  "covid19",
+  "openmaine",
+  "resource-mapping"
+]
