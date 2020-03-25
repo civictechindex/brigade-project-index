@@ -1,0 +1,5 @@
+code_url = "https://github.com/18F/identity-loadtest"
+description = "Load testing infrastructure for the Login.gov IdP"
+git_branch = "master"
+git_url = "git://github.com/18F/identity-loadtest.git"
+name = "identity-loadtest"
