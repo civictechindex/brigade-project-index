@@ -32,8 +32,8 @@ module.exports = class GitHubOrganization extends Projects {
         let next = `/users/${ownerName}/repos`;
         let pageNumber = 1;
 
-        projects.sourceUrl = `github.com${next}`;
-        logger.info(`loading repos from ${projects.sourceUrl}...`);
+        projects.metadata = { sourceUrl: `github.com${next}` };
+        logger.info(`loading repos from ${projects.metadata.sourceUrl}...`);
 
         do {
             // load 1 page of repositories from  GitHub API

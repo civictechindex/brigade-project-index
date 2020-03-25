@@ -213,7 +213,7 @@ require('yargs')
                         outputCommit = await git.commitTree(
                             {
                                 p: outputCommit,
-                                m: (commitMessage || `🔁 refreshed projects from ${orgName}`) + `\n\nSource-Url: ${orgProjects.sourceUrl||'␀'}\nLoader-Version: ${loaderCommit}\n`
+                                m: (commitMessage || `🔁 refreshed projects from ${orgName}`) + `\n\nSource-Url: ${orgProjects.metadata.sourceUrl||'␀'}\nLoader-Version: ${loaderCommit}\n`
                             },
                             outputTreeHash
                         );

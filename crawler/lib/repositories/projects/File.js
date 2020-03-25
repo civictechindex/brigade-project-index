@@ -64,6 +64,8 @@ module.exports = class File extends Projects {
 
     static async loadFromOrganization ({ projects_list_url = null }) {
 
+        const metadata = { sourceUrl: projects_list_url };
+
         // load response from URL
         logger.info(`loading projects from ${projects_list_url}...`);
         const {
@@ -83,28 +85,28 @@ module.exports = class File extends Projects {
         }
 
         if (contentType && contentType.startsWith('text/csv')) {
-            return this.loadFromCsvStream(data);
+            return this.loadFromCsvStream(data, metadata);
         }
 
         if (contentType && contentType.startsWith('application/json')) {
-            return this.loadFromJsonStream(data);
+            return this.loadFromJsonStream(data, metadata);
         }
 
         // if Content-Type wasn't CSV or JSON, see if filename extension in URL is
         const lowerCaseUrl = projects_list_url.toLowerCase();
 
         if (lowerCaseUrl.endsWith('.json')) {
-            return this.loadFromJsonStream(data);
+            return this.loadFromJsonStream(data, metadata);
         }
 
         if(lowerCaseUrl.endsWith('.csv')) {
-            return this.loadFromCsvStream(data);
+            return this.loadFromCsvStream(data, metadata);
         }
 
         return null;
     }
 
-    static async loadFromJsonStream (jsonStream) {
+    static async loadFromJsonStream (jsonStream, metadata = {}) {
         return new Promise((resolve, reject) => {
             const chunks = [];
 
@@ -113,6 +115,7 @@ module.exports = class File extends Projects {
                 .on('data', chunk => chunks.push(chunk))
                 .on('end', () => {
                     const projects = new this();
+                    projects.metadata = metadata;
 
                     const data = JSON.parse(Buffer.concat(chunks).toString('utf8'));
                     for (const datum of data) {
@@ -124,9 +127,10 @@ module.exports = class File extends Projects {
         });
     }
 
-    static async loadFromCsvStream (csvStream) {
+    static async loadFromCsvStream (csvStream, metadata = {}) {
         return new Promise((resolve, reject) => {
             const projects = new this();
+            projects.metadata = metadata;
 
             csvStream
                 .pipe(csvParser())

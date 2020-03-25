@@ -47,8 +47,8 @@ module.exports = class GitHubTopic extends Projects {
         let next = `/search/repositories?q=topic:${topic}`;
         let pageNumber = 1;
 
-        projects.sourceUrl = `github.com${next}`;
-        logger.info(`loading repos from ${projects.sourceUrl}...`);
+        projects.metadata = { sourceUrl: `github.com${next}`};
+        logger.info(`loading repos from ${projects.metadata.sourceUrl}...`);
 
         do {
             // load 1 page of repositories from  GitHub API
