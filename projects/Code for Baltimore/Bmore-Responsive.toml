@@ -3,3 +3,10 @@ description = "An emergency response and contact management API."
 git_branch = "master"
 git_url = "git://github.com/CodeForBaltimore/Bmore-Responsive.git"
 name = "Bmore-Responsive"
+topics = [
+  "api",
+  "covid-19",
+  "database",
+  "docker",
+  "emergency-response"
+]

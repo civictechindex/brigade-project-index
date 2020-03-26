@@ -4,3 +4,9 @@ git_branch = "master"
 git_url = "git://github.com/CodeForBaltimore/Healthcare-Rollcall.git"
 link_url = "https://healthcare-rollcall.netlify.com/"
 name = "Healthcare-Rollcall"
+topics = [
+  "baltimore-city",
+  "covid-19",
+  "emergency-response",
+  "healthcare"
+]
