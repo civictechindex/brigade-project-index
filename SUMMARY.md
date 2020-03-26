@@ -1,4 +1,5 @@
 # Brigade Project Index
 
 - [Homepage](./README.md)
-- [Include your brigade's projects in the Project Index](./contributing/list-brigade-projects.md)
+- Contributing
+  - [Publish your brigade's projects](./contributing/list-brigade-projects.md)

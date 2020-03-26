@@ -1,5 +1,11 @@
 # Brigade Project Index
 
+The Brigade Project Index is a collaborative project involving core contributorts from across many brigades.
+
+We design, develop, and maintain a set of tools and practices for mapping out all the work being done on projects across the entire global network of civic hacking organizations and Code for America brigades.
+
+Our core goal is to publish a rich and constantly-updated database of projects that any number of network projects can use as a data source to help us get better connected.
+
 ## How to Get Involved
 
 - Tag your projects on github!
