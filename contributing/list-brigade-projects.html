@@ -1,0 +1,267 @@
+
+<!DOCTYPE HTML>
+<html lang="" >
+    <head>
+        <meta charset="UTF-8">
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <title>Include your brigade's projects in the Project Index · GitBook</title>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="description" content="">
+        <meta name="generator" content="GitBook 3.2.3">
+        
+        
+        
+    
+    <link rel="stylesheet" href="../gitbook/style.css">
+
+    
+            
+                
+                <link rel="stylesheet" href="../gitbook/gitbook-plugin-highlight/website.css">
+                
+            
+                
+                <link rel="stylesheet" href="../gitbook/gitbook-plugin-search/search.css">
+                
+            
+                
+                <link rel="stylesheet" href="../gitbook/gitbook-plugin-fontsettings/website.css">
+                
+            
+        
+
+    
+
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+
+        
+    
+    
+    <meta name="HandheldFriendly" content="true"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <link rel="apple-touch-icon-precomposed" sizes="152x152" href="../gitbook/images/apple-touch-icon-precomposed-152.png">
+    <link rel="shortcut icon" href="../gitbook/images/favicon.ico" type="image/x-icon">
+
+    
+    
+    <link rel="prev" href="../" />
+    
+
+    </head>
+    <body>
+        
+<div class="book">
+    <div class="book-summary">
+        
+            
+<div id="book-search-input" role="search">
+    <input type="text" placeholder="Type to search" />
+</div>
+
+            
+                <nav role="navigation">
+                
+
+
+<ul class="summary">
+    
+    
+
+    
+
+    
+        
+        
+    
+        <li class="chapter " data-level="1.1" data-path="../">
+            
+                <a href="../">
+            
+                    
+                    Homepage
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter active" data-level="1.2" data-path="list-brigade-projects.html">
+            
+                <a href="list-brigade-projects.html">
+            
+                    
+                    Include your brigade's projects in the Project Index
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+    
+
+    <li class="divider"></li>
+
+    <li>
+        <a href="https://www.gitbook.com" target="blank" class="gitbook-link">
+            Published with GitBook
+        </a>
+    </li>
+</ul>
+
+
+                </nav>
+            
+        
+    </div>
+
+    <div class="book-body">
+        
+            <div class="body-inner">
+                
+                    
+
+<div class="book-header" role="navigation">
+    
+
+    <!-- Title -->
+    <h1>
+        <i class="fa fa-circle-o-notch fa-spin"></i>
+        <a href=".." >Include your brigade's projects in the Project Index</a>
+    </h1>
+</div>
+
+
+
+
+                    <div class="page-wrapper" tabindex="-1" role="main">
+                        <div class="page-inner">
+                            
+<div id="book-search-results">
+    <div class="search-noresults">
+    
+                                <section class="normal markdown-section">
+                                
+                                <h1 id="include-your-brigades-projects-in-the-project-index">Include your brigade&#x2019;s projects in the Project Index</h1>
+<p>The <a href="https://statusboard.brigade.cloud/#/" target="_blank">Project Index Statusboard</a> aggregates all Code for America brigade projects and displays them on a map. Adding your brigade&#x2019;s projects to the Statusboard can be done through one of several automated (or semi-automated) processes.</p>
+<h2 id="verify-that-your-brigade-is-listed-accurately">Verify that your brigade is listed accurately</h2>
+<p>The index automatically pulls data from the <a href="https://github.com/codeforamerica/brigade-information" target="_blank">brigade-information project</a>:</p>
+<ol>
+<li>View the <a href="https://github.com/codeforamerica/brigade-information/blob/master/organizations.json" target="_blank">organizations.json file</a> and look for your brigade (a simple cmd-F should do the trick).</li>
+<li>If your brigade is already listed, check the following fields:<ol>
+<li><strong>&#x201C;projects_list_url&#x201D;</strong> should be your brigade&#x2019;s GitHub URL.</li>
+<li><strong>&#x201C;tags&#x201D;</strong> should include &quot;Brigade&quot; and &quot;Code for America&quot;.</li>
+</ol>
+</li>
+<li>If your brigade is <em>not</em> listed there or you want to consider other ways to include your brigade&#x2019;s projects, choose one of the methods below.</li>
+</ol>
+<p>Note that currently, non-US and non-brigade organizations aren&#x2019;t currently pulled into the Project Index Statusboard.</p>
+<h2 id="ways-to-index-your-brigades-projects">Ways to index your brigade&#x2019;s projects</h2>
+<h3 id="method-1-using-your-brigades-github-url">Method 1: Using your brigade&#x2019;s GitHub URL</h3>
+<p>Do your brigade&#x2019;s projects live under your GitHub organization?  You can just use the URL for that (i.e. &#x201C;<a href="https://github.com/codefornola&#x201D;" target="_blank">https://github.com/codefornola&#x201D;</a>) as the key for &#x201C;projects_list_url&#x201D; in the <a href="https://github.com/codeforamerica/brigade-information/blob/master/organizations.json" target="_blank">organizations.json file</a>.</p>
+<p>If you have projects that live outside of GitHub, you&#x2019;ll have to create a &#x201C;placeholder&#x201D; repo for each of those projects. These repos need only include a readme.md doc with relevant links to external project documentation as appropriate.</p>
+<h3 id="method-2-using-github-topics">Method 2) Using GitHub topics</h3>
+<p>In this option, all brigade project repos should include a shared topic based on the brigade&apos;s name (eg <em>openoakland</em> or <em>hack-for-la</em>). See <a href="https://help.github.com/en/github/administering-a-repository/classifying-your-repository-with-topics" target="_blank">GitHub&#x2019;s instructions for adding a topic to a repo</a>.</p>
+<h3 id="method-3-using-google-sheets">Method 3) Using Google Sheets</h3>
+<p>Create a sheet with the same headers as <a href="https://docs.google.com/spreadsheets/d/1JWzgYPn1AZgw1UFbh0n6xzpS1a9wvDN2xsrJ-IyrcQ4/edit#gid=0" target="_blank">this example</a> (or just copy the example with File &gt; Make a copy).  Then select File &gt; Publish to the web.  Use the sheets popup to select just your sheet (not the whole document) and a CSV format.  Use the link to this CSV as the value for the &#x201C;<code>projects_list_url</code>&#x201D; key in the <a href="https://github.com/codeforamerica/brigade-information/blob/master/organizations.json" target="_blank">organizations.json file</a>.  The link, once you have obtained it, should end in &#x201C;/pub?gid=0&amp;single=true&amp;output=csv&#x201D;.</p>
+<p>Tags should be comma separated in a single column.</p>
+<h3 id="method-4-using-a-csv-or-json-file">Method 4) Using a CSV or json file</h3>
+<p>Google Sheets is a common tool so we&#x2019;ve written out instructions, but any JSON or CSV file <em>with the right column headers</em> and the correct link in the <a href="https://github.com/codeforamerica/brigade-information/blob/master/organizations.json" target="_blank">organizations.json file</a> (see the Google Sheet instructions above) will do the trick.</p>
+<p>If you have questions or are interested in helping to improve the Brigade Project Index, please <a href="https://github.com/codeforamerica/brigade-project-index" target="_blank">read the README on the repo</a> and visit #brigade-project-index in the CfA slack.</p>
+<h2 id="tagging-your-brigades-projects">Tagging your brigade&#x2019;s projects</h2>
+<p>The group that has been working on this project has begun to form a taxonomy.  When assigning topics, please check <a href="https://statusboard.brigade.cloud/#/topics" target="_blank">the existing topics</a> (and consider adding to <a href="https://github.com/codeforamerica/civic-tech-taxonomy/tree/master/issues-addressed" target="_blank">the official set</a> if something is missing) first to be sure you&#x2019;re not creating a duplicate.  <strong>For COVID-19 related projects, please use the topic &#x201C;covid-19&#x201D;.</strong></p>
+<h2 id="more-about-the-index-and-the-statusboard">More about the Index and the Statusboard</h2>
+<p>The index is the dataset we suck everything into.  The statusboard is a tool for browsing the index that&apos;s been designed around helping brigade&apos;s assess their index status (hence it doing things like showing checkmarks for key details being filled in).  The idea with the statusboard was for it to evolve into a one-stop-shop for brigade leaders and members to see how well their projects are indexed and where the gaps are.</p>
+<p>The reason for this layered approach was that we wanted to focus on collecting really quality data that could be distributed across the network for a variety of tools and uses.  This way, there&apos;s a much stronger value prop for brigades to publish their projects into the index--it doesn&apos;t just feed one tool/site we&apos;re building, but a whole ecosystem of brigade network tools that anyone can add to. There are a couple other tools out there using the index in addition to the statusboard.</p>
+
+                                
+                                </section>
+                            
+    </div>
+    <div class="search-results">
+        <div class="has-results">
+            
+            <h1 class="search-results-title"><span class='search-results-count'></span> results matching "<span class='search-query'></span>"</h1>
+            <ul class="search-results-list"></ul>
+            
+        </div>
+        <div class="no-results">
+            
+            <h1 class="search-results-title">No results matching "<span class='search-query'></span>"</h1>
+            
+        </div>
+    </div>
+</div>
+
+                        </div>
+                    </div>
+                
+            </div>
+
+            
+                
+                <a href="../" class="navigation navigation-prev navigation-unique" aria-label="Previous page: Homepage">
+                    <i class="fa fa-angle-left"></i>
+                </a>
+                
+                
+            
+        
+    </div>
+
+    <script>
+        var gitbook = gitbook || [];
+        gitbook.push(function() {
+            gitbook.page.hasChanged({"page":{"title":"Include your brigade's projects in the Project Index","level":"1.2","depth":1,"previous":{"title":"Homepage","level":"1.1","depth":1,"path":"README.md","ref":"./README.md","articles":[]},"dir":"ltr"},"config":{"gitbook":"*","theme":"default","variables":{},"plugins":[],"pluginsConfig":{"highlight":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"fontsettings":{"theme":"white","family":"sans","size":2},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"}},"file":{"path":"contributing/list-brigade-projects.md","mtime":"2020-03-26T03:38:36.887Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2020-03-26T03:38:39.052Z"},"basePath":"..","book":{"language":""}});
+        });
+    </script>
+</div>
+
+        
+    <script src="../gitbook/gitbook.js"></script>
+    <script src="../gitbook/theme.js"></script>
+    
+        
+        <script src="../gitbook/gitbook-plugin-search/search-engine.js"></script>
+        
+    
+        
+        <script src="../gitbook/gitbook-plugin-search/search.js"></script>
+        
+    
+        
+        <script src="../gitbook/gitbook-plugin-lunr/lunr.min.js"></script>
+        
+    
+        
+        <script src="../gitbook/gitbook-plugin-lunr/search-lunr.js"></script>
+        
+    
+        
+        <script src="../gitbook/gitbook-plugin-sharing/buttons.js"></script>
+        
+    
+        
+        <script src="../gitbook/gitbook-plugin-fontsettings/fontsettings.js"></script>
+        
+    
+
+    </body>
+</html>
+
