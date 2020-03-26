@@ -3,7 +3,8 @@
 ## How to Get Involved
 
 - Tag your projects on github!
-  - Using the github "Topics", tag your poject directly in github with #code-for-america and your brigade tag (e.g. code-for-sf). Then include tags from this list:  https://docs.google.com/spreadsheets/d/1bu18qYQjixoWQWhhXoEEd5KT0QbpDxxvdEEITvq5XgI/edit#gid=0.
+  - Make sure your brigade's projects are listed in the index ([instructions](./contributing/list-brigade-projects.md))
+  - Using the github "Topics", tag your project directly in github with #code-for-america and your brigade tag (e.g. code-for-sf). Then include any relevant topic tags from [this list](https://github.com/codeforamerica/civic-tech-taxonomy/tree/master/issues-addressed).
 
 - [Search for Projects](https://brigade-project-index-test.herokuapp.com/#/topics)
 
