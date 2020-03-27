@@ -1,0 +1,6 @@
+code_url = "https://github.com/opensandiego/sandiego-covid-data"
+description = "Tools for tracking / visualizing COVID-19 in San Diego"
+git_branch = "master"
+git_url = "git://github.com/opensandiego/sandiego-covid-data.git"
+name = "sandiego-covid-data"
+topics = [ "covid-19", "opensandiego" ]
