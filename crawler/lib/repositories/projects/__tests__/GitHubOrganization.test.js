@@ -92,7 +92,7 @@ describe('Projects Repository: GitHub Organization', () => {
             expect(projects).toBeInstanceOf(GitHubOrganization);
             expect(projects).toBeInstanceOf(Projects);
         });
-
+5
         test('has > 80 projects', () => {
             expect(projects).toBeInstanceOf(Map);
             expect(projects.size).toBeGreaterThan(80);
@@ -103,17 +103,17 @@ describe('Projects Repository: GitHub Organization', () => {
 
             const laddr = projects.get('laddr');
             expect(laddr).toBeObject();
-            expect(laddr).toHaveProperty('url', 'https://api.github.com/repos/CodeForPhilly/laddr');
+            expect(laddr).toHaveProperty('git_url', 'git://github.com/CodeForPhilly/laddr.git');
             expect(laddr).toContainKeys([
                 'name',
                 'description',
                 'topics',
-                'homepage',
-                'html_url',
+                'link_url',
+                'code_url',
                 'git_url'
             ]);
 
-            expect(projects.buildRecord(laddr)).toContainAllKeys([
+            expect(projects.constructor.normalizeRecord(laddr)).toContainAllKeys([
                 'name',
                 'description',
                 'topics',

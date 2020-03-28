@@ -75,7 +75,12 @@ module.exports = class GitHubTopic extends Projects {
 
             // load whole page into collection, keyed by name
             for (const repository of response.data.items) {
-                projects.set(repository.name, repository);
+                const name = this.extractName(repository);
+                const record = this.extractRecord(repository);
+
+                if (name && record) {
+                    projects.set(name, record);
+                }
             }
 
 
@@ -100,8 +105,8 @@ module.exports = class GitHubTopic extends Projects {
         return projects;
     }
 
-    buildRecord (data) {
-        return super.buildRecord({
+    static extractRecord (data) {
+        return {
             name: data.name,
             code_url: data.html_url,
             description: data.description,
@@ -109,6 +114,6 @@ module.exports = class GitHubTopic extends Projects {
             git_branch: data.default_branch,
             link_url: data.homepage || null,
             topics: data.topics.length ? data.topics : null
-        });
+        };
     }
 };

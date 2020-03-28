@@ -111,17 +111,17 @@ describe('Projects Repository: GitHub Topic', () => {
 
             const website = projects.get('website');
             expect(website).toBeObject();
-            expect(website).toHaveProperty('url', 'https://api.github.com/repos/hackforla/website');
+            expect(website).toHaveProperty('git_url', 'git://github.com/hackforla/website.git');
             expect(website).toContainKeys([
                 'name',
                 'description',
                 'topics',
-                'homepage',
-                'html_url',
+                'link_url',
+                'code_url',
                 'git_url'
             ]);
 
-            expect(projects.buildRecord(website)).toContainAllKeys([
+            expect(projects.constructor.normalizeRecord(website)).toContainAllKeys([
                 'name',
                 'description',
                 'topics',

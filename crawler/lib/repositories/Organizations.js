@@ -12,7 +12,7 @@ module.exports = class Organizations extends Map {
 
         await Promise.all(
             [...this].map(([name, data]) => {
-                const record = this.buildRecord(data);
+                const record = this.constructor.normalizeRecord(data);
                 const toml = GitSheets.stringifyRecord(record);
                 return tree.writeChild(`${name}.toml`, toml);
             })
@@ -21,7 +21,15 @@ module.exports = class Organizations extends Map {
         return tree;
     }
 
-    buildRecord (data) {
+    static extractName (data) {
+        return data.name;
+    }
+
+    static extractRecord (data) {
+        return data;
+    }
+
+    static normalizeRecord (data) {
         return data;
     }
 };

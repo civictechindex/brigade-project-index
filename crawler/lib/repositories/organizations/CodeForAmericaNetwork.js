@@ -41,7 +41,11 @@ module.exports = class CodeForAmericaNetwork extends Organizations {
                 }
             }
 
-            organizations.set(org.name, org);
+            const orgName = this.extractName(org);
+
+            if (orgName) {
+                organizations.set(orgName, this.extractRecord(org));
+            }
         }
 
         return organizations;

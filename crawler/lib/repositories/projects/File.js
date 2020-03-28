@@ -119,10 +119,11 @@ module.exports = class File extends Projects {
 
                     const data = JSON.parse(Buffer.concat(chunks).toString('utf8'));
                     for (const datum of data) {
-                        const projectName = extractName(datum);
+                        const name = this.extractName(datum);
+                        const record = this.extractRecord(datum);
 
-                        if (projectName) {
-                            projects.set(projectName, datum);
+                        if (name && record) {
+                            projects.set(name, record);
                         }
                     }
 
@@ -143,17 +144,35 @@ module.exports = class File extends Projects {
                 }))
                 .on('error', reject)
                 .on('data', row => {
-                    const projectName = extractName(row);
+                    const name = this.extractName(row);
+                    const record = this.extractRecord(row);
 
-                    if (projectName) {
-                        projects.set(projectName, row);
+                    if (name && record) {
+                        projects.set(name, record);
                     }
                 })
                 .on('end', () => resolve(projects));
         });
     }
 
-    buildRecord (data) {
+    static extractName (data) {
+        let name;
+
+        if (typeof data == 'string') {
+            name = path.basename(data);
+        } else {
+            name = data.name;
+        }
+
+        // replace any / with --
+        if (name.includes('/')) {
+            name = name.replace(/\//g, '--');
+        }
+
+        return name || null;
+    }
+
+    static extractRecord (data) {
         // extract interesting bits of data
         const record = {};
 
@@ -198,25 +217,6 @@ module.exports = class File extends Projects {
             }
         }
 
-        return super.buildRecord(record);
+        return record;
     }
 };
-
-
-// PRIVATE METHODS
-function extractName (data) {
-    let name;
-
-    if (typeof data == 'string') {
-        name = path.basename(data);
-    } else {
-        name = data.name;
-    }
-
-    // replace any / with --
-    if (name.includes('/')) {
-        name = name.replace(/\//g, '--');
-    }
-
-    return name || null;
-}

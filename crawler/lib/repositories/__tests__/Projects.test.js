@@ -3,7 +3,7 @@ const Projects = require('../Projects.js');
 
 describe('Projects', () => {
     test('sorts topics', () => {
-        expect(Projects.prototype.buildRecord({ topics: [
+        expect(Projects.normalizeRecord({ topics: [
             'c',
             'b',
             'a'
@@ -15,7 +15,7 @@ describe('Projects', () => {
     });
 
     test('sorts topics case insensitively', () => {
-        expect(Projects.prototype.buildRecord({ topics: [
+        expect(Projects.normalizeRecord({ topics: [
             'C',
             'b',
             'A'
@@ -27,7 +27,7 @@ describe('Projects', () => {
     });
 
     test('sorts topics ignoring punctuation', () => {
-        expect(Projects.prototype.buildRecord({ topics: [
+        expect(Projects.normalizeRecord({ topics: [
             'a-c',
             'ab',
             'A-A',
@@ -39,7 +39,7 @@ describe('Projects', () => {
     });
 
     test('sorts numerically', () => {
-        expect(Projects.prototype.buildRecord({ topics: [
+        expect(Projects.normalizeRecord({ topics: [
             'A10',
             'a1',
             'A2',

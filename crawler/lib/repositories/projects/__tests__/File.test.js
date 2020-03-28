@@ -72,10 +72,9 @@ describe('Projects Repository: File Url', () => {
             expect(projects.has('foodborne')).toBeTrue();
 
             const foodborne = projects.get('foodborne');
-            expect(foodborne).toBe('https://github.com/smartchicago/foodborne');
-
-            const record = projects.buildRecord(foodborne);
-            expect(record).toContainAllKeys([
+            expect(foodborne).toBeObject();
+            expect(foodborne).toHaveProperty('code_url', 'https://github.com/smartchicago/foodborne');
+            expect(foodborne).toContainAllKeys([
                 'name',
                 'code_url'
             ]);
