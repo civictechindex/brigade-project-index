@@ -26,7 +26,7 @@ module.exports = class GitHubTopic extends Projects {
 
     static async loadFromOrganization (organizationData) {
         const { projects_list_url: url, projects_tag: tag } = organizationData;
-        const urlMatch = url && urlRegex.exec(ourl);
+        const urlMatch = url && urlRegex.exec(url);
 
         let topic;
         if (urlMatch) {
