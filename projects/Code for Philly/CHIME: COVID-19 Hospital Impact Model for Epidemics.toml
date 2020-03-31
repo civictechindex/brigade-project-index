@@ -3,4 +3,14 @@ description = "Hey! If you're at this page you're hopefully looking to help out 
 link_url = "https://penn-chime.phl.io/"
 name = "CHIME: COVID-19 Hospital Impact Model for Epidemics"
 status = "Testing"
-topics = [ "Healthcare", "Public Heath", "covid-19" ]
+topics = [
+  "Healthcare",
+  "Public Heath",
+  "code-for-america",
+  "code-for-philly",
+  "covid-19",
+  "covid-19",
+  "epidemics",
+  "epidemiology",
+  "penn"
+]
