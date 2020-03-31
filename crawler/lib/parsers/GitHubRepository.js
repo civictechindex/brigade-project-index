@@ -5,33 +5,23 @@
 module.exports = class GitHubRepository {
 
     /**
-     * Build a set of defaults for a standard "project" object from raw GitHub repository data
+     * Build a set of defaults for a standard "project" object from raw GitHub object data
      */
-    static extractInterestingData (repositoryData) {
+    static extractInterestingData (objectData) {
         const output = {};
 
-        for (const key in repositoryData) {
+        for (const key in objectData) {
             if (key.endsWith('_url') || key == 'url') {
                 continue;
             }
 
-            if (key == 'owner') {
-                const ownerData = repositoryData[key];
-                const ownerOutput = {};
+            const value = objectData[key];
 
-                for (const ownerKey in ownerData) {
-                    if (ownerKey.endsWith('_url') || key == 'url') {
-                        continue;
-                    }
-
-                    ownerOutput[ownerKey] = ownerData[ownerKey];
-                }
-
-                output[key] = ownerOutput;
-                continue;
+            if (typeof value == 'object' && !Array.isArray(value)) {
+                output[key] = GitHubRepository.extractInterestingData(value);
+            } else {
+                output[key] = value;
             }
-
-            output[key] = repositoryData[key];
         }
 
         return output;
