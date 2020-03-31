@@ -174,9 +174,9 @@ module.exports = class File extends Projects {
     }
 
     static extractRecord (data) {
+
         // extract interesting bits of data
         const record = {};
-
         if (typeof data == 'string') {
             record.code_url = data;
             record.name = path.basename(data);
@@ -206,6 +206,30 @@ module.exports = class File extends Projects {
 
             // extract known CfAPI fields
             Object.assign(record, Util.cleanData(data, CFAPI_FIELDS));
+
+            // copy any additional keys into projects_list_extra
+            let extra = null;
+
+            for (const key in data) {
+                if (key in record || key == 'tags') {
+                    continue;
+                }
+
+                const value = data[key];
+                if (value === '' || value === null || value === undefined) {
+                    continue;
+                }
+
+                if (!extra) {
+                    extra = {};
+                }
+
+                extra[key] = value;
+            }
+
+            if (extra) {
+                record.projects_list_extra = extra;
+            }
         }
 
         return record;
