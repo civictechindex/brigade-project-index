@@ -5,6 +5,7 @@ const GitSheets = require('gitsheets');
 
 const CodeForAmericaNetwork = require('./lib/repositories/organizations/CodeForAmericaNetwork.js');
 const Organization = require('./lib/parsers/Organization.js');
+const decorateProject = require('./lib/decorators');
 
 const EMPTY_TREE_HASH = '4b825dc642cb6eb9a060e54bf8d69288fbee4904';
 
@@ -192,18 +193,24 @@ require('yargs')
                     const org = await sheets.parseBlob(orgBlobs[orgBlobName]);
                     const orgName = path.basename(orgBlobName, '.toml');
 
-                    const orgProjects = await Organization.loadProjects(org);
+
+                    // load all projects for given org, delegating to the first Projects Repository implementation that accepts the job
+                    const orgProjects = await Organization.loadProjects(org); // TODO: wrap in try
 
                     if (!orgProjects) {
                         logger.warn(`no projects loader is able to handle organization '${orgName}', skipping organization...`);
                         continue;
                     }
 
-                    // TODO: decorate projects with github (and other) data where available and not already loaded via .github cache
+
+                    // apply decorators to all projects
+                    logger.debug('applying decorators');
+                    await Promise.all([...orgProjects.values()].map(decorateProject));
+
+
+
+                    // write projects list to git tree
                     const orgProjectsTree = await orgProjects.buildTree(repo);
-
-
-                    // merge into output tree
                     await outputTree.writeChild(`projects/${orgName}`, orgProjectsTree);
                     const outputTreeHash = await outputTree.write();
 
