@@ -3,6 +3,7 @@ const logger = require('winston');
 const axios = require('axios');
 const csvParser = require('csv-parser');
 
+const Util = require('../../Util.js');
 const Projects = require('../Projects.js');
 
 const CFAPI_FIELDS = [
@@ -204,17 +205,7 @@ module.exports = class File extends Projects {
             }
 
             // extract known CfAPI fields
-            for (const sourceKey of CFAPI_FIELDS) {
-                const sourceValue = data[sourceKey];
-
-                if (!sourceValue) {
-                    continue;
-                } else if (Array.isArray(sourceValue) && !sourceValue.length) {
-                    continue;
-                }
-
-                record[sourceKey] = sourceValue;
-            }
+            Object.assign(record, Util.cleanData(data, CFAPI_FIELDS));
         }
 
         return record;
