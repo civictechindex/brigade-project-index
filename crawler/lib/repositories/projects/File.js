@@ -166,7 +166,7 @@ module.exports = class File extends Projects {
         }
 
         // replace any / with --
-        if (name.includes('/')) {
+        if (typeof name == 'string' && name.includes('/')) {
             name = name.replace(/\//g, '--');
         }
 
