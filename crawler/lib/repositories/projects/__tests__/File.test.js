@@ -63,7 +63,7 @@ describe('Projects Repository: File Url', () => {
             expect(projects).toBeInstanceOf(Projects);
         });
 
-        test('has > 125 projects', () => {
+        test('has > 120 projects', () => {
             expect(projects).toBeInstanceOf(Map);
             expect(projects.size).toBeGreaterThan(120);
         });
@@ -77,6 +77,70 @@ describe('Projects Repository: File Url', () => {
             expect(foodborne).toContainAllKeys([
                 'name',
                 'code_url'
+            ]);
+        });
+
+        test('writes to tree', async () => {
+            const gitDir = await tmp.dir({ unsafeCleanup: true });
+            const sheets = await GitSheets.create(gitDir.path);
+            const { repo, git } = sheets;
+
+            const expectedFilenames = [...projects.keys()].map(name => `${name}.toml`);
+
+            await git.init();
+            const tree = await projects.buildTree(repo);
+            expect(tree.isTree).toBeTrue();
+
+            const treeChildren = await tree.getChildren();
+            expect(treeChildren).toContainAllKeys(expectedFilenames);
+
+            const treeHash = await tree.write();
+            expect(treeHash).toBeString();
+            expect(treeHash.length).toBe(40);
+
+            const treeContents = await git.lsTree(treeHash, { 'name-only': true, z: true });
+            const treeFilenames = treeContents.substr(0, treeContents.length-1).split('\0');
+            expect(treeFilenames).toIncludeSameMembers(expectedFilenames);
+
+            await gitDir.cleanup();
+        });
+
+    });
+
+    describe('snapshots CSV projects', () => {
+        let projects;
+
+        test('loads from Code for Philly organization', async () => {
+            projects = await File.loadFromOrganization({
+                projects_list_url: 'https://codeforphilly.org/projects.csv'
+            });
+            expect(projects).toBeInstanceOf(File);
+            expect(projects).toBeInstanceOf(Projects);
+        });
+
+        test('has > 200 projects', () => {
+            expect(projects).toBeInstanceOf(Map);
+            expect(projects.size).toBeGreaterThan(200);
+        });
+
+        test('has laddr', () => {
+            expect(projects.has('laddr')).toBeTrue();
+
+            const laddr = projects.get('laddr');
+            expect(laddr).toBeObject();
+            expect(laddr).toHaveProperty('code_url', 'https://github.com/CfABrigadePhiladelphia/laddr');
+            expect(laddr).toContainAllKeys([
+                'name',
+                'code_url',
+                'link_url',
+                'description',
+                'status',
+                'topics',
+                'projects_list_extra'
+            ]);
+            expect(laddr.projects_list_extra).toContainAllKeys([
+                'title',
+                'chat_channel'
             ]);
         });
 
