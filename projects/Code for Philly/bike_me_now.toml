@@ -1,0 +1,5 @@
+code_url = "http://github.com/boutell/bike-me-now"
+description = 'An indego app with just two buttons: "Closest Bike" and "Closest Dock."'
+name = "bike_me_now"
+status = "Prototyping"
+topics = [ "Cycling", "bike sharing", "indego" ]

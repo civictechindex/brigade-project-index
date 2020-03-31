@@ -1,6 +1,0 @@
-code_url = "https://github.com/grahamalama/sepa211scraper"
-description = "A web scraper to pull all of the services from 211SEPA."
-flags = [ "github_404" ]
-name = "SEPA 211 Web Scraper"
-status = "Drifting"
-topics = [ "services", "resources", "SEPA" ]

@@ -1,0 +1,7 @@
+code_url = "https://github.com/CfABrigadePhiladelphia/StreetParkingPhiladelphia.git"
+description = "Street parking dataset for kiosk-metered zones has been requested from Streets department, likely ETA is 2015."
+flags = [ "github_404" ]
+link_url = "http://parkadelphia.org"
+name = "street_parking_philadelphia"
+status = "Commenting"
+topics = [ "Maps", "GIS" ]

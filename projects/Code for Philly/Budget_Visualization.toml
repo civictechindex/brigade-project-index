@@ -1,0 +1,6 @@
+code_url = "https://github.com/philasdbudget/philasdbudget"
+description = "The School District of Philadelphia posts budgets for their schools on their [website](https://apps.philasd.org/SchoolBudgets/servlet). However, this data is in PDF format and therefore cannot be easily used by developers and others interested in examining the budgets of schools in a programmatic fashion."
+link_url = "http://phillyschools.info"
+name = "Budget_Visualization"
+status = "Hibernating"
+topics = [ "Budgets", "Education" ]

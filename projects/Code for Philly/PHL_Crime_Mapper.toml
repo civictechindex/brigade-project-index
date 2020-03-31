@@ -1,0 +1,6 @@
+code_url = "https://github.com/davewalk/phl-crime-mapper"
+description = "PHL Crime Mapper lets you see the Part I (violent and property) crimes that have occurred in an area of Philadelphia that you care about."
+link_url = "http://www.phlcrimemapper.com"
+name = "PHL_Crime_Mapper"
+status = "Maintaining"
+topics = [ "Crime", "GIS", "Maps" ]

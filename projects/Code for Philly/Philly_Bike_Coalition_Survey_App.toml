@@ -1,0 +1,17 @@
+code_url = "https://github.com/joepetrini/bike-counter"
+description = "Each year, the Philadelphia Bike Coalition oversees an army of volunteers to collect bike ridership data across the city of Philadelphia. Today, the data collection and data analysis processes are all completed with the use of pen, paper, and lots of data entry."
+link_url = "https://qa.bikecounts.com/phl-bike/home"
+name = "Philly_Bike_Coalition_Survey_App"
+status = "Maintaining"
+topics = [
+  "Bike",
+  "Bike Coalition",
+  "Biking",
+  "Cycling",
+  "Data",
+  "Mobile Web App",
+  "Philly",
+  "Survey",
+  "Transit",
+  "ridership"
+]

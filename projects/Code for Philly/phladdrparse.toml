@@ -1,0 +1,5 @@
+code_url = "https://github.com/tswanson/phlAddrParse"
+description = "Will work on any US based first line address but standardizations are tweaked specifically for Philadelphia addresses."
+flags = [ "github_404" ]
+name = "phladdrparse"
+status = "Commenting"

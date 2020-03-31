@@ -1,0 +1,6 @@
+code_url = "https://sourceforge.net/projects/septanextbus"
+description = "Use SEPTA bus gps data to ultimately determine when a bus will reach a certain stop."
+link_url = "http://septanextbus.sourceforge.net/"
+name = "bus_predictor"
+status = "Maintaining"
+topics = [ "Transit", "Machine Learning" ]
