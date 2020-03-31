@@ -3,6 +3,7 @@ const parseLinkHeader = require('parse-link-header');
 
 const Projects = require('../Projects.js');
 const github = require('../../connections/github.js');
+const GitHubRepository = require('../../parsers/GitHubRepository.js');
 
 const urlRegex = new RegExp('^(https?://)?(www\.)?github\.com/topics/(?<topic>[^/?]+)/?$');
 
@@ -75,6 +76,9 @@ module.exports = class GitHubTopic extends Projects {
 
             // load whole page into collection, keyed by name
             for (const repository of response.data.items) {
+                // if (repository.archived) {
+                //     continue;
+                // }
                 const name = this.extractName(repository);
                 const record = this.extractRecord(repository);
 
@@ -111,9 +115,10 @@ module.exports = class GitHubTopic extends Projects {
             code_url: data.html_url,
             description: data.description,
             git_url: data.git_url,
-            git_branch: data.default_branch,
             link_url: data.homepage || null,
-            topics: data.topics.length ? data.topics : null
+            topics: data.topics.length ? data.topics : null,
+
+            github: GitHubRepository.extractInterestingData(data)
         };
     }
 };

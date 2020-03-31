@@ -129,9 +129,7 @@ describe('Projects Repository: GitHub Topic', () => {
                 'code_url',
                 'git_url',
 
-                // TODO: swap
-                // 'github',
-                'git_branch'
+                'github',
             ]);
         });
 

@@ -121,9 +121,7 @@ describe('Projects Repository: GitHub Organization', () => {
                 'code_url',
                 'git_url',
 
-                // TODO: swap
-                // 'github',
-                'git_branch'
+                'github',
             ]);
         });
 
