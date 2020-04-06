@@ -1,5 +1,5 @@
 code_url = "https://github.com/CodeForAfrica/mapit"
 description = "A web service to map postcodes to administrative boundaries and more"
-git_branch = "master"
+git_branch = "geo-files"
 git_url = "git://github.com/CodeForAfrica/mapit.git"
 name = "mapit"
