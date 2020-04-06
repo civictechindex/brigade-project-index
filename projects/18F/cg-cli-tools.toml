@@ -1,0 +1,5 @@
+code_url = "https://github.com/18F/cg-cli-tools"
+description = "A Github action for using CF CLI tools while deploying and managing apps on cloud.gov"
+git_branch = "master"
+git_url = "git://github.com/18F/cg-cli-tools.git"
+name = "cg-cli-tools"
