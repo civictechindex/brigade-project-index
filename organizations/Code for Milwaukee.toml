@@ -4,6 +4,11 @@ latitude = "43.0349931"
 longitude = "-87.922497"
 name = "Code for Milwaukee"
 previous_names = [ ]
-social_profiles = { }
+projects_list_url = "https://github.com/codeformilwaukee/breakout-groups/issues"
 tags = [ "Brigade", "Code for America", "Official" ]
 type = "Brigade, Code for America, Official"
+
+[social_profiles]
+facebook = "https://www.facebook.com/Code-for-Milwaukee-622396371575546/"
+instagram = "@codeformke"
+twitter = "@codeformke"
