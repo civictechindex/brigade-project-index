@@ -3,3 +3,4 @@ description = "A starting point for Code for Baltimore projects."
 git_branch = "master"
 git_url = "git://github.com/CodeForBaltimore/ProjectTemplate.git"
 name = "ProjectTemplate"
+topics = [ "code-for-america", "code-for-baltimore", "projecttemplate" ]

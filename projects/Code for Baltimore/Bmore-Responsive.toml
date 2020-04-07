@@ -5,9 +5,11 @@ git_url = "git://github.com/CodeForBaltimore/Bmore-Responsive.git"
 name = "Bmore-Responsive"
 topics = [
   "api",
+  "civic-tech",
+  "code-for-america",
+  "code-for-baltimore",
   "contact-management",
   "covid-19",
-  "database",
-  "docker",
-  "emergency-response"
+  "emergency-response",
+  "nodejs"
 ]

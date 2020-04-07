@@ -6,7 +6,11 @@ link_url = "https://healthcare-rollcall.netlify.com/"
 name = "Healthcare-Rollcall"
 topics = [
   "baltimore-city",
+  "civic-tech",
+  "code-for-america",
+  "code-for-baltimore",
   "covid-19",
   "emergency-response",
-  "healthcare"
+  "healthcare",
+  "vuejs"
 ]
