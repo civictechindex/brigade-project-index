@@ -1,0 +1,6 @@
+code_url = "https://github.com/OpenEugene/openboard"
+description = "An open source switchboard, written in Elm and Go. "
+git_branch = "master"
+git_url = "git://github.com/OpenEugene/openboard.git"
+name = "openboard"
+topics = [ "mozsprint", "openeugene" ]
