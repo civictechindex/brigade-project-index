@@ -1,0 +1,5 @@
+code_url = "https://github.com/codeforamerica/cgla_case_chart_assister"
+description = "Scripts to fill Cabrini Green Legal Aid case charts for expungement and sealing of criminal records"
+git_branch = "master"
+git_url = "git://github.com/codeforamerica/cgla_case_chart_assister.git"
+name = "cgla_case_chart_assister"
