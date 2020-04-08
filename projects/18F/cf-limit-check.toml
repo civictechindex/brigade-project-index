@@ -1,5 +1,0 @@
-code_url = "https://github.com/18F/cf-limit-check"
-description = "Monitors AWS resources and alerts via Slack"
-git_branch = "master"
-git_url = "git://github.com/18F/cf-limit-check.git"
-name = "cf-limit-check"

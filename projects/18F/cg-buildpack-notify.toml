@@ -1,5 +1,0 @@
-code_url = "https://github.com/18F/cg-buildpack-notify"
-description = "Proactively encouraging cloud.gov customers to restage their apps so they can benefit from buildpack updates."
-git_branch = "master"
-git_url = "git://github.com/18F/cg-buildpack-notify.git"
-name = "cg-buildpack-notify"

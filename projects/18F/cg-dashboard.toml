@@ -1,6 +1,0 @@
-code_url = "https://github.com/18F/cg-dashboard"
-description = "Unarchived due to stratos bug in user management: https://github.com/cloudfoundry/stratos/issues/4103"
-git_branch = "master"
-git_url = "git://github.com/18F/cg-dashboard.git"
-name = "cg-dashboard"
-topics = [ "cloud", "cloud-foundry", "cloudfoundry", "gov", "react" ]

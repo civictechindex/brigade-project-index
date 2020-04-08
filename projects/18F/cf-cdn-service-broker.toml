@@ -1,5 +1,0 @@
-code_url = "https://github.com/18F/cf-cdn-service-broker"
-description = "A Cloud Foundry service broker for CloudFront and Let's Encrypt"
-git_branch = "master"
-git_url = "git://github.com/18F/cf-cdn-service-broker.git"
-name = "cf-cdn-service-broker"

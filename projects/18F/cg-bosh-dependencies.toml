@@ -1,5 +1,0 @@
-code_url = "https://github.com/18F/cg-bosh-dependencies"
-description = "Notify on outdated dependencies in cloud.gov bosh releases"
-git_branch = "master"
-git_url = "git://github.com/18F/cg-bosh-dependencies.git"
-name = "cg-bosh-dependencies"
