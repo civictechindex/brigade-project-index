@@ -1,5 +1,0 @@
-code_url = "https://github.com/18F/cg-deploy-logsearch"
-description = "Concourse pipeline and manifests for the 18F cloud.gov ELK deployment."
-git_branch = "master"
-git_url = "git://github.com/18F/cg-deploy-logsearch.git"
-name = "cg-deploy-logsearch"

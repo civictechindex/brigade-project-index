@@ -1,5 +1,0 @@
-code_url = "https://github.com/18F/cg-deploy-bosh"
-description = "18F deployment manifests and pipelines for BOSH"
-git_branch = "master"
-git_url = "git://github.com/18F/cg-deploy-bosh.git"
-name = "cg-deploy-bosh"
