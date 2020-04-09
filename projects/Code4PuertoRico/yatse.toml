@@ -1,0 +1,6 @@
+code_url = "https://github.com/Code4PuertoRico/yatse"
+description = "Yet Another Test Search Engine is a template to help create static sites with Lunr.js search."
+git_branch = "master"
+git_url = "git://github.com/Code4PuertoRico/yatse.git"
+name = "yatse"
+topics = [ "lunrjs", "nextjs", "reactjs", "search" ]
