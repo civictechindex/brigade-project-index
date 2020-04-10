@@ -3,3 +3,4 @@ description = "Site for reporting the lack of vital protective equipment for hea
 git_branch = "master"
 git_url = "git://github.com/codefordayton/floswhistle-pandemic.git"
 name = "floswhistle-pandemic"
+topics = [ "covid-19" ]
