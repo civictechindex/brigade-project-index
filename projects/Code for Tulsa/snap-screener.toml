@@ -4,3 +4,11 @@ git_branch = "master"
 git_url = "git://github.com/codefortulsa/snap-screener.git"
 link_url = "https://snap-screener-ok.web.app/"
 name = "snap-screener"
+topics = [
+  "civictechindex",
+  "code-for-america",
+  "code-for-tulsa",
+  "food-security",
+  "snap",
+  "social-safety-net"
+]

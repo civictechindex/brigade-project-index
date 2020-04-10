@@ -3,3 +3,4 @@ description = "Inspired by Code for America's Clear My Record project. "
 git_branch = "master"
 git_url = "git://github.com/codefortulsa/clear-my-record.git"
 name = "clear-my-record"
+topics = [ "code-for-america", "code-for-tulsa", "criminal-justice" ]
