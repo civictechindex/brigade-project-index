@@ -4,3 +4,4 @@ git_branch = "develop"
 git_url = "git://github.com/code4romania/date-la-zi.git"
 link_url = "https://datelazi.ro/"
 name = "date-la-zi"
+topics = [ "civic-tech", "covid-19" ]
