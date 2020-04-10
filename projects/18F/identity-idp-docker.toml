@@ -1,5 +1,0 @@
-code_url = "https://github.com/18F/identity-idp-docker"
-description = "Dockerbuild steps for identity-idp (public)"
-git_branch = "master"
-git_url = "git://github.com/18F/identity-idp-docker.git"
-name = "identity-idp-docker"
