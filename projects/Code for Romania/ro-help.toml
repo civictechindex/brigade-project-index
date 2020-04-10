@@ -3,3 +3,4 @@ description = "Platform for NGOs to create donation requests and to broadcast th
 git_branch = "develop"
 git_url = "git://github.com/code4romania/ro-help.git"
 name = "ro-help"
+topics = [ "civic-tech" ]

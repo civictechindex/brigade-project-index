@@ -4,4 +4,4 @@ git_branch = "develop"
 git_url = "git://github.com/code4romania/stiri-oficiale.git"
 link_url = "https://stirioficiale.ro/"
 name = "stiri-oficiale"
-topics = [ "alpinejs", "laravel", "php", "tailwindcss" ]
+topics = [ "alpinejs", "covid-19", "laravel", "php", "tailwindcss" ]
