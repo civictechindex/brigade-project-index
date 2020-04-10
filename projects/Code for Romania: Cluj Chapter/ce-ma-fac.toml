@@ -4,3 +4,4 @@ git_branch = "develop"
 git_url = "git://github.com/code4romania/ce-ma-fac.git"
 link_url = "https://cetrebuiesafac.ro/"
 name = "ce-ma-fac"
+topics = [ "civic-tech", "covid-19" ]
