@@ -3,3 +3,4 @@ description = "The API for the Flo's Whistle project"
 git_branch = "master"
 git_url = "git://github.com/codefordayton/floswhistle-api.git"
 name = "floswhistle-api"
+topics = [ "covid-19" ]
