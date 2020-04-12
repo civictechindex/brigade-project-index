@@ -1,6 +1,5 @@
 code_url = "https://github.com/openkawasaki/brownbag"
-description = "かわさき BENTO MAP"
+description = "【OBSOLETE】かわさき BENTO MAP -> https://github.com/openkawasaki/brownbag-django"
 git_branch = "master"
 git_url = "git://github.com/openkawasaki/brownbag.git"
-link_url = "https://brownbag.openkawasaki.org/"
 name = "brownbag"
