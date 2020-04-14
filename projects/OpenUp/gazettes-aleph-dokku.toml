@@ -1,0 +1,5 @@
+code_url = "https://github.com/OpenUpSA/gazettes-aleph-dokku"
+description = "Repo to be able to deploy aleph via dockerfile"
+git_branch = "master"
+git_url = "git://github.com/OpenUpSA/gazettes-aleph-dokku.git"
+name = "gazettes-aleph-dokku"
