@@ -4,3 +4,4 @@ git_branch = "develop"
 git_url = "git://github.com/code4romania/diaspora-hub.git"
 link_url = "https://diasporahub.ro/"
 name = "diaspora-hub"
+topics = [ "civic-tech", "covid-19" ]
