@@ -1,0 +1,5 @@
+code_url = "https://github.com/18F/identity-secops"
+description = "Security Operations repo for login.gov"
+git_branch = "master"
+git_url = "git://github.com/18F/identity-secops.git"
+name = "identity-secops"
