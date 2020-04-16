@@ -3,3 +3,13 @@ description = "A project to help cleanup 211 data from multiple sources"
 git_branch = "master"
 git_url = "git://github.com/codefornola/211-data-wrangling.git"
 name = "211-data-wrangling"
+topics = [
+  "civic-tech",
+  "covid-19",
+  "dashboard",
+  "data-cleaning",
+  "new-orleans",
+  "non-profit",
+  "python",
+  "social-services"
+]
