@@ -2,12 +2,17 @@ code_url = "https://github.com/code-for-chapel-hill/NC-COVID-Support"
 description = "Community support for COVID-19"
 git_branch = "master"
 git_url = "git://github.com/code-for-chapel-hill/NC-COVID-Support.git"
-link_url = "https://code-for-chapel-hill.github.io/COVID-Support-For-CH/"
+link_url = "https://nccovidsupport.org"
 name = "NC-COVID-Support"
 topics = [
   "civictechindex",
   "code-for-all",
   "code-for-america",
   "code-for-chapel-hill",
-  "covid-19"
+  "covid-19",
+  "covid-support",
+  "leaflet",
+  "open-source",
+  "opensource",
+  "vuejs"
 ]
