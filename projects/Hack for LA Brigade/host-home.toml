@@ -1,7 +1,8 @@
 code_url = "https://github.com/hackforla/host-home"
-description = "We're working with community non-profits who have a Host Home initiative to develop a workflow management tool to make the process scaleable (across all providers), reduce institutional bias, and effectively capture data."
+description = "We're working with community non-profits who have a Host Home or empty bedrooms initiative to develop a workflow management tool to make the process scaleable (across all providers), reduce institutional bias, and effectively capture data."
 git_branch = "master"
 git_url = "git://github.com/hackforla/host-home.git"
+link_url = "https://lacommunity.site/hosthome/"
 name = "host-home"
 topics = [
   "civictechindex",
@@ -10,6 +11,8 @@ topics = [
   "hack-for-la",
   "homeless",
   "homelessness",
+  "host-home",
+  "hosthome",
   "poc",
   "youth"
 ]
