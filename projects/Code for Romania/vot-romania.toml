@@ -1,5 +1,6 @@
 code_url = "https://github.com/code4romania/vot-romania"
 description = "Repository for Vot Romania project"
-git_branch = "master"
+git_branch = "develop"
 git_url = "git://github.com/code4romania/vot-romania.git"
+link_url = "https://vot-romania.now.sh/"
 name = "vot-romania"
