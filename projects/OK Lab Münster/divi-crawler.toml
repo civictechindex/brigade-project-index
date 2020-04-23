@@ -1,5 +1,5 @@
 code_url = "https://github.com/codeformuenster/divi-crawler"
-description = "Scraping & Datenarchiv der Intensivbetten in deutschen Krankenhäusern"
+description = "DEPRECATED Scraping & Datenarchiv der Intensivbetten in deutschen Krankenhäusern"
 git_branch = "master"
 git_url = "git://github.com/codeformuenster/divi-crawler.git"
 name = "divi-crawler"
