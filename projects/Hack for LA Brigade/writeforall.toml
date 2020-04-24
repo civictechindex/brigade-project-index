@@ -1,8 +1,8 @@
-code_url = "https://github.com/hackforla/writeforeveryone"
+code_url = "https://github.com/hackforla/writeforall"
 description = "A project to help cities replace gender exclusive language with gender inclusive language."
 git_branch = "master"
-git_url = "git://github.com/hackforla/writeforeveryone.git"
-name = "writeforeveryone"
+git_url = "git://github.com/hackforla/writeforall.git"
+name = "writeforall"
 topics = [
   "abelist-language",
   "civictechindex",
