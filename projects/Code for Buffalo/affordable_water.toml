@@ -4,3 +4,16 @@ git_branch = "master"
 git_url = "git://github.com/CodeForBuffalo/affordable_water.git"
 link_url = "https://getwaterwisebuffalo.org/"
 name = "affordable_water"
+topics = [
+  "affordability",
+  "buffalo",
+  "civic-tech",
+  "civictechindex",
+  "codeforamerica",
+  "codeforamerica-brigade",
+  "django",
+  "heroku",
+  "python",
+  "s3",
+  "water"
+]
