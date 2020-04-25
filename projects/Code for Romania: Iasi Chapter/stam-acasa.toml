@@ -2,6 +2,6 @@ code_url = "https://github.com/code4romania/stam-acasa"
 description = "Centralization and monitoring of the state of people under auto-isolation with standardized questionnaires"
 git_branch = "develop"
 git_url = "git://github.com/code4romania/stam-acasa.git"
-link_url = "https://stam-acasa.now.sh"
+link_url = "https://dev.stamacasa.ro"
 name = "stam-acasa"
 topics = [ "civic-tech", "covid-19" ]
