@@ -1,5 +1,5 @@
 code_url = "https://github.com/18F/snap-api-prototype"
-description = "  A prototype web API to calculate SNAP eligibility"
+description = "A prototype API to calculate SNAP eligibility. Available as a Python package or as a Web API."
 git_branch = "master"
 git_url = "git://github.com/18F/snap-api-prototype.git"
 name = "snap-api-prototype"
