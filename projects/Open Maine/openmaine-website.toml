@@ -3,3 +3,4 @@ description = "This is the source of the website for openmaine.org. It's based o
 git_branch = "master"
 git_url = "git://github.com/OpenMaine/openmaine-website.git"
 name = "openmaine-website"
+topics = [ "css", "html", "javascript" ]
