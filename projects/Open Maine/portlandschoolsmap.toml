@@ -1,0 +1,7 @@
+code_url = "https://github.com/OpenMaine/portlandschoolsmap"
+description = "This is a basic google map and shareable web graphic for school meal pickup locations during COVID-19"
+git_branch = "master"
+git_url = "git://github.com/OpenMaine/portlandschoolsmap.git"
+link_url = "https://www.portlandschools.org/c_o_v_i_d-19/food_distribution_sites"
+name = "portlandschoolsmap"
+topics = [ "covid-19" ]
