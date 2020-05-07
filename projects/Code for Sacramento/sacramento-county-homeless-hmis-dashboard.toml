@@ -2,4 +2,5 @@ code_url = "https://github.com/code4sac/sacramento-county-homeless-hmis-dashboar
 description = "Sacramento Homeless Services Dashboard"
 git_branch = "master"
 git_url = "git://github.com/code4sac/sacramento-county-homeless-hmis-dashboard.git"
+link_url = "https://hmis-dashboard.herokuapp.com/"
 name = "sacramento-county-homeless-hmis-dashboard"
