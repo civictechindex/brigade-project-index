@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforboston/flagging"
+description = "Flagging website for CRWA"
 git_branch = "master"
 git_url = "git://github.com/codeforboston/flagging.git"
 name = "flagging"
