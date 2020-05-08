@@ -1,3 +1,14 @@
 code_url = "https://github.com/datamade/usaddress"
 name = "usaddress"
-topics = [ "address", "nlp", "parserator", "python", "python-library" ]
+topics = [
+  "address",
+  "address-parser",
+  "conditional-random-fields",
+  "crf",
+  "machine-learning",
+  "natural-language-processing",
+  "nlp",
+  "parserator",
+  "python",
+  "python-library"
+]
