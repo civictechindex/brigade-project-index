@@ -1,0 +1,5 @@
+code_url = "https://github.com/open-austin/eviction-hearing-parser"
+description = "parse registers of actions for eviction hearings"
+git_branch = "master"
+git_url = "git://github.com/open-austin/eviction-hearing-parser.git"
+name = "eviction-hearing-parser"
