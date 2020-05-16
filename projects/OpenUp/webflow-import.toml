@@ -1,0 +1,5 @@
+code_url = "https://github.com/OpenUpSA/webflow-import"
+description = "A simple tool to impor a Webflow site export to another project"
+git_branch = "master"
+git_url = "git://github.com/OpenUpSA/webflow-import.git"
+name = "webflow-import"
