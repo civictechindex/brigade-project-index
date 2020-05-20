@@ -2,3 +2,10 @@ code_url = "https://github.com/mysociety/bods-test"
 git_branch = "master"
 git_url = "git://github.com/mysociety/bods-test.git"
 name = "bods-test"
+topics = [
+  "beneficial-ownership",
+  "bods",
+  "forms",
+  "forms-builder",
+  "frontend"
+]
