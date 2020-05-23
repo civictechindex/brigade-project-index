@@ -1,2 +1,10 @@
 code_url = "https://github.com/defano/oasis-chicago-njs"
 name = "oasis-chicago-njs"
+topics = [
+  "census",
+  "chicago",
+  "data",
+  "data-science",
+  "javascript",
+  "neighborhood"
+]
