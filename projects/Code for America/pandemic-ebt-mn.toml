@@ -1,0 +1,5 @@
+code_url = "https://github.com/codeforamerica/pandemic-ebt-mn"
+description = "Rails app to support Pandemic EBT (P-EBT) applications in Minnesota"
+git_branch = "master"
+git_url = "git://github.com/codeforamerica/pandemic-ebt-mn.git"
+name = "pandemic-ebt-mn"
