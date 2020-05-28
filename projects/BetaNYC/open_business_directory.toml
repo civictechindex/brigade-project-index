@@ -1,5 +1,6 @@
 code_url = "https://github.com/BetaNYC/open_business_directory"
-description = "business directory template for airtable and csv files"
+description = "A directory of essential businesses using Airtable (or Google sheets) as database"
 git_branch = "master"
 git_url = "git://github.com/BetaNYC/open_business_directory.git"
+link_url = "https://northbrooklyn.essentiallyopen.nyc/"
 name = "open_business_directory"
