@@ -2,3 +2,10 @@ code_url = "https://github.com/codeforboston/anypia-js"
 git_branch = "master"
 git_url = "git://github.com/codeforboston/anypia-js.git"
 name = "anypia-js"
+topics = [
+  "code-for-america",
+  "code-for-boston",
+  "public-benefits",
+  "retirees",
+  "social-security"
+]
