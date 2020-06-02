@@ -1,0 +1,14 @@
+code_url = "https://github.com/mysociety/bluetail"
+description = "An alpha project combining beneficial ownership and contracting data"
+git_branch = "master"
+git_url = "git://github.com/mysociety/bluetail.git"
+name = "bluetail"
+topics = [
+  "beneficial-ownership",
+  "bods",
+  "contracting",
+  "ocds",
+  "procurement",
+  "procurement-processes",
+  "prototype"
+]
