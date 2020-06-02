@@ -1,0 +1,7 @@
+code_url = "https://github.com/18F/identity-ux"
+description = "User flow tool"
+git_branch = "master"
+git_url = "git://github.com/18F/identity-ux.git"
+link_url = "https://federalist-proxy.app.cloud.gov/site/18f/identity-ux/user_flows/"
+name = "identity-ux"
+topics = [ "login-gov" ]
