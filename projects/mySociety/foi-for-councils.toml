@@ -1,4 +1,6 @@
 code_url = "https://github.com/mysociety/foi-for-councils"
 git_branch = "master"
 git_url = "git://github.com/mysociety/foi-for-councils.git"
+link_url = "https://www.mysociety.org/transparency/foi-for-councils/"
 name = "foi-for-councils"
+topics = [ "freedom-of-information" ]
