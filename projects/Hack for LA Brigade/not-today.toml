@@ -1,0 +1,11 @@
+code_url = "https://github.com/hackforla/not-today"
+git_branch = "master"
+git_url = "git://github.com/hackforla/not-today.git"
+name = "not-today"
+topics = [
+  "civictechindex",
+  "code-for-all",
+  "code-for-america",
+  "hack-for-la",
+  "sucidal-ideation"
+]
