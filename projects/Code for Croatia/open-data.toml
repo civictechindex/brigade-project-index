@@ -4,3 +4,4 @@ git_branch = "master"
 git_url = "git://github.com/codeforcroatia/open-data.git"
 link_url = "http://codeforcroatia.github.io/open-data"
 name = "open-data"
+topics = [ "datasets", "open-data", "open-datasets", "opendata" ]
