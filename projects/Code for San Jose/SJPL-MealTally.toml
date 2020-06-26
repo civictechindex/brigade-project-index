@@ -1,6 +1,14 @@
 code_url = "https://github.com/codeforsanjose/SJPL-MealTally"
-description = "Webapp to help San Jose public libraries coordinate free community meals."
+description = "Web app to help San Jose public libraries coordinate free community meals."
 git_branch = "master"
 git_url = "git://github.com/codeforsanjose/SJPL-MealTally.git"
 name = "SJPL-MealTally"
-topics = [ "production" ]
+topics = [
+  "food",
+  "library",
+  "meals",
+  "mongodb",
+  "react",
+  "san-jose",
+  "youth"
+]

@@ -4,4 +4,11 @@ git_branch = "master"
 git_url = "git://github.com/codeforsanjose/OSM-SouthBay.git"
 link_url = "https://www.openstreetmap.org/#map=12/37.3358/-121.8906"
 name = "OSM-SouthBay"
-topics = [ "openstreetmap" ]
+topics = [
+  "mapping",
+  "maps",
+  "openstreetmap",
+  "san-jose",
+  "santa-clara-county",
+  "south-bay"
+]

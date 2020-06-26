@@ -4,3 +4,16 @@ git_branch = "master"
 git_url = "git://github.com/codeforsanjose/free-food-lookup.git"
 link_url = "https://www.codeforsanjose.com/free-food-lookup/"
 name = "free-food-lookup"
+topics = [
+  "css",
+  "free-food",
+  "free-meals",
+  "groceries",
+  "html",
+  "javascript",
+  "jquery",
+  "meals",
+  "nucleo-library",
+  "san-jose",
+  "santa-clara-county"
+]

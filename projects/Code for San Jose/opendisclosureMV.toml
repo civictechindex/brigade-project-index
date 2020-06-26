@@ -3,3 +3,9 @@ description = "Open Disclosure for Mountain View | Help voters learn about local
 git_branch = "master"
 git_url = "git://github.com/codeforsanjose/opendisclosureMV.git"
 name = "opendisclosureMV"
+topics = [
+  "campaign",
+  "campaign-finance",
+  "elections",
+  "open-disclosure"
+]

@@ -3,3 +3,10 @@ description = "Primarily Blue Team related activities"
 git_branch = "master"
 git_url = "git://github.com/codeforsanjose/CFSJ-SecurityStack.git"
 name = "CFSJ-SecurityStack"
+topics = [
+  "firewall-rules",
+  "letsencrypt",
+  "nginx",
+  "security",
+  "splunk"
+]

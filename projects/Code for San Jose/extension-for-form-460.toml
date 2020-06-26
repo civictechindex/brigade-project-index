@@ -1,0 +1,12 @@
+code_url = "https://github.com/codeforsanjose/extension-for-form-460"
+description = "A Chrome extension that you can use to download Form 460 from the City of San Jose's website"
+git_branch = "master"
+git_url = "git://github.com/codeforsanjose/extension-for-form-460.git"
+name = "extension-for-form-460"
+topics = [
+  "automates",
+  "campaign-finance",
+  "helper",
+  "open-disclosure",
+  "tools"
+]

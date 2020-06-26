@@ -6,12 +6,23 @@ link_url = "https://www.codeforsanjose.com/heartofthevalley/"
 name = "heartofthevalley"
 topics = [
   "art",
+  "artists",
+  "bay-area",
+  "cupertino",
   "javascript",
   "mapbox",
   "mapbox-gl-js",
   "maps",
+  "milpitas",
+  "morgan-hill",
+  "mountain-view",
   "mural",
   "nodejs",
+  "openstreetmap",
+  "palo-alto",
   "production",
-  "sanjose"
+  "public-art",
+  "san-jose",
+  "santa-clara",
+  "south-bay"
 ]

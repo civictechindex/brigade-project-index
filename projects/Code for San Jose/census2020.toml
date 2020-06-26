@@ -4,4 +4,4 @@ git_branch = "staging"
 git_url = "git://github.com/codeforsanjose/census2020.git"
 link_url = "https://sjcensus.com/"
 name = "census2020"
-topics = [ "in-development" ]
+topics = [ "census", "census-2020", "react", "san-jose", "website" ]
