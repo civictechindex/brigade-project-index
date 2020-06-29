@@ -5,8 +5,8 @@ longitude = "-122.2308773"
 name = "OpenSMC"
 projects_list_url = "https://docs.google.com/spreadsheets/d/188H7C7t6RMHL5vOwLJggz2ZeywRwVpFSIzSNApLNc_I/export?format=csv"
 rss = "https://www.opensmc.tech/blog/"
-tags = [ "Brigade", "Code for America", "Official" ]
-type = "Brigade, Code for America, Official"
+tags = [ "Brigade", "Code for America" ]
+type = "Brigade, Code for America"
 website = "https://www.opensmc.tech/"
 
 [social_profiles]
