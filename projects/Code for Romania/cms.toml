@@ -1,5 +1,5 @@
 code_url = "https://github.com/code4romania/cms"
-description = "Preconfigured CMS with a modular layout"
+description = "Preconfigured modular CMS based on Twill"
 git_branch = "master"
 git_url = "git://github.com/code4romania/cms.git"
 name = "cms"
