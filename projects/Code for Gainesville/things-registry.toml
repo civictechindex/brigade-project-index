@@ -1,0 +1,5 @@
+code_url = "https://github.com/c4gnv/things-registry"
+description = "An API to find example things to use for IoT projects."
+git_branch = "develop"
+git_url = "git://github.com/c4gnv/things-registry.git"
+name = "things-registry"
