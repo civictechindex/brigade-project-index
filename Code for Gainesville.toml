@@ -3,9 +3,9 @@ events_url = "http://www.meetup.com/Code-for-Gainesville/"
 latitude = "29.651634"
 longitude = "-82.324826"
 name = "Code for Gainesville"
-projects_list_url = "https://docs.google.com/spreadsheets/d/15DOB5ctu8aJEkaE1pjBIvRaZBG2wjbpJaUQUa6UL9bM/pub?output=csv"
-tags = [ "Brigade" ]
-type = "Brigade"
+projects_list_url = "https://github.com/c4gnv"
+tags = [ "Brigade", "Code for America", "Official" ]
+type = "Brigade, Code for America, Official"
 website = "http://c4gnv.com"
 
 [social_profiles]

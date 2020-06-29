@@ -5,13 +5,8 @@ longitude = "-79.7947"
 name = "Code for Greensboro"
 projects_list_url = "https://github.com/codeforgso"
 rss = "https://google.com/alerts/feeds/06912685966400056337/15266640778775468197"
-tags = [
-  "Brigade",
-  "Code for America",
-  "Code for America Partner Brigade",
-  "Official"
-]
-type = "Brigade, Code for America, Code for America Partner Brigade, Official"
+tags = [ "Brigade", "Code for America", "Official" ]
+type = "Brigade, Code for America, Official"
 website = "https://codeforgreensboro.org/"
 
 [social_profiles]

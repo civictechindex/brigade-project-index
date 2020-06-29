@@ -7,6 +7,11 @@ previous_names = [ ]
 projects_list_url = "https://github.com/openeugene"
 rss = "https://www.meetup.com/Open-Eugene/events/rss/"
 social_profiles = { }
-tags = [ "Brigade", "Code for America", "Official" ]
-type = "Brigade"
+tags = [
+  "Brigade",
+  "Code for America",
+  "Code for America Fiscally Sponsored Brigade",
+  "Official"
+]
+type = "Brigade, Code for America, Code for America Fiscally Sponsored Brigade, Official"
 website = "http://openeugene.org/"
