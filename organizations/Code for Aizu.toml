@@ -5,3 +5,13 @@ name = "Code for Aizu"
 tags = [ "Brigade", "Code for Japan" ]
 type = "Brigade, Code for Japan"
 website = "http://aizu.io/"
+
+[location]
+city = "Aizuwakamatsu"
+continent = "Asia"
+country = "Japan"
+state = ""
+
+  [location.coordinates]
+  latitude = "37.4896"
+  longitude = "139.9300"

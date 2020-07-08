@@ -7,3 +7,13 @@ projects_list_url = "https://github.com/hackingmadison"
 tags = [ "Brigade", "midwest" ]
 type = "Brigade, midwest"
 website = "http://hackingmadison.org"
+
+[location]
+city = "Madison"
+continent = "North America"
+country = "USA"
+state = "Wisconsin"
+
+  [location.coordinates]
+  latitude = "43.0731"
+  longitude = "-89.4012"

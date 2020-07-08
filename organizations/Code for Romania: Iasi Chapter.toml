@@ -6,3 +6,13 @@ name = "Code for Romania: Iasi Chapter"
 projects_list_url = "https://github.com/code4romania/"
 tags = [ "Brigade", "Code for Romania" ]
 website = "http://code4.ro/"
+
+[location]
+city = "Iasi"
+continent = "Europe"
+country = "Romania"
+state = ""
+
+  [location.coordinates]
+  latitude = "47.151726"
+  longitude = "27.587914"

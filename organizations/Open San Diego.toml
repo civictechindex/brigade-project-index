@@ -9,5 +9,15 @@ tags = [ "Brigade", "Code for America", "Official" ]
 type = "Brigade, Code for America, Official"
 website = "https://opensandiego.org/"
 
+[location]
+city = "San Diego"
+continent = "North America"
+country = "USA"
+state = "California"
+
+  [location.coordinates]
+  latitude = "32.7153"
+  longitude = "-117.1573"
+
 [social_profiles]
 twitter = "@OpenSanDiego"

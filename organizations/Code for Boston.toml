@@ -9,6 +9,16 @@ tags = [ "Brigade", "Code for America", "Official" ]
 type = "Brigade, Code for America, Official"
 website = "https://www.codeforboston.org"
 
+[location]
+city = "Boston"
+continent = "North America"
+country = "USA"
+state = "Massachusetts"
+
+  [location.coordinates]
+  latitude = "42.3584"
+  longitude = "-71.0598"
+
 [social_profiles]
 facebook = "https://www.facebook.com/codeforboston/"
 twitter = "@codeforboston"

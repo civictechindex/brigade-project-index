@@ -8,5 +8,15 @@ projects_list_url = "https://github.com/code-for-chicago/"
 tags = [ "Brigade", "Code for America", "Official" ]
 website = "https://codeforchicago.org/"
 
+[location]
+city = "Chicago"
+continent = "North America"
+country = "USA"
+state = "Illinois"
+
+  [location.coordinates]
+  latitude = "41.8755616"
+  longitude = "-87.6244212"
+
 [social_profiles]
 twitter = "@open_uptown"

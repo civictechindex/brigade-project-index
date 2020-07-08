@@ -7,3 +7,13 @@ projects_list_url = "https://github.com/code4huntsville"
 tags = [ "Brigade" ]
 type = "Brigade"
 website = "http://www.code4huntsville.org"
+
+[location]
+city = "Huntsville"
+continent = "North America"
+country = "USA"
+state = "Alabama"
+
+  [location.coordinates]
+  latitude = "34.7014"
+  longitude = "-86.6597"

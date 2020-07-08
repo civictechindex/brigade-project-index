@@ -6,3 +6,13 @@ projects_list_url = "https://github.com/hacktahoe"
 tags = [ "Brigade" ]
 type = "Brigade"
 website = "http://hack.tahoe.coop/"
+
+[location]
+city = "South Lake Tahoe"
+continent = "North America"
+country = "USA"
+state = "California"
+
+  [location.coordinates]
+  latitude = "39.096849"
+  longitude = "-120.032351"

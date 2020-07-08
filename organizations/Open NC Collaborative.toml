@@ -9,3 +9,13 @@ social_profiles = { }
 tags = [ "Brigade", "Code for America", "Official" ]
 type = "Brigade, Code for America, Official"
 website = "https://opennc-collaborative.org/"
+
+[location]
+city = "Greensboro"
+continent = "North America"
+country = "USA"
+state = "North Carolina"
+
+  [location.coordinates]
+  latitude = "35.6729639"
+  longitude = "-79.0392919"

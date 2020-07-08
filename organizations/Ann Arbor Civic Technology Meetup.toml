@@ -8,3 +8,13 @@ rss = "http://a2civictech.tumblr.com"
 tags = [ "Brigade", "midwest" ]
 type = "Brigade, midwest"
 website = "http://www.meetup.com/a2civictech/"
+
+[location]
+city = "Ann Arbor"
+continent = "North America"
+country = "USA"
+state = "Michigan"
+
+  [location.coordinates]
+  latitude = "42.2808"
+  longitude = "-83.7430"

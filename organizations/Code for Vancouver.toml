@@ -7,3 +7,13 @@ projects_list_url = "https://github.com/codeforcanada"
 tags = [ "Brigade" ]
 type = "Brigade"
 website = "http://community.codeforcanada.org/"
+
+[location]
+city = "Vancouver"
+continent = "North America"
+country = "Canada"
+state = ""
+
+  [location.coordinates]
+  latitude = "49.2811"
+  longitude = "-123.0440"

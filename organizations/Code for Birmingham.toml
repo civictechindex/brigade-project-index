@@ -8,5 +8,15 @@ tags = [ "Brigade" ]
 type = "Brigade"
 website = "http://www.codeforbirmingham.org/"
 
+[location]
+city = "Birmingham"
+continent = "North America"
+country = "USA"
+state = "Alabama"
+
+  [location.coordinates]
+  latitude = "33.5207"
+  longitude = "-86.8118"
+
 [social_profiles]
 facebook = "https://www.facebook.com/Codeforbirmingham"

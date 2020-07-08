@@ -9,6 +9,16 @@ tags = [ "Brigade", "Code for America", "Official" ]
 type = "Brigade, Code for America, Official"
 website = "http://openstl.org"
 
+[location]
+city = "St. Louis"
+continent = "North America"
+country = "USA"
+state = "Missouri"
+
+  [location.coordinates]
+  latitude = "38.6272"
+  longitude = "-90.1977"
+
 [social_profiles]
 facebook = "https://www.facebook.com/groups/opendatastl"
 twitter = "@open_stl"

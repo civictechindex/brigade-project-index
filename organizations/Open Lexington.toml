@@ -9,5 +9,15 @@ tags = [ "Brigade" ]
 type = "Brigade"
 website = "http://openlexington.org/"
 
+[location]
+city = "Lexington"
+continent = "North America"
+country = "USA"
+state = "Kentucky"
+
+  [location.coordinates]
+  latitude = "38.0406"
+  longitude = "-84.5037"
+
 [social_profiles]
 twitter = "@openlexington"

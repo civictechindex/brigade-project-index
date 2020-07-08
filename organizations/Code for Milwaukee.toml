@@ -8,6 +8,16 @@ projects_list_url = "https://github.com/codeformilwaukee/breakout-groups/issues"
 tags = [ "Brigade", "Code for America", "Official" ]
 type = "Brigade, Code for America, Official"
 
+[location]
+city = "Milwaukee"
+continent = "North America"
+country = "USA"
+state = "Wisconsin"
+
+  [location.coordinates]
+  latitude = "43.0349931"
+  longitude = "-87.922497"
+
 [social_profiles]
 facebook = "https://www.facebook.com/Code-for-Milwaukee-622396371575546/"
 instagram = "@codeformke"

@@ -6,3 +6,13 @@ name = "OK Lab Stuttgart"
 tags = [ "Brigade", "OK Lab" ]
 type = "Brigade, OK Lab"
 website = "http://codefor.de/stuttgart"
+
+[location]
+city = "Stuttgart"
+continent = "Europe"
+country = "Germany"
+state = ""
+
+  [location.coordinates]
+  latitude = "48.7786"
+  longitude = "9.1794"

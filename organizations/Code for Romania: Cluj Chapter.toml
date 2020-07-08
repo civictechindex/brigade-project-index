@@ -6,3 +6,13 @@ name = "Code for Romania: Cluj Chapter"
 projects_list_url = "https://github.com/code4romania/"
 tags = [ "Brigade", "Code for Romania" ]
 website = "http://code4.ro/"
+
+[location]
+city = "Cluj-Napoca"
+continent = "Europe"
+country = "Romania"
+state = ""
+
+  [location.coordinates]
+  latitude = "46.770439"
+  longitude = "23.591423"

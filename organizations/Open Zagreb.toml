@@ -6,3 +6,13 @@ projects_list_url = "https://github.com/openzagreb"
 tags = [ "Brigade" ]
 type = "Brigade"
 website = "http://zagreb.codecorcroatia.org"
+
+[location]
+city = "Zagreb"
+continent = "Europe"
+country = "Croatia"
+state = ""
+
+  [location.coordinates]
+  latitude = "45.7930"
+  longitude = "15.9464"

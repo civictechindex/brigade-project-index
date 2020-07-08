@@ -9,5 +9,15 @@ tags = [ "Brigade", "Code for America", "Official" ]
 type = "Brigade, Code for America, Official"
 website = "http://www.codeforcary.org/"
 
+[location]
+city = "Cary"
+continent = "North America"
+country = "USA"
+state = "North Carolina"
+
+  [location.coordinates]
+  latitude = "35.7915"
+  longitude = "-78.7811"
+
 [social_profiles]
 twitter = "@CodeForCary"

@@ -7,3 +7,13 @@ projects_list_url = "https://codeforpoland.org/cities/warszawa/?csv=show"
 rss = "https://codeforpoland.org/category/warsaw/"
 tags = [ "Brigade", "Code for Poland" ]
 website = "https://codeforpoland.org/cities/warszawa/"
+
+[location]
+city = "Warsaw"
+continent = "Europe"
+country = "Poland"
+state = ""
+
+  [location.coordinates]
+  latitude = "52.2287"
+  longitude = "21.0063"

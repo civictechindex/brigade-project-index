@@ -5,3 +5,13 @@ name = "Code for Chofu"
 tags = [ "Brigade" ]
 type = "Brigade"
 website = "https://www.facebook.com/codeforchofu"
+
+[location]
+city = "Chofu"
+continent = "Asia"
+country = "Japan"
+state = ""
+
+  [location.coordinates]
+  latitude = "35.6471"
+  longitude = "139.5439"

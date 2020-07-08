@@ -7,3 +7,13 @@ projects_list_url = "https://github.com/CodeforChemnitz"
 tags = [ "Brigade", "OK Lab" ]
 type = "Brigade, OK Lab"
 website = "http://codeforchemnitz.de"
+
+[location]
+city = "Chemnitz"
+continent = "Europe"
+country = "Germany"
+state = ""
+
+  [location.coordinates]
+  latitude = "50.8333"
+  longitude = "12.9167"

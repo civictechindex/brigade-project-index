@@ -7,3 +7,13 @@ projects_list_url = "https://github.com/caciviclab"
 tags = [ "Brigade Collaboration" ]
 type = "Brigade Collaboration"
 website = "http://caciviclab.org/"
+
+[location]
+city = "Oakland"
+continent = "North America"
+country = "USA"
+state = "California"
+
+  [location.coordinates]
+  latitude = "37.166111"
+  longitude = "-119.449444"

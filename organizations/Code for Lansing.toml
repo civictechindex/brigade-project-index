@@ -6,3 +6,13 @@ name = "Code for Lansing"
 previous_names = [ ]
 social_profiles = { }
 tags = [ "Brigade", "Code for America", "Official" ]
+
+[location]
+city = "Lansing"
+continent = "North America"
+country = "USA"
+state = "Michigan"
+
+  [location.coordinates]
+  latitude = "42.7337712"
+  longitude = "-84.5553805"

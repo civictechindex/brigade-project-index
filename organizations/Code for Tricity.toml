@@ -7,3 +7,13 @@ projects_list_url = "https://codeforpoland.org/cities/trojmiasto/?csv=show"
 rss = "https://codeforpoland.org/category/tricity/"
 tags = [ "Brigade", "Code for Poland" ]
 website = "https://codeforpoland.org/cities/trojmiasto/"
+
+[location]
+city = "Gdansk"
+continent = "Europe"
+country = "Poland"
+state = ""
+
+  [location.coordinates]
+  latitude = "54.4046788"
+  longitude = "18.5738181"

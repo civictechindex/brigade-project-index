@@ -7,3 +7,13 @@ rss = "http://datasf.org/blog/"
 tags = [ "Government" ]
 type = "Government"
 website = "http://datasf.org/"
+
+[location]
+city = "San Francisco"
+continent = "North America"
+country = "USA"
+state = "California"
+
+  [location.coordinates]
+  latitude = "37.7759"
+  longitude = "-122.4137"

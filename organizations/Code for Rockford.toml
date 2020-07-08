@@ -8,3 +8,13 @@ rss = "http://www.codeforrockford.com/category/news/"
 tags = [ "Brigade" ]
 type = "Brigade"
 website = "http://www.codeforrockford.com/"
+
+[location]
+city = "Rockford"
+continent = "North America"
+country = "USA"
+state = "Illinois"
+
+  [location.coordinates]
+  latitude = "42.2669"
+  longitude = "-89.0783"

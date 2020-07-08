@@ -6,3 +6,13 @@ name = "OK Lab Bonn"
 tags = [ "Brigade", "OK Lab" ]
 type = "Brigade, OK Lab"
 website = "http://codefor.de/bonn/"
+
+[location]
+city = "Bonn"
+continent = "Europe"
+country = "Germany"
+state = ""
+
+  [location.coordinates]
+  latitude = "50.7374"
+  longitude = "7.0982"

@@ -6,3 +6,13 @@ projects_list_url = "https://github.com/akroncivichackathon"
 tags = [ "midwest" ]
 type = "midwest"
 website = "http://akroncivichackathon.org"
+
+[location]
+city = "Akron"
+continent = "North America"
+country = "USA"
+state = "Ohio"
+
+  [location.coordinates]
+  latitude = "41.0761"
+  longitude = "-81.5217"

@@ -9,6 +9,16 @@ tags = [ "Brigade", "Code for America", "Official" ]
 type = "Brigade, Code for America, Official"
 website = "https://codefortampabay.org/"
 
+[location]
+city = "Tampa Bay"
+continent = "North America"
+country = "USA"
+state = "Florida"
+
+  [location.coordinates]
+  latitude = "27.9465"
+  longitude = "-82.4593"
+
 [social_profiles]
 facebook = "https://www.facebook.com/CodeforTampaBay"
 twitter = "@CodeForTampaBay"

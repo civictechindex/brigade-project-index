@@ -8,3 +8,13 @@ rss = "https://codeforpoland.org/category/wroclaw-en/"
 tags = [ "Brigade", "Code for Poland" ]
 type = "Brigade, Code for Poland"
 website = "https://codeforpoland.org/cities/wroclaw/"
+
+[location]
+city = "Wroclaw"
+continent = "Europe"
+country = "Poland"
+state = ""
+
+  [location.coordinates]
+  latitude = "51.1063798"
+  longitude = "17.0121528"

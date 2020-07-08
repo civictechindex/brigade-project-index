@@ -8,3 +8,13 @@ rss = "https://www.mysociety.org/feed/"
 tags = [ "Partner" ]
 type = "Partner"
 website = "https://www.mysociety.org/"
+
+[location]
+city = "London"
+continent = "Europe"
+country = "United Kingdom"
+state = ""
+
+  [location.coordinates]
+  latitude = "51.62264036083571"
+  longitude = "-0.105290718469565"

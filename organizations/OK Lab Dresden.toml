@@ -6,3 +6,13 @@ name = "OK Lab Dresden"
 tags = [ "Brigade", "OK Lab" ]
 type = "Brigade, OK Lab"
 website = "http://codefor.de/dresden"
+
+[location]
+city = "Dresden"
+continent = "Europe"
+country = "Germany"
+state = ""
+
+  [location.coordinates]
+  latitude = "51.0333"
+  longitude = "13.7333"

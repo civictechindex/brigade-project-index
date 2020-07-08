@@ -9,5 +9,15 @@ tags = [ "Brigade", "Code for America", "Official" ]
 type = "Brigade, Code for America, Official"
 website = "http://www.opencleveland.org"
 
+[location]
+city = "Cleveland"
+continent = "North America"
+country = "USA"
+state = "Ohio"
+
+  [location.coordinates]
+  latitude = "41.5047"
+  longitude = "-81.6907"
+
 [social_profiles]
 twitter = "@opencleveland"

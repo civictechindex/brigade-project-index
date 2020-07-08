@@ -6,3 +6,13 @@ name = "Code for Ireland"
 projects_list_url = "https://github.com/codeforireland"
 tags = [ ]
 website = "http://codeforireland.com/"
+
+[location]
+city = ""
+continent = "Europe"
+country = "Ireland"
+state = ""
+
+  [location.coordinates]
+  latitude = "53.35124084081707"
+  longitude = "-6.257201628137899"

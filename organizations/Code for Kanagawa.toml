@@ -5,3 +5,13 @@ name = "Code for Kanagawa"
 tags = [ "Brigade" ]
 type = "Brigade"
 website = "https://www.facebook.com/CodeForKanagawa"
+
+[location]
+city = "Yokohama"
+continent = "Asia"
+country = "Japan"
+state = ""
+
+  [location.coordinates]
+  latitude = "35.4662"
+  longitude = "139.6227"

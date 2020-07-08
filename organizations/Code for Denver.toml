@@ -9,6 +9,16 @@ tags = [ "Brigade", "Code for America", "Official" ]
 type = "Brigade, Code for America, Official"
 website = "https://codefordenver.org/"
 
+[location]
+city = "Denver"
+continent = "North America"
+country = "USA"
+state = "Colorado"
+
+  [location.coordinates]
+  latitude = "39.7392"
+  longitude = "-104.9847"
+
 [social_profiles]
 facebook = "https://www.facebook.com/codefordenver/"
 twitter = "@codefordenver"

@@ -6,3 +6,13 @@ name = "OK Lab Karlsruhe"
 tags = [ "Brigade", "OK Lab" ]
 type = "Brigade, OK Lab"
 website = "http://codefor.de/karlsruhe/"
+
+[location]
+city = "Karlsruhe"
+continent = "Europe"
+country = "Germany"
+state = ""
+
+  [location.coordinates]
+  latitude = "49.0069"
+  longitude = "8.4037"

@@ -9,6 +9,16 @@ tags = [ "Brigade", "Code for America", "Official" ]
 type = "Brigade, Code for America, Official"
 website = "https://opencharlotte.org"
 
+[location]
+city = "Charlotte"
+continent = "North America"
+country = "USA"
+state = "North Carolina"
+
+  [location.coordinates]
+  latitude = "35.2032"
+  longitude = "-80.8395"
+
 [social_profiles]
 facebook = "http://facebook.com/opencltbrigade"
 twitter = "@opencltbrigade"

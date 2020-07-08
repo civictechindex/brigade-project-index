@@ -15,3 +15,13 @@ tags = [
 ]
 type = "Brigade, Code for America, Code for America Fiscally Sponsored Brigade, Official"
 website = "http://openeugene.org/"
+
+[location]
+city = "Eugene"
+continent = "North America"
+country = "USA"
+state = "Oregon"
+
+  [location.coordinates]
+  latitude = "44.0505054"
+  longitude = "-123.0950506"

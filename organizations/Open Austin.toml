@@ -14,6 +14,16 @@ tags = [
 type = "Brigade, Code for America, Code for America Partner Brigade, Official"
 website = "https://www.open-austin.org/"
 
+[location]
+city = "Austin"
+continent = "North America"
+country = "USA"
+state = "Texas"
+
+  [location.coordinates]
+  latitude = "30.2672"
+  longitude = "-97.7431"
+
 [social_profiles]
 facebook = "https://www.facebook.com/openatx/"
 twitter = "@openaustin"

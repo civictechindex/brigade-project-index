@@ -7,3 +7,13 @@ previous_names = [ ]
 social_profiles = { }
 tags = [ "Brigade", "Code for America", "Official" ]
 type = "Brigade, Code for America, Official"
+
+[location]
+city = "Hackensack"
+continent = "North America"
+country = "USA"
+state = "New Jersey"
+
+  [location.coordinates]
+  latitude = "40.8859326"
+  longitude = "-74.0434736"

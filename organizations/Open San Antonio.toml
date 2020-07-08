@@ -6,3 +6,13 @@ projects_list_url = "https://github.com/opensatx"
 tags = [ "Brigade" ]
 type = "Brigade"
 website = "http://opensatx.org/"
+
+[location]
+city = "San Antonio"
+continent = "North America"
+country = "USA"
+state = "Texas"
+
+  [location.coordinates]
+  latitude = "29.4245"
+  longitude = "-98.4946"

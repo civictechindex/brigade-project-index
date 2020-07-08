@@ -9,6 +9,16 @@ tags = [ "Brigade", "Code for America", "Official" ]
 type = "Brigade, Code for America, Official"
 website = "http://codefornm.org/"
 
+[location]
+city = "Albuquerque"
+continent = "North America"
+country = "USA"
+state = "New Mexico"
+
+  [location.coordinates]
+  latitude = "35.0824"
+  longitude = "-106.6765"
+
 [social_profiles]
 facebook = "https://www.facebook.com/groups/codeforabq/about/"
 twitter = "@codeforabq"

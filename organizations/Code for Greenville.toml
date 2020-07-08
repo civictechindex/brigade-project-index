@@ -9,5 +9,15 @@ tags = [ "Brigade", "Code for America", "Official" ]
 type = "Brigade, Code for America, Official"
 website = "https://codeforgreenville.org/"
 
+[location]
+city = "Greenville"
+continent = "North America"
+country = "USA"
+state = "South Carolina"
+
+  [location.coordinates]
+  latitude = "34.85261759999999"
+  longitude = "-82.3940104"
+
 [social_profiles]
 facebook = "https://www.facebook.com/CodeforGVL/"

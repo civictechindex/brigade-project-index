@@ -6,3 +6,13 @@ name = "OK Lab Ulm"
 tags = [ "Brigade", "OK Lab" ]
 type = "Brigade, OK Lab"
 website = "http://codefor.de/ulm"
+
+[location]
+city = "Ulm"
+continent = "Europe"
+country = "Germany"
+state = ""
+
+  [location.coordinates]
+  latitude = "48.4000"
+  longitude = "9.9833"

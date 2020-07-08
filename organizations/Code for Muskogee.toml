@@ -12,3 +12,13 @@ tags = [
   "Official"
 ]
 type = "Brigade, Code for America, Code for America Fiscally Sponsored Brigade, Official"
+
+[location]
+city = "Muskogee"
+continent = "North America"
+country = "USA"
+state = "Oklahoma"
+
+  [location.coordinates]
+  latitude = "35.7478769"
+  longitude = "-95.3696909"

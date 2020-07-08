@@ -5,3 +5,13 @@ name = "Code for Detroit"
 tags = [ "Brigade", "midwest" ]
 type = "Brigade, midwest, "
 website = "https://www.facebook.com/CodeForDetroit"
+
+[location]
+city = "Detroit"
+continent = "North America"
+country = "USA"
+state = "Michigan"
+
+  [location.coordinates]
+  latitude = "42.3314"
+  longitude = "-83.0458"

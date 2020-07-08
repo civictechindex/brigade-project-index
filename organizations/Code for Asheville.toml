@@ -9,6 +9,16 @@ tags = [ "Brigade", "Code for America", "Official" ]
 type = "Brigade, Code for America, Official"
 website = "https://www.codeforasheville.org/"
 
+[location]
+city = "Asheville"
+continent = "North America"
+country = "USA"
+state = "North Carolina"
+
+  [location.coordinates]
+  latitude = "35.5951"
+  longitude = "-82.5515"
+
 [social_profiles]
 facebook = "https://www.facebook.com/codeforasheville/"
 twitter = "@code4asheville"

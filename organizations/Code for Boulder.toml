@@ -9,5 +9,15 @@ tags = [ "Brigade", "Code for America", "Official" ]
 type = "Brigade, Code for America, Official"
 website = "http://www.codeforboulder.org/"
 
+[location]
+city = "Boulder"
+continent = "North America"
+country = "USA"
+state = "Colorado"
+
+  [location.coordinates]
+  latitude = "40.0176"
+  longitude = "-105.2797"
+
 [social_profiles]
 twitter = "@CodeforBoulder"

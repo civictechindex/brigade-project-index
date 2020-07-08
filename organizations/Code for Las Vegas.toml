@@ -6,3 +6,13 @@ name = "Code for Las Vegas"
 previous_names = [ "Code for Vegas" ]
 social_profiles = { }
 tags = [ "Brigade", "Code for America", "Official" ]
+
+[location]
+city = "Las Vegas"
+continent = "North America"
+country = "USA"
+state = "Nevada"
+
+  [location.coordinates]
+  latitude = "36.1662859"
+  longitude = "-115.149225"

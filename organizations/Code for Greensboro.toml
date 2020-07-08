@@ -9,6 +9,16 @@ tags = [ "Brigade", "Code for America", "Official" ]
 type = "Brigade, Code for America, Official"
 website = "https://codeforgreensboro.org/"
 
+[location]
+city = "Greensboro"
+continent = "North America"
+country = "USA"
+state = "North Carolina"
+
+  [location.coordinates]
+  latitude = "36.0690"
+  longitude = "-79.7947"
+
 [social_profiles]
 facebook = "https://www.facebook.com/codeforgreensboro/"
 twitter = "@CodeForGSO"

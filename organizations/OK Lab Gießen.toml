@@ -7,3 +7,13 @@ projects_list_url = "https://github.com/CodeForGiessen"
 tags = [ "Brigade", "OK Lab" ]
 type = "Brigade, OK Lab"
 website = "http://codefor.de/giessen"
+
+[location]
+city = "Gießen"
+continent = "Europe"
+country = "Germany"
+state = ""
+
+  [location.coordinates]
+  latitude = "50.5871"
+  longitude = "8.6909"

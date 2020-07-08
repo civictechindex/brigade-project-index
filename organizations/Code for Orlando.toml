@@ -9,6 +9,16 @@ tags = [ "Brigade", "Code for America", "Official" ]
 type = "Brigade, Code for America, Official"
 website = "http://www.codefororlando.com"
 
+[location]
+city = "Orlando"
+continent = "North America"
+country = "USA"
+state = "Florida"
+
+  [location.coordinates]
+  latitude = "28.538335"
+  longitude = "-81.379236"
+
 [social_profiles]
 facebook = "https://www.facebook.com/codefororlando/"
 twitter = "@codefororlando"

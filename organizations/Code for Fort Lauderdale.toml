@@ -9,6 +9,16 @@ tags = [ "Brigade", "Code for America", "Official" ]
 type = "Brigade, Code for America, Official"
 website = "http://codeforftl.org/"
 
+[location]
+city = "Fort Lauderdale"
+continent = "North America"
+country = "USA"
+state = "Florida"
+
+  [location.coordinates]
+  latitude = "26.1237"
+  longitude = "-80.1436"
+
 [social_profiles]
 facebook = "https://www.facebook.com/CodeForFTL/"
 twitter = "@codeforftl"

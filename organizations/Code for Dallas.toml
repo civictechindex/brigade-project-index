@@ -6,3 +6,13 @@ name = "Code for Dallas"
 previous_names = [ ]
 social_profiles = { }
 tags = [ "Brigade", "Code for America", "Official" ]
+
+[location]
+city = "Dallas"
+continent = "North America"
+country = "USA"
+state = "Texas"
+
+  [location.coordinates]
+  latitude = "32.7762719"
+  longitude = "-96.7968559"

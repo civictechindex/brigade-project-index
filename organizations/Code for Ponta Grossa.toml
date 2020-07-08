@@ -7,3 +7,13 @@ projects_list_url = "https://github.com/codeforpg"
 tags = [ "Brigade" ]
 type = "Brigade"
 website = "https://www.facebook.com/Code-For-Ponta-Grossa-1663271337246663/"
+
+[location]
+city = "Ponta Grossa"
+continent = "South America"
+country = "Brazil"
+state = ""
+
+  [location.coordinates]
+  latitude = "-25.1294"
+  longitude = "-50.2040"

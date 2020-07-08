@@ -7,3 +7,13 @@ rss = "http://code4okinawa.org/feed"
 tags = [ "Brigade" ]
 type = "Brigade"
 website = "http://code4okinawa.org/"
+
+[location]
+city = "Okinawa"
+continent = "Asia"
+country = "Japan"
+state = ""
+
+  [location.coordinates]
+  latitude = "26.2124"
+  longitude = "127.6809"

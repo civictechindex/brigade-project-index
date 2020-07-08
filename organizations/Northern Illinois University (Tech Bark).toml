@@ -7,3 +7,13 @@ rss = "https://google.com/alerts/feeds/06912685966400056337/5865032145652409353"
 tags = [ "Brigade" ]
 type = "Brigade"
 website = "http://www.huskiehack.org/"
+
+[location]
+city = "Dekalb"
+continent = "North America"
+country = "USA"
+state = "Illinois"
+
+  [location.coordinates]
+  latitude = "41.9294736"
+  longitude = "-88.7503647"
