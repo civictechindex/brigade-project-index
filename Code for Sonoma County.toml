@@ -7,3 +7,13 @@ rss = "https://google.com/alerts/feeds/06912685966400056337/15266640778775467581
 social_profiles = { }
 tags = [ "Brigade", "Code for America", "Official" ]
 type = "Brigade, Code for America, Official"
+
+[location]
+city = "Santa Rosa"
+continent = "North America"
+country = "USA"
+state = "California"
+
+  [location.coordinates]
+  latitude = "38.4392588"
+  longitude = "-122.7148742"

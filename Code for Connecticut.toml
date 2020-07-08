@@ -8,3 +8,13 @@ projects_list_url = "https://github.com/CodeForCT"
 social_profiles = { }
 tags = [ "Brigade", "Code for America", "Official" ]
 website = "https://codeforconnecticut.org/"
+
+[location]
+city = "Hartford"
+continent = "North America"
+country = "USA"
+state = "Connecticut"
+
+  [location.coordinates]
+  latitude = "41.764582"
+  longitude = "-72.6908547"

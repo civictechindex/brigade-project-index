@@ -6,3 +6,13 @@ projects_list_url = "https://github.com/uscensusbureau"
 tags = [ "Government" ]
 type = "Government"
 website = "http://www.census.gov/developers/"
+
+[location]
+city = "Washington"
+continent = "North America"
+country = "USA"
+state = "Washington DC"
+
+  [location.coordinates]
+  latitude = "38.9072"
+  longitude = "-77.0365"

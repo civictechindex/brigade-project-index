@@ -9,6 +9,16 @@ tags = [ "Brigade", "Code for America", "Official" ]
 type = "Brigade, Code for America, Official"
 website = "http://openmaine.org/"
 
+[location]
+city = "Portland"
+continent = "North America"
+country = "USA"
+state = "Maine"
+
+  [location.coordinates]
+  latitude = "43.6562513"
+  longitude = "-70.2633551"
+
 [social_profiles]
 facebook = "https://www.facebook.com/openmaine"
 twitter = "@Open_Maine"

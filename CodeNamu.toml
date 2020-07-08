@@ -7,3 +7,13 @@ projects_list_url = "https://github.com/codeforseoul"
 rss = "http://codenamu.org/feed/"
 tags = [ "Brigade" ]
 website = "http://codenamu.org"
+
+[location]
+city = "Seoul"
+continent = "Asia"
+country = "South Korea"
+state = ""
+
+  [location.coordinates]
+  latitude = "37.5150"
+  longitude = "127.0165"

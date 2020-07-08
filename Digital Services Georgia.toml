@@ -6,6 +6,16 @@ rss = "https://digitalservices.georgia.gov/blogs"
 tags = [ "Government" ]
 website = "https://digitalservices.georgia.gov/"
 
+[location]
+city = "Atlanta"
+continent = "North America"
+country = "USA"
+state = "Georgia"
+
+  [location.coordinates]
+  latitude = "33.747590"
+  longitude = "-84.389910"
+
 [social_profiles]
 linkedin = "https://www.linkedin.com/company/georgiagov-interactive/"
 twitter = "@GeorgiaGovTeam"

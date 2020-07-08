@@ -6,3 +6,13 @@ projects_list_url = "https://github.com/CodeandoMexico"
 rss = "http://blog.codeandomexico.org/"
 tags = [ "Code for All" ]
 website = "http://codeandomexico.org"
+
+[location]
+city = "Mexico City"
+continent = "North America"
+country = "Mexico"
+state = ""
+
+  [location.coordinates]
+  latitude = "23.6267"
+  longitude = "-102.5375"

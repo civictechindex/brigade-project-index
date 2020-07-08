@@ -6,3 +6,13 @@ projects_list_url = "https://github.com/codeforamerica"
 rss = "http://www.codeforamerica.org/blog/"
 tags = [ "Code for All" ]
 website = "http://codeforamerica.org"
+
+[location]
+city = "San Francisco"
+continent = "North America"
+country = "USA"
+state = "California"
+
+  [location.coordinates]
+  latitude = "37.7759"
+  longitude = "-122.4137"

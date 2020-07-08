@@ -5,3 +5,13 @@ name = "Code for RGV (Rio Grande Valley)"
 social_profiles = { }
 tags = [ "Brigade" ]
 type = "Brigade"
+
+[location]
+city = "Brownsville"
+continent = "North America"
+country = "USA"
+state = "Texas"
+
+  [location.coordinates]
+  latitude = "25.9140256"
+  longitude = "-97.4890856"

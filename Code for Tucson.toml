@@ -9,5 +9,15 @@ tags = [ "Brigade", "Code for America", "Official" ]
 type = "Brigade, Code for America, Official"
 website = "http://codefortucson.com/"
 
+[location]
+city = "Tucson"
+continent = "North America"
+country = "USA"
+state = "Arizona"
+
+  [location.coordinates]
+  latitude = "32.2216"
+  longitude = "-110.9698"
+
 [social_profiles]
 twitter = "@CodeforTucson"

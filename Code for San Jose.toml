@@ -9,6 +9,16 @@ tags = [ "Brigade", "Code for America", "Official" ]
 type = "Brigade, Code for America, Official"
 website = "https://www.codeforsanjose.com/"
 
+[location]
+city = "San Jose"
+continent = "North America"
+country = "USA"
+state = "California"
+
+  [location.coordinates]
+  latitude = "37.3386"
+  longitude = "-121.8856"
+
 [social_profiles]
 facebook = "https://facebook.com/codeforsanjose"
 twitter = "@codeforsanjose"

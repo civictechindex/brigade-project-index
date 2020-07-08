@@ -9,6 +9,16 @@ tags = [ "Brigade" ]
 type = "Brigade"
 website = "http://milwaukeedata.org/"
 
+[location]
+city = "Milwaukee"
+continent = "North America"
+country = "USA"
+state = "Wisconsin"
+
+  [location.coordinates]
+  latitude = "43.0389"
+  longitude = "-87.9065"
+
 [social_profiles]
 facebook = "https://www.facebook.com/mkedata"
 twitter = "@datamke"

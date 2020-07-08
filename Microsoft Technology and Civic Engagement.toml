@@ -6,3 +6,13 @@ projects_list_url = "https://github.com/MicrosoftTCE"
 tags = [ "Partner" ]
 type = "Partner"
 website = "http://microsoftnewyork.com/category/civic-tech/"
+
+[location]
+city = "New York"
+continent = "North America"
+country = "USA"
+state = "New York"
+
+  [location.coordinates]
+  latitude = "40.7144"
+  longitude = "-74.0060"

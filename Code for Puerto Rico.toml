@@ -8,3 +8,13 @@ social_profiles = { }
 tags = [ "Brigade", "Code for America", "Official" ]
 type = "Brigade, Code for America, Official"
 website = "http://code4puertorico.org/"
+
+[location]
+city = "San Juan"
+continent = "North America"
+country = "USA"
+state = "Puerto Rico"
+
+  [location.coordinates]
+  latitude = "18.465488"
+  longitude = "-66.116781"

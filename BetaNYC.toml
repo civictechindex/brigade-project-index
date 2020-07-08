@@ -14,5 +14,15 @@ tags = [
 type = "Brigade, Code for America, Code for America Fiscally Sponsored Brigade, Official"
 website = "https://beta.nyc/"
 
+[location]
+city = "New York"
+continent = "North America"
+country = "USA"
+state = "New York"
+
+  [location.coordinates]
+  latitude = "40.7144"
+  longitude = "-74.0060"
+
 [social_profiles]
 facebook = "https://www.facebook.com/BetaNYC/"

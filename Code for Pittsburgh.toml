@@ -9,5 +9,15 @@ tags = [ "Brigade", "Code for America", "Official" ]
 type = "Brigade, Code for America, Official"
 website = "https://codeforpittsburgh.github.io/"
 
+[location]
+city = "Pittsburgh"
+continent = "North America"
+country = "USA"
+state = "Pennsylvania"
+
+  [location.coordinates]
+  latitude = "40.4406"
+  longitude = "-79.9959"
+
 [social_profiles]
 twitter = "@codeforpgh"

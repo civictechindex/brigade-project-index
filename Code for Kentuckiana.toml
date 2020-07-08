@@ -10,5 +10,15 @@ tags = [ "Brigade", "Code for America", "Official" ]
 type = "Brigade, Code for America, Official"
 website = "https://codeforkentuckiana.org/"
 
+[location]
+city = "Louisville"
+continent = "North America"
+country = "USA"
+state = "Kentucky"
+
+  [location.coordinates]
+  latitude = "38.2542376"
+  longitude = "-85.759407"
+
 [social_profiles]
 twitter = "@CodeForKYana"

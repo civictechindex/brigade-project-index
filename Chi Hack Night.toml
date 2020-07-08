@@ -7,3 +7,13 @@ rss = "http://chihacknight.org/blog/"
 tags = [ "Brigade", "midwest" ]
 type = "Brigade, midwest"
 website = "http://chihacknight.org/"
+
+[location]
+city = "Chicago"
+continent = "North America"
+country = "USA"
+state = "Illinois"
+
+  [location.coordinates]
+  latitude = "41.8781"
+  longitude = "-87.6298"

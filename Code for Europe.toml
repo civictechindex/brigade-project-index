@@ -6,3 +6,13 @@ projects_list_url = "https://github.com/codeforeurope"
 rss = "http://codeforeurope.net/stories/"
 tags = [ "Fellowship" ]
 website = "http://codeforeurope.net/"
+
+[location]
+city = ""
+continent = "Europe"
+country = ""
+state = ""
+
+  [location.coordinates]
+  latitude = "50.8427"
+  longitude = "4.3781"

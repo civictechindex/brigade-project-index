@@ -9,6 +9,16 @@ tags = [ "Brigade", "Code for America", "Official" ]
 type = "Brigade, Code for America, Official"
 website = "http://codeforfoco.org"
 
+[location]
+city = "Fort Collins"
+continent = "North America"
+country = "USA"
+state = "Colorado"
+
+  [location.coordinates]
+  latitude = "40.5852602"
+  longitude = "-105.084423"
+
 [social_profiles]
 facebook = "https://www.facebook.com/CodeforFoCo/"
 twitter = "@codeforfoco"

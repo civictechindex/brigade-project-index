@@ -9,6 +9,16 @@ tags = [ "Brigade", "Code for America", "Official" ]
 type = "Brigade, Code for America, Official"
 website = "http://codeforanchorage.org/"
 
+[location]
+city = "Anchorage"
+continent = "North America"
+country = "USA"
+state = "Alaska"
+
+  [location.coordinates]
+  latitude = "61.2181"
+  longitude = "-149.9003"
+
 [social_profiles]
 facebook = "https://www.facebook.com/codeforanc/"
 twitter = "@CodeForAnc"

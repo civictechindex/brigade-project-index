@@ -7,3 +7,13 @@ projects_list_url = "https://github.com/codeforkobe/"
 tags = [ "Brigade", "Code for Japan" ]
 type = "Brigade, Code for Japan"
 website = "https://www.facebook.com/codeforkobe"
+
+[location]
+city = "Kobe"
+continent = "Asia"
+country = "Japan"
+state = ""
+
+  [location.coordinates]
+  latitude = "34.6954"
+  longitude = "135.197"

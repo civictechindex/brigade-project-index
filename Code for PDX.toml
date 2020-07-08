@@ -8,5 +8,15 @@ rss = "https://google.com/alerts/feeds/06912685966400056337/7566160790037974945"
 tags = [ "Brigade", "Code for America", "Official" ]
 type = "Brigade, Code for America, Official"
 
+[location]
+city = "Portland"
+continent = "North America"
+country = "USA"
+state = "Oregon"
+
+  [location.coordinates]
+  latitude = "45.5202471"
+  longitude = "-122.6741949"
+
 [social_profiles]
 twitter = "@codeForPDX"

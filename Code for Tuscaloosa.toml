@@ -7,3 +7,13 @@ rss = "http://codefortuscaloosa.org/blog/"
 tags = [ "Brigade" ]
 type = "Brigade"
 website = "http://codefortuscaloosa.org/"
+
+[location]
+city = "Tuscaloosa"
+continent = "North America"
+country = "USA"
+state = "Alabama"
+
+  [location.coordinates]
+  latitude = "33.2105"
+  longitude = "-87.5659"

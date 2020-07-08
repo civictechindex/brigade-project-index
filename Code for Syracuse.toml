@@ -6,5 +6,15 @@ name = "Code for Syracuse"
 previous_names = [ ]
 tags = [ "Brigade", "Code for America", "Official" ]
 
+[location]
+city = "Syracuse"
+continent = "North America"
+country = "USA"
+state = "New York"
+
+  [location.coordinates]
+  latitude = "43.0481221"
+  longitude = "-76.1474244"
+
 [social_profiles]
 twitter = "@CodeForSyracuse"

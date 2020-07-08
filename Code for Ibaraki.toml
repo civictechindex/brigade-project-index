@@ -6,3 +6,13 @@ projects_list_url = "https://github.com/codeforibaraki"
 tags = [ "Brigade" ]
 type = "Brigade"
 website = "http://codeforibaraki.org/"
+
+[location]
+city = "Ibaraki"
+continent = "Asia"
+country = "Japan"
+state = ""
+
+  [location.coordinates]
+  latitude = "36.3072"
+  longitude = "140.3920"

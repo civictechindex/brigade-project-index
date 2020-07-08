@@ -7,3 +7,13 @@ previous_names = [ ]
 social_profiles = { }
 tags = [ "Brigade", "Code for America", "Official" ]
 website = "http://codeforcharlottesville.org"
+
+[location]
+city = "Charlottesville"
+continent = "North America"
+country = "USA"
+state = "Virginia"
+
+  [location.coordinates]
+  latitude = "38.029306"
+  longitude = "-78.4766781"

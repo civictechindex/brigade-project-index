@@ -7,3 +7,13 @@ rss = "https://google.com/alerts/feeds/06912685966400056337/7566160790037972973"
 social_profiles = { }
 tags = [ "Brigade" ]
 type = "Brigade"
+
+[location]
+city = "Kissimmee"
+continent = "North America"
+country = "USA"
+state = "Florida"
+
+  [location.coordinates]
+  latitude = "28.2918995"
+  longitude = "-81.4075838"

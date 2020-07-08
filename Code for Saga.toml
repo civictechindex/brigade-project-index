@@ -5,3 +5,13 @@ name = "Code for Saga"
 tags = [ "Brigade" ]
 type = "Brigade"
 website = "http://code4saga.org/"
+
+[location]
+city = "Saga"
+continent = "Asia"
+country = "Japan"
+state = ""
+
+  [location.coordinates]
+  latitude = "33.2487"
+  longitude = "130.3010"

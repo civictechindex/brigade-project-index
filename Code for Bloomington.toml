@@ -10,5 +10,15 @@ tags = [ "Brigade", "Code for America", "Official" ]
 type = "Brigade, Code for America, Official"
 website = "https://bmghack.github.io/"
 
+[location]
+city = "Bloomington"
+continent = "North America"
+country = "USA"
+state = "Indiana"
+
+  [location.coordinates]
+  latitude = "39.1670396"
+  longitude = "-86.5342881"
+
 [social_profiles]
 Google = "https://groups.google.com/a/bloomington.in.gov/forum/#!forum/civic-hacking"

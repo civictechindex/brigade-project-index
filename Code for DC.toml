@@ -14,5 +14,15 @@ tags = [
 type = "Brigade, Code for America, Code for America Fiscally Sponsored Brigade, Official"
 website = "https://codefordc.org"
 
+[location]
+city = "Washington"
+continent = "North America"
+country = "USA"
+state = "Washington DC"
+
+  [location.coordinates]
+  latitude = "38.9072"
+  longitude = "-77.0365"
+
 [social_profiles]
 twitter = "@CodeforDC"

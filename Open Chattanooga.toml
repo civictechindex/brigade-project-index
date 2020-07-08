@@ -6,3 +6,13 @@ projects_list_url = "https://github.com/openchattanooga"
 tags = [ "Brigade" ]
 type = "Brigade"
 website = "http://openchattanooga.com/"
+
+[location]
+city = "Chattanooga"
+continent = "North America"
+country = "USA"
+state = "Tennessee"
+
+  [location.coordinates]
+  latitude = "35.0456"
+  longitude = "-85.3097"

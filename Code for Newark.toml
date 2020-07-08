@@ -14,6 +14,16 @@ tags = [
 type = "Brigade, Code for America, Code for America Partner Brigade, Official"
 website = "http://www.codefornewark.org/"
 
+[location]
+city = "Newark"
+continent = "North America"
+country = "USA"
+state = "New Jersey"
+
+  [location.coordinates]
+  latitude = "40.7320"
+  longitude = "-74.1742"
+
 [social_profiles]
 facebook = "https://www.facebook.com/codefornewark/"
 twitter = "@codefornewark"

@@ -5,3 +5,13 @@ name = "Code for Nigeria"
 projects_list_url = "http://github.com/CodeForAfrica"
 tags = [ "Code for All", "Code for All Affiliate" ]
 website = "http://code4nigeria.org"
+
+[location]
+city = "Lagos"
+continent = "Africa"
+country = "Nigeria"
+state = ""
+
+  [location.coordinates]
+  latitude = "6.6016"
+  longitude = "3.3969"

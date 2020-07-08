@@ -9,6 +9,16 @@ tags = [ "Brigade", "Code for America", "Official" ]
 type = "Brigade, Code for America, Official"
 website = "http://www.codeforhawaii.org/"
 
+[location]
+city = "Honolulu"
+continent = "North America"
+country = "USA"
+state = "Hawaii"
+
+  [location.coordinates]
+  latitude = "21.3069"
+  longitude = "-157.8583"
+
 [social_profiles]
 facebook = "https://www.facebook.com/codeforhawaii/"
 twitter = "@codeforhawaii"

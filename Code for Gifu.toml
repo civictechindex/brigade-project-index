@@ -5,3 +5,13 @@ name = "Code for Gifu"
 tags = [ "Brigade" ]
 type = "Brigade"
 website = "https://www.facebook.com/pages/CODE-for-GIFU/592157627504886"
+
+[location]
+city = "Gifu"
+continent = "Asia"
+country = "Japan"
+state = ""
+
+  [location.coordinates]
+  latitude = "35.4102"
+  longitude = "136.7678"

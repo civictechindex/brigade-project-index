@@ -6,3 +6,13 @@ projects_list_url = "https://github.com/labplc"
 rss = "http://labplc.mx/category/conversaciones/"
 tags = [ "Code for All" ]
 website = "http://codigo.labplc.mx"
+
+[location]
+city = "Mexico City"
+continent = "North America"
+country = "Mexico"
+state = ""
+
+  [location.coordinates]
+  latitude = "19.4320"
+  longitude = "-99.1332"

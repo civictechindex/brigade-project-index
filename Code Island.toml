@@ -9,6 +9,16 @@ tags = [ "Brigade", "Code for America", "Official" ]
 type = "Brigade, Code for America, Official"
 website = "http://www.code-island.org/"
 
+[location]
+city = "Providence"
+continent = "North America"
+country = "USA"
+state = "Rhode Island"
+
+  [location.coordinates]
+  latitude = "41.4887"
+  longitude = "-71.4543"
+
 [social_profiles]
 facebook = "https://www.facebook.com/codeislandbrigade"
 twitter = "@code_island"

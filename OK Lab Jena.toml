@@ -6,3 +6,13 @@ name = "OK Lab Jena"
 tags = [ "Brigade", "OK Lab" ]
 type = "Brigade, OK Lab"
 website = "http://codefor.de/jena/"
+
+[location]
+city = "Jena"
+continent = "Europe"
+country = "Germany"
+state = ""
+
+  [location.coordinates]
+  latitude = "50.9271"
+  longitude = "11.5892"

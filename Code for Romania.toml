@@ -6,3 +6,13 @@ name = "Code for Romania"
 projects_list_url = "https://github.com/code4romania/"
 tags = [ "Code for All" ]
 website = "http://code4.ro/"
+
+[location]
+city = "Bucharest"
+continent = "Europe"
+country = "Romania"
+state = ""
+
+  [location.coordinates]
+  latitude = "44.439663"
+  longitude = "26.096306"

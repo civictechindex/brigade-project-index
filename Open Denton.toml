@@ -7,6 +7,16 @@ tags = [ "Brigade" ]
 type = "Brigade"
 website = "https://www.opendenton.com/"
 
+[location]
+city = "Denton"
+continent = "North America"
+country = "USA"
+state = "Texas"
+
+  [location.coordinates]
+  latitude = "33.2148412"
+  longitude = "-97.13306829999999"
+
 [social_profiles]
 facebook = "https://www.facebook.com/opendenton/"
 twitter = "@opendenton"

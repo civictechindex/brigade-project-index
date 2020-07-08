@@ -7,3 +7,13 @@ rss = "https://google.com/alerts/feeds/06912685966400056337/16695061524097681296
 social_profiles = { }
 tags = [ "Brigade", "Code for America", "Official" ]
 type = "Brigade, Code for America, Official"
+
+[location]
+city = "Toledo"
+continent = "North America"
+country = "USA"
+state = "Ohio"
+
+  [location.coordinates]
+  latitude = "41.6786754"
+  longitude = "-83.5127283"

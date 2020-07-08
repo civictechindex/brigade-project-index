@@ -6,3 +6,13 @@ name = "Code for Indianapolis"
 previous_names = [ ]
 social_profiles = { }
 tags = [ "Brigade", "Code for America", "Official" ]
+
+[location]
+city = "Indianapolis"
+continent = "North America"
+country = "USA"
+state = "Indiana"
+
+  [location.coordinates]
+  latitude = "39.7683331"
+  longitude = "-86.1583502"

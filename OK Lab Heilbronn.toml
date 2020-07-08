@@ -8,3 +8,13 @@ rss = "http://blog.opendatalab.de/rss.xml"
 tags = [ "Brigade", "OK Lab" ]
 type = "Brigade, OK Lab"
 website = "http://codefor.de/heilbronn"
+
+[location]
+city = "Heilbronn"
+continent = "Europe"
+country = "Germany"
+state = ""
+
+  [location.coordinates]
+  latitude = "49.1500"
+  longitude = "9.2167"

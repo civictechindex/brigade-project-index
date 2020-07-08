@@ -9,5 +9,15 @@ tags = [ "Brigade", "Code for America", "Official" ]
 type = "Brigade, Code for America, Official"
 website = "http://www.codeforchapelhill.com/"
 
+[location]
+city = "Chapel Hill"
+continent = "North America"
+country = "USA"
+state = "North Carolina"
+
+  [location.coordinates]
+  latitude = "35.9131542"
+  longitude = "-79.05578"
+
 [social_profiles]
 twitter = "@CodeForCH"

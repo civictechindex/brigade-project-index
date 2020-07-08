@@ -9,5 +9,15 @@ tags = [ "Brigade", "Code for America", "Official" ]
 type = "Brigade, Code for America, Official"
 website = "http://www.codefornova.org/"
 
+[location]
+city = "Alexandria"
+continent = "North America"
+country = "USA"
+state = "Virginia"
+
+  [location.coordinates]
+  latitude = "38.8800"
+  longitude = "-77.1068"
+
 [social_profiles]
 twitter = "@codenovabrigade"

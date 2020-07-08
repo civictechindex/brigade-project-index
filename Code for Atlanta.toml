@@ -9,6 +9,16 @@ tags = [ "Brigade", "Code for America", "Official" ]
 type = "Brigade, Code for America, Official"
 website = "https://www.codeforatlanta.org/"
 
+[location]
+city = "Atlanta"
+continent = "North America"
+country = "USA"
+state = "Georgia"
+
+  [location.coordinates]
+  latitude = "33.7490"
+  longitude = "-84.3880"
+
 [social_profiles]
 facebook = "https://www.facebook.com/codeforatlanta"
 twitter = "@codeforatlanta"

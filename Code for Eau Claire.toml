@@ -7,3 +7,13 @@ projects_list_url = "https://github.com/codeforeauclaire"
 tags = [ "Brigade" ]
 type = "Brigade"
 website = "http://codeforeauclaire.org"
+
+[location]
+city = "Eau Claire"
+continent = "North America"
+country = "USA"
+state = "Wisconsin"
+
+  [location.coordinates]
+  latitude = "44.8113"
+  longitude = "-91.4985"

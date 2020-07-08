@@ -8,5 +8,15 @@ tags = [ "Brigade", "Code for America", "Official" ]
 type = "Brigade, Code for America, Official"
 website = "http://c4gnv.com"
 
+[location]
+city = "Gainesville"
+continent = "North America"
+country = "USA"
+state = "Florida"
+
+  [location.coordinates]
+  latitude = "29.651634"
+  longitude = "-82.324826"
+
 [social_profiles]
 twitter = "@c4gnv"

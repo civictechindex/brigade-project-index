@@ -9,3 +9,13 @@ social_profiles = { }
 tags = [ "Brigade", "Code for America", "Official" ]
 type = "Brigade, Code for America, Official"
 website = "http://www.codefornh.org/"
+
+[location]
+city = "Manchester"
+continent = "North America"
+country = "USA"
+state = "New Hampshire"
+
+  [location.coordinates]
+  latitude = "43.008663"
+  longitude = "-71.454391"

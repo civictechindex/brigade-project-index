@@ -6,3 +6,13 @@ name = "Open Brazil"
 projects_list_url = "https://github.com/CodeForBrazil/"
 tags = [ "Brigade" ]
 website = "http://openbrazil.org/"
+
+[location]
+city = "Brasília"
+continent = "South America"
+country = "Brazil"
+state = ""
+
+  [location.coordinates]
+  latitude = "-15.7930"
+  longitude = "-47.8834"

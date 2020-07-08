@@ -7,3 +7,13 @@ projects_list_url = "https://github.com/CodeforLeipzig"
 tags = [ "Brigade", "OK Lab" ]
 type = "Brigade, OK Lab"
 website = "http://codefor.de/leipzig"
+
+[location]
+city = "Leipzig"
+continent = "Europe"
+country = "Germany"
+state = ""
+
+  [location.coordinates]
+  latitude = "51.3333"
+  longitude = "12.3833"

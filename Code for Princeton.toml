@@ -8,6 +8,16 @@ tags = [ "Brigade" ]
 type = "Brigade"
 website = "https://codeforprincetonblog.wordpress.com/"
 
+[location]
+city = "Princeton"
+continent = "North America"
+country = "USA"
+state = "New Jersey"
+
+  [location.coordinates]
+  latitude = "40.3572976"
+  longitude = "-74.6672226"
+
 [social_profiles]
 facebook = "https://www.facebook.com/codeforprinceton/"
 twitter = "@codeprinceton"

@@ -9,5 +9,15 @@ tags = [ "Brigade", "Code for America", "Official" ]
 type = "Brigade, Code for America, Official"
 website = "https://www.openboise.org/"
 
+[location]
+city = "Boise"
+continent = "North America"
+country = "USA"
+state = "Idaho"
+
+  [location.coordinates]
+  latitude = "43.6187102"
+  longitude = "-116.2146068"
+
 [social_profiles]
 twitter = "@boisebrigade"

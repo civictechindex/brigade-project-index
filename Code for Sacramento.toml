@@ -14,6 +14,16 @@ tags = [
 type = "Brigade, Code for America, Code for America Fiscally Sponsored Brigade, Official"
 website = "http://codeforsacramento.org/"
 
+[location]
+city = "Sacramento"
+continent = "North America"
+country = "USA"
+state = "California"
+
+  [location.coordinates]
+  latitude = "38.5816"
+  longitude = "-121.4944"
+
 [social_profiles]
 facebook = "https://www.facebook.com/code4sac/"
 twitter = "@code4sac"

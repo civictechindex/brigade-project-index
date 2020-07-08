@@ -7,3 +7,13 @@ rss = "https://google.com/alerts/feeds/06912685966400056337/7301583704927492620"
 social_profiles = { }
 tags = [ "Brigade", "Code for America", "Official" ]
 type = "Brigade, Code for America, Official"
+
+[location]
+city = "Iowa City"
+continent = "North America"
+country = "USA"
+state = "Iowa"
+
+  [location.coordinates]
+  latitude = "41.6612561"
+  longitude = "-91.5299106"

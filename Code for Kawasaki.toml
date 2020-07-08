@@ -7,3 +7,13 @@ projects_list_url = "https://github.com/openkawasaki"
 tags = [ "Brigade" ]
 type = "Brigade"
 website = "http://openkawasaki.org/"
+
+[location]
+city = "Kawasaki"
+continent = "Asia"
+country = "Japan"
+state = ""
+
+  [location.coordinates]
+  latitude = "35.5309"
+  longitude = "139.7030"

@@ -7,5 +7,15 @@ tags = [ "Brigade" ]
 type = "Brigade"
 website = "http://www.openindybrigade.com/"
 
+[location]
+city = "Indianapolis"
+continent = "North America"
+country = "USA"
+state = "Indiana"
+
+  [location.coordinates]
+  latitude = "39.7669"
+  longitude = "-86.1500"
+
 [social_profiles]
 twitter = "@IndyBrigade"

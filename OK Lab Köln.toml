@@ -7,3 +7,13 @@ projects_list_url = "https://github.com/codeforcologne/"
 tags = [ "Brigade", "OK Lab" ]
 type = "Brigade, OK Lab"
 website = "http://codefor.de/koeln"
+
+[location]
+city = "Cologne"
+continent = "Europe"
+country = "Germany"
+state = ""
+
+  [location.coordinates]
+  latitude = "50.9500"
+  longitude = "6.9667"

@@ -8,3 +8,13 @@ rss = "https://twitrss.me/twitter_user_to_rss/?user=openbrazil&replies=on"
 tags = [ "Brigade" ]
 type = "Brigade"
 website = "http://codeforcuritiba.org"
+
+[location]
+city = "Curitiba"
+continent = "South America"
+country = "Brazil"
+state = ""
+
+  [location.coordinates]
+  latitude = "-25.4952"
+  longitude = "-49.2874"

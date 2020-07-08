@@ -8,3 +8,13 @@ rss = "http://civictech.ca/feed/"
 tags = [ "Brigade" ]
 type = "Brigade"
 website = "http://civictech.ca/"
+
+[location]
+city = "Toronto"
+continent = "North America"
+country = "Canada"
+state = ""
+
+  [location.coordinates]
+  latitude = "43.653484"
+  longitude = "-79.384093"

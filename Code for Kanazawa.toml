@@ -7,3 +7,13 @@ projects_list_url = "https://github.com/codeforkanazawa-org"
 tags = [ "Brigade" ]
 type = "Brigade"
 website = "http://www.codeforkanazawa.org/"
+
+[location]
+city = "Kanazawa"
+continent = "Asia"
+country = "Japan"
+state = ""
+
+  [location.coordinates]
+  latitude = "36.5750"
+  longitude = "136.6469"

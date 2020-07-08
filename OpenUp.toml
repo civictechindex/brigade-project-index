@@ -6,3 +6,13 @@ name = "OpenUp"
 projects_list_url = "https://github.com/OpenUpSA"
 tags = [ "Code for All" ]
 website = "https://openup.org.za"
+
+[location]
+city = "Cape Town"
+continent = "Africa"
+country = "South Africa"
+state = ""
+
+  [location.coordinates]
+  latitude = "-33.9205"
+  longitude = "18.4212"

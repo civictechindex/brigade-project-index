@@ -4,3 +4,10 @@ rss = "http://blog.openelections.net/"
 tags = [ "Project" ]
 type = "Project"
 website = "http://openelections.net/"
+
+[location]
+city = ""
+continent = "Global"
+coordinates = { }
+country = ""
+state = ""

@@ -5,3 +5,13 @@ name = "Code for Ghana"
 projects_list_url = "http://github.com/CodeForAfrica"
 tags = [ "Code for All", "Code for All Affiliate" ]
 website = "http://codeforghana.org"
+
+[location]
+city = "Accra"
+continent = "Africa"
+country = "Ghana"
+state = ""
+
+  [location.coordinates]
+  latitude = "5.5811"
+  longitude = "-0.1990"

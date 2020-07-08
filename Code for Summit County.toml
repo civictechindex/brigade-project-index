@@ -7,3 +7,13 @@ projects_list_url = "https://github.com/CodeForSummitCounty"
 tags = [ "Brigade", "midwest" ]
 type = "Brigade, midwest"
 website = "http://codeforsummitcounty.org/"
+
+[location]
+city = "Akron"
+continent = "North America"
+country = "USA"
+state = "Ohio"
+
+  [location.coordinates]
+  latitude = "41.0814"
+  longitude = "-81.5190"

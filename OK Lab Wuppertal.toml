@@ -6,3 +6,13 @@ name = "OK Lab Wuppertal"
 tags = [ "Brigade", "OK Lab" ]
 type = "Brigade, OK Lab"
 website = "https://opendatal.de/"
+
+[location]
+city = "Wuppertal"
+continent = "Europe"
+country = "Germany"
+state = ""
+
+  [location.coordinates]
+  latitude = "51.2562"
+  longitude = "7.1508"

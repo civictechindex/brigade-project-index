@@ -10,6 +10,16 @@ tags = [ "Brigade", "Code for America", "Official" ]
 type = "Brigade, Code for America, Official"
 website = "https://opensaltlake.org/"
 
+[location]
+city = "Salt Lake City"
+continent = "North America"
+country = "USA"
+state = "Utah"
+
+  [location.coordinates]
+  latitude = "40.7670126"
+  longitude = "-111.8904308"
+
 [social_profiles]
 facebook = "https://www.facebook.com/opensaltlakeutah/"
 twitter = "@OpenSaltLake"

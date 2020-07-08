@@ -8,3 +8,13 @@ social_profiles = { }
 tags = [ "Brigade", "Code for America", "Official" ]
 type = "Brigade, Code for America, Official"
 website = "http://codeforjerseycity.org"
+
+[location]
+city = "Jersey City"
+continent = "North America"
+country = "USA"
+state = "New Jersey"
+
+  [location.coordinates]
+  latitude = "40.7280556"
+  longitude = "-74.0780556"

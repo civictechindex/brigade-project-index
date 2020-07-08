@@ -8,6 +8,16 @@ tags = [ "Brigade" ]
 type = "Brigade"
 website = "http://openwichita.com/"
 
+[location]
+city = "Wichita"
+continent = "North America"
+country = "USA"
+state = "Kansas"
+
+  [location.coordinates]
+  latitude = "37.6870"
+  longitude = "-97.3356"
+
 [social_profiles]
 facebook = "https://www.facebook.com/openwichita/"
 twitter = "@openwichita"

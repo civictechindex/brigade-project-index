@@ -6,3 +6,13 @@ name = "Code for Tallahassee"
 social_profiles = { }
 tags = [ "Brigade", "Code for America", "Official" ]
 type = "Brigade, Code for America, Official"
+
+[location]
+city = "Tallahassee"
+continent = "North America"
+country = "USA"
+state = "Florida"
+
+  [location.coordinates]
+  latitude = "30.4380556"
+  longitude = "-84.2808333"

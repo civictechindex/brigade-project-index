@@ -9,6 +9,16 @@ tags = [ "Brigade", "Code for America", "Official" ]
 type = "Brigade, Code for America, Official"
 website = "https://codefordurham.com/"
 
+[location]
+city = "Durham"
+continent = "North America"
+country = "USA"
+state = "North Carolina"
+
+  [location.coordinates]
+  latitude = "35.9940"
+  longitude = "-78.8986"
+
 [social_profiles]
 facebook = "https://www.facebook.com/codefordurham/"
 twitter = "@codefordurham"

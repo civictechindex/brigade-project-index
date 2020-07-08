@@ -5,3 +5,13 @@ name = "Code for Kashiwa"
 tags = [ "Brigade" ]
 type = "Brigade"
 website = "https://www.facebook.com/code4kashiwa"
+
+[location]
+city = "Kashiwa"
+continent = "Asia"
+country = "Japan"
+state = ""
+
+  [location.coordinates]
+  latitude = "35.8614"
+  longitude = "139.9801"

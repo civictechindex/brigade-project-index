@@ -7,3 +7,13 @@ projects_list_url = "https://github.com/Code4PuertoRico"
 tags = [ "Brigade" ]
 type = "Brigade"
 website = "http://code4puertorico.org/"
+
+[location]
+city = "San Juan"
+continent = "North America"
+country = "USA"
+state = "Puerto Rico"
+
+  [location.coordinates]
+  latitude = "18.4661"
+  longitude = "-66.1160"

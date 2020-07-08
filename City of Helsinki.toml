@@ -8,3 +8,13 @@ rss = "http://dev.hel.fi/blog/feed/"
 tags = [ "Government" ]
 type = "Government"
 website = "http://dev.hel.fi/"
+
+[location]
+city = "Helsinki"
+continent = "Europe"
+country = "Finland"
+state = ""
+
+  [location.coordinates]
+  latitude = "60.16799112034094"
+  longitude = "24.948300559109786"

@@ -6,3 +6,13 @@ projects_list_url = "https://github.com/OpenSyracuse"
 tags = [ "Brigade" ]
 type = "Brigade"
 website = "http://opensyracuse.org/"
+
+[location]
+city = "Syracuse"
+continent = "North America"
+country = "USA"
+state = "New York"
+
+  [location.coordinates]
+  latitude = "43.0469"
+  longitude = "-76.1444"
