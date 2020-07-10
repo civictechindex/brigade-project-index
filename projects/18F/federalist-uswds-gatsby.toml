@@ -1,6 +1,6 @@
 code_url = "https://github.com/18F/federalist-uswds-gatsby"
 description = "A template for Federalist that uses Gatsby and USWDS 2.0"
-git_branch = "master"
+git_branch = "main"
 git_url = "git://github.com/18F/federalist-uswds-gatsby.git"
 name = "federalist-uswds-gatsby"
 topics = [
