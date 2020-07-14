@@ -4,3 +4,4 @@ git_branch = "master"
 git_url = "git://github.com/codeformuenster/dkan-newest-dataset-notifier.git"
 link_url = "https://twitter.com/OpenData_MS"
 name = "dkan-newest-dataset-notifier"
+topics = [ "dkan", "twitter-bot" ]
