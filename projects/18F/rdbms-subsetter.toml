@@ -1,5 +1,0 @@
-code_url = "https://github.com/18F/rdbms-subsetter"
-description = "Generates a subset of a relational database that respects foreign key constraints"
-git_branch = "master"
-git_url = "git://github.com/18F/rdbms-subsetter.git"
-name = "rdbms-subsetter"
