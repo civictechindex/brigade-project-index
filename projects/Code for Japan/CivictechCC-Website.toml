@@ -1,4 +1,6 @@
 code_url = "https://github.com/codeforjapan/CivictechCC-Website"
+description = "Civictech Challange Cup U-22 Official Website"
 git_branch = "default"
 git_url = "git://github.com/codeforjapan/CivictechCC-Website.git"
 name = "CivictechCC-Website"
+topics = [ "civic-tech", "civictech", "code-for-japan", "nuxtjs" ]
