@@ -1,8 +1,8 @@
 code_url = "https://github.com/code4romania/monitorizare-vot-ong"
 description = "NGO dashboard for viewing answers submitted by certified observers"
-git_branch = "master"
+git_branch = "develop"
 git_url = "git://github.com/code4romania/monitorizare-vot-ong.git"
-link_url = "https://monitorizarevotong.azurewebsites.net/swagger/ui"
+link_url = "https://votemonitor.org"
 name = "monitorizare-vot-ong"
 topics = [
   "civic-hacking",
@@ -11,5 +11,6 @@ topics = [
   "election-data",
   "election-monitoring",
   "elections",
-  "monitoring"
+  "monitoring",
+  "monitoring-elections"
 ]
