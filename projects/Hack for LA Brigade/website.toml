@@ -1,14 +1,15 @@
-code_url = "https://github.com/civictechindex/website"
-description = "Join a worldwide movement to catalog  every open source  civic tech project."
-git_branch = "master"
-git_url = "git://github.com/civictechindex/website.git"
+code_url = "https://github.com/hackforla/website"
+description = "Hack for LA's website"
+git_branch = "gh-pages"
+git_url = "git://github.com/hackforla/website.git"
+link_url = "https://www.hackforla.org"
 name = "website"
 topics = [
-  "civic-tech",
-  "civictechindex",
-  "code-for-all",
-  "code-for-america",
+  "brigade-website",
+  "docker",
+  "docker-compose",
+  "gh-pages",
+  "ghpages",
   "hack-for-la",
-  "open-source",
-  "opensource"
+  "jekyll"
 ]
