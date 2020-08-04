@@ -1,4 +1,5 @@
 code_url = "https://github.com/18F/gimme"
+description = "A mobile shopping cart app for federal supply items"
 git_branch = "master"
 git_url = "git://github.com/18F/gimme.git"
 name = "gimme"
