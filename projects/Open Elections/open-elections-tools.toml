@@ -1,0 +1,5 @@
+code_url = "https://github.com/openelections/open-elections-tools"
+description = "Tools for using Open Elections data with Dolt"
+git_branch = "master"
+git_url = "git://github.com/openelections/open-elections-tools.git"
+name = "open-elections-tools"
