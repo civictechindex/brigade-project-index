@@ -1,0 +1,5 @@
+code_url = "https://github.com/loomio/loomio_channel_server"
+description = "websocket server for loomio collaboration features"
+git_branch = "master"
+git_url = "git://github.com/loomio/loomio_channel_server.git"
+name = "loomio_channel_server"
