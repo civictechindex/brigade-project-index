@@ -1,0 +1,5 @@
+code_url = "https://github.com/CodeforNRV/open-health-inspection-address-fixer"
+description = "A tool for manually setting addresses that the Open Health Inspection Scraper missed"
+git_branch = "gh-pages"
+git_url = "git://github.com/CodeforNRV/open-health-inspection-address-fixer.git"
+name = "open-health-inspection-address-fixer"
