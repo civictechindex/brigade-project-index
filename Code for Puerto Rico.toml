@@ -4,7 +4,6 @@ longitude = "-66.116781"
 name = "Code for Puerto Rico"
 projects_list_url = "https://github.com/code4puertorico"
 rss = "https://google.com/alerts/feeds/06912685966400056337/1444738145735583442"
-social_profiles = { }
 tags = [ "Brigade", "Code for America", "Official" ]
 type = "Brigade, Code for America, Official"
 website = "http://code4puertorico.org/"
@@ -18,3 +17,6 @@ state = "Puerto Rico"
   [location.coordinates]
   latitude = "18.465488"
   longitude = "-66.116781"
+
+[social_profiles]
+facebook = "https://facebook.com/code4puertorico"
