@@ -1,5 +1,5 @@
-code_url = "https://github.com/CodeForCharlotte/VoteSmarterNC"
-description = "VoteSmarterNC is an initiative to provide information to residents of their state representatives' voting habits on bills and resolutions in the North Carolina General Assembly (NCGA)."
+code_url = "https://github.com/OpenCLTBrigade/VoteSmarterNC"
+description = "Code for CLT project"
+git_branch = "master"
+git_url = "git://github.com/OpenCLTBrigade/VoteSmarterNC.git"
 name = "VoteSmarterNC"
-status = "Prototyping"
-topics = [ "Government", "Open Data", "Voting" ]
