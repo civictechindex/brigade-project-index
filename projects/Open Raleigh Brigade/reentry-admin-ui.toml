@@ -1,0 +1,5 @@
+code_url = "https://github.com/Open-NC/reentry-admin-ui"
+description = "Front-end for the administrative UI for content on the reentry hub."
+git_branch = "master"
+git_url = "git://github.com/Open-NC/reentry-admin-ui.git"
+name = "reentry-admin-ui"

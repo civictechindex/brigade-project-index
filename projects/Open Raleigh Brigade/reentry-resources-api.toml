@@ -1,0 +1,5 @@
+code_url = "https://github.com/Open-NC/reentry-resources-api"
+description = "API for the statewide reentry resources hub"
+git_branch = "master"
+git_url = "git://github.com/Open-NC/reentry-resources-api.git"
+name = "reentry-resources-api"
