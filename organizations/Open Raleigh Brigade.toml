@@ -3,7 +3,7 @@ events_url = "https://www.meetup.com/Triangle-Code-for-America/"
 latitude = "35.7721"
 longitude = "-78.6386"
 name = "Open Raleigh Brigade"
-projects_list_url = "https://github.com/codeforraleigh"
+projects_list_url = "https://github.com/Open-NC"
 rss = "https://google.com/alerts/feeds/06912685966400056337/16695061524097681190"
 tags = [
   "Brigade",
@@ -12,7 +12,7 @@ tags = [
   "Official"
 ]
 type = "Brigade, Code for America, Code for America Fiscally Sponsored Brigade, Official"
-website = "http://ncopenpass.com"
+website = "https://opennc-collaborative.org/brigades/raleigh/"
 
 [location]
 city = "Raleigh"
