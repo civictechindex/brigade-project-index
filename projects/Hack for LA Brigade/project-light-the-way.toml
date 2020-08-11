@@ -1,0 +1,6 @@
+code_url = "https://github.com/hackforla/project-light-the-way"
+description = "A website that provides a easier way to connect veterans to their benefits and other resources."
+git_branch = "master"
+git_url = "git://github.com/hackforla/project-light-the-way.git"
+name = "project-light-the-way"
+topics = [ "hackathon", "light-the-way", "meanjs", "veteran" ]

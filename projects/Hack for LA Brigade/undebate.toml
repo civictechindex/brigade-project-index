@@ -1,15 +1,13 @@
-code_url = "https://github.com/EnCiv/undebate"
-description = "Not debates, but recorded online video Q&A with candidates so voters can quickly can get to know them, for every candidate, for every election, across the US."
+code_url = "https://github.com/hackforla/undebate"
+description = "Not debates but a better way to learn about all candidates in all races every election"
 git_branch = "master"
-git_url = "git://github.com/EnCiv/undebate.git"
+git_url = "git://github.com/hackforla/undebate.git"
 name = "undebate"
 topics = [
   "civictechindex",
+  "code-for-all",
   "code-for-america",
-  "democratic-discourse",
+  "debates",
   "hack-for-la",
-  "mongodb",
-  "node",
-  "reactjs",
-  "webrtc"
+  "participatory-democracy"
 ]

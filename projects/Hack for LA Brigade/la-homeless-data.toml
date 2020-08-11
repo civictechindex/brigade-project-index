@@ -1,0 +1,11 @@
+code_url = "https://github.com/hackforla/la-homeless-data"
+description = "A blog for communicating data-driven stories around the issue of homelessness in the Los Angeles area."
+git_branch = "gh-pages"
+git_url = "git://github.com/hackforla/la-homeless-data.git"
+name = "la-homeless-data"
+topics = [
+  "code-for-america",
+  "hack-for-la",
+  "homeless",
+  "homelessness"
+]

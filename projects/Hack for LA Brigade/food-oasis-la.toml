@@ -1,0 +1,17 @@
+code_url = "https://github.com/hackforla/food-oasis-la"
+description = "This is a website with a map of food sources in Los Angeles, and list of resources about food deserts and health, published with Jekyll and GitHub Pages."
+git_branch = "master"
+git_url = "git://github.com/hackforla/food-oasis-la.git"
+link_url = "https://foodoasis.la"
+name = "food-oasis-la"
+topics = [
+  "community-gardens",
+  "farmers-markets",
+  "food-deserts",
+  "food-oasis",
+  "food-pantries",
+  "gh-pages",
+  "jekyll",
+  "los-angeles",
+  "mapbox"
+]
