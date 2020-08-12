@@ -3,3 +3,4 @@ description = "Repositorio central de Code 4 Puerto Rico"
 git_branch = "master"
 git_url = "git://github.com/Code4PuertoRico/Code4PR.git"
 name = "Code4PR"
+topics = [ "puerto-rico" ]
