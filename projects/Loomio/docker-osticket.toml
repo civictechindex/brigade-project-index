@@ -1,5 +1,0 @@
-code_url = "https://github.com/loomio/docker-osticket"
-description = "Run OSTicket in a docker container with nginx & PHP-FPM"
-git_branch = "master"
-git_url = "git://github.com/loomio/docker-osticket.git"
-name = "docker-osticket"
