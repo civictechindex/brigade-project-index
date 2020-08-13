@@ -4,7 +4,8 @@ git_branch = "master"
 git_url = "git://github.com/hackforla/civic-opportunity.git"
 name = "civic-opportunity"
 topics = [
-  "civic-tech-index",
+  "civictechindex",
+  "code-for-all",
   "code-for-america",
   "duty-of-care",
   "hack-for-la",
