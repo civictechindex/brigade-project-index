@@ -1,5 +1,15 @@
 code_url = "https://github.com/18F/10x-workshare"
-description = "Track tasks related to the 10x leveraging unemployment insurance data project"
+description = "10x Phase 2 Investigation: Workshare Unemployment Program"
 git_branch = "master"
 git_url = "git://github.com/18F/10x-workshare.git"
 name = "10x-workshare"
+topics = [
+  "10x",
+  "18f",
+  "data",
+  "jobs",
+  "labor",
+  "technology",
+  "unemployment",
+  "workshare"
+]
