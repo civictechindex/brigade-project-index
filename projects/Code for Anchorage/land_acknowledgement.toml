@@ -1,5 +1,13 @@
 code_url = "https://github.com/codeforanchorage/land_acknowledgement"
-description = "Land Acknowledgement"
+description = "Land Acknowledgement SMS Application"
 git_branch = "master"
 git_url = "git://github.com/codeforanchorage/land_acknowledgement.git"
+link_url = "https://land.codeforanchorage.org/"
 name = "land_acknowledgement"
+topics = [
+  "heroku",
+  "land-acknowledgement",
+  "native-lands",
+  "twilio",
+  "zipcode-data"
+]
