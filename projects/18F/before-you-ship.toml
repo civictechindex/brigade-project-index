@@ -4,3 +4,4 @@ git_branch = "master"
 git_url = "git://github.com/18F/before-you-ship.git"
 link_url = "https://before-you-ship.18f.gov"
 name = "before-you-ship"
+topics = [ "compliance" ]

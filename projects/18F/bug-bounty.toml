@@ -4,3 +4,4 @@ git_branch = "master"
 git_url = "git://github.com/18F/bug-bounty.git"
 link_url = "https://github.com/18F/tts-tech-portfolio/issues/49"
 name = "bug-bounty"
+topics = [ "tts-bug-bounty" ]
