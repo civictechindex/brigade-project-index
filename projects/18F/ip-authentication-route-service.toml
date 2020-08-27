@@ -1,5 +1,0 @@
-code_url = "https://github.com/18F/ip-authentication-route-service"
-description = "A cloud foundry compatible route service that imposes an IP safelist"
-git_branch = "master"
-git_url = "git://github.com/18F/ip-authentication-route-service.git"
-name = "ip-authentication-route-service"
