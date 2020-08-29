@@ -1,5 +1,5 @@
 code_url = "https://github.com/codeforbtv/courtbot"
-description = "Missing a court date is a serious offense—even if it was unintentional. Courtbot is an automated system that will watch for court dates and send people reminders via sms."
+description = "Your friendly neighborhood court robot. Provides an api for getting court case information."
 git_branch = "master"
 git_url = "git://github.com/codeforbtv/courtbot.git"
 name = "courtbot"
