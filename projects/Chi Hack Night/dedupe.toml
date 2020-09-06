@@ -1,12 +1,12 @@
 code_url = "https://github.com/datamade/dedupe"
 name = "dedupe"
 topics = [
+  "clustering",
   "datamade",
   "de-duplicating",
   "dedupe",
   "dedupe-library",
   "entity-resolution",
-  "forest",
   "python",
   "python-library",
   "record-linkage"
