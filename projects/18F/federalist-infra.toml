@@ -1,0 +1,5 @@
+code_url = "https://github.com/18F/federalist-infra"
+description = "Infrastructure for Federalist"
+git_branch = "master"
+git_url = "git://github.com/18F/federalist-infra.git"
+name = "federalist-infra"
