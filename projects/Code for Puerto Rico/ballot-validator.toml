@@ -1,0 +1,5 @@
+code_url = "https://github.com/Code4PuertoRico/ballot-validator"
+description = "Javascript package to help validate Puerto Rico ballots."
+git_branch = "master"
+git_url = "git://github.com/Code4PuertoRico/ballot-validator.git"
+name = "ballot-validator"
