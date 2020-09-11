@@ -1,0 +1,5 @@
+code_url = "https://github.com/Code4PuertoRico/gaen-mobile"
+description = "The mobile application supporting the GAEN Exposure Notifications protocol."
+git_branch = "develop"
+git_url = "git://github.com/Code4PuertoRico/gaen-mobile.git"
+name = "gaen-mobile"
