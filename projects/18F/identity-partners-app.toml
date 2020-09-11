@@ -1,5 +1,5 @@
 code_url = "https://github.com/18F/identity-partners-app"
 description = "An app for login.gov government partners to manage their account and view analytics"
-git_branch = "main"
+git_branch = "master"
 git_url = "git://github.com/18F/identity-partners-app.git"
 name = "identity-partners-app"
