@@ -2,3 +2,10 @@ code_url = "https://github.com/hackforla/ballotnav"
 git_branch = "master"
 git_url = "git://github.com/hackforla/ballotnav.git"
 name = "ballotnav"
+topics = [
+  "ballots",
+  "code-for-all",
+  "code-for-america",
+  "hack-for-la",
+  "usps"
+]
