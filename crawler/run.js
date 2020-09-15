@@ -188,10 +188,10 @@ require('yargs')
                 for (const orgBlobName in orgBlobs) {
                     const org = await sheets.parseBlob(orgBlobs[orgBlobName]);
                     const orgName = path.basename(orgBlobName, '.toml');
-                    let { projects_list_url: projectsListUrl, projects_tag: projectsTag } = org;
+                    let { projects_list_url: projectsListUrl, projects_tag: projectsTagUrl } = org;
 
-                    if (!projectsListUrl && projectsTag) {
-                        projectsListUrl = `https://github.com/topics/${projectsTag}`;
+                    if (!projectsListUrl && projectsTagUrl) {
+                        projectsListUrl = projectsTagUrl;
                     }
 
                     if (!projectsListUrl) {
