@@ -24,6 +24,23 @@ const githubAxios = axios.create({
         : null
 });
 
+// Calculate the bucket for when the project was most recently pushed
+const ONE_WEEK = 60 * 60 * 24 * 7;
+const ONE_MONTH = 60 * 60 * 24 * 30;
+const ONE_YEAR = 60 * 60 * 24 * 365;
+function lastPushedWithin(repoPushedAt) {
+  const repoPushedDate = new Date(repoPushedAt);
+  if (repoPushedDate > new Date() - ONE_WEEK) {
+    return 'week';
+  } else if (repoPushedDate > new Date() - ONE_MONTH) {
+    return 'month';
+  } else if (repoPushedDate > new Date() - ONE_YEAR) {
+    return 'year';
+  } else {
+    return 'over_a_year';
+  }
+}
+
 require('yargs')
     .command({
         command: '$0',
@@ -381,7 +398,8 @@ async function loadGithubOrgProjects(repo, username) {
             git_url: repo.git_url,
             git_branch: repo.default_branch,
             link_url: repo.homepage || null,
-            topics: repo.topics.length ? repo.topics : null
+            topics: repo.topics.length ? repo.topics : null,
+            last_pushed_within: lastPushedWithin(repo.pushed_at),
         };
         const toml = GitSheets.stringifyRecord(projectData);
         const blob = await tree.writeChild(`${repo.name}.toml`, toml);
@@ -632,6 +650,8 @@ async function loadFeedProjects(repo, projectsListUrl) {
                 if (projectData.topics) {
                     projectData.topics = projectData.topics.sort();
                 }
+
+                projectData.last_pushed_within = lastPushedWithin(response.data.pushed_at)
             } catch (err) {
                 if (err.response && err.response.status == 404) {
                     projectData.flags = [ 'github_404' ]
