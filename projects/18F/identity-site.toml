@@ -1,7 +1,7 @@
 code_url = "https://github.com/18F/identity-site"
-description = "The login.gov marketing website"
+description = "This is the login.gov main website where the public is able to learn about their one account for governement."
 git_branch = "master"
 git_url = "git://github.com/18F/identity-site.git"
 link_url = "https://login.gov"
 name = "identity-site"
-topics = [ "login-gov" ]
+topics = [ "gov", "identity", "login-gov" ]
