@@ -2,6 +2,7 @@ code_url = "https://github.com/code4romania/ce-ma-fac"
 description = "Web platform with guides & questionnaires for keeping people informed."
 git_branch = "develop"
 git_url = "git://github.com/code4romania/ce-ma-fac.git"
+last_pushed_within = "over_a_year"
 link_url = "https://cetrebuiesafac.ro"
 name = "ce-ma-fac"
 topics = [ "civic-tech", "covid-19" ]

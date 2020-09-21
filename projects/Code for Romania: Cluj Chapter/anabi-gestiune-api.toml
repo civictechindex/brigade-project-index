@@ -2,6 +2,7 @@ code_url = "https://github.com/code4romania/anabi-gestiune-api"
 description = "API-ul portalului de gestiune pentru ANABI"
 git_branch = "master"
 git_url = "git://github.com/code4romania/anabi-gestiune-api.git"
+last_pushed_within = "over_a_year"
 link_url = "https://code4.ro/ro/apps/anabi/"
 name = "anabi-gestiune-api"
 topics = [
