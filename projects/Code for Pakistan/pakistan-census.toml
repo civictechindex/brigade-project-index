@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforpakistan/pakistan-census"
 git_branch = "master"
 git_url = "git://github.com/codeforpakistan/pakistan-census.git"
+last_pushed_within = "over_a_year"
 name = "pakistan-census"
