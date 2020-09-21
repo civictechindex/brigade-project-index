@@ -1,4 +1,5 @@
 code_url = "https://github.com/sfbrigade/sr-shelter-sync"
 git_branch = "master"
 git_url = "git://github.com/sfbrigade/sr-shelter-sync.git"
+last_pushed_within = "over_a_year"
 name = "sr-shelter-sync"

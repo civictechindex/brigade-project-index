@@ -2,6 +2,7 @@ code_url = "https://github.com/sfbrigade/twabler"
 description = "An open source data labeling application"
 git_branch = "master"
 git_url = "git://github.com/sfbrigade/twabler.git"
+last_pushed_within = "over_a_year"
 name = "twabler"
 topics = [
   "code-for-america",

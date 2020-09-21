@@ -1,4 +1,5 @@
 code_url = "https://github.com/sfbrigade/disclosure-tools"
 git_branch = "master"
 git_url = "git://github.com/sfbrigade/disclosure-tools.git"
+last_pushed_within = "over_a_year"
 name = "disclosure-tools"
