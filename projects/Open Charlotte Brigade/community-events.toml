@@ -2,6 +2,6 @@ code_url = "https://github.com/OpenCLTBrigade/community-events"
 description = "Combining community event calendars from around Mecklenburg county"
 git_branch = "master"
 git_url = "git://github.com/OpenCLTBrigade/community-events.git"
-last_pushed_within = "over_a_year"
+last_pushed_within = "month"
 name = "community-events"
 topics = [ "civic", "civic-tech" ]
