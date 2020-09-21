@@ -1,4 +1,5 @@
 code_url = "https://github.com/codefordc/dc-campaign-finance-data-processor"
 git_branch = "master"
 git_url = "git://github.com/codefordc/dc-campaign-finance-data-processor.git"
+last_pushed_within = "over_a_year"
 name = "dc-campaign-finance-data-processor"

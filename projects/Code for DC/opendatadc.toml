@@ -1,4 +1,5 @@
 code_url = "https://github.com/codefordc/opendatadc"
 git_branch = "master"
 git_url = "git://github.com/codefordc/opendatadc.git"
+last_pushed_within = "over_a_year"
 name = "opendatadc"
