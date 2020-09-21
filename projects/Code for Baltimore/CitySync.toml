@@ -2,6 +2,7 @@ code_url = "https://github.com/CodeForBaltimore/CitySync"
 description = "Bringing together Baltimore non-profits with smart data."
 git_branch = "master"
 git_url = "git://github.com/CodeForBaltimore/CitySync.git"
+last_pushed_within = "over_a_year"
 name = "CitySync"
 topics = [
   "civic-tech",

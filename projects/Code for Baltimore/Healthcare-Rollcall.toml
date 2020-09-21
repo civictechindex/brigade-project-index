@@ -2,6 +2,7 @@ code_url = "https://github.com/CodeForBaltimore/Healthcare-Rollcall"
 description = "A system to track the status of healthcare providers during and after a disaster."
 git_branch = "master"
 git_url = "git://github.com/CodeForBaltimore/Healthcare-Rollcall.git"
+last_pushed_within = "over_a_year"
 link_url = "https://healthcare-rollcall.netlify.com/"
 name = "Healthcare-Rollcall"
 topics = [
