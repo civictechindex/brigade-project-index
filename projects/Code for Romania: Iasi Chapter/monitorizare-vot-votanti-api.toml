@@ -2,6 +2,7 @@ code_url = "https://github.com/code4romania/monitorizare-vot-votanti-api"
 description = "API pentru monitorizarea incidentelor din cadrul alegerilor parlamentare din 2016."
 git_branch = "develop"
 git_url = "git://github.com/code4romania/monitorizare-vot-votanti-api.git"
+last_pushed_within = "over_a_year"
 link_url = "http://monitorizarevot.ro/"
 name = "monitorizare-vot-votanti-api"
 topics = [
