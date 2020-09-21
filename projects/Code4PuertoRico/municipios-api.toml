@@ -2,6 +2,7 @@ code_url = "https://github.com/Code4PuertoRico/municipios-api"
 description = "Simple Flask API for getting distance and adjacency information on Puerto Rico's municipalities"
 git_branch = "master"
 git_url = "git://github.com/Code4PuertoRico/municipios-api.git"
+last_pushed_within = "over_a_year"
 link_url = "https://municipios.rauln.com"
 name = "municipios-api"
 topics = [
