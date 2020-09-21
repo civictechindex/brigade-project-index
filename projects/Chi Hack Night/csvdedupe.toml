@@ -1,4 +1,5 @@
 code_url = "https://github.com/datamade/csvdedupe"
+last_pushed_within = "over_a_year"
 name = "csvdedupe"
 topics = [
   "cli",

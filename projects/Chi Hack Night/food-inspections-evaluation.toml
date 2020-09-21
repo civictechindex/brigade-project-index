@@ -1,4 +1,5 @@
 code_url = "https://github.com/Chicago/food-inspections-evaluation"
+last_pushed_within = "over_a_year"
 name = "food-inspections-evaluation"
 topics = [
   "cdph",
