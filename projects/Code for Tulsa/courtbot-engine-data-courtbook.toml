@@ -2,5 +2,6 @@ code_url = "https://github.com/codefortulsa/courtbot-engine-data-courtbook"
 description = "A data source for courtbot that pulls data from a courtbook instance."
 git_branch = "master"
 git_url = "git://github.com/codefortulsa/courtbot-engine-data-courtbook.git"
+last_pushed_within = "over_a_year"
 name = "courtbot-engine-data-courtbook"
 topics = [ "courtbot" ]

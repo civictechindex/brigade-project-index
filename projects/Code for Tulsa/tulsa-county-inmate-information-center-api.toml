@@ -2,4 +2,5 @@ code_url = "https://github.com/codefortulsa/tulsa-county-inmate-information-cent
 description = "JSON wrapper for tulsa county inmate information center PDF reports."
 git_branch = "master"
 git_url = "git://github.com/codefortulsa/tulsa-county-inmate-information-center-api.git"
+last_pushed_within = "over_a_year"
 name = "tulsa-county-inmate-information-center-api"

@@ -2,5 +2,6 @@ code_url = "https://github.com/codefortulsa/mrelief_snap_screeners"
 description = "We invite users all across the nation to build a food stamp pre-screeners for different states and target populations. "
 git_branch = "master"
 git_url = "git://github.com/codefortulsa/mrelief_snap_screeners.git"
+last_pushed_within = "over_a_year"
 name = "mrelief_snap_screeners"
 topics = [ "food-security" ]

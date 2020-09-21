@@ -2,6 +2,7 @@ code_url = "https://github.com/codefortulsa/courtbook"
 description = "A UI for manually providing data for courtbot"
 git_branch = "master"
 git_url = "git://github.com/codefortulsa/courtbook.git"
+last_pushed_within = "over_a_year"
 name = "courtbook"
 topics = [
   "courtbook",
