@@ -1,4 +1,5 @@
 code_url = "https://github.com/OpenDataDE/DE_foia_log_cleaning"
 git_branch = "master"
 git_url = "git://github.com/OpenDataDE/DE_foia_log_cleaning.git"
+last_pushed_within = "over_a_year"
 name = "DE_foia_log_cleaning"
