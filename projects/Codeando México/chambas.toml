@@ -2,6 +2,7 @@ code_url = "https://github.com/CodeandoMexico/chambas"
 description = "La bolsa de trabajo para hackers cívicos."
 git_branch = "master"
 git_url = "git://github.com/CodeandoMexico/chambas.git"
+last_pushed_within = "over_a_year"
 name = "chambas"
 topics = [
   "civic-tech",
