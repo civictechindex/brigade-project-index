@@ -2,5 +2,6 @@ code_url = "https://github.com/codeforeurope/open311-android"
 description = "New version of open311-android, ported from City of Bloomington version"
 git_branch = "master"
 git_url = "git://github.com/codeforeurope/open311-android.git"
+last_pushed_within = "over_a_year"
 name = "open311-android"
 topics = [ "android", "android-studio", "georeport", "open311" ]
