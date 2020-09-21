@@ -1,5 +1,6 @@
 code_url = "https://github.com/CodeForGiessen/refugeeApp"
 git_branch = "master"
 git_url = "git://github.com/CodeForGiessen/refugeeApp.git"
+last_pushed_within = "over_a_year"
 name = "refugeeApp"
 topics = [ "android", "generator-mionic", "ionic", "refugees" ]
