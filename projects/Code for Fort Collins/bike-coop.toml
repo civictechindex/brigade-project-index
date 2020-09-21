@@ -2,5 +2,6 @@ code_url = "https://github.com/CodeForFoco/bike-coop"
 description = "Central repository for Bike Coop project."
 git_branch = "master"
 git_url = "git://github.com/CodeForFoco/bike-coop.git"
+last_pushed_within = "over_a_year"
 name = "bike-coop"
 topics = [ "wordpress-site" ]

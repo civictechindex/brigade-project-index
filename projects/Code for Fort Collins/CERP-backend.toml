@@ -2,6 +2,7 @@ code_url = "https://github.com/CodeForFoco/CERP-backend"
 description = "Community Elections Resources and Polling Tool"
 git_branch = "master"
 git_url = "git://github.com/CodeForFoco/CERP-backend.git"
+last_pushed_within = "over_a_year"
 link_url = "https://cerp-code-foco.herokuapp.com/"
 name = "CERP-backend"
 topics = [ "civic-hacking", "code-for-america" ]

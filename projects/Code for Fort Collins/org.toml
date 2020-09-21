@@ -2,5 +2,6 @@ code_url = "https://github.com/CodeForFoco/org"
 description = "Useful Docs + what Code for Fort Collins needs done on an organizational level"
 git_branch = "master"
 git_url = "git://github.com/CodeForFoco/org.git"
+last_pushed_within = "over_a_year"
 name = "org"
 topics = [ "civic-hacking", "code-for-america", "foco", "fort-collins" ]
