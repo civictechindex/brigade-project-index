@@ -2,6 +2,6 @@ code_url = "https://github.com/codeforsanjose/disaster-response-sj"
 description = "Exploration of adding civic tech component to San Jose disaster response"
 git_branch = "master"
 git_url = "git://github.com/codeforsanjose/disaster-response-sj.git"
-last_pushed_within = "over_a_year"
+last_pushed_within = "year"
 name = "disaster-response-sj"
 topics = [ "in-development" ]
