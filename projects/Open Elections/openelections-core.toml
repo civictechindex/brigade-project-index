@@ -2,5 +2,6 @@ code_url = "https://github.com/openelections/openelections-core"
 description = "Core repo for election results data acquisition, transformation and output."
 git_branch = "master"
 git_url = "git://github.com/openelections/openelections-core.git"
+last_pushed_within = "over_a_year"
 name = "openelections-core"
 topics = [ "elections", "openelections" ]
