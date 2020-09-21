@@ -2,5 +2,6 @@ code_url = "https://github.com/Code4HR/hrt-bus-text-my-bus"
 description = "text to find in realtime when the bus is coming. powered by the hrtb.us api"
 git_branch = "master"
 git_url = "git://github.com/Code4HR/hrt-bus-text-my-bus.git"
+last_pushed_within = "over_a_year"
 name = "hrt-bus-text-my-bus"
 topics = [ "deprecated" ]

@@ -2,5 +2,6 @@ code_url = "https://github.com/Code4HR/brigade-homepage-template"
 description = "Started from C4HRVA-landing, this is a true templatized GitHub Pages landing for a new brigade homepage."
 git_branch = "gh-pages"
 git_url = "git://github.com/Code4HR/brigade-homepage-template.git"
+last_pushed_within = "over_a_year"
 name = "brigade-homepage-template"
 topics = [ "deprecated" ]

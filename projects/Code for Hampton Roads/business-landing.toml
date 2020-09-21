@@ -2,5 +2,6 @@ code_url = "https://github.com/Code4HR/business-landing"
 description = "A web application that helps people find places to start their new businesses."
 git_branch = "master"
 git_url = "git://github.com/Code4HR/business-landing.git"
+last_pushed_within = "over_a_year"
 name = "business-landing"
 topics = [ "deprecated", "hackathon" ]

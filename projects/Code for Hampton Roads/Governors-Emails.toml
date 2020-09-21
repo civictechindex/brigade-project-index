@@ -2,6 +2,7 @@ code_url = "https://github.com/Code4HR/Governors-Emails"
 description = "An application for viewing and searching Virginia Governor Kaine's emails"
 git_branch = "master"
 git_url = "git://github.com/Code4HR/Governors-Emails.git"
+last_pushed_within = "over_a_year"
 link_url = "http://kaineemails.code4hr.org/"
 name = "Governors-Emails"
 topics = [ "official" ]

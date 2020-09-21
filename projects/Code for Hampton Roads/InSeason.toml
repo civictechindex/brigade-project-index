@@ -2,5 +2,6 @@ code_url = "https://github.com/Code4HR/InSeason"
 description = "Website for InSeason"
 git_branch = "master"
 git_url = "git://github.com/Code4HR/InSeason.git"
+last_pushed_within = "over_a_year"
 name = "InSeason"
 topics = [ "deprecated", "hackathons" ]

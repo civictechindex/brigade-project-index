@@ -2,6 +2,7 @@ code_url = "https://github.com/Code4HR/look-at-virginiabeach"
 description = "Explore Cook County's budget from 1993 to 2012 and learn how the money is being spent."
 git_branch = "gh-pages"
 git_url = "git://github.com/Code4HR/look-at-virginiabeach.git"
+last_pushed_within = "over_a_year"
 link_url = "http://lookatcook.com/"
 name = "look-at-virginiabeach"
 topics = [ "deprecated" ]

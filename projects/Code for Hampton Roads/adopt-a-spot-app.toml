@@ -1,5 +1,6 @@
 code_url = "https://github.com/Code4HR/adopt-a-spot-app"
 git_branch = "master"
 git_url = "git://github.com/Code4HR/adopt-a-spot-app.git"
+last_pushed_within = "over_a_year"
 name = "adopt-a-spot-app"
 topics = [ "deprecated", "hackathon" ]

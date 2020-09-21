@@ -2,6 +2,7 @@ code_url = "https://github.com/Code4HR/titan"
 description = "Tidal Inundation and Tracking Application for Norfolk"
 git_branch = "master"
 git_url = "git://github.com/Code4HR/titan.git"
+last_pushed_within = "over_a_year"
 link_url = "http://gisapp1.norfolk.gov/TidalFLUX/home.aspx"
 name = "titan"
 topics = [ "deprecated" ]

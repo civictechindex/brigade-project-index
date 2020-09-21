@@ -2,5 +2,6 @@ code_url = "https://github.com/Code4HR/hr-transit-api"
 description = "A simple, CouchDB-based API for Hampton Roads transit data"
 git_branch = "master"
 git_url = "git://github.com/Code4HR/hr-transit-api.git"
+last_pushed_within = "over_a_year"
 name = "hr-transit-api"
 topics = [ "deprecated" ]

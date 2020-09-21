@@ -1,5 +1,6 @@
 code_url = "https://github.com/Code4HR/InSeasonWebAPI"
 git_branch = "master"
 git_url = "git://github.com/Code4HR/InSeasonWebAPI.git"
+last_pushed_within = "over_a_year"
 name = "InSeasonWebAPI"
 topics = [ "deprecated", "hackathon", "winner" ]

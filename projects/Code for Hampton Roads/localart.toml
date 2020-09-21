@@ -2,6 +2,7 @@ code_url = "https://github.com/Code4HR/localart"
 description = "An HTML5 mobile app for navigating & browsing locations of public art, architecture, and culture in Norfolk, VA."
 git_branch = "master"
 git_url = "git://github.com/Code4HR/localart.git"
+last_pushed_within = "over_a_year"
 link_url = "http://iartnorfolk.com"
 name = "localart"
 topics = [ "deprecated", "official" ]

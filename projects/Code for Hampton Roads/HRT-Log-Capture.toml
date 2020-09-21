@@ -2,5 +2,6 @@ code_url = "https://github.com/Code4HR/HRT-Log-Capture"
 description = "Tail-Reformat-Push the HRT Real-Time GPS Logs"
 git_branch = "master"
 git_url = "git://github.com/Code4HR/HRT-Log-Capture.git"
+last_pushed_within = "over_a_year"
 name = "HRT-Log-Capture"
 topics = [ "deprecated" ]

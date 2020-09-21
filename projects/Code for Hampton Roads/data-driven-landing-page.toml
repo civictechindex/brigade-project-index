@@ -2,5 +2,6 @@ code_url = "https://github.com/Code4HR/data-driven-landing-page"
 description = "The landing page, revamped using Clearleft's style guide and the CfA Civic API.  Built with BackboneJS."
 git_branch = "master"
 git_url = "git://github.com/Code4HR/data-driven-landing-page.git"
+last_pushed_within = "over_a_year"
 name = "data-driven-landing-page"
 topics = [ "deprecated" ]

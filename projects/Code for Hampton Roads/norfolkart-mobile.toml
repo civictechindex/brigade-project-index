@@ -2,5 +2,6 @@ code_url = "https://github.com/Code4HR/norfolkart-mobile"
 description = "A Replicant interface for the iArtNorfolk data."
 git_branch = "master"
 git_url = "git://github.com/Code4HR/norfolkart-mobile.git"
+last_pushed_within = "over_a_year"
 name = "norfolkart-mobile"
 topics = [ "deprecated" ]

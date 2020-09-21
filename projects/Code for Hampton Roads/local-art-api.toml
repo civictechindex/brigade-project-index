@@ -2,6 +2,7 @@ code_url = "https://github.com/Code4HR/local-art-api"
 description = "Public Art Installations in Norfolk, VA"
 git_branch = "master"
 git_url = "git://github.com/Code4HR/local-art-api.git"
+last_pushed_within = "over_a_year"
 link_url = "https://localartapi-code4hr.rhcloud.com/"
 name = "local-art-api"
 topics = [ "deprecated", "official" ]

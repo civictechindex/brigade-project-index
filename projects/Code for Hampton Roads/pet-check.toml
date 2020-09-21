@@ -2,6 +2,7 @@ code_url = "https://github.com/Code4HR/pet-check"
 description = "Check pet suppliers (USDA licensee) inspection history and status, C#, @VACoder"
 git_branch = "master"
 git_url = "git://github.com/Code4HR/pet-check.git"
+last_pushed_within = "over_a_year"
 link_url = "http://pets.c4hrva.us"
 name = "pet-check"
 topics = [ "deprecated" ]

@@ -2,6 +2,7 @@ code_url = "https://github.com/Code4HR/cbf-clean"
 description = "Citizen reporting web app for Clean the Bay Day (CBF.org/clean), Meteor.js, @BretFisher"
 git_branch = "master"
 git_url = "git://github.com/Code4HR/cbf-clean.git"
+last_pushed_within = "over_a_year"
 link_url = "http://cbf-clean.meteor.com/"
 name = "cbf-clean"
 topics = [ "official" ]
