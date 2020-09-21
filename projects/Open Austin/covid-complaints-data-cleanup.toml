@@ -1,4 +1,5 @@
 code_url = "https://github.com/open-austin/covid-complaints-data-cleanup"
 git_branch = "master"
 git_url = "git://github.com/open-austin/covid-complaints-data-cleanup.git"
+last_pushed_within = "over_a_year"
 name = "covid-complaints-data-cleanup"

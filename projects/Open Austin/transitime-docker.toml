@@ -2,5 +2,6 @@ code_url = "https://github.com/open-austin/transitime-docker"
 description = "Dockerfile for transitime. Don't use this! Its just an experiment."
 git_branch = "master"
 git_url = "git://github.com/open-austin/transitime-docker.git"
+last_pushed_within = "over_a_year"
 name = "transitime-docker"
 topics = [ "transportation" ]

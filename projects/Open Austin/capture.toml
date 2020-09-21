@@ -2,5 +2,6 @@ code_url = "https://github.com/open-austin/capture"
 description = ":bus: analytics"
 git_branch = "master"
 git_url = "git://github.com/open-austin/capture.git"
+last_pushed_within = "over_a_year"
 name = "capture"
 topics = [ "transportation" ]
