@@ -1,7 +1,7 @@
 code_url = "https://github.com/mysociety/bods-test"
 git_branch = "master"
 git_url = "git://github.com/mysociety/bods-test.git"
-last_pushed_within = "over_a_year"
+last_pushed_within = "year"
 name = "bods-test"
 topics = [
   "beneficial-ownership",
