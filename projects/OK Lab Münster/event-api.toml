@@ -2,6 +2,7 @@ code_url = "https://github.com/codeformuenster/event-api"
 description = "API Interface for the Open Events Database"
 git_branch = "master"
 git_url = "git://github.com/codeformuenster/event-api.git"
+last_pushed_within = "over_a_year"
 link_url = "https://hub.docker.com/r/codeformuenster/event-api/"
 name = "event-api"
 topics = [ "dockerfile", "elasticsearch", "open-api" ]

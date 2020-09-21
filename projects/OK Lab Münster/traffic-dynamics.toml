@@ -2,6 +2,7 @@ code_url = "https://github.com/codeformuenster/traffic-dynamics"
 description = "Visualisierung und Analyse automatischer Verkehrszählungen im gesamten Münsteraner Stadtgebiet"
 git_branch = "master"
 git_url = "git://github.com/codeformuenster/traffic-dynamics.git"
+last_pushed_within = "over_a_year"
 link_url = "https://traffics.codeformuenster.org"
 name = "traffic-dynamics"
 topics = [ "cars", "cyclists", "docker-image" ]

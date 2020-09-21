@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeformuenster/docker-prometheus-es-exporter"
 git_branch = "master"
 git_url = "git://github.com/codeformuenster/docker-prometheus-es-exporter.git"
+last_pushed_within = "over_a_year"
 name = "docker-prometheus-es-exporter"

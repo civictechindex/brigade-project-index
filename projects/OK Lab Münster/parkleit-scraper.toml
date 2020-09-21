@@ -2,6 +2,7 @@ code_url = "https://github.com/codeformuenster/parkleit-scraper"
 description = "Crawls data from parking garage website of city Münster"
 git_branch = "master"
 git_url = "git://github.com/codeformuenster/parkleit-scraper.git"
+last_pushed_within = "over_a_year"
 link_url = "https://hub.docker.com/r/codeformuenster/parkleit-scraper/"
 name = "parkleit-scraper"
 topics = [ "scraping" ]

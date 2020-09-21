@@ -1,5 +1,6 @@
 code_url = "https://github.com/codeformuenster/docker-kube-apply"
 git_branch = "master"
 git_url = "git://github.com/codeformuenster/docker-kube-apply.git"
+last_pushed_within = "over_a_year"
 link_url = "https://hub.docker.com/r/codeformuenster/kube-apply/builds/"
 name = "docker-kube-apply"

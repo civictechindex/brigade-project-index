@@ -2,5 +2,6 @@ code_url = "https://github.com/codeformuenster/map-app-base"
 description = "[WIP] Code base for web apps with need for a map and search"
 git_branch = "master"
 git_url = "git://github.com/codeformuenster/map-app-base.git"
+last_pushed_within = "over_a_year"
 name = "map-app-base"
 topics = [ "elasticsearch", "gatsby", "kinto", "react" ]

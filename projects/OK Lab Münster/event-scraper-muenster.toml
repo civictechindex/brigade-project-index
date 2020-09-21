@@ -2,5 +2,6 @@ code_url = "https://github.com/codeformuenster/event-scraper-muenster"
 description = "scraping events from muenster.de"
 git_branch = "master"
 git_url = "git://github.com/codeformuenster/event-scraper-muenster.git"
+last_pushed_within = "over_a_year"
 name = "event-scraper-muenster"
 topics = [ "event-scraper" ]

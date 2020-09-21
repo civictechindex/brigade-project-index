@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeformuenster/logstash-filter-split_featurecollection"
 git_branch = "master"
 git_url = "git://github.com/codeformuenster/logstash-filter-split_featurecollection.git"
+last_pushed_within = "over_a_year"
 name = "logstash-filter-split_featurecollection"

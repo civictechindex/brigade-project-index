@@ -2,6 +2,7 @@ code_url = "https://github.com/codeformuenster/dkan-newest-dataset-notifier"
 description = "Twitter Bot für neue Datensätze im Open Data Portal Münster"
 git_branch = "master"
 git_url = "git://github.com/codeformuenster/dkan-newest-dataset-notifier.git"
+last_pushed_within = "over_a_year"
 link_url = "https://twitter.com/OpenData_MS"
 name = "dkan-newest-dataset-notifier"
 topics = [ "dkan", "twitter-bot" ]

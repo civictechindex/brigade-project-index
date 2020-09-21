@@ -2,4 +2,5 @@ code_url = "https://github.com/codeformuenster/postgres-minio-mc-container-image
 description = "Container image with minio mc & postgres-client installed"
 git_branch = "master"
 git_url = "git://github.com/codeformuenster/postgres-minio-mc-container-image.git"
+last_pushed_within = "over_a_year"
 name = "postgres-minio-mc-container-image"

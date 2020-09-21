@@ -2,5 +2,6 @@ code_url = "https://github.com/codeformuenster/digitransit-ui"
 description = 'Digitransit UI ("Reittiopas.fi")'
 git_branch = "master"
 git_url = "git://github.com/codeformuenster/digitransit-ui.git"
+last_pushed_within = "over_a_year"
 link_url = "https://www.reittiopas.fi/"
 name = "digitransit-ui"
