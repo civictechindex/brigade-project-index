@@ -2,6 +2,7 @@ code_url = "https://github.com/codeforokc/codeforokc"
 description = "Public web site for Code for OKC"
 git_branch = "master"
 git_url = "git://github.com/codeforokc/codeforokc.git"
+last_pushed_within = "over_a_year"
 link_url = "https://codeforokc.org"
 name = "codeforokc"
 topics = [ "civic-tech", "node" ]

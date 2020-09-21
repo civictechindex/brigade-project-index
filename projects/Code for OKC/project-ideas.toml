@@ -2,5 +2,6 @@ code_url = "https://github.com/codeforokc/project-ideas"
 description = "A place to collect and discuss Code for OKC project ideas."
 git_branch = "master"
 git_url = "git://github.com/codeforokc/project-ideas.git"
+last_pushed_within = "over_a_year"
 name = "project-ideas"
 topics = [ "civictech", "discussion" ]

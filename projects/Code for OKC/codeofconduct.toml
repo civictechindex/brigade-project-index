@@ -2,6 +2,7 @@ code_url = "https://github.com/codeforokc/codeofconduct"
 description = "Code for OKC's Code of Conduct"
 git_branch = "master"
 git_url = "git://github.com/codeforokc/codeofconduct.git"
+last_pushed_within = "over_a_year"
 link_url = "http://codeforokc.org"
 name = "codeofconduct"
 topics = [ "codeofconduct" ]

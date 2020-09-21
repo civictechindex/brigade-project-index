@@ -2,6 +2,7 @@ code_url = "https://github.com/codeforokc/openbudgetokc"
 description = "Visualizations of OKC's budget data, and explanations about the budget process."
 git_branch = "master"
 git_url = "git://github.com/codeforokc/openbudgetokc.git"
+last_pushed_within = "over_a_year"
 link_url = "https://openbudgetokc.com"
 name = "openbudgetokc"
 topics = [ "civictech", "d3", "node" ]
