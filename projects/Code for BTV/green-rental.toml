@@ -1,5 +1,6 @@
 code_url = "https://github.com/codeforbtv/green-rental"
 git_branch = "master"
 git_url = "git://github.com/codeforbtv/green-rental.git"
+last_pushed_within = "over_a_year"
 name = "green-rental"
 topics = [ "open-data" ]

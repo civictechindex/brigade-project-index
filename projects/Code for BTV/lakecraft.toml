@@ -2,5 +2,6 @@ code_url = "https://github.com/codeforbtv/lakecraft"
 description = "Lakecraft: Porting the Champlain Basin to Minecraft"
 git_branch = "master"
 git_url = "git://github.com/codeforbtv/lakecraft.git"
+last_pushed_within = "over_a_year"
 name = "lakecraft"
 topics = [ "open-data" ]

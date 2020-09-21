@@ -1,5 +1,6 @@
 code_url = "https://github.com/codeforbtv/adopt-a-drain"
 git_branch = "master"
 git_url = "git://github.com/codeforbtv/adopt-a-drain.git"
+last_pushed_within = "over_a_year"
 name = "adopt-a-drain"
 topics = [ "community-engagment" ]

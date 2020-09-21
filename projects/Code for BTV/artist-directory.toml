@@ -2,5 +2,6 @@ code_url = "https://github.com/codeforbtv/artist-directory"
 description = "Artist Directory"
 git_branch = "master"
 git_url = "git://github.com/codeforbtv/artist-directory.git"
+last_pushed_within = "over_a_year"
 name = "artist-directory"
 topics = [ "big-heavy-world" ]

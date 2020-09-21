@@ -2,5 +2,6 @@ code_url = "https://github.com/codeforbtv/muni-data"
 description = "Crawls municipal websites, looking for documents, collects them and stores the analyzed output."
 git_branch = "master"
 git_url = "git://github.com/codeforbtv/muni-data.git"
+last_pushed_within = "over_a_year"
 name = "muni-data"
 topics = [ "open-data" ]
