@@ -1,4 +1,5 @@
 code_url = "https://github.com/opendata-heilbronn/subtitle-analyzer"
 git_branch = "master"
 git_url = "git://github.com/opendata-heilbronn/subtitle-analyzer.git"
+last_pushed_within = "over_a_year"
 name = "subtitle-analyzer"
