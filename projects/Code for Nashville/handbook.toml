@@ -2,5 +2,6 @@ code_url = "https://github.com/code-for-nashville/handbook"
 description = "Code For Nashville Handbook"
 git_branch = "master"
 git_url = "git://github.com/code-for-nashville/handbook.git"
+last_pushed_within = "over_a_year"
 name = "handbook"
 topics = [ "brigade", "civic-tech", "code-for-america", "handbook" ]
