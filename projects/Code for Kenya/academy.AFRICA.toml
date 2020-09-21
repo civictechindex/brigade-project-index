@@ -2,6 +2,7 @@ code_url = "https://github.com/CodeForAfrica/academy.AFRICA"
 description = "The pan-African website for the @CodeForAfrica's digital skills academy programme. The site is accessible at https://academy.africa/"
 git_branch = "master"
 git_url = "git://github.com/CodeForAfrica/academy.AFRICA.git"
+last_pushed_within = "over_a_year"
 link_url = "https://academy.africa/"
 name = "academy.AFRICA"
 topics = [
