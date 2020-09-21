@@ -2,6 +2,7 @@ code_url = "https://github.com/codeforkyana/govbook"
 description = "Kentucky local government contact information"
 git_branch = "master"
 git_url = "git://github.com/codeforkyana/govbook.git"
+last_pushed_within = "over_a_year"
 link_url = "https://govbook.codeforkentuckiana.org"
 name = "govbook"
 topics = [ "civic-tech", "government-data" ]
