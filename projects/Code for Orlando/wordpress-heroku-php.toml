@@ -1,5 +1,6 @@
 code_url = "https://github.com/cforlando/wordpress-heroku-php"
 git_branch = "master"
 git_url = "git://github.com/cforlando/wordpress-heroku-php.git"
+last_pushed_within = "over_a_year"
 name = "wordpress-heroku-php"
 topics = [ "inactive" ]

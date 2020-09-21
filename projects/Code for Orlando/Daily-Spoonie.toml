@@ -2,5 +2,6 @@ code_url = "https://github.com/cforlando/Daily-Spoonie"
 description = "Chronic illness productivity app centered around the metaphor of spoons."
 git_branch = "master"
 git_url = "git://github.com/cforlando/Daily-Spoonie.git"
+last_pushed_within = "over_a_year"
 name = "Daily-Spoonie"
 topics = [ "code-for-america", "code-for-orlando", "health-care" ]

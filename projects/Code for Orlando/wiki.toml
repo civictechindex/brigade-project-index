@@ -2,5 +2,6 @@ code_url = "https://github.com/cforlando/wiki"
 description = "How to's for all things Code for Orlando"
 git_branch = "master"
 git_url = "git://github.com/cforlando/wiki.git"
+last_pushed_within = "over_a_year"
 name = "wiki"
 topics = [ "meeting-minutes", "project-management" ]

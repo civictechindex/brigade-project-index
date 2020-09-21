@@ -2,6 +2,7 @@ code_url = "https://github.com/cforlando/volunteer-coordination"
 description = "Application for coordinating volunteers & projects for an organization."
 git_branch = "master"
 git_url = "git://github.com/cforlando/volunteer-coordination.git"
+last_pushed_within = "over_a_year"
 link_url = "http://cl.ly/1n1s1w1O3X1Z"
 name = "volunteer-coordination"
 topics = [ "community-organizing", "inactive" ]

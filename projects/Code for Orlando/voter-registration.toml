@@ -1,5 +1,6 @@
 code_url = "https://github.com/cforlando/voter-registration"
 git_branch = "gh-pages"
 git_url = "git://github.com/cforlando/voter-registration.git"
+last_pushed_within = "over_a_year"
 name = "voter-registration"
 topics = [ "inactive" ]

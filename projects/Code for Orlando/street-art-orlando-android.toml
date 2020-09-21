@@ -2,6 +2,7 @@ code_url = "https://github.com/cforlando/street-art-orlando-android"
 description = "Explore a gallery of local artwork through the Street Art Orlando app"
 git_branch = "master"
 git_url = "git://github.com/cforlando/street-art-orlando-android.git"
+last_pushed_within = "over_a_year"
 name = "street-art-orlando-android"
 topics = [
   "android",

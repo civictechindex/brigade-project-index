@@ -2,6 +2,7 @@ code_url = "https://github.com/cforlando/PetAdoption-Android"
 description = "Adopt pets easier with PetAdoption for Android"
 git_branch = "develop"
 git_url = "git://github.com/cforlando/PetAdoption-Android.git"
+last_pushed_within = "over_a_year"
 name = "PetAdoption-Android"
 topics = [
   "android",

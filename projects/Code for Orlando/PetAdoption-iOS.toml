@@ -2,5 +2,6 @@ code_url = "https://github.com/cforlando/PetAdoption-iOS"
 description = "pet adoption app"
 git_branch = "develop"
 git_url = "git://github.com/cforlando/PetAdoption-iOS.git"
+last_pushed_within = "over_a_year"
 name = "PetAdoption-iOS"
 topics = [ "inactive" ]

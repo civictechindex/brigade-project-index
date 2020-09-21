@@ -2,5 +2,6 @@ code_url = "https://github.com/cforlando/PetAdoption-API"
 description = "Pet Adoption"
 git_branch = "master"
 git_url = "git://github.com/cforlando/PetAdoption-API.git"
+last_pushed_within = "over_a_year"
 name = "PetAdoption-API"
 topics = [ "inactive" ]

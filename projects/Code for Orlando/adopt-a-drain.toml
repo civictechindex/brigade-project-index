@@ -2,5 +2,6 @@ code_url = "https://github.com/cforlando/adopt-a-drain"
 description = "Forked from Code for San Francisco! "
 git_branch = "master"
 git_url = "git://github.com/cforlando/adopt-a-drain.git"
+last_pushed_within = "over_a_year"
 name = "adopt-a-drain"
 topics = [ "inactive" ]

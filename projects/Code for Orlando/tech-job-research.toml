@@ -2,6 +2,7 @@ code_url = "https://github.com/cforlando/tech-job-research"
 description = "Ethnographic Research Project"
 git_branch = "master"
 git_url = "git://github.com/cforlando/tech-job-research.git"
+last_pushed_within = "over_a_year"
 name = "tech-job-research"
 topics = [
   "code-for-america",

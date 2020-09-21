@@ -2,5 +2,6 @@ code_url = "https://github.com/cforlando/orlando-walking-tours-ios"
 description = "Orlando Walking Tours - iOS Application"
 git_branch = "develop"
 git_url = "git://github.com/cforlando/orlando-walking-tours-ios.git"
+last_pushed_within = "over_a_year"
 name = "orlando-walking-tours-ios"
 topics = [ "code-for-america", "code-for-orlando", "ios" ]

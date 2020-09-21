@@ -1,6 +1,7 @@
 code_url = "https://github.com/cforlando/orlando-walking-tours-android"
 git_branch = "develop"
 git_url = "git://github.com/cforlando/orlando-walking-tours-android.git"
+last_pushed_within = "over_a_year"
 name = "orlando-walking-tours-android"
 topics = [
   "android",
