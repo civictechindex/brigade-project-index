@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforanchorage/election-watch-node"
 git_branch = "master"
 git_url = "git://github.com/codeforanchorage/election-watch-node.git"
+last_pushed_within = "over_a_year"
 name = "election-watch-node"

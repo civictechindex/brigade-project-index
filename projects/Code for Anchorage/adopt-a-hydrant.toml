@@ -2,5 +2,6 @@ code_url = "https://github.com/codeforanchorage/adopt-a-hydrant"
 description = 'A Ruby on Rails application that allows citizens to "adopt" civic infrastructure, such as fire hydrants.'
 git_branch = "master"
 git_url = "git://github.com/codeforanchorage/adopt-a-hydrant.git"
+last_pushed_within = "over_a_year"
 link_url = "http://adopt-a-hydrant.heroku.com"
 name = "adopt-a-hydrant"

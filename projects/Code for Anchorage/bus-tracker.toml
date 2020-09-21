@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforanchorage/bus-tracker"
 git_branch = "master"
 git_url = "git://github.com/codeforanchorage/bus-tracker.git"
+last_pushed_within = "over_a_year"
 name = "bus-tracker"
