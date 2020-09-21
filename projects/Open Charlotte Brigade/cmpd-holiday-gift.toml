@@ -2,6 +2,7 @@ code_url = "https://github.com/OpenCLTBrigade/cmpd-holiday-gift"
 description = "CMPD Explorers Christmas Project"
 git_branch = "develop"
 git_url = "git://github.com/OpenCLTBrigade/cmpd-holiday-gift.git"
+last_pushed_within = "over_a_year"
 name = "cmpd-holiday-gift"
 topics = [
   "charlotte",
