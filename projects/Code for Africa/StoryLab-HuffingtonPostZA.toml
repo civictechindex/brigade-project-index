@@ -2,6 +2,7 @@ code_url = "https://github.com/CodeForAfrica/StoryLab-HuffingtonPostZA"
 description = "Hosting solution for beautiful stories created using Shorthand for HuffingtonPost ZA. Accessible at http://stories.huffingtonpost.co.za/"
 git_branch = "master"
 git_url = "git://github.com/CodeForAfrica/StoryLab-HuffingtonPostZA.git"
+last_pushed_within = "over_a_year"
 link_url = "http://stories.huffingtonpost.co.za"
 name = "StoryLab-HuffingtonPostZA"
 topics = [

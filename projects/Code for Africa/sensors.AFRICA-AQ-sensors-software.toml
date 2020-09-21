@@ -2,5 +2,6 @@ code_url = "https://github.com/CodeForAfrica/sensors.AFRICA-AQ-sensors-software"
 description = "sourcecode for reading sensor data"
 git_branch = "recent_luftdaten_master"
 git_url = "git://github.com/CodeForAfrica/sensors.AFRICA-AQ-sensors-software.git"
+last_pushed_within = "over_a_year"
 name = "sensors.AFRICA-AQ-sensors-software"
 topics = [ "air-quality", "sensors", "sensors-africa" ]
