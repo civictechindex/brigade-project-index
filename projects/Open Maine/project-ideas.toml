@@ -2,6 +2,6 @@ code_url = "https://github.com/OpenMaine/project-ideas"
 description = "💡 😄 ✅ A list of project ideas for open source projects at OpenMaine"
 git_branch = "master"
 git_url = "git://github.com/OpenMaine/project-ideas.git"
-last_pushed_within = "over_a_year"
+last_pushed_within = "year"
 name = "project-ideas"
 topics = [ "openmaine" ]
