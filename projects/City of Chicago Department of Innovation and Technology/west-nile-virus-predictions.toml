@@ -2,6 +2,7 @@ code_url = "https://github.com/Chicago/west-nile-virus-predictions"
 description = "Algorithm to predict repeated positive results for West Nile Virus for mosquitoes captured in traps across Chicago."
 git_branch = "master"
 git_url = "git://github.com/Chicago/west-nile-virus-predictions.git"
+last_pushed_within = "over_a_year"
 name = "west-nile-virus-predictions"
 topics = [
   "cdph",

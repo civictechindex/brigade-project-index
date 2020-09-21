@@ -2,5 +2,6 @@ code_url = "https://github.com/Chicago/Kaggle_WestNileVirus-1"
 description = 'Winning solution for the Kaggle "West Nile Virus" competition (2015)'
 git_branch = "master"
 git_url = "git://github.com/Chicago/Kaggle_WestNileVirus-1.git"
+last_pushed_within = "over_a_year"
 link_url = "https://www.kaggle.com/c/predict-west-nile-virus"
 name = "Kaggle_WestNileVirus-1"

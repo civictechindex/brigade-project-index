@@ -2,6 +2,7 @@ code_url = "https://github.com/Chicago/osd-bike-routes"
 description = "Open source release of bike routes in Chicago."
 git_branch = "master"
 git_url = "git://github.com/Chicago/osd-bike-routes.git"
+last_pushed_within = "over_a_year"
 name = "osd-bike-routes"
 topics = [
   "bike-routes",

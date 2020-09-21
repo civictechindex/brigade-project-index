@@ -2,5 +2,6 @@ code_url = "https://github.com/Chicago/osd-building-footprints"
 description = "Open source release of building footprints in Chicago."
 git_branch = "master"
 git_url = "git://github.com/Chicago/osd-building-footprints.git"
+last_pushed_within = "over_a_year"
 name = "osd-building-footprints"
 topics = [ "chicago", "geojson-data", "government", "open-data" ]

@@ -2,6 +2,7 @@ code_url = "https://github.com/Chicago/flavored-tobacco-search-engine"
 description = "Healthy Chicago's Flavored Tobacco Search Engine"
 git_branch = "master"
 git_url = "git://github.com/Chicago/flavored-tobacco-search-engine.git"
+last_pushed_within = "over_a_year"
 link_url = "http://www.flavoredtobaccosearchengine.org/"
 name = "flavored-tobacco-search-engine"
 topics = [ "cdph" ]

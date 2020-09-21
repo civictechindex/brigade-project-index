@@ -2,5 +2,6 @@ code_url = "https://github.com/Chicago/osd-pedway-routes"
 description = "Open source release of pedway routes in Chicago."
 git_branch = "master"
 git_url = "git://github.com/Chicago/osd-pedway-routes.git"
+last_pushed_within = "over_a_year"
 name = "osd-pedway-routes"
 topics = [ "chicago", "geojson-data", "government", "open-data" ]

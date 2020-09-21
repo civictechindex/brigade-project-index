@@ -2,5 +2,6 @@ code_url = "https://github.com/Chicago/opengrid-svc-template"
 description = "Serivce layer that permits interaction between OpenGrid user interface and JSON data sources, just as Mongo."
 git_branch = "master"
 git_url = "git://github.com/Chicago/opengrid-svc-template.git"
+last_pushed_within = "over_a_year"
 name = "opengrid-svc-template"
 topics = [ "chicago", "government", "java", "mongodb", "opengrid" ]
