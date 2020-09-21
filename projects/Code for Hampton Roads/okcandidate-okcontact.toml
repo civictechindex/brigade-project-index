@@ -2,6 +2,6 @@ code_url = "https://github.com/Code4HR/okcandidate-okcontact"
 description = "election day reminders"
 git_branch = "master"
 git_url = "git://github.com/Code4HR/okcandidate-okcontact.git"
-last_pushed_within = "over_a_year"
+last_pushed_within = "year"
 name = "okcandidate-okcontact"
 topics = [ "deprecated", "official" ]

@@ -2,6 +2,6 @@ code_url = "https://github.com/Code4HR/hrtb.us"
 description = "A proof-of-concept isomorphic React implementation of HRTb.us."
 git_branch = "master"
 git_url = "git://github.com/Code4HR/hrtb.us.git"
-last_pushed_within = "over_a_year"
+last_pushed_within = "year"
 name = "hrtb.us"
 topics = [ "active", "hrtbus", "official" ]
