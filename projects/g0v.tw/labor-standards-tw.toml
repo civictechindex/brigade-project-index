@@ -2,6 +2,7 @@ code_url = "https://github.com/g0v/labor-standards-tw"
 description = "台灣勞動基準法函式庫, Taiwan Labor Standards Act Library"
 git_branch = "master"
 git_url = "git://github.com/g0v/labor-standards-tw.git"
+last_pushed_within = "over_a_year"
 name = "labor-standards-tw"
 topics = [
   "civil-tech",

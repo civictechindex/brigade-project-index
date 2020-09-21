@@ -1,4 +1,5 @@
 code_url = "https://github.com/g0v/cec-stats"
 git_branch = "master"
 git_url = "git://github.com/g0v/cec-stats.git"
+last_pushed_within = "over_a_year"
 name = "cec-stats"

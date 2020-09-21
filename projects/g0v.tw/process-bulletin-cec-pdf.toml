@@ -1,4 +1,5 @@
 code_url = "https://github.com/g0v/process-bulletin-cec-pdf"
 git_branch = "master"
 git_url = "git://github.com/g0v/process-bulletin-cec-pdf.git"
+last_pushed_within = "over_a_year"
 name = "process-bulletin-cec-pdf"

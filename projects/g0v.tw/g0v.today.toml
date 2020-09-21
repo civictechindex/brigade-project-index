@@ -1,4 +1,5 @@
 code_url = "https://github.com/g0v/g0v.today"
 git_branch = "master"
 git_url = "git://github.com/g0v/g0v.today.git"
+last_pushed_within = "over_a_year"
 name = "g0v.today"
