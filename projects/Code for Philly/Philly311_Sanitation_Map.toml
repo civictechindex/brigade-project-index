@@ -1,5 +1,6 @@
 code_url = "https://github.com/flibbertigibbet/philly-sanitation"
 description = "Widget for Philly311 mobile app that displays trash and recycling collection days for a given location."
+last_pushed_within = "over_a_year"
 link_url = "http://flibbertigibbet.github.io/philly-sanitation/"
 name = "Philly311_Sanitation_Map"
 status = "Maintaining"

@@ -1,5 +1,6 @@
 code_url = "https://github.com/ESultanik/ZoningMaps"
 description = "The goal of this project is to map and analyze Philadelphia zoning, particularly the impact of the reforms that were implemented in 2012."
+last_pushed_within = "over_a_year"
 name = "philly_zoning_maps"
 status = "Testing"
 topics = [ "Mapping", "Zoning", "data analysis" ]

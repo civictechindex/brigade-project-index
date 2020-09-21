@@ -1,5 +1,6 @@
 code_url = "https://github.com/plusjeff/phl-bike-thefts"
 description = "A REST wrapper around the PHL Bike Theft data to query for bike thefts near a specific point (latitude/longitude, projection: 4326). Initially done to support Kiqstnd"
+last_pushed_within = "over_a_year"
 link_url = "http://bikethefts.jeffsbox.net/"
 name = "PHL_Bike_Thefts_REST_API"
 status = "Drifting"
