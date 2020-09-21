@@ -1,5 +1,6 @@
 code_url = "https://github.com/codefordenver/shift-api"
 git_branch = "master"
 git_url = "git://github.com/codefordenver/shift-api.git"
+last_pushed_within = "over_a_year"
 name = "shift-api"
 topics = [ "api", "census", "code-for-america", "code-for-denver" ]

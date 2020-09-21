@@ -2,6 +2,7 @@ code_url = "https://github.com/codefordenver/owlet"
 description = "The Owlet Project"
 git_branch = "master"
 git_url = "git://github.com/codefordenver/owlet.git"
+last_pushed_within = "over_a_year"
 link_url = "http://owlet.codefordenver.org"
 name = "owlet"
 topics = [
