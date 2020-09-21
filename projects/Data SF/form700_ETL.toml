@@ -2,5 +2,6 @@ code_url = "https://github.com/DataSF/form700_ETL"
 description = "ETL to extract and load Form 700 Statement of Economic data from API source"
 git_branch = "master"
 git_url = "git://github.com/DataSF/form700_ETL.git"
+last_pushed_within = "over_a_year"
 name = "form700_ETL"
 topics = [ "etl", "extract", "load", "transform" ]

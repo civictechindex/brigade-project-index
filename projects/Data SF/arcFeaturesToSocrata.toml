@@ -2,5 +2,6 @@ code_url = "https://github.com/DataSF/arcFeaturesToSocrata"
 description = "Extracts Geodata from a ArcGis Feature Service and Dumps the Data onto Socrata"
 git_branch = "master"
 git_url = "git://github.com/DataSF/arcFeaturesToSocrata.git"
+last_pushed_within = "over_a_year"
 name = "arcFeaturesToSocrata"
 topics = [ "etl", "extract", "load", "transform" ]

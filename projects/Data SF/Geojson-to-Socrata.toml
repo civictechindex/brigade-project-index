@@ -2,5 +2,6 @@ code_url = "https://github.com/DataSF/Geojson-to-Socrata"
 description = "Uploads geojson files to Socrata using standard API calls"
 git_branch = "master"
 git_url = "git://github.com/DataSF/Geojson-to-Socrata.git"
+last_pushed_within = "over_a_year"
 name = "Geojson-to-Socrata"
 topics = [ "etl", "extract", "load", "transform" ]

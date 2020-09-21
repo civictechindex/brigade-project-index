@@ -2,5 +2,6 @@ code_url = "https://github.com/DataSF/Shp-To-Socrata"
 description = "Takes geo shp files and migrates them up to the Socrata Geo API"
 git_branch = "master"
 git_url = "git://github.com/DataSF/Shp-To-Socrata.git"
+last_pushed_within = "over_a_year"
 name = "Shp-To-Socrata"
 topics = [ "etl", "extract", "load", "transform" ]

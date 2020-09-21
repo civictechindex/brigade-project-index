@@ -2,5 +2,6 @@ code_url = "https://github.com/DataSF/sharepoint-data-to-open-data-portal"
 description = "ETL job to upload sharepoint data to the open data portal"
 git_branch = "master"
 git_url = "git://github.com/DataSF/sharepoint-data-to-open-data-portal.git"
+last_pushed_within = "over_a_year"
 name = "sharepoint-data-to-open-data-portal"
 topics = [ "etl", "extract", "load" ]

@@ -2,6 +2,7 @@ code_url = "https://github.com/DataSF/open-data-explorer"
 description = "To promote exploration and use of open data - currently in beta"
 git_branch = "develop"
 git_url = "git://github.com/DataSF/open-data-explorer.git"
+last_pushed_within = "over_a_year"
 link_url = "http://edge.explore.datasf.org"
 name = "open-data-explorer"
 topics = [ "exploratory-data-analysis", "opendata", "transparency" ]
