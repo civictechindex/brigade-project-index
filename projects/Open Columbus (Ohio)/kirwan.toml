@@ -2,6 +2,7 @@ code_url = "https://github.com/SCODEMeetup/kirwan"
 description = "In Franklin County, there is a nearly twenty-year difference in life expectancy for seniors living in different neighborhoods. "
 git_branch = "master"
 git_url = "git://github.com/SCODEMeetup/kirwan.git"
+last_pushed_within = "over_a_year"
 link_url = "http://kirwaninstitute.osu.edu/my-product/franklin-county-senior-opportunity-a-framework-for-investment/"
 name = "kirwan"
 topics = [ "2015", "opportunity-communities" ]

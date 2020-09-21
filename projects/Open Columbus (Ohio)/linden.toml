@@ -2,6 +2,7 @@ code_url = "https://github.com/SCODEMeetup/linden"
 description = "Analyze data with the goal of discovering useful information on all SCOS datasets related to Linden"
 git_branch = "master"
 git_url = "git://github.com/SCODEMeetup/linden.git"
+last_pushed_within = "over_a_year"
 link_url = "https://smart.columbus.gov/projects/#project--the-smart-columbus-operating-system"
 name = "linden"
 topics = [ "enhanced-human-services" ]
