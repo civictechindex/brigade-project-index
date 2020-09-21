@@ -2,5 +2,6 @@ code_url = "https://github.com/openwichita/project-ideas"
 description = ":bulb: A place to collect ideas for Open Wichita projects"
 git_branch = "master"
 git_url = "git://github.com/openwichita/project-ideas.git"
+last_pushed_within = "over_a_year"
 name = "project-ideas"
 topics = [ "civic-tech", "ideas", "open-data", "wichita" ]

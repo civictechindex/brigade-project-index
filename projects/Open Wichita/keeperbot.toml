@@ -2,5 +2,6 @@ code_url = "https://github.com/openwichita/keeperbot"
 description = "A helpful Slack bot for Open Wichita"
 git_branch = "master"
 git_url = "git://github.com/openwichita/keeperbot.git"
+last_pushed_within = "over_a_year"
 name = "keeperbot"
 topics = [ "bot", "chatbot", "javascript", "slack" ]

@@ -2,6 +2,7 @@ code_url = "https://github.com/openwichita/ow-help-wanted"
 description = "Web app to show all `help-wanted` issues for Open Wichita"
 git_branch = "master"
 git_url = "git://github.com/openwichita/ow-help-wanted.git"
+last_pushed_within = "over_a_year"
 link_url = "https://help.openwichita.com"
 name = "ow-help-wanted"
 topics = [ "javascript", "node", "react", "serverless" ]
