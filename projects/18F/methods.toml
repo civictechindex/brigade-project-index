@@ -2,6 +2,7 @@ code_url = "https://github.com/18F/methods"
 description = "The methods 18F uses to practice human-centered design."
 git_branch = "staging"
 git_url = "git://github.com/18F/methods.git"
+last_pushed_within = "over_a_year"
 link_url = "https://methods.18f.gov/"
 name = "methods"
 topics = [ "design", "design-methods", "guide", "human-centered-design" ]

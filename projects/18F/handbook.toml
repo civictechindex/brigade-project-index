@@ -2,6 +2,7 @@ code_url = "https://github.com/18F/handbook"
 description = "The home of policies and guidelines that make up TTS."
 git_branch = "master"
 git_url = "git://github.com/18F/handbook.git"
+last_pushed_within = "year"
 link_url = "https://handbook.18f.gov"
 name = "handbook"
 topics = [ "tts-handbook" ]

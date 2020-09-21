@@ -2,5 +2,6 @@ code_url = "https://github.com/18F/Dot-Net-Encasement"
 description = ":shell: Encasing legacy systems using VS Code, C#, .NET Core, and Web API "
 git_branch = "master"
 git_url = "git://github.com/18F/Dot-Net-Encasement.git"
+last_pushed_within = "over_a_year"
 name = "Dot-Net-Encasement"
 topics = [ "csharp", "dotnet", "legacy", "sql-server", "vscode" ]
