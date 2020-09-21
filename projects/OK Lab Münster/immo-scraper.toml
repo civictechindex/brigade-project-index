@@ -2,6 +2,6 @@ code_url = "https://github.com/codeformuenster/immo-scraper"
 description = "Scraping offers for real estate markets."
 git_branch = "master"
 git_url = "git://github.com/codeformuenster/immo-scraper.git"
-last_pushed_within = "over_a_year"
+last_pushed_within = "year"
 name = "immo-scraper"
 topics = [ "dockerfile", "scraper" ]
