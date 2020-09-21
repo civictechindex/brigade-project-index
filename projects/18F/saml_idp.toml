@@ -1,5 +1,5 @@
 code_url = "https://github.com/18F/saml_idp"
 git_branch = "master"
 git_url = "git://github.com/18F/saml_idp.git"
-last_pushed_within = "over_a_year"
+last_pushed_within = "year"
 name = "saml_idp"
