@@ -2,6 +2,7 @@ code_url = "https://github.com/CodeforLeipzig/trinkwasser"
 description = "Visualisierung von Trinkwasserdaten"
 git_branch = "master"
 git_url = "git://github.com/CodeforLeipzig/trinkwasser.git"
+last_pushed_within = "over_a_year"
 link_url = "https://trinkwasser.codefor.de/"
 name = "trinkwasser"
 topics = [ "geojson", "javascript", "open-data" ]
