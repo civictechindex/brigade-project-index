@@ -2,5 +2,6 @@ code_url = "https://github.com/codeforboston/finda"
 description = 'Generic "find-a" app for geographic datasets'
 git_branch = "gh-pages"
 git_url = "git://github.com/codeforboston/finda.git"
+last_pushed_within = "over_a_year"
 link_url = "http://codeforboston.github.io/finda/"
 name = "finda"

@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforboston/facebook_discovery_bot"
 git_branch = "master"
 git_url = "git://github.com/codeforboston/facebook_discovery_bot.git"
+last_pushed_within = "over_a_year"
 name = "facebook_discovery_bot"

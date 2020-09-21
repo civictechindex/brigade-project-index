@@ -2,5 +2,6 @@ code_url = "https://github.com/codeforboston/voiceapp311"
 description = "Voice assistant connection to Boston services"
 git_branch = "master"
 git_url = "git://github.com/codeforboston/voiceapp311.git"
+last_pushed_within = "over_a_year"
 name = "voiceapp311"
 topics = [ "alexa", "code-for-america", "code-for-boston", "trash" ]
