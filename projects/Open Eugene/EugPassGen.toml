@@ -2,5 +2,6 @@ code_url = "https://github.com/OpenEugene/EugPassGen"
 description = "A passphrase Generator with Eugene Oregon Flavor"
 git_branch = "master"
 git_url = "git://github.com/OpenEugene/EugPassGen.git"
+last_pushed_within = "over_a_year"
 name = "EugPassGen"
 topics = [ "100daysofcode", "blazor" ]

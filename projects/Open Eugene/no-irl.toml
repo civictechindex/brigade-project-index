@@ -2,5 +2,6 @@ code_url = "https://github.com/OpenEugene/no-irl"
 description = "No more IRL meetings, go online or go home!"
 git_branch = "master"
 git_url = "git://github.com/OpenEugene/no-irl.git"
+last_pushed_within = "over_a_year"
 name = "no-irl"
 topics = [ "covid-19" ]
