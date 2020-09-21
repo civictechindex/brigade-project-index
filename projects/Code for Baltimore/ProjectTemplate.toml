@@ -2,6 +2,6 @@ code_url = "https://github.com/CodeForBaltimore/ProjectTemplate"
 description = "A starting point for Code for Baltimore projects."
 git_branch = "master"
 git_url = "git://github.com/CodeForBaltimore/ProjectTemplate.git"
-last_pushed_within = "over_a_year"
+last_pushed_within = "year"
 name = "ProjectTemplate"
 topics = [ "code-for-america", "code-for-baltimore", "projecttemplate" ]
