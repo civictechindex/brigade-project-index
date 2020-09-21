@@ -1,5 +1,6 @@
 code_url = "https://github.com/codeformunich/feinstaubbot"
 git_branch = "master"
 git_url = "git://github.com/codeformunich/feinstaubbot.git"
+last_pushed_within = "over_a_year"
 name = "feinstaubbot"
 topics = [ "feinstaub" ]

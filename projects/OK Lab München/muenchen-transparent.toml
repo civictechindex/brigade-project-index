@@ -2,6 +2,7 @@ code_url = "https://github.com/codeformunich/muenchen-transparent"
 description = "Ein alternatives Ratsinformationssystem mit E-Mail-Benachrichtigungen, Volltextsuche und vielem mehr."
 git_branch = "master"
 git_url = "git://github.com/codeformunich/muenchen-transparent.git"
+last_pushed_within = "over_a_year"
 link_url = "https://www.muenchen-transparent.de"
 name = "muenchen-transparent"
 topics = [ "oparl", "ratsinformationssystem" ]
