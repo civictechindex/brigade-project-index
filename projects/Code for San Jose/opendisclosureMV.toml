@@ -2,6 +2,7 @@ code_url = "https://github.com/codeforsanjose/opendisclosureMV"
 description = "Open Disclosure for Mountain View | Help voters learn about local candidate and measures' campaign contributions"
 git_branch = "master"
 git_url = "git://github.com/codeforsanjose/opendisclosureMV.git"
+last_pushed_within = "over_a_year"
 name = "opendisclosureMV"
 topics = [
   "campaign",

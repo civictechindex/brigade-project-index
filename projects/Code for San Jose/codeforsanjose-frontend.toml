@@ -1,5 +1,6 @@
 code_url = "https://github.com/codeforsanjose/codeforsanjose-frontend"
 git_branch = "master"
 git_url = "git://github.com/codeforsanjose/codeforsanjose-frontend.git"
+last_pushed_within = "over_a_year"
 name = "codeforsanjose-frontend"
 topics = [ "inactive", "website" ]

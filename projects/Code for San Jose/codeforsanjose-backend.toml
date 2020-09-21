@@ -2,5 +2,6 @@ code_url = "https://github.com/codeforsanjose/codeforsanjose-backend"
 description = "A prototype website for Code for San Jose."
 git_branch = "develop"
 git_url = "git://github.com/codeforsanjose/codeforsanjose-backend.git"
+last_pushed_within = "over_a_year"
 name = "codeforsanjose-backend"
 topics = [ "inactive", "website" ]

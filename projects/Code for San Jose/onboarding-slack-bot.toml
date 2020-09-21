@@ -2,5 +2,6 @@ code_url = "https://github.com/codeforsanjose/onboarding-slack-bot"
 description = "Code for San Jose Onboarding Slack Bot"
 git_branch = "master"
 git_url = "git://github.com/codeforsanjose/onboarding-slack-bot.git"
+last_pushed_within = "over_a_year"
 name = "onboarding-slack-bot"
 topics = [ "onboarding", "slack", "slack-bot" ]

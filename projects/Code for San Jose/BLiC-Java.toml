@@ -2,5 +2,6 @@ code_url = "https://github.com/codeforsanjose/BLiC-Java"
 description = "Broken Link Checker written in Java"
 git_branch = "master"
 git_url = "git://github.com/codeforsanjose/BLiC-Java.git"
+last_pushed_within = "over_a_year"
 name = "BLiC-Java"
 topics = [ "java", "utilities" ]
