@@ -2,4 +2,5 @@ code_url = "https://github.com/codefornola/nola-neighborhood-annotation"
 description = 'Annotates "Calls For Service" data with the origin neighborhood name'
 git_branch = "master"
 git_url = "git://github.com/codefornola/nola-neighborhood-annotation.git"
+last_pushed_within = "over_a_year"
 name = "nola-neighborhood-annotation"
