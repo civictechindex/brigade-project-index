@@ -2,5 +2,6 @@ code_url = "https://github.com/opensandiego/sandiego-opendata-policy"
 description = "Proposed Open Data Policy to be Adopted by the City Council or by directive of the Mayor"
 git_branch = "master"
 git_url = "git://github.com/opensandiego/sandiego-opendata-policy.git"
+last_pushed_within = "over_a_year"
 name = "sandiego-opendata-policy"
 topics = [ "inactive", "open-san-diego" ]

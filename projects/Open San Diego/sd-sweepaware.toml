@@ -2,6 +2,7 @@ code_url = "https://github.com/opensandiego/sd-sweepaware"
 description = "City of San Diego streetsweeping SMS alerts"
 git_branch = "master"
 git_url = "git://github.com/opensandiego/sd-sweepaware.git"
+last_pushed_within = "over_a_year"
 link_url = "http://opensandiego.org"
 name = "sd-sweepaware"
 topics = [ "inactive", "open-san-diego" ]

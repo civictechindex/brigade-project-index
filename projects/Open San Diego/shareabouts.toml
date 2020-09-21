@@ -2,5 +2,6 @@ code_url = "https://github.com/opensandiego/shareabouts"
 description = "Shareabouts is a mapping application for crowdsourced info gathering."
 git_branch = "master"
 git_url = "git://github.com/opensandiego/shareabouts.git"
+last_pushed_within = "over_a_year"
 name = "shareabouts"
 topics = [ "inactive", "open-san-diego" ]

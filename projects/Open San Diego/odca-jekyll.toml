@@ -2,6 +2,7 @@ code_url = "https://github.com/opensandiego/odca-jekyll"
 description = "New ODCA front end"
 git_branch = "master"
 git_url = "git://github.com/opensandiego/odca-jekyll.git"
+last_pushed_within = "over_a_year"
 link_url = "https://www.opendisclosure.io"
 name = "odca-jekyll"
 topics = [ "open-san-diego" ]

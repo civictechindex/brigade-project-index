@@ -2,5 +2,6 @@ code_url = "https://github.com/opensandiego/WeBikeSD"
 description = "CyclePhilly bicycle tracking application; back-end and website"
 git_branch = "master"
 git_url = "git://github.com/opensandiego/WeBikeSD.git"
+last_pushed_within = "over_a_year"
 name = "WeBikeSD"
 topics = [ "inactive", "open-san-diego" ]

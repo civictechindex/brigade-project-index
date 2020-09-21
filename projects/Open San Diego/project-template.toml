@@ -2,6 +2,7 @@ code_url = "https://github.com/opensandiego/project-template"
 description = "New Project Template for Open San Diego projects"
 git_branch = "master"
 git_url = "git://github.com/opensandiego/project-template.git"
+last_pushed_within = "over_a_year"
 name = "project-template"
 topics = [
   "civic-tech",
