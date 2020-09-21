@@ -1,4 +1,5 @@
 code_url = "https://github.com/OpenUpSA/opencivic"
 git_branch = "7.x-1.x"
 git_url = "git://github.com/OpenUpSA/opencivic.git"
+last_pushed_within = "over_a_year"
 name = "opencivic"

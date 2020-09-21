@@ -1,4 +1,5 @@
 code_url = "https://github.com/OpenUpSA/wazimap-ng"
 git_branch = "staging"
 git_url = "git://github.com/OpenUpSA/wazimap-ng.git"
+last_pushed_within = "year"
 name = "wazimap-ng"

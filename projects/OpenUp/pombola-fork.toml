@@ -2,5 +2,6 @@ code_url = "https://github.com/OpenUpSA/pombola-fork"
 description = "See https://github.com/OpenUpSA/pombola - removing this so we stop making PRs against upstream accidentally"
 git_branch = "master"
 git_url = "git://github.com/OpenUpSA/pombola-fork.git"
+last_pushed_within = "over_a_year"
 name = "pombola-fork"
 topics = [ "politicians", "southafrica" ]

@@ -1,4 +1,5 @@
 code_url = "https://github.com/OpenUpSA/unregister-service-worker"
 git_branch = "master"
 git_url = "git://github.com/OpenUpSA/unregister-service-worker.git"
+last_pushed_within = "over_a_year"
 name = "unregister-service-worker"

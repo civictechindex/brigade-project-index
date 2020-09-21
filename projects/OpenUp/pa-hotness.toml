@@ -2,4 +2,5 @@ code_url = "https://github.com/OpenUpSA/pa-hotness"
 description = '"Hot or Not" style app for getting to know your representatives in parliament.'
 git_branch = "master"
 git_url = "git://github.com/OpenUpSA/pa-hotness.git"
+last_pushed_within = "over_a_year"
 name = "pa-hotness"
