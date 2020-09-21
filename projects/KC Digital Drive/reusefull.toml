@@ -2,5 +2,6 @@ code_url = "https://github.com/codeforkansascity/reusefull"
 description = "ReUseFull is a website that connects people with stuff they no longer need with nonprofit organizations that could use it."
 git_branch = "master"
 git_url = "git://github.com/codeforkansascity/reusefull.git"
+last_pushed_within = "over_a_year"
 name = "reusefull"
 topics = [ "code-for-america", "code-for-kc", "nonprofit-organizations" ]

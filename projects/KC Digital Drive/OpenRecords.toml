@@ -2,5 +2,6 @@ code_url = "https://github.com/codeforkansascity/OpenRecords"
 description = "A website citizens can use to identify custodians of public municipal and county records in the Kansas City metropolitan area. "
 git_branch = "master"
 git_url = "git://github.com/codeforkansascity/OpenRecords.git"
+last_pushed_within = "over_a_year"
 name = "OpenRecords"
 topics = [ "code-for-america", "code-for-kc", "foia", "open-records" ]

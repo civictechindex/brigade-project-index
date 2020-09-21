@@ -2,6 +2,7 @@ code_url = "https://github.com/codeforkansascity/streetlights"
 description = "Streetlight data"
 git_branch = "master"
 git_url = "git://github.com/codeforkansascity/streetlights.git"
+last_pushed_within = "over_a_year"
 name = "streetlights"
 topics = [
   "code-for-america",
