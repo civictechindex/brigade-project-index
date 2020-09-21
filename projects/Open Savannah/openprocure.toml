@@ -2,6 +2,7 @@ code_url = "https://github.com/opensavannah/openprocure"
 description = "An open list of government procurement thresholds for U.S. municipalities and gov't agencies created in an attempt to begin to standardize procurement policies."
 git_branch = "master"
 git_url = "git://github.com/opensavannah/openprocure.git"
+last_pushed_within = "over_a_year"
 link_url = "http://openprocure.us"
 name = "openprocure"
 topics = [

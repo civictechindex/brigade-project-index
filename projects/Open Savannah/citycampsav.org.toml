@@ -2,6 +2,7 @@ code_url = "https://github.com/opensavannah/citycampsav.org"
 description = "🏛 Jekyll site for citycampsavannah - http://citycampsav.org"
 git_branch = "master"
 git_url = "git://github.com/opensavannah/citycampsav.org.git"
+last_pushed_within = "over_a_year"
 name = "citycampsav.org"
 topics = [
   "city-camp",

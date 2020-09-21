@@ -2,6 +2,7 @@ code_url = "https://github.com/opensavannah/human-services-link"
 description = "Savannah Human Services beta"
 git_branch = "master"
 git_url = "git://github.com/opensavannah/human-services-link.git"
+last_pushed_within = "over_a_year"
 link_url = "https://opensavannah.github.io/human-services-link"
 name = "human-services-link"
 topics = [
