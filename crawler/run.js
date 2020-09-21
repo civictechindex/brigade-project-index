@@ -25,9 +25,9 @@ const githubAxios = axios.create({
 });
 
 // Calculate the bucket for when the project was most recently pushed
-const ONE_WEEK = 60 * 60 * 24 * 7;
-const ONE_MONTH = 60 * 60 * 24 * 30;
-const ONE_YEAR = 60 * 60 * 24 * 365;
+const ONE_WEEK = 1000 * 60 * 60 * 24 * 7;
+const ONE_MONTH = 1000 * 60 * 60 * 24 * 30;
+const ONE_YEAR = 1000 * 60 * 60 * 24 * 365;
 function lastPushedWithin(repoPushedAt) {
   const repoPushedDate = new Date(repoPushedAt);
   if (repoPushedDate > new Date() - ONE_WEEK) {
