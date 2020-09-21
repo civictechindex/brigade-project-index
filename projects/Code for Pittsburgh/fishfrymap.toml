@@ -2,6 +2,7 @@ code_url = "https://github.com/CodeForPittsburgh/fishfrymap"
 description = "Fish Fry Map project repository"
 git_branch = "master"
 git_url = "git://github.com/CodeForPittsburgh/fishfrymap.git"
+last_pushed_within = "over_a_year"
 link_url = "https://fishfry.codeforpgh.com/map"
 name = "fishfrymap"
 topics = [
