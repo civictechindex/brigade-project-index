@@ -4,6 +4,7 @@ description = """
 Eine Karte, auf der man sehen kann, von wo auf der Welt schnell ein
 Bahnhof erreicht werden kann – und wie sich die Situation ändert,
 sobald man im Rollstuhl sitzt. Vergleicht mal Paris und Berlin!"""
+last_pushed_within = "over_a_year"
 link_url = "https://netaction.github.io/disabled-railway/"
 name = "Disabled Railway"
 type = "website"

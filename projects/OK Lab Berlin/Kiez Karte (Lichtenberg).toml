@@ -5,6 +5,7 @@ Auf der Kiez-Karte sieht man alle möglichen Open Data zu
 Berlin-Lichtenberg plus einer Interaktionsmöglichkeit/ Rückkanal. So 
 kann man alle Spielplätze im Bezirk finden - und wenn man sie besser 
 haben möchte, dann gibt man einen Vorschlag für den Bürgerhaushalt an."""
+last_pushed_within = "over_a_year"
 link_url = "http://kiez-karte.berlin/"
 name = "Kiez Karte (Lichtenberg)"
 type = "website"

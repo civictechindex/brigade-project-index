@@ -6,5 +6,6 @@ Die Anwendung zeigt die Positionen von Altglas-Containern auf einer Karte.
 Die erste Version zeigt die Altglas-Container in Berlin 
 Charlottenburg-Wilmersdorf. Hoffentlich veröffentlichen bald auch 
 anderen Bezirke und Städte ihre Daten."""
+last_pushed_within = "over_a_year"
 link_url = "https://k-nut.github.io/altglas/"
 name = "Altglascontainer"

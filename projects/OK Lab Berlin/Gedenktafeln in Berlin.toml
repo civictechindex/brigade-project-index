@@ -9,5 +9,6 @@ politischer oder rassistischer Verfolgung geworden sind.
 
 Quelle: http://daten.berlin.de/datensaetze/liste-der-gedenktafeln-berlin (überarbeitet)
 """
+last_pushed_within = "over_a_year"
 link_url = "http://berlin.codefor.de/gedenktafeln/"
 name = "Gedenktafeln in Berlin"

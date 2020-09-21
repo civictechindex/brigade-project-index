@@ -5,5 +5,6 @@ Zeigt die durchschnittlichen Wartezeiten für den Bürgerservice in Moers
 nach Stunden und Tagen. Größere Kreise bedeuten längere, kleinere Kreise
  kürzere Wartezeiten. Mittwoch bis Samstag Vormittag scheinen die besten
  Zeiten zu sein, zum Bürgerservice zu gehen."""
+last_pushed_within = "over_a_year"
 link_url = "http://wartezeit.tursics.de/"
 name = "Wartezeit Moers"
