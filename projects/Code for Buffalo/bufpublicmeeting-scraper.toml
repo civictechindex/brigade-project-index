@@ -1,4 +1,5 @@
 code_url = "https://github.com/CodeForBuffalo/bufpublicmeeting-scraper"
 git_branch = "master"
 git_url = "git://github.com/CodeForBuffalo/bufpublicmeeting-scraper.git"
+last_pushed_within = "over_a_year"
 name = "bufpublicmeeting-scraper"
