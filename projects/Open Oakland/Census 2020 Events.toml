@@ -1,5 +1,6 @@
 code_url = "https://github.com/openoakland/dos-census-events"
 description = "Help the Alameda County Complete Count Committee collect and publish events and resources for the 2020 census"
+last_pushed_within = "over_a_year"
 name = "Census 2020 Events"
 topics = [
   "census",
