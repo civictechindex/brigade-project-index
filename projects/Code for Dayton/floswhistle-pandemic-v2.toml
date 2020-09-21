@@ -2,6 +2,7 @@ code_url = "https://github.com/codefordayton/floswhistle-pandemic-v2"
 description = "A secure platform for patient care providers."
 git_branch = "master"
 git_url = "git://github.com/codefordayton/floswhistle-pandemic-v2.git"
+last_pushed_within = "over_a_year"
 name = "floswhistle-pandemic-v2"
 topics = [
   "code-for-america",
