@@ -3,4 +3,5 @@ description = "A \"statusboard\" web app that is designed to display ongoing rea
 git_branch = "master"
 git_url = "git://github.com/codeforamerica/brigade-project-index-statusboard.git"
 last_pushed_within = "week"
+link_url = "https://projects.brigade.network"
 name = "brigade-project-index-statusboard"
