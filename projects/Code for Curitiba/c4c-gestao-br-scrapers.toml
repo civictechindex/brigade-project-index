@@ -2,6 +2,7 @@ code_url = "https://github.com/CodeForCuritiba/c4c-gestao-br-scrapers"
 description = "Scripts de scraping dos dados que serão usados no Gestão BR"
 git_branch = "develop"
 git_url = "git://github.com/CodeForCuritiba/c4c-gestao-br-scrapers.git"
+last_pushed_within = "over_a_year"
 name = "c4c-gestao-br-scrapers"
 topics = [
   "crawler",

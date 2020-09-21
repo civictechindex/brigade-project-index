@@ -2,5 +2,6 @@ code_url = "https://github.com/CodeForCuritiba/mkartao"
 description = "Nova versão do site kartao.com.br com Meteor feita para o Code For Curitiba do Open Brazil."
 git_branch = "master"
 git_url = "git://github.com/CodeForCuritiba/mkartao.git"
+last_pushed_within = "over_a_year"
 name = "mkartao"
 topics = [ "brazil", "curitiba", "meteor" ]
