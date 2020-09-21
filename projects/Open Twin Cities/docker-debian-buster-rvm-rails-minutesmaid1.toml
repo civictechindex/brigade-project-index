@@ -1,4 +1,5 @@
 code_url = "https://github.com/OpenTwinCities/docker-debian-buster-rvm-rails-minutesmaid1"
 git_branch = "master"
 git_url = "git://github.com/OpenTwinCities/docker-debian-buster-rvm-rails-minutesmaid1.git"
+last_pushed_within = "over_a_year"
 name = "docker-debian-buster-rvm-rails-minutesmaid1"
