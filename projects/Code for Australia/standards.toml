@@ -2,5 +2,6 @@ code_url = "https://github.com/CodeforAustralia/standards"
 description = "Guidelines for new Code for Australia repositories. "
 git_branch = "master"
 git_url = "git://github.com/CodeforAustralia/standards.git"
+last_pushed_within = "over_a_year"
 name = "standards"
 topics = [ "civictech", "guidelines", "oss" ]

@@ -1,4 +1,5 @@
 code_url = "https://github.com/CodeforAustralia/node-ham"
 git_branch = "master"
 git_url = "git://github.com/CodeforAustralia/node-ham.git"
+last_pushed_within = "over_a_year"
 name = "node-ham"
