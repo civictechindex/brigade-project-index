@@ -2,6 +2,7 @@ code_url = "https://github.com/CodeForFtL/CodeForftL.github.io"
 description = "codeforftl.org website (forked from Code for Miami)"
 git_branch = "master"
 git_url = "git://github.com/CodeForFtL/CodeForftL.github.io.git"
+last_pushed_within = "over_a_year"
 link_url = "http://codeforftl.org"
 name = "CodeForftL.github.io"
 topics = [ "active" ]

@@ -1,4 +1,5 @@
 code_url = "https://github.com/CodeForFtL/speakers-list"
 git_branch = "master"
 git_url = "git://github.com/CodeForFtL/speakers-list.git"
+last_pushed_within = "over_a_year"
 name = "speakers-list"
