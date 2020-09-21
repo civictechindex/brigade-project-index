@@ -1,4 +1,5 @@
 code_url = "https://github.com/CodeforNRV/food-security-gov-data"
 git_branch = "master"
 git_url = "git://github.com/CodeforNRV/food-security-gov-data.git"
+last_pushed_within = "over_a_year"
 name = "food-security-gov-data"
