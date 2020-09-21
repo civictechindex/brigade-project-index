@@ -2,6 +2,7 @@ code_url = "https://github.com/mysociety/quesabes-theme"
 description = "The Alaveteli theme for Que Sabes (Uruguay)"
 git_branch = "master"
 git_url = "git://github.com/mysociety/quesabes-theme.git"
+last_pushed_within = "over_a_year"
 link_url = "http://quesabes.uy"
 name = "quesabes-theme"
 topics = [ "alaveteli", "alaveteli-theme" ]

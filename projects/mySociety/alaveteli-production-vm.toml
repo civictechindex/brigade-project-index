@@ -2,5 +2,6 @@ code_url = "https://github.com/mysociety/alaveteli-production-vm"
 description = "VM with Alaveteli installed in production mode for testing."
 git_branch = "master"
 git_url = "git://github.com/mysociety/alaveteli-production-vm.git"
+last_pushed_within = "over_a_year"
 name = "alaveteli-production-vm"
 topics = [ "alaveteli" ]

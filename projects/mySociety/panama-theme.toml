@@ -2,5 +2,6 @@ code_url = "https://github.com/mysociety/panama-theme"
 description = "A theme for Alaveteli in Panama"
 git_branch = "master"
 git_url = "git://github.com/mysociety/panama-theme.git"
+last_pushed_within = "over_a_year"
 name = "panama-theme"
 topics = [ "alaveteli", "alaveteli-theme" ]

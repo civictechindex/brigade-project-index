@@ -2,5 +2,6 @@ code_url = "https://github.com/mysociety/wob-knop-theme"
 description = "Alaveteli theme for The Netherlands"
 git_branch = "master"
 git_url = "git://github.com/mysociety/wob-knop-theme.git"
+last_pushed_within = "over_a_year"
 name = "wob-knop-theme"
 topics = [ "alaveteli", "alaveteli-theme" ]

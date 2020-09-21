@@ -2,6 +2,7 @@ code_url = "https://github.com/mysociety/belgium-theme"
 description = "The Alaveteli theme for Belgian site Transparencia"
 git_branch = "master"
 git_url = "git://github.com/mysociety/belgium-theme.git"
+last_pushed_within = "over_a_year"
 link_url = "https://transparencia.be/"
 name = "belgium-theme"
 topics = [ "alaveteli", "alaveteli-theme" ]
