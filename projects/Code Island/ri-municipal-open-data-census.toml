@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeisland/ri-municipal-open-data-census"
 git_branch = "master"
 git_url = "git://github.com/codeisland/ri-municipal-open-data-census.git"
+last_pushed_within = "over_a_year"
 name = "ri-municipal-open-data-census"
