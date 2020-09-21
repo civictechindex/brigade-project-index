@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforamerica/hermes-doc"
 git_branch = "master"
 git_url = "git://github.com/codeforamerica/hermes-doc.git"
+last_pushed_within = "over_a_year"
 name = "hermes-doc"

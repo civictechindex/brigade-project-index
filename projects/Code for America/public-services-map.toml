@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforamerica/public-services-map"
 git_branch = "master"
 git_url = "git://github.com/codeforamerica/public-services-map.git"
+last_pushed_within = "over_a_year"
 name = "public-services-map"

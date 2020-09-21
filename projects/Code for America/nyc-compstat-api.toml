@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforamerica/nyc-compstat-api"
 git_branch = "master"
 git_url = "git://github.com/codeforamerica/nyc-compstat-api.git"
+last_pushed_within = "over_a_year"
 name = "nyc-compstat-api"

@@ -2,6 +2,7 @@ code_url = "https://github.com/codeforamerica/qr-portable-profile-wechat-style"
 description = "Tool for job seekers to share their information with different service providers so that they can get more customized service and not enter the same information many times."
 git_branch = "master"
 git_url = "git://github.com/codeforamerica/qr-portable-profile-wechat-style.git"
+last_pushed_within = "over_a_year"
 link_url = "https://portable-profile-v2.herokuapp.com/"
 name = "qr-portable-profile-wechat-style"
 topics = [

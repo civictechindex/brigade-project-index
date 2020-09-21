@@ -1,6 +1,7 @@
 code_url = "https://github.com/codeforamerica/training-provider-search"
 git_branch = "master"
 git_url = "git://github.com/codeforamerica/training-provider-search.git"
+last_pushed_within = "over_a_year"
 name = "training-provider-search"
 topics = [
   "codeforamerica-workforce",
