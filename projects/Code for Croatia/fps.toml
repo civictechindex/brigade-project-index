@@ -2,5 +2,6 @@ code_url = "https://github.com/codeforcroatia/fps"
 description = 'Projekt "Financiranje političkih stranaka" zapocet na CodeAcross i OpenDataDay Croatia-Zagreb 2015 hackathonu'
 git_branch = "master"
 git_url = "git://github.com/codeforcroatia/fps.git"
+last_pushed_within = "over_a_year"
 link_url = "http://fps.codeforcroatia.org"
 name = "fps"
