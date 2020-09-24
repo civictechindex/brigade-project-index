@@ -1,0 +1,6 @@
+code_url = "https://github.com/18F/vuls-cloudfoundry-buildpack"
+description = "A CloudFoundry buildpack to instrument integration with a vuls.io server."
+git_branch = "master"
+git_url = "git://github.com/18F/vuls-cloudfoundry-buildpack.git"
+last_pushed_within = "month"
+name = "vuls-cloudfoundry-buildpack"

@@ -1,0 +1,7 @@
+code_url = "https://github.com/18F/vuls"
+description = "Agent-less vulnerability scanner for Linux, FreeBSD, Container Image, Running Container, WordPress, Programming language libraries, Network devices"
+git_branch = "master"
+git_url = "git://github.com/18F/vuls.git"
+last_pushed_within = "month"
+link_url = "https://vuls.io/"
+name = "vuls"
