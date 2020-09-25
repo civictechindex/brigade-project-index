@@ -1,6 +1,6 @@
 code_url = "https://github.com/openoakland/councilmatic"
 description = "We make the Oakland City Council meetings easily accessible to the citizens of Oakland."
-last_pushed_within = "month"
+last_pushed_within = "year"
 link_url = "http://councilmatic.aws.openoakland.org/pc/"
 name = "Councilmatic"
 topics = [
