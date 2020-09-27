@@ -4,3 +4,4 @@ git_branch = "master"
 git_url = "git://github.com/codeformuenster/muensterhack.git"
 last_pushed_within = "week"
 name = "muensterhack"
+topics = [ "mshack", "muensterhack" ]
