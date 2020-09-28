@@ -5,3 +5,10 @@ git_url = "git://github.com/Code4PuertoRico/covid19-pr-dashboard.git"
 last_pushed_within = "month"
 link_url = "http://covid19prdata.org/"
 name = "covid19-pr-dashboard"
+topics = [
+  "civic-tech",
+  "code-for-puerto-rico",
+  "covid-19",
+  "dashboard",
+  "puerto-rico"
+]
