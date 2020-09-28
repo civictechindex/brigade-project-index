@@ -3,5 +3,6 @@ description = 'Münsterhack 2020 Team "Münster was geht?" Sourcecode '
 git_branch = "master"
 git_url = "git://github.com/codeformuenster/muenster-was-geht.git"
 last_pushed_within = "week"
+link_url = "https://demo.muenster-was-geht.de/"
 name = "muenster-was-geht"
 topics = [ "mshack20" ]
