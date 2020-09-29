@@ -2,6 +2,6 @@ code_url = "https://github.com/g0v/OneButton"
 description = "OneButton is a one-click solution for ipa to finish all hackathon duties at once."
 git_branch = "master"
 git_url = "git://github.com/g0v/OneButton.git"
-last_pushed_within = "week"
+last_pushed_within = "month"
 name = "OneButton"
 topics = [ "g0v", "jothon", "onebutton" ]
