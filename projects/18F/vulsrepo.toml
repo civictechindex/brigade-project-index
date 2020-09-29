@@ -1,6 +1,7 @@
 code_url = "https://github.com/18F/vulsrepo"
-description = "VulsRepo is visualized based on the json report output in vuls."
+description = "The 10x Dependency Upgrades fork of the vuls.io official web interface frontend. More background in the main repository. See link below. "
 git_branch = "master"
 git_url = "git://github.com/18F/vulsrepo.git"
 last_pushed_within = "year"
+link_url = "https://github.com/18F/10x-dux-vuls-eval"
 name = "vulsrepo"
