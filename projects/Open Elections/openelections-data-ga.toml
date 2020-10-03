@@ -4,3 +4,4 @@ git_branch = "master"
 git_url = "git://github.com/openelections/openelections-data-ga.git"
 last_pushed_within = "week"
 name = "openelections-data-ga"
+topics = [ "georgia-election", "hacktoberfest" ]
