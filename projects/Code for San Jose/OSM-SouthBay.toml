@@ -6,6 +6,7 @@ last_pushed_within = "month"
 link_url = "https://www.openstreetmap.org/#map=12/37.3358/-121.8906"
 name = "OSM-SouthBay"
 topics = [
+  "gis",
   "mapping",
   "maps",
   "openstreetmap",
