@@ -5,3 +5,4 @@ git_url = "git://github.com/opendata-heilbronn/codeforheilbronn-de.git"
 last_pushed_within = "month"
 link_url = "http://codeforheilbronn.de"
 name = "codeforheilbronn-de"
+topics = [ "hacktoberfest" ]
