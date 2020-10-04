@@ -5,4 +5,4 @@ git_url = "git://github.com/code4romania/stam-acasa.git"
 last_pushed_within = "year"
 link_url = "https://dev.stamacasa.ro"
 name = "stam-acasa"
-topics = [ "civic-tech", "covid-19" ]
+topics = [ "civic-tech", "covid-19", "hacktoberfest" ]
