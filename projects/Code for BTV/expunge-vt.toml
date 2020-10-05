@@ -4,3 +4,9 @@ git_branch = "master"
 git_url = "git://github.com/codeforbtv/expunge-vt.git"
 last_pushed_within = "week"
 name = "expunge-vt"
+topics = [
+  "chrome-extension",
+  "criminal-justice",
+  "expungement",
+  "hacktoberfest"
+]
