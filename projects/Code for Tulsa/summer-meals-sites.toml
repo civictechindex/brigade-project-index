@@ -1,7 +1,0 @@
-code_url = "https://github.com/codefortulsa/summer-meals-sites"
-description = "Web app for families to locate free summer meal programs near them."
-git_branch = "master"
-git_url = "git://github.com/codefortulsa/summer-meals-sites.git"
-last_pushed_within = "over_a_year"
-name = "summer-meals-sites"
-topics = [ "food-security", "geojson", "mapbox", "mapbox-geocoding" ]
