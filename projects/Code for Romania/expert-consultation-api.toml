@@ -4,3 +4,4 @@ git_branch = "develop"
 git_url = "git://github.com/code4romania/expert-consultation-api.git"
 last_pushed_within = "month"
 name = "expert-consultation-api"
+topics = [ "hacktoberfest" ]
