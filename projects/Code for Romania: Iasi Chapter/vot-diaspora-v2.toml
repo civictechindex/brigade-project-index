@@ -2,5 +2,6 @@ code_url = "https://github.com/code4romania/vot-diaspora-v2"
 git_branch = "master"
 git_url = "git://github.com/code4romania/vot-diaspora-v2.git"
 last_pushed_within = "week"
+link_url = "vot-diaspora-v2.vercel.app"
 name = "vot-diaspora-v2"
 topics = [ "hacktoberfest" ]
