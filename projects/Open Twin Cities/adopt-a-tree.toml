@@ -4,3 +4,4 @@ git_branch = "master"
 git_url = "git://github.com/OpenTwinCities/adopt-a-tree.git"
 last_pushed_within = "year"
 name = "adopt-a-tree"
+topics = [ "hacktoberfest" ]
