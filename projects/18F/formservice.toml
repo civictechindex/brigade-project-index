@@ -3,3 +3,11 @@ git_branch = "develop"
 git_url = "git://github.com/18F/formservice.git"
 last_pushed_within = "week"
 name = "formservice"
+topics = [
+  "faas",
+  "faas-application",
+  "jhipster",
+  "oauth",
+  "oidc",
+  "webpack"
+]
