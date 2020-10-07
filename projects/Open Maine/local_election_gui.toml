@@ -1,5 +1,5 @@
 code_url = "https://github.com/OpenMaine/local_election_gui"
 git_branch = "master"
 git_url = "git://github.com/OpenMaine/local_election_gui.git"
-last_pushed_within = "month"
+last_pushed_within = "year"
 name = "local_election_gui"
