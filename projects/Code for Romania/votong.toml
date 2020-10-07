@@ -4,3 +4,4 @@ git_branch = "develop"
 git_url = "git://github.com/code4romania/votong.git"
 last_pushed_within = "week"
 name = "votong"
+topics = [ "hacktoberfest" ]
