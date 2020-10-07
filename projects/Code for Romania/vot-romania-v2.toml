@@ -1,6 +1,7 @@
 code_url = "https://github.com/code4romania/vot-romania-v2"
+description = "Vot România este o platformă dezvoltată de Code for Romania care  simplifică pe înțelesul cetățenilor ghidul electoral al alegerilor locale, care vor avea loc la finalul lunii septembrie 2020."
 git_branch = "master"
 git_url = "git://github.com/code4romania/vot-romania-v2.git"
 last_pushed_within = "week"
-link_url = "https://vot-romania-v2.vercel.app"
+link_url = "https://votromania.ro/"
 name = "vot-romania-v2"
