@@ -1,6 +1,16 @@
 code_url = "https://github.com/codefornola/big-easy-budget-game"
+description = "The Big Easy Budget Game web app -- a public budget education and crowdsourcing tool for the New Orleans city budget."
 git_branch = "master"
 git_url = "git://github.com/codefornola/big-easy-budget-game.git"
 last_pushed_within = "week"
 name = "big-easy-budget-game"
-topics = [ "hacktoberfest" ]
+topics = [
+  "city",
+  "civic-tech",
+  "docker",
+  "laravel",
+  "mongodb",
+  "new-orleans",
+  "php",
+  "public-budget"
+]

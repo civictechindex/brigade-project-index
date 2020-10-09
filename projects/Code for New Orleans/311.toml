@@ -4,3 +4,13 @@ git_branch = "master"
 git_url = "git://github.com/codefornola/311.git"
 last_pushed_within = "over_a_year"
 name = "311"
+topics = [
+  "311",
+  "311-data",
+  "civic-tech",
+  "data-visualization",
+  "docker",
+  "new-orleans",
+  "node",
+  "nodejs"
+]
