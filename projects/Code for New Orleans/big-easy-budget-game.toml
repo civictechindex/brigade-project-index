@@ -1,5 +1,6 @@
 code_url = "https://github.com/codefornola/big-easy-budget-game"
 git_branch = "master"
 git_url = "git://github.com/codefornola/big-easy-budget-game.git"
-last_pushed_within = "year"
+last_pushed_within = "week"
 name = "big-easy-budget-game"
+topics = [ "hacktoberfest" ]
