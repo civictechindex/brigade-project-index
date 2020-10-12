@@ -2,6 +2,6 @@ code_url = "https://github.com/18F/18f-bot-facts"
 description = "Lists of facts used by 18F bot"
 git_branch = "master"
 git_url = "git://github.com/18F/18f-bot-facts.git"
-last_pushed_within = "year"
+last_pushed_within = "week"
 name = "18f-bot-facts"
 topics = [ "bot", "bot-responses", "charlie" ]
