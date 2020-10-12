@@ -4,4 +4,10 @@ git_branch = "master"
 git_url = "git://github.com/codeforkansascity/OpenRecords.git"
 last_pushed_within = "year"
 name = "OpenRecords"
-topics = [ "code-for-america", "code-for-kc", "foia", "open-records" ]
+topics = [
+  "code-for-america",
+  "code-for-kc",
+  "foia",
+  "hacktoberfest",
+  "open-records"
+]
