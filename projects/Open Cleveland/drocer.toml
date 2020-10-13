@@ -2,6 +2,6 @@ code_url = "https://github.com/opencleveland/drocer"
 description = "Scraper and parser of Cleveland City Council's records and the produced text. "
 git_branch = "master"
 git_url = "git://github.com/opencleveland/drocer.git"
-last_pushed_within = "over_a_year"
+last_pushed_within = "week"
 name = "drocer"
 topics = [ "cleveland", "legislation", "ohio" ]
