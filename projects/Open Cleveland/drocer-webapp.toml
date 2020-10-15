@@ -2,6 +2,6 @@ code_url = "https://github.com/opencleveland/drocer-webapp"
 description = "webapp to search, browse City Council legislative minutes"
 git_branch = "master"
 git_url = "git://github.com/opencleveland/drocer-webapp.git"
-last_pushed_within = "month"
+last_pushed_within = "year"
 name = "drocer-webapp"
 topics = [ "cleveland", "extractor", "legislation" ]
