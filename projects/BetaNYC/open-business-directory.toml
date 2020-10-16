@@ -5,3 +5,12 @@ git_url = "git://github.com/BetaNYC/open-business-directory.git"
 last_pushed_within = "week"
 link_url = "https://northbrooklyn.essentiallyopen.nyc/"
 name = "open-business-directory"
+topics = [
+  "airtable",
+  "betanyc",
+  "civictechindex",
+  "code-for-all",
+  "code-for-america",
+  "crowdsourcing",
+  "essential-businesses"
+]
