@@ -4,4 +4,14 @@ git_branch = "development"
 git_url = "git://github.com/codeforpdx/dwellinglybackend.git"
 last_pushed_within = "week"
 name = "dwellinglybackend"
-topics = [ "civictech", "flask", "hacktoberfest", "python" ]
+topics = [
+  "backend",
+  "civictech",
+  "civictechindex",
+  "code-for-all",
+  "code-for-america",
+  "codeforpdx",
+  "flask",
+  "hacktoberfest",
+  "python"
+]
