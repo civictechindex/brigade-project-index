@@ -3,4 +3,5 @@ description = "Santa Barbara Reentry Project -- part of the 2020 - 2021 CFA Comm
 git_branch = "main"
 git_url = "git://github.com/codeforamerica/sb_reentry_app.git"
 last_pushed_within = "week"
+link_url = "sb-reentry-app.vercel.app"
 name = "sb_reentry_app"
