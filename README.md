@@ -21,6 +21,11 @@ Our core goal is to publish a rich and constantly-updated database of projects t
 
 - [`brigade-project-index` GitHub repository](https://github.com/codeforamerica/brigade-project-index)
   - [`index/v1:/`](https://github.com/codeforamerica/brigade-project-index/tree/index/v1): The index in raw data form, projected into a GitHub repo for distribution and historic tracking
+  - [`gh-pages:static-api/v1`](https://github.com/codeforamerica/brigade-project-index/tree/gh-pages/static-api/v1): Static JSON API projected into GitHub Pages website hourly
+    - [`/static-api/v1/organizations.json`](https://brigade.cloud/static-api/v1/organizations.json): _all_ organizations
+    - [`/static-api/v1/projects.json`](https://brigade.cloud/static-api/v1/projects.json): _all_ projects (large file)
+    - [`/static-api/v1/organizations/Code for Philly/projects.json`](https://brigade.cloud/static-api/v1/organizations/Code%20for%20Philly/projects.json): all projects by brigade
+    - [`/static-api/v1/organizations/Code for Philly/projects/laddr.json`](https://brigade.cloud/static-api/v1/organizations/Code%20for%20Philly/projects/laddr.json): details for one project
   - [`master:docs/`](https://github.com/codeforamerica/brigade-project-index/tree/master/docs): The source for this website
   - [`master:crawler/`](https://github.com/codeforamerica/brigade-project-index/tree/master/crawler): Script that crawls every brigade's projects list hourly
   - [`master:.github/workflows`](https://github.com/codeforamerica/brigade-project-index/blob/master/.github/workflows/crawler.yml): GitHub Actions Workflow that runs the crawler every hour
