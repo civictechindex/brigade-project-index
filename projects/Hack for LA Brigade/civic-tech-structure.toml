@@ -5,6 +5,7 @@ git_url = "git://github.com/hackforla/civic-tech-structure.git"
 name = "civic-tech-structure"
 topics = [
   "civic-tech",
+  "civictechindex",
   "code-for-all",
   "code-for-america",
   "hack-for-la",
