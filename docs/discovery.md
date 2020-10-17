@@ -22,7 +22,7 @@ graph TD
         click ORGS "https://github.com/codeforamerica/brigade-information"
     end
 
-    ORGS --> |Brigade| GH_ORG
+    ORGS --> |Government Team| GH_ORG
     ORGS --> |Brigade| GH_TOPIC
 
     subgraph GITHUB["GitHub"]
@@ -37,7 +37,7 @@ graph TD
         GH_TOPIC --> P9((P9))
     end
 
-    ORGS --> |Brigade| WEB_CSV
+    ORGS --> |Project Hub| WEB_CSV
     ORGS --> |Brigade| WEB_JSON
 
     subgraph WEB["Web"]
