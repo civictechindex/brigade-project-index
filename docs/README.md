@@ -1,4 +1,4 @@
-# Brigade Project Index
+# Overview
 
 The Brigade Project Index is a collaborative effort involving core contributors from across many brigades.
 
