@@ -521,7 +521,7 @@
         click ORGS "https://github.com/codeforamerica/brigade-information"
     end
 
-    ORGS --&gt; |Brigade| GH_ORG
+    ORGS --&gt; |Government Team| GH_ORG
     ORGS --&gt; |Brigade| GH_TOPIC
 
     subgraph GITHUB["GitHub"]
@@ -536,7 +536,7 @@
         GH_TOPIC --&gt; P9((P9))
     end
 
-    ORGS --&gt; |Brigade| WEB_CSV
+    ORGS --&gt; |Project Hub| WEB_CSV
     ORGS --&gt; |Brigade| WEB_JSON
 
     subgraph WEB["Web"]
