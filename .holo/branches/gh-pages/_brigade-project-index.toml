@@ -1,3 +1,5 @@
 [holomapping]
-root = "docs"
-files = "**"
+files = [
+    "docs/",
+    "mkdocs.yml"
+]
