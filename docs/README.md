@@ -9,7 +9,7 @@ Our core goal is to publish a rich and constantly-updated database of projects t
 ## How to Get Involved
 
 - Tag your projects on github!
-  - Make sure your brigade's projects are listed in the index ([instructions](./contributing/list-brigade-projects.md))
+  - Make sure your brigade's projects are listed in the index ([instructions](contributing/get-indexed.md))
   - Using the github "Topics", tag your project directly in github with #code-for-america and your brigade tag (e.g. code-for-sf). Then include any relevant topic tags from [this list](https://github.com/codeforamerica/civic-tech-taxonomy/tree/master/issues-addressed).
 
 - [Search for Projects](https://projects.brigade.network/)

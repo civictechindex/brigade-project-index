@@ -1,4 +1,4 @@
-# Include your brigade’s projects in the Project Index
+# Get your organization indexed
 
 The [Project Index Statusboard](https://statusboard.brigade.cloud/#/) aggregates all Code for America brigade projects and displays them on a map. Adding your brigade’s projects to the Statusboard can be done through one of several automated (or semi-automated) processes.
 
