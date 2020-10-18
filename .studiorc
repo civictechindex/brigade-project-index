@@ -12,7 +12,7 @@ source "$(hab pkg path jarvus/studio-toolkit)/studio.sh"
 
 
 # load MkDocs studio
-export DOCS_HOLOBRANCH="gh-pages"
+export DOCS_HOLOBRANCH="docs-site"
 source "$(hab pkg path jarvus/mkdocs-studio)/studio.sh"
 
 
