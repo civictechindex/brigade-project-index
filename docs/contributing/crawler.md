@@ -37,7 +37,7 @@ You can run the crawler from the command line with interactive debugging enabled
 node --inspect-brk \
     crawler/run.js \
     --all \
-    --commit-to='index/v1' \
+    --commit-to='snapshot/v1' \
     --commit-orgs-to='cfapi/orgs/v1' \
     --orgs-source='crawler/lib/repositories/organizations/__fixtures__/test-organizations.json'
 ```

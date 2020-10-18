@@ -51,7 +51,7 @@
             },
             "args": [
                 "--orgs",
-                "--commit-to=index/v1",
+                "--commit-to=snapshot/v1",
                 "--commit-orgs-to=cfapi/orgs/v1",
                 "--orgs-source=file://${workspaceFolder}/crawler/lib/repositories/organizations/__fixtures__/test-organizations.json"
             ],
@@ -72,7 +72,7 @@
             },
             "args": [
                 "--projects",
-                "--commit-to=index/v1",
+                "--commit-to=snapshot/v1",
                 "--commit-orgs-to=cfapi/orgs/v1"
             ],
             "skipFiles": [
@@ -92,7 +92,7 @@
             },
             "args": [
                 "--all",
-                "--commit-to=index/v1",
+                "--commit-to=snapshot/v1",
                 "--commit-orgs-to=cfapi/orgs/v1",
                 "--orgs-source=file://${workspaceFolder}/crawler/lib/repositories/organizations/__fixtures__/test-organizations.json"
             ],
