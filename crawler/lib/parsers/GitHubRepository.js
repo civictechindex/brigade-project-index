@@ -10,6 +10,8 @@ const ONE_YEAR = ONE_DAY * 365;
 module.exports = class GitHubRepository {
 
     static excludedProperties = [
+        'size',
+
         // duplicated by *_count properties
         'forks',
         'open_issues',
