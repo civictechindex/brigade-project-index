@@ -21,7 +21,7 @@ Install all recommended extensions when prompted to by Visual Studio Code after 
 
 ## Debugging
 
-A [`test-organizations.json` file](https://gist.githubusercontent.com/themightychris/192929e226f7077d0b08013fcda81952/raw/ffe6fcecea0d84f8317d5fc1a4c57cb136d580d3/test-organizations.json) is available in a gist containing a minimal set of organizations.
+A `test-organizations.json` file at `crawler/lib/repositories/organizations/__fixtures__/test-organizations.json` is available with a minimal set of organizations for testing.
 
 ### Debugging Within Visual Studio Code
 
@@ -39,7 +39,7 @@ node --inspect-brk \
     --all \
     --commit-to='index/v1' \
     --commit-orgs-to='cfapi/orgs/v1' \
-    --orgs-source='https://gist.githubusercontent.com/themightychris/192929e226f7077d0b08013fcda81952/raw/ffe6fcecea0d84f8317d5fc1a4c57cb136d580d3/test-organizations.json'
+    --orgs-source='crawler/lib/repositories/organizations/__fixtures__/test-organizations.json'
 ```
 
 ## Running Tests

@@ -10,9 +10,23 @@ const Organizations = require('../Organizations.js');
 module.exports = class CodeForAmericaNetwork extends Organizations {
 
     static async loadFromUrl (url = null) {
+        // load from local file
+        if (url && url.startsWith('file:///')) {
+            const fs = require('fs');
+
+            const filePath = url.substr(7);
+
+            logger.info(`loading Code for America Network organizations from local file ${filePath}`);
+            const cfaList = JSON.parse(fs.readFileSync(filePath));
+            logger.debug(`loaded ${cfaList.length} organizations`);
+
+            return CodeForAmericaNetwork.loadFromArray(cfaList);
+        }
+
+
+        // load from web
         const axios = require('axios');
 
-        // choose URL
         if (!url) {
             url = process.env.CFA_ORGANIZATIONS_URL;
         }

@@ -1,0 +1,81 @@
+[
+    {
+        "name": "Code for Philly",
+        "website": "https://codeforphilly.org",
+        "events_url": "https://www.meetup.com/Code-for-Philly/",
+        "rss": "http://codeforphilly.org/project-updates?format=rss",
+        "projects_list_url": "http://codeforphilly.org/projects.csv",
+        "city": "Philadelphia, PA",
+        "latitude": "39.9523",
+        "longitude": "-75.1638",
+        "type": "Brigade, Code for America, Code for America Fiscally Sponsored Brigade, Official",
+        "social_profiles": {
+            "facebook": "https://www.facebook.com/codeforphilly/",
+            "twitter": "@codeforphilly"
+        },
+        "tags": [
+            "Brigade",
+            "Code for America",
+            "Code for America Fiscally Sponsored Brigade",
+            "Official"
+        ]
+    },
+    {
+        "name": "Hack for LA Brigade",
+        "website": "https://www.hackforla.org/",
+        "city": "Los Angeles, CA",
+        "latitude": "34.0536834",
+        "longitude": "-118.2427669",
+        "events_url": "https://www.meetup.com/hackforla/",
+        "previous_names": [
+            "Hack for LA"
+        ],
+        "projects_tag": "hack-for-la",
+        "tags": [
+            "Brigade",
+            "Code for America",
+            "Code for America Fiscally Sponsored Brigade",
+            "Official"
+        ],
+        "social_profiles": {
+            "twitter": "@hackforLA",
+            "facebook": "https://www.facebook.com/hackforla"
+        },
+        "type": "Brigade, Code for America, Code for America Fiscally Sponsored Brigade, Official"
+    },
+    {
+        "name": "Chi Hack Night",
+        "website": "http://chihacknight.org/",
+        "events_url": "",
+        "rss": "http://chihacknight.org/blog/",
+        "projects_list_url": "https://raw.github.com/open-city/civic-json-files/master/projects.json",
+        "city": "Chicago, IL",
+        "latitude": "41.8781",
+        "longitude": "-87.6298",
+        "type": "Brigade, midwest",
+        "tags": [
+            "Brigade",
+            "midwest"
+        ]
+    },
+    {
+        "name": "Code for ABQ",
+        "website": "http://codefornm.org/",
+        "events_url": "https://www.meetup.com/Code-for-ABQ",
+        "rss": "https://google.com/alerts/feeds/06912685966400056337/7301583704927490261",
+        "projects_list_url": "https://github.com/codeforabq",
+        "city": "Albuquerque, NM",
+        "latitude": "35.0824",
+        "longitude": "-106.6765",
+        "type": "Brigade, Code for America, Official",
+        "social_profiles": {
+            "twitter": "@codeforabq",
+            "facebook": "https://www.facebook.com/groups/codeforabq/about/"
+        },
+        "tags": [
+            "Brigade",
+            "Code for America",
+            "Official"
+        ]
+    }
+  ]
