@@ -98,6 +98,10 @@ describe('Projects Repository: GitHub Organization', () => {
             expect(projects.size).toBeGreaterThan(80);
         });
 
+        test('does not have archived adopt-a-hydrant', () => {
+            expect(projects.has('adopt-a-hydrant')).toBeFalse();
+        });
+
         test('has laddr', () => {
             expect(projects.has('laddr')).toBeTrue();
 

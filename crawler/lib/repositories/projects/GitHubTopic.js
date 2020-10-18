@@ -76,9 +76,10 @@ module.exports = class GitHubTopic extends Projects {
 
             // load whole page into collection, keyed by name
             for (const repository of response.data.items) {
-                // if (repository.archived) {
-                //     continue;
-                // }
+                if (repository.archived) {
+                    continue;
+                }
+
                 const name = this.extractName(repository);
                 const record = this.extractRecord(repository);
 
