@@ -1,4 +1,4 @@
-# Work on Crawler
+# Crawler
 
 The Crawler is built with Node.js and development is primarily supported for [Visual Studio Code](https://code.visualstudio.com/).
 
