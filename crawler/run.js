@@ -203,6 +203,12 @@ require('yargs')
                     }
 
 
+                    // apply organization_name to every project
+                    for (const projectData of orgProjects.values()) {
+                        projectData.organization_name = orgName;
+                    }
+
+
                     // apply decorators to all projects
                     logger.debug('applying decorators');
                     await Promise.all([...orgProjects.values()].map(decorateProject));
