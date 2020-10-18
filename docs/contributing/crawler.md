@@ -19,15 +19,38 @@ Install all recommended extensions when prompted to by Visual Studio Code after 
 - **markdownlint**: Provides live feedback about style rules and potential code issues while editing Markdown sources
 - **Node Debug**: Provides for live debugging of Node.js scripts
 
+## Debugging
+
+A [`test-organizations.json` file](https://gist.githubusercontent.com/themightychris/192929e226f7077d0b08013fcda81952/raw/ffe6fcecea0d84f8317d5fc1a4c57cb136d580d3/test-organizations.json) is available in a gist containing a minimal set of organizations.
+
+### Debugging Within Visual Studio Code
+
+The `Crawl *` launch configurations can be used to run partial or full crawls with interactive debugging available. Any breakpoints set within `run.js` or any classes will pause.
+
+These are configured to use the abbreviated `test-organizations.json` file described again, comment out the argument to run a full crawl.
+
+## Debugging on the Command Line
+
+You can run the crawler from the command line with interactive debugging enabled for attachment over TCP:
+
+```bash
+node --inspect-brk \
+    crawler/run.js \
+    --all \
+    --commit-to='index/v1' \
+    --commit-orgs-to='cfapi/orgs/v1' \
+    --orgs-source='https://gist.githubusercontent.com/themightychris/192929e226f7077d0b08013fcda81952/raw/ffe6fcecea0d84f8317d5fc1a4c57cb136d580d3/test-organizations.json'
+```
+
 ## Running Tests
 
-### Within Visual Studio Code
+### Testing Within Visual Studio Code
 
 With the `Crawler: Jest Current File` debug configuration selected, you can press F5 or otherwise run the *Start Debugging* command to execute the `*.test.js` file you have open. In most cases, you can do this with a source file open too and Jest will find the associated tests. Breakpoints in both test files and sources should work when running tests this way.
 
 Use the `Crawler: Jest All` debug configuration to run all available tests.
 
-### On the Command Line
+### Testing on the Command Line
 
 ```bash
 cd crawler
