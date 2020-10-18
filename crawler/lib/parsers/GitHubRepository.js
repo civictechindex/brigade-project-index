@@ -3,41 +3,40 @@ const ONE_WEEK = ONE_DAY * 7;
 const ONE_MONTH = ONE_DAY * 30;
 const ONE_YEAR = ONE_DAY * 365;
 
+const excludedProperties = [
+    'size',
+
+    // duplicated by *_count properties
+    'forks',
+    'open_issues',
+    'watchers'
+];
+
+const bucketedCountProperties = {
+    forks_count: [0, 10, 100, 1000],
+    open_issues_count: [0, 10, 100, 1000],
+    stargazers_count: [0, 10, 100, 1000],
+    watchers_count: [0, 10, 100, 1000],
+};
+
+const bucketedTimestampProperties = {
+    pushed_at: {
+        week: new Date(Date.now() - ONE_WEEK),
+        month: new Date(Date.now() - ONE_MONTH),
+        year: new Date(Date.now() - ONE_YEAR)
+    },
+    updated_at: {
+        week: new Date(Date.now() - ONE_WEEK),
+        month: new Date(Date.now() - ONE_MONTH),
+        year: new Date(Date.now() - ONE_YEAR)
+    },
+};
+
 /**
  * Collection of methods for analyzing and manipulating GitHub repository data
  * @class
  */
 module.exports = class GitHubRepository {
-
-    static excludedProperties = [
-        'size',
-
-        // duplicated by *_count properties
-        'forks',
-        'open_issues',
-        'watchers'
-    ];
-
-    static bucketedCountProperties = {
-        forks_count: [0, 10, 100, 1000],
-        open_issues_count: [0, 10, 100, 1000],
-        stargazers_count: [0, 10, 100, 1000],
-        watchers_count: [0, 10, 100, 1000],
-    };
-
-    static bucketedTimestampProperties = {
-        pushed_at: {
-            week: new Date(Date.now() - ONE_WEEK),
-            month: new Date(Date.now() - ONE_MONTH),
-            year: new Date(Date.now() - ONE_YEAR)
-        },
-        updated_at: {
-            week: new Date(Date.now() - ONE_WEEK),
-            month: new Date(Date.now() - ONE_MONTH),
-            year: new Date(Date.now() - ONE_YEAR)
-        },
-    };
-
     /**
      * Build a set of defaults for a standard "project" object from raw GitHub object data
      */
@@ -49,15 +48,15 @@ module.exports = class GitHubRepository {
                 continue;
             }
 
-            if (GitHubRepository.excludedProperties.indexOf(key) !== -1) {
+            if (excludedProperties.indexOf(key) !== -1) {
                 continue;
             }
 
             const value = objectData[key];
 
             // bucket counters
-            if (GitHubRepository.bucketedCountProperties.hasOwnProperty(key)) {
-                const buckets = GitHubRepository.bucketedCountProperties[key];
+            if (bucketedCountProperties.hasOwnProperty(key)) {
+                const buckets = bucketedCountProperties[key];
                 let valueBucket = null;
 
                 for (const bucket of buckets) {
@@ -75,8 +74,8 @@ module.exports = class GitHubRepository {
             }
 
             // bucket timestamps
-            if (GitHubRepository.bucketedTimestampProperties.hasOwnProperty(key)) {
-                const buckets = GitHubRepository.bucketedTimestampProperties[key];
+            if (bucketedTimestampProperties.hasOwnProperty(key)) {
+                const buckets = bucketedTimestampProperties[key];
                 const timestamp = new Date(value);
                 let timestampBucket = null, lastBucket = null;
 
