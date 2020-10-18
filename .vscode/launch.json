@@ -115,7 +115,8 @@
                 "--all",
                 "--commit-to=snapshot/v1",
                 "--commit-orgs-to=cfapi/orgs/v1",
-                // "--orgs-source=file://${workspaceFolder}/crawler/lib/repositories/organizations/__fixtures__/test-organizations.json"
+                "--orgs-source=file://${workspaceFolder}/crawler/lib/repositories/organizations/__fixtures__/test-organizations.json",
+                "--scratch-git-dir=/tmp/bpi-scratch.git"
             ],
             "skipFiles": [
                 "<node_internals>/**"

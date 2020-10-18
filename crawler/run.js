@@ -50,6 +50,10 @@ require('yargs')
                 describe: 'A target branch/ref to commit the imported orgs tree to',
                 type: 'string'
             },
+            'scratch-git-dir': {
+                describe: 'Path to a directory to use as a persistent scratch git repository',
+                type: 'string'
+            },
             debug: {
                 describe: 'Enable more verbose output',
                 type: 'boolean',
@@ -72,6 +76,7 @@ require('yargs')
                 commitOrgsTo,
 
                 // run options
+                scratchGitDir = process.env.SCRATCH_GIT_DIR || null,
                 debug,
             } = argv;
 
@@ -85,6 +90,12 @@ require('yargs')
                     logger.format.simple()
                 )
             }));
+
+
+            // configure scratch git dir
+            if (scratchGitDir) {
+                await require('./lib/ScratchGit.js').setPersistentGitDir(scratchGitDir);
+            }
 
 
             // prepare interfaces

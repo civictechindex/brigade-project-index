@@ -1,5 +1,7 @@
 const decoratorClasses = {
     GitHubRepository: require('./GitHubRepository.js'),
+    Git: require('./Git.js'),
+    // PublicCode: require('./PublicCode.js'),
 };
 
 /**
