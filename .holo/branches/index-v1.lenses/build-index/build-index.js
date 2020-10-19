@@ -31,11 +31,22 @@ async function build (inputTreeHash) {
             continue;
         }
 
+        const topics = new Set(project.topics);
+
+        if (project.github && project.github.topics) {
+            for (const topic of project.github.topics) {
+                topics.add(topic);
+            }
+        }
+
         const { path } = await index.projects.upsert({
             organization_name: project.organization_name,
             name: project.name,
 
             description: project.description,
+            topics: topics.size ? [...topics] : null,
+            status: project.status,
+
             code_url: project.code_url,
             git_url: project.git_url,
             link_url: project.link_url,
