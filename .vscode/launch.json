@@ -7,6 +7,18 @@
         {
             "type": "node",
             "request": "launch",
+            "name": "Launch: index-v1 build-index",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "env": {
+                "HOLOLENS_INPUT": "snapshot/v1"
+            },
+            "program": "${workspaceFolder}/.holo/branches/index-v1.lenses/build-index/build-index.js",
+        },
+        {
+            "type": "node",
+            "request": "launch",
             "name": "Crawler: Jest All",
             "cwd": "${workspaceFolder}/crawler",
             "env": {
@@ -94,7 +106,7 @@
                 "--all",
                 "--commit-to=snapshot/v1",
                 "--commit-orgs-to=cfapi/orgs/v1",
-                "--orgs-source=file://${workspaceFolder}/crawler/lib/repositories/organizations/__fixtures__/test-organizations.json"
+                // "--orgs-source=file://${workspaceFolder}/crawler/lib/repositories/organizations/__fixtures__/test-organizations.json"
             ],
             "skipFiles": [
                 "<node_internals>/**"
