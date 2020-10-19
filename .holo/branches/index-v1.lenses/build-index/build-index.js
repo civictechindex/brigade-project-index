@@ -45,7 +45,7 @@ async function build (inputTreeHash) {
             last_pushed_within: project.github && project.github.pushed_within || null
         });
 
-        console.log(`indexed ${path}`);
+        // console.error(`indexed ${path}`);
     }
 
     // return output
