@@ -2,7 +2,7 @@ code_url = "https://github.com/code4romania/asset-declarations"
 description = "Crowd sourcing implementation of Moonsheep platform for Romanian asset declarations."
 git_branch = "develop"
 git_url = "git://github.com/code4romania/asset-declarations.git"
-last_pushed_within = "month"
+last_pushed_within = "year"
 name = "asset-declarations"
 topics = [
   "civic-hacking",
