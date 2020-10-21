@@ -1,4 +1,4 @@
 code_url = "https://github.com/censusreporter/census-api"
-last_pushed_within = "month"
+last_pushed_within = "week"
 name = "census-api"
 topics = [ "census", "data" ]
