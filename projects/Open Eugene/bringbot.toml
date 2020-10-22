@@ -2,5 +2,5 @@ code_url = "https://github.com/OpenEugene/bringbot"
 description = 'BRING "Will it Reuse" App'
 git_branch = "master"
 git_url = "git://github.com/OpenEugene/bringbot.git"
-last_pushed_within = "month"
+last_pushed_within = "week"
 name = "bringbot"
