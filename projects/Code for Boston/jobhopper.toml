@@ -1,4 +1,5 @@
 code_url = "https://github.com/codeforboston/jobhopper"
+description = "Jobhopper helps planners and career coaches analyze patterns of career-changers to inform policy and planning decisions."
 git_branch = "develop"
 git_url = "git://github.com/codeforboston/jobhopper.git"
 last_pushed_within = "week"
