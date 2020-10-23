@@ -1,4 +1,5 @@
 code_url = "https://github.com/CodeForAfrica/WB-DSDGs-AQ-MAP"
+description = "The map showing data from air quality sensors deployed across the continent by a variety of projects and government agencies. Accessible at https://wb.map.sensors.africa"
 git_branch = "master"
 git_url = "git://github.com/CodeForAfrica/WB-DSDGs-AQ-MAP.git"
 last_pushed_within = "year"
