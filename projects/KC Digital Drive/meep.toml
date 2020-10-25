@@ -2,6 +2,6 @@ code_url = "https://github.com/codeforkansascity/meep"
 description = "Mapping Energy Efficiency & Public Health"
 git_branch = "master"
 git_url = "git://github.com/codeforkansascity/meep.git"
-last_pushed_within = "month"
+last_pushed_within = "week"
 name = "meep"
 topics = [ "code-for-america", "code-for-kc", "energy" ]
