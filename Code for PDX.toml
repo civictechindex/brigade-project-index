@@ -7,6 +7,7 @@ projects_list_url = "https://github.com/codeforpdx"
 rss = "https://google.com/alerts/feeds/06912685966400056337/7566160790037974945"
 tags = [ "Brigade", "Code for America", "Official" ]
 type = "Brigade, Code for America, Official"
+website = "https://www.codeforpdx.org/"
 
 [location]
 city = "Portland"
