@@ -1,5 +1,13 @@
 code_url = "https://github.com/codeformuenster/clustersetup"
+description = "ansible setup for a kubeadm based kubernetes cluster with high availability"
 git_branch = "main"
 git_url = "git://github.com/codeformuenster/clustersetup.git"
 last_pushed_within = "week"
 name = "clustersetup"
+topics = [
+  "ansible",
+  "cilium",
+  "high-availability",
+  "kubeadm",
+  "kubernetes"
+]
