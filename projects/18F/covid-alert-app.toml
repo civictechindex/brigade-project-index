@@ -1,7 +1,0 @@
-code_url = "https://github.com/18F/covid-alert-app"
-description = "Exposure notification client application / Application client de notification d'exposition"
-git_branch = "master"
-git_url = "git://github.com/18F/covid-alert-app.git"
-last_pushed_within = "year"
-name = "covid-alert-app"
-topics = [ "prototype" ]
