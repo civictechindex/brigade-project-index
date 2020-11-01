@@ -2,6 +2,6 @@ code_url = "https://github.com/g0v/urbancode-commission"
 description = "開放都市計畫-都委會會議紀錄資料庫"
 git_branch = "master"
 git_url = "git://github.com/g0v/urbancode-commission.git"
-last_pushed_within = "month"
+last_pushed_within = "year"
 name = "urbancode-commission"
 topics = [ "g0v", "urbancode" ]
