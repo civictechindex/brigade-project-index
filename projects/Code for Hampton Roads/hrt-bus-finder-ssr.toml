@@ -1,6 +1,6 @@
 code_url = "https://github.com/Code4HR/hrt-bus-finder-ssr"
 git_branch = "master"
 git_url = "git://github.com/Code4HR/hrt-bus-finder-ssr.git"
-last_pushed_within = "year"
+last_pushed_within = "over_a_year"
 name = "hrt-bus-finder-ssr"
 topics = [ "hrtbus" ]
