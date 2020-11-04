@@ -1,5 +1,5 @@
 code_url = "https://github.com/datamade/dedupe"
-last_pushed_within = "month"
+last_pushed_within = "week"
 name = "dedupe"
 topics = [
   "clustering",
