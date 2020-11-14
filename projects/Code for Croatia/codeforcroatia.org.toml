@@ -5,3 +5,4 @@ git_url = "git://github.com/codeforcroatia/codeforcroatia.org.git"
 last_pushed_within = "week"
 link_url = "https://codeforcroatia.org"
 name = "codeforcroatia.org"
+topics = [ "codeforcroatia", "laddr" ]
