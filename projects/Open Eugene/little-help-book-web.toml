@@ -5,10 +5,7 @@ git_url = "git://github.com/OpenEugene/little-help-book-web.git"
 last_pushed_within = "week"
 name = "little-help-book-web"
 topics = [
-  "blazor",
   "civic-tech",
-  "database",
-  "dotnet-core",
   "exchange-data",
   "human-services",
   "lane-county",
