@@ -2,6 +2,6 @@ code_url = "https://github.com/18F/identity-pki"
 description = "Support PIV/CAC with identity-idp"
 git_branch = "master"
 git_url = "git://github.com/18F/identity-pki.git"
-last_pushed_within = "week"
+last_pushed_within = "month"
 name = "identity-pki"
 topics = [ "login-gov" ]
