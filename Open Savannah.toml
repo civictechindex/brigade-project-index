@@ -4,10 +4,10 @@ latitude = "32.0835"
 longitude = "-81.0998"
 name = "Open Savannah"
 projects_list_url = "https://github.com/opensavannah"
-rss = "https://blog.opensavannah.org/feed"
+rss = "https://opensav.org/feed"
 tags = [ "Brigade", "Code for America", "Official" ]
 type = "Brigade, Code for America, Official"
-website = "https://opensavannah.org/"
+website = "https://opensav.org/"
 
 [location]
 city = "Savannah"
