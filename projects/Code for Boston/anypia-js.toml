@@ -1,8 +1,9 @@
 code_url = "https://github.com/codeforboston/anypia-js"
-description = "Javascript version and API for Official Social Security Benefit Calculator, AnyPIA"
+description = "Javascript wrapper version and API for Official Social Security Benefit Calculator, AnyPIA, used by Windfall Elimination Awareness app"
 git_branch = "master"
 git_url = "git://github.com/codeforboston/anypia-js.git"
 last_pushed_within = "year"
+link_url = "https://ssacalculator.org/"
 name = "anypia-js"
 topics = [
   "code-for-america",
