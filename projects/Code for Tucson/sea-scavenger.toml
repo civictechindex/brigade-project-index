@@ -2,6 +2,6 @@ code_url = "https://github.com/CodeForTucson/sea-scavenger"
 description = "A web-based game created for The Opportunity Project 2020 Sprint 1 to highlight issues of ocean plastics pollution."
 git_branch = "master"
 git_url = "git://github.com/CodeForTucson/sea-scavenger.git"
-last_pushed_within = "month"
+last_pushed_within = "week"
 name = "sea-scavenger"
 topics = [ "code-for-america", "code-for-tucson", "environment" ]
