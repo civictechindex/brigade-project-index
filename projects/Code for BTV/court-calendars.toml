@@ -1,0 +1,6 @@
+code_url = "https://github.com/codeforbtv/court-calendars"
+description = "A Git-based Cache of VT Court Calendar Data Scraped From the Court Calendars Primarily for CourtBot"
+git_branch = "main"
+git_url = "git://github.com/codeforbtv/court-calendars.git"
+last_pushed_within = "week"
+name = "court-calendars"
