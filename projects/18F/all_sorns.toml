@@ -3,6 +3,6 @@ description = "Prototyping for 10x - Privacy Dashboard team"
 git_branch = "main"
 git_url = "git://github.com/18F/all_sorns.git"
 last_pushed_within = "week"
-link_url = "https://all-sorns.app.cloud.gov/search"
+link_url = "https://all-sorns.app.cloud.gov"
 name = "all_sorns"
 topics = [ "18f", "government", "government-data", "privacy", "rails" ]
