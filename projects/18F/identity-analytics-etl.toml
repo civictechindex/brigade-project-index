@@ -2,6 +2,6 @@ code_url = "https://github.com/18F/identity-analytics-etl"
 description = "ETL and SQL scripts for Login.gov data warehouse and business intelligence"
 git_branch = "master"
 git_url = "git://github.com/18F/identity-analytics-etl.git"
-last_pushed_within = "month"
+last_pushed_within = "year"
 name = "identity-analytics-etl"
 topics = [ "analytics", "etl", "login-gov" ]
