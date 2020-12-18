@@ -1,7 +1,7 @@
 code_url = "https://github.com/codeforboston/clean-slate"
 git_branch = "master"
 git_url = "git://github.com/codeforboston/clean-slate.git"
-last_pushed_within = "week"
+last_pushed_within = "month"
 name = "clean-slate"
 topics = [
   "code-for-america",
