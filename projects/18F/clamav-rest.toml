@@ -1,0 +1,6 @@
+code_url = "https://github.com/18F/clamav-rest"
+description = "Simple clamd REST proxy"
+git_branch = "master"
+git_url = "git://github.com/18F/clamav-rest.git"
+last_pushed_within = "year"
+name = "clamav-rest"
