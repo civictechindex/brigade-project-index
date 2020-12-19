@@ -34,6 +34,8 @@ These are configured to use the abbreviated `test-organizations.json` file descr
 You can run the crawler from the command line with interactive debugging enabled for attachment over TCP:
 
 ```bash
+# export GITHUB_ACTOR and GITHUB_TOKEN if you git rate limits
+
 node --inspect-brk \
     crawler/run.js \
     --all \
