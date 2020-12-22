@@ -1,0 +1,7 @@
+code_url = "https://github.com/18F/identity-proofer-gem"
+description = "delegate ID proofing to vendors"
+git_branch = "main"
+git_url = "git://github.com/18F/identity-proofer-gem.git"
+last_pushed_within = "week"
+name = "identity-proofer-gem"
+topics = [ "login-gov" ]
