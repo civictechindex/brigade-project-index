@@ -1,5 +1,5 @@
 code_url = "https://github.com/OpenEugene/little_help_book_react"
-description = "A react implementation of little_help_book_web, meant to redundancy in html documents and calls to the Rest API layer."
+description = "A react implementation of little_help_book_web, meant to reduce redundancy in html documents and calls to the Rest API layer."
 git_branch = "main"
 git_url = "git://github.com/OpenEugene/little_help_book_react.git"
 last_pushed_within = "week"
