@@ -20,7 +20,8 @@ Our core goal is to publish a rich and constantly-updated database of projects t
 ## Resources
 
 - [`brigade-project-index` GitHub repository](https://github.com/codeforamerica/brigade-project-index)
-  - [`index/v1:/`](https://github.com/codeforamerica/brigade-project-index/tree/index/v1): The index in raw data form, projected into a GitHub repo for distribution and historic tracking
+  - [`snapshot/v1:/`](https://github.com/codeforamerica/brigade-project-index/tree/snapshot/v1): The crawler snapshot in raw data form, projected into a GitHub repo for distribution and historic tracking
+  - [`index/v1:/`](https://github.com/codeforamerica/brigade-project-index/tree/index/v1): the first version of the published index
   - [`gh-pages:static-api/v1`](https://github.com/codeforamerica/brigade-project-index/tree/gh-pages/static-api/v1): Static JSON API projected into GitHub Pages website hourly
     - [`/static-api/v1/organizations.json`](https://brigade.cloud/static-api/v1/organizations.json): _all_ organizations
     - [`/static-api/v1/projects.json`](https://brigade.cloud/static-api/v1/projects.json): _all_ projects (large file)
