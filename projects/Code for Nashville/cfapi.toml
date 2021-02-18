@@ -1,7 +1,52 @@
 code_url = "https://github.com/code-for-nashville/cfapi"
 description = "The Code for America API. Tracks and motivates activity and participation across the civic technology movement."
-git_branch = "master"
 git_url = "git://github.com/code-for-nashville/cfapi.git"
-last_pushed_within = "over_a_year"
 link_url = "http://codeforamerica.org/api"
 name = "cfapi"
+organization_name = "Code for Nashville"
+
+[github]
+archived = false
+created_at = "2018-06-23T02:00:42Z"
+default_branch = "master"
+description = "The Code for America API. Tracks and motivates activity and participation across the civic technology movement."
+disabled = false
+fork = true
+forks_within = 0
+full_name = "code-for-nashville/cfapi"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://codeforamerica.org/api"
+id = 138_363_485
+language = "Python"
+name = "cfapi"
+node_id = "MDEwOlJlcG9zaXRvcnkxMzgzNjM0ODU="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 8_493_450
+  login = "code-for-nashville"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjg0OTM0NTA="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

@@ -1,8 +1,53 @@
 code_url = "https://github.com/code-for-nashville/inclucivics"
 description = "Data visualization of Nashville Metropolitan Government  employee salary and demographics"
-git_branch = "master"
 git_url = "git://github.com/code-for-nashville/inclucivics.git"
-last_pushed_within = "year"
 link_url = "http://www.codefornashville.org/inclucivics/"
 name = "inclucivics"
+organization_name = "Code for Nashville"
 topics = [ "civic-tech", "data-viz", "diversity-measurement" ]
+
+[github]
+archived = false
+created_at = "2014-11-24T00:31:13Z"
+default_branch = "master"
+description = "Data visualization of Nashville Metropolitan Government  employee salary and demographics"
+disabled = false
+fork = false
+forks_within = 100
+full_name = "code-for-nashville/inclucivics"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "http://www.codefornashville.org/inclucivics/"
+id = 27_054_103
+language = "JavaScript"
+name = "inclucivics"
+node_id = "MDEwOlJlcG9zaXRvcnkyNzA1NDEwMw=="
+open_issues_within = 10
+private = false
+pushed_within = "year"
+stargazers_within = 10
+topics = [ "civic-tech", "data-viz", "diversity-measurement" ]
+updated_within = "year"
+watchers_within = 10
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 8_493_450
+  login = "code-for-nashville"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjg0OTM0NTA="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

@@ -1,7 +1,52 @@
 code_url = "https://github.com/code-for-nashville/oss-intro-class"
 description = "An example open source project to practice hacking on"
-git_branch = "master"
 git_url = "git://github.com/code-for-nashville/oss-intro-class.git"
-last_pushed_within = "over_a_year"
 name = "oss-intro-class"
+organization_name = "Code for Nashville"
 topics = [ "learning-by-doing", "opensource" ]
+
+[github]
+archived = false
+created_at = "2017-02-21T14:22:34Z"
+default_branch = "master"
+description = "An example open source project to practice hacking on"
+disabled = false
+fork = false
+forks_within = 100
+full_name = "code-for-nashville/oss-intro-class"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 82_688_429
+language = "Python"
+name = "oss-intro-class"
+node_id = "MDEwOlJlcG9zaXRvcnk4MjY4ODQyOQ=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ "learning-by-doing", "opensource" ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 8_493_450
+  login = "code-for-nashville"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjg0OTM0NTA="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

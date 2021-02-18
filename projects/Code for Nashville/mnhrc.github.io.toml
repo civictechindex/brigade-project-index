@@ -1,6 +1,51 @@
 code_url = "https://github.com/code-for-nashville/mnhrc.github.io"
 description = "ESL Project."
-git_branch = "master"
 git_url = "git://github.com/code-for-nashville/mnhrc.github.io.git"
-last_pushed_within = "over_a_year"
 name = "mnhrc.github.io"
+organization_name = "Code for Nashville"
+
+[github]
+archived = false
+created_at = "2017-07-31T17:56:57Z"
+default_branch = "master"
+description = "ESL Project."
+disabled = false
+fork = true
+forks_within = 10
+full_name = "code-for-nashville/mnhrc.github.io"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 98_914_879
+language = "JavaScript"
+name = "mnhrc.github.io"
+node_id = "MDEwOlJlcG9zaXRvcnk5ODkxNDg3OQ=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 8_493_450
+  login = "code-for-nashville"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjg0OTM0NTA="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

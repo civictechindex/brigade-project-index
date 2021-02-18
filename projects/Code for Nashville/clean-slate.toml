@@ -1,6 +1,51 @@
 code_url = "https://github.com/code-for-nashville/clean-slate"
 description = "A webpage to help Tennesseans to determine eligibility and walk through their own expungement process."
-git_branch = "master"
 git_url = "git://github.com/code-for-nashville/clean-slate.git"
-last_pushed_within = "over_a_year"
 name = "clean-slate"
+organization_name = "Code for Nashville"
+
+[github]
+archived = false
+created_at = "2019-09-21T17:31:01Z"
+default_branch = "master"
+description = "A webpage to help Tennesseans to determine eligibility and walk through their own expungement process."
+disabled = false
+fork = false
+forks_within = 10
+full_name = "code-for-nashville/clean-slate"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 210_026_977
+language = "HTML"
+name = "clean-slate"
+node_id = "MDEwOlJlcG9zaXRvcnkyMTAwMjY5Nzc="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "gpl-3.0"
+  name = "GNU General Public License v3.0"
+  node_id = "MDc6TGljZW5zZTk="
+  spdx_id = "GPL-3.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 8_493_450
+  login = "code-for-nashville"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjg0OTM0NTA="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

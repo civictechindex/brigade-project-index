@@ -1,7 +1,52 @@
 code_url = "https://github.com/code-for-nashville/food-oasis"
 description = "Repository for the current redevelopment of the Food Oasis Los Angeles website"
-git_branch = "develop"
 git_url = "git://github.com/code-for-nashville/food-oasis.git"
-last_pushed_within = "year"
 link_url = "https://foodoasis.la"
 name = "food-oasis"
+organization_name = "Code for Nashville"
+
+[github]
+archived = false
+created_at = "2020-09-12T17:58:54Z"
+default_branch = "develop"
+description = "Repository for the current redevelopment of the Food Oasis Los Angeles website"
+disabled = false
+fork = true
+forks_within = 10
+full_name = "code-for-nashville/food-oasis"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "https://foodoasis.la"
+id = 294_997_998
+language = { }
+name = "food-oasis"
+node_id = "MDEwOlJlcG9zaXRvcnkyOTQ5OTc5OTg="
+open_issues_within = 10
+private = false
+pushed_within = "year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "year"
+watchers_within = 10
+
+  [github.license]
+  key = "gpl-2.0"
+  name = "GNU General Public License v2.0"
+  node_id = "MDc6TGljZW5zZTg="
+  spdx_id = "GPL-2.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 8_493_450
+  login = "code-for-nashville"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjg0OTM0NTA="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
