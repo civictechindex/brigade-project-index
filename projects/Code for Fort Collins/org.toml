@@ -1,7 +1,47 @@
 code_url = "https://github.com/CodeForFoco/org"
 description = "Useful Docs + what Code for Fort Collins needs done on an organizational level"
-git_branch = "master"
 git_url = "git://github.com/CodeForFoco/org.git"
-last_pushed_within = "over_a_year"
 name = "org"
+organization_name = "Code for Fort Collins"
 topics = [ "civic-hacking", "code-for-america", "foco", "fort-collins" ]
+
+[github]
+archived = false
+created_at = "2016-05-01T18:25:40Z"
+default_branch = "master"
+description = "Useful Docs + what Code for Fort Collins needs done on an organizational level"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "CodeForFoco/org"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 57_726_381
+language = { }
+license = { }
+name = "org"
+node_id = "MDEwOlJlcG9zaXRvcnk1NzcyNjM4MQ=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ "civic-hacking", "code-for-america", "foco", "fort-collins" ]
+updated_within = "year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 18_219_957
+  login = "CodeForFoco"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE4MjE5OTU3"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

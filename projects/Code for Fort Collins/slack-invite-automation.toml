@@ -1,6 +1,51 @@
 code_url = "https://github.com/CodeForFoco/slack-invite-automation"
 description = "A tiny web application to invite a user into your slack team."
-git_branch = "master"
 git_url = "git://github.com/CodeForFoco/slack-invite-automation.git"
-last_pushed_within = "over_a_year"
 name = "slack-invite-automation"
+organization_name = "Code for Fort Collins"
+
+[github]
+archived = false
+created_at = "2016-04-29T15:58:53Z"
+default_branch = "master"
+description = "A tiny web application to invite a user into your slack team."
+disabled = false
+fork = true
+forks_within = 0
+full_name = "CodeForFoco/slack-invite-automation"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 57_396_561
+language = "JavaScript"
+name = "slack-invite-automation"
+node_id = "MDEwOlJlcG9zaXRvcnk1NzM5NjU2MQ=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 18_219_957
+  login = "CodeForFoco"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE4MjE5OTU3"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

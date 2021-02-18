@@ -1,6 +1,51 @@
 code_url = "https://github.com/CodeForFoco/reclaim-fort-collins"
 description = "Reclaim Fort Collins is an Innovate Fort Collins Project"
-git_branch = "master"
 git_url = "git://github.com/CodeForFoco/reclaim-fort-collins.git"
-last_pushed_within = "over_a_year"
 name = "reclaim-fort-collins"
+organization_name = "Code for Fort Collins"
+
+[github]
+archived = false
+created_at = "2017-04-22T22:44:06Z"
+default_branch = "master"
+description = "Reclaim Fort Collins is an Innovate Fort Collins Project"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "CodeForFoco/reclaim-fort-collins"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = false
+homepage = ""
+id = 89_103_579
+language = { }
+name = "reclaim-fort-collins"
+node_id = "MDEwOlJlcG9zaXRvcnk4OTEwMzU3OQ=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 18_219_957
+  login = "CodeForFoco"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE4MjE5OTU3"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

@@ -1,8 +1,53 @@
 code_url = "https://github.com/CodeForFoco/CERP-webview"
 description = "Community Elections Resources and Polling Tool "
-git_branch = "master"
 git_url = "git://github.com/CodeForFoco/CERP-webview.git"
-last_pushed_within = "over_a_year"
 link_url = "https://cerp-code-foco.herokuapp.com/"
 name = "CERP-webview"
+organization_name = "Code for Fort Collins"
 topics = [ "civic-hacking", "code-for-america" ]
+
+[github]
+archived = false
+created_at = "2017-10-27T00:53:09Z"
+default_branch = "master"
+description = "Community Elections Resources and Polling Tool "
+disabled = false
+fork = false
+forks_within = 10
+full_name = "CodeForFoco/CERP-webview"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "https://cerp-code-foco.herokuapp.com/"
+id = 108_481_604
+language = "JavaScript"
+name = "CERP-webview"
+node_id = "MDEwOlJlcG9zaXRvcnkxMDg0ODE2MDQ="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ "civic-hacking", "code-for-america" ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 18_219_957
+  login = "CodeForFoco"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE4MjE5OTU3"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
