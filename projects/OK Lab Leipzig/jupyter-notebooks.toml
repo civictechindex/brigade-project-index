@@ -1,7 +1,47 @@
 code_url = "https://github.com/CodeforLeipzig/jupyter-notebooks"
 description = "Experimenting with visualisation of data used in our Code For Leipzig projects"
-git_branch = "master"
 git_url = "git://github.com/CodeforLeipzig/jupyter-notebooks.git"
-last_pushed_within = "over_a_year"
 link_url = "https://github.com/CodeforLeipzig/jupyter-notebooks/blob/master/stadtratmonitor/stadtratmonitor.ipynb"
 name = "jupyter-notebooks"
+organization_name = "OK Lab Leipzig"
+
+[github]
+archived = false
+created_at = "2017-06-11T06:57:01Z"
+default_branch = "master"
+description = "Experimenting with visualisation of data used in our Code For Leipzig projects"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "CodeforLeipzig/jupyter-notebooks"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "https://github.com/CodeforLeipzig/jupyter-notebooks/blob/master/stadtratmonitor/stadtratmonitor.ipynb"
+id = 93_987_312
+language = "Jupyter Notebook"
+license = { }
+name = "jupyter-notebooks"
+node_id = "MDEwOlJlcG9zaXRvcnk5Mzk4NzMxMg=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 7_286_986
+  login = "CodeforLeipzig"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjcyODY5ODY="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

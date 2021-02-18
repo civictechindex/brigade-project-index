@@ -1,6 +1,51 @@
 code_url = "https://github.com/CodeforLeipzig/CodeforLeipzig.github.io"
-git_branch = "master"
 git_url = "git://github.com/CodeforLeipzig/CodeforLeipzig.github.io.git"
-last_pushed_within = "week"
 link_url = "https://codeforLeipzig.github.io/"
 name = "CodeforLeipzig.github.io"
+organization_name = "OK Lab Leipzig"
+
+[github]
+archived = false
+created_at = "2020-02-16T09:43:36Z"
+default_branch = "master"
+description = { }
+disabled = false
+fork = false
+forks_within = 0
+full_name = "CodeforLeipzig/CodeforLeipzig.github.io"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "https://codeforLeipzig.github.io/"
+id = 240_866_111
+language = "CSS"
+name = "CodeforLeipzig.github.io"
+node_id = "MDEwOlJlcG9zaXRvcnkyNDA4NjYxMTE="
+open_issues_within = 0
+private = false
+pushed_within = "year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "year"
+watchers_within = 0
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 7_286_986
+  login = "CodeforLeipzig"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjcyODY5ODY="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

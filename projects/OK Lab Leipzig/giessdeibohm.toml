@@ -1,7 +1,52 @@
 code_url = "https://github.com/CodeforLeipzig/giessdeibohm"
 description = "Simple solution for Giess den Kiez in Leipziger Westen"
-git_branch = "master"
 git_url = "git://github.com/CodeforLeipzig/giessdeibohm.git"
-last_pushed_within = "week"
 link_url = "https://codeforleipzig.github.io/giessdeibohm/"
 name = "giessdeibohm"
+organization_name = "OK Lab Leipzig"
+
+[github]
+archived = false
+created_at = "2020-07-26T23:17:10Z"
+default_branch = "master"
+description = "Simple solution for Giess den Kiez in Leipziger Westen"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "CodeforLeipzig/giessdeibohm"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "https://codeforleipzig.github.io/giessdeibohm/"
+id = 282_749_417
+language = "Kotlin"
+name = "giessdeibohm"
+node_id = "MDEwOlJlcG9zaXRvcnkyODI3NDk0MTc="
+open_issues_within = 0
+private = false
+pushed_within = "month"
+stargazers_within = 10
+topics = [ ]
+updated_within = "month"
+watchers_within = 10
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 7_286_986
+  login = "CodeforLeipzig"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjcyODY5ODY="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

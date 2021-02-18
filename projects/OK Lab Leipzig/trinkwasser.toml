@@ -1,8 +1,53 @@
 code_url = "https://github.com/CodeforLeipzig/trinkwasser"
 description = "Visualisierung von Trinkwasserdaten"
-git_branch = "master"
 git_url = "git://github.com/CodeforLeipzig/trinkwasser.git"
-last_pushed_within = "over_a_year"
 link_url = "https://trinkwasser.codefor.de/"
 name = "trinkwasser"
+organization_name = "OK Lab Leipzig"
 topics = [ "geojson", "javascript", "open-data" ]
+
+[github]
+archived = false
+created_at = "2017-03-04T12:22:02Z"
+default_branch = "master"
+description = "Visualisierung von Trinkwasserdaten"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "CodeforLeipzig/trinkwasser"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "https://trinkwasser.codefor.de/"
+id = 83_891_419
+language = "JavaScript"
+name = "trinkwasser"
+node_id = "MDEwOlJlcG9zaXRvcnk4Mzg5MTQxOQ=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ "geojson", "javascript", "open-data" ]
+updated_within = "year"
+watchers_within = 10
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 7_286_986
+  login = "CodeforLeipzig"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjcyODY5ODY="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

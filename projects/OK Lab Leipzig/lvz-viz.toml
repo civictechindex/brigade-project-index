@@ -1,6 +1,51 @@
 code_url = "https://github.com/CodeforLeipzig/lvz-viz"
 description = "Visualization of LVZ police ticker"
-git_branch = "master"
 git_url = "git://github.com/CodeforLeipzig/lvz-viz.git"
-last_pushed_within = "month"
 name = "lvz-viz"
+organization_name = "OK Lab Leipzig"
+
+[github]
+archived = false
+created_at = "2014-06-02T17:55:03Z"
+default_branch = "master"
+description = "Visualization of LVZ police ticker"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "CodeforLeipzig/lvz-viz"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 20_413_737
+language = "Java"
+name = "lvz-viz"
+node_id = "MDEwOlJlcG9zaXRvcnkyMDQxMzczNw=="
+open_issues_within = 10
+private = false
+pushed_within = "year"
+stargazers_within = 100
+topics = [ ]
+updated_within = "year"
+watchers_within = 100
+
+  [github.license]
+  key = "gpl-2.0"
+  name = "GNU General Public License v2.0"
+  node_id = "MDc6TGljZW5zZTg="
+  spdx_id = "GPL-2.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 7_286_986
+  login = "CodeforLeipzig"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjcyODY5ODY="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

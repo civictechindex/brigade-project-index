@@ -1,6 +1,51 @@
 code_url = "https://github.com/CodeforLeipzig/glaeserne-klaeranlage"
-git_branch = "master"
 git_url = "git://github.com/CodeforLeipzig/glaeserne-klaeranlage.git"
-last_pushed_within = "over_a_year"
 link_url = "https://codeforleipzig.github.io/glaeserne-klaeranlage/"
 name = "glaeserne-klaeranlage"
+organization_name = "OK Lab Leipzig"
+
+[github]
+archived = false
+created_at = "2017-03-11T11:59:17Z"
+default_branch = "master"
+description = { }
+disabled = false
+fork = false
+forks_within = 0
+full_name = "CodeforLeipzig/glaeserne-klaeranlage"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "https://codeforleipzig.github.io/glaeserne-klaeranlage/"
+id = 84_646_867
+language = "JavaScript"
+name = "glaeserne-klaeranlage"
+node_id = "MDEwOlJlcG9zaXRvcnk4NDY0Njg2Nw=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "other"
+  name = "Other"
+  node_id = "MDc6TGljZW5zZTA="
+  spdx_id = "NOASSERTION"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 7_286_986
+  login = "CodeforLeipzig"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjcyODY5ODY="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

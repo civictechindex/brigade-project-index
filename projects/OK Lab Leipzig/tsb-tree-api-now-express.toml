@@ -1,6 +1,51 @@
 code_url = "https://github.com/CodeforLeipzig/tsb-tree-api-now-express"
-git_branch = "master"
 git_url = "git://github.com/CodeforLeipzig/tsb-tree-api-now-express.git"
-last_pushed_within = "year"
 link_url = "https://tsb-tree-api-now-express.now.sh"
 name = "tsb-tree-api-now-express"
+organization_name = "OK Lab Leipzig"
+
+[github]
+archived = false
+created_at = "2020-08-01T15:01:21Z"
+default_branch = "master"
+description = { }
+disabled = false
+fork = true
+forks_within = 10
+full_name = "CodeforLeipzig/tsb-tree-api-now-express"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "https://tsb-tree-api-now-express.now.sh"
+id = 284_281_655
+language = "TypeScript"
+name = "tsb-tree-api-now-express"
+node_id = "MDEwOlJlcG9zaXRvcnkyODQyODE2NTU="
+open_issues_within = 0
+private = false
+pushed_within = "month"
+stargazers_within = 0
+topics = [ ]
+updated_within = "month"
+watchers_within = 0
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 7_286_986
+  login = "CodeforLeipzig"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjcyODY5ODY="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

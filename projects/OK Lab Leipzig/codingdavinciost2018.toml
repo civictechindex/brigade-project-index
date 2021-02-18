@@ -1,7 +1,52 @@
 code_url = "https://github.com/CodeforLeipzig/codingdavinciost2018"
 description = "Some helper projects for organizing / supporting Coding da Vinci Ost 2018"
-git_branch = "master"
 git_url = "git://github.com/CodeforLeipzig/codingdavinciost2018.git"
-last_pushed_within = "year"
 link_url = "http://damals.in"
 name = "codingdavinciost2018"
+organization_name = "OK Lab Leipzig"
+
+[github]
+archived = false
+created_at = "2017-12-27T11:45:35Z"
+default_branch = "master"
+description = "Some helper projects for organizing / supporting Coding da Vinci Ost 2018"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "CodeforLeipzig/codingdavinciost2018"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "http://damals.in"
+id = 115_515_616
+language = "Xtend"
+name = "codingdavinciost2018"
+node_id = "MDEwOlJlcG9zaXRvcnkxMTU1MTU2MTY="
+open_issues_within = 100
+private = false
+pushed_within = "year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "year"
+watchers_within = 10
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 7_286_986
+  login = "CodeforLeipzig"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjcyODY5ODY="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

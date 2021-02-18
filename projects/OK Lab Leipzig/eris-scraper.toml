@@ -1,5 +1,45 @@
 code_url = "https://github.com/CodeforLeipzig/eris-scraper"
-git_branch = "master"
 git_url = "git://github.com/CodeforLeipzig/eris-scraper.git"
-last_pushed_within = "over_a_year"
 name = "eris-scraper"
+organization_name = "OK Lab Leipzig"
+
+[github]
+archived = false
+created_at = "2014-05-14T11:35:57Z"
+default_branch = "master"
+description = { }
+disabled = false
+fork = false
+forks_within = 0
+full_name = "CodeforLeipzig/eris-scraper"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 19_777_058
+language = "Ruby"
+license = { }
+name = "eris-scraper"
+node_id = "MDEwOlJlcG9zaXRvcnkxOTc3NzA1OA=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 7_286_986
+  login = "CodeforLeipzig"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjcyODY5ODY="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

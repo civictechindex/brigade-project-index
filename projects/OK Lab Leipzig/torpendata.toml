@@ -1,6 +1,46 @@
 code_url = "https://github.com/CodeforLeipzig/torpendata"
 description = "Issue tracker for improvement for the open data portal"
-git_branch = "master"
 git_url = "git://github.com/CodeforLeipzig/torpendata.git"
-last_pushed_within = "year"
 name = "torpendata"
+organization_name = "OK Lab Leipzig"
+
+[github]
+archived = false
+created_at = "2020-08-12T20:24:36Z"
+default_branch = "master"
+description = "Issue tracker for improvement for the open data portal"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "CodeforLeipzig/torpendata"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 287_108_574
+language = { }
+license = { }
+name = "torpendata"
+node_id = "MDEwOlJlcG9zaXRvcnkyODcxMDg1NzQ="
+open_issues_within = 0
+private = false
+pushed_within = "year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 7_286_986
+  login = "CodeforLeipzig"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjcyODY5ODY="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
