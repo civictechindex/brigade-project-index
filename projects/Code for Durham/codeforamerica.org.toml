@@ -1,7 +1,52 @@
 code_url = "https://github.com/codefordurham/codeforamerica.org"
 description = "The @codeforamerica website"
-git_branch = "master"
 git_url = "git://github.com/codefordurham/codeforamerica.org.git"
-last_pushed_within = "over_a_year"
 link_url = "http://www.codeforamerica.org"
 name = "codeforamerica.org"
+organization_name = "Code for Durham"
+
+[github]
+archived = false
+created_at = "2015-07-15T12:47:32Z"
+default_branch = "master"
+description = "The @codeforamerica website"
+disabled = false
+fork = true
+forks_within = 0
+full_name = "codefordurham/codeforamerica.org"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://www.codeforamerica.org"
+id = 39_136_389
+language = "HTML"
+name = "codeforamerica.org"
+node_id = "MDEwOlJlcG9zaXRvcnkzOTEzNjM4OQ=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "other"
+  name = "Other"
+  node_id = "MDc6TGljZW5zZTA="
+  spdx_id = "NOASSERTION"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 5_732_447
+  login = "codefordurham"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjU3MzI0NDc="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

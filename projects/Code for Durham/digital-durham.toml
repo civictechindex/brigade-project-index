@@ -1,6 +1,46 @@
 code_url = "https://github.com/codefordurham/digital-durham"
 description = "Project to help http://digitaldurham.net/ "
-git_branch = "master"
 git_url = "git://github.com/codefordurham/digital-durham.git"
-last_pushed_within = "over_a_year"
 name = "digital-durham"
+organization_name = "Code for Durham"
+
+[github]
+archived = false
+created_at = "2019-06-11T23:23:46Z"
+default_branch = "master"
+description = "Project to help http://digitaldurham.net/ "
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codefordurham/digital-durham"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 191_463_648
+language = "Jupyter Notebook"
+license = { }
+name = "digital-durham"
+node_id = "MDEwOlJlcG9zaXRvcnkxOTE0NjM2NDg="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "month"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 5_732_447
+  login = "codefordurham"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjU3MzI0NDc="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

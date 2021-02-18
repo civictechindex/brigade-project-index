@@ -1,5 +1,45 @@
 code_url = "https://github.com/codefordurham/MoW-WR1"
-git_branch = "master"
 git_url = "git://github.com/codefordurham/MoW-WR1.git"
-last_pushed_within = "over_a_year"
 name = "MoW-WR1"
+organization_name = "Code for Durham"
+
+[github]
+archived = false
+created_at = "2019-08-19T16:25:47Z"
+default_branch = "master"
+description = { }
+disabled = false
+fork = false
+forks_within = 0
+full_name = "codefordurham/MoW-WR1"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 203_209_411
+language = { }
+license = { }
+name = "MoW-WR1"
+node_id = "MDEwOlJlcG9zaXRvcnkyMDMyMDk0MTE="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 5_732_447
+  login = "codefordurham"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjU3MzI0NDc="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

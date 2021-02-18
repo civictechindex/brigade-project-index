@@ -1,7 +1,52 @@
 code_url = "https://github.com/codefordurham/affordablehousing_old"
 description = "Interactive data exploration portal focusing on housing data"
-git_branch = "master"
 git_url = "git://github.com/codefordurham/affordablehousing_old.git"
-last_pushed_within = "over_a_year"
 link_url = "http://affordablehousing.pythonanywhere.com/"
 name = "affordablehousing_old"
+organization_name = "Code for Durham"
+
+[github]
+archived = false
+created_at = "2016-03-22T23:50:46Z"
+default_branch = "master"
+description = "Interactive data exploration portal focusing on housing data"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codefordurham/affordablehousing_old"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "http://affordablehousing.pythonanywhere.com/"
+id = 54_516_783
+language = "HTML"
+name = "affordablehousing_old"
+node_id = "MDEwOlJlcG9zaXRvcnk1NDUxNjc4Mw=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 5_732_447
+  login = "codefordurham"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjU3MzI0NDc="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

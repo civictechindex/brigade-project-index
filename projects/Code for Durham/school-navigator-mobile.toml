@@ -1,6 +1,46 @@
 code_url = "https://github.com/codefordurham/school-navigator-mobile"
 description = "Native mobile app for the school navigator"
-git_branch = "master"
 git_url = "git://github.com/codefordurham/school-navigator-mobile.git"
-last_pushed_within = "over_a_year"
 name = "school-navigator-mobile"
+organization_name = "Code for Durham"
+
+[github]
+archived = false
+created_at = "2015-10-09T14:14:35Z"
+default_branch = "master"
+description = "Native mobile app for the school navigator"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "codefordurham/school-navigator-mobile"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 43_959_765
+language = "JavaScript"
+license = { }
+name = "school-navigator-mobile"
+node_id = "MDEwOlJlcG9zaXRvcnk0Mzk1OTc2NQ=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 5_732_447
+  login = "codefordurham"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjU3MzI0NDc="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

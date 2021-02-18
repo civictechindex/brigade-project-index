@@ -1,6 +1,51 @@
 code_url = "https://github.com/codefordurham/sporkability"
 description = ":fork_and_knife: :couplekiss:  Best practices for making projects easy to fork"
-git_branch = "master"
 git_url = "git://github.com/codefordurham/sporkability.git"
-last_pushed_within = "over_a_year"
 name = "sporkability"
+organization_name = "Code for Durham"
+
+[github]
+archived = false
+created_at = "2016-05-01T19:06:39Z"
+default_branch = "master"
+description = ":fork_and_knife: :couplekiss:  Best practices for making projects easy to fork"
+disabled = false
+fork = true
+forks_within = 0
+full_name = "codefordurham/sporkability"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 57_752_334
+language = { }
+name = "sporkability"
+node_id = "MDEwOlJlcG9zaXRvcnk1Nzc1MjMzNA=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "unlicense"
+  name = "The Unlicense"
+  node_id = "MDc6TGljZW5zZTE1"
+  spdx_id = "Unlicense"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 5_732_447
+  login = "codefordurham"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjU3MzI0NDc="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

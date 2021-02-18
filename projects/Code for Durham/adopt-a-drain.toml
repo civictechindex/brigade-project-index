@@ -1,8 +1,53 @@
 code_url = "https://github.com/codefordurham/adopt-a-drain"
 description = 'A website that allows citizens to "adopt" a storm drain in Durham, NC'
-git_branch = "develop"
 git_url = "git://github.com/codefordurham/adopt-a-drain.git"
-last_pushed_within = "year"
 link_url = "https://adoptadraindurham-staging.herokuapp.com/"
 name = "adopt-a-drain"
+organization_name = "Code for Durham"
 topics = [ "civic-apps" ]
+
+[github]
+archived = false
+created_at = "2016-11-01T23:32:32Z"
+default_branch = "develop"
+description = 'A website that allows citizens to "adopt" a storm drain in Durham, NC'
+disabled = false
+fork = true
+forks_within = 10
+full_name = "codefordurham/adopt-a-drain"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "https://adoptadraindurham-staging.herokuapp.com/"
+id = 72_585_815
+language = "Ruby"
+name = "adopt-a-drain"
+node_id = "MDEwOlJlcG9zaXRvcnk3MjU4NTgxNQ=="
+open_issues_within = 100
+private = false
+pushed_within = "year"
+stargazers_within = 10
+topics = [ "civic-apps" ]
+updated_within = "year"
+watchers_within = 10
+
+  [github.license]
+  key = "bsd-3-clause"
+  name = 'BSD 3-Clause "New" or "Revised" License'
+  node_id = "MDc6TGljZW5zZTU="
+  spdx_id = "BSD-3-Clause"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 5_732_447
+  login = "codefordurham"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjU3MzI0NDc="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

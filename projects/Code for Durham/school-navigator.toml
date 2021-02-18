@@ -1,10 +1,9 @@
 code_url = "https://github.com/codefordurham/school-navigator"
 description = "Navigate the Durham, NC public school system"
-git_branch = "master"
 git_url = "git://github.com/codefordurham/school-navigator.git"
-last_pushed_within = "year"
 link_url = "https://durhamschoolnavigator.org"
 name = "school-navigator"
+organization_name = "Code for Durham"
 topics = [
   "angular",
   "civic-data",
@@ -19,3 +18,57 @@ topics = [
   "postgis",
   "python"
 ]
+
+[github]
+archived = false
+created_at = "2014-07-20T19:06:40Z"
+default_branch = "master"
+description = "Navigate the Durham, NC public school system"
+disabled = false
+fork = false
+forks_within = 100
+full_name = "codefordurham/school-navigator"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "https://durhamschoolnavigator.org"
+id = 22_040_975
+language = "Shell"
+license = { }
+name = "school-navigator"
+node_id = "MDEwOlJlcG9zaXRvcnkyMjA0MDk3NQ=="
+open_issues_within = 100
+private = false
+pushed_within = "year"
+stargazers_within = 100
+topics = [
+  "angular",
+  "civic-data",
+  "civic-tech",
+  "codeforamerica",
+  "css",
+  "django",
+  "django-rest-framework",
+  "education",
+  "gis",
+  "html",
+  "postgis",
+  "python"
+]
+updated_within = "over_a_year"
+watchers_within = 100
+
+  [github.owner]
+  gravatar_id = ""
+  id = 5_732_447
+  login = "codefordurham"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjU3MzI0NDc="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

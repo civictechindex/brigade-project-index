@@ -1,7 +1,52 @@
 code_url = "https://github.com/codefordurham/d3-bootstrap"
 description = "d3-friendly versions of Twitter bootstrap JavaScript tools"
-git_branch = "master"
 git_url = "git://github.com/codefordurham/d3-bootstrap.git"
-last_pushed_within = "over_a_year"
 link_url = "http://prag.ma/code/d3-bootstrap/"
 name = "d3-bootstrap"
+organization_name = "Code for Durham"
+
+[github]
+archived = false
+created_at = "2015-09-23T01:31:35Z"
+default_branch = "master"
+description = "d3-friendly versions of Twitter bootstrap JavaScript tools"
+disabled = false
+fork = true
+forks_within = 0
+full_name = "codefordurham/d3-bootstrap"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://prag.ma/code/d3-bootstrap/"
+id = 42_971_093
+language = "Makefile"
+name = "d3-bootstrap"
+node_id = "MDEwOlJlcG9zaXRvcnk0Mjk3MTA5Mw=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "bsd-2-clause"
+  name = 'BSD 2-Clause "Simplified" License'
+  node_id = "MDc6TGljZW5zZTQ="
+  spdx_id = "BSD-2-Clause"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 5_732_447
+  login = "codefordurham"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjU3MzI0NDc="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
