@@ -1,9 +1,8 @@
 code_url = "https://github.com/codefornola/big-easy-budget-game"
 description = "The Big Easy Budget Game web app -- a public budget education and crowdsourcing tool for the New Orleans city budget."
-git_branch = "master"
 git_url = "git://github.com/codefornola/big-easy-budget-game.git"
-last_pushed_within = "month"
 name = "big-easy-budget-game"
+organization_name = "Code for New Orleans"
 topics = [
   "city",
   "civic-tech",
@@ -14,3 +13,58 @@ topics = [
   "php",
   "public-budget"
 ]
+
+[github]
+archived = false
+created_at = "2020-03-13T00:06:06Z"
+default_branch = "master"
+description = "The Big Easy Budget Game web app -- a public budget education and crowdsourcing tool for the New Orleans city budget."
+disabled = false
+fork = false
+forks_within = 0
+full_name = "codefornola/big-easy-budget-game"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 246_953_046
+language = "JavaScript"
+name = "big-easy-budget-game"
+node_id = "MDEwOlJlcG9zaXRvcnkyNDY5NTMwNDY="
+open_issues_within = 10
+private = false
+pushed_within = "week"
+stargazers_within = 10
+topics = [
+  "city",
+  "civic-tech",
+  "docker",
+  "laravel",
+  "mongodb",
+  "new-orleans",
+  "php",
+  "public-budget"
+]
+updated_within = "week"
+watchers_within = 10
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 13_694_692
+  login = "codefornola"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjEzNjk0Njky"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

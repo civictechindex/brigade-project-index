@@ -1,9 +1,8 @@
 code_url = "https://github.com/codefornola/311"
 description = "A project to visualize the data of the NOLA 311 system"
-git_branch = "master"
 git_url = "git://github.com/codefornola/311.git"
-last_pushed_within = "over_a_year"
 name = "311"
+organization_name = "Code for New Orleans"
 topics = [
   "311",
   "311-data",
@@ -14,3 +13,58 @@ topics = [
   "node",
   "nodejs"
 ]
+
+[github]
+archived = false
+created_at = "2016-09-08T23:59:55Z"
+default_branch = "master"
+description = "A project to visualize the data of the NOLA 311 system"
+disabled = false
+fork = false
+forks_within = 100
+full_name = "codefornola/311"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 67_749_403
+language = "HTML"
+name = "311"
+node_id = "MDEwOlJlcG9zaXRvcnk2Nzc0OTQwMw=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [
+  "311",
+  "311-data",
+  "civic-tech",
+  "data-visualization",
+  "docker",
+  "new-orleans",
+  "node",
+  "nodejs"
+]
+updated_within = "year"
+watchers_within = 10
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 13_694_692
+  login = "codefornola"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjEzNjk0Njky"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

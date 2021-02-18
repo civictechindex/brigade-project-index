@@ -1,7 +1,47 @@
 code_url = "https://github.com/codefornola/style_guide"
 description = "Style Guide for Code for New Orleans"
-git_branch = "master"
 git_url = "git://github.com/codefornola/style_guide.git"
-last_pushed_within = "over_a_year"
 link_url = "https://codefornola.github.io/style_guide/"
 name = "style_guide"
+organization_name = "Code for New Orleans"
+
+[github]
+archived = false
+created_at = "2017-08-10T23:18:23Z"
+default_branch = "master"
+description = "Style Guide for Code for New Orleans"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "codefornola/style_guide"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "https://codefornola.github.io/style_guide/"
+id = 99_972_192
+language = "HTML"
+license = { }
+name = "style_guide"
+node_id = "MDEwOlJlcG9zaXRvcnk5OTk3MjE5Mg=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 13_694_692
+  login = "codefornola"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjEzNjk0Njky"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

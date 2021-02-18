@@ -1,7 +1,47 @@
 code_url = "https://github.com/codefornola/brigadehub"
 description = "Simplify your CfA brigade's website maintenance"
-git_branch = "edge"
 git_url = "git://github.com/codefornola/brigadehub.git"
-last_pushed_within = "over_a_year"
 link_url = "http://brigadehub.herokuapp.com/"
 name = "brigadehub"
+organization_name = "Code for New Orleans"
+
+[github]
+archived = false
+created_at = "2016-05-06T22:09:45Z"
+default_branch = "edge"
+description = "Simplify your CfA brigade's website maintenance"
+disabled = false
+fork = true
+forks_within = 0
+full_name = "codefornola/brigadehub"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://brigadehub.herokuapp.com/"
+id = 58_237_494
+language = "CSS"
+license = { }
+name = "brigadehub"
+node_id = "MDEwOlJlcG9zaXRvcnk1ODIzNzQ5NA=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 13_694_692
+  login = "codefornola"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjEzNjk0Njky"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

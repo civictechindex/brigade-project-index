@@ -1,34 +1,34 @@
-code_url = "https://github.com/codefornola/norta-data"
-description = "Code and Documentation for New Orleans RTA data"
-git_url = "git://github.com/codefornola/norta-data.git"
-name = "norta-data"
+code_url = "https://github.com/codefornola/nolabase"
+description = "A community-maintained Postgres database containing all public data about the city"
+git_url = "git://github.com/codefornola/nolabase.git"
+name = "nolabase"
 organization_name = "Code for New Orleans"
 
 [github]
 archived = false
-created_at = "2016-07-15T01:35:28Z"
-default_branch = "master"
-description = "Code and Documentation for New Orleans RTA data"
+created_at = "2021-01-18T19:25:39Z"
+default_branch = "main"
+description = "A community-maintained Postgres database containing all public data about the city"
 disabled = false
-fork = true
+fork = false
 forks_within = 0
-full_name = "codefornola/norta-data"
+full_name = "codefornola/nolabase"
 has_downloads = true
-has_issues = false
+has_issues = true
 has_pages = false
 has_projects = true
-has_wiki = true
+has_wiki = false
 homepage = { }
-id = 63_381_791
-language = "Elixir"
-name = "norta-data"
-node_id = "MDEwOlJlcG9zaXRvcnk2MzM4MTc5MQ=="
+id = 330_766_055
+language = "Go"
+name = "nolabase"
+node_id = "MDEwOlJlcG9zaXRvcnkzMzA3NjYwNTU="
 open_issues_within = 0
 private = false
-pushed_within = "over_a_year"
+pushed_within = "week"
 stargazers_within = 0
 topics = [ ]
-updated_within = "over_a_year"
+updated_within = "week"
 watchers_within = 0
 
   [github.license]

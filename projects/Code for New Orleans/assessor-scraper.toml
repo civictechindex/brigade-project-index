@@ -1,9 +1,8 @@
 code_url = "https://github.com/codefornola/assessor-scraper"
 description = "A project to scrape the assessor's website and make the data accessible for advanced queries"
-git_branch = "master"
 git_url = "git://github.com/codefornola/assessor-scraper.git"
-last_pushed_within = "over_a_year"
 name = "assessor-scraper"
+organization_name = "Code for New Orleans"
 topics = [
   "assessor-scraper",
   "assessors-website",
@@ -16,3 +15,60 @@ topics = [
   "terraform",
   "web-scraper"
 ]
+
+[github]
+archived = false
+created_at = "2017-07-14T00:15:52Z"
+default_branch = "master"
+description = "A project to scrape the assessor's website and make the data accessible for advanced queries"
+disabled = false
+fork = false
+forks_within = 100
+full_name = "codefornola/assessor-scraper"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 97_175_357
+language = "Python"
+name = "assessor-scraper"
+node_id = "MDEwOlJlcG9zaXRvcnk5NzE3NTM1Nw=="
+open_issues_within = 10
+private = false
+pushed_within = "year"
+stargazers_within = 100
+topics = [
+  "assessor-scraper",
+  "assessors-website",
+  "aws",
+  "civic-tech",
+  "heroku",
+  "new-orleans",
+  "python",
+  "python3",
+  "terraform",
+  "web-scraper"
+]
+updated_within = "year"
+watchers_within = 100
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 13_694_692
+  login = "codefornola"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjEzNjk0Njky"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

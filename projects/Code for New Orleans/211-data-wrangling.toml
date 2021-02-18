@@ -1,9 +1,8 @@
 code_url = "https://github.com/codefornola/211-data-wrangling"
 description = "A project to help cleanup 211 data from multiple sources"
-git_branch = "master"
 git_url = "git://github.com/codefornola/211-data-wrangling.git"
-last_pushed_within = "year"
 name = "211-data-wrangling"
+organization_name = "Code for New Orleans"
 topics = [
   "civic-tech",
   "covid-19",
@@ -14,3 +13,53 @@ topics = [
   "python",
   "social-services"
 ]
+
+[github]
+archived = false
+created_at = "2020-04-14T23:50:31Z"
+default_branch = "master"
+description = "A project to help cleanup 211 data from multiple sources"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codefornola/211-data-wrangling"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 255_755_273
+language = "Python"
+license = { }
+name = "211-data-wrangling"
+node_id = "MDEwOlJlcG9zaXRvcnkyNTU3NTUyNzM="
+open_issues_within = 10
+private = false
+pushed_within = "year"
+stargazers_within = 0
+topics = [
+  "civic-tech",
+  "covid-19",
+  "dashboard",
+  "data-cleaning",
+  "new-orleans",
+  "non-profit",
+  "python",
+  "social-services"
+]
+updated_within = "year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 13_694_692
+  login = "codefornola"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjEzNjk0Njky"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
