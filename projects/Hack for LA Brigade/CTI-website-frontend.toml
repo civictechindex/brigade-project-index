@@ -1,14 +1,0 @@
-code_url = "https://github.com/civictechindex/CTI-website-frontend"
-description = "Join a worldwide movement to catalog  every open source  civic tech project."
-git_branch = "main"
-git_url = "git://github.com/civictechindex/CTI-website-frontend.git"
-name = "CTI-website-frontend"
-topics = [
-  "civic-tech",
-  "civictechindex",
-  "code-for-all",
-  "code-for-america",
-  "hack-for-la",
-  "open-source",
-  "opensource"
-]
