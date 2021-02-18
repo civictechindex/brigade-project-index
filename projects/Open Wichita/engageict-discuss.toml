@@ -1,6 +1,46 @@
 code_url = "https://github.com/openwichita/engageict-discuss"
 description = "Telescope project for EngageICT discussion."
-git_branch = "master"
 git_url = "git://github.com/openwichita/engageict-discuss.git"
-last_pushed_within = "over_a_year"
 name = "engageict-discuss"
+organization_name = "Open Wichita"
+
+[github]
+archived = false
+created_at = "2016-06-14T15:18:34Z"
+default_branch = "master"
+description = "Telescope project for EngageICT discussion."
+disabled = false
+fork = false
+forks_within = 0
+full_name = "openwichita/engageict-discuss"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 61_133_537
+language = "JavaScript"
+license = { }
+name = "engageict-discuss"
+node_id = "MDEwOlJlcG9zaXRvcnk2MTEzMzUzNw=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 12_169_903
+  login = "openwichita"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjEyMTY5OTAz"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

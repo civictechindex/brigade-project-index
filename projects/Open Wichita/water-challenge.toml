@@ -1,6 +1,46 @@
 code_url = "https://github.com/openwichita/water-challenge"
 description = "A system that integrates with the Wichita Water departments's water usage tracking system in order to pit neighborhoods against each other to lower their water usage."
-git_branch = "master"
 git_url = "git://github.com/openwichita/water-challenge.git"
-last_pushed_within = "over_a_year"
 name = "water-challenge"
+organization_name = "Open Wichita"
+
+[github]
+archived = false
+created_at = "2015-06-06T22:16:01Z"
+default_branch = "master"
+description = "A system that integrates with the Wichita Water departments's water usage tracking system in order to pit neighborhoods against each other to lower their water usage."
+disabled = false
+fork = false
+forks_within = 0
+full_name = "openwichita/water-challenge"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 36_996_837
+language = "HTML"
+license = { }
+name = "water-challenge"
+node_id = "MDEwOlJlcG9zaXRvcnkzNjk5NjgzNw=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 12_169_903
+  login = "openwichita"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjEyMTY5OTAz"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

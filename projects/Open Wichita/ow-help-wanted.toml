@@ -1,8 +1,48 @@
 code_url = "https://github.com/openwichita/ow-help-wanted"
 description = "Web app to show all `help-wanted` issues for Open Wichita"
-git_branch = "master"
 git_url = "git://github.com/openwichita/ow-help-wanted.git"
-last_pushed_within = "over_a_year"
 link_url = "https://help.openwichita.com"
 name = "ow-help-wanted"
+organization_name = "Open Wichita"
 topics = [ "javascript", "node", "react", "serverless" ]
+
+[github]
+archived = false
+created_at = "2017-06-17T14:10:41Z"
+default_branch = "master"
+description = "Web app to show all `help-wanted` issues for Open Wichita"
+disabled = false
+fork = true
+forks_within = 10
+full_name = "openwichita/ow-help-wanted"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "https://help.openwichita.com"
+id = 94_627_744
+language = "JavaScript"
+license = { }
+name = "ow-help-wanted"
+node_id = "MDEwOlJlcG9zaXRvcnk5NDYyNzc0NA=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ "javascript", "node", "react", "serverless" ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 12_169_903
+  login = "openwichita"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjEyMTY5OTAz"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

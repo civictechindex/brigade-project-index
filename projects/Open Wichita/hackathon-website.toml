@@ -1,6 +1,51 @@
 code_url = "https://github.com/openwichita/hackathon-website"
 description = "Website for the yearly Open Wichita Hackathon"
-git_branch = "master"
 git_url = "git://github.com/openwichita/hackathon-website.git"
-last_pushed_within = "over_a_year"
 name = "hackathon-website"
+organization_name = "Open Wichita"
+
+[github]
+archived = false
+created_at = "2016-01-27T16:49:09Z"
+default_branch = "master"
+description = "Website for the yearly Open Wichita Hackathon"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "openwichita/hackathon-website"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 50_522_143
+language = "CSS"
+name = "hackathon-website"
+node_id = "MDEwOlJlcG9zaXRvcnk1MDUyMjE0Mw=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "other"
+  name = "Other"
+  node_id = "MDc6TGljZW5zZTA="
+  spdx_id = "NOASSERTION"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 12_169_903
+  login = "openwichita"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjEyMTY5OTAz"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

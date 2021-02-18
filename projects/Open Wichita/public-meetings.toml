@@ -1,7 +1,47 @@
 code_url = "https://github.com/openwichita/public-meetings"
 description = "A service to show all upcoming available public meetings for the City of Wichita."
-git_branch = "master"
 git_url = "git://github.com/openwichita/public-meetings.git"
-last_pushed_within = "over_a_year"
 name = "public-meetings"
+organization_name = "Open Wichita"
 topics = [ "css", "design", "elixir", "erlang", "html", "phoenix" ]
+
+[github]
+archived = false
+created_at = "2016-11-15T02:56:15Z"
+default_branch = "master"
+description = "A service to show all upcoming available public meetings for the City of Wichita."
+disabled = false
+fork = false
+forks_within = 10
+full_name = "openwichita/public-meetings"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 73_770_127
+language = "Elixir"
+license = { }
+name = "public-meetings"
+node_id = "MDEwOlJlcG9zaXRvcnk3Mzc3MDEyNw=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ "css", "design", "elixir", "erlang", "html", "phoenix" ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 12_169_903
+  login = "openwichita"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjEyMTY5OTAz"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

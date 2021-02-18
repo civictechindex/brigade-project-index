@@ -1,7 +1,52 @@
 code_url = "https://github.com/openwichita/data.gov"
 description = "Data.gov source code and issue tracker"
-git_branch = "master"
 git_url = "git://github.com/openwichita/data.gov.git"
-last_pushed_within = "over_a_year"
 link_url = "http://www.data.gov"
 name = "data.gov"
+organization_name = "Open Wichita"
+
+[github]
+archived = false
+created_at = "2017-03-04T22:24:24Z"
+default_branch = "master"
+description = "Data.gov source code and issue tracker"
+disabled = false
+fork = true
+forks_within = 0
+full_name = "openwichita/data.gov"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://www.data.gov"
+id = 83_928_642
+language = "PHP"
+name = "data.gov"
+node_id = "MDEwOlJlcG9zaXRvcnk4MzkyODY0Mg=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "other"
+  name = "Other"
+  node_id = "MDc6TGljZW5zZTA="
+  spdx_id = "NOASSERTION"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 12_169_903
+  login = "openwichita"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjEyMTY5OTAz"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

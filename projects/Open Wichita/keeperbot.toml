@@ -1,7 +1,47 @@
 code_url = "https://github.com/openwichita/keeperbot"
 description = "A helpful Slack bot for Open Wichita"
-git_branch = "master"
 git_url = "git://github.com/openwichita/keeperbot.git"
-last_pushed_within = "over_a_year"
 name = "keeperbot"
+organization_name = "Open Wichita"
 topics = [ "bot", "chatbot", "javascript", "slack" ]
+
+[github]
+archived = false
+created_at = "2017-07-08T03:14:18Z"
+default_branch = "master"
+description = "A helpful Slack bot for Open Wichita"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "openwichita/keeperbot"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 96_592_781
+language = "CoffeeScript"
+license = { }
+name = "keeperbot"
+node_id = "MDEwOlJlcG9zaXRvcnk5NjU5Mjc4MQ=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ "bot", "chatbot", "javascript", "slack" ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 12_169_903
+  login = "openwichita"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjEyMTY5OTAz"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

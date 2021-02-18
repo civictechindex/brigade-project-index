@@ -1,6 +1,51 @@
 code_url = "https://github.com/openwichita/ohana-sms"
 description = "A Rails and Twilio app to find human services via SMS"
-git_branch = "master"
 git_url = "git://github.com/openwichita/ohana-sms.git"
-last_pushed_within = "over_a_year"
 name = "ohana-sms"
+organization_name = "Open Wichita"
+
+[github]
+archived = false
+created_at = "2016-07-07T23:34:19Z"
+default_branch = "master"
+description = "A Rails and Twilio app to find human services via SMS"
+disabled = false
+fork = true
+forks_within = 10
+full_name = "openwichita/ohana-sms"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 62_844_541
+language = "Ruby"
+name = "ohana-sms"
+node_id = "MDEwOlJlcG9zaXRvcnk2Mjg0NDU0MQ=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "other"
+  name = "Other"
+  node_id = "MDc6TGljZW5zZTA="
+  spdx_id = "NOASSERTION"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 12_169_903
+  login = "openwichita"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjEyMTY5OTAz"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

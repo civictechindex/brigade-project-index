@@ -1,6 +1,46 @@
 code_url = "https://github.com/openwichita/openwichita.org"
 description = "Homepage for Open Wichita"
-git_branch = "master"
 git_url = "git://github.com/openwichita/openwichita.org.git"
-last_pushed_within = "over_a_year"
 name = "openwichita.org"
+organization_name = "Open Wichita"
+
+[github]
+archived = false
+created_at = "2015-05-14T21:37:34Z"
+default_branch = "master"
+description = "Homepage for Open Wichita"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "openwichita/openwichita.org"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 35_638_322
+language = "CSS"
+license = { }
+name = "openwichita.org"
+node_id = "MDEwOlJlcG9zaXRvcnkzNTYzODMyMg=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 12_169_903
+  login = "openwichita"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjEyMTY5OTAz"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

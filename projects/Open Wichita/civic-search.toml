@@ -1,6 +1,46 @@
 code_url = "https://github.com/openwichita/civic-search"
 description = "Node.js wrapper for the Google Civic Information API."
-git_branch = "master"
 git_url = "git://github.com/openwichita/civic-search.git"
-last_pushed_within = "over_a_year"
 name = "civic-search"
+organization_name = "Open Wichita"
+
+[github]
+archived = false
+created_at = "2015-11-25T22:14:34Z"
+default_branch = "master"
+description = "Node.js wrapper for the Google Civic Information API."
+disabled = false
+fork = false
+forks_within = 0
+full_name = "openwichita/civic-search"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 46_890_496
+language = "JavaScript"
+license = { }
+name = "civic-search"
+node_id = "MDEwOlJlcG9zaXRvcnk0Njg5MDQ5Ng=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 12_169_903
+  login = "openwichita"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjEyMTY5OTAz"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
