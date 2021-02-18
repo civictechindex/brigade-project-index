@@ -1,7 +1,52 @@
 code_url = "https://github.com/Code4Newark/open-data-plans"
 description = "Drafting plans to work with the City of Newark's open data sets"
-git_branch = "master"
 git_url = "git://github.com/Code4Newark/open-data-plans.git"
-last_pushed_within = "over_a_year"
 link_url = "http://data.ci.newark.nj.us/"
 name = "open-data-plans"
+organization_name = "Code for Newark"
+
+[github]
+archived = false
+created_at = "2016-02-04T12:56:03Z"
+default_branch = "master"
+description = "Drafting plans to work with the City of Newark's open data sets"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "Code4Newark/open-data-plans"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://data.ci.newark.nj.us/"
+id = 51_075_888
+language = { }
+name = "open-data-plans"
+node_id = "MDEwOlJlcG9zaXRvcnk1MTA3NTg4OA=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 17_065_281
+  login = "Code4Newark"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE3MDY1Mjgx"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

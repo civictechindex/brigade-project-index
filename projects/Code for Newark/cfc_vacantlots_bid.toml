@@ -1,5 +1,50 @@
 code_url = "https://github.com/Code4Newark/cfc_vacantlots_bid"
-git_branch = "master"
 git_url = "git://github.com/Code4Newark/cfc_vacantlots_bid.git"
-last_pushed_within = "over_a_year"
 name = "cfc_vacantlots_bid"
+organization_name = "Code for Newark"
+
+[github]
+archived = false
+created_at = "2017-11-26T20:33:02Z"
+default_branch = "master"
+description = { }
+disabled = false
+fork = true
+forks_within = 10
+full_name = "Code4Newark/cfc_vacantlots_bid"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 112_114_506
+language = "JavaScript"
+name = "cfc_vacantlots_bid"
+node_id = "MDEwOlJlcG9zaXRvcnkxMTIxMTQ1MDY="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "other"
+  name = "Other"
+  node_id = "MDc6TGljZW5zZTA="
+  spdx_id = "NOASSERTION"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 17_065_281
+  login = "Code4Newark"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE3MDY1Mjgx"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

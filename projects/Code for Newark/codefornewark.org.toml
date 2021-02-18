@@ -1,7 +1,52 @@
 code_url = "https://github.com/Code4Newark/codefornewark.org"
 description = "New Jekyll site for Code for Newark based on Open Savannah brigade site"
-git_branch = "master"
 git_url = "git://github.com/Code4Newark/codefornewark.org.git"
-last_pushed_within = "over_a_year"
 link_url = "https://codefornewark.org"
 name = "codefornewark.org"
+organization_name = "Code for Newark"
+
+[github]
+archived = false
+created_at = "2017-11-19T21:38:53Z"
+default_branch = "master"
+description = "New Jekyll site for Code for Newark based on Open Savannah brigade site"
+disabled = false
+fork = true
+forks_within = 10
+full_name = "Code4Newark/codefornewark.org"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "https://codefornewark.org"
+id = 111_334_218
+language = "JavaScript"
+name = "codefornewark.org"
+node_id = "MDEwOlJlcG9zaXRvcnkxMTEzMzQyMTg="
+open_issues_within = 100
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 17_065_281
+  login = "Code4Newark"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE3MDY1Mjgx"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
