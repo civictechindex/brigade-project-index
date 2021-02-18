@@ -1,10 +1,9 @@
 code_url = "https://github.com/CodeForAfrica/TenderBlackList.WB"
 description = "A simple search widget to search through World Bank's listing of Ineligible Firms & Individuals. Accessible at https://tenderblacklist-wb.codeforafrica.org/"
-git_branch = "master"
 git_url = "git://github.com/CodeForAfrica/TenderBlackList.WB.git"
-last_pushed_within = "over_a_year"
 link_url = "https://tenderblacklist-wb.codeforafrica.org/"
 name = "TenderBlackList.WB"
+organization_name = "Code for Ghana"
 topics = [
   "blacklist",
   "debarred",
@@ -13,3 +12,56 @@ topics = [
   "tenders",
   "worldbank"
 ]
+
+[github]
+archived = false
+created_at = "2019-05-15T12:34:40Z"
+default_branch = "master"
+description = "A simple search widget to search through World Bank's listing of Ineligible Firms & Individuals. Accessible at https://tenderblacklist-wb.codeforafrica.org/"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "CodeForAfrica/TenderBlackList.WB"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "https://tenderblacklist-wb.codeforafrica.org/"
+id = 186_822_855
+language = "HTML"
+name = "TenderBlackList.WB"
+node_id = "MDEwOlJlcG9zaXRvcnkxODY4MjI4NTU="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [
+  "blacklist",
+  "debarred",
+  "debarred-firms",
+  "procurement",
+  "tenders",
+  "worldbank"
+]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "gpl-3.0"
+  name = "GNU General Public License v3.0"
+  node_id = "MDc6TGljZW5zZTk="
+  spdx_id = "GPL-3.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_786_364
+  login = "CodeForAfrica"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI3ODYzNjQ="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

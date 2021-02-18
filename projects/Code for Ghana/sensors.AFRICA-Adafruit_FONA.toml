@@ -1,7 +1,47 @@
 code_url = "https://github.com/CodeForAfrica/sensors.AFRICA-Adafruit_FONA"
 description = "Arduino library for the Adafruit FONA"
-git_branch = "master"
 git_url = "git://github.com/CodeForAfrica/sensors.AFRICA-Adafruit_FONA.git"
-last_pushed_within = "over_a_year"
 link_url = "https://www.adafruit.com/products/1946"
 name = "sensors.AFRICA-Adafruit_FONA"
+organization_name = "Code for Ghana"
+
+[github]
+archived = false
+created_at = "2017-12-12T15:14:37Z"
+default_branch = "master"
+description = "Arduino library for the Adafruit FONA"
+disabled = false
+fork = true
+forks_within = 10
+full_name = "CodeForAfrica/sensors.AFRICA-Adafruit_FONA"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "https://www.adafruit.com/products/1946"
+id = 114_005_197
+language = "C++"
+license = { }
+name = "sensors.AFRICA-Adafruit_FONA"
+node_id = "MDEwOlJlcG9zaXRvcnkxMTQwMDUxOTc="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_786_364
+  login = "CodeForAfrica"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI3ODYzNjQ="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

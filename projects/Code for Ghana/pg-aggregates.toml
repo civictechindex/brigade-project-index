@@ -1,6 +1,46 @@
 code_url = "https://github.com/CodeForAfrica/pg-aggregates"
 description = "Aggregates for PostGraphile Relay connections"
-git_branch = "master"
 git_url = "git://github.com/CodeForAfrica/pg-aggregates.git"
-last_pushed_within = "over_a_year"
 name = "pg-aggregates"
+organization_name = "Code for Ghana"
+
+[github]
+archived = false
+created_at = "2019-08-13T07:58:08Z"
+default_branch = "master"
+description = "Aggregates for PostGraphile Relay connections"
+disabled = false
+fork = true
+forks_within = 0
+full_name = "CodeForAfrica/pg-aggregates"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 202_093_938
+language = "TypeScript"
+license = { }
+name = "pg-aggregates"
+node_id = "MDEwOlJlcG9zaXRvcnkyMDIwOTM5Mzg="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_786_364
+  login = "CodeForAfrica"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI3ODYzNjQ="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

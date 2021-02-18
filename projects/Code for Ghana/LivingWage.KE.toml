@@ -1,17 +1,16 @@
 code_url = "https://github.com/CodeForAfrica/LivingWage.KE"
 description = "A calculator which takes inputs from users on how much they pay or think they should pay a domestic worker and tells them more about what that amount means to the lives of a domestic worker's household. Accessible at https://livingwage.pd.co.ke/"
-git_branch = "gh-pages"
 git_url = "git://github.com/CodeForAfrica/LivingWage.KE.git"
-last_pushed_within = "over_a_year"
 link_url = "https://livingwage.pd.co.ke/"
 name = "LivingWage.KE"
+organization_name = "Code for Ghana"
 topics = [
   "africa",
   "ancir",
   "calculator",
   "calorie-calculator",
-  "data-journalism",
   "datadrivenjournalism",
+  "data-journalism",
   "domestic-workers",
   "education",
   "health",
@@ -21,3 +20,64 @@ topics = [
   "people-daily",
   "sdgs"
 ]
+
+[github]
+archived = false
+created_at = "2019-02-11T09:19:39Z"
+default_branch = "gh-pages"
+description = "A calculator which takes inputs from users on how much they pay or think they should pay a domestic worker and tells them more about what that amount means to the lives of a domestic worker's household. Accessible at https://livingwage.pd.co.ke/"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "CodeForAfrica/LivingWage.KE"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "https://livingwage.pd.co.ke/"
+id = 170_100_604
+language = "HTML"
+name = "LivingWage.KE"
+node_id = "MDEwOlJlcG9zaXRvcnkxNzAxMDA2MDQ="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [
+  "africa",
+  "ancir",
+  "calculator",
+  "calorie-calculator",
+  "datadrivenjournalism",
+  "data-journalism",
+  "domestic-workers",
+  "education",
+  "health",
+  "ilab",
+  "kenya",
+  "living-wage",
+  "people-daily",
+  "sdgs"
+]
+updated_within = "year"
+watchers_within = 10
+
+  [github.license]
+  key = "apache-2.0"
+  name = "Apache License 2.0"
+  node_id = "MDc6TGljZW5zZTI="
+  spdx_id = "Apache-2.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_786_364
+  login = "CodeForAfrica"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI3ODYzNjQ="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

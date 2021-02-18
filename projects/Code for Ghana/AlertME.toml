@@ -1,10 +1,9 @@
 code_url = "https://github.com/CodeForAfrica/AlertME"
 description = "#AlertME is a geo-aware web platform that is working to make it easier for everyone to get invloved in decisions made about the environment around them. Accessible at https://greenalert.oxpeckers.org/"
-git_branch = "master"
 git_url = "git://github.com/CodeForAfrica/AlertME.git"
-last_pushed_within = "over_a_year"
 link_url = "https://greenalert.oxpeckers.org/"
 name = "AlertME"
+organization_name = "Code for Ghana"
 topics = [
   "africa",
   "alertme",
@@ -17,3 +16,60 @@ topics = [
   "south-africa",
   "yamayama"
 ]
+
+[github]
+archived = false
+created_at = "2014-09-26T00:12:42Z"
+default_branch = "master"
+description = "#AlertME is a geo-aware web platform that is working to make it easier for everyone to get invloved in decisions made about the environment around them. Accessible at https://greenalert.oxpeckers.org/"
+disabled = false
+fork = false
+forks_within = 100
+full_name = "CodeForAfrica/AlertME"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "https://greenalert.oxpeckers.org/"
+id = 24_479_769
+language = "PHP"
+name = "AlertME"
+node_id = "MDEwOlJlcG9zaXRvcnkyNDQ3OTc2OQ=="
+open_issues_within = 100
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [
+  "africa",
+  "alertme",
+  "alerts",
+  "enviro-alerts",
+  "environment",
+  "greenalert",
+  "kenya",
+  "nigeria",
+  "south-africa",
+  "yamayama"
+]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "gpl-2.0"
+  name = "GNU General Public License v2.0"
+  node_id = "MDc6TGljZW5zZTg="
+  spdx_id = "GPL-2.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_786_364
+  login = "CodeForAfrica"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI3ODYzNjQ="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

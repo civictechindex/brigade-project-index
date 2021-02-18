@@ -1,10 +1,9 @@
 code_url = "https://github.com/CodeForAfrica/CodeForAfrica.org"
 description = "The @CodeForAfrica landing page. Built with Jekyll and hosted on Github Pages. Accessible at https://codeforafrica.org/"
-git_branch = "master"
 git_url = "git://github.com/CodeForAfrica/CodeForAfrica.org.git"
-last_pushed_within = "over_a_year"
 link_url = "https://codeforafrica.org/"
 name = "CodeForAfrica.org"
+organization_name = "Code for Ghana"
 topics = [
   "africa",
   "cameroon",
@@ -21,3 +20,64 @@ topics = [
   "tanzania",
   "uganda"
 ]
+
+[github]
+archived = false
+created_at = "2012-11-13T11:26:34Z"
+default_branch = "master"
+description = "The @CodeForAfrica landing page. Built with Jekyll and hosted on Github Pages. Accessible at https://codeforafrica.org/"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "CodeForAfrica/CodeForAfrica.org"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "https://codeforafrica.org/"
+id = 6_669_597
+language = "HTML"
+name = "CodeForAfrica.org"
+node_id = "MDEwOlJlcG9zaXRvcnk2NjY5NTk3"
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 100
+topics = [
+  "africa",
+  "cameroon",
+  "civic-tech",
+  "codeforafrica",
+  "github-page",
+  "github-pages",
+  "jekyll",
+  "kenya",
+  "nigeria",
+  "senegal",
+  "sierra-leone",
+  "south-africa",
+  "tanzania",
+  "uganda"
+]
+updated_within = "year"
+watchers_within = 100
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_786_364
+  login = "CodeForAfrica"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI3ODYzNjQ="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

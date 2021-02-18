@@ -1,10 +1,9 @@
 code_url = "https://github.com/CodeForAfrica/sensors.AFRICA-api"
 description = "The sensors.AFRICA API receiving, storing, and processing data received from sensors across the continentent. Accessible at https://api.sensors.africa/"
-git_branch = "master"
 git_url = "git://github.com/CodeForAfrica/sensors.AFRICA-api.git"
-last_pushed_within = "month"
 link_url = "https://api.sensors.africa/"
 name = "sensors.AFRICA-api"
+organization_name = "Code for Ghana"
 topics = [
   "africa",
   "air-quality",
@@ -18,3 +17,56 @@ topics = [
   "sensors-api",
   "sensors-data"
 ]
+
+[github]
+archived = false
+created_at = "2019-01-10T11:45:07Z"
+default_branch = "master"
+description = "The sensors.AFRICA API receiving, storing, and processing data received from sensors across the continentent. Accessible at https://api.sensors.africa/"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "CodeForAfrica/sensors.AFRICA-api"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = false
+has_wiki = true
+homepage = "https://api.sensors.africa/"
+id = 165_050_062
+language = "Python"
+license = { }
+name = "sensors.AFRICA-api"
+node_id = "MDEwOlJlcG9zaXRvcnkxNjUwNTAwNjI="
+open_issues_within = 10
+private = false
+pushed_within = "week"
+stargazers_within = 100
+topics = [
+  "africa",
+  "air-quality",
+  "air-quality-data",
+  "api-rest",
+  "code-for-africa",
+  "django-rest-framework",
+  "open-data",
+  "sensor",
+  "sensors-africa",
+  "sensors-api",
+  "sensors-data"
+]
+updated_within = "week"
+watchers_within = 100
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_786_364
+  login = "CodeForAfrica"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI3ODYzNjQ="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

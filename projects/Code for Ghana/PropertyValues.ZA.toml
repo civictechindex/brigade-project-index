@@ -1,10 +1,9 @@
 code_url = "https://github.com/CodeForAfrica/PropertyValues.ZA"
 description = "A simple search tools / box driven by a single spreadsheet that allows users to check the official property value, as recorded by the municipality, for any properties in their town. Accessible at https://propertyvalues-za.codeforafrica.org/"
-git_branch = "master"
 git_url = "git://github.com/CodeForAfrica/PropertyValues.ZA.git"
-last_pushed_within = "over_a_year"
 link_url = "https://propertyvalues-za.codeforafrica.org/"
 name = "PropertyValues.ZA"
+organization_name = "Code for Ghana"
 topics = [
   "africa",
   "civic-tech",
@@ -15,3 +14,58 @@ topics = [
   "property-value",
   "south-africa"
 ]
+
+[github]
+archived = false
+created_at = "2017-04-02T16:31:55Z"
+default_branch = "master"
+description = "A simple search tools / box driven by a single spreadsheet that allows users to check the official property value, as recorded by the municipality, for any properties in their town. Accessible at https://propertyvalues-za.codeforafrica.org/"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "CodeForAfrica/PropertyValues.ZA"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "https://propertyvalues-za.codeforafrica.org/"
+id = 86_999_532
+language = "HTML"
+name = "PropertyValues.ZA"
+node_id = "MDEwOlJlcG9zaXRvcnk4Njk5OTUzMg=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [
+  "africa",
+  "civic-tech",
+  "code-for-africa",
+  "farms",
+  "lands",
+  "properties",
+  "property-value",
+  "south-africa"
+]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "gpl-3.0"
+  name = "GNU General Public License v3.0"
+  node_id = "MDc6TGljZW5zZTk="
+  spdx_id = "GPL-3.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_786_364
+  login = "CodeForAfrica"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI3ODYzNjQ="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

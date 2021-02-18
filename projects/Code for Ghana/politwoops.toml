@@ -1,10 +1,9 @@
 code_url = "https://github.com/CodeForAfrica/politwoops"
 description = "Politwoops tracks deleted tweets by public officials, including people currently in office and candidates for office. Accessible at https://politwoops.codeforkenya.org"
-git_branch = "master"
 git_url = "git://github.com/CodeForAfrica/politwoops.git"
-last_pushed_within = "over_a_year"
 link_url = "https://politwoops.codeforkenya.org"
 name = "politwoops"
+organization_name = "Code for Ghana"
 topics = [
   "africa",
   "bot",
@@ -19,3 +18,62 @@ topics = [
   "tweets",
   "twitter"
 ]
+
+[github]
+archived = false
+created_at = "2017-05-11T10:31:34Z"
+default_branch = "master"
+description = "Politwoops tracks deleted tweets by public officials, including people currently in office and candidates for office. Accessible at https://politwoops.codeforkenya.org"
+disabled = false
+fork = true
+forks_within = 10
+full_name = "CodeForAfrica/politwoops"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "https://politwoops.codeforkenya.org"
+id = 90_967_528
+language = "CSS"
+name = "politwoops"
+node_id = "MDEwOlJlcG9zaXRvcnk5MDk2NzUyOA=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [
+  "africa",
+  "bot",
+  "civic-tech",
+  "civic-watchdog",
+  "code-for-africa",
+  "deleted-tweets",
+  "kenya",
+  "politicians",
+  "politwoops",
+  "track-politicians",
+  "tweets",
+  "twitter"
+]
+updated_within = "year"
+watchers_within = 10
+
+  [github.license]
+  key = "other"
+  name = "Other"
+  node_id = "MDc6TGljZW5zZTA="
+  spdx_id = "NOASSERTION"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_786_364
+  login = "CodeForAfrica"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI3ODYzNjQ="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

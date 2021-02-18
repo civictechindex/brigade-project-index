@@ -1,7 +1,47 @@
 code_url = "https://github.com/CodeForAfrica/HEAD"
 description = "A list of everything that *could* go in the head of your document"
-git_branch = "master"
 git_url = "git://github.com/CodeForAfrica/HEAD.git"
-last_pushed_within = "over_a_year"
 link_url = "https://gethead.info"
 name = "HEAD"
+organization_name = "Code for Ghana"
+
+[github]
+archived = false
+created_at = "2018-04-29T06:48:54Z"
+default_branch = "master"
+description = "A list of everything that *could* go in the head of your document"
+disabled = false
+fork = true
+forks_within = 0
+full_name = "CodeForAfrica/HEAD"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "https://gethead.info"
+id = 131_472_511
+language = { }
+license = { }
+name = "HEAD"
+node_id = "MDEwOlJlcG9zaXRvcnkxMzE0NzI1MTE="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_786_364
+  login = "CodeForAfrica"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI3ODYzNjQ="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

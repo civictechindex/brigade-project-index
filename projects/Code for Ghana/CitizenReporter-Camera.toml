@@ -1,6 +1,51 @@
 code_url = "https://github.com/CodeForAfrica/CitizenReporter-Camera"
 description = "This is a custom camera app that enables a user to change scenes while taking pictures."
-git_branch = "master"
 git_url = "git://github.com/CodeForAfrica/CitizenReporter-Camera.git"
-last_pushed_within = "over_a_year"
 name = "CitizenReporter-Camera"
+organization_name = "Code for Ghana"
+
+[github]
+archived = false
+created_at = "2017-09-17T07:46:35Z"
+default_branch = "master"
+description = "This is a custom camera app that enables a user to change scenes while taking pictures."
+disabled = false
+fork = true
+forks_within = 10
+full_name = "CodeForAfrica/CitizenReporter-Camera"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 103_811_962
+language = "Java"
+name = "CitizenReporter-Camera"
+node_id = "MDEwOlJlcG9zaXRvcnkxMDM4MTE5NjI="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_786_364
+  login = "CodeForAfrica"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI3ODYzNjQ="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

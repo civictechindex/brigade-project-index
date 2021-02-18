@@ -1,13 +1,64 @@
 code_url = "https://github.com/CodeForAfrica/ckanext-embed"
 description = "Making for easy, beautiful embeds of organizations, groups, and datasets from CKAN."
-git_branch = "master"
 git_url = "git://github.com/CodeForAfrica/ckanext-embed.git"
-last_pushed_within = "over_a_year"
 name = "ckanext-embed"
+organization_name = "Code for Ghana"
 topics = [
   "ckan",
-  "ckan-extension",
   "ckanext",
+  "ckan-extension",
   "ckanext-openafrica",
   "embed"
 ]
+
+[github]
+archived = false
+created_at = "2017-10-18T11:28:44Z"
+default_branch = "master"
+description = "Making for easy, beautiful embeds of organizations, groups, and datasets from CKAN."
+disabled = false
+fork = false
+forks_within = 10
+full_name = "CodeForAfrica/ckanext-embed"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 107_398_721
+language = { }
+name = "ckanext-embed"
+node_id = "MDEwOlJlcG9zaXRvcnkxMDczOTg3MjE="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [
+  "ckan",
+  "ckanext",
+  "ckan-extension",
+  "ckanext-openafrica",
+  "embed"
+]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_786_364
+  login = "CodeForAfrica"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI3ODYzNjQ="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

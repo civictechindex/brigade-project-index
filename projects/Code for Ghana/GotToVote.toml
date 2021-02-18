@@ -1,10 +1,9 @@
 code_url = "https://github.com/CodeForAfrica/GotToVote"
 description = "GotToVote is a toolkit of simple web and SMS services that help citizens get to the ballot box informed and ready to vote. Kenya version accessible at https://kenya.gottovote.cc"
-git_branch = "master"
 git_url = "git://github.com/CodeForAfrica/GotToVote.git"
-last_pushed_within = "over_a_year"
 link_url = "https://kenya.gottovote.cc"
 name = "GotToVote"
+organization_name = "Code for Ghana"
 topics = [
   "africa",
   "elections",
@@ -20,3 +19,63 @@ topics = [
   "zambia",
   "zimbabwe"
 ]
+
+[github]
+archived = false
+created_at = "2012-11-20T10:50:01Z"
+default_branch = "master"
+description = "GotToVote is a toolkit of simple web and SMS services that help citizens get to the ballot box informed and ready to vote. Kenya version accessible at https://kenya.gottovote.cc"
+disabled = false
+fork = false
+forks_within = 100
+full_name = "CodeForAfrica/GotToVote"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "https://kenya.gottovote.cc"
+id = 6_776_335
+language = "JavaScript"
+name = "GotToVote"
+node_id = "MDEwOlJlcG9zaXRvcnk2Nzc2MzM1"
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 1_000
+topics = [
+  "africa",
+  "elections",
+  "elections-toolkit",
+  "ghana",
+  "github-pages",
+  "gottovote",
+  "jekyll",
+  "kenya",
+  "malawi",
+  "registration-centres",
+  "vote",
+  "zambia",
+  "zimbabwe"
+]
+updated_within = "month"
+watchers_within = 1_000
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_786_364
+  login = "CodeForAfrica"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI3ODYzNjQ="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

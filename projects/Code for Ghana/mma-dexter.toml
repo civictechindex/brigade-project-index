@@ -1,6 +1,51 @@
 code_url = "https://github.com/CodeForAfrica/mma-dexter"
 description = "Dexter document monitor for MMA"
-git_branch = "master"
 git_url = "git://github.com/CodeForAfrica/mma-dexter.git"
-last_pushed_within = "over_a_year"
 name = "mma-dexter"
+organization_name = "Code for Ghana"
+
+[github]
+archived = false
+created_at = "2019-05-28T05:48:29Z"
+default_branch = "master"
+description = "Dexter document monitor for MMA"
+disabled = false
+fork = true
+forks_within = 0
+full_name = "CodeForAfrica/mma-dexter"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 188_962_142
+language = "Python"
+name = "mma-dexter"
+node_id = "MDEwOlJlcG9zaXRvcnkxODg5NjIxNDI="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "apache-2.0"
+  name = "Apache License 2.0"
+  node_id = "MDc6TGljZW5zZTI="
+  spdx_id = "Apache-2.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_786_364
+  login = "CodeForAfrica"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI3ODYzNjQ="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

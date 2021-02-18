@@ -1,7 +1,52 @@
 code_url = "https://github.com/CodeForAfrica/aggregate"
 description = "ODK Aggregate is a Java server that stores, analyzes, and presents survey data collected using ODK Collect. Contribute and make the world a better place! ✨🗄✨"
-git_branch = "master"
 git_url = "git://github.com/CodeForAfrica/aggregate.git"
-last_pushed_within = "over_a_year"
 link_url = "https://docs.opendatakit.org/aggregate-intro/"
 name = "aggregate"
+organization_name = "Code for Ghana"
+
+[github]
+archived = false
+created_at = "2019-08-29T10:20:20Z"
+default_branch = "master"
+description = "ODK Aggregate is a Java server that stores, analyzes, and presents survey data collected using ODK Collect. Contribute and make the world a better place! ✨🗄✨"
+disabled = false
+fork = true
+forks_within = 0
+full_name = "CodeForAfrica/aggregate"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = false
+homepage = "https://docs.opendatakit.org/aggregate-intro/"
+id = 205_137_312
+language = "Java"
+name = "aggregate"
+node_id = "MDEwOlJlcG9zaXRvcnkyMDUxMzczMTI="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "year"
+watchers_within = 0
+
+  [github.license]
+  key = "apache-2.0"
+  name = "Apache License 2.0"
+  node_id = "MDc6TGljZW5zZTI="
+  spdx_id = "Apache-2.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_786_364
+  login = "CodeForAfrica"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI3ODYzNjQ="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
