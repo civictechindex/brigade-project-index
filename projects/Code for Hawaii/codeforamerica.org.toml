@@ -1,7 +1,52 @@
 code_url = "https://github.com/CodeforHawaii/codeforamerica.org"
 description = "The @codeforamerica website"
-git_branch = "master"
 git_url = "git://github.com/CodeforHawaii/codeforamerica.org.git"
-last_pushed_within = "over_a_year"
 link_url = "http://www.codeforamerica.org"
 name = "codeforamerica.org"
+organization_name = "Code for Hawaii"
+
+[github]
+archived = false
+created_at = "2015-07-14T21:45:47Z"
+default_branch = "master"
+description = "The @codeforamerica website"
+disabled = false
+fork = true
+forks_within = 0
+full_name = "CodeforHawaii/codeforamerica.org"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://www.codeforamerica.org"
+id = 39_101_991
+language = "HTML"
+name = "codeforamerica.org"
+node_id = "MDEwOlJlcG9zaXRvcnkzOTEwMTk5MQ=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "other"
+  name = "Other"
+  node_id = "MDc6TGljZW5zZTA="
+  spdx_id = "NOASSERTION"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_244_195
+  login = "CodeforHawaii"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjYyNDQxOTU="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

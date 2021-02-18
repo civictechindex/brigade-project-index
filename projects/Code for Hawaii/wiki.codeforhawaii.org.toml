@@ -1,6 +1,46 @@
 code_url = "https://github.com/CodeforHawaii/wiki.codeforhawaii.org"
 description = "This is a backup of the wiki @ wiki.codeforhawaii.org"
-git_branch = "master"
 git_url = "git://github.com/CodeforHawaii/wiki.codeforhawaii.org.git"
-last_pushed_within = "week"
 name = "wiki.codeforhawaii.org"
+organization_name = "Code for Hawaii"
+
+[github]
+archived = false
+created_at = "2015-06-15T00:49:44Z"
+default_branch = "master"
+description = "This is a backup of the wiki @ wiki.codeforhawaii.org"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "CodeforHawaii/wiki.codeforhawaii.org"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 37_435_802
+language = { }
+license = { }
+name = "wiki.codeforhawaii.org"
+node_id = "MDEwOlJlcG9zaXRvcnkzNzQzNTgwMg=="
+open_issues_within = 0
+private = false
+pushed_within = "week"
+stargazers_within = 0
+topics = [ ]
+updated_within = "week"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_244_195
+  login = "CodeforHawaii"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjYyNDQxOTU="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

@@ -1,7 +1,52 @@
 code_url = "https://github.com/CodeforHawaii/hawaii-datatables"
 description = "A website to help make Hawaii data more accessible. Uses Datatables to make a Google Spreadsheet more easily searchable on the web."
-git_branch = "master"
 git_url = "git://github.com/CodeforHawaii/hawaii-datatables.git"
-last_pushed_within = "over_a_year"
 link_url = "http://data.codeforhawaii.org"
 name = "hawaii-datatables"
+organization_name = "Code for Hawaii"
+
+[github]
+archived = false
+created_at = "2015-09-16T18:46:25Z"
+default_branch = "master"
+description = "A website to help make Hawaii data more accessible. Uses Datatables to make a Google Spreadsheet more easily searchable on the web."
+disabled = false
+fork = false
+forks_within = 10
+full_name = "CodeforHawaii/hawaii-datatables"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://data.codeforhawaii.org"
+id = 42_606_633
+language = "HTML"
+name = "hawaii-datatables"
+node_id = "MDEwOlJlcG9zaXRvcnk0MjYwNjYzMw=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "year"
+watchers_within = 10
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_244_195
+  login = "CodeforHawaii"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjYyNDQxOTU="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

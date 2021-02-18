@@ -1,6 +1,51 @@
 code_url = "https://github.com/CodeforHawaii/event-planning"
 description = "This repository is going to track all the playbooks, notes, and checklists we used to plan a large event in Honolulu, HI."
-git_branch = "master"
 git_url = "git://github.com/CodeforHawaii/event-planning.git"
-last_pushed_within = "over_a_year"
 name = "event-planning"
+organization_name = "Code for Hawaii"
+
+[github]
+archived = false
+created_at = "2015-12-03T19:48:16Z"
+default_branch = "master"
+description = "This repository is going to track all the playbooks, notes, and checklists we used to plan a large event in Honolulu, HI."
+disabled = false
+fork = false
+forks_within = 0
+full_name = "CodeforHawaii/event-planning"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 47_356_151
+language = { }
+name = "event-planning"
+node_id = "MDEwOlJlcG9zaXRvcnk0NzM1NjE1MQ=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_244_195
+  login = "CodeforHawaii"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjYyNDQxOTU="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

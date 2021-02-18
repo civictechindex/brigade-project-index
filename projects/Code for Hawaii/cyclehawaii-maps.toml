@@ -1,7 +1,52 @@
 code_url = "https://github.com/CodeforHawaii/cyclehawaii-maps"
 description = "Web page for viewing map tiles of uploaded CyclePhilly trips"
-git_branch = "master"
 git_url = "git://github.com/CodeforHawaii/cyclehawaii-maps.git"
-last_pushed_within = "over_a_year"
 link_url = "http://cfabrigadephiladelphia.github.io/cyclephilly-maps/"
 name = "cyclehawaii-maps"
+organization_name = "Code for Hawaii"
+
+[github]
+archived = false
+created_at = "2015-06-06T21:46:51Z"
+default_branch = "master"
+description = "Web page for viewing map tiles of uploaded CyclePhilly trips"
+disabled = false
+fork = true
+forks_within = 0
+full_name = "CodeforHawaii/cyclehawaii-maps"
+has_downloads = true
+has_issues = false
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "http://cfabrigadephiladelphia.github.io/cyclephilly-maps/"
+id = 36_996_173
+language = "HTML"
+name = "cyclehawaii-maps"
+node_id = "MDEwOlJlcG9zaXRvcnkzNjk5NjE3Mw=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "lgpl-3.0"
+  name = "GNU Lesser General Public License v3.0"
+  node_id = "MDc6TGljZW5zZTEy"
+  spdx_id = "LGPL-3.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_244_195
+  login = "CodeforHawaii"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjYyNDQxOTU="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

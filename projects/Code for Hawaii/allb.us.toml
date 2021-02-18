@@ -1,6 +1,46 @@
 code_url = "https://github.com/CodeforHawaii/allb.us"
 description = "Just a tiny bus app that's finally being open sourced. Come check us out @ http://allb.us "
-git_branch = "master"
 git_url = "git://github.com/CodeforHawaii/allb.us.git"
-last_pushed_within = "over_a_year"
 name = "allb.us"
+organization_name = "Code for Hawaii"
+
+[github]
+archived = false
+created_at = "2015-08-24T07:36:05Z"
+default_branch = "master"
+description = "Just a tiny bus app that's finally being open sourced. Come check us out @ http://allb.us "
+disabled = false
+fork = false
+forks_within = 10
+full_name = "CodeforHawaii/allb.us"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 41_289_114
+language = "JavaScript"
+license = { }
+name = "allb.us"
+node_id = "MDEwOlJlcG9zaXRvcnk0MTI4OTExNA=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_244_195
+  login = "CodeforHawaii"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjYyNDQxOTU="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

@@ -1,7 +1,52 @@
 code_url = "https://github.com/CodeforHawaii/uipa_org"
 description = "Managing all the changes from the original froide installation for uipa.org"
-git_branch = "master"
 git_url = "git://github.com/CodeforHawaii/uipa_org.git"
-last_pushed_within = "over_a_year"
 link_url = "http://uipa.org"
 name = "uipa_org"
+organization_name = "Code for Hawaii"
+
+[github]
+archived = false
+created_at = "2015-09-14T19:53:20Z"
+default_branch = "master"
+description = "Managing all the changes from the original froide installation for uipa.org"
+disabled = false
+fork = true
+forks_within = 10
+full_name = "CodeforHawaii/uipa_org"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://uipa.org"
+id = 42_473_373
+language = "HTML"
+name = "uipa_org"
+node_id = "MDEwOlJlcG9zaXRvcnk0MjQ3MzM3Mw=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_244_195
+  login = "CodeforHawaii"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjYyNDQxOTU="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

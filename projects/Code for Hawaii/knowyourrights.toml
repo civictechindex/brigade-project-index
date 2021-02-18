@@ -1,6 +1,51 @@
 code_url = "https://github.com/CodeforHawaii/knowyourrights"
 description = "Know Your Rights page for ndoch2019"
-git_branch = "master"
 git_url = "git://github.com/CodeforHawaii/knowyourrights.git"
-last_pushed_within = "over_a_year"
 name = "knowyourrights"
+organization_name = "Code for Hawaii"
+
+[github]
+archived = false
+created_at = "2019-09-24T05:16:12Z"
+default_branch = "master"
+description = "Know Your Rights page for ndoch2019"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "CodeforHawaii/knowyourrights"
+has_downloads = true
+has_issues = false
+has_pages = true
+has_projects = false
+has_wiki = true
+homepage = { }
+id = 210_517_432
+language = { }
+name = "knowyourrights"
+node_id = "MDEwOlJlcG9zaXRvcnkyMTA1MTc0MzI="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "apache-2.0"
+  name = "Apache License 2.0"
+  node_id = "MDc6TGljZW5zZTI="
+  spdx_id = "Apache-2.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_244_195
+  login = "CodeforHawaii"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjYyNDQxOTU="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

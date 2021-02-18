@@ -1,6 +1,46 @@
 code_url = "https://github.com/CodeforHawaii/hoohuli"
 description = "Issues List and Process documentation for the Hoohuli.org website"
-git_branch = "master"
 git_url = "git://github.com/CodeforHawaii/hoohuli.git"
-last_pushed_within = "year"
 name = "hoohuli"
+organization_name = "Code for Hawaii"
+
+[github]
+archived = false
+created_at = "2020-07-22T07:36:07Z"
+default_branch = "master"
+description = "Issues List and Process documentation for the Hoohuli.org website"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "CodeforHawaii/hoohuli"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 281_608_759
+language = { }
+license = { }
+name = "hoohuli"
+node_id = "MDEwOlJlcG9zaXRvcnkyODE2MDg3NTk="
+open_issues_within = 10
+private = false
+pushed_within = "year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_244_195
+  login = "CodeforHawaii"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjYyNDQxOTU="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

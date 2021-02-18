@@ -1,6 +1,46 @@
 code_url = "https://github.com/CodeforHawaii/resilienthawaii.org-charts"
 description = "Just a small repository to start charting things (will figure out what to do with them at some point) XD"
-git_branch = "master"
 git_url = "git://github.com/CodeforHawaii/resilienthawaii.org-charts.git"
-last_pushed_within = "year"
 name = "resilienthawaii.org-charts"
+organization_name = "Code for Hawaii"
+
+[github]
+archived = false
+created_at = "2020-04-02T02:55:55Z"
+default_branch = "master"
+description = "Just a small repository to start charting things (will figure out what to do with them at some point) XD"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "CodeforHawaii/resilienthawaii.org-charts"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 252_340_603
+language = "HTML"
+license = { }
+name = "resilienthawaii.org-charts"
+node_id = "MDEwOlJlcG9zaXRvcnkyNTIzNDA2MDM="
+open_issues_within = 0
+private = false
+pushed_within = "year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_244_195
+  login = "CodeforHawaii"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjYyNDQxOTU="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

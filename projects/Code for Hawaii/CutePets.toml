@@ -1,6 +1,46 @@
 code_url = "https://github.com/CodeforHawaii/CutePets"
 description = "Twitter bot that posts adoptable pets in your city."
-git_branch = "master"
 git_url = "git://github.com/CodeforHawaii/CutePets.git"
-last_pushed_within = "over_a_year"
 name = "CutePets"
+organization_name = "Code for Hawaii"
+
+[github]
+archived = false
+created_at = "2015-08-31T08:56:23Z"
+default_branch = "master"
+description = "Twitter bot that posts adoptable pets in your city."
+disabled = false
+fork = true
+forks_within = 0
+full_name = "CodeforHawaii/CutePets"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 41_665_857
+language = "Ruby"
+license = { }
+name = "CutePets"
+node_id = "MDEwOlJlcG9zaXRvcnk0MTY2NTg1Nw=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_244_195
+  login = "CodeforHawaii"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjYyNDQxOTU="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

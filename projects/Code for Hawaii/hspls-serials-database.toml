@@ -1,7 +1,52 @@
 code_url = "https://github.com/CodeforHawaii/hspls-serials-database"
 description = "Search for Hawaii State Public Library"
-git_branch = "master"
 git_url = "git://github.com/CodeforHawaii/hspls-serials-database.git"
-last_pushed_within = "over_a_year"
 link_url = "http://mixxen.github.io/hspls-serials-database/"
 name = "hspls-serials-database"
+organization_name = "Code for Hawaii"
+
+[github]
+archived = false
+created_at = "2016-03-12T05:27:01Z"
+default_branch = "master"
+description = "Search for Hawaii State Public Library"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "CodeforHawaii/hspls-serials-database"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "http://mixxen.github.io/hspls-serials-database/"
+id = 53_715_167
+language = "R"
+name = "hspls-serials-database"
+node_id = "MDEwOlJlcG9zaXRvcnk1MzcxNTE2Nw=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_244_195
+  login = "CodeforHawaii"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjYyNDQxOTU="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

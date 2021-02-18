@@ -1,7 +1,52 @@
 code_url = "https://github.com/CodeforHawaii/cfh.link"
 description = "Code For Hawaii link shortener.  Forked from YOURLS"
-git_branch = "master"
 git_url = "git://github.com/CodeforHawaii/cfh.link.git"
-last_pushed_within = "over_a_year"
 link_url = "http://cfh.link"
 name = "cfh.link"
+organization_name = "Code for Hawaii"
+
+[github]
+archived = false
+created_at = "2015-11-12T22:57:37Z"
+default_branch = "master"
+description = "Code For Hawaii link shortener.  Forked from YOURLS"
+disabled = false
+fork = true
+forks_within = 0
+full_name = "CodeforHawaii/cfh.link"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://cfh.link"
+id = 46_086_097
+language = "PHP"
+name = "cfh.link"
+node_id = "MDEwOlJlcG9zaXRvcnk0NjA4NjA5Nw=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "other"
+  name = "Other"
+  node_id = "MDc6TGljZW5zZTA="
+  spdx_id = "NOASSERTION"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_244_195
+  login = "CodeforHawaii"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjYyNDQxOTU="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
