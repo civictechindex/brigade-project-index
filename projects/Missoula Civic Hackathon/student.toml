@@ -1,6 +1,46 @@
 code_url = "https://github.com/Blue-Sky-Skunkworks/student"
 description = "Home setup for the Missoula Civic Hackathon student."
-git_branch = "master"
 git_url = "git://github.com/Blue-Sky-Skunkworks/student.git"
-last_pushed_within = "over_a_year"
 name = "student"
+organization_name = "Missoula Civic Hackathon"
+
+[github]
+archived = false
+created_at = "2016-03-30T21:36:11Z"
+default_branch = "master"
+description = "Home setup for the Missoula Civic Hackathon student."
+disabled = false
+fork = false
+forks_within = 0
+full_name = "Blue-Sky-Skunkworks/student"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 55_099_518
+language = "Emacs Lisp"
+license = { }
+name = "student"
+node_id = "MDEwOlJlcG9zaXRvcnk1NTA5OTUxOA=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 16_843_891
+  login = "Blue-Sky-Skunkworks"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE2ODQzODkx"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

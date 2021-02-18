@@ -1,6 +1,46 @@
 code_url = "https://github.com/Blue-Sky-Skunkworks/blue-sky-skunkworks.github.io"
 description = "Main page for Blue Sky Skunkworks"
-git_branch = "master"
 git_url = "git://github.com/Blue-Sky-Skunkworks/blue-sky-skunkworks.github.io.git"
-last_pushed_within = "over_a_year"
 name = "blue-sky-skunkworks.github.io"
+organization_name = "Missoula Civic Hackathon"
+
+[github]
+archived = false
+created_at = "2016-03-01T06:17:35Z"
+default_branch = "master"
+description = "Main page for Blue Sky Skunkworks"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "Blue-Sky-Skunkworks/blue-sky-skunkworks.github.io"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 52_853_202
+language = "HTML"
+license = { }
+name = "blue-sky-skunkworks.github.io"
+node_id = "MDEwOlJlcG9zaXRvcnk1Mjg1MzIwMg=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 16_843_891
+  login = "Blue-Sky-Skunkworks"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE2ODQzODkx"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

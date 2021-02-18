@@ -1,6 +1,46 @@
 code_url = "https://github.com/Blue-Sky-Skunkworks/missoula-civic-hackathon-notes"
 description = "Notes, tasks, and logs of the Missoula Civic Hackathon team."
-git_branch = "master"
 git_url = "git://github.com/Blue-Sky-Skunkworks/missoula-civic-hackathon-notes.git"
-last_pushed_within = "over_a_year"
 name = "missoula-civic-hackathon-notes"
+organization_name = "Missoula Civic Hackathon"
+
+[github]
+archived = false
+created_at = "2016-02-20T22:59:50Z"
+default_branch = "master"
+description = "Notes, tasks, and logs of the Missoula Civic Hackathon team."
+disabled = false
+fork = false
+forks_within = 10
+full_name = "Blue-Sky-Skunkworks/missoula-civic-hackathon-notes"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 52_179_891
+language = { }
+license = { }
+name = "missoula-civic-hackathon-notes"
+node_id = "MDEwOlJlcG9zaXRvcnk1MjE3OTg5MQ=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 16_843_891
+  login = "Blue-Sky-Skunkworks"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE2ODQzODkx"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

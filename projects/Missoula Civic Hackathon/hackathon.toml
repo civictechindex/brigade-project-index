@@ -1,6 +1,51 @@
 code_url = "https://github.com/Blue-Sky-Skunkworks/hackathon"
 description = "Website generator for the Missoula Civic Hackathon."
-git_branch = "master"
 git_url = "git://github.com/Blue-Sky-Skunkworks/hackathon.git"
-last_pushed_within = "over_a_year"
 name = "hackathon"
+organization_name = "Missoula Civic Hackathon"
+
+[github]
+archived = false
+created_at = "2016-05-12T18:50:14Z"
+default_branch = "master"
+description = "Website generator for the Missoula Civic Hackathon."
+disabled = false
+fork = false
+forks_within = 10
+full_name = "Blue-Sky-Skunkworks/hackathon"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 58_668_145
+language = "Common Lisp"
+name = "hackathon"
+node_id = "MDEwOlJlcG9zaXRvcnk1ODY2ODE0NQ=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "gpl-3.0"
+  name = "GNU General Public License v3.0"
+  node_id = "MDc6TGljZW5zZTk="
+  spdx_id = "GPL-3.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 16_843_891
+  login = "Blue-Sky-Skunkworks"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE2ODQzODkx"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

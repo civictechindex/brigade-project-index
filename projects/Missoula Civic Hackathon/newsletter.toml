@@ -1,6 +1,46 @@
 code_url = "https://github.com/Blue-Sky-Skunkworks/newsletter"
 description = "The Missoula Civic Hackathon Newsletter."
-git_branch = "master"
 git_url = "git://github.com/Blue-Sky-Skunkworks/newsletter.git"
-last_pushed_within = "over_a_year"
 name = "newsletter"
+organization_name = "Missoula Civic Hackathon"
+
+[github]
+archived = false
+created_at = "2016-06-07T16:29:44Z"
+default_branch = "master"
+description = "The Missoula Civic Hackathon Newsletter."
+disabled = false
+fork = false
+forks_within = 0
+full_name = "Blue-Sky-Skunkworks/newsletter"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 60_629_062
+language = "Assembly"
+license = { }
+name = "newsletter"
+node_id = "MDEwOlJlcG9zaXRvcnk2MDYyOTA2Mg=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 16_843_891
+  login = "Blue-Sky-Skunkworks"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE2ODQzODkx"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

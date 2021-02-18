@@ -1,5 +1,45 @@
 code_url = "https://github.com/Blue-Sky-Skunkworks/msohack_trail_guide"
-git_branch = "gh-pages"
 git_url = "git://github.com/Blue-Sky-Skunkworks/msohack_trail_guide.git"
-last_pushed_within = "over_a_year"
 name = "msohack_trail_guide"
+organization_name = "Missoula Civic Hackathon"
+
+[github]
+archived = false
+created_at = "2016-03-31T15:57:20Z"
+default_branch = "gh-pages"
+description = { }
+disabled = false
+fork = true
+forks_within = 0
+full_name = "Blue-Sky-Skunkworks/msohack_trail_guide"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 55_163_726
+language = "HTML"
+license = { }
+name = "msohack_trail_guide"
+node_id = "MDEwOlJlcG9zaXRvcnk1NTE2MzcyNg=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 16_843_891
+  login = "Blue-Sky-Skunkworks"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE2ODQzODkx"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
