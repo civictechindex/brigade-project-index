@@ -1,7 +1,52 @@
 code_url = "https://github.com/g0v/g0v.io"
 description = "Captive Portal for people inside and around the occupied area in Taiwan"
-git_branch = "gh-pages"
 git_url = "git://github.com/g0v/g0v.io.git"
-last_pushed_within = "over_a_year"
 link_url = "http://g0v.io"
 name = "g0v.io"
+organization_name = "g0v.tw"
+
+[github]
+archived = false
+created_at = "2014-04-02T12:47:13Z"
+default_branch = "gh-pages"
+description = "Captive Portal for people inside and around the occupied area in Taiwan"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "g0v/g0v.io"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = false
+homepage = "http://g0v.io"
+id = 18_366_095
+language = "CSS"
+name = "g0v.io"
+node_id = "MDEwOlJlcG9zaXRvcnkxODM2NjA5NQ=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "cc0-1.0"
+  name = "Creative Commons Zero v1.0 Universal"
+  node_id = "MDc6TGljZW5zZTY="
+  spdx_id = "CC0-1.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_668_086
+  login = "g0v"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI2NjgwODY="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

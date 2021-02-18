@@ -1,6 +1,51 @@
 code_url = "https://github.com/g0v/url-normalizer.js"
 description = "Normalize URL"
-git_branch = "master"
 git_url = "git://github.com/g0v/url-normalizer.js.git"
-last_pushed_within = "over_a_year"
 name = "url-normalizer.js"
+organization_name = "g0v.tw"
+
+[github]
+archived = false
+created_at = "2013-12-25T03:17:21Z"
+default_branch = "master"
+description = "Normalize URL"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "g0v/url-normalizer.js"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 15_428_758
+language = "JavaScript"
+name = "url-normalizer.js"
+node_id = "MDEwOlJlcG9zaXRvcnkxNTQyODc1OA=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_668_086
+  login = "g0v"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI2NjgwODY="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

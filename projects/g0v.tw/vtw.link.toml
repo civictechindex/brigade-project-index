@@ -1,7 +1,52 @@
 code_url = "https://github.com/g0v/vtw.link"
 description = "行政院法規形成文件彙整發佈區"
-git_branch = "gh-pages"
 git_url = "git://github.com/g0v/vtw.link.git"
-last_pushed_within = "over_a_year"
 link_url = "https://g0v.hackpad.com/oWRxOF4ilfx"
 name = "vtw.link"
+organization_name = "g0v.tw"
+
+[github]
+archived = false
+created_at = "2014-12-20T07:26:52Z"
+default_branch = "gh-pages"
+description = "行政院法規形成文件彙整發佈區"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "g0v/vtw.link"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "https://g0v.hackpad.com/oWRxOF4ilfx"
+id = 28_260_311
+language = "JavaScript"
+name = "vtw.link"
+node_id = "MDEwOlJlcG9zaXRvcnkyODI2MDMxMQ=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "cc0-1.0"
+  name = "Creative Commons Zero v1.0 Universal"
+  node_id = "MDc6TGljZW5zZTY="
+  spdx_id = "CC0-1.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_668_086
+  login = "g0v"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI2NjgwODY="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

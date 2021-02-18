@@ -1,7 +1,47 @@
 code_url = "https://github.com/g0v/river-watcher"
 description = "2019 g0v公民科技創新獎助金 大河小溪全民齊督工"
-git_branch = "master"
 git_url = "git://github.com/g0v/river-watcher.git"
-last_pushed_within = "week"
 link_url = "https://river-watcher.bambooculture.tw"
 name = "river-watcher"
+organization_name = "g0v.tw"
+
+[github]
+archived = false
+created_at = "2020-12-24T02:50:18Z"
+default_branch = "master"
+description = "2019 g0v公民科技創新獎助金 大河小溪全民齊督工"
+disabled = false
+fork = true
+forks_within = 0
+full_name = "g0v/river-watcher"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "https://river-watcher.bambooculture.tw"
+id = 324_049_893
+language = { }
+license = { }
+name = "river-watcher"
+node_id = "MDEwOlJlcG9zaXRvcnkzMjQwNDk4OTM="
+open_issues_within = 0
+private = false
+pushed_within = "year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_668_086
+  login = "g0v"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI2NjgwODY="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

@@ -1,5 +1,45 @@
 code_url = "https://github.com/g0v/pirate_feedback_ui_redesign"
-git_branch = "master"
 git_url = "git://github.com/g0v/pirate_feedback_ui_redesign.git"
-last_pushed_within = "over_a_year"
 name = "pirate_feedback_ui_redesign"
+organization_name = "g0v.tw"
+
+[github]
+archived = false
+created_at = "2013-06-26T14:03:58Z"
+default_branch = "master"
+description = { }
+disabled = false
+fork = false
+forks_within = 0
+full_name = "g0v/pirate_feedback_ui_redesign"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 10_969_423
+language = "Ruby"
+license = { }
+name = "pirate_feedback_ui_redesign"
+node_id = "MDEwOlJlcG9zaXRvcnkxMDk2OTQyMw=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_668_086
+  login = "g0v"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI2NjgwODY="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

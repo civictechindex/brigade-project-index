@@ -1,6 +1,46 @@
 code_url = "https://github.com/g0v/personal-data-protection-spec-gitbook"
 description = " vTaiwan 個資利用與去識別化：具體建議"
-git_branch = "master"
 git_url = "git://github.com/g0v/personal-data-protection-spec-gitbook.git"
-last_pushed_within = "over_a_year"
 name = "personal-data-protection-spec-gitbook"
+organization_name = "g0v.tw"
+
+[github]
+archived = false
+created_at = "2015-07-13T07:45:23Z"
+default_branch = "master"
+description = " vTaiwan 個資利用與去識別化：具體建議"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "g0v/personal-data-protection-spec-gitbook"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 38_998_339
+language = "JavaScript"
+license = { }
+name = "personal-data-protection-spec-gitbook"
+node_id = "MDEwOlJlcG9zaXRvcnkzODk5ODMzOQ=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_668_086
+  login = "g0v"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI2NjgwODY="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

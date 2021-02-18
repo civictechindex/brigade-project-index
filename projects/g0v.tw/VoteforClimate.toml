@@ -1,6 +1,51 @@
 code_url = "https://github.com/g0v/VoteforClimate"
 description = "氣候選戰 Vote for Climate"
-git_branch = "master"
 git_url = "git://github.com/g0v/VoteforClimate.git"
-last_pushed_within = "over_a_year"
 name = "VoteforClimate"
+organization_name = "g0v.tw"
+
+[github]
+archived = false
+created_at = "2014-08-30T09:32:17Z"
+default_branch = "master"
+description = "氣候選戰 Vote for Climate"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "g0v/VoteforClimate"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 23_488_737
+language = { }
+name = "VoteforClimate"
+node_id = "MDEwOlJlcG9zaXRvcnkyMzQ4ODczNw=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_668_086
+  login = "g0v"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI2NjgwODY="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

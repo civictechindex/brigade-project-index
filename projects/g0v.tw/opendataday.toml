@@ -1,7 +1,47 @@
 code_url = "https://github.com/g0v/opendataday"
 description = "Open Data Day website"
-git_branch = "master"
 git_url = "git://github.com/g0v/opendataday.git"
-last_pushed_within = "over_a_year"
 link_url = "http://opendataday.org/"
 name = "opendataday"
+organization_name = "g0v.tw"
+
+[github]
+archived = false
+created_at = "2017-02-10T07:11:56Z"
+default_branch = "master"
+description = "Open Data Day website"
+disabled = false
+fork = true
+forks_within = 0
+full_name = "g0v/opendataday"
+has_downloads = true
+has_issues = false
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "http://opendataday.org/"
+id = 81_537_722
+language = "CSS"
+license = { }
+name = "opendataday"
+node_id = "MDEwOlJlcG9zaXRvcnk4MTUzNzcyMg=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_668_086
+  login = "g0v"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI2NjgwODY="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

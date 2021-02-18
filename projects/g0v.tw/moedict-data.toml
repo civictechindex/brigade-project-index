@@ -1,7 +1,47 @@
 code_url = "https://github.com/g0v/moedict-data"
 description = "教育部重編國語辭典 資料檔; 若有建議或 bug 請在 moedict-process 反應"
-git_branch = "master"
 git_url = "git://github.com/g0v/moedict-data.git"
-last_pushed_within = "over_a_year"
 link_url = "https://github.com/g0v/moedict-process"
 name = "moedict-data"
+organization_name = "g0v.tw"
+
+[github]
+archived = false
+created_at = "2013-02-06T17:28:04Z"
+default_branch = "master"
+description = "教育部重編國語辭典 資料檔; 若有建議或 bug 請在 moedict-process 反應"
+disabled = false
+fork = false
+forks_within = 100
+full_name = "g0v/moedict-data"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = false
+homepage = "https://github.com/g0v/moedict-process"
+id = 8_056_156
+language = { }
+license = { }
+name = "moedict-data"
+node_id = "MDEwOlJlcG9zaXRvcnk4MDU2MTU2"
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 100
+topics = [ ]
+updated_within = "month"
+watchers_within = 100
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_668_086
+  login = "g0v"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI2NjgwODY="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

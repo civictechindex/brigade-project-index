@@ -1,6 +1,51 @@
 code_url = "https://github.com/g0v/pdf-text-cutter"
 description = "從 pdf 中切字出來的工具"
-git_branch = "master"
 git_url = "git://github.com/g0v/pdf-text-cutter.git"
-last_pushed_within = "over_a_year"
 name = "pdf-text-cutter"
+organization_name = "g0v.tw"
+
+[github]
+archived = false
+created_at = "2013-09-12T06:59:39Z"
+default_branch = "master"
+description = "從 pdf 中切字出來的工具"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "g0v/pdf-text-cutter"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 12_777_146
+language = "Perl"
+name = "pdf-text-cutter"
+node_id = "MDEwOlJlcG9zaXRvcnkxMjc3NzE0Ng=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 100
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 100
+
+  [github.license]
+  key = "unlicense"
+  name = "The Unlicense"
+  node_id = "MDc6TGljZW5zZTE1"
+  spdx_id = "Unlicense"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_668_086
+  login = "g0v"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI2NjgwODY="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

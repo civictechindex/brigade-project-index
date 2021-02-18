@@ -1,6 +1,51 @@
 code_url = "https://github.com/g0v/mydaka"
 description = "mydaka麥打卡提供個人JSON-LD定義的工時紀錄，工時記錄從掌握在雇主的專屬系統裡面脫離，轉換為掌握在勞動者手上。"
-git_branch = "master"
 git_url = "git://github.com/g0v/mydaka.git"
-last_pushed_within = "over_a_year"
 name = "mydaka"
+organization_name = "g0v.tw"
+
+[github]
+archived = false
+created_at = "2017-01-02T07:16:48Z"
+default_branch = "master"
+description = "mydaka麥打卡提供個人JSON-LD定義的工時紀錄，工時記錄從掌握在雇主的專屬系統裡面脫離，轉換為掌握在勞動者手上。"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "g0v/mydaka"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 77_817_242
+language = "JavaScript"
+name = "mydaka"
+node_id = "MDEwOlJlcG9zaXRvcnk3NzgxNzI0Mg=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "apache-2.0"
+  name = "Apache License 2.0"
+  node_id = "MDc6TGljZW5zZTI="
+  spdx_id = "Apache-2.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_668_086
+  login = "g0v"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI2NjgwODY="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

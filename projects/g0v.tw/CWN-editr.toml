@@ -1,7 +1,47 @@
 code_url = "https://github.com/g0v/CWN-editr"
 description = "an editor for Chinese Wordnet"
-git_branch = "master"
 git_url = "git://github.com/g0v/CWN-editr.git"
-last_pushed_within = "over_a_year"
 link_url = "http://140.112.147.131/editr/"
 name = "CWN-editr"
+organization_name = "g0v.tw"
+
+[github]
+archived = false
+created_at = "2015-01-18T05:26:55Z"
+default_branch = "master"
+description = "an editor for Chinese Wordnet"
+disabled = false
+fork = true
+forks_within = 0
+full_name = "g0v/CWN-editr"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://140.112.147.131/editr/"
+id = 29_416_796
+language = "JavaScript"
+license = { }
+name = "CWN-editr"
+node_id = "MDEwOlJlcG9zaXRvcnkyOTQxNjc5Ng=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_668_086
+  login = "g0v"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI2NjgwODY="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

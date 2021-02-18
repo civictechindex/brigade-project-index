@@ -1,6 +1,46 @@
 code_url = "https://github.com/g0v/api.addressbook"
 description = "Taiwan government open contact server backend"
-git_branch = "master"
 git_url = "git://github.com/g0v/api.addressbook.git"
-last_pushed_within = "over_a_year"
 name = "api.addressbook"
+organization_name = "g0v.tw"
+
+[github]
+archived = false
+created_at = "2014-03-04T02:13:53Z"
+default_branch = "master"
+description = "Taiwan government open contact server backend"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "g0v/api.addressbook"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 17_387_400
+language = "Ruby"
+license = { }
+name = "api.addressbook"
+node_id = "MDEwOlJlcG9zaXRvcnkxNzM4NzQwMA=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_668_086
+  login = "g0v"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI2NjgwODY="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

@@ -1,8 +1,53 @@
 code_url = "https://github.com/g0v/jothon-net"
 description = "揪松網 - 零時政府黑客松入口網站"
-git_branch = "master"
 git_url = "git://github.com/g0v/jothon-net.git"
-last_pushed_within = "week"
 link_url = "https://hack.g0v.tw"
 name = "jothon-net"
+organization_name = "g0v.tw"
 topics = [ "activity", "g0v", "hackathon", "jothon", "landing-page" ]
+
+[github]
+archived = false
+created_at = "2017-11-27T14:35:22Z"
+default_branch = "master"
+description = "揪松網 - 零時政府黑客松入口網站"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "g0v/jothon-net"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "https://hack.g0v.tw"
+id = 112_207_161
+language = "JavaScript"
+name = "jothon-net"
+node_id = "MDEwOlJlcG9zaXRvcnkxMTIyMDcxNjE="
+open_issues_within = 100
+private = false
+pushed_within = "year"
+stargazers_within = 10
+topics = [ "activity", "g0v", "hackathon", "jothon", "landing-page" ]
+updated_within = "month"
+watchers_within = 10
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_668_086
+  login = "g0v"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI2NjgwODY="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

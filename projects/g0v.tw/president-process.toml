@@ -1,6 +1,46 @@
 code_url = "https://github.com/g0v/president-process"
 description = "The data-process programs for 總統府相關資料"
-git_branch = "master"
 git_url = "git://github.com/g0v/president-process.git"
-last_pushed_within = "over_a_year"
 name = "president-process"
+organization_name = "g0v.tw"
+
+[github]
+archived = false
+created_at = "2013-08-30T03:24:38Z"
+default_branch = "master"
+description = "The data-process programs for 總統府相關資料"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "g0v/president-process"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 12_477_143
+language = "Python"
+license = { }
+name = "president-process"
+node_id = "MDEwOlJlcG9zaXRvcnkxMjQ3NzE0Mw=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_668_086
+  login = "g0v"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI2NjgwODY="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

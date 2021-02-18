@@ -1,7 +1,47 @@
 code_url = "https://github.com/g0v/people-in-news"
 description = "公眾人物新聞的追蹤"
-git_branch = "master"
 git_url = "git://github.com/g0v/people-in-news.git"
-last_pushed_within = "year"
 link_url = "http://g0v-data.gugod.org/people-in-news/"
 name = "people-in-news"
+organization_name = "g0v.tw"
+
+[github]
+archived = false
+created_at = "2018-10-04T00:45:27Z"
+default_branch = "master"
+description = "公眾人物新聞的追蹤"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "g0v/people-in-news"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://g0v-data.gugod.org/people-in-news/"
+id = 151_499_888
+language = "Perl"
+license = { }
+name = "people-in-news"
+node_id = "MDEwOlJlcG9zaXRvcnkxNTE0OTk4ODg="
+open_issues_within = 10
+private = false
+pushed_within = "month"
+stargazers_within = 100
+topics = [ ]
+updated_within = "month"
+watchers_within = 100
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_668_086
+  login = "g0v"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI2NjgwODY="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

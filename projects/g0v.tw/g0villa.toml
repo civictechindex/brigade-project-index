@@ -1,6 +1,46 @@
 code_url = "https://github.com/g0v/g0villa"
 description = "tabzilla for g0v sites"
-git_branch = "gh-pages"
 git_url = "git://github.com/g0v/g0villa.git"
-last_pushed_within = "over_a_year"
 name = "g0villa"
+organization_name = "g0v.tw"
+
+[github]
+archived = false
+created_at = "2014-03-12T20:05:13Z"
+default_branch = "gh-pages"
+description = "tabzilla for g0v sites"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "g0v/g0villa"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 17_682_126
+language = "JavaScript"
+license = { }
+name = "g0villa"
+node_id = "MDEwOlJlcG9zaXRvcnkxNzY4MjEyNg=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_668_086
+  login = "g0v"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI2NjgwODY="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

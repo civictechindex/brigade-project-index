@@ -1,7 +1,47 @@
 code_url = "https://github.com/g0v/taipei"
 description = "Things to know about Taipei for our overseas friends! "
-git_branch = "master"
 git_url = "git://github.com/g0v/taipei.git"
-last_pushed_within = "over_a_year"
 link_url = "http://summit.g0v.tw/"
 name = "taipei"
+organization_name = "g0v.tw"
+
+[github]
+archived = false
+created_at = "2016-03-03T13:10:28Z"
+default_branch = "master"
+description = "Things to know about Taipei for our overseas friends! "
+disabled = false
+fork = true
+forks_within = 10
+full_name = "g0v/taipei"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://summit.g0v.tw/"
+id = 53_051_131
+language = { }
+license = { }
+name = "taipei"
+node_id = "MDEwOlJlcG9zaXRvcnk1MzA1MTEzMQ=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 100
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 100
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_668_086
+  login = "g0v"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI2NjgwODY="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

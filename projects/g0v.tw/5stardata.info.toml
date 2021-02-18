@@ -1,7 +1,47 @@
 code_url = "https://github.com/g0v/5stardata.info"
 description = "Information around TimBL's 5 star Open Data plan"
-git_branch = "master"
 git_url = "git://github.com/g0v/5stardata.info.git"
-last_pushed_within = "over_a_year"
 link_url = "http://5stardata.info/"
 name = "5stardata.info"
+organization_name = "g0v.tw"
+
+[github]
+archived = false
+created_at = "2014-08-14T10:07:10Z"
+default_branch = "master"
+description = "Information around TimBL's 5 star Open Data plan"
+disabled = false
+fork = true
+forks_within = 0
+full_name = "g0v/5stardata.info"
+has_downloads = true
+has_issues = false
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "http://5stardata.info/"
+id = 22_949_536
+language = "JavaScript"
+license = { }
+name = "5stardata.info"
+node_id = "MDEwOlJlcG9zaXRvcnkyMjk0OTUzNg=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_668_086
+  login = "g0v"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI2NjgwODY="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

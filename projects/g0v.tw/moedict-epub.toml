@@ -1,6 +1,46 @@
 code_url = "https://github.com/g0v/moedict-epub"
 description = "萌典一書"
-git_branch = "master"
 git_url = "git://github.com/g0v/moedict-epub.git"
-last_pushed_within = "over_a_year"
 name = "moedict-epub"
+organization_name = "g0v.tw"
+
+[github]
+archived = false
+created_at = "2013-01-27T15:52:59Z"
+default_branch = "master"
+description = "萌典一書"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "g0v/moedict-epub"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 7_854_062
+language = "HTML"
+license = { }
+name = "moedict-epub"
+node_id = "MDEwOlJlcG9zaXRvcnk3ODU0MDYy"
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 100
+topics = [ ]
+updated_within = "year"
+watchers_within = 100
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_668_086
+  login = "g0v"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI2NjgwODY="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

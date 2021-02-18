@@ -1,7 +1,52 @@
 code_url = "https://github.com/g0v/ly.g0v.tw"
 description = "ly.g0v.tw - Congress Matters / 國會大代誌"
-git_branch = "master"
 git_url = "git://github.com/g0v/ly.g0v.tw.git"
-last_pushed_within = "month"
 link_url = "http://ly.g0v.tw/"
 name = "ly.g0v.tw"
+organization_name = "g0v.tw"
+
+[github]
+archived = false
+created_at = "2012-11-18T15:48:55Z"
+default_branch = "master"
+description = "ly.g0v.tw - Congress Matters / 國會大代誌"
+disabled = false
+fork = false
+forks_within = 100
+full_name = "g0v/ly.g0v.tw"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "http://ly.g0v.tw/"
+id = 6_748_174
+language = "HTML"
+name = "ly.g0v.tw"
+node_id = "MDEwOlJlcG9zaXRvcnk2NzQ4MTc0"
+open_issues_within = 100
+private = false
+pushed_within = "month"
+stargazers_within = 100
+topics = [ ]
+updated_within = "year"
+watchers_within = 100
+
+  [github.license]
+  key = "other"
+  name = "Other"
+  node_id = "MDc6TGljZW5zZTA="
+  spdx_id = "NOASSERTION"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_668_086
+  login = "g0v"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI2NjgwODY="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

@@ -1,7 +1,47 @@
 code_url = "https://github.com/g0v/kong2_tai5gi2_tng1_tioh8si5"
 description = "節目公開資料-講臺語當著時Kóng-tâi-gí tng tio̍h-sî"
-git_branch = "master"
 git_url = "git://github.com/g0v/kong2_tai5gi2_tng1_tioh8si5.git"
-last_pushed_within = "over_a_year"
 name = "kong2_tai5gi2_tng1_tioh8si5"
+organization_name = "g0v.tw"
 topics = [ "taiwan-min", "transcripts", "tv-shows" ]
+
+[github]
+archived = false
+created_at = "2018-04-19T09:23:34Z"
+default_branch = "master"
+description = "節目公開資料-講臺語當著時Kóng-tâi-gí tng tio̍h-sî"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "g0v/kong2_tai5gi2_tng1_tioh8si5"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 130_191_145
+language = { }
+license = { }
+name = "kong2_tai5gi2_tng1_tioh8si5"
+node_id = "MDEwOlJlcG9zaXRvcnkxMzAxOTExNDU="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ "taiwan-min", "transcripts", "tv-shows" ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_668_086
+  login = "g0v"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI2NjgwODY="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

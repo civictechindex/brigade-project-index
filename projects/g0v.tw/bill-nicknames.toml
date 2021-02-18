@@ -1,6 +1,51 @@
 code_url = "https://github.com/g0v/bill-nicknames"
 description = "Table of popular nicknames and keywords for bills"
-git_branch = "master"
 git_url = "git://github.com/g0v/bill-nicknames.git"
-last_pushed_within = "over_a_year"
 name = "bill-nicknames"
+organization_name = "g0v.tw"
+
+[github]
+archived = false
+created_at = "2013-12-05T08:44:50Z"
+default_branch = "master"
+description = "Table of popular nicknames and keywords for bills"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "g0v/bill-nicknames"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 14_948_350
+language = { }
+name = "bill-nicknames"
+node_id = "MDEwOlJlcG9zaXRvcnkxNDk0ODM1MA=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "unlicense"
+  name = "The Unlicense"
+  node_id = "MDc6TGljZW5zZTE1"
+  spdx_id = "Unlicense"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_668_086
+  login = "g0v"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI2NjgwODY="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

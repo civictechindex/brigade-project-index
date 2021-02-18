@@ -1,7 +1,47 @@
 code_url = "https://github.com/g0v/closelyheld-ref1.vtaiwan.tw"
 description = " 「閉鎖性股份有限公司」草案（邵老師團隊版）"
-git_branch = "gh-pages"
 git_url = "git://github.com/g0v/closelyheld-ref1.vtaiwan.tw.git"
-last_pushed_within = "over_a_year"
 link_url = "https://closelyheld-ref1.vtaiwan.tw"
 name = "closelyheld-ref1.vtaiwan.tw"
+organization_name = "g0v.tw"
+
+[github]
+archived = false
+created_at = "2015-02-10T04:27:52Z"
+default_branch = "gh-pages"
+description = " 「閉鎖性股份有限公司」草案（邵老師團隊版）"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "g0v/closelyheld-ref1.vtaiwan.tw"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "https://closelyheld-ref1.vtaiwan.tw"
+id = 30_574_855
+language = "LiveScript"
+license = { }
+name = "closelyheld-ref1.vtaiwan.tw"
+node_id = "MDEwOlJlcG9zaXRvcnkzMDU3NDg1NQ=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_668_086
+  login = "g0v"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI2NjgwODY="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

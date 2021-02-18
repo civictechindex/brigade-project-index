@@ -1,6 +1,46 @@
 code_url = "https://github.com/g0v/meta.g0v.tw"
 description = "g0v相關專案的meta data匯集"
-git_branch = "master"
 git_url = "git://github.com/g0v/meta.g0v.tw.git"
-last_pushed_within = "over_a_year"
 name = "meta.g0v.tw"
+organization_name = "g0v.tw"
+
+[github]
+archived = false
+created_at = "2013-12-30T12:53:05Z"
+default_branch = "master"
+description = "g0v相關專案的meta data匯集"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "g0v/meta.g0v.tw"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 15_527_724
+language = "Ruby"
+license = { }
+name = "meta.g0v.tw"
+node_id = "MDEwOlJlcG9zaXRvcnkxNTUyNzcyNA=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_668_086
+  login = "g0v"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI2NjgwODY="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

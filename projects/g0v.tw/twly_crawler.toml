@@ -1,6 +1,46 @@
 code_url = "https://github.com/g0v/twly_crawler"
 description = "Crawl Taiwan Congress Data by Scrapy"
-git_branch = "master"
 git_url = "git://github.com/g0v/twly_crawler.git"
-last_pushed_within = "year"
 name = "twly_crawler"
+organization_name = "g0v.tw"
+
+[github]
+archived = false
+created_at = "2013-11-19T07:30:05Z"
+default_branch = "master"
+description = "Crawl Taiwan Congress Data by Scrapy"
+disabled = false
+fork = false
+forks_within = 100
+full_name = "g0v/twly_crawler"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 14_517_392
+language = "Python"
+license = { }
+name = "twly_crawler"
+node_id = "MDEwOlJlcG9zaXRvcnkxNDUxNzM5Mg=="
+open_issues_within = 10
+private = false
+pushed_within = "year"
+stargazers_within = 100
+topics = [ ]
+updated_within = "year"
+watchers_within = 100
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_668_086
+  login = "g0v"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI2NjgwODY="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

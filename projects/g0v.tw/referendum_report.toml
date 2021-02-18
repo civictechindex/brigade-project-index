@@ -1,6 +1,46 @@
 code_url = "https://github.com/g0v/referendum_report"
-git_branch = "master"
 git_url = "git://github.com/g0v/referendum_report.git"
-last_pushed_within = "over_a_year"
 link_url = "https://g0v.github.io/referendum_report/"
 name = "referendum_report"
+organization_name = "g0v.tw"
+
+[github]
+archived = false
+created_at = "2018-11-25T11:16:04Z"
+default_branch = "master"
+description = { }
+disabled = false
+fork = false
+forks_within = 100
+full_name = "g0v/referendum_report"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "https://g0v.github.io/referendum_report/"
+id = 159_023_586
+language = "HTML"
+license = { }
+name = "referendum_report"
+node_id = "MDEwOlJlcG9zaXRvcnkxNTkwMjM1ODY="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 100
+topics = [ ]
+updated_within = "year"
+watchers_within = 100
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_668_086
+  login = "g0v"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI2NjgwODY="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

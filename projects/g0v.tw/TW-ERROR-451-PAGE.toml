@@ -1,6 +1,46 @@
 code_url = "https://github.com/g0v/TW-ERROR-451-PAGE"
 description = "台灣HTTP 451 ERROR 抗議財智局頁面"
-git_branch = "master"
 git_url = "git://github.com/g0v/TW-ERROR-451-PAGE.git"
-last_pushed_within = "over_a_year"
 name = "TW-ERROR-451-PAGE"
+organization_name = "g0v.tw"
+
+[github]
+archived = false
+created_at = "2013-05-29T03:14:24Z"
+default_branch = "master"
+description = "台灣HTTP 451 ERROR 抗議財智局頁面"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "g0v/TW-ERROR-451-PAGE"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 10_350_920
+language = { }
+license = { }
+name = "TW-ERROR-451-PAGE"
+node_id = "MDEwOlJlcG9zaXRvcnkxMDM1MDkyMA=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_668_086
+  login = "g0v"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI2NjgwODY="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

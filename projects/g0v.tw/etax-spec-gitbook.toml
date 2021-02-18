@@ -1,6 +1,46 @@
 code_url = "https://github.com/g0v/etax-spec-gitbook"
 description = "vTaiwan 網路交易課稅：具體建議"
-git_branch = "master"
 git_url = "git://github.com/g0v/etax-spec-gitbook.git"
-last_pushed_within = "over_a_year"
 name = "etax-spec-gitbook"
+organization_name = "g0v.tw"
+
+[github]
+archived = false
+created_at = "2015-03-15T19:44:53Z"
+default_branch = "master"
+description = "vTaiwan 網路交易課稅：具體建議"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "g0v/etax-spec-gitbook"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 32_280_282
+language = "JavaScript"
+license = { }
+name = "etax-spec-gitbook"
+node_id = "MDEwOlJlcG9zaXRvcnkzMjI4MDI4Mg=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_668_086
+  login = "g0v"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI2NjgwODY="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

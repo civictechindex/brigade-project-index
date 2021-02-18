@@ -1,7 +1,52 @@
 code_url = "https://github.com/g0v/directors-election-gitbook"
 description = "公司法：董監事選任"
-git_branch = "master"
 git_url = "git://github.com/g0v/directors-election-gitbook.git"
-last_pushed_within = "over_a_year"
 link_url = "https://g0v.github.io/directors-election-gitbook"
 name = "directors-election-gitbook"
+organization_name = "g0v.tw"
+
+[github]
+archived = false
+created_at = "2016-12-30T04:12:36Z"
+default_branch = "master"
+description = "公司法：董監事選任"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "g0v/directors-election-gitbook"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "https://g0v.github.io/directors-election-gitbook"
+id = 77_659_669
+language = "JavaScript"
+name = "directors-election-gitbook"
+node_id = "MDEwOlJlcG9zaXRvcnk3NzY1OTY2OQ=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "cc0-1.0"
+  name = "Creative Commons Zero v1.0 Universal"
+  node_id = "MDc6TGljZW5zZTY="
+  spdx_id = "CC0-1.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_668_086
+  login = "g0v"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI2NjgwODY="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

@@ -1,5 +1,50 @@
 code_url = "https://github.com/g0v/cec-stats"
-git_branch = "master"
 git_url = "git://github.com/g0v/cec-stats.git"
-last_pushed_within = "over_a_year"
 name = "cec-stats"
+organization_name = "g0v.tw"
+
+[github]
+archived = false
+created_at = "2018-01-15T23:35:22Z"
+default_branch = "master"
+description = { }
+disabled = false
+fork = false
+forks_within = 0
+full_name = "g0v/cec-stats"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 117_606_934
+language = "HTML"
+name = "cec-stats"
+node_id = "MDEwOlJlcG9zaXRvcnkxMTc2MDY5MzQ="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "unlicense"
+  name = "The Unlicense"
+  node_id = "MDc6TGljZW5zZTE1"
+  spdx_id = "Unlicense"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_668_086
+  login = "g0v"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI2NjgwODY="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

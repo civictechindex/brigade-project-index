@@ -1,7 +1,52 @@
 code_url = "https://github.com/g0v/mediawiki"
 description = "The collaborative editing software that runs Wikipedia. This is a mirror from gerrit.wikimedia.org. See https://www.mediawiki.org/wiki/Developer_access for contributing."
-git_branch = "master"
 git_url = "git://github.com/g0v/mediawiki.git"
-last_pushed_within = "over_a_year"
 link_url = "https://www.mediawiki.org"
 name = "mediawiki"
+organization_name = "g0v.tw"
+
+[github]
+archived = false
+created_at = "2017-11-25T05:12:21Z"
+default_branch = "master"
+description = "The collaborative editing software that runs Wikipedia. This is a mirror from gerrit.wikimedia.org. See https://www.mediawiki.org/wiki/Developer_access for contributing."
+disabled = false
+fork = true
+forks_within = 0
+full_name = "g0v/mediawiki"
+has_downloads = false
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = false
+homepage = "https://www.mediawiki.org"
+id = 111_978_456
+language = "PHP"
+name = "mediawiki"
+node_id = "MDEwOlJlcG9zaXRvcnkxMTE5Nzg0NTY="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "other"
+  name = "Other"
+  node_id = "MDc6TGljZW5zZTA="
+  spdx_id = "NOASSERTION"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_668_086
+  login = "g0v"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI2NjgwODY="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

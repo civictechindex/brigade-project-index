@@ -1,6 +1,51 @@
 code_url = "https://github.com/g0v/nuclear-data"
 description = "核電翻譯機"
-git_branch = "master"
 git_url = "git://github.com/g0v/nuclear-data.git"
-last_pushed_within = "over_a_year"
 name = "nuclear-data"
+organization_name = "g0v.tw"
+
+[github]
+archived = false
+created_at = "2014-02-22T04:06:06Z"
+default_branch = "master"
+description = "核電翻譯機"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "g0v/nuclear-data"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 17_077_761
+language = "LiveScript"
+name = "nuclear-data"
+node_id = "MDEwOlJlcG9zaXRvcnkxNzA3Nzc2MQ=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "other"
+  name = "Other"
+  node_id = "MDc6TGljZW5zZTA="
+  spdx_id = "NOASSERTION"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_668_086
+  login = "g0v"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI2NjgwODY="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

@@ -1,7 +1,47 @@
 code_url = "https://github.com/g0v/local.data"
 description = "Open Data Census website and dashboard"
-git_branch = "master"
 git_url = "git://github.com/g0v/local.data.git"
-last_pushed_within = "over_a_year"
 link_url = "http://census.okfn.org/"
 name = "local.data"
+organization_name = "g0v.tw"
+
+[github]
+archived = false
+created_at = "2014-06-27T07:10:44Z"
+default_branch = "master"
+description = "Open Data Census website and dashboard"
+disabled = false
+fork = true
+forks_within = 0
+full_name = "g0v/local.data"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = false
+homepage = "http://census.okfn.org/"
+id = 21_267_166
+language = "JavaScript"
+license = { }
+name = "local.data"
+node_id = "MDEwOlJlcG9zaXRvcnkyMTI2NzE2Ng=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_668_086
+  login = "g0v"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI2NjgwODY="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

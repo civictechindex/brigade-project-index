@@ -1,5 +1,45 @@
 code_url = "https://github.com/g0v/libot"
-git_branch = "master"
 git_url = "git://github.com/g0v/libot.git"
-last_pushed_within = "year"
 name = "libot"
+organization_name = "g0v.tw"
+
+[github]
+archived = false
+created_at = "2019-09-23T05:22:26Z"
+default_branch = "master"
+description = { }
+disabled = false
+fork = false
+forks_within = 10
+full_name = "g0v/libot"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 210_270_660
+language = "JavaScript"
+license = { }
+name = "libot"
+node_id = "MDEwOlJlcG9zaXRvcnkyMTAyNzA2NjA="
+open_issues_within = 10
+private = false
+pushed_within = "year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_668_086
+  login = "g0v"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI2NjgwODY="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

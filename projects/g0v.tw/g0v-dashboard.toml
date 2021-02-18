@@ -1,7 +1,47 @@
 code_url = "https://github.com/g0v/g0v-dashboard"
 description = "g0v社群的各種資料統計"
-git_branch = "master"
 git_url = "git://github.com/g0v/g0v-dashboard.git"
-last_pushed_within = "week"
 link_url = "http://g0v.github.io/g0v-dashboard"
 name = "g0v-dashboard"
+organization_name = "g0v.tw"
+
+[github]
+archived = false
+created_at = "2020-11-09T08:01:21Z"
+default_branch = "master"
+description = "g0v社群的各種資料統計"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "g0v/g0v-dashboard"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "http://g0v.github.io/g0v-dashboard"
+id = 311_264_334
+language = "HTML"
+license = { }
+name = "g0v-dashboard"
+node_id = "MDEwOlJlcG9zaXRvcnkzMTEyNjQzMzQ="
+open_issues_within = 0
+private = false
+pushed_within = "year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_668_086
+  login = "g0v"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI2NjgwODY="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

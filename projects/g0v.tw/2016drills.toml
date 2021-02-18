@@ -1,6 +1,46 @@
 code_url = "https://github.com/g0v/2016drills"
 description = "2016-03-25 北北基桃聯合防災演習"
-git_branch = "master"
 git_url = "git://github.com/g0v/2016drills.git"
-last_pushed_within = "over_a_year"
 name = "2016drills"
+organization_name = "g0v.tw"
+
+[github]
+archived = false
+created_at = "2016-03-24T17:48:15Z"
+default_branch = "master"
+description = "2016-03-25 北北基桃聯合防災演習"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "g0v/2016drills"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 54_662_325
+language = { }
+license = { }
+name = "2016drills"
+node_id = "MDEwOlJlcG9zaXRvcnk1NDY2MjMyNQ=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_668_086
+  login = "g0v"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI2NjgwODY="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

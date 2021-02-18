@@ -1,7 +1,47 @@
 code_url = "https://github.com/g0v/g0village-8bit"
 description = "g0v 新手村計劃 8bit"
-git_branch = "gh-pages"
 git_url = "git://github.com/g0v/g0village-8bit.git"
-last_pushed_within = "over_a_year"
 link_url = "http://8bit.g0v.tw/"
 name = "g0village-8bit"
+organization_name = "g0v.tw"
+
+[github]
+archived = false
+created_at = "2013-08-09T04:03:34Z"
+default_branch = "gh-pages"
+description = "g0v 新手村計劃 8bit"
+disabled = false
+fork = false
+forks_within = 100
+full_name = "g0v/g0village-8bit"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "http://8bit.g0v.tw/"
+id = 11_992_738
+language = "JavaScript"
+license = { }
+name = "g0village-8bit"
+node_id = "MDEwOlJlcG9zaXRvcnkxMTk5MjczOA=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 100
+topics = [ ]
+updated_within = "year"
+watchers_within = 100
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_668_086
+  login = "g0v"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI2NjgwODY="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

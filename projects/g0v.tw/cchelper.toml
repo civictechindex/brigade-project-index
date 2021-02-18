@@ -1,7 +1,47 @@
 code_url = "https://github.com/g0v/cchelper"
 description = "CC授權小幫手"
-git_branch = "gh-pages"
 git_url = "git://github.com/g0v/cchelper.git"
-last_pushed_within = "over_a_year"
 link_url = "https://g0v.github.io/cchelper/"
 name = "cchelper"
+organization_name = "g0v.tw"
+
+[github]
+archived = false
+created_at = "2015-07-14T17:18:03Z"
+default_branch = "gh-pages"
+description = "CC授權小幫手"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "g0v/cchelper"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "https://g0v.github.io/cchelper/"
+id = 39_089_484
+language = "HTML"
+license = { }
+name = "cchelper"
+node_id = "MDEwOlJlcG9zaXRvcnkzOTA4OTQ4NA=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_668_086
+  login = "g0v"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI2NjgwODY="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

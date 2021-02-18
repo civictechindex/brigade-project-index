@@ -1,6 +1,46 @@
 code_url = "https://github.com/g0v/kuansim-backend"
 description = "kuansim - backend"
-git_branch = "develop"
 git_url = "git://github.com/g0v/kuansim-backend.git"
-last_pushed_within = "over_a_year"
 name = "kuansim-backend"
+organization_name = "g0v.tw"
+
+[github]
+archived = false
+created_at = "2013-07-22T15:31:52Z"
+default_branch = "develop"
+description = "kuansim - backend"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "g0v/kuansim-backend"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = false
+homepage = { }
+id = 11_584_933
+language = "LiveScript"
+license = { }
+name = "kuansim-backend"
+node_id = "MDEwOlJlcG9zaXRvcnkxMTU4NDkzMw=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_668_086
+  login = "g0v"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI2NjgwODY="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

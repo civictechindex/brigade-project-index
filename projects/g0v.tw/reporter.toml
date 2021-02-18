@@ -1,7 +1,47 @@
 code_url = "https://github.com/g0v/reporter"
 description = "公民記者證列印"
-git_branch = "gh-pages"
 git_url = "git://github.com/g0v/reporter.git"
-last_pushed_within = "year"
-link_url = "g0v.github.io/reporter/"
+link_url = "https://g0v.github.io/reporter/"
 name = "reporter"
+organization_name = "g0v.tw"
+
+[github]
+archived = false
+created_at = "2014-03-26T21:34:54Z"
+default_branch = "gh-pages"
+description = "公民記者證列印"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "g0v/reporter"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "https://g0v.github.io/reporter/"
+id = 18_154_746
+language = "HTML"
+license = { }
+name = "reporter"
+node_id = "MDEwOlJlcG9zaXRvcnkxODE1NDc0Ng=="
+open_issues_within = 0
+private = false
+pushed_within = "year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_668_086
+  login = "g0v"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI2NjgwODY="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

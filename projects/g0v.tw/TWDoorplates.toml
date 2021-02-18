@@ -1,7 +1,47 @@
 code_url = "https://github.com/g0v/TWDoorplates"
 description = "台灣內政部戶政司地址查詢器"
-git_branch = "master"
 git_url = "git://github.com/g0v/TWDoorplates.git"
-last_pushed_within = "over_a_year"
 link_url = "http://ris.g0v.tw"
 name = "TWDoorplates"
+organization_name = "g0v.tw"
+
+[github]
+archived = false
+created_at = "2014-06-09T17:21:10Z"
+default_branch = "master"
+description = "台灣內政部戶政司地址查詢器"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "g0v/TWDoorplates"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://ris.g0v.tw"
+id = 20_655_244
+language = "Ruby"
+license = { }
+name = "TWDoorplates"
+node_id = "MDEwOlJlcG9zaXRvcnkyMDY1NTI0NA=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_668_086
+  login = "g0v"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI2NjgwODY="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

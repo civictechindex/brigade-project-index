@@ -1,6 +1,46 @@
 code_url = "https://github.com/g0v/conference-map-message-server"
 description = "socket.io server for conference-map (我的活動地圖)"
-git_branch = "master"
 git_url = "git://github.com/g0v/conference-map-message-server.git"
-last_pushed_within = "over_a_year"
 name = "conference-map-message-server"
+organization_name = "g0v.tw"
+
+[github]
+archived = false
+created_at = "2014-03-22T03:54:49Z"
+default_branch = "master"
+description = "socket.io server for conference-map (我的活動地圖)"
+disabled = false
+fork = true
+forks_within = 0
+full_name = "g0v/conference-map-message-server"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 18_001_594
+language = "LiveScript"
+license = { }
+name = "conference-map-message-server"
+node_id = "MDEwOlJlcG9zaXRvcnkxODAwMTU5NA=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_668_086
+  login = "g0v"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI2NjgwODY="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

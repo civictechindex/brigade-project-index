@@ -1,6 +1,51 @@
 code_url = "https://github.com/g0v/tcbus"
 description = "臺中市公車地圖 (採用 leaflet 連 OSM 底圖)"
-git_branch = "gh-pages"
 git_url = "git://github.com/g0v/tcbus.git"
-last_pushed_within = "over_a_year"
 name = "tcbus"
+organization_name = "g0v.tw"
+
+[github]
+archived = false
+created_at = "2014-12-20T13:40:54Z"
+default_branch = "gh-pages"
+description = "臺中市公車地圖 (採用 leaflet 連 OSM 底圖)"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "g0v/tcbus"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 28_268_007
+language = "CSS"
+name = "tcbus"
+node_id = "MDEwOlJlcG9zaXRvcnkyODI2ODAwNw=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "gpl-3.0"
+  name = "GNU General Public License v3.0"
+  node_id = "MDc6TGljZW5zZTk="
+  spdx_id = "GPL-3.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_668_086
+  login = "g0v"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI2NjgwODY="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

@@ -1,6 +1,46 @@
 code_url = "https://github.com/g0v/summit-static"
 description = "Static files (PDF, etc.) for summit.g0v.tw"
-git_branch = "master"
 git_url = "git://github.com/g0v/summit-static.git"
-last_pushed_within = "over_a_year"
 name = "summit-static"
+organization_name = "g0v.tw"
+
+[github]
+archived = false
+created_at = "2016-04-02T06:23:05Z"
+default_branch = "master"
+description = "Static files (PDF, etc.) for summit.g0v.tw"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "g0v/summit-static"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 55_281_074
+language = { }
+license = { }
+name = "summit-static"
+node_id = "MDEwOlJlcG9zaXRvcnk1NTI4MTA3NA=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_668_086
+  login = "g0v"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI2NjgwODY="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

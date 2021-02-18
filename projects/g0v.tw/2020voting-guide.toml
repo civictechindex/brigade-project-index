@@ -1,6 +1,51 @@
 code_url = "https://github.com/g0v/2020voting-guide"
 description = "收集候選人資料，幫助作為投票的判斷依據"
-git_branch = "master"
 git_url = "git://github.com/g0v/2020voting-guide.git"
-last_pushed_within = "year"
 name = "2020voting-guide"
+organization_name = "g0v.tw"
+
+[github]
+archived = false
+created_at = "2019-05-16T16:14:35Z"
+default_branch = "master"
+description = "收集候選人資料，幫助作為投票的判斷依據"
+disabled = false
+fork = false
+forks_within = 100
+full_name = "g0v/2020voting-guide"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 187_062_175
+language = "TypeScript"
+name = "2020voting-guide"
+node_id = "MDEwOlJlcG9zaXRvcnkxODcwNjIxNzU="
+open_issues_within = 10
+private = false
+pushed_within = "year"
+stargazers_within = 100
+topics = [ ]
+updated_within = "month"
+watchers_within = 100
+
+  [github.license]
+  key = "other"
+  name = "Other"
+  node_id = "MDc6TGljZW5zZTA="
+  spdx_id = "NOASSERTION"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_668_086
+  login = "g0v"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI2NjgwODY="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

@@ -1,6 +1,46 @@
 code_url = "https://github.com/g0v/twlyparser"
 description = "parse TW congress logs"
-git_branch = "master"
 git_url = "git://github.com/g0v/twlyparser.git"
-last_pushed_within = "over_a_year"
 name = "twlyparser"
+organization_name = "g0v.tw"
+
+[github]
+archived = false
+created_at = "2012-11-14T16:22:41Z"
+default_branch = "master"
+description = "parse TW congress logs"
+disabled = false
+fork = false
+forks_within = 100
+full_name = "g0v/twlyparser"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 6_690_718
+language = "LiveScript"
+license = { }
+name = "twlyparser"
+node_id = "MDEwOlJlcG9zaXRvcnk2NjkwNzE4"
+open_issues_within = 100
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 100
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 100
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_668_086
+  login = "g0v"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI2NjgwODY="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

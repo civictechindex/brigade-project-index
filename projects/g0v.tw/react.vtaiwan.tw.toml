@@ -1,7 +1,52 @@
 code_url = "https://github.com/g0v/react.vtaiwan.tw"
 description = "行政院法規線上諮詢系統 界面 2.0"
-git_branch = "dev"
 git_url = "git://github.com/g0v/react.vtaiwan.tw.git"
-last_pushed_within = "over_a_year"
 link_url = "https://g0v.hackpad.com/vTaiwan-2.0-5Rpzv7bxLlw"
 name = "react.vtaiwan.tw"
+organization_name = "g0v.tw"
+
+[github]
+archived = false
+created_at = "2015-04-24T07:56:02Z"
+default_branch = "dev"
+description = "行政院法規線上諮詢系統 界面 2.0"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "g0v/react.vtaiwan.tw"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "https://g0v.hackpad.com/vTaiwan-2.0-5Rpzv7bxLlw"
+id = 34_505_595
+language = "JavaScript"
+name = "react.vtaiwan.tw"
+node_id = "MDEwOlJlcG9zaXRvcnkzNDUwNTU5NQ=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 100
+topics = [ ]
+updated_within = "year"
+watchers_within = 100
+
+  [github.license]
+  key = "cc0-1.0"
+  name = "Creative Commons Zero v1.0 Universal"
+  node_id = "MDc6TGljZW5zZTY="
+  spdx_id = "CC0-1.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_668_086
+  login = "g0v"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI2NjgwODY="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

@@ -1,6 +1,46 @@
 code_url = "https://github.com/g0v/eia_crawler"
 description = "Crawl the EIA reports via Scrapy."
-git_branch = "master"
 git_url = "git://github.com/g0v/eia_crawler.git"
-last_pushed_within = "over_a_year"
 name = "eia_crawler"
+organization_name = "g0v.tw"
+
+[github]
+archived = false
+created_at = "2014-05-13T15:41:10Z"
+default_branch = "master"
+description = "Crawl the EIA reports via Scrapy."
+disabled = false
+fork = true
+forks_within = 0
+full_name = "g0v/eia_crawler"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = false
+homepage = { }
+id = 19_745_105
+language = "Python"
+license = { }
+name = "eia_crawler"
+node_id = "MDEwOlJlcG9zaXRvcnkxOTc0NTEwNQ=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_668_086
+  login = "g0v"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI2NjgwODY="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

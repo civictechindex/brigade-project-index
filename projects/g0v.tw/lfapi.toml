@@ -1,6 +1,51 @@
 code_url = "https://github.com/g0v/lfapi"
 description = "mirror of http://www.public-software-group.org/mercurial/lfapi"
-git_branch = "master"
 git_url = "git://github.com/g0v/lfapi.git"
-last_pushed_within = "over_a_year"
 name = "lfapi"
+organization_name = "g0v.tw"
+
+[github]
+archived = false
+created_at = "2013-05-15T03:16:48Z"
+default_branch = "master"
+description = "mirror of http://www.public-software-group.org/mercurial/lfapi"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "g0v/lfapi"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 10_070_112
+language = "JavaScript"
+name = "lfapi"
+node_id = "MDEwOlJlcG9zaXRvcnkxMDA3MDExMg=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_668_086
+  login = "g0v"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI2NjgwODY="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

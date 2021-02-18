@@ -1,6 +1,46 @@
 code_url = "https://github.com/g0v/cancer"
 description = "Statistics in town level of patients with cancer, from 2004 to 2012."
-git_branch = "master"
 git_url = "git://github.com/g0v/cancer.git"
-last_pushed_within = "over_a_year"
 name = "cancer"
+organization_name = "g0v.tw"
+
+[github]
+archived = false
+created_at = "2014-04-22T10:15:27Z"
+default_branch = "master"
+description = "Statistics in town level of patients with cancer, from 2004 to 2012."
+disabled = false
+fork = false
+forks_within = 10
+full_name = "g0v/cancer"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 19_025_407
+language = "LiveScript"
+license = { }
+name = "cancer"
+node_id = "MDEwOlJlcG9zaXRvcnkxOTAyNTQwNw=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_668_086
+  login = "g0v"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI2NjgwODY="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

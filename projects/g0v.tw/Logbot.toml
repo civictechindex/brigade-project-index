@@ -1,7 +1,52 @@
 code_url = "https://github.com/g0v/Logbot"
 description = "Simple IRC logger with realtime web-based viewer"
-git_branch = "master"
 git_url = "git://github.com/g0v/Logbot.git"
-last_pushed_within = "over_a_year"
 link_url = "http://logbot.g0v.tw/"
 name = "Logbot"
+organization_name = "g0v.tw"
+
+[github]
+archived = false
+created_at = "2013-06-24T01:36:36Z"
+default_branch = "master"
+description = "Simple IRC logger with realtime web-based viewer"
+disabled = false
+fork = true
+forks_within = 100
+full_name = "g0v/Logbot"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://logbot.g0v.tw/"
+id = 10_896_010
+language = "JavaScript"
+name = "Logbot"
+node_id = "MDEwOlJlcG9zaXRvcnkxMDg5NjAxMA=="
+open_issues_within = 100
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 100
+topics = [ ]
+updated_within = "month"
+watchers_within = 100
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_668_086
+  login = "g0v"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI2NjgwODY="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

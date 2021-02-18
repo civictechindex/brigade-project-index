@@ -1,7 +1,47 @@
 code_url = "https://github.com/g0v/distant-education-spec-gitbook"
 description = " vTaiwan 遠距教育：具體建議 "
-git_branch = "master"
 git_url = "git://github.com/g0v/distant-education-spec-gitbook.git"
-last_pushed_within = "over_a_year"
 link_url = "https://g0v.github.io/distant-education-spec-gitbook/"
 name = "distant-education-spec-gitbook"
+organization_name = "g0v.tw"
+
+[github]
+archived = false
+created_at = "2015-04-28T17:03:07Z"
+default_branch = "master"
+description = " vTaiwan 遠距教育：具體建議 "
+disabled = false
+fork = false
+forks_within = 10
+full_name = "g0v/distant-education-spec-gitbook"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "https://g0v.github.io/distant-education-spec-gitbook/"
+id = 34_744_143
+language = "JavaScript"
+license = { }
+name = "distant-education-spec-gitbook"
+node_id = "MDEwOlJlcG9zaXRvcnkzNDc0NDE0Mw=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_668_086
+  login = "g0v"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI2NjgwODY="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

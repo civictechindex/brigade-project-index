@@ -1,7 +1,52 @@
 code_url = "https://github.com/g0v/petneed.me"
 description = "Animal Adoption Platform by Django"
-git_branch = "master"
 git_url = "git://github.com/g0v/petneed.me.git"
-last_pushed_within = "year"
 link_url = "petneed.me"
 name = "petneed.me"
+organization_name = "g0v.tw"
+
+[github]
+archived = false
+created_at = "2013-08-14T05:19:14Z"
+default_branch = "master"
+description = "Animal Adoption Platform by Django"
+disabled = false
+fork = true
+forks_within = 10
+full_name = "g0v/petneed.me"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "petneed.me"
+id = 12_100_672
+language = "CSS"
+name = "petneed.me"
+node_id = "MDEwOlJlcG9zaXRvcnkxMjEwMDY3Mg=="
+open_issues_within = 0
+private = false
+pushed_within = "year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "year"
+watchers_within = 10
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_668_086
+  login = "g0v"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI2NjgwODY="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

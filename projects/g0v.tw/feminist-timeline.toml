@@ -1,5 +1,50 @@
 code_url = "https://github.com/g0v/feminist-timeline"
-git_branch = "master"
 git_url = "git://github.com/g0v/feminist-timeline.git"
-last_pushed_within = "over_a_year"
 name = "feminist-timeline"
+organization_name = "g0v.tw"
+
+[github]
+archived = false
+created_at = "2019-06-09T00:40:55Z"
+default_branch = "master"
+description = { }
+disabled = false
+fork = false
+forks_within = 0
+full_name = "g0v/feminist-timeline"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 190_948_636
+language = "Perl"
+name = "feminist-timeline"
+node_id = "MDEwOlJlcG9zaXRvcnkxOTA5NDg2MzY="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "year"
+watchers_within = 10
+
+  [github.license]
+  key = "other"
+  name = "Other"
+  node_id = "MDc6TGljZW5zZTA="
+  spdx_id = "NOASSERTION"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_668_086
+  login = "g0v"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI2NjgwODY="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

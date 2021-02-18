@@ -1,6 +1,46 @@
 code_url = "https://github.com/g0v/addressbook-iOS"
 description = "政府公開通訊錄 iOS 版"
-git_branch = "master"
 git_url = "git://github.com/g0v/addressbook-iOS.git"
-last_pushed_within = "over_a_year"
 name = "addressbook-iOS"
+organization_name = "g0v.tw"
+
+[github]
+archived = false
+created_at = "2014-04-16T15:29:16Z"
+default_branch = "master"
+description = "政府公開通訊錄 iOS 版"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "g0v/addressbook-iOS"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 18_844_954
+language = "Objective-C"
+license = { }
+name = "addressbook-iOS"
+node_id = "MDEwOlJlcG9zaXRvcnkxODg0NDk1NA=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_668_086
+  login = "g0v"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI2NjgwODY="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

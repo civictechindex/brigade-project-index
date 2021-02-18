@@ -1,6 +1,51 @@
 code_url = "https://github.com/g0v/moedict-design"
 description = "Design assets and style guide for moedict projects"
-git_branch = "gh-pages"
 git_url = "git://github.com/g0v/moedict-design.git"
-last_pushed_within = "over_a_year"
 name = "moedict-design"
+organization_name = "g0v.tw"
+
+[github]
+archived = false
+created_at = "2014-11-02T09:22:03Z"
+default_branch = "gh-pages"
+description = "Design assets and style guide for moedict projects"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "g0v/moedict-design"
+has_downloads = true
+has_issues = false
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 26_076_299
+language = { }
+name = "moedict-design"
+node_id = "MDEwOlJlcG9zaXRvcnkyNjA3NjI5OQ=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "cc0-1.0"
+  name = "Creative Commons Zero v1.0 Universal"
+  node_id = "MDc6TGljZW5zZTY="
+  spdx_id = "CC0-1.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_668_086
+  login = "g0v"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI2NjgwODY="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

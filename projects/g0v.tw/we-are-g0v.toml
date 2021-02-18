@@ -1,7 +1,52 @@
 code_url = "https://github.com/g0v/we-are-g0v"
 description = "facebook cover generator"
-git_branch = "master"
 git_url = "git://github.com/g0v/we-are-g0v.git"
-last_pushed_within = "over_a_year"
 link_url = "g0v.github.io/we-are-g0v"
 name = "we-are-g0v"
+organization_name = "g0v.tw"
+
+[github]
+archived = false
+created_at = "2014-03-25T07:58:12Z"
+default_branch = "master"
+description = "facebook cover generator"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "g0v/we-are-g0v"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "g0v.github.io/we-are-g0v"
+id = 18_092_772
+language = "JavaScript"
+name = "we-are-g0v"
+node_id = "MDEwOlJlcG9zaXRvcnkxODA5Mjc3Mg=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "other"
+  name = "Other"
+  node_id = "MDc6TGljZW5zZTA="
+  spdx_id = "NOASSERTION"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_668_086
+  login = "g0v"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI2NjgwODY="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

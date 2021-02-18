@@ -1,6 +1,46 @@
 code_url = "https://github.com/g0v/d3visualization"
 description = "An alternative gallery for d3.js"
-git_branch = "gh-pages"
 git_url = "git://github.com/g0v/d3visualization.git"
-last_pushed_within = "over_a_year"
 name = "d3visualization"
+organization_name = "g0v.tw"
+
+[github]
+archived = false
+created_at = "2014-10-07T16:18:28Z"
+default_branch = "gh-pages"
+description = "An alternative gallery for d3.js"
+disabled = false
+fork = true
+forks_within = 10
+full_name = "g0v/d3visualization"
+has_downloads = true
+has_issues = false
+has_pages = true
+has_projects = true
+has_wiki = false
+homepage = { }
+id = 24_899_363
+language = "CSS"
+license = { }
+name = "d3visualization"
+node_id = "MDEwOlJlcG9zaXRvcnkyNDg5OTM2Mw=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_668_086
+  login = "g0v"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI2NjgwODY="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

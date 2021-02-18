@@ -1,7 +1,52 @@
 code_url = "https://github.com/g0v/newshelper-extension"
 description = "協助您判別含有誤導資訊的新聞"
-git_branch = "master"
 git_url = "git://github.com/g0v/newshelper-extension.git"
-last_pushed_within = "over_a_year"
 link_url = "http://newshelper.g0v.tw"
 name = "newshelper-extension"
+organization_name = "g0v.tw"
+
+[github]
+archived = false
+created_at = "2013-08-10T07:34:27Z"
+default_branch = "master"
+description = "協助您判別含有誤導資訊的新聞"
+disabled = false
+fork = false
+forks_within = 100
+full_name = "g0v/newshelper-extension"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://newshelper.g0v.tw"
+id = 12_017_399
+language = "JavaScript"
+name = "newshelper-extension"
+node_id = "MDEwOlJlcG9zaXRvcnkxMjAxNzM5OQ=="
+open_issues_within = 100
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 1_000
+topics = [ ]
+updated_within = "year"
+watchers_within = 1_000
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_668_086
+  login = "g0v"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI2NjgwODY="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

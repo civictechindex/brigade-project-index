@@ -1,6 +1,46 @@
 code_url = "https://github.com/g0v/g0v-paradise"
 description = "vagrant settings for g0v box"
-git_branch = "gh-pages"
 git_url = "git://github.com/g0v/g0v-paradise.git"
-last_pushed_within = "over_a_year"
 name = "g0v-paradise"
+organization_name = "g0v.tw"
+
+[github]
+archived = false
+created_at = "2013-05-25T17:19:55Z"
+default_branch = "gh-pages"
+description = "vagrant settings for g0v box"
+disabled = false
+fork = true
+forks_within = 0
+full_name = "g0v/g0v-paradise"
+has_downloads = true
+has_issues = false
+has_pages = true
+has_projects = true
+has_wiki = false
+homepage = ""
+id = 10_287_276
+language = { }
+license = { }
+name = "g0v-paradise"
+node_id = "MDEwOlJlcG9zaXRvcnkxMDI4NzI3Ng=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_668_086
+  login = "g0v"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI2NjgwODY="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

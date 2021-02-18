@@ -1,7 +1,47 @@
 code_url = "https://github.com/g0v/ppt"
 description = "政治承諾追蹤網 Political Promise Tracker"
-git_branch = "master"
 git_url = "git://github.com/g0v/ppt.git"
-last_pushed_within = "over_a_year"
 link_url = "http://promisetw.herokuapp.com/"
 name = "ppt"
+organization_name = "g0v.tw"
+
+[github]
+archived = false
+created_at = "2014-11-30T14:03:18Z"
+default_branch = "master"
+description = "政治承諾追蹤網 Political Promise Tracker"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "g0v/ppt"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://promisetw.herokuapp.com/"
+id = 27_337_663
+language = "JavaScript"
+license = { }
+name = "ppt"
+node_id = "MDEwOlJlcG9zaXRvcnkyNzMzNzY2Mw=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 100
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 100
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_668_086
+  login = "g0v"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI2NjgwODY="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

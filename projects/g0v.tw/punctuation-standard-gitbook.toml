@@ -1,6 +1,46 @@
 code_url = "https://github.com/g0v/punctuation-standard-gitbook"
 description = "重訂標點符號手冊 Gitbook "
-git_branch = "master"
 git_url = "git://github.com/g0v/punctuation-standard-gitbook.git"
-last_pushed_within = "over_a_year"
 name = "punctuation-standard-gitbook"
+organization_name = "g0v.tw"
+
+[github]
+archived = false
+created_at = "2015-11-14T03:23:03Z"
+default_branch = "master"
+description = "重訂標點符號手冊 Gitbook "
+disabled = false
+fork = false
+forks_within = 0
+full_name = "g0v/punctuation-standard-gitbook"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 46_159_755
+language = { }
+license = { }
+name = "punctuation-standard-gitbook"
+node_id = "MDEwOlJlcG9zaXRvcnk0NjE1OTc1NQ=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_668_086
+  login = "g0v"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI2NjgwODY="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

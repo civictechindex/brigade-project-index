@@ -1,6 +1,46 @@
 code_url = "https://github.com/g0v/g0v-intro"
 description = "g0ver introduction"
-git_branch = "master"
 git_url = "git://github.com/g0v/g0v-intro.git"
-last_pushed_within = "month"
 name = "g0v-intro"
+organization_name = "g0v.tw"
+
+[github]
+archived = false
+created_at = "2020-03-03T03:51:37Z"
+default_branch = "master"
+description = "g0ver introduction"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "g0v/g0v-intro"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 244_536_138
+language = "PHP"
+license = { }
+name = "g0v-intro"
+node_id = "MDEwOlJlcG9zaXRvcnkyNDQ1MzYxMzg="
+open_issues_within = 10
+private = false
+pushed_within = "year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_668_086
+  login = "g0v"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI2NjgwODY="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

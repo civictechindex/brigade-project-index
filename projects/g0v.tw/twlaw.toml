@@ -1,6 +1,51 @@
 code_url = "https://github.com/g0v/twlaw"
 description = "Organize Taiwan laws"
-git_branch = "master"
 git_url = "git://github.com/g0v/twlaw.git"
-last_pushed_within = "year"
 name = "twlaw"
+organization_name = "g0v.tw"
+
+[github]
+archived = false
+created_at = "2013-02-08T04:39:45Z"
+default_branch = "master"
+description = "Organize Taiwan laws"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "g0v/twlaw"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 8_087_658
+language = "LiveScript"
+name = "twlaw"
+node_id = "MDEwOlJlcG9zaXRvcnk4MDg3NjU4"
+open_issues_within = 10
+private = false
+pushed_within = "year"
+stargazers_within = 100
+topics = [ ]
+updated_within = "year"
+watchers_within = 100
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_668_086
+  login = "g0v"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI2NjgwODY="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

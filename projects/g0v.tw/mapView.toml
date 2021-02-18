@@ -1,6 +1,46 @@
 code_url = "https://github.com/g0v/mapView"
 description = "using map to render data and make social activities"
-git_branch = "gh-pages"
 git_url = "git://github.com/g0v/mapView.git"
-last_pushed_within = "over_a_year"
 name = "mapView"
+organization_name = "g0v.tw"
+
+[github]
+archived = false
+created_at = "2013-11-22T00:48:02Z"
+default_branch = "gh-pages"
+description = "using map to render data and make social activities"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "g0v/mapView"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 14_604_793
+language = "JavaScript"
+license = { }
+name = "mapView"
+node_id = "MDEwOlJlcG9zaXRvcnkxNDYwNDc5Mw=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_668_086
+  login = "g0v"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI2NjgwODY="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

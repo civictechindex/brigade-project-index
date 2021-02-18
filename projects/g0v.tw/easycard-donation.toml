@@ -1,6 +1,46 @@
 code_url = "https://github.com/g0v/easycard-donation"
 description = "data source: http://www.easycard.com.tw/news/post-page.aspx?id=1581"
-git_branch = "master"
 git_url = "git://github.com/g0v/easycard-donation.git"
-last_pushed_within = "over_a_year"
 name = "easycard-donation"
+organization_name = "g0v.tw"
+
+[github]
+archived = false
+created_at = "2017-11-11T04:53:36Z"
+default_branch = "master"
+description = "data source: http://www.easycard.com.tw/news/post-page.aspx?id=1581"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "g0v/easycard-donation"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 110_319_049
+language = "LiveScript"
+license = { }
+name = "easycard-donation"
+node_id = "MDEwOlJlcG9zaXRvcnkxMTAzMTkwNDk="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_668_086
+  login = "g0v"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI2NjgwODY="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

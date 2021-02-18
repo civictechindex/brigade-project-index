@@ -1,6 +1,46 @@
 code_url = "https://github.com/g0v/aqx-graphite"
 description = "A processor that sends AQX measures to graphite"
-git_branch = "master"
 git_url = "git://github.com/g0v/aqx-graphite.git"
-last_pushed_within = "over_a_year"
 name = "aqx-graphite"
+organization_name = "g0v.tw"
+
+[github]
+archived = false
+created_at = "2014-02-10T11:53:41Z"
+default_branch = "master"
+description = "A processor that sends AQX measures to graphite"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "g0v/aqx-graphite"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 16_693_837
+language = "Perl"
+license = { }
+name = "aqx-graphite"
+node_id = "MDEwOlJlcG9zaXRvcnkxNjY5MzgzNw=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_668_086
+  login = "g0v"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI2NjgwODY="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

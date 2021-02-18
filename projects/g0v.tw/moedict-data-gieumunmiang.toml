@@ -1,6 +1,46 @@
 code_url = "https://github.com/g0v/moedict-data-gieumunmiang"
 description = "狗問名客博資料集"
-git_branch = "master"
 git_url = "git://github.com/g0v/moedict-data-gieumunmiang.git"
-last_pushed_within = "over_a_year"
 name = "moedict-data-gieumunmiang"
+organization_name = "g0v.tw"
+
+[github]
+archived = false
+created_at = "2015-11-14T06:53:27Z"
+default_branch = "master"
+description = "狗問名客博資料集"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "g0v/moedict-data-gieumunmiang"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 46_164_964
+language = { }
+license = { }
+name = "moedict-data-gieumunmiang"
+node_id = "MDEwOlJlcG9zaXRvcnk0NjE2NDk2NA=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_668_086
+  login = "g0v"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI2NjgwODY="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

@@ -1,6 +1,46 @@
 code_url = "https://github.com/g0v/5050"
-git_branch = "master"
 git_url = "git://github.com/g0v/5050.git"
-last_pushed_within = "over_a_year"
 link_url = "http://g0v.github.io/5050/"
 name = "5050"
+organization_name = "g0v.tw"
+
+[github]
+archived = false
+created_at = "2014-10-12T14:13:52Z"
+default_branch = "master"
+description = { }
+disabled = false
+fork = false
+forks_within = 0
+full_name = "g0v/5050"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "http://g0v.github.io/5050/"
+id = 25_121_258
+language = "CSS"
+license = { }
+name = "5050"
+node_id = "MDEwOlJlcG9zaXRvcnkyNTEyMTI1OA=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_668_086
+  login = "g0v"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI2NjgwODY="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

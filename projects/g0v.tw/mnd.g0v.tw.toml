@@ -1,35 +1,40 @@
-code_url = "https://github.com/g0v/g0v.github.io"
-git_url = "git://github.com/g0v/g0v.github.io.git"
-name = "g0v.github.io"
+code_url = "https://github.com/g0v/mnd.g0v.tw"
+git_url = "git://github.com/g0v/mnd.g0v.tw.git"
+name = "mnd.g0v.tw"
 organization_name = "g0v.tw"
 
 [github]
 archived = false
-created_at = "2016-05-07T08:33:04Z"
-default_branch = "gh-pages"
+created_at = "2021-01-27T12:12:42Z"
+default_branch = "main"
 description = { }
 disabled = false
 fork = false
 forks_within = 0
-full_name = "g0v/g0v.github.io"
+full_name = "g0v/mnd.g0v.tw"
 has_downloads = true
 has_issues = true
-has_pages = true
+has_pages = false
 has_projects = true
 has_wiki = true
 homepage = { }
-id = 58_257_187
-language = "HTML"
-license = { }
-name = "g0v.github.io"
-node_id = "MDEwOlJlcG9zaXRvcnk1ODI1NzE4Nw=="
+id = 333_408_853
+language = "Vue"
+name = "mnd.g0v.tw"
+node_id = "MDEwOlJlcG9zaXRvcnkzMzM0MDg4NTM="
 open_issues_within = 0
 private = false
-pushed_within = "over_a_year"
+pushed_within = "month"
 stargazers_within = 0
 topics = [ ]
-updated_within = "over_a_year"
+updated_within = "month"
 watchers_within = 0
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
 
   [github.owner]
   gravatar_id = ""

@@ -1,6 +1,51 @@
 code_url = "https://github.com/g0v/g0vre"
 description = "Generic Reader/Extractor service for *.gov.tw URLs"
-git_branch = "master"
 git_url = "git://github.com/g0v/g0vre.git"
-last_pushed_within = "over_a_year"
 name = "g0vre"
+organization_name = "g0v.tw"
+
+[github]
+archived = false
+created_at = "2012-12-01T15:52:08Z"
+default_branch = "master"
+description = "Generic Reader/Extractor service for *.gov.tw URLs"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "g0v/g0vre"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 6_955_837
+language = "LiveScript"
+name = "g0vre"
+node_id = "MDEwOlJlcG9zaXRvcnk2OTU1ODM3"
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "year"
+watchers_within = 10
+
+  [github.license]
+  key = "cc0-1.0"
+  name = "Creative Commons Zero v1.0 Universal"
+  node_id = "MDc6TGljZW5zZTY="
+  spdx_id = "CC0-1.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_668_086
+  login = "g0v"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI2NjgwODY="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

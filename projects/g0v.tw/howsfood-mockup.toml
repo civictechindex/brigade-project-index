@@ -1,6 +1,46 @@
 code_url = "https://github.com/g0v/howsfood-mockup"
 description = "web and app for howsfood market"
-git_branch = "master"
 git_url = "git://github.com/g0v/howsfood-mockup.git"
-last_pushed_within = "over_a_year"
 name = "howsfood-mockup"
+organization_name = "g0v.tw"
+
+[github]
+archived = false
+created_at = "2015-02-17T15:01:55Z"
+default_branch = "master"
+description = "web and app for howsfood market"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "g0v/howsfood-mockup"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 30_921_871
+language = "CSS"
+license = { }
+name = "howsfood-mockup"
+node_id = "MDEwOlJlcG9zaXRvcnkzMDkyMTg3MQ=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_668_086
+  login = "g0v"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI2NjgwODY="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

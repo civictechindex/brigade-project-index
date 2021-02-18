@@ -1,6 +1,46 @@
 code_url = "https://github.com/g0v/kuansim-devops"
 description = "鄉民關心你的行政事務, 論壇維護及新手文件整理"
-git_branch = "master"
 git_url = "git://github.com/g0v/kuansim-devops.git"
-last_pushed_within = "over_a_year"
 name = "kuansim-devops"
+organization_name = "g0v.tw"
+
+[github]
+archived = false
+created_at = "2013-08-10T04:12:51Z"
+default_branch = "master"
+description = "鄉民關心你的行政事務, 論壇維護及新手文件整理"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "g0v/kuansim-devops"
+has_downloads = true
+has_issues = false
+has_pages = true
+has_projects = true
+has_wiki = false
+homepage = { }
+id = 12_015_425
+language = "Python"
+license = { }
+name = "kuansim-devops"
+node_id = "MDEwOlJlcG9zaXRvcnkxMjAxNTQyNQ=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_668_086
+  login = "g0v"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI2NjgwODY="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

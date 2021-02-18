@@ -1,6 +1,46 @@
 code_url = "https://github.com/g0v/editor"
 description = "g0v.json editor for every g0v project"
-git_branch = "develop"
 git_url = "git://github.com/g0v/editor.git"
-last_pushed_within = "year"
 name = "editor"
+organization_name = "g0v.tw"
+
+[github]
+archived = false
+created_at = "2016-07-03T06:07:48Z"
+default_branch = "develop"
+description = "g0v.json editor for every g0v project"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "g0v/editor"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 62_483_797
+language = "JavaScript"
+license = { }
+name = "editor"
+node_id = "MDEwOlJlcG9zaXRvcnk2MjQ4Mzc5Nw=="
+open_issues_within = 10
+private = false
+pushed_within = "year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_668_086
+  login = "g0v"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI2NjgwODY="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

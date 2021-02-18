@@ -1,7 +1,53 @@
 code_url = "https://github.com/g0v/goban"
 description = "hackfoldr改良版-有脈絡的大量網址分享器"
-git_branch = "master"
 git_url = "git://github.com/g0v/goban.git"
-last_pushed_within = "week"
-link_url = "http://goban.tw"
+link_url = "https://goban.tw"
 name = "goban"
+organization_name = "g0v.tw"
+topics = [ "goban", "hackfoldr" ]
+
+[github]
+archived = false
+created_at = "2014-12-08T07:02:13Z"
+default_branch = "master"
+description = "hackfoldr改良版-有脈絡的大量網址分享器"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "g0v/goban"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "https://goban.tw"
+id = 27_702_247
+language = "JavaScript"
+name = "goban"
+node_id = "MDEwOlJlcG9zaXRvcnkyNzcwMjI0Nw=="
+open_issues_within = 10
+private = false
+pushed_within = "month"
+stargazers_within = 10
+topics = [ "goban", "hackfoldr" ]
+updated_within = "month"
+watchers_within = 10
+
+  [github.license]
+  key = "cc0-1.0"
+  name = "Creative Commons Zero v1.0 Universal"
+  node_id = "MDc6TGljZW5zZTY="
+  spdx_id = "CC0-1.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_668_086
+  login = "g0v"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI2NjgwODY="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

@@ -1,8 +1,48 @@
 code_url = "https://github.com/g0v/councilor-voter-guide"
 description = "縣市長 / 議員 投票指南"
-git_branch = "master"
 git_url = "git://github.com/g0v/councilor-voter-guide.git"
-last_pushed_within = "over_a_year"
 link_url = "http://councils.g0v.tw/"
 name = "councilor-voter-guide"
+organization_name = "g0v.tw"
 topics = [ "civic-tech", "g0v", "voting" ]
+
+[github]
+archived = false
+created_at = "2014-04-03T14:19:10Z"
+default_branch = "master"
+description = "縣市長 / 議員 投票指南"
+disabled = false
+fork = false
+forks_within = 100
+full_name = "g0v/councilor-voter-guide"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "http://councils.g0v.tw/"
+id = 18_405_649
+language = "HTML"
+license = { }
+name = "councilor-voter-guide"
+node_id = "MDEwOlJlcG9zaXRvcnkxODQwNTY0OQ=="
+open_issues_within = 100
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 1_000
+topics = [ "civic-tech", "g0v", "voting" ]
+updated_within = "year"
+watchers_within = 1_000
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_668_086
+  login = "g0v"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI2NjgwODY="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

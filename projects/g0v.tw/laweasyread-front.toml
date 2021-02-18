@@ -1,7 +1,52 @@
 code_url = "https://github.com/g0v/laweasyread-front"
 description = "an extension for browsers to view Taiwan's law articles/websites easier"
-git_branch = "v1.x"
 git_url = "git://github.com/g0v/laweasyread-front.git"
-last_pushed_within = "over_a_year"
 link_url = "http://hack.g0v.tw/laweasyread"
 name = "laweasyread-front"
+organization_name = "g0v.tw"
+
+[github]
+archived = false
+created_at = "2013-08-09T12:27:44Z"
+default_branch = "v1.x"
+description = "an extension for browsers to view Taiwan's law articles/websites easier"
+disabled = false
+fork = true
+forks_within = 10
+full_name = "g0v/laweasyread-front"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "http://hack.g0v.tw/laweasyread"
+id = 12_000_416
+language = "JavaScript"
+name = "laweasyread-front"
+node_id = "MDEwOlJlcG9zaXRvcnkxMjAwMDQxNg=="
+open_issues_within = 100
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 100
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 100
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_668_086
+  login = "g0v"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI2NjgwODY="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

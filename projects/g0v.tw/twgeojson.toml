@@ -1,6 +1,46 @@
 code_url = "https://github.com/g0v/twgeojson"
 description = "geojson data for Taiwan"
-git_branch = "master"
 git_url = "git://github.com/g0v/twgeojson.git"
-last_pushed_within = "over_a_year"
 name = "twgeojson"
+organization_name = "g0v.tw"
+
+[github]
+archived = false
+created_at = "2012-11-07T10:52:18Z"
+default_branch = "master"
+description = "geojson data for Taiwan"
+disabled = false
+fork = false
+forks_within = 100
+full_name = "g0v/twgeojson"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 6_577_781
+language = "LiveScript"
+license = { }
+name = "twgeojson"
+node_id = "MDEwOlJlcG9zaXRvcnk2NTc3Nzgx"
+open_issues_within = 100
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 1_000
+topics = [ ]
+updated_within = "month"
+watchers_within = 1_000
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_668_086
+  login = "g0v"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI2NjgwODY="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

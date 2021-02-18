@@ -1,6 +1,46 @@
 code_url = "https://github.com/g0v/ly-committee"
 description = "Name lists of legislative committee members."
-git_branch = "master"
 git_url = "git://github.com/g0v/ly-committee.git"
-last_pushed_within = "over_a_year"
 name = "ly-committee"
+organization_name = "g0v.tw"
+
+[github]
+archived = false
+created_at = "2012-12-02T16:58:06Z"
+default_branch = "master"
+description = "Name lists of legislative committee members."
+disabled = false
+fork = false
+forks_within = 0
+full_name = "g0v/ly-committee"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 6_969_591
+language = { }
+license = { }
+name = "ly-committee"
+node_id = "MDEwOlJlcG9zaXRvcnk2OTY5NTkx"
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_668_086
+  login = "g0v"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI2NjgwODY="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

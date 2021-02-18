@@ -1,6 +1,51 @@
 code_url = "https://github.com/g0v/ruby_twly_crawler"
 description = "立法院爬蟲，抓取立委資訊並可隨屆次分割。"
-git_branch = "master"
 git_url = "git://github.com/g0v/ruby_twly_crawler.git"
-last_pushed_within = "year"
 name = "ruby_twly_crawler"
+organization_name = "g0v.tw"
+
+[github]
+archived = false
+created_at = "2019-03-06T12:30:21Z"
+default_branch = "master"
+description = "立法院爬蟲，抓取立委資訊並可隨屆次分割。"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "g0v/ruby_twly_crawler"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 174_141_255
+language = "Ruby"
+name = "ruby_twly_crawler"
+node_id = "MDEwOlJlcG9zaXRvcnkxNzQxNDEyNTU="
+open_issues_within = 10
+private = false
+pushed_within = "month"
+stargazers_within = 10
+topics = [ ]
+updated_within = "year"
+watchers_within = 10
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_668_086
+  login = "g0v"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI2NjgwODY="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

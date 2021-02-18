@@ -1,7 +1,52 @@
 code_url = "https://github.com/g0v/submit"
 description = "零時政府揪松團電子報投稿平台"
-git_branch = "master"
 git_url = "git://github.com/g0v/submit.git"
-last_pushed_within = "over_a_year"
 link_url = "http://submit.g0v.tw"
 name = "submit"
+organization_name = "g0v.tw"
+
+[github]
+archived = false
+created_at = "2016-07-27T15:42:37Z"
+default_branch = "master"
+description = "零時政府揪松團電子報投稿平台"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "g0v/submit"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "http://submit.g0v.tw"
+id = 64_321_107
+language = "LiveScript"
+name = "submit"
+node_id = "MDEwOlJlcG9zaXRvcnk2NDMyMTEwNw=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_668_086
+  login = "g0v"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI2NjgwODY="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

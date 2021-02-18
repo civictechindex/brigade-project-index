@@ -1,7 +1,47 @@
 code_url = "https://github.com/g0v/urbancode-commission"
 description = "開放都市計畫-都委會會議紀錄資料庫"
-git_branch = "master"
 git_url = "git://github.com/g0v/urbancode-commission.git"
-last_pushed_within = "year"
 name = "urbancode-commission"
+organization_name = "g0v.tw"
 topics = [ "g0v", "urbancode" ]
+
+[github]
+archived = false
+created_at = "2015-06-26T16:39:41Z"
+default_branch = "master"
+description = "開放都市計畫-都委會會議紀錄資料庫"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "g0v/urbancode-commission"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 38_122_009
+language = "PHP"
+license = { }
+name = "urbancode-commission"
+node_id = "MDEwOlJlcG9zaXRvcnkzODEyMjAwOQ=="
+open_issues_within = 10
+private = false
+pushed_within = "year"
+stargazers_within = 10
+topics = [ "g0v", "urbancode" ]
+updated_within = "year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_668_086
+  login = "g0v"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI2NjgwODY="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

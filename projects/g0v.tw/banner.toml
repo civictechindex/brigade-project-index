@@ -1,6 +1,46 @@
 code_url = "https://github.com/g0v/banner"
 description = "Code for a header that states that a website was made by the g0v team. "
-git_branch = "master"
 git_url = "git://github.com/g0v/banner.git"
-last_pushed_within = "over_a_year"
 name = "banner"
+organization_name = "g0v.tw"
+
+[github]
+archived = false
+created_at = "2018-11-14T12:29:09Z"
+default_branch = "master"
+description = "Code for a header that states that a website was made by the g0v team. "
+disabled = false
+fork = false
+forks_within = 10
+full_name = "g0v/banner"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 157_545_641
+language = "TypeScript"
+license = { }
+name = "banner"
+node_id = "MDEwOlJlcG9zaXRvcnkxNTc1NDU2NDE="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_668_086
+  login = "g0v"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI2NjgwODY="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

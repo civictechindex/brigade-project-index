@@ -1,6 +1,51 @@
 code_url = "https://github.com/g0v/twbudget"
 description = "twbudget hacks for yahoo hackday tw 2012"
-git_branch = "master"
 git_url = "git://github.com/g0v/twbudget.git"
-last_pushed_within = "year"
 name = "twbudget"
+organization_name = "g0v.tw"
+
+[github]
+archived = false
+created_at = "2012-10-21T02:02:40Z"
+default_branch = "master"
+description = "twbudget hacks for yahoo hackday tw 2012"
+disabled = false
+fork = false
+forks_within = 100
+full_name = "g0v/twbudget"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 6_315_924
+language = "LiveScript"
+name = "twbudget"
+node_id = "MDEwOlJlcG9zaXRvcnk2MzE1OTI0"
+open_issues_within = 100
+private = false
+pushed_within = "year"
+stargazers_within = 100
+topics = [ ]
+updated_within = "year"
+watchers_within = 100
+
+  [github.license]
+  key = "other"
+  name = "Other"
+  node_id = "MDc6TGljZW5zZTA="
+  spdx_id = "NOASSERTION"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_668_086
+  login = "g0v"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI2NjgwODY="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

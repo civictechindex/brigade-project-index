@@ -1,6 +1,46 @@
 code_url = "https://github.com/g0v/zh-stroke-data"
 description = "常用國字標準字體筆劃 XML 資料檔"
-git_branch = "master"
 git_url = "git://github.com/g0v/zh-stroke-data.git"
-last_pushed_within = "over_a_year"
 name = "zh-stroke-data"
+organization_name = "g0v.tw"
+
+[github]
+archived = false
+created_at = "2013-04-29T10:42:41Z"
+default_branch = "master"
+description = "常用國字標準字體筆劃 XML 資料檔"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "g0v/zh-stroke-data"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 9_745_950
+language = "JavaScript"
+license = { }
+name = "zh-stroke-data"
+node_id = "MDEwOlJlcG9zaXRvcnk5NzQ1OTUw"
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 100
+topics = [ ]
+updated_within = "year"
+watchers_within = 100
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_668_086
+  login = "g0v"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI2NjgwODY="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

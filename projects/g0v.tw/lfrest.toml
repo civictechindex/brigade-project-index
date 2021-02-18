@@ -1,6 +1,46 @@
 code_url = "https://github.com/g0v/lfrest"
 description = "Reimplementation of lfapi with pgrest"
-git_branch = "master"
 git_url = "git://github.com/g0v/lfrest.git"
-last_pushed_within = "over_a_year"
 name = "lfrest"
+organization_name = "g0v.tw"
+
+[github]
+archived = false
+created_at = "2013-06-24T10:11:28Z"
+default_branch = "master"
+description = "Reimplementation of lfapi with pgrest"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "g0v/lfrest"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 10_904_848
+language = "LiveScript"
+license = { }
+name = "lfrest"
+node_id = "MDEwOlJlcG9zaXRvcnkxMDkwNDg0OA=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_668_086
+  login = "g0v"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI2NjgwODY="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

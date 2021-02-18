@@ -1,6 +1,51 @@
 code_url = "https://github.com/g0v/i64885"
 description = "A request tracking and notification system for legal aid.  Helping political victims in emergency situation.  "
-git_branch = "master"
 git_url = "git://github.com/g0v/i64885.git"
-last_pushed_within = "over_a_year"
 name = "i64885"
+organization_name = "g0v.tw"
+
+[github]
+archived = false
+created_at = "2013-08-11T12:32:55Z"
+default_branch = "master"
+description = "A request tracking and notification system for legal aid.  Helping political victims in emergency situation.  "
+disabled = false
+fork = false
+forks_within = 10
+full_name = "g0v/i64885"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 12_035_642
+language = { }
+name = "i64885"
+node_id = "MDEwOlJlcG9zaXRvcnkxMjAzNTY0Mg=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_668_086
+  login = "g0v"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI2NjgwODY="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

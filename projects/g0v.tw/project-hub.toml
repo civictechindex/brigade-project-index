@@ -1,6 +1,46 @@
 code_url = "https://github.com/g0v/project-hub"
 description = "project hub (read only version)"
-git_branch = "gh-pages"
 git_url = "git://github.com/g0v/project-hub.git"
-last_pushed_within = "over_a_year"
 name = "project-hub"
+organization_name = "g0v.tw"
+
+[github]
+archived = false
+created_at = "2014-12-10T11:04:41Z"
+default_branch = "gh-pages"
+description = "project hub (read only version)"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "g0v/project-hub"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 27_815_960
+language = { }
+license = { }
+name = "project-hub"
+node_id = "MDEwOlJlcG9zaXRvcnkyNzgxNTk2MA=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_668_086
+  login = "g0v"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI2NjgwODY="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
