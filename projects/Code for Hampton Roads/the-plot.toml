@@ -1,7 +1,47 @@
 code_url = "https://github.com/Code4HR/the-plot"
 description = "plotting"
-git_branch = "gh-pages"
 git_url = "git://github.com/Code4HR/the-plot.git"
-last_pushed_within = "over_a_year"
 link_url = "theplotnfk.com"
 name = "the-plot"
+organization_name = "Code for Hampton Roads"
+
+[github]
+archived = false
+created_at = "2014-07-16T06:47:07Z"
+default_branch = "gh-pages"
+description = "plotting"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "Code4HR/the-plot"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "theplotnfk.com"
+id = 21_889_955
+language = "JavaScript"
+license = { }
+name = "the-plot"
+node_id = "MDEwOlJlcG9zaXRvcnkyMTg4OTk1NQ=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 1_490_563
+  login = "Code4HR"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE0OTA1NjM="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

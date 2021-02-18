@@ -1,6 +1,46 @@
 code_url = "https://github.com/Code4HR/okcandidate-swipe-ui-prototype"
-git_branch = "master"
 git_url = "git://github.com/Code4HR/okcandidate-swipe-ui-prototype.git"
-last_pushed_within = "over_a_year"
 name = "okcandidate-swipe-ui-prototype"
+organization_name = "Code for Hampton Roads"
 topics = [ "active" ]
+
+[github]
+archived = false
+created_at = "2017-01-25T16:19:10Z"
+default_branch = "master"
+description = { }
+disabled = false
+fork = false
+forks_within = 10
+full_name = "Code4HR/okcandidate-swipe-ui-prototype"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 80_031_992
+language = "JavaScript"
+license = { }
+name = "okcandidate-swipe-ui-prototype"
+node_id = "MDEwOlJlcG9zaXRvcnk4MDAzMTk5Mg=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ "active" ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 1_490_563
+  login = "Code4HR"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE0OTA1NjM="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

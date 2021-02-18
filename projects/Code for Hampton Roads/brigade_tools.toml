@@ -1,7 +1,47 @@
 code_url = "https://github.com/Code4HR/brigade_tools"
 description = "Forkable tools of the Code for America Brigade"
-git_branch = "master"
 git_url = "git://github.com/Code4HR/brigade_tools.git"
-last_pushed_within = "over_a_year"
 name = "brigade_tools"
+organization_name = "Code for Hampton Roads"
 topics = [ "deprecated" ]
+
+[github]
+archived = false
+created_at = "2013-05-14T04:42:23Z"
+default_branch = "master"
+description = "Forkable tools of the Code for America Brigade"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "Code4HR/brigade_tools"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 10_047_329
+language = { }
+license = { }
+name = "brigade_tools"
+node_id = "MDEwOlJlcG9zaXRvcnkxMDA0NzMyOQ=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ "deprecated" ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 1_490_563
+  login = "Code4HR"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE0OTA1NjM="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

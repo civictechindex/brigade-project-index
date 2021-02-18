@@ -1,5 +1,45 @@
 code_url = "https://github.com/Code4HR/magazinedistrict"
-git_branch = "gh-pages"
 git_url = "git://github.com/Code4HR/magazinedistrict.git"
-last_pushed_within = "over_a_year"
 name = "magazinedistrict"
+organization_name = "Code for Hampton Roads"
+
+[github]
+archived = false
+created_at = "2014-07-16T06:45:45Z"
+default_branch = "gh-pages"
+description = { }
+disabled = false
+fork = true
+forks_within = 0
+full_name = "Code4HR/magazinedistrict"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 21_889_921
+language = { }
+license = { }
+name = "magazinedistrict"
+node_id = "MDEwOlJlcG9zaXRvcnkyMTg4OTkyMQ=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 1_490_563
+  login = "Code4HR"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE0OTA1NjM="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

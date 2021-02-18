@@ -1,8 +1,53 @@
 code_url = "https://github.com/Code4HR/okcandidate-v1"
 description = "A platform for matching candidates with voters."
-git_branch = "develop"
 git_url = "git://github.com/Code4HR/okcandidate-v1.git"
-last_pushed_within = "over_a_year"
 link_url = "http://okcandidate.code4hr.org"
 name = "okcandidate-v1"
+organization_name = "Code for Hampton Roads"
 topics = [ "official", "okcandidate" ]
+
+[github]
+archived = false
+created_at = "2016-02-03T23:41:33Z"
+default_branch = "develop"
+description = "A platform for matching candidates with voters."
+disabled = false
+fork = false
+forks_within = 10
+full_name = "Code4HR/okcandidate-v1"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://okcandidate.code4hr.org"
+id = 51_038_900
+language = "JavaScript"
+name = "okcandidate-v1"
+node_id = "MDEwOlJlcG9zaXRvcnk1MTAzODkwMA=="
+open_issues_within = 100
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 100
+topics = [ "official", "okcandidate" ]
+updated_within = "over_a_year"
+watchers_within = 100
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 1_490_563
+  login = "Code4HR"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE0OTA1NjM="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

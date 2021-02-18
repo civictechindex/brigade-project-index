@@ -1,6 +1,51 @@
 code_url = "https://github.com/Code4HR/Alexa_NavO"
 description = '"Alexa, what is the tide at Little Neck Creek?"'
-git_branch = "master"
 git_url = "git://github.com/Code4HR/Alexa_NavO.git"
-last_pushed_within = "over_a_year"
 name = "Alexa_NavO"
+organization_name = "Code for Hampton Roads"
+
+[github]
+archived = false
+created_at = "2017-10-24T01:53:10Z"
+default_branch = "master"
+description = '"Alexa, what is the tide at Little Neck Creek?"'
+disabled = false
+fork = true
+forks_within = 10
+full_name = "Code4HR/Alexa_NavO"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 108_063_528
+language = "JavaScript"
+name = "Alexa_NavO"
+node_id = "MDEwOlJlcG9zaXRvcnkxMDgwNjM1Mjg="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "other"
+  name = "Other"
+  node_id = "MDc6TGljZW5zZTA="
+  spdx_id = "NOASSERTION"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 1_490_563
+  login = "Code4HR"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE0OTA1NjM="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

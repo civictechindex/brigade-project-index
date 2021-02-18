@@ -1,5 +1,50 @@
 code_url = "https://github.com/Code4HR/adopt-a-drain-legacy"
-git_branch = "master"
 git_url = "git://github.com/Code4HR/adopt-a-drain-legacy.git"
-last_pushed_within = "over_a_year"
 name = "adopt-a-drain-legacy"
+organization_name = "Code for Hampton Roads"
+
+[github]
+archived = false
+created_at = "2017-10-18T23:13:32Z"
+default_branch = "master"
+description = { }
+disabled = false
+fork = false
+forks_within = 0
+full_name = "Code4HR/adopt-a-drain-legacy"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 107_473_268
+language = "Ruby"
+name = "adopt-a-drain-legacy"
+node_id = "MDEwOlJlcG9zaXRvcnkxMDc0NzMyNjg="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "bsd-3-clause"
+  name = 'BSD 3-Clause "New" or "Revised" License'
+  node_id = "MDc6TGljZW5zZTU="
+  spdx_id = "BSD-3-Clause"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 1_490_563
+  login = "Code4HR"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE0OTA1NjM="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

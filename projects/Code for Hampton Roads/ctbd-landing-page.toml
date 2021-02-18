@@ -1,7 +1,47 @@
 code_url = "https://github.com/Code4HR/ctbd-landing-page"
 description = "CleanTheBayDay.net landing page for when reporting app isn't live"
-git_branch = "gh-pages"
 git_url = "git://github.com/Code4HR/ctbd-landing-page.git"
-last_pushed_within = "over_a_year"
 name = "ctbd-landing-page"
+organization_name = "Code for Hampton Roads"
 topics = [ "deprecated" ]
+
+[github]
+archived = false
+created_at = "2013-06-21T20:57:04Z"
+default_branch = "gh-pages"
+description = "CleanTheBayDay.net landing page for when reporting app isn't live"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "Code4HR/ctbd-landing-page"
+has_downloads = true
+has_issues = false
+has_pages = true
+has_projects = true
+has_wiki = false
+homepage = { }
+id = 10_852_338
+language = { }
+license = { }
+name = "ctbd-landing-page"
+node_id = "MDEwOlJlcG9zaXRvcnkxMDg1MjMzOA=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ "deprecated" ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 1_490_563
+  login = "Code4HR"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE0OTA1NjM="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

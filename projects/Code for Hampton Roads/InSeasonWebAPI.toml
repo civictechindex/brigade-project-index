@@ -1,6 +1,51 @@
 code_url = "https://github.com/Code4HR/InSeasonWebAPI"
-git_branch = "master"
 git_url = "git://github.com/Code4HR/InSeasonWebAPI.git"
-last_pushed_within = "over_a_year"
 name = "InSeasonWebAPI"
+organization_name = "Code for Hampton Roads"
 topics = [ "deprecated", "hackathon", "winner" ]
+
+[github]
+archived = false
+created_at = "2015-10-24T17:57:37Z"
+default_branch = "master"
+description = { }
+disabled = false
+fork = true
+forks_within = 10
+full_name = "Code4HR/InSeasonWebAPI"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 44_877_853
+language = "C#"
+name = "InSeasonWebAPI"
+node_id = "MDEwOlJlcG9zaXRvcnk0NDg3Nzg1Mw=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ "deprecated", "hackathon", "winner" ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 1_490_563
+  login = "Code4HR"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE0OTA1NjM="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

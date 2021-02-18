@@ -1,8 +1,48 @@
 code_url = "https://github.com/Code4HR/hrt-bus-finder"
 description = "Web app for the HRT bus API, GitHub Pages, @bschoenfeld and @wbprice"
-git_branch = "gh-pages"
 git_url = "git://github.com/Code4HR/hrt-bus-finder.git"
-last_pushed_within = "year"
 link_url = "hrtb.us"
 name = "hrt-bus-finder"
+organization_name = "Code for Hampton Roads"
 topics = [ "hrtbus", "official" ]
+
+[github]
+archived = false
+created_at = "2013-06-01T15:02:08Z"
+default_branch = "gh-pages"
+description = "Web app for the HRT bus API, GitHub Pages, @bschoenfeld and @wbprice"
+disabled = false
+fork = false
+forks_within = 100
+full_name = "Code4HR/hrt-bus-finder"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "hrtb.us"
+id = 10_423_858
+language = "JavaScript"
+license = { }
+name = "hrt-bus-finder"
+node_id = "MDEwOlJlcG9zaXRvcnkxMDQyMzg1OA=="
+open_issues_within = 100
+private = false
+pushed_within = "year"
+stargazers_within = 100
+topics = [ "hrtbus", "official" ]
+updated_within = "year"
+watchers_within = 100
+
+  [github.owner]
+  gravatar_id = ""
+  id = 1_490_563
+  login = "Code4HR"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE0OTA1NjM="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

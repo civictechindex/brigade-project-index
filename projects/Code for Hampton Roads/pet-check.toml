@@ -1,8 +1,53 @@
 code_url = "https://github.com/Code4HR/pet-check"
 description = "Check pet suppliers (USDA licensee) inspection history and status, C#, @VACoder"
-git_branch = "master"
 git_url = "git://github.com/Code4HR/pet-check.git"
-last_pushed_within = "over_a_year"
 link_url = "http://pets.c4hrva.us"
 name = "pet-check"
+organization_name = "Code for Hampton Roads"
 topics = [ "deprecated" ]
+
+[github]
+archived = false
+created_at = "2013-08-07T23:39:35Z"
+default_branch = "master"
+description = "Check pet suppliers (USDA licensee) inspection history and status, C#, @VACoder"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "Code4HR/pet-check"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = false
+homepage = "http://pets.c4hrva.us"
+id = 11_963_185
+language = "JavaScript"
+name = "pet-check"
+node_id = "MDEwOlJlcG9zaXRvcnkxMTk2MzE4NQ=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ "deprecated" ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 1_490_563
+  login = "Code4HR"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE0OTA1NjM="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

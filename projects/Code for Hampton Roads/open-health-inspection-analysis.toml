@@ -1,6 +1,46 @@
 code_url = "https://github.com/Code4HR/open-health-inspection-analysis"
-git_branch = "master"
 git_url = "git://github.com/Code4HR/open-health-inspection-analysis.git"
-last_pushed_within = "over_a_year"
 name = "open-health-inspection-analysis"
+organization_name = "Code for Hampton Roads"
 topics = [ "active" ]
+
+[github]
+archived = false
+created_at = "2017-03-02T00:18:37Z"
+default_branch = "master"
+description = { }
+disabled = false
+fork = true
+forks_within = 0
+full_name = "Code4HR/open-health-inspection-analysis"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 83_615_076
+language = "Jupyter Notebook"
+license = { }
+name = "open-health-inspection-analysis"
+node_id = "MDEwOlJlcG9zaXRvcnk4MzYxNTA3Ng=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ "active" ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 1_490_563
+  login = "Code4HR"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE0OTA1NjM="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

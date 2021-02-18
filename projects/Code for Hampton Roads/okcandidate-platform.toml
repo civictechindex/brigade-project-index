@@ -1,8 +1,53 @@
 code_url = "https://github.com/Code4HR/okcandidate-platform"
 description = "Don’t go to the polls alone. Find your OKCandidate."
-git_branch = "develop"
 git_url = "git://github.com/Code4HR/okcandidate-platform.git"
-last_pushed_within = "year"
 link_url = "https://okcandidate-dev.herokuapp.com/"
 name = "okcandidate-platform"
+organization_name = "Code for Hampton Roads"
 topics = [ "active", "official", "okcandidate" ]
+
+[github]
+archived = false
+created_at = "2016-11-07T18:55:35Z"
+default_branch = "develop"
+description = "Don’t go to the polls alone. Find your OKCandidate."
+disabled = false
+fork = false
+forks_within = 100
+full_name = "Code4HR/okcandidate-platform"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "https://okcandidate-dev.herokuapp.com/"
+id = 73_110_480
+language = "JavaScript"
+name = "okcandidate-platform"
+node_id = "MDEwOlJlcG9zaXRvcnk3MzExMDQ4MA=="
+open_issues_within = 100
+private = false
+pushed_within = "month"
+stargazers_within = 10
+topics = [ "active", "official", "okcandidate" ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 1_490_563
+  login = "Code4HR"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE0OTA1NjM="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

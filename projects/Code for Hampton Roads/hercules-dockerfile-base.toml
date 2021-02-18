@@ -1,7 +1,52 @@
 code_url = "https://github.com/Code4HR/hercules-dockerfile-base"
 description = "For faster docker image builds, put compose and requirements in it's own image"
-git_branch = "master"
 git_url = "git://github.com/Code4HR/hercules-dockerfile-base.git"
-last_pushed_within = "over_a_year"
 name = "hercules-dockerfile-base"
+organization_name = "Code for Hampton Roads"
 topics = [ "hackathon", "hercules" ]
+
+[github]
+archived = false
+created_at = "2016-01-19T15:54:52Z"
+default_branch = "master"
+description = "For faster docker image builds, put compose and requirements in it's own image"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "Code4HR/hercules-dockerfile-base"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 49_963_727
+language = { }
+name = "hercules-dockerfile-base"
+node_id = "MDEwOlJlcG9zaXRvcnk0OTk2MzcyNw=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ "hackathon", "hercules" ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 1_490_563
+  login = "Code4HR"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE0OTA1NjM="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

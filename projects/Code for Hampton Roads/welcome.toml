@@ -1,8 +1,53 @@
 code_url = "https://github.com/Code4HR/welcome"
 description = "Indoc for new brigade members, GitHub Pages, @BretFisher and @bcbarsness"
-git_branch = "gh-pages"
 git_url = "git://github.com/Code4HR/welcome.git"
-last_pushed_within = "over_a_year"
 link_url = "http://welcome.code4hr.org"
 name = "welcome"
+organization_name = "Code for Hampton Roads"
 topics = [ "official" ]
+
+[github]
+archived = false
+created_at = "2013-07-25T00:52:15Z"
+default_branch = "gh-pages"
+description = "Indoc for new brigade members, GitHub Pages, @BretFisher and @bcbarsness"
+disabled = false
+fork = false
+forks_within = 100
+full_name = "Code4HR/welcome"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = false
+homepage = "http://welcome.code4hr.org"
+id = 11_648_716
+language = "HTML"
+name = "welcome"
+node_id = "MDEwOlJlcG9zaXRvcnkxMTY0ODcxNg=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ "official" ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 1_490_563
+  login = "Code4HR"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE0OTA1NjM="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
