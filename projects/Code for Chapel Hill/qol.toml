@@ -1,6 +1,51 @@
 code_url = "https://github.com/code-for-chapel-hill/qol"
 description = "Town of Chapel Hill Quality of Life Platform"
-git_branch = "master"
 git_url = "git://github.com/code-for-chapel-hill/qol.git"
-last_pushed_within = "year"
 name = "qol"
+organization_name = "Code for Chapel Hill"
+
+[github]
+archived = false
+created_at = "2020-02-27T01:24:58Z"
+default_branch = "master"
+description = "Town of Chapel Hill Quality of Life Platform"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "code-for-chapel-hill/qol"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 243_402_879
+language = "R"
+name = "qol"
+node_id = "MDEwOlJlcG9zaXRvcnkyNDM0MDI4Nzk="
+open_issues_within = 0
+private = false
+pushed_within = "year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "year"
+watchers_within = 0
+
+  [github.license]
+  key = "gpl-3.0"
+  name = "GNU General Public License v3.0"
+  node_id = "MDc6TGljZW5zZTk="
+  spdx_id = "GPL-3.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 47_088_442
+  login = "code-for-chapel-hill"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjQ3MDg4NDQy"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

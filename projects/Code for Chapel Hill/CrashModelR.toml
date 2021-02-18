@@ -1,6 +1,46 @@
 code_url = "https://github.com/code-for-chapel-hill/CrashModelR"
 description = "R code for Crash Model project"
-git_branch = "master"
 git_url = "git://github.com/code-for-chapel-hill/CrashModelR.git"
-last_pushed_within = "over_a_year"
 name = "CrashModelR"
+organization_name = "Code for Chapel Hill"
+
+[github]
+archived = false
+created_at = "2019-04-01T23:37:23Z"
+default_branch = "master"
+description = "R code for Crash Model project"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "code-for-chapel-hill/CrashModelR"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 178_963_472
+language = "R"
+license = { }
+name = "CrashModelR"
+node_id = "MDEwOlJlcG9zaXRvcnkxNzg5NjM0NzI="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 47_088_442
+  login = "code-for-chapel-hill"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjQ3MDg4NDQy"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

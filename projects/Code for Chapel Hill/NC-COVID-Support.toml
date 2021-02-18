@@ -1,10 +1,9 @@
 code_url = "https://github.com/code-for-chapel-hill/NC-COVID-Support"
 description = "Community support site, supporting COVID-19 business opening hours, Food Banks, School Meals, Farms and Social Services."
-git_branch = "master"
 git_url = "git://github.com/code-for-chapel-hill/NC-COVID-Support.git"
-last_pushed_within = "year"
 link_url = "https://nccovidsupport.org"
 name = "NC-COVID-Support"
+organization_name = "Code for Chapel Hill"
 topics = [
   "civictechindex",
   "code-for-all",
@@ -19,3 +18,62 @@ topics = [
   "rapid-response",
   "vuejs"
 ]
+
+[github]
+archived = false
+created_at = "2020-03-18T19:12:59Z"
+default_branch = "master"
+description = "Community support site, supporting COVID-19 business opening hours, Food Banks, School Meals, Farms and Social Services."
+disabled = false
+fork = false
+forks_within = 100
+full_name = "code-for-chapel-hill/NC-COVID-Support"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "https://nccovidsupport.org"
+id = 248_320_946
+language = "Vue"
+name = "NC-COVID-Support"
+node_id = "MDEwOlJlcG9zaXRvcnkyNDgzMjA5NDY="
+open_issues_within = 100
+private = false
+pushed_within = "month"
+stargazers_within = 100
+topics = [
+  "civictechindex",
+  "code-for-all",
+  "code-for-america",
+  "code-for-chapel-hill",
+  "covid-19",
+  "covid-support",
+  "hacktoberfest",
+  "leaflet",
+  "open-source",
+  "opensource",
+  "rapid-response",
+  "vuejs"
+]
+updated_within = "week"
+watchers_within = 100
+
+  [github.license]
+  key = "gpl-3.0"
+  name = "GNU General Public License v3.0"
+  node_id = "MDc6TGljZW5zZTk="
+  spdx_id = "GPL-3.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 47_088_442
+  login = "code-for-chapel-hill"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjQ3MDg4NDQy"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
