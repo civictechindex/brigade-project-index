@@ -1,7 +1,52 @@
 code_url = "https://github.com/caciviclab/django-calaccess-raw-data"
 description = "A Django app to download, extract and load campaign finance and lobbying activity data from the California Secretary of State's CAL-ACCESS database"
-git_branch = "master"
 git_url = "git://github.com/caciviclab/django-calaccess-raw-data.git"
-last_pushed_within = "over_a_year"
 link_url = "http://django-calaccess-raw-data.californiacivicdata.org"
 name = "django-calaccess-raw-data"
+organization_name = "California Civic Lab"
+
+[github]
+archived = false
+created_at = "2015-10-17T20:44:26Z"
+default_branch = "master"
+description = "A Django app to download, extract and load campaign finance and lobbying activity data from the California Secretary of State's CAL-ACCESS database"
+disabled = false
+fork = true
+forks_within = 0
+full_name = "caciviclab/django-calaccess-raw-data"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = false
+homepage = "http://django-calaccess-raw-data.californiacivicdata.org"
+id = 44_453_852
+language = "Python"
+name = "django-calaccess-raw-data"
+node_id = "MDEwOlJlcG9zaXRvcnk0NDQ1Mzg1Mg=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 9_602_455
+  login = "caciviclab"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjk2MDI0NTU="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

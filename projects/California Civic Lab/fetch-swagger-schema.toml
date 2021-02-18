@@ -1,6 +1,51 @@
 code_url = "https://github.com/caciviclab/fetch-swagger-schema"
 description = "Given a url to a swagger api-docs spec, loads it and all related resource declarations as one JSON object."
-git_branch = "master"
 git_url = "git://github.com/caciviclab/fetch-swagger-schema.git"
-last_pushed_within = "over_a_year"
 name = "fetch-swagger-schema"
+organization_name = "California Civic Lab"
+
+[github]
+archived = false
+created_at = "2015-11-07T19:49:46Z"
+default_branch = "master"
+description = "Given a url to a swagger api-docs spec, loads it and all related resource declarations as one JSON object."
+disabled = false
+fork = true
+forks_within = 0
+full_name = "caciviclab/fetch-swagger-schema"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 45_751_886
+language = "JavaScript"
+name = "fetch-swagger-schema"
+node_id = "MDEwOlJlcG9zaXRvcnk0NTc1MTg4Ng=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "other"
+  name = "Other"
+  node_id = "MDc6TGljZW5zZTA="
+  spdx_id = "NOASSERTION"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 9_602_455
+  login = "caciviclab"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjk2MDI0NTU="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

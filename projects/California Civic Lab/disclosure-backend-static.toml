@@ -1,10 +1,9 @@
 code_url = "https://github.com/caciviclab/disclosure-backend-static"
 description = "Campaign finance data powering Open Disclosure California"
-git_branch = "master"
 git_url = "git://github.com/caciviclab/disclosure-backend-static.git"
-last_pushed_within = "week"
 link_url = "https://caciviclab.org/odca-jekyll/"
 name = "disclosure-backend-static"
+organization_name = "California Civic Lab"
 topics = [
   "california",
   "campaign-finance",
@@ -13,3 +12,51 @@ topics = [
   "ruby",
   "static-site"
 ]
+
+[github]
+archived = false
+created_at = "2016-09-05T23:48:28Z"
+default_branch = "master"
+description = "Campaign finance data powering Open Disclosure California"
+disabled = false
+fork = false
+forks_within = 100
+full_name = "caciviclab/disclosure-backend-static"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "https://caciviclab.org/odca-jekyll/"
+id = 67_457_672
+language = "Ruby"
+license = { }
+name = "disclosure-backend-static"
+node_id = "MDEwOlJlcG9zaXRvcnk2NzQ1NzY3Mg=="
+open_issues_within = 100
+private = false
+pushed_within = "week"
+stargazers_within = 10
+topics = [
+  "california",
+  "campaign-finance",
+  "code-for-america",
+  "openoakland",
+  "ruby",
+  "static-site"
+]
+updated_within = "week"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 9_602_455
+  login = "caciviclab"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjk2MDI0NTU="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

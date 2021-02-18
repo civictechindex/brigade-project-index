@@ -1,7 +1,47 @@
 code_url = "https://github.com/caciviclab/Discussions"
 description = "Where we(re) discuss things using GitHub Issues"
-git_branch = "master"
 git_url = "git://github.com/caciviclab/Discussions.git"
-last_pushed_within = "over_a_year"
 link_url = "http://104.131.98.144/"
 name = "Discussions"
+organization_name = "California Civic Lab"
+
+[github]
+archived = false
+created_at = "2014-11-25T20:01:10Z"
+default_branch = "master"
+description = "Where we(re) discuss things using GitHub Issues"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "caciviclab/Discussions"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://104.131.98.144/"
+id = 27_143_562
+language = { }
+license = { }
+name = "Discussions"
+node_id = "MDEwOlJlcG9zaXRvcnkyNzE0MzU2Mg=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 9_602_455
+  login = "caciviclab"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjk2MDI0NTU="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
