@@ -1,7 +1,69 @@
 code_url = "https://github.com/CivicTechTO/open-cabinet"
 description = "Making it easier to discover what Canada's federal cabinet is up to."
-last_pushed_within = "over_a_year"
 link_url = "opencabinet.ca"
 name = "OpenCabinet"
+organization_name = "Civic Tech Toronto"
 status = "alpha"
 topics = [ "canada", "democracy", "opendata", "parliament" ]
+
+[github]
+archived = false
+created_at = "2015-12-09T01:24:33Z"
+default_branch = "master"
+description = { }
+disabled = false
+fork = false
+forks_within = 10
+full_name = "CivicTechTO/open-cabinet"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 47_660_451
+language = "Python"
+name = "open-cabinet"
+network_count = 2
+node_id = "MDEwOlJlcG9zaXRvcnk0NzY2MDQ1MQ=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+subscribers_count = 3
+temp_clone_token = ""
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.organization]
+  gravatar_id = ""
+  id = 13_970_794
+  login = "CivicTechTO"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjEzOTcwNzk0"
+  site_admin = false
+  type = "Organization"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 13_970_794
+  login = "CivicTechTO"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjEzOTcwNzk0"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
+
+[projects_list_extra]
+lead_github = "alox"
+lead_slack = "alox"
+lead_twitter = "alox"
