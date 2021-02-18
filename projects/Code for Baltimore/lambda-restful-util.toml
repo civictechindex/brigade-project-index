@@ -1,0 +1,52 @@
+code_url = "https://github.com/CodeForBaltimore/lambda-restful-util"
+description = "A utility package for API's built using AWS Lambda."
+git_url = "git://github.com/CodeForBaltimore/lambda-restful-util.git"
+name = "lambda-restful-util"
+organization_name = "Code for Baltimore"
+topics = [ "api-rest", "lambda", "typescript", "utility" ]
+
+[github]
+archived = false
+created_at = "2021-02-13T14:44:04Z"
+default_branch = "main"
+description = "A utility package for API's built using AWS Lambda."
+disabled = false
+fork = false
+forks_within = 0
+full_name = "CodeForBaltimore/lambda-restful-util"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = false
+has_wiki = false
+homepage = ""
+id = 338_595_547
+language = "TypeScript"
+name = "lambda-restful-util"
+node_id = "MDEwOlJlcG9zaXRvcnkzMzg1OTU1NDc="
+open_issues_within = 10
+private = false
+pushed_within = "week"
+stargazers_within = 0
+topics = [ "api-rest", "lambda", "typescript", "utility" ]
+updated_within = "week"
+watchers_within = 0
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 23_199_310
+  login = "CodeForBaltimore"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjIzMTk5MzEw"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

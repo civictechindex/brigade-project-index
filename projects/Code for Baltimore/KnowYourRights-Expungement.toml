@@ -1,5 +1,50 @@
 code_url = "https://github.com/CodeForBaltimore/KnowYourRights-Expungement"
-git_branch = "master"
 git_url = "git://github.com/CodeForBaltimore/KnowYourRights-Expungement.git"
-last_pushed_within = "month"
 name = "KnowYourRights-Expungement"
+organization_name = "Code for Baltimore"
+
+[github]
+archived = false
+created_at = "2020-07-08T22:43:20Z"
+default_branch = "master"
+description = { }
+disabled = false
+fork = false
+forks_within = 10
+full_name = "CodeForBaltimore/KnowYourRights-Expungement"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 278_209_175
+language = "JavaScript"
+name = "KnowYourRights-Expungement"
+node_id = "MDEwOlJlcG9zaXRvcnkyNzgyMDkxNzU="
+open_issues_within = 10
+private = false
+pushed_within = "month"
+stargazers_within = 0
+topics = [ ]
+updated_within = "year"
+watchers_within = 0
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 23_199_310
+  login = "CodeForBaltimore"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjIzMTk5MzEw"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

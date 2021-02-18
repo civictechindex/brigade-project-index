@@ -1,10 +1,9 @@
 code_url = "https://github.com/CodeForBaltimore/Healthcare-Rollcall"
 description = "A system to track the status of healthcare providers during and after a disaster."
-git_branch = "master"
 git_url = "git://github.com/CodeForBaltimore/Healthcare-Rollcall.git"
-last_pushed_within = "week"
 link_url = "https://healthcare-rollcall.netlify.com/"
 name = "Healthcare-Rollcall"
+organization_name = "Code for Baltimore"
 topics = [
   "baltimore-city",
   "civic-tech",
@@ -16,3 +15,59 @@ topics = [
   "rapid-response",
   "vuejs"
 ]
+
+[github]
+archived = false
+created_at = "2019-11-10T00:36:12Z"
+default_branch = "master"
+description = "A system to track the status of healthcare providers during and after a disaster."
+disabled = false
+fork = false
+forks_within = 100
+full_name = "CodeForBaltimore/Healthcare-Rollcall"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = false
+homepage = "https://healthcare-rollcall.netlify.com/"
+id = 220_722_071
+language = "Vue"
+name = "Healthcare-Rollcall"
+node_id = "MDEwOlJlcG9zaXRvcnkyMjA3MjIwNzE="
+open_issues_within = 100
+private = false
+pushed_within = "week"
+stargazers_within = 10
+topics = [
+  "baltimore-city",
+  "civic-tech",
+  "code-for-america",
+  "code-for-baltimore",
+  "covid-19",
+  "emergency-response",
+  "healthcare",
+  "rapid-response",
+  "vuejs"
+]
+updated_within = "month"
+watchers_within = 10
+
+  [github.license]
+  key = "apache-2.0"
+  name = "Apache License 2.0"
+  node_id = "MDc6TGljZW5zZTI="
+  spdx_id = "Apache-2.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 23_199_310
+  login = "CodeForBaltimore"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjIzMTk5MzEw"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

@@ -1,6 +1,51 @@
 code_url = "https://github.com/CodeForBaltimore/codeforbaltimore.org"
 description = "The Code for Baltimore website."
-git_branch = "master"
 git_url = "git://github.com/CodeForBaltimore/codeforbaltimore.org.git"
-last_pushed_within = "week"
 name = "codeforbaltimore.org"
+organization_name = "Code for Baltimore"
+
+[github]
+archived = false
+created_at = "2019-12-19T19:44:51Z"
+default_branch = "master"
+description = "The Code for Baltimore website."
+disabled = false
+fork = false
+forks_within = 10
+full_name = "CodeForBaltimore/codeforbaltimore.org"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 229_127_136
+language = "Vue"
+name = "codeforbaltimore.org"
+node_id = "MDEwOlJlcG9zaXRvcnkyMjkxMjcxMzY="
+open_issues_within = 10
+private = false
+pushed_within = "week"
+stargazers_within = 0
+topics = [ ]
+updated_within = "week"
+watchers_within = 0
+
+  [github.license]
+  key = "apache-2.0"
+  name = "Apache License 2.0"
+  node_id = "MDc6TGljZW5zZTI="
+  spdx_id = "Apache-2.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 23_199_310
+  login = "CodeForBaltimore"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjIzMTk5MzEw"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

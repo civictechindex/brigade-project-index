@@ -1,9 +1,8 @@
 code_url = "https://github.com/CodeForBaltimore/CitySync"
 description = "Bringing together Baltimore non-profits with smart data."
-git_branch = "master"
 git_url = "git://github.com/CodeForBaltimore/CitySync.git"
-last_pushed_within = "year"
 name = "CitySync"
+organization_name = "Code for Baltimore"
 topics = [
   "civic-tech",
   "code-for-america",
@@ -12,3 +11,56 @@ topics = [
   "data-mining",
   "python"
 ]
+
+[github]
+archived = false
+created_at = "2020-01-19T18:23:17Z"
+default_branch = "master"
+description = "Bringing together Baltimore non-profits with smart data."
+disabled = false
+fork = false
+forks_within = 10
+full_name = "CodeForBaltimore/CitySync"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = false
+homepage = { }
+id = 234_944_837
+language = "Python"
+name = "CitySync"
+node_id = "MDEwOlJlcG9zaXRvcnkyMzQ5NDQ4Mzc="
+open_issues_within = 10
+private = false
+pushed_within = "month"
+stargazers_within = 10
+topics = [
+  "civic-tech",
+  "code-for-america",
+  "code-for-baltimore",
+  "community-outreach",
+  "data-mining",
+  "python"
+]
+updated_within = "year"
+watchers_within = 10
+
+  [github.license]
+  key = "apache-2.0"
+  name = "Apache License 2.0"
+  node_id = "MDc6TGljZW5zZTI="
+  spdx_id = "Apache-2.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 23_199_310
+  login = "CodeForBaltimore"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjIzMTk5MzEw"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
