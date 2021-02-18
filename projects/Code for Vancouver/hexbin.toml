@@ -1,7 +1,47 @@
 code_url = "https://github.com/codeforcanada/hexbin"
 description = "community curated list of hexagon logos"
-git_branch = "gh-pages"
 git_url = "git://github.com/codeforcanada/hexbin.git"
-last_pushed_within = "over_a_year"
 link_url = "http://hexb.in"
 name = "hexbin"
+organization_name = "Code for Vancouver"
+
+[github]
+archived = false
+created_at = "2015-03-25T14:37:55Z"
+default_branch = "gh-pages"
+description = "community curated list of hexagon logos"
+disabled = false
+fork = true
+forks_within = 10
+full_name = "codeforcanada/hexbin"
+has_downloads = true
+has_issues = false
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "http://hexb.in"
+id = 32_870_204
+language = "HTML"
+license = { }
+name = "hexbin"
+node_id = "MDEwOlJlcG9zaXRvcnkzMjg3MDIwNA=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 3_245_516
+  login = "codeforcanada"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjMyNDU1MTY="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
