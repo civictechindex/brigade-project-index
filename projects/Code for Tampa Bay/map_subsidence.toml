@@ -1,6 +1,46 @@
 code_url = "https://github.com/code-for-tb/map_subsidence"
 description = "A web application that imports, manages, and exports subsidence reports"
-git_branch = "master"
 git_url = "git://github.com/code-for-tb/map_subsidence.git"
-last_pushed_within = "over_a_year"
 name = "map_subsidence"
+organization_name = "Code for Tampa Bay"
+
+[github]
+archived = false
+created_at = "2015-02-03T02:59:16Z"
+default_branch = "master"
+description = "A web application that imports, manages, and exports subsidence reports"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "code-for-tb/map_subsidence"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 30_221_698
+language = "Ruby"
+license = { }
+name = "map_subsidence"
+node_id = "MDEwOlJlcG9zaXRvcnkzMDIyMTY5OA=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 9_374_504
+  login = "code-for-tb"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjkzNzQ1MDQ="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

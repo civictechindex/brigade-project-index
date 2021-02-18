@@ -1,6 +1,51 @@
 code_url = "https://github.com/code-for-tb/doublev"
 description = "Double V, a custom theme for Pasco Agents for Change built with _s"
-git_branch = "master"
 git_url = "git://github.com/code-for-tb/doublev.git"
-last_pushed_within = "over_a_year"
 name = "doublev"
+organization_name = "Code for Tampa Bay"
+
+[github]
+archived = false
+created_at = "2019-02-24T02:15:33Z"
+default_branch = "master"
+description = "Double V, a custom theme for Pasco Agents for Change built with _s"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "code-for-tb/doublev"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 172_286_275
+language = "PHP"
+name = "doublev"
+node_id = "MDEwOlJlcG9zaXRvcnkxNzIyODYyNzU="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "gpl-2.0"
+  name = "GNU General Public License v2.0"
+  node_id = "MDc6TGljZW5zZTg="
+  spdx_id = "GPL-2.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 9_374_504
+  login = "code-for-tb"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjkzNzQ1MDQ="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
