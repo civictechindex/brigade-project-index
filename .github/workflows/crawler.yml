@@ -37,5 +37,6 @@ jobs:
         GITHUB_ACTOR: brigade-bot
         GITHUB_TOKEN: ${{ secrets.BOT_GITHUB_TOKEN }}
     - name: Push results
+      if: ${{ always() }}
       run: |
         git push origin refs/heads/snapshot/v1 refs/heads/cfapi/orgs/v1
