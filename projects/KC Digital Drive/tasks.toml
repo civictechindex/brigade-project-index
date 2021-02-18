@@ -1,7 +1,47 @@
 code_url = "https://github.com/codeforkansascity/tasks"
 description = "Running issue list for our brigade"
-git_branch = "gh-pages"
 git_url = "git://github.com/codeforkansascity/tasks.git"
-last_pushed_within = "over_a_year"
 link_url = "http://codeforkc.org/tasks/"
 name = "tasks"
+organization_name = "KC Digital Drive"
+
+[github]
+archived = false
+created_at = "2015-02-07T05:05:42Z"
+default_branch = "gh-pages"
+description = "Running issue list for our brigade"
+disabled = false
+fork = true
+forks_within = 10
+full_name = "codeforkansascity/tasks"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "http://codeforkc.org/tasks/"
+id = 30_445_784
+language = { }
+license = { }
+name = "tasks"
+node_id = "MDEwOlJlcG9zaXRvcnkzMDQ0NTc4NA=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 5_272_305
+  login = "codeforkansascity"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjUyNzIzMDU="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

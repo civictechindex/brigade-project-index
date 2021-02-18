@@ -1,10 +1,9 @@
 code_url = "https://github.com/codeforkansascity/CommunityKC"
 description = "Visualization and management of community-based projects"
-git_branch = "master"
 git_url = "git://github.com/codeforkansascity/CommunityKC.git"
-last_pushed_within = "over_a_year"
 link_url = "http://communitykc.org"
 name = "CommunityKC"
+organization_name = "KC Digital Drive"
 topics = [
   "code-for-america",
   "code-for-kc",
@@ -12,3 +11,55 @@ topics = [
   "neighborhood",
   "neighborhood-map"
 ]
+
+[github]
+archived = false
+created_at = "2015-07-27T22:27:01Z"
+default_branch = "master"
+description = "Visualization and management of community-based projects"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codeforkansascity/CommunityKC"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://communitykc.org"
+id = 39_800_923
+language = "HTML"
+name = "CommunityKC"
+node_id = "MDEwOlJlcG9zaXRvcnkzOTgwMDkyMw=="
+open_issues_within = 100
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [
+  "code-for-america",
+  "code-for-kc",
+  "community-engagement",
+  "neighborhood",
+  "neighborhood-map"
+]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "other"
+  name = "Other"
+  node_id = "MDc6TGljZW5zZTA="
+  spdx_id = "NOASSERTION"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 5_272_305
+  login = "codeforkansascity"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjUyNzIzMDU="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

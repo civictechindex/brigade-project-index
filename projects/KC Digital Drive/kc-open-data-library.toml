@@ -1,6 +1,51 @@
 code_url = "https://github.com/codeforkansascity/kc-open-data-library"
 description = "A inventory of open data in the Kansas City Area."
-git_branch = "master"
 git_url = "git://github.com/codeforkansascity/kc-open-data-library.git"
-last_pushed_within = "over_a_year"
 name = "kc-open-data-library"
+organization_name = "KC Digital Drive"
+
+[github]
+archived = false
+created_at = "2015-02-17T18:06:08Z"
+default_branch = "master"
+description = "A inventory of open data in the Kansas City Area."
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codeforkansascity/kc-open-data-library"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 30_929_965
+language = { }
+name = "kc-open-data-library"
+node_id = "MDEwOlJlcG9zaXRvcnkzMDkyOTk2NQ=="
+open_issues_within = 100
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 100
+topics = [ ]
+updated_within = "year"
+watchers_within = 100
+
+  [github.license]
+  key = "cc0-1.0"
+  name = "Creative Commons Zero v1.0 Universal"
+  node_id = "MDc6TGljZW5zZTY="
+  spdx_id = "CC0-1.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 5_272_305
+  login = "codeforkansascity"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjUyNzIzMDU="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

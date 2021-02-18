@@ -1,7 +1,52 @@
 code_url = "https://github.com/codeforkansascity/clear-my-record-front-end-nuxt"
 description = "Application Code for Clear My Record, an application to assist people the process of expunging their criminal convictions."
-git_branch = "develop"
 git_url = "git://github.com/codeforkansascity/clear-my-record-front-end-nuxt.git"
-last_pushed_within = "over_a_year"
 link_url = "http://cmr.codeforkc.org"
 name = "clear-my-record-front-end-nuxt"
+organization_name = "KC Digital Drive"
+
+[github]
+archived = false
+created_at = "2018-10-09T19:01:09Z"
+default_branch = "develop"
+description = "Application Code for Clear My Record, an application to assist people the process of expunging their criminal convictions."
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codeforkansascity/clear-my-record-front-end-nuxt"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://cmr.codeforkc.org"
+id = 152_305_612
+language = "JavaScript"
+name = "clear-my-record-front-end-nuxt"
+node_id = "MDEwOlJlcG9zaXRvcnkxNTIzMDU2MTI="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 5_272_305
+  login = "codeforkansascity"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjUyNzIzMDU="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

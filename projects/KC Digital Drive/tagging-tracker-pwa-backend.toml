@@ -1,5 +1,50 @@
 code_url = "https://github.com/codeforkansascity/tagging-tracker-pwa-backend"
-git_branch = "master"
 git_url = "git://github.com/codeforkansascity/tagging-tracker-pwa-backend.git"
-last_pushed_within = "month"
 name = "tagging-tracker-pwa-backend"
+organization_name = "KC Digital Drive"
+
+[github]
+archived = false
+created_at = "2020-02-17T23:57:36Z"
+default_branch = "master"
+description = { }
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codeforkansascity/tagging-tracker-pwa-backend"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 241_233_269
+language = "JavaScript"
+name = "tagging-tracker-pwa-backend"
+node_id = "MDEwOlJlcG9zaXRvcnkyNDEyMzMyNjk="
+open_issues_within = 0
+private = false
+pushed_within = "month"
+stargazers_within = 0
+topics = [ ]
+updated_within = "month"
+watchers_within = 0
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 5_272_305
+  login = "codeforkansascity"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjUyNzIzMDU="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

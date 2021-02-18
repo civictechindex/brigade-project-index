@@ -1,7 +1,52 @@
 code_url = "https://github.com/codeforkansascity/legal-git-hub"
 description = "GitHub presentation for writers"
-git_branch = "gh-pages"
 git_url = "git://github.com/codeforkansascity/legal-git-hub.git"
-last_pushed_within = "over_a_year"
 link_url = "http://zmon.github.io/legal-git-hub"
 name = "legal-git-hub"
+organization_name = "KC Digital Drive"
+
+[github]
+archived = false
+created_at = "2016-04-12T01:02:52Z"
+default_branch = "gh-pages"
+description = "GitHub presentation for writers"
+disabled = false
+fork = true
+forks_within = 0
+full_name = "codeforkansascity/legal-git-hub"
+has_downloads = true
+has_issues = false
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "http://zmon.github.io/legal-git-hub"
+id = 56_019_321
+language = "HTML"
+name = "legal-git-hub"
+node_id = "MDEwOlJlcG9zaXRvcnk1NjAxOTMyMQ=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 5_272_305
+  login = "codeforkansascity"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjUyNzIzMDU="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

@@ -1,7 +1,52 @@
 code_url = "https://github.com/codeforkansascity/civic-project-mapping"
 description = "Connecting citizens and organizers. "
-git_branch = "gh-pages"
 git_url = "git://github.com/codeforkansascity/civic-project-mapping.git"
-last_pushed_within = "over_a_year"
 link_url = "http://codeforkansascity.github.io/civic-project-mapping"
 name = "civic-project-mapping"
+organization_name = "KC Digital Drive"
+
+[github]
+archived = false
+created_at = "2014-11-28T18:20:39Z"
+default_branch = "gh-pages"
+description = "Connecting citizens and organizers. "
+disabled = false
+fork = false
+forks_within = 100
+full_name = "codeforkansascity/civic-project-mapping"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "http://codeforkansascity.github.io/civic-project-mapping"
+id = 27_277_866
+language = "JavaScript"
+name = "civic-project-mapping"
+node_id = "MDEwOlJlcG9zaXRvcnkyNzI3Nzg2Ng=="
+open_issues_within = 100
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "year"
+watchers_within = 10
+
+  [github.license]
+  key = "other"
+  name = "Other"
+  node_id = "MDc6TGljZW5zZTA="
+  spdx_id = "NOASSERTION"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 5_272_305
+  login = "codeforkansascity"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjUyNzIzMDU="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

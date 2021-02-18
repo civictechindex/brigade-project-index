@@ -1,7 +1,47 @@
 code_url = "https://github.com/codeforkansascity/Vacant2Vibrant"
 description = "This has moved to UMKC School of Law please visit the new sites at "
-git_branch = "master"
 git_url = "git://github.com/codeforkansascity/Vacant2Vibrant.git"
-last_pushed_within = "over_a_year"
 link_url = "https://github.com/UMKC-Law/Vacant2Vibrant"
 name = "Vacant2Vibrant"
+organization_name = "KC Digital Drive"
+
+[github]
+archived = false
+created_at = "2016-04-25T16:35:32Z"
+default_branch = "master"
+description = "This has moved to UMKC School of Law please visit the new sites at "
+disabled = false
+fork = false
+forks_within = 0
+full_name = "codeforkansascity/Vacant2Vibrant"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "https://github.com/UMKC-Law/Vacant2Vibrant"
+id = 57_058_370
+language = "JavaScript"
+license = { }
+name = "Vacant2Vibrant"
+node_id = "MDEwOlJlcG9zaXRvcnk1NzA1ODM3MA=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 5_272_305
+  login = "codeforkansascity"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjUyNzIzMDU="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

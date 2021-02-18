@@ -1,6 +1,46 @@
 code_url = "https://github.com/codeforkansascity/CivicTransit"
 description = "My project for the National Day of Civic Hacking.  This is to read and standardize the data feeds of public transit systems."
-git_branch = "master"
 git_url = "git://github.com/codeforkansascity/CivicTransit.git"
-last_pushed_within = "over_a_year"
 name = "CivicTransit"
+organization_name = "KC Digital Drive"
+
+[github]
+archived = false
+created_at = "2014-10-25T16:06:16Z"
+default_branch = "master"
+description = "My project for the National Day of Civic Hacking.  This is to read and standardize the data feeds of public transit systems."
+disabled = false
+fork = true
+forks_within = 0
+full_name = "codeforkansascity/CivicTransit"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 25_737_293
+language = { }
+license = { }
+name = "CivicTransit"
+node_id = "MDEwOlJlcG9zaXRvcnkyNTczNzI5Mw=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 5_272_305
+  login = "codeforkansascity"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjUyNzIzMDU="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

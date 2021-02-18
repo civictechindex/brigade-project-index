@@ -1,6 +1,51 @@
 code_url = "https://github.com/codeforkansascity/cmr-clinic"
-git_branch = "develop"
 git_url = "git://github.com/codeforkansascity/cmr-clinic.git"
-last_pushed_within = "over_a_year"
 name = "cmr-clinic"
+organization_name = "KC Digital Drive"
 topics = [ "code-for-america", "code-for-kc", "expungement" ]
+
+[github]
+archived = false
+created_at = "2019-07-01T22:38:10Z"
+default_branch = "develop"
+description = { }
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codeforkansascity/cmr-clinic"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 194_751_741
+language = "JavaScript"
+name = "cmr-clinic"
+node_id = "MDEwOlJlcG9zaXRvcnkxOTQ3NTE3NDE="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ "code-for-america", "code-for-kc", "expungement" ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 5_272_305
+  login = "codeforkansascity"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjUyNzIzMDU="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

@@ -1,8 +1,48 @@
 code_url = "https://github.com/codeforkansascity/ResideKC"
 description = "ResideKC provides civic information to residents based on street address."
-git_branch = "master"
 git_url = "git://github.com/codeforkansascity/ResideKC.git"
-last_pushed_within = "year"
 link_url = "http://codeforkc.org/ResideKC/"
 name = "ResideKC"
+organization_name = "KC Digital Drive"
 topics = [ "code-for-america", "code-for-kc", "neighborhood" ]
+
+[github]
+archived = false
+created_at = "2017-09-21T04:41:57Z"
+default_branch = "master"
+description = "ResideKC provides civic information to residents based on street address."
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codeforkansascity/ResideKC"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "http://codeforkc.org/ResideKC/"
+id = 104_302_472
+language = "JavaScript"
+license = { }
+name = "ResideKC"
+node_id = "MDEwOlJlcG9zaXRvcnkxMDQzMDI0NzI="
+open_issues_within = 10
+private = false
+pushed_within = "year"
+stargazers_within = 10
+topics = [ "code-for-america", "code-for-kc", "neighborhood" ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 5_272_305
+  login = "codeforkansascity"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjUyNzIzMDU="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

@@ -1,7 +1,52 @@
 code_url = "https://github.com/codeforkansascity/Vacant-Lot-Decision-Matrix"
 description = "Vacant-Lot-Decision-Matrix provides the the best use for a lot in a easy to understand format."
-git_branch = "master"
 git_url = "git://github.com/codeforkansascity/Vacant-Lot-Decision-Matrix.git"
-last_pushed_within = "over_a_year"
 link_url = "http://cfkc.burtson.com/"
 name = "Vacant-Lot-Decision-Matrix"
+organization_name = "KC Digital Drive"
+
+[github]
+archived = false
+created_at = "2017-02-07T00:00:08Z"
+default_branch = "master"
+description = "Vacant-Lot-Decision-Matrix provides the the best use for a lot in a easy to understand format."
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codeforkansascity/Vacant-Lot-Decision-Matrix"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://cfkc.burtson.com/"
+id = 81_146_410
+language = "C#"
+name = "Vacant-Lot-Decision-Matrix"
+node_id = "MDEwOlJlcG9zaXRvcnk4MTE0NjQxMA=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 5_272_305
+  login = "codeforkansascity"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjUyNzIzMDU="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

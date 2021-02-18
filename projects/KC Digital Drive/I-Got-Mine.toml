@@ -1,8 +1,53 @@
 code_url = "https://github.com/codeforkansascity/I-Got-Mine"
 description = "Connecting KCMO residents with free sexual health resources offered by the City"
-git_branch = "master"
 git_url = "git://github.com/codeforkansascity/I-Got-Mine.git"
-last_pushed_within = "year"
 link_url = "http://igotmineinkc.org"
 name = "I-Got-Mine"
+organization_name = "KC Digital Drive"
 topics = [ "code-for-america", "code-for-kc", "public-health" ]
+
+[github]
+archived = false
+created_at = "2016-04-18T19:51:56Z"
+default_branch = "master"
+description = "Connecting KCMO residents with free sexual health resources offered by the City"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codeforkansascity/I-Got-Mine"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "http://igotmineinkc.org"
+id = 56_537_399
+language = "JavaScript"
+name = "I-Got-Mine"
+node_id = "MDEwOlJlcG9zaXRvcnk1NjUzNzM5OQ=="
+open_issues_within = 100
+private = false
+pushed_within = "year"
+stargazers_within = 10
+topics = [ "code-for-america", "code-for-kc", "public-health" ]
+updated_within = "year"
+watchers_within = 10
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 5_272_305
+  login = "codeforkansascity"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjUyNzIzMDU="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

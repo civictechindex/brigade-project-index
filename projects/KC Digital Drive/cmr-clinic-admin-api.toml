@@ -1,6 +1,46 @@
 code_url = "https://github.com/codeforkansascity/cmr-clinic-admin-api"
 description = "Administration and API for Clear My Record"
-git_branch = "develop"
 git_url = "git://github.com/codeforkansascity/cmr-clinic-admin-api.git"
-last_pushed_within = "month"
 name = "cmr-clinic-admin-api"
+organization_name = "KC Digital Drive"
+
+[github]
+archived = false
+created_at = "2019-07-08T04:23:06Z"
+default_branch = "develop"
+description = "Administration and API for Clear My Record"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codeforkansascity/cmr-clinic-admin-api"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 195_736_012
+language = "PHP"
+license = { }
+name = "cmr-clinic-admin-api"
+node_id = "MDEwOlJlcG9zaXRvcnkxOTU3MzYwMTI="
+open_issues_within = 100
+private = false
+pushed_within = "month"
+stargazers_within = 10
+topics = [ ]
+updated_within = "year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 5_272_305
+  login = "codeforkansascity"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjUyNzIzMDU="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

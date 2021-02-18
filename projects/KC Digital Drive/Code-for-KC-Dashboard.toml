@@ -1,6 +1,51 @@
 code_url = "https://github.com/codeforkansascity/Code-for-KC-Dashboard"
 description = "We are building a tool that allow users to collect, search, and view project information and member information within Code for KC (such as automated attendance tracking, searching for members by skill, automated project status updates.)"
-git_branch = "master"
 git_url = "git://github.com/codeforkansascity/Code-for-KC-Dashboard.git"
-last_pushed_within = "over_a_year"
 name = "Code-for-KC-Dashboard"
+organization_name = "KC Digital Drive"
+
+[github]
+archived = false
+created_at = "2017-10-31T00:25:55Z"
+default_branch = "master"
+description = "We are building a tool that allow users to collect, search, and view project information and member information within Code for KC (such as automated attendance tracking, searching for members by skill, automated project status updates.)"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codeforkansascity/Code-for-KC-Dashboard"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 108_923_625
+language = { }
+name = "Code-for-KC-Dashboard"
+node_id = "MDEwOlJlcG9zaXRvcnkxMDg5MjM2MjU="
+open_issues_within = 100
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 5_272_305
+  login = "codeforkansascity"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjUyNzIzMDU="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

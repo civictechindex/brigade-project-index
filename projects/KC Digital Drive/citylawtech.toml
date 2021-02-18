@@ -1,6 +1,46 @@
 code_url = "https://github.com/codeforkansascity/citylawtech"
 description = "Cities Law Schools Consortium"
-git_branch = "master"
 git_url = "git://github.com/codeforkansascity/citylawtech.git"
-last_pushed_within = "over_a_year"
 name = "citylawtech"
+organization_name = "KC Digital Drive"
+
+[github]
+archived = false
+created_at = "2015-10-30T17:33:49Z"
+default_branch = "master"
+description = "Cities Law Schools Consortium"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "codeforkansascity/citylawtech"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 45_266_395
+language = { }
+license = { }
+name = "citylawtech"
+node_id = "MDEwOlJlcG9zaXRvcnk0NTI2NjM5NQ=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 5_272_305
+  login = "codeforkansascity"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjUyNzIzMDU="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

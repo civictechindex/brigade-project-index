@@ -1,7 +1,52 @@
 code_url = "https://github.com/codeforkansascity/YoungJobSeekers"
 description = "Connecting youth to meaningful employment."
-git_branch = "master"
 git_url = "git://github.com/codeforkansascity/YoungJobSeekers.git"
-last_pushed_within = "over_a_year"
 link_url = "http://www.yjseekers.com"
 name = "YoungJobSeekers"
+organization_name = "KC Digital Drive"
+
+[github]
+archived = false
+created_at = "2016-04-18T19:51:19Z"
+default_branch = "master"
+description = "Connecting youth to meaningful employment."
+disabled = false
+fork = false
+forks_within = 0
+full_name = "codeforkansascity/YoungJobSeekers"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://www.yjseekers.com"
+id = 56_537_351
+language = { }
+name = "YoungJobSeekers"
+node_id = "MDEwOlJlcG9zaXRvcnk1NjUzNzM1MQ=="
+open_issues_within = 100
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 5_272_305
+  login = "codeforkansascity"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjUyNzIzMDU="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

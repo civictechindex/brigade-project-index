@@ -1,7 +1,52 @@
 code_url = "https://github.com/codeforkansascity/api-examples"
 description = "Demonstration of code to access different APIs that we use for data, please update and improve."
-git_branch = "gh-pages"
 git_url = "git://github.com/codeforkansascity/api-examples.git"
-last_pushed_within = "over_a_year"
 link_url = "http://codeforkc.org/api-examples/"
 name = "api-examples"
+organization_name = "KC Digital Drive"
+
+[github]
+archived = false
+created_at = "2015-03-24T03:52:19Z"
+default_branch = "gh-pages"
+description = "Demonstration of code to access different APIs that we use for data, please update and improve."
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codeforkansascity/api-examples"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "http://codeforkc.org/api-examples/"
+id = 32_774_900
+language = "JavaScript"
+name = "api-examples"
+node_id = "MDEwOlJlcG9zaXRvcnkzMjc3NDkwMA=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 5_272_305
+  login = "codeforkansascity"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjUyNzIzMDU="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

@@ -1,5 +1,50 @@
 code_url = "https://github.com/codeforkansascity/locale-kc"
-git_branch = "master"
 git_url = "git://github.com/codeforkansascity/locale-kc.git"
-last_pushed_within = "month"
 name = "locale-kc"
+organization_name = "KC Digital Drive"
+
+[github]
+archived = false
+created_at = "2018-09-27T19:30:05Z"
+default_branch = "master"
+description = { }
+disabled = false
+fork = false
+forks_within = 0
+full_name = "codeforkansascity/locale-kc"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 150_637_858
+language = "JavaScript"
+name = "locale-kc"
+node_id = "MDEwOlJlcG9zaXRvcnkxNTA2Mzc4NTg="
+open_issues_within = 10
+private = false
+pushed_within = "year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 5_272_305
+  login = "codeforkansascity"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjUyNzIzMDU="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

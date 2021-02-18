@@ -1,7 +1,47 @@
 code_url = "https://github.com/codeforkansascity/meeting-notes"
 description = "Blog for KC Brigade meeting projects"
-git_branch = "gh-pages"
 git_url = "git://github.com/codeforkansascity/meeting-notes.git"
-last_pushed_within = "over_a_year"
 link_url = "http://codeforkansascity.github.io/meeting-notes"
 name = "meeting-notes"
+organization_name = "KC Digital Drive"
+
+[github]
+archived = false
+created_at = "2014-11-04T06:35:32Z"
+default_branch = "gh-pages"
+description = "Blog for KC Brigade meeting projects"
+disabled = false
+fork = false
+forks_within = 100
+full_name = "codeforkansascity/meeting-notes"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "http://codeforkansascity.github.io/meeting-notes"
+id = 26_156_217
+language = "CSS"
+license = { }
+name = "meeting-notes"
+node_id = "MDEwOlJlcG9zaXRvcnkyNjE1NjIxNw=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 5_272_305
+  login = "codeforkansascity"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjUyNzIzMDU="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

@@ -1,6 +1,51 @@
 code_url = "https://github.com/codeforkansascity/clear_my_record_backend"
 description = "Backend API Code for Clear My Record, an application to assist people the process of expunging their criminal convictions."
-git_branch = "master"
 git_url = "git://github.com/codeforkansascity/clear_my_record_backend.git"
-last_pushed_within = "over_a_year"
 name = "clear_my_record_backend"
+organization_name = "KC Digital Drive"
+
+[github]
+archived = false
+created_at = "2019-02-25T22:35:11Z"
+default_branch = "master"
+description = "Backend API Code for Clear My Record, an application to assist people the process of expunging their criminal convictions."
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codeforkansascity/clear_my_record_backend"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 172_596_270
+language = "Python"
+name = "clear_my_record_backend"
+node_id = "MDEwOlJlcG9zaXRvcnkxNzI1OTYyNzA="
+open_issues_within = 100
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 5_272_305
+  login = "codeforkansascity"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjUyNzIzMDU="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

@@ -1,6 +1,51 @@
 code_url = "https://github.com/codeforkansascity/antiharassment-policy"
 description = "Code4lib anti-harassment policy drafting space"
-git_branch = "master"
 git_url = "git://github.com/codeforkansascity/antiharassment-policy.git"
-last_pushed_within = "over_a_year"
 name = "antiharassment-policy"
+organization_name = "KC Digital Drive"
+
+[github]
+archived = false
+created_at = "2013-08-20T18:51:47Z"
+default_branch = "master"
+description = "Code4lib anti-harassment policy drafting space"
+disabled = false
+fork = true
+forks_within = 0
+full_name = "codeforkansascity/antiharassment-policy"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 12_251_243
+language = { }
+name = "antiharassment-policy"
+node_id = "MDEwOlJlcG9zaXRvcnkxMjI1MTI0Mw=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "other"
+  name = "Other"
+  node_id = "MDc6TGljZW5zZTA="
+  spdx_id = "NOASSERTION"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 5_272_305
+  login = "codeforkansascity"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjUyNzIzMDU="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
