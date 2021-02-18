@@ -1,6 +1,46 @@
 code_url = "https://github.com/HackMichiana/Organization"
 description = "Organizational documents for Hack Michiana"
-git_branch = "master"
 git_url = "git://github.com/HackMichiana/Organization.git"
-last_pushed_within = "over_a_year"
 name = "Organization"
+organization_name = "Hack Michiana"
+
+[github]
+archived = false
+created_at = "2014-02-14T14:53:49Z"
+default_branch = "master"
+description = "Organizational documents for Hack Michiana"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "HackMichiana/Organization"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 16_840_033
+language = { }
+license = { }
+name = "Organization"
+node_id = "MDEwOlJlcG9zaXRvcnkxNjg0MDAzMw=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 5_560_123
+  login = "HackMichiana"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjU1NjAxMjM="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

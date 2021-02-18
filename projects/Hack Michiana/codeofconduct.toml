@@ -1,6 +1,46 @@
 code_url = "https://github.com/HackMichiana/codeofconduct"
 description = "Code for America's Code of Conduct"
-git_branch = "master"
 git_url = "git://github.com/HackMichiana/codeofconduct.git"
-last_pushed_within = "over_a_year"
 name = "codeofconduct"
+organization_name = "Hack Michiana"
+
+[github]
+archived = false
+created_at = "2014-07-14T19:35:55Z"
+default_branch = "master"
+description = "Code for America's Code of Conduct"
+disabled = false
+fork = true
+forks_within = 10
+full_name = "HackMichiana/codeofconduct"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 21_832_760
+language = { }
+license = { }
+name = "codeofconduct"
+node_id = "MDEwOlJlcG9zaXRvcnkyMTgzMjc2MA=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 5_560_123
+  login = "HackMichiana"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjU1NjAxMjM="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
