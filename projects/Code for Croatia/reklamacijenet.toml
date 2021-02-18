@@ -1,7 +1,52 @@
 code_url = "https://github.com/codeforcroatia/reklamacijenet"
 description = "Consumer protection portal in Croatia"
-git_branch = "master"
 git_url = "git://github.com/codeforcroatia/reklamacijenet.git"
-last_pushed_within = "over_a_year"
 link_url = "http://reklamacije.net"
 name = "reklamacijenet"
+organization_name = "Code for Croatia"
+
+[github]
+archived = false
+created_at = "2016-04-16T12:32:57Z"
+default_branch = "master"
+description = "Consumer protection portal in Croatia"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "codeforcroatia/reklamacijenet"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = false
+homepage = "http://reklamacije.net"
+id = 56_382_621
+language = { }
+name = "reklamacijenet"
+node_id = "MDEwOlJlcG9zaXRvcnk1NjM4MjYyMQ=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_293_362
+  login = "codeforcroatia"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjYyOTMzNjI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

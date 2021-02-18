@@ -1,6 +1,46 @@
 code_url = "https://github.com/codeforcroatia/meeting-etiquette"
 description = "Do this when booking meetings at CfC."
-git_branch = "master"
 git_url = "git://github.com/codeforcroatia/meeting-etiquette.git"
-last_pushed_within = "year"
 name = "meeting-etiquette"
+organization_name = "Code for Croatia"
+
+[github]
+archived = false
+created_at = "2015-07-29T22:11:32Z"
+default_branch = "master"
+description = "Do this when booking meetings at CfC."
+disabled = false
+fork = true
+forks_within = 0
+full_name = "codeforcroatia/meeting-etiquette"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 39_918_783
+language = { }
+license = { }
+name = "meeting-etiquette"
+node_id = "MDEwOlJlcG9zaXRvcnkzOTkxODc4Mw=="
+open_issues_within = 0
+private = false
+pushed_within = "year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_293_362
+  login = "codeforcroatia"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjYyOTMzNjI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

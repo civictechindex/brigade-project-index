@@ -1,6 +1,46 @@
 code_url = "https://github.com/codeforcroatia/datasharing"
 description = "The Leek group guide to data sharing "
-git_branch = "master"
 git_url = "git://github.com/codeforcroatia/datasharing.git"
-last_pushed_within = "over_a_year"
 name = "datasharing"
+organization_name = "Code for Croatia"
+
+[github]
+archived = false
+created_at = "2017-03-09T07:58:39Z"
+default_branch = "master"
+description = "The Leek group guide to data sharing "
+disabled = false
+fork = true
+forks_within = 0
+full_name = "codeforcroatia/datasharing"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 84_414_454
+language = { }
+license = { }
+name = "datasharing"
+node_id = "MDEwOlJlcG9zaXRvcnk4NDQxNDQ1NA=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_293_362
+  login = "codeforcroatia"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjYyOTMzNjI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

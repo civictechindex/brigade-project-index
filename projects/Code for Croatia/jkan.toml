@@ -1,5 +1,50 @@
 code_url = "https://github.com/codeforcroatia/jkan"
-git_branch = "gh-pages"
 git_url = "git://github.com/codeforcroatia/jkan.git"
-last_pushed_within = "year"
 name = "jkan"
+organization_name = "Code for Croatia"
+
+[github]
+archived = false
+created_at = "2020-05-30T11:20:12Z"
+default_branch = "gh-pages"
+description = { }
+disabled = false
+fork = false
+forks_within = 0
+full_name = "codeforcroatia/jkan"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = false
+has_wiki = false
+homepage = { }
+id = 268_064_834
+language = "HTML"
+name = "jkan"
+node_id = "MDEwOlJlcG9zaXRvcnkyNjgwNjQ4MzQ="
+open_issues_within = 10
+private = false
+pushed_within = "year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "year"
+watchers_within = 0
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_293_362
+  login = "codeforcroatia"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjYyOTMzNjI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

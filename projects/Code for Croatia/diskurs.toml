@@ -1,7 +1,52 @@
 code_url = "https://github.com/codeforcroatia/diskurs"
 description = "A platform for community discussion. Free, open, simple."
-git_branch = "master"
 git_url = "git://github.com/codeforcroatia/diskurs.git"
-last_pushed_within = "over_a_year"
 link_url = "http://diskurs.codeforcroatia.org"
 name = "diskurs"
+organization_name = "Code for Croatia"
+
+[github]
+archived = false
+created_at = "2014-04-20T18:11:09Z"
+default_branch = "master"
+description = "A platform for community discussion. Free, open, simple."
+disabled = false
+fork = true
+forks_within = 0
+full_name = "codeforcroatia/diskurs"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://diskurs.codeforcroatia.org"
+id = 18_970_487
+language = "Ruby"
+name = "diskurs"
+node_id = "MDEwOlJlcG9zaXRvcnkxODk3MDQ4Nw=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "year"
+watchers_within = 0
+
+  [github.license]
+  key = "other"
+  name = "Other"
+  node_id = "MDc6TGljZW5zZTA="
+  spdx_id = "NOASSERTION"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_293_362
+  login = "codeforcroatia"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjYyOTMzNjI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

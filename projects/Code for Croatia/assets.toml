@@ -1,7 +1,47 @@
 code_url = "https://github.com/codeforcroatia/assets"
 description = "A is for assets. This repository holds Code for Croatia web assets:"
-git_branch = "gh-pages"
 git_url = "git://github.com/codeforcroatia/assets.git"
-last_pushed_within = "year"
 link_url = "https://a.codeforcroatia.org"
 name = "assets"
+organization_name = "Code for Croatia"
+
+[github]
+archived = false
+created_at = "2019-11-28T21:29:29Z"
+default_branch = "gh-pages"
+description = "A is for assets. This repository holds Code for Croatia web assets:"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "codeforcroatia/assets"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "https://a.codeforcroatia.org"
+id = 224_732_896
+language = "HTML"
+license = { }
+name = "assets"
+node_id = "MDEwOlJlcG9zaXRvcnkyMjQ3MzI4OTY="
+open_issues_within = 10
+private = false
+pushed_within = "year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_293_362
+  login = "codeforcroatia"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjYyOTMzNjI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

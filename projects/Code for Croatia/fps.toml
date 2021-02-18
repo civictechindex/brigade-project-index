@@ -1,7 +1,52 @@
 code_url = "https://github.com/codeforcroatia/fps"
 description = 'Projekt "Financiranje političkih stranaka" zapocet na CodeAcross i OpenDataDay Croatia-Zagreb 2015 hackathonu'
-git_branch = "master"
 git_url = "git://github.com/codeforcroatia/fps.git"
-last_pushed_within = "over_a_year"
 link_url = "http://fps.codeforcroatia.org"
 name = "fps"
+organization_name = "Code for Croatia"
+
+[github]
+archived = false
+created_at = "2015-03-08T22:12:36Z"
+default_branch = "master"
+description = 'Projekt "Financiranje političkih stranaka" zapocet na CodeAcross i OpenDataDay Croatia-Zagreb 2015 hackathonu'
+disabled = false
+fork = true
+forks_within = 0
+full_name = "codeforcroatia/fps"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = false
+homepage = "http://fps.codeforcroatia.org"
+id = 31_867_807
+language = "Python"
+name = "fps"
+node_id = "MDEwOlJlcG9zaXRvcnkzMTg2NzgwNw=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "apache-2.0"
+  name = "Apache License 2.0"
+  node_id = "MDc6TGljZW5zZTI="
+  spdx_id = "Apache-2.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_293_362
+  login = "codeforcroatia"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjYyOTMzNjI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

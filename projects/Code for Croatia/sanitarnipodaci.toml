@@ -1,7 +1,47 @@
 code_url = "https://github.com/codeforcroatia/sanitarnipodaci"
 description = "Javni podaci sanitarne inspekcije"
-git_branch = "master"
 git_url = "git://github.com/codeforcroatia/sanitarnipodaci.git"
-last_pushed_within = "over_a_year"
 link_url = "http://codeforcroatia.github.io/sanitarnipodaci/"
 name = "sanitarnipodaci"
+organization_name = "Code for Croatia"
+
+[github]
+archived = false
+created_at = "2014-02-19T18:36:14Z"
+default_branch = "master"
+description = "Javni podaci sanitarne inspekcije"
+disabled = false
+fork = true
+forks_within = 0
+full_name = "codeforcroatia/sanitarnipodaci"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "http://codeforcroatia.github.io/sanitarnipodaci/"
+id = 16_994_393
+language = "CSS"
+license = { }
+name = "sanitarnipodaci"
+node_id = "MDEwOlJlcG9zaXRvcnkxNjk5NDM5Mw=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_293_362
+  login = "codeforcroatia"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjYyOTMzNjI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

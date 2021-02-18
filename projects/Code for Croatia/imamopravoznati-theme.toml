@@ -1,7 +1,52 @@
 code_url = "https://github.com/codeforcroatia/imamopravoznati-theme"
 description = "Frontend theme for Croatian Alaveteli site"
-git_branch = "master"
 git_url = "git://github.com/codeforcroatia/imamopravoznati-theme.git"
-last_pushed_within = "year"
 link_url = "http://imamopravoznati.org"
 name = "imamopravoznati-theme"
+organization_name = "Code for Croatia"
+
+[github]
+archived = false
+created_at = "2015-02-27T21:57:24Z"
+default_branch = "master"
+description = "Frontend theme for Croatian Alaveteli site"
+disabled = false
+fork = true
+forks_within = 10
+full_name = "codeforcroatia/imamopravoznati-theme"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://imamopravoznati.org"
+id = 31_440_927
+language = "HTML"
+name = "imamopravoznati-theme"
+node_id = "MDEwOlJlcG9zaXRvcnkzMTQ0MDkyNw=="
+open_issues_within = 100
+private = false
+pushed_within = "year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "year"
+watchers_within = 0
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_293_362
+  login = "codeforcroatia"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjYyOTMzNjI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

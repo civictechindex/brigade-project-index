@@ -1,7 +1,47 @@
 code_url = "https://github.com/codeforcroatia/DownRightNow"
 description = "Simple github-page to redirect to when doing maintenance."
-git_branch = "gh-pages"
 git_url = "git://github.com/codeforcroatia/DownRightNow.git"
-last_pushed_within = "over_a_year"
 link_url = "http://codeforcroatia.github.io/DownRightNow"
 name = "DownRightNow"
+organization_name = "Code for Croatia"
+
+[github]
+archived = false
+created_at = "2015-08-24T19:53:33Z"
+default_branch = "gh-pages"
+description = "Simple github-page to redirect to when doing maintenance."
+disabled = false
+fork = true
+forks_within = 0
+full_name = "codeforcroatia/DownRightNow"
+has_downloads = true
+has_issues = false
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "http://codeforcroatia.github.io/DownRightNow"
+id = 41_323_889
+language = "HTML"
+license = { }
+name = "DownRightNow"
+node_id = "MDEwOlJlcG9zaXRvcnk0MTMyMzg4OQ=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_293_362
+  login = "codeforcroatia"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjYyOTMzNjI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

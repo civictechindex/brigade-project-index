@@ -1,6 +1,51 @@
 code_url = "https://github.com/codeforcroatia/awesome-civic"
 description = "A list of resources for awesome civic software (tools | libraries | applications)"
-git_branch = "master"
 git_url = "git://github.com/codeforcroatia/awesome-civic.git"
-last_pushed_within = "over_a_year"
 name = "awesome-civic"
+organization_name = "Code for Croatia"
+
+[github]
+archived = false
+created_at = "2015-10-08T22:46:38Z"
+default_branch = "master"
+description = "A list of resources for awesome civic software (tools | libraries | applications)"
+disabled = false
+fork = true
+forks_within = 0
+full_name = "codeforcroatia/awesome-civic"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = false
+homepage = { }
+id = 43_920_281
+language = { }
+name = "awesome-civic"
+node_id = "MDEwOlJlcG9zaXRvcnk0MzkyMDI4MQ=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "cc0-1.0"
+  name = "Creative Commons Zero v1.0 Universal"
+  node_id = "MDc6TGljZW5zZTY="
+  spdx_id = "CC0-1.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_293_362
+  login = "codeforcroatia"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjYyOTMzNjI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

@@ -1,7 +1,52 @@
 code_url = "https://github.com/codeforcroatia/imamopravoznati-help"
 description = "Boilerplate legal process for FOI in Croatia"
-git_branch = "gh-pages"
 git_url = "git://github.com/codeforcroatia/imamopravoznati-help.git"
-last_pushed_within = "year"
 link_url = "http://help.imamopravoznati.org/"
 name = "imamopravoznati-help"
+organization_name = "Code for Croatia"
+
+[github]
+archived = false
+created_at = "2016-01-16T20:30:37Z"
+default_branch = "gh-pages"
+description = "Boilerplate legal process for FOI in Croatia"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "codeforcroatia/imamopravoznati-help"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = false
+homepage = "http://help.imamopravoznati.org/"
+id = 49_789_759
+language = "CSS"
+name = "imamopravoznati-help"
+node_id = "MDEwOlJlcG9zaXRvcnk0OTc4OTc1OQ=="
+open_issues_within = 0
+private = false
+pushed_within = "week"
+stargazers_within = 0
+topics = [ ]
+updated_within = "week"
+watchers_within = 0
+
+  [github.license]
+  key = "other"
+  name = "Other"
+  node_id = "MDc6TGljZW5zZTA="
+  spdx_id = "NOASSERTION"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_293_362
+  login = "codeforcroatia"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjYyOTMzNjI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

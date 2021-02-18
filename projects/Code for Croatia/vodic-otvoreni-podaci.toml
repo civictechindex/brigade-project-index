@@ -1,7 +1,47 @@
 code_url = "https://github.com/codeforcroatia/vodic-otvoreni-podaci"
 description = "simple guidelines for publishing open data in useful formats"
-git_branch = "gh-pages"
 git_url = "git://github.com/codeforcroatia/vodic-otvoreni-podaci.git"
-last_pushed_within = "over_a_year"
 link_url = "http://simpleopendata.com/"
 name = "vodic-otvoreni-podaci"
+organization_name = "Code for Croatia"
+
+[github]
+archived = false
+created_at = "2014-04-07T07:40:41Z"
+default_branch = "gh-pages"
+description = "simple guidelines for publishing open data in useful formats"
+disabled = false
+fork = true
+forks_within = 0
+full_name = "codeforcroatia/vodic-otvoreni-podaci"
+has_downloads = true
+has_issues = false
+has_pages = true
+has_projects = true
+has_wiki = false
+homepage = "http://simpleopendata.com/"
+id = 18_509_602
+language = "CSS"
+license = { }
+name = "vodic-otvoreni-podaci"
+node_id = "MDEwOlJlcG9zaXRvcnkxODUwOTYwMg=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_293_362
+  login = "codeforcroatia"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjYyOTMzNjI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

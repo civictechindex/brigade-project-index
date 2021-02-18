@@ -1,7 +1,47 @@
 code_url = "https://github.com/codeforcroatia/upitnik-kandidati"
 description = "Upitnik o otvorenim podacima za političke kandidate"
-git_branch = "master"
 git_url = "git://github.com/codeforcroatia/upitnik-kandidati.git"
-last_pushed_within = "over_a_year"
 link_url = "http://codeforcroatia.github.io/upitnik-kandidati"
 name = "upitnik-kandidati"
+organization_name = "Code for Croatia"
+
+[github]
+archived = false
+created_at = "2014-12-22T20:01:30Z"
+default_branch = "master"
+description = "Upitnik o otvorenim podacima za političke kandidate"
+disabled = false
+fork = true
+forks_within = 0
+full_name = "codeforcroatia/upitnik-kandidati"
+has_downloads = true
+has_issues = false
+has_pages = true
+has_projects = true
+has_wiki = false
+homepage = "http://codeforcroatia.github.io/upitnik-kandidati"
+id = 28_356_637
+language = { }
+license = { }
+name = "upitnik-kandidati"
+node_id = "MDEwOlJlcG9zaXRvcnkyODM1NjYzNw=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_293_362
+  login = "codeforcroatia"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjYyOTMzNjI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

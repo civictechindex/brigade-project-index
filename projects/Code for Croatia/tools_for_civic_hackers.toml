@@ -1,6 +1,46 @@
 code_url = "https://github.com/codeforcroatia/tools_for_civic_hackers"
 description = "Forkable tools of the Code for Croatia local groups"
-git_branch = "master"
 git_url = "git://github.com/codeforcroatia/tools_for_civic_hackers.git"
-last_pushed_within = "over_a_year"
 name = "tools_for_civic_hackers"
+organization_name = "Code for Croatia"
+
+[github]
+archived = false
+created_at = "2014-03-02T19:09:04Z"
+default_branch = "master"
+description = "Forkable tools of the Code for Croatia local groups"
+disabled = false
+fork = true
+forks_within = 0
+full_name = "codeforcroatia/tools_for_civic_hackers"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = false
+homepage = ""
+id = 17_344_631
+language = { }
+license = { }
+name = "tools_for_civic_hackers"
+node_id = "MDEwOlJlcG9zaXRvcnkxNzM0NDYzMQ=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_293_362
+  login = "codeforcroatia"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjYyOTMzNjI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

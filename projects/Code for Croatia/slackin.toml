@@ -1,7 +1,47 @@
 code_url = "https://github.com/codeforcroatia/slackin"
 description = "Public Slack automated self-invite for Code for Croatia"
-git_branch = "master"
 git_url = "git://github.com/codeforcroatia/slackin.git"
-last_pushed_within = "over_a_year"
 link_url = "http://slackin.codeforcroatia.org"
 name = "slackin"
+organization_name = "Code for Croatia"
+
+[github]
+archived = false
+created_at = "2015-10-19T20:35:20Z"
+default_branch = "master"
+description = "Public Slack automated self-invite for Code for Croatia"
+disabled = false
+fork = true
+forks_within = 0
+full_name = "codeforcroatia/slackin"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://slackin.codeforcroatia.org"
+id = 44_562_383
+language = "JavaScript"
+license = { }
+name = "slackin"
+node_id = "MDEwOlJlcG9zaXRvcnk0NDU2MjM4Mw=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_293_362
+  login = "codeforcroatia"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjYyOTMzNjI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

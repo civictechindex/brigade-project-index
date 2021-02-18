@@ -1,0 +1,52 @@
+code_url = "https://github.com/codeforcroatia/popravi.to"
+description = "This is mySociety's popular map-based reporting platform: easy to install in new countries and regions"
+git_url = "git://github.com/codeforcroatia/popravi.to.git"
+link_url = "http://fixmystreet.org/"
+name = "popravi.to"
+organization_name = "Code for Croatia"
+
+[github]
+archived = false
+created_at = "2021-01-02T17:08:30Z"
+default_branch = "develop"
+description = "This is mySociety's popular map-based reporting platform: easy to install in new countries and regions"
+disabled = false
+fork = true
+forks_within = 0
+full_name = "codeforcroatia/popravi.to"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = false
+homepage = "http://fixmystreet.org/"
+id = 326_231_377
+language = "Perl"
+name = "popravi.to"
+node_id = "MDEwOlJlcG9zaXRvcnkzMjYyMzEzNzc="
+open_issues_within = 100
+private = false
+pushed_within = "year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "month"
+watchers_within = 10
+
+  [github.license]
+  key = "other"
+  name = "Other"
+  node_id = "MDc6TGljZW5zZTA="
+  spdx_id = "NOASSERTION"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_293_362
+  login = "codeforcroatia"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjYyOTMzNjI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

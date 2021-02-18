@@ -1,7 +1,47 @@
 code_url = "https://github.com/codeforcroatia/government"
 description = "Gather, curate, and feature stories of public servants and civic hackers using GitHub as part of their open government innovations"
-git_branch = "gh-pages"
 git_url = "git://github.com/codeforcroatia/government.git"
-last_pushed_within = "over_a_year"
 link_url = "http://government.github.com/"
 name = "government"
+organization_name = "Code for Croatia"
+
+[github]
+archived = false
+created_at = "2014-04-04T21:26:17Z"
+default_branch = "gh-pages"
+description = "Gather, curate, and feature stories of public servants and civic hackers using GitHub as part of their open government innovations"
+disabled = false
+fork = true
+forks_within = 0
+full_name = "codeforcroatia/government"
+has_downloads = true
+has_issues = false
+has_pages = true
+has_projects = true
+has_wiki = false
+homepage = "http://government.github.com/"
+id = 18_453_225
+language = "CSS"
+license = { }
+name = "government"
+node_id = "MDEwOlJlcG9zaXRvcnkxODQ1MzIyNQ=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_293_362
+  login = "codeforcroatia"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjYyOTMzNjI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
