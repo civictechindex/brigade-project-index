@@ -1,6 +1,46 @@
 code_url = "https://github.com/opensatx/ideas"
 description = "Ideas for projects for the brigade to work on"
-git_branch = "master"
 git_url = "git://github.com/opensatx/ideas.git"
-last_pushed_within = "over_a_year"
 name = "ideas"
+organization_name = "Open San Antonio"
+
+[github]
+archived = false
+created_at = "2014-06-07T00:32:46Z"
+default_branch = "master"
+description = "Ideas for projects for the brigade to work on"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "opensatx/ideas"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 20_581_994
+language = { }
+license = { }
+name = "ideas"
+node_id = "MDEwOlJlcG9zaXRvcnkyMDU4MTk5NA=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 7_378_856
+  login = "opensatx"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjczNzg4NTY="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

@@ -1,6 +1,51 @@
 code_url = "https://github.com/opensatx/sawaterlevel"
 description = "An iOS app that shows aquifer levels in San Antonio."
-git_branch = "master"
 git_url = "git://github.com/opensatx/sawaterlevel.git"
-last_pushed_within = "over_a_year"
 name = "sawaterlevel"
+organization_name = "Open San Antonio"
+
+[github]
+archived = false
+created_at = "2014-07-11T00:48:53Z"
+default_branch = "master"
+description = "An iOS app that shows aquifer levels in San Antonio."
+disabled = false
+fork = false
+forks_within = 0
+full_name = "opensatx/sawaterlevel"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 21_715_772
+language = "Objective-C"
+name = "sawaterlevel"
+node_id = "MDEwOlJlcG9zaXRvcnkyMTcxNTc3Mg=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 7_378_856
+  login = "opensatx"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjczNzg4NTY="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
