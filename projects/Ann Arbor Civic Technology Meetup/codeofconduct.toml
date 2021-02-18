@@ -1,6 +1,46 @@
 code_url = "https://github.com/a2civictech/codeofconduct"
 description = "Code for America's Code of Conduct"
-git_branch = "master"
 git_url = "git://github.com/a2civictech/codeofconduct.git"
-last_pushed_within = "over_a_year"
 name = "codeofconduct"
+organization_name = "Ann Arbor Civic Technology Meetup"
+
+[github]
+archived = false
+created_at = "2014-10-17T22:45:07Z"
+default_branch = "master"
+description = "Code for America's Code of Conduct"
+disabled = false
+fork = true
+forks_within = 0
+full_name = "a2civictech/codeofconduct"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 25_380_080
+language = { }
+license = { }
+name = "codeofconduct"
+node_id = "MDEwOlJlcG9zaXRvcnkyNTM4MDA4MA=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 5_701_689
+  login = "a2civictech"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjU3MDE2ODk="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

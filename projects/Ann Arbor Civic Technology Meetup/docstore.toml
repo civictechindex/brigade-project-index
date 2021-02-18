@@ -1,7 +1,47 @@
 code_url = "https://github.com/a2civictech/docstore"
 description = "For any civics-minded organization that needs a simple place to host documents publicly"
-git_branch = "master"
 git_url = "git://github.com/a2civictech/docstore.git"
-last_pushed_within = "over_a_year"
 link_url = "http://a2docs.aadl.org/"
 name = "docstore"
+organization_name = "Ann Arbor Civic Technology Meetup"
+
+[github]
+archived = false
+created_at = "2018-04-08T10:54:22Z"
+default_branch = "master"
+description = "For any civics-minded organization that needs a simple place to host documents publicly"
+disabled = false
+fork = true
+forks_within = 0
+full_name = "a2civictech/docstore"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://a2docs.aadl.org/"
+id = 128_631_515
+language = "Python"
+license = { }
+name = "docstore"
+node_id = "MDEwOlJlcG9zaXRvcnkxMjg2MzE1MTU="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 5_701_689
+  login = "a2civictech"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjU3MDE2ODk="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
