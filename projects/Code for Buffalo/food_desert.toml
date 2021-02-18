@@ -1,5 +1,45 @@
 code_url = "https://github.com/CodeForBuffalo/food_desert"
-git_branch = "master"
 git_url = "git://github.com/CodeForBuffalo/food_desert.git"
-last_pushed_within = "over_a_year"
 name = "food_desert"
+organization_name = "Code for Buffalo"
+
+[github]
+archived = false
+created_at = "2018-11-18T17:18:28Z"
+default_branch = "master"
+description = { }
+disabled = false
+fork = false
+forks_within = 0
+full_name = "CodeForBuffalo/food_desert"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 158_108_051
+language = "Python"
+license = { }
+name = "food_desert"
+node_id = "MDEwOlJlcG9zaXRvcnkxNTgxMDgwNTE="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 36_050_070
+  login = "CodeForBuffalo"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM2MDUwMDcw"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

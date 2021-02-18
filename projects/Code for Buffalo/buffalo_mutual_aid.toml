@@ -1,6 +1,51 @@
 code_url = "https://github.com/CodeForBuffalo/buffalo_mutual_aid"
 description = "Website for Buffalo Mutual Aid Network"
-git_branch = "master"
 git_url = "git://github.com/CodeForBuffalo/buffalo_mutual_aid.git"
-last_pushed_within = "month"
 name = "buffalo_mutual_aid"
+organization_name = "Code for Buffalo"
+
+[github]
+archived = false
+created_at = "2020-03-25T01:12:48Z"
+default_branch = "master"
+description = "Website for Buffalo Mutual Aid Network"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "CodeForBuffalo/buffalo_mutual_aid"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 249_856_095
+language = "HTML"
+name = "buffalo_mutual_aid"
+node_id = "MDEwOlJlcG9zaXRvcnkyNDk4NTYwOTU="
+open_issues_within = 0
+private = false
+pushed_within = "year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "year"
+watchers_within = 10
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 36_050_070
+  login = "CodeForBuffalo"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM2MDUwMDcw"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
