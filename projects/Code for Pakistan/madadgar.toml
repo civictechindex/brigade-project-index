@@ -1,5 +1,50 @@
 code_url = "https://github.com/codeforpakistan/madadgar"
-git_branch = "master"
 git_url = "git://github.com/codeforpakistan/madadgar.git"
-last_pushed_within = "over_a_year"
 name = "madadgar"
+organization_name = "Code for Pakistan"
+
+[github]
+archived = false
+created_at = "2017-08-20T10:59:44Z"
+default_branch = "master"
+description = { }
+disabled = false
+fork = true
+forks_within = 10
+full_name = "codeforpakistan/madadgar"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 100_855_560
+language = "PHP"
+name = "madadgar"
+node_id = "MDEwOlJlcG9zaXRvcnkxMDA4NTU1NjA="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "other"
+  name = "Other"
+  node_id = "MDc6TGljZW5zZTA="
+  spdx_id = "NOASSERTION"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 4_421_892
+  login = "codeforpakistan"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjQ0MjE4OTI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

@@ -1,6 +1,46 @@
 code_url = "https://github.com/codeforpakistan/Doctor-Finder"
 description = "This application targets wide range of Islamabad residents including people new to Islamabad, working mothers, people who really go to hospital. It helps you find the nearby doctors and specialists based on the selection and find the route for that doctor."
-git_branch = "master"
 git_url = "git://github.com/codeforpakistan/Doctor-Finder.git"
-last_pushed_within = "over_a_year"
 name = "Doctor-Finder"
+organization_name = "Code for Pakistan"
+
+[github]
+archived = false
+created_at = "2015-07-03T05:40:47Z"
+default_branch = "master"
+description = "This application targets wide range of Islamabad residents including people new to Islamabad, working mothers, people who really go to hospital. It helps you find the nearby doctors and specialists based on the selection and find the route for that doctor."
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codeforpakistan/Doctor-Finder"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 38_474_266
+language = "Java"
+license = { }
+name = "Doctor-Finder"
+node_id = "MDEwOlJlcG9zaXRvcnkzODQ3NDI2Ng=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 4_421_892
+  login = "codeforpakistan"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjQ0MjE4OTI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

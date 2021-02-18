@@ -1,6 +1,51 @@
 code_url = "https://github.com/codeforpakistan/PMRU-Open-data-portal"
 description = "This project wil contain work from the open data portal being developed for PMRU KP."
-git_branch = "master"
 git_url = "git://github.com/codeforpakistan/PMRU-Open-data-portal.git"
-last_pushed_within = "over_a_year"
 name = "PMRU-Open-data-portal"
+organization_name = "Code for Pakistan"
+
+[github]
+archived = false
+created_at = "2019-07-18T10:34:23Z"
+default_branch = "master"
+description = "This project wil contain work from the open data portal being developed for PMRU KP."
+disabled = false
+fork = false
+forks_within = 100
+full_name = "codeforpakistan/PMRU-Open-data-portal"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 197_566_627
+language = "PHP"
+name = "PMRU-Open-data-portal"
+node_id = "MDEwOlJlcG9zaXRvcnkxOTc1NjY2Mjc="
+open_issues_within = 100
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "other"
+  name = "Other"
+  node_id = "MDc6TGljZW5zZTA="
+  spdx_id = "NOASSERTION"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 4_421_892
+  login = "codeforpakistan"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjQ0MjE4OTI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

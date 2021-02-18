@@ -1,5 +1,45 @@
 code_url = "https://github.com/codeforpakistan/BFC-funds-disbursement"
-git_branch = "main"
 git_url = "git://github.com/codeforpakistan/BFC-funds-disbursement.git"
-last_pushed_within = "week"
 name = "BFC-funds-disbursement"
+organization_name = "Code for Pakistan"
+
+[github]
+archived = false
+created_at = "2020-12-09T10:46:11Z"
+default_branch = "main"
+description = { }
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codeforpakistan/BFC-funds-disbursement"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 319_925_039
+language = "PHP"
+license = { }
+name = "BFC-funds-disbursement"
+node_id = "MDEwOlJlcG9zaXRvcnkzMTk5MjUwMzk="
+open_issues_within = 0
+private = false
+pushed_within = "month"
+stargazers_within = 0
+topics = [ ]
+updated_within = "month"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 4_421_892
+  login = "codeforpakistan"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjQ0MjE4OTI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

@@ -1,6 +1,46 @@
 code_url = "https://github.com/codeforpakistan/teamFirms17"
 description = "This repo is intended to contain the work done by the Directorate of Industries and Commerce team for the 3rd Batch of KP Civic Innovation Fellowship Program 2017."
-git_branch = "master"
 git_url = "git://github.com/codeforpakistan/teamFirms17.git"
-last_pushed_within = "over_a_year"
 name = "teamFirms17"
+organization_name = "Code for Pakistan"
+
+[github]
+archived = false
+created_at = "2017-03-27T04:33:35Z"
+default_branch = "master"
+description = "This repo is intended to contain the work done by the Directorate of Industries and Commerce team for the 3rd Batch of KP Civic Innovation Fellowship Program 2017."
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codeforpakistan/teamFirms17"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 86_291_562
+language = "JavaScript"
+license = { }
+name = "teamFirms17"
+node_id = "MDEwOlJlcG9zaXRvcnk4NjI5MTU2Mg=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 4_421_892
+  login = "codeforpakistan"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjQ0MjE4OTI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

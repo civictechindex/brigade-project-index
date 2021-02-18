@@ -1,6 +1,51 @@
 code_url = "https://github.com/codeforpakistan/Chasham-Deed"
 description = "A platform through which any body can inform about civic problem to their relevant department."
-git_branch = "master"
 git_url = "git://github.com/codeforpakistan/Chasham-Deed.git"
-last_pushed_within = "over_a_year"
 name = "Chasham-Deed"
+organization_name = "Code for Pakistan"
+
+[github]
+archived = false
+created_at = "2016-07-17T14:34:12Z"
+default_branch = "master"
+description = "A platform through which any body can inform about civic problem to their relevant department."
+disabled = false
+fork = true
+forks_within = 10
+full_name = "codeforpakistan/Chasham-Deed"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 63_536_240
+language = "HTML"
+name = "Chasham-Deed"
+node_id = "MDEwOlJlcG9zaXRvcnk2MzUzNjI0MA=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 4_421_892
+  login = "codeforpakistan"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjQ0MjE4OTI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

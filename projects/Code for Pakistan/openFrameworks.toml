@@ -1,7 +1,52 @@
 code_url = "https://github.com/codeforpakistan/openFrameworks"
 description = "OpenFrameworks is a cross platform open source toolkit for creative coding in C++."
-git_branch = "master"
 git_url = "git://github.com/codeforpakistan/openFrameworks.git"
-last_pushed_within = "over_a_year"
 link_url = "http://openframeworks.cc"
 name = "openFrameworks"
+organization_name = "Code for Pakistan"
+
+[github]
+archived = false
+created_at = "2015-02-20T23:45:14Z"
+default_branch = "master"
+description = "OpenFrameworks is a cross platform open source toolkit for creative coding in C++."
+disabled = false
+fork = true
+forks_within = 10
+full_name = "codeforpakistan/openFrameworks"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://openframeworks.cc"
+id = 31_090_868
+language = "C++"
+name = "openFrameworks"
+node_id = "MDEwOlJlcG9zaXRvcnkzMTA5MDg2OA=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "other"
+  name = "Other"
+  node_id = "MDc6TGljZW5zZTA="
+  spdx_id = "NOASSERTION"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 4_421_892
+  login = "codeforpakistan"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjQ0MjE4OTI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

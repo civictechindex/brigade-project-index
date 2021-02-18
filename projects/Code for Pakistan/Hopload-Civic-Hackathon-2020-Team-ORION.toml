@@ -1,6 +1,46 @@
 code_url = "https://github.com/codeforpakistan/Hopload-Civic-Hackathon-2020-Team-ORION"
 description = "Project for Civic Hackathon 2020 Code for Pakistan"
-git_branch = "main"
 git_url = "git://github.com/codeforpakistan/Hopload-Civic-Hackathon-2020-Team-ORION.git"
-last_pushed_within = "month"
 name = "Hopload-Civic-Hackathon-2020-Team-ORION"
+organization_name = "Code for Pakistan"
+
+[github]
+archived = false
+created_at = "2020-12-15T07:25:35Z"
+default_branch = "main"
+description = "Project for Civic Hackathon 2020 Code for Pakistan"
+disabled = false
+fork = true
+forks_within = 0
+full_name = "codeforpakistan/Hopload-Civic-Hackathon-2020-Team-ORION"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 321_586_351
+language = { }
+license = { }
+name = "Hopload-Civic-Hackathon-2020-Team-ORION"
+node_id = "MDEwOlJlcG9zaXRvcnkzMjE1ODYzNTE="
+open_issues_within = 0
+private = false
+pushed_within = "year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 4_421_892
+  login = "codeforpakistan"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjQ0MjE4OTI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

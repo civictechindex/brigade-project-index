@@ -1,7 +1,47 @@
 code_url = "https://github.com/codeforpakistan/Pakistan-Digital-Map"
 description = "This repo contains district wise editable and interactive map of Pakistan."
-git_branch = "master"
 git_url = "git://github.com/codeforpakistan/Pakistan-Digital-Map.git"
-last_pushed_within = "over_a_year"
 link_url = "https://codeforpakistan.github.io/Pakistan-Digital-Map/"
 name = "Pakistan-Digital-Map"
+organization_name = "Code for Pakistan"
+
+[github]
+archived = false
+created_at = "2017-11-25T10:19:08Z"
+default_branch = "master"
+description = "This repo contains district wise editable and interactive map of Pakistan."
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codeforpakistan/Pakistan-Digital-Map"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "https://codeforpakistan.github.io/Pakistan-Digital-Map/"
+id = 111_994_671
+language = "HTML"
+license = { }
+name = "Pakistan-Digital-Map"
+node_id = "MDEwOlJlcG9zaXRvcnkxMTE5OTQ2NzE="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 4_421_892
+  login = "codeforpakistan"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjQ0MjE4OTI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

@@ -1,7 +1,47 @@
 code_url = "https://github.com/codeforpakistan/PublicSpacesX"
 description = ":city_sunset: Reclaiming and activating public spaces through participatory design for community uplift."
-git_branch = "master"
 git_url = "git://github.com/codeforpakistan/PublicSpacesX.git"
-last_pushed_within = "over_a_year"
 link_url = "http://gm.meteor.com"
 name = "PublicSpacesX"
+organization_name = "Code for Pakistan"
+
+[github]
+archived = false
+created_at = "2015-02-21T14:30:40Z"
+default_branch = "master"
+description = ":city_sunset: Reclaiming and activating public spaces through participatory design for community uplift."
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codeforpakistan/PublicSpacesX"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://gm.meteor.com"
+id = 31_128_011
+language = "HTML"
+license = { }
+name = "PublicSpacesX"
+node_id = "MDEwOlJlcG9zaXRvcnkzMTEyODAxMQ=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 4_421_892
+  login = "codeforpakistan"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjQ0MjE4OTI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

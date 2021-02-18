@@ -1,6 +1,46 @@
 code_url = "https://github.com/codeforpakistan/AWAAZ"
 description = "Civic Awareness"
-git_branch = "master"
 git_url = "git://github.com/codeforpakistan/AWAAZ.git"
-last_pushed_within = "over_a_year"
 name = "AWAAZ"
+organization_name = "Code for Pakistan"
+
+[github]
+archived = false
+created_at = "2015-02-22T08:40:48Z"
+default_branch = "master"
+description = "Civic Awareness"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "codeforpakistan/AWAAZ"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 31_157_361
+language = { }
+license = { }
+name = "AWAAZ"
+node_id = "MDEwOlJlcG9zaXRvcnkzMTE1NzM2MQ=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 4_421_892
+  login = "codeforpakistan"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjQ0MjE4OTI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

@@ -1,6 +1,46 @@
 code_url = "https://github.com/codeforpakistan/unioncouncils_netwrk_graph"
 description = "Union Council's network graph for Civic Hackathon"
-git_branch = "master"
 git_url = "git://github.com/codeforpakistan/unioncouncils_netwrk_graph.git"
-last_pushed_within = "over_a_year"
 name = "unioncouncils_netwrk_graph"
+organization_name = "Code for Pakistan"
+
+[github]
+archived = false
+created_at = "2016-07-17T14:24:17Z"
+default_branch = "master"
+description = "Union Council's network graph for Civic Hackathon"
+disabled = false
+fork = true
+forks_within = 10
+full_name = "codeforpakistan/unioncouncils_netwrk_graph"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 63_535_754
+language = "Jupyter Notebook"
+license = { }
+name = "unioncouncils_netwrk_graph"
+node_id = "MDEwOlJlcG9zaXRvcnk2MzUzNTc1NA=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 4_421_892
+  login = "codeforpakistan"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjQ0MjE4OTI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

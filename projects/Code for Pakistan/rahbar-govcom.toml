@@ -1,6 +1,46 @@
 code_url = "https://github.com/codeforpakistan/rahbar-govcom"
 description = "Information about Govt services"
-git_branch = "master"
 git_url = "git://github.com/codeforpakistan/rahbar-govcom.git"
-last_pushed_within = "over_a_year"
 name = "rahbar-govcom"
+organization_name = "Code for Pakistan"
+
+[github]
+archived = false
+created_at = "2013-04-07T12:30:17Z"
+default_branch = "master"
+description = "Information about Govt services"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codeforpakistan/rahbar-govcom"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 9_276_238
+language = "Java"
+license = { }
+name = "rahbar-govcom"
+node_id = "MDEwOlJlcG9zaXRvcnk5Mjc2MjM4"
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 4_421_892
+  login = "codeforpakistan"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjQ0MjE4OTI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

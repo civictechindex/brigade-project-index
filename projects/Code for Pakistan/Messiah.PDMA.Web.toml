@@ -1,7 +1,52 @@
 code_url = "https://github.com/codeforpakistan/Messiah.PDMA.Web"
 description = "This is the Web interface of the Messiah-PDMA "
-git_branch = "master"
 git_url = "git://github.com/codeforpakistan/Messiah.PDMA.Web.git"
-last_pushed_within = "over_a_year"
 link_url = "http://messiah-pdma.herokuapp.com/"
 name = "Messiah.PDMA.Web"
+organization_name = "Code for Pakistan"
+
+[github]
+archived = false
+created_at = "2014-06-18T09:38:52Z"
+default_branch = "master"
+description = "This is the Web interface of the Messiah-PDMA "
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codeforpakistan/Messiah.PDMA.Web"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://messiah-pdma.herokuapp.com/"
+id = 20_957_041
+language = "JavaScript"
+name = "Messiah.PDMA.Web"
+node_id = "MDEwOlJlcG9zaXRvcnkyMDk1NzA0MQ=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 4_421_892
+  login = "codeforpakistan"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjQ0MjE4OTI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

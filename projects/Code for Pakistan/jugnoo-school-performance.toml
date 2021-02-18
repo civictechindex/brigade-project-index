@@ -1,6 +1,46 @@
 code_url = "https://github.com/codeforpakistan/jugnoo-school-performance"
 description = "Analyzing and visualizing the performance of govt schools"
-git_branch = "master"
 git_url = "git://github.com/codeforpakistan/jugnoo-school-performance.git"
-last_pushed_within = "over_a_year"
 name = "jugnoo-school-performance"
+organization_name = "Code for Pakistan"
+
+[github]
+archived = false
+created_at = "2013-09-27T15:51:56Z"
+default_branch = "master"
+description = "Analyzing and visualizing the performance of govt schools"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codeforpakistan/jugnoo-school-performance"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 13_154_629
+language = "CSS"
+license = { }
+name = "jugnoo-school-performance"
+node_id = "MDEwOlJlcG9zaXRvcnkxMzE1NDYyOQ=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 4_421_892
+  login = "codeforpakistan"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjQ0MjE4OTI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

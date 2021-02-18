@@ -1,6 +1,46 @@
 code_url = "https://github.com/codeforpakistan/E-NOC-automation-system-Edit-Add-topics"
 description = "E-NOC automation system"
-git_branch = "master"
 git_url = "git://github.com/codeforpakistan/E-NOC-automation-system-Edit-Add-topics.git"
-last_pushed_within = "over_a_year"
 name = "E-NOC-automation-system-Edit-Add-topics"
+organization_name = "Code for Pakistan"
+
+[github]
+archived = false
+created_at = "2017-08-20T10:24:07Z"
+default_branch = "master"
+description = "E-NOC automation system"
+disabled = false
+fork = true
+forks_within = 10
+full_name = "codeforpakistan/E-NOC-automation-system-Edit-Add-topics"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 100_853_821
+language = { }
+license = { }
+name = "E-NOC-automation-system-Edit-Add-topics"
+node_id = "MDEwOlJlcG9zaXRvcnkxMDA4NTM4MjE="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 4_421_892
+  login = "codeforpakistan"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjQ0MjE4OTI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

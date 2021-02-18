@@ -1,6 +1,46 @@
 code_url = "https://github.com/codeforpakistan/aid_pakistan"
 description = "We all have heard how generous Pakistani people are when it comes to donations, and there are a bunch of really cool people doing awesome philanthropic work who need donations. So, This is the making of an opensource encyclopedia of various projects that are trying to build a better Pakistan, users can view and donate."
-git_branch = "master"
 git_url = "git://github.com/codeforpakistan/aid_pakistan.git"
-last_pushed_within = "over_a_year"
 name = "aid_pakistan"
+organization_name = "Code for Pakistan"
+
+[github]
+archived = false
+created_at = "2016-07-17T13:00:26Z"
+default_branch = "master"
+description = "We all have heard how generous Pakistani people are when it comes to donations, and there are a bunch of really cool people doing awesome philanthropic work who need donations. So, This is the making of an opensource encyclopedia of various projects that are trying to build a better Pakistan, users can view and donate."
+disabled = false
+fork = true
+forks_within = 10
+full_name = "codeforpakistan/aid_pakistan"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 63_532_026
+language = "JavaScript"
+license = { }
+name = "aid_pakistan"
+node_id = "MDEwOlJlcG9zaXRvcnk2MzUzMjAyNg=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 4_421_892
+  login = "codeforpakistan"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjQ0MjE4OTI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

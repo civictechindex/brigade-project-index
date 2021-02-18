@@ -1,6 +1,46 @@
 code_url = "https://github.com/codeforpakistan/Project-Ideas"
 description = "A curated list of awesome civic tech project ideas"
-git_branch = "master"
 git_url = "git://github.com/codeforpakistan/Project-Ideas.git"
-last_pushed_within = "month"
 name = "Project-Ideas"
+organization_name = "Code for Pakistan"
+
+[github]
+archived = false
+created_at = "2020-09-15T06:35:42Z"
+default_branch = "master"
+description = "A curated list of awesome civic tech project ideas"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "codeforpakistan/Project-Ideas"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 295_636_935
+language = { }
+license = { }
+name = "Project-Ideas"
+node_id = "MDEwOlJlcG9zaXRvcnkyOTU2MzY5MzU="
+open_issues_within = 0
+private = false
+pushed_within = "year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "month"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 4_421_892
+  login = "codeforpakistan"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjQ0MjE4OTI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

@@ -1,6 +1,46 @@
 code_url = "https://github.com/codeforpakistan/Muhafiz-Project"
 description = "Complete muhafiz project code for the mobile app and web app as well. Mobile app has been created over ionic js and web app has been created in asp.net"
-git_branch = "master"
 git_url = "git://github.com/codeforpakistan/Muhafiz-Project.git"
-last_pushed_within = "over_a_year"
 name = "Muhafiz-Project"
+organization_name = "Code for Pakistan"
+
+[github]
+archived = false
+created_at = "2016-08-15T16:08:18Z"
+default_branch = "master"
+description = "Complete muhafiz project code for the mobile app and web app as well. Mobile app has been created over ionic js and web app has been created in asp.net"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codeforpakistan/Muhafiz-Project"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 65_745_899
+language = "PHP"
+license = { }
+name = "Muhafiz-Project"
+node_id = "MDEwOlJlcG9zaXRvcnk2NTc0NTg5OQ=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 4_421_892
+  login = "codeforpakistan"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjQ0MjE4OTI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

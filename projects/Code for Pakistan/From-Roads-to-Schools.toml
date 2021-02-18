@@ -1,6 +1,46 @@
 code_url = "https://github.com/codeforpakistan/From-Roads-to-Schools"
 description = "Educate with Games"
-git_branch = "master"
 git_url = "git://github.com/codeforpakistan/From-Roads-to-Schools.git"
-last_pushed_within = "over_a_year"
 name = "From-Roads-to-Schools"
+organization_name = "Code for Pakistan"
+
+[github]
+archived = false
+created_at = "2017-08-20T10:54:19Z"
+default_branch = "master"
+description = "Educate with Games"
+disabled = false
+fork = true
+forks_within = 10
+full_name = "codeforpakistan/From-Roads-to-Schools"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 100_855_286
+language = "C#"
+license = { }
+name = "From-Roads-to-Schools"
+node_id = "MDEwOlJlcG9zaXRvcnkxMDA4NTUyODY="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 4_421_892
+  login = "codeforpakistan"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjQ0MjE4OTI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

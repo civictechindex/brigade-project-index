@@ -1,7 +1,47 @@
 code_url = "https://github.com/codeforpakistan/Rehnuma"
 description = "Simplified City Answers"
-git_branch = "master"
 git_url = "git://github.com/codeforpakistan/Rehnuma.git"
-last_pushed_within = "over_a_year"
 link_url = "http://rehnuma.herokuapp.com/"
 name = "Rehnuma"
+organization_name = "Code for Pakistan"
+
+[github]
+archived = false
+created_at = "2014-03-26T07:56:11Z"
+default_branch = "master"
+description = "Simplified City Answers"
+disabled = false
+fork = true
+forks_within = 10
+full_name = "codeforpakistan/Rehnuma"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://rehnuma.herokuapp.com/"
+id = 18_130_630
+language = "JavaScript"
+license = { }
+name = "Rehnuma"
+node_id = "MDEwOlJlcG9zaXRvcnkxODEzMDYzMA=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 4_421_892
+  login = "codeforpakistan"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjQ0MjE4OTI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

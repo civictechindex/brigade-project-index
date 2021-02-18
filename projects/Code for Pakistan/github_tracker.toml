@@ -1,7 +1,47 @@
 code_url = "https://github.com/codeforpakistan/github_tracker"
 description = "Tracks organizations, their projects and contributors"
-git_branch = "master"
 git_url = "git://github.com/codeforpakistan/github_tracker.git"
-last_pushed_within = "over_a_year"
 link_url = "stats.codeforamerica.org"
 name = "github_tracker"
+organization_name = "Code for Pakistan"
+
+[github]
+archived = false
+created_at = "2014-05-15T15:59:30Z"
+default_branch = "master"
+description = "Tracks organizations, their projects and contributors"
+disabled = false
+fork = true
+forks_within = 10
+full_name = "codeforpakistan/github_tracker"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "stats.codeforamerica.org"
+id = 19_825_885
+language = "Ruby"
+license = { }
+name = "github_tracker"
+node_id = "MDEwOlJlcG9zaXRvcnkxOTgyNTg4NQ=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 4_421_892
+  login = "codeforpakistan"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjQ0MjE4OTI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

@@ -1,5 +1,45 @@
 code_url = "https://github.com/codeforpakistan/PSRA-2020"
-git_branch = "main"
 git_url = "git://github.com/codeforpakistan/PSRA-2020.git"
-last_pushed_within = "month"
 name = "PSRA-2020"
+organization_name = "Code for Pakistan"
+
+[github]
+archived = false
+created_at = "2020-12-09T10:43:13Z"
+default_branch = "main"
+description = { }
+disabled = false
+fork = false
+forks_within = 0
+full_name = "codeforpakistan/PSRA-2020"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 319_924_303
+language = { }
+license = { }
+name = "PSRA-2020"
+node_id = "MDEwOlJlcG9zaXRvcnkzMTk5MjQzMDM="
+open_issues_within = 0
+private = false
+pushed_within = "year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 4_421_892
+  login = "codeforpakistan"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjQ0MjE4OTI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

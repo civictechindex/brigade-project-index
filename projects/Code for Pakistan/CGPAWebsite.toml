@@ -1,6 +1,51 @@
 code_url = "https://github.com/codeforpakistan/CGPAWebsite"
 description = "CGPA website regarding the performance of elected representatives of KPK"
-git_branch = "master"
 git_url = "git://github.com/codeforpakistan/CGPAWebsite.git"
-last_pushed_within = "over_a_year"
 name = "CGPAWebsite"
+organization_name = "Code for Pakistan"
+
+[github]
+archived = false
+created_at = "2016-12-14T14:50:09Z"
+default_branch = "master"
+description = "CGPA website regarding the performance of elected representatives of KPK"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codeforpakistan/CGPAWebsite"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 76_468_615
+language = "PHP"
+name = "CGPAWebsite"
+node_id = "MDEwOlJlcG9zaXRvcnk3NjQ2ODYxNQ=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 4_421_892
+  login = "codeforpakistan"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjQ0MjE4OTI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

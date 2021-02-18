@@ -1,7 +1,52 @@
 code_url = "https://github.com/codeforpakistan/efound"
 description = "efound provides services for mediation between owner of a good and the one who aims to trace this ownership. It allows the user to scan QR codes, barcodes, NFC tag or an RFID tag and read or write information against the tag ID in the central database."
-git_branch = "master"
 git_url = "git://github.com/codeforpakistan/efound.git"
-last_pushed_within = "over_a_year"
 link_url = "http://efound.info"
 name = "efound"
+organization_name = "Code for Pakistan"
+
+[github]
+archived = false
+created_at = "2015-02-21T16:33:25Z"
+default_branch = "master"
+description = "efound provides services for mediation between owner of a good and the one who aims to trace this ownership. It allows the user to scan QR codes, barcodes, NFC tag or an RFID tag and read or write information against the tag ID in the central database."
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codeforpakistan/efound"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://efound.info"
+id = 31_131_784
+language = "HTML"
+name = "efound"
+node_id = "MDEwOlJlcG9zaXRvcnkzMTEzMTc4NA=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "other"
+  name = "Other"
+  node_id = "MDc6TGljZW5zZTA="
+  spdx_id = "NOASSERTION"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 4_421_892
+  login = "codeforpakistan"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjQ0MjE4OTI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

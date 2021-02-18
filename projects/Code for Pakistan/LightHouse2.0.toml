@@ -1,5 +1,45 @@
 code_url = "https://github.com/codeforpakistan/LightHouse2.0"
-git_branch = "master"
 git_url = "git://github.com/codeforpakistan/LightHouse2.0.git"
-last_pushed_within = "over_a_year"
 name = "LightHouse2.0"
+organization_name = "Code for Pakistan"
+
+[github]
+archived = false
+created_at = "2015-02-21T14:51:04Z"
+default_branch = "master"
+description = { }
+disabled = false
+fork = true
+forks_within = 10
+full_name = "codeforpakistan/LightHouse2.0"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 31_128_597
+language = "C#"
+license = { }
+name = "LightHouse2.0"
+node_id = "MDEwOlJlcG9zaXRvcnkzMTEyODU5Nw=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 4_421_892
+  login = "codeforpakistan"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjQ0MjE4OTI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

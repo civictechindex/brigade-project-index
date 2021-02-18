@@ -1,6 +1,46 @@
 code_url = "https://github.com/codeforpakistan/Whater"
-git_branch = "master"
 git_url = "git://github.com/codeforpakistan/Whater.git"
-last_pushed_within = "over_a_year"
 link_url = "https://codeforpakistan.github.io/Whater/"
 name = "Whater"
+organization_name = "Code for Pakistan"
+
+[github]
+archived = false
+created_at = "2018-03-28T14:05:10Z"
+default_branch = "master"
+description = { }
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codeforpakistan/Whater"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "https://codeforpakistan.github.io/Whater/"
+id = 127_149_478
+language = "HTML"
+license = { }
+name = "Whater"
+node_id = "MDEwOlJlcG9zaXRvcnkxMjcxNDk0Nzg="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 4_421_892
+  login = "codeforpakistan"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjQ0MjE4OTI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
