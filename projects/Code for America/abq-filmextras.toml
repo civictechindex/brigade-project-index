@@ -1,6 +1,46 @@
 code_url = "https://github.com/codeforamerica/abq-filmextras"
 description = "Build week project to prototype a film extras marketplace"
-git_branch = "gh-pages"
 git_url = "git://github.com/codeforamerica/abq-filmextras.git"
-last_pushed_within = "over_a_year"
 name = "abq-filmextras"
+organization_name = "Code for America"
+
+[github]
+archived = false
+created_at = "2015-01-13T21:58:28Z"
+default_branch = "gh-pages"
+description = "Build week project to prototype a film extras marketplace"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "codeforamerica/abq-filmextras"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 29_213_376
+language = "JavaScript"
+license = { }
+name = "abq-filmextras"
+node_id = "MDEwOlJlcG9zaXRvcnkyOTIxMzM3Ng=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 337_792
+  login = "codeforamerica"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjMzNzc5Mg=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

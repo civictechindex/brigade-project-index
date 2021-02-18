@@ -1,8 +1,53 @@
 code_url = "https://github.com/codeforamerica/pandemic-ebt-ca"
 description = "Rails app to support Pandemic EBT (P-EBT) applications in California"
-git_branch = "master"
 git_url = "git://github.com/codeforamerica/pandemic-ebt-ca.git"
-last_pushed_within = "year"
 link_url = "https://ca.p-ebt.org"
 name = "pandemic-ebt-ca"
+organization_name = "Code for America"
 topics = [ "civic-tech", "coronavirus", "covid-19" ]
+
+[github]
+archived = false
+created_at = "2020-04-02T18:12:14Z"
+default_branch = "master"
+description = "Rails app to support Pandemic EBT (P-EBT) applications in California"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codeforamerica/pandemic-ebt-ca"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "https://ca.p-ebt.org"
+id = 252_531_703
+language = "Ruby"
+name = "pandemic-ebt-ca"
+node_id = "MDEwOlJlcG9zaXRvcnkyNTI1MzE3MDM="
+open_issues_within = 0
+private = false
+pushed_within = "year"
+stargazers_within = 10
+topics = [ "civic-tech", "coronavirus", "covid-19" ]
+updated_within = "year"
+watchers_within = 10
+
+  [github.license]
+  key = "bsd-3-clause"
+  name = 'BSD 3-Clause "New" or "Revised" License'
+  node_id = "MDc6TGljZW5zZTU="
+  spdx_id = "BSD-3-Clause"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 337_792
+  login = "codeforamerica"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjMzNzc5Mg=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

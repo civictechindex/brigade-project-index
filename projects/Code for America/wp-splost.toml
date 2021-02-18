@@ -1,7 +1,52 @@
 code_url = "https://github.com/codeforamerica/wp-splost"
 description = "This is the Wordpress theme for Macon's SPLOST website."
-git_branch = "master"
 git_url = "git://github.com/codeforamerica/wp-splost.git"
-last_pushed_within = "over_a_year"
 link_url = "splost.herokuapp.com"
 name = "wp-splost"
+organization_name = "Code for America"
+
+[github]
+archived = false
+created_at = "2012-08-07T17:19:58Z"
+default_branch = "master"
+description = "This is the Wordpress theme for Macon's SPLOST website."
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codeforamerica/wp-splost"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "splost.herokuapp.com"
+id = 5_330_925
+language = "PHP"
+name = "wp-splost"
+node_id = "MDEwOlJlcG9zaXRvcnk1MzMwOTI1"
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 100
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 100
+
+  [github.license]
+  key = "gpl-2.0"
+  name = "GNU General Public License v2.0"
+  node_id = "MDc6TGljZW5zZTg="
+  spdx_id = "GPL-2.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 337_792
+  login = "codeforamerica"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjMzNzc5Mg=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

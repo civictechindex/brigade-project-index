@@ -1,7 +1,47 @@
 code_url = "https://github.com/codeforamerica/recalls-python"
 description = "Python wrapper for usa.gov Product Recalls API"
-git_branch = "master"
 git_url = "git://github.com/codeforamerica/recalls-python.git"
-last_pushed_within = "over_a_year"
 link_url = "http://search.usa.gov/api/recalls"
 name = "recalls-python"
+organization_name = "Code for America"
+
+[github]
+archived = false
+created_at = "2011-06-21T17:44:47Z"
+default_branch = "master"
+description = "Python wrapper for usa.gov Product Recalls API"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "codeforamerica/recalls-python"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://search.usa.gov/api/recalls"
+id = 1_930_526
+language = "Python"
+license = { }
+name = "recalls-python"
+node_id = "MDEwOlJlcG9zaXRvcnkxOTMwNTI2"
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 337_792
+  login = "codeforamerica"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjMzNzc5Mg=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

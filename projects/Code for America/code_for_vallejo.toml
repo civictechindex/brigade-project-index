@@ -1,7 +1,47 @@
 code_url = "https://github.com/codeforamerica/code_for_vallejo"
 description = "Web presence for Team Vallejo to share updates, conduct outreach, etc."
-git_branch = "gh-pages"
 git_url = "git://github.com/codeforamerica/code_for_vallejo.git"
-last_pushed_within = "over_a_year"
 link_url = "http://codeforvallejo.org"
 name = "code_for_vallejo"
+organization_name = "Code for America"
+
+[github]
+archived = false
+created_at = "2015-03-04T19:16:53Z"
+default_branch = "gh-pages"
+description = "Web presence for Team Vallejo to share updates, conduct outreach, etc."
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codeforamerica/code_for_vallejo"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "http://codeforvallejo.org"
+id = 31_675_089
+language = "CSS"
+license = { }
+name = "code_for_vallejo"
+node_id = "MDEwOlJlcG9zaXRvcnkzMTY3NTA4OQ=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 337_792
+  login = "codeforamerica"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjMzNzc5Mg=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

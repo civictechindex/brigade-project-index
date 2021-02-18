@@ -1,7 +1,52 @@
 code_url = "https://github.com/codeforamerica/311fm"
 description = "A 311 service request viewer built on the open311 api"
-git_branch = "master"
 git_url = "git://github.com/codeforamerica/311fm.git"
-last_pushed_within = "over_a_year"
 link_url = "http://311.fm"
 name = "311fm"
+organization_name = "Code for America"
+
+[github]
+archived = false
+created_at = "2012-07-26T22:53:38Z"
+default_branch = "master"
+description = "A 311 service request viewer built on the open311 api"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codeforamerica/311fm"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://311.fm"
+id = 5_198_295
+language = "JavaScript"
+name = "311fm"
+node_id = "MDEwOlJlcG9zaXRvcnk1MTk4Mjk1"
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 100
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 100
+
+  [github.license]
+  key = "bsd-3-clause"
+  name = 'BSD 3-Clause "New" or "Revised" License'
+  node_id = "MDc6TGljZW5zZTU="
+  spdx_id = "BSD-3-Clause"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 337_792
+  login = "codeforamerica"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjMzNzc5Mg=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

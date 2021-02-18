@@ -1,7 +1,52 @@
 code_url = "https://github.com/codeforamerica/open311"
 description = "A Ruby wrapper for the Open311 API"
-git_branch = "master"
 git_url = "git://github.com/codeforamerica/open311.git"
-last_pushed_within = "over_a_year"
 link_url = "http://open311.org/"
 name = "open311"
+organization_name = "Code for America"
+
+[github]
+archived = false
+created_at = "2011-01-14T18:02:22Z"
+default_branch = "master"
+description = "A Ruby wrapper for the Open311 API"
+disabled = false
+fork = false
+forks_within = 100
+full_name = "codeforamerica/open311"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://open311.org/"
+id = 1_255_325
+language = "Ruby"
+name = "open311"
+node_id = "MDEwOlJlcG9zaXRvcnkxMjU1MzI1"
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 100
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 100
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 337_792
+  login = "codeforamerica"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjMzNzc5Mg=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

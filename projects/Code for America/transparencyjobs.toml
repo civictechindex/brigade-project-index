@@ -1,7 +1,52 @@
 code_url = "https://github.com/codeforamerica/transparencyjobs"
 description = "A job listing site for the transparency community"
-git_branch = "master"
 git_url = "git://github.com/codeforamerica/transparencyjobs.git"
-last_pushed_within = "over_a_year"
 link_url = "http://transparencyjobs.com"
 name = "transparencyjobs"
+organization_name = "Code for America"
+
+[github]
+archived = false
+created_at = "2011-08-18T23:35:52Z"
+default_branch = "master"
+description = "A job listing site for the transparency community"
+disabled = false
+fork = true
+forks_within = 0
+full_name = "codeforamerica/transparencyjobs"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://transparencyjobs.com"
+id = 2_231_042
+language = "Python"
+name = "transparencyjobs"
+node_id = "MDEwOlJlcG9zaXRvcnkyMjMxMDQy"
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "bsd-3-clause"
+  name = 'BSD 3-Clause "New" or "Revised" License'
+  node_id = "MDc6TGljZW5zZTU="
+  spdx_id = "BSD-3-Clause"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 337_792
+  login = "codeforamerica"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjMzNzc5Mg=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

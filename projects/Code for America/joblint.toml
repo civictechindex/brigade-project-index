@@ -1,7 +1,52 @@
 code_url = "https://github.com/codeforamerica/joblint"
 description = "Extended/rearranged version of http://joblint.org for build week"
-git_branch = "master"
 git_url = "git://github.com/codeforamerica/joblint.git"
-last_pushed_within = "over_a_year"
 link_url = "http://codeforamerica.github.io/joblint/"
 name = "joblint"
+organization_name = "Code for America"
+
+[github]
+archived = false
+created_at = "2016-01-27T00:52:48Z"
+default_branch = "master"
+description = "Extended/rearranged version of http://joblint.org for build week"
+disabled = false
+fork = true
+forks_within = 10
+full_name = "codeforamerica/joblint"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = false
+homepage = "http://codeforamerica.github.io/joblint/"
+id = 50_470_524
+language = "JavaScript"
+name = "joblint"
+node_id = "MDEwOlJlcG9zaXRvcnk1MDQ3MDUyNA=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 337_792
+  login = "codeforamerica"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjMzNzc5Mg=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

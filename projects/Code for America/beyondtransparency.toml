@@ -1,7 +1,52 @@
 code_url = "https://github.com/codeforamerica/beyondtransparency"
 description = "Code for America's new book - Beyond Transparency :closed_book:"
-git_branch = "master"
 git_url = "git://github.com/codeforamerica/beyondtransparency.git"
-last_pushed_within = "over_a_year"
 link_url = "http://beyondtransparency.org"
 name = "beyondtransparency"
+organization_name = "Code for America"
+
+[github]
+archived = false
+created_at = "2013-08-14T22:29:38Z"
+default_branch = "master"
+description = "Code for America's new book - Beyond Transparency :closed_book:"
+disabled = false
+fork = false
+forks_within = 100
+full_name = "codeforamerica/beyondtransparency"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://beyondtransparency.org"
+id = 12_120_917
+language = "HTML"
+name = "beyondtransparency"
+node_id = "MDEwOlJlcG9zaXRvcnkxMjEyMDkxNw=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 100
+topics = [ ]
+updated_within = "year"
+watchers_within = 100
+
+  [github.license]
+  key = "other"
+  name = "Other"
+  node_id = "MDc6TGljZW5zZTA="
+  spdx_id = "NOASSERTION"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 337_792
+  login = "codeforamerica"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjMzNzc5Mg=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

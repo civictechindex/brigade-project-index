@@ -1,6 +1,46 @@
 code_url = "https://github.com/codeforamerica/sms_mta"
 description = "SMS app to get bus times from the Macon Transit Authority's schedule."
-git_branch = "master"
 git_url = "git://github.com/codeforamerica/sms_mta.git"
-last_pushed_within = "over_a_year"
 name = "sms_mta"
+organization_name = "Code for America"
+
+[github]
+archived = false
+created_at = "2012-02-18T21:30:44Z"
+default_branch = "master"
+description = "SMS app to get bus times from the Macon Transit Authority's schedule."
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codeforamerica/sms_mta"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 3_481_296
+language = "Python"
+license = { }
+name = "sms_mta"
+node_id = "MDEwOlJlcG9zaXRvcnkzNDgxMjk2"
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 337_792
+  login = "codeforamerica"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjMzNzc5Mg=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

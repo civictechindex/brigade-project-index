@@ -1,6 +1,46 @@
 code_url = "https://github.com/codeforamerica/SNAP-lobbies"
 description = "Maps and streetviews of SNAP offices"
-git_branch = "master"
 git_url = "git://github.com/codeforamerica/SNAP-lobbies.git"
-last_pushed_within = "over_a_year"
 name = "SNAP-lobbies"
+organization_name = "Code for America"
+
+[github]
+archived = false
+created_at = "2014-12-02T01:16:28Z"
+default_branch = "master"
+description = "Maps and streetviews of SNAP offices"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "codeforamerica/SNAP-lobbies"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 27_408_601
+language = { }
+license = { }
+name = "SNAP-lobbies"
+node_id = "MDEwOlJlcG9zaXRvcnkyNzQwODYwMQ=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 337_792
+  login = "codeforamerica"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjMzNzc5Mg=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

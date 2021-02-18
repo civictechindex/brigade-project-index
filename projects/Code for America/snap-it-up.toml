@@ -1,7 +1,52 @@
 code_url = "https://github.com/codeforamerica/snap-it-up"
 description = "Super-simple dashboard showing the status of SNAP-related web services."
-git_branch = "master"
 git_url = "git://github.com/codeforamerica/snap-it-up.git"
-last_pushed_within = "over_a_year"
 link_url = "http://status.citizenonboard.com/ "
 name = "snap-it-up"
+organization_name = "Code for America"
+
+[github]
+archived = false
+created_at = "2015-01-20T04:15:44Z"
+default_branch = "master"
+description = "Super-simple dashboard showing the status of SNAP-related web services."
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codeforamerica/snap-it-up"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://status.citizenonboard.com/ "
+id = 29_511_376
+language = "Ruby"
+name = "snap-it-up"
+node_id = "MDEwOlJlcG9zaXRvcnkyOTUxMTM3Ng=="
+open_issues_within = 100
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "bsd-3-clause"
+  name = 'BSD 3-Clause "New" or "Revised" License'
+  node_id = "MDc6TGljZW5zZTU="
+  spdx_id = "BSD-3-Clause"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 337_792
+  login = "codeforamerica"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjMzNzc5Mg=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

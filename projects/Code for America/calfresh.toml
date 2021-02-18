@@ -1,7 +1,47 @@
 code_url = "https://github.com/codeforamerica/calfresh"
 description = "SF CalFresh timeline"
-git_branch = "gh-pages"
 git_url = "git://github.com/codeforamerica/calfresh.git"
-last_pushed_within = "year"
 link_url = "lippytak.github.io/calfresh/"
 name = "calfresh"
+organization_name = "Code for America"
+
+[github]
+archived = false
+created_at = "2020-10-22T21:41:05Z"
+default_branch = "gh-pages"
+description = "SF CalFresh timeline"
+disabled = false
+fork = true
+forks_within = 10
+full_name = "codeforamerica/calfresh"
+has_downloads = true
+has_issues = false
+has_pages = true
+has_projects = true
+has_wiki = false
+homepage = "lippytak.github.io/calfresh/"
+id = 306_464_821
+language = "HTML"
+license = { }
+name = "calfresh"
+node_id = "MDEwOlJlcG9zaXRvcnkzMDY0NjQ4MjE="
+open_issues_within = 0
+private = false
+pushed_within = "year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 337_792
+  login = "codeforamerica"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjMzNzc5Mg=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

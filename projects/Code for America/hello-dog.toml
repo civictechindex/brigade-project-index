@@ -1,6 +1,46 @@
 code_url = "https://github.com/codeforamerica/hello-dog"
 description = "Our IRC/Campfire bot based on Hubot"
-git_branch = "master"
 git_url = "git://github.com/codeforamerica/hello-dog.git"
-last_pushed_within = "over_a_year"
 name = "hello-dog"
+organization_name = "Code for America"
+
+[github]
+archived = false
+created_at = "2011-10-25T20:11:10Z"
+default_branch = "master"
+description = "Our IRC/Campfire bot based on Hubot"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codeforamerica/hello-dog"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 2_646_244
+language = "CoffeeScript"
+license = { }
+name = "hello-dog"
+node_id = "MDEwOlJlcG9zaXRvcnkyNjQ2MjQ0"
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 337_792
+  login = "codeforamerica"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjMzNzc5Mg=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

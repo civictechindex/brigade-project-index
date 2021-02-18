@@ -1,6 +1,51 @@
 code_url = "https://github.com/codeforamerica/cfaweb-blog-archive"
 description = "A static site hosting an archive of Code for America's blog. Built with Jekyll, hosted on S3."
-git_branch = "master"
 git_url = "git://github.com/codeforamerica/cfaweb-blog-archive.git"
-last_pushed_within = "over_a_year"
 name = "cfaweb-blog-archive"
+organization_name = "Code for America"
+
+[github]
+archived = false
+created_at = "2016-06-07T22:36:25Z"
+default_branch = "master"
+description = "A static site hosting an archive of Code for America's blog. Built with Jekyll, hosted on S3."
+disabled = false
+fork = false
+forks_within = 0
+full_name = "codeforamerica/cfaweb-blog-archive"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 60_651_181
+language = "SCSS"
+name = "cfaweb-blog-archive"
+node_id = "MDEwOlJlcG9zaXRvcnk2MDY1MTE4MQ=="
+open_issues_within = 0
+private = false
+pushed_within = "month"
+stargazers_within = 0
+topics = [ ]
+updated_within = "month"
+watchers_within = 0
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 337_792
+  login = "codeforamerica"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjMzNzc5Mg=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

@@ -1,5 +1,45 @@
 code_url = "https://github.com/codeforamerica/Civic-Commons-Marketplace-WP-Widget"
-git_branch = "master"
 git_url = "git://github.com/codeforamerica/Civic-Commons-Marketplace-WP-Widget.git"
-last_pushed_within = "over_a_year"
 name = "Civic-Commons-Marketplace-WP-Widget"
+organization_name = "Code for America"
+
+[github]
+archived = false
+created_at = "2012-01-13T17:22:46Z"
+default_branch = "master"
+description = { }
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codeforamerica/Civic-Commons-Marketplace-WP-Widget"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 3_172_780
+language = "PHP"
+license = { }
+name = "Civic-Commons-Marketplace-WP-Widget"
+node_id = "MDEwOlJlcG9zaXRvcnkzMTcyNzgw"
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 337_792
+  login = "codeforamerica"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjMzNzc5Mg=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

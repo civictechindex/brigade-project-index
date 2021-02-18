@@ -1,6 +1,46 @@
 code_url = "https://github.com/codeforamerica/chewy"
 description = "Mechanical Turk goes government."
-git_branch = "master"
 git_url = "git://github.com/codeforamerica/chewy.git"
-last_pushed_within = "over_a_year"
 name = "chewy"
+organization_name = "Code for America"
+
+[github]
+archived = false
+created_at = "2014-06-19T01:10:36Z"
+default_branch = "master"
+description = "Mechanical Turk goes government."
+disabled = false
+fork = false
+forks_within = 0
+full_name = "codeforamerica/chewy"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 20_983_315
+language = { }
+license = { }
+name = "chewy"
+node_id = "MDEwOlJlcG9zaXRvcnkyMDk4MzMxNQ=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 337_792
+  login = "codeforamerica"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjMzNzc5Mg=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

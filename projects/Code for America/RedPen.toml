@@ -1,6 +1,46 @@
 code_url = "https://github.com/codeforamerica/RedPen"
 description = "Red Pen automatically maps and labels your red and blue dots in Field Papers"
-git_branch = "master"
 git_url = "git://github.com/codeforamerica/RedPen.git"
-last_pushed_within = "over_a_year"
 name = "RedPen"
+organization_name = "Code for America"
+
+[github]
+archived = false
+created_at = "2012-04-23T19:50:35Z"
+default_branch = "master"
+description = "Red Pen automatically maps and labels your red and blue dots in Field Papers"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codeforamerica/RedPen"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 4_117_146
+language = "JavaScript"
+license = { }
+name = "RedPen"
+node_id = "MDEwOlJlcG9zaXRvcnk0MTE3MTQ2"
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 337_792
+  login = "codeforamerica"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjMzNzc5Mg=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

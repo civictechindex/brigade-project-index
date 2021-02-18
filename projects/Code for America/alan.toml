@@ -1,6 +1,46 @@
 code_url = "https://github.com/codeforamerica/alan"
 description = "Automate Alan away"
-git_branch = "master"
 git_url = "git://github.com/codeforamerica/alan.git"
-last_pushed_within = "over_a_year"
 name = "alan"
+organization_name = "Code for America"
+
+[github]
+archived = false
+created_at = "2015-06-29T04:41:52Z"
+default_branch = "master"
+description = "Automate Alan away"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "codeforamerica/alan"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 38_228_108
+language = "Ruby"
+license = { }
+name = "alan"
+node_id = "MDEwOlJlcG9zaXRvcnkzODIyODEwOA=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 337_792
+  login = "codeforamerica"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjMzNzc5Mg=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

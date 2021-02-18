@@ -1,6 +1,46 @@
 code_url = "https://github.com/codeforamerica/resident-web-use-research"
 description = "[work in progress] Digital Front Door survey tool for resident research"
-git_branch = "master"
 git_url = "git://github.com/codeforamerica/resident-web-use-research.git"
-last_pushed_within = "over_a_year"
 name = "resident-web-use-research"
+organization_name = "Code for America"
+
+[github]
+archived = false
+created_at = "2015-03-23T17:44:44Z"
+default_branch = "master"
+description = "[work in progress] Digital Front Door survey tool for resident research"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codeforamerica/resident-web-use-research"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 32_748_602
+language = "JavaScript"
+license = { }
+name = "resident-web-use-research"
+node_id = "MDEwOlJlcG9zaXRvcnkzMjc0ODYwMg=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 337_792
+  login = "codeforamerica"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjMzNzc5Mg=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

@@ -1,6 +1,46 @@
 code_url = "https://github.com/codeforamerica/styling_open_data_catalog"
 description = "Static HTML and resources to change the style of the Open Data Catalog."
-git_branch = "master"
 git_url = "git://github.com/codeforamerica/styling_open_data_catalog.git"
-last_pushed_within = "over_a_year"
 name = "styling_open_data_catalog"
+organization_name = "Code for America"
+
+[github]
+archived = false
+created_at = "2011-07-25T21:20:45Z"
+default_branch = "master"
+description = "Static HTML and resources to change the style of the Open Data Catalog."
+disabled = false
+fork = false
+forks_within = 0
+full_name = "codeforamerica/styling_open_data_catalog"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 2_103_550
+language = "JavaScript"
+license = { }
+name = "styling_open_data_catalog"
+node_id = "MDEwOlJlcG9zaXRvcnkyMTAzNTUw"
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 337_792
+  login = "codeforamerica"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjMzNzc5Mg=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

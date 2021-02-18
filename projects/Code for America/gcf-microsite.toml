@@ -1,7 +1,52 @@
 code_url = "https://github.com/codeforamerica/gcf-microsite"
 description = "GetCalFresh: A Fresh Look at the Facts. CalFresh helps people through challenging times in their lives. This site shares their stories."
-git_branch = "master"
 git_url = "git://github.com/codeforamerica/gcf-microsite.git"
-last_pushed_within = "over_a_year"
 link_url = "https://gcf-microsite.herokuapp.com/"
 name = "gcf-microsite"
+organization_name = "Code for America"
+
+[github]
+archived = false
+created_at = "2018-12-31T05:21:19Z"
+default_branch = "master"
+description = "GetCalFresh: A Fresh Look at the Facts. CalFresh helps people through challenging times in their lives. This site shares their stories."
+disabled = false
+fork = false
+forks_within = 0
+full_name = "codeforamerica/gcf-microsite"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = false
+homepage = "https://gcf-microsite.herokuapp.com/"
+id = 163_641_516
+language = "HTML"
+name = "gcf-microsite"
+node_id = "MDEwOlJlcG9zaXRvcnkxNjM2NDE1MTY="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "year"
+watchers_within = 0
+
+  [github.license]
+  key = "cc-by-4.0"
+  name = "Creative Commons Attribution 4.0 International"
+  node_id = "MDc6TGljZW5zZTI1"
+  spdx_id = "CC-BY-4.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 337_792
+  login = "codeforamerica"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjMzNzc5Mg=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

@@ -1,7 +1,47 @@
 code_url = "https://github.com/codeforamerica/trailsy"
 description = "A trip planner and mapper for hiking/biking/riding trail systems."
-git_branch = "master"
 git_url = "git://github.com/codeforamerica/trailsy.git"
-last_pushed_within = "over_a_year"
 link_url = "http://trailsy.herokuapp.com/"
 name = "trailsy"
+organization_name = "Code for America"
+
+[github]
+archived = false
+created_at = "2013-06-26T20:56:12Z"
+default_branch = "master"
+description = "A trip planner and mapper for hiking/biking/riding trail systems."
+disabled = false
+fork = false
+forks_within = 100
+full_name = "codeforamerica/trailsy"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://trailsy.herokuapp.com/"
+id = 10_978_923
+language = "CSS"
+license = { }
+name = "trailsy"
+node_id = "MDEwOlJlcG9zaXRvcnkxMDk3ODkyMw=="
+open_issues_within = 100
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 100
+topics = [ ]
+updated_within = "year"
+watchers_within = 100
+
+  [github.owner]
+  gravatar_id = ""
+  id = 337_792
+  login = "codeforamerica"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjMzNzc5Mg=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

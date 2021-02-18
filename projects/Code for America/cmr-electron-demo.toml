@@ -1,6 +1,51 @@
 code_url = "https://github.com/codeforamerica/cmr-electron-demo"
 description = "Demo Electron app for experimenting"
-git_branch = "master"
 git_url = "git://github.com/codeforamerica/cmr-electron-demo.git"
-last_pushed_within = "over_a_year"
 name = "cmr-electron-demo"
+organization_name = "Code for America"
+
+[github]
+archived = false
+created_at = "2019-04-05T16:37:45Z"
+default_branch = "master"
+description = "Demo Electron app for experimenting"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codeforamerica/cmr-electron-demo"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 179_718_798
+language = "JavaScript"
+name = "cmr-electron-demo"
+node_id = "MDEwOlJlcG9zaXRvcnkxNzk3MTg3OTg="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "cc0-1.0"
+  name = "Creative Commons Zero v1.0 Universal"
+  node_id = "MDc6TGljZW5zZTY="
+  spdx_id = "CC0-1.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 337_792
+  login = "codeforamerica"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjMzNzc5Mg=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

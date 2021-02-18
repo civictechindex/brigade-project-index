@@ -1,7 +1,47 @@
 code_url = "https://github.com/codeforamerica/Open311-Visualization"
 description = "Code for America labs project visualizing Open311 data"
-git_branch = "master"
 git_url = "git://github.com/codeforamerica/Open311-Visualization.git"
-last_pushed_within = "over_a_year"
 link_url = "http://www.codeforamerica.org"
 name = "Open311-Visualization"
+organization_name = "Code for America"
+
+[github]
+archived = false
+created_at = "2011-01-14T02:13:21Z"
+default_branch = "master"
+description = "Code for America labs project visualizing Open311 data"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "codeforamerica/Open311-Visualization"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://www.codeforamerica.org"
+id = 1_253_100
+language = "JavaScript"
+license = { }
+name = "Open311-Visualization"
+node_id = "MDEwOlJlcG9zaXRvcnkxMjUzMTAw"
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 337_792
+  login = "codeforamerica"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjMzNzc5Mg=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

@@ -1,7 +1,47 @@
 code_url = "https://github.com/codeforamerica/PhillyGoes2College2"
 description = "Wordpress template for the PhillyGoes2College website"
-git_branch = "master"
 git_url = "git://github.com/codeforamerica/PhillyGoes2College2.git"
-last_pushed_within = "over_a_year"
 link_url = "http://www.phillygoes2college.org/"
 name = "PhillyGoes2College2"
+organization_name = "Code for America"
+
+[github]
+archived = false
+created_at = "2011-06-20T18:18:06Z"
+default_branch = "master"
+description = "Wordpress template for the PhillyGoes2College website"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "codeforamerica/PhillyGoes2College2"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://www.phillygoes2college.org/"
+id = 1_925_015
+language = "PHP"
+license = { }
+name = "PhillyGoes2College2"
+node_id = "MDEwOlJlcG9zaXRvcnkxOTI1MDE1"
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 337_792
+  login = "codeforamerica"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjMzNzc5Mg=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

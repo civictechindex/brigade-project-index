@@ -1,6 +1,46 @@
 code_url = "https://github.com/codeforamerica/vita-min"
 description = "Minimal VITA web application for EITC pilot (2019-2020)"
-git_branch = "main"
 git_url = "git://github.com/codeforamerica/vita-min.git"
-last_pushed_within = "week"
 name = "vita-min"
+organization_name = "Code for America"
+
+[github]
+archived = false
+created_at = "2019-11-05T01:00:00Z"
+default_branch = "main"
+description = "Minimal VITA web application for EITC pilot (2019-2020)"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codeforamerica/vita-min"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 219_626_796
+language = "Ruby"
+license = { }
+name = "vita-min"
+node_id = "MDEwOlJlcG9zaXRvcnkyMTk2MjY3OTY="
+open_issues_within = 10
+private = false
+pushed_within = "week"
+stargazers_within = 10
+topics = [ ]
+updated_within = "week"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 337_792
+  login = "codeforamerica"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjMzNzc5Mg=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

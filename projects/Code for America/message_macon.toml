@@ -1,7 +1,47 @@
 code_url = "https://github.com/codeforamerica/message_macon"
 description = "Allow citizens to text issues to SeeClickFix Macon through Open311."
-git_branch = "master"
 git_url = "git://github.com/codeforamerica/message_macon.git"
-last_pushed_within = "over_a_year"
 link_url = "messagemacon.com"
 name = "message_macon"
+organization_name = "Code for America"
+
+[github]
+archived = false
+created_at = "2012-03-06T01:19:21Z"
+default_branch = "master"
+description = "Allow citizens to text issues to SeeClickFix Macon through Open311."
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codeforamerica/message_macon"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "messagemacon.com"
+id = 3_633_342
+language = "Python"
+license = { }
+name = "message_macon"
+node_id = "MDEwOlJlcG9zaXRvcnkzNjMzMzQy"
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 337_792
+  login = "codeforamerica"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjMzNzc5Mg=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

@@ -1,7 +1,52 @@
 code_url = "https://github.com/codeforamerica/commons"
 description = "Ruby wrapper fo the Civic Commons Marketplace API"
-git_branch = "master"
 git_url = "git://github.com/codeforamerica/commons.git"
-last_pushed_within = "over_a_year"
 link_url = "http://marketplace.civiccommons.org/api"
 name = "commons"
+organization_name = "Code for America"
+
+[github]
+archived = false
+created_at = "2012-01-12T01:32:54Z"
+default_branch = "master"
+description = "Ruby wrapper fo the Civic Commons Marketplace API"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codeforamerica/commons"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://marketplace.civiccommons.org/api"
+id = 3_158_971
+language = "Ruby"
+name = "commons"
+node_id = "MDEwOlJlcG9zaXRvcnkzMTU4OTcx"
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "bsd-3-clause"
+  name = 'BSD 3-Clause "New" or "Revised" License'
+  node_id = "MDc6TGljZW5zZTU="
+  spdx_id = "BSD-3-Clause"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 337_792
+  login = "codeforamerica"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjMzNzc5Mg=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

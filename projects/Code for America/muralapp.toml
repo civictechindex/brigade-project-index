@@ -1,6 +1,46 @@
 code_url = "https://github.com/codeforamerica/muralapp"
 description = "Mobile application which adds an interactive layer to the thousands of murals in the City of Philadelphia Mural Arts Program."
-git_branch = "master"
 git_url = "git://github.com/codeforamerica/muralapp.git"
-last_pushed_within = "over_a_year"
 name = "muralapp"
+organization_name = "Code for America"
+
+[github]
+archived = false
+created_at = "2011-04-14T05:29:27Z"
+default_branch = "master"
+description = "Mobile application which adds an interactive layer to the thousands of murals in the City of Philadelphia Mural Arts Program."
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codeforamerica/muralapp"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 1_612_856
+language = "JavaScript"
+license = { }
+name = "muralapp"
+node_id = "MDEwOlJlcG9zaXRvcnkxNjEyODU2"
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 100
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 100
+
+  [github.owner]
+  gravatar_id = ""
+  id = 337_792
+  login = "codeforamerica"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjMzNzc5Mg=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

@@ -1,6 +1,51 @@
 code_url = "https://github.com/codeforamerica/cmr-workstation-setup"
 description = "A repository for the Clear My Record engineering team to collect shared workstation settings"
-git_branch = "master"
 git_url = "git://github.com/codeforamerica/cmr-workstation-setup.git"
-last_pushed_within = "over_a_year"
 name = "cmr-workstation-setup"
+organization_name = "Code for America"
+
+[github]
+archived = false
+created_at = "2019-05-28T18:02:34Z"
+default_branch = "master"
+description = "A repository for the Clear My Record engineering team to collect shared workstation settings"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "codeforamerica/cmr-workstation-setup"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 189_078_297
+language = "Shell"
+name = "cmr-workstation-setup"
+node_id = "MDEwOlJlcG9zaXRvcnkxODkwNzgyOTc="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 337_792
+  login = "codeforamerica"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjMzNzc5Mg=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

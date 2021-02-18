@@ -1,7 +1,47 @@
 code_url = "https://github.com/codeforamerica/abq-seatmap"
 description = "Prototype: which seats are available in a building"
-git_branch = "gh-pages"
 git_url = "git://github.com/codeforamerica/abq-seatmap.git"
-last_pushed_within = "over_a_year"
 link_url = "http://codeforamerica.github.io/abq-seatmap/"
 name = "abq-seatmap"
+organization_name = "Code for America"
+
+[github]
+archived = false
+created_at = "2015-04-10T23:44:12Z"
+default_branch = "gh-pages"
+description = "Prototype: which seats are available in a building"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codeforamerica/abq-seatmap"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "http://codeforamerica.github.io/abq-seatmap/"
+id = 33_755_592
+language = "JavaScript"
+license = { }
+name = "abq-seatmap"
+node_id = "MDEwOlJlcG9zaXRvcnkzMzc1NTU5Mg=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 337_792
+  login = "codeforamerica"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjMzNzc5Mg=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

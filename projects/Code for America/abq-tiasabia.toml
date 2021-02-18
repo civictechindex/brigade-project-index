@@ -1,7 +1,47 @@
 code_url = "https://github.com/codeforamerica/abq-tiasabia"
 description = "Team ABQ is testing a platform for residents to get small loans from within their community instead of turning to payday loan shops."
-git_branch = "gh-pages"
 git_url = "git://github.com/codeforamerica/abq-tiasabia.git"
-last_pushed_within = "over_a_year"
 link_url = "http://codeforamerica.github.io/abq-tiasabia"
 name = "abq-tiasabia"
+organization_name = "Code for America"
+
+[github]
+archived = false
+created_at = "2015-05-06T21:09:56Z"
+default_branch = "gh-pages"
+description = "Team ABQ is testing a platform for residents to get small loans from within their community instead of turning to payday loan shops."
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codeforamerica/abq-tiasabia"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "http://codeforamerica.github.io/abq-tiasabia"
+id = 35_183_059
+language = "HTML"
+license = { }
+name = "abq-tiasabia"
+node_id = "MDEwOlJlcG9zaXRvcnkzNTE4MzA1OQ=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 337_792
+  login = "codeforamerica"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjMzNzc5Mg=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

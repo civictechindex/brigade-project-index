@@ -1,7 +1,52 @@
 code_url = "https://github.com/codeforamerica/codeforamerica.org-archive"
 description = "The (former) @codeforamerica website"
-git_branch = "master"
 git_url = "git://github.com/codeforamerica/codeforamerica.org-archive.git"
-last_pushed_within = "over_a_year"
 link_url = "http://archive.codeforamerica.org"
 name = "codeforamerica.org-archive"
+organization_name = "Code for America"
+
+[github]
+archived = false
+created_at = "2013-07-31T20:52:59Z"
+default_branch = "master"
+description = "The (former) @codeforamerica website"
+disabled = false
+fork = false
+forks_within = 1_000
+full_name = "codeforamerica/codeforamerica.org-archive"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://archive.codeforamerica.org"
+id = 11_801_062
+language = "HTML"
+name = "codeforamerica.org-archive"
+node_id = "MDEwOlJlcG9zaXRvcnkxMTgwMTA2Mg=="
+open_issues_within = 100
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 1_000
+topics = [ ]
+updated_within = "year"
+watchers_within = 1_000
+
+  [github.license]
+  key = "other"
+  name = "Other"
+  node_id = "MDc6TGljZW5zZTA="
+  spdx_id = "NOASSERTION"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 337_792
+  login = "codeforamerica"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjMzNzc5Mg=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

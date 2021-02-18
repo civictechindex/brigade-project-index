@@ -1,7 +1,47 @@
 code_url = "https://github.com/codeforamerica/citizenry"
 description = "Code for America's national version of citizenry "
-git_branch = "master"
 git_url = "git://github.com/codeforamerica/citizenry.git"
-last_pushed_within = "over_a_year"
 link_url = "http://geeks.codeforamerica.org"
 name = "citizenry"
+organization_name = "Code for America"
+
+[github]
+archived = false
+created_at = "2011-07-04T16:00:29Z"
+default_branch = "master"
+description = "Code for America's national version of citizenry "
+disabled = false
+fork = true
+forks_within = 10
+full_name = "codeforamerica/citizenry"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://geeks.codeforamerica.org"
+id = 1_996_181
+language = "JavaScript"
+license = { }
+name = "citizenry"
+node_id = "MDEwOlJlcG9zaXRvcnkxOTk2MTgx"
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 337_792
+  login = "codeforamerica"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjMzNzc5Mg=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

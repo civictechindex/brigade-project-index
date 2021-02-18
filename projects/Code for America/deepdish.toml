@@ -1,7 +1,47 @@
 code_url = "https://github.com/codeforamerica/deepdish"
 description = "See all the dodgy pizzas"
-git_branch = "master"
 git_url = "git://github.com/codeforamerica/deepdish.git"
-last_pushed_within = "over_a_year"
 link_url = "http://deepdish.herokuapp.com/"
 name = "deepdish"
+organization_name = "Code for America"
+
+[github]
+archived = false
+created_at = "2012-04-06T06:58:43Z"
+default_branch = "master"
+description = "See all the dodgy pizzas"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codeforamerica/deepdish"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://deepdish.herokuapp.com/"
+id = 3_947_598
+language = "JavaScript"
+license = { }
+name = "deepdish"
+node_id = "MDEwOlJlcG9zaXRvcnkzOTQ3NTk4"
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 337_792
+  login = "codeforamerica"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjMzNzc5Mg=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

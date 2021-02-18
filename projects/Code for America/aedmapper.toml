@@ -1,7 +1,47 @@
 code_url = "https://github.com/codeforamerica/aedmapper"
 description = "crowdsourcing defibrillator locations"
-git_branch = "master"
 git_url = "git://github.com/codeforamerica/aedmapper.git"
-last_pushed_within = "over_a_year"
 link_url = "www.aedmapper.com"
 name = "aedmapper"
+organization_name = "Code for America"
+
+[github]
+archived = false
+created_at = "2011-05-17T23:45:04Z"
+default_branch = "master"
+description = "crowdsourcing defibrillator locations"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "codeforamerica/aedmapper"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "www.aedmapper.com"
+id = 1_763_562
+language = "JavaScript"
+license = { }
+name = "aedmapper"
+node_id = "MDEwOlJlcG9zaXRvcnkxNzYzNTYy"
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 337_792
+  login = "codeforamerica"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjMzNzc5Mg=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

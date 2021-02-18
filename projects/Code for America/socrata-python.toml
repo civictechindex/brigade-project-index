@@ -1,7 +1,47 @@
 code_url = "https://github.com/codeforamerica/socrata-python"
 description = "A library for accessing the Socrata API from Python"
-git_branch = "master"
 git_url = "git://github.com/codeforamerica/socrata-python.git"
-last_pushed_within = "over_a_year"
 link_url = "http://www.socrata.com"
 name = "socrata-python"
+organization_name = "Code for America"
+
+[github]
+archived = false
+created_at = "2012-04-13T23:34:58Z"
+default_branch = "master"
+description = "A library for accessing the Socrata API from Python"
+disabled = false
+fork = true
+forks_within = 10
+full_name = "codeforamerica/socrata-python"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://www.socrata.com"
+id = 4_021_236
+language = "Python"
+license = { }
+name = "socrata-python"
+node_id = "MDEwOlJlcG9zaXRvcnk0MDIxMjM2"
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 337_792
+  login = "codeforamerica"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjMzNzc5Mg=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

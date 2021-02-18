@@ -1,7 +1,47 @@
 code_url = "https://github.com/codeforamerica/pdi-census"
 description = "A census of how different police departments are in accord with the White House Police Data Initiative"
-git_branch = "master"
 git_url = "git://github.com/codeforamerica/pdi-census.git"
-last_pushed_within = "over_a_year"
 link_url = "https://codeforamerica.github.io/pdi-census"
 name = "pdi-census"
+organization_name = "Code for America"
+
+[github]
+archived = false
+created_at = "2016-07-21T17:29:02Z"
+default_branch = "master"
+description = "A census of how different police departments are in accord with the White House Police Data Initiative"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codeforamerica/pdi-census"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "https://codeforamerica.github.io/pdi-census"
+id = 63_889_138
+language = "JavaScript"
+license = { }
+name = "pdi-census"
+node_id = "MDEwOlJlcG9zaXRvcnk2Mzg4OTEzOA=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 337_792
+  login = "codeforamerica"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjMzNzc5Mg=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

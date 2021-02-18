@@ -1,6 +1,46 @@
 code_url = "https://github.com/codeforamerica/shortener"
 description = "Simple dynamic link shortener"
-git_branch = "main"
 git_url = "git://github.com/codeforamerica/shortener.git"
-last_pushed_within = "year"
 name = "shortener"
+organization_name = "Code for America"
+
+[github]
+archived = false
+created_at = "2020-08-04T19:16:10Z"
+default_branch = "main"
+description = "Simple dynamic link shortener"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "codeforamerica/shortener"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 285_076_106
+language = "Ruby"
+license = { }
+name = "shortener"
+node_id = "MDEwOlJlcG9zaXRvcnkyODUwNzYxMDY="
+open_issues_within = 0
+private = false
+pushed_within = "year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 337_792
+  login = "codeforamerica"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjMzNzc5Mg=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

@@ -1,7 +1,47 @@
 code_url = "https://github.com/codeforamerica/macon"
 description = "A site for highlighting Code for America's Macon projects."
-git_branch = "master"
 git_url = "git://github.com/codeforamerica/macon.git"
-last_pushed_within = "over_a_year"
 link_url = "maconapps.com"
 name = "macon"
+organization_name = "Code for America"
+
+[github]
+archived = false
+created_at = "2012-05-23T22:44:27Z"
+default_branch = "master"
+description = "A site for highlighting Code for America's Macon projects."
+disabled = false
+fork = false
+forks_within = 0
+full_name = "codeforamerica/macon"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "maconapps.com"
+id = 4_426_255
+language = { }
+license = { }
+name = "macon"
+node_id = "MDEwOlJlcG9zaXRvcnk0NDI2MjU1"
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 337_792
+  login = "codeforamerica"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjMzNzc5Mg=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

@@ -1,6 +1,46 @@
 code_url = "https://github.com/codeforamerica/coloring-book"
 description = "A place to hold the pages for a coloring book designed by those @ CfA. "
-git_branch = "master"
 git_url = "git://github.com/codeforamerica/coloring-book.git"
-last_pushed_within = "over_a_year"
 name = "coloring-book"
+organization_name = "Code for America"
+
+[github]
+archived = false
+created_at = "2015-07-02T17:10:07Z"
+default_branch = "master"
+description = "A place to hold the pages for a coloring book designed by those @ CfA. "
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codeforamerica/coloring-book"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 38_446_057
+language = { }
+license = { }
+name = "coloring-book"
+node_id = "MDEwOlJlcG9zaXRvcnkzODQ0NjA1Nw=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 337_792
+  login = "codeforamerica"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjMzNzc5Mg=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

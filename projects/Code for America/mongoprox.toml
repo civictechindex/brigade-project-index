@@ -1,7 +1,47 @@
 code_url = "https://github.com/codeforamerica/mongoprox"
 description = "A proxy server for any MongoHQ instances REST API."
-git_branch = "master"
 git_url = "git://github.com/codeforamerica/mongoprox.git"
-last_pushed_within = "over_a_year"
 link_url = "http://mongoprox.herokuapp.com/databases/?limit=10"
 name = "mongoprox"
+organization_name = "Code for America"
+
+[github]
+archived = false
+created_at = "2012-05-10T00:16:08Z"
+default_branch = "master"
+description = "A proxy server for any MongoHQ instances REST API."
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codeforamerica/mongoprox"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://mongoprox.herokuapp.com/databases/?limit=10"
+id = 4_278_523
+language = "JavaScript"
+license = { }
+name = "mongoprox"
+node_id = "MDEwOlJlcG9zaXRvcnk0Mjc4NTIz"
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 337_792
+  login = "codeforamerica"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjMzNzc5Mg=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

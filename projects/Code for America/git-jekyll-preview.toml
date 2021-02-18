@@ -1,7 +1,47 @@
 code_url = "https://github.com/codeforamerica/git-jekyll-preview"
 description = "Preview your Github-hosted websites before making them live."
-git_branch = "master"
 git_url = "git://github.com/codeforamerica/git-jekyll-preview.git"
-last_pushed_within = "over_a_year"
 link_url = "http://jekit.codeforamerica.org"
 name = "git-jekyll-preview"
+organization_name = "Code for America"
+
+[github]
+archived = false
+created_at = "2013-11-21T20:05:47Z"
+default_branch = "master"
+description = "Preview your Github-hosted websites before making them live."
+disabled = false
+fork = false
+forks_within = 100
+full_name = "codeforamerica/git-jekyll-preview"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://jekit.codeforamerica.org"
+id = 14_598_313
+language = "Python"
+license = { }
+name = "git-jekyll-preview"
+node_id = "MDEwOlJlcG9zaXRvcnkxNDU5ODMxMw=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 100
+topics = [ ]
+updated_within = "year"
+watchers_within = 100
+
+  [github.owner]
+  gravatar_id = ""
+  id = 337_792
+  login = "codeforamerica"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjMzNzc5Mg=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

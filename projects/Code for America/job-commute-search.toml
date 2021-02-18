@@ -1,13 +1,63 @@
 code_url = "https://github.com/codeforamerica/job-commute-search"
 description = "Tool for job seekers to find a job with a good driving or public transit commute."
-git_branch = "master"
 git_url = "git://github.com/codeforamerica/job-commute-search.git"
-last_pushed_within = "over_a_year"
 link_url = "https://job-commute-search.herokuapp.com"
 name = "job-commute-search"
+organization_name = "Code for America"
 topics = [
   "codeforamerica-workforce",
   "codeforamerica-workforce-2018",
   "jobs",
   "workforce-development"
 ]
+
+[github]
+archived = false
+created_at = "2018-10-31T19:10:54Z"
+default_branch = "master"
+description = "Tool for job seekers to find a job with a good driving or public transit commute."
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codeforamerica/job-commute-search"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "https://job-commute-search.herokuapp.com"
+id = 155_610_369
+language = "PHP"
+name = "job-commute-search"
+node_id = "MDEwOlJlcG9zaXRvcnkxNTU2MTAzNjk="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [
+  "codeforamerica-workforce",
+  "codeforamerica-workforce-2018",
+  "jobs",
+  "workforce-development"
+]
+updated_within = "year"
+watchers_within = 10
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 337_792
+  login = "codeforamerica"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjMzNzc5Mg=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

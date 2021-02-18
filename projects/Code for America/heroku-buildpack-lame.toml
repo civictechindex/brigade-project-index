@@ -1,6 +1,46 @@
 code_url = "https://github.com/codeforamerica/heroku-buildpack-lame"
 description = "Heroku buildpack for LAME MP3 encoder"
-git_branch = "master"
 git_url = "git://github.com/codeforamerica/heroku-buildpack-lame.git"
-last_pushed_within = "over_a_year"
 name = "heroku-buildpack-lame"
+organization_name = "Code for America"
+
+[github]
+archived = false
+created_at = "2015-07-31T23:32:17Z"
+default_branch = "master"
+description = "Heroku buildpack for LAME MP3 encoder"
+disabled = false
+fork = true
+forks_within = 10
+full_name = "codeforamerica/heroku-buildpack-lame"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 40_028_839
+language = "Shell"
+license = { }
+name = "heroku-buildpack-lame"
+node_id = "MDEwOlJlcG9zaXRvcnk0MDAyODgzOQ=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 337_792
+  login = "codeforamerica"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjMzNzc5Mg=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

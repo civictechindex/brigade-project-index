@@ -1,6 +1,46 @@
 code_url = "https://github.com/codeforamerica/data-catalogs"
 description = "Keeping track of government data catalogues"
-git_branch = "master"
 git_url = "git://github.com/codeforamerica/data-catalogs.git"
-last_pushed_within = "over_a_year"
 name = "data-catalogs"
+organization_name = "Code for America"
+
+[github]
+archived = false
+created_at = "2014-01-04T01:18:42Z"
+default_branch = "master"
+description = "Keeping track of government data catalogues"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "codeforamerica/data-catalogs"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 15_623_795
+language = { }
+license = { }
+name = "data-catalogs"
+node_id = "MDEwOlJlcG9zaXRvcnkxNTYyMzc5NQ=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 337_792
+  login = "codeforamerica"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjMzNzc5Mg=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

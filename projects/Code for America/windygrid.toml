@@ -1,6 +1,46 @@
 code_url = "https://github.com/codeforamerica/windygrid"
 description = "Some static assets for the Chicago superduperuber dashboard"
-git_branch = "master"
 git_url = "git://github.com/codeforamerica/windygrid.git"
-last_pushed_within = "over_a_year"
 name = "windygrid"
+organization_name = "Code for America"
+
+[github]
+archived = false
+created_at = "2012-04-11T00:23:11Z"
+default_branch = "master"
+description = "Some static assets for the Chicago superduperuber dashboard"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codeforamerica/windygrid"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 3_988_594
+language = "JavaScript"
+license = { }
+name = "windygrid"
+node_id = "MDEwOlJlcG9zaXRvcnkzOTg4NTk0"
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 337_792
+  login = "codeforamerica"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjMzNzc5Mg=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

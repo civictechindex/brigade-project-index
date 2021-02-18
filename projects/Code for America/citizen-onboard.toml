@@ -1,7 +1,47 @@
 code_url = "https://github.com/codeforamerica/citizen-onboard"
 description = "How our government services work and don't work, inspired by @UserOnboard."
-git_branch = "gh-pages"
 git_url = "git://github.com/codeforamerica/citizen-onboard.git"
-last_pushed_within = "over_a_year"
 link_url = "citizenonboard.com"
 name = "citizen-onboard"
+organization_name = "Code for America"
+
+[github]
+archived = false
+created_at = "2014-02-12T05:03:56Z"
+default_branch = "gh-pages"
+description = "How our government services work and don't work, inspired by @UserOnboard."
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codeforamerica/citizen-onboard"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "citizenonboard.com"
+id = 16_756_583
+language = "HTML"
+license = { }
+name = "citizen-onboard"
+node_id = "MDEwOlJlcG9zaXRvcnkxNjc1NjU4Mw=="
+open_issues_within = 100
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 100
+topics = [ ]
+updated_within = "year"
+watchers_within = 100
+
+  [github.owner]
+  gravatar_id = ""
+  id = 337_792
+  login = "codeforamerica"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjMzNzc5Mg=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

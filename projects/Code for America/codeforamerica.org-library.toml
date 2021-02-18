@@ -1,6 +1,46 @@
 code_url = "https://github.com/codeforamerica/codeforamerica.org-library"
 description = "Codeforamerica.org/library"
-git_branch = "master"
 git_url = "git://github.com/codeforamerica/codeforamerica.org-library.git"
-last_pushed_within = "over_a_year"
 name = "codeforamerica.org-library"
+organization_name = "Code for America"
+
+[github]
+archived = false
+created_at = "2014-02-05T01:04:39Z"
+default_branch = "master"
+description = "Codeforamerica.org/library"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codeforamerica/codeforamerica.org-library"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 16_531_337
+language = "PHP"
+license = { }
+name = "codeforamerica.org-library"
+node_id = "MDEwOlJlcG9zaXRvcnkxNjUzMTMzNw=="
+open_issues_within = 100
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 337_792
+  login = "codeforamerica"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjMzNzc5Mg=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

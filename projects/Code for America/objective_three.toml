@@ -1,6 +1,46 @@
 code_url = "https://github.com/codeforamerica/objective_three"
 description = "Open311 Objective-C goodness."
-git_branch = "master"
 git_url = "git://github.com/codeforamerica/objective_three.git"
-last_pushed_within = "over_a_year"
 name = "objective_three"
+organization_name = "Code for America"
+
+[github]
+archived = false
+created_at = "2012-07-01T04:44:32Z"
+default_branch = "master"
+description = "Open311 Objective-C goodness."
+disabled = false
+fork = false
+forks_within = 0
+full_name = "codeforamerica/objective_three"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 4_847_942
+language = "Objective-C"
+license = { }
+name = "objective_three"
+node_id = "MDEwOlJlcG9zaXRvcnk0ODQ3OTQy"
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 337_792
+  login = "codeforamerica"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjMzNzc5Mg=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

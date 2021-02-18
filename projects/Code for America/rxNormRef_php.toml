@@ -1,6 +1,46 @@
 code_url = "https://github.com/codeforamerica/rxNormRef_php"
 description = "Web Application for rxNorm API - Semantic Drug Reference Tool"
-git_branch = "master"
 git_url = "git://github.com/codeforamerica/rxNormRef_php.git"
-last_pushed_within = "over_a_year"
 name = "rxNormRef_php"
+organization_name = "Code for America"
+
+[github]
+archived = false
+created_at = "2011-08-08T22:21:48Z"
+default_branch = "master"
+description = "Web Application for rxNorm API - Semantic Drug Reference Tool"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codeforamerica/rxNormRef_php"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 2_176_252
+language = "PHP"
+license = { }
+name = "rxNormRef_php"
+node_id = "MDEwOlJlcG9zaXRvcnkyMTc2MjUy"
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 337_792
+  login = "codeforamerica"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjMzNzc5Mg=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

@@ -1,6 +1,51 @@
 code_url = "https://github.com/codeforamerica/lexington-notify"
 description = "Spike for sms/email notification app"
-git_branch = "master"
 git_url = "git://github.com/codeforamerica/lexington-notify.git"
-last_pushed_within = "over_a_year"
 name = "lexington-notify"
+organization_name = "Code for America"
+
+[github]
+archived = false
+created_at = "2014-03-11T01:06:58Z"
+default_branch = "master"
+description = "Spike for sms/email notification app"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codeforamerica/lexington-notify"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 17_614_116
+language = "Ruby"
+name = "lexington-notify"
+node_id = "MDEwOlJlcG9zaXRvcnkxNzYxNDExNg=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 337_792
+  login = "codeforamerica"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjMzNzc5Mg=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

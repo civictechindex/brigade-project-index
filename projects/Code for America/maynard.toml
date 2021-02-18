@@ -1,7 +1,52 @@
 code_url = "https://github.com/codeforamerica/maynard"
 description = "Maynard: putting a dent in the procurement universe. "
-git_branch = "master"
 git_url = "git://github.com/codeforamerica/maynard.git"
-last_pushed_within = "over_a_year"
 link_url = "http://atlantaga.gov"
 name = "maynard"
+organization_name = "Code for America"
+
+[github]
+archived = false
+created_at = "2014-03-24T02:48:49Z"
+default_branch = "master"
+description = "Maynard: putting a dent in the procurement universe. "
+disabled = false
+fork = false
+forks_within = 0
+full_name = "codeforamerica/maynard"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://atlantaga.gov"
+id = 18_049_902
+language = "Ruby"
+name = "maynard"
+node_id = "MDEwOlJlcG9zaXRvcnkxODA0OTkwMg=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "bsd-3-clause"
+  name = 'BSD 3-Clause "New" or "Revised" License'
+  node_id = "MDc6TGljZW5zZTU="
+  spdx_id = "BSD-3-Clause"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 337_792
+  login = "codeforamerica"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjMzNzc5Mg=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

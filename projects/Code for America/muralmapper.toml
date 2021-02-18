@@ -1,7 +1,47 @@
 code_url = "https://github.com/codeforamerica/muralmapper"
 description = "A CouchDB + Nodejs + Twitter application that crowd sources mural art mapping."
-git_branch = "master"
 git_url = "git://github.com/codeforamerica/muralmapper.git"
-last_pushed_within = "over_a_year"
 link_url = "http://artmapper.org"
 name = "muralmapper"
+organization_name = "Code for America"
+
+[github]
+archived = false
+created_at = "2011-06-20T22:33:54Z"
+default_branch = "master"
+description = "A CouchDB + Nodejs + Twitter application that crowd sources mural art mapping."
+disabled = false
+fork = true
+forks_within = 10
+full_name = "codeforamerica/muralmapper"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://artmapper.org"
+id = 1_926_293
+language = "JavaScript"
+license = { }
+name = "muralmapper"
+node_id = "MDEwOlJlcG9zaXRvcnkxOTI2Mjkz"
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 337_792
+  login = "codeforamerica"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjMzNzc5Mg=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

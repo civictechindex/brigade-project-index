@@ -1,6 +1,51 @@
 code_url = "https://github.com/codeforamerica/p-ebt-landing"
 description = "Landing Page for CFA P-EBT Sites"
-git_branch = "master"
 git_url = "git://github.com/codeforamerica/p-ebt-landing.git"
-last_pushed_within = "year"
 name = "p-ebt-landing"
+organization_name = "Code for America"
+
+[github]
+archived = false
+created_at = "2020-06-09T21:13:40Z"
+default_branch = "master"
+description = "Landing Page for CFA P-EBT Sites"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "codeforamerica/p-ebt-landing"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 271_111_107
+language = "JavaScript"
+name = "p-ebt-landing"
+node_id = "MDEwOlJlcG9zaXRvcnkyNzExMTExMDc="
+open_issues_within = 0
+private = false
+pushed_within = "year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "year"
+watchers_within = 0
+
+  [github.license]
+  key = "bsd-3-clause"
+  name = 'BSD 3-Clause "New" or "Revised" License'
+  node_id = "MDc6TGljZW5zZTU="
+  spdx_id = "BSD-3-Clause"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 337_792
+  login = "codeforamerica"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjMzNzc5Mg=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

@@ -1,6 +1,46 @@
 code_url = "https://github.com/codeforamerica/likeminded_api_wrappers"
 description = "Consume the Likeminded API in different languages."
-git_branch = "master"
 git_url = "git://github.com/codeforamerica/likeminded_api_wrappers.git"
-last_pushed_within = "over_a_year"
 name = "likeminded_api_wrappers"
+organization_name = "Code for America"
+
+[github]
+archived = false
+created_at = "2011-04-20T17:56:30Z"
+default_branch = "master"
+description = "Consume the Likeminded API in different languages."
+disabled = false
+fork = false
+forks_within = 0
+full_name = "codeforamerica/likeminded_api_wrappers"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 1_641_672
+language = "Python"
+license = { }
+name = "likeminded_api_wrappers"
+node_id = "MDEwOlJlcG9zaXRvcnkxNjQxNjcy"
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 337_792
+  login = "codeforamerica"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjMzNzc5Mg=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

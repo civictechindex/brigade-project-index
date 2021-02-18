@@ -1,6 +1,46 @@
 code_url = "https://github.com/codeforamerica/contracts"
 description = "Contracts for Government Services, OpenAddresses Style"
-git_branch = "master"
 git_url = "git://github.com/codeforamerica/contracts.git"
-last_pushed_within = "over_a_year"
 name = "contracts"
+organization_name = "Code for America"
+
+[github]
+archived = false
+created_at = "2014-11-26T23:35:51Z"
+default_branch = "master"
+description = "Contracts for Government Services, OpenAddresses Style"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "codeforamerica/contracts"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 27_200_918
+language = { }
+license = { }
+name = "contracts"
+node_id = "MDEwOlJlcG9zaXRvcnkyNzIwMDkxOA=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 337_792
+  login = "codeforamerica"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjMzNzc5Mg=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

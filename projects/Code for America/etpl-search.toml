@@ -1,13 +1,63 @@
 code_url = "https://github.com/codeforamerica/etpl-search"
 description = "Mobile-optimized site for job seekers to find and compare training programs that are eligible for tuition assistance from the government workforce system."
-git_branch = "master"
 git_url = "git://github.com/codeforamerica/etpl-search.git"
-last_pushed_within = "over_a_year"
 link_url = "https://findtraining.org"
 name = "etpl-search"
+organization_name = "Code for America"
 topics = [
   "codeforamerica-workforce",
   "codeforamerica-workforce-2018",
   "jobs",
   "workforce-development"
 ]
+
+[github]
+archived = false
+created_at = "2018-10-26T17:01:20Z"
+default_branch = "master"
+description = "Mobile-optimized site for job seekers to find and compare training programs that are eligible for tuition assistance from the government workforce system."
+disabled = false
+fork = false
+forks_within = 0
+full_name = "codeforamerica/etpl-search"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "https://findtraining.org"
+id = 154_867_095
+language = "PHP"
+name = "etpl-search"
+node_id = "MDEwOlJlcG9zaXRvcnkxNTQ4NjcwOTU="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [
+  "codeforamerica-workforce",
+  "codeforamerica-workforce-2018",
+  "jobs",
+  "workforce-development"
+]
+updated_within = "month"
+watchers_within = 10
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 337_792
+  login = "codeforamerica"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjMzNzc5Mg=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

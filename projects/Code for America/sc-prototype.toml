@@ -1,6 +1,46 @@
 code_url = "https://github.com/codeforamerica/sc-prototype"
 description = "Status Checker Prototype for Alaska IBI Pilot"
-git_branch = "master"
 git_url = "git://github.com/codeforamerica/sc-prototype.git"
-last_pushed_within = "over_a_year"
 name = "sc-prototype"
+organization_name = "Code for America"
+
+[github]
+archived = false
+created_at = "2018-10-03T20:48:51Z"
+default_branch = "master"
+description = "Status Checker Prototype for Alaska IBI Pilot"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "codeforamerica/sc-prototype"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 151_478_454
+language = "HTML"
+license = { }
+name = "sc-prototype"
+node_id = "MDEwOlJlcG9zaXRvcnkxNTE0Nzg0NTQ="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 337_792
+  login = "codeforamerica"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjMzNzc5Mg=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

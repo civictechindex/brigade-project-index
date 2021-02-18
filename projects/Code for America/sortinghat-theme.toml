@@ -1,5 +1,45 @@
 code_url = "https://github.com/codeforamerica/sortinghat-theme"
-git_branch = "master"
 git_url = "git://github.com/codeforamerica/sortinghat-theme.git"
-last_pushed_within = "over_a_year"
 name = "sortinghat-theme"
+organization_name = "Code for America"
+
+[github]
+archived = false
+created_at = "2012-05-27T21:30:50Z"
+default_branch = "master"
+description = { }
+disabled = false
+fork = false
+forks_within = 0
+full_name = "codeforamerica/sortinghat-theme"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 4_464_881
+language = "PHP"
+license = { }
+name = "sortinghat-theme"
+node_id = "MDEwOlJlcG9zaXRvcnk0NDY0ODgx"
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 337_792
+  login = "codeforamerica"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjMzNzc5Mg=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

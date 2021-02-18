@@ -1,6 +1,46 @@
 code_url = "https://github.com/codeforamerica/50-states-microsite"
 description = '"Bringing Social Safety Net Benefits Online: Examining online platforms for all 50 states" microsite'
-git_branch = "master"
 git_url = "git://github.com/codeforamerica/50-states-microsite.git"
-last_pushed_within = "year"
 name = "50-states-microsite"
+organization_name = "Code for America"
+
+[github]
+archived = false
+created_at = "2020-08-19T20:11:38Z"
+default_branch = "master"
+description = '"Bringing Social Safety Net Benefits Online: Examining online platforms for all 50 states" microsite'
+disabled = false
+fork = false
+forks_within = 0
+full_name = "codeforamerica/50-states-microsite"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 288_827_500
+language = "HTML"
+license = { }
+name = "50-states-microsite"
+node_id = "MDEwOlJlcG9zaXRvcnkyODg4Mjc1MDA="
+open_issues_within = 0
+private = false
+pushed_within = "year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 337_792
+  login = "codeforamerica"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjMzNzc5Mg=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

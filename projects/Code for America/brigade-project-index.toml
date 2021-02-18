@@ -1,7 +1,47 @@
 code_url = "https://github.com/codeforamerica/brigade-project-index"
-description = "Planning Project for Brigade Project Index 2019"
-git_branch = "master"
+description = "Brigade Project Index"
 git_url = "git://github.com/codeforamerica/brigade-project-index.git"
-last_pushed_within = "week"
-link_url = "https://statusboard.brigade.cloud/#/"
+link_url = "https://brigade.cloud/"
 name = "brigade-project-index"
+organization_name = "Code for America"
+
+[github]
+archived = false
+created_at = "2019-06-24T04:17:53Z"
+default_branch = "master"
+description = "Brigade Project Index"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codeforamerica/brigade-project-index"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "https://brigade.cloud/"
+id = 193_432_663
+language = "JavaScript"
+license = { }
+name = "brigade-project-index"
+node_id = "MDEwOlJlcG9zaXRvcnkxOTM0MzI2NjM="
+open_issues_within = 100
+private = false
+pushed_within = "week"
+stargazers_within = 10
+topics = [ ]
+updated_within = "week"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 337_792
+  login = "codeforamerica"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjMzNzc5Mg=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = true

@@ -1,6 +1,51 @@
 code_url = "https://github.com/codeforamerica/heroku-buildpack-ruby"
 description = "Heroku's Ruby Buildpack for Cedar"
-git_branch = "master"
 git_url = "git://github.com/codeforamerica/heroku-buildpack-ruby.git"
-last_pushed_within = "over_a_year"
 name = "heroku-buildpack-ruby"
+organization_name = "Code for America"
+
+[github]
+archived = false
+created_at = "2012-06-28T22:11:33Z"
+default_branch = "master"
+description = "Heroku's Ruby Buildpack for Cedar"
+disabled = false
+fork = true
+forks_within = 0
+full_name = "codeforamerica/heroku-buildpack-ruby"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 4_826_286
+language = "Ruby"
+name = "heroku-buildpack-ruby"
+node_id = "MDEwOlJlcG9zaXRvcnk0ODI2Mjg2"
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 337_792
+  login = "codeforamerica"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjMzNzc5Mg=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

@@ -1,6 +1,46 @@
 code_url = "https://github.com/codeforamerica/public_art_finder"
 description = "All the stuff needed to get a barebones Public Art Finder mobile website setup in your city."
-git_branch = "master"
 git_url = "git://github.com/codeforamerica/public_art_finder.git"
-last_pushed_within = "over_a_year"
 name = "public_art_finder"
+organization_name = "Code for America"
+
+[github]
+archived = false
+created_at = "2011-08-17T19:19:53Z"
+default_branch = "master"
+description = "All the stuff needed to get a barebones Public Art Finder mobile website setup in your city."
+disabled = false
+fork = false
+forks_within = 100
+full_name = "codeforamerica/public_art_finder"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 2_223_802
+language = "JavaScript"
+license = { }
+name = "public_art_finder"
+node_id = "MDEwOlJlcG9zaXRvcnkyMjIzODAy"
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 100
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 100
+
+  [github.owner]
+  gravatar_id = ""
+  id = 337_792
+  login = "codeforamerica"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjMzNzc5Mg=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

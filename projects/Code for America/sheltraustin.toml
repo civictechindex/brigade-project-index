@@ -1,6 +1,51 @@
 code_url = "https://github.com/codeforamerica/sheltraustin"
 description = "Python version of Sheltr.org App built for Austin"
-git_branch = "master"
 git_url = "git://github.com/codeforamerica/sheltraustin.git"
-last_pushed_within = "over_a_year"
 name = "sheltraustin"
+organization_name = "Code for America"
+
+[github]
+archived = false
+created_at = "2012-06-07T01:21:57Z"
+default_branch = "master"
+description = "Python version of Sheltr.org App built for Austin"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codeforamerica/sheltraustin"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 4_579_945
+language = "Python"
+name = "sheltraustin"
+node_id = "MDEwOlJlcG9zaXRvcnk0NTc5OTQ1"
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "bsd-3-clause"
+  name = 'BSD 3-Clause "New" or "Revised" License'
+  node_id = "MDc6TGljZW5zZTU="
+  spdx_id = "BSD-3-Clause"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 337_792
+  login = "codeforamerica"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjMzNzc5Mg=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

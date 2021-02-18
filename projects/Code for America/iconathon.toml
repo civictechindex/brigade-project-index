@@ -1,7 +1,52 @@
 code_url = "https://github.com/codeforamerica/iconathon"
 description = "Website for Iconathon"
-git_branch = "master"
 git_url = "git://github.com/codeforamerica/iconathon.git"
-last_pushed_within = "over_a_year"
 link_url = "http://iconathon.org"
 name = "iconathon"
+organization_name = "Code for America"
+
+[github]
+archived = false
+created_at = "2011-08-17T06:23:45Z"
+default_branch = "master"
+description = "Website for Iconathon"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "codeforamerica/iconathon"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://iconathon.org"
+id = 2_220_197
+language = "PHP"
+name = "iconathon"
+node_id = "MDEwOlJlcG9zaXRvcnkyMjIwMTk3"
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "other"
+  name = "Other"
+  node_id = "MDc6TGljZW5zZTA="
+  spdx_id = "NOASSERTION"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 337_792
+  login = "codeforamerica"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjMzNzc5Mg=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

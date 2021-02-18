@@ -1,7 +1,47 @@
 code_url = "https://github.com/codeforamerica/hack-requests"
 description = "Code for America's hack requests. Discussions here will appear on the Civic Tech Issue Finder and may get hacked on by volunteers from around the globe."
-git_branch = "master"
 git_url = "git://github.com/codeforamerica/hack-requests.git"
-last_pushed_within = "over_a_year"
 link_url = "https://github.com/codeforamerica/hack-requests/issues"
 name = "hack-requests"
+organization_name = "Code for America"
+
+[github]
+archived = false
+created_at = "2013-08-15T23:08:34Z"
+default_branch = "master"
+description = "Code for America's hack requests. Discussions here will appear on the Civic Tech Issue Finder and may get hacked on by volunteers from around the globe."
+disabled = false
+fork = true
+forks_within = 10
+full_name = "codeforamerica/hack-requests"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "https://github.com/codeforamerica/hack-requests/issues"
+id = 12_146_010
+language = { }
+license = { }
+name = "hack-requests"
+node_id = "MDEwOlJlcG9zaXRvcnkxMjE0NjAxMA=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 100
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 100
+
+  [github.owner]
+  gravatar_id = ""
+  id = 337_792
+  login = "codeforamerica"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjMzNzc5Mg=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

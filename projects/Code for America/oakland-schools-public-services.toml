@@ -1,6 +1,46 @@
 code_url = "https://github.com/codeforamerica/oakland-schools-public-services"
 description = "A visualization of the public services in the neighborhood of Oakland public schools."
-git_branch = "master"
 git_url = "git://github.com/codeforamerica/oakland-schools-public-services.git"
-last_pushed_within = "over_a_year"
 name = "oakland-schools-public-services"
+organization_name = "Code for America"
+
+[github]
+archived = false
+created_at = "2013-01-18T21:42:01Z"
+default_branch = "master"
+description = "A visualization of the public services in the neighborhood of Oakland public schools."
+disabled = false
+fork = false
+forks_within = 0
+full_name = "codeforamerica/oakland-schools-public-services"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 7_694_960
+language = { }
+license = { }
+name = "oakland-schools-public-services"
+node_id = "MDEwOlJlcG9zaXRvcnk3Njk0OTYw"
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 337_792
+  login = "codeforamerica"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjMzNzc5Mg=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

@@ -1,7 +1,47 @@
 code_url = "https://github.com/codeforamerica/long-beach-styleguide"
 description = "Style guide for the City of Long Beach."
-git_branch = "gh-pages"
 git_url = "git://github.com/codeforamerica/long-beach-styleguide.git"
-last_pushed_within = "over_a_year"
 link_url = "https://lisaratner.github.io/long-beach-styleguide/"
 name = "long-beach-styleguide"
+organization_name = "Code for America"
+
+[github]
+archived = false
+created_at = "2016-06-29T00:48:39Z"
+default_branch = "gh-pages"
+description = "Style guide for the City of Long Beach."
+disabled = false
+fork = false
+forks_within = 0
+full_name = "codeforamerica/long-beach-styleguide"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "https://lisaratner.github.io/long-beach-styleguide/"
+id = 62_183_781
+language = "CSS"
+license = { }
+name = "long-beach-styleguide"
+node_id = "MDEwOlJlcG9zaXRvcnk2MjE4Mzc4MQ=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 337_792
+  login = "codeforamerica"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjMzNzc5Mg=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

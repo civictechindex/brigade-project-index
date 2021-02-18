@@ -1,7 +1,52 @@
 code_url = "https://github.com/codeforamerica/lbcflushots"
 description = "Flu shot finder for the City of Long Beach, Calif. A redeployment of @tkompare's Chicago app."
-git_branch = "gh-pages"
 git_url = "git://github.com/codeforamerica/lbcflushots.git"
-last_pushed_within = "over_a_year"
 link_url = "http://www.lbcflushots.org"
 name = "lbcflushots"
+organization_name = "Code for America"
+
+[github]
+archived = false
+created_at = "2014-10-29T18:39:28Z"
+default_branch = "gh-pages"
+description = "Flu shot finder for the City of Long Beach, Calif. A redeployment of @tkompare's Chicago app."
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codeforamerica/lbcflushots"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "http://www.lbcflushots.org"
+id = 25_935_723
+language = "JavaScript"
+name = "lbcflushots"
+node_id = "MDEwOlJlcG9zaXRvcnkyNTkzNTcyMw=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "other"
+  name = "Other"
+  node_id = "MDc6TGljZW5zZTA="
+  spdx_id = "NOASSERTION"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 337_792
+  login = "codeforamerica"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjMzNzc5Mg=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

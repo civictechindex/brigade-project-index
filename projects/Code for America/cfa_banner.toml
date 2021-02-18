@@ -1,7 +1,47 @@
 code_url = "https://github.com/codeforamerica/cfa_banner"
 description = "cfa_banner"
-git_branch = "gh-pages"
 git_url = "git://github.com/codeforamerica/cfa_banner.git"
-last_pushed_within = "over_a_year"
 link_url = "http://codeforamerica.github.com/cfa_banner"
 name = "cfa_banner"
+organization_name = "Code for America"
+
+[github]
+archived = false
+created_at = "2012-04-27T00:56:55Z"
+default_branch = "gh-pages"
+description = "cfa_banner"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codeforamerica/cfa_banner"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = false
+homepage = "http://codeforamerica.github.com/cfa_banner"
+id = 4_153_846
+language = "JavaScript"
+license = { }
+name = "cfa_banner"
+node_id = "MDEwOlJlcG9zaXRvcnk0MTUzODQ2"
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 337_792
+  login = "codeforamerica"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjMzNzc5Mg=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

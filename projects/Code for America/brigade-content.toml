@@ -1,6 +1,46 @@
 code_url = "https://github.com/codeforamerica/brigade-content"
 description = "A meta repo to discuss and collect what new Brigade content is needed."
-git_branch = "master"
 git_url = "git://github.com/codeforamerica/brigade-content.git"
-last_pushed_within = "over_a_year"
 name = "brigade-content"
+organization_name = "Code for America"
+
+[github]
+archived = false
+created_at = "2015-10-20T22:28:47Z"
+default_branch = "master"
+description = "A meta repo to discuss and collect what new Brigade content is needed."
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codeforamerica/brigade-content"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 44_638_542
+language = { }
+license = { }
+name = "brigade-content"
+node_id = "MDEwOlJlcG9zaXRvcnk0NDYzODU0Mg=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 337_792
+  login = "codeforamerica"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjMzNzc5Mg=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

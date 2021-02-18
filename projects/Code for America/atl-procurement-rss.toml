@@ -1,6 +1,51 @@
 code_url = "https://github.com/codeforamerica/atl-procurement-rss"
 description = "w00t. RSS for procurement updates. The beginning of openness, yes?"
-git_branch = "master"
 git_url = "git://github.com/codeforamerica/atl-procurement-rss.git"
-last_pushed_within = "over_a_year"
 name = "atl-procurement-rss"
+organization_name = "Code for America"
+
+[github]
+archived = false
+created_at = "2014-06-30T21:01:36Z"
+default_branch = "master"
+description = "w00t. RSS for procurement updates. The beginning of openness, yes?"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "codeforamerica/atl-procurement-rss"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 21_365_782
+language = "Ruby"
+name = "atl-procurement-rss"
+node_id = "MDEwOlJlcG9zaXRvcnkyMTM2NTc4Mg=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 337_792
+  login = "codeforamerica"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjMzNzc5Mg=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

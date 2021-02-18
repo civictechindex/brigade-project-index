@@ -1,7 +1,47 @@
 code_url = "https://github.com/codeforamerica/petition"
 description = "Drupal installation profile powering We The People at petitions.whitehouse.gov"
-git_branch = "7.x-1.x"
 git_url = "git://github.com/codeforamerica/petition.git"
-last_pushed_within = "over_a_year"
 link_url = "https://petitions.whitehouse.gov/"
 name = "petition"
+organization_name = "Code for America"
+
+[github]
+archived = false
+created_at = "2012-09-20T19:10:14Z"
+default_branch = "7.x-1.x"
+description = "Drupal installation profile powering We The People at petitions.whitehouse.gov"
+disabled = false
+fork = true
+forks_within = 10
+full_name = "codeforamerica/petition"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = false
+homepage = "https://petitions.whitehouse.gov/"
+id = 5_891_499
+language = "PHP"
+license = { }
+name = "petition"
+node_id = "MDEwOlJlcG9zaXRvcnk1ODkxNDk5"
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 337_792
+  login = "codeforamerica"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjMzNzc5Mg=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

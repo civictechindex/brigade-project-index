@@ -1,6 +1,46 @@
 code_url = "https://github.com/codeforamerica/deepdishATX"
 description = "Port of boundsj's deepdish app using Austin data"
-git_branch = "master"
 git_url = "git://github.com/codeforamerica/deepdishATX.git"
-last_pushed_within = "over_a_year"
 name = "deepdishATX"
+organization_name = "Code for America"
+
+[github]
+archived = false
+created_at = "2012-05-15T06:20:06Z"
+default_branch = "master"
+description = "Port of boundsj's deepdish app using Austin data"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codeforamerica/deepdishATX"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 4_332_709
+language = "JavaScript"
+license = { }
+name = "deepdishATX"
+node_id = "MDEwOlJlcG9zaXRvcnk0MzMyNzA5"
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 337_792
+  login = "codeforamerica"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjMzNzc5Mg=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

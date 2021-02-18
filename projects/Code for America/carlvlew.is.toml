@@ -1,7 +1,52 @@
 code_url = "https://github.com/codeforamerica/carlvlew.is"
 description = "My blog/portfolio hosted on GH pages w/ Jekyll"
-git_branch = "master"
 git_url = "git://github.com/codeforamerica/carlvlew.is.git"
-last_pushed_within = "over_a_year"
 link_url = "https://carlvlew.is"
 name = "carlvlew.is"
+organization_name = "Code for America"
+
+[github]
+archived = false
+created_at = "2019-10-21T15:42:01Z"
+default_branch = "master"
+description = "My blog/portfolio hosted on GH pages w/ Jekyll"
+disabled = false
+fork = true
+forks_within = 10
+full_name = "codeforamerica/carlvlew.is"
+has_downloads = true
+has_issues = false
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "https://carlvlew.is"
+id = 216_605_113
+language = "HTML"
+name = "carlvlew.is"
+node_id = "MDEwOlJlcG9zaXRvcnkyMTY2MDUxMTM="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 337_792
+  login = "codeforamerica"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjMzNzc5Mg=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

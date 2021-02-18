@@ -1,6 +1,51 @@
 code_url = "https://github.com/codeforamerica/clientcomm-rails"
 description = "ClientComm facilitates better communication between clients and case managers to increase the number of people who succeed on community supervision."
-git_branch = "develop"
 git_url = "git://github.com/codeforamerica/clientcomm-rails.git"
-last_pushed_within = "year"
 name = "clientcomm-rails"
+organization_name = "Code for America"
+
+[github]
+archived = false
+created_at = "2017-05-08T21:25:52Z"
+default_branch = "develop"
+description = "ClientComm facilitates better communication between clients and case managers to increase the number of people who succeed on community supervision."
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codeforamerica/clientcomm-rails"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 90_673_893
+language = "Ruby"
+name = "clientcomm-rails"
+node_id = "MDEwOlJlcG9zaXRvcnk5MDY3Mzg5Mw=="
+open_issues_within = 10
+private = false
+pushed_within = "year"
+stargazers_within = 100
+topics = [ ]
+updated_within = "month"
+watchers_within = 100
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 337_792
+  login = "codeforamerica"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjMzNzc5Mg=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

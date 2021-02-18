@@ -1,6 +1,46 @@
 code_url = "https://github.com/codeforamerica/Craigslist-Redux"
 description = "A set of stylesheets and a JS bookmarklet to apply design to Craigslist"
-git_branch = "master"
 git_url = "git://github.com/codeforamerica/Craigslist-Redux.git"
-last_pushed_within = "over_a_year"
 name = "Craigslist-Redux"
+organization_name = "Code for America"
+
+[github]
+archived = false
+created_at = "2011-09-23T21:16:06Z"
+default_branch = "master"
+description = "A set of stylesheets and a JS bookmarklet to apply design to Craigslist"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "codeforamerica/Craigslist-Redux"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 2_446_830
+language = "JavaScript"
+license = { }
+name = "Craigslist-Redux"
+node_id = "MDEwOlJlcG9zaXRvcnkyNDQ2ODMw"
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 337_792
+  login = "codeforamerica"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjMzNzc5Mg=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

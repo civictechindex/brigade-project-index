@@ -1,10 +1,9 @@
 code_url = "https://github.com/codeforamerica/brigade-project-index-statusboard"
 description = "A \"statusboard\" web app that is designed to display ongoing realtime information about each brigade's project-indexing opportunities."
-git_branch = "main"
 git_url = "git://github.com/codeforamerica/brigade-project-index-statusboard.git"
-last_pushed_within = "week"
 link_url = "https://projects.brigade.network"
 name = "brigade-project-index-statusboard"
+organization_name = "Code for America"
 topics = [
   "brigade",
   "code-for-america",
@@ -12,3 +11,55 @@ topics = [
   "react",
   "volunteer-opportunities"
 ]
+
+[github]
+archived = false
+created_at = "2020-01-06T02:23:55Z"
+default_branch = "main"
+description = "A \"statusboard\" web app that is designed to display ongoing realtime information about each brigade's project-indexing opportunities."
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codeforamerica/brigade-project-index-statusboard"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "https://projects.brigade.network"
+id = 232_008_053
+language = "JavaScript"
+name = "brigade-project-index-statusboard"
+node_id = "MDEwOlJlcG9zaXRvcnkyMzIwMDgwNTM="
+open_issues_within = 100
+private = false
+pushed_within = "month"
+stargazers_within = 10
+topics = [
+  "brigade",
+  "code-for-america",
+  "hacktoberfest",
+  "react",
+  "volunteer-opportunities"
+]
+updated_within = "year"
+watchers_within = 10
+
+  [github.license]
+  key = "apache-2.0"
+  name = "Apache License 2.0"
+  node_id = "MDc6TGljZW5zZTI="
+  spdx_id = "Apache-2.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 337_792
+  login = "codeforamerica"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjMzNzc5Mg=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

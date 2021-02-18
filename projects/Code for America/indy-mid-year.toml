@@ -1,6 +1,46 @@
 code_url = "https://github.com/codeforamerica/indy-mid-year"
-git_branch = "gh-pages"
 git_url = "git://github.com/codeforamerica/indy-mid-year.git"
-last_pushed_within = "over_a_year"
 link_url = "https://codeforamerica.github.io/indy-mid-year/"
 name = "indy-mid-year"
+organization_name = "Code for America"
+
+[github]
+archived = false
+created_at = "2015-06-18T18:30:28Z"
+default_branch = "gh-pages"
+description = { }
+disabled = false
+fork = false
+forks_within = 0
+full_name = "codeforamerica/indy-mid-year"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "https://codeforamerica.github.io/indy-mid-year/"
+id = 37_677_332
+language = "HTML"
+license = { }
+name = "indy-mid-year"
+node_id = "MDEwOlJlcG9zaXRvcnkzNzY3NzMzMg=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 337_792
+  login = "codeforamerica"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjMzNzc5Mg=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

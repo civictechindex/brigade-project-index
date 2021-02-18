@@ -1,7 +1,52 @@
 code_url = "https://github.com/codeforamerica/realms-wiki"
 description = "Git based wiki inspired by Gollum"
-git_branch = "master"
 git_url = "git://github.com/codeforamerica/realms-wiki.git"
-last_pushed_within = "over_a_year"
 link_url = "http://realms.io"
 name = "realms-wiki"
+organization_name = "Code for America"
+
+[github]
+archived = false
+created_at = "2016-07-25T22:50:16Z"
+default_branch = "master"
+description = "Git based wiki inspired by Gollum"
+disabled = false
+fork = true
+forks_within = 0
+full_name = "codeforamerica/realms-wiki"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://realms.io"
+id = 64_173_023
+language = "Python"
+name = "realms-wiki"
+node_id = "MDEwOlJlcG9zaXRvcnk2NDE3MzAyMw=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "gpl-2.0"
+  name = "GNU General Public License v2.0"
+  node_id = "MDc6TGljZW5zZTg="
+  spdx_id = "GPL-2.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 337_792
+  login = "codeforamerica"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjMzNzc5Mg=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

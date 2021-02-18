@@ -1,6 +1,51 @@
 code_url = "https://github.com/codeforamerica/ceo-report"
 description = "A series of graphs summarizing poverty in NYC."
-git_branch = "gh-pages"
 git_url = "git://github.com/codeforamerica/ceo-report.git"
-last_pushed_within = "over_a_year"
 name = "ceo-report"
+organization_name = "Code for America"
+
+[github]
+archived = false
+created_at = "2016-06-22T20:00:33Z"
+default_branch = "gh-pages"
+description = "A series of graphs summarizing poverty in NYC."
+disabled = false
+fork = false
+forks_within = 0
+full_name = "codeforamerica/ceo-report"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 61_747_722
+language = "CSS"
+name = "ceo-report"
+node_id = "MDEwOlJlcG9zaXRvcnk2MTc0NzcyMg=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "apache-2.0"
+  name = "Apache License 2.0"
+  node_id = "MDc6TGljZW5zZTI="
+  spdx_id = "Apache-2.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 337_792
+  login = "codeforamerica"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjMzNzc5Mg=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

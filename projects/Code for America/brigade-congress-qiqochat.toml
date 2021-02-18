@@ -1,6 +1,46 @@
 code_url = "https://github.com/codeforamerica/brigade-congress-qiqochat"
 description = "HTML / CSS for Brigade Congress (Oct 16-18, 2020) via Qiqochat"
-git_branch = "master"
 git_url = "git://github.com/codeforamerica/brigade-congress-qiqochat.git"
-last_pushed_within = "year"
 name = "brigade-congress-qiqochat"
+organization_name = "Code for America"
+
+[github]
+archived = false
+created_at = "2020-10-08T00:18:05Z"
+default_branch = "master"
+description = "HTML / CSS for Brigade Congress (Oct 16-18, 2020) via Qiqochat"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codeforamerica/brigade-congress-qiqochat"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 302_191_623
+language = "HTML"
+license = { }
+name = "brigade-congress-qiqochat"
+node_id = "MDEwOlJlcG9zaXRvcnkzMDIxOTE2MjM="
+open_issues_within = 10
+private = false
+pushed_within = "year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 337_792
+  login = "codeforamerica"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjMzNzc5Mg=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

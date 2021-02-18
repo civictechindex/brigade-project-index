@@ -1,7 +1,47 @@
 code_url = "https://github.com/codeforamerica/blightstatus-homepage"
 description = "BlightStatus homepage"
-git_branch = "master"
 git_url = "git://github.com/codeforamerica/blightstatus-homepage.git"
-last_pushed_within = "over_a_year"
 link_url = "http://blightstatus.com"
 name = "blightstatus-homepage"
+organization_name = "Code for America"
+
+[github]
+archived = false
+created_at = "2012-10-17T14:54:17Z"
+default_branch = "master"
+description = "BlightStatus homepage"
+disabled = false
+fork = true
+forks_within = 0
+full_name = "codeforamerica/blightstatus-homepage"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://blightstatus.com"
+id = 6_263_099
+language = "JavaScript"
+license = { }
+name = "blightstatus-homepage"
+node_id = "MDEwOlJlcG9zaXRvcnk2MjYzMDk5"
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 337_792
+  login = "codeforamerica"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjMzNzc5Mg=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

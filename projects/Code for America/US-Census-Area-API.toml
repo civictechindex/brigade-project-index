@@ -1,6 +1,51 @@
 code_url = "https://github.com/codeforamerica/US-Census-Area-API"
 description = "Simple geospatial API for US Census, see also https://github.com/codeforamerica/hack-requests/blob/master/census-area-API.md"
-git_branch = "master"
 git_url = "git://github.com/codeforamerica/US-Census-Area-API.git"
-last_pushed_within = "over_a_year"
 name = "US-Census-Area-API"
+organization_name = "Code for America"
+
+[github]
+archived = false
+created_at = "2013-09-13T19:13:19Z"
+default_branch = "master"
+description = "Simple geospatial API for US Census, see also https://github.com/codeforamerica/hack-requests/blob/master/census-area-API.md"
+disabled = false
+fork = false
+forks_within = 100
+full_name = "codeforamerica/US-Census-Area-API"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 12_817_406
+language = "Python"
+name = "US-Census-Area-API"
+node_id = "MDEwOlJlcG9zaXRvcnkxMjgxNzQwNg=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 100
+topics = [ ]
+updated_within = "year"
+watchers_within = 100
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 337_792
+  login = "codeforamerica"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjMzNzc5Mg=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

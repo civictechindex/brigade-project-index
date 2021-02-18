@@ -1,6 +1,51 @@
 code_url = "https://github.com/codeforamerica/tracker-git"
 description = "Integrations with Pivotal Tracker based on current Git repository."
-git_branch = "master"
 git_url = "git://github.com/codeforamerica/tracker-git.git"
-last_pushed_within = "over_a_year"
 name = "tracker-git"
+organization_name = "Code for America"
+
+[github]
+archived = false
+created_at = "2017-11-16T23:45:24Z"
+default_branch = "master"
+description = "Integrations with Pivotal Tracker based on current Git repository."
+disabled = false
+fork = true
+forks_within = 10
+full_name = "codeforamerica/tracker-git"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 111_034_951
+language = "Ruby"
+name = "tracker-git"
+node_id = "MDEwOlJlcG9zaXRvcnkxMTEwMzQ5NTE="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 337_792
+  login = "codeforamerica"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjMzNzc5Mg=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

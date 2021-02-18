@@ -1,6 +1,46 @@
 code_url = "https://github.com/codeforamerica/fellowship-project-dashboard"
-git_branch = "gh-pages"
 git_url = "git://github.com/codeforamerica/fellowship-project-dashboard.git"
-last_pushed_within = "over_a_year"
 link_url = "http://codeforamerica.github.io/fellowship-project-dashboard/"
 name = "fellowship-project-dashboard"
+organization_name = "Code for America"
+
+[github]
+archived = false
+created_at = "2016-03-14T23:44:14Z"
+default_branch = "gh-pages"
+description = { }
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codeforamerica/fellowship-project-dashboard"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "http://codeforamerica.github.io/fellowship-project-dashboard/"
+id = 53_900_124
+language = "HTML"
+license = { }
+name = "fellowship-project-dashboard"
+node_id = "MDEwOlJlcG9zaXRvcnk1MzkwMDEyNA=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 337_792
+  login = "codeforamerica"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjMzNzc5Mg=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

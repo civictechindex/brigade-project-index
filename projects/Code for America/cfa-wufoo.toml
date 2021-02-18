@@ -1,6 +1,46 @@
 code_url = "https://github.com/codeforamerica/cfa-wufoo"
 description = "A custom css stylesheet for Code for America Wufoo forms."
-git_branch = "gh-pages"
 git_url = "git://github.com/codeforamerica/cfa-wufoo.git"
-last_pushed_within = "over_a_year"
 name = "cfa-wufoo"
+organization_name = "Code for America"
+
+[github]
+archived = false
+created_at = "2014-11-29T03:31:35Z"
+default_branch = "gh-pages"
+description = "A custom css stylesheet for Code for America Wufoo forms."
+disabled = false
+fork = false
+forks_within = 0
+full_name = "codeforamerica/cfa-wufoo"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 27_290_152
+language = "CSS"
+license = { }
+name = "cfa-wufoo"
+node_id = "MDEwOlJlcG9zaXRvcnkyNzI5MDE1Mg=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 337_792
+  login = "codeforamerica"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjMzNzc5Mg=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

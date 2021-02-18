@@ -1,5 +1,45 @@
 code_url = "https://github.com/codeforamerica/hermes-dashboard"
-git_branch = "master"
 git_url = "git://github.com/codeforamerica/hermes-dashboard.git"
-last_pushed_within = "over_a_year"
 name = "hermes-dashboard"
+organization_name = "Code for America"
+
+[github]
+archived = false
+created_at = "2013-04-09T22:21:21Z"
+default_branch = "master"
+description = { }
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codeforamerica/hermes-dashboard"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 9_332_911
+language = "JavaScript"
+license = { }
+name = "hermes-dashboard"
+node_id = "MDEwOlJlcG9zaXRvcnk5MzMyOTEx"
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 337_792
+  login = "codeforamerica"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjMzNzc5Mg=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

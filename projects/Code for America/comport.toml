@@ -1,7 +1,52 @@
 code_url = "https://github.com/codeforamerica/comport"
 description = "Comport is a tool for law enforcement agencies to open their data and be accountable to their citizens."
-git_branch = "master"
 git_url = "git://github.com/codeforamerica/comport.git"
-last_pushed_within = "over_a_year"
 link_url = "https://www.projectcomport.org"
 name = "comport"
+organization_name = "Code for America"
+
+[github]
+archived = false
+created_at = "2015-09-02T21:07:13Z"
+default_branch = "master"
+description = "Comport is a tool for law enforcement agencies to open their data and be accountable to their citizens."
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codeforamerica/comport"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "https://www.projectcomport.org"
+id = 41_827_848
+language = "Python"
+name = "comport"
+node_id = "MDEwOlJlcG9zaXRvcnk0MTgyNzg0OA=="
+open_issues_within = 100
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 100
+topics = [ ]
+updated_within = "week"
+watchers_within = 100
+
+  [github.license]
+  key = "bsd-3-clause"
+  name = 'BSD 3-Clause "New" or "Revised" License'
+  node_id = "MDc6TGljZW5zZTU="
+  spdx_id = "BSD-3-Clause"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 337_792
+  login = "codeforamerica"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjMzNzc5Mg=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

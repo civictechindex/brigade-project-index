@@ -1,7 +1,47 @@
 code_url = "https://github.com/codeforamerica/geodata-checkout"
 description = "Draw an area and view geodata inside that neighborhood as an interactive map, time-enabled KML, or GeoJSON"
-git_branch = "master"
 git_url = "git://github.com/codeforamerica/geodata-checkout.git"
-last_pushed_within = "over_a_year"
 link_url = "http://historicchicago.heroku.com/"
 name = "geodata-checkout"
+organization_name = "Code for America"
+
+[github]
+archived = false
+created_at = "2012-10-12T22:59:22Z"
+default_branch = "master"
+description = "Draw an area and view geodata inside that neighborhood as an interactive map, time-enabled KML, or GeoJSON"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codeforamerica/geodata-checkout"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://historicchicago.heroku.com/"
+id = 6_197_546
+language = "CSS"
+license = { }
+name = "geodata-checkout"
+node_id = "MDEwOlJlcG9zaXRvcnk2MTk3NTQ2"
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 100
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 100
+
+  [github.owner]
+  gravatar_id = ""
+  id = 337_792
+  login = "codeforamerica"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjMzNzc5Mg=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

@@ -1,6 +1,46 @@
 code_url = "https://github.com/codeforamerica/civictech"
 description = "A meta repository for @ondrae's work increasing the quantity and quality of the civic technology movement."
-git_branch = "master"
 git_url = "git://github.com/codeforamerica/civictech.git"
-last_pushed_within = "over_a_year"
 name = "civictech"
+organization_name = "Code for America"
+
+[github]
+archived = false
+created_at = "2015-03-12T23:46:14Z"
+default_branch = "master"
+description = "A meta repository for @ondrae's work increasing the quantity and quality of the civic technology movement."
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codeforamerica/civictech"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 32_109_687
+language = { }
+license = { }
+name = "civictech"
+node_id = "MDEwOlJlcG9zaXRvcnkzMjEwOTY4Nw=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 337_792
+  login = "codeforamerica"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjMzNzc5Mg=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

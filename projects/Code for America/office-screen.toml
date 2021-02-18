@@ -1,7 +1,47 @@
 code_url = "https://github.com/codeforamerica/office-screen"
 description = "Rotating passive info-radiator content."
-git_branch = "gh-pages"
 git_url = "git://github.com/codeforamerica/office-screen.git"
-last_pushed_within = "over_a_year"
 link_url = "http://codeforamerica.github.io/office-screen/"
 name = "office-screen"
+organization_name = "Code for America"
+
+[github]
+archived = false
+created_at = "2014-03-09T00:22:33Z"
+default_branch = "gh-pages"
+description = "Rotating passive info-radiator content."
+disabled = false
+fork = false
+forks_within = 100
+full_name = "codeforamerica/office-screen"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "http://codeforamerica.github.io/office-screen/"
+id = 17_554_278
+language = "HTML"
+license = { }
+name = "office-screen"
+node_id = "MDEwOlJlcG9zaXRvcnkxNzU1NDI3OA=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 337_792
+  login = "codeforamerica"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjMzNzc5Mg=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

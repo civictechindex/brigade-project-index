@@ -1,6 +1,46 @@
 code_url = "https://github.com/codeforamerica/bat-iFoundADog"
 description = "The app will allow people who have found a dog to use the dog's license numberr to find contact information for the dog's owner."
-git_branch = "master"
 git_url = "git://github.com/codeforamerica/bat-iFoundADog.git"
-last_pushed_within = "over_a_year"
 name = "bat-iFoundADog"
+organization_name = "Code for America"
+
+[github]
+archived = false
+created_at = "2018-01-24T20:46:07Z"
+default_branch = "master"
+description = "The app will allow people who have found a dog to use the dog's license numberr to find contact information for the dog's owner."
+disabled = false
+fork = false
+forks_within = 0
+full_name = "codeforamerica/bat-iFoundADog"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 118_819_960
+language = { }
+license = { }
+name = "bat-iFoundADog"
+node_id = "MDEwOlJlcG9zaXRvcnkxMTg4MTk5NjA="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 337_792
+  login = "codeforamerica"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjMzNzc5Mg=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

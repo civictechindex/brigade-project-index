@@ -1,6 +1,46 @@
 code_url = "https://github.com/codeforamerica/mta_app"
 description = "An iOS app for the Macon Transit Authority"
-git_branch = "master"
 git_url = "git://github.com/codeforamerica/mta_app.git"
-last_pushed_within = "over_a_year"
 name = "mta_app"
+organization_name = "Code for America"
+
+[github]
+archived = false
+created_at = "2012-06-28T23:05:15Z"
+default_branch = "master"
+description = "An iOS app for the Macon Transit Authority"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codeforamerica/mta_app"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 4_826_733
+language = "Objective-C"
+license = { }
+name = "mta_app"
+node_id = "MDEwOlJlcG9zaXRvcnk0ODI2NzMz"
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 337_792
+  login = "codeforamerica"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjMzNzc5Mg=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

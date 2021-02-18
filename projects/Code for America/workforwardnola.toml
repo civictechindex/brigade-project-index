@@ -1,7 +1,52 @@
 code_url = "https://github.com/codeforamerica/workforwardnola"
 description = "2016 NOLA Fellowship project | A mobile-first website that acts as a digital one-pager for the workforce system in New Orleans, reducing drop-off by setting proper expectations and preparing job seekers for their first visit."
-git_branch = "master"
 git_url = "git://github.com/codeforamerica/workforwardnola.git"
-last_pushed_within = "over_a_year"
 link_url = "http://careerpathnola.com"
 name = "workforwardnola"
+organization_name = "Code for America"
+
+[github]
+archived = false
+created_at = "2016-05-19T21:22:16Z"
+default_branch = "master"
+description = "2016 NOLA Fellowship project | A mobile-first website that acts as a digital one-pager for the workforce system in New Orleans, reducing drop-off by setting proper expectations and preparing job seekers for their first visit."
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codeforamerica/workforwardnola"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = false
+homepage = "http://careerpathnola.com"
+id = 59_243_628
+language = "HTML"
+name = "workforwardnola"
+node_id = "MDEwOlJlcG9zaXRvcnk1OTI0MzYyOA=="
+open_issues_within = 100
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 337_792
+  login = "codeforamerica"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjMzNzc5Mg=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

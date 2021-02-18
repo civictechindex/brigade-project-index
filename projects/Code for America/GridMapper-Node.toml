@@ -1,7 +1,47 @@
 code_url = "https://github.com/codeforamerica/GridMapper-Node"
 description = "Map reports from first responders on a color-coded grid overlay. Site includes a public-facing site and a grid editor with login required. Replaces https://github.com/codeforamerica/GridMapper"
-git_branch = "master"
 git_url = "git://github.com/codeforamerica/GridMapper-Node.git"
-last_pushed_within = "over_a_year"
 link_url = "http://gridmapauth.heroku.com/auth"
 name = "GridMapper-Node"
+organization_name = "Code for America"
+
+[github]
+archived = false
+created_at = "2012-09-04T00:57:48Z"
+default_branch = "master"
+description = "Map reports from first responders on a color-coded grid overlay. Site includes a public-facing site and a grid editor with login required. Replaces https://github.com/codeforamerica/GridMapper"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codeforamerica/GridMapper-Node"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://gridmapauth.heroku.com/auth"
+id = 5_665_772
+language = "JavaScript"
+license = { }
+name = "GridMapper-Node"
+node_id = "MDEwOlJlcG9zaXRvcnk1NjY1Nzcy"
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 337_792
+  login = "codeforamerica"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjMzNzc5Mg=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

@@ -1,6 +1,46 @@
 code_url = "https://github.com/codeforamerica/heroku-pdftk-java-buildpack"
 description = "Install pdftk-java on Heroku"
-git_branch = "master"
 git_url = "git://github.com/codeforamerica/heroku-pdftk-java-buildpack.git"
-last_pushed_within = "year"
 name = "heroku-pdftk-java-buildpack"
+organization_name = "Code for America"
+
+[github]
+archived = false
+created_at = "2020-02-03T19:25:24Z"
+default_branch = "master"
+description = "Install pdftk-java on Heroku"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "codeforamerica/heroku-pdftk-java-buildpack"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 238_043_607
+language = "Shell"
+license = { }
+name = "heroku-pdftk-java-buildpack"
+node_id = "MDEwOlJlcG9zaXRvcnkyMzgwNDM2MDc="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 337_792
+  login = "codeforamerica"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjMzNzc5Mg=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

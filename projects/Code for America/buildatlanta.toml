@@ -1,7 +1,52 @@
 code_url = "https://github.com/codeforamerica/buildatlanta"
 description = "Let's build a better Atlanta."
-git_branch = "demo"
 git_url = "git://github.com/codeforamerica/buildatlanta.git"
-last_pushed_within = "over_a_year"
 link_url = "http://www.infrastructuremap.org/"
 name = "buildatlanta"
+organization_name = "Code for America"
+
+[github]
+archived = false
+created_at = "2014-08-03T21:24:07Z"
+default_branch = "demo"
+description = "Let's build a better Atlanta."
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codeforamerica/buildatlanta"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "http://www.infrastructuremap.org/"
+id = 22_583_941
+language = "JavaScript"
+name = "buildatlanta"
+node_id = "MDEwOlJlcG9zaXRvcnkyMjU4Mzk0MQ=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 100
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 100
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 337_792
+  login = "codeforamerica"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjMzNzc5Mg=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

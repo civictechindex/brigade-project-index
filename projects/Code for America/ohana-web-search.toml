@@ -1,7 +1,52 @@
 code_url = "https://github.com/codeforamerica/ohana-web-search"
 description = "A mobile-friendly website for finding human and social services in your community"
-git_branch = "master"
 git_url = "git://github.com/codeforamerica/ohana-web-search.git"
-last_pushed_within = "week"
 link_url = "http://ohana-web-search-demo.herokuapp.com"
 name = "ohana-web-search"
+organization_name = "Code for America"
+
+[github]
+archived = false
+created_at = "2013-04-01T22:37:42Z"
+default_branch = "master"
+description = "A mobile-friendly website for finding human and social services in your community"
+disabled = false
+fork = false
+forks_within = 100
+full_name = "codeforamerica/ohana-web-search"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://ohana-web-search-demo.herokuapp.com"
+id = 9_157_654
+language = "SCSS"
+name = "ohana-web-search"
+node_id = "MDEwOlJlcG9zaXRvcnk5MTU3NjU0"
+open_issues_within = 100
+private = false
+pushed_within = "month"
+stargazers_within = 100
+topics = [ ]
+updated_within = "week"
+watchers_within = 100
+
+  [github.license]
+  key = "bsd-3-clause"
+  name = 'BSD 3-Clause "New" or "Revised" License'
+  node_id = "MDc6TGljZW5zZTU="
+  spdx_id = "BSD-3-Clause"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 337_792
+  login = "codeforamerica"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjMzNzc5Mg=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
