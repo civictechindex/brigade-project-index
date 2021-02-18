@@ -1,7 +1,52 @@
 code_url = "https://github.com/opencleveland/large-lots"
 description = "Website for CLE homeowners to buy a vacant lot for a side yard expansion. "
-git_branch = "main"
 git_url = "git://github.com/opencleveland/large-lots.git"
-last_pushed_within = "year"
 link_url = "https://www.clevelandlots.org"
 name = "large-lots"
+organization_name = "Open Cleveland"
+
+[github]
+archived = false
+created_at = "2014-11-13T02:39:23Z"
+default_branch = "main"
+description = "Website for CLE homeowners to buy a vacant lot for a side yard expansion. "
+disabled = false
+fork = false
+forks_within = 100
+full_name = "opencleveland/large-lots"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "https://www.clevelandlots.org"
+id = 26_566_942
+language = "HTML"
+name = "large-lots"
+node_id = "MDEwOlJlcG9zaXRvcnkyNjU2Njk0Mg=="
+open_issues_within = 100
+private = false
+pushed_within = "year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "year"
+watchers_within = 10
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 9_359_323
+  login = "opencleveland"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjkzNTkzMjM="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

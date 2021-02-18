@@ -1,7 +1,52 @@
 code_url = "https://github.com/opencleveland/snowban"
 description = "A web map of banned places to park on the street when there's significant snow. Mostly complete. view it at"
-git_branch = "gh-pages"
 git_url = "git://github.com/opencleveland/snowban.git"
-last_pushed_within = "over_a_year"
 link_url = "http://opencleveland.github.io/snowban"
 name = "snowban"
+organization_name = "Open Cleveland"
+
+[github]
+archived = false
+created_at = "2016-01-18T15:02:43Z"
+default_branch = "gh-pages"
+description = "A web map of banned places to park on the street when there's significant snow. Mostly complete. view it at"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "opencleveland/snowban"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "http://opencleveland.github.io/snowban"
+id = 49_884_159
+language = "HTML"
+name = "snowban"
+node_id = "MDEwOlJlcG9zaXRvcnk0OTg4NDE1OQ=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 9_359_323
+  login = "opencleveland"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjkzNTkzMjM="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

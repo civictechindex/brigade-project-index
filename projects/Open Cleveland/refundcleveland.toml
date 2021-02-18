@@ -1,5 +1,46 @@
 code_url = "https://github.com/opencleveland/refundcleveland"
-git_branch = "main"
+description = "website for residents to adjust the city of Cleveland budget to reflect their priorities. "
 git_url = "git://github.com/opencleveland/refundcleveland.git"
-last_pushed_within = "week"
 name = "refundcleveland"
+organization_name = "Open Cleveland"
+
+[github]
+archived = false
+created_at = "2020-09-30T22:56:48Z"
+default_branch = "main"
+description = "website for residents to adjust the city of Cleveland budget to reflect their priorities. "
+disabled = false
+fork = false
+forks_within = 10
+full_name = "opencleveland/refundcleveland"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 300_083_238
+language = "JavaScript"
+license = { }
+name = "refundcleveland"
+node_id = "MDEwOlJlcG9zaXRvcnkzMDAwODMyMzg="
+open_issues_within = 100
+private = false
+pushed_within = "week"
+stargazers_within = 10
+topics = [ ]
+updated_within = "week"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 9_359_323
+  login = "opencleveland"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjkzNTkzMjM="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

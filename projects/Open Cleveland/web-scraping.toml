@@ -1,6 +1,46 @@
 code_url = "https://github.com/opencleveland/web-scraping"
 description = "Presentation given at Open Cleveland event in 2014. Web scraping is a stop-gap solution for bulk download of data hidden behind forms on the web."
-git_branch = "master"
 git_url = "git://github.com/opencleveland/web-scraping.git"
-last_pushed_within = "over_a_year"
 name = "web-scraping"
+organization_name = "Open Cleveland"
+
+[github]
+archived = false
+created_at = "2014-10-27T10:36:10Z"
+default_branch = "master"
+description = "Presentation given at Open Cleveland event in 2014. Web scraping is a stop-gap solution for bulk download of data hidden behind forms on the web."
+disabled = false
+fork = false
+forks_within = 0
+full_name = "opencleveland/web-scraping"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 25_814_031
+language = "Python"
+license = { }
+name = "web-scraping"
+node_id = "MDEwOlJlcG9zaXRvcnkyNTgxNDAzMQ=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 9_359_323
+  login = "opencleveland"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjkzNTkzMjM="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

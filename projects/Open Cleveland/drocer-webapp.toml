@@ -1,7 +1,47 @@
 code_url = "https://github.com/opencleveland/drocer-webapp"
 description = "webapp to search, browse City Council legislative minutes"
-git_branch = "master"
 git_url = "git://github.com/opencleveland/drocer-webapp.git"
-last_pushed_within = "month"
 name = "drocer-webapp"
+organization_name = "Open Cleveland"
 topics = [ "cleveland", "extractor", "legislation" ]
+
+[github]
+archived = false
+created_at = "2016-09-07T18:59:27Z"
+default_branch = "master"
+description = "webapp to search, browse City Council legislative minutes"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "opencleveland/drocer-webapp"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 67_635_075
+language = "Python"
+license = { }
+name = "drocer-webapp"
+node_id = "MDEwOlJlcG9zaXRvcnk2NzYzNTA3NQ=="
+open_issues_within = 100
+private = false
+pushed_within = "week"
+stargazers_within = 0
+topics = [ "cleveland", "extractor", "legislation" ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 9_359_323
+  login = "opencleveland"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjkzNTkzMjM="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

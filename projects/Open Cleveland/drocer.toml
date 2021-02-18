@@ -1,7 +1,47 @@
 code_url = "https://github.com/opencleveland/drocer"
 description = "Scraper and parser of Cleveland City Council's records and the produced text. "
-git_branch = "master"
 git_url = "git://github.com/opencleveland/drocer.git"
-last_pushed_within = "year"
 name = "drocer"
+organization_name = "Open Cleveland"
 topics = [ "cleveland", "legislation", "ohio" ]
+
+[github]
+archived = false
+created_at = "2015-01-22T22:47:37Z"
+default_branch = "master"
+description = "Scraper and parser of Cleveland City Council's records and the produced text. "
+disabled = false
+fork = false
+forks_within = 10
+full_name = "opencleveland/drocer"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 29_704_389
+language = "HTML"
+license = { }
+name = "drocer"
+node_id = "MDEwOlJlcG9zaXRvcnkyOTcwNDM4OQ=="
+open_issues_within = 10
+private = false
+pushed_within = "year"
+stargazers_within = 10
+topics = [ "cleveland", "legislation", "ohio" ]
+updated_within = "year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 9_359_323
+  login = "opencleveland"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjkzNTkzMjM="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

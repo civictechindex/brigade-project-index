@@ -1,7 +1,47 @@
 code_url = "https://github.com/opencleveland/.github"
 description = "default templates for our projects. These files will be placed in each project directory "
-git_branch = "master"
 git_url = "git://github.com/opencleveland/.github.git"
-last_pushed_within = "over_a_year"
 link_url = "https://help.github.com/en/github/building-a-strong-community/creating-a-default-community-health-file-for-your-organization"
 name = ".github"
+organization_name = "Open Cleveland"
+
+[github]
+archived = false
+created_at = "2019-10-22T20:31:46Z"
+default_branch = "master"
+description = "default templates for our projects. These files will be placed in each project directory "
+disabled = false
+fork = false
+forks_within = 0
+full_name = "opencleveland/.github"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "https://help.github.com/en/github/building-a-strong-community/creating-a-default-community-health-file-for-your-organization"
+id = 216_904_408
+language = { }
+license = { }
+name = ".github"
+node_id = "MDEwOlJlcG9zaXRvcnkyMTY5MDQ0MDg="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 9_359_323
+  login = "opencleveland"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjkzNTkzMjM="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

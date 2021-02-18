@@ -1,7 +1,52 @@
 code_url = "https://github.com/opencleveland/flu-shots"
 description = "CURRENTLY INACTIVE; DEPRECATED - Help people find where they can receive a flu shot. "
-git_branch = "gh-pages"
 git_url = "git://github.com/opencleveland/flu-shots.git"
-last_pushed_within = "over_a_year"
 link_url = "http://opencleveland.github.io/flu-shots/"
 name = "flu-shots"
+organization_name = "Open Cleveland"
+
+[github]
+archived = false
+created_at = "2014-11-13T00:50:42Z"
+default_branch = "gh-pages"
+description = "CURRENTLY INACTIVE; DEPRECATED - Help people find where they can receive a flu shot. "
+disabled = false
+fork = true
+forks_within = 0
+full_name = "opencleveland/flu-shots"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "http://opencleveland.github.io/flu-shots/"
+id = 26_563_576
+language = "JavaScript"
+name = "flu-shots"
+node_id = "MDEwOlJlcG9zaXRvcnkyNjU2MzU3Ng=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "other"
+  name = "Other"
+  node_id = "MDc6TGljZW5zZTA="
+  spdx_id = "NOASSERTION"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 9_359_323
+  login = "opencleveland"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjkzNTkzMjM="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

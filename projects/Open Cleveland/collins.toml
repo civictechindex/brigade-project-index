@@ -1,7 +1,52 @@
 code_url = "https://github.com/opencleveland/collins"
 description = "DEPRECATED; NO LONGER ACTIVE - Browsing Cleveland's Zoning laws isn't pretty. We're making it easier. "
-git_branch = "gh-pages"
 git_url = "git://github.com/opencleveland/collins.git"
-last_pushed_within = "over_a_year"
 link_url = "http://opencleveland.github.io/collins"
 name = "collins"
+organization_name = "Open Cleveland"
+
+[github]
+archived = false
+created_at = "2015-04-03T00:56:47Z"
+default_branch = "gh-pages"
+description = "DEPRECATED; NO LONGER ACTIVE - Browsing Cleveland's Zoning laws isn't pretty. We're making it easier. "
+disabled = false
+fork = false
+forks_within = 0
+full_name = "opencleveland/collins"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "http://opencleveland.github.io/collins"
+id = 33_339_223
+language = "HTML"
+name = "collins"
+node_id = "MDEwOlJlcG9zaXRvcnkzMzMzOTIyMw=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "year"
+watchers_within = 0
+
+  [github.license]
+  key = "bsd-3-clause"
+  name = 'BSD 3-Clause "New" or "Revised" License'
+  node_id = "MDc6TGljZW5zZTU="
+  spdx_id = "BSD-3-Clause"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 9_359_323
+  login = "opencleveland"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjkzNTkzMjM="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
