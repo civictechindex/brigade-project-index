@@ -1,6 +1,46 @@
 code_url = "https://github.com/codeforibaraki/Hackathontools"
 description = "Tools for hackcathon events"
-git_branch = "master"
 git_url = "git://github.com/codeforibaraki/Hackathontools.git"
-last_pushed_within = "over_a_year"
 name = "Hackathontools"
+organization_name = "Code for Ibaraki"
+
+[github]
+archived = false
+created_at = "2014-06-22T01:55:00Z"
+default_branch = "master"
+description = "Tools for hackcathon events"
+disabled = false
+fork = true
+forks_within = 0
+full_name = "codeforibaraki/Hackathontools"
+has_downloads = true
+has_issues = false
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 21_083_207
+language = { }
+license = { }
+name = "Hackathontools"
+node_id = "MDEwOlJlcG9zaXRvcnkyMTA4MzIwNw=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_296_248
+  login = "codeforibaraki"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjYyOTYyNDg="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

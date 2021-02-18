@@ -1,6 +1,46 @@
 code_url = "https://github.com/codeforibaraki/udc2014-data"
 description = "アーバンデータチャレンジ2014　データ部門　商店街マップデータ"
-git_branch = "master"
 git_url = "git://github.com/codeforibaraki/udc2014-data.git"
-last_pushed_within = "over_a_year"
 name = "udc2014-data"
+organization_name = "Code for Ibaraki"
+
+[github]
+archived = false
+created_at = "2015-02-01T09:44:29Z"
+default_branch = "master"
+description = "アーバンデータチャレンジ2014　データ部門　商店街マップデータ"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "codeforibaraki/udc2014-data"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 30_142_131
+language = { }
+license = { }
+name = "udc2014-data"
+node_id = "MDEwOlJlcG9zaXRvcnkzMDE0MjEzMQ=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_296_248
+  login = "codeforibaraki"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjYyOTYyNDg="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
