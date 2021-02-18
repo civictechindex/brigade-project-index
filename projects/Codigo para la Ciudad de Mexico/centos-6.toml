@@ -1,6 +1,46 @@
 code_url = "https://github.com/LabPLC/centos-6"
 description = "Acordeon para instalar, configurar y operar nuestro servidor CentOS 6.x"
-git_branch = "master"
 git_url = "git://github.com/LabPLC/centos-6.git"
-last_pushed_within = "over_a_year"
 name = "centos-6"
+organization_name = "Codigo para la Ciudad de Mexico"
+
+[github]
+archived = false
+created_at = "2013-10-21T02:39:59Z"
+default_branch = "master"
+description = "Acordeon para instalar, configurar y operar nuestro servidor CentOS 6.x"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "LabPLC/centos-6"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = false
+homepage = ""
+id = 13_731_430
+language = "Emacs Lisp"
+license = { }
+name = "centos-6"
+node_id = "MDEwOlJlcG9zaXRvcnkxMzczMTQzMA=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 5_631_500
+  login = "LabPLC"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjU2MzE1MDA="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

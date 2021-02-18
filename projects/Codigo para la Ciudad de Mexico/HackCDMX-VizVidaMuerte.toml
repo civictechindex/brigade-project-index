@@ -1,6 +1,46 @@
 code_url = "https://github.com/LabPLC/HackCDMX-VizVidaMuerte"
 description = "Visualización interactiva de nacimientos y defunciones de la ciudad de México"
-git_branch = "master"
 git_url = "git://github.com/LabPLC/HackCDMX-VizVidaMuerte.git"
-last_pushed_within = "over_a_year"
 name = "HackCDMX-VizVidaMuerte"
+organization_name = "Codigo para la Ciudad de Mexico"
+
+[github]
+archived = false
+created_at = "2015-10-08T21:12:18Z"
+default_branch = "master"
+description = "Visualización interactiva de nacimientos y defunciones de la ciudad de México"
+disabled = false
+fork = true
+forks_within = 10
+full_name = "LabPLC/HackCDMX-VizVidaMuerte"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 43_916_569
+language = "HTML"
+license = { }
+name = "HackCDMX-VizVidaMuerte"
+node_id = "MDEwOlJlcG9zaXRvcnk0MzkxNjU2OQ=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 5_631_500
+  login = "LabPLC"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjU2MzE1MDA="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

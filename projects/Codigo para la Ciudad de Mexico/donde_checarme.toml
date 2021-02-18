@@ -1,6 +1,46 @@
 code_url = "https://github.com/LabPLC/donde_checarme"
 description = "Visualizador de centros de Salud de SEDESA"
-git_branch = "master"
 git_url = "git://github.com/LabPLC/donde_checarme.git"
-last_pushed_within = "over_a_year"
 name = "donde_checarme"
+organization_name = "Codigo para la Ciudad de Mexico"
+
+[github]
+archived = false
+created_at = "2013-10-29T23:30:33Z"
+default_branch = "master"
+description = "Visualizador de centros de Salud de SEDESA"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "LabPLC/donde_checarme"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 13_971_886
+language = "JavaScript"
+license = { }
+name = "donde_checarme"
+node_id = "MDEwOlJlcG9zaXRvcnkxMzk3MTg4Ng=="
+open_issues_within = 100
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 5_631_500
+  login = "LabPLC"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjU2MzE1MDA="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

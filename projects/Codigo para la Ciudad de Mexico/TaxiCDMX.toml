@@ -1,6 +1,46 @@
 code_url = "https://github.com/LabPLC/TaxiCDMX"
 description = "Aplicación en IOS que ayuda a verificar si una placa o conductor de taxi esta registrado en la Secretaría de Transporte y Vialidad, "
-git_branch = "master"
 git_url = "git://github.com/LabPLC/TaxiCDMX.git"
-last_pushed_within = "over_a_year"
 name = "TaxiCDMX"
+organization_name = "Codigo para la Ciudad de Mexico"
+
+[github]
+archived = false
+created_at = "2014-02-11T22:37:44Z"
+default_branch = "master"
+description = "Aplicación en IOS que ayuda a verificar si una placa o conductor de taxi esta registrado en la Secretaría de Transporte y Vialidad, "
+disabled = false
+fork = false
+forks_within = 10
+full_name = "LabPLC/TaxiCDMX"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 16_748_180
+language = "C++"
+license = { }
+name = "TaxiCDMX"
+node_id = "MDEwOlJlcG9zaXRvcnkxNjc0ODE4MA=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 5_631_500
+  login = "LabPLC"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjU2MzE1MDA="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

@@ -1,7 +1,52 @@
 code_url = "https://github.com/LabPLC/certs.media.mit.edu"
 description = "Media Lab Digital Certificates"
-git_branch = "master"
 git_url = "git://github.com/LabPLC/certs.media.mit.edu.git"
-last_pushed_within = "over_a_year"
 link_url = "http://certs.media.mit.edu"
 name = "certs.media.mit.edu"
+organization_name = "Codigo para la Ciudad de Mexico"
+
+[github]
+archived = false
+created_at = "2016-01-13T20:36:59Z"
+default_branch = "master"
+description = "Media Lab Digital Certificates"
+disabled = false
+fork = true
+forks_within = 0
+full_name = "LabPLC/certs.media.mit.edu"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://certs.media.mit.edu"
+id = 49_600_285
+language = "HTML"
+name = "certs.media.mit.edu"
+node_id = "MDEwOlJlcG9zaXRvcnk0OTYwMDI4NQ=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "year"
+watchers_within = 10
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 5_631_500
+  login = "LabPLC"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjU2MzE1MDA="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
