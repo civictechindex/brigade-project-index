@@ -1,7 +1,47 @@
 code_url = "https://github.com/CodeforTuscaloosa/Visual-UA-Budget"
 description = "Open-source budget visualization framework."
-git_branch = "gh-pages"
 git_url = "git://github.com/CodeforTuscaloosa/Visual-UA-Budget.git"
-last_pushed_within = "over_a_year"
 link_url = "http://codefortuscaloosa.org/Visual-UA-Budget"
 name = "Visual-UA-Budget"
+organization_name = "Code for Tuscaloosa"
+
+[github]
+archived = false
+created_at = "2015-10-16T23:18:16Z"
+default_branch = "gh-pages"
+description = "Open-source budget visualization framework."
+disabled = false
+fork = true
+forks_within = 10
+full_name = "CodeforTuscaloosa/Visual-UA-Budget"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "http://codefortuscaloosa.org/Visual-UA-Budget"
+id = 44_415_588
+language = "JavaScript"
+license = { }
+name = "Visual-UA-Budget"
+node_id = "MDEwOlJlcG9zaXRvcnk0NDQxNTU4OA=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 13_428_533
+  login = "CodeforTuscaloosa"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjEzNDI4NTMz"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
