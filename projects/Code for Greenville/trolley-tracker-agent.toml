@@ -1,6 +1,51 @@
 code_url = "https://github.com/codeforgreenville/trolley-tracker-agent"
 description = "Android app for reporting the current location of the trolley"
-git_branch = "master"
 git_url = "git://github.com/codeforgreenville/trolley-tracker-agent.git"
-last_pushed_within = "over_a_year"
 name = "trolley-tracker-agent"
+organization_name = "Code for Greenville"
+
+[github]
+archived = false
+created_at = "2015-05-21T17:08:41Z"
+default_branch = "master"
+description = "Android app for reporting the current location of the trolley"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codeforgreenville/trolley-tracker-agent"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 36_026_279
+language = "Java"
+name = "trolley-tracker-agent"
+node_id = "MDEwOlJlcG9zaXRvcnkzNjAyNjI3OQ=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 7_353_466
+  login = "codeforgreenville"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjczNTM0NjY="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

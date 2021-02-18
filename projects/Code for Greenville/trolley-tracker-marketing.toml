@@ -1,6 +1,46 @@
 code_url = "https://github.com/codeforgreenville/trolley-tracker-marketing"
 description = "Apps don't market themselves"
-git_branch = "master"
 git_url = "git://github.com/codeforgreenville/trolley-tracker-marketing.git"
-last_pushed_within = "over_a_year"
 name = "trolley-tracker-marketing"
+organization_name = "Code for Greenville"
+
+[github]
+archived = false
+created_at = "2015-08-26T16:36:06Z"
+default_branch = "master"
+description = "Apps don't market themselves"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codeforgreenville/trolley-tracker-marketing"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 41_437_165
+language = "HTML"
+license = { }
+name = "trolley-tracker-marketing"
+node_id = "MDEwOlJlcG9zaXRvcnk0MTQzNzE2NQ=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 7_353_466
+  login = "codeforgreenville"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjczNTM0NjY="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

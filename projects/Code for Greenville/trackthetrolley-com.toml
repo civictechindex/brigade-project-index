@@ -1,6 +1,51 @@
 code_url = "https://github.com/codeforgreenville/trackthetrolley-com"
 description = "Repo for the web app, www.trackthetrolley.com site"
-git_branch = "master"
 git_url = "git://github.com/codeforgreenville/trackthetrolley-com.git"
-last_pushed_within = "over_a_year"
 name = "trackthetrolley-com"
+organization_name = "Code for Greenville"
+
+[github]
+archived = false
+created_at = "2016-08-23T22:26:34Z"
+default_branch = "master"
+description = "Repo for the web app, www.trackthetrolley.com site"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codeforgreenville/trackthetrolley-com"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 66_408_001
+language = "JavaScript"
+name = "trackthetrolley-com"
+node_id = "MDEwOlJlcG9zaXRvcnk2NjQwODAwMQ=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 7_353_466
+  login = "codeforgreenville"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjczNTM0NjY="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

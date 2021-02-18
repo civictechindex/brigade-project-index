@@ -1,7 +1,52 @@
 code_url = "https://github.com/codeforgreenville/ckan"
 description = "CKAN is an open-source DMS (data management system) for powering data hubs and data portals. CKAN makes it easy to publish, share and use data. It powers datahub.io, catalog.data.gov and data.gov.uk among many other sites."
-git_branch = "master"
 git_url = "git://github.com/codeforgreenville/ckan.git"
-last_pushed_within = "over_a_year"
 link_url = "http://ckan.org/"
 name = "ckan"
+organization_name = "Code for Greenville"
+
+[github]
+archived = false
+created_at = "2014-07-03T16:16:53Z"
+default_branch = "master"
+description = "CKAN is an open-source DMS (data management system) for powering data hubs and data portals. CKAN makes it easy to publish, share and use data. It powers datahub.io, catalog.data.gov and data.gov.uk among many other sites."
+disabled = false
+fork = true
+forks_within = 0
+full_name = "codeforgreenville/ckan"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://ckan.org/"
+id = 21_469_110
+language = { }
+name = "ckan"
+node_id = "MDEwOlJlcG9zaXRvcnkyMTQ2OTExMA=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "other"
+  name = "Other"
+  node_id = "MDc6TGljZW5zZTA="
+  spdx_id = "NOASSERTION"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 7_353_466
+  login = "codeforgreenville"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjczNTM0NjY="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

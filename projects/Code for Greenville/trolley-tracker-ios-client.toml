@@ -1,6 +1,51 @@
 code_url = "https://github.com/codeforgreenville/trolley-tracker-ios-client"
 description = "iOS Client App for the Trolley Tracker Project"
-git_branch = "master"
 git_url = "git://github.com/codeforgreenville/trolley-tracker-ios-client.git"
-last_pushed_within = "over_a_year"
 name = "trolley-tracker-ios-client"
+organization_name = "Code for Greenville"
+
+[github]
+archived = false
+created_at = "2014-11-19T00:49:54Z"
+default_branch = "master"
+description = "iOS Client App for the Trolley Tracker Project"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codeforgreenville/trolley-tracker-ios-client"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 26_837_412
+language = "Swift"
+name = "trolley-tracker-ios-client"
+node_id = "MDEwOlJlcG9zaXRvcnkyNjgzNzQxMg=="
+open_issues_within = 100
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 7_353_466
+  login = "codeforgreenville"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjczNTM0NjY="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

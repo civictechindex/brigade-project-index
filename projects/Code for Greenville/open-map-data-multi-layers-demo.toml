@@ -1,6 +1,46 @@
 code_url = "https://github.com/codeforgreenville/open-map-data-multi-layers-demo"
 description = "App for retrieving and displaying data from Greenville open data project."
-git_branch = "master"
 git_url = "git://github.com/codeforgreenville/open-map-data-multi-layers-demo.git"
-last_pushed_within = "year"
 name = "open-map-data-multi-layers-demo"
+organization_name = "Code for Greenville"
+
+[github]
+archived = false
+created_at = "2020-02-26T06:19:23Z"
+default_branch = "master"
+description = "App for retrieving and displaying data from Greenville open data project."
+disabled = false
+fork = true
+forks_within = 0
+full_name = "codeforgreenville/open-map-data-multi-layers-demo"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 243_184_095
+language = { }
+license = { }
+name = "open-map-data-multi-layers-demo"
+node_id = "MDEwOlJlcG9zaXRvcnkyNDMxODQwOTU="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 7_353_466
+  login = "codeforgreenville"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjczNTM0NjY="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

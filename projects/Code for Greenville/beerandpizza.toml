@@ -1,6 +1,46 @@
 code_url = "https://github.com/codeforgreenville/beerandpizza"
 description = "Repo for creating small website that allows potential food sponsors to discover and connect with meetups"
-git_branch = "master"
 git_url = "git://github.com/codeforgreenville/beerandpizza.git"
-last_pushed_within = "over_a_year"
 name = "beerandpizza"
+organization_name = "Code for Greenville"
+
+[github]
+archived = false
+created_at = "2016-02-23T16:02:29Z"
+default_branch = "master"
+description = "Repo for creating small website that allows potential food sponsors to discover and connect with meetups"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "codeforgreenville/beerandpizza"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 52_371_688
+language = { }
+license = { }
+name = "beerandpizza"
+node_id = "MDEwOlJlcG9zaXRvcnk1MjM3MTY4OA=="
+open_issues_within = 100
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 7_353_466
+  login = "codeforgreenville"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjczNTM0NjY="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

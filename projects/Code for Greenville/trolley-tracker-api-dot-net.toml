@@ -1,6 +1,51 @@
 code_url = "https://github.com/codeforgreenville/trolley-tracker-api-dot-net"
 description = "API for tracking Greenville's trolleys with .NET"
-git_branch = "master"
 git_url = "git://github.com/codeforgreenville/trolley-tracker-api-dot-net.git"
-last_pushed_within = "year"
 name = "trolley-tracker-api-dot-net"
+organization_name = "Code for Greenville"
+
+[github]
+archived = false
+created_at = "2015-08-05T11:10:58Z"
+default_branch = "master"
+description = "API for tracking Greenville's trolleys with .NET"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codeforgreenville/trolley-tracker-api-dot-net"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 40_241_006
+language = "JavaScript"
+name = "trolley-tracker-api-dot-net"
+node_id = "MDEwOlJlcG9zaXRvcnk0MDI0MTAwNg=="
+open_issues_within = 10
+private = false
+pushed_within = "year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "year"
+watchers_within = 10
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 7_353_466
+  login = "codeforgreenville"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjczNTM0NjY="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
