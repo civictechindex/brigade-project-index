@@ -1,6 +1,51 @@
 code_url = "https://github.com/code4sac/citygram"
 description = "Subscribe to your city."
-git_branch = "master"
 git_url = "git://github.com/code4sac/citygram.git"
-last_pushed_within = "over_a_year"
 name = "citygram"
+organization_name = "Code for Sacramento"
+
+[github]
+archived = false
+created_at = "2017-09-06T18:13:22Z"
+default_branch = "master"
+description = "Subscribe to your city."
+disabled = false
+fork = true
+forks_within = 0
+full_name = "code4sac/citygram"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 102_642_484
+language = "Ruby"
+name = "citygram"
+node_id = "MDEwOlJlcG9zaXRvcnkxMDI2NDI0ODQ="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 3_915_088
+  login = "code4sac"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM5MTUwODg="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

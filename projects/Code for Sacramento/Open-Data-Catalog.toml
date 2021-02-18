@@ -1,7 +1,52 @@
 code_url = "https://github.com/code4sac/Open-Data-Catalog"
 description = "Open Data Catalog is an open data catalog based on Django, Python and PostgreSQL.  It was originally developed for OpenDataPhilly.org, a portal that provides access to open data sets, applications, and APIs related to the Philadelphia region. The Open Data Catalog is a generalized version of the original source code with a simple skin.  It is intended to display information and links to publicly available data in an easily searchable format. The code also includes options for data owners to submit data for consideration and for registered public users to nominate a type of data they would like to see openly available to the public."
-git_branch = "master"
 git_url = "git://github.com/code4sac/Open-Data-Catalog.git"
-last_pushed_within = "over_a_year"
 link_url = "http://www.opendataphilly.org/"
 name = "Open-Data-Catalog"
+organization_name = "Code for Sacramento"
+
+[github]
+archived = false
+created_at = "2013-12-07T17:42:39Z"
+default_branch = "master"
+description = "Open Data Catalog is an open data catalog based on Django, Python and PostgreSQL.  It was originally developed for OpenDataPhilly.org, a portal that provides access to open data sets, applications, and APIs related to the Philadelphia region. The Open Data Catalog is a generalized version of the original source code with a simple skin.  It is intended to display information and links to publicly available data in an easily searchable format. The code also includes options for data owners to submit data for consideration and for registered public users to nominate a type of data they would like to see openly available to the public."
+disabled = false
+fork = true
+forks_within = 0
+full_name = "code4sac/Open-Data-Catalog"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://www.opendataphilly.org/"
+id = 15_009_925
+language = "Python"
+name = "Open-Data-Catalog"
+node_id = "MDEwOlJlcG9zaXRvcnkxNTAwOTkyNQ=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 3_915_088
+  login = "code4sac"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM5MTUwODg="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

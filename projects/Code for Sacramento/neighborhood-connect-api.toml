@@ -1,6 +1,46 @@
 code_url = "https://github.com/code4sac/neighborhood-connect-api"
 description = "API and backend for the Neighborhood Connect project"
-git_branch = "dev"
 git_url = "git://github.com/code4sac/neighborhood-connect-api.git"
-last_pushed_within = "year"
 name = "neighborhood-connect-api"
+organization_name = "Code for Sacramento"
+
+[github]
+archived = false
+created_at = "2019-07-20T17:27:03Z"
+default_branch = "dev"
+description = "API and backend for the Neighborhood Connect project"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "code4sac/neighborhood-connect-api"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 197_961_741
+language = "JavaScript"
+license = { }
+name = "neighborhood-connect-api"
+node_id = "MDEwOlJlcG9zaXRvcnkxOTc5NjE3NDE="
+open_issues_within = 100
+private = false
+pushed_within = "week"
+stargazers_within = 10
+topics = [ ]
+updated_within = "year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 3_915_088
+  login = "code4sac"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM5MTUwODg="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

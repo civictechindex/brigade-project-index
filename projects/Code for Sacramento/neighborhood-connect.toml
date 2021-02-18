@@ -1,7 +1,47 @@
 code_url = "https://github.com/code4sac/neighborhood-connect"
 description = "Repository for Neighborhood Connect Front End"
-git_branch = "master"
 git_url = "git://github.com/code4sac/neighborhood-connect.git"
-last_pushed_within = "year"
 link_url = "https://neighborhoodconnect.netlify.app/"
 name = "neighborhood-connect"
+organization_name = "Code for Sacramento"
+
+[github]
+archived = false
+created_at = "2019-07-04T00:57:36Z"
+default_branch = "master"
+description = "Repository for Neighborhood Connect Front End"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "code4sac/neighborhood-connect"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "https://neighborhoodconnect.netlify.app/"
+id = 195_145_548
+language = "JavaScript"
+license = { }
+name = "neighborhood-connect"
+node_id = "MDEwOlJlcG9zaXRvcnkxOTUxNDU1NDg="
+open_issues_within = 100
+private = false
+pushed_within = "year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 3_915_088
+  login = "code4sac"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM5MTUwODg="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

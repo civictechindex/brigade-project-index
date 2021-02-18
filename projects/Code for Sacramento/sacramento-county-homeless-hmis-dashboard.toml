@@ -1,7 +1,47 @@
 code_url = "https://github.com/code4sac/sacramento-county-homeless-hmis-dashboard"
 description = "Sacramento Homeless Services Dashboard"
-git_branch = "master"
 git_url = "git://github.com/code4sac/sacramento-county-homeless-hmis-dashboard.git"
-last_pushed_within = "year"
 link_url = "https://hmis-dashboard.herokuapp.com/"
 name = "sacramento-county-homeless-hmis-dashboard"
+organization_name = "Code for Sacramento"
+
+[github]
+archived = false
+created_at = "2020-03-02T01:08:50Z"
+default_branch = "master"
+description = "Sacramento Homeless Services Dashboard"
+disabled = false
+fork = true
+forks_within = 10
+full_name = "code4sac/sacramento-county-homeless-hmis-dashboard"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "https://hmis-dashboard.herokuapp.com/"
+id = 244_251_097
+language = "Jupyter Notebook"
+license = { }
+name = "sacramento-county-homeless-hmis-dashboard"
+node_id = "MDEwOlJlcG9zaXRvcnkyNDQyNTEwOTc="
+open_issues_within = 10
+private = false
+pushed_within = "year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 3_915_088
+  login = "code4sac"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM5MTUwODg="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

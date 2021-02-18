@@ -1,7 +1,47 @@
 code_url = "https://github.com/code4sac/sacramento_answers"
 description = "Easy answers to citizens questions"
-git_branch = "master"
 git_url = "git://github.com/code4sac/sacramento_answers.git"
-last_pushed_within = "over_a_year"
 link_url = "http://answers.code4sac.org"
 name = "sacramento_answers"
+organization_name = "Code for Sacramento"
+
+[github]
+archived = false
+created_at = "2014-05-07T02:23:51Z"
+default_branch = "master"
+description = "Easy answers to citizens questions"
+disabled = false
+fork = true
+forks_within = 0
+full_name = "code4sac/sacramento_answers"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://answers.code4sac.org"
+id = 19_518_221
+language = "JavaScript"
+license = { }
+name = "sacramento_answers"
+node_id = "MDEwOlJlcG9zaXRvcnkxOTUxODIyMQ=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 3_915_088
+  login = "code4sac"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM5MTUwODg="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

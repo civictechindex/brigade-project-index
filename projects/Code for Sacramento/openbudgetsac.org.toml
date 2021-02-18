@@ -1,7 +1,52 @@
 code_url = "https://github.com/code4sac/openbudgetsac.org"
 description = "Code for Sacramento's Open Budget Project (landing page + D3.js files)"
-git_branch = "gh-pages"
 git_url = "git://github.com/code4sac/openbudgetsac.org.git"
-last_pushed_within = "month"
 link_url = "http://openbudgetsac.org"
 name = "openbudgetsac.org"
+organization_name = "Code for Sacramento"
+
+[github]
+archived = false
+created_at = "2015-09-24T00:23:21Z"
+default_branch = "gh-pages"
+description = "Code for Sacramento's Open Budget Project (landing page + D3.js files)"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "code4sac/openbudgetsac.org"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "http://openbudgetsac.org"
+id = 43_034_716
+language = "JavaScript"
+name = "openbudgetsac.org"
+node_id = "MDEwOlJlcG9zaXRvcnk0MzAzNDcxNg=="
+open_issues_within = 100
+private = false
+pushed_within = "month"
+stargazers_within = 10
+topics = [ ]
+updated_within = "year"
+watchers_within = 10
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 3_915_088
+  login = "code4sac"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM5MTUwODg="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

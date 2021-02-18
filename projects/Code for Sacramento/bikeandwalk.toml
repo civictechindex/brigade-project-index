@@ -1,8 +1,48 @@
 code_url = "https://github.com/code4sac/bikeandwalk"
 description = "Bike and Ped traffic counting web app"
-git_branch = "master"
 git_url = "git://github.com/code4sac/bikeandwalk.git"
-last_pushed_within = "year"
 link_url = "app.bikeandwalk.org"
 name = "bikeandwalk"
+organization_name = "Code for Sacramento"
 topics = [ "javascript", "python", "transportation" ]
+
+[github]
+archived = false
+created_at = "2016-02-25T05:41:56Z"
+default_branch = "master"
+description = "Bike and Ped traffic counting web app"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "code4sac/bikeandwalk"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "app.bikeandwalk.org"
+id = 52_499_890
+language = "JavaScript"
+license = { }
+name = "bikeandwalk"
+node_id = "MDEwOlJlcG9zaXRvcnk1MjQ5OTg5MA=="
+open_issues_within = 100
+private = false
+pushed_within = "year"
+stargazers_within = 10
+topics = [ "javascript", "python", "transportation" ]
+updated_within = "year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 3_915_088
+  login = "code4sac"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM5MTUwODg="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

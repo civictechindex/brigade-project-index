@@ -1,7 +1,52 @@
 code_url = "https://github.com/code4sac/handbook"
 description = "Code for Sacramento's organizational docs"
-git_branch = "gh-pages"
 git_url = "git://github.com/code4sac/handbook.git"
-last_pushed_within = "over_a_year"
 link_url = "http://handbook.codeforsacramento.org"
 name = "handbook"
+organization_name = "Code for Sacramento"
+
+[github]
+archived = false
+created_at = "2015-09-04T18:07:56Z"
+default_branch = "gh-pages"
+description = "Code for Sacramento's organizational docs"
+disabled = false
+fork = true
+forks_within = 0
+full_name = "code4sac/handbook"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = false
+homepage = "http://handbook.codeforsacramento.org"
+id = 41_930_701
+language = "CSS"
+name = "handbook"
+node_id = "MDEwOlJlcG9zaXRvcnk0MTkzMDcwMQ=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "other"
+  name = "Other"
+  node_id = "MDc6TGljZW5zZTA="
+  spdx_id = "NOASSERTION"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 3_915_088
+  login = "code4sac"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM5MTUwODg="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

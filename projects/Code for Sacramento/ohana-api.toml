@@ -1,7 +1,52 @@
 code_url = "https://github.com/code4sac/ohana-api"
 description = "The open source API directory of community social services."
-git_branch = "master"
 git_url = "git://github.com/code4sac/ohana-api.git"
-last_pushed_within = "over_a_year"
 link_url = "https://ohana-sac.herokuapp.com/api"
 name = "ohana-api"
+organization_name = "Code for Sacramento"
+
+[github]
+archived = false
+created_at = "2014-11-11T02:03:55Z"
+default_branch = "master"
+description = "The open source API directory of community social services."
+disabled = false
+fork = true
+forks_within = 0
+full_name = "code4sac/ohana-api"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "https://ohana-sac.herokuapp.com/api"
+id = 26_465_127
+language = "Ruby"
+name = "ohana-api"
+node_id = "MDEwOlJlcG9zaXRvcnkyNjQ2NTEyNw=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "bsd-3-clause"
+  name = 'BSD 3-Clause "New" or "Revised" License'
+  node_id = "MDc6TGljZW5zZTU="
+  spdx_id = "BSD-3-Clause"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 3_915_088
+  login = "code4sac"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM5MTUwODg="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

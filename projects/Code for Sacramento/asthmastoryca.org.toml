@@ -1,7 +1,47 @@
 code_url = "https://github.com/code4sac/asthmastoryca.org"
 description = "Asthma Emergency Department Visits"
-git_branch = "master"
 git_url = "git://github.com/code4sac/asthmastoryca.org.git"
-last_pushed_within = "over_a_year"
 link_url = "http://asthmastoryca.org/"
 name = "asthmastoryca.org"
+organization_name = "Code for Sacramento"
+
+[github]
+archived = false
+created_at = "2016-09-16T18:01:48Z"
+default_branch = "master"
+description = "Asthma Emergency Department Visits"
+disabled = false
+fork = true
+forks_within = 0
+full_name = "code4sac/asthmastoryca.org"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://asthmastoryca.org/"
+id = 68_403_170
+language = "CSS"
+license = { }
+name = "asthmastoryca.org"
+node_id = "MDEwOlJlcG9zaXRvcnk2ODQwMzE3MA=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 3_915_088
+  login = "code4sac"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM5MTUwODg="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

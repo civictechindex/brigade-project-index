@@ -1,7 +1,47 @@
 code_url = "https://github.com/code4sac/ndoch-asset-map"
 description = "CFA NDoCH 2020 - Asset Map"
-git_branch = "master"
 git_url = "git://github.com/code4sac/ndoch-asset-map.git"
-last_pushed_within = "year"
 link_url = "https://sac-ndoch-asset-map.herokuapp.com/"
 name = "ndoch-asset-map"
+organization_name = "Code for Sacramento"
+
+[github]
+archived = false
+created_at = "2020-08-27T01:58:54Z"
+default_branch = "master"
+description = "CFA NDoCH 2020 - Asset Map"
+disabled = false
+fork = true
+forks_within = 0
+full_name = "code4sac/ndoch-asset-map"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "https://sac-ndoch-asset-map.herokuapp.com/"
+id = 290_649_091
+language = "HTML"
+license = { }
+name = "ndoch-asset-map"
+node_id = "MDEwOlJlcG9zaXRvcnkyOTA2NDkwOTE="
+open_issues_within = 0
+private = false
+pushed_within = "year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 3_915_088
+  login = "code4sac"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM5MTUwODg="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

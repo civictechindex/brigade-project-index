@@ -1,7 +1,52 @@
 code_url = "https://github.com/code4sac/brigade"
 description = "Brigade Platform"
-git_branch = "master"
 git_url = "git://github.com/code4sac/brigade.git"
-last_pushed_within = "over_a_year"
 link_url = "brigade.codeforamerica.org"
 name = "brigade"
+organization_name = "Code for Sacramento"
+
+[github]
+archived = false
+created_at = "2013-03-30T01:12:59Z"
+default_branch = "master"
+description = "Brigade Platform"
+disabled = false
+fork = true
+forks_within = 0
+full_name = "code4sac/brigade"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "brigade.codeforamerica.org"
+id = 9_109_580
+language = "Ruby"
+name = "brigade"
+node_id = "MDEwOlJlcG9zaXRvcnk5MTA5NTgw"
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "bsd-3-clause"
+  name = 'BSD 3-Clause "New" or "Revised" License'
+  node_id = "MDc6TGljZW5zZTU="
+  spdx_id = "BSD-3-Clause"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 3_915_088
+  login = "code4sac"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM5MTUwODg="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

@@ -1,6 +1,46 @@
 code_url = "https://github.com/code4sac/open-fiscal-api"
 description = "Accessing and using Open FI$Cal API data"
-git_branch = "master"
 git_url = "git://github.com/code4sac/open-fiscal-api.git"
-last_pushed_within = "year"
 name = "open-fiscal-api"
+organization_name = "Code for Sacramento"
+
+[github]
+archived = false
+created_at = "2020-03-02T06:48:11Z"
+default_branch = "master"
+description = "Accessing and using Open FI$Cal API data"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "code4sac/open-fiscal-api"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 244_300_355
+language = "Jupyter Notebook"
+license = { }
+name = "open-fiscal-api"
+node_id = "MDEwOlJlcG9zaXRvcnkyNDQzMDAzNTU="
+open_issues_within = 10
+private = false
+pushed_within = "year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 3_915_088
+  login = "code4sac"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM5MTUwODg="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

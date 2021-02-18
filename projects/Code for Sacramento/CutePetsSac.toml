@@ -1,7 +1,47 @@
 code_url = "https://github.com/code4sac/CutePetsSac"
 description = "Twitter bot that posts adoptable pets from the City of Sacramento's Animal Care Services"
-git_branch = "master"
 git_url = "git://github.com/code4sac/CutePetsSac.git"
-last_pushed_within = "over_a_year"
 link_url = "https://twitter.com/CutePetsSac"
 name = "CutePetsSac"
+organization_name = "Code for Sacramento"
+
+[github]
+archived = false
+created_at = "2015-01-15T06:46:48Z"
+default_branch = "master"
+description = "Twitter bot that posts adoptable pets from the City of Sacramento's Animal Care Services"
+disabled = false
+fork = true
+forks_within = 10
+full_name = "code4sac/CutePetsSac"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "https://twitter.com/CutePetsSac"
+id = 29_284_694
+language = "Ruby"
+license = { }
+name = "CutePetsSac"
+node_id = "MDEwOlJlcG9zaXRvcnkyOTI4NDY5NA=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 3_915_088
+  login = "code4sac"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM5MTUwODg="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

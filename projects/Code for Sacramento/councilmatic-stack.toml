@@ -1,6 +1,46 @@
 code_url = "https://github.com/code4sac/councilmatic-stack"
 description = "Stack for running the Councilmatic stack"
-git_branch = "master"
 git_url = "git://github.com/code4sac/councilmatic-stack.git"
-last_pushed_within = "month"
 name = "councilmatic-stack"
+organization_name = "Code for Sacramento"
+
+[github]
+archived = false
+created_at = "2019-06-20T02:28:36Z"
+default_branch = "master"
+description = "Stack for running the Councilmatic stack"
+disabled = false
+fork = true
+forks_within = 10
+full_name = "code4sac/councilmatic-stack"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 192_834_581
+language = "Dockerfile"
+license = { }
+name = "councilmatic-stack"
+node_id = "MDEwOlJlcG9zaXRvcnkxOTI4MzQ1ODE="
+open_issues_within = 0
+private = false
+pushed_within = "year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 3_915_088
+  login = "code4sac"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM5MTUwODg="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

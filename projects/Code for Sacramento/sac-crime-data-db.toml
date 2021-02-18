@@ -1,6 +1,46 @@
 code_url = "https://github.com/code4sac/sac-crime-data-db"
 description = "Convert Sacramento CSV crime exports to MySQL"
-git_branch = "master"
 git_url = "git://github.com/code4sac/sac-crime-data-db.git"
-last_pushed_within = "over_a_year"
 name = "sac-crime-data-db"
+organization_name = "Code for Sacramento"
+
+[github]
+archived = false
+created_at = "2013-11-17T15:46:03Z"
+default_branch = "master"
+description = "Convert Sacramento CSV crime exports to MySQL"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "code4sac/sac-crime-data-db"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 14_469_467
+language = "Perl"
+license = { }
+name = "sac-crime-data-db"
+node_id = "MDEwOlJlcG9zaXRvcnkxNDQ2OTQ2Nw=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 3_915_088
+  login = "code4sac"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM5MTUwODg="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

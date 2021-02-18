@@ -1,7 +1,47 @@
 code_url = "https://github.com/code4sac/SacCityBudget"
 description = "Visualizing City of Sacramento budget data."
-git_branch = "master"
 git_url = "git://github.com/code4sac/SacCityBudget.git"
-last_pushed_within = "year"
 link_url = "http://explorer.openbudgetsac.org"
 name = "SacCityBudget"
+organization_name = "Code for Sacramento"
+
+[github]
+archived = false
+created_at = "2015-06-24T16:56:20Z"
+default_branch = "master"
+description = "Visualizing City of Sacramento budget data."
+disabled = false
+fork = true
+forks_within = 10
+full_name = "code4sac/SacCityBudget"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://explorer.openbudgetsac.org"
+id = 37_998_096
+language = "R"
+license = { }
+name = "SacCityBudget"
+node_id = "MDEwOlJlcG9zaXRvcnkzNzk5ODA5Ng=="
+open_issues_within = 0
+private = false
+pushed_within = "year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "month"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 3_915_088
+  login = "code4sac"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM5MTUwODg="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

@@ -1,7 +1,52 @@
 code_url = "https://github.com/code4sac/polling-place-accessibility"
 description = "Provide a resource for voting persons who need accessibility to voting venues"
-git_branch = "master"
 git_url = "git://github.com/code4sac/polling-place-accessibility.git"
-last_pushed_within = "over_a_year"
 link_url = "http://abustamam.github.io/polling-place-accessibility"
 name = "polling-place-accessibility"
+organization_name = "Code for Sacramento"
+
+[github]
+archived = false
+created_at = "2016-04-28T02:48:32Z"
+default_branch = "master"
+description = "Provide a resource for voting persons who need accessibility to voting venues"
+disabled = false
+fork = true
+forks_within = 0
+full_name = "code4sac/polling-place-accessibility"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://abustamam.github.io/polling-place-accessibility"
+id = 57_265_417
+language = "CSS"
+name = "polling-place-accessibility"
+node_id = "MDEwOlJlcG9zaXRvcnk1NzI2NTQxNw=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "year"
+watchers_within = 0
+
+  [github.license]
+  key = "other"
+  name = "Other"
+  node_id = "MDc6TGljZW5zZTA="
+  spdx_id = "NOASSERTION"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 3_915_088
+  login = "code4sac"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM5MTUwODg="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

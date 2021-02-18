@@ -1,6 +1,46 @@
 code_url = "https://github.com/code4sac/projects"
 description = "This is our project idea funnel. This is where we collect ideas, vet ideas, and convert those ideas into active projects."
-git_branch = "master"
 git_url = "git://github.com/code4sac/projects.git"
-last_pushed_within = "over_a_year"
 name = "projects"
+organization_name = "Code for Sacramento"
+
+[github]
+archived = false
+created_at = "2015-05-21T16:07:53Z"
+default_branch = "master"
+description = "This is our project idea funnel. This is where we collect ideas, vet ideas, and convert those ideas into active projects."
+disabled = false
+fork = false
+forks_within = 10
+full_name = "code4sac/projects"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 36_023_247
+language = { }
+license = { }
+name = "projects"
+node_id = "MDEwOlJlcG9zaXRvcnkzNjAyMzI0Nw=="
+open_issues_within = 100
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 3_915_088
+  login = "code4sac"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM5MTUwODg="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

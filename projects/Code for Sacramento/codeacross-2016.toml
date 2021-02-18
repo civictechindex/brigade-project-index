@@ -1,7 +1,47 @@
 code_url = "https://github.com/code4sac/codeacross-2016"
 description = "Waffle Hackshop: a board in Waffle.io with cards for each action you should do to kickoff a project."
-git_branch = "master"
 git_url = "git://github.com/code4sac/codeacross-2016.git"
-last_pushed_within = "over_a_year"
 link_url = "https://hackshop.waffle.io"
 name = "codeacross-2016"
+organization_name = "Code for Sacramento"
+
+[github]
+archived = false
+created_at = "2016-02-03T23:27:52Z"
+default_branch = "master"
+description = "Waffle Hackshop: a board in Waffle.io with cards for each action you should do to kickoff a project."
+disabled = false
+fork = false
+forks_within = 0
+full_name = "code4sac/codeacross-2016"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "https://hackshop.waffle.io"
+id = 51_038_336
+language = { }
+license = { }
+name = "codeacross-2016"
+node_id = "MDEwOlJlcG9zaXRvcnk1MTAzODMzNg=="
+open_issues_within = 100
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 3_915_088
+  login = "code4sac"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM5MTUwODg="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

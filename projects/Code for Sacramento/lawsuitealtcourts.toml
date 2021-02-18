@@ -1,6 +1,46 @@
 code_url = "https://github.com/code4sac/lawsuitealtcourts"
 description = "LawSuite alternate courts qualifications / classifications"
-git_branch = "master"
 git_url = "git://github.com/code4sac/lawsuitealtcourts.git"
-last_pushed_within = "over_a_year"
 name = "lawsuitealtcourts"
+organization_name = "Code for Sacramento"
+
+[github]
+archived = false
+created_at = "2019-09-24T16:32:22Z"
+default_branch = "master"
+description = "LawSuite alternate courts qualifications / classifications"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "code4sac/lawsuitealtcourts"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 210_649_863
+language = { }
+license = { }
+name = "lawsuitealtcourts"
+node_id = "MDEwOlJlcG9zaXRvcnkyMTA2NDk4NjM="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 3_915_088
+  login = "code4sac"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM5MTUwODg="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
