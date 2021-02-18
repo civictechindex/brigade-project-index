@@ -1,6 +1,51 @@
 code_url = "https://github.com/code4romania/rvm-client"
 description = "Project for managing resources and volunteers for DSU (Departamentul pt Situatii de Urgenta)"
-git_branch = "master"
 git_url = "git://github.com/code4romania/rvm-client.git"
-last_pushed_within = "year"
 name = "rvm-client"
+organization_name = "Code for Romania: Cluj Chapter"
+
+[github]
+archived = false
+created_at = "2019-05-31T14:41:27Z"
+default_branch = "master"
+description = "Project for managing resources and volunteers for DSU (Departamentul pt Situatii de Urgenta)"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "code4romania/rvm-client"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 189_609_660
+language = "TypeScript"
+name = "rvm-client"
+node_id = "MDEwOlJlcG9zaXRvcnkxODk2MDk2NjA="
+open_issues_within = 100
+private = false
+pushed_within = "year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "year"
+watchers_within = 0
+
+  [github.license]
+  key = "mpl-2.0"
+  name = "Mozilla Public License 2.0"
+  node_id = "MDc6TGljZW5zZTE0"
+  spdx_id = "MPL-2.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 18_010_308
+  login = "code4romania"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE4MDEwMzA4"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

@@ -1,31 +1,31 @@
-code_url = "https://github.com/code4romania/nu-va-suparati"
-description = 'Repo for "Nu va suparati" an instance of Alaveteli for requesting access to public data'
-git_url = "git://github.com/code4romania/nu-va-suparati.git"
-name = "nu-va-suparati"
+code_url = "https://github.com/code4romania/c4ro_coming_soon"
+git_url = "git://github.com/code4romania/c4ro_coming_soon.git"
+link_url = "c4ro-coming-soon.code4romania.vercel.app"
+name = "c4ro_coming_soon"
 organization_name = "Code for Romania: Cluj Chapter"
 
 [github]
 archived = false
-created_at = "2019-06-27T14:01:33Z"
+created_at = "2021-01-12T16:39:26Z"
 default_branch = "master"
-description = 'Repo for "Nu va suparati" an instance of Alaveteli for requesting access to public data'
+description = { }
 disabled = false
 fork = false
 forks_within = 0
-full_name = "code4romania/nu-va-suparati"
+full_name = "code4romania/c4ro_coming_soon"
 has_downloads = true
 has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = true
-homepage = { }
-id = 194_105_944
-language = { }
-name = "nu-va-suparati"
-node_id = "MDEwOlJlcG9zaXRvcnkxOTQxMDU5NDQ="
+homepage = "c4ro-coming-soon.code4romania.vercel.app"
+id = 329_048_773
+language = "HTML"
+name = "c4ro_coming_soon"
+node_id = "MDEwOlJlcG9zaXRvcnkzMjkwNDg3NzM="
 open_issues_within = 0
 private = false
-pushed_within = "over_a_year"
+pushed_within = "year"
 stargazers_within = 0
 topics = [ ]
 updated_within = "year"

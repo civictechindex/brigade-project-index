@@ -1,6 +1,46 @@
 code_url = "https://github.com/code4romania/collabapp-client"
 description = "Client-ul aplicației de coordonare a comunității Code for Romania."
-git_branch = "develop"
 git_url = "git://github.com/code4romania/collabapp-client.git"
-last_pushed_within = "over_a_year"
 name = "collabapp-client"
+organization_name = "Code for Romania: Cluj Chapter"
+
+[github]
+archived = false
+created_at = "2017-12-18T19:07:14Z"
+default_branch = "develop"
+description = "Client-ul aplicației de coordonare a comunității Code for Romania."
+disabled = false
+fork = false
+forks_within = 10
+full_name = "code4romania/collabapp-client"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 114_677_858
+language = "JavaScript"
+license = { }
+name = "collabapp-client"
+node_id = "MDEwOlJlcG9zaXRvcnkxMTQ2Nzc4NTg="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 18_010_308
+  login = "code4romania"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE4MDEwMzA4"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

@@ -1,7 +1,52 @@
 code_url = "https://github.com/code4romania/covid-19-ro-help"
 description = "Platform for NGOs to create donation requests and to broadcast their services in an emergency"
-git_branch = "develop"
 git_url = "git://github.com/code4romania/covid-19-ro-help.git"
-last_pushed_within = "month"
 name = "covid-19-ro-help"
+organization_name = "Code for Romania: Cluj Chapter"
 topics = [ "civic-tech" ]
+
+[github]
+archived = false
+created_at = "2020-03-12T14:18:11Z"
+default_branch = "develop"
+description = "Platform for NGOs to create donation requests and to broadcast their services in an emergency"
+disabled = false
+fork = false
+forks_within = 100
+full_name = "code4romania/covid-19-ro-help"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 246_852_699
+language = "Python"
+name = "covid-19-ro-help"
+node_id = "MDEwOlJlcG9zaXRvcnkyNDY4NTI2OTk="
+open_issues_within = 100
+private = false
+pushed_within = "year"
+stargazers_within = 100
+topics = [ "civic-tech" ]
+updated_within = "year"
+watchers_within = 100
+
+  [github.license]
+  key = "mpl-2.0"
+  name = "Mozilla Public License 2.0"
+  node_id = "MDc6TGljZW5zZTE0"
+  spdx_id = "MPL-2.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 18_010_308
+  login = "code4romania"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE4MDEwMzA4"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

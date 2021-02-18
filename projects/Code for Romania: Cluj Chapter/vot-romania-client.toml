@@ -1,7 +1,47 @@
 code_url = "https://github.com/code4romania/vot-romania-client"
 description = "Vot România este o platformă dezvoltată de Code for Romania care  simplifică pe înțelesul cetățenilor ghidul electoral al alegerilor locale, care vor avea loc la finalul lunii septembrie 2020."
-git_branch = "master"
 git_url = "git://github.com/code4romania/vot-romania-client.git"
-last_pushed_within = "month"
 link_url = "https://votromania.ro/"
 name = "vot-romania-client"
+organization_name = "Code for Romania: Cluj Chapter"
+
+[github]
+archived = false
+created_at = "2020-09-02T16:58:12Z"
+default_branch = "master"
+description = "Vot România este o platformă dezvoltată de Code for Romania care  simplifică pe înțelesul cetățenilor ghidul electoral al alegerilor locale, care vor avea loc la finalul lunii septembrie 2020."
+disabled = false
+fork = false
+forks_within = 10
+full_name = "code4romania/vot-romania-client"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "https://votromania.ro/"
+id = 292_342_620
+language = "Vue"
+license = { }
+name = "vot-romania-client"
+node_id = "MDEwOlJlcG9zaXRvcnkyOTIzNDI2MjA="
+open_issues_within = 10
+private = false
+pushed_within = "year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 18_010_308
+  login = "code4romania"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE4MDEwMzA4"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

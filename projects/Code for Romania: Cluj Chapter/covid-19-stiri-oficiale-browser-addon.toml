@@ -1,6 +1,51 @@
 code_url = "https://github.com/code4romania/covid-19-stiri-oficiale-browser-addon"
 description = "Browser extension that helps identify key expressions related to COVID-19 (coronavirus) and adds an infobox that links to official sources of information. Highlightning official sources helps to diminish the effects of 'fake news'."
-git_branch = "master"
 git_url = "git://github.com/code4romania/covid-19-stiri-oficiale-browser-addon.git"
-last_pushed_within = "month"
 name = "covid-19-stiri-oficiale-browser-addon"
+organization_name = "Code for Romania: Cluj Chapter"
+
+[github]
+archived = false
+created_at = "2020-03-13T07:52:31Z"
+default_branch = "master"
+description = "Browser extension that helps identify key expressions related to COVID-19 (coronavirus) and adds an infobox that links to official sources of information. Highlightning official sources helps to diminish the effects of 'fake news'."
+disabled = false
+fork = false
+forks_within = 10
+full_name = "code4romania/covid-19-stiri-oficiale-browser-addon"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 247_016_061
+language = "JavaScript"
+name = "covid-19-stiri-oficiale-browser-addon"
+node_id = "MDEwOlJlcG9zaXRvcnkyNDcwMTYwNjE="
+open_issues_within = 10
+private = false
+pushed_within = "year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "year"
+watchers_within = 10
+
+  [github.license]
+  key = "gpl-3.0"
+  name = "GNU General Public License v3.0"
+  node_id = "MDc6TGljZW5zZTk="
+  spdx_id = "GPL-3.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 18_010_308
+  login = "code4romania"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE4MDEwMzA4"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

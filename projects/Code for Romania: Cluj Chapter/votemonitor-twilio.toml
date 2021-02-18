@@ -1,5 +1,45 @@
 code_url = "https://github.com/code4romania/votemonitor-twilio"
-git_branch = "master"
 git_url = "git://github.com/code4romania/votemonitor-twilio.git"
-last_pushed_within = "over_a_year"
 name = "votemonitor-twilio"
+organization_name = "Code for Romania: Cluj Chapter"
+
+[github]
+archived = false
+created_at = "2018-10-21T14:43:38Z"
+default_branch = "master"
+description = { }
+disabled = false
+fork = false
+forks_within = 0
+full_name = "code4romania/votemonitor-twilio"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 154_018_757
+language = "C#"
+license = { }
+name = "votemonitor-twilio"
+node_id = "MDEwOlJlcG9zaXRvcnkxNTQwMTg3NTc="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 18_010_308
+  login = "code4romania"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE4MDEwMzA4"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

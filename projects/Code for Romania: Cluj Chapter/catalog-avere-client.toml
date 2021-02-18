@@ -1,7 +1,52 @@
 code_url = "https://github.com/code4romania/catalog-avere-client"
 description = "Client pentru colectarea și gestionarea declarațiilor de avere."
-git_branch = "master"
 git_url = "git://github.com/code4romania/catalog-avere-client.git"
-last_pushed_within = "over_a_year"
 link_url = "http://code4.ro/proiect/catalog-politic/"
 name = "catalog-avere-client"
+organization_name = "Code for Romania: Cluj Chapter"
+
+[github]
+archived = false
+created_at = "2016-10-01T14:18:46Z"
+default_branch = "main"
+description = "Client pentru colectarea și gestionarea declarațiilor de avere."
+disabled = false
+fork = false
+forks_within = 0
+full_name = "code4romania/catalog-avere-client"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://code4.ro/proiect/catalog-politic/"
+id = 69_742_714
+language = "Elm"
+name = "catalog-avere-client"
+node_id = "MDEwOlJlcG9zaXRvcnk2OTc0MjcxNA=="
+open_issues_within = 100
+private = false
+pushed_within = "year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "year"
+watchers_within = 10
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 18_010_308
+  login = "code4romania"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE4MDEwMzA4"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

@@ -1,10 +1,9 @@
 code_url = "https://github.com/code4romania/civichq-client"
 description = "Client app for Centru Civic. The project aims to turn into the public library of Romanian civic tech."
-git_branch = "develop"
 git_url = "git://github.com/code4romania/civichq-client.git"
-last_pushed_within = "year"
 link_url = "http://centrucivic.ro/"
 name = "civichq-client"
+organization_name = "Code for Romania: Cluj Chapter"
 topics = [
   "civic-apps",
   "civic-tech",
@@ -13,3 +12,56 @@ topics = [
   "library",
   "projects-library"
 ]
+
+[github]
+archived = false
+created_at = "2016-09-08T11:09:55Z"
+default_branch = "develop"
+description = "Client app for Centru Civic. The project aims to turn into the public library of Romanian civic tech."
+disabled = false
+fork = false
+forks_within = 100
+full_name = "code4romania/civichq-client"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://centrucivic.ro/"
+id = 67_695_935
+language = "TypeScript"
+name = "civichq-client"
+node_id = "MDEwOlJlcG9zaXRvcnk2NzY5NTkzNQ=="
+open_issues_within = 100
+private = false
+pushed_within = "year"
+stargazers_within = 10
+topics = [
+  "civic-apps",
+  "civic-tech",
+  "civictech",
+  "code4ro",
+  "library",
+  "projects-library"
+]
+updated_within = "year"
+watchers_within = 10
+
+  [github.license]
+  key = "mpl-2.0"
+  name = "Mozilla Public License 2.0"
+  node_id = "MDc6TGljZW5zZTE0"
+  spdx_id = "MPL-2.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 18_010_308
+  login = "code4romania"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE4MDEwMzA4"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

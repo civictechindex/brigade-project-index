@@ -1,34 +1,33 @@
-code_url = "https://github.com/code4romania/rezultate-vot-client"
-git_url = "git://github.com/code4romania/rezultate-vot-client.git"
-link_url = "rezultate-vot-client-git-master.code4romania.vercel.app"
-name = "rezultate-vot-client"
+code_url = "https://github.com/code4romania/theater-hub-landing"
+description = "Theater Hub landing page"
+git_url = "git://github.com/code4romania/theater-hub-landing.git"
+name = "theater-hub-landing"
 organization_name = "Code for Romania: Cluj Chapter"
-topics = [ "hacktoberfest" ]
 
 [github]
 archived = false
-created_at = "2020-09-15T10:16:24Z"
-default_branch = "develop"
-description = { }
+created_at = "2017-05-03T14:18:30Z"
+default_branch = "main"
+description = "Theater Hub landing page"
 disabled = false
 fork = false
-forks_within = 100
-full_name = "code4romania/rezultate-vot-client"
+forks_within = 0
+full_name = "code4romania/theater-hub-landing"
 has_downloads = true
 has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = true
-homepage = "rezultate-vot-client-git-master.code4romania.vercel.app"
-id = 295_689_908
-language = "TypeScript"
-name = "rezultate-vot-client"
-node_id = "MDEwOlJlcG9zaXRvcnkyOTU2ODk5MDg="
-open_issues_within = 10
+homepage = { }
+id = 90_157_139
+language = "JavaScript"
+name = "theater-hub-landing"
+node_id = "MDEwOlJlcG9zaXRvcnk5MDE1NzEzOQ=="
+open_issues_within = 0
 private = false
 pushed_within = "year"
 stargazers_within = 10
-topics = [ "hacktoberfest" ]
+topics = [ ]
 updated_within = "year"
 watchers_within = 10
 

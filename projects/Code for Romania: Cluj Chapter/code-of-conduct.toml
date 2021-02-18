@@ -1,7 +1,47 @@
 code_url = "https://github.com/code4romania/code-of-conduct"
 description = "Codul de conduită Code for Romania."
-git_branch = "master"
 git_url = "git://github.com/code4romania/code-of-conduct.git"
-last_pushed_within = "over_a_year"
 link_url = "http://code4.ro/codul-de-conduita"
 name = "code-of-conduct"
+organization_name = "Code for Romania: Cluj Chapter"
+
+[github]
+archived = false
+created_at = "2016-06-20T10:42:00Z"
+default_branch = "main"
+description = "Codul de conduită Code for Romania."
+disabled = false
+fork = false
+forks_within = 0
+full_name = "code4romania/code-of-conduct"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://code4.ro/codul-de-conduita"
+id = 61_539_749
+language = { }
+license = { }
+name = "code-of-conduct"
+node_id = "MDEwOlJlcG9zaXRvcnk2MTUzOTc0OQ=="
+open_issues_within = 0
+private = false
+pushed_within = "year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 18_010_308
+  login = "code4romania"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE4MDEwMzA4"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

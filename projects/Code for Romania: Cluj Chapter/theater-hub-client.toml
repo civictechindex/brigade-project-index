@@ -1,10 +1,9 @@
 code_url = "https://github.com/code4romania/theater-hub-client"
 description = "The main goal of Theater Hub is to form a community of professionals working in the theater industry. "
-git_branch = "master"
 git_url = "git://github.com/code4romania/theater-hub-client.git"
-last_pushed_within = "year"
 link_url = "http://theaterhub.ro/"
 name = "theater-hub-client"
+organization_name = "Code for Romania: Cluj Chapter"
 topics = [
   "civic-hacking",
   "civic-tech",
@@ -13,3 +12,56 @@ topics = [
   "theater",
   "theater-hub"
 ]
+
+[github]
+archived = false
+created_at = "2017-12-10T11:16:11Z"
+default_branch = "master"
+description = "The main goal of Theater Hub is to form a community of professionals working in the theater industry. "
+disabled = false
+fork = false
+forks_within = 10
+full_name = "code4romania/theater-hub-client"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://theaterhub.ro/"
+id = 113_743_665
+language = "Vue"
+name = "theater-hub-client"
+node_id = "MDEwOlJlcG9zaXRvcnkxMTM3NDM2NjU="
+open_issues_within = 100
+private = false
+pushed_within = "year"
+stargazers_within = 10
+topics = [
+  "civic-hacking",
+  "civic-tech",
+  "code4ro",
+  "community",
+  "theater",
+  "theater-hub"
+]
+updated_within = "year"
+watchers_within = 10
+
+  [github.license]
+  key = "mpl-2.0"
+  name = "Mozilla Public License 2.0"
+  node_id = "MDc6TGljZW5zZTE0"
+  spdx_id = "MPL-2.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 18_010_308
+  login = "code4romania"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE4MDEwMzA4"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

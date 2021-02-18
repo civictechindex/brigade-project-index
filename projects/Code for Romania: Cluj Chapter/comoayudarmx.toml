@@ -1,8 +1,53 @@
 code_url = "https://github.com/code4romania/comoayudarmx"
 description = "Repositorio de información para ayudar en desastres naturales."
-git_branch = "master"
 git_url = "git://github.com/code4romania/comoayudarmx.git"
-last_pushed_within = "over_a_year"
 link_url = "http://comoayudar.mx"
 name = "comoayudarmx"
+organization_name = "Code for Romania: Cluj Chapter"
 topics = [ "disaster-relief" ]
+
+[github]
+archived = false
+created_at = "2018-06-15T07:54:07Z"
+default_branch = "master"
+description = "Repositorio de información para ayudar en desastres naturales."
+disabled = false
+fork = true
+forks_within = 0
+full_name = "code4romania/comoayudarmx"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://comoayudar.mx"
+id = 137_458_166
+language = "HTML"
+name = "comoayudarmx"
+node_id = "MDEwOlJlcG9zaXRvcnkxMzc0NTgxNjY="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ "disaster-relief" ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 18_010_308
+  login = "code4romania"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE4MDEwMzA4"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
