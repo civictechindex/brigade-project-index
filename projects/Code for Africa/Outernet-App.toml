@@ -1,8 +1,48 @@
 code_url = "https://github.com/CodeForAfrica/Outernet-App"
 description = "Outernet App :sparkles:"
-git_branch = "develop"
 git_url = "git://github.com/CodeForAfrica/Outernet-App.git"
-last_pushed_within = "over_a_year"
 link_url = "https://www.outernet.is/"
 name = "Outernet-App"
+organization_name = "Code for Africa"
 topics = [ "desktop", "outernet", "vuejs" ]
+
+[github]
+archived = false
+created_at = "2018-04-24T11:43:55Z"
+default_branch = "develop"
+description = "Outernet App :sparkles:"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "CodeForAfrica/Outernet-App"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "https://www.outernet.is/"
+id = 130_845_443
+language = "JavaScript"
+license = { }
+name = "Outernet-App"
+node_id = "MDEwOlJlcG9zaXRvcnkxMzA4NDU0NDM="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ "desktop", "outernet", "vuejs" ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_786_364
+  login = "CodeForAfrica"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI3ODYzNjQ="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

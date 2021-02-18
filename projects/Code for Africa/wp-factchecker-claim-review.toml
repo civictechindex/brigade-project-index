@@ -1,6 +1,46 @@
 code_url = "https://github.com/CodeForAfrica/wp-factchecker-claim-review"
 description = "Wordpress plugin for adding Schema.org ClaimReview metadata to your posts"
-git_branch = "master"
 git_url = "git://github.com/CodeForAfrica/wp-factchecker-claim-review.git"
-last_pushed_within = "over_a_year"
 name = "wp-factchecker-claim-review"
+organization_name = "Code for Africa"
+
+[github]
+archived = false
+created_at = "2019-11-06T18:49:38Z"
+default_branch = "master"
+description = "Wordpress plugin for adding Schema.org ClaimReview metadata to your posts"
+disabled = false
+fork = true
+forks_within = 0
+full_name = "CodeForAfrica/wp-factchecker-claim-review"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 220_067_067
+language = { }
+license = { }
+name = "wp-factchecker-claim-review"
+node_id = "MDEwOlJlcG9zaXRvcnkyMjAwNjcwNjc="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_786_364
+  login = "CodeForAfrica"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI3ODYzNjQ="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

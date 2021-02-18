@@ -1,7 +1,52 @@
 code_url = "https://github.com/CodeForAfrica/WhereMyMoneyDey"
 description = "All mining companies in Ghana are supposed to pay 3% of the revenues they generate back to local residents. Accessible at http://wmmd.codeforafrica.org"
-git_branch = "master"
 git_url = "git://github.com/CodeForAfrica/WhereMyMoneyDey.git"
-last_pushed_within = "over_a_year"
 link_url = "http://wmmd.codeforafrica.org"
 name = "WhereMyMoneyDey"
+organization_name = "Code for Africa"
+
+[github]
+archived = false
+created_at = "2013-05-24T10:43:15Z"
+default_branch = "master"
+description = "All mining companies in Ghana are supposed to pay 3% of the revenues they generate back to local residents. Accessible at http://wmmd.codeforafrica.org"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "CodeForAfrica/WhereMyMoneyDey"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://wmmd.codeforafrica.org"
+id = 10_264_448
+language = "PHP"
+name = "WhereMyMoneyDey"
+node_id = "MDEwOlJlcG9zaXRvcnkxMDI2NDQ0OA=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "other"
+  name = "Other"
+  node_id = "MDc6TGljZW5zZTA="
+  spdx_id = "NOASSERTION"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_786_364
+  login = "CodeForAfrica"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI3ODYzNjQ="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

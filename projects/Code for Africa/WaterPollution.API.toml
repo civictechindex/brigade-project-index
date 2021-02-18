@@ -1,6 +1,46 @@
 code_url = "https://github.com/CodeForAfrica/WaterPollution.API"
 description = "Water Pollution API"
-git_branch = "master"
 git_url = "git://github.com/CodeForAfrica/WaterPollution.API.git"
-last_pushed_within = "over_a_year"
 name = "WaterPollution.API"
+organization_name = "Code for Africa"
+
+[github]
+archived = false
+created_at = "2018-01-14T19:12:53Z"
+default_branch = "master"
+description = "Water Pollution API"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "CodeForAfrica/WaterPollution.API"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 117_458_899
+language = "CSS"
+license = { }
+name = "WaterPollution.API"
+node_id = "MDEwOlJlcG9zaXRvcnkxMTc0NTg4OTk="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_786_364
+  login = "CodeForAfrica"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI3ODYzNjQ="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

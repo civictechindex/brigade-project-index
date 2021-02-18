@@ -1,7 +1,52 @@
 code_url = "https://github.com/CodeForAfrica/outbreak.AFRICA"
 description = "Coronavirus Disease 2019 Edition"
-git_branch = "master"
 git_url = "git://github.com/CodeForAfrica/outbreak.AFRICA.git"
-last_pushed_within = "year"
 link_url = "https://covid19.dev.hurumap.org/"
 name = "outbreak.AFRICA"
+organization_name = "Code for Africa"
+
+[github]
+archived = false
+created_at = "2020-03-19T05:11:52Z"
+default_branch = "main"
+description = "Coronavirus Disease 2019 Edition"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "CodeForAfrica/outbreak.AFRICA"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = false
+has_wiki = false
+homepage = "https://covid19.dev.hurumap.org/"
+id = 248_416_042
+language = "JavaScript"
+name = "outbreak.AFRICA"
+node_id = "MDEwOlJlcG9zaXRvcnkyNDg0MTYwNDI="
+open_issues_within = 10
+private = false
+pushed_within = "week"
+stargazers_within = 10
+topics = [ ]
+updated_within = "week"
+watchers_within = 10
+
+  [github.license]
+  key = "gpl-3.0"
+  name = "GNU General Public License v3.0"
+  node_id = "MDc6TGljZW5zZTk="
+  spdx_id = "GPL-3.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_786_364
+  login = "CodeForAfrica"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI3ODYzNjQ="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

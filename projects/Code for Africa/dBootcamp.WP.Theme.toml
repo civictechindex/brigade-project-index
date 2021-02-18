@@ -1,7 +1,47 @@
 code_url = "https://github.com/CodeForAfrica/dBootcamp.WP.Theme"
 description = "A Wordpress theme to style and add features to the Data Literacy Bootcamp websites. Example accessible at http://nairobi.dbootcamp.org"
-git_branch = "master"
 git_url = "git://github.com/CodeForAfrica/dBootcamp.WP.Theme.git"
-last_pushed_within = "over_a_year"
 link_url = "http://nairobi.dbootcamp.org"
 name = "dBootcamp.WP.Theme"
+organization_name = "Code for Africa"
+
+[github]
+archived = false
+created_at = "2014-09-07T04:47:08Z"
+default_branch = "master"
+description = "A Wordpress theme to style and add features to the Data Literacy Bootcamp websites. Example accessible at http://nairobi.dbootcamp.org"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "CodeForAfrica/dBootcamp.WP.Theme"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://nairobi.dbootcamp.org"
+id = 23_752_654
+language = "CSS"
+license = { }
+name = "dBootcamp.WP.Theme"
+node_id = "MDEwOlJlcG9zaXRvcnkyMzc1MjY1NA=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_786_364
+  login = "CodeForAfrica"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI3ODYzNjQ="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

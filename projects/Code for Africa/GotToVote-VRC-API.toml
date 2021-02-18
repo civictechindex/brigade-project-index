@@ -1,7 +1,52 @@
 code_url = "https://github.com/CodeForAfrica/GotToVote-VRC-API"
 description = "The GotToVote Voter Registration Confirmation (VRC) API module. Providing a fast, simple, multilingual, and secure API that can be used to verify voter details. Learn more at https://gottovote.cc"
-git_branch = "master"
 git_url = "git://github.com/CodeForAfrica/GotToVote-VRC-API.git"
-last_pushed_within = "over_a_year"
 link_url = "https://gottovote.cc"
 name = "GotToVote-VRC-API"
+organization_name = "Code for Africa"
+
+[github]
+archived = false
+created_at = "2014-02-26T17:22:18Z"
+default_branch = "master"
+description = "The GotToVote Voter Registration Confirmation (VRC) API module. Providing a fast, simple, multilingual, and secure API that can be used to verify voter details. Learn more at https://gottovote.cc"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "CodeForAfrica/GotToVote-VRC-API"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "https://gottovote.cc"
+id = 17_218_735
+language = "PHP"
+name = "GotToVote-VRC-API"
+node_id = "MDEwOlJlcG9zaXRvcnkxNzIxODczNQ=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "apache-2.0"
+  name = "Apache License 2.0"
+  node_id = "MDc6TGljZW5zZTI="
+  spdx_id = "Apache-2.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_786_364
+  login = "CodeForAfrica"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI3ODYzNjQ="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

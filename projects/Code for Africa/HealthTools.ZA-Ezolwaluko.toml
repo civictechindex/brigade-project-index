@@ -1,10 +1,9 @@
 code_url = "https://github.com/CodeForAfrica/HealthTools.ZA-Ezolwaluko"
 description = "Ezolwaluko / Intiation Watch App is tool to provide an easy way in which initiates and their families can check whether the traditional surgeons they have chosen are registered with the Eastern Cape Department of Health. Accessible at https://ezolwaluko.org.za/en"
-git_branch = "master"
 git_url = "git://github.com/CodeForAfrica/HealthTools.ZA-Ezolwaluko.git"
-last_pushed_within = "over_a_year"
 link_url = "https://ezolwaluko.org.za/en"
 name = "HealthTools.ZA-Ezolwaluko"
+organization_name = "Code for Africa"
 topics = [
   "africa",
   "city-press",
@@ -21,3 +20,64 @@ topics = [
   "traditional-surgeon",
   "za"
 ]
+
+[github]
+archived = false
+created_at = "2018-06-18T13:15:28Z"
+default_branch = "master"
+description = "Ezolwaluko / Intiation Watch App is tool to provide an easy way in which initiates and their families can check whether the traditional surgeons they have chosen are registered with the Eastern Cape Department of Health. Accessible at https://ezolwaluko.org.za/en"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "CodeForAfrica/HealthTools.ZA-Ezolwaluko"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "https://ezolwaluko.org.za/en"
+id = 137_753_766
+language = "HTML"
+name = "HealthTools.ZA-Ezolwaluko"
+node_id = "MDEwOlJlcG9zaXRvcnkxMzc3NTM3NjY="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [
+  "africa",
+  "city-press",
+  "code-for-africa",
+  "data-journalism",
+  "data-tools",
+  "eastern-cape",
+  "health",
+  "healthtools",
+  "initiation-watch",
+  "south-africa",
+  "tools",
+  "tradition",
+  "traditional-surgeon",
+  "za"
+]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "apache-2.0"
+  name = "Apache License 2.0"
+  node_id = "MDc6TGljZW5zZTI="
+  spdx_id = "Apache-2.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_786_364
+  login = "CodeForAfrica"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI3ODYzNjQ="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

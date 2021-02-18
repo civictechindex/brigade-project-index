@@ -1,10 +1,9 @@
 code_url = "https://github.com/CodeForAfrica/academy.AFRICA"
 description = "The pan-African website for the @CodeForAfrica's digital skills academy programme. The site is accessible at https://academy.africa/"
-git_branch = "master"
 git_url = "git://github.com/CodeForAfrica/academy.AFRICA.git"
-last_pushed_within = "over_a_year"
 link_url = "https://academy.africa/"
 name = "academy.AFRICA"
+organization_name = "Code for Africa"
 topics = [
   "abuja",
   "academy",
@@ -27,3 +26,70 @@ topics = [
   "storylab-academy",
   "training"
 ]
+
+[github]
+archived = false
+created_at = "2017-05-22T15:47:04Z"
+default_branch = "master"
+description = "The pan-African website for the @CodeForAfrica's digital skills academy programme. The site is accessible at https://academy.africa/"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "CodeForAfrica/academy.AFRICA"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "https://academy.africa/"
+id = 92_071_103
+language = "CSS"
+name = "academy.AFRICA"
+node_id = "MDEwOlJlcG9zaXRvcnk5MjA3MTEwMw=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [
+  "abuja",
+  "academy",
+  "academy-africa",
+  "africa",
+  "cape-town",
+  "code-for-africa",
+  "dar-es-salaam",
+  "data-journalism",
+  "digital-journalism",
+  "github-pages",
+  "google-news-lab",
+  "jekyll",
+  "johannesburg",
+  "journalism",
+  "journalism-training",
+  "lagos",
+  "nairobi",
+  "storylab",
+  "storylab-academy",
+  "training"
+]
+updated_within = "year"
+watchers_within = 10
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_786_364
+  login = "CodeForAfrica"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI3ODYzNjQ="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

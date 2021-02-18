@@ -1,7 +1,52 @@
 code_url = "https://github.com/CodeForAfrica/backend"
 description = "Media Cloud is an open source, open data platform that allows researchers to answer quantitative questions about the content of online media."
-git_branch = "master"
 git_url = "git://github.com/CodeForAfrica/backend.git"
-last_pushed_within = "year"
 link_url = "http://www.mediacloud.org"
 name = "backend"
+organization_name = "Code for Africa"
+
+[github]
+archived = false
+created_at = "2020-10-30T11:52:25Z"
+default_branch = "master"
+description = "Media Cloud is an open source, open data platform that allows researchers to answer quantitative questions about the content of online media."
+disabled = false
+fork = true
+forks_within = 0
+full_name = "CodeForAfrica/backend"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = false
+homepage = "http://www.mediacloud.org"
+id = 308_616_003
+language = "Python"
+name = "backend"
+node_id = "MDEwOlJlcG9zaXRvcnkzMDg2MTYwMDM="
+open_issues_within = 0
+private = false
+pushed_within = "month"
+stargazers_within = 0
+topics = [ ]
+updated_within = "year"
+watchers_within = 0
+
+  [github.license]
+  key = "agpl-3.0"
+  name = "GNU Affero General Public License v3.0"
+  node_id = "MDc6TGljZW5zZTE="
+  spdx_id = "AGPL-3.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_786_364
+  login = "CodeForAfrica"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI3ODYzNjQ="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

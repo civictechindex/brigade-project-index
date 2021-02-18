@@ -1,9 +1,8 @@
 code_url = "https://github.com/CodeForAfrica/ckanext-notify"
 description = "[EXPERIMENTAL] CKAN extension to provide more options for notifications such as Slack notifications."
-git_branch = "master"
 git_url = "git://github.com/CodeForAfrica/ckanext-notify.git"
-last_pushed_within = "over_a_year"
 name = "ckanext-notify"
+organization_name = "Code for Africa"
 topics = [
   "ckan",
   "ckan-extension",
@@ -11,3 +10,55 @@ topics = [
   "notifications",
   "slack"
 ]
+
+[github]
+archived = false
+created_at = "2017-09-16T02:50:44Z"
+default_branch = "master"
+description = "[EXPERIMENTAL] CKAN extension to provide more options for notifications such as Slack notifications."
+disabled = false
+fork = false
+forks_within = 10
+full_name = "CodeForAfrica/ckanext-notify"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 103_719_371
+language = "Python"
+name = "ckanext-notify"
+node_id = "MDEwOlJlcG9zaXRvcnkxMDM3MTkzNzE="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [
+  "ckan",
+  "ckan-extension",
+  "ckan-notify",
+  "notifications",
+  "slack"
+]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_786_364
+  login = "CodeForAfrica"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI3ODYzNjQ="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

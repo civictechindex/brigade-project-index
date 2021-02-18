@@ -1,10 +1,9 @@
 code_url = "https://github.com/CodeForAfrica/HURUmap-apps"
 description = "HURUmap is an interactive web platform that helps journalists and civic watchdogs easily explore and download census or other demographic data. The toolkit includes shareable and customisable infographics. Accessible at https://hurumap.org"
-git_branch = "master"
 git_url = "git://github.com/CodeForAfrica/HURUmap-apps.git"
-last_pushed_within = "year"
 link_url = "https://hurumap.org"
 name = "HURUmap-apps"
+organization_name = "Code for Africa"
 topics = [
   "census",
   "census-data",
@@ -17,3 +16,55 @@ topics = [
   "wazimap",
   "zambia"
 ]
+
+[github]
+archived = false
+created_at = "2016-02-10T14:52:40Z"
+default_branch = "master"
+description = "HURUmap is an interactive web platform that helps journalists and civic watchdogs easily explore and download census or other demographic data. The toolkit includes shareable and customisable infographics. Accessible at https://hurumap.org"
+disabled = false
+fork = false
+forks_within = 100
+full_name = "CodeForAfrica/HURUmap-apps"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = false
+has_wiki = false
+homepage = "https://hurumap.org"
+id = 51_447_449
+language = "TSQL"
+license = { }
+name = "HURUmap-apps"
+node_id = "MDEwOlJlcG9zaXRvcnk1MTQ0NzQ0OQ=="
+open_issues_within = 10
+private = false
+pushed_within = "year"
+stargazers_within = 100
+topics = [
+  "census",
+  "census-data",
+  "census-reporter",
+  "censusreporter",
+  "hurumap",
+  "kenya",
+  "tanzania",
+  "uganda",
+  "wazimap",
+  "zambia"
+]
+updated_within = "year"
+watchers_within = 100
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_786_364
+  login = "CodeForAfrica"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI3ODYzNjQ="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

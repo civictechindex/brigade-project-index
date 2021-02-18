@@ -1,10 +1,9 @@
 code_url = "https://github.com/CodeForAfrica/africanCOMMONS-GitHub"
 description = "africanCOMMONS is a platform to showcase re-useable tools built across Africa and the people & organisations building them. Accessible at https://commons.africa/"
-git_branch = "master"
 git_url = "git://github.com/CodeForAfrica/africanCOMMONS-GitHub.git"
-last_pushed_within = "over_a_year"
 link_url = "https://commons.africa/"
 name = "africanCOMMONS-GitHub"
+organization_name = "Code for Africa"
 topics = [
   "africa",
   "african-commons",
@@ -15,3 +14,58 @@ topics = [
   "open-source",
   "script"
 ]
+
+[github]
+archived = false
+created_at = "2016-10-12T11:40:15Z"
+default_branch = "master"
+description = "africanCOMMONS is a platform to showcase re-useable tools built across Africa and the people & organisations building them. Accessible at https://commons.africa/"
+disabled = false
+fork = true
+forks_within = 0
+full_name = "CodeForAfrica/africanCOMMONS-GitHub"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "https://commons.africa/"
+id = 70_694_066
+language = "Python"
+name = "africanCOMMONS-GitHub"
+node_id = "MDEwOlJlcG9zaXRvcnk3MDY5NDA2Ng=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [
+  "africa",
+  "african-commons",
+  "africancommons",
+  "commons",
+  "github",
+  "github-api",
+  "open-source",
+  "script"
+]
+updated_within = "year"
+watchers_within = 10
+
+  [github.license]
+  key = "apache-2.0"
+  name = "Apache License 2.0"
+  node_id = "MDc6TGljZW5zZTI="
+  spdx_id = "Apache-2.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_786_364
+  login = "CodeForAfrica"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI3ODYzNjQ="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

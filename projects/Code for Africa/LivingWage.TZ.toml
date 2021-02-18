@@ -1,7 +1,52 @@
 code_url = "https://github.com/CodeForAfrica/LivingWage.TZ"
 description = "What are the living wage requirements for domestic workers?"
-git_branch = "gh-pages"
 git_url = "git://github.com/CodeForAfrica/LivingWage.TZ.git"
-last_pushed_within = "over_a_year"
 link_url = "http://livingwage.codefortanzania.org"
 name = "LivingWage.TZ"
+organization_name = "Code for Africa"
+
+[github]
+archived = false
+created_at = "2017-07-11T05:57:06Z"
+default_branch = "gh-pages"
+description = "What are the living wage requirements for domestic workers?"
+disabled = false
+fork = true
+forks_within = 0
+full_name = "CodeForAfrica/LivingWage.TZ"
+has_downloads = true
+has_issues = false
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "http://livingwage.codefortanzania.org"
+id = 96_856_195
+language = "HTML"
+name = "LivingWage.TZ"
+node_id = "MDEwOlJlcG9zaXRvcnk5Njg1NjE5NQ=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "apache-2.0"
+  name = "Apache License 2.0"
+  node_id = "MDc6TGljZW5zZTI="
+  spdx_id = "Apache-2.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_786_364
+  login = "CodeForAfrica"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI3ODYzNjQ="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
