@@ -1,9 +1,8 @@
 code_url = "https://github.com/codeforsanjose/open-disclosure"
 description = "A web app to track campaign finances for the General Election (November 3, 2020) in San Jose & South Bay California"
-git_branch = "master"
 git_url = "git://github.com/codeforsanjose/open-disclosure.git"
-last_pushed_within = "month"
 name = "open-disclosure"
+organization_name = "Code for San Jose"
 topics = [
   "ballot",
   "campaign",
@@ -14,3 +13,58 @@ topics = [
   "react",
   "san-jose"
 ]
+
+[github]
+archived = false
+created_at = "2019-08-23T18:29:12Z"
+default_branch = "master"
+description = "A web app to track campaign finances for the General Election (November 3, 2020) in San Jose & South Bay California"
+disabled = false
+fork = false
+forks_within = 100
+full_name = "codeforsanjose/open-disclosure"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 204_050_605
+language = "JavaScript"
+name = "open-disclosure"
+node_id = "MDEwOlJlcG9zaXRvcnkyMDQwNTA2MDU="
+open_issues_within = 10
+private = false
+pushed_within = "month"
+stargazers_within = 100
+topics = [
+  "ballot",
+  "campaign",
+  "campaign-finance",
+  "candidates",
+  "elections",
+  "python",
+  "react",
+  "san-jose"
+]
+updated_within = "month"
+watchers_within = 100
+
+  [github.license]
+  key = "gpl-3.0"
+  name = "GNU General Public License v3.0"
+  node_id = "MDc6TGljZW5zZTk="
+  spdx_id = "GPL-3.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_627_417
+  login = "codeforsanjose"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjY2Mjc0MTc="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

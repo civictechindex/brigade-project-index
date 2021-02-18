@@ -1,35 +1,40 @@
-code_url = "https://github.com/codeforsanjose/flood-finder"
-git_url = "git://github.com/codeforsanjose/flood-finder.git"
-name = "flood-finder"
+code_url = "https://github.com/codeforsanjose/hack-night-dashboard"
+git_url = "git://github.com/codeforsanjose/hack-night-dashboard.git"
+name = "hack-night-dashboard"
 organization_name = "Code for San Jose"
 
 [github]
 archived = false
-created_at = "2020-11-29T22:07:41Z"
-default_branch = "main"
+created_at = "2020-01-30T05:39:05Z"
+default_branch = "master"
 description = { }
 disabled = false
 fork = false
 forks_within = 0
-full_name = "codeforsanjose/flood-finder"
+full_name = "codeforsanjose/hack-night-dashboard"
 has_downloads = true
 has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = true
 homepage = { }
-id = 317_052_485
-language = { }
-license = { }
-name = "flood-finder"
-node_id = "MDEwOlJlcG9zaXRvcnkzMTcwNTI0ODU="
+id = 237_146_910
+language = "JavaScript"
+name = "hack-night-dashboard"
+node_id = "MDEwOlJlcG9zaXRvcnkyMzcxNDY5MTA="
 open_issues_within = 0
 private = false
-pushed_within = "year"
+pushed_within = "over_a_year"
 stargazers_within = 0
 topics = [ ]
 updated_within = "year"
 watchers_within = 0
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
 
   [github.owner]
   gravatar_id = ""

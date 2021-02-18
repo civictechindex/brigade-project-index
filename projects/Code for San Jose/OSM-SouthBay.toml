@@ -1,10 +1,9 @@
 code_url = "https://github.com/codeforsanjose/OSM-SouthBay"
 description = "Making the best possible map of San José and the South Bay"
-git_branch = "main"
 git_url = "git://github.com/codeforsanjose/OSM-SouthBay.git"
-last_pushed_within = "month"
 link_url = "https://www.openstreetmap.org/#map=12/37.3358/-121.8906"
 name = "OSM-SouthBay"
+organization_name = "Code for San Jose"
 topics = [
   "gis",
   "mapping",
@@ -14,3 +13,57 @@ topics = [
   "santa-clara-county",
   "south-bay"
 ]
+
+[github]
+archived = false
+created_at = "2017-07-14T02:22:42Z"
+default_branch = "main"
+description = "Making the best possible map of San José and the South Bay"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codeforsanjose/OSM-SouthBay"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "https://www.openstreetmap.org/#map=12/37.3358/-121.8906"
+id = 97_183_808
+language = "Jupyter Notebook"
+name = "OSM-SouthBay"
+node_id = "MDEwOlJlcG9zaXRvcnk5NzE4MzgwOA=="
+open_issues_within = 100
+private = false
+pushed_within = "year"
+stargazers_within = 10
+topics = [
+  "gis",
+  "mapping",
+  "maps",
+  "openstreetmap",
+  "san-jose",
+  "santa-clara-county",
+  "south-bay"
+]
+updated_within = "month"
+watchers_within = 10
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_627_417
+  login = "codeforsanjose"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjY2Mjc0MTc="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

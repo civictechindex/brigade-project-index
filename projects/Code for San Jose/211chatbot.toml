@@ -1,5 +1,50 @@
 code_url = "https://github.com/codeforsanjose/211chatbot"
-git_branch = "master"
 git_url = "git://github.com/codeforsanjose/211chatbot.git"
-last_pushed_within = "month"
 name = "211chatbot"
+organization_name = "Code for San Jose"
+
+[github]
+archived = false
+created_at = "2020-09-27T19:58:34Z"
+default_branch = "master"
+description = { }
+disabled = false
+fork = false
+forks_within = 0
+full_name = "codeforsanjose/211chatbot"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 299_108_738
+language = "HTML"
+name = "211chatbot"
+node_id = "MDEwOlJlcG9zaXRvcnkyOTkxMDg3Mzg="
+open_issues_within = 10
+private = false
+pushed_within = "week"
+stargazers_within = 0
+topics = [ ]
+updated_within = "month"
+watchers_within = 0
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_627_417
+  login = "codeforsanjose"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjY2Mjc0MTc="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

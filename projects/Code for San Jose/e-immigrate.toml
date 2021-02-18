@@ -1,7 +1,47 @@
 code_url = "https://github.com/codeforsanjose/e-immigrate"
 description = "Website questionnaire tool for Center for Employment Training, Immigration and Citizenship Project (CET-ICP)"
-git_branch = "master"
 git_url = "git://github.com/codeforsanjose/e-immigrate.git"
-last_pushed_within = "week"
 name = "e-immigrate"
+organization_name = "Code for San Jose"
 topics = [ "immigration", "mongodb", "react", "website" ]
+
+[github]
+archived = false
+created_at = "2020-06-16T00:01:03Z"
+default_branch = "master"
+description = "Website questionnaire tool for Center for Employment Training, Immigration and Citizenship Project (CET-ICP)"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codeforsanjose/e-immigrate"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 272_568_736
+language = "JavaScript"
+license = { }
+name = "e-immigrate"
+node_id = "MDEwOlJlcG9zaXRvcnkyNzI1Njg3MzY="
+open_issues_within = 10
+private = false
+pushed_within = "week"
+stargazers_within = 10
+topics = [ "immigration", "mongodb", "react", "website" ]
+updated_within = "month"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_627_417
+  login = "codeforsanjose"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjY2Mjc0MTc="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

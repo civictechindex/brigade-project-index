@@ -1,7 +1,52 @@
 code_url = "https://github.com/codeforsanjose/BadgeHub"
 description = "Raspberry Pi, Dymo Turbo Writer 450 badge printing service that logs user information such as name and email and prints a name badge and QR code associated with that information."
-git_branch = "master"
 git_url = "git://github.com/codeforsanjose/BadgeHub.git"
-last_pushed_within = "year"
 name = "BadgeHub"
+organization_name = "Code for San Jose"
 topics = [ "google-sheets", "meta", "printer", "python", "raspberry-pi" ]
+
+[github]
+archived = false
+created_at = "2015-11-13T04:15:30Z"
+default_branch = "master"
+description = "Raspberry Pi, Dymo Turbo Writer 450 badge printing service that logs user information such as name and email and prints a name badge and QR code associated with that information."
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codeforsanjose/BadgeHub"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 46_099_546
+language = "JavaScript"
+name = "BadgeHub"
+node_id = "MDEwOlJlcG9zaXRvcnk0NjA5OTU0Ng=="
+open_issues_within = 10
+private = false
+pushed_within = "month"
+stargazers_within = 100
+topics = [ "google-sheets", "meta", "printer", "python", "raspberry-pi" ]
+updated_within = "year"
+watchers_within = 100
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_627_417
+  login = "codeforsanjose"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjY2Mjc0MTc="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

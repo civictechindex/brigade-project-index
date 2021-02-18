@@ -1,6 +1,46 @@
 code_url = "https://github.com/codeforsanjose/development-resources"
 description = "Resources for frontend developers to learn and follow from"
-git_branch = "main"
 git_url = "git://github.com/codeforsanjose/development-resources.git"
-last_pushed_within = "month"
 name = "development-resources"
+organization_name = "Code for San Jose"
+
+[github]
+archived = false
+created_at = "2020-11-06T21:24:48Z"
+default_branch = "main"
+description = "Resources for frontend developers to learn and follow from"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "codeforsanjose/development-resources"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 310_708_705
+language = { }
+license = { }
+name = "development-resources"
+node_id = "MDEwOlJlcG9zaXRvcnkzMTA3MDg3MDU="
+open_issues_within = 10
+private = false
+pushed_within = "week"
+stargazers_within = 0
+topics = [ ]
+updated_within = "week"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_627_417
+  login = "codeforsanjose"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjY2Mjc0MTc="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

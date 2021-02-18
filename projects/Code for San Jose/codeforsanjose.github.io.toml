@@ -1,10 +1,9 @@
 code_url = "https://github.com/codeforsanjose/codeforsanjose.github.io"
 description = "Code for San José website"
-git_branch = "master"
 git_url = "git://github.com/codeforsanjose/codeforsanjose.github.io.git"
-last_pushed_within = "week"
-link_url = "https://www.codeforsanjose.com"
+link_url = "https://www.codeforsanjose.org"
 name = "codeforsanjose.github.io"
+organization_name = "Code for San Jose"
 topics = [
   "brigade",
   "code-for-america",
@@ -15,3 +14,58 @@ topics = [
   "sass",
   "website"
 ]
+
+[github]
+archived = false
+created_at = "2014-10-06T06:07:02Z"
+default_branch = "master"
+description = "Code for San José website"
+disabled = false
+fork = false
+forks_within = 100
+full_name = "codeforsanjose/codeforsanjose.github.io"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "https://www.codeforsanjose.org"
+id = 24_835_606
+language = "HTML"
+name = "codeforsanjose.github.io"
+node_id = "MDEwOlJlcG9zaXRvcnkyNDgzNTYwNg=="
+open_issues_within = 10
+private = false
+pushed_within = "month"
+stargazers_within = 100
+topics = [
+  "brigade",
+  "code-for-america",
+  "css",
+  "html",
+  "javascript",
+  "san-jose",
+  "sass",
+  "website"
+]
+updated_within = "month"
+watchers_within = 100
+
+  [github.license]
+  key = "gpl-3.0"
+  name = "GNU General Public License v3.0"
+  node_id = "MDc6TGljZW5zZTk="
+  spdx_id = "GPL-3.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_627_417
+  login = "codeforsanjose"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjY2Mjc0MTc="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

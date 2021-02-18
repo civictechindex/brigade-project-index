@@ -1,6 +1,51 @@
 code_url = "https://github.com/codeforsanjose/MobilityMap"
 description = "Allows citizens to engage public transit authority on a map in real-time"
-git_branch = "master"
 git_url = "git://github.com/codeforsanjose/MobilityMap.git"
-last_pushed_within = "over_a_year"
 name = "MobilityMap"
+organization_name = "Code for San Jose"
+
+[github]
+archived = false
+created_at = "2015-04-11T16:11:32Z"
+default_branch = "master"
+description = "Allows citizens to engage public transit authority on a map in real-time"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codeforsanjose/MobilityMap"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 33_782_534
+language = "JavaScript"
+name = "MobilityMap"
+node_id = "MDEwOlJlcG9zaXRvcnkzMzc4MjUzNA=="
+open_issues_within = 100
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "gpl-3.0"
+  name = "GNU General Public License v3.0"
+  node_id = "MDc6TGljZW5zZTk="
+  spdx_id = "GPL-3.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_627_417
+  login = "codeforsanjose"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjY2Mjc0MTc="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

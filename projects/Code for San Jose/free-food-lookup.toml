@@ -1,10 +1,9 @@
 code_url = "https://github.com/codeforsanjose/free-food-lookup"
 description = "A lookup tool for Santa Clara County residents to find programs like free school meals and groceries near them"
-git_branch = "master"
 git_url = "git://github.com/codeforsanjose/free-food-lookup.git"
-last_pushed_within = "year"
 link_url = "https://www.codeforsanjose.com/free-food-lookup/"
 name = "free-food-lookup"
+organization_name = "Code for San Jose"
 topics = [
   "css",
   "free-food",
@@ -18,3 +17,56 @@ topics = [
   "san-jose",
   "santa-clara-county"
 ]
+
+[github]
+archived = false
+created_at = "2020-04-27T17:16:41Z"
+default_branch = "master"
+description = "A lookup tool for Santa Clara County residents to find programs like free school meals and groceries near them"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "codeforsanjose/free-food-lookup"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "https://www.codeforsanjose.com/free-food-lookup/"
+id = 259_400_694
+language = "CSS"
+license = { }
+name = "free-food-lookup"
+node_id = "MDEwOlJlcG9zaXRvcnkyNTk0MDA2OTQ="
+open_issues_within = 10
+private = false
+pushed_within = "year"
+stargazers_within = 10
+topics = [
+  "css",
+  "free-food",
+  "free-meals",
+  "groceries",
+  "html",
+  "javascript",
+  "jquery",
+  "meals",
+  "nucleo-library",
+  "san-jose",
+  "santa-clara-county"
+]
+updated_within = "year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_627_417
+  login = "codeforsanjose"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjY2Mjc0MTc="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
