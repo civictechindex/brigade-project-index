@@ -1,10 +1,9 @@
 code_url = "https://github.com/code4romania/monitorizare-vot-votanti-api"
 description = "API pentru monitorizarea incidentelor din cadrul alegerilor parlamentare din 2016."
-git_branch = "develop"
 git_url = "git://github.com/code4romania/monitorizare-vot-votanti-api.git"
-last_pushed_within = "over_a_year"
 link_url = "http://monitorizarevot.ro/"
 name = "monitorizare-vot-votanti-api"
+organization_name = "Code for Romania"
 topics = [
   "api",
   "civic-hacking",
@@ -16,3 +15,59 @@ topics = [
   "laravel",
   "monitoring"
 ]
+
+[github]
+archived = false
+created_at = "2016-10-26T15:03:22Z"
+default_branch = "develop"
+description = "API pentru monitorizarea incidentelor din cadrul alegerilor parlamentare din 2016."
+disabled = false
+fork = false
+forks_within = 100
+full_name = "code4romania/monitorizare-vot-votanti-api"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://monitorizarevot.ro/"
+id = 72_014_852
+language = "PHP"
+name = "monitorizare-vot-votanti-api"
+node_id = "MDEwOlJlcG9zaXRvcnk3MjAxNDg1Mg=="
+open_issues_within = 100
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [
+  "api",
+  "civic-hacking",
+  "civic-tech",
+  "code4ro",
+  "election-data",
+  "election-monitoring",
+  "elections",
+  "laravel",
+  "monitoring"
+]
+updated_within = "year"
+watchers_within = 10
+
+  [github.license]
+  key = "mpl-2.0"
+  name = "Mozilla Public License 2.0"
+  node_id = "MDc6TGljZW5zZTE0"
+  spdx_id = "MPL-2.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 18_010_308
+  login = "code4romania"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE4MDEwMzA4"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

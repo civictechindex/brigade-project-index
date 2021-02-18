@@ -1,7 +1,47 @@
 code_url = "https://github.com/code4romania/hackdays"
 description = "Repo to handle general information about our monthly Hack Days"
-git_branch = "master"
 git_url = "git://github.com/code4romania/hackdays.git"
-last_pushed_within = "over_a_year"
 link_url = "https://tfsg.code4.ro/ro/hackday/"
 name = "hackdays"
+organization_name = "Code for Romania"
+
+[github]
+archived = false
+created_at = "2019-02-20T15:51:12Z"
+default_branch = "master"
+description = "Repo to handle general information about our monthly Hack Days"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "code4romania/hackdays"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "https://tfsg.code4.ro/ro/hackday/"
+id = 171_702_115
+language = { }
+license = { }
+name = "hackdays"
+node_id = "MDEwOlJlcG9zaXRvcnkxNzE3MDIxMTU="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 18_010_308
+  login = "code4romania"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE4MDEwMzA4"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

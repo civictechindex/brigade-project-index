@@ -1,7 +1,47 @@
 code_url = "https://github.com/code4romania/hgathering-api"
 description = "Api para reunir información de los centros de acopio habilitados para apoyar a los damnificados por el sismo en México"
-git_branch = "master"
 git_url = "git://github.com/code4romania/hgathering-api.git"
-last_pushed_within = "over_a_year"
 name = "hgathering-api"
+organization_name = "Code for Romania"
 topics = [ "disaster-relief" ]
+
+[github]
+archived = false
+created_at = "2018-06-15T10:40:19Z"
+default_branch = "master"
+description = "Api para reunir información de los centros de acopio habilitados para apoyar a los damnificados por el sismo en México"
+disabled = false
+fork = true
+forks_within = 0
+full_name = "code4romania/hgathering-api"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 137_475_726
+language = "Python"
+license = { }
+name = "hgathering-api"
+node_id = "MDEwOlJlcG9zaXRvcnkxMzc0NzU3MjY="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ "disaster-relief" ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 18_010_308
+  login = "code4romania"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE4MDEwMzA4"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

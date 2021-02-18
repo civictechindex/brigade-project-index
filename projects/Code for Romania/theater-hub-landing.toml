@@ -1,31 +1,31 @@
-code_url = "https://github.com/code4romania/catalog-politic"
-description = "Catalog Politic website."
-git_url = "git://github.com/code4romania/catalog-politic.git"
-name = "catalog-politic"
+code_url = "https://github.com/code4romania/theater-hub-landing"
+description = "Theater Hub landing page"
+git_url = "git://github.com/code4romania/theater-hub-landing.git"
+name = "theater-hub-landing"
 organization_name = "Code for Romania"
 
 [github]
 archived = false
-created_at = "2019-08-28T11:34:58Z"
-default_branch = "develop"
-description = "Catalog Politic website."
+created_at = "2017-05-03T14:18:30Z"
+default_branch = "main"
+description = "Theater Hub landing page"
 disabled = false
 fork = false
-forks_within = 10
-full_name = "code4romania/catalog-politic"
+forks_within = 0
+full_name = "code4romania/theater-hub-landing"
 has_downloads = true
 has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = true
 homepage = { }
-id = 204_916_915
-language = "TypeScript"
-name = "catalog-politic"
-node_id = "MDEwOlJlcG9zaXRvcnkyMDQ5MTY5MTU="
-open_issues_within = 10
+id = 90_157_139
+language = "JavaScript"
+name = "theater-hub-landing"
+node_id = "MDEwOlJlcG9zaXRvcnk5MDE1NzEzOQ=="
+open_issues_within = 0
 private = false
-pushed_within = "month"
+pushed_within = "year"
 stargazers_within = 10
 topics = [ ]
 updated_within = "year"

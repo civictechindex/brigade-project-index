@@ -1,10 +1,9 @@
 code_url = "https://github.com/code4romania/monitorizare-vot"
 description = "Election monitoring app through which commissioned observers can easily report back to their respective NGOs throughout the election day."
-git_branch = "develop"
 git_url = "git://github.com/code4romania/monitorizare-vot.git"
-last_pushed_within = "week"
 link_url = "https://votemonitor.org/"
 name = "monitorizare-vot"
+organization_name = "Code for Romania"
 topics = [
   "api",
   "civic-hacking",
@@ -18,3 +17,61 @@ topics = [
   "monitoring",
   "monitorizare-vot"
 ]
+
+[github]
+archived = false
+created_at = "2016-06-10T09:37:58Z"
+default_branch = "develop"
+description = "Election monitoring app through which commissioned observers can easily report back to their respective NGOs throughout the election day."
+disabled = false
+fork = false
+forks_within = 100
+full_name = "code4romania/monitorizare-vot"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "https://votemonitor.org/"
+id = 60_837_546
+language = "C#"
+name = "monitorizare-vot"
+node_id = "MDEwOlJlcG9zaXRvcnk2MDgzNzU0Ng=="
+open_issues_within = 100
+private = false
+pushed_within = "month"
+stargazers_within = 100
+topics = [
+  "api",
+  "civic-hacking",
+  "civic-tech",
+  "code4ro",
+  "dotnet",
+  "election-data",
+  "election-monitoring",
+  "elections",
+  "hacktoberfest",
+  "monitoring",
+  "monitorizare-vot"
+]
+updated_within = "month"
+watchers_within = 100
+
+  [github.license]
+  key = "mpl-2.0"
+  name = "Mozilla Public License 2.0"
+  node_id = "MDc6TGljZW5zZTE0"
+  spdx_id = "MPL-2.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 18_010_308
+  login = "code4romania"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE4MDEwMzA4"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
