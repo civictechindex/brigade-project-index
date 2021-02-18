@@ -1,7 +1,52 @@
 code_url = "https://github.com/c4gnv/business-web"
 description = "Permit Locator to Help Start Businesses"
-git_branch = "develop"
 git_url = "git://github.com/c4gnv/business-web.git"
-last_pushed_within = "over_a_year"
 link_url = "http://bdev.c4gnv.com.s3-website-us-east-1.amazonaws.com/"
 name = "business-web"
+organization_name = "Code for Gainesville"
+
+[github]
+archived = false
+created_at = "2016-07-09T23:53:44Z"
+default_branch = "develop"
+description = "Permit Locator to Help Start Businesses"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "c4gnv/business-web"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = false
+has_wiki = true
+homepage = "http://bdev.c4gnv.com.s3-website-us-east-1.amazonaws.com/"
+id = 62_973_851
+language = "HTML"
+name = "business-web"
+node_id = "MDEwOlJlcG9zaXRvcnk2Mjk3Mzg1MQ=="
+open_issues_within = 100
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 18_651_274
+  login = "c4gnv"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE4NjUxMjc0"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

@@ -1,6 +1,51 @@
 code_url = "https://github.com/c4gnv/things-registry"
 description = "An API to find example things to use for IoT projects."
-git_branch = "develop"
 git_url = "git://github.com/c4gnv/things-registry.git"
-last_pushed_within = "over_a_year"
 name = "things-registry"
+organization_name = "Code for Gainesville"
+
+[github]
+archived = false
+created_at = "2017-05-29T21:45:14Z"
+default_branch = "develop"
+description = "An API to find example things to use for IoT projects."
+disabled = false
+fork = false
+forks_within = 0
+full_name = "c4gnv/things-registry"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = false
+has_wiki = false
+homepage = { }
+id = 92_777_561
+language = { }
+name = "things-registry"
+node_id = "MDEwOlJlcG9zaXRvcnk5Mjc3NzU2MQ=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 18_651_274
+  login = "c4gnv"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE4NjUxMjc0"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
