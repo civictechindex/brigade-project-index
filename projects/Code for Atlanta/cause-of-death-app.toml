@@ -1,6 +1,46 @@
 code_url = "https://github.com/codeforatlanta/cause-of-death-app"
 description = "Repository for Cause of Death app for CDC"
-git_branch = "master"
 git_url = "git://github.com/codeforatlanta/cause-of-death-app.git"
-last_pushed_within = "over_a_year"
 name = "cause-of-death-app"
+organization_name = "Code for Atlanta"
+
+[github]
+archived = false
+created_at = "2015-06-06T14:51:55Z"
+default_branch = "master"
+description = "Repository for Cause of Death app for CDC"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codeforatlanta/cause-of-death-app"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 36_983_694
+language = "JavaScript"
+license = { }
+name = "cause-of-death-app"
+node_id = "MDEwOlJlcG9zaXRvcnkzNjk4MzY5NA=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 5_956_025
+  login = "codeforatlanta"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjU5NTYwMjU="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

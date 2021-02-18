@@ -1,6 +1,46 @@
 code_url = "https://github.com/codeforatlanta/csv_geocoder"
 description = "add geocode info to csv file"
-git_branch = "master"
 git_url = "git://github.com/codeforatlanta/csv_geocoder.git"
-last_pushed_within = "over_a_year"
 name = "csv_geocoder"
+organization_name = "Code for Atlanta"
+
+[github]
+archived = false
+created_at = "2015-02-21T21:24:46Z"
+default_branch = "master"
+description = "add geocode info to csv file"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codeforatlanta/csv_geocoder"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 31_141_613
+language = "Ruby"
+license = { }
+name = "csv_geocoder"
+node_id = "MDEwOlJlcG9zaXRvcnkzMTE0MTYxMw=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 5_956_025
+  login = "codeforatlanta"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjU5NTYwMjU="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

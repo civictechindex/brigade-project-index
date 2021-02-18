@@ -1,15 +1,69 @@
 code_url = "https://github.com/codeforatlanta/future-greenspaces"
-git_branch = "master"
 git_url = "git://github.com/codeforatlanta/future-greenspaces.git"
-last_pushed_within = "over_a_year"
 name = "future-greenspaces"
+organization_name = "Code for Atlanta"
 topics = [
   "atl",
-  "green-spaces",
   "greenspace",
+  "green-spaces",
   "new-park",
   "parcel",
   "park",
   "population",
   "postgis"
 ]
+
+[github]
+archived = false
+created_at = "2018-03-08T00:02:22Z"
+default_branch = "master"
+description = { }
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codeforatlanta/future-greenspaces"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 124_310_346
+language = "Jupyter Notebook"
+name = "future-greenspaces"
+node_id = "MDEwOlJlcG9zaXRvcnkxMjQzMTAzNDY="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [
+  "atl",
+  "greenspace",
+  "green-spaces",
+  "new-park",
+  "parcel",
+  "park",
+  "population",
+  "postgis"
+]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 5_956_025
+  login = "codeforatlanta"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjU5NTYwMjU="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

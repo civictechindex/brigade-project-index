@@ -1,6 +1,46 @@
 code_url = "https://github.com/codeforatlanta/apd-crime-data"
 description = "Working with publicly available data on Atlanta Police Department's \"Crime Data Downloads\" site at http://www.atlantapd.org/crimedatadownloads.aspx"
-git_branch = "master"
 git_url = "git://github.com/codeforatlanta/apd-crime-data.git"
-last_pushed_within = "over_a_year"
 name = "apd-crime-data"
+organization_name = "Code for Atlanta"
+
+[github]
+archived = false
+created_at = "2015-08-19T19:06:54Z"
+default_branch = "master"
+description = "Working with publicly available data on Atlanta Police Department's \"Crime Data Downloads\" site at http://www.atlantapd.org/crimedatadownloads.aspx"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codeforatlanta/apd-crime-data"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 41_054_319
+language = "HTML"
+license = { }
+name = "apd-crime-data"
+node_id = "MDEwOlJlcG9zaXRvcnk0MTA1NDMxOQ=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 100
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 100
+
+  [github.owner]
+  gravatar_id = ""
+  id = 5_956_025
+  login = "codeforatlanta"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjU5NTYwMjU="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

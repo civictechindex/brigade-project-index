@@ -1,7 +1,52 @@
 code_url = "https://github.com/codeforatlanta/court.atlantaga.gov"
 description = "Atlanta's official court website. "
-git_branch = "gh-pages"
 git_url = "git://github.com/codeforatlanta/court.atlantaga.gov.git"
-last_pushed_within = "over_a_year"
 link_url = "http://court.atlantaga.gov/"
 name = "court.atlantaga.gov"
+organization_name = "Code for Atlanta"
+
+[github]
+archived = false
+created_at = "2015-02-10T00:47:45Z"
+default_branch = "gh-pages"
+description = "Atlanta's official court website. "
+disabled = false
+fork = true
+forks_within = 0
+full_name = "codeforatlanta/court.atlantaga.gov"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://court.atlantaga.gov/"
+id = 30_567_177
+language = "CSS"
+name = "court.atlantaga.gov"
+node_id = "MDEwOlJlcG9zaXRvcnkzMDU2NzE3Nw=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "other"
+  name = "Other"
+  node_id = "MDc6TGljZW5zZTA="
+  spdx_id = "NOASSERTION"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 5_956_025
+  login = "codeforatlanta"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjU5NTYwMjU="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

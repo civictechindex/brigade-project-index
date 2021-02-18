@@ -1,7 +1,47 @@
 code_url = "https://github.com/codeforatlanta/southdowntown"
 description = "Landing page for South Downtown Atlanta (WIP) [Code For Atlanta/Code Across Project]"
-git_branch = "master"
 git_url = "git://github.com/codeforatlanta/southdowntown.git"
-last_pushed_within = "over_a_year"
 link_url = "http://ericrav.github.io/southdowntown/"
 name = "southdowntown"
+organization_name = "Code for Atlanta"
+
+[github]
+archived = false
+created_at = "2015-04-02T22:35:39Z"
+default_branch = "master"
+description = "Landing page for South Downtown Atlanta (WIP) [Code For Atlanta/Code Across Project]"
+disabled = false
+fork = true
+forks_within = 0
+full_name = "codeforatlanta/southdowntown"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://ericrav.github.io/southdowntown/"
+id = 33_335_188
+language = "HTML"
+license = { }
+name = "southdowntown"
+node_id = "MDEwOlJlcG9zaXRvcnkzMzMzNTE4OA=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 5_956_025
+  login = "codeforatlanta"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjU5NTYwMjU="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

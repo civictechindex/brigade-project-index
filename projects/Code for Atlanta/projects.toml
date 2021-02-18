@@ -1,6 +1,51 @@
 code_url = "https://github.com/codeforatlanta/projects"
 description = "Project tracker for Code for Atlanta"
-git_branch = "master"
 git_url = "git://github.com/codeforatlanta/projects.git"
-last_pushed_within = "year"
 name = "projects"
+organization_name = "Code for Atlanta"
+
+[github]
+archived = false
+created_at = "2020-01-13T21:44:03Z"
+default_branch = "master"
+description = "Project tracker for Code for Atlanta"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "codeforatlanta/projects"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 233_699_809
+language = { }
+name = "projects"
+node_id = "MDEwOlJlcG9zaXRvcnkyMzM2OTk4MDk="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "year"
+watchers_within = 0
+
+  [github.license]
+  key = "bsd-3-clause"
+  name = 'BSD 3-Clause "New" or "Revised" License'
+  node_id = "MDc6TGljZW5zZTU="
+  spdx_id = "BSD-3-Clause"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 5_956_025
+  login = "codeforatlanta"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjU5NTYwMjU="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

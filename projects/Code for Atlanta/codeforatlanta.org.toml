@@ -1,6 +1,46 @@
 code_url = "https://github.com/codeforatlanta/codeforatlanta.org"
 description = "Static website"
-git_branch = "master"
 git_url = "git://github.com/codeforatlanta/codeforatlanta.org.git"
-last_pushed_within = "over_a_year"
 name = "codeforatlanta.org"
+organization_name = "Code for Atlanta"
+
+[github]
+archived = false
+created_at = "2013-11-16T18:29:45Z"
+default_branch = "master"
+description = "Static website"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "codeforatlanta/codeforatlanta.org"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 14_452_277
+language = "CSS"
+license = { }
+name = "codeforatlanta.org"
+node_id = "MDEwOlJlcG9zaXRvcnkxNDQ1MjI3Nw=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 5_956_025
+  login = "codeforatlanta"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjU5NTYwMjU="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

@@ -1,6 +1,46 @@
 code_url = "https://github.com/codeforatlanta/lead-water-testing-app"
 description = "Android app for testing lead levels in water"
-git_branch = "master"
 git_url = "git://github.com/codeforatlanta/lead-water-testing-app.git"
-last_pushed_within = "over_a_year"
 name = "lead-water-testing-app"
+organization_name = "Code for Atlanta"
+
+[github]
+archived = false
+created_at = "2017-01-10T01:44:34Z"
+default_branch = "master"
+description = "Android app for testing lead levels in water"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "codeforatlanta/lead-water-testing-app"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 78_486_557
+language = "Java"
+license = { }
+name = "lead-water-testing-app"
+node_id = "MDEwOlJlcG9zaXRvcnk3ODQ4NjU1Nw=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 5_956_025
+  login = "codeforatlanta"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjU5NTYwMjU="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

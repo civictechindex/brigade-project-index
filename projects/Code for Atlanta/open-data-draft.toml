@@ -1,5 +1,45 @@
 code_url = "https://github.com/codeforatlanta/open-data-draft"
-git_branch = "master"
 git_url = "git://github.com/codeforatlanta/open-data-draft.git"
-last_pushed_within = "over_a_year"
 name = "open-data-draft"
+organization_name = "Code for Atlanta"
+
+[github]
+archived = false
+created_at = "2016-05-10T04:23:58Z"
+default_branch = "master"
+description = { }
+disabled = false
+fork = false
+forks_within = 0
+full_name = "codeforatlanta/open-data-draft"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 58_429_594
+language = { }
+license = { }
+name = "open-data-draft"
+node_id = "MDEwOlJlcG9zaXRvcnk1ODQyOTU5NA=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 5_956_025
+  login = "codeforatlanta"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjU5NTYwMjU="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

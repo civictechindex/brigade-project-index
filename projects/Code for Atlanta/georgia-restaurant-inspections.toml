@@ -1,6 +1,46 @@
 code_url = "https://github.com/codeforatlanta/georgia-restaurant-inspections"
 description = "Scraping data off of the Georgia Department of Public Health site - https://dph.georgia.gov/environmental-health-inspections"
-git_branch = "master"
 git_url = "git://github.com/codeforatlanta/georgia-restaurant-inspections.git"
-last_pushed_within = "over_a_year"
 name = "georgia-restaurant-inspections"
+organization_name = "Code for Atlanta"
+
+[github]
+archived = false
+created_at = "2016-06-15T03:20:42Z"
+default_branch = "master"
+description = "Scraping data off of the Georgia Department of Public Health site - https://dph.georgia.gov/environmental-health-inspections"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codeforatlanta/georgia-restaurant-inspections"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 61_174_296
+language = "R"
+license = { }
+name = "georgia-restaurant-inspections"
+node_id = "MDEwOlJlcG9zaXRvcnk2MTE3NDI5Ng=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 5_956_025
+  login = "codeforatlanta"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjU5NTYwMjU="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
