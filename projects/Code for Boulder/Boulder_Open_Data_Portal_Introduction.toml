@@ -1,7 +1,47 @@
 code_url = "https://github.com/CodeForBoulder/Boulder_Open_Data_Portal_Introduction"
 description = 'Develop Prototype for the Boulder Open Data Web-Site/Portal - "Start Here Tutorial"'
-git_branch = "master"
 git_url = "git://github.com/CodeForBoulder/Boulder_Open_Data_Portal_Introduction.git"
-last_pushed_within = "year"
 link_url = "https://bouldercolorado.gov/open-data"
 name = "Boulder_Open_Data_Portal_Introduction"
+organization_name = "Code for Boulder"
+
+[github]
+archived = false
+created_at = "2019-01-15T03:04:52Z"
+default_branch = "master"
+description = 'Develop Prototype for the Boulder Open Data Web-Site/Portal - "Start Here Tutorial"'
+disabled = false
+fork = false
+forks_within = 0
+full_name = "CodeForBoulder/Boulder_Open_Data_Portal_Introduction"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "https://bouldercolorado.gov/open-data"
+id = 165_775_726
+language = "Jupyter Notebook"
+license = { }
+name = "Boulder_Open_Data_Portal_Introduction"
+node_id = "MDEwOlJlcG9zaXRvcnkxNjU3NzU3MjY="
+open_issues_within = 10
+private = false
+pushed_within = "month"
+stargazers_within = 10
+topics = [ ]
+updated_within = "year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_794_815
+  login = "CodeForBoulder"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjY3OTQ4MTU="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

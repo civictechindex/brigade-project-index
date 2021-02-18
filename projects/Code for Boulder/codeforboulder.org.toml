@@ -1,7 +1,47 @@
 code_url = "https://github.com/CodeForBoulder/codeforboulder.org"
 description = "Old repo for Code for Boulder site."
-git_branch = "gh-pages"
 git_url = "git://github.com/CodeForBoulder/codeforboulder.org.git"
-last_pushed_within = "over_a_year"
 link_url = "http://codeforboulder.org"
 name = "codeforboulder.org"
+organization_name = "Code for Boulder"
+
+[github]
+archived = false
+created_at = "2016-06-02T02:10:12Z"
+default_branch = "gh-pages"
+description = "Old repo for Code for Boulder site."
+disabled = false
+fork = false
+forks_within = 0
+full_name = "CodeForBoulder/codeforboulder.org"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = false
+homepage = "http://codeforboulder.org"
+id = 60_225_039
+language = "JavaScript"
+license = { }
+name = "codeforboulder.org"
+node_id = "MDEwOlJlcG9zaXRvcnk2MDIyNTAzOQ=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_794_815
+  login = "CodeForBoulder"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjY3OTQ4MTU="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

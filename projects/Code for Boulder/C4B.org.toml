@@ -1,6 +1,51 @@
 code_url = "https://github.com/CodeForBoulder/C4B.org"
 description = "http://www.codeforboulder.org/"
-git_branch = "master"
 git_url = "git://github.com/CodeForBoulder/C4B.org.git"
-last_pushed_within = "year"
 name = "C4B.org"
+organization_name = "Code for Boulder"
+
+[github]
+archived = false
+created_at = "2019-07-25T01:17:58Z"
+default_branch = "master"
+description = "http://www.codeforboulder.org/"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "CodeForBoulder/C4B.org"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 198_732_764
+language = "JavaScript"
+name = "C4B.org"
+node_id = "MDEwOlJlcG9zaXRvcnkxOTg3MzI3NjQ="
+open_issues_within = 10
+private = false
+pushed_within = "year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_794_815
+  login = "CodeForBoulder"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjY3OTQ4MTU="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

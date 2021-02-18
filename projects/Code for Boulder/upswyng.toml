@@ -1,16 +1,67 @@
 code_url = "https://github.com/CodeForBoulder/upswyng"
 description = "UpSwyng is a mobile-ready, digital directory of resources to assist the unhoused and at-risk communities of Boulder, CO"
-git_branch = "master"
 git_url = "git://github.com/CodeForBoulder/upswyng.git"
-last_pushed_within = "week"
 link_url = "https://beta.upswyng.org"
 name = "upswyng"
+organization_name = "Code for Boulder"
 topics = [
   "civic-hacking",
   "codeforamerica",
   "codeforboulder",
   "colorado",
-  "hacktoberfest",
   "sapper",
   "svelte"
 ]
+
+[github]
+archived = false
+created_at = "2019-02-23T18:08:23Z"
+default_branch = "master"
+description = "UpSwyng is a mobile-ready, digital directory of resources to assist the unhoused and at-risk communities of Boulder, CO"
+disabled = false
+fork = false
+forks_within = 100
+full_name = "CodeForBoulder/upswyng"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "https://beta.upswyng.org"
+id = 172_246_870
+language = "TypeScript"
+name = "upswyng"
+node_id = "MDEwOlJlcG9zaXRvcnkxNzIyNDY4NzA="
+open_issues_within = 100
+private = false
+pushed_within = "week"
+stargazers_within = 100
+topics = [
+  "civic-hacking",
+  "codeforamerica",
+  "codeforboulder",
+  "colorado",
+  "sapper",
+  "svelte"
+]
+updated_within = "week"
+watchers_within = 100
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_794_815
+  login = "CodeForBoulder"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjY3OTQ4MTU="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

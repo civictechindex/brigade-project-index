@@ -1,7 +1,47 @@
 code_url = "https://github.com/CodeForBoulder/CfB-Website-New"
 description = "Old Website Redesign for Code for Boulder Brigade"
-git_branch = "master"
 git_url = "git://github.com/CodeForBoulder/CfB-Website-New.git"
-last_pushed_within = "over_a_year"
 link_url = "http://codeforboulder.github.io/codeforboulder.org/"
 name = "CfB-Website-New"
+organization_name = "Code for Boulder"
+
+[github]
+archived = false
+created_at = "2016-04-07T02:10:10Z"
+default_branch = "master"
+description = "Old Website Redesign for Code for Boulder Brigade"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "CodeForBoulder/CfB-Website-New"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://codeforboulder.github.io/codeforboulder.org/"
+id = 55_655_889
+language = "JavaScript"
+license = { }
+name = "CfB-Website-New"
+node_id = "MDEwOlJlcG9zaXRvcnk1NTY1NTg4OQ=="
+open_issues_within = 100
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_794_815
+  login = "CodeForBoulder"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjY3OTQ4MTU="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
