@@ -1,5 +1,45 @@
 code_url = "https://github.com/Code-For-Chicago/crime-tips-app"
-git_branch = "master"
 git_url = "git://github.com/Code-For-Chicago/crime-tips-app.git"
-last_pushed_within = "over_a_year"
 name = "crime-tips-app"
+organization_name = "Code for Chicago"
+
+[github]
+archived = false
+created_at = "2018-03-22T18:50:38Z"
+default_branch = "master"
+description = { }
+disabled = false
+fork = false
+forks_within = 0
+full_name = "Code-For-Chicago/crime-tips-app"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 126_381_325
+language = "TypeScript"
+license = { }
+name = "crime-tips-app"
+node_id = "MDEwOlJlcG9zaXRvcnkxMjYzODEzMjU="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 31_515_336
+  login = "Code-For-Chicago"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjMxNTE1MzM2"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

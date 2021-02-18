@@ -1,7 +1,52 @@
 code_url = "https://github.com/Code-For-Chicago/air-light"
 description = "WordPress starter theme - designed to be minimal, lightweight and easy for all kinds of WordPress projects."
-git_branch = "master"
 git_url = "git://github.com/Code-For-Chicago/air-light.git"
-last_pushed_within = "year"
 link_url = "https://wordpress.org/themes/air-light/"
 name = "air-light"
+organization_name = "Code for Chicago"
+
+[github]
+archived = false
+created_at = "2020-02-21T01:10:32Z"
+default_branch = "master"
+description = "WordPress starter theme - designed to be minimal, lightweight and easy for all kinds of WordPress projects."
+disabled = false
+fork = true
+forks_within = 0
+full_name = "Code-For-Chicago/air-light"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "https://wordpress.org/themes/air-light/"
+id = 242_026_054
+language = { }
+name = "air-light"
+node_id = "MDEwOlJlcG9zaXRvcnkyNDIwMjYwNTQ="
+open_issues_within = 0
+private = false
+pushed_within = "year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "year"
+watchers_within = 0
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 31_515_336
+  login = "Code-For-Chicago"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjMxNTE1MzM2"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

@@ -1,7 +1,47 @@
 code_url = "https://github.com/Code-For-Chicago/FairMaps"
 description = "a webpage/mobile app that provides an atlas of gerrymandered districts across the U.S."
-git_branch = "master"
 git_url = "git://github.com/Code-For-Chicago/FairMaps.git"
-last_pushed_within = "over_a_year"
 link_url = "http://gardow.com/davebradlee/redistricting/launchapp.html"
 name = "FairMaps"
+organization_name = "Code for Chicago"
+
+[github]
+archived = false
+created_at = "2018-04-04T14:19:56Z"
+default_branch = "master"
+description = "a webpage/mobile app that provides an atlas of gerrymandered districts across the U.S."
+disabled = false
+fork = false
+forks_within = 0
+full_name = "Code-For-Chicago/FairMaps"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://gardow.com/davebradlee/redistricting/launchapp.html"
+id = 128_072_946
+language = { }
+license = { }
+name = "FairMaps"
+node_id = "MDEwOlJlcG9zaXRvcnkxMjgwNzI5NDY="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 31_515_336
+  login = "Code-For-Chicago"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjMxNTE1MzM2"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

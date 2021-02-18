@@ -1,7 +1,47 @@
 code_url = "https://github.com/Code-For-Chicago/Code-and-Coffee-Uptown-Brigade.github.io"
 description = "Jekyll site for uptown.codes"
-git_branch = "master"
 git_url = "git://github.com/Code-For-Chicago/Code-and-Coffee-Uptown-Brigade.github.io.git"
-last_pushed_within = "over_a_year"
 link_url = "http://uptown.codes"
 name = "Code-and-Coffee-Uptown-Brigade.github.io"
+organization_name = "Code for Chicago"
+
+[github]
+archived = false
+created_at = "2017-09-11T14:50:31Z"
+default_branch = "master"
+description = "Jekyll site for uptown.codes"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "Code-For-Chicago/Code-and-Coffee-Uptown-Brigade.github.io"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "http://uptown.codes"
+id = 103_148_803
+language = "HTML"
+license = { }
+name = "Code-and-Coffee-Uptown-Brigade.github.io"
+node_id = "MDEwOlJlcG9zaXRvcnkxMDMxNDg4MDM="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 31_515_336
+  login = "Code-For-Chicago"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjMxNTE1MzM2"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
