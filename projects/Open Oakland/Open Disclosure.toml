@@ -1,8 +1,35 @@
 code_url = "https://github.com/caciviclab/odca-jekyll"
 description = "Open Disclosure helps Oaklanders understand the role of money in their local politics."
-last_pushed_within = "week"
 link_url = "https://www.opendisclosure.io/"
 name = "Open Disclosure"
+organization_name = "Open Oakland"
+
+[github]
+archived = false
+created_at = "2018-02-05T07:12:43Z"
+default_branch = "master"
+description = "New ODCA front end"
+disabled = false
+fork = false
+forks_within = 100
+full_name = "caciviclab/odca-jekyll"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "https://www.opendisclosure.io"
+id = 120_268_376
+language = "HTML"
+name = "odca-jekyll"
+network_count = 13
+node_id = "MDEwOlJlcG9zaXRvcnkxMjAyNjgzNzY="
+open_issues_within = 100
+private = false
+pushed_within = "week"
+stargazers_within = 100
+subscribers_count = 23
+temp_clone_token = ""
 topics = [
   "california",
   "campaign-finance",
@@ -12,3 +39,32 @@ topics = [
   "jekyll-site",
   "openoakland"
 ]
+updated_within = "year"
+watchers_within = 100
+
+  [github.license]
+  key = "agpl-3.0"
+  name = "GNU Affero General Public License v3.0"
+  node_id = "MDc6TGljZW5zZTE="
+  spdx_id = "AGPL-3.0"
+
+  [github.organization]
+  gravatar_id = ""
+  id = 9_602_455
+  login = "caciviclab"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjk2MDI0NTU="
+  site_admin = false
+  type = "Organization"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 9_602_455
+  login = "caciviclab"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjk2MDI0NTU="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

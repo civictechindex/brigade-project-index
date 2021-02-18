@@ -1,8 +1,35 @@
 code_url = "https://github.com/openoakland/openbudgetoakland"
 description = "The mission of Open Budget Oakland is to transform the mountain of City budget data into an interactive display of charts and diagrams that is easy and even fun to use."
-last_pushed_within = "month"
 link_url = "http://openbudgetoakland.org"
 name = "Open Budget Oakland"
+organization_name = "Open Oakland"
+
+[github]
+archived = false
+created_at = "2013-01-26T23:52:36Z"
+default_branch = "master"
+description = "Visualizations of Oakland's budget data, and explanations about the budget process."
+disabled = false
+fork = false
+forks_within = 1_000
+full_name = "openoakland/openbudgetoakland"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "http://openbudgetoakland.org"
+id = 7_845_579
+language = "JavaScript"
+name = "openbudgetoakland"
+network_count = 129
+node_id = "MDEwOlJlcG9zaXRvcnk3ODQ1NTc5"
+open_issues_within = 100
+private = false
+pushed_within = "week"
+stargazers_within = 100
+subscribers_count = 28
+temp_clone_token = ""
 topics = [
   "budget",
   "civic-hacking",
@@ -12,3 +39,32 @@ topics = [
   "data-visualization",
   "openoakland"
 ]
+updated_within = "week"
+watchers_within = 100
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.organization]
+  gravatar_id = ""
+  id = 2_238_933
+  login = "openoakland"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjIyMzg5MzM="
+  site_admin = false
+  type = "Organization"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_238_933
+  login = "openoakland"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjIyMzg5MzM="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

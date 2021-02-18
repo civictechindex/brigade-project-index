@@ -1,8 +1,35 @@
 code_url = "https://github.com/openoakland/councilmatic"
 description = "We make the Oakland City Council meetings easily accessible to the citizens of Oakland."
-last_pushed_within = "year"
 link_url = "http://councilmatic.aws.openoakland.org/pc/"
 name = "Councilmatic"
+organization_name = "Open Oakland"
+
+[github]
+archived = false
+created_at = "2018-03-06T03:15:06Z"
+default_branch = "develop"
+description = "The councilmatic website for Open Oakland"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "openoakland/councilmatic"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 124_013_558
+language = "Python"
+name = "councilmatic"
+network_count = 6
+node_id = "MDEwOlJlcG9zaXRvcnkxMjQwMTM1NTg="
+open_issues_within = 100
+private = false
+pushed_within = "week"
+stargazers_within = 10
+subscribers_count = 14
+temp_clone_token = ""
 topics = [
   "city-council",
   "city-council-data",
@@ -11,3 +38,32 @@ topics = [
   "oakland",
   "openoakland"
 ]
+updated_within = "month"
+watchers_within = 10
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.organization]
+  gravatar_id = ""
+  id = 2_238_933
+  login = "openoakland"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjIyMzg5MzM="
+  site_admin = false
+  type = "Organization"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_238_933
+  login = "openoakland"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjIyMzg5MzM="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

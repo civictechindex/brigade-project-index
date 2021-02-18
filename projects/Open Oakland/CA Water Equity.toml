@@ -1,8 +1,36 @@
 code_url = "https://github.com/openoakland/clean-water"
 description = "A reporting tool to support safe drinking water information which will help the CWC in their advocacy work to provide clean water to disadvantaged communities."
-last_pushed_within = "year"
 link_url = "https://aaronhans.github.io/community-water-center/"
 name = "CA Water Equity"
+organization_name = "Open Oakland"
+
+[github]
+archived = false
+created_at = "2019-07-17T01:52:51Z"
+default_branch = "master"
+description = " The California Drinking Water project provides queries, charts, and maps to show which water systems have current and persistent drinking water contamination violations. Partnering with the State Water Board and the Community Water Center non-profit organization, Open Oakland volunteers are developing tool features using the State’s bi-monthly Human Right to Water water quality reporting data"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "openoakland/clean-water"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "http://water.openoakland.org/"
+id = 197_295_299
+language = "JavaScript"
+license = { }
+name = "clean-water"
+network_count = 1
+node_id = "MDEwOlJlcG9zaXRvcnkxOTcyOTUyOTk="
+open_issues_within = 100
+private = false
+pushed_within = "year"
+stargazers_within = 10
+subscribers_count = 3
+temp_clone_token = ""
 topics = [
   "activists",
   "code-for-america",
@@ -10,3 +38,26 @@ topics = [
   "openoakland",
   "water"
 ]
+updated_within = "year"
+watchers_within = 10
+
+  [github.organization]
+  gravatar_id = ""
+  id = 2_238_933
+  login = "openoakland"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjIyMzg5MzM="
+  site_admin = false
+  type = "Organization"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_238_933
+  login = "openoakland"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjIyMzg5MzM="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
