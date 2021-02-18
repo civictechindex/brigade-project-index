@@ -1,7 +1,52 @@
 code_url = "https://github.com/openkawasaki/takeaway"
 description = "みんなでテイクアウトMAP <かわさき版>"
-git_branch = "master"
 git_url = "git://github.com/openkawasaki/takeaway.git"
-last_pushed_within = "year"
 link_url = "https://openkawasaki.github.io/takeaway/"
 name = "takeaway"
+organization_name = "Code for Kawasaki"
+
+[github]
+archived = false
+created_at = "2020-05-04T09:24:45Z"
+default_branch = "master"
+description = "みんなでテイクアウトMAP <かわさき版>"
+disabled = false
+fork = true
+forks_within = 0
+full_name = "openkawasaki/takeaway"
+has_downloads = true
+has_issues = false
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "https://openkawasaki.github.io/takeaway/"
+id = 261_130_683
+language = "JavaScript"
+name = "takeaway"
+node_id = "MDEwOlJlcG9zaXRvcnkyNjExMzA2ODM="
+open_issues_within = 0
+private = false
+pushed_within = "year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "year"
+watchers_within = 0
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 7_857_102
+  login = "openkawasaki"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjc4NTcxMDI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

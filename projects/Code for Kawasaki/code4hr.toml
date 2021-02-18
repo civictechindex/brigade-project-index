@@ -1,7 +1,47 @@
 code_url = "https://github.com/openkawasaki/code4hr"
 description = "Code for Hampton Roads Website"
-git_branch = "gh-pages"
 git_url = "git://github.com/openkawasaki/code4hr.git"
-last_pushed_within = "over_a_year"
 link_url = "http://code4hr.org"
 name = "code4hr"
+organization_name = "Code for Kawasaki"
+
+[github]
+archived = false
+created_at = "2016-06-18T06:02:56Z"
+default_branch = "gh-pages"
+description = "Code for Hampton Roads Website"
+disabled = false
+fork = true
+forks_within = 0
+full_name = "openkawasaki/code4hr"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = false
+homepage = "http://code4hr.org"
+id = 61_419_489
+language = "HTML"
+license = { }
+name = "code4hr"
+node_id = "MDEwOlJlcG9zaXRvcnk2MTQxOTQ4OQ=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 7_857_102
+  login = "openkawasaki"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjc4NTcxMDI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

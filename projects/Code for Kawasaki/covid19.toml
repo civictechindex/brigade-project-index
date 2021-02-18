@@ -1,7 +1,52 @@
 code_url = "https://github.com/openkawasaki/covid19"
 description = "神奈川県 新型コロナウイルス対策サイト"
-git_branch = "dev-kanagawa"
 git_url = "git://github.com/openkawasaki/covid19.git"
-last_pushed_within = "year"
 link_url = "https://stopcovid19.kanagawa.work/"
 name = "covid19"
+organization_name = "Code for Kawasaki"
+
+[github]
+archived = false
+created_at = "2020-03-05T23:00:01Z"
+default_branch = "dev-kanagawa"
+description = "神奈川県 新型コロナウイルス対策サイト"
+disabled = false
+fork = true
+forks_within = 10
+full_name = "openkawasaki/covid19"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "https://stopcovid19.kanagawa.work/"
+id = 245_284_835
+language = "Vue"
+name = "covid19"
+node_id = "MDEwOlJlcG9zaXRvcnkyNDUyODQ4MzU="
+open_issues_within = 10
+private = false
+pushed_within = "year"
+stargazers_within = 100
+topics = [ ]
+updated_within = "year"
+watchers_within = 100
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 7_857_102
+  login = "openkawasaki"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjc4NTcxMDI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

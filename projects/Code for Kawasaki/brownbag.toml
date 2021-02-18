@@ -1,6 +1,51 @@
 code_url = "https://github.com/openkawasaki/brownbag"
 description = "【OBSOLETE】かわさき BENTO MAP -> https://github.com/openkawasaki/brownbag-django"
-git_branch = "master"
 git_url = "git://github.com/openkawasaki/brownbag.git"
-last_pushed_within = "year"
 name = "brownbag"
+organization_name = "Code for Kawasaki"
+
+[github]
+archived = false
+created_at = "2020-04-07T15:45:03Z"
+default_branch = "master"
+description = "【OBSOLETE】かわさき BENTO MAP -> https://github.com/openkawasaki/brownbag-django"
+disabled = false
+fork = true
+forks_within = 10
+full_name = "openkawasaki/brownbag"
+has_downloads = true
+has_issues = false
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 253_839_818
+language = "HTML"
+name = "brownbag"
+node_id = "MDEwOlJlcG9zaXRvcnkyNTM4Mzk4MTg="
+open_issues_within = 0
+private = false
+pushed_within = "year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "year"
+watchers_within = 0
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 7_857_102
+  login = "openkawasaki"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjc4NTcxMDI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

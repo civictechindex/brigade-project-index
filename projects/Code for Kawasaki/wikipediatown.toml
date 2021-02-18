@@ -1,6 +1,51 @@
 code_url = "https://github.com/openkawasaki/wikipediatown"
 description = "ウィキペディア タウンを作成するプロジェクト"
-git_branch = "master"
 git_url = "git://github.com/openkawasaki/wikipediatown.git"
-last_pushed_within = "over_a_year"
 name = "wikipediatown"
+organization_name = "Code for Kawasaki"
+
+[github]
+archived = false
+created_at = "2015-04-11T07:17:37Z"
+default_branch = "master"
+description = "ウィキペディア タウンを作成するプロジェクト"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "openkawasaki/wikipediatown"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 33_766_658
+language = { }
+name = "wikipediatown"
+node_id = "MDEwOlJlcG9zaXRvcnkzMzc2NjY1OA=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "cc0-1.0"
+  name = "Creative Commons Zero v1.0 Universal"
+  node_id = "MDc6TGljZW5zZTY="
+  spdx_id = "CC0-1.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 7_857_102
+  login = "openkawasaki"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjc4NTcxMDI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
