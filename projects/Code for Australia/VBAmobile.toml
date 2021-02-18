@@ -1,6 +1,46 @@
 code_url = "https://github.com/CodeforAustralia/VBAmobile"
 description = "Victorian Biodiversity Atlas data collection tool for mobile use."
-git_branch = "master"
 git_url = "git://github.com/CodeforAustralia/VBAmobile.git"
-last_pushed_within = "over_a_year"
 name = "VBAmobile"
+organization_name = "Code for Australia"
+
+[github]
+archived = false
+created_at = "2016-09-21T05:53:48Z"
+default_branch = "master"
+description = "Victorian Biodiversity Atlas data collection tool for mobile use."
+disabled = false
+fork = false
+forks_within = 10
+full_name = "CodeforAustralia/VBAmobile"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 68_784_680
+language = "JavaScript"
+license = { }
+name = "VBAmobile"
+node_id = "MDEwOlJlcG9zaXRvcnk2ODc4NDY4MA=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_573_081
+  login = "CodeforAustralia"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI1NzMwODE="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

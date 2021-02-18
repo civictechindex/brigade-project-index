@@ -1,6 +1,51 @@
 code_url = "https://github.com/CodeforAustralia/opengovernment"
 description = "Open Government theme developed for Involve/UK Open Government Network"
-git_branch = "master"
 git_url = "git://github.com/CodeforAustralia/opengovernment.git"
-last_pushed_within = "over_a_year"
 name = "opengovernment"
+organization_name = "Code for Australia"
+
+[github]
+archived = false
+created_at = "2015-12-14T01:03:12Z"
+default_branch = "master"
+description = "Open Government theme developed for Involve/UK Open Government Network"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "CodeforAustralia/opengovernment"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 47_944_265
+language = "PHP"
+name = "opengovernment"
+node_id = "MDEwOlJlcG9zaXRvcnk0Nzk0NDI2NQ=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "year"
+watchers_within = 0
+
+  [github.license]
+  key = "gpl-2.0"
+  name = "GNU General Public License v2.0"
+  node_id = "MDc6TGljZW5zZTg="
+  spdx_id = "GPL-2.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_573_081
+  login = "CodeforAustralia"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI1NzMwODE="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

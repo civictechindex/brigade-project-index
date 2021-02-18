@@ -1,6 +1,46 @@
 code_url = "https://github.com/CodeforAustralia/online-pleas"
 description = "Online Pleas is an online tool to allow people who need to attend court for a minor offence, to plead guilty. The tool got developed after finding that over 60% of people attending court for a minor offence are planning to, and plead guilty. "
-git_branch = "master"
 git_url = "git://github.com/CodeforAustralia/online-pleas.git"
-last_pushed_within = "over_a_year"
 name = "online-pleas"
+organization_name = "Code for Australia"
+
+[github]
+archived = false
+created_at = "2016-02-26T01:28:55Z"
+default_branch = "master"
+description = "Online Pleas is an online tool to allow people who need to attend court for a minor offence, to plead guilty. The tool got developed after finding that over 60% of people attending court for a minor offence are planning to, and plead guilty. "
+disabled = false
+fork = false
+forks_within = 0
+full_name = "CodeforAustralia/online-pleas"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 52_569_551
+language = "JavaScript"
+license = { }
+name = "online-pleas"
+node_id = "MDEwOlJlcG9zaXRvcnk1MjU2OTU1MQ=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_573_081
+  login = "CodeforAustralia"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI1NzMwODE="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

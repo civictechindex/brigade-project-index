@@ -1,6 +1,46 @@
 code_url = "https://github.com/CodeforAustralia/oeh-blog"
 description = "Blog for Code for Australia fellows at the NSW Office for Environment and Heritage"
-git_branch = "gh-pages"
 git_url = "git://github.com/CodeforAustralia/oeh-blog.git"
-last_pushed_within = "over_a_year"
 name = "oeh-blog"
+organization_name = "Code for Australia"
+
+[github]
+archived = false
+created_at = "2016-02-08T04:19:49Z"
+default_branch = "gh-pages"
+description = "Blog for Code for Australia fellows at the NSW Office for Environment and Heritage"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "CodeforAustralia/oeh-blog"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 51_278_944
+language = "CSS"
+license = { }
+name = "oeh-blog"
+node_id = "MDEwOlJlcG9zaXRvcnk1MTI3ODk0NA=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_573_081
+  login = "CodeforAustralia"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI1NzMwODE="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

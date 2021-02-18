@@ -1,6 +1,46 @@
 code_url = "https://github.com/CodeforAustralia/heritage-near-me"
 description = "🔎 Heritage Near Me web app prototype "
-git_branch = "master"
 git_url = "git://github.com/CodeforAustralia/heritage-near-me.git"
-last_pushed_within = "over_a_year"
 name = "heritage-near-me"
+organization_name = "Code for Australia"
+
+[github]
+archived = false
+created_at = "2016-01-17T22:50:49Z"
+default_branch = "master"
+description = "🔎 Heritage Near Me web app prototype "
+disabled = false
+fork = false
+forks_within = 10
+full_name = "CodeforAustralia/heritage-near-me"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 49_839_445
+language = "PLpgSQL"
+license = { }
+name = "heritage-near-me"
+node_id = "MDEwOlJlcG9zaXRvcnk0OTgzOTQ0NQ=="
+open_issues_within = 100
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 100
+topics = [ ]
+updated_within = "year"
+watchers_within = 100
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_573_081
+  login = "CodeforAustralia"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI1NzMwODE="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

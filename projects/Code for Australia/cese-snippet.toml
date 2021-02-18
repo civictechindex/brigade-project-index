@@ -1,8 +1,53 @@
 code_url = "https://github.com/CodeforAustralia/cese-snippet"
 description = "Snippet is a web application that allows educators to view or publish insights about program applications in NSW schools. It's currently an Alpha Prototype."
-git_branch = "master"
 git_url = "git://github.com/CodeforAustralia/cese-snippet.git"
-last_pushed_within = "over_a_year"
 link_url = "https://nsw-education-snippet.firebaseapp.com/"
 name = "cese-snippet"
+organization_name = "Code for Australia"
 topics = [ "civictech", "javascript", "react" ]
+
+[github]
+archived = false
+created_at = "2018-02-12T02:07:19Z"
+default_branch = "master"
+description = "Snippet is a web application that allows educators to view or publish insights about program applications in NSW schools. It's currently an Alpha Prototype."
+disabled = false
+fork = false
+forks_within = 10
+full_name = "CodeforAustralia/cese-snippet"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = false
+homepage = "https://nsw-education-snippet.firebaseapp.com/"
+id = 121_188_738
+language = "JavaScript"
+name = "cese-snippet"
+node_id = "MDEwOlJlcG9zaXRvcnkxMjExODg3Mzg="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ "civictech", "javascript", "react" ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_573_081
+  login = "CodeforAustralia"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI1NzMwODE="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

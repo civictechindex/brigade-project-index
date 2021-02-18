@@ -1,5 +1,45 @@
 code_url = "https://github.com/CodeforAustralia/design-system"
-git_branch = "master"
 git_url = "git://github.com/CodeforAustralia/design-system.git"
-last_pushed_within = "over_a_year"
 name = "design-system"
+organization_name = "Code for Australia"
+
+[github]
+archived = false
+created_at = "2018-10-09T11:10:53Z"
+default_branch = "master"
+description = { }
+disabled = false
+fork = true
+forks_within = 0
+full_name = "CodeforAustralia/design-system"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 152_237_327
+language = "HTML"
+license = { }
+name = "design-system"
+node_id = "MDEwOlJlcG9zaXRvcnkxNTIyMzczMjc="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_573_081
+  login = "CodeforAustralia"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI1NzMwODE="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

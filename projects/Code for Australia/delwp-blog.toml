@@ -1,6 +1,46 @@
 code_url = "https://github.com/CodeforAustralia/delwp-blog"
 description = "DELWP fellowship team blog"
-git_branch = "master"
 git_url = "git://github.com/CodeforAustralia/delwp-blog.git"
-last_pushed_within = "over_a_year"
 name = "delwp-blog"
+organization_name = "Code for Australia"
+
+[github]
+archived = false
+created_at = "2016-05-16T06:40:45Z"
+default_branch = "master"
+description = "DELWP fellowship team blog"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "CodeforAustralia/delwp-blog"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 58_909_648
+language = { }
+license = { }
+name = "delwp-blog"
+node_id = "MDEwOlJlcG9zaXRvcnk1ODkwOTY0OA=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_573_081
+  login = "CodeforAustralia"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI1NzMwODE="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

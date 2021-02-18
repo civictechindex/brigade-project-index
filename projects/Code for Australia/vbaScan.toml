@@ -1,6 +1,46 @@
 code_url = "https://github.com/CodeforAustralia/vbaScan"
 description = "Browse the Victorian Bio Atlas records while on the move."
-git_branch = "master"
 git_url = "git://github.com/CodeforAustralia/vbaScan.git"
-last_pushed_within = "over_a_year"
 name = "vbaScan"
+organization_name = "Code for Australia"
+
+[github]
+archived = false
+created_at = "2017-03-14T00:25:21Z"
+default_branch = "master"
+description = "Browse the Victorian Bio Atlas records while on the move."
+disabled = false
+fork = false
+forks_within = 0
+full_name = "CodeforAustralia/vbaScan"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 84_887_580
+language = "JavaScript"
+license = { }
+name = "vbaScan"
+node_id = "MDEwOlJlcG9zaXRvcnk4NDg4NzU4MA=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_573_081
+  login = "CodeforAustralia"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI1NzMwODE="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

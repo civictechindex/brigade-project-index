@@ -1,6 +1,46 @@
 code_url = "https://github.com/CodeforAustralia/homepage-redesign"
 description = "Community Redesign of the Code for Australia Homepage"
-git_branch = "master"
 git_url = "git://github.com/CodeforAustralia/homepage-redesign.git"
-last_pushed_within = "over_a_year"
 name = "homepage-redesign"
+organization_name = "Code for Australia"
+
+[github]
+archived = false
+created_at = "2014-07-16T12:12:13Z"
+default_branch = "master"
+description = "Community Redesign of the Code for Australia Homepage"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "CodeforAustralia/homepage-redesign"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 21_899_275
+language = { }
+license = { }
+name = "homepage-redesign"
+node_id = "MDEwOlJlcG9zaXRvcnkyMTg5OTI3NQ=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_573_081
+  login = "CodeforAustralia"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI1NzMwODE="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

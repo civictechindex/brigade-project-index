@@ -1,6 +1,46 @@
 code_url = "https://github.com/CodeforAustralia/welcome-dinner"
 description = "Facilitating community dinners that welcome new migrants "
-git_branch = "master"
 git_url = "git://github.com/CodeforAustralia/welcome-dinner.git"
-last_pushed_within = "over_a_year"
 name = "welcome-dinner"
+organization_name = "Code for Australia"
+
+[github]
+archived = false
+created_at = "2017-05-11T12:12:17Z"
+default_branch = "master"
+description = "Facilitating community dinners that welcome new migrants "
+disabled = false
+fork = false
+forks_within = 0
+full_name = "CodeforAustralia/welcome-dinner"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 90_975_286
+language = "Ruby"
+license = { }
+name = "welcome-dinner"
+node_id = "MDEwOlJlcG9zaXRvcnk5MDk3NTI4Ng=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_573_081
+  login = "CodeforAustralia"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI1NzMwODE="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

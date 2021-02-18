@@ -1,6 +1,46 @@
 code_url = "https://github.com/CodeforAustralia/cfa-applications-bot"
 description = "A bot that monitors Fellowship applications"
-git_branch = "master"
 git_url = "git://github.com/CodeforAustralia/cfa-applications-bot.git"
-last_pushed_within = "over_a_year"
 name = "cfa-applications-bot"
+organization_name = "Code for Australia"
+
+[github]
+archived = false
+created_at = "2017-05-29T01:45:31Z"
+default_branch = "master"
+description = "A bot that monitors Fellowship applications"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "CodeforAustralia/cfa-applications-bot"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 92_698_510
+language = { }
+license = { }
+name = "cfa-applications-bot"
+node_id = "MDEwOlJlcG9zaXRvcnk5MjY5ODUxMA=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_573_081
+  login = "CodeforAustralia"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI1NzMwODE="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

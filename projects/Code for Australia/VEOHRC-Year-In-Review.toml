@@ -1,6 +1,46 @@
 code_url = "https://github.com/CodeforAustralia/VEOHRC-Year-In-Review"
 description = "Year in Review Microsite for VEOHRC"
-git_branch = "master"
 git_url = "git://github.com/CodeforAustralia/VEOHRC-Year-In-Review.git"
-last_pushed_within = "over_a_year"
 name = "VEOHRC-Year-In-Review"
+organization_name = "Code for Australia"
+
+[github]
+archived = false
+created_at = "2019-01-18T03:54:17Z"
+default_branch = "master"
+description = "Year in Review Microsite for VEOHRC"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "CodeforAustralia/VEOHRC-Year-In-Review"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 166_340_677
+language = "HTML"
+license = { }
+name = "VEOHRC-Year-In-Review"
+node_id = "MDEwOlJlcG9zaXRvcnkxNjYzNDA2Nzc="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_573_081
+  login = "CodeforAustralia"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI1NzMwODE="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

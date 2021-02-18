@@ -1,7 +1,47 @@
 code_url = "https://github.com/CodeforAustralia/legal-aid-checker"
 description = "This is an experiment to test what information is most important to people trying to solve a legal matter and how to best match them with services in Victoria, Australia"
-git_branch = "master"
 git_url = "git://github.com/CodeforAustralia/legal-aid-checker.git"
-last_pushed_within = "over_a_year"
 link_url = "http://bit.ly/la-checker"
 name = "legal-aid-checker"
+organization_name = "Code for Australia"
+
+[github]
+archived = false
+created_at = "2016-10-03T02:32:51Z"
+default_branch = "master"
+description = "This is an experiment to test what information is most important to people trying to solve a legal matter and how to best match them with services in Victoria, Australia"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "CodeforAustralia/legal-aid-checker"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://bit.ly/la-checker"
+id = 69_835_521
+language = "PHP"
+license = { }
+name = "legal-aid-checker"
+node_id = "MDEwOlJlcG9zaXRvcnk2OTgzNTUyMQ=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_573_081
+  login = "CodeforAustralia"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI1NzMwODE="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

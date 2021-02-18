@@ -1,7 +1,52 @@
 code_url = "https://github.com/CodeforAustralia/transpochoices"
 description = "Make the best choice to get across town!"
-git_branch = "master"
 git_url = "git://github.com/CodeforAustralia/transpochoices.git"
-last_pushed_within = "over_a_year"
 link_url = "http://codeforamerica.org/?cfa_project=transportation-choices"
 name = "transpochoices"
+organization_name = "Code for Australia"
+
+[github]
+archived = false
+created_at = "2014-04-15T04:30:13Z"
+default_branch = "master"
+description = "Make the best choice to get across town!"
+disabled = false
+fork = true
+forks_within = 0
+full_name = "CodeforAustralia/transpochoices"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://codeforamerica.org/?cfa_project=transportation-choices"
+id = 18_787_438
+language = "JavaScript"
+name = "transpochoices"
+node_id = "MDEwOlJlcG9zaXRvcnkxODc4NzQzOA=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "bsd-3-clause"
+  name = 'BSD 3-Clause "New" or "Revised" License'
+  node_id = "MDc6TGljZW5zZTU="
+  spdx_id = "BSD-3-Clause"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_573_081
+  login = "CodeforAustralia"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI1NzMwODE="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

@@ -1,7 +1,52 @@
 code_url = "https://github.com/CodeforAustralia/sms-notification-reminder"
 description = "This is a prototype to help automate the process of sending text reminders to people. It connects with Outlook's API and MessageMedia text service. "
-git_branch = "master"
 git_url = "git://github.com/CodeforAustralia/sms-notification-reminder.git"
-last_pushed_within = "over_a_year"
 link_url = "http://bit.ly/sms-ns"
 name = "sms-notification-reminder"
+organization_name = "Code for Australia"
+
+[github]
+archived = false
+created_at = "2016-10-03T01:37:39Z"
+default_branch = "master"
+description = "This is a prototype to help automate the process of sending text reminders to people. It connects with Outlook's API and MessageMedia text service. "
+disabled = false
+fork = false
+forks_within = 10
+full_name = "CodeforAustralia/sms-notification-reminder"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://bit.ly/sms-ns"
+id = 69_833_090
+language = "PHP"
+name = "sms-notification-reminder"
+node_id = "MDEwOlJlcG9zaXRvcnk2OTgzMzA5MA=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "other"
+  name = "Other"
+  node_id = "MDc6TGljZW5zZTA="
+  spdx_id = "NOASSERTION"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_573_081
+  login = "CodeforAustralia"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI1NzMwODE="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
