@@ -1,7 +1,52 @@
 code_url = "https://github.com/Code4PuertoRico/Code4PR"
 description = "Repositorio central de Code 4 Puerto Rico"
-git_branch = "main"
 git_url = "git://github.com/Code4PuertoRico/Code4PR.git"
-last_pushed_within = "year"
 name = "Code4PR"
+organization_name = "Code for Puerto Rico"
 topics = [ "puerto-rico" ]
+
+[github]
+archived = false
+created_at = "2019-12-29T20:52:04Z"
+default_branch = "main"
+description = "Repositorio central de Code 4 Puerto Rico"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "Code4PuertoRico/Code4PR"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 230_802_035
+language = { }
+name = "Code4PR"
+node_id = "MDEwOlJlcG9zaXRvcnkyMzA4MDIwMzU="
+open_issues_within = 100
+private = false
+pushed_within = "year"
+stargazers_within = 10
+topics = [ "puerto-rico" ]
+updated_within = "year"
+watchers_within = 10
+
+  [github.license]
+  key = "cc0-1.0"
+  name = "Creative Commons Zero v1.0 Universal"
+  node_id = "MDc6TGljZW5zZTY="
+  spdx_id = "CC0-1.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_626_422
+  login = "Code4PuertoRico"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjY2MjY0MjI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

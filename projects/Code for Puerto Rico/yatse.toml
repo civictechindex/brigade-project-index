@@ -1,7 +1,52 @@
 code_url = "https://github.com/Code4PuertoRico/yatse"
 description = "Yet Another Text Search Engine is a template to help create static sites with Lunr.js search."
-git_branch = "master"
 git_url = "git://github.com/Code4PuertoRico/yatse.git"
-last_pushed_within = "year"
 name = "yatse"
+organization_name = "Code for Puerto Rico"
 topics = [ "lunrjs", "nextjs", "reactjs", "search" ]
+
+[github]
+archived = false
+created_at = "2019-08-10T01:05:11Z"
+default_branch = "master"
+description = "Yet Another Text Search Engine is a template to help create static sites with Lunr.js search."
+disabled = false
+fork = false
+forks_within = 0
+full_name = "Code4PuertoRico/yatse"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = false
+homepage = ""
+id = 201_561_102
+language = "JavaScript"
+name = "yatse"
+node_id = "MDEwOlJlcG9zaXRvcnkyMDE1NjExMDI="
+open_issues_within = 10
+private = false
+pushed_within = "year"
+stargazers_within = 10
+topics = [ "lunrjs", "nextjs", "reactjs", "search" ]
+updated_within = "year"
+watchers_within = 10
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_626_422
+  login = "Code4PuertoRico"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjY2MjY0MjI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

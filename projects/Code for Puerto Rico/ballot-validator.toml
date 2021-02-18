@@ -1,6 +1,51 @@
 code_url = "https://github.com/Code4PuertoRico/ballot-validator"
 description = "Javascript package to help validate Puerto Rico ballots."
-git_branch = "master"
 git_url = "git://github.com/Code4PuertoRico/ballot-validator.git"
-last_pushed_within = "year"
 name = "ballot-validator"
+organization_name = "Code for Puerto Rico"
+
+[github]
+archived = false
+created_at = "2020-09-08T20:20:33Z"
+default_branch = "master"
+description = "Javascript package to help validate Puerto Rico ballots."
+disabled = false
+fork = false
+forks_within = 0
+full_name = "Code4PuertoRico/ballot-validator"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 293_918_465
+language = { }
+name = "ballot-validator"
+node_id = "MDEwOlJlcG9zaXRvcnkyOTM5MTg0NjU="
+open_issues_within = 0
+private = false
+pushed_within = "year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "year"
+watchers_within = 10
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_626_422
+  login = "Code4PuertoRico"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjY2MjY0MjI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

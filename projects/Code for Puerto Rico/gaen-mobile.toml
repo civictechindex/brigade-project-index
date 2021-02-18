@@ -1,6 +1,51 @@
 code_url = "https://github.com/Code4PuertoRico/gaen-mobile"
 description = "The mobile application supporting the GAEN Exposure Notifications protocol."
-git_branch = "develop"
 git_url = "git://github.com/Code4PuertoRico/gaen-mobile.git"
-last_pushed_within = "year"
 name = "gaen-mobile"
+organization_name = "Code for Puerto Rico"
+
+[github]
+archived = false
+created_at = "2020-09-11T16:37:49Z"
+default_branch = "develop"
+description = "The mobile application supporting the GAEN Exposure Notifications protocol."
+disabled = false
+fork = true
+forks_within = 0
+full_name = "Code4PuertoRico/gaen-mobile"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 294_748_050
+language = "TypeScript"
+name = "gaen-mobile"
+node_id = "MDEwOlJlcG9zaXRvcnkyOTQ3NDgwNTA="
+open_issues_within = 0
+private = false
+pushed_within = "year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "year"
+watchers_within = 0
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_626_422
+  login = "Code4PuertoRico"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjY2MjY0MjI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

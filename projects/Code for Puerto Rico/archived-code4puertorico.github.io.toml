@@ -1,0 +1,52 @@
+code_url = "https://github.com/Code4PuertoRico/archived-code4puertorico.github.io"
+description = "Website for Puerto Rico's weekly open gov hack night"
+git_url = "git://github.com/Code4PuertoRico/archived-code4puertorico.github.io.git"
+link_url = "http://code4puertorico.org"
+name = "archived-code4puertorico.github.io"
+organization_name = "Code for Puerto Rico"
+
+[github]
+archived = false
+created_at = "2014-02-10T19:39:12Z"
+default_branch = "master"
+description = "Website for Puerto Rico's weekly open gov hack night"
+disabled = false
+fork = true
+forks_within = 10
+full_name = "Code4PuertoRico/archived-code4puertorico.github.io"
+has_downloads = true
+has_issues = false
+has_pages = true
+has_projects = true
+has_wiki = false
+homepage = "http://code4puertorico.org"
+id = 16_706_876
+language = "JavaScript"
+name = "archived-code4puertorico.github.io"
+node_id = "MDEwOlJlcG9zaXRvcnkxNjcwNjg3Ng=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "month"
+watchers_within = 10
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_626_422
+  login = "Code4PuertoRico"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjY2MjY0MjI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

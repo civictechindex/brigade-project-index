@@ -1,7 +1,52 @@
 code_url = "https://github.com/Code4PuertoRico/openstates"
 description = "source for Open States scrapers"
-git_branch = "master"
 git_url = "git://github.com/Code4PuertoRico/openstates.git"
-last_pushed_within = "year"
 link_url = "https://openstates.org"
 name = "openstates"
+organization_name = "Code for Puerto Rico"
+
+[github]
+archived = false
+created_at = "2020-02-05T18:58:20Z"
+default_branch = "master"
+description = "source for Open States scrapers"
+disabled = false
+fork = true
+forks_within = 0
+full_name = "Code4PuertoRico/openstates"
+has_downloads = false
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = false
+homepage = "https://openstates.org"
+id = 238_525_380
+language = { }
+name = "openstates"
+node_id = "MDEwOlJlcG9zaXRvcnkyMzg1MjUzODA="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "gpl-3.0"
+  name = "GNU General Public License v3.0"
+  node_id = "MDc6TGljZW5zZTk="
+  spdx_id = "GPL-3.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_626_422
+  login = "Code4PuertoRico"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjY2MjY0MjI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

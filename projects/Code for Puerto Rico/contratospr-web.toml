@@ -1,10 +1,9 @@
 code_url = "https://github.com/Code4PuertoRico/contratospr-web"
 description = "Frontend for contratospr.com"
-git_branch = "master"
 git_url = "git://github.com/Code4PuertoRico/contratospr-web.git"
-last_pushed_within = "week"
 link_url = "https://contratospr.com"
 name = "contratospr-web"
+organization_name = "Code for Puerto Rico"
 topics = [
   "civic-tech",
   "government",
@@ -12,3 +11,50 @@ topics = [
   "open-data",
   "puerto-rico"
 ]
+
+[github]
+archived = false
+created_at = "2019-02-13T03:44:23Z"
+default_branch = "main"
+description = "Frontend for contratospr.com"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "Code4PuertoRico/contratospr-web"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "https://contratospr.com"
+id = 170_435_496
+language = "JavaScript"
+license = { }
+name = "contratospr-web"
+node_id = "MDEwOlJlcG9zaXRvcnkxNzA0MzU0OTY="
+open_issues_within = 10
+private = false
+pushed_within = "month"
+stargazers_within = 10
+topics = [
+  "civic-tech",
+  "government",
+  "government-data",
+  "open-data",
+  "puerto-rico"
+]
+updated_within = "month"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_626_422
+  login = "Code4PuertoRico"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjY2MjY0MjI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

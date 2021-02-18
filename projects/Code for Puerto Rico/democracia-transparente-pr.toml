@@ -1,12 +1,57 @@
 code_url = "https://github.com/Code4PuertoRico/democracia-transparente-pr"
 description = "Objetivo: establecer propuesta de producto que ayude al pueblo de Puerto Rico a estar informado sobre legislación, votos de sus representantes y senadores/as, y que provea un canal para que constituyentes se expresen mediante votos, comentarios y/o propuestas de proyecto."
-git_branch = "master"
 git_url = "git://github.com/Code4PuertoRico/democracia-transparente-pr.git"
-last_pushed_within = "over_a_year"
 name = "democracia-transparente-pr"
+organization_name = "Code for Puerto Rico"
 topics = [
   "citizen-action",
   "opengovernment",
   "opensource",
   "puerto-rico"
 ]
+
+[github]
+archived = false
+created_at = "2017-08-02T23:00:05Z"
+default_branch = "master"
+description = "Objetivo: establecer propuesta de producto que ayude al pueblo de Puerto Rico a estar informado sobre legislación, votos de sus representantes y senadores/as, y que provea un canal para que constituyentes se expresen mediante votos, comentarios y/o propuestas de proyecto."
+disabled = false
+fork = false
+forks_within = 0
+full_name = "Code4PuertoRico/democracia-transparente-pr"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 99_168_047
+language = { }
+license = { }
+name = "democracia-transparente-pr"
+node_id = "MDEwOlJlcG9zaXRvcnk5OTE2ODA0Nw=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [
+  "citizen-action",
+  "opengovernment",
+  "opensource",
+  "puerto-rico"
+]
+updated_within = "year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_626_422
+  login = "Code4PuertoRico"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjY2MjY0MjI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

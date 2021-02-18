@@ -1,7 +1,52 @@
 code_url = "https://github.com/Code4PuertoRico/slackin-extended"
 description = "Public Slack organizations made easy (extended fork of rauchg/slackin)"
-git_branch = "master"
 git_url = "git://github.com/Code4PuertoRico/slackin-extended.git"
-last_pushed_within = "month"
 link_url = "https://slackin-extended.emedvedev.now.sh"
 name = "slackin-extended"
+organization_name = "Code for Puerto Rico"
+
+[github]
+archived = false
+created_at = "2020-01-31T07:47:38Z"
+default_branch = "master"
+description = "Public Slack organizations made easy (extended fork of rauchg/slackin)"
+disabled = false
+fork = true
+forks_within = 0
+full_name = "Code4PuertoRico/slackin-extended"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "https://slackin-extended.emedvedev.now.sh"
+id = 237_383_410
+language = "JavaScript"
+name = "slackin-extended"
+node_id = "MDEwOlJlcG9zaXRvcnkyMzczODM0MTA="
+open_issues_within = 10
+private = false
+pushed_within = "month"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_626_422
+  login = "Code4PuertoRico"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjY2MjY0MjI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
