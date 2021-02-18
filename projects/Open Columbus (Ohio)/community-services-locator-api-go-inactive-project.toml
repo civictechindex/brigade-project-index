@@ -1,6 +1,51 @@
 code_url = "https://github.com/SCODEMeetup/community-services-locator-api-go-inactive-project"
 description = "Community Services Locator API- *on hold*, please refer https://github.com/SCODEMeetup/mofb-api"
-git_branch = "master"
 git_url = "git://github.com/SCODEMeetup/community-services-locator-api-go-inactive-project.git"
-last_pushed_within = "over_a_year"
 name = "community-services-locator-api-go-inactive-project"
+organization_name = "Open Columbus (Ohio)"
+
+[github]
+archived = false
+created_at = "2018-11-07T04:36:36Z"
+default_branch = "master"
+description = "Community Services Locator API- *on hold*, please refer https://github.com/SCODEMeetup/mofb-api"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "SCODEMeetup/community-services-locator-api-go-inactive-project"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 156_490_926
+language = "Go"
+name = "community-services-locator-api-go-inactive-project"
+node_id = "MDEwOlJlcG9zaXRvcnkxNTY0OTA5MjY="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 39_891_022
+  login = "SCODEMeetup"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM5ODkxMDIy"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

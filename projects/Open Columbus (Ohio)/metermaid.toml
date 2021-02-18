@@ -1,6 +1,46 @@
 code_url = "https://github.com/SCODEMeetup/metermaid"
 description = "Bills bokeh and pandas thing"
-git_branch = "master"
 git_url = "git://github.com/SCODEMeetup/metermaid.git"
-last_pushed_within = "over_a_year"
 name = "metermaid"
+organization_name = "Open Columbus (Ohio)"
+
+[github]
+archived = false
+created_at = "2018-05-19T17:01:20Z"
+default_branch = "master"
+description = "Bills bokeh and pandas thing"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "SCODEMeetup/metermaid"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 134_081_434
+language = "HTML"
+license = { }
+name = "metermaid"
+node_id = "MDEwOlJlcG9zaXRvcnkxMzQwODE0MzQ="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 39_891_022
+  login = "SCODEMeetup"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM5ODkxMDIy"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

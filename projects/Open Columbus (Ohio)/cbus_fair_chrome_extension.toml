@@ -1,6 +1,51 @@
 code_url = "https://github.com/SCODEMeetup/cbus_fair_chrome_extension"
 description = "A Chrome extension that rates bus route accessibility compared to a business's operating hours. "
-git_branch = "master"
 git_url = "git://github.com/SCODEMeetup/cbus_fair_chrome_extension.git"
-last_pushed_within = "year"
 name = "cbus_fair_chrome_extension"
+organization_name = "Open Columbus (Ohio)"
+
+[github]
+archived = false
+created_at = "2020-02-17T20:14:25Z"
+default_branch = "master"
+description = "A Chrome extension that rates bus route accessibility compared to a business's operating hours. "
+disabled = false
+fork = false
+forks_within = 0
+full_name = "SCODEMeetup/cbus_fair_chrome_extension"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 241_198_723
+language = "JavaScript"
+name = "cbus_fair_chrome_extension"
+node_id = "MDEwOlJlcG9zaXRvcnkyNDExOTg3MjM="
+open_issues_within = 0
+private = false
+pushed_within = "year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "year"
+watchers_within = 10
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 39_891_022
+  login = "SCODEMeetup"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM5ODkxMDIy"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

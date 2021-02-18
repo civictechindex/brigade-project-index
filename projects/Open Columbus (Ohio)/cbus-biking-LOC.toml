@@ -1,6 +1,46 @@
 code_url = "https://github.com/SCODEMeetup/cbus-biking-LOC"
 description = "Building a realt time indicator of bike inicdents and level of comfort"
-git_branch = "master"
 git_url = "git://github.com/SCODEMeetup/cbus-biking-LOC.git"
-last_pushed_within = "year"
 name = "cbus-biking-LOC"
+organization_name = "Open Columbus (Ohio)"
+
+[github]
+archived = false
+created_at = "2020-07-29T18:05:21Z"
+default_branch = "master"
+description = "Building a realt time indicator of bike inicdents and level of comfort"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "SCODEMeetup/cbus-biking-LOC"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 283_568_875
+language = "JavaScript"
+license = { }
+name = "cbus-biking-LOC"
+node_id = "MDEwOlJlcG9zaXRvcnkyODM1Njg4NzU="
+open_issues_within = 0
+private = false
+pushed_within = "year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 39_891_022
+  login = "SCODEMeetup"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM5ODkxMDIy"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

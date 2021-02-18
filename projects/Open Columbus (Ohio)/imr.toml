@@ -1,6 +1,46 @@
 code_url = "https://github.com/SCODEMeetup/imr"
 description = "The infant mortality rate is the number of deaths of children under one year of age per 1000 live births. 2-3 babies in Franklin County die before the age of 1 every week."
-git_branch = "master"
 git_url = "git://github.com/SCODEMeetup/imr.git"
-last_pushed_within = "over_a_year"
 name = "imr"
+organization_name = "Open Columbus (Ohio)"
+
+[github]
+archived = false
+created_at = "2018-11-08T21:13:28Z"
+default_branch = "master"
+description = "The infant mortality rate is the number of deaths of children under one year of age per 1000 live births. 2-3 babies in Franklin County die before the age of 1 every week."
+disabled = false
+fork = false
+forks_within = 0
+full_name = "SCODEMeetup/imr"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 156_769_655
+language = { }
+license = { }
+name = "imr"
+node_id = "MDEwOlJlcG9zaXRvcnkxNTY3Njk2NTU="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 39_891_022
+  login = "SCODEMeetup"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM5ODkxMDIy"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

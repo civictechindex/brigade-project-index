@@ -1,6 +1,46 @@
 code_url = "https://github.com/SCODEMeetup/cbus-biking-LOC-api"
 description = "API for cbus-biking-LOC application"
-git_branch = "master"
 git_url = "git://github.com/SCODEMeetup/cbus-biking-LOC-api.git"
-last_pushed_within = "year"
 name = "cbus-biking-LOC-api"
+organization_name = "Open Columbus (Ohio)"
+
+[github]
+archived = false
+created_at = "2020-11-05T20:07:16Z"
+default_branch = "master"
+description = "API for cbus-biking-LOC application"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "SCODEMeetup/cbus-biking-LOC-api"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 310_405_842
+language = "Ruby"
+license = { }
+name = "cbus-biking-LOC-api"
+node_id = "MDEwOlJlcG9zaXRvcnkzMTA0MDU4NDI="
+open_issues_within = 0
+private = false
+pushed_within = "year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 39_891_022
+  login = "SCODEMeetup"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM5ODkxMDIy"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

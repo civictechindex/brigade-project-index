@@ -1,8 +1,48 @@
 code_url = "https://github.com/SCODEMeetup/kirwan"
 description = "In Franklin County, there is a nearly twenty-year difference in life expectancy for seniors living in different neighborhoods. "
-git_branch = "master"
 git_url = "git://github.com/SCODEMeetup/kirwan.git"
-last_pushed_within = "over_a_year"
 link_url = "http://kirwaninstitute.osu.edu/my-product/franklin-county-senior-opportunity-a-framework-for-investment/"
 name = "kirwan"
+organization_name = "Open Columbus (Ohio)"
 topics = [ "2015", "opportunity-communities" ]
+
+[github]
+archived = false
+created_at = "2019-04-13T18:46:30Z"
+default_branch = "master"
+description = "In Franklin County, there is a nearly twenty-year difference in life expectancy for seniors living in different neighborhoods. "
+disabled = false
+fork = false
+forks_within = 0
+full_name = "SCODEMeetup/kirwan"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://kirwaninstitute.osu.edu/my-product/franklin-county-senior-opportunity-a-framework-for-investment/"
+id = 181_214_737
+language = { }
+license = { }
+name = "kirwan"
+node_id = "MDEwOlJlcG9zaXRvcnkxODEyMTQ3Mzc="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ "2015", "opportunity-communities" ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 39_891_022
+  login = "SCODEMeetup"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM5ODkxMDIy"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
