@@ -1,7 +1,47 @@
 code_url = "https://github.com/uscensusbureau/api"
 description = "empty repository solely used for API related issue tracking, bug reports and feature requests"
-git_branch = "master"
 git_url = "git://github.com/uscensusbureau/api.git"
-last_pushed_within = "year"
 link_url = "https://census.gov/developers"
 name = "api"
+organization_name = "US Census Bureau"
+
+[github]
+archived = false
+created_at = "2020-05-08T14:14:36Z"
+default_branch = "master"
+description = "empty repository solely used for API related issue tracking, bug reports and feature requests"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "uscensusbureau/api"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "https://census.gov/developers"
+id = 262_341_674
+language = { }
+license = { }
+name = "api"
+node_id = "MDEwOlJlcG9zaXRvcnkyNjIzNDE2NzQ="
+open_issues_within = 10
+private = false
+pushed_within = "year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 10_234_353
+  login = "uscensusbureau"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjEwMjM0MzUz"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

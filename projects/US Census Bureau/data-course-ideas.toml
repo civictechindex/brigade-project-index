@@ -1,10 +1,9 @@
 code_url = "https://github.com/uscensusbureau/data-course-ideas"
 description = "Submit your ideas for data training courses on Census Academy"
-git_branch = "master"
 git_url = "git://github.com/uscensusbureau/data-course-ideas.git"
-last_pushed_within = "over_a_year"
 link_url = "https://uscensusbureau.github.io/data-course-ideas/"
 name = "data-course-ideas"
+organization_name = "US Census Bureau"
 topics = [
   "census",
   "census-academy",
@@ -12,3 +11,55 @@ topics = [
   "civic-tech",
   "crowdsourcing"
 ]
+
+[github]
+archived = false
+created_at = "2017-07-20T02:58:16Z"
+default_branch = "master"
+description = "Submit your ideas for data training courses on Census Academy"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "uscensusbureau/data-course-ideas"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "https://uscensusbureau.github.io/data-course-ideas/"
+id = 97_784_100
+language = { }
+name = "data-course-ideas"
+node_id = "MDEwOlJlcG9zaXRvcnk5Nzc4NDEwMA=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [
+  "census",
+  "census-academy",
+  "census-data",
+  "civic-tech",
+  "crowdsourcing"
+]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "other"
+  name = "Other"
+  node_id = "MDc6TGljZW5zZTA="
+  spdx_id = "NOASSERTION"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 10_234_353
+  login = "uscensusbureau"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjEwMjM0MzUz"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

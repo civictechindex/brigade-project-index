@@ -1,6 +1,46 @@
 code_url = "https://github.com/uscensusbureau/dp-presentations"
 description = "Presentations on the topic of Differential Privacy and Disclosure Avoidance"
-git_branch = "master"
 git_url = "git://github.com/uscensusbureau/dp-presentations.git"
-last_pushed_within = "over_a_year"
 name = "dp-presentations"
+organization_name = "US Census Bureau"
+
+[github]
+archived = false
+created_at = "2019-09-25T14:25:04Z"
+default_branch = "master"
+description = "Presentations on the topic of Differential Privacy and Disclosure Avoidance"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "uscensusbureau/dp-presentations"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 210_864_811
+language = { }
+license = { }
+name = "dp-presentations"
+node_id = "MDEwOlJlcG9zaXRvcnkyMTA4NjQ4MTE="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 10_234_353
+  login = "uscensusbureau"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjEwMjM0MzUz"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

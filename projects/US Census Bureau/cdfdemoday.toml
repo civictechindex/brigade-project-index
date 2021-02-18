@@ -1,5 +1,50 @@
 code_url = "https://github.com/uscensusbureau/cdfdemoday"
-git_branch = "master"
 git_url = "git://github.com/uscensusbureau/cdfdemoday.git"
-last_pushed_within = "over_a_year"
 name = "cdfdemoday"
+organization_name = "US Census Bureau"
+
+[github]
+archived = false
+created_at = "2017-08-08T12:13:26Z"
+default_branch = "master"
+description = { }
+disabled = false
+fork = false
+forks_within = 10
+full_name = "uscensusbureau/cdfdemoday"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 99_688_941
+language = { }
+name = "cdfdemoday"
+node_id = "MDEwOlJlcG9zaXRvcnk5OTY4ODk0MQ=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "year"
+watchers_within = 10
+
+  [github.license]
+  key = "other"
+  name = "Other"
+  node_id = "MDc6TGljZW5zZTA="
+  spdx_id = "NOASSERTION"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 10_234_353
+  login = "uscensusbureau"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjEwMjM0MzUz"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

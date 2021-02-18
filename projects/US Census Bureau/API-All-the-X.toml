@@ -1,7 +1,52 @@
 code_url = "https://github.com/uscensusbureau/API-All-the-X"
 description = "Resources and Materials for the /Developer Program"
-git_branch = "gh-pages"
 git_url = "git://github.com/uscensusbureau/API-All-the-X.git"
-last_pushed_within = "over_a_year"
 link_url = "https://18f.github.io/API-All-the-X"
 name = "API-All-the-X"
+organization_name = "US Census Bureau"
+
+[github]
+archived = false
+created_at = "2015-01-29T20:33:34Z"
+default_branch = "gh-pages"
+description = "Resources and Materials for the /Developer Program"
+disabled = false
+fork = true
+forks_within = 10
+full_name = "uscensusbureau/API-All-the-X"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "https://18f.github.io/API-All-the-X"
+id = 30_039_875
+language = "CSS"
+name = "API-All-the-X"
+node_id = "MDEwOlJlcG9zaXRvcnkzMDAzOTg3NQ=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "year"
+watchers_within = 10
+
+  [github.license]
+  key = "other"
+  name = "Other"
+  node_id = "MDc6TGljZW5zZTA="
+  spdx_id = "NOASSERTION"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 10_234_353
+  login = "uscensusbureau"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjEwMjM0MzUz"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

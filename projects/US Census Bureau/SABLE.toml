@@ -1,7 +1,52 @@
 code_url = "https://github.com/uscensusbureau/SABLE"
 description = "Scraping Assisted by Learning"
-git_branch = "master"
 git_url = "git://github.com/uscensusbureau/SABLE.git"
-last_pushed_within = "year"
 name = "SABLE"
+organization_name = "US Census Bureau"
 topics = [ "machine-learning", "text-classification", "web-scraping" ]
+
+[github]
+archived = false
+created_at = "2017-10-04T20:43:53Z"
+default_branch = "master"
+description = "Scraping Assisted by Learning"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "uscensusbureau/SABLE"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 105_816_427
+language = "Python"
+name = "SABLE"
+node_id = "MDEwOlJlcG9zaXRvcnkxMDU4MTY0Mjc="
+open_issues_within = 0
+private = false
+pushed_within = "year"
+stargazers_within = 100
+topics = [ "machine-learning", "text-classification", "web-scraping" ]
+updated_within = "month"
+watchers_within = 100
+
+  [github.license]
+  key = "other"
+  name = "Other"
+  node_id = "MDc6TGljZW5zZTA="
+  spdx_id = "NOASSERTION"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 10_234_353
+  login = "uscensusbureau"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjEwMjM0MzUz"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

@@ -1,7 +1,47 @@
 code_url = "https://github.com/uscensusbureau/pseo_beta"
 description = "A beta d3 app to demo the post secondary education outcomes dataset"
-git_branch = "master"
 git_url = "git://github.com/uscensusbureau/pseo_beta.git"
-last_pushed_within = "over_a_year"
 link_url = "https://uscensusbureau.github.io/pseo_beta/"
 name = "pseo_beta"
+organization_name = "US Census Bureau"
+
+[github]
+archived = false
+created_at = "2018-10-15T20:22:22Z"
+default_branch = "master"
+description = "A beta d3 app to demo the post secondary education outcomes dataset"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "uscensusbureau/pseo_beta"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "https://uscensusbureau.github.io/pseo_beta/"
+id = 153_176_599
+language = "JavaScript"
+license = { }
+name = "pseo_beta"
+node_id = "MDEwOlJlcG9zaXRvcnkxNTMxNzY1OTk="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 10_234_353
+  login = "uscensusbureau"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjEwMjM0MzUz"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

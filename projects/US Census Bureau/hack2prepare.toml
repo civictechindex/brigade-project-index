@@ -1,6 +1,51 @@
 code_url = "https://github.com/uscensusbureau/hack2prepare"
 description = "A playbook for leaner and more impactful hackathons, using Waffle.io. Co-created in collaboration with the U.S. Census Bureau"
-git_branch = "master"
 git_url = "git://github.com/uscensusbureau/hack2prepare.git"
-last_pushed_within = "over_a_year"
 name = "hack2prepare"
+organization_name = "US Census Bureau"
+
+[github]
+archived = false
+created_at = "2015-11-05T14:49:58Z"
+default_branch = "master"
+description = "A playbook for leaner and more impactful hackathons, using Waffle.io. Co-created in collaboration with the U.S. Census Bureau"
+disabled = false
+fork = true
+forks_within = 10
+full_name = "uscensusbureau/hack2prepare"
+has_downloads = true
+has_issues = false
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 45_617_701
+language = { }
+name = "hack2prepare"
+node_id = "MDEwOlJlcG9zaXRvcnk0NTYxNzcwMQ=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "other"
+  name = "Other"
+  node_id = "MDc6TGljZW5zZTA="
+  spdx_id = "NOASSERTION"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 10_234_353
+  login = "uscensusbureau"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjEwMjM0MzUz"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
