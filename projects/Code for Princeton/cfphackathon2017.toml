@@ -1,6 +1,46 @@
 code_url = "https://github.com/codeforprinceton/cfphackathon2017"
 description = "Repo for Code For Princeton Hackathon 2017 website"
-git_branch = "master"
 git_url = "git://github.com/codeforprinceton/cfphackathon2017.git"
-last_pushed_within = "over_a_year"
 name = "cfphackathon2017"
+organization_name = "Code for Princeton"
+
+[github]
+archived = false
+created_at = "2017-09-11T07:05:56Z"
+default_branch = "master"
+description = "Repo for Code For Princeton Hackathon 2017 website"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "codeforprinceton/cfphackathon2017"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 103_101_609
+language = "HTML"
+license = { }
+name = "cfphackathon2017"
+node_id = "MDEwOlJlcG9zaXRvcnkxMDMxMDE2MDk="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 11_965_815
+  login = "codeforprinceton"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjExOTY1ODE1"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

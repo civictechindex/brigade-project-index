@@ -1,6 +1,46 @@
 code_url = "https://github.com/codeforprinceton/civic.json"
 description = "A specification of the civic.json metadata standard for civic technology projects"
-git_branch = "master"
 git_url = "git://github.com/codeforprinceton/civic.json.git"
-last_pushed_within = "over_a_year"
 name = "civic.json"
+organization_name = "Code for Princeton"
+
+[github]
+archived = false
+created_at = "2015-08-28T11:58:25Z"
+default_branch = "master"
+description = "A specification of the civic.json metadata standard for civic technology projects"
+disabled = false
+fork = true
+forks_within = 0
+full_name = "codeforprinceton/civic.json"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = false
+homepage = { }
+id = 41_545_055
+language = { }
+license = { }
+name = "civic.json"
+node_id = "MDEwOlJlcG9zaXRvcnk0MTU0NTA1NQ=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 11_965_815
+  login = "codeforprinceton"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjExOTY1ODE1"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

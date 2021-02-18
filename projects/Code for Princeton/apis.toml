@@ -1,6 +1,46 @@
 code_url = "https://github.com/codeforprinceton/apis"
 description = "Idea2App: Web Services and RESTful APIs study materials"
-git_branch = "master"
 git_url = "git://github.com/codeforprinceton/apis.git"
-last_pushed_within = "over_a_year"
 name = "apis"
+organization_name = "Code for Princeton"
+
+[github]
+archived = false
+created_at = "2017-08-01T15:08:41Z"
+default_branch = "master"
+description = "Idea2App: Web Services and RESTful APIs study materials"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codeforprinceton/apis"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 99_014_255
+language = { }
+license = { }
+name = "apis"
+node_id = "MDEwOlJlcG9zaXRvcnk5OTAxNDI1NQ=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 11_965_815
+  login = "codeforprinceton"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjExOTY1ODE1"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

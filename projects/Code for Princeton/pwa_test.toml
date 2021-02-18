@@ -1,6 +1,46 @@
 code_url = "https://github.com/codeforprinceton/pwa_test"
 description = "Testing out a Progressive Web App for the Ash Tree Project"
-git_branch = "master"
 git_url = "git://github.com/codeforprinceton/pwa_test.git"
-last_pushed_within = "over_a_year"
 name = "pwa_test"
+organization_name = "Code for Princeton"
+
+[github]
+archived = false
+created_at = "2017-11-15T00:50:00Z"
+default_branch = "master"
+description = "Testing out a Progressive Web App for the Ash Tree Project"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "codeforprinceton/pwa_test"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 110_763_923
+language = { }
+license = { }
+name = "pwa_test"
+node_id = "MDEwOlJlcG9zaXRvcnkxMTA3NjM5MjM="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 11_965_815
+  login = "codeforprinceton"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjExOTY1ODE1"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

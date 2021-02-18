@@ -1,6 +1,46 @@
 code_url = "https://github.com/codeforprinceton/airquality"
 description = "The Air Quality project"
-git_branch = "master"
 git_url = "git://github.com/codeforprinceton/airquality.git"
-last_pushed_within = "over_a_year"
 name = "airquality"
+organization_name = "Code for Princeton"
+
+[github]
+archived = false
+created_at = "2016-10-22T15:14:30Z"
+default_branch = "master"
+description = "The Air Quality project"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codeforprinceton/airquality"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 71_647_050
+language = "Jupyter Notebook"
+license = { }
+name = "airquality"
+node_id = "MDEwOlJlcG9zaXRvcnk3MTY0NzA1MA=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 11_965_815
+  login = "codeforprinceton"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjExOTY1ODE1"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

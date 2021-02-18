@@ -1,6 +1,46 @@
 code_url = "https://github.com/codeforprinceton/ptonArtMuseum"
 description = "Princeton University Art Museum"
-git_branch = "master"
 git_url = "git://github.com/codeforprinceton/ptonArtMuseum.git"
-last_pushed_within = "over_a_year"
 name = "ptonArtMuseum"
+organization_name = "Code for Princeton"
+
+[github]
+archived = false
+created_at = "2015-06-03T05:14:36Z"
+default_branch = "master"
+description = "Princeton University Art Museum"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codeforprinceton/ptonArtMuseum"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 36_781_464
+language = { }
+license = { }
+name = "ptonArtMuseum"
+node_id = "MDEwOlJlcG9zaXRvcnkzNjc4MTQ2NA=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 11_965_815
+  login = "codeforprinceton"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjExOTY1ODE1"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
