@@ -1,8 +1,53 @@
 code_url = "https://github.com/codeforanchorage/pfd-names"
 description = "Popularity of names from the Alaska Permanent Fund Dividend (PFD)."
-git_branch = "master"
 git_url = "git://github.com/codeforanchorage/pfd-names.git"
-last_pushed_within = "year"
 link_url = "https://codeforanchorage.org/pfd-names/"
 name = "pfd-names"
+organization_name = "Code for Anchorage"
 topics = [ "alaska", "government", "names", "open-data", "pfd" ]
+
+[github]
+archived = false
+created_at = "2020-06-24T03:37:35Z"
+default_branch = "master"
+description = "Popularity of names from the Alaska Permanent Fund Dividend (PFD)."
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codeforanchorage/pfd-names"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "https://codeforanchorage.org/pfd-names/"
+id = 274_567_484
+language = "HTML"
+name = "pfd-names"
+node_id = "MDEwOlJlcG9zaXRvcnkyNzQ1Njc0ODQ="
+open_issues_within = 0
+private = false
+pushed_within = "year"
+stargazers_within = 10
+topics = [ "alaska", "government", "names", "open-data", "pfd" ]
+updated_within = "year"
+watchers_within = 10
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 3_999_742
+  login = "codeforanchorage"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM5OTk3NDI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

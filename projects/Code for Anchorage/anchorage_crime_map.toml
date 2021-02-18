@@ -1,6 +1,51 @@
 code_url = "https://github.com/codeforanchorage/anchorage_crime_map"
 description = "crime map for anchorage"
-git_branch = "master"
 git_url = "git://github.com/codeforanchorage/anchorage_crime_map.git"
-last_pushed_within = "over_a_year"
 name = "anchorage_crime_map"
+organization_name = "Code for Anchorage"
+
+[github]
+archived = false
+created_at = "2016-02-11T00:47:30Z"
+default_branch = "master"
+description = "crime map for anchorage"
+disabled = false
+fork = true
+forks_within = 0
+full_name = "codeforanchorage/anchorage_crime_map"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 51_484_979
+language = "R"
+name = "anchorage_crime_map"
+node_id = "MDEwOlJlcG9zaXRvcnk1MTQ4NDk3OQ=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 3_999_742
+  login = "codeforanchorage"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM5OTk3NDI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

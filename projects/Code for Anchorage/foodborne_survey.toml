@@ -1,6 +1,51 @@
 code_url = "https://github.com/codeforanchorage/foodborne_survey"
 description = "A 2014 survey of Chicago residents regarding Foodborne Chicago"
-git_branch = "master"
 git_url = "git://github.com/codeforanchorage/foodborne_survey.git"
-last_pushed_within = "over_a_year"
 name = "foodborne_survey"
+organization_name = "Code for Anchorage"
+
+[github]
+archived = false
+created_at = "2015-12-25T20:52:53Z"
+default_branch = "master"
+description = "A 2014 survey of Chicago residents regarding Foodborne Chicago"
+disabled = false
+fork = true
+forks_within = 0
+full_name = "codeforanchorage/foodborne_survey"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 48_591_087
+language = "HTML"
+name = "foodborne_survey"
+node_id = "MDEwOlJlcG9zaXRvcnk0ODU5MTA4Nw=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 3_999_742
+  login = "codeforanchorage"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM5OTk3NDI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

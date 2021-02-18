@@ -1,6 +1,46 @@
 code_url = "https://github.com/codeforanchorage/Anchorage-Vote-Leverage"
 description = "A shiny web app to see how a vote in the November 2014 election would fit into different precincts in Anchorage. "
-git_branch = "master"
 git_url = "git://github.com/codeforanchorage/Anchorage-Vote-Leverage.git"
-last_pushed_within = "over_a_year"
 name = "Anchorage-Vote-Leverage"
+organization_name = "Code for Anchorage"
+
+[github]
+archived = false
+created_at = "2015-02-22T22:52:03Z"
+default_branch = "master"
+description = "A shiny web app to see how a vote in the November 2014 election would fit into different precincts in Anchorage. "
+disabled = false
+fork = true
+forks_within = 0
+full_name = "codeforanchorage/Anchorage-Vote-Leverage"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 31_184_732
+language = "R"
+license = { }
+name = "Anchorage-Vote-Leverage"
+node_id = "MDEwOlJlcG9zaXRvcnkzMTE4NDczMg=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 3_999_742
+  login = "codeforanchorage"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM5OTk3NDI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

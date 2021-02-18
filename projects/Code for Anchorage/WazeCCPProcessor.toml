@@ -1,6 +1,51 @@
 code_url = "https://github.com/codeforanchorage/WazeCCPProcessor"
 description = "Takes Waze CCP data feed and processes it in Amazon AWS for querying."
-git_branch = "master"
 git_url = "git://github.com/codeforanchorage/WazeCCPProcessor.git"
-last_pushed_within = "over_a_year"
 name = "WazeCCPProcessor"
+organization_name = "Code for Anchorage"
+
+[github]
+archived = false
+created_at = "2017-11-29T17:29:18Z"
+default_branch = "master"
+description = "Takes Waze CCP data feed and processes it in Amazon AWS for querying."
+disabled = false
+fork = true
+forks_within = 0
+full_name = "codeforanchorage/WazeCCPProcessor"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 112_506_443
+language = "HCL"
+name = "WazeCCPProcessor"
+node_id = "MDEwOlJlcG9zaXRvcnkxMTI1MDY0NDM="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 3_999_742
+  login = "codeforanchorage"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM5OTk3NDI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

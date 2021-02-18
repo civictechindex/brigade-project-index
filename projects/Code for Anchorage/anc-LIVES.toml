@@ -1,6 +1,46 @@
 code_url = "https://github.com/codeforanchorage/anc-LIVES"
 description = "Test Restaurant Inspection Data"
-git_branch = "master"
 git_url = "git://github.com/codeforanchorage/anc-LIVES.git"
-last_pushed_within = "over_a_year"
 name = "anc-LIVES"
+organization_name = "Code for Anchorage"
+
+[github]
+archived = false
+created_at = "2016-03-05T05:04:51Z"
+default_branch = "master"
+description = "Test Restaurant Inspection Data"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "codeforanchorage/anc-LIVES"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 53_184_508
+language = { }
+license = { }
+name = "anc-LIVES"
+node_id = "MDEwOlJlcG9zaXRvcnk1MzE4NDUwOA=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 3_999_742
+  login = "codeforanchorage"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM5OTk3NDI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

@@ -1,7 +1,47 @@
 code_url = "https://github.com/codeforanchorage/dog-name-game"
 description = "Guess the more popular Anchorage dog name "
-git_branch = "master"
 git_url = "git://github.com/codeforanchorage/dog-name-game.git"
-last_pushed_within = "over_a_year"
 link_url = "http://codeforanchorage.org/dog-name-game/"
 name = "dog-name-game"
+organization_name = "Code for Anchorage"
+
+[github]
+archived = false
+created_at = "2017-06-06T20:28:41Z"
+default_branch = "master"
+description = "Guess the more popular Anchorage dog name "
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codeforanchorage/dog-name-game"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = false
+homepage = "http://codeforanchorage.org/dog-name-game/"
+id = 93_560_945
+language = "JavaScript"
+license = { }
+name = "dog-name-game"
+node_id = "MDEwOlJlcG9zaXRvcnk5MzU2MDk0NQ=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 3_999_742
+  login = "codeforanchorage"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM5OTk3NDI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

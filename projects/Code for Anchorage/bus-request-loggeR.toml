@@ -1,6 +1,46 @@
 code_url = "https://github.com/codeforanchorage/bus-request-loggeR"
 description = "analytics for bus.codeforanchorage.org"
-git_branch = "master"
 git_url = "git://github.com/codeforanchorage/bus-request-loggeR.git"
-last_pushed_within = "over_a_year"
 name = "bus-request-loggeR"
+organization_name = "Code for Anchorage"
+
+[github]
+archived = false
+created_at = "2015-04-01T06:50:20Z"
+default_branch = "master"
+description = "analytics for bus.codeforanchorage.org"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "codeforanchorage/bus-request-loggeR"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 33_231_474
+language = "R"
+license = { }
+name = "bus-request-loggeR"
+node_id = "MDEwOlJlcG9zaXRvcnkzMzIzMTQ3NA=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 3_999_742
+  login = "codeforanchorage"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM5OTk3NDI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

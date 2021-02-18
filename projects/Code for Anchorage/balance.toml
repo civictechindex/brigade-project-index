@@ -1,7 +1,52 @@
 code_url = "https://github.com/codeforanchorage/balance"
 description = "A text message system for checking one's EBT card balance (SNAP benefits and more)"
-git_branch = "master"
 git_url = "git://github.com/codeforanchorage/balance.git"
-last_pushed_within = "over_a_year"
 link_url = "http://codeforamerica.org/apps/balance"
 name = "balance"
+organization_name = "Code for Anchorage"
+
+[github]
+archived = false
+created_at = "2016-01-27T05:36:27Z"
+default_branch = "master"
+description = "A text message system for checking one's EBT card balance (SNAP benefits and more)"
+disabled = false
+fork = true
+forks_within = 10
+full_name = "codeforanchorage/balance"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://codeforamerica.org/apps/balance"
+id = 50_484_289
+language = "Ruby"
+name = "balance"
+node_id = "MDEwOlJlcG9zaXRvcnk1MDQ4NDI4OQ=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 3_999_742
+  login = "codeforanchorage"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM5OTk3NDI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

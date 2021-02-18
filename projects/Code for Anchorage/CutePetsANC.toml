@@ -1,6 +1,46 @@
 code_url = "https://github.com/codeforanchorage/CutePetsANC"
 description = "Twitterbot for tweeting available pets for adoption"
-git_branch = "master"
 git_url = "git://github.com/codeforanchorage/CutePetsANC.git"
-last_pushed_within = "over_a_year"
 name = "CutePetsANC"
+organization_name = "Code for Anchorage"
+
+[github]
+archived = false
+created_at = "2015-11-25T06:37:24Z"
+default_branch = "master"
+description = "Twitterbot for tweeting available pets for adoption"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "codeforanchorage/CutePetsANC"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 46_842_483
+language = "Ruby"
+license = { }
+name = "CutePetsANC"
+node_id = "MDEwOlJlcG9zaXRvcnk0Njg0MjQ4Mw=="
+open_issues_within = 10
+private = false
+pushed_within = "month"
+stargazers_within = 10
+topics = [ ]
+updated_within = "month"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 3_999_742
+  login = "codeforanchorage"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM5OTk3NDI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

@@ -1,7 +1,52 @@
 code_url = "https://github.com/codeforanchorage/where-we-work"
 description = "visualizing Chicago employment data"
-git_branch = "master"
 git_url = "git://github.com/codeforanchorage/where-we-work.git"
-last_pushed_within = "over_a_year"
 link_url = "wherewework.org"
 name = "where-we-work"
+organization_name = "Code for Anchorage"
+
+[github]
+archived = false
+created_at = "2017-11-29T01:50:38Z"
+default_branch = "master"
+description = "visualizing Chicago employment data"
+disabled = false
+fork = true
+forks_within = 0
+full_name = "codeforanchorage/where-we-work"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "wherewework.org"
+id = 112_412_256
+language = "JavaScript"
+name = "where-we-work"
+node_id = "MDEwOlJlcG9zaXRvcnkxMTI0MTIyNTY="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "other"
+  name = "Other"
+  node_id = "MDc6TGljZW5zZTA="
+  spdx_id = "NOASSERTION"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 3_999_742
+  login = "codeforanchorage"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM5OTk3NDI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

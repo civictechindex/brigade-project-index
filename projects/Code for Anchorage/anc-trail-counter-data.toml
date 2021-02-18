@@ -1,6 +1,46 @@
 code_url = "https://github.com/codeforanchorage/anc-trail-counter-data"
 description = "Muni Trail Counter Data from bike trails"
-git_branch = "master"
 git_url = "git://github.com/codeforanchorage/anc-trail-counter-data.git"
-last_pushed_within = "over_a_year"
 name = "anc-trail-counter-data"
+organization_name = "Code for Anchorage"
+
+[github]
+archived = false
+created_at = "2016-03-05T04:59:56Z"
+default_branch = "master"
+description = "Muni Trail Counter Data from bike trails"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "codeforanchorage/anc-trail-counter-data"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 53_184_358
+language = { }
+license = { }
+name = "anc-trail-counter-data"
+node_id = "MDEwOlJlcG9zaXRvcnk1MzE4NDM1OA=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 3_999_742
+  login = "codeforanchorage"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM5OTk3NDI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

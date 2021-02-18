@@ -1,6 +1,46 @@
 code_url = "https://github.com/codeforanchorage/AK-Tufte-plot-shiny-app"
 description = "Recreating the Tufte styled climate change chart in R and shiny"
-git_branch = "master"
 git_url = "git://github.com/codeforanchorage/AK-Tufte-plot-shiny-app.git"
-last_pushed_within = "over_a_year"
 name = "AK-Tufte-plot-shiny-app"
+organization_name = "Code for Anchorage"
+
+[github]
+archived = false
+created_at = "2015-01-27T22:55:58Z"
+default_branch = "master"
+description = "Recreating the Tufte styled climate change chart in R and shiny"
+disabled = false
+fork = true
+forks_within = 0
+full_name = "codeforanchorage/AK-Tufte-plot-shiny-app"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 29_939_244
+language = "R"
+license = { }
+name = "AK-Tufte-plot-shiny-app"
+node_id = "MDEwOlJlcG9zaXRvcnkyOTkzOTI0NA=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 3_999_742
+  login = "codeforanchorage"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM5OTk3NDI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

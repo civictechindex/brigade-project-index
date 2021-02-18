@@ -1,6 +1,46 @@
 code_url = "https://github.com/codeforanchorage/realtime-bus-sms"
 description = 'Text back current arrival time for buses given a texted in bus stop number for People Mover. AddressLookup branch would allow texting "Arctic and Fireweed"'
-git_branch = "master"
 git_url = "git://github.com/codeforanchorage/realtime-bus-sms.git"
-last_pushed_within = "year"
 name = "realtime-bus-sms"
+organization_name = "Code for Anchorage"
+
+[github]
+archived = false
+created_at = "2014-12-04T19:35:34Z"
+default_branch = "master"
+description = 'Text back current arrival time for buses given a texted in bus stop number for People Mover. AddressLookup branch would allow texting "Arctic and Fireweed"'
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codeforanchorage/realtime-bus-sms"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 27_556_566
+language = "JavaScript"
+license = { }
+name = "realtime-bus-sms"
+node_id = "MDEwOlJlcG9zaXRvcnkyNzU1NjU2Ng=="
+open_issues_within = 100
+private = false
+pushed_within = "year"
+stargazers_within = 100
+topics = [ ]
+updated_within = "year"
+watchers_within = 100
+
+  [github.owner]
+  gravatar_id = ""
+  id = 3_999_742
+  login = "codeforanchorage"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM5OTk3NDI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

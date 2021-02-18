@@ -1,7 +1,47 @@
 code_url = "https://github.com/codeforanchorage/forget-me-not"
 description = "Tech ideas for Facebook Forget-me-not group that helps AK homeless connect with remote family members"
-git_branch = "master"
 git_url = "git://github.com/codeforanchorage/forget-me-not.git"
-last_pushed_within = "over_a_year"
 link_url = "https://www.facebook.com/groups/1607335859320104/"
 name = "forget-me-not"
+organization_name = "Code for Anchorage"
+
+[github]
+archived = false
+created_at = "2015-06-22T20:12:28Z"
+default_branch = "master"
+description = "Tech ideas for Facebook Forget-me-not group that helps AK homeless connect with remote family members"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "codeforanchorage/forget-me-not"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "https://www.facebook.com/groups/1607335859320104/"
+id = 37_878_239
+language = { }
+license = { }
+name = "forget-me-not"
+node_id = "MDEwOlJlcG9zaXRvcnkzNzg3ODIzOQ=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 3_999_742
+  login = "codeforanchorage"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM5OTk3NDI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
