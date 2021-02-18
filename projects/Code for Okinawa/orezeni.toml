@@ -1,6 +1,46 @@
 code_url = "https://github.com/CodeforOkinawa/orezeni"
 description = "Where does my money go for Okinawa"
-git_branch = "gh-pages"
 git_url = "git://github.com/CodeforOkinawa/orezeni.git"
-last_pushed_within = "over_a_year"
 name = "orezeni"
+organization_name = "Code for Okinawa"
+
+[github]
+archived = false
+created_at = "2014-04-25T16:06:29Z"
+default_branch = "gh-pages"
+description = "Where does my money go for Okinawa"
+disabled = false
+fork = true
+forks_within = 10
+full_name = "CodeforOkinawa/orezeni"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 19_152_042
+language = "JavaScript"
+license = { }
+name = "orezeni"
+node_id = "MDEwOlJlcG9zaXRvcnkxOTE1MjA0Mg=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 7_360_004
+  login = "CodeforOkinawa"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjczNjAwMDQ="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

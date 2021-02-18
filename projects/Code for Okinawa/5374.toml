@@ -1,7 +1,52 @@
 code_url = "https://github.com/CodeforOkinawa/5374"
 description = "5374(ゴミナシ).jp for Kanazawa"
-git_branch = "master"
 git_url = "git://github.com/CodeforOkinawa/5374.git"
-last_pushed_within = "over_a_year"
 link_url = "http://kanazawa.5374.jp"
 name = "5374"
+organization_name = "Code for Okinawa"
+
+[github]
+archived = false
+created_at = "2014-06-28T02:18:44Z"
+default_branch = "master"
+description = "5374(ゴミナシ).jp for Kanazawa"
+disabled = false
+fork = true
+forks_within = 0
+full_name = "CodeforOkinawa/5374"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://kanazawa.5374.jp"
+id = 21_294_324
+language = "JavaScript"
+name = "5374"
+node_id = "MDEwOlJlcG9zaXRvcnkyMTI5NDMyNA=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "other"
+  name = "Other"
+  node_id = "MDc6TGljZW5zZTA="
+  spdx_id = "NOASSERTION"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 7_360_004
+  login = "CodeforOkinawa"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjczNjAwMDQ="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

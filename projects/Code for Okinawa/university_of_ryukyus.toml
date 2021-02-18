@@ -1,6 +1,46 @@
 code_url = "https://github.com/CodeforOkinawa/university_of_ryukyus"
 description = "2014/06/19で話す資料置き場。"
-git_branch = "gh-pages"
 git_url = "git://github.com/CodeforOkinawa/university_of_ryukyus.git"
-last_pushed_within = "over_a_year"
 name = "university_of_ryukyus"
+organization_name = "Code for Okinawa"
+
+[github]
+archived = false
+created_at = "2014-06-09T02:35:34Z"
+default_branch = "gh-pages"
+description = "2014/06/19で話す資料置き場。"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "CodeforOkinawa/university_of_ryukyus"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 20_632_277
+language = { }
+license = { }
+name = "university_of_ryukyus"
+node_id = "MDEwOlJlcG9zaXRvcnkyMDYzMjI3Nw=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 7_360_004
+  login = "CodeforOkinawa"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjczNjAwMDQ="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
