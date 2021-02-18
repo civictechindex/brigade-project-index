@@ -1,6 +1,46 @@
 code_url = "https://github.com/loomio/loomio-deploy"
 description = "Install Loomio on your own server"
-git_branch = "master"
 git_url = "git://github.com/loomio/loomio-deploy.git"
-last_pushed_within = "year"
 name = "loomio-deploy"
+organization_name = "Loomio"
+
+[github]
+archived = false
+created_at = "2016-03-11T09:50:41Z"
+default_branch = "master"
+description = "Install Loomio on your own server"
+disabled = false
+fork = false
+forks_within = 100
+full_name = "loomio/loomio-deploy"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = false
+homepage = ""
+id = 53_657_130
+language = "Shell"
+license = { }
+name = "loomio-deploy"
+node_id = "MDEwOlJlcG9zaXRvcnk1MzY1NzEzMA=="
+open_issues_within = 10
+private = false
+pushed_within = "year"
+stargazers_within = 100
+topics = [ ]
+updated_within = "month"
+watchers_within = 100
+
+  [github.owner]
+  gravatar_id = ""
+  id = 1_896_739
+  login = "loomio"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE4OTY3Mzk="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

@@ -1,6 +1,46 @@
 code_url = "https://github.com/loomio/griddler-mailin"
 description = "Adapter to allow the use of Mailin (http://mailin.io/) with Griddler (http://griddler.io/)"
-git_branch = "master"
 git_url = "git://github.com/loomio/griddler-mailin.git"
-last_pushed_within = "over_a_year"
 name = "griddler-mailin"
+organization_name = "Loomio"
+
+[github]
+archived = false
+created_at = "2014-07-07T21:14:41Z"
+default_branch = "master"
+description = "Adapter to allow the use of Mailin (http://mailin.io/) with Griddler (http://griddler.io/)"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "loomio/griddler-mailin"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 21_587_009
+language = "Ruby"
+license = { }
+name = "griddler-mailin"
+node_id = "MDEwOlJlcG9zaXRvcnkyMTU4NzAwOQ=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 1_896_739
+  login = "loomio"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE4OTY3Mzk="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

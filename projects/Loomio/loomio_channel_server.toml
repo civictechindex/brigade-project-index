@@ -1,6 +1,46 @@
 code_url = "https://github.com/loomio/loomio_channel_server"
 description = "websocket server for loomio collaboration features"
-git_branch = "master"
 git_url = "git://github.com/loomio/loomio_channel_server.git"
-last_pushed_within = "year"
 name = "loomio_channel_server"
+organization_name = "Loomio"
+
+[github]
+archived = false
+created_at = "2020-08-10T02:45:50Z"
+default_branch = "master"
+description = "websocket server for loomio collaboration features"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "loomio/loomio_channel_server"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 286_359_928
+language = "JavaScript"
+license = { }
+name = "loomio_channel_server"
+node_id = "MDEwOlJlcG9zaXRvcnkyODYzNTk5Mjg="
+open_issues_within = 0
+private = false
+pushed_within = "year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "week"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 1_896_739
+  login = "loomio"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE4OTY3Mzk="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

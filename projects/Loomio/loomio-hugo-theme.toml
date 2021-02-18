@@ -1,6 +1,46 @@
 code_url = "https://github.com/loomio/loomio-hugo-theme"
 description = "A Loomio branded Hugo theme for use in Loomio Help and Loomio Blog"
-git_branch = "master"
 git_url = "git://github.com/loomio/loomio-hugo-theme.git"
-last_pushed_within = "month"
 name = "loomio-hugo-theme"
+organization_name = "Loomio"
+
+[github]
+archived = false
+created_at = "2018-08-08T16:35:47Z"
+default_branch = "master"
+description = "A Loomio branded Hugo theme for use in Loomio Help and Loomio Blog"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "loomio/loomio-hugo-theme"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 144_040_983
+language = "HTML"
+license = { }
+name = "loomio-hugo-theme"
+node_id = "MDEwOlJlcG9zaXRvcnkxNDQwNDA5ODM="
+open_issues_within = 10
+private = false
+pushed_within = "year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 1_896_739
+  login = "loomio"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE4OTY3Mzk="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

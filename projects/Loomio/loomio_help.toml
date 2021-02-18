@@ -1,6 +1,46 @@
 code_url = "https://github.com/loomio/loomio_help"
 description = "Resources for people learning Loomio and introducing their group to online decision making."
-git_branch = "master"
 git_url = "git://github.com/loomio/loomio_help.git"
-last_pushed_within = "month"
 name = "loomio_help"
+organization_name = "Loomio"
+
+[github]
+archived = false
+created_at = "2018-07-24T07:14:47Z"
+default_branch = "master"
+description = "Resources for people learning Loomio and introducing their group to online decision making."
+disabled = false
+fork = false
+forks_within = 10
+full_name = "loomio/loomio_help"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 142_119_717
+language = "HTML"
+license = { }
+name = "loomio_help"
+node_id = "MDEwOlJlcG9zaXRvcnkxNDIxMTk3MTc="
+open_issues_within = 10
+private = false
+pushed_within = "month"
+stargazers_within = 10
+topics = [ ]
+updated_within = "month"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 1_896_739
+  login = "loomio"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE4OTY3Mzk="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
