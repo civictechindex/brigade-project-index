@@ -1,6 +1,51 @@
 code_url = "https://github.com/codeforireland/myq-backend-app"
 description = "myQ | Social queueing application"
-git_branch = "master"
 git_url = "git://github.com/codeforireland/myq-backend-app.git"
-last_pushed_within = "over_a_year"
 name = "myq-backend-app"
+organization_name = "Code for Ireland"
+
+[github]
+archived = false
+created_at = "2014-10-05T14:24:22Z"
+default_branch = "master"
+description = "myQ | Social queueing application"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codeforireland/myq-backend-app"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 24_817_357
+language = "Java"
+name = "myq-backend-app"
+node_id = "MDEwOlJlcG9zaXRvcnkyNDgxNzM1Nw=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 7_756_799
+  login = "codeforireland"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjc3NTY3OTk="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
