@@ -1,5 +1,45 @@
 code_url = "https://github.com/codeforgermany/annual-german"
-git_branch = "gh-pages"
 git_url = "git://github.com/codeforgermany/annual-german.git"
-last_pushed_within = "over_a_year"
 name = "annual-german"
+organization_name = "Code for Germany"
+
+[github]
+archived = false
+created_at = "2014-11-10T14:25:37Z"
+default_branch = "gh-pages"
+description = { }
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codeforgermany/annual-german"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 26_439_608
+language = "CSS"
+license = { }
+name = "annual-german"
+node_id = "MDEwOlJlcG9zaXRvcnkyNjQzOTYwOA=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_952_379
+  login = "codeforgermany"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjY5NTIzNzk="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

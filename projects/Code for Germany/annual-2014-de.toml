@@ -1,7 +1,47 @@
 code_url = "https://github.com/codeforgermany/annual-2014-de"
 description = "Code for America's Annual Report"
-git_branch = "gh-pages"
 git_url = "git://github.com/codeforgermany/annual-2014-de.git"
-last_pushed_within = "over_a_year"
 link_url = "http://annual.codeforamerica.org"
 name = "annual-2014-de"
+organization_name = "Code for Germany"
+
+[github]
+archived = false
+created_at = "2014-10-08T13:57:32Z"
+default_branch = "gh-pages"
+description = "Code for America's Annual Report"
+disabled = false
+fork = true
+forks_within = 10
+full_name = "codeforgermany/annual-2014-de"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "http://annual.codeforamerica.org"
+id = 24_943_134
+language = "CSS"
+license = { }
+name = "annual-2014-de"
+node_id = "MDEwOlJlcG9zaXRvcnkyNDk0MzEzNA=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_952_379
+  login = "codeforgermany"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjY5NTIzNzk="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
