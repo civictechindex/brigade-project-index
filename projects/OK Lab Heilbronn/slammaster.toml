@@ -1,5 +1,50 @@
 code_url = "https://github.com/opendata-heilbronn/slammaster"
-git_branch = "master"
 git_url = "git://github.com/opendata-heilbronn/slammaster.git"
-last_pushed_within = "over_a_year"
 name = "slammaster"
+organization_name = "OK Lab Heilbronn"
+
+[github]
+archived = false
+created_at = "2017-11-02T18:18:40Z"
+default_branch = "master"
+description = { }
+disabled = false
+fork = false
+forks_within = 0
+full_name = "opendata-heilbronn/slammaster"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 109_302_566
+language = "HTML"
+name = "slammaster"
+node_id = "MDEwOlJlcG9zaXRvcnkxMDkzMDI1NjY="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_741_385
+  login = "opendata-heilbronn"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjY3NDEzODU="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

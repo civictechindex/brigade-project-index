@@ -1,6 +1,46 @@
 code_url = "https://github.com/opendata-heilbronn/KaufKnecht"
 description = "Bridging IT Hackathon 2018 Projekt"
-git_branch = "master"
 git_url = "git://github.com/opendata-heilbronn/KaufKnecht.git"
-last_pushed_within = "over_a_year"
 name = "KaufKnecht"
+organization_name = "OK Lab Heilbronn"
+
+[github]
+archived = false
+created_at = "2018-06-15T16:19:30Z"
+default_branch = "master"
+description = "Bridging IT Hackathon 2018 Projekt"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "opendata-heilbronn/KaufKnecht"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 137_509_004
+language = "TypeScript"
+license = { }
+name = "KaufKnecht"
+node_id = "MDEwOlJlcG9zaXRvcnkxMzc1MDkwMDQ="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_741_385
+  login = "opendata-heilbronn"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjY3NDEzODU="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

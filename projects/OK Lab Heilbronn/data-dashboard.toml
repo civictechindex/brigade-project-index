@@ -1,7 +1,52 @@
 code_url = "https://github.com/opendata-heilbronn/data-dashboard"
 description = "Show an #OpenData data dashboard of various cities"
-git_branch = "master"
 git_url = "git://github.com/opendata-heilbronn/data-dashboard.git"
-last_pushed_within = "over_a_year"
 link_url = "http://www.datenwaben.de"
 name = "data-dashboard"
+organization_name = "OK Lab Heilbronn"
+
+[github]
+archived = false
+created_at = "2019-03-02T09:28:01Z"
+default_branch = "master"
+description = "Show an #OpenData data dashboard of various cities"
+disabled = false
+fork = true
+forks_within = 10
+full_name = "opendata-heilbronn/data-dashboard"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://www.datenwaben.de"
+id = 173_428_544
+language = "JavaScript"
+name = "data-dashboard"
+node_id = "MDEwOlJlcG9zaXRvcnkxNzM0Mjg1NDQ="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_741_385
+  login = "opendata-heilbronn"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjY3NDEzODU="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

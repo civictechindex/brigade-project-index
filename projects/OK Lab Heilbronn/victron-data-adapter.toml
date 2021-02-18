@@ -1,9 +1,8 @@
 code_url = "https://github.com/opendata-heilbronn/victron-data-adapter"
 description = ".NET Core Adapter to forward the streaming data from a Victron solar charge controller to a InfluxDB"
-git_branch = "master"
 git_url = "git://github.com/opendata-heilbronn/victron-data-adapter.git"
-last_pushed_within = "over_a_year"
 name = "victron-data-adapter"
+organization_name = "OK Lab Heilbronn"
 topics = [
   "docker",
   "dotnet-core",
@@ -12,3 +11,56 @@ topics = [
   "ve-direct",
   "victron"
 ]
+
+[github]
+archived = false
+created_at = "2019-01-01T20:33:00Z"
+default_branch = "master"
+description = ".NET Core Adapter to forward the streaming data from a Victron solar charge controller to a InfluxDB"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "opendata-heilbronn/victron-data-adapter"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 163_764_666
+language = "C#"
+name = "victron-data-adapter"
+node_id = "MDEwOlJlcG9zaXRvcnkxNjM3NjQ2NjY="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [
+  "docker",
+  "dotnet-core",
+  "influxdb",
+  "solar-charger",
+  "ve-direct",
+  "victron"
+]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_741_385
+  login = "opendata-heilbronn"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjY3NDEzODU="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

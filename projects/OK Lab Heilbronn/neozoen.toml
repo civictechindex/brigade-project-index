@@ -1,6 +1,46 @@
 code_url = "https://github.com/opendata-heilbronn/neozoen"
 description = "europe aliens neozoen"
-git_branch = "master"
 git_url = "git://github.com/opendata-heilbronn/neozoen.git"
-last_pushed_within = "over_a_year"
 name = "neozoen"
+organization_name = "OK Lab Heilbronn"
+
+[github]
+archived = false
+created_at = "2014-06-15T08:16:17Z"
+default_branch = "master"
+description = "europe aliens neozoen"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "opendata-heilbronn/neozoen"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 20_851_047
+language = "JavaScript"
+license = { }
+name = "neozoen"
+node_id = "MDEwOlJlcG9zaXRvcnkyMDg1MTA0Nw=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_741_385
+  login = "opendata-heilbronn"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjY3NDEzODU="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

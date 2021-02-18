@@ -1,6 +1,46 @@
 code_url = "https://github.com/opendata-heilbronn/Experimenta-Countdown"
 description = "Damit wir immer wissen, wie lange wir noch warten müssen, bis die Experimenta wieder eröffnet wird"
-git_branch = "master"
 git_url = "git://github.com/opendata-heilbronn/Experimenta-Countdown.git"
-last_pushed_within = "over_a_year"
 name = "Experimenta-Countdown"
+organization_name = "OK Lab Heilbronn"
+
+[github]
+archived = false
+created_at = "2017-12-09T16:30:21Z"
+default_branch = "master"
+description = "Damit wir immer wissen, wie lange wir noch warten müssen, bis die Experimenta wieder eröffnet wird"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "opendata-heilbronn/Experimenta-Countdown"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 113_683_860
+language = "JavaScript"
+license = { }
+name = "Experimenta-Countdown"
+node_id = "MDEwOlJlcG9zaXRvcnkxMTM2ODM4NjA="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_741_385
+  login = "opendata-heilbronn"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjY3NDEzODU="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

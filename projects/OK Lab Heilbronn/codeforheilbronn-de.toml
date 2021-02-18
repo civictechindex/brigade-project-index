@@ -1,8 +1,48 @@
 code_url = "https://github.com/opendata-heilbronn/codeforheilbronn-de"
 description = "Repository für unsere Vereinshomepage"
-git_branch = "master"
 git_url = "git://github.com/opendata-heilbronn/codeforheilbronn-de.git"
-last_pushed_within = "year"
 link_url = "http://codeforheilbronn.de"
 name = "codeforheilbronn-de"
+organization_name = "OK Lab Heilbronn"
 topics = [ "hacktoberfest" ]
+
+[github]
+archived = false
+created_at = "2017-11-06T18:52:22Z"
+default_branch = "master"
+description = "Repository für unsere Vereinshomepage"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "opendata-heilbronn/codeforheilbronn-de"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "http://codeforheilbronn.de"
+id = 109_735_923
+language = "SCSS"
+license = { }
+name = "codeforheilbronn-de"
+node_id = "MDEwOlJlcG9zaXRvcnkxMDk3MzU5MjM="
+open_issues_within = 10
+private = false
+pushed_within = "month"
+stargazers_within = 0
+topics = [ "hacktoberfest" ]
+updated_within = "month"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_741_385
+  login = "opendata-heilbronn"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjY3NDEzODU="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

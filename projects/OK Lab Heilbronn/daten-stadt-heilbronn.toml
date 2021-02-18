@@ -1,6 +1,51 @@
 code_url = "https://github.com/opendata-heilbronn/daten-stadt-heilbronn"
 description = "official open data of the city of heilbronn (first set)"
-git_branch = "master"
 git_url = "git://github.com/opendata-heilbronn/daten-stadt-heilbronn.git"
-last_pushed_within = "year"
 name = "daten-stadt-heilbronn"
+organization_name = "OK Lab Heilbronn"
+
+[github]
+archived = false
+created_at = "2017-03-02T14:57:05Z"
+default_branch = "master"
+description = "official open data of the city of heilbronn (first set)"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "opendata-heilbronn/daten-stadt-heilbronn"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 83_689_893
+language = "Python"
+name = "daten-stadt-heilbronn"
+node_id = "MDEwOlJlcG9zaXRvcnk4MzY4OTg5Mw=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "other"
+  name = "Other"
+  node_id = "MDc6TGljZW5zZTA="
+  spdx_id = "NOASSERTION"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_741_385
+  login = "opendata-heilbronn"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjY3NDEzODU="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

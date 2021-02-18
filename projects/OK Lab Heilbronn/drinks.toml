@@ -1,5 +1,50 @@
 code_url = "https://github.com/opendata-heilbronn/drinks"
-git_branch = "master"
 git_url = "git://github.com/opendata-heilbronn/drinks.git"
-last_pushed_within = "over_a_year"
 name = "drinks"
+organization_name = "OK Lab Heilbronn"
+
+[github]
+archived = false
+created_at = "2017-10-31T20:29:28Z"
+default_branch = "master"
+description = { }
+disabled = false
+fork = false
+forks_within = 0
+full_name = "opendata-heilbronn/drinks"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 109_048_944
+language = "CSS"
+name = "drinks"
+node_id = "MDEwOlJlcG9zaXRvcnkxMDkwNDg5NDQ="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "other"
+  name = "Other"
+  node_id = "MDc6TGljZW5zZTA="
+  spdx_id = "NOASSERTION"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_741_385
+  login = "opendata-heilbronn"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjY3NDEzODU="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

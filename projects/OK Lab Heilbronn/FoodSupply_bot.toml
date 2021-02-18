@@ -1,6 +1,51 @@
 code_url = "https://github.com/opendata-heilbronn/FoodSupply_bot"
 description = "FoodSupply_bot"
-git_branch = "master"
 git_url = "git://github.com/opendata-heilbronn/FoodSupply_bot.git"
-last_pushed_within = "over_a_year"
 name = "FoodSupply_bot"
+organization_name = "OK Lab Heilbronn"
+
+[github]
+archived = false
+created_at = "2017-07-21T15:36:59Z"
+default_branch = "master"
+description = "FoodSupply_bot"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "opendata-heilbronn/FoodSupply_bot"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 97_963_070
+language = "JavaScript"
+name = "FoodSupply_bot"
+node_id = "MDEwOlJlcG9zaXRvcnk5Nzk2MzA3MA=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_741_385
+  login = "opendata-heilbronn"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjY3NDEzODU="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

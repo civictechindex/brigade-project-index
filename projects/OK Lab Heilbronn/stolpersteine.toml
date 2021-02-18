@@ -1,7 +1,47 @@
 code_url = "https://github.com/opendata-heilbronn/stolpersteine"
 description = "Website für Stolpersteinprojekte - in diesem Repo außerdem: Stolpersteine Heilbronn"
-git_branch = "master"
 git_url = "git://github.com/opendata-heilbronn/stolpersteine.git"
-last_pushed_within = "over_a_year"
 link_url = "http://stolpersteine-heilbronn.de/"
 name = "stolpersteine"
+organization_name = "OK Lab Heilbronn"
+
+[github]
+archived = false
+created_at = "2016-12-30T09:43:22Z"
+default_branch = "master"
+description = "Website für Stolpersteinprojekte - in diesem Repo außerdem: Stolpersteine Heilbronn"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "opendata-heilbronn/stolpersteine"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "http://stolpersteine-heilbronn.de/"
+id = 77_677_154
+language = "HTML"
+license = { }
+name = "stolpersteine"
+node_id = "MDEwOlJlcG9zaXRvcnk3NzY3NzE1NA=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_741_385
+  login = "opendata-heilbronn"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjY3NDEzODU="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

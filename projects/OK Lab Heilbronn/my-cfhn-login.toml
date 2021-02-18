@@ -1,7 +1,52 @@
 code_url = "https://github.com/opendata-heilbronn/my-cfhn-login"
 description = "DO NOT PUSH HERE - Hosted on CFHN Gitlab"
-git_branch = "master"
 git_url = "git://github.com/opendata-heilbronn/my-cfhn-login.git"
-last_pushed_within = "over_a_year"
 link_url = "https://git.cfhn.it/mycfhn/login-ms"
 name = "my-cfhn-login"
+organization_name = "OK Lab Heilbronn"
+
+[github]
+archived = false
+created_at = "2018-10-04T13:46:54Z"
+default_branch = "master"
+description = "DO NOT PUSH HERE - Hosted on CFHN Gitlab"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "opendata-heilbronn/my-cfhn-login"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "https://git.cfhn.it/mycfhn/login-ms"
+id = 151_578_752
+language = "Java"
+name = "my-cfhn-login"
+node_id = "MDEwOlJlcG9zaXRvcnkxNTE1Nzg3NTI="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_741_385
+  login = "opendata-heilbronn"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjY3NDEzODU="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
