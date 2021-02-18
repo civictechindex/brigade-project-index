@@ -1,7 +1,52 @@
 code_url = "https://github.com/project-open-data/project-open-data.github.io"
 description = "Open Data Policy — Managing Information as an Asset"
-git_branch = "master"
 git_url = "git://github.com/project-open-data/project-open-data.github.io.git"
-last_pushed_within = "year"
 link_url = "https://project-open-data.cio.gov/"
 name = "project-open-data.github.io"
+organization_name = "Project Open Data"
+
+[github]
+archived = false
+created_at = "2013-05-09T14:07:53Z"
+default_branch = "master"
+description = "Open Data Policy — Managing Information as an Asset"
+disabled = false
+fork = false
+forks_within = 1_000
+full_name = "project-open-data/project-open-data.github.io"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = false
+homepage = "https://project-open-data.cio.gov/"
+id = 9_960_426
+language = "HTML"
+name = "project-open-data.github.io"
+node_id = "MDEwOlJlcG9zaXRvcnk5OTYwNDI2"
+open_issues_within = 100
+private = false
+pushed_within = "month"
+stargazers_within = "over_1000"
+topics = [ ]
+updated_within = "week"
+watchers_within = "over_1000"
+
+  [github.license]
+  key = "other"
+  name = "Other"
+  node_id = "MDc6TGljZW5zZTA="
+  spdx_id = "NOASSERTION"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_349_100
+  login = "project-open-data"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjIzNDkxMDA="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
