@@ -1,0 +1,47 @@
+code_url = "https://github.com/Open-Columbia-County/small-businesses"
+description = "Highlighting the Small Businesses of Columbia County PA"
+git_url = "git://github.com/Open-Columbia-County/small-businesses.git"
+name = "small-businesses"
+organization_name = "Open Columbia County"
+topics = [ "code-for-america", "open-columbia-county" ]
+
+[github]
+archived = false
+created_at = "2021-01-03T06:43:46Z"
+default_branch = "master"
+description = "Highlighting the Small Businesses of Columbia County PA"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "Open-Columbia-County/small-businesses"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 326_345_426
+language = "JavaScript"
+license = { }
+name = "small-businesses"
+node_id = "MDEwOlJlcG9zaXRvcnkzMjYzNDU0MjY="
+open_issues_within = 0
+private = false
+pushed_within = "year"
+stargazers_within = 10
+topics = [ "code-for-america", "open-columbia-county" ]
+updated_within = "year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 76_081_811
+  login = "Open-Columbia-County"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjc2MDgxODEx"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
