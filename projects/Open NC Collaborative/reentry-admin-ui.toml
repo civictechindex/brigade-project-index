@@ -1,6 +1,46 @@
 code_url = "https://github.com/Open-NC/reentry-admin-ui"
 description = "Front-end for the administrative UI for content on the reentry hub."
-git_branch = "master"
 git_url = "git://github.com/Open-NC/reentry-admin-ui.git"
-last_pushed_within = "over_a_year"
 name = "reentry-admin-ui"
+organization_name = "Open NC Collaborative"
+
+[github]
+archived = false
+created_at = "2017-07-15T17:24:55Z"
+default_branch = "master"
+description = "Front-end for the administrative UI for content on the reentry hub."
+disabled = false
+fork = false
+forks_within = 10
+full_name = "Open-NC/reentry-admin-ui"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 97_331_475
+language = "JavaScript"
+license = { }
+name = "reentry-admin-ui"
+node_id = "MDEwOlJlcG9zaXRvcnk5NzMzMTQ3NQ=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 24_854_789
+  login = "Open-NC"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI0ODU0Nzg5"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
