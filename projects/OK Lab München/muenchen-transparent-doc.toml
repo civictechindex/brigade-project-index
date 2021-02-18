@@ -1,6 +1,46 @@
 code_url = "https://github.com/codeformunich/muenchen-transparent-doc"
 description = " :page_facing_up: Dokumente zu München Transparent"
-git_branch = "master"
 git_url = "git://github.com/codeformunich/muenchen-transparent-doc.git"
-last_pushed_within = "over_a_year"
 name = "muenchen-transparent-doc"
+organization_name = "OK Lab München"
+
+[github]
+archived = false
+created_at = "2016-06-01T17:52:53Z"
+default_branch = "master"
+description = " :page_facing_up: Dokumente zu München Transparent"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "codeformunich/muenchen-transparent-doc"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 60_198_943
+language = { }
+license = { }
+name = "muenchen-transparent-doc"
+node_id = "MDEwOlJlcG9zaXRvcnk2MDE5ODk0Mw=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 8_250_305
+  login = "codeformunich"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjgyNTAzMDU="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

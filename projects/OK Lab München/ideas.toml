@@ -1,6 +1,46 @@
 code_url = "https://github.com/codeformunich/ideas"
 description = "Collect potential project ideas and discussions here. When its clear what we want to do, the idea can get its own repo."
-git_branch = "master"
 git_url = "git://github.com/codeformunich/ideas.git"
-last_pushed_within = "over_a_year"
 name = "ideas"
+organization_name = "OK Lab München"
+
+[github]
+archived = false
+created_at = "2014-11-14T09:16:01Z"
+default_branch = "master"
+description = "Collect potential project ideas and discussions here. When its clear what we want to do, the idea can get its own repo."
+disabled = false
+fork = false
+forks_within = 0
+full_name = "codeformunich/ideas"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 26_631_109
+language = { }
+license = { }
+name = "ideas"
+node_id = "MDEwOlJlcG9zaXRvcnkyNjYzMTEwOQ=="
+open_issues_within = 100
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 8_250_305
+  login = "codeformunich"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjgyNTAzMDU="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
