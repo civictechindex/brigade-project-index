@@ -1,10 +1,9 @@
 code_url = "https://github.com/CodeForAfrica/CodeOfConduct"
 description = "[DRAFT]  Code for Africa's Code of Conduct across our communities online and offline. Accessible at https://codeforafrica.github.io/CodeOfConduct/"
-git_branch = "master"
 git_url = "git://github.com/CodeForAfrica/CodeOfConduct.git"
-last_pushed_within = "over_a_year"
 link_url = "https://codeforafrica.github.io/CodeOfConduct/"
 name = "CodeOfConduct"
+organization_name = "Code for Nigeria"
 topics = [
   "code-for-africa",
   "code-of-conduct",
@@ -21,3 +20,64 @@ topics = [
   "safe-spaces",
   "safety"
 ]
+
+[github]
+archived = false
+created_at = "2017-11-06T11:29:13Z"
+default_branch = "master"
+description = "[DRAFT]  Code for Africa's Code of Conduct across our communities online and offline. Accessible at https://codeforafrica.github.io/CodeOfConduct/"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "CodeForAfrica/CodeOfConduct"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "https://codeforafrica.github.io/CodeOfConduct/"
+id = 109_686_808
+language = { }
+name = "CodeOfConduct"
+node_id = "MDEwOlJlcG9zaXRvcnkxMDk2ODY4MDg="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [
+  "code-for-africa",
+  "code-of-conduct",
+  "community",
+  "conduct",
+  "contributor-covenant",
+  "contributors",
+  "governance",
+  "hacks-hackers",
+  "harassment",
+  "harassment-monitor",
+  "online-forums",
+  "open-source",
+  "safe-spaces",
+  "safety"
+]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_786_364
+  login = "CodeForAfrica"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI3ODYzNjQ="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

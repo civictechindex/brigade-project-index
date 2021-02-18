@@ -1,10 +1,9 @@
 code_url = "https://github.com/CodeForAfrica/sensors.AFRICA-SeaSensors-ComingSoon"
 description = "The Coming Soon page for SeaSensors project; part of the sensors.AFRICA network - a citizen-science air, water, and sound quality network across the continent. Accessible at https://seasensors.africa/"
-git_branch = "master"
 git_url = "git://github.com/CodeForAfrica/sensors.AFRICA-SeaSensors-ComingSoon.git"
-last_pushed_within = "over_a_year"
 link_url = "https://seasensors.africa/"
 name = "sensors.AFRICA-SeaSensors-ComingSoon"
+organization_name = "Code for Nigeria"
 topics = [
   "blast-fishing",
   "iot",
@@ -14,3 +13,57 @@ topics = [
   "sensors-africa",
   "sensorsafrica"
 ]
+
+[github]
+archived = false
+created_at = "2018-11-06T08:33:31Z"
+default_branch = "master"
+description = "The Coming Soon page for SeaSensors project; part of the sensors.AFRICA network - a citizen-science air, water, and sound quality network across the continent. Accessible at https://seasensors.africa/"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "CodeForAfrica/sensors.AFRICA-SeaSensors-ComingSoon"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "https://seasensors.africa/"
+id = 156_351_682
+language = "HTML"
+name = "sensors.AFRICA-SeaSensors-ComingSoon"
+node_id = "MDEwOlJlcG9zaXRvcnkxNTYzNTE2ODI="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [
+  "blast-fishing",
+  "iot",
+  "sea-sensors",
+  "seasensors",
+  "sensors",
+  "sensors-africa",
+  "sensorsafrica"
+]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "gpl-3.0"
+  name = "GNU General Public License v3.0"
+  node_id = "MDc6TGljZW5zZTk="
+  spdx_id = "GPL-3.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_786_364
+  login = "CodeForAfrica"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI3ODYzNjQ="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

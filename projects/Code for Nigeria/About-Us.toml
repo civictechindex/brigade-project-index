@@ -1,0 +1,46 @@
+code_url = "https://github.com/CodeForAfrica/About-Us"
+description = "More information about Code for Africa"
+git_url = "git://github.com/CodeForAfrica/About-Us.git"
+name = "About-Us"
+organization_name = "Code for Nigeria"
+
+[github]
+archived = false
+created_at = "2021-02-02T12:10:59Z"
+default_branch = "main"
+description = "More information about Code for Africa"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "CodeForAfrica/About-Us"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 335_276_788
+language = { }
+license = { }
+name = "About-Us"
+node_id = "MDEwOlJlcG9zaXRvcnkzMzUyNzY3ODg="
+open_issues_within = 0
+private = false
+pushed_within = "month"
+stargazers_within = 0
+topics = [ ]
+updated_within = "month"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_786_364
+  login = "CodeForAfrica"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI3ODYzNjQ="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

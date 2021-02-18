@@ -1,5 +1,50 @@
 code_url = "https://github.com/CodeForAfrica/StarReports"
-git_branch = "StarReportsTemp"
 git_url = "git://github.com/CodeForAfrica/StarReports.git"
-last_pushed_within = "over_a_year"
 name = "StarReports"
+organization_name = "Code for Nigeria"
+
+[github]
+archived = false
+created_at = "2014-11-17T10:34:52Z"
+default_branch = "StarReportsTemp"
+description = { }
+disabled = false
+fork = false
+forks_within = 0
+full_name = "CodeForAfrica/StarReports"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 26_751_933
+language = "Java"
+name = "StarReports"
+node_id = "MDEwOlJlcG9zaXRvcnkyNjc1MTkzMw=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "gpl-2.0"
+  name = "GNU General Public License v2.0"
+  node_id = "MDc6TGljZW5zZTg="
+  spdx_id = "GPL-2.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_786_364
+  login = "CodeForAfrica"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI3ODYzNjQ="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

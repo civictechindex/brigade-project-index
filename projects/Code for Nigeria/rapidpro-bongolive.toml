@@ -1,9 +1,8 @@
 code_url = "https://github.com/CodeForAfrica/rapidpro-bongolive"
 description = "A tiny express.js app to serve SMSs from BongoLive to RapidPro."
-git_branch = "master"
 git_url = "git://github.com/CodeForAfrica/rapidpro-bongolive.git"
-last_pushed_within = "over_a_year"
 name = "rapidpro-bongolive"
+organization_name = "Code for Nigeria"
 topics = [
   "africancommons",
   "bongolive",
@@ -14,3 +13,58 @@ topics = [
   "sms-gateway",
   "tanzania"
 ]
+
+[github]
+archived = false
+created_at = "2018-12-10T14:06:02Z"
+default_branch = "master"
+description = "A tiny express.js app to serve SMSs from BongoLive to RapidPro."
+disabled = false
+fork = false
+forks_within = 0
+full_name = "CodeForAfrica/rapidpro-bongolive"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 161_184_319
+language = "JavaScript"
+name = "rapidpro-bongolive"
+node_id = "MDEwOlJlcG9zaXRvcnkxNjExODQzMTk="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [
+  "africancommons",
+  "bongolive",
+  "commons",
+  "express",
+  "rapidpro",
+  "sms",
+  "sms-gateway",
+  "tanzania"
+]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "gpl-3.0"
+  name = "GNU General Public License v3.0"
+  node_id = "MDc6TGljZW5zZTk="
+  spdx_id = "GPL-3.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_786_364
+  login = "CodeForAfrica"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI3ODYzNjQ="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

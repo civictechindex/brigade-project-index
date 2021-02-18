@@ -1,6 +1,46 @@
 code_url = "https://github.com/CodeForAfrica/PharmacyCouncilTool.WEB"
 description = "Pharmacy Reporting Tool Web"
-git_branch = "master"
 git_url = "git://github.com/CodeForAfrica/PharmacyCouncilTool.WEB.git"
-last_pushed_within = "over_a_year"
 name = "PharmacyCouncilTool.WEB"
+organization_name = "Code for Nigeria"
+
+[github]
+archived = false
+created_at = "2017-08-18T08:41:41Z"
+default_branch = "master"
+description = "Pharmacy Reporting Tool Web"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "CodeForAfrica/PharmacyCouncilTool.WEB"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 100_691_939
+language = "PHP"
+license = { }
+name = "PharmacyCouncilTool.WEB"
+node_id = "MDEwOlJlcG9zaXRvcnkxMDA2OTE5Mzk="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_786_364
+  login = "CodeForAfrica"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI3ODYzNjQ="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

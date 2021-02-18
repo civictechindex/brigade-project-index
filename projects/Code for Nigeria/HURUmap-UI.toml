@@ -1,10 +1,9 @@
 code_url = "https://github.com/CodeForAfrica/HURUmap-UI"
 description = "HURUmap UI React chart and visualisation components powering geo-data platforms across Africa. Accessible at https://codeforafrica.github.io/HURUmap-UI/"
-git_branch = "master"
 git_url = "git://github.com/CodeForAfrica/HURUmap-UI.git"
-last_pushed_within = "month"
 link_url = "https://codeforafrica.github.io/HURUmap-UI/"
 name = "HURUmap-UI"
+organization_name = "Code for Nigeria"
 topics = [
   "charts",
   "code-for-africa",
@@ -17,3 +16,60 @@ topics = [
   "reactjs",
   "storybook"
 ]
+
+[github]
+archived = false
+created_at = "2019-06-27T08:21:57Z"
+default_branch = "master"
+description = "HURUmap UI React chart and visualisation components powering geo-data platforms across Africa. Accessible at https://codeforafrica.github.io/HURUmap-UI/"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "CodeForAfrica/HURUmap-UI"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "https://codeforafrica.github.io/HURUmap-UI/"
+id = 194_053_887
+language = "JavaScript"
+name = "HURUmap-UI"
+node_id = "MDEwOlJlcG9zaXRvcnkxOTQwNTM4ODc="
+open_issues_within = 10
+private = false
+pushed_within = "year"
+stargazers_within = 10
+topics = [
+  "charts",
+  "code-for-africa",
+  "data-visualization",
+  "graphs",
+  "hurumap",
+  "hurumap-ui",
+  "material-design",
+  "react",
+  "reactjs",
+  "storybook"
+]
+updated_within = "year"
+watchers_within = 10
+
+  [github.license]
+  key = "other"
+  name = "Other"
+  node_id = "MDc6TGljZW5zZTA="
+  spdx_id = "NOASSERTION"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_786_364
+  login = "CodeForAfrica"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI3ODYzNjQ="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

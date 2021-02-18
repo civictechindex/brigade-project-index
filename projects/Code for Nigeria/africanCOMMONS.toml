@@ -1,10 +1,9 @@
 code_url = "https://github.com/CodeForAfrica/africanCOMMONS"
 description = "africanCOMMONS is a platform to showcase re-useable tools built across Africa and the people & organisations building them. Accessible at https://commons.africa/"
-git_branch = "master"
 git_url = "git://github.com/CodeForAfrica/africanCOMMONS.git"
-last_pushed_within = "over_a_year"
 link_url = "https://commons.africa/"
 name = "africanCOMMONS"
+organization_name = "Code for Nigeria"
 topics = [
   "africa",
   "african",
@@ -18,3 +17,61 @@ topics = [
   "showcase",
   "yarn"
 ]
+
+[github]
+archived = false
+created_at = "2017-02-01T09:11:06Z"
+default_branch = "master"
+description = "africanCOMMONS is a platform to showcase re-useable tools built across Africa and the people & organisations building them. Accessible at https://commons.africa/"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "CodeForAfrica/africanCOMMONS"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = false
+homepage = "https://commons.africa/"
+id = 80_604_271
+language = "JavaScript"
+name = "africanCOMMONS"
+node_id = "MDEwOlJlcG9zaXRvcnk4MDYwNDI3MQ=="
+open_issues_within = 100
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 100
+topics = [
+  "africa",
+  "african",
+  "african-commons",
+  "africancommons",
+  "civic",
+  "commons",
+  "github",
+  "jekyll",
+  "open-source",
+  "showcase",
+  "yarn"
+]
+updated_within = "year"
+watchers_within = 100
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_786_364
+  login = "CodeForAfrica"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI3ODYzNjQ="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

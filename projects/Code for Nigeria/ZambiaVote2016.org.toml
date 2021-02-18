@@ -1,7 +1,52 @@
 code_url = "https://github.com/CodeForAfrica/ZambiaVote2016.org"
 description = "A simple landing page for an elections initiative in Zambia's by Hivos and OSISA ahead of the country's national elections. Hosted on Github pages, this is a Jekyll powered website. Available at: http://www.zambiavote2016.org/"
-git_branch = "gh-pages"
 git_url = "git://github.com/CodeForAfrica/ZambiaVote2016.org.git"
-last_pushed_within = "over_a_year"
 link_url = "http://www.zambiavote2016.org/"
 name = "ZambiaVote2016.org"
+organization_name = "Code for Nigeria"
+
+[github]
+archived = false
+created_at = "2015-09-17T16:01:38Z"
+default_branch = "gh-pages"
+description = "A simple landing page for an elections initiative in Zambia's by Hivos and OSISA ahead of the country's national elections. Hosted on Github pages, this is a Jekyll powered website. Available at: http://www.zambiavote2016.org/"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "CodeForAfrica/ZambiaVote2016.org"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "http://www.zambiavote2016.org/"
+id = 42_666_255
+language = "CSS"
+name = "ZambiaVote2016.org"
+node_id = "MDEwOlJlcG9zaXRvcnk0MjY2NjI1NQ=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "gpl-2.0"
+  name = "GNU General Public License v2.0"
+  node_id = "MDc6TGljZW5zZTg="
+  spdx_id = "GPL-2.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_786_364
+  login = "CodeForAfrica"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI3ODYzNjQ="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

@@ -1,10 +1,9 @@
 code_url = "https://github.com/CodeForAfrica/sensors.AFRICA-StormWatch"
 description = "A sensors.AFRICA project to send SMS alerts of storms around the great lakes region. Accessible at https://stormwatch.sensors.africa/"
-git_branch = "master"
 git_url = "git://github.com/CodeForAfrica/sensors.AFRICA-StormWatch.git"
-last_pushed_within = "over_a_year"
 link_url = "https://stormwatch.sensors.africa/"
 name = "sensors.AFRICA-StormWatch"
+organization_name = "Code for Nigeria"
 topics = [
   "africa",
   "extreme-weather",
@@ -27,3 +26,65 @@ topics = [
   "views",
   "weather"
 ]
+
+[github]
+archived = false
+created_at = "2018-05-16T05:04:18Z"
+default_branch = "master"
+description = "A sensors.AFRICA project to send SMS alerts of storms around the great lakes region. Accessible at https://stormwatch.sensors.africa/"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "CodeForAfrica/sensors.AFRICA-StormWatch"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = false
+has_wiki = true
+homepage = "https://stormwatch.sensors.africa/"
+id = 133_612_948
+language = { }
+license = { }
+name = "sensors.AFRICA-StormWatch"
+node_id = "MDEwOlJlcG9zaXRvcnkxMzM2MTI5NDg="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [
+  "africa",
+  "extreme-weather",
+  "great-lakes",
+  "kenya",
+  "lake-victoria",
+  "machine-learning",
+  "meteorological",
+  "meteorological-data",
+  "meteorology",
+  "nasa",
+  "satellite-data",
+  "satellite-imagery",
+  "satellites",
+  "sensor-africa",
+  "sensors",
+  "storm-watch",
+  "tanzania",
+  "uganda",
+  "views",
+  "weather"
+]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_786_364
+  login = "CodeForAfrica"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI3ODYzNjQ="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

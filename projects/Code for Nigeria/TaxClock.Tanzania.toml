@@ -1,6 +1,51 @@
 code_url = "https://github.com/CodeForAfrica/TaxClock.Tanzania"
 description = "Time is money. So, paying your tax means that you are actually giving government your time, or labour. This project helps you calculate exactly how much time you spend working for the government.  Accessible at https://taxclock.codefortanzania.org/"
-git_branch = "gh-pages"
 git_url = "git://github.com/CodeForAfrica/TaxClock.Tanzania.git"
-last_pushed_within = "over_a_year"
 name = "TaxClock.Tanzania"
+organization_name = "Code for Nigeria"
+
+[github]
+archived = false
+created_at = "2019-04-14T14:24:10Z"
+default_branch = "gh-pages"
+description = "Time is money. So, paying your tax means that you are actually giving government your time, or labour. This project helps you calculate exactly how much time you spend working for the government.  Accessible at https://taxclock.codefortanzania.org/"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "CodeForAfrica/TaxClock.Tanzania"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 181_320_540
+language = "JavaScript"
+name = "TaxClock.Tanzania"
+node_id = "MDEwOlJlcG9zaXRvcnkxODEzMjA1NDA="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "gpl-3.0"
+  name = "GNU General Public License v3.0"
+  node_id = "MDc6TGljZW5zZTk="
+  spdx_id = "GPL-3.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_786_364
+  login = "CodeForAfrica"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI3ODYzNjQ="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

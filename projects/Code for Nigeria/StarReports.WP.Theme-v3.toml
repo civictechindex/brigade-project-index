@@ -1,6 +1,46 @@
 code_url = "https://github.com/CodeForAfrica/StarReports.WP.Theme-v3"
 description = "The StarReports Wordpress theme that creates a custom look and feel of the Star Newspaper's (East Africa) citizen reporting portal. "
-git_branch = "master"
 git_url = "git://github.com/CodeForAfrica/StarReports.WP.Theme-v3.git"
-last_pushed_within = "over_a_year"
 name = "StarReports.WP.Theme-v3"
+organization_name = "Code for Nigeria"
+
+[github]
+archived = false
+created_at = "2016-11-29T07:02:14Z"
+default_branch = "master"
+description = "The StarReports Wordpress theme that creates a custom look and feel of the Star Newspaper's (East Africa) citizen reporting portal. "
+disabled = false
+fork = false
+forks_within = 0
+full_name = "CodeForAfrica/StarReports.WP.Theme-v3"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 75_053_065
+language = "JavaScript"
+license = { }
+name = "StarReports.WP.Theme-v3"
+node_id = "MDEwOlJlcG9zaXRvcnk3NTA1MzA2NQ=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_786_364
+  login = "CodeForAfrica"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI3ODYzNjQ="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

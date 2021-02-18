@@ -1,18 +1,74 @@
 code_url = "https://github.com/CodeForAfrica/ckanext-social"
 description = "Improved social sharing in CKAN."
-git_branch = "master"
 git_url = "git://github.com/CodeForAfrica/ckanext-social.git"
-last_pushed_within = "over_a_year"
 name = "ckanext-social"
+organization_name = "Code for Nigeria"
 topics = [
   "africa",
   "andela",
   "ckan",
-  "ckan-extension",
   "ckanext",
+  "ckan-extension",
   "open-africa",
   "open-data",
   "social",
   "social-network",
   "social-sharing"
 ]
+
+[github]
+archived = false
+created_at = "2017-09-11T15:09:54Z"
+default_branch = "master"
+description = "Improved social sharing in CKAN."
+disabled = false
+fork = false
+forks_within = 10
+full_name = "CodeForAfrica/ckanext-social"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 103_151_132
+language = "Python"
+name = "ckanext-social"
+node_id = "MDEwOlJlcG9zaXRvcnkxMDMxNTExMzI="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [
+  "africa",
+  "andela",
+  "ckan",
+  "ckanext",
+  "ckan-extension",
+  "open-africa",
+  "open-data",
+  "social",
+  "social-network",
+  "social-sharing"
+]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_786_364
+  login = "CodeForAfrica"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI3ODYzNjQ="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
