@@ -1,7 +1,47 @@
 code_url = "https://github.com/MicrosoftTCE/civic-graph-node"
 description = "Civic Graph - Visualization Tool - "
-git_branch = "master"
 git_url = "git://github.com/MicrosoftTCE/civic-graph-node.git"
-last_pushed_within = "over_a_year"
 link_url = "http://civicgraph.io"
 name = "civic-graph-node"
+organization_name = "Microsoft Technology and Civic Engagement"
+
+[github]
+archived = false
+created_at = "2014-10-29T22:26:46Z"
+default_branch = "master"
+description = "Civic Graph - Visualization Tool - "
+disabled = false
+fork = false
+forks_within = 0
+full_name = "MicrosoftTCE/civic-graph-node"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://civicgraph.io"
+id = 25_944_237
+language = "JavaScript"
+license = { }
+name = "civic-graph-node"
+node_id = "MDEwOlJlcG9zaXRvcnkyNTk0NDIzNw=="
+open_issues_within = 100
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 15_055_478
+  login = "MicrosoftTCE"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE1MDU1NDc4"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

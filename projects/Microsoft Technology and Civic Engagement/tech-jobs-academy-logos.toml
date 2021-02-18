@@ -1,7 +1,52 @@
 code_url = "https://github.com/MicrosoftTCE/tech-jobs-academy-logos"
 description = "Tech Jobs Academy logos"
-git_branch = "master"
 git_url = "git://github.com/MicrosoftTCE/tech-jobs-academy-logos.git"
-last_pushed_within = "over_a_year"
 link_url = "http://techjobsacademy.com"
 name = "tech-jobs-academy-logos"
+organization_name = "Microsoft Technology and Civic Engagement"
+
+[github]
+archived = false
+created_at = "2016-12-24T06:06:51Z"
+default_branch = "master"
+description = "Tech Jobs Academy logos"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "MicrosoftTCE/tech-jobs-academy-logos"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = false
+homepage = "http://techjobsacademy.com"
+id = 77_268_899
+language = { }
+name = "tech-jobs-academy-logos"
+node_id = "MDEwOlJlcG9zaXRvcnk3NzI2ODg5OQ=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "year"
+watchers_within = 10
+
+  [github.license]
+  key = "other"
+  name = "Other"
+  node_id = "MDc6TGljZW5zZTA="
+  spdx_id = "NOASSERTION"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 15_055_478
+  login = "MicrosoftTCE"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE1MDU1NDc4"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

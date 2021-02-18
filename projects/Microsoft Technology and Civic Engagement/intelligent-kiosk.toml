@@ -1,6 +1,46 @@
 code_url = "https://github.com/MicrosoftTCE/intelligent-kiosk"
 description = "Quick setup instructions for intelligent-kiosk configuration"
-git_branch = "master"
 git_url = "git://github.com/MicrosoftTCE/intelligent-kiosk.git"
-last_pushed_within = "over_a_year"
 name = "intelligent-kiosk"
+organization_name = "Microsoft Technology and Civic Engagement"
+
+[github]
+archived = false
+created_at = "2017-03-29T18:35:49Z"
+default_branch = "master"
+description = "Quick setup instructions for intelligent-kiosk configuration"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "MicrosoftTCE/intelligent-kiosk"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 86_616_690
+language = { }
+license = { }
+name = "intelligent-kiosk"
+node_id = "MDEwOlJlcG9zaXRvcnk4NjYxNjY5MA=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 15_055_478
+  login = "MicrosoftTCE"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE1MDU1NDc4"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
