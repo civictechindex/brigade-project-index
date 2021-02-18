@@ -1,6 +1,51 @@
 code_url = "https://github.com/codeforokc/analytics-reporter"
 description = "Lightweight analytics reporting and publishing tool for Google Analytics data. Powers https://analytics.usa.gov, http://analytics.phila.gov, and more."
-git_branch = "master"
 git_url = "git://github.com/codeforokc/analytics-reporter.git"
-last_pushed_within = "over_a_year"
 name = "analytics-reporter"
+organization_name = "Code for OKC"
+
+[github]
+archived = false
+created_at = "2016-03-05T18:42:52Z"
+default_branch = "master"
+description = "Lightweight analytics reporting and publishing tool for Google Analytics data. Powers https://analytics.usa.gov, http://analytics.phila.gov, and more."
+disabled = false
+fork = true
+forks_within = 0
+full_name = "codeforokc/analytics-reporter"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 53_217_204
+language = "JavaScript"
+name = "analytics-reporter"
+node_id = "MDEwOlJlcG9zaXRvcnk1MzIxNzIwNA=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "other"
+  name = "Other"
+  node_id = "MDc6TGljZW5zZTA="
+  spdx_id = "NOASSERTION"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 8_738_523
+  login = "codeforokc"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjg3Mzg1MjM="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

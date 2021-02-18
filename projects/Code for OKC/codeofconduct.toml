@@ -1,8 +1,48 @@
 code_url = "https://github.com/codeforokc/codeofconduct"
 description = "Code for OKC's Code of Conduct"
-git_branch = "master"
 git_url = "git://github.com/codeforokc/codeofconduct.git"
-last_pushed_within = "over_a_year"
 link_url = "http://codeforokc.org"
 name = "codeofconduct"
+organization_name = "Code for OKC"
 topics = [ "codeofconduct" ]
+
+[github]
+archived = false
+created_at = "2014-10-27T03:37:22Z"
+default_branch = "master"
+description = "Code for OKC's Code of Conduct"
+disabled = false
+fork = true
+forks_within = 0
+full_name = "codeforokc/codeofconduct"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = false
+homepage = "http://codeforokc.org"
+id = 25_801_860
+language = { }
+license = { }
+name = "codeofconduct"
+node_id = "MDEwOlJlcG9zaXRvcnkyNTgwMTg2MA=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ "codeofconduct" ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 8_738_523
+  login = "codeforokc"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjg3Mzg1MjM="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
