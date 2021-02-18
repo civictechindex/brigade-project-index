@@ -33,15 +33,15 @@ node_id = "MDEwOlJlcG9zaXRvcnkzMzc1Mjk3Nzk="
 open_issues_within = 0
 private = false
 pushed_within = "month"
-stargazers_within = 0
+stargazers_within = 10
 topics = [
   "code-for-all",
   "code-for-america",
   "code-for-puerto-rico",
   "puerto-rico"
 ]
-updated_within = "month"
-watchers_within = 0
+updated_within = "week"
+watchers_within = 10
 
   [github.license]
   key = "cc0-1.0"
