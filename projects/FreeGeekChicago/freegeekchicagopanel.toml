@@ -1,6 +1,51 @@
 code_url = "https://github.com/sc3/freegeekchicagopanel"
 description = "A panel to display locally at FreeGeekChicago, displaying twitter feed, bus routes, calendar, and other information."
-git_branch = "master"
 git_url = "git://github.com/sc3/freegeekchicagopanel.git"
-last_pushed_within = "over_a_year"
 name = "freegeekchicagopanel"
+organization_name = "FreeGeekChicago"
+
+[github]
+archived = false
+created_at = "2015-09-19T15:57:15Z"
+default_branch = "master"
+description = "A panel to display locally at FreeGeekChicago, displaying twitter feed, bus routes, calendar, and other information."
+disabled = false
+fork = false
+forks_within = 10
+full_name = "sc3/freegeekchicagopanel"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 42_779_295
+language = "HTML"
+name = "freegeekchicagopanel"
+node_id = "MDEwOlJlcG9zaXRvcnk0Mjc3OTI5NQ=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_393_454
+  login = "sc3"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjIzOTM0NTQ="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

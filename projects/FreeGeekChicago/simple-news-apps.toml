@@ -1,7 +1,47 @@
 code_url = "https://github.com/sc3/simple-news-apps"
 description = "Migrahack docs and demo"
-git_branch = "master"
 git_url = "git://github.com/sc3/simple-news-apps.git"
-last_pushed_within = "over_a_year"
 link_url = "http://migrahack.readthedocs.org/en/latest/"
 name = "simple-news-apps"
+organization_name = "FreeGeekChicago"
+
+[github]
+archived = false
+created_at = "2014-03-29T17:10:32Z"
+default_branch = "master"
+description = "Migrahack docs and demo"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "sc3/simple-news-apps"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://migrahack.readthedocs.org/en/latest/"
+id = 18_246_083
+language = "Python"
+license = { }
+name = "simple-news-apps"
+node_id = "MDEwOlJlcG9zaXRvcnkxODI0NjA4Mw=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_393_454
+  login = "sc3"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjIzOTM0NTQ="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

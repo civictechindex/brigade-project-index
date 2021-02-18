@@ -1,7 +1,52 @@
 code_url = "https://github.com/sc3/sc3"
 description = "Home page for the Supreme Chi-Town Coding Crew"
-git_branch = "master"
 git_url = "git://github.com/sc3/sc3.git"
-last_pushed_within = "over_a_year"
 link_url = "http://chitowncoders.org"
 name = "sc3"
+organization_name = "FreeGeekChicago"
+
+[github]
+archived = false
+created_at = "2012-10-24T00:01:30Z"
+default_branch = "master"
+description = "Home page for the Supreme Chi-Town Coding Crew"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "sc3/sc3"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://chitowncoders.org"
+id = 6_362_070
+language = "JavaScript"
+name = "sc3"
+node_id = "MDEwOlJlcG9zaXRvcnk2MzYyMDcw"
+open_issues_within = 100
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 100
+topics = [ ]
+updated_within = "year"
+watchers_within = 100
+
+  [github.license]
+  key = "other"
+  name = "Other"
+  node_id = "MDc6TGljZW5zZTA="
+  spdx_id = "NOASSERTION"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_393_454
+  login = "sc3"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjIzOTM0NTQ="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

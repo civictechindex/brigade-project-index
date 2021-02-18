@@ -1,6 +1,51 @@
 code_url = "https://github.com/sc3/chi-town-coders"
 description = "This is going to be the new user facing website for sc3.  "
-git_branch = "master"
 git_url = "git://github.com/sc3/chi-town-coders.git"
-last_pushed_within = "over_a_year"
 name = "chi-town-coders"
+organization_name = "FreeGeekChicago"
+
+[github]
+archived = false
+created_at = "2016-04-16T19:10:13Z"
+default_branch = "master"
+description = "This is going to be the new user facing website for sc3.  "
+disabled = false
+fork = false
+forks_within = 10
+full_name = "sc3/chi-town-coders"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 56_401_193
+language = "JavaScript"
+name = "chi-town-coders"
+node_id = "MDEwOlJlcG9zaXRvcnk1NjQwMTE5Mw=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "other"
+  name = "Other"
+  node_id = "MDc6TGljZW5zZTA="
+  spdx_id = "NOASSERTION"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_393_454
+  login = "sc3"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjIzOTM0NTQ="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

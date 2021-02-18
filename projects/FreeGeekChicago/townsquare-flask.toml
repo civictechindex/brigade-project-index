@@ -1,7 +1,52 @@
 code_url = "https://github.com/sc3/townsquare-flask"
 description = "Keep track of volunteers' contributions of hours"
-git_branch = "master"
 git_url = "git://github.com/sc3/townsquare-flask.git"
-last_pushed_within = "over_a_year"
 link_url = "http://townsquare-pwmaps.rhcloud.com/"
 name = "townsquare-flask"
+organization_name = "FreeGeekChicago"
+
+[github]
+archived = false
+created_at = "2014-11-27T11:22:56Z"
+default_branch = "master"
+description = "Keep track of volunteers' contributions of hours"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "sc3/townsquare-flask"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://townsquare-pwmaps.rhcloud.com/"
+id = 27_222_229
+language = "Python"
+name = "townsquare-flask"
+node_id = "MDEwOlJlcG9zaXRvcnkyNzIyMjIyOQ=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_393_454
+  login = "sc3"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjIzOTM0NTQ="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

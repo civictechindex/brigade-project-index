@@ -1,6 +1,46 @@
 code_url = "https://github.com/sc3/fgc-www"
 description = "FreeGeek's public website powered by Jekyll"
-git_branch = "master"
 git_url = "git://github.com/sc3/fgc-www.git"
-last_pushed_within = "over_a_year"
 name = "fgc-www"
+organization_name = "FreeGeekChicago"
+
+[github]
+archived = false
+created_at = "2015-04-25T19:52:22Z"
+default_branch = "master"
+description = "FreeGeek's public website powered by Jekyll"
+disabled = false
+fork = true
+forks_within = 0
+full_name = "sc3/fgc-www"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 34_583_640
+language = "HTML"
+license = { }
+name = "fgc-www"
+node_id = "MDEwOlJlcG9zaXRvcnkzNDU4MzY0MA=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_393_454
+  login = "sc3"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjIzOTM0NTQ="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
