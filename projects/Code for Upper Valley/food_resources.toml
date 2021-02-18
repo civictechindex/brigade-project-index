@@ -1,10 +1,9 @@
 code_url = "https://github.com/codeforUV/food_resources"
 description = "A project that aims to increase food access for residents of the Upper Valley region of VT/NH"
-git_branch = "master"
 git_url = "git://github.com/codeforUV/food_resources.git"
-last_pushed_within = "week"
 link_url = "https://food-resources.herokuapp.com"
 name = "food_resources"
+organization_name = "Code for Upper Valley"
 topics = [
   "codeforamerica",
   "food-access",
@@ -15,3 +14,58 @@ topics = [
   "upper-valley",
   "vermont"
 ]
+
+[github]
+archived = false
+created_at = "2020-05-28T21:27:59Z"
+default_branch = "master"
+description = "A project that aims to increase food access for residents of the Upper Valley region of VT/NH"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codeforUV/food_resources"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "https://food-resources.herokuapp.com"
+id = 267_700_370
+language = "Ruby"
+name = "food_resources"
+node_id = "MDEwOlJlcG9zaXRvcnkyNjc3MDAzNzA="
+open_issues_within = 10
+private = false
+pushed_within = "week"
+stargazers_within = 10
+topics = [
+  "codeforamerica",
+  "food-access",
+  "food-resources",
+  "new-hampshire",
+  "ruby-on-rails",
+  "tailwindcss",
+  "upper-valley",
+  "vermont"
+]
+updated_within = "week"
+watchers_within = 10
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 56_128_496
+  login = "codeforUV"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjU2MTI4NDk2"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
