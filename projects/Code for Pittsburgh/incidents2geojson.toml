@@ -1,6 +1,46 @@
 code_url = "https://github.com/CodeForPittsburgh/incidents2geojson"
 description = "DEPRECATED"
-git_branch = "master"
 git_url = "git://github.com/CodeForPittsburgh/incidents2geojson.git"
-last_pushed_within = "over_a_year"
 name = "incidents2geojson"
+organization_name = "Code for Pittsburgh"
+
+[github]
+archived = false
+created_at = "2015-06-15T12:41:58Z"
+default_branch = "master"
+description = "DEPRECATED"
+disabled = false
+fork = true
+forks_within = 0
+full_name = "CodeForPittsburgh/incidents2geojson"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 37_464_372
+language = "Python"
+license = { }
+name = "incidents2geojson"
+node_id = "MDEwOlJlcG9zaXRvcnkzNzQ2NDM3Mg=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 7_076_673
+  login = "CodeForPittsburgh"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjcwNzY2NzM="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

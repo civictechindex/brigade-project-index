@@ -1,6 +1,51 @@
 code_url = "https://github.com/CodeForPittsburgh/food-access-map-data"
 description = "Data for the food access map"
-git_branch = "master"
 git_url = "git://github.com/CodeForPittsburgh/food-access-map-data.git"
-last_pushed_within = "week"
 name = "food-access-map-data"
+organization_name = "Code for Pittsburgh"
+
+[github]
+archived = false
+created_at = "2019-05-01T22:00:53Z"
+default_branch = "master"
+description = "Data for the food access map"
+disabled = false
+fork = false
+forks_within = 100
+full_name = "CodeForPittsburgh/food-access-map-data"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 184_487_229
+language = "Python"
+name = "food-access-map-data"
+node_id = "MDEwOlJlcG9zaXRvcnkxODQ0ODcyMjk="
+open_issues_within = 100
+private = false
+pushed_within = "week"
+stargazers_within = 10
+topics = [ ]
+updated_within = "week"
+watchers_within = 10
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 7_076_673
+  login = "CodeForPittsburgh"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjcwNzY2NzM="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

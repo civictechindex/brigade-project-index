@@ -1,6 +1,46 @@
 code_url = "https://github.com/CodeForPittsburgh/smallprojects"
 description = "Mostly Markdown series of small projects any brigade could do with success. CCZero"
-git_branch = "master"
 git_url = "git://github.com/CodeForPittsburgh/smallprojects.git"
-last_pushed_within = "over_a_year"
 name = "smallprojects"
+organization_name = "Code for Pittsburgh"
+
+[github]
+archived = false
+created_at = "2016-11-15T20:27:06Z"
+default_branch = "master"
+description = "Mostly Markdown series of small projects any brigade could do with success. CCZero"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "CodeForPittsburgh/smallprojects"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 73_852_304
+language = { }
+license = { }
+name = "smallprojects"
+node_id = "MDEwOlJlcG9zaXRvcnk3Mzg1MjMwNA=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 7_076_673
+  login = "CodeForPittsburgh"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjcwNzY2NzM="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

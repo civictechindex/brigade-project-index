@@ -1,6 +1,51 @@
 code_url = "https://github.com/CodeForPittsburgh/koop-app-example"
 description = "An Koop express application example with some common providers."
-git_branch = "master"
 git_url = "git://github.com/CodeForPittsburgh/koop-app-example.git"
-last_pushed_within = "year"
 name = "koop-app-example"
+organization_name = "Code for Pittsburgh"
+
+[github]
+archived = false
+created_at = "2020-09-08T21:41:02Z"
+default_branch = "master"
+description = "An Koop express application example with some common providers."
+disabled = false
+fork = true
+forks_within = 0
+full_name = "CodeForPittsburgh/koop-app-example"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = false
+homepage = ""
+id = 293_933_764
+language = { }
+name = "koop-app-example"
+node_id = "MDEwOlJlcG9zaXRvcnkyOTM5MzM3NjQ="
+open_issues_within = 0
+private = false
+pushed_within = "year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "year"
+watchers_within = 0
+
+  [github.license]
+  key = "other"
+  name = "Other"
+  node_id = "MDc6TGljZW5zZTA="
+  spdx_id = "NOASSERTION"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 7_076_673
+  login = "CodeForPittsburgh"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjcwNzY2NzM="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

@@ -1,6 +1,46 @@
 code_url = "https://github.com/CodeForPittsburgh/citytwitter"
 description = "A list of all the twitter accounts associated with the City of Pittsburgh"
-git_branch = "master"
 git_url = "git://github.com/CodeForPittsburgh/citytwitter.git"
-last_pushed_within = "over_a_year"
 name = "citytwitter"
+organization_name = "Code for Pittsburgh"
+
+[github]
+archived = false
+created_at = "2016-05-10T18:06:19Z"
+default_branch = "master"
+description = "A list of all the twitter accounts associated with the City of Pittsburgh"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "CodeForPittsburgh/citytwitter"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 58_483_122
+language = { }
+license = { }
+name = "citytwitter"
+node_id = "MDEwOlJlcG9zaXRvcnk1ODQ4MzEyMg=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 7_076_673
+  login = "CodeForPittsburgh"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjcwNzY2NzM="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

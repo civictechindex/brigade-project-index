@@ -1,6 +1,46 @@
 code_url = "https://github.com/CodeForPittsburgh/CodeForPittsburgh"
 description = "Name Changes"
-git_branch = "master"
 git_url = "git://github.com/CodeForPittsburgh/CodeForPittsburgh.git"
-last_pushed_within = "over_a_year"
 name = "CodeForPittsburgh"
+organization_name = "Code for Pittsburgh"
+
+[github]
+archived = false
+created_at = "2016-09-22T16:10:42Z"
+default_branch = "master"
+description = "Name Changes"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "CodeForPittsburgh/CodeForPittsburgh"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 68_938_888
+language = "PHP"
+license = { }
+name = "CodeForPittsburgh"
+node_id = "MDEwOlJlcG9zaXRvcnk2ODkzODg4OA=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 7_076_673
+  login = "CodeForPittsburgh"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjcwNzY2NzM="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

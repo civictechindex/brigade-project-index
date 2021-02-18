@@ -1,6 +1,46 @@
 code_url = "https://github.com/CodeForPittsburgh/LibraryBookChallenge"
 description = "Processing reading data for the Carnegie Library"
-git_branch = "master"
 git_url = "git://github.com/CodeForPittsburgh/LibraryBookChallenge.git"
-last_pushed_within = "over_a_year"
 name = "LibraryBookChallenge"
+organization_name = "Code for Pittsburgh"
+
+[github]
+archived = false
+created_at = "2016-07-11T13:39:10Z"
+default_branch = "master"
+description = "Processing reading data for the Carnegie Library"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "CodeForPittsburgh/LibraryBookChallenge"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 63_070_971
+language = { }
+license = { }
+name = "LibraryBookChallenge"
+node_id = "MDEwOlJlcG9zaXRvcnk2MzA3MDk3MQ=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 7_076_673
+  login = "CodeForPittsburgh"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjcwNzY2NzM="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

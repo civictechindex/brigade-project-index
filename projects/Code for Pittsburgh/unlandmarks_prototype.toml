@@ -1,6 +1,46 @@
 code_url = "https://github.com/CodeForPittsburgh/unlandmarks_prototype"
 description = "GUI prototype in php folder"
-git_branch = "master"
 git_url = "git://github.com/CodeForPittsburgh/unlandmarks_prototype.git"
-last_pushed_within = "over_a_year"
 name = "unlandmarks_prototype"
+organization_name = "Code for Pittsburgh"
+
+[github]
+archived = false
+created_at = "2017-12-12T15:32:17Z"
+default_branch = "master"
+description = "GUI prototype in php folder"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "CodeForPittsburgh/unlandmarks_prototype"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 114_007_158
+language = "PHP"
+license = { }
+name = "unlandmarks_prototype"
+node_id = "MDEwOlJlcG9zaXRvcnkxMTQwMDcxNTg="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 7_076_673
+  login = "CodeForPittsburgh"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjcwNzY2NzM="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
