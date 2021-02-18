@@ -1,6 +1,51 @@
 code_url = "https://github.com/codefordenver/CodeAcross-2015"
 description = "Organizing the tasks for Denver CodeAcross 2015"
-git_branch = "master"
 git_url = "git://github.com/codefordenver/CodeAcross-2015.git"
-last_pushed_within = "over_a_year"
 name = "CodeAcross-2015"
+organization_name = "Code for Denver"
+
+[github]
+archived = false
+created_at = "2014-11-19T03:02:05Z"
+default_branch = "master"
+description = "Organizing the tasks for Denver CodeAcross 2015"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codefordenver/CodeAcross-2015"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 26_841_747
+language = "CSS"
+name = "CodeAcross-2015"
+node_id = "MDEwOlJlcG9zaXRvcnkyNjg0MTc0Nw=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 7_472_092
+  login = "codefordenver"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjc0NzIwOTI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

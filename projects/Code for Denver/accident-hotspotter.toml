@@ -1,6 +1,46 @@
 code_url = "https://github.com/codefordenver/accident-hotspotter"
 description = "Visualize accident prone areas along your route in Denver Colorado"
-git_branch = "master"
 git_url = "git://github.com/codefordenver/accident-hotspotter.git"
-last_pushed_within = "over_a_year"
 name = "accident-hotspotter"
+organization_name = "Code for Denver"
+
+[github]
+archived = false
+created_at = "2019-09-24T01:02:55Z"
+default_branch = "master"
+description = "Visualize accident prone areas along your route in Denver Colorado"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "codefordenver/accident-hotspotter"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 210_481_123
+language = { }
+license = { }
+name = "accident-hotspotter"
+node_id = "MDEwOlJlcG9zaXRvcnkyMTA0ODExMjM="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 7_472_092
+  login = "codefordenver"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjc0NzIwOTI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

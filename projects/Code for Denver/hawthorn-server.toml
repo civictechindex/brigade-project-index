@@ -1,10 +1,9 @@
 code_url = "https://github.com/codefordenver/hawthorn-server"
 description = "Hawthorn is based on the concept of affinity groups, a group of individuals who come together around a shared experience, interest or common goal. With Hawthorn affinity groups, you are free to start or join conversations and share useful resources with people in your community."
-git_branch = "master"
 git_url = "git://github.com/codefordenver/hawthorn-server.git"
-last_pushed_within = "month"
 link_url = "http://hawth.org"
 name = "hawthorn-server"
+organization_name = "Code for Denver"
 topics = [
   "affinity-groups",
   "code-for-america",
@@ -20,3 +19,63 @@ topics = [
   "support",
   "support-groups"
 ]
+
+[github]
+archived = false
+created_at = "2019-08-19T04:29:40Z"
+default_branch = "master"
+description = "Hawthorn is based on the concept of affinity groups, a group of individuals who come together around a shared experience, interest or common goal. With Hawthorn affinity groups, you are free to start or join conversations and share useful resources with people in your community."
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codefordenver/hawthorn-server"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://hawth.org"
+id = 203_098_317
+language = "JavaScript"
+name = "hawthorn-server"
+node_id = "MDEwOlJlcG9zaXRvcnkyMDMwOTgzMTc="
+open_issues_within = 10
+private = false
+pushed_within = "year"
+stargazers_within = 0
+topics = [
+  "affinity-groups",
+  "code-for-america",
+  "code-for-denver",
+  "community",
+  "community-groups",
+  "graphql",
+  "groups",
+  "nodejs",
+  "peer-network",
+  "prisma",
+  "react",
+  "support",
+  "support-groups"
+]
+updated_within = "year"
+watchers_within = 0
+
+  [github.license]
+  key = "apache-2.0"
+  name = "Apache License 2.0"
+  node_id = "MDc6TGljZW5zZTI="
+  spdx_id = "Apache-2.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 7_472_092
+  login = "codefordenver"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjc0NzIwOTI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

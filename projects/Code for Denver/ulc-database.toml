@@ -1,6 +1,51 @@
 code_url = "https://github.com/codefordenver/ulc-database"
 description = "Database project for Urban Land Conservancy"
-git_branch = "master"
 git_url = "git://github.com/codefordenver/ulc-database.git"
-last_pushed_within = "over_a_year"
 name = "ulc-database"
+organization_name = "Code for Denver"
+
+[github]
+archived = false
+created_at = "2018-08-07T02:14:42Z"
+default_branch = "master"
+description = "Database project for Urban Land Conservancy"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "codefordenver/ulc-database"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 143_806_989
+language = { }
+name = "ulc-database"
+node_id = "MDEwOlJlcG9zaXRvcnkxNDM4MDY5ODk="
+open_issues_within = 100
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "isc"
+  name = "ISC License"
+  node_id = "MDc6TGljZW5zZTEw"
+  spdx_id = "ISC"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 7_472_092
+  login = "codefordenver"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjc0NzIwOTI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

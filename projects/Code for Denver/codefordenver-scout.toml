@@ -1,9 +1,8 @@
 code_url = "https://github.com/codefordenver/codefordenver-scout"
 description = "Code For Denver's Discord Bot"
-git_branch = "master"
 git_url = "git://github.com/codefordenver/codefordenver-scout.git"
-last_pushed_within = "year"
 name = "codefordenver-scout"
+organization_name = "Code for Denver"
 topics = [
   "bot",
   "chat",
@@ -11,3 +10,50 @@ topics = [
   "code-for-denver",
   "discord"
 ]
+
+[github]
+archived = false
+created_at = "2019-04-30T02:25:56Z"
+default_branch = "master"
+description = "Code For Denver's Discord Bot"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "codefordenver/codefordenver-scout"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 184_176_976
+language = "Go"
+license = { }
+name = "codefordenver-scout"
+node_id = "MDEwOlJlcG9zaXRvcnkxODQxNzY5NzY="
+open_issues_within = 100
+private = false
+pushed_within = "year"
+stargazers_within = 10
+topics = [
+  "bot",
+  "chat",
+  "code-for-america",
+  "code-for-denver",
+  "discord"
+]
+updated_within = "year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 7_472_092
+  login = "codefordenver"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjc0NzIwOTI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

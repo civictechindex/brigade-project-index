@@ -1,5 +1,45 @@
 code_url = "https://github.com/codefordenver/your-colorado-charity"
-git_branch = "master"
 git_url = "git://github.com/codefordenver/your-colorado-charity.git"
-last_pushed_within = "year"
 name = "your-colorado-charity"
+organization_name = "Code for Denver"
+
+[github]
+archived = false
+created_at = "2020-01-06T21:12:11Z"
+default_branch = "master"
+description = { }
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codefordenver/your-colorado-charity"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 232_186_292
+language = "JavaScript"
+license = { }
+name = "your-colorado-charity"
+node_id = "MDEwOlJlcG9zaXRvcnkyMzIxODYyOTI="
+open_issues_within = 100
+private = false
+pushed_within = "year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 7_472_092
+  login = "codefordenver"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjc0NzIwOTI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

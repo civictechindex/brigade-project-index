@@ -1,6 +1,51 @@
 code_url = "https://github.com/codefordenver/adoptmyapp"
 description = "Adopt My App is an app that helps people share and rescue abandoned apps and hackathon projects"
-git_branch = "master"
 git_url = "git://github.com/codefordenver/adoptmyapp.git"
-last_pushed_within = "over_a_year"
 name = "adoptmyapp"
+organization_name = "Code for Denver"
+
+[github]
+archived = false
+created_at = "2014-05-03T05:14:02Z"
+default_branch = "master"
+description = "Adopt My App is an app that helps people share and rescue abandoned apps and hackathon projects"
+disabled = false
+fork = true
+forks_within = 0
+full_name = "codefordenver/adoptmyapp"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 19_396_036
+language = "Go"
+name = "adoptmyapp"
+node_id = "MDEwOlJlcG9zaXRvcnkxOTM5NjAzNg=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "year"
+watchers_within = 10
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 7_472_092
+  login = "codefordenver"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjc0NzIwOTI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

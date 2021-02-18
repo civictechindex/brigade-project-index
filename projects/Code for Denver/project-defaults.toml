@@ -1,6 +1,46 @@
 code_url = "https://github.com/codefordenver/project-defaults"
 description = "A series of default files for new project repos"
-git_branch = "master"
 git_url = "git://github.com/codefordenver/project-defaults.git"
-last_pushed_within = "over_a_year"
 name = "project-defaults"
+organization_name = "Code for Denver"
+
+[github]
+archived = false
+created_at = "2015-07-22T00:42:04Z"
+default_branch = "master"
+description = "A series of default files for new project repos"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "codefordenver/project-defaults"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 39_477_075
+language = { }
+license = { }
+name = "project-defaults"
+node_id = "MDEwOlJlcG9zaXRvcnkzOTQ3NzA3NQ=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 7_472_092
+  login = "codefordenver"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjc0NzIwOTI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

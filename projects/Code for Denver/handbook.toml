@@ -1,6 +1,46 @@
 code_url = "https://github.com/codefordenver/handbook"
 description = "Code For Nashville Handbook"
-git_branch = "master"
 git_url = "git://github.com/codefordenver/handbook.git"
-last_pushed_within = "over_a_year"
 name = "handbook"
+organization_name = "Code for Denver"
+
+[github]
+archived = false
+created_at = "2020-03-10T00:48:53Z"
+default_branch = "master"
+description = "Code For Nashville Handbook"
+disabled = false
+fork = true
+forks_within = 0
+full_name = "codefordenver/handbook"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 246_174_100
+language = { }
+license = { }
+name = "handbook"
+node_id = "MDEwOlJlcG9zaXRvcnkyNDYxNzQxMDA="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 7_472_092
+  login = "codefordenver"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjc0NzIwOTI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

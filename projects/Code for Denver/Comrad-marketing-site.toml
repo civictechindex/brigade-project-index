@@ -1,6 +1,46 @@
 code_url = "https://github.com/codefordenver/Comrad-marketing-site"
 description = "Public-facing landing pages promoting Comrad"
-git_branch = "master"
 git_url = "git://github.com/codefordenver/Comrad-marketing-site.git"
-last_pushed_within = "over_a_year"
 name = "Comrad-marketing-site"
+organization_name = "Code for Denver"
+
+[github]
+archived = false
+created_at = "2018-12-22T00:32:47Z"
+default_branch = "master"
+description = "Public-facing landing pages promoting Comrad"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "codefordenver/Comrad-marketing-site"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 162_769_445
+language = "HTML"
+license = { }
+name = "Comrad-marketing-site"
+node_id = "MDEwOlJlcG9zaXRvcnkxNjI3Njk0NDU="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 7_472_092
+  login = "codefordenver"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjc0NzIwOTI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

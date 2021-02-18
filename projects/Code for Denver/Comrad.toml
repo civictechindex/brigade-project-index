@@ -1,12 +1,62 @@
 code_url = "https://github.com/codefordenver/Comrad"
 description = "Open-source web application for radio stations to manage show schedules, traffic and compliance"
-git_branch = "development"
 git_url = "git://github.com/codefordenver/Comrad.git"
-last_pushed_within = "week"
 name = "Comrad"
+organization_name = "Code for Denver"
 topics = [
   "code-for-america",
   "code-for-denver",
   "community-radio",
   "process-improvement"
 ]
+
+[github]
+archived = false
+created_at = "2018-06-12T02:51:15Z"
+default_branch = "development"
+description = "Open-source web application for radio stations to manage show schedules, traffic and compliance"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codefordenver/Comrad"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = false
+homepage = ""
+id = 137_008_522
+language = "JavaScript"
+name = "Comrad"
+node_id = "MDEwOlJlcG9zaXRvcnkxMzcwMDg1MjI="
+open_issues_within = 100
+private = false
+pushed_within = "month"
+stargazers_within = 100
+topics = [
+  "code-for-america",
+  "code-for-denver",
+  "community-radio",
+  "process-improvement"
+]
+updated_within = "month"
+watchers_within = 100
+
+  [github.license]
+  key = "isc"
+  name = "ISC License"
+  node_id = "MDc6TGljZW5zZTEw"
+  spdx_id = "ISC"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 7_472_092
+  login = "codefordenver"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjc0NzIwOTI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

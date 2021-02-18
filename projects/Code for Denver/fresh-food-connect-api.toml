@@ -1,6 +1,46 @@
 code_url = "https://github.com/codefordenver/fresh-food-connect-api"
 description = "Server for Fresh Food Connect project https://github.com/codefordenver/fresh-food-connect"
-git_branch = "master"
 git_url = "git://github.com/codefordenver/fresh-food-connect-api.git"
-last_pushed_within = "over_a_year"
 name = "fresh-food-connect-api"
+organization_name = "Code for Denver"
+
+[github]
+archived = false
+created_at = "2015-08-18T04:23:33Z"
+default_branch = "master"
+description = "Server for Fresh Food Connect project https://github.com/codefordenver/fresh-food-connect"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codefordenver/fresh-food-connect-api"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 40_950_588
+language = "Ruby"
+license = { }
+name = "fresh-food-connect-api"
+node_id = "MDEwOlJlcG9zaXRvcnk0MDk1MDU4OA=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 7_472_092
+  login = "codefordenver"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjc0NzIwOTI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

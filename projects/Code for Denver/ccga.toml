@@ -1,6 +1,46 @@
 code_url = "https://github.com/codefordenver/ccga"
 description = "Compendium of Cancer Genome Aberrations"
-git_branch = "master"
 git_url = "git://github.com/codefordenver/ccga.git"
-last_pushed_within = "over_a_year"
 name = "ccga"
+organization_name = "Code for Denver"
+
+[github]
+archived = false
+created_at = "2019-04-02T02:30:00Z"
+default_branch = "master"
+description = "Compendium of Cancer Genome Aberrations"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "codefordenver/ccga"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 178_983_447
+language = { }
+license = { }
+name = "ccga"
+node_id = "MDEwOlJlcG9zaXRvcnkxNzg5ODM0NDc="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 7_472_092
+  login = "codefordenver"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjc0NzIwOTI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

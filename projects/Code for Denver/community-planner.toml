@@ -1,7 +1,52 @@
 code_url = "https://github.com/codefordenver/community-planner"
 description = "A positive social-mediaesque app that allows members of a group to interact with each other in positive ways. It has a chatting Slack like app, an event planner/calendar, and a profile section."
-git_branch = "master"
 git_url = "git://github.com/codefordenver/community-planner.git"
-last_pushed_within = "year"
 name = "community-planner"
+organization_name = "Code for Denver"
 topics = [ "calendar", "chat", "profile", "social-network" ]
+
+[github]
+archived = false
+created_at = "2019-12-27T19:40:23Z"
+default_branch = "master"
+description = "A positive social-mediaesque app that allows members of a group to interact with each other in positive ways. It has a chatting Slack like app, an event planner/calendar, and a profile section."
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codefordenver/community-planner"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 230_507_110
+language = { }
+name = "community-planner"
+node_id = "MDEwOlJlcG9zaXRvcnkyMzA1MDcxMTA="
+open_issues_within = 100
+private = false
+pushed_within = "year"
+stargazers_within = 10
+topics = [ "calendar", "chat", "profile", "social-network" ]
+updated_within = "year"
+watchers_within = 10
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 7_472_092
+  login = "codefordenver"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjc0NzIwOTI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

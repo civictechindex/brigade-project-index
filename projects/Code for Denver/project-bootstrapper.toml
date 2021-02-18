@@ -1,7 +1,47 @@
 code_url = "https://github.com/codefordenver/project-bootstrapper"
 description = "Generates a new project repo and waffle board for Code for Denver"
-git_branch = "master"
 git_url = "git://github.com/codefordenver/project-bootstrapper.git"
-last_pushed_within = "over_a_year"
 link_url = "https://cfd-new.herokuapp.com/"
 name = "project-bootstrapper"
+organization_name = "Code for Denver"
+
+[github]
+archived = false
+created_at = "2016-02-23T03:25:44Z"
+default_branch = "master"
+description = "Generates a new project repo and waffle board for Code for Denver"
+disabled = false
+fork = true
+forks_within = 10
+full_name = "codefordenver/project-bootstrapper"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = false
+homepage = "https://cfd-new.herokuapp.com/"
+id = 52_326_694
+language = "JavaScript"
+license = { }
+name = "project-bootstrapper"
+node_id = "MDEwOlJlcG9zaXRvcnk1MjMyNjY5NA=="
+open_issues_within = 100
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 7_472_092
+  login = "codefordenver"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjc0NzIwOTI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
