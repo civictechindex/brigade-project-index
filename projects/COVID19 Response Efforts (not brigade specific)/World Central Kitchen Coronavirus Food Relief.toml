@@ -1,5 +1,13 @@
 description = "World Central Kitchen and Mapbox are working together to provide information on the availability of free or reduced-priced meals to families around the country. WCK and Mapbox want to display that information on a national map so that we can quickly identify areas that need support for these children and to ensure parents know where to find this information."
 link_url = "https://labs.mapbox.com/narratives/chefsforamerica/"
 name = "World Central Kitchen Coronavirus Food Relief"
+organization_name = "COVID19 Response Efforts (not brigade specific)"
 status = "official"
 topics = [ "covid-19", "hunger" ]
+
+[projects_list_extra]
+"***other instructions***" = "Contact Filsan in CfA Slack"
+"***partner_organizations***" = "Mapbox, World Central Kitchen, FEMA"
+"***private email address, only collected so user can update data***" = "melanie.mazanec@gmail.com"
+last_updated = "3/23/2020 20:08:06"
+lead_slack = "Filsan Abikar"
