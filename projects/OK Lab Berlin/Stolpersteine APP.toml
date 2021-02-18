@@ -6,9 +6,65 @@ Gedenktafeln im Straßenpflaster zur Erinnerung an die Opfer des
 Nationalsozialismus. Mehr als 40.000 davon hat der Künstler Gunter 
 Demnig mittlerweile in ganz Europa verlegt. 
 
-Ziel dieses Projektes ist ein einfacher Zugang zu den Daten der Stolpersteine über Apps.
-"""
-last_pushed_within = "over_a_year"
+Ziel dieses Projektes ist ein einfacher Zugang zu den Daten der Stolpersteine über Apps."""
 link_url = "http://stolpersteineapp.org/"
 name = "Stolpersteine APP"
+organization_name = "OK Lab Berlin"
 type = "Mobile App"
+
+[github]
+archived = false
+created_at = "2013-07-23T10:26:02Z"
+default_branch = "master"
+description = "Stolpersteine Android App"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "Stolpersteine/stolpersteine-android"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = false
+homepage = ""
+id = 11_605_693
+language = "Java"
+name = "stolpersteine-android"
+network_count = 1
+node_id = "MDEwOlJlcG9zaXRvcnkxMTYwNTY5Mw=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 100
+subscribers_count = 5
+temp_clone_token = ""
+topics = [ ]
+updated_within = "month"
+watchers_within = 100
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.organization]
+  gravatar_id = ""
+  id = 7_012_870
+  login = "Stolpersteine"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjcwMTI4NzA="
+  site_admin = false
+  type = "Organization"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 7_012_870
+  login = "Stolpersteine"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjcwMTI4NzA="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

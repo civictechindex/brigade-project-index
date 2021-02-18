@@ -7,8 +7,51 @@ Viele davon sind der Erinnerung an jene Menschen gewidmet, die sich der
 nationalsozialistischen Diktatur widersetzt haben oder Opfer von 
 politischer oder rassistischer Verfolgung geworden sind.
 
-Quelle: http://daten.berlin.de/datensaetze/liste-der-gedenktafeln-berlin (überarbeitet)
-"""
-last_pushed_within = "over_a_year"
+Quelle: http://daten.berlin.de/datensaetze/liste-der-gedenktafeln-berlin (überarbeitet)"""
 link_url = "http://berlin.codefor.de/gedenktafeln/"
 name = "Gedenktafeln in Berlin"
+organization_name = "OK Lab Berlin"
+
+[github]
+archived = false
+created_at = "2014-07-24T11:24:27Z"
+default_branch = "master"
+description = { }
+disabled = false
+fork = false
+forks_within = 0
+full_name = "notapirate/gedenktafelnberlin"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 22_210_348
+language = "JavaScript"
+license = { }
+name = "gedenktafelnberlin"
+network_count = 0
+node_id = "MDEwOlJlcG9zaXRvcnkyMjIxMDM0OA=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+subscribers_count = 2
+temp_clone_token = ""
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 8_211_355
+  login = "notapirate"
+  node_id = "MDQ6VXNlcjgyMTEzNTU="
+  site_admin = false
+  type = "User"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

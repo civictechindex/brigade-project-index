@@ -4,6 +4,7 @@ Bodenrichtwerte im Zeitverlauf - gefunden im FIS-Broker. Was sind Bodenrichtwert
  ist “der Bodenrichtwert im deutschen Städtebaurecht ein 
 durchschnittlicher Lagewert, ermittelt aus den Kaufpreisen von 
 Grundstücken unter Berücksichtigung ihres Entwicklungszustandes bezogen 
-auf den Quadratmeter Land.” Es geht also um den Wert von Grundstücken. """
+auf den Quadratmeter Land.” Es geht also um den Wert von Grundstücken."""
 link_url = "hanshans.ursa.uberspace.de/bodenrichtwerte/bodenrichtwerte.h2"
 name = "Bodenrichtwerte im Zeitverlauf"
+organization_name = "OK Lab Berlin"

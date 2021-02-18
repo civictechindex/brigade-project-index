@@ -7,4 +7,5 @@ Zugriff auf die verschiedenen Snapshots ermöglichen.
 
 Ich plane mit PostgreSQL/PostGIS zu arbeiten, um vom der Funktionserweiterung durch PostGIS zu profitieren."""
 name = "Geodaten mit Zeitdimension"
+organization_name = "OK Lab Berlin"
 type = "Data Portal"

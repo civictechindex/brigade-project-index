@@ -4,7 +4,51 @@ description = """
 Eine Karte, auf der man sehen kann, von wo auf der Welt schnell ein
 Bahnhof erreicht werden kann – und wie sich die Situation ändert,
 sobald man im Rollstuhl sitzt. Vergleicht mal Paris und Berlin!"""
-last_pushed_within = "over_a_year"
 link_url = "https://netaction.github.io/disabled-railway/"
 name = "Disabled Railway"
+organization_name = "OK Lab Berlin"
 type = "website"
+
+[github]
+archived = false
+created_at = "2014-04-04T10:29:09Z"
+default_branch = "gh-pages"
+description = "Compare the railway stations accessible by pedestrians and wheelchairs on a map."
+disabled = false
+fork = false
+forks_within = 0
+full_name = "netAction/disabled-railway"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "http://netaction.github.io/disabled-railway/"
+id = 18_435_595
+language = "CSS"
+license = { }
+name = "disabled-railway"
+network_count = 0
+node_id = "MDEwOlJlcG9zaXRvcnkxODQzNTU5NQ=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+subscribers_count = 2
+temp_clone_token = ""
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 1_829_847
+  login = "netAction"
+  node_id = "MDQ6VXNlcjE4Mjk4NDc="
+  site_admin = false
+  type = "User"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

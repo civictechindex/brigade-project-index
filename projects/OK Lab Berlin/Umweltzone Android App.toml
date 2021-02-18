@@ -12,4 +12,5 @@ schreiben - es gibt aber ein gut gefülltes Trello-Board. Der Quellcode
 ist natürlich frei zugänglich"""
 link_url = "https://play.google.com/store/apps/details?id=de.avpptr.umweltzone"
 name = "Umweltzone Android App"
+organization_name = "OK Lab Berlin"
 type = "Mobile App"

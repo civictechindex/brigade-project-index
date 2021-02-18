@@ -1,7 +1,56 @@
 categories = "launched, map"
 code_url = "https://github.com/jochenklar/entwicklung-berlins"
-description = "Historische Berlin-Karten aus dem FIS-Broker zur Benutzung in anderen Projekten. "
-last_pushed_within = "over_a_year"
+description = "Historische Berlin-Karten aus dem FIS-Broker zur Benutzung in anderen Projekten."
 link_url = "http://berlin.codefor.de/entwicklung/"
 name = "Historische Entwicklung Berlins"
+organization_name = "OK Lab Berlin"
 type = "website"
+
+[github]
+archived = false
+created_at = "2014-06-23T18:44:24Z"
+default_branch = "master"
+description = { }
+disabled = false
+fork = false
+forks_within = 0
+full_name = "jochenklar/entwicklung-berlins"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 21_137_943
+language = "CSS"
+name = "entwicklung-berlins"
+network_count = 0
+node_id = "MDEwOlJlcG9zaXRvcnkyMTEzNzk0Mw=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+subscribers_count = 3
+temp_clone_token = ""
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "agpl-3.0"
+  name = "GNU Affero General Public License v3.0"
+  node_id = "MDc6TGljZW5zZTE="
+  spdx_id = "AGPL-3.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 1_799_675
+  login = "jochenklar"
+  node_id = "MDQ6VXNlcjE3OTk2NzU="
+  site_admin = false
+  type = "User"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

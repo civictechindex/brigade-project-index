@@ -6,6 +6,55 @@ einer Karte markiert und beim Anklicken Titel, Bild, Zusammenfassung und
  Wikipedialink anzeigt. Die Koordinaten stammen aus DBpedia 2014 (Daten 
 von Juni 2014), alle angezeigten Infos werden live vom DBpedia SPARQL 
 Server abgerufen."""
-last_pushed_within = "over_a_year"
 link_url = "http://berlin.codefor.de/dbpediaplaces/"
 name = "DBPedia PLaces Berlin"
+organization_name = "OK Lab Berlin"
+
+[github]
+archived = false
+created_at = "2014-07-20T19:21:16Z"
+default_branch = "master"
+description = { }
+disabled = false
+fork = false
+forks_within = 10
+full_name = "notapirate/dbpediaplacesberlin"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 22_041_263
+language = "JavaScript"
+name = "dbpediaplacesberlin"
+network_count = 1
+node_id = "MDEwOlJlcG9zaXRvcnkyMjA0MTI2Mw=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+subscribers_count = 2
+temp_clone_token = ""
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "gpl-3.0"
+  name = "GNU General Public License v3.0"
+  node_id = "MDc6TGljZW5zZTk="
+  spdx_id = "GPL-3.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 8_211_355
+  login = "notapirate"
+  node_id = "MDQ6VXNlcjgyMTEzNTU="
+  site_admin = false
+  type = "User"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

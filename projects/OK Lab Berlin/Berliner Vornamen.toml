@@ -4,7 +4,56 @@ description = """
 Welche Vornamen wurden in den Jahren 2012 und 2013 in Berlin vergeben? 
 Mithilfe der App kann nach Vornamen gesucht werden und es wird 
 angezeigt, wie häufig der Name in den beiden Jahren - nach Bezirk 
-sortiert - vergeben wurde. """
-last_pushed_within = "over_a_year"
+sortiert - vergeben wurde."""
 link_url = "http://codefor.de/projekte/2014-07-04-Vornamen-in-Berlin.html"
 name = "Berliner Vornamen"
+organization_name = "OK Lab Berlin"
+
+[github]
+archived = false
+created_at = "2014-03-02T13:06:46Z"
+default_branch = "master"
+description = "Visualizing open data on given names in Berlin"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "knudmoeller/berlin-names"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 17_337_848
+language = "JavaScript"
+name = "berlin-names"
+network_count = 1
+node_id = "MDEwOlJlcG9zaXRvcnkxNzMzNzg0OA=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+subscribers_count = 1
+temp_clone_token = ""
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 1_128_115
+  login = "knudmoeller"
+  node_id = "MDQ6VXNlcjExMjgxMTU="
+  site_admin = false
+  type = "User"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

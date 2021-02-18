@@ -1,6 +1,55 @@
 categories = "launched"
 code_url = "https://github.com/dirkschumacher/blume_messnet_api"
 description = "Feinstaub Daten aus dem BLUME Messnetzwerk verfügbar machen und visualisieren. Ziel sollte sein, eine gute API bereitzustellen, eine gute Visualisierung anzubieten und evtl. ein statistisches Modell zu entwickeln, um die Daten auf Berlin zu interpolieren und Vorhersagen zu machen. Das Bild gehört Berlin."
-last_pushed_within = "over_a_year"
 link_url = "http://codefor.de/projekte/2014-07-01-be-blume.html"
 name = "BLUME Messnetz API/MAP"
+organization_name = "OK Lab Berlin"
+
+[github]
+archived = true
+created_at = "2014-06-25T18:39:27Z"
+default_branch = "master"
+description = "Blume Messnet API"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "dirkschumacher/blume_messnet_api"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 21_214_144
+language = "Ruby"
+name = "blume_messnet_api"
+network_count = 2
+node_id = "MDEwOlJlcG9zaXRvcnkyMTIxNDE0NA=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+subscribers_count = 2
+temp_clone_token = ""
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "gpl-2.0"
+  name = "GNU General Public License v2.0"
+  node_id = "MDc6TGljZW5zZTg="
+  spdx_id = "GPL-2.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 1_569_647
+  login = "dirkschumacher"
+  node_id = "MDQ6VXNlcjE1Njk2NDc="
+  site_admin = false
+  type = "User"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

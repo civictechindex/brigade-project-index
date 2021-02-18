@@ -1,7 +1,56 @@
 categories = "launched, map"
 code_url = "https://github.com/MagdaN/berliner-badestellen"
-description = "Die Badesaison hat erföffnet! Erfahre, wo gebadet werden kann und wie die Wasserqualität an den einzelnen Badestellen ist. "
-last_pushed_within = "over_a_year"
+description = "Die Badesaison hat erföffnet! Erfahre, wo gebadet werden kann und wie die Wasserqualität an den einzelnen Badestellen ist."
 link_url = "http://berlin.codefor.de/badestellen/"
 name = "Baden in Berlin"
+organization_name = "OK Lab Berlin"
 type = "website"
+
+[github]
+archived = false
+created_at = "2014-06-23T18:44:24Z"
+default_branch = "master"
+description = { }
+disabled = false
+fork = false
+forks_within = 10
+full_name = "MagdaN/berliner-badestellen"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 21_137_946
+language = "CSS"
+name = "berliner-badestellen"
+network_count = 5
+node_id = "MDEwOlJlcG9zaXRvcnkyMTEzNzk0Ng=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+subscribers_count = 5
+temp_clone_token = ""
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "agpl-3.0"
+  name = "GNU Affero General Public License v3.0"
+  node_id = "MDc6TGljZW5zZTE="
+  spdx_id = "AGPL-3.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_905_743
+  login = "MagdaN"
+  node_id = "MDQ6VXNlcjI5MDU3NDM="
+  site_admin = false
+  type = "User"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

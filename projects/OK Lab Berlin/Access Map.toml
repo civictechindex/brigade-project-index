@@ -3,8 +3,52 @@ code_url = "https://github.com/arduina/access_map"
 description = """
 Kleines Projekt das mit einem Slider visualisiert, wie barrierefrei 
 Nahverkehrssysteme sind, indem nicht barrierefreie Stationen ausradiert 
-werden. Bisher für New York, London, Hamburg und Berlin umgesetzt. """
-last_pushed_within = "over_a_year"
+werden. Bisher für New York, London, Hamburg und Berlin umgesetzt."""
 link_url = "https://arduina.github.io/access_map/"
 name = "Access Map"
+organization_name = "OK Lab Berlin"
 type = "website"
+
+[github]
+archived = false
+created_at = "2014-03-26T21:17:49Z"
+default_branch = "gh-pages"
+description = "A visualization of the Berlin public transport map with and without accessible stations."
+disabled = false
+fork = false
+forks_within = 10
+full_name = "arduina/access_map"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 18_154_218
+language = "JavaScript"
+license = { }
+name = "access_map"
+network_count = 8
+node_id = "MDEwOlJlcG9zaXRvcnkxODE1NDIxOA=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 100
+subscribers_count = 6
+temp_clone_token = ""
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 100
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_928_861
+  login = "arduina"
+  node_id = "MDQ6VXNlcjY5Mjg4NjE="
+  site_admin = false
+  type = "User"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
