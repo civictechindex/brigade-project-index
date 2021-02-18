@@ -1,6 +1,46 @@
 code_url = "https://github.com/CodeForGiessen/Ressourcen"
 description = "Digitale Ressourcen für das OK Lab Gießen"
-git_branch = "master"
 git_url = "git://github.com/CodeForGiessen/Ressourcen.git"
-last_pushed_within = "over_a_year"
 name = "Ressourcen"
+organization_name = "OK Lab Gießen"
+
+[github]
+archived = false
+created_at = "2014-09-03T08:44:05Z"
+default_branch = "master"
+description = "Digitale Ressourcen für das OK Lab Gießen"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "CodeForGiessen/Ressourcen"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 23_613_012
+language = { }
+license = { }
+name = "Ressourcen"
+node_id = "MDEwOlJlcG9zaXRvcnkyMzYxMzAxMg=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 8_227_138
+  login = "CodeForGiessen"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjgyMjcxMzg="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

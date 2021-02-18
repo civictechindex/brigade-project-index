@@ -1,5 +1,45 @@
 code_url = "https://github.com/CodeForGiessen/badeseenapp_old"
-git_branch = "master"
 git_url = "git://github.com/CodeForGiessen/badeseenapp_old.git"
-last_pushed_within = "over_a_year"
 name = "badeseenapp_old"
+organization_name = "OK Lab Gießen"
+
+[github]
+archived = false
+created_at = "2014-12-13T10:53:02Z"
+default_branch = "master"
+description = { }
+disabled = false
+fork = false
+forks_within = 10
+full_name = "CodeForGiessen/badeseenapp_old"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 27_957_752
+language = "JavaScript"
+license = { }
+name = "badeseenapp_old"
+node_id = "MDEwOlJlcG9zaXRvcnkyNzk1Nzc1Mg=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 8_227_138
+  login = "CodeForGiessen"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjgyMjcxMzg="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

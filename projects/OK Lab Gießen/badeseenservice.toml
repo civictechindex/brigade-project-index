@@ -1,7 +1,47 @@
 code_url = "https://github.com/CodeForGiessen/badeseenservice"
 description = "API for the badeseen mobile app"
-git_branch = "master"
 git_url = "git://github.com/CodeForGiessen/badeseenservice.git"
-last_pushed_within = "over_a_year"
 link_url = "http://ci.andinfinity.de/codeforgiessen/badeseenservice/"
 name = "badeseenservice"
+organization_name = "OK Lab Gießen"
+
+[github]
+archived = false
+created_at = "2015-02-16T09:28:41Z"
+default_branch = "master"
+description = "API for the badeseen mobile app"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "CodeForGiessen/badeseenservice"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://ci.andinfinity.de/codeforgiessen/badeseenservice/"
+id = 30_861_452
+language = "JavaScript"
+license = { }
+name = "badeseenservice"
+node_id = "MDEwOlJlcG9zaXRvcnkzMDg2MTQ1Mg=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 8_227_138
+  login = "CodeForGiessen"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjgyMjcxMzg="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

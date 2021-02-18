@@ -1,7 +1,52 @@
 code_url = "https://github.com/CodeForGiessen/stats"
 description = "Daten über das OK Lab Gießen"
-git_branch = "master"
 git_url = "git://github.com/CodeForGiessen/stats.git"
-last_pushed_within = "over_a_year"
 link_url = "http://codeforgiessen.github.io/stats/"
 name = "stats"
+organization_name = "OK Lab Gießen"
+
+[github]
+archived = false
+created_at = "2014-09-06T10:05:01Z"
+default_branch = "master"
+description = "Daten über das OK Lab Gießen"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "CodeForGiessen/stats"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "http://codeforgiessen.github.io/stats/"
+id = 23_731_870
+language = "HTML"
+name = "stats"
+node_id = "MDEwOlJlcG9zaXRvcnkyMzczMTg3MA=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 8_227_138
+  login = "CodeForGiessen"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjgyMjcxMzg="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
