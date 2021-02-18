@@ -1,7 +1,52 @@
 code_url = "https://github.com/codeforkyana/public-comment"
 description = "This application is built to allow organizations to solicit public comments on federal regulations posted to regulations.gov."
-git_branch = "main"
 git_url = "git://github.com/codeforkyana/public-comment.git"
-last_pushed_within = "year"
 link_url = "https://www.govcommenter.com"
 name = "public-comment"
+organization_name = "Code for Kentuckiana"
+
+[github]
+archived = false
+created_at = "2020-11-21T21:04:58Z"
+default_branch = "main"
+description = "This application is built to allow organizations to solicit public comments on federal regulations posted to regulations.gov."
+disabled = false
+fork = false
+forks_within = 0
+full_name = "codeforkyana/public-comment"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "https://www.govcommenter.com"
+id = 314_903_208
+language = "Python"
+name = "public-comment"
+node_id = "MDEwOlJlcG9zaXRvcnkzMTQ5MDMyMDg="
+open_issues_within = 0
+private = false
+pushed_within = "year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "year"
+watchers_within = 0
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 43_117_709
+  login = "codeforkyana"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjQzMTE3NzA5"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

@@ -1,7 +1,52 @@
 code_url = "https://github.com/codeforkyana/adopt-a-drain"
 description = 'A web application that allows citizens to "adopt" a storm drain in San Francisco.'
-git_branch = "master"
 git_url = "git://github.com/codeforkyana/adopt-a-drain.git"
-last_pushed_within = "over_a_year"
 link_url = "http://adoptadrain.sfwater.org/"
 name = "adopt-a-drain"
+organization_name = "Code for Kentuckiana"
+
+[github]
+archived = false
+created_at = "2019-07-18T21:15:32Z"
+default_branch = "master"
+description = 'A web application that allows citizens to "adopt" a storm drain in San Francisco.'
+disabled = false
+fork = true
+forks_within = 0
+full_name = "codeforkyana/adopt-a-drain"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://adoptadrain.sfwater.org/"
+id = 197_658_051
+language = "Ruby"
+name = "adopt-a-drain"
+node_id = "MDEwOlJlcG9zaXRvcnkxOTc2NTgwNTE="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "bsd-3-clause"
+  name = 'BSD 3-Clause "New" or "Revised" License'
+  node_id = "MDc6TGljZW5zZTU="
+  spdx_id = "BSD-3-Clause"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 43_117_709
+  login = "codeforkyana"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjQzMTE3NzA5"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

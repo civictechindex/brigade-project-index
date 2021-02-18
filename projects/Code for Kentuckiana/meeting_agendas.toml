@@ -1,5 +1,45 @@
 code_url = "https://github.com/codeforkyana/meeting_agendas"
-git_branch = "master"
 git_url = "git://github.com/codeforkyana/meeting_agendas.git"
-last_pushed_within = "over_a_year"
 name = "meeting_agendas"
+organization_name = "Code for Kentuckiana"
+
+[github]
+archived = false
+created_at = "2018-12-15T16:06:35Z"
+default_branch = "master"
+description = { }
+disabled = false
+fork = false
+forks_within = 0
+full_name = "codeforkyana/meeting_agendas"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 161_921_374
+language = { }
+license = { }
+name = "meeting_agendas"
+node_id = "MDEwOlJlcG9zaXRvcnkxNjE5MjEzNzQ="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 43_117_709
+  login = "codeforkyana"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjQzMTE3NzA5"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

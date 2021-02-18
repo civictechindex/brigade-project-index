@@ -1,8 +1,53 @@
 code_url = "https://github.com/codeforkyana/govbook"
 description = "Kentucky local government contact information"
-git_branch = "master"
 git_url = "git://github.com/codeforkyana/govbook.git"
-last_pushed_within = "over_a_year"
 link_url = "https://govbook.codeforkentuckiana.org"
 name = "govbook"
+organization_name = "Code for Kentuckiana"
 topics = [ "civic-tech", "government-data" ]
+
+[github]
+archived = false
+created_at = "2019-09-14T15:52:43Z"
+default_branch = "master"
+description = "Kentucky local government contact information"
+disabled = false
+fork = true
+forks_within = 0
+full_name = "codeforkyana/govbook"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "https://govbook.codeforkentuckiana.org"
+id = 208_463_544
+language = "JavaScript"
+name = "govbook"
+node_id = "MDEwOlJlcG9zaXRvcnkyMDg0NjM1NDQ="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ "civic-tech", "government-data" ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "other"
+  name = "Other"
+  node_id = "MDc6TGljZW5zZTA="
+  spdx_id = "NOASSERTION"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 43_117_709
+  login = "codeforkyana"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjQzMTE3NzA5"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

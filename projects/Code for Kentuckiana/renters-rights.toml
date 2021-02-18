@@ -1,8 +1,53 @@
 code_url = "https://github.com/codeforkyana/renters-rights"
 description = "An application focused on helping renters"
-git_branch = "master"
 git_url = "git://github.com/codeforkyana/renters-rights.git"
-last_pushed_within = "year"
 link_url = "https://test.renterhaven.com"
 name = "renters-rights"
+organization_name = "Code for Kentuckiana"
 topics = [ "civic-tech", "housing" ]
+
+[github]
+archived = false
+created_at = "2019-08-22T18:22:29Z"
+default_branch = "master"
+description = "An application focused on helping renters"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codeforkyana/renters-rights"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "https://test.renterhaven.com"
+id = 203_850_243
+language = "Python"
+name = "renters-rights"
+node_id = "MDEwOlJlcG9zaXRvcnkyMDM4NTAyNDM="
+open_issues_within = 100
+private = false
+pushed_within = "year"
+stargazers_within = 10
+topics = [ "civic-tech", "housing" ]
+updated_within = "year"
+watchers_within = 10
+
+  [github.license]
+  key = "other"
+  name = "Other"
+  node_id = "MDc6TGljZW5zZTA="
+  spdx_id = "NOASSERTION"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 43_117_709
+  login = "codeforkyana"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjQzMTE3NzA5"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
