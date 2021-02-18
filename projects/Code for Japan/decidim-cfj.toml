@@ -1,6 +1,51 @@
 code_url = "https://github.com/codeforjapan/decidim-cfj"
 description = "Code for Japan Decidim"
-git_branch = "develop"
 git_url = "git://github.com/codeforjapan/decidim-cfj.git"
-last_pushed_within = "month"
 name = "decidim-cfj"
+organization_name = "Code for Japan"
+
+[github]
+archived = false
+created_at = "2020-08-15T06:15:35Z"
+default_branch = "develop"
+description = "Code for Japan Decidim"
+disabled = false
+fork = false
+forks_within = 100
+full_name = "codeforjapan/decidim-cfj"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 287_689_572
+language = "Ruby"
+name = "decidim-cfj"
+node_id = "MDEwOlJlcG9zaXRvcnkyODc2ODk1NzI="
+open_issues_within = 100
+private = false
+pushed_within = "week"
+stargazers_within = 100
+topics = [ ]
+updated_within = "week"
+watchers_within = 100
+
+  [github.license]
+  key = "agpl-3.0"
+  name = "GNU Affero General Public License v3.0"
+  node_id = "MDc6TGljZW5zZTE="
+  spdx_id = "AGPL-3.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 5_137_738
+  login = "codeforjapan"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjUxMzc3Mzg="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

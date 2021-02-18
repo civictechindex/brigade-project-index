@@ -1,6 +1,46 @@
 code_url = "https://github.com/codeforjapan/datalaw-guideline"
 description = "官民データ活用の推進に関する策定の基本的な方針"
-git_branch = "master"
 git_url = "git://github.com/codeforjapan/datalaw-guideline.git"
-last_pushed_within = "over_a_year"
 name = "datalaw-guideline"
+organization_name = "Code for Japan"
+
+[github]
+archived = false
+created_at = "2017-12-21T06:17:54Z"
+default_branch = "master"
+description = "官民データ活用の推進に関する策定の基本的な方針"
+disabled = false
+fork = false
+forks_within = 100
+full_name = "codeforjapan/datalaw-guideline"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 114_970_052
+language = { }
+license = { }
+name = "datalaw-guideline"
+node_id = "MDEwOlJlcG9zaXRvcnkxMTQ5NzAwNTI="
+open_issues_within = 100
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 5_137_738
+  login = "codeforjapan"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjUxMzc3Mzg="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

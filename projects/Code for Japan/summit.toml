@@ -1,5 +1,50 @@
 code_url = "https://github.com/codeforjapan/summit"
-git_branch = "master"
 git_url = "git://github.com/codeforjapan/summit.git"
-last_pushed_within = "over_a_year"
 name = "summit"
+organization_name = "Code for Japan"
+
+[github]
+archived = false
+created_at = "2015-06-08T04:28:04Z"
+default_branch = "master"
+description = { }
+disabled = false
+fork = false
+forks_within = 0
+full_name = "codeforjapan/summit"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 37_045_873
+language = { }
+name = "summit"
+node_id = "MDEwOlJlcG9zaXRvcnkzNzA0NTg3Mw=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "cc0-1.0"
+  name = "Creative Commons Zero v1.0 Universal"
+  node_id = "MDc6TGljZW5zZTY="
+  spdx_id = "CC0-1.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 5_137_738
+  login = "codeforjapan"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjUxMzc3Mzg="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

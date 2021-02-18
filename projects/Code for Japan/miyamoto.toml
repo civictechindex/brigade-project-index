@@ -1,6 +1,46 @@
 code_url = "https://github.com/codeforjapan/miyamoto"
 description = "Google Apps Scriptで書かれたSlack用勤怠管理Botの「みやもとさん」"
-git_branch = "master"
 git_url = "git://github.com/codeforjapan/miyamoto.git"
-last_pushed_within = "month"
 name = "miyamoto"
+organization_name = "Code for Japan"
+
+[github]
+archived = false
+created_at = "2020-11-18T00:37:22Z"
+default_branch = "master"
+description = "Google Apps Scriptで書かれたSlack用勤怠管理Botの「みやもとさん」"
+disabled = false
+fork = true
+forks_within = 10
+full_name = "codeforjapan/miyamoto"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 313_780_032
+language = "JavaScript"
+license = { }
+name = "miyamoto"
+node_id = "MDEwOlJlcG9zaXRvcnkzMTM3ODAwMzI="
+open_issues_within = 0
+private = false
+pushed_within = "year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "month"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 5_137_738
+  login = "codeforjapan"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjUxMzc3Mzg="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

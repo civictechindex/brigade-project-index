@@ -1,6 +1,51 @@
 code_url = "https://github.com/codeforjapan/codeforelection"
 description = "衆院選2017候補者データベース作成プロジェクト"
-git_branch = "master"
 git_url = "git://github.com/codeforjapan/codeforelection.git"
-last_pushed_within = "over_a_year"
 name = "codeforelection"
+organization_name = "Code for Japan"
+
+[github]
+archived = false
+created_at = "2017-09-29T08:11:03Z"
+default_branch = "master"
+description = "衆院選2017候補者データベース作成プロジェクト"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codeforjapan/codeforelection"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 105_247_076
+language = "JavaScript"
+name = "codeforelection"
+node_id = "MDEwOlJlcG9zaXRvcnkxMDUyNDcwNzY="
+open_issues_within = 100
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 100
+topics = [ ]
+updated_within = "year"
+watchers_within = 100
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 5_137_738
+  login = "codeforjapan"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjUxMzc3Mzg="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

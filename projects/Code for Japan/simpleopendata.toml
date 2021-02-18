@@ -1,7 +1,47 @@
 code_url = "https://github.com/codeforjapan/simpleopendata"
 description = "simple guidelines for publishing open data in useful formats"
-git_branch = "gh-pages"
 git_url = "git://github.com/codeforjapan/simpleopendata.git"
-last_pushed_within = "over_a_year"
 link_url = "http://simpleopendata.com/"
 name = "simpleopendata"
+organization_name = "Code for Japan"
+
+[github]
+archived = false
+created_at = "2014-02-16T12:31:06Z"
+default_branch = "gh-pages"
+description = "simple guidelines for publishing open data in useful formats"
+disabled = false
+fork = true
+forks_within = 10
+full_name = "codeforjapan/simpleopendata"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://simpleopendata.com/"
+id = 16_884_355
+language = "CSS"
+license = { }
+name = "simpleopendata"
+node_id = "MDEwOlJlcG9zaXRvcnkxNjg4NDM1NQ=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 5_137_738
+  login = "codeforjapan"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjUxMzc3Mzg="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

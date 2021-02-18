@@ -1,6 +1,46 @@
 code_url = "https://github.com/codeforjapan/bad-opendata-temple"
 description = "BADオープンデータ供養寺 建立予定地"
-git_branch = "develop"
 git_url = "git://github.com/codeforjapan/bad-opendata-temple.git"
-last_pushed_within = "week"
 name = "bad-opendata-temple"
+organization_name = "Code for Japan"
+
+[github]
+archived = false
+created_at = "2020-07-26T04:55:50Z"
+default_branch = "develop"
+description = "BADオープンデータ供養寺 建立予定地"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codeforjapan/bad-opendata-temple"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 282_578_786
+language = "TypeScript"
+license = { }
+name = "bad-opendata-temple"
+node_id = "MDEwOlJlcG9zaXRvcnkyODI1Nzg3ODY="
+open_issues_within = 10
+private = false
+pushed_within = "year"
+stargazers_within = 100
+topics = [ ]
+updated_within = "year"
+watchers_within = 100
+
+  [github.owner]
+  gravatar_id = ""
+  id = 5_137_738
+  login = "codeforjapan"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjUxMzc3Mzg="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

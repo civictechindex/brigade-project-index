@@ -1,6 +1,51 @@
 code_url = "https://github.com/codeforjapan/e-community-platform"
 description = "eコミュニティ・プラットフォーム（ http://ecom-plat.jp ） のFork"
-git_branch = "master"
 git_url = "git://github.com/codeforjapan/e-community-platform.git"
-last_pushed_within = "over_a_year"
 name = "e-community-platform"
+organization_name = "Code for Japan"
+
+[github]
+archived = false
+created_at = "2013-09-22T01:10:07Z"
+default_branch = "master"
+description = "eコミュニティ・プラットフォーム（ http://ecom-plat.jp ） のFork"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codeforjapan/e-community-platform"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 13_005_311
+language = "PHP"
+name = "e-community-platform"
+node_id = "MDEwOlJlcG9zaXRvcnkxMzAwNTMxMQ=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "other"
+  name = "Other"
+  node_id = "MDc6TGljZW5zZTA="
+  spdx_id = "NOASSERTION"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 5_137_738
+  login = "codeforjapan"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjUxMzc3Mzg="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

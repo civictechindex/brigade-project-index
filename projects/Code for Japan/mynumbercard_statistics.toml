@@ -1,6 +1,51 @@
 code_url = "https://github.com/codeforjapan/mynumbercard_statistics"
 description = "The dashboard of my number card statistics"
-git_branch = "development"
 git_url = "git://github.com/codeforjapan/mynumbercard_statistics.git"
-last_pushed_within = "week"
 name = "mynumbercard_statistics"
+organization_name = "Code for Japan"
+
+[github]
+archived = false
+created_at = "2020-07-05T08:51:46Z"
+default_branch = "development"
+description = "The dashboard of my number card statistics"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codeforjapan/mynumbercard_statistics"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 277_264_390
+language = "Python"
+name = "mynumbercard_statistics"
+node_id = "MDEwOlJlcG9zaXRvcnkyNzcyNjQzOTA="
+open_issues_within = 10
+private = false
+pushed_within = "week"
+stargazers_within = 100
+topics = [ ]
+updated_within = "week"
+watchers_within = 100
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 5_137_738
+  login = "codeforjapan"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjUxMzc3Mzg="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

@@ -1,6 +1,46 @@
 code_url = "https://github.com/codeforjapan/brigade-map"
 description = "Brigade の一覧地図です"
-git_branch = "master"
 git_url = "git://github.com/codeforjapan/brigade-map.git"
-last_pushed_within = "over_a_year"
 name = "brigade-map"
+organization_name = "Code for Japan"
+
+[github]
+archived = false
+created_at = "2019-05-20T08:07:16Z"
+default_branch = "master"
+description = "Brigade の一覧地図です"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "codeforjapan/brigade-map"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 187_596_077
+language = "HTML"
+license = { }
+name = "brigade-map"
+node_id = "MDEwOlJlcG9zaXRvcnkxODc1OTYwNzc="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 5_137_738
+  login = "codeforjapan"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjUxMzc3Mzg="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

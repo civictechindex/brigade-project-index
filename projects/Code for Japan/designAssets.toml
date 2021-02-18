@@ -1,5 +1,45 @@
 code_url = "https://github.com/codeforjapan/designAssets"
-git_branch = "master"
 git_url = "git://github.com/codeforjapan/designAssets.git"
-last_pushed_within = "over_a_year"
 name = "designAssets"
+organization_name = "Code for Japan"
+
+[github]
+archived = false
+created_at = "2014-04-29T09:40:46Z"
+default_branch = "master"
+description = { }
+disabled = false
+fork = false
+forks_within = 0
+full_name = "codeforjapan/designAssets"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 19_271_287
+language = { }
+license = { }
+name = "designAssets"
+node_id = "MDEwOlJlcG9zaXRvcnkxOTI3MTI4Nw=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 5_137_738
+  login = "codeforjapan"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjUxMzc3Mzg="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

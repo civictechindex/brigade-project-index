@@ -1,6 +1,46 @@
 code_url = "https://github.com/codeforjapan/ICT-learning"
 description = "ICT を学ぶための材料集"
-git_branch = "master"
 git_url = "git://github.com/codeforjapan/ICT-learning.git"
-last_pushed_within = "over_a_year"
 name = "ICT-learning"
+organization_name = "Code for Japan"
+
+[github]
+archived = false
+created_at = "2018-03-26T01:35:20Z"
+default_branch = "master"
+description = "ICT を学ぶための材料集"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "codeforjapan/ICT-learning"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 126_757_696
+language = { }
+license = { }
+name = "ICT-learning"
+node_id = "MDEwOlJlcG9zaXRvcnkxMjY3NTc2OTY="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 5_137_738
+  login = "codeforjapan"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjUxMzc3Mzg="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

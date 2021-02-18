@@ -1,7 +1,52 @@
 code_url = "https://github.com/codeforjapan/ckan"
 description = "CKAN is an open-source DMS (data management system) for powering data hubs and data portals. CKAN makes it easy to publish, share and use data. It powers the thedatahub.org, catalog.data.gov and data.gov.uk among many other sites."
-git_branch = "master"
 git_url = "git://github.com/codeforjapan/ckan.git"
-last_pushed_within = "over_a_year"
 link_url = "http://ckan.org/"
 name = "ckan"
+organization_name = "Code for Japan"
+
+[github]
+archived = false
+created_at = "2013-09-22T01:50:36Z"
+default_branch = "master"
+description = "CKAN is an open-source DMS (data management system) for powering data hubs and data portals. CKAN makes it easy to publish, share and use data. It powers the thedatahub.org, catalog.data.gov and data.gov.uk among many other sites."
+disabled = false
+fork = true
+forks_within = 10
+full_name = "codeforjapan/ckan"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://ckan.org/"
+id = 13_005_811
+language = "Python"
+name = "ckan"
+node_id = "MDEwOlJlcG9zaXRvcnkxMzAwNTgxMQ=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "other"
+  name = "Other"
+  node_id = "MDc6TGljZW5zZTA="
+  spdx_id = "NOASSERTION"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 5_137_738
+  login = "codeforjapan"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjUxMzc3Mzg="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

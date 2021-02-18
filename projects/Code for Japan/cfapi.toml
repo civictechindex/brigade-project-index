@@ -1,7 +1,52 @@
 code_url = "https://github.com/codeforjapan/cfapi"
 description = "The Code for America API. Tracks and motivates activity and participation across the civic technology movement."
-git_branch = "master"
 git_url = "git://github.com/codeforjapan/cfapi.git"
-last_pushed_within = "over_a_year"
 link_url = "http://codeforamerica.org/api"
 name = "cfapi"
+organization_name = "Code for Japan"
+
+[github]
+archived = false
+created_at = "2015-12-19T08:49:55Z"
+default_branch = "master"
+description = "The Code for America API. Tracks and motivates activity and participation across the civic technology movement."
+disabled = false
+fork = true
+forks_within = 0
+full_name = "codeforjapan/cfapi"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://codeforamerica.org/api"
+id = 48_275_158
+language = "Python"
+name = "cfapi"
+node_id = "MDEwOlJlcG9zaXRvcnk0ODI3NTE1OA=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 5_137_738
+  login = "codeforjapan"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjUxMzc3Mzg="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

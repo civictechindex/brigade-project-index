@@ -1,7 +1,52 @@
 code_url = "https://github.com/codeforjapan/stopcovid19"
 description = "StopCovid19 全国版 dashboard"
-git_branch = "master"
 git_url = "git://github.com/codeforjapan/stopcovid19.git"
-last_pushed_within = "month"
 link_url = "https://stopcovid19.code4japan.org/"
 name = "stopcovid19"
+organization_name = "Code for Japan"
+
+[github]
+archived = false
+created_at = "2020-03-16T02:30:52Z"
+default_branch = "master"
+description = "StopCovid19 全国版 dashboard"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codeforjapan/stopcovid19"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "https://stopcovid19.code4japan.org/"
+id = 247_593_216
+language = "Vue"
+name = "stopcovid19"
+node_id = "MDEwOlJlcG9zaXRvcnkyNDc1OTMyMTY="
+open_issues_within = 10
+private = false
+pushed_within = "year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "year"
+watchers_within = 10
+
+  [github.license]
+  key = "other"
+  name = "Other"
+  node_id = "MDc6TGljZW5zZTA="
+  spdx_id = "NOASSERTION"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 5_137_738
+  login = "codeforjapan"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjUxMzc3Mzg="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

@@ -1,6 +1,46 @@
 code_url = "https://github.com/codeforjapan/summit2019"
 description = "Code for Japan Summit 2019"
-git_branch = "master"
 git_url = "git://github.com/codeforjapan/summit2019.git"
-last_pushed_within = "month"
 name = "summit2019"
+organization_name = "Code for Japan"
+
+[github]
+archived = false
+created_at = "2019-06-26T08:00:50Z"
+default_branch = "master"
+description = "Code for Japan Summit 2019"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "codeforjapan/summit2019"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 193_857_738
+language = "Vue"
+license = { }
+name = "summit2019"
+node_id = "MDEwOlJlcG9zaXRvcnkxOTM4NTc3Mzg="
+open_issues_within = 10
+private = false
+pushed_within = "year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 5_137_738
+  login = "codeforjapan"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjUxMzc3Mzg="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
