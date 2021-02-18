@@ -1,7 +1,52 @@
 code_url = "https://github.com/codeformuenster/sitzplan-rat"
 description = "Der Sitzplan der Sitzungen des Rats Münster als Webseite"
-git_branch = "master"
 git_url = "git://github.com/codeformuenster/sitzplan-rat.git"
-last_pushed_within = "month"
 link_url = "https://rat-muenster.netlify.com/"
 name = "sitzplan-rat"
+organization_name = "OK Lab Münster"
+
+[github]
+archived = false
+created_at = "2018-12-28T19:22:47Z"
+default_branch = "master"
+description = "Der Sitzplan der Sitzungen des Rats Münster als Webseite"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codeformuenster/sitzplan-rat"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "https://rat-muenster.netlify.com/"
+id = 163_442_619
+language = "CSS"
+name = "sitzplan-rat"
+node_id = "MDEwOlJlcG9zaXRvcnkxNjM0NDI2MTk="
+open_issues_within = 10
+private = false
+pushed_within = "month"
+stargazers_within = 10
+topics = [ ]
+updated_within = "year"
+watchers_within = 10
+
+  [github.license]
+  key = "apache-2.0"
+  name = "Apache License 2.0"
+  node_id = "MDc6TGljZW5zZTI="
+  spdx_id = "Apache-2.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_464_842
+  login = "codeformuenster"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjY0NjQ4NDI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

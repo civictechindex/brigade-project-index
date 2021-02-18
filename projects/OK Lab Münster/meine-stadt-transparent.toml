@@ -1,7 +1,52 @@
 code_url = "https://github.com/codeformuenster/meine-stadt-transparent"
 description = "A website to bring municipal politics to citizens"
-git_branch = "master"
 git_url = "git://github.com/codeformuenster/meine-stadt-transparent.git"
-last_pushed_within = "year"
 link_url = "https://meine-stadt-transparent.de"
 name = "meine-stadt-transparent"
+organization_name = "OK Lab Münster"
+
+[github]
+archived = false
+created_at = "2019-11-18T16:18:56Z"
+default_branch = "master"
+description = "A website to bring municipal politics to citizens"
+disabled = false
+fork = true
+forks_within = 0
+full_name = "codeformuenster/meine-stadt-transparent"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = false
+homepage = "https://meine-stadt-transparent.de"
+id = 222_491_844
+language = { }
+name = "meine-stadt-transparent"
+node_id = "MDEwOlJlcG9zaXRvcnkyMjI0OTE4NDQ="
+open_issues_within = 0
+private = false
+pushed_within = "year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_464_842
+  login = "codeformuenster"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjY0NjQ4NDI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

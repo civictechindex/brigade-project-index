@@ -1,5 +1,50 @@
 code_url = "https://github.com/codeformuenster/logstash-filter-split_featurecollection"
-git_branch = "master"
 git_url = "git://github.com/codeformuenster/logstash-filter-split_featurecollection.git"
-last_pushed_within = "over_a_year"
 name = "logstash-filter-split_featurecollection"
+organization_name = "OK Lab Münster"
+
+[github]
+archived = false
+created_at = "2015-07-30T23:36:53Z"
+default_branch = "master"
+description = { }
+disabled = false
+fork = false
+forks_within = 0
+full_name = "codeformuenster/logstash-filter-split_featurecollection"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 39_977_045
+language = "Ruby"
+name = "logstash-filter-split_featurecollection"
+node_id = "MDEwOlJlcG9zaXRvcnkzOTk3NzA0NQ=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "other"
+  name = "Other"
+  node_id = "MDc6TGljZW5zZTA="
+  spdx_id = "NOASSERTION"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_464_842
+  login = "codeformuenster"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjY0NjQ4NDI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

@@ -1,35 +1,35 @@
-code_url = "https://github.com/codeformuenster/impressum"
-description = "Impressum / Datenschutzerklärung"
-git_url = "git://github.com/codeformuenster/impressum.git"
-name = "impressum"
+code_url = "https://github.com/codeformuenster/stadtradeln-vis"
+git_url = "git://github.com/codeformuenster/stadtradeln-vis.git"
+link_url = "https://codeformuenster.org/stadtradeln-vis"
+name = "stadtradeln-vis"
 organization_name = "OK Lab Münster"
 
 [github]
 archived = false
-created_at = "2019-08-29T08:05:14Z"
-default_branch = "master"
-description = "Impressum / Datenschutzerklärung"
+created_at = "2021-02-02T21:31:23Z"
+default_branch = "main"
+description = { }
 disabled = false
 fork = false
 forks_within = 10
-full_name = "codeformuenster/impressum"
+full_name = "codeformuenster/stadtradeln-vis"
 has_downloads = true
 has_issues = true
 has_pages = true
 has_projects = false
 has_wiki = false
-homepage = { }
-id = 205_112_783
-language = "HTML"
+homepage = "https://codeformuenster.org/stadtradeln-vis"
+id = 335_428_649
+language = "JavaScript"
 license = { }
-name = "impressum"
-node_id = "MDEwOlJlcG9zaXRvcnkyMDUxMTI3ODM="
+name = "stadtradeln-vis"
+node_id = "MDEwOlJlcG9zaXRvcnkzMzU0Mjg2NDk="
 open_issues_within = 10
 private = false
-pushed_within = "over_a_year"
+pushed_within = "month"
 stargazers_within = 0
 topics = [ ]
-updated_within = "over_a_year"
+updated_within = "month"
 watchers_within = 0
 
   [github.owner]

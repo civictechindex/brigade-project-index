@@ -1,6 +1,51 @@
 code_url = "https://github.com/codeformuenster/COVID-19-NRW"
-git_branch = "master"
 git_url = "git://github.com/codeformuenster/COVID-19-NRW.git"
-last_pushed_within = "week"
 link_url = "https://codeformuenster.org/COVID-19-NRW/index.html"
 name = "COVID-19-NRW"
+organization_name = "OK Lab Münster"
+
+[github]
+archived = false
+created_at = "2020-03-20T15:00:37Z"
+default_branch = "master"
+description = { }
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codeformuenster/COVID-19-NRW"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "https://codeformuenster.org/COVID-19-NRW/index.html"
+id = 248_782_963
+language = "HTML"
+name = "COVID-19-NRW"
+node_id = "MDEwOlJlcG9zaXRvcnkyNDg3ODI5NjM="
+open_issues_within = 10
+private = false
+pushed_within = "week"
+stargazers_within = 10
+topics = [ ]
+updated_within = "week"
+watchers_within = 10
+
+  [github.license]
+  key = "apache-2.0"
+  name = "Apache License 2.0"
+  node_id = "MDc6TGljZW5zZTI="
+  spdx_id = "Apache-2.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_464_842
+  login = "codeformuenster"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjY0NjQ4NDI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

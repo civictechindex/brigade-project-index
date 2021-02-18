@@ -1,7 +1,52 @@
 code_url = "https://github.com/codeformuenster/WhatsMyDistrict"
 description = "lex maps where u at (obsolete)"
-git_branch = "master"
 git_url = "git://github.com/codeformuenster/WhatsMyDistrict.git"
-last_pushed_within = "year"
 link_url = "http://whatsmydistrict.org"
 name = "WhatsMyDistrict"
+organization_name = "OK Lab Münster"
+
+[github]
+archived = false
+created_at = "2014-03-14T15:11:46Z"
+default_branch = "master"
+description = "lex maps where u at (obsolete)"
+disabled = false
+fork = true
+forks_within = 0
+full_name = "codeformuenster/WhatsMyDistrict"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://whatsmydistrict.org"
+id = 17_750_202
+language = "Ruby"
+name = "WhatsMyDistrict"
+node_id = "MDEwOlJlcG9zaXRvcnkxNzc1MDIwMg=="
+open_issues_within = 100
+private = false
+pushed_within = "year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_464_842
+  login = "codeformuenster"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjY0NjQ4NDI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

@@ -1,7 +1,47 @@
 code_url = "https://github.com/codeformuenster/parking-decks-muenster"
 description = "Archivierung der Belegung der Münsteraner Parkhäuser und Wartezeiten im Bürgerbüro"
-git_branch = "master"
 git_url = "git://github.com/codeformuenster/parking-decks-muenster.git"
-last_pushed_within = "week"
 link_url = "https://github.com/codeformuenster/parking-decks-muenster"
 name = "parking-decks-muenster"
+organization_name = "OK Lab Münster"
+
+[github]
+archived = false
+created_at = "2019-08-18T18:19:01Z"
+default_branch = "master"
+description = "Archivierung der Belegung der Münsteraner Parkhäuser und Wartezeiten im Bürgerbüro"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codeformuenster/parking-decks-muenster"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "https://github.com/codeformuenster/parking-decks-muenster"
+id = 203_040_849
+language = "Python"
+license = { }
+name = "parking-decks-muenster"
+node_id = "MDEwOlJlcG9zaXRvcnkyMDMwNDA4NDk="
+open_issues_within = 10
+private = false
+pushed_within = "year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_464_842
+  login = "codeformuenster"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjY0NjQ4NDI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

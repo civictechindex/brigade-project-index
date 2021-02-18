@@ -1,7 +1,47 @@
 code_url = "https://github.com/codeformuenster/digitransit"
 description = "Open Source & Open Data Fahrplanauskunft"
-git_branch = "master"
 git_url = "git://github.com/codeformuenster/digitransit.git"
-last_pushed_within = "over_a_year"
 link_url = "https://digitransit.codeformuenster.org/"
 name = "digitransit"
+organization_name = "OK Lab Münster"
+
+[github]
+archived = false
+created_at = "2019-11-16T15:13:41Z"
+default_branch = "master"
+description = "Open Source & Open Data Fahrplanauskunft"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "codeformuenster/digitransit"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "https://digitransit.codeformuenster.org/"
+id = 222_117_069
+language = { }
+license = { }
+name = "digitransit"
+node_id = "MDEwOlJlcG9zaXRvcnkyMjIxMTcwNjk="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_464_842
+  login = "codeformuenster"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjY0NjQ4NDI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

@@ -1,7 +1,47 @@
 code_url = "https://github.com/codeformuenster/open-data-karte-muenster"
 description = "Visualisierung der Stadtteil-Statistiken der Stadt Münster (Gehälter, Arbeitslose, etc..)."
-git_branch = "master"
 git_url = "git://github.com/codeformuenster/open-data-karte-muenster.git"
-last_pushed_within = "year"
 link_url = "http://codeformuenster.org/open-data-karte-muenster/"
 name = "open-data-karte-muenster"
+organization_name = "OK Lab Münster"
+
+[github]
+archived = false
+created_at = "2015-05-22T12:48:41Z"
+default_branch = "master"
+description = "Visualisierung der Stadtteil-Statistiken der Stadt Münster (Gehälter, Arbeitslose, etc..)."
+disabled = false
+fork = false
+forks_within = 0
+full_name = "codeformuenster/open-data-karte-muenster"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "http://codeformuenster.org/open-data-karte-muenster/"
+id = 36_071_966
+language = "HTML"
+license = { }
+name = "open-data-karte-muenster"
+node_id = "MDEwOlJlcG9zaXRvcnkzNjA3MTk2Ng=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_464_842
+  login = "codeformuenster"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjY0NjQ4NDI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

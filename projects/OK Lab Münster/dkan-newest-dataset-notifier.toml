@@ -1,8 +1,53 @@
 code_url = "https://github.com/codeformuenster/dkan-newest-dataset-notifier"
 description = "Twitter Bot für neue Datensätze im Open Data Portal Münster"
-git_branch = "master"
 git_url = "git://github.com/codeformuenster/dkan-newest-dataset-notifier.git"
-last_pushed_within = "year"
 link_url = "https://twitter.com/OpenData_MS"
 name = "dkan-newest-dataset-notifier"
+organization_name = "OK Lab Münster"
 topics = [ "dkan", "twitter-bot" ]
+
+[github]
+archived = false
+created_at = "2020-04-09T14:54:53Z"
+default_branch = "master"
+description = "Twitter Bot für neue Datensätze im Open Data Portal Münster"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "codeformuenster/dkan-newest-dataset-notifier"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = false
+homepage = "https://twitter.com/OpenData_MS"
+id = 254_400_807
+language = "Go"
+name = "dkan-newest-dataset-notifier"
+node_id = "MDEwOlJlcG9zaXRvcnkyNTQ0MDA4MDc="
+open_issues_within = 10
+private = false
+pushed_within = "month"
+stargazers_within = 10
+topics = [ "dkan", "twitter-bot" ]
+updated_within = "month"
+watchers_within = 10
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_464_842
+  login = "codeformuenster"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjY0NjQ4NDI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

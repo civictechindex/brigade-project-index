@@ -1,6 +1,51 @@
 code_url = "https://github.com/codeformuenster/busplanung"
 description = "Da wollten wir mal was mit Busplanung machen. Obsolet."
-git_branch = "master"
 git_url = "git://github.com/codeformuenster/busplanung.git"
-last_pushed_within = "over_a_year"
 name = "busplanung"
+organization_name = "OK Lab Münster"
+
+[github]
+archived = false
+created_at = "2014-10-08T18:58:32Z"
+default_branch = "master"
+description = "Da wollten wir mal was mit Busplanung machen. Obsolet."
+disabled = false
+fork = false
+forks_within = 0
+full_name = "codeformuenster/busplanung"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 24_955_789
+language = { }
+name = "busplanung"
+node_id = "MDEwOlJlcG9zaXRvcnkyNDk1NTc4OQ=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "apache-2.0"
+  name = "Apache License 2.0"
+  node_id = "MDc6TGljZW5zZTI="
+  spdx_id = "Apache-2.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_464_842
+  login = "codeformuenster"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjY0NjQ4NDI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

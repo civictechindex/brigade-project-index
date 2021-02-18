@@ -1,7 +1,52 @@
 code_url = "https://github.com/codeformuenster/weihnachtsmarkt"
 description = "Webseite zum Durchsuchen und Auffinden von Ständen auf den fünf Adventsmärkten in Münster. Leider ohne Daten."
-git_branch = "master"
 git_url = "git://github.com/codeformuenster/weihnachtsmarkt.git"
-last_pushed_within = "over_a_year"
 link_url = "https://weihnachtsmarkt.ms"
 name = "weihnachtsmarkt"
+organization_name = "OK Lab Münster"
+
+[github]
+archived = false
+created_at = "2014-10-08T18:58:03Z"
+default_branch = "master"
+description = "Webseite zum Durchsuchen und Auffinden von Ständen auf den fünf Adventsmärkten in Münster. Leider ohne Daten."
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codeformuenster/weihnachtsmarkt"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "https://weihnachtsmarkt.ms"
+id = 24_955_775
+language = "JavaScript"
+name = "weihnachtsmarkt"
+node_id = "MDEwOlJlcG9zaXRvcnkyNDk1NTc3NQ=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "year"
+watchers_within = 10
+
+  [github.license]
+  key = "apache-2.0"
+  name = "Apache License 2.0"
+  node_id = "MDc6TGljZW5zZTI="
+  spdx_id = "Apache-2.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_464_842
+  login = "codeformuenster"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjY0NjQ4NDI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

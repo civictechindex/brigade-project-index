@@ -1,8 +1,53 @@
 code_url = "https://github.com/codeformuenster/muenster-was-geht"
 description = 'Münsterhack 2020 Team "Münster was geht?" Sourcecode '
-git_branch = "master"
 git_url = "git://github.com/codeformuenster/muenster-was-geht.git"
-last_pushed_within = "year"
 link_url = "https://demo.muenster-was-geht.de/"
 name = "muenster-was-geht"
+organization_name = "OK Lab Münster"
 topics = [ "mshack20" ]
+
+[github]
+archived = false
+created_at = "2020-09-25T13:45:04Z"
+default_branch = "master"
+description = 'Münsterhack 2020 Team "Münster was geht?" Sourcecode '
+disabled = false
+fork = false
+forks_within = 0
+full_name = "codeformuenster/muenster-was-geht"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "https://demo.muenster-was-geht.de/"
+id = 298_584_859
+language = "HTML"
+name = "muenster-was-geht"
+node_id = "MDEwOlJlcG9zaXRvcnkyOTg1ODQ4NTk="
+open_issues_within = 10
+private = false
+pushed_within = "year"
+stargazers_within = 0
+topics = [ "mshack20" ]
+updated_within = "year"
+watchers_within = 0
+
+  [github.license]
+  key = "gpl-2.0"
+  name = "GNU General Public License v2.0"
+  node_id = "MDc6TGljZW5zZTg="
+  spdx_id = "GPL-2.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_464_842
+  login = "codeformuenster"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjY0NjQ4NDI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

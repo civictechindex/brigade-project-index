@@ -1,6 +1,51 @@
 code_url = "https://github.com/codeformuenster/swms-busradar-gtfs-realtime"
 description = "GTFS-realtime from Stadtwerke Münster realtime API (busradar)"
-git_branch = "master"
 git_url = "git://github.com/codeformuenster/swms-busradar-gtfs-realtime.git"
-last_pushed_within = "year"
 name = "swms-busradar-gtfs-realtime"
+organization_name = "OK Lab Münster"
+
+[github]
+archived = false
+created_at = "2019-11-10T16:39:21Z"
+default_branch = "master"
+description = "GTFS-realtime from Stadtwerke Münster realtime API (busradar)"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "codeformuenster/swms-busradar-gtfs-realtime"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 220_818_524
+language = "Go"
+name = "swms-busradar-gtfs-realtime"
+node_id = "MDEwOlJlcG9zaXRvcnkyMjA4MTg1MjQ="
+open_issues_within = 10
+private = false
+pushed_within = "year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "year"
+watchers_within = 0
+
+  [github.license]
+  key = "apache-2.0"
+  name = "Apache License 2.0"
+  node_id = "MDc6TGljZW5zZTI="
+  spdx_id = "Apache-2.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_464_842
+  login = "codeformuenster"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjY0NjQ4NDI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

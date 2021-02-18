@@ -1,7 +1,52 @@
 code_url = "https://github.com/codeformuenster/codeforgermany-presentation"
 description = 'Eine Slideshow-Präsentation über CodeForMünster ("Cursor-rechts" zum Blättern).'
-git_branch = "gh-pages"
 git_url = "git://github.com/codeformuenster/codeforgermany-presentation.git"
-last_pushed_within = "year"
 link_url = "http://codeformuenster.org/codeforgermany-presentation/"
 name = "codeforgermany-presentation"
+organization_name = "OK Lab Münster"
+
+[github]
+archived = false
+created_at = "2014-03-27T15:43:13Z"
+default_branch = "gh-pages"
+description = 'Eine Slideshow-Präsentation über CodeForMünster ("Cursor-rechts" zum Blättern).'
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codeformuenster/codeforgermany-presentation"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "http://codeformuenster.org/codeforgermany-presentation/"
+id = 18_181_383
+language = "JavaScript"
+name = "codeforgermany-presentation"
+node_id = "MDEwOlJlcG9zaXRvcnkxODE4MTM4Mw=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_464_842
+  login = "codeformuenster"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjY0NjQ4NDI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

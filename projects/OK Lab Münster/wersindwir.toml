@@ -1,7 +1,47 @@
 code_url = "https://github.com/codeformuenster/wersindwir"
 description = "Wer sind wir.  Eine kurze Vorstellung der Mitglieder von Code for Münster"
-git_branch = "master"
 git_url = "git://github.com/codeformuenster/wersindwir.git"
-last_pushed_within = "over_a_year"
 link_url = "https://github.com/codeformuenster/wersindwir/blob/master/README.md"
 name = "wersindwir"
+organization_name = "OK Lab Münster"
+
+[github]
+archived = false
+created_at = "2014-03-25T14:10:21Z"
+default_branch = "master"
+description = "Wer sind wir.  Eine kurze Vorstellung der Mitglieder von Code for Münster"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "codeformuenster/wersindwir"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "https://github.com/codeformuenster/wersindwir/blob/master/README.md"
+id = 18_102_491
+language = { }
+license = { }
+name = "wersindwir"
+node_id = "MDEwOlJlcG9zaXRvcnkxODEwMjQ5MQ=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_464_842
+  login = "codeformuenster"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjY0NjQ4NDI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

@@ -1,6 +1,51 @@
 code_url = "https://github.com/codeformuenster/divi-map"
 description = "Mapping ICU register from intensivregister.de"
-git_branch = "master"
 git_url = "git://github.com/codeformuenster/divi-map.git"
-last_pushed_within = "year"
 name = "divi-map"
+organization_name = "OK Lab Münster"
+
+[github]
+archived = false
+created_at = "2020-04-07T20:51:06Z"
+default_branch = "master"
+description = "Mapping ICU register from intensivregister.de"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codeformuenster/divi-map"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 253_909_067
+language = "Python"
+name = "divi-map"
+node_id = "MDEwOlJlcG9zaXRvcnkyNTM5MDkwNjc="
+open_issues_within = 0
+private = false
+pushed_within = "year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "year"
+watchers_within = 10
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_464_842
+  login = "codeformuenster"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjY0NjQ4NDI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

@@ -1,7 +1,47 @@
 code_url = "https://github.com/codeformuenster/wahlprogramm-matrix"
 description = "Eine Web-App mit der man die Wahlprogramme der Kommunalwahl 2014 vergleichen kann."
-git_branch = "master"
 git_url = "git://github.com/codeformuenster/wahlprogramm-matrix.git"
-last_pushed_within = "year"
 link_url = "http://codeformuenster.github.io/wahlprogramm-matrix"
 name = "wahlprogramm-matrix"
+organization_name = "OK Lab Münster"
+
+[github]
+archived = false
+created_at = "2014-05-20T18:57:29Z"
+default_branch = "master"
+description = "Eine Web-App mit der man die Wahlprogramme der Kommunalwahl 2014 vergleichen kann."
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codeformuenster/wahlprogramm-matrix"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "http://codeformuenster.github.io/wahlprogramm-matrix"
+id = 19_993_325
+language = "JavaScript"
+license = { }
+name = "wahlprogramm-matrix"
+node_id = "MDEwOlJlcG9zaXRvcnkxOTk5MzMyNQ=="
+open_issues_within = 100
+private = false
+pushed_within = "year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_464_842
+  login = "codeformuenster"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjY0NjQ4NDI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

@@ -1,7 +1,47 @@
 code_url = "https://github.com/codeformuenster/meine-stadt-transparent-customization"
 description = "Ratsinformationssystem für Münster mit Volltextsuche und Kalender "
-git_branch = "master"
 git_url = "git://github.com/codeformuenster/meine-stadt-transparent-customization.git"
-last_pushed_within = "year"
 link_url = "https://meine-stadt-transparent.codeformuenster.org/"
 name = "meine-stadt-transparent-customization"
+organization_name = "OK Lab Münster"
+
+[github]
+archived = false
+created_at = "2020-03-09T20:45:39Z"
+default_branch = "master"
+description = "Ratsinformationssystem für Münster mit Volltextsuche und Kalender "
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codeformuenster/meine-stadt-transparent-customization"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "https://meine-stadt-transparent.codeformuenster.org/"
+id = 246_138_564
+language = "HTML"
+license = { }
+name = "meine-stadt-transparent-customization"
+node_id = "MDEwOlJlcG9zaXRvcnkyNDYxMzg1NjQ="
+open_issues_within = 10
+private = false
+pushed_within = "year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "week"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_464_842
+  login = "codeformuenster"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjY0NjQ4NDI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

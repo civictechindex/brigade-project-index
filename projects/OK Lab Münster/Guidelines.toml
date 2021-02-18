@@ -1,6 +1,46 @@
 code_url = "https://github.com/codeformuenster/Guidelines"
 description = "Utility Repo for stuff (obsolete)"
-git_branch = "master"
 git_url = "git://github.com/codeformuenster/Guidelines.git"
-last_pushed_within = "over_a_year"
 name = "Guidelines"
+organization_name = "OK Lab Münster"
+
+[github]
+archived = false
+created_at = "2014-06-21T19:27:20Z"
+default_branch = "master"
+description = "Utility Repo for stuff (obsolete)"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "codeformuenster/Guidelines"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 21_076_990
+language = { }
+license = { }
+name = "Guidelines"
+node_id = "MDEwOlJlcG9zaXRvcnkyMTA3Njk5MA=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_464_842
+  login = "codeformuenster"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjY0NjQ4NDI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

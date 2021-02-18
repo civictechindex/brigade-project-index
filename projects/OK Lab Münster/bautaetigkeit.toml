@@ -1,7 +1,52 @@
 code_url = "https://github.com/codeformuenster/bautaetigkeit"
 description = "Darstellung der Anzahl der Baufertigstellungen nach Stadtteil 2014."
-git_branch = "master"
 git_url = "git://github.com/codeformuenster/bautaetigkeit.git"
-last_pushed_within = "over_a_year"
 link_url = "https://codeformuenster.cartodb.com/viz/4c1a2b20-a315-11e4-92b6-0e853d047bba/public_map"
 name = "bautaetigkeit"
+organization_name = "OK Lab Münster"
+
+[github]
+archived = false
+created_at = "2015-01-24T13:25:16Z"
+default_branch = "master"
+description = "Darstellung der Anzahl der Baufertigstellungen nach Stadtteil 2014."
+disabled = false
+fork = false
+forks_within = 0
+full_name = "codeformuenster/bautaetigkeit"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "https://codeformuenster.cartodb.com/viz/4c1a2b20-a315-11e4-92b6-0e853d047bba/public_map"
+id = 29_777_256
+language = "R"
+name = "bautaetigkeit"
+node_id = "MDEwOlJlcG9zaXRvcnkyOTc3NzI1Ng=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_464_842
+  login = "codeformuenster"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjY0NjQ4NDI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

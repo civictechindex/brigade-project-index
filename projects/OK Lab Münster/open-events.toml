@@ -1,7 +1,52 @@
 code_url = "https://github.com/codeformuenster/open-events"
 description = "Freie Termindatenbank inklusive diverse Scraper zum Auslesen von Terminen."
-git_branch = "master"
 git_url = "git://github.com/codeformuenster/open-events.git"
-last_pushed_within = "over_a_year"
 link_url = "http://events.input23.de/"
 name = "open-events"
+organization_name = "OK Lab Münster"
+
+[github]
+archived = false
+created_at = "2015-03-18T18:35:32Z"
+default_branch = "master"
+description = "Freie Termindatenbank inklusive diverse Scraper zum Auslesen von Terminen."
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codeformuenster/open-events"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://events.input23.de/"
+id = 32_477_208
+language = "JavaScript"
+name = "open-events"
+node_id = "MDEwOlJlcG9zaXRvcnkzMjQ3NzIwOA=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_464_842
+  login = "codeformuenster"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjY0NjQ4NDI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

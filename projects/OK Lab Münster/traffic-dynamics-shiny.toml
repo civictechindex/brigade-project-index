@@ -1,8 +1,53 @@
 code_url = "https://github.com/codeformuenster/traffic-dynamics-shiny"
 description = "Shiny-App zur Visualisierung Münsteraner Verkehrsdaten und deren Analyse"
-git_branch = "master"
 git_url = "git://github.com/codeformuenster/traffic-dynamics-shiny.git"
-last_pushed_within = "over_a_year"
 link_url = "https://traffics.codeformuenster.org"
 name = "traffic-dynamics-shiny"
+organization_name = "OK Lab Münster"
 topics = [ "shiny" ]
+
+[github]
+archived = false
+created_at = "2018-01-24T09:03:22Z"
+default_branch = "master"
+description = "Shiny-App zur Visualisierung Münsteraner Verkehrsdaten und deren Analyse"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codeformuenster/traffic-dynamics-shiny"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "https://traffics.codeformuenster.org"
+id = 118_739_834
+language = "R"
+name = "traffic-dynamics-shiny"
+node_id = "MDEwOlJlcG9zaXRvcnkxMTg3Mzk4MzQ="
+open_issues_within = 10
+private = false
+pushed_within = "month"
+stargazers_within = 10
+topics = [ "shiny" ]
+updated_within = "month"
+watchers_within = 10
+
+  [github.license]
+  key = "gpl-3.0"
+  name = "GNU General Public License v3.0"
+  node_id = "MDc6TGljZW5zZTk="
+  spdx_id = "GPL-3.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_464_842
+  login = "codeformuenster"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjY0NjQ4NDI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

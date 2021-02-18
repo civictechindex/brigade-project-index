@@ -1,8 +1,53 @@
 code_url = "https://github.com/codeformuenster/parkleit-scraper"
 description = "Crawls data from parking garage website of city Münster"
-git_branch = "master"
 git_url = "git://github.com/codeformuenster/parkleit-scraper.git"
-last_pushed_within = "over_a_year"
 link_url = "https://hub.docker.com/r/codeformuenster/parkleit-scraper/"
 name = "parkleit-scraper"
+organization_name = "OK Lab Münster"
 topics = [ "scraping" ]
+
+[github]
+archived = false
+created_at = "2016-10-24T20:47:34Z"
+default_branch = "master"
+description = "Crawls data from parking garage website of city Münster"
+disabled = false
+fork = true
+forks_within = 0
+full_name = "codeformuenster/parkleit-scraper"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "https://hub.docker.com/r/codeformuenster/parkleit-scraper/"
+id = 71_830_846
+language = "Python"
+name = "parkleit-scraper"
+node_id = "MDEwOlJlcG9zaXRvcnk3MTgzMDg0Ng=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ "scraping" ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_464_842
+  login = "codeformuenster"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjY0NjQ4NDI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

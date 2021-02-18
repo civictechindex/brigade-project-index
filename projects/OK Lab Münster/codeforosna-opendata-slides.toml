@@ -1,7 +1,47 @@
 code_url = "https://github.com/codeformuenster/codeforosna-opendata-slides"
 description = "Präsentation über offene Daten und Code for Germany"
-git_branch = "master"
 git_url = "git://github.com/codeformuenster/codeforosna-opendata-slides.git"
-last_pushed_within = "year"
 link_url = "https://codeformuenster.org/codeforosna-opendata-slides/"
 name = "codeforosna-opendata-slides"
+organization_name = "OK Lab Münster"
+
+[github]
+archived = false
+created_at = "2019-09-21T14:48:28Z"
+default_branch = "master"
+description = "Präsentation über offene Daten und Code for Germany"
+disabled = false
+fork = true
+forks_within = 10
+full_name = "codeformuenster/codeforosna-opendata-slides"
+has_downloads = true
+has_issues = false
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "https://codeformuenster.org/codeforosna-opendata-slides/"
+id = 210_002_479
+language = "HTML"
+license = { }
+name = "codeforosna-opendata-slides"
+node_id = "MDEwOlJlcG9zaXRvcnkyMTAwMDI0Nzk="
+open_issues_within = 0
+private = false
+pushed_within = "year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_464_842
+  login = "codeformuenster"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjY0NjQ4NDI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

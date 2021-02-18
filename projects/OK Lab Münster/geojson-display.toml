@@ -1,6 +1,46 @@
 code_url = "https://github.com/codeformuenster/geojson-display"
 description = "Show geojson files from any url"
-git_branch = "master"
 git_url = "git://github.com/codeformuenster/geojson-display.git"
-last_pushed_within = "over_a_year"
 name = "geojson-display"
+organization_name = "OK Lab Münster"
+
+[github]
+archived = false
+created_at = "2016-06-15T19:01:04Z"
+default_branch = "master"
+description = "Show geojson files from any url"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "codeformuenster/geojson-display"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 61_233_311
+language = "JavaScript"
+license = { }
+name = "geojson-display"
+node_id = "MDEwOlJlcG9zaXRvcnk2MTIzMzMxMQ=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_464_842
+  login = "codeformuenster"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjY0NjQ4NDI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

@@ -1,8 +1,53 @@
 code_url = "https://github.com/codeformuenster/muenster-dashboard"
 description = 'Eine "Stadtviertel-App", zeigt Infos aus Deiner Umgebung an, aus Open Data Datensätzen der Stadt Münster.'
-git_branch = "master"
 git_url = "git://github.com/codeformuenster/muenster-dashboard.git"
-last_pushed_within = "year"
 link_url = "https://mein-ms.de/"
 name = "muenster-dashboard"
+organization_name = "OK Lab Münster"
 topics = [ "elasticsearch", "open-data", "react" ]
+
+[github]
+archived = false
+created_at = "2017-11-10T11:27:06Z"
+default_branch = "master"
+description = 'Eine "Stadtviertel-App", zeigt Infos aus Deiner Umgebung an, aus Open Data Datensätzen der Stadt Münster.'
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codeformuenster/muenster-dashboard"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = false
+homepage = "https://mein-ms.de/"
+id = 110_239_760
+language = "JavaScript"
+name = "muenster-dashboard"
+node_id = "MDEwOlJlcG9zaXRvcnkxMTAyMzk3NjA="
+open_issues_within = 100
+private = false
+pushed_within = "week"
+stargazers_within = 10
+topics = [ "elasticsearch", "open-data", "react" ]
+updated_within = "week"
+watchers_within = 10
+
+  [github.license]
+  key = "apache-2.0"
+  name = "Apache License 2.0"
+  node_id = "MDc6TGljZW5zZTI="
+  spdx_id = "Apache-2.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_464_842
+  login = "codeformuenster"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjY0NjQ4NDI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

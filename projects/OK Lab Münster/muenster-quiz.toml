@@ -1,6 +1,51 @@
 code_url = "https://github.com/codeformuenster/muenster-quiz"
 description = "Die Idee war, ein Münster-Quiz zu schreiben. Ist aber noch nicht viel passiert :-)"
-git_branch = "master"
 git_url = "git://github.com/codeformuenster/muenster-quiz.git"
-last_pushed_within = "over_a_year"
 name = "muenster-quiz"
+organization_name = "OK Lab Münster"
+
+[github]
+archived = false
+created_at = "2015-04-22T17:07:04Z"
+default_branch = "master"
+description = "Die Idee war, ein Münster-Quiz zu schreiben. Ist aber noch nicht viel passiert :-)"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "codeformuenster/muenster-quiz"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 34_404_020
+language = { }
+name = "muenster-quiz"
+node_id = "MDEwOlJlcG9zaXRvcnkzNDQwNDAyMA=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_464_842
+  login = "codeformuenster"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjY0NjQ4NDI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

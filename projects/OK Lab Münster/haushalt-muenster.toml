@@ -1,7 +1,52 @@
 code_url = "https://github.com/codeformuenster/haushalt-muenster"
 description = "Visualisierung des Haushalts der Stadt Münster 2007-2016."
-git_branch = "master"
 git_url = "git://github.com/codeformuenster/haushalt-muenster.git"
-last_pushed_within = "over_a_year"
 link_url = "http://codeformuenster.org/haushalt-muenster/"
 name = "haushalt-muenster"
+organization_name = "OK Lab Münster"
+
+[github]
+archived = false
+created_at = "2014-10-15T18:58:03Z"
+default_branch = "master"
+description = "Visualisierung des Haushalts der Stadt Münster 2007-2016."
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codeformuenster/haushalt-muenster"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "http://codeformuenster.org/haushalt-muenster/"
+id = 25_268_863
+language = "Python"
+name = "haushalt-muenster"
+node_id = "MDEwOlJlcG9zaXRvcnkyNTI2ODg2Mw=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "apache-2.0"
+  name = "Apache License 2.0"
+  node_id = "MDc6TGljZW5zZTI="
+  spdx_id = "Apache-2.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_464_842
+  login = "codeformuenster"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjY0NjQ4NDI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

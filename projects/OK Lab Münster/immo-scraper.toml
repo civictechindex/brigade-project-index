@@ -1,7 +1,52 @@
 code_url = "https://github.com/codeformuenster/immo-scraper"
 description = "Scraping offers for real estate markets."
-git_branch = "master"
 git_url = "git://github.com/codeformuenster/immo-scraper.git"
-last_pushed_within = "year"
 name = "immo-scraper"
+organization_name = "OK Lab Münster"
 topics = [ "dockerfile", "scraper" ]
+
+[github]
+archived = false
+created_at = "2019-05-28T19:30:17Z"
+default_branch = "master"
+description = "Scraping offers for real estate markets."
+disabled = false
+fork = false
+forks_within = 0
+full_name = "codeformuenster/immo-scraper"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 189_090_710
+language = "Python"
+name = "immo-scraper"
+node_id = "MDEwOlJlcG9zaXRvcnkxODkwOTA3MTA="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ "dockerfile", "scraper" ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_464_842
+  login = "codeformuenster"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjY0NjQ4NDI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

@@ -1,7 +1,52 @@
 code_url = "https://github.com/codeformuenster/postgis-nominatim"
-git_branch = "master"
 git_url = "git://github.com/codeformuenster/postgis-nominatim.git"
-last_pushed_within = "over_a_year"
 link_url = "https://cloud.docker.com/u/codeformuenster/repository/docker/codeformuenster/postgis-nominatim"
 name = "postgis-nominatim"
+organization_name = "OK Lab Münster"
 topics = [ "dockerfile", "nominatim", "postgis" ]
+
+[github]
+archived = false
+created_at = "2019-06-11T18:39:36Z"
+default_branch = "master"
+description = { }
+disabled = false
+fork = false
+forks_within = 0
+full_name = "codeformuenster/postgis-nominatim"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "https://cloud.docker.com/u/codeformuenster/repository/docker/codeformuenster/postgis-nominatim"
+id = 191_430_421
+language = "Dockerfile"
+name = "postgis-nominatim"
+node_id = "MDEwOlJlcG9zaXRvcnkxOTE0MzA0MjE="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ "dockerfile", "nominatim", "postgis" ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "apache-2.0"
+  name = "Apache License 2.0"
+  node_id = "MDc6TGljZW5zZTI="
+  spdx_id = "Apache-2.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_464_842
+  login = "codeformuenster"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjY0NjQ4NDI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

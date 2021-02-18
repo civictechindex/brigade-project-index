@@ -1,7 +1,52 @@
 code_url = "https://github.com/codeformuenster/muensterhack"
 description = "Dokumentation der Projekte des Münsterhack"
-git_branch = "master"
 git_url = "git://github.com/codeformuenster/muensterhack.git"
-last_pushed_within = "year"
 name = "muensterhack"
+organization_name = "OK Lab Münster"
 topics = [ "mshack", "muensterhack" ]
+
+[github]
+archived = false
+created_at = "2018-10-06T08:54:32Z"
+default_branch = "master"
+description = "Dokumentation der Projekte des Münsterhack"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codeformuenster/muensterhack"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 151_821_765
+language = { }
+name = "muensterhack"
+node_id = "MDEwOlJlcG9zaXRvcnkxNTE4MjE3NjU="
+open_issues_within = 10
+private = false
+pushed_within = "year"
+stargazers_within = 10
+topics = [ "mshack", "muensterhack" ]
+updated_within = "year"
+watchers_within = 10
+
+  [github.license]
+  key = "cc0-1.0"
+  name = "Creative Commons Zero v1.0 Universal"
+  node_id = "MDc6TGljZW5zZTY="
+  spdx_id = "CC0-1.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_464_842
+  login = "codeformuenster"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjY0NjQ4NDI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

@@ -1,6 +1,51 @@
 code_url = "https://github.com/codeformuenster/MS-Event-Scrapy"
 description = "This Scrapy-project can be used to extract event information from the event calendar of the city of Münster."
-git_branch = "master"
 git_url = "git://github.com/codeformuenster/MS-Event-Scrapy.git"
-last_pushed_within = "over_a_year"
 name = "MS-Event-Scrapy"
+organization_name = "OK Lab Münster"
+
+[github]
+archived = false
+created_at = "2018-07-25T15:56:07Z"
+default_branch = "master"
+description = "This Scrapy-project can be used to extract event information from the event calendar of the city of Münster."
+disabled = false
+fork = false
+forks_within = 0
+full_name = "codeformuenster/MS-Event-Scrapy"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = false
+homepage = { }
+id = 142_322_480
+language = "Python"
+name = "MS-Event-Scrapy"
+node_id = "MDEwOlJlcG9zaXRvcnkxNDIzMjI0ODA="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "gpl-3.0"
+  name = "GNU General Public License v3.0"
+  node_id = "MDc6TGljZW5zZTk="
+  spdx_id = "GPL-3.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_464_842
+  login = "codeformuenster"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjY0NjQ4NDI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

@@ -1,7 +1,52 @@
 code_url = "https://github.com/codeformuenster/codefor.de"
 description = "Unser Fork der CodeForDe Webseite."
-git_branch = "gh-pages"
 git_url = "git://github.com/codeformuenster/codefor.de.git"
-last_pushed_within = "over_a_year"
 link_url = "http://codefor.de/"
 name = "codefor.de"
+organization_name = "OK Lab Münster"
+
+[github]
+archived = false
+created_at = "2014-07-11T19:55:51Z"
+default_branch = "gh-pages"
+description = "Unser Fork der CodeForDe Webseite."
+disabled = false
+fork = true
+forks_within = 0
+full_name = "codeformuenster/codefor.de"
+has_downloads = true
+has_issues = false
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "http://codefor.de/"
+id = 21_749_382
+language = "HTML"
+name = "codefor.de"
+node_id = "MDEwOlJlcG9zaXRvcnkyMTc0OTM4Mg=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "other"
+  name = "Other"
+  node_id = "MDc6TGljZW5zZTA="
+  spdx_id = "NOASSERTION"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_464_842
+  login = "codeformuenster"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjY0NjQ4NDI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

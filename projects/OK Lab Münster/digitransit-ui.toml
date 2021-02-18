@@ -1,7 +1,52 @@
 code_url = "https://github.com/codeformuenster/digitransit-ui"
 description = 'Digitransit UI ("Reittiopas.fi")'
-git_branch = "master"
 git_url = "git://github.com/codeformuenster/digitransit-ui.git"
-last_pushed_within = "over_a_year"
 link_url = "https://www.reittiopas.fi/"
 name = "digitransit-ui"
+organization_name = "OK Lab Münster"
+
+[github]
+archived = false
+created_at = "2019-11-14T17:39:47Z"
+default_branch = "master"
+description = 'Digitransit UI ("Reittiopas.fi")'
+disabled = false
+fork = true
+forks_within = 0
+full_name = "codeformuenster/digitransit-ui"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "https://www.reittiopas.fi/"
+id = 221_753_811
+language = "JavaScript"
+name = "digitransit-ui"
+node_id = "MDEwOlJlcG9zaXRvcnkyMjE3NTM4MTE="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "other"
+  name = "Other"
+  node_id = "MDc6TGljZW5zZTA="
+  spdx_id = "NOASSERTION"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_464_842
+  login = "codeformuenster"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjY0NjQ4NDI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
