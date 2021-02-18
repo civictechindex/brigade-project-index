@@ -1,6 +1,51 @@
 code_url = "https://github.com/codefordayton/opendataday2017"
 description = "Local site for Open Data Day 2017"
-git_branch = "master"
 git_url = "git://github.com/codefordayton/opendataday2017.git"
-last_pushed_within = "over_a_year"
 name = "opendataday2017"
+organization_name = "Code for Dayton"
+
+[github]
+archived = false
+created_at = "2017-02-05T20:41:09Z"
+default_branch = "master"
+description = "Local site for Open Data Day 2017"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "codefordayton/opendataday2017"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 81_020_654
+language = { }
+name = "opendataday2017"
+node_id = "MDEwOlJlcG9zaXRvcnk4MTAyMDY1NA=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_026_408
+  login = "codefordayton"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjYwMjY0MDg="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

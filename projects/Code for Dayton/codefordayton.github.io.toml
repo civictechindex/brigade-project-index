@@ -1,7 +1,52 @@
 code_url = "https://github.com/codefordayton/codefordayton.github.io"
 description = "[DEFUNCT] Landing page for Code for Dayton"
-git_branch = "master"
 git_url = "git://github.com/codefordayton/codefordayton.github.io.git"
-last_pushed_within = "over_a_year"
 link_url = "http://codefordayton.org"
 name = "codefordayton.github.io"
+organization_name = "Code for Dayton"
+
+[github]
+archived = false
+created_at = "2013-11-25T00:12:53Z"
+default_branch = "master"
+description = "[DEFUNCT] Landing page for Code for Dayton"
+disabled = false
+fork = true
+forks_within = 10
+full_name = "codefordayton/codefordayton.github.io"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = false
+homepage = "http://codefordayton.org"
+id = 14_672_166
+language = "HTML"
+name = "codefordayton.github.io"
+node_id = "MDEwOlJlcG9zaXRvcnkxNDY3MjE2Ng=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "other"
+  name = "Other"
+  node_id = "MDc6TGljZW5zZTA="
+  spdx_id = "NOASSERTION"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_026_408
+  login = "codefordayton"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjYwMjY0MDg="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

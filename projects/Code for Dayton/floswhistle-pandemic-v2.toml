@@ -1,12 +1,62 @@
 code_url = "https://github.com/codefordayton/floswhistle-pandemic-v2"
 description = "A secure platform for patient care providers."
-git_branch = "master"
 git_url = "git://github.com/codefordayton/floswhistle-pandemic-v2.git"
-last_pushed_within = "year"
 name = "floswhistle-pandemic-v2"
+organization_name = "Code for Dayton"
 topics = [
   "code-for-america",
   "code-for-dayton",
   "covid-19",
   "healthcare"
 ]
+
+[github]
+archived = false
+created_at = "2020-04-21T22:40:33Z"
+default_branch = "master"
+description = "A secure platform for patient care providers."
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codefordayton/floswhistle-pandemic-v2"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 257_732_421
+language = "JavaScript"
+name = "floswhistle-pandemic-v2"
+node_id = "MDEwOlJlcG9zaXRvcnkyNTc3MzI0MjE="
+open_issues_within = 100
+private = false
+pushed_within = "year"
+stargazers_within = 10
+topics = [
+  "code-for-america",
+  "code-for-dayton",
+  "covid-19",
+  "healthcare"
+]
+updated_within = "year"
+watchers_within = 10
+
+  [github.license]
+  key = "apache-2.0"
+  name = "Apache License 2.0"
+  node_id = "MDc6TGljZW5zZTI="
+  spdx_id = "Apache-2.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_026_408
+  login = "codefordayton"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjYwMjY0MDg="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

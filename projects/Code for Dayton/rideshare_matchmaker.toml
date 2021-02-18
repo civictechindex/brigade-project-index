@@ -1,6 +1,51 @@
 code_url = "https://github.com/codefordayton/rideshare_matchmaker"
 description = "Help event organizers and employers suggest rideshares to their travellers"
-git_branch = "master"
 git_url = "git://github.com/codefordayton/rideshare_matchmaker.git"
-last_pushed_within = "over_a_year"
 name = "rideshare_matchmaker"
+organization_name = "Code for Dayton"
+
+[github]
+archived = false
+created_at = "2016-03-06T10:29:49Z"
+default_branch = "master"
+description = "Help event organizers and employers suggest rideshares to their travellers"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "codefordayton/rideshare_matchmaker"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 53_249_303
+language = "SQLPL"
+name = "rideshare_matchmaker"
+node_id = "MDEwOlJlcG9zaXRvcnk1MzI0OTMwMw=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_026_408
+  login = "codefordayton"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjYwMjY0MDg="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

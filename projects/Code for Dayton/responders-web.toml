@@ -1,6 +1,46 @@
 code_url = "https://github.com/codefordayton/responders-web"
 description = "web version for responders"
-git_branch = "master"
 git_url = "git://github.com/codefordayton/responders-web.git"
-last_pushed_within = "over_a_year"
 name = "responders-web"
+organization_name = "Code for Dayton"
+
+[github]
+archived = false
+created_at = "2016-03-05T21:53:36Z"
+default_branch = "master"
+description = "web version for responders"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "codefordayton/responders-web"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 53_225_178
+language = "HTML"
+license = { }
+name = "responders-web"
+node_id = "MDEwOlJlcG9zaXRvcnk1MzIyNTE3OA=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_026_408
+  login = "codefordayton"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjYwMjY0MDg="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

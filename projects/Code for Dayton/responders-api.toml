@@ -1,6 +1,46 @@
 code_url = "https://github.com/codefordayton/responders-api"
 description = "API for disaster recovery first responders"
-git_branch = "master"
 git_url = "git://github.com/codefordayton/responders-api.git"
-last_pushed_within = "over_a_year"
 name = "responders-api"
+organization_name = "Code for Dayton"
+
+[github]
+archived = false
+created_at = "2016-03-05T15:28:45Z"
+default_branch = "master"
+description = "API for disaster recovery first responders"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codefordayton/responders-api"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 53_208_125
+language = "Python"
+license = { }
+name = "responders-api"
+node_id = "MDEwOlJlcG9zaXRvcnk1MzIwODEyNQ=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_026_408
+  login = "codefordayton"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjYwMjY0MDg="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

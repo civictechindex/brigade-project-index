@@ -1,6 +1,46 @@
 code_url = "https://github.com/codefordayton/codefordayton"
 description = "Placeholder CfD Homepage"
-git_branch = "master"
 git_url = "git://github.com/codefordayton/codefordayton.git"
-last_pushed_within = "year"
 name = "codefordayton"
+organization_name = "Code for Dayton"
+
+[github]
+archived = false
+created_at = "2020-03-22T01:34:42Z"
+default_branch = "master"
+description = "Placeholder CfD Homepage"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "codefordayton/codefordayton"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 249_092_663
+language = "CSS"
+license = { }
+name = "codefordayton"
+node_id = "MDEwOlJlcG9zaXRvcnkyNDkwOTI2NjM="
+open_issues_within = 0
+private = false
+pushed_within = "year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_026_408
+  login = "codefordayton"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjYwMjY0MDg="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

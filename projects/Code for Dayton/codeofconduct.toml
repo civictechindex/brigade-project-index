@@ -1,6 +1,46 @@
 code_url = "https://github.com/codefordayton/codeofconduct"
 description = "Code for America's Code of Conduct"
-git_branch = "master"
 git_url = "git://github.com/codefordayton/codeofconduct.git"
-last_pushed_within = "over_a_year"
 name = "codeofconduct"
+organization_name = "Code for Dayton"
+
+[github]
+archived = false
+created_at = "2014-12-15T22:06:29Z"
+default_branch = "master"
+description = "Code for America's Code of Conduct"
+disabled = false
+fork = true
+forks_within = 0
+full_name = "codefordayton/codeofconduct"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 28_058_507
+language = { }
+license = { }
+name = "codeofconduct"
+node_id = "MDEwOlJlcG9zaXRvcnkyODA1ODUwNw=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_026_408
+  login = "codefordayton"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjYwMjY0MDg="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
