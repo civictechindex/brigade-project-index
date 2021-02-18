@@ -1,6 +1,46 @@
 code_url = "https://github.com/codeforrva/board-bard"
 description = "Find available seats for VA boards and commissions"
-git_branch = "master"
 git_url = "git://github.com/codeforrva/board-bard.git"
-last_pushed_within = "over_a_year"
 name = "board-bard"
+organization_name = "Code for RVA"
+
+[github]
+archived = false
+created_at = "2015-02-21T18:06:41Z"
+default_branch = "master"
+description = "Find available seats for VA boards and commissions"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "codeforrva/board-bard"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 31_134_938
+language = "JavaScript"
+license = { }
+name = "board-bard"
+node_id = "MDEwOlJlcG9zaXRvcnkzMTEzNDkzOA=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_845_795
+  login = "codeforrva"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjY4NDU3OTU="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

@@ -1,6 +1,46 @@
 code_url = "https://github.com/codeforrva/richmondbusstops"
 description = "richmond bus stops FTW"
-git_branch = "master"
 git_url = "git://github.com/codeforrva/richmondbusstops.git"
-last_pushed_within = "over_a_year"
 name = "richmondbusstops"
+organization_name = "Code for RVA"
+
+[github]
+archived = false
+created_at = "2014-05-28T00:24:19Z"
+default_branch = "master"
+description = "richmond bus stops FTW"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "codeforrva/richmondbusstops"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 20_239_941
+language = "JavaScript"
+license = { }
+name = "richmondbusstops"
+node_id = "MDEwOlJlcG9zaXRvcnkyMDIzOTk0MQ=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_845_795
+  login = "codeforrva"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjY4NDU3OTU="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

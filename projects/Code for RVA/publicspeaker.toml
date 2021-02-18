@@ -1,6 +1,46 @@
 code_url = "https://github.com/codeforrva/publicspeaker"
 description = "Reminds given officials or representatives of unsatisfied requests for public information"
-git_branch = "master"
 git_url = "git://github.com/codeforrva/publicspeaker.git"
-last_pushed_within = "over_a_year"
 name = "publicspeaker"
+organization_name = "Code for RVA"
+
+[github]
+archived = false
+created_at = "2015-04-10T13:49:32Z"
+default_branch = "master"
+description = "Reminds given officials or representatives of unsatisfied requests for public information"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "codeforrva/publicspeaker"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 33_730_871
+language = { }
+license = { }
+name = "publicspeaker"
+node_id = "MDEwOlJlcG9zaXRvcnkzMzczMDg3MQ=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_845_795
+  login = "codeforrva"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjY4NDU3OTU="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

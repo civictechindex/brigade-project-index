@@ -1,6 +1,46 @@
 code_url = "https://github.com/codeforrva/codeforrva.github.io"
 description = "Code4RVA Website (maybe)"
-git_branch = "master"
 git_url = "git://github.com/codeforrva/codeforrva.github.io.git"
-last_pushed_within = "over_a_year"
 name = "codeforrva.github.io"
+organization_name = "Code for RVA"
+
+[github]
+archived = false
+created_at = "2015-02-21T19:18:11Z"
+default_branch = "master"
+description = "Code4RVA Website (maybe)"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "codeforrva/codeforrva.github.io"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 31_137_407
+language = "HTML"
+license = { }
+name = "codeforrva.github.io"
+node_id = "MDEwOlJlcG9zaXRvcnkzMTEzNzQwNw=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_845_795
+  login = "codeforrva"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjY4NDU3OTU="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

@@ -1,6 +1,46 @@
 code_url = "https://github.com/codeforrva/crimemap"
 description = "Mapped crime data from local police "
-git_branch = "master"
 git_url = "git://github.com/codeforrva/crimemap.git"
-last_pushed_within = "over_a_year"
 name = "crimemap"
+organization_name = "Code for RVA"
+
+[github]
+archived = false
+created_at = "2014-10-28T16:51:52Z"
+default_branch = "master"
+description = "Mapped crime data from local police "
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codeforrva/crimemap"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 25_879_833
+language = "JavaScript"
+license = { }
+name = "crimemap"
+node_id = "MDEwOlJlcG9zaXRvcnkyNTg3OTgzMw=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_845_795
+  login = "codeforrva"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjY4NDU3OTU="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

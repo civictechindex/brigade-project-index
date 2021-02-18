@@ -1,6 +1,46 @@
 code_url = "https://github.com/codeforrva/foodaccessapi"
 description = "Healthy Food Store Api and Resource Manager"
-git_branch = "master"
 git_url = "git://github.com/codeforrva/foodaccessapi.git"
-last_pushed_within = "over_a_year"
 name = "foodaccessapi"
+organization_name = "Code for RVA"
+
+[github]
+archived = false
+created_at = "2016-04-16T19:15:24Z"
+default_branch = "master"
+description = "Healthy Food Store Api and Resource Manager"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "codeforrva/foodaccessapi"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 56_401_407
+language = "CoffeeScript"
+license = { }
+name = "foodaccessapi"
+node_id = "MDEwOlJlcG9zaXRvcnk1NjQwMTQwNw=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_845_795
+  login = "codeforrva"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjY4NDU3OTU="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

@@ -1,6 +1,46 @@
 code_url = "https://github.com/codeforrva/STI_Testing_Finder"
 description = "iOS app to find testing centers for STI's in Richmond"
-git_branch = "master"
 git_url = "git://github.com/codeforrva/STI_Testing_Finder.git"
-last_pushed_within = "over_a_year"
 name = "STI_Testing_Finder"
+organization_name = "Code for RVA"
+
+[github]
+archived = false
+created_at = "2015-02-21T15:48:58Z"
+default_branch = "master"
+description = "iOS app to find testing centers for STI's in Richmond"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codeforrva/STI_Testing_Finder"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 31_130_331
+language = "Objective-C"
+license = { }
+name = "STI_Testing_Finder"
+node_id = "MDEwOlJlcG9zaXRvcnkzMTEzMDMzMQ=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_845_795
+  login = "codeforrva"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjY4NDU3OTU="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
