@@ -1,3 +1,47 @@
 code_url = "https://github.com/stevevance/divvy-munging"
-last_pushed_within = "over_a_year"
 name = "divvy-munging"
+organization_name = "Chi Hack Night"
+
+[github]
+archived = false
+created_at = "2014-02-13T00:59:49Z"
+default_branch = "master"
+description = "Adding more useful info to Divvy's 2013 trips data release"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "stevevance/divvy-munging"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 16_787_544
+language = { }
+license = { }
+name = "divvy-munging"
+network_count = 5
+node_id = "MDEwOlJlcG9zaXRvcnkxNjc4NzU0NA=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 100
+subscribers_count = 9
+temp_clone_token = ""
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 100
+
+  [github.owner]
+  gravatar_id = ""
+  id = 1_330_459
+  login = "stevevance"
+  node_id = "MDQ6VXNlcjEzMzA0NTk="
+  site_admin = false
+  type = "User"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

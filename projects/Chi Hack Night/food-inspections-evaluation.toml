@@ -1,6 +1,33 @@
 code_url = "https://github.com/Chicago/food-inspections-evaluation"
-last_pushed_within = "over_a_year"
 name = "food-inspections-evaluation"
+organization_name = "Chi Hack Night"
+
+[github]
+archived = false
+created_at = "2014-09-12T01:33:43Z"
+default_branch = "master"
+description = "This repository contains the code to generate predictions of critical violations at food establishments in Chicago. It also contains the results of an evaluation of the effectiveness of those predictions."
+disabled = false
+fork = false
+forks_within = 1_000
+full_name = "Chicago/food-inspections-evaluation"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "http://chicago.github.io/food-inspections-evaluation/"
+id = 23_942_385
+language = "HTML"
+name = "food-inspections-evaluation"
+network_count = 128
+node_id = "MDEwOlJlcG9zaXRvcnkyMzk0MjM4NQ=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 1_000
+subscribers_count = 41
+temp_clone_token = ""
 topics = [
   "cdph",
   "chicago",
@@ -10,3 +37,32 @@ topics = [
   "open-science",
   "public-health"
 ]
+updated_within = "week"
+watchers_within = 1_000
+
+  [github.license]
+  key = "other"
+  name = "Other"
+  node_id = "MDc6TGljZW5zZTA="
+  spdx_id = "NOASSERTION"
+
+  [github.organization]
+  gravatar_id = ""
+  id = 838_189
+  login = "Chicago"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjgzODE4OQ=="
+  site_admin = false
+  type = "Organization"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 838_189
+  login = "Chicago"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjgzODE4OQ=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

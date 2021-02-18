@@ -1,3 +1,47 @@
 code_url = "https://github.com/harperreed/transitapi"
-last_pushed_within = "over_a_year"
 name = "transitapi"
+organization_name = "Chi Hack Night"
+
+[github]
+archived = false
+created_at = "2009-09-03T16:08:49Z"
+default_branch = "master"
+description = "CTA Transit API"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "harperreed/transitapi"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "http://harperreed.github.com/transitapi/"
+id = 296_568
+language = { }
+license = { }
+name = "transitapi"
+network_count = 7
+node_id = "MDEwOlJlcG9zaXRvcnkyOTY1Njg="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 100
+subscribers_count = 11
+temp_clone_token = ""
+topics = [ ]
+updated_within = "year"
+watchers_within = 100
+
+  [github.owner]
+  gravatar_id = ""
+  id = 18_504
+  login = "harperreed"
+  node_id = "MDQ6VXNlcjE4NTA0"
+  site_admin = false
+  type = "User"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

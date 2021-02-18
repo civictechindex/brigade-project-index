@@ -1,4 +1,60 @@
 code_url = "https://github.com/Chicago/osd-pedway-routes"
-last_pushed_within = "over_a_year"
 name = "osd-pedway-routes"
+organization_name = "Chi Hack Night"
+
+[github]
+archived = false
+created_at = "2013-02-07T03:40:15Z"
+default_branch = "master"
+description = "Open source release of pedway routes in Chicago."
+disabled = false
+fork = false
+forks_within = 100
+full_name = "Chicago/osd-pedway-routes"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 8_065_841
+language = "R"
+name = "osd-pedway-routes"
+network_count = 19
+node_id = "MDEwOlJlcG9zaXRvcnk4MDY1ODQx"
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 100
+subscribers_count = 9
+temp_clone_token = ""
 topics = [ "chicago", "geojson-data", "government", "open-data" ]
+updated_within = "over_a_year"
+watchers_within = 100
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.organization]
+  gravatar_id = ""
+  id = 838_189
+  login = "Chicago"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjgzODE4OQ=="
+  site_admin = false
+  type = "Organization"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 838_189
+  login = "Chicago"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjgzODE4OQ=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

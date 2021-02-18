@@ -1,3 +1,4 @@
 code_url = "https://github.com/gaelle2030/bankon"
-flags = [ "github_404" ]
+github = false
 name = "bankon"
+organization_name = "Chi Hack Night"

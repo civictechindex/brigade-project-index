@@ -1,3 +1,119 @@
 code_url = "https://github.com/ryanbriones/city_developer_resources"
-last_pushed_within = "over_a_year"
 name = "city_developer_resources"
+organization_name = "Chi Hack Night"
+
+[github]
+archived = false
+created_at = "2012-09-12T14:50:40Z"
+default_branch = "master"
+description = "API and Open Source project documentation site for cities that (hopefully) doesn't suck."
+disabled = false
+fork = true
+forks_within = 0
+full_name = "ryanbriones/city_developer_resources"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 5_781_303
+language = "JavaScript"
+license = { }
+name = "city_developer_resources"
+network_count = 3
+node_id = "MDEwOlJlcG9zaXRvcnk1NzgxMzAz"
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+subscribers_count = 2
+temp_clone_token = ""
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 202
+  login = "ryanbriones"
+  node_id = "MDQ6VXNlcjIwMg=="
+  site_admin = false
+  type = "User"
+
+  [github.parent]
+  archived = false
+  created_at = "2012-08-19T15:06:22Z"
+  default_branch = "master"
+  description = "API and Open Source project documentation site for cities that (hopefully) doesn't suck."
+  disabled = false
+  fork = false
+  forks_within = 10
+  full_name = "codeforamerica/city_developer_resources"
+  has_downloads = true
+  has_issues = true
+  has_pages = false
+  has_projects = true
+  has_wiki = true
+  homepage = { }
+  id = 5_471_727
+  language = "JavaScript"
+  license = { }
+  name = "city_developer_resources"
+  node_id = "MDEwOlJlcG9zaXRvcnk1NDcxNzI3"
+  open_issues_within = 10
+  private = false
+  pushed_within = "over_a_year"
+  stargazers_within = 10
+  topics = [ ]
+  updated_within = "over_a_year"
+  watchers_within = 10
+
+    [github.parent.owner]
+    gravatar_id = ""
+    id = 337_792
+    login = "codeforamerica"
+    node_id = "MDEyOk9yZ2FuaXphdGlvbjMzNzc5Mg=="
+    site_admin = false
+    type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
+
+  [github.source]
+  archived = false
+  created_at = "2012-08-19T15:06:22Z"
+  default_branch = "master"
+  description = "API and Open Source project documentation site for cities that (hopefully) doesn't suck."
+  disabled = false
+  fork = false
+  forks_within = 10
+  full_name = "codeforamerica/city_developer_resources"
+  has_downloads = true
+  has_issues = true
+  has_pages = false
+  has_projects = true
+  has_wiki = true
+  homepage = { }
+  id = 5_471_727
+  language = "JavaScript"
+  license = { }
+  name = "city_developer_resources"
+  node_id = "MDEwOlJlcG9zaXRvcnk1NDcxNzI3"
+  open_issues_within = 10
+  private = false
+  pushed_within = "over_a_year"
+  stargazers_within = 10
+  topics = [ ]
+  updated_within = "over_a_year"
+  watchers_within = 10
+
+    [github.source.owner]
+    gravatar_id = ""
+    id = 337_792
+    login = "codeforamerica"
+    node_id = "MDEyOk9yZ2FuaXphdGlvbjMzNzc5Mg=="
+    site_admin = false
+    type = "Organization"

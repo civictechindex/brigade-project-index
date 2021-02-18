@@ -1,3 +1,60 @@
 code_url = "https://github.com/Chicago/osd-bike-racks"
-last_pushed_within = "over_a_year"
 name = "osd-bike-racks"
+organization_name = "Chi Hack Night"
+
+[github]
+archived = false
+created_at = "2013-02-07T04:26:19Z"
+default_branch = "master"
+description = "Open source release of city bike rack locations throughout Chicago."
+disabled = false
+fork = false
+forks_within = 10
+full_name = "Chicago/osd-bike-racks"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 8_066_441
+language = "R"
+name = "osd-bike-racks"
+network_count = 9
+node_id = "MDEwOlJlcG9zaXRvcnk4MDY2NDQx"
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 100
+subscribers_count = 7
+temp_clone_token = ""
+topics = [ ]
+updated_within = "year"
+watchers_within = 100
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.organization]
+  gravatar_id = ""
+  id = 838_189
+  login = "Chicago"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjgzODE4OQ=="
+  site_admin = false
+  type = "Organization"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 838_189
+  login = "Chicago"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjgzODE4OQ=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

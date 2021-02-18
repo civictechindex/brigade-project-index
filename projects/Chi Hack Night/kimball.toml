@@ -1,3 +1,60 @@
 code_url = "https://github.com/smartchicago/kimball"
-last_pushed_within = "over_a_year"
 name = "kimball"
+organization_name = "Chi Hack Night"
+
+[github]
+archived = false
+created_at = "2013-03-28T03:41:02Z"
+default_branch = "development"
+description = "Kimball is our internal name for Patterns, a tool to manage the Civic User Testing Group"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "smartchicago/kimball"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://patterns.smartchicagoapps.org"
+id = 9_069_484
+language = "Ruby"
+name = "kimball"
+network_count = 9
+node_id = "MDEwOlJlcG9zaXRvcnk5MDY5NDg0"
+open_issues_within = 100
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 100
+subscribers_count = 3
+temp_clone_token = ""
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 100
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.organization]
+  gravatar_id = ""
+  id = 2_008_099
+  login = "smartchicago"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjIwMDgwOTk="
+  site_admin = false
+  type = "Organization"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_008_099
+  login = "smartchicago"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjIwMDgwOTk="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

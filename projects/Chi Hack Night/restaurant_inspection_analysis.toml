@@ -1,3 +1,47 @@
 code_url = "https://github.com/jpvelez/restaurant_inspection_analysis"
-last_pushed_within = "over_a_year"
 name = "restaurant_inspection_analysis"
+organization_name = "Chi Hack Night"
+
+[github]
+archived = false
+created_at = "2012-07-23T01:12:38Z"
+default_branch = "master"
+description = "Do Chicago restaurants that fail city inspections have lower Yelp ratings?"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "jpvelez/restaurant_inspection_analysis"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 5_146_250
+language = "Python"
+license = { }
+name = "restaurant_inspection_analysis"
+network_count = 3
+node_id = "MDEwOlJlcG9zaXRvcnk1MTQ2MjUw"
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+subscribers_count = 5
+temp_clone_token = ""
+topics = [ ]
+updated_within = "month"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 533_641
+  login = "jpvelez"
+  node_id = "MDQ6VXNlcjUzMzY0MQ=="
+  site_admin = false
+  type = "User"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

@@ -1,3 +1,55 @@
 code_url = "https://github.com/codeforamerica/super-mayor"
-last_pushed_within = "over_a_year"
 name = "super-mayor"
+organization_name = "Chi Hack Night"
+
+[github]
+archived = false
+created_at = "2012-09-19T01:16:59Z"
+default_branch = "master"
+description = "Checks the Chicago Open311 server every few minutees and plays a noise when new service requests are submitted or updated. "
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codeforamerica/super-mayor"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://supermayor.io"
+id = 5_865_381
+language = "JavaScript"
+license = { }
+name = "super-mayor"
+network_count = 5
+node_id = "MDEwOlJlcG9zaXRvcnk1ODY1Mzgx"
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+subscribers_count = 5
+temp_clone_token = ""
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.organization]
+  gravatar_id = ""
+  id = 337_792
+  login = "codeforamerica"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjMzNzc5Mg=="
+  site_admin = false
+  type = "Organization"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 337_792
+  login = "codeforamerica"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjMzNzc5Mg=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

@@ -1,3 +1,55 @@
 code_url = "https://github.com/open-city/edifice-maps"
-last_pushed_within = "over_a_year"
 name = "edifice-maps"
+organization_name = "Chi Hack Night"
+
+[github]
+archived = true
+created_at = "2012-10-10T00:45:00Z"
+default_branch = "master"
+description = "Maps of Chicago's built environment. Data is from the Edifice building database."
+disabled = false
+fork = false
+forks_within = 10
+full_name = "open-city/edifice-maps"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://edifice.opencityapps.org/"
+id = 6_150_163
+language = "JavaScript"
+license = { }
+name = "edifice-maps"
+network_count = 2
+node_id = "MDEwOlJlcG9zaXRvcnk2MTUwMTYz"
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+subscribers_count = 6
+temp_clone_token = ""
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.organization]
+  gravatar_id = ""
+  id = 1_361_807
+  login = "open-city"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjEzNjE4MDc="
+  site_admin = false
+  type = "Organization"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 1_361_807
+  login = "open-city"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjEzNjE4MDc="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

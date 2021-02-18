@@ -1,3 +1,4 @@
 code_url = "https://github.com/datamade/municipal-scrapers-us"
-flags = [ "github_404" ]
+github = false
 name = "municipal-scrapers-us"
+organization_name = "Chi Hack Night"

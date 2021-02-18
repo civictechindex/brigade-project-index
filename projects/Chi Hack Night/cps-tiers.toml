@@ -1,3 +1,55 @@
 code_url = "https://github.com/open-city/cps-tiers"
-last_pushed_within = "over_a_year"
 name = "cps-tiers"
+organization_name = "Chi Hack Night"
+
+[github]
+archived = false
+created_at = "2012-03-02T22:37:21Z"
+default_branch = "master"
+description = " In Chicago, a student's chance of getting into the city's top, selective schools depends on where he or she lives.  Chicago Public Schools (CPS) places every part of the city into one of four socio-economic \"tiers\" and requires selective schools to reserve the same number of spots for the students from each tier. This tool helps you find what CPS tier you are in."
+disabled = false
+fork = false
+forks_within = 100
+full_name = "open-city/cps-tiers"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "http://cpstiers.opencityapps.org/"
+id = 3_606_806
+language = "HTML"
+license = { }
+name = "cps-tiers"
+network_count = 18
+node_id = "MDEwOlJlcG9zaXRvcnkzNjA2ODA2"
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 100
+subscribers_count = 4
+temp_clone_token = ""
+topics = [ ]
+updated_within = "week"
+watchers_within = 100
+
+  [github.organization]
+  gravatar_id = ""
+  id = 1_361_807
+  login = "open-city"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjEzNjE4MDc="
+  site_admin = false
+  type = "Organization"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 1_361_807
+  login = "open-city"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjEzNjE4MDc="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

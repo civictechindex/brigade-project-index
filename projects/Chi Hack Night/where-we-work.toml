@@ -1,3 +1,60 @@
 code_url = "https://github.com/datamade/where-we-work"
-last_pushed_within = "over_a_year"
 name = "where-we-work"
+organization_name = "Chi Hack Night"
+
+[github]
+archived = false
+created_at = "2013-08-21T03:34:35Z"
+default_branch = "master"
+description = "visualizing Chicago employment data"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "datamade/where-we-work"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "wherewework.org"
+id = 12_260_371
+language = "JavaScript"
+name = "where-we-work"
+network_count = 7
+node_id = "MDEwOlJlcG9zaXRvcnkxMjI2MDM3MQ=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+subscribers_count = 3
+temp_clone_token = ""
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "other"
+  name = "Other"
+  node_id = "MDc6TGljZW5zZTA="
+  spdx_id = "NOASSERTION"
+
+  [github.organization]
+  gravatar_id = ""
+  id = 3_723_931
+  login = "datamade"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM3MjM5MzE="
+  site_admin = false
+  type = "Organization"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 3_723_931
+  login = "datamade"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM3MjM5MzE="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

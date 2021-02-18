@@ -1,3 +1,55 @@
 code_url = "https://github.com/open-city/capsure"
-last_pushed_within = "over_a_year"
 name = "capsure"
+organization_name = "Chi Hack Night"
+
+[github]
+archived = false
+created_at = "2013-05-01T22:27:53Z"
+default_branch = "master"
+description = "An app for finding when and where your next CAPS meeting is"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "open-city/capsure"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://capsure.opencityapps.org"
+id = 9_801_365
+language = "Ruby"
+license = { }
+name = "capsure"
+network_count = 6
+node_id = "MDEwOlJlcG9zaXRvcnk5ODAxMzY1"
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+subscribers_count = 2
+temp_clone_token = ""
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.organization]
+  gravatar_id = ""
+  id = 1_361_807
+  login = "open-city"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjEzNjE4MDc="
+  site_admin = false
+  type = "Organization"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 1_361_807
+  login = "open-city"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjEzNjE4MDc="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

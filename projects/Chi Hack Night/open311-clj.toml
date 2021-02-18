@@ -1,3 +1,52 @@
 code_url = "https://github.com/ryanbriones/open311-clj"
-last_pushed_within = "over_a_year"
 name = "open311-clj"
+organization_name = "Chi Hack Night"
+
+[github]
+archived = false
+created_at = "2012-10-08T23:04:10Z"
+default_branch = "master"
+description = "A clojure library for connecting to HTTP APIs that implement the Open311 GeoReport v2 specification."
+disabled = false
+fork = false
+forks_within = 0
+full_name = "ryanbriones/open311-clj"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 6_132_598
+language = "Clojure"
+name = "open311-clj"
+network_count = 0
+node_id = "MDEwOlJlcG9zaXRvcnk2MTMyNTk4"
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+subscribers_count = 2
+temp_clone_token = ""
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 202
+  login = "ryanbriones"
+  node_id = "MDQ6VXNlcjIwMg=="
+  site_admin = false
+  type = "User"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

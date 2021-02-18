@@ -1,3 +1,127 @@
 code_url = "https://github.com/open-city/councilmatic"
-last_pushed_within = "over_a_year"
 name = "councilmatic"
+organization_name = "Chi Hack Night"
+
+[github]
+archived = false
+created_at = "2012-10-23T20:11:36Z"
+default_branch = "master"
+description = "DEPRECATED, replaced by https://github.com/datamade/chi-councilmatic"
+disabled = false
+fork = true
+forks_within = 10
+full_name = "open-city/councilmatic"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 6_359_159
+language = "Python"
+license = { }
+name = "councilmatic"
+network_count = 40
+node_id = "MDEwOlJlcG9zaXRvcnk2MzU5MTU5"
+open_issues_within = 100
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 100
+subscribers_count = 5
+temp_clone_token = ""
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 100
+
+  [github.organization]
+  gravatar_id = ""
+  id = 1_361_807
+  login = "open-city"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjEzNjE4MDc="
+  site_admin = false
+  type = "Organization"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 1_361_807
+  login = "open-city"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjEzNjE4MDc="
+  site_admin = false
+  type = "Organization"
+
+  [github.parent]
+  archived = false
+  created_at = "2011-03-24T05:18:10Z"
+  default_branch = "master"
+  description = "A subscription service for city council legislative information, started in Philadelphia."
+  disabled = false
+  fork = true
+  forks_within = 100
+  full_name = "codeforamerica/councilmatic"
+  has_downloads = true
+  has_issues = true
+  has_pages = true
+  has_projects = true
+  has_wiki = true
+  homepage = "http://councilmatic.org"
+  id = 1_519_697
+  language = "Python"
+  license = { }
+  name = "councilmatic"
+  node_id = "MDEwOlJlcG9zaXRvcnkxNTE5Njk3"
+  open_issues_within = 10
+  private = false
+  pushed_within = "over_a_year"
+  stargazers_within = 100
+  topics = [ ]
+  updated_within = "over_a_year"
+  watchers_within = 100
+
+    [github.parent.owner]
+    gravatar_id = ""
+    id = 337_792
+    login = "codeforamerica"
+    node_id = "MDEyOk9yZ2FuaXphdGlvbjMzNzc5Mg=="
+    site_admin = false
+    type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
+
+  [github.source]
+  archived = false
+  created_at = "2011-02-25T17:40:04Z"
+  default_branch = "master"
+  description = "Philadelphia City Council Legislative Information"
+  disabled = false
+  fork = false
+  forks_within = 100
+  full_name = "joshmarcus/philly_legislative"
+  has_downloads = true
+  has_issues = true
+  has_pages = false
+  has_projects = true
+  has_wiki = true
+  homepage = ""
+  id = 1_411_776
+  language = "Python"
+  license = { }
+  name = "philly_legislative"
+  node_id = "MDEwOlJlcG9zaXRvcnkxNDExNzc2"
+  open_issues_within = 0
+  private = false
+  pushed_within = "over_a_year"
+  stargazers_within = 10
+  topics = [ ]
+  updated_within = "over_a_year"
+  watchers_within = 10
+
+    [github.source.owner]
+    gravatar_id = ""
+    id = 241_093
+    login = "joshmarcus"
+    node_id = "MDQ6VXNlcjI0MTA5Mw=="
+    site_admin = false
+    type = "User"

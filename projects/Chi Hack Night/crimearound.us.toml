@@ -1,3 +1,142 @@
 code_url = "https://github.com/datamade/crimearound.us"
-last_pushed_within = "over_a_year"
 name = "crimearound.us"
+organization_name = "Chi Hack Night"
+
+[github]
+archived = false
+created_at = "2014-02-04T21:20:40Z"
+default_branch = "master"
+description = " :police_car: A tool for browsing crime reports from the Chicago Police Department."
+disabled = false
+fork = true
+forks_within = 10
+full_name = "datamade/crimearound.us"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "http://crimearound.us"
+id = 16_525_984
+language = "JavaScript"
+name = "crimearound.us"
+network_count = 5
+node_id = "MDEwOlJlcG9zaXRvcnkxNjUyNTk4NA=="
+open_issues_within = 100
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+subscribers_count = 4
+temp_clone_token = ""
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.organization]
+  gravatar_id = ""
+  id = 3_723_931
+  login = "datamade"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM3MjM5MzE="
+  site_admin = false
+  type = "Organization"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 3_723_931
+  login = "datamade"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM3MjM5MzE="
+  site_admin = false
+  type = "Organization"
+
+  [github.parent]
+  archived = false
+  created_at = "2013-05-02T21:21:01Z"
+  default_branch = "master"
+  description = "Map client designed to leverage https://github.com/evz/crimeapi"
+  disabled = false
+  fork = false
+  forks_within = 10
+  full_name = "evz/crimearound.us"
+  has_downloads = true
+  has_issues = true
+  has_pages = false
+  has_projects = true
+  has_wiki = true
+  homepage = "http://www.crimearound.us"
+  id = 9_822_926
+  language = "JavaScript"
+  name = "crimearound.us"
+  node_id = "MDEwOlJlcG9zaXRvcnk5ODIyOTI2"
+  open_issues_within = 10
+  private = false
+  pushed_within = "over_a_year"
+  stargazers_within = 10
+  topics = [ ]
+  updated_within = "over_a_year"
+  watchers_within = 10
+
+    [github.parent.license]
+    key = "mit"
+    name = "MIT License"
+    node_id = "MDc6TGljZW5zZTEz"
+    spdx_id = "MIT"
+
+    [github.parent.owner]
+    gravatar_id = ""
+    id = 551_491
+    login = "evz"
+    node_id = "MDQ6VXNlcjU1MTQ5MQ=="
+    site_admin = false
+    type = "User"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
+
+  [github.source]
+  archived = false
+  created_at = "2013-05-02T21:21:01Z"
+  default_branch = "master"
+  description = "Map client designed to leverage https://github.com/evz/crimeapi"
+  disabled = false
+  fork = false
+  forks_within = 10
+  full_name = "evz/crimearound.us"
+  has_downloads = true
+  has_issues = true
+  has_pages = false
+  has_projects = true
+  has_wiki = true
+  homepage = "http://www.crimearound.us"
+  id = 9_822_926
+  language = "JavaScript"
+  name = "crimearound.us"
+  node_id = "MDEwOlJlcG9zaXRvcnk5ODIyOTI2"
+  open_issues_within = 10
+  private = false
+  pushed_within = "over_a_year"
+  stargazers_within = 10
+  topics = [ ]
+  updated_within = "over_a_year"
+  watchers_within = 10
+
+    [github.source.license]
+    key = "mit"
+    name = "MIT License"
+    node_id = "MDc6TGljZW5zZTEz"
+    spdx_id = "MIT"
+
+    [github.source.owner]
+    gravatar_id = ""
+    id = 551_491
+    login = "evz"
+    node_id = "MDQ6VXNlcjU1MTQ5MQ=="
+    site_admin = false
+    type = "User"

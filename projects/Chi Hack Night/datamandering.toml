@@ -1,3 +1,4 @@
 code_url = "https://github.com/jpfahrenbach/datamandering"
-flags = [ "github_404" ]
+github = false
 name = "datamandering"
+organization_name = "Chi Hack Night"

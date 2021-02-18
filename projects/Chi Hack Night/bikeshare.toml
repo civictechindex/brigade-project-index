@@ -1,3 +1,55 @@
 code_url = "https://github.com/dssg/bikeshare"
-last_pushed_within = "over_a_year"
 name = "bikeshare"
+organization_name = "Chi Hack Night"
+
+[github]
+archived = false
+created_at = "2013-07-08T14:42:12Z"
+default_branch = "master"
+description = "Statistical models and webapp for predicting when bikeshare stations will be empty or full."
+disabled = false
+fork = false
+forks_within = 100
+full_name = "dssg/bikeshare"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://bikeshare.dssg.io/"
+id = 11_256_638
+language = "JavaScript"
+license = { }
+name = "bikeshare"
+network_count = 29
+node_id = "MDEwOlJlcG9zaXRvcnkxMTI1NjYzOA=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 1_000
+subscribers_count = 146
+temp_clone_token = ""
+topics = [ ]
+updated_within = "year"
+watchers_within = 1_000
+
+  [github.organization]
+  gravatar_id = ""
+  id = 3_827_384
+  login = "dssg"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM4MjczODQ="
+  site_admin = false
+  type = "Organization"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 3_827_384
+  login = "dssg"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM4MjczODQ="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

@@ -1,6 +1,33 @@
 code_url = "https://github.com/defano/oasis-chicago-njs"
-last_pushed_within = "over_a_year"
 name = "oasis-chicago-njs"
+organization_name = "Chi Hack Night"
+
+[github]
+archived = false
+created_at = "2015-02-06T21:23:46Z"
+default_branch = "master"
+description = "A visualization of Chicago business accessibility by neighborhood or census tract."
+disabled = false
+fork = false
+forks_within = 10
+full_name = "defano/chicago-oasis"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://chicago-oasis.org"
+id = 30_433_646
+language = "JavaScript"
+name = "chicago-oasis"
+network_count = 2
+node_id = "MDEwOlJlcG9zaXRvcnkzMDQzMzY0Ng=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+subscribers_count = 1
+temp_clone_token = ""
 topics = [
   "census",
   "chicago",
@@ -9,3 +36,24 @@ topics = [
   "javascript",
   "neighborhood"
 ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 451_305
+  login = "defano"
+  node_id = "MDQ6VXNlcjQ1MTMwNQ=="
+  site_admin = false
+  type = "User"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

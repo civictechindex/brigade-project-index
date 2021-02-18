@@ -1,3 +1,4 @@
 code_url = "https://github.com/biolithic/banpweb"
-flags = [ "github_404" ]
+github = false
 name = "banpweb"
+organization_name = "Chi Hack Night"

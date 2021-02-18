@@ -1,3 +1,60 @@
 code_url = "https://github.com/UrbanCCD-UChicago/generator-plenario"
-last_pushed_within = "over_a_year"
 name = "generator-plenario"
+organization_name = "Chi Hack Night"
+
+[github]
+archived = false
+created_at = "2014-11-03T17:34:41Z"
+default_branch = "master"
+description = "A generator for plenario frontends. "
+disabled = false
+fork = false
+forks_within = 0
+full_name = "UrbanCCD-UChicago/generator-plenario"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 26_130_355
+language = "JavaScript"
+name = "generator-plenario"
+network_count = 0
+node_id = "MDEwOlJlcG9zaXRvcnkyNjEzMDM1NQ=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+subscribers_count = 7
+temp_clone_token = ""
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.organization]
+  gravatar_id = ""
+  id = 6_922_503
+  login = "UrbanCCD-UChicago"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjY5MjI1MDM="
+  site_admin = false
+  type = "Organization"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_922_503
+  login = "UrbanCCD-UChicago"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjY5MjI1MDM="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

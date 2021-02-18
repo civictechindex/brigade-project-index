@@ -1,3 +1,47 @@
 code_url = "https://github.com/GovInTrenches/ctahardship"
-last_pushed_within = "over_a_year"
 name = "ctahardship"
+organization_name = "Chi Hack Night"
+
+[github]
+archived = true
+created_at = "2012-07-22T23:50:46Z"
+default_branch = "master"
+description = "Map of Hardship Index in Chicago as a CTA Map (OUTDATED - ARCHIVE ONLY)"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "GovInTrenches/ctahardship"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 5_145_814
+language = "JavaScript"
+license = { }
+name = "ctahardship"
+network_count = 0
+node_id = "MDEwOlJlcG9zaXRvcnk1MTQ1ODE0"
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+subscribers_count = 2
+temp_clone_token = ""
+topics = [ ]
+updated_within = "year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 1_302_753
+  login = "GovInTrenches"
+  node_id = "MDQ6VXNlcjEzMDI3NTM="
+  site_admin = false
+  type = "User"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

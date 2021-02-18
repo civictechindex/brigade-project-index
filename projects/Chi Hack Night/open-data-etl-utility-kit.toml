@@ -1,6 +1,33 @@
 code_url = "https://github.com/Chicago/open-data-etl-utility-kit"
-last_pushed_within = "over_a_year"
 name = "open-data-etl-utility-kit"
+organization_name = "Chi Hack Night"
+
+[github]
+archived = false
+created_at = "2014-09-12T02:28:22Z"
+default_branch = "master"
+description = "Use Pentaho's open source data integration tool (Kettle) to create Extract-Transform-Load (ETL) processes to update a Socrata open data portal. Documentation is available at http://open-data-etl-utility-kit.readthedocs.io/en/stable"
+disabled = false
+fork = false
+forks_within = 100
+full_name = "Chicago/open-data-etl-utility-kit"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 23_943_874
+language = "Shell"
+name = "open-data-etl-utility-kit"
+network_count = 30
+node_id = "MDEwOlJlcG9zaXRvcnkyMzk0Mzg3NA=="
+open_issues_within = 100
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 100
+subscribers_count = 23
+temp_clone_token = ""
 topics = [
   "chicago",
   "etl",
@@ -10,3 +37,32 @@ topics = [
   "pentaho",
   "socrata"
 ]
+updated_within = "year"
+watchers_within = 100
+
+  [github.license]
+  key = "other"
+  name = "Other"
+  node_id = "MDc6TGljZW5zZTA="
+  spdx_id = "NOASSERTION"
+
+  [github.organization]
+  gravatar_id = ""
+  id = 838_189
+  login = "Chicago"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjgzODE4OQ=="
+  site_admin = false
+  type = "Organization"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 838_189
+  login = "Chicago"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjgzODE4OQ=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

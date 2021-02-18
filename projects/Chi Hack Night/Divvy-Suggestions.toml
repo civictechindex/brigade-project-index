@@ -1,3 +1,47 @@
 code_url = "https://github.com/stevevance/Divvy-Suggestions"
-last_pushed_within = "over_a_year"
 name = "Divvy-Suggestions"
+organization_name = "Chi Hack Night"
+
+[github]
+archived = false
+created_at = "2013-12-11T03:09:47Z"
+default_branch = "master"
+description = "Get a complete JSON file of all the Divvy station suggestions people have made on Divvy's Shareabouts website, sorted by popularity"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "stevevance/Divvy-Suggestions"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://bikechi.com/divvystations/"
+id = 15_096_687
+language = "PHP"
+license = { }
+name = "Divvy-Suggestions"
+network_count = 0
+node_id = "MDEwOlJlcG9zaXRvcnkxNTA5NjY4Nw=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+subscribers_count = 2
+temp_clone_token = ""
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 1_330_459
+  login = "stevevance"
+  node_id = "MDQ6VXNlcjEzMzA0NTk="
+  site_admin = false
+  type = "User"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

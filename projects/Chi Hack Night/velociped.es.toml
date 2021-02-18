@@ -1,3 +1,47 @@
 code_url = "https://github.com/tkompare/velociped.es"
-last_pushed_within = "over_a_year"
 name = "velociped.es"
+organization_name = "Chi Hack Night"
+
+[github]
+archived = false
+created_at = "2012-06-19T04:32:25Z"
+default_branch = "master"
+description = "Velocipeds"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "tkompare/velociped.es"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 4_709_433
+language = "JavaScript"
+license = { }
+name = "velociped.es"
+network_count = 0
+node_id = "MDEwOlJlcG9zaXRvcnk0NzA5NDMz"
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+subscribers_count = 1
+temp_clone_token = ""
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 788_638
+  login = "tkompare"
+  node_id = "MDQ6VXNlcjc4ODYzOA=="
+  site_admin = false
+  type = "User"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

@@ -1,3 +1,132 @@
 code_url = "https://github.com/censusreporter/census-postgres"
-last_pushed_within = "month"
 name = "census-postgres"
+organization_name = "Chi Hack Night"
+
+[github]
+archived = false
+created_at = "2013-03-28T20:06:23Z"
+default_branch = "master"
+description = "PostgreSQL schema and import scripts for recent US Census data"
+disabled = false
+fork = true
+forks_within = 100
+full_name = "censusreporter/census-postgres"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 9_085_331
+language = "PLpgSQL"
+name = "census-postgres"
+network_count = 64
+node_id = "MDEwOlJlcG9zaXRvcnk5MDg1MzMx"
+open_issues_within = 10
+private = false
+pushed_within = "year"
+stargazers_within = 100
+subscribers_count = 16
+temp_clone_token = ""
+topics = [ ]
+updated_within = "year"
+watchers_within = 100
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.organization]
+  gravatar_id = ""
+  id = 3_924_386
+  login = "censusreporter"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM5MjQzODY="
+  site_admin = false
+  type = "Organization"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 3_924_386
+  login = "censusreporter"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM5MjQzODY="
+  site_admin = false
+  type = "Organization"
+
+  [github.parent]
+  archived = false
+  created_at = "2012-04-14T08:10:37Z"
+  default_branch = "master"
+  description = "PostgreSQL schema and import scripts for recent US Census data"
+  disabled = false
+  fork = false
+  forks_within = 100
+  full_name = "leehach/census-postgres"
+  has_downloads = true
+  has_issues = true
+  has_pages = false
+  has_projects = true
+  has_wiki = true
+  homepage = ""
+  id = 4_023_479
+  language = "SQL"
+  license = { }
+  name = "census-postgres"
+  node_id = "MDEwOlJlcG9zaXRvcnk0MDIzNDc5"
+  open_issues_within = 0
+  private = false
+  pushed_within = "over_a_year"
+  stargazers_within = 1_000
+  topics = [ ]
+  updated_within = "year"
+  watchers_within = 1_000
+
+    [github.parent.owner]
+    gravatar_id = ""
+    id = 1_497_156
+    login = "leehach"
+    node_id = "MDQ6VXNlcjE0OTcxNTY="
+    site_admin = false
+    type = "User"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
+
+  [github.source]
+  archived = false
+  created_at = "2012-04-14T08:10:37Z"
+  default_branch = "master"
+  description = "PostgreSQL schema and import scripts for recent US Census data"
+  disabled = false
+  fork = false
+  forks_within = 100
+  full_name = "leehach/census-postgres"
+  has_downloads = true
+  has_issues = true
+  has_pages = false
+  has_projects = true
+  has_wiki = true
+  homepage = ""
+  id = 4_023_479
+  language = "SQL"
+  license = { }
+  name = "census-postgres"
+  node_id = "MDEwOlJlcG9zaXRvcnk0MDIzNDc5"
+  open_issues_within = 0
+  private = false
+  pushed_within = "over_a_year"
+  stargazers_within = 1_000
+  topics = [ ]
+  updated_within = "year"
+  watchers_within = 1_000
+
+    [github.source.owner]
+    gravatar_id = ""
+    id = 1_497_156
+    login = "leehach"
+    node_id = "MDQ6VXNlcjE0OTcxNTY="
+    site_admin = false
+    type = "User"

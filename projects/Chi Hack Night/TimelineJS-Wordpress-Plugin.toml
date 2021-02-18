@@ -1,3 +1,60 @@
 code_url = "https://github.com/NUKnightLab/TimelineJS-Wordpress-Plugin"
-last_pushed_within = "year"
 name = "TimelineJS-Wordpress-Plugin"
+organization_name = "Chi Hack Night"
+
+[github]
+archived = false
+created_at = "2012-04-22T18:40:28Z"
+default_branch = "master"
+description = "A simple shortcode plugin to add the Timeline to Wordpress"
+disabled = false
+fork = false
+forks_within = 100
+full_name = "NUKnightLab/TimelineJS-Wordpress-Plugin"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = false
+homepage = { }
+id = 4_106_151
+language = "JavaScript"
+name = "TimelineJS-Wordpress-Plugin"
+network_count = 50
+node_id = "MDEwOlJlcG9zaXRvcnk0MTA2MTUx"
+open_issues_within = 100
+private = false
+pushed_within = "week"
+stargazers_within = 1_000
+subscribers_count = 38
+temp_clone_token = ""
+topics = [ ]
+updated_within = "week"
+watchers_within = 1_000
+
+  [github.license]
+  key = "mpl-2.0"
+  name = "Mozilla Public License 2.0"
+  node_id = "MDc6TGljZW5zZTE0"
+  spdx_id = "MPL-2.0"
+
+  [github.organization]
+  gravatar_id = ""
+  id = 1_273_909
+  login = "NUKnightLab"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjEyNzM5MDk="
+  site_admin = false
+  type = "Organization"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 1_273_909
+  login = "NUKnightLab"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjEyNzM5MDk="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

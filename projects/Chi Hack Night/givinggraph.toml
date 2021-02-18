@@ -1,3 +1,60 @@
 code_url = "https://github.com/dssg/givinggraph"
-last_pushed_within = "over_a_year"
 name = "givinggraph"
+organization_name = "Chi Hack Night"
+
+[github]
+archived = false
+created_at = "2013-06-10T17:41:02Z"
+default_branch = "master"
+description = "An API tool to help understand the relationships between non-profits, for-profits, and the causes they support."
+disabled = false
+fork = false
+forks_within = 100
+full_name = "dssg/givinggraph"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "https://github.com/dssg/givinggraph/wiki/API"
+id = 10_605_933
+language = "Python"
+name = "givinggraph"
+network_count = 14
+node_id = "MDEwOlJlcG9zaXRvcnkxMDYwNTkzMw=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 100
+subscribers_count = 132
+temp_clone_token = ""
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 100
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.organization]
+  gravatar_id = ""
+  id = 3_827_384
+  login = "dssg"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM4MjczODQ="
+  site_admin = false
+  type = "Organization"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 3_827_384
+  login = "dssg"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM4MjczODQ="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

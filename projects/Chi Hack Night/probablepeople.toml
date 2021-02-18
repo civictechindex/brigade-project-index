@@ -1,4 +1,60 @@
 code_url = "https://github.com/datamade/probablepeople"
-last_pushed_within = "over_a_year"
 name = "probablepeople"
+organization_name = "Chi Hack Night"
+
+[github]
+archived = false
+created_at = "2014-11-06T16:31:00Z"
+default_branch = "master"
+description = ":family: a python library for parsing unstructured western names into name components."
+disabled = false
+fork = false
+forks_within = 100
+full_name = "datamade/probablepeople"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://parserator.datamade.us/probablepeople"
+id = 26_278_969
+language = "Python"
+name = "probablepeople"
+network_count = 59
+node_id = "MDEwOlJlcG9zaXRvcnkyNjI3ODk2OQ=="
+open_issues_within = 100
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 1_000
+subscribers_count = 26
+temp_clone_token = ""
 topics = [ "names", "parse", "python" ]
+updated_within = "week"
+watchers_within = 1_000
+
+  [github.license]
+  key = "other"
+  name = "Other"
+  node_id = "MDc6TGljZW5zZTA="
+  spdx_id = "NOASSERTION"
+
+  [github.organization]
+  gravatar_id = ""
+  id = 3_723_931
+  login = "datamade"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM3MjM5MzE="
+  site_admin = false
+  type = "Organization"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 3_723_931
+  login = "datamade"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM3MjM5MzE="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

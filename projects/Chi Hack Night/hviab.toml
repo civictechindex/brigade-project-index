@@ -1,3 +1,119 @@
 code_url = "https://github.com/dnfehren/hviab"
-last_pushed_within = "over_a_year"
 name = "hviab"
+organization_name = "Chi Hack Night"
+
+[github]
+archived = false
+created_at = "2012-10-31T15:01:36Z"
+default_branch = "master"
+description = "Finding Hidden Value in Abandoned Buildings"
+disabled = false
+fork = true
+forks_within = 10
+full_name = "dnfehren/hviab"
+has_downloads = true
+has_issues = false
+has_pages = true
+has_projects = true
+has_wiki = false
+homepage = "http://hviab.herokuapp.com/"
+id = 6_475_725
+language = "Python"
+license = { }
+name = "hviab"
+network_count = 245
+node_id = "MDEwOlJlcG9zaXRvcnk2NDc1NzI1"
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+subscribers_count = 2
+temp_clone_token = ""
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 206_100
+  login = "dnfehren"
+  node_id = "MDQ6VXNlcjIwNjEwMA=="
+  site_admin = false
+  type = "User"
+
+  [github.parent]
+  archived = false
+  created_at = "2011-09-16T03:31:35Z"
+  default_branch = "master"
+  description = "An easy-to-use Flask template for Heroku."
+  disabled = false
+  fork = false
+  forks_within = 1_000
+  full_name = "zachwill/flask_heroku"
+  has_downloads = true
+  has_issues = true
+  has_pages = true
+  has_projects = true
+  has_wiki = false
+  homepage = ""
+  id = 2_397_102
+  language = "CSS"
+  license = { }
+  name = "flask_heroku"
+  node_id = "MDEwOlJlcG9zaXRvcnkyMzk3MTAy"
+  open_issues_within = 10
+  private = false
+  pushed_within = "over_a_year"
+  stargazers_within = 1_000
+  topics = [ ]
+  updated_within = "week"
+  watchers_within = 1_000
+
+    [github.parent.owner]
+    gravatar_id = ""
+    id = 172_692
+    login = "zachwill"
+    node_id = "MDQ6VXNlcjE3MjY5Mg=="
+    site_admin = false
+    type = "User"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
+
+  [github.source]
+  archived = false
+  created_at = "2011-09-16T03:31:35Z"
+  default_branch = "master"
+  description = "An easy-to-use Flask template for Heroku."
+  disabled = false
+  fork = false
+  forks_within = 1_000
+  full_name = "zachwill/flask_heroku"
+  has_downloads = true
+  has_issues = true
+  has_pages = true
+  has_projects = true
+  has_wiki = false
+  homepage = ""
+  id = 2_397_102
+  language = "CSS"
+  license = { }
+  name = "flask_heroku"
+  node_id = "MDEwOlJlcG9zaXRvcnkyMzk3MTAy"
+  open_issues_within = 10
+  private = false
+  pushed_within = "over_a_year"
+  stargazers_within = 1_000
+  topics = [ ]
+  updated_within = "week"
+  watchers_within = 1_000
+
+    [github.source.owner]
+    gravatar_id = ""
+    id = 172_692
+    login = "zachwill"
+    node_id = "MDQ6VXNlcjE3MjY5Mg=="
+    site_admin = false
+    type = "User"

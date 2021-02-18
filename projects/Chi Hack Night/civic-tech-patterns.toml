@@ -1,3 +1,60 @@
 code_url = "https://github.com/codeforamerica/civic-tech-patterns"
-last_pushed_within = "over_a_year"
 name = "civic-tech-patterns"
+organization_name = "Chi Hack Night"
+
+[github]
+archived = false
+created_at = "2013-01-03T19:59:16Z"
+default_branch = "master"
+description = "common patterns and anti-patterns for civic tech and civic apps"
+disabled = false
+fork = false
+forks_within = 100
+full_name = "codeforamerica/civic-tech-patterns"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "http://codeforamerica.github.io/civic-tech-patterns"
+id = 7_429_339
+language = "Ruby"
+name = "civic-tech-patterns"
+network_count = 21
+node_id = "MDEwOlJlcG9zaXRvcnk3NDI5MzM5"
+open_issues_within = 100
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 1_000
+subscribers_count = 31
+temp_clone_token = ""
+topics = [ ]
+updated_within = "month"
+watchers_within = 1_000
+
+  [github.license]
+  key = "bsd-3-clause"
+  name = 'BSD 3-Clause "New" or "Revised" License'
+  node_id = "MDc6TGljZW5zZTU="
+  spdx_id = "BSD-3-Clause"
+
+  [github.organization]
+  gravatar_id = ""
+  id = 337_792
+  login = "codeforamerica"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjMzNzc5Mg=="
+  site_admin = false
+  type = "Organization"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 337_792
+  login = "codeforamerica"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjMzNzc5Mg=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

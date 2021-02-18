@@ -1,3 +1,47 @@
 code_url = "https://github.com/potash/outside-calendar"
-last_pushed_within = "over_a_year"
 name = "outside-calendar"
+organization_name = "Chi Hack Night"
+
+[github]
+archived = false
+created_at = "2014-01-09T20:25:29Z"
+default_branch = "gh-pages"
+description = "Calendar that aggregates events from many sources providing filters and a map."
+disabled = false
+fork = false
+forks_within = 0
+full_name = "potash/outside-calendar"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "http://potash.github.io/outside-calendar"
+id = 15_778_440
+language = "JavaScript"
+license = { }
+name = "outside-calendar"
+network_count = 0
+node_id = "MDEwOlJlcG9zaXRvcnkxNTc3ODQ0MA=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+subscribers_count = 2
+temp_clone_token = ""
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 1_166_000
+  login = "potash"
+  node_id = "MDQ6VXNlcjExNjYwMDA="
+  site_admin = false
+  type = "User"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

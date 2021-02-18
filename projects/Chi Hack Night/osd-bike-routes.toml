@@ -1,6 +1,33 @@
 code_url = "https://github.com/Chicago/osd-bike-routes"
-last_pushed_within = "over_a_year"
 name = "osd-bike-routes"
+organization_name = "Chi Hack Night"
+
+[github]
+archived = false
+created_at = "2013-02-07T03:49:01Z"
+default_branch = "master"
+description = "Open source release of bike routes in Chicago."
+disabled = false
+fork = false
+forks_within = 100
+full_name = "Chicago/osd-bike-routes"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 8_065_965
+language = { }
+name = "osd-bike-routes"
+network_count = 28
+node_id = "MDEwOlJlcG9zaXRvcnk4MDY1OTY1"
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 1_000
+subscribers_count = 20
+temp_clone_token = ""
 topics = [
   "bike-routes",
   "chicago",
@@ -8,3 +35,32 @@ topics = [
   "government",
   "open-data"
 ]
+updated_within = "year"
+watchers_within = 1_000
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.organization]
+  gravatar_id = ""
+  id = 838_189
+  login = "Chicago"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjgzODE4OQ=="
+  site_admin = false
+  type = "Organization"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 838_189
+  login = "Chicago"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjgzODE4OQ=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

@@ -1,3 +1,55 @@
 code_url = "https://github.com/sc3/cook-convictions"
-last_pushed_within = "over_a_year"
 name = "cook-convictions"
+organization_name = "Chi Hack Night"
+
+[github]
+archived = false
+created_at = "2014-06-22T21:01:45Z"
+default_branch = "master"
+description = "The Tarbell project that generates Convicted in Cook"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "sc3/cook-convictions"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://convictions.smartchicagoapps.org/"
+id = 21_105_414
+language = "JavaScript"
+license = { }
+name = "cook-convictions"
+network_count = 1
+node_id = "MDEwOlJlcG9zaXRvcnkyMTEwNTQxNA=="
+open_issues_within = 100
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+subscribers_count = 7
+temp_clone_token = ""
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.organization]
+  gravatar_id = ""
+  id = 2_393_454
+  login = "sc3"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjIzOTM0NTQ="
+  site_admin = false
+  type = "Organization"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_393_454
+  login = "sc3"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjIzOTM0NTQ="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

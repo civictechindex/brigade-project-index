@@ -1,3 +1,132 @@
 code_url = "https://github.com/smartchicago/wikichicago"
-last_pushed_within = "over_a_year"
 name = "wikichicago"
+organization_name = "Chi Hack Night"
+
+[github]
+archived = false
+created_at = "2013-07-29T21:58:52Z"
+default_branch = "master"
+description = "A tool for collaborating in local, geographic communities in Chicago"
+disabled = false
+fork = true
+forks_within = 0
+full_name = "smartchicago/wikichicago"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = false
+homepage = "http://wikichicago.org"
+id = 11_750_767
+language = "Python"
+name = "wikichicago"
+network_count = 83
+node_id = "MDEwOlJlcG9zaXRvcnkxMTc1MDc2Nw=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+subscribers_count = 5
+temp_clone_token = ""
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "gpl-2.0"
+  name = "GNU General Public License v2.0"
+  node_id = "MDc6TGljZW5zZTg="
+  spdx_id = "GPL-2.0"
+
+  [github.organization]
+  gravatar_id = ""
+  id = 2_008_099
+  login = "smartchicago"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjIwMDgwOTk="
+  site_admin = false
+  type = "Organization"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_008_099
+  login = "smartchicago"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjIwMDgwOTk="
+  site_admin = false
+  type = "Organization"
+
+  [github.parent]
+  archived = false
+  created_at = "2011-02-28T23:08:48Z"
+  default_branch = "master"
+  description = "LocalWiki a grassroots effort to collect, share and open the world's local knowledge."
+  disabled = false
+  fork = false
+  forks_within = 100
+  full_name = "localwiki/localwiki"
+  has_downloads = true
+  has_issues = true
+  has_pages = false
+  has_projects = true
+  has_wiki = false
+  homepage = "http://localwiki.org"
+  id = 1_423_812
+  language = { }
+  license = { }
+  name = "localwiki"
+  node_id = "MDEwOlJlcG9zaXRvcnkxNDIzODEy"
+  open_issues_within = 100
+  private = false
+  pushed_within = "over_a_year"
+  stargazers_within = 1_000
+  topics = [ ]
+  updated_within = "year"
+  watchers_within = 1_000
+
+    [github.parent.owner]
+    gravatar_id = ""
+    id = 601_152
+    login = "localwiki"
+    node_id = "MDEyOk9yZ2FuaXphdGlvbjYwMTE1Mg=="
+    site_admin = false
+    type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
+
+  [github.source]
+  archived = false
+  created_at = "2011-02-28T23:08:48Z"
+  default_branch = "master"
+  description = "LocalWiki a grassroots effort to collect, share and open the world's local knowledge."
+  disabled = false
+  fork = false
+  forks_within = 100
+  full_name = "localwiki/localwiki"
+  has_downloads = true
+  has_issues = true
+  has_pages = false
+  has_projects = true
+  has_wiki = false
+  homepage = "http://localwiki.org"
+  id = 1_423_812
+  language = { }
+  license = { }
+  name = "localwiki"
+  node_id = "MDEwOlJlcG9zaXRvcnkxNDIzODEy"
+  open_issues_within = 100
+  private = false
+  pushed_within = "over_a_year"
+  stargazers_within = 1_000
+  topics = [ ]
+  updated_within = "year"
+  watchers_within = 1_000
+
+    [github.source.owner]
+    gravatar_id = ""
+    id = 601_152
+    login = "localwiki"
+    node_id = "MDEyOk9yZ2FuaXphdGlvbjYwMTE1Mg=="
+    site_admin = false
+    type = "Organization"

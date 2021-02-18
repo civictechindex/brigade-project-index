@@ -1,3 +1,52 @@
 code_url = "https://github.com/derekeder/Fusion-Tables-to-HTML-Table"
-last_pushed_within = "over_a_year"
 name = "Fusion-Tables-to-HTML-Table"
+organization_name = "Chi Hack Night"
+
+[github]
+archived = false
+created_at = "2011-10-27T00:44:55Z"
+default_branch = "master"
+description = ":warning: DEPRECATED: Output a Fusion Table in a nice pretty HTML table"
+disabled = false
+fork = false
+forks_within = 100
+full_name = "derekeder/Fusion-Tables-to-HTML-Table"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://derekeder.com/fusion-tables-to-html-table/"
+id = 2_654_999
+language = "PHP"
+name = "Fusion-Tables-to-HTML-Table"
+network_count = 11
+node_id = "MDEwOlJlcG9zaXRvcnkyNjU0OTk5"
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 100
+subscribers_count = 5
+temp_clone_token = ""
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 100
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 919_583
+  login = "derekeder"
+  node_id = "MDQ6VXNlcjkxOTU4Mw=="
+  site_admin = false
+  type = "User"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

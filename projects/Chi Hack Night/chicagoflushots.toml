@@ -1,3 +1,52 @@
 code_url = "https://github.com/tkompare/chicagoflushots"
-last_pushed_within = "over_a_year"
 name = "chicagoflushots"
+organization_name = "Chi Hack Night"
+
+[github]
+archived = false
+created_at = "2012-09-24T23:10:16Z"
+default_branch = "master"
+description = "App to show location of CDPH Flu Shot Clinic Events "
+disabled = false
+fork = false
+forks_within = 100
+full_name = "tkompare/chicagoflushots"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 5_942_265
+language = "JavaScript"
+name = "chicagoflushots"
+network_count = 11
+node_id = "MDEwOlJlcG9zaXRvcnk1OTQyMjY1"
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 100
+subscribers_count = 7
+temp_clone_token = ""
+topics = [ ]
+updated_within = "year"
+watchers_within = 100
+
+  [github.license]
+  key = "other"
+  name = "Other"
+  node_id = "MDc6TGljZW5zZTA="
+  spdx_id = "NOASSERTION"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 788_638
+  login = "tkompare"
+  node_id = "MDQ6VXNlcjc4ODYzOA=="
+  site_admin = false
+  type = "User"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

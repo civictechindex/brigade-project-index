@@ -1,3 +1,60 @@
 code_url = "https://github.com/newsapps/django-boundaryservice"
-last_pushed_within = "year"
 name = "django-boundaryservice"
+organization_name = "Chi Hack Night"
+
+[github]
+archived = false
+created_at = "2011-05-12T01:05:28Z"
+default_branch = "master"
+description = "A ready-to-deploy system for aggregating regional boundary data (from shapefiles) and republishing that data via a RESTful JSON API."
+disabled = false
+fork = false
+forks_within = 100
+full_name = "newsapps/django-boundaryservice"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://blog.apps.chicagotribune.com/"
+id = 1_736_163
+language = "Python"
+name = "django-boundaryservice"
+network_count = 46
+node_id = "MDEwOlJlcG9zaXRvcnkxNzM2MTYz"
+open_issues_within = 100
+private = false
+pushed_within = "year"
+stargazers_within = 100
+subscribers_count = 10
+temp_clone_token = ""
+topics = [ ]
+updated_within = "year"
+watchers_within = 100
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.organization]
+  gravatar_id = ""
+  id = 317_822
+  login = "newsapps"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjMxNzgyMg=="
+  site_admin = false
+  type = "Organization"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 317_822
+  login = "newsapps"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjMxNzgyMg=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

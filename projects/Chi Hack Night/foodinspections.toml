@@ -1,3 +1,55 @@
 code_url = "https://github.com/vivelohoy/foodinspections"
-last_pushed_within = "over_a_year"
 name = "foodinspections"
+organization_name = "Chi Hack Night"
+
+[github]
+archived = false
+created_at = "2013-06-10T02:43:47Z"
+default_branch = "master"
+description = "An app for people to see what Chicago's food is like."
+disabled = false
+fork = false
+forks_within = 10
+full_name = "vivelohoy/foodinspections"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://www.eatsafe.co"
+id = 10_592_561
+language = "CSS"
+license = { }
+name = "foodinspections"
+network_count = 2
+node_id = "MDEwOlJlcG9zaXRvcnkxMDU5MjU2MQ=="
+open_issues_within = 100
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+subscribers_count = 4
+temp_clone_token = ""
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.organization]
+  gravatar_id = ""
+  id = 4_359_684
+  login = "vivelohoy"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjQzNTk2ODQ="
+  site_admin = false
+  type = "Organization"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 4_359_684
+  login = "vivelohoy"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjQzNTk2ODQ="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

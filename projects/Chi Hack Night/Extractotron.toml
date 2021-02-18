@@ -1,3 +1,47 @@
 code_url = "https://github.com/migurski/Extractotron"
-last_pushed_within = "over_a_year"
 name = "Extractotron"
+organization_name = "Chi Hack Night"
+
+[github]
+archived = false
+created_at = "2011-09-16T18:32:40Z"
+default_branch = "master"
+description = "Placeholder for some ideas about OpenStreetMap extracts"
+disabled = false
+fork = false
+forks_within = 100
+full_name = "migurski/Extractotron"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 2_401_134
+language = "HTML"
+license = { }
+name = "Extractotron"
+network_count = 81
+node_id = "MDEwOlJlcG9zaXRvcnkyNDAxMTM0"
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 100
+subscribers_count = 6
+temp_clone_token = ""
+topics = [ ]
+updated_within = "year"
+watchers_within = 100
+
+  [github.owner]
+  gravatar_id = ""
+  id = 58_730
+  login = "migurski"
+  node_id = "MDQ6VXNlcjU4NzMw"
+  site_admin = false
+  type = "User"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

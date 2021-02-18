@@ -1,3 +1,60 @@
 code_url = "https://github.com/datamade/lascaux"
-last_pushed_within = "over_a_year"
 name = "lascaux"
+organization_name = "Chi Hack Night"
+
+[github]
+archived = false
+created_at = "2014-06-23T22:02:34Z"
+default_branch = "master"
+description = ":globe_with_meridians: Web API for printing high resolution PDF maps"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "datamade/lascaux"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://lascaux.datamade.us/"
+id = 21_143_779
+language = "Python"
+name = "lascaux"
+network_count = 4
+node_id = "MDEwOlJlcG9zaXRvcnkyMTE0Mzc3OQ=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 100
+subscribers_count = 4
+temp_clone_token = ""
+topics = [ ]
+updated_within = "year"
+watchers_within = 100
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.organization]
+  gravatar_id = ""
+  id = 3_723_931
+  login = "datamade"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM3MjM5MzE="
+  site_admin = false
+  type = "Organization"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 3_723_931
+  login = "datamade"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM3MjM5MzE="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

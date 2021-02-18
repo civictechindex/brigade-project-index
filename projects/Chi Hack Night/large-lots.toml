@@ -1,3 +1,4 @@
 code_url = "https://github.com/datamade/large-lots"
-flags = [ "github_404" ]
+github = false
 name = "large-lots"
+organization_name = "Chi Hack Night"

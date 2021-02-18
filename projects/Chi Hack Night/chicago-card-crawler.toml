@@ -1,3 +1,47 @@
 code_url = "https://github.com/harperreed/chicago-card-crawler"
-last_pushed_within = "over_a_year"
 name = "chicago-card-crawler"
+organization_name = "Chi Hack Night"
+
+[github]
+archived = false
+created_at = "2012-11-15T16:45:18Z"
+default_branch = "master"
+description = "A crawler for the chicago card plus website."
+disabled = false
+fork = false
+forks_within = 10
+full_name = "harperreed/chicago-card-crawler"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 6_708_042
+language = "Python"
+license = { }
+name = "chicago-card-crawler"
+network_count = 1
+node_id = "MDEwOlJlcG9zaXRvcnk2NzA4MDQy"
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+subscribers_count = 3
+temp_clone_token = ""
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 18_504
+  login = "harperreed"
+  node_id = "MDQ6VXNlcjE4NTA0"
+  site_admin = false
+  type = "User"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

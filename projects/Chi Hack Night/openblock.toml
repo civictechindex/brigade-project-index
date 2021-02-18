@@ -1,3 +1,119 @@
 code_url = "https://github.com/danxoneil/openblock"
-last_pushed_within = "over_a_year"
 name = "openblock"
+organization_name = "Chi Hack Night"
+
+[github]
+archived = false
+created_at = "2013-02-09T22:08:52Z"
+default_branch = "master"
+description = "This is a repository for OpenBlock code with a set of issues associated with it."
+disabled = false
+fork = true
+forks_within = 10
+full_name = "danxoneil/openblock"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 8_115_857
+language = "Python"
+license = { }
+name = "openblock"
+network_count = 27
+node_id = "MDEwOlJlcG9zaXRvcnk4MTE1ODU3"
+open_issues_within = 100
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+subscribers_count = 2
+temp_clone_token = ""
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 100_556
+  login = "danxoneil"
+  node_id = "MDQ6VXNlcjEwMDU1Ng=="
+  site_admin = false
+  type = "User"
+
+  [github.parent]
+  archived = false
+  created_at = "2012-09-28T19:55:32Z"
+  default_branch = "master"
+  description = 'OpenBlock is a web application and RESTful service that allows users to browse and search their local area for "hyper-local news'
+  disabled = false
+  fork = false
+  forks_within = 100
+  full_name = "openplans/openblock"
+  has_downloads = true
+  has_issues = true
+  has_pages = true
+  has_projects = true
+  has_wiki = true
+  homepage = ""
+  id = 6_002_339
+  language = "Python"
+  license = { }
+  name = "openblock"
+  node_id = "MDEwOlJlcG9zaXRvcnk2MDAyMzM5"
+  open_issues_within = 100
+  private = false
+  pushed_within = "month"
+  stargazers_within = 100
+  topics = [ ]
+  updated_within = "over_a_year"
+  watchers_within = 100
+
+    [github.parent.owner]
+    gravatar_id = ""
+    id = 325_773
+    login = "openplans"
+    node_id = "MDEyOk9yZ2FuaXphdGlvbjMyNTc3Mw=="
+    site_admin = false
+    type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
+
+  [github.source]
+  archived = false
+  created_at = "2012-09-28T19:55:32Z"
+  default_branch = "master"
+  description = 'OpenBlock is a web application and RESTful service that allows users to browse and search their local area for "hyper-local news'
+  disabled = false
+  fork = false
+  forks_within = 100
+  full_name = "openplans/openblock"
+  has_downloads = true
+  has_issues = true
+  has_pages = true
+  has_projects = true
+  has_wiki = true
+  homepage = ""
+  id = 6_002_339
+  language = "Python"
+  license = { }
+  name = "openblock"
+  node_id = "MDEwOlJlcG9zaXRvcnk2MDAyMzM5"
+  open_issues_within = 100
+  private = false
+  pushed_within = "month"
+  stargazers_within = 100
+  topics = [ ]
+  updated_within = "over_a_year"
+  watchers_within = 100
+
+    [github.source.owner]
+    gravatar_id = ""
+    id = 325_773
+    login = "openplans"
+    node_id = "MDEyOk9yZ2FuaXphdGlvbjMyNTc3Mw=="
+    site_admin = false
+    type = "Organization"

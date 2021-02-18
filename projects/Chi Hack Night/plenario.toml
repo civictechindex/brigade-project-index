@@ -1,3 +1,60 @@
 code_url = "https://github.com/UrbanCCD-UChicago/plenario"
-last_pushed_within = "year"
 name = "plenario"
+organization_name = "Chi Hack Night"
+
+[github]
+archived = false
+created_at = "2013-12-04T21:12:31Z"
+default_branch = "master"
+description = "API for geospatial and time aggregation across multiple open datasets."
+disabled = false
+fork = false
+forks_within = 100
+full_name = "UrbanCCD-UChicago/plenario"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://plenar.io"
+id = 14_935_974
+language = "Python"
+name = "plenario"
+network_count = 42
+node_id = "MDEwOlJlcG9zaXRvcnkxNDkzNTk3NA=="
+open_issues_within = 100
+private = false
+pushed_within = "year"
+stargazers_within = 1_000
+subscribers_count = 43
+temp_clone_token = ""
+topics = [ ]
+updated_within = "year"
+watchers_within = 1_000
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.organization]
+  gravatar_id = ""
+  id = 6_922_503
+  login = "UrbanCCD-UChicago"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjY5MjI1MDM="
+  site_admin = false
+  type = "Organization"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_922_503
+  login = "UrbanCCD-UChicago"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjY5MjI1MDM="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

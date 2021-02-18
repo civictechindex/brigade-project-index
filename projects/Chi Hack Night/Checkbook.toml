@@ -1,4 +1,60 @@
 code_url = "https://github.com/NYCComptroller/Checkbook"
-last_pushed_within = "week"
 name = "Checkbook"
+organization_name = "Chi Hack Night"
+
+[github]
+archived = false
+created_at = "2013-04-16T19:01:11Z"
+default_branch = "nycha"
+description = "Source codes, data, and instructions for Checkbook"
+disabled = false
+fork = false
+forks_within = 100
+full_name = "NYCComptroller/Checkbook"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "https://checkbooknyc.com/"
+id = 9_480_177
+language = "PHP"
+name = "Checkbook"
+network_count = 17
+node_id = "MDEwOlJlcG9zaXRvcnk5NDgwMTc3"
+open_issues_within = 100
+private = false
+pushed_within = "week"
+stargazers_within = 100
+subscribers_count = 19
+temp_clone_token = ""
 topics = [ "checkbook-nyc", "comptroller-nyc-gov" ]
+updated_within = "week"
+watchers_within = 100
+
+  [github.license]
+  key = "other"
+  name = "Other"
+  node_id = "MDc6TGljZW5zZTA="
+  spdx_id = "NOASSERTION"
+
+  [github.organization]
+  gravatar_id = ""
+  id = 3_987_867
+  login = "NYCComptroller"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM5ODc4Njc="
+  site_admin = false
+  type = "Organization"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 3_987_867
+  login = "NYCComptroller"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM5ODc4Njc="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

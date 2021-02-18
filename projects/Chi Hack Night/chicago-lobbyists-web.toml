@@ -1,3 +1,55 @@
 code_url = "https://github.com/open-city/chicago-lobbyists-web"
-last_pushed_within = "over_a_year"
 name = "chicago-lobbyists-web"
+organization_name = "Chi Hack Night"
+
+[github]
+archived = true
+created_at = "2012-01-21T21:40:54Z"
+default_branch = "master"
+description = "An open data, open government, and open source project intended to improve the transparency of interactions between the City of Chicago, lobbyists and their clients."
+disabled = false
+fork = false
+forks_within = 100
+full_name = "open-city/chicago-lobbyists-web"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://chicagolobbyists.org/"
+id = 3_236_348
+language = "Ruby"
+license = { }
+name = "chicago-lobbyists-web"
+network_count = 11
+node_id = "MDEwOlJlcG9zaXRvcnkzMjM2MzQ4"
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 100
+subscribers_count = 5
+temp_clone_token = ""
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 100
+
+  [github.organization]
+  gravatar_id = ""
+  id = 1_361_807
+  login = "open-city"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjEzNjE4MDc="
+  site_admin = false
+  type = "Organization"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 1_361_807
+  login = "open-city"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjEzNjE4MDc="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

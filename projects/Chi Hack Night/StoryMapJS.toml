@@ -1,3 +1,60 @@
 code_url = "https://github.com/NUKnightLab/StoryMapJS"
-last_pushed_within = "week"
 name = "StoryMapJS"
+organization_name = "Chi Hack Night"
+
+[github]
+archived = false
+created_at = "2013-07-22T16:43:23Z"
+default_branch = "master"
+description = "Maps that tell stories."
+disabled = false
+fork = false
+forks_within = 10
+full_name = "NUKnightLab/StoryMapJS"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "https://storymap.knightlab.com/"
+id = 11_586_630
+language = "JavaScript"
+name = "StoryMapJS"
+network_count = 5
+node_id = "MDEwOlJlcG9zaXRvcnkxMTU4NjYzMA=="
+open_issues_within = 1_000
+private = false
+pushed_within = "month"
+stargazers_within = 100
+subscribers_count = 9
+temp_clone_token = ""
+topics = [ ]
+updated_within = "week"
+watchers_within = 100
+
+  [github.license]
+  key = "other"
+  name = "Other"
+  node_id = "MDc6TGljZW5zZTA="
+  spdx_id = "NOASSERTION"
+
+  [github.organization]
+  gravatar_id = ""
+  id = 1_273_909
+  login = "NUKnightLab"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjEyNzM5MDk="
+  site_admin = false
+  type = "Organization"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 1_273_909
+  login = "NUKnightLab"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjEyNzM5MDk="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
