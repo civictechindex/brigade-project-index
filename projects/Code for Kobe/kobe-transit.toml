@@ -1,6 +1,46 @@
 code_url = "https://github.com/codeforkobe/kobe-transit"
 description = "Kobe city transit opendata"
-git_branch = "gh-pages"
 git_url = "git://github.com/codeforkobe/kobe-transit.git"
-last_pushed_within = "over_a_year"
 name = "kobe-transit"
+organization_name = "Code for Kobe"
+
+[github]
+archived = false
+created_at = "2016-04-19T22:15:05Z"
+default_branch = "gh-pages"
+description = "Kobe city transit opendata"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "codeforkobe/kobe-transit"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 56_636_027
+language = "Python"
+license = { }
+name = "kobe-transit"
+node_id = "MDEwOlJlcG9zaXRvcnk1NjYzNjAyNw=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 10_889_832
+  login = "codeforkobe"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjEwODg5ODMy"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

@@ -1,6 +1,46 @@
 code_url = "https://github.com/codeforkobe/opendata"
 description = "first commit"
-git_branch = "master"
 git_url = "git://github.com/codeforkobe/opendata.git"
-last_pushed_within = "over_a_year"
 name = "opendata"
+organization_name = "Code for Kobe"
+
+[github]
+archived = false
+created_at = "2015-09-17T16:01:44Z"
+default_branch = "master"
+description = "first commit"
+disabled = false
+fork = true
+forks_within = 0
+full_name = "codeforkobe/opendata"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 42_666_260
+language = { }
+license = { }
+name = "opendata"
+node_id = "MDEwOlJlcG9zaXRvcnk0MjY2NjI2MA=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 10_889_832
+  login = "codeforkobe"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjEwODg5ODMy"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
