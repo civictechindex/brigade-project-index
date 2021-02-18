@@ -1,6 +1,46 @@
 code_url = "https://github.com/CodeForRockford/codeforrockford"
 description = "codeforrockford website"
-git_branch = "master"
 git_url = "git://github.com/CodeForRockford/codeforrockford.git"
-last_pushed_within = "over_a_year"
 name = "codeforrockford"
+organization_name = "Code for Rockford"
+
+[github]
+archived = false
+created_at = "2014-04-24T05:34:44Z"
+default_branch = "master"
+description = "codeforrockford website"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "CodeForRockford/codeforrockford"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 19_096_981
+language = "Python"
+license = { }
+name = "codeforrockford"
+node_id = "MDEwOlJlcG9zaXRvcnkxOTA5Njk4MQ=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_892_545
+  login = "CodeForRockford"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjY4OTI1NDU="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
