@@ -1,7 +1,52 @@
 code_url = "https://github.com/codeforgso/GoVote"
 description = "Local voter registration and election candidate application."
-git_branch = "dev"
 git_url = "git://github.com/codeforgso/GoVote.git"
-last_pushed_within = "year"
 link_url = "http://govotegso.org/"
 name = "GoVote"
+organization_name = "Code for Greensboro"
+
+[github]
+archived = false
+created_at = "2017-07-29T14:16:48Z"
+default_branch = "dev"
+description = "Local voter registration and election candidate application."
+disabled = false
+fork = false
+forks_within = 100
+full_name = "codeforgso/GoVote"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://govotegso.org/"
+id = 98_736_940
+language = "JavaScript"
+name = "GoVote"
+node_id = "MDEwOlJlcG9zaXRvcnk5ODczNjk0MA=="
+open_issues_within = 100
+private = false
+pushed_within = "week"
+stargazers_within = 100
+topics = [ ]
+updated_within = "year"
+watchers_within = 100
+
+  [github.license]
+  key = "gpl-3.0"
+  name = "GNU General Public License v3.0"
+  node_id = "MDc6TGljZW5zZTk="
+  spdx_id = "GPL-3.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 11_655_503
+  login = "codeforgso"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjExNjU1NTAz"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

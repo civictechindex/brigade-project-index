@@ -1,6 +1,46 @@
 code_url = "https://github.com/codeforgso/lightning-talks"
 description = "Brainstorm your ideas for lightning talks at meetings."
-git_branch = "master"
 git_url = "git://github.com/codeforgso/lightning-talks.git"
-last_pushed_within = "over_a_year"
 name = "lightning-talks"
+organization_name = "Code for Greensboro"
+
+[github]
+archived = false
+created_at = "2015-05-07T00:31:05Z"
+default_branch = "master"
+description = "Brainstorm your ideas for lightning talks at meetings."
+disabled = false
+fork = false
+forks_within = 0
+full_name = "codeforgso/lightning-talks"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 35_190_045
+language = { }
+license = { }
+name = "lightning-talks"
+node_id = "MDEwOlJlcG9zaXRvcnkzNTE5MDA0NQ=="
+open_issues_within = 100
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 11_655_503
+  login = "codeforgso"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjExNjU1NTAz"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

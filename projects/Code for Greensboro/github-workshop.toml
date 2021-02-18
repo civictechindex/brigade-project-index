@@ -1,7 +1,52 @@
 code_url = "https://github.com/codeforgso/github-workshop"
 description = "Slides from CfGSO Intro to Git & GitHub workshop"
-git_branch = "master"
 git_url = "git://github.com/codeforgso/github-workshop.git"
-last_pushed_within = "over_a_year"
 link_url = "https://codeforgso.github.io/github-workshop/#/"
 name = "github-workshop"
+organization_name = "Code for Greensboro"
+
+[github]
+archived = false
+created_at = "2019-03-01T17:55:27Z"
+default_branch = "master"
+description = "Slides from CfGSO Intro to Git & GitHub workshop"
+disabled = false
+fork = true
+forks_within = 10
+full_name = "codeforgso/github-workshop"
+has_downloads = true
+has_issues = false
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "https://codeforgso.github.io/github-workshop/#/"
+id = 173_345_739
+language = "JavaScript"
+name = "github-workshop"
+node_id = "MDEwOlJlcG9zaXRvcnkxNzMzNDU3Mzk="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 11_655_503
+  login = "codeforgso"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjExNjU1NTAz"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
