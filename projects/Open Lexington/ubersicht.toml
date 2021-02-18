@@ -1,7 +1,47 @@
 code_url = "https://github.com/openlexington/ubersicht"
 description = "A dashboard for recent activity on all of a user's or organisation's repos "
-git_branch = "gh-pages"
 git_url = "git://github.com/openlexington/ubersicht.git"
-last_pushed_within = "over_a_year"
 link_url = "http://openlexington.github.io/ubersicht"
 name = "ubersicht"
+organization_name = "Open Lexington"
+
+[github]
+archived = false
+created_at = "2014-02-24T15:21:07Z"
+default_branch = "gh-pages"
+description = "A dashboard for recent activity on all of a user's or organisation's repos "
+disabled = false
+fork = true
+forks_within = 0
+full_name = "openlexington/ubersicht"
+has_downloads = true
+has_issues = false
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "http://openlexington.github.io/ubersicht"
+id = 17_140_302
+language = "JavaScript"
+license = { }
+name = "ubersicht"
+node_id = "MDEwOlJlcG9zaXRvcnkxNzE0MDMwMg=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 253_019
+  login = "openlexington"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI1MzAxOQ=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

@@ -1,7 +1,52 @@
 code_url = "https://github.com/openlexington/awesome-public-datasets"
 description = "An awesome list of high-quality open datasets in public domains (on-going)."
-git_branch = "master"
 git_url = "git://github.com/openlexington/awesome-public-datasets.git"
-last_pushed_within = "over_a_year"
 link_url = "https://goo.gl/WZ8XAJ"
 name = "awesome-public-datasets"
+organization_name = "Open Lexington"
+
+[github]
+archived = false
+created_at = "2016-02-02T19:11:09Z"
+default_branch = "master"
+description = "An awesome list of high-quality open datasets in public domains (on-going)."
+disabled = false
+fork = true
+forks_within = 0
+full_name = "openlexington/awesome-public-datasets"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = false
+homepage = "https://goo.gl/WZ8XAJ"
+id = 50_944_900
+language = { }
+name = "awesome-public-datasets"
+node_id = "MDEwOlJlcG9zaXRvcnk1MDk0NDkwMA=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 253_019
+  login = "openlexington"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI1MzAxOQ=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

@@ -1,6 +1,51 @@
 code_url = "https://github.com/openlexington/cfa-brigade-template"
 description = "CFA Brigade Template"
-git_branch = "master"
 git_url = "git://github.com/openlexington/cfa-brigade-template.git"
-last_pushed_within = "over_a_year"
 name = "cfa-brigade-template"
+organization_name = "Open Lexington"
+
+[github]
+archived = false
+created_at = "2015-11-04T19:14:14Z"
+default_branch = "master"
+description = "CFA Brigade Template"
+disabled = false
+fork = true
+forks_within = 0
+full_name = "openlexington/cfa-brigade-template"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 45_561_446
+language = "HTML"
+name = "cfa-brigade-template"
+node_id = "MDEwOlJlcG9zaXRvcnk0NTU2MTQ0Ng=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "other"
+  name = "Other"
+  node_id = "MDc6TGljZW5zZTA="
+  spdx_id = "NOASSERTION"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 253_019
+  login = "openlexington"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI1MzAxOQ=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

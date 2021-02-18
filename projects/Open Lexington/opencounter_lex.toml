@@ -1,6 +1,46 @@
 code_url = "https://github.com/openlexington/opencounter_lex"
 description = "Lexington KY's implementation of open counter"
-git_branch = "master"
 git_url = "git://github.com/openlexington/opencounter_lex.git"
-last_pushed_within = "over_a_year"
 name = "opencounter_lex"
+organization_name = "Open Lexington"
+
+[github]
+archived = false
+created_at = "2012-11-10T17:47:18Z"
+default_branch = "master"
+description = "Lexington KY's implementation of open counter"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "openlexington/opencounter_lex"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 6_630_466
+language = "Ruby"
+license = { }
+name = "opencounter_lex"
+node_id = "MDEwOlJlcG9zaXRvcnk2NjMwNDY2"
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 253_019
+  login = "openlexington"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI1MzAxOQ=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

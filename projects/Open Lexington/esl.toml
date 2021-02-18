@@ -1,7 +1,52 @@
 code_url = "https://github.com/openlexington/esl"
 description = "A one-page web application to support discovering English As A Second Language (ESL) classes"
-git_branch = "gh-pages"
 git_url = "git://github.com/openlexington/esl.git"
-last_pushed_within = "over_a_year"
 link_url = "http://esl.openlexington.org/"
 name = "esl"
+organization_name = "Open Lexington"
+
+[github]
+archived = false
+created_at = "2015-02-21T06:31:55Z"
+default_branch = "gh-pages"
+description = "A one-page web application to support discovering English As A Second Language (ESL) classes"
+disabled = false
+fork = true
+forks_within = 0
+full_name = "openlexington/esl"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "http://esl.openlexington.org/"
+id = 31_117_524
+language = "JavaScript"
+name = "esl"
+node_id = "MDEwOlJlcG9zaXRvcnkzMTExNzUyNA=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "bsd-3-clause"
+  name = 'BSD 3-Clause "New" or "Revised" License'
+  node_id = "MDc6TGljZW5zZTU="
+  spdx_id = "BSD-3-Clause"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 253_019
+  login = "openlexington"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI1MzAxOQ=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

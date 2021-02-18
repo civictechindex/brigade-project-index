@@ -1,7 +1,47 @@
 code_url = "https://github.com/openlexington/look-at-lex"
 description = "Lexington, Kentucky budget visualization"
-git_branch = "master"
 git_url = "git://github.com/openlexington/look-at-lex.git"
-last_pushed_within = "over_a_year"
 link_url = "http://lookatlex.org"
 name = "look-at-lex"
+organization_name = "Open Lexington"
+
+[github]
+archived = false
+created_at = "2014-02-22T16:33:28Z"
+default_branch = "master"
+description = "Lexington, Kentucky budget visualization"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "openlexington/look-at-lex"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://lookatlex.org"
+id = 17_088_822
+language = "CoffeeScript"
+license = { }
+name = "look-at-lex"
+node_id = "MDEwOlJlcG9zaXRvcnkxNzA4ODgyMg=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 253_019
+  login = "openlexington"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI1MzAxOQ=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

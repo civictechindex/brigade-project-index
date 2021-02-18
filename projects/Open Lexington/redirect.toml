@@ -1,7 +1,52 @@
 code_url = "https://github.com/openlexington/redirect"
 description = "Redirect places."
-git_branch = "master"
 git_url = "git://github.com/openlexington/redirect.git"
-last_pushed_within = "over_a_year"
 link_url = "http://c4a.me"
 name = "redirect"
+organization_name = "Open Lexington"
+
+[github]
+archived = false
+created_at = "2016-01-07T15:46:20Z"
+default_branch = "master"
+description = "Redirect places."
+disabled = false
+fork = true
+forks_within = 0
+full_name = "openlexington/redirect"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://c4a.me"
+id = 49_213_720
+language = "JavaScript"
+name = "redirect"
+node_id = "MDEwOlJlcG9zaXRvcnk0OTIxMzcyMA=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 253_019
+  login = "openlexington"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI1MzAxOQ=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

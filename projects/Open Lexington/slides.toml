@@ -1,6 +1,46 @@
 code_url = "https://github.com/openlexington/slides"
 description = "Keynote; PowerPoint slides form OpenLexington"
-git_branch = "master"
 git_url = "git://github.com/openlexington/slides.git"
-last_pushed_within = "over_a_year"
 name = "slides"
+organization_name = "Open Lexington"
+
+[github]
+archived = false
+created_at = "2010-07-09T04:04:50Z"
+default_branch = "master"
+description = "Keynote; PowerPoint slides form OpenLexington"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "openlexington/slides"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 765_250
+language = { }
+license = { }
+name = "slides"
+node_id = "MDEwOlJlcG9zaXRvcnk3NjUyNTA="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 253_019
+  login = "openlexington"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI1MzAxOQ=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

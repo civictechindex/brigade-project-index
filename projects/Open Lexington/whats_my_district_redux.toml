@@ -1,7 +1,52 @@
 code_url = "https://github.com/openlexington/whats_my_district_redux"
 description = "A remake of Whatsmydistrict.org, fully client side."
-git_branch = "master"
 git_url = "git://github.com/openlexington/whats_my_district_redux.git"
-last_pushed_within = "month"
 link_url = "http://whatsmydistrict.org"
 name = "whats_my_district_redux"
+organization_name = "Open Lexington"
+
+[github]
+archived = false
+created_at = "2015-03-06T20:50:55Z"
+default_branch = "master"
+description = "A remake of Whatsmydistrict.org, fully client side."
+disabled = false
+fork = true
+forks_within = 10
+full_name = "openlexington/whats_my_district_redux"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "http://whatsmydistrict.org"
+id = 31_788_517
+language = "JavaScript"
+name = "whats_my_district_redux"
+node_id = "MDEwOlJlcG9zaXRvcnkzMTc4ODUxNw=="
+open_issues_within = 10
+private = false
+pushed_within = "year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 253_019
+  login = "openlexington"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI1MzAxOQ=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

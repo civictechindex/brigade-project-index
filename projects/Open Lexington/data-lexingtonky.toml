@@ -1,7 +1,47 @@
 code_url = "https://github.com/openlexington/data-lexingtonky"
 description = "Site content for Lexington's Open Data Portal"
-git_branch = "master"
 git_url = "git://github.com/openlexington/data-lexingtonky.git"
-last_pushed_within = "over_a_year"
 link_url = "http://data.lexingtonky.gov"
 name = "data-lexingtonky"
+organization_name = "Open Lexington"
+
+[github]
+archived = false
+created_at = "2014-04-08T23:47:07Z"
+default_branch = "master"
+description = "Site content for Lexington's Open Data Portal"
+disabled = false
+fork = true
+forks_within = 0
+full_name = "openlexington/data-lexingtonky"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://data.lexingtonky.gov"
+id = 18_578_892
+language = "CSS"
+license = { }
+name = "data-lexingtonky"
+node_id = "MDEwOlJlcG9zaXRvcnkxODU3ODg5Mg=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 253_019
+  login = "openlexington"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI1MzAxOQ=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

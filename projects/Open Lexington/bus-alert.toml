@@ -1,6 +1,46 @@
 code_url = "https://github.com/openlexington/bus-alert"
 description = "Lexington mobile app to remind you when your bus is approaching"
-git_branch = "master"
 git_url = "git://github.com/openlexington/bus-alert.git"
-last_pushed_within = "over_a_year"
 name = "bus-alert"
+organization_name = "Open Lexington"
+
+[github]
+archived = false
+created_at = "2013-06-01T22:55:45Z"
+default_branch = "master"
+description = "Lexington mobile app to remind you when your bus is approaching"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "openlexington/bus-alert"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 10_429_591
+language = "Ruby"
+license = { }
+name = "bus-alert"
+node_id = "MDEwOlJlcG9zaXRvcnkxMDQyOTU5MQ=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 253_019
+  login = "openlexington"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI1MzAxOQ=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

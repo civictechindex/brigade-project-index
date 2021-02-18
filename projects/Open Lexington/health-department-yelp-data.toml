@@ -1,7 +1,47 @@
 code_url = "https://github.com/openlexington/health-department-yelp-data"
 description = "This repo holds the health scores in LIVES format that Yelp uses"
-git_branch = "gh-pages"
 git_url = "git://github.com/openlexington/health-department-yelp-data.git"
-last_pushed_within = "over_a_year"
 link_url = "http://lives.openlexington.org/"
 name = "health-department-yelp-data"
+organization_name = "Open Lexington"
+
+[github]
+archived = false
+created_at = "2016-03-05T18:54:20Z"
+default_branch = "gh-pages"
+description = "This repo holds the health scores in LIVES format that Yelp uses"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "openlexington/health-department-yelp-data"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "http://lives.openlexington.org/"
+id = 53_217_669
+language = "HTML"
+license = { }
+name = "health-department-yelp-data"
+node_id = "MDEwOlJlcG9zaXRvcnk1MzIxNzY2OQ=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 253_019
+  login = "openlexington"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI1MzAxOQ=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

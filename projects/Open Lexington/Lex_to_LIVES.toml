@@ -1,7 +1,47 @@
 code_url = "https://github.com/openlexington/Lex_to_LIVES"
 description = "Lexington Health Dept. Health Inspection data to LIVES format"
-git_branch = "master"
 git_url = "git://github.com/openlexington/Lex_to_LIVES.git"
-last_pushed_within = "over_a_year"
 link_url = "http://lives.openlexington.org"
 name = "Lex_to_LIVES"
+organization_name = "Open Lexington"
+
+[github]
+archived = false
+created_at = "2013-02-23T20:08:47Z"
+default_branch = "master"
+description = "Lexington Health Dept. Health Inspection data to LIVES format"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "openlexington/Lex_to_LIVES"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://lives.openlexington.org"
+id = 8_381_139
+language = "Ruby"
+license = { }
+name = "Lex_to_LIVES"
+node_id = "MDEwOlJlcG9zaXRvcnk4MzgxMTM5"
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 253_019
+  login = "openlexington"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI1MzAxOQ=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

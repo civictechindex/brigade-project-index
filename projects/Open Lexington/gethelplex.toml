@@ -1,7 +1,52 @@
 code_url = "https://github.com/openlexington/gethelplex"
 description = "Substance use treatment locator for Lexington, KY"
-git_branch = "gh-pages"
 git_url = "git://github.com/openlexington/gethelplex.git"
-last_pushed_within = "over_a_year"
 link_url = "http://gethelplex.org"
 name = "gethelplex"
+organization_name = "Open Lexington"
+
+[github]
+archived = false
+created_at = "2015-06-02T15:45:28Z"
+default_branch = "gh-pages"
+description = "Substance use treatment locator for Lexington, KY"
+disabled = false
+fork = true
+forks_within = 100
+full_name = "openlexington/gethelplex"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "http://gethelplex.org"
+id = 36_743_730
+language = "JavaScript"
+name = "gethelplex"
+node_id = "MDEwOlJlcG9zaXRvcnkzNjc0MzczMA=="
+open_issues_within = 100
+private = false
+pushed_within = "year"
+stargazers_within = 100
+topics = [ ]
+updated_within = "month"
+watchers_within = 100
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 253_019
+  login = "openlexington"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI1MzAxOQ=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

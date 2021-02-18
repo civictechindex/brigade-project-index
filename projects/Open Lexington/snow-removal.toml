@@ -1,7 +1,52 @@
 code_url = "https://github.com/openlexington/snow-removal"
 description = "Web map to display snow removal priorities for the City of Lexington"
-git_branch = "gh-pages"
 git_url = "git://github.com/openlexington/snow-removal.git"
-last_pushed_within = "over_a_year"
 link_url = "http://lfucg.github.io/snow-removal"
 name = "snow-removal"
+organization_name = "Open Lexington"
+
+[github]
+archived = false
+created_at = "2015-03-05T22:17:01Z"
+default_branch = "gh-pages"
+description = "Web map to display snow removal priorities for the City of Lexington"
+disabled = false
+fork = true
+forks_within = 0
+full_name = "openlexington/snow-removal"
+has_downloads = true
+has_issues = false
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "http://lfucg.github.io/snow-removal"
+id = 31_739_676
+language = "HTML"
+name = "snow-removal"
+node_id = "MDEwOlJlcG9zaXRvcnkzMTczOTY3Ng=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 253_019
+  login = "openlexington"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI1MzAxOQ=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

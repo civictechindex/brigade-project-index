@@ -1,6 +1,46 @@
 code_url = "https://github.com/openlexington/blogposts"
 description = "article ideas and text"
-git_branch = "master"
 git_url = "git://github.com/openlexington/blogposts.git"
-last_pushed_within = "over_a_year"
 name = "blogposts"
+organization_name = "Open Lexington"
+
+[github]
+archived = false
+created_at = "2010-06-16T00:14:00Z"
+default_branch = "master"
+description = "article ideas and text"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "openlexington/blogposts"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 723_182
+language = { }
+license = { }
+name = "blogposts"
+node_id = "MDEwOlJlcG9zaXRvcnk3MjMxODI="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 253_019
+  login = "openlexington"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI1MzAxOQ=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
