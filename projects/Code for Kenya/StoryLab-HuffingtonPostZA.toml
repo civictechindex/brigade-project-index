@@ -1,10 +1,9 @@
 code_url = "https://github.com/CodeForAfrica/StoryLab-HuffingtonPostZA"
 description = "Hosting solution for beautiful stories created using Shorthand for HuffingtonPost ZA. Accessible at http://stories.huffingtonpost.co.za/"
-git_branch = "master"
 git_url = "git://github.com/CodeForAfrica/StoryLab-HuffingtonPostZA.git"
-last_pushed_within = "over_a_year"
 link_url = "http://stories.huffingtonpost.co.za"
 name = "StoryLab-HuffingtonPostZA"
+organization_name = "Code for Kenya"
 topics = [
   "africa",
   "code-for-africa",
@@ -14,3 +13,57 @@ topics = [
   "story-lab",
   "storylab"
 ]
+
+[github]
+archived = false
+created_at = "2017-03-28T14:03:30Z"
+default_branch = "master"
+description = "Hosting solution for beautiful stories created using Shorthand for HuffingtonPost ZA. Accessible at http://stories.huffingtonpost.co.za/"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "CodeForAfrica/StoryLab-HuffingtonPostZA"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "http://stories.huffingtonpost.co.za"
+id = 86_467_161
+language = "HTML"
+name = "StoryLab-HuffingtonPostZA"
+node_id = "MDEwOlJlcG9zaXRvcnk4NjQ2NzE2MQ=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [
+  "africa",
+  "code-for-africa",
+  "huffington-post",
+  "shorthand",
+  "south-africa",
+  "story-lab",
+  "storylab"
+]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "gpl-3.0"
+  name = "GNU General Public License v3.0"
+  node_id = "MDc6TGljZW5zZTk="
+  spdx_id = "GPL-3.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_786_364
+  login = "CodeForAfrica"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI3ODYzNjQ="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

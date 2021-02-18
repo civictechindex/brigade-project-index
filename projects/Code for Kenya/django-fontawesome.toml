@@ -1,6 +1,51 @@
 code_url = "https://github.com/CodeForAfrica/django-fontawesome"
 description = "a django app that provides a couple of fontawesome/django related utilities"
-git_branch = "master"
 git_url = "git://github.com/CodeForAfrica/django-fontawesome.git"
-last_pushed_within = "over_a_year"
 name = "django-fontawesome"
+organization_name = "Code for Kenya"
+
+[github]
+archived = false
+created_at = "2018-06-29T09:43:04Z"
+default_branch = "master"
+description = "a django app that provides a couple of fontawesome/django related utilities"
+disabled = false
+fork = true
+forks_within = 10
+full_name = "CodeForAfrica/django-fontawesome"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 139_131_501
+language = "CSS"
+name = "django-fontawesome"
+node_id = "MDEwOlJlcG9zaXRvcnkxMzkxMzE1MDE="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "bsd-2-clause"
+  name = 'BSD 2-Clause "Simplified" License'
+  node_id = "MDc6TGljZW5zZTQ="
+  spdx_id = "BSD-2-Clause"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_786_364
+  login = "CodeForAfrica"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI3ODYzNjQ="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

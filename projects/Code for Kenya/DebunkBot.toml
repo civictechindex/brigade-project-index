@@ -1,10 +1,9 @@
 code_url = "https://github.com/CodeForAfrica/DebunkBot"
 description = "A bot that debunks claims shared on social media by sharing a fact check. Powered by Google Sheets and the rains in Africa. Accessible at https://debunkbot.codeforafrica.org/"
-git_branch = "master"
 git_url = "git://github.com/CodeForAfrica/DebunkBot.git"
-last_pushed_within = "month"
-link_url = "https://debunkbot.codeforafrica.org/"
+link_url = "https://twitter.com/DebunkBotAfrica"
 name = "DebunkBot"
+organization_name = "Code for Kenya"
 topics = [
   "africa",
   "bot",
@@ -14,3 +13,57 @@ topics = [
   "python",
   "socialmedia"
 ]
+
+[github]
+archived = false
+created_at = "2019-08-16T06:50:27Z"
+default_branch = "master"
+description = "A bot that debunks claims shared on social media by sharing a fact check. Powered by Google Sheets and the rains in Africa. Accessible at https://debunkbot.codeforafrica.org/"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "CodeForAfrica/DebunkBot"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "https://twitter.com/DebunkBotAfrica"
+id = 202_674_459
+language = "Python"
+name = "DebunkBot"
+node_id = "MDEwOlJlcG9zaXRvcnkyMDI2NzQ0NTk="
+open_issues_within = 10
+private = false
+pushed_within = "month"
+stargazers_within = 10
+topics = [
+  "africa",
+  "bot",
+  "claims",
+  "debunk",
+  "factcheck",
+  "python",
+  "socialmedia"
+]
+updated_within = "year"
+watchers_within = 10
+
+  [github.license]
+  key = "gpl-3.0"
+  name = "GNU General Public License v3.0"
+  node_id = "MDc6TGljZW5zZTk="
+  spdx_id = "GPL-3.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_786_364
+  login = "CodeForAfrica"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI3ODYzNjQ="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

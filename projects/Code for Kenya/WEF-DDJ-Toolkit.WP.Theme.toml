@@ -1,7 +1,47 @@
 code_url = "https://github.com/CodeForAfrica/WEF-DDJ-Toolkit.WP.Theme"
 description = "A Wordpress child theme to style the World Editors Forum Data Journalism Toolkit. Accessible at https://wefddjtoolkit.wpengine.com/"
-git_branch = "master"
 git_url = "git://github.com/CodeForAfrica/WEF-DDJ-Toolkit.WP.Theme.git"
-last_pushed_within = "over_a_year"
 link_url = "https://wefddjtoolkit.wpengine.com/"
 name = "WEF-DDJ-Toolkit.WP.Theme"
+organization_name = "Code for Kenya"
+
+[github]
+archived = false
+created_at = "2015-04-09T17:30:42Z"
+default_branch = "master"
+description = "A Wordpress child theme to style the World Editors Forum Data Journalism Toolkit. Accessible at https://wefddjtoolkit.wpengine.com/"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "CodeForAfrica/WEF-DDJ-Toolkit.WP.Theme"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "https://wefddjtoolkit.wpengine.com/"
+id = 33_682_819
+language = "PHP"
+license = { }
+name = "WEF-DDJ-Toolkit.WP.Theme"
+node_id = "MDEwOlJlcG9zaXRvcnkzMzY4MjgxOQ=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_786_364
+  login = "CodeForAfrica"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI3ODYzNjQ="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

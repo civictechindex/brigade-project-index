@@ -1,10 +1,9 @@
 code_url = "https://github.com/CodeForAfrica/sourceAFRICA.app-Briefcase"
 description = "A simple Jekyll powered website to allow showcase and search of documents hosted on sourceAFRICA's DocumentCloud platforms. Accessible at https://sourceafrica.net/"
-git_branch = "master"
 git_url = "git://github.com/CodeForAfrica/sourceAFRICA.app-Briefcase.git"
-last_pushed_within = "over_a_year"
 link_url = "https://sourceafrica.net/"
 name = "sourceAFRICA.app-Briefcase"
+organization_name = "Code for Kenya"
 topics = [
   "africa",
   "briefcase",
@@ -14,3 +13,57 @@ topics = [
   "jekyll",
   "sourceafrica"
 ]
+
+[github]
+archived = false
+created_at = "2016-04-29T05:02:33Z"
+default_branch = "master"
+description = "A simple Jekyll powered website to allow showcase and search of documents hosted on sourceAFRICA's DocumentCloud platforms. Accessible at https://sourceafrica.net/"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "CodeForAfrica/sourceAFRICA.app-Briefcase"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "https://sourceafrica.net/"
+id = 57_355_861
+language = "HTML"
+name = "sourceAFRICA.app-Briefcase"
+node_id = "MDEwOlJlcG9zaXRvcnk1NzM1NTg2MQ=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [
+  "africa",
+  "briefcase",
+  "documentcloud",
+  "documentcloud-api",
+  "documents",
+  "jekyll",
+  "sourceafrica"
+]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "gpl-3.0"
+  name = "GNU General Public License v3.0"
+  node_id = "MDc6TGljZW5zZTk="
+  spdx_id = "GPL-3.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_786_364
+  login = "CodeForAfrica"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI3ODYzNjQ="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

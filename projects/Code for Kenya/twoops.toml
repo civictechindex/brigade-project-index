@@ -1,7 +1,47 @@
 code_url = "https://github.com/CodeForAfrica/twoops"
 description = "Track deleted tweets from public figures"
-git_branch = "master"
 git_url = "git://github.com/CodeForAfrica/twoops.git"
-last_pushed_within = "over_a_year"
 link_url = "https://twoops.codeforafrica.tech/"
 name = "twoops"
+organization_name = "Code for Kenya"
+
+[github]
+archived = false
+created_at = "2016-07-28T13:48:27Z"
+default_branch = "master"
+description = "Track deleted tweets from public figures"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "CodeForAfrica/twoops"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "https://twoops.codeforafrica.tech/"
+id = 64_399_264
+language = "Python"
+license = { }
+name = "twoops"
+node_id = "MDEwOlJlcG9zaXRvcnk2NDM5OTI2NA=="
+open_issues_within = 100
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_786_364
+  login = "CodeForAfrica"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI3ODYzNjQ="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

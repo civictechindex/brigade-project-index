@@ -1,0 +1,48 @@
+code_url = "https://github.com/CodeForAfrica/Data4SDGs-AQ-Map"
+description = "The map showing data from air quality sensors deployed across the continent by a variety of projects and government agencies."
+git_url = "git://github.com/CodeForAfrica/Data4SDGs-AQ-Map.git"
+link_url = "https://map.data4sdgs.sensors.africa"
+name = "Data4SDGs-AQ-Map"
+organization_name = "Code for Kenya"
+topics = [ "air", "air-quality", "map", "sensor" ]
+
+[github]
+archived = false
+created_at = "2020-09-02T09:30:34Z"
+default_branch = "main"
+description = "The map showing data from air quality sensors deployed across the continent by a variety of projects and government agencies."
+disabled = false
+fork = false
+forks_within = 0
+full_name = "CodeForAfrica/Data4SDGs-AQ-Map"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "https://map.data4sdgs.sensors.africa"
+id = 292_239_129
+language = "JavaScript"
+license = { }
+name = "Data4SDGs-AQ-Map"
+node_id = "MDEwOlJlcG9zaXRvcnkyOTIyMzkxMjk="
+open_issues_within = 0
+private = false
+pushed_within = "week"
+stargazers_within = 0
+topics = [ "air", "air-quality", "map", "sensor" ]
+updated_within = "week"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_786_364
+  login = "CodeForAfrica"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI3ODYzNjQ="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

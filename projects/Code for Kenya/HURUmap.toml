@@ -1,10 +1,9 @@
 code_url = "https://github.com/CodeForAfrica/HURUmap"
 description = "HURUmap is an interactive web platform that allows citizens and journalists to explore, visualise, and download census data. This gives them the power to give context to stories that was otherwise hard to spot. Accessible at https://hurumap.org"
-git_branch = "master"
 git_url = "git://github.com/CodeForAfrica/HURUmap.git"
-last_pushed_within = "over_a_year"
 link_url = "https://hurumap.org"
 name = "HURUmap"
+organization_name = "Code for Kenya"
 topics = [
   "africa",
   "census",
@@ -25,3 +24,68 @@ topics = [
   "wazimap",
   "zambia"
 ]
+
+[github]
+archived = false
+created_at = "2018-05-19T14:36:56Z"
+default_branch = "master"
+description = "HURUmap is an interactive web platform that allows citizens and journalists to explore, visualise, and download census data. This gives them the power to give context to stories that was otherwise hard to spot. Accessible at https://hurumap.org"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "CodeForAfrica/HURUmap"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "https://hurumap.org"
+id = 134_069_925
+language = "HTML"
+name = "HURUmap"
+node_id = "MDEwOlJlcG9zaXRvcnkxMzQwNjk5MjU="
+open_issues_within = 100
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [
+  "africa",
+  "census",
+  "citizens",
+  "dashboard",
+  "django",
+  "django-apps",
+  "geo-datasets",
+  "geographies",
+  "hurumap",
+  "journalists",
+  "kenya",
+  "nigeria",
+  "python",
+  "south-africa",
+  "tanzania",
+  "uganda",
+  "wazimap",
+  "zambia"
+]
+updated_within = "year"
+watchers_within = 10
+
+  [github.license]
+  key = "gpl-3.0"
+  name = "GNU General Public License v3.0"
+  node_id = "MDc6TGljZW5zZTk="
+  spdx_id = "GPL-3.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_786_364
+  login = "CodeForAfrica"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI3ODYzNjQ="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

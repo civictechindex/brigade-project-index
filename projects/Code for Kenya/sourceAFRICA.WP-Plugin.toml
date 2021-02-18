@@ -1,7 +1,52 @@
 code_url = "https://github.com/CodeForAfrica/sourceAFRICA.WP-Plugin"
 description = "A Wordpress plugin to that makes it easy to embed sourceAFRICA documents that won't be eaten by the visual editor. sourceAFRICA is accessible at https://sourceafrica.net"
-git_branch = "master"
 git_url = "git://github.com/CodeForAfrica/sourceAFRICA.WP-Plugin.git"
-last_pushed_within = "over_a_year"
 link_url = "https://sourceafrica.net"
 name = "sourceAFRICA.WP-Plugin"
+organization_name = "Code for Kenya"
+
+[github]
+archived = false
+created_at = "2015-05-07T08:28:22Z"
+default_branch = "master"
+description = "A Wordpress plugin to that makes it easy to embed sourceAFRICA documents that won't be eaten by the visual editor. sourceAFRICA is accessible at https://sourceafrica.net"
+disabled = false
+fork = true
+forks_within = 0
+full_name = "CodeForAfrica/sourceAFRICA.WP-Plugin"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "https://sourceafrica.net"
+id = 35_208_152
+language = "PHP"
+name = "sourceAFRICA.WP-Plugin"
+node_id = "MDEwOlJlcG9zaXRvcnkzNTIwODE1Mg=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "gpl-2.0"
+  name = "GNU General Public License v2.0"
+  node_id = "MDc6TGljZW5zZTg="
+  spdx_id = "GPL-2.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_786_364
+  login = "CodeForAfrica"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI3ODYzNjQ="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

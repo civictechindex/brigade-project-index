@@ -1,10 +1,9 @@
 code_url = "https://github.com/CodeForAfrica/TenderBlacklist.ZA"
 description = "Search companies blacklisted by National Treasury in South Africa. Accessible to https://tenderblacklist-za.codeforafrica.org/"
-git_branch = "master"
 git_url = "git://github.com/CodeForAfrica/TenderBlacklist.ZA.git"
-last_pushed_within = "over_a_year"
 link_url = "https://tenderblacklist-za.codeforafrica.org/"
 name = "TenderBlacklist.ZA"
+organization_name = "Code for Kenya"
 topics = [
   "africa",
   "blacklist",
@@ -14,3 +13,57 @@ topics = [
   "south-africa",
   "tenders"
 ]
+
+[github]
+archived = false
+created_at = "2017-04-01T09:12:28Z"
+default_branch = "master"
+description = "Search companies blacklisted by National Treasury in South Africa. Accessible to https://tenderblacklist-za.codeforafrica.org/"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "CodeForAfrica/TenderBlacklist.ZA"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "https://tenderblacklist-za.codeforafrica.org/"
+id = 86_901_022
+language = "HTML"
+name = "TenderBlacklist.ZA"
+node_id = "MDEwOlJlcG9zaXRvcnk4NjkwMTAyMg=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [
+  "africa",
+  "blacklist",
+  "civic-tech",
+  "code-for-africa",
+  "government",
+  "south-africa",
+  "tenders"
+]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "gpl-3.0"
+  name = "GNU General Public License v3.0"
+  node_id = "MDc6TGljZW5zZTk="
+  spdx_id = "GPL-3.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_786_364
+  login = "CodeForAfrica"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI3ODYzNjQ="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

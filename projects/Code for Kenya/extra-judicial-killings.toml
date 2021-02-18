@@ -1,6 +1,46 @@
 code_url = "https://github.com/CodeForAfrica/extra-judicial-killings"
 description = "A visualization of extra judicial killing cases in Kenya"
-git_branch = "gh-pages"
 git_url = "git://github.com/CodeForAfrica/extra-judicial-killings.git"
-last_pushed_within = "over_a_year"
 name = "extra-judicial-killings"
+organization_name = "Code for Kenya"
+
+[github]
+archived = false
+created_at = "2016-07-21T08:55:30Z"
+default_branch = "gh-pages"
+description = "A visualization of extra judicial killing cases in Kenya"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "CodeForAfrica/extra-judicial-killings"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 63_853_431
+language = "CSS"
+license = { }
+name = "extra-judicial-killings"
+node_id = "MDEwOlJlcG9zaXRvcnk2Mzg1MzQzMQ=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_786_364
+  login = "CodeForAfrica"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI3ODYzNjQ="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

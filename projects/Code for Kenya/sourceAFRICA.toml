@@ -1,15 +1,67 @@
 code_url = "https://github.com/CodeForAfrica/sourceAFRICA"
 description = "sourceAFRICA is the continent's largest repository of documentary evidence and other \"actionable documents\" from investigative journalists and civic watchdogs. Forked from DocumentCloud.org, and built on the Ruby on Rails framework, the project is accessible here: https://sourceafrica.net/"
-git_branch = "master"
 git_url = "git://github.com/CodeForAfrica/sourceAFRICA.git"
-last_pushed_within = "over_a_year"
 link_url = "https://sourceafrica.net"
 name = "sourceAFRICA"
+organization_name = "Code for Kenya"
 topics = [
   "africa",
   "connectedafrica",
   "document-repository",
   "documents",
-  "source-documents",
-  "sourceafrica"
+  "sourceafrica",
+  "source-documents"
 ]
+
+[github]
+archived = false
+created_at = "2014-10-23T15:24:43Z"
+default_branch = "master"
+description = "sourceAFRICA is the continent's largest repository of documentary evidence and other \"actionable documents\" from investigative journalists and civic watchdogs. Forked from DocumentCloud.org, and built on the Ruby on Rails framework, the project is accessible here: https://sourceafrica.net/"
+disabled = false
+fork = true
+forks_within = 10
+full_name = "CodeForAfrica/sourceAFRICA"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "https://sourceafrica.net"
+id = 25_643_851
+language = "Ruby"
+name = "sourceAFRICA"
+node_id = "MDEwOlJlcG9zaXRvcnkyNTY0Mzg1MQ=="
+open_issues_within = 100
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [
+  "africa",
+  "connectedafrica",
+  "document-repository",
+  "documents",
+  "sourceafrica",
+  "source-documents"
+]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "other"
+  name = "Other"
+  node_id = "MDc6TGljZW5zZTA="
+  spdx_id = "NOASSERTION"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_786_364
+  login = "CodeForAfrica"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI3ODYzNjQ="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

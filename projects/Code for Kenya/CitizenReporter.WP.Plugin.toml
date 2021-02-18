@@ -1,7 +1,52 @@
 code_url = "https://github.com/CodeForAfrica/CitizenReporter.WP.Plugin"
 description = "The CitizenReporter Wordpress plugin that gives you a dashboard to use with the CitizenReporter mobile application. Demo is available here: http://citizenreporter.codeforafrica.net/"
-git_branch = "master"
 git_url = "git://github.com/CodeForAfrica/CitizenReporter.WP.Plugin.git"
-last_pushed_within = "over_a_year"
 link_url = "http://citizenreporter.codeforafrica.net/"
 name = "CitizenReporter.WP.Plugin"
+organization_name = "Code for Kenya"
+
+[github]
+archived = false
+created_at = "2015-08-27T11:40:23Z"
+default_branch = "master"
+description = "The CitizenReporter Wordpress plugin that gives you a dashboard to use with the CitizenReporter mobile application. Demo is available here: http://citizenreporter.codeforafrica.net/"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "CodeForAfrica/CitizenReporter.WP.Plugin"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://citizenreporter.codeforafrica.net/"
+id = 41_483_376
+language = "PHP"
+name = "CitizenReporter.WP.Plugin"
+node_id = "MDEwOlJlcG9zaXRvcnk0MTQ4MzM3Ng=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "gpl-2.0"
+  name = "GNU General Public License v2.0"
+  node_id = "MDc6TGljZW5zZTg="
+  spdx_id = "GPL-2.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_786_364
+  login = "CodeForAfrica"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI3ODYzNjQ="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

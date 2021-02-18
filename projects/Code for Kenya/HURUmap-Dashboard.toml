@@ -1,13 +1,63 @@
 code_url = "https://github.com/CodeForAfrica/HURUmap-Dashboard"
 description = "Wordpress-powered backend for HURUmap powered applications. Includes chart creation tools, snippets manager, Gutenberg blocks for WYSIWYG editorial interface, and elasticsearch integration. Main site accessible at https://hurumap.wpengine.com/"
-git_branch = "master"
 git_url = "git://github.com/CodeForAfrica/HURUmap-Dashboard.git"
-last_pushed_within = "year"
 link_url = "https://hurumap.wpengine.com"
 name = "HURUmap-Dashboard"
+organization_name = "Code for Kenya"
 topics = [
   "hurumap",
   "hurumap-charts",
   "hurumap-dashboard",
   "hurumap-wordpress"
 ]
+
+[github]
+archived = false
+created_at = "2020-03-20T08:19:20Z"
+default_branch = "master"
+description = "Wordpress-powered backend for HURUmap powered applications. Includes chart creation tools, snippets manager, Gutenberg blocks for WYSIWYG editorial interface, and elasticsearch integration. Main site accessible at https://hurumap.wpengine.com/"
+disabled = false
+fork = true
+forks_within = 0
+full_name = "CodeForAfrica/HURUmap-Dashboard"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "https://hurumap.wpengine.com"
+id = 248_702_714
+language = "PHP"
+name = "HURUmap-Dashboard"
+node_id = "MDEwOlJlcG9zaXRvcnkyNDg3MDI3MTQ="
+open_issues_within = 10
+private = false
+pushed_within = "week"
+stargazers_within = 0
+topics = [
+  "hurumap",
+  "hurumap-charts",
+  "hurumap-dashboard",
+  "hurumap-wordpress"
+]
+updated_within = "week"
+watchers_within = 0
+
+  [github.license]
+  key = "gpl-3.0"
+  name = "GNU General Public License v3.0"
+  node_id = "MDc6TGljZW5zZTk="
+  spdx_id = "GPL-3.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_786_364
+  login = "CodeForAfrica"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI3ODYzNjQ="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
