@@ -1,5 +1,45 @@
 code_url = "https://github.com/codefortomorrow/food-api"
-git_branch = "master"
 git_url = "git://github.com/codefortomorrow/food-api.git"
-last_pushed_within = "over_a_year"
 name = "food-api"
+organization_name = "Code for Tomorrow"
+
+[github]
+archived = false
+created_at = "2013-10-29T09:45:49Z"
+default_branch = "master"
+description = { }
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codefortomorrow/food-api"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 13_951_812
+language = "Ruby"
+license = { }
+name = "food-api"
+node_id = "MDEwOlJlcG9zaXRvcnkxMzk1MTgxMg=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 3_481_908
+  login = "codefortomorrow"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM0ODE5MDg="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

@@ -1,6 +1,46 @@
 code_url = "https://github.com/codefortomorrow/DecodeRecipePublic"
 description = "The public repository for the decode-recipe project of CodeForTomorrow"
-git_branch = "master"
 git_url = "git://github.com/codefortomorrow/DecodeRecipePublic.git"
-last_pushed_within = "over_a_year"
 name = "DecodeRecipePublic"
+organization_name = "Code for Tomorrow"
+
+[github]
+archived = false
+created_at = "2014-03-22T03:35:21Z"
+default_branch = "master"
+description = "The public repository for the decode-recipe project of CodeForTomorrow"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "codefortomorrow/DecodeRecipePublic"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 18_001_328
+language = { }
+license = { }
+name = "DecodeRecipePublic"
+node_id = "MDEwOlJlcG9zaXRvcnkxODAwMTMyOA=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 3_481_908
+  login = "codefortomorrow"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM0ODE5MDg="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

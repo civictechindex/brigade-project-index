@@ -1,7 +1,47 @@
 code_url = "https://github.com/codefortomorrow/data-science-program"
 description = "本計畫將透過對開放的生活資料收集、處理、分析、視覺化呈現、故事形塑、擬定行動的過程，分門規劃，引發社會各界對資料科學的興趣，從中培養對應人才，最終回饋於社會。"
-git_branch = "master"
 git_url = "git://github.com/codefortomorrow/data-science-program.git"
-last_pushed_within = "over_a_year"
 link_url = "http://datasci.co/"
 name = "data-science-program"
+organization_name = "Code for Tomorrow"
+
+[github]
+archived = false
+created_at = "2013-12-23T14:24:45Z"
+default_branch = "master"
+description = "本計畫將透過對開放的生活資料收集、處理、分析、視覺化呈現、故事形塑、擬定行動的過程，分門規劃，引發社會各界對資料科學的興趣，從中培養對應人才，最終回饋於社會。"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codefortomorrow/data-science-program"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://datasci.co/"
+id = 15_397_092
+language = { }
+license = { }
+name = "data-science-program"
+node_id = "MDEwOlJlcG9zaXRvcnkxNTM5NzA5Mg=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 3_481_908
+  login = "codefortomorrow"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM0ODE5MDg="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

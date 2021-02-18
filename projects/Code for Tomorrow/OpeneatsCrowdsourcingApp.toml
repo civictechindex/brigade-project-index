@@ -1,6 +1,46 @@
 code_url = "https://github.com/codefortomorrow/OpeneatsCrowdsourcingApp"
 description = "The app is used to scan barcode and take the product pictures for collecting food data."
-git_branch = "master"
 git_url = "git://github.com/codefortomorrow/OpeneatsCrowdsourcingApp.git"
-last_pushed_within = "over_a_year"
 name = "OpeneatsCrowdsourcingApp"
+organization_name = "Code for Tomorrow"
+
+[github]
+archived = false
+created_at = "2013-12-14T14:36:05Z"
+default_branch = "master"
+description = "The app is used to scan barcode and take the product pictures for collecting food data."
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codefortomorrow/OpeneatsCrowdsourcingApp"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 15_186_910
+language = "Java"
+license = { }
+name = "OpeneatsCrowdsourcingApp"
+node_id = "MDEwOlJlcG9zaXRvcnkxNTE4NjkxMA=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 100
+topics = [ ]
+updated_within = "year"
+watchers_within = 100
+
+  [github.owner]
+  gravatar_id = ""
+  id = 3_481_908
+  login = "codefortomorrow"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM0ODE5MDg="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

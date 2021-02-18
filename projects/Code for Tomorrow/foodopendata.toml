@@ -1,7 +1,47 @@
 code_url = "https://github.com/codefortomorrow/foodopendata"
 description = "開放食庫計畫的網站"
-git_branch = "master"
 git_url = "git://github.com/codefortomorrow/foodopendata.git"
-last_pushed_within = "year"
 link_url = "http://food.codefortomorrow.org"
 name = "foodopendata"
+organization_name = "Code for Tomorrow"
+
+[github]
+archived = false
+created_at = "2013-09-13T00:22:48Z"
+default_branch = "master"
+description = "開放食庫計畫的網站"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codefortomorrow/foodopendata"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "http://food.codefortomorrow.org"
+id = 12_797_928
+language = "Ruby"
+license = { }
+name = "foodopendata"
+node_id = "MDEwOlJlcG9zaXRvcnkxMjc5NzkyOA=="
+open_issues_within = 10
+private = false
+pushed_within = "year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 3_481_908
+  login = "codefortomorrow"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM0ODE5MDg="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
