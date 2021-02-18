@@ -1,10 +1,9 @@
 code_url = "https://github.com/code4romania/redirectioneaza"
 description = "Helping NGOs collect the 230 tax form"
-git_branch = "master"
 git_url = "git://github.com/code4romania/redirectioneaza.git"
-last_pushed_within = "year"
 link_url = "https://redirectioneaza.ro/"
 name = "redirectioneaza"
+organization_name = "Code for Romania: Iasi Chapter"
 topics = [
   "civic-hacking",
   "civic-tech",
@@ -14,3 +13,57 @@ topics = [
   "python27",
   "webapp"
 ]
+
+[github]
+archived = false
+created_at = "2018-03-15T19:34:14Z"
+default_branch = "custom-subdomains"
+description = "Helping NGOs collect the 230 tax form"
+disabled = false
+fork = false
+forks_within = 100
+full_name = "code4romania/redirectioneaza"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "https://redirectioneaza.ro/"
+id = 125_417_219
+language = "HTML"
+name = "redirectioneaza"
+node_id = "MDEwOlJlcG9zaXRvcnkxMjU0MTcyMTk="
+open_issues_within = 100
+private = false
+pushed_within = "week"
+stargazers_within = 100
+topics = [
+  "civic-hacking",
+  "civic-tech",
+  "civictech",
+  "code4ro",
+  "python",
+  "python27",
+  "webapp"
+]
+updated_within = "week"
+watchers_within = 100
+
+  [github.license]
+  key = "mpl-2.0"
+  name = "Mozilla Public License 2.0"
+  node_id = "MDc6TGljZW5zZTE0"
+  spdx_id = "MPL-2.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 18_010_308
+  login = "code4romania"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE4MDEwMzA4"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

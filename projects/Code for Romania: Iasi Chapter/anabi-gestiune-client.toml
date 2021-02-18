@@ -1,10 +1,9 @@
 code_url = "https://github.com/code4romania/anabi-gestiune-client"
 description = "Clientul portalului de gestiune pentru ANABI"
-git_branch = "master"
 git_url = "git://github.com/code4romania/anabi-gestiune-client.git"
-last_pushed_within = "year"
 link_url = "https://code4.ro/ro/apps/anabi/"
 name = "anabi-gestiune-client"
+organization_name = "Code for Romania: Iasi Chapter"
 topics = [
   "anabi",
   "civic-hacking",
@@ -12,3 +11,55 @@ topics = [
   "code4ro",
   "transparency"
 ]
+
+[github]
+archived = false
+created_at = "2017-04-26T13:18:03Z"
+default_branch = "master"
+description = "Clientul portalului de gestiune pentru ANABI"
+disabled = false
+fork = false
+forks_within = 100
+full_name = "code4romania/anabi-gestiune-client"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "https://code4.ro/ro/apps/anabi/"
+id = 89_482_855
+language = "TypeScript"
+name = "anabi-gestiune-client"
+node_id = "MDEwOlJlcG9zaXRvcnk4OTQ4Mjg1NQ=="
+open_issues_within = 100
+private = false
+pushed_within = "year"
+stargazers_within = 10
+topics = [
+  "anabi",
+  "civic-hacking",
+  "civic-tech",
+  "code4ro",
+  "transparency"
+]
+updated_within = "year"
+watchers_within = 10
+
+  [github.license]
+  key = "mpl-2.0"
+  name = "Mozilla Public License 2.0"
+  node_id = "MDc6TGljZW5zZTE0"
+  spdx_id = "MPL-2.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 18_010_308
+  login = "code4romania"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE4MDEwMzA4"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

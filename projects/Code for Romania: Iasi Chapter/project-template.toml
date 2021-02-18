@@ -1,6 +1,46 @@
 code_url = "https://github.com/code4romania/project-template"
 description = "A template project. Fork it and configure your own Moonsheep instance!"
-git_branch = "master"
 git_url = "git://github.com/code4romania/project-template.git"
-last_pushed_within = "over_a_year"
 name = "project-template"
+organization_name = "Code for Romania: Iasi Chapter"
+
+[github]
+archived = false
+created_at = "2018-02-13T15:55:05Z"
+default_branch = "master"
+description = "A template project. Fork it and configure your own Moonsheep instance!"
+disabled = false
+fork = true
+forks_within = 0
+full_name = "code4romania/project-template"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 121_402_364
+language = "Python"
+license = { }
+name = "project-template"
+node_id = "MDEwOlJlcG9zaXRvcnkxMjE0MDIzNjQ="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 18_010_308
+  login = "code4romania"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE4MDEwMzA4"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

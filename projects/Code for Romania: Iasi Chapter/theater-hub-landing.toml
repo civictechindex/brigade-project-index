@@ -1,32 +1,31 @@
-code_url = "https://github.com/code4romania/knowledge"
-description = "Simple knowledge sharing tool."
-git_url = "git://github.com/code4romania/knowledge.git"
-link_url = "https://code4romania.github.io/knowledge/"
-name = "knowledge"
+code_url = "https://github.com/code4romania/theater-hub-landing"
+description = "Theater Hub landing page"
+git_url = "git://github.com/code4romania/theater-hub-landing.git"
+name = "theater-hub-landing"
 organization_name = "Code for Romania: Iasi Chapter"
 
 [github]
 archived = false
-created_at = "2016-10-04T20:27:25Z"
-default_branch = "master"
-description = "Simple knowledge sharing tool."
+created_at = "2017-05-03T14:18:30Z"
+default_branch = "main"
+description = "Theater Hub landing page"
 disabled = false
 fork = false
-forks_within = 10
-full_name = "code4romania/knowledge"
+forks_within = 0
+full_name = "code4romania/theater-hub-landing"
 has_downloads = true
 has_issues = true
-has_pages = true
+has_pages = false
 has_projects = true
 has_wiki = true
-homepage = "https://code4romania.github.io/knowledge/"
-id = 70_003_407
-language = { }
-name = "knowledge"
-node_id = "MDEwOlJlcG9zaXRvcnk3MDAwMzQwNw=="
+homepage = { }
+id = 90_157_139
+language = "JavaScript"
+name = "theater-hub-landing"
+node_id = "MDEwOlJlcG9zaXRvcnk5MDE1NzEzOQ=="
 open_issues_within = 0
 private = false
-pushed_within = "over_a_year"
+pushed_within = "year"
 stargazers_within = 10
 topics = [ ]
 updated_within = "year"

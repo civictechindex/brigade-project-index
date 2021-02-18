@@ -1,36 +1,35 @@
-code_url = "https://github.com/code4romania/knowledge"
-description = "Simple knowledge sharing tool."
-git_url = "git://github.com/code4romania/knowledge.git"
-link_url = "https://code4romania.github.io/knowledge/"
-name = "knowledge"
+code_url = "https://github.com/code4romania/c4ro_coming_soon"
+git_url = "git://github.com/code4romania/c4ro_coming_soon.git"
+link_url = "c4ro-coming-soon.code4romania.vercel.app"
+name = "c4ro_coming_soon"
 organization_name = "Code for Romania: Iasi Chapter"
 
 [github]
 archived = false
-created_at = "2016-10-04T20:27:25Z"
+created_at = "2021-01-12T16:39:26Z"
 default_branch = "master"
-description = "Simple knowledge sharing tool."
+description = { }
 disabled = false
 fork = false
-forks_within = 10
-full_name = "code4romania/knowledge"
+forks_within = 0
+full_name = "code4romania/c4ro_coming_soon"
 has_downloads = true
 has_issues = true
-has_pages = true
+has_pages = false
 has_projects = true
 has_wiki = true
-homepage = "https://code4romania.github.io/knowledge/"
-id = 70_003_407
-language = { }
-name = "knowledge"
-node_id = "MDEwOlJlcG9zaXRvcnk3MDAwMzQwNw=="
+homepage = "c4ro-coming-soon.code4romania.vercel.app"
+id = 329_048_773
+language = "HTML"
+name = "c4ro_coming_soon"
+node_id = "MDEwOlJlcG9zaXRvcnkzMjkwNDg3NzM="
 open_issues_within = 0
 private = false
-pushed_within = "over_a_year"
-stargazers_within = 10
+pushed_within = "year"
+stargazers_within = 0
 topics = [ ]
 updated_within = "year"
-watchers_within = 10
+watchers_within = 0
 
   [github.license]
   key = "mpl-2.0"

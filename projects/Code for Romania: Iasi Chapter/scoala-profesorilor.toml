@@ -1,6 +1,51 @@
 code_url = "https://github.com/code4romania/scoala-profesorilor"
 description = "Repository for Talent Manager for Schools project."
-git_branch = "master"
 git_url = "git://github.com/code4romania/scoala-profesorilor.git"
-last_pushed_within = "month"
 name = "scoala-profesorilor"
+organization_name = "Code for Romania: Iasi Chapter"
+
+[github]
+archived = false
+created_at = "2020-02-21T11:01:44Z"
+default_branch = "master"
+description = "Repository for Talent Manager for Schools project."
+disabled = false
+fork = false
+forks_within = 0
+full_name = "code4romania/scoala-profesorilor"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 242_119_207
+language = "PHP"
+name = "scoala-profesorilor"
+node_id = "MDEwOlJlcG9zaXRvcnkyNDIxMTkyMDc="
+open_issues_within = 0
+private = false
+pushed_within = "week"
+stargazers_within = 10
+topics = [ ]
+updated_within = "week"
+watchers_within = 10
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 18_010_308
+  login = "code4romania"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE4MDEwMzA4"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

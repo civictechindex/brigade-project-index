@@ -1,7 +1,52 @@
 code_url = "https://github.com/code4romania/cetetine.ro"
 description = "An easy to use website enabling users to signal us various social blockages that they are facing."
-git_branch = "master"
 git_url = "git://github.com/code4romania/cetetine.ro.git"
-last_pushed_within = "over_a_year"
 link_url = "https://cetetine.ro/"
 name = "cetetine.ro"
+organization_name = "Code for Romania: Iasi Chapter"
+
+[github]
+archived = false
+created_at = "2018-11-07T13:14:12Z"
+default_branch = "master"
+description = "An easy to use website enabling users to signal us various social blockages that they are facing."
+disabled = false
+fork = false
+forks_within = 0
+full_name = "code4romania/cetetine.ro"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "https://cetetine.ro/"
+id = 156_548_634
+language = "JavaScript"
+name = "cetetine.ro"
+node_id = "MDEwOlJlcG9zaXRvcnkxNTY1NDg2MzQ="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "year"
+watchers_within = 0
+
+  [github.license]
+  key = "mpl-2.0"
+  name = "Mozilla Public License 2.0"
+  node_id = "MDc6TGljZW5zZTE0"
+  spdx_id = "MPL-2.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 18_010_308
+  login = "code4romania"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE4MDEwMzA4"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
