@@ -1,6 +1,46 @@
 code_url = "https://github.com/codefornh/opendata-nh"
 description = "A catalog of open data available for New Hampshire"
-git_branch = "master"
 git_url = "git://github.com/codefornh/opendata-nh.git"
-last_pushed_within = "over_a_year"
 name = "opendata-nh"
+organization_name = "Code for New Hampshire"
+
+[github]
+archived = false
+created_at = "2015-12-11T21:08:01Z"
+default_branch = "master"
+description = "A catalog of open data available for New Hampshire"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codefornh/opendata-nh"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 47_851_120
+language = { }
+license = { }
+name = "opendata-nh"
+node_id = "MDEwOlJlcG9zaXRvcnk0Nzg1MTEyMA=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 15_762_830
+  login = "codefornh"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE1NzYyODMw"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

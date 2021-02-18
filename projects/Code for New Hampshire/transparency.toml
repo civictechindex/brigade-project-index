@@ -1,6 +1,46 @@
 code_url = "https://github.com/codefornh/transparency"
 description = "This is a repository for all operational data gathered by Code for New Hampshire"
-git_branch = "master"
 git_url = "git://github.com/codefornh/transparency.git"
-last_pushed_within = "over_a_year"
 name = "transparency"
+organization_name = "Code for New Hampshire"
+
+[github]
+archived = false
+created_at = "2017-11-14T21:44:15Z"
+default_branch = "master"
+description = "This is a repository for all operational data gathered by Code for New Hampshire"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "codefornh/transparency"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 110_748_375
+language = { }
+license = { }
+name = "transparency"
+node_id = "MDEwOlJlcG9zaXRvcnkxMTA3NDgzNzU="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 15_762_830
+  login = "codefornh"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE1NzYyODMw"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
