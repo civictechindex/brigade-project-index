@@ -1,6 +1,46 @@
 code_url = "https://github.com/smartchicago/scc-proxy"
 description = "A simple proxy server that allows us to control access to the Google Maps API"
-git_branch = "master"
 git_url = "git://github.com/smartchicago/scc-proxy.git"
-last_pushed_within = "over_a_year"
 name = "scc-proxy"
+organization_name = "Smart Chicago Collaborative"
+
+[github]
+archived = false
+created_at = "2013-12-05T17:56:36Z"
+default_branch = "master"
+description = "A simple proxy server that allows us to control access to the Google Maps API"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "smartchicago/scc-proxy"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 14_961_397
+language = "Ruby"
+license = { }
+name = "scc-proxy"
+node_id = "MDEwOlJlcG9zaXRvcnkxNDk2MTM5Nw=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_008_099
+  login = "smartchicago"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjIwMDgwOTk="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

@@ -1,7 +1,52 @@
 code_url = "https://github.com/smartchicago/chicagoworksforyou"
 description = "A citywide dashboard with ward-by-ward views of service delivery in Chicago. Includes complete API. Built using Chicago Open311 data."
-git_branch = "development"
 git_url = "git://github.com/smartchicago/chicagoworksforyou.git"
-last_pushed_within = "over_a_year"
 link_url = "http://www.chicagoworksforyou.com"
 name = "chicagoworksforyou"
+organization_name = "Smart Chicago Collaborative"
+
+[github]
+archived = false
+created_at = "2013-02-21T17:57:07Z"
+default_branch = "development"
+description = "A citywide dashboard with ward-by-ward views of service delivery in Chicago. Includes complete API. Built using Chicago Open311 data."
+disabled = false
+fork = false
+forks_within = 10
+full_name = "smartchicago/chicagoworksforyou"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://www.chicagoworksforyou.com"
+id = 8_340_602
+language = "JavaScript"
+name = "chicagoworksforyou"
+node_id = "MDEwOlJlcG9zaXRvcnk4MzQwNjAy"
+open_issues_within = 100
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 100
+topics = [ ]
+updated_within = "year"
+watchers_within = 100
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_008_099
+  login = "smartchicago"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjIwMDgwOTk="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

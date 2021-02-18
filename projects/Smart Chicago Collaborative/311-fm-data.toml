@@ -1,7 +1,47 @@
 code_url = "https://github.com/smartchicago/311-fm-data"
 description = "Data API and tooling for 311.fm data analysis application"
-git_branch = "master"
 git_url = "git://github.com/smartchicago/311-fm-data.git"
-last_pushed_within = "over_a_year"
 link_url = "http://chicagoworks-api.herokuapp.com/"
 name = "311-fm-data"
+organization_name = "Smart Chicago Collaborative"
+
+[github]
+archived = false
+created_at = "2013-02-21T17:01:59Z"
+default_branch = "master"
+description = "Data API and tooling for 311.fm data analysis application"
+disabled = false
+fork = true
+forks_within = 0
+full_name = "smartchicago/311-fm-data"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://chicagoworks-api.herokuapp.com/"
+id = 8_339_712
+language = "JavaScript"
+license = { }
+name = "311-fm-data"
+node_id = "MDEwOlJlcG9zaXRvcnk4MzM5NzEy"
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_008_099
+  login = "smartchicago"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjIwMDgwOTk="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

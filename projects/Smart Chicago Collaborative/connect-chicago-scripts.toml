@@ -1,6 +1,46 @@
 code_url = "https://github.com/smartchicago/connect-chicago-scripts"
 description = "processing and backup scripts for connect chicago"
-git_branch = "master"
 git_url = "git://github.com/smartchicago/connect-chicago-scripts.git"
-last_pushed_within = "over_a_year"
 name = "connect-chicago-scripts"
+organization_name = "Smart Chicago Collaborative"
+
+[github]
+archived = false
+created_at = "2012-11-13T15:49:02Z"
+default_branch = "master"
+description = "processing and backup scripts for connect chicago"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "smartchicago/connect-chicago-scripts"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 6_673_152
+language = "Ruby"
+license = { }
+name = "connect-chicago-scripts"
+node_id = "MDEwOlJlcG9zaXRvcnk2NjczMTUy"
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_008_099
+  login = "smartchicago"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjIwMDgwOTk="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

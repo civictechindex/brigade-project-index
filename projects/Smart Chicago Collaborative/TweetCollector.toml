@@ -1,7 +1,47 @@
 code_url = "https://github.com/smartchicago/TweetCollector"
 description = "A simple node.js application that allows a user to collect tweets from Twitter's search API, and write them to a MongoDB collection."
-git_branch = "master"
 git_url = "git://github.com/smartchicago/TweetCollector.git"
-last_pushed_within = "over_a_year"
 link_url = "http://foodborne.smartchicagoapps.org/"
 name = "TweetCollector"
+organization_name = "Smart Chicago Collaborative"
+
+[github]
+archived = false
+created_at = "2013-05-10T16:05:35Z"
+default_branch = "master"
+description = "A simple node.js application that allows a user to collect tweets from Twitter's search API, and write them to a MongoDB collection."
+disabled = false
+fork = false
+forks_within = 100
+full_name = "smartchicago/TweetCollector"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://foodborne.smartchicagoapps.org/"
+id = 9_984_972
+language = "JavaScript"
+license = { }
+name = "TweetCollector"
+node_id = "MDEwOlJlcG9zaXRvcnk5OTg0OTcy"
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_008_099
+  login = "smartchicago"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjIwMDgwOTk="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

@@ -1,6 +1,46 @@
 code_url = "https://github.com/smartchicago/civic-user-testing"
 description = "In the spirit of Civic Tech Patterns, this is a collection of methods and practices for creating and executing tests for civic technology with residents."
-git_branch = "master"
 git_url = "git://github.com/smartchicago/civic-user-testing.git"
-last_pushed_within = "over_a_year"
 name = "civic-user-testing"
+organization_name = "Smart Chicago Collaborative"
+
+[github]
+archived = false
+created_at = "2013-02-14T21:16:25Z"
+default_branch = "master"
+description = "In the spirit of Civic Tech Patterns, this is a collection of methods and practices for creating and executing tests for civic technology with residents."
+disabled = false
+fork = false
+forks_within = 10
+full_name = "smartchicago/civic-user-testing"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 8_207_814
+language = { }
+license = { }
+name = "civic-user-testing"
+node_id = "MDEwOlJlcG9zaXRvcnk4MjA3ODE0"
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_008_099
+  login = "smartchicago"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjIwMDgwOTk="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
