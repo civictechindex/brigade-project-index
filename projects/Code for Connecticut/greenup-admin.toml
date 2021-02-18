@@ -1,5 +1,45 @@
 code_url = "https://github.com/codeforct/greenup-admin"
-git_branch = "master"
 git_url = "git://github.com/codeforct/greenup-admin.git"
-last_pushed_within = "over_a_year"
 name = "greenup-admin"
+organization_name = "Code for Connecticut"
+
+[github]
+archived = false
+created_at = "2019-07-25T16:49:50Z"
+default_branch = "master"
+description = { }
+disabled = false
+fork = false
+forks_within = 0
+full_name = "codeforct/greenup-admin"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 198_869_218
+language = "JavaScript"
+license = { }
+name = "greenup-admin"
+node_id = "MDEwOlJlcG9zaXRvcnkxOTg4NjkyMTg="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 50_676_221
+  login = "codeforct"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjUwNjc2MjIx"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

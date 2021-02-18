@@ -1,5 +1,45 @@
 code_url = "https://github.com/codeforct/legislator-database"
-git_branch = "master"
 git_url = "git://github.com/codeforct/legislator-database.git"
-last_pushed_within = "week"
 name = "legislator-database"
+organization_name = "Code for Connecticut"
+
+[github]
+archived = false
+created_at = "2020-03-02T13:37:47Z"
+default_branch = "master"
+description = { }
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codeforct/legislator-database"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 244_379_858
+language = "JavaScript"
+license = { }
+name = "legislator-database"
+node_id = "MDEwOlJlcG9zaXRvcnkyNDQzNzk4NTg="
+open_issues_within = 10
+private = false
+pushed_within = "week"
+stargazers_within = 0
+topics = [ ]
+updated_within = "week"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 50_676_221
+  login = "codeforct"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjUwNjc2MjIx"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
