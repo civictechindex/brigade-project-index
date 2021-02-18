@@ -1,6 +1,46 @@
 code_url = "https://github.com/Chicago/clear-water-app"
 description = "Generate water quality predictions for Chicago beaches, and upload to https://data.cityofchicago.org/Parks-Recreation/Beach-E-coli-Predictions/xvsz-3xcj"
-git_branch = "master"
 git_url = "git://github.com/Chicago/clear-water-app.git"
-last_pushed_within = "over_a_year"
 name = "clear-water-app"
+organization_name = "City of Chicago Department of Innovation and Technology"
+
+[github]
+archived = false
+created_at = "2017-06-13T21:04:45Z"
+default_branch = "master"
+description = "Generate water quality predictions for Chicago beaches, and upload to https://data.cityofchicago.org/Parks-Recreation/Beach-E-coli-Predictions/xvsz-3xcj"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "Chicago/clear-water-app"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 94_257_800
+language = "R"
+license = { }
+name = "clear-water-app"
+node_id = "MDEwOlJlcG9zaXRvcnk5NDI1NzgwMA=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 838_189
+  login = "Chicago"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjgzODE4OQ=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

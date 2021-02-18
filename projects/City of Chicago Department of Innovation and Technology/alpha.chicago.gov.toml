@@ -1,6 +1,51 @@
 code_url = "https://github.com/Chicago/alpha.chicago.gov"
 description = "An experimental site to deliver information and services more effectively."
-git_branch = "master"
 git_url = "git://github.com/Chicago/alpha.chicago.gov.git"
-last_pushed_within = "year"
 name = "alpha.chicago.gov"
+organization_name = "City of Chicago Department of Innovation and Technology"
+
+[github]
+archived = false
+created_at = "2019-05-06T14:46:23Z"
+default_branch = "master"
+description = "An experimental site to deliver information and services more effectively."
+disabled = false
+fork = false
+forks_within = 10
+full_name = "Chicago/alpha.chicago.gov"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 185_216_388
+language = "Ruby"
+name = "alpha.chicago.gov"
+node_id = "MDEwOlJlcG9zaXRvcnkxODUyMTYzODg="
+open_issues_within = 10
+private = false
+pushed_within = "year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 838_189
+  login = "Chicago"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjgzODE4OQ=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

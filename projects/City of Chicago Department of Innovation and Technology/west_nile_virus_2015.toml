@@ -1,8 +1,48 @@
 code_url = "https://github.com/Chicago/west_nile_virus_2015"
 description = "the 2nd place solution for West Nile Virus Prediction challenge on Kaggle"
-git_branch = "master"
 git_url = "git://github.com/Chicago/west_nile_virus_2015.git"
-last_pushed_within = "over_a_year"
 link_url = "https://www.kaggle.com/c/predict-west-nile-virus"
 name = "west_nile_virus_2015"
+organization_name = "City of Chicago Department of Innovation and Technology"
 topics = [ "cdph" ]
+
+[github]
+archived = false
+created_at = "2016-02-05T20:01:27Z"
+default_branch = "master"
+description = "the 2nd place solution for West Nile Virus Prediction challenge on Kaggle"
+disabled = false
+fork = true
+forks_within = 0
+full_name = "Chicago/west_nile_virus_2015"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "https://www.kaggle.com/c/predict-west-nile-virus"
+id = 51_170_722
+language = "C++"
+license = { }
+name = "west_nile_virus_2015"
+node_id = "MDEwOlJlcG9zaXRvcnk1MTE3MDcyMg=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ "cdph" ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 838_189
+  login = "Chicago"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjgzODE4OQ=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

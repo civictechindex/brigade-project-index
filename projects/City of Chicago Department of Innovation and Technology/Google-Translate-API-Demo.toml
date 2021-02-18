@@ -1,6 +1,46 @@
 code_url = "https://github.com/Chicago/Google-Translate-API-Demo"
 description = "Using the v2 Google Translate API to translate a web page in the browser."
-git_branch = "master"
 git_url = "git://github.com/Chicago/Google-Translate-API-Demo.git"
-last_pushed_within = "over_a_year"
 name = "Google-Translate-API-Demo"
+organization_name = "City of Chicago Department of Innovation and Technology"
+
+[github]
+archived = false
+created_at = "2019-08-14T20:31:35Z"
+default_branch = "master"
+description = "Using the v2 Google Translate API to translate a web page in the browser."
+disabled = false
+fork = false
+forks_within = 10
+full_name = "Chicago/Google-Translate-API-Demo"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 202_421_668
+language = "HTML"
+license = { }
+name = "Google-Translate-API-Demo"
+node_id = "MDEwOlJlcG9zaXRvcnkyMDI0MjE2Njg="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 838_189
+  login = "Chicago"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjgzODE4OQ=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

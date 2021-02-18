@@ -1,7 +1,52 @@
 code_url = "https://github.com/Chicago/buildings"
 description = "A project to create a simple interface for visualizing building data."
-git_branch = "master"
 git_url = "git://github.com/Chicago/buildings.git"
-last_pushed_within = "over_a_year"
 link_url = "https://github.com/Chicago/buildings/wiki"
 name = "buildings"
+organization_name = "City of Chicago Department of Innovation and Technology"
+
+[github]
+archived = false
+created_at = "2017-03-13T20:36:20Z"
+default_branch = "master"
+description = "A project to create a simple interface for visualizing building data."
+disabled = false
+fork = false
+forks_within = 10
+full_name = "Chicago/buildings"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "https://github.com/Chicago/buildings/wiki"
+id = 84_872_055
+language = "R"
+name = "buildings"
+node_id = "MDEwOlJlcG9zaXRvcnk4NDg3MjA1NQ=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "other"
+  name = "Other"
+  node_id = "MDc6TGljZW5zZTA="
+  spdx_id = "NOASSERTION"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 838_189
+  login = "Chicago"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjgzODE4OQ=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

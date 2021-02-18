@@ -1,6 +1,46 @@
 code_url = "https://github.com/Chicago/sdp-business.json"
 description = "A file which combines all business-related records from diverse sources."
-git_branch = "master"
 git_url = "git://github.com/Chicago/sdp-business.json.git"
-last_pushed_within = "over_a_year"
 name = "sdp-business.json"
+organization_name = "City of Chicago Department of Innovation and Technology"
+
+[github]
+archived = false
+created_at = "2016-12-27T22:54:43Z"
+default_branch = "master"
+description = "A file which combines all business-related records from diverse sources."
+disabled = false
+fork = false
+forks_within = 10
+full_name = "Chicago/sdp-business.json"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 77_487_236
+language = { }
+license = { }
+name = "sdp-business.json"
+node_id = "MDEwOlJlcG9zaXRvcnk3NzQ4NzIzNg=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 838_189
+  login = "Chicago"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjgzODE4OQ=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

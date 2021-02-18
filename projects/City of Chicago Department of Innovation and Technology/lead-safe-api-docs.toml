@@ -1,9 +1,8 @@
 code_url = "https://github.com/Chicago/lead-safe-api-docs"
-git_branch = "master"
 git_url = "git://github.com/Chicago/lead-safe-api-docs.git"
-last_pushed_within = "over_a_year"
 link_url = "http://dev.cityofchicago.org/docs/lead-safe/"
 name = "lead-safe-api-docs"
+organization_name = "City of Chicago Department of Innovation and Technology"
 topics = [
   "api",
   "cdph",
@@ -16,3 +15,55 @@ topics = [
   "open-source",
   "public-health"
 ]
+
+[github]
+archived = false
+created_at = "2017-08-21T16:22:54Z"
+default_branch = "master"
+description = { }
+disabled = false
+fork = false
+forks_within = 10
+full_name = "Chicago/lead-safe-api-docs"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "http://dev.cityofchicago.org/docs/lead-safe/"
+id = 100_971_462
+language = "HTML"
+license = { }
+name = "lead-safe-api-docs"
+node_id = "MDEwOlJlcG9zaXRvcnkxMDA5NzE0NjI="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [
+  "api",
+  "cdph",
+  "chicago",
+  "documentation",
+  "government",
+  "lead-safe",
+  "mkdoc",
+  "mkdocs",
+  "open-source",
+  "public-health"
+]
+updated_within = "year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 838_189
+  login = "Chicago"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjgzODE4OQ=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

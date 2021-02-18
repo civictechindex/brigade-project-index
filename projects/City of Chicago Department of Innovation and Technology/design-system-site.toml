@@ -1,7 +1,52 @@
 code_url = "https://github.com/Chicago/design-system-site"
 description = "This site is an example site for Chicago Digital Web Sites. It uses the latest public version of the Chicago Design System theme on our CDN."
-git_branch = "master"
 git_url = "git://github.com/Chicago/design-system-site.git"
-last_pushed_within = "month"
 link_url = "https://chicago.github.io/design-system-site/"
 name = "design-system-site"
+organization_name = "City of Chicago Department of Innovation and Technology"
+
+[github]
+archived = false
+created_at = "2020-02-18T16:53:14Z"
+default_branch = "master"
+description = "This site is an example site for Chicago Digital Web Sites. It uses the latest public version of the Chicago Design System theme on our CDN."
+disabled = false
+fork = false
+forks_within = 10
+full_name = "Chicago/design-system-site"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "https://chicago.github.io/design-system-site/"
+id = 241_416_090
+language = "HTML"
+name = "design-system-site"
+node_id = "MDEwOlJlcG9zaXRvcnkyNDE0MTYwOTA="
+open_issues_within = 0
+private = false
+pushed_within = "year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "year"
+watchers_within = 10
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 838_189
+  login = "Chicago"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjgzODE4OQ=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

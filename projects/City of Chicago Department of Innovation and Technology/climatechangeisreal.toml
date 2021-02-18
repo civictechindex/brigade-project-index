@@ -1,7 +1,52 @@
 code_url = "https://github.com/Chicago/climatechangeisreal"
 description = "Republish the climate change websites removed by the EPA onto your own site. Amplify the dangers of climate change."
-git_branch = "master"
 git_url = "git://github.com/Chicago/climatechangeisreal.git"
-last_pushed_within = "over_a_year"
 link_url = "https://chicago.github.io/climatechangeisreal/"
 name = "climatechangeisreal"
+organization_name = "City of Chicago Department of Innovation and Technology"
+
+[github]
+archived = false
+created_at = "2017-05-22T22:16:40Z"
+default_branch = "master"
+description = "Republish the climate change websites removed by the EPA onto your own site. Amplify the dangers of climate change."
+disabled = false
+fork = false
+forks_within = 10
+full_name = "Chicago/climatechangeisreal"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = false
+has_wiki = false
+homepage = "https://chicago.github.io/climatechangeisreal/"
+id = 92_104_238
+language = "HTML"
+name = "climatechangeisreal"
+node_id = "MDEwOlJlcG9zaXRvcnk5MjEwNDIzOA=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 100
+topics = [ ]
+updated_within = "year"
+watchers_within = 100
+
+  [github.license]
+  key = "unlicense"
+  name = "The Unlicense"
+  node_id = "MDc6TGljZW5zZTE1"
+  spdx_id = "Unlicense"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 838_189
+  login = "Chicago"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjgzODE4OQ=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

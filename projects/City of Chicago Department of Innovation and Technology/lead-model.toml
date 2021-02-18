@@ -1,8 +1,7 @@
 code_url = "https://github.com/Chicago/lead-model"
-git_branch = "master"
 git_url = "git://github.com/Chicago/lead-model.git"
-last_pushed_within = "over_a_year"
 name = "lead-model"
+organization_name = "City of Chicago Department of Innovation and Technology"
 topics = [
   "cdph",
   "chicago",
@@ -12,3 +11,57 @@ topics = [
   "public-health",
   "python"
 ]
+
+[github]
+archived = false
+created_at = "2017-09-22T14:21:57Z"
+default_branch = "master"
+description = { }
+disabled = false
+fork = true
+forks_within = 10
+full_name = "Chicago/lead-model"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 104_483_059
+language = "Python"
+name = "lead-model"
+node_id = "MDEwOlJlcG9zaXRvcnkxMDQ0ODMwNTk="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [
+  "cdph",
+  "chicago",
+  "data-science",
+  "government",
+  "lead-safe",
+  "public-health",
+  "python"
+]
+updated_within = "year"
+watchers_within = 10
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 838_189
+  login = "Chicago"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjgzODE4OQ=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

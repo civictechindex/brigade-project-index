@@ -1,6 +1,51 @@
 code_url = "https://github.com/Chicago/digital.chicago.gov"
 description = "People, process, and product news about digital service delivery to Chicagoans."
-git_branch = "master"
 git_url = "git://github.com/Chicago/digital.chicago.gov.git"
-last_pushed_within = "month"
 name = "digital.chicago.gov"
+organization_name = "City of Chicago Department of Innovation and Technology"
+
+[github]
+archived = false
+created_at = "2019-05-14T19:03:49Z"
+default_branch = "master"
+description = "People, process, and product news about digital service delivery to Chicagoans."
+disabled = false
+fork = false
+forks_within = 0
+full_name = "Chicago/digital.chicago.gov"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 186_683_322
+language = "HTML"
+name = "digital.chicago.gov"
+node_id = "MDEwOlJlcG9zaXRvcnkxODY2ODMzMjI="
+open_issues_within = 0
+private = false
+pushed_within = "year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "year"
+watchers_within = 10
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 838_189
+  login = "Chicago"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjgzODE4OQ=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

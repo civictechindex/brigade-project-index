@@ -1,6 +1,46 @@
 code_url = "https://github.com/Chicago/tweetstreamwrapper"
 description = "Wrapper for python tweetstream library; handles connection failures, makes it easier to put tweets in mongo / redis / etc. Definitely under construction."
-git_branch = "master"
 git_url = "git://github.com/Chicago/tweetstreamwrapper.git"
-last_pushed_within = "over_a_year"
 name = "tweetstreamwrapper"
+organization_name = "City of Chicago Department of Innovation and Technology"
+
+[github]
+archived = false
+created_at = "2012-04-23T15:16:32Z"
+default_branch = "master"
+description = "Wrapper for python tweetstream library; handles connection failures, makes it easier to put tweets in mongo / redis / etc. Definitely under construction."
+disabled = false
+fork = false
+forks_within = 10
+full_name = "Chicago/tweetstreamwrapper"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 4_114_532
+language = "Python"
+license = { }
+name = "tweetstreamwrapper"
+node_id = "MDEwOlJlcG9zaXRvcnk0MTE0NTMy"
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 838_189
+  login = "Chicago"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjgzODE4OQ=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

@@ -1,8 +1,48 @@
 code_url = "https://github.com/Chicago/flavored-tobacco-search-engine"
 description = "Healthy Chicago's Flavored Tobacco Search Engine"
-git_branch = "master"
 git_url = "git://github.com/Chicago/flavored-tobacco-search-engine.git"
-last_pushed_within = "over_a_year"
 link_url = "http://www.flavoredtobaccosearchengine.org/"
 name = "flavored-tobacco-search-engine"
+organization_name = "City of Chicago Department of Innovation and Technology"
 topics = [ "cdph" ]
+
+[github]
+archived = false
+created_at = "2016-01-05T23:03:13Z"
+default_branch = "master"
+description = "Healthy Chicago's Flavored Tobacco Search Engine"
+disabled = false
+fork = true
+forks_within = 10
+full_name = "Chicago/flavored-tobacco-search-engine"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://www.flavoredtobaccosearchengine.org/"
+id = 49_098_084
+language = "HTML"
+license = { }
+name = "flavored-tobacco-search-engine"
+node_id = "MDEwOlJlcG9zaXRvcnk0OTA5ODA4NA=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ "cdph" ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 838_189
+  login = "Chicago"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjgzODE4OQ=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

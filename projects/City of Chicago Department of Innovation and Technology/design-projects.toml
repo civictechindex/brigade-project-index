@@ -1,6 +1,51 @@
 code_url = "https://github.com/Chicago/design-projects"
 description = "A repository listing new & current design projects."
-git_branch = "master"
 git_url = "git://github.com/Chicago/design-projects.git"
-last_pushed_within = "over_a_year"
 name = "design-projects"
+organization_name = "City of Chicago Department of Innovation and Technology"
+
+[github]
+archived = false
+created_at = "2018-06-14T20:55:14Z"
+default_branch = "master"
+description = "A repository listing new & current design projects."
+disabled = false
+fork = false
+forks_within = 10
+full_name = "Chicago/design-projects"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = false
+homepage = { }
+id = 137_408_305
+language = { }
+name = "design-projects"
+node_id = "MDEwOlJlcG9zaXRvcnkxMzc0MDgzMDU="
+open_issues_within = 100
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "year"
+watchers_within = 10
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 838_189
+  login = "Chicago"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjgzODE4OQ=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

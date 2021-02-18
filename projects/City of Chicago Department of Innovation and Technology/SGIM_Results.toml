@@ -1,7 +1,52 @@
 code_url = "https://github.com/Chicago/SGIM_Results"
 description = "The Sustainable Green Infrastructure Monitoring (SGIM) project uses sensors, provided by Opti, that measures water diverted into the ground. This repo contains the ETL code which updates Chicago's open data portal. It can be reused to connect Opti sensors to Socrata open data portals. Depends on the \"open-data-etl-utility-kit\" repo."
-git_branch = "master"
 git_url = "git://github.com/Chicago/SGIM_Results.git"
-last_pushed_within = "over_a_year"
 name = "SGIM_Results"
+organization_name = "City of Chicago Department of Innovation and Technology"
 topics = [ "etl", "kettle", "open-data", "opti", "pentaho", "socrata" ]
+
+[github]
+archived = false
+created_at = "2017-06-14T19:03:17Z"
+default_branch = "master"
+description = "The Sustainable Green Infrastructure Monitoring (SGIM) project uses sensors, provided by Opti, that measures water diverted into the ground. This repo contains the ETL code which updates Chicago's open data portal. It can be reused to connect Opti sensors to Socrata open data portals. Depends on the \"open-data-etl-utility-kit\" repo."
+disabled = false
+fork = false
+forks_within = 0
+full_name = "Chicago/SGIM_Results"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 94_364_092
+language = "Shell"
+name = "SGIM_Results"
+node_id = "MDEwOlJlcG9zaXRvcnk5NDM2NDA5Mg=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ "etl", "kettle", "open-data", "opti", "pentaho", "socrata" ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 838_189
+  login = "Chicago"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjgzODE4OQ=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

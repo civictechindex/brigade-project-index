@@ -1,6 +1,46 @@
 code_url = "https://github.com/Chicago/resilient.chicago.gov"
 description = "The Resilient Chicago: A Plan for Inclusive Growth and a Connected City microsite."
-git_branch = "master"
 git_url = "git://github.com/Chicago/resilient.chicago.gov.git"
-last_pushed_within = "year"
 name = "resilient.chicago.gov"
+organization_name = "City of Chicago Department of Innovation and Technology"
+
+[github]
+archived = false
+created_at = "2019-01-10T21:10:44Z"
+default_branch = "master"
+description = "The Resilient Chicago: A Plan for Inclusive Growth and a Connected City microsite."
+disabled = false
+fork = false
+forks_within = 0
+full_name = "Chicago/resilient.chicago.gov"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = false
+homepage = { }
+id = 165_131_588
+language = "CSS"
+license = { }
+name = "resilient.chicago.gov"
+node_id = "MDEwOlJlcG9zaXRvcnkxNjUxMzE1ODg="
+open_issues_within = 10
+private = false
+pushed_within = "year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 838_189
+  login = "Chicago"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjgzODE4OQ=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

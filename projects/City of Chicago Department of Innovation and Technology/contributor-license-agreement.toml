@@ -1,7 +1,47 @@
 code_url = "https://github.com/Chicago/contributor-license-agreement"
 description = "Standard text used by the City of Chicago for a contributor license agreement (CLA)."
-git_branch = "master"
 git_url = "git://github.com/Chicago/contributor-license-agreement.git"
-last_pushed_within = "over_a_year"
 name = "contributor-license-agreement"
+organization_name = "City of Chicago Department of Innovation and Technology"
 topics = [ "chicago", "contributor-license-agreement", "government" ]
+
+[github]
+archived = false
+created_at = "2015-02-18T00:56:58Z"
+default_branch = "master"
+description = "Standard text used by the City of Chicago for a contributor license agreement (CLA)."
+disabled = false
+fork = false
+forks_within = 10
+full_name = "Chicago/contributor-license-agreement"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = false
+has_wiki = false
+homepage = { }
+id = 30_946_242
+language = { }
+license = { }
+name = "contributor-license-agreement"
+node_id = "MDEwOlJlcG9zaXRvcnkzMDk0NjI0Mg=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ "chicago", "contributor-license-agreement", "government" ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 838_189
+  login = "Chicago"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjgzODE4OQ=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

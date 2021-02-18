@@ -1,7 +1,52 @@
 code_url = "https://github.com/Chicago/opengrid-svc-template"
 description = "Serivce layer that permits interaction between OpenGrid user interface and JSON data sources, just as Mongo."
-git_branch = "master"
 git_url = "git://github.com/Chicago/opengrid-svc-template.git"
-last_pushed_within = "over_a_year"
 name = "opengrid-svc-template"
+organization_name = "City of Chicago Department of Innovation and Technology"
 topics = [ "chicago", "government", "java", "mongodb", "opengrid" ]
+
+[github]
+archived = false
+created_at = "2015-06-10T18:01:16Z"
+default_branch = "master"
+description = "Serivce layer that permits interaction between OpenGrid user interface and JSON data sources, just as Mongo."
+disabled = false
+fork = false
+forks_within = 10
+full_name = "Chicago/opengrid-svc-template"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 37_213_521
+language = "Java"
+name = "opengrid-svc-template"
+node_id = "MDEwOlJlcG9zaXRvcnkzNzIxMzUyMQ=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ "chicago", "government", "java", "mongodb", "opengrid" ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "apache-2.0"
+  name = "Apache License 2.0"
+  node_id = "MDc6TGljZW5zZTI="
+  spdx_id = "Apache-2.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 838_189
+  login = "Chicago"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjgzODE4OQ=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

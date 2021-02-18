@@ -1,7 +1,47 @@
 code_url = "https://github.com/Chicago/foodborne_classifier"
 description = "The classifier used in the http://foodborne.smartchicagoapps.org/ application."
-git_branch = "master"
 git_url = "git://github.com/Chicago/foodborne_classifier.git"
-last_pushed_within = "over_a_year"
 name = "foodborne_classifier"
+organization_name = "City of Chicago Department of Innovation and Technology"
 topics = [ "cdph" ]
+
+[github]
+archived = false
+created_at = "2016-01-16T00:23:54Z"
+default_branch = "master"
+description = "The classifier used in the http://foodborne.smartchicagoapps.org/ application."
+disabled = false
+fork = true
+forks_within = 0
+full_name = "Chicago/foodborne_classifier"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 49_752_184
+language = "R"
+license = { }
+name = "foodborne_classifier"
+node_id = "MDEwOlJlcG9zaXRvcnk0OTc1MjE4NA=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ "cdph" ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 838_189
+  login = "Chicago"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjgzODE4OQ=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

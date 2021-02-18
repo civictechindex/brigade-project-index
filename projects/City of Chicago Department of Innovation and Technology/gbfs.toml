@@ -1,6 +1,46 @@
 code_url = "https://github.com/Chicago/gbfs"
 description = "Documentation for the General Bikeshare Feed Specification, a standardized data feed for bike share system availability"
-git_branch = "master"
 git_url = "git://github.com/Chicago/gbfs.git"
-last_pushed_within = "over_a_year"
 name = "gbfs"
+organization_name = "City of Chicago Department of Innovation and Technology"
+
+[github]
+archived = false
+created_at = "2018-05-04T16:20:04Z"
+default_branch = "master"
+description = "Documentation for the General Bikeshare Feed Specification, a standardized data feed for bike share system availability"
+disabled = false
+fork = true
+forks_within = 0
+full_name = "Chicago/gbfs"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 132_163_225
+language = { }
+license = { }
+name = "gbfs"
+node_id = "MDEwOlJlcG9zaXRvcnkxMzIxNjMyMjU="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 838_189
+  login = "Chicago"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjgzODE4OQ=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

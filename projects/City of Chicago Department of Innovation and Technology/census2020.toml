@@ -1,6 +1,51 @@
 code_url = "https://github.com/Chicago/census2020"
 description = "Placeholder website for the 2020 census"
-git_branch = "master"
 git_url = "git://github.com/Chicago/census2020.git"
-last_pushed_within = "year"
 name = "census2020"
+organization_name = "City of Chicago Department of Innovation and Technology"
+
+[github]
+archived = false
+created_at = "2019-07-02T19:35:37Z"
+default_branch = "master"
+description = "Placeholder website for the 2020 census"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "Chicago/census2020"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 194_923_954
+language = "HTML"
+name = "census2020"
+node_id = "MDEwOlJlcG9zaXRvcnkxOTQ5MjM5NTQ="
+open_issues_within = 10
+private = false
+pushed_within = "year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 838_189
+  login = "Chicago"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjgzODE4OQ=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

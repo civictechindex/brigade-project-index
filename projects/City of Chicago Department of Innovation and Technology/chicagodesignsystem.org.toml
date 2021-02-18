@@ -1,6 +1,46 @@
 code_url = "https://github.com/Chicago/chicagodesignsystem.org"
 description = "A one page, 1 line website to redirect to design.chicago.gov"
-git_branch = "master"
 git_url = "git://github.com/Chicago/chicagodesignsystem.org.git"
-last_pushed_within = "over_a_year"
 name = "chicagodesignsystem.org"
+organization_name = "City of Chicago Department of Innovation and Technology"
+
+[github]
+archived = false
+created_at = "2019-09-18T20:02:10Z"
+default_branch = "master"
+description = "A one page, 1 line website to redirect to design.chicago.gov"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "Chicago/chicagodesignsystem.org"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 209_393_820
+language = "HTML"
+license = { }
+name = "chicagodesignsystem.org"
+node_id = "MDEwOlJlcG9zaXRvcnkyMDkzOTM4MjA="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 838_189
+  login = "Chicago"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjgzODE4OQ=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

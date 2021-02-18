@@ -1,7 +1,52 @@
 code_url = "https://github.com/Chicago/design-methods"
 description = "The City of Chicago's design methods for practicing human-centered design, derived from @18f."
-git_branch = "master"
 git_url = "git://github.com/Chicago/design-methods.git"
-last_pushed_within = "over_a_year"
 link_url = "https://methods.chicagodesignsystem.org/"
 name = "design-methods"
+organization_name = "City of Chicago Department of Innovation and Technology"
+
+[github]
+archived = false
+created_at = "2018-07-19T01:02:43Z"
+default_branch = "master"
+description = "The City of Chicago's design methods for practicing human-centered design, derived from @18f."
+disabled = false
+fork = true
+forks_within = 10
+full_name = "Chicago/design-methods"
+has_downloads = true
+has_issues = false
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "https://methods.chicagodesignsystem.org/"
+id = 141_506_466
+language = "CSS"
+name = "design-methods"
+node_id = "MDEwOlJlcG9zaXRvcnkxNDE1MDY0NjY="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "other"
+  name = "Other"
+  node_id = "MDc6TGljZW5zZTA="
+  spdx_id = "NOASSERTION"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 838_189
+  login = "Chicago"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjgzODE4OQ=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

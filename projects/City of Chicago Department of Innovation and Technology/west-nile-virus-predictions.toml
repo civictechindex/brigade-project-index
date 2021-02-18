@@ -1,9 +1,8 @@
 code_url = "https://github.com/Chicago/west-nile-virus-predictions"
 description = "Algorithm to predict repeated positive results for West Nile Virus for mosquitoes captured in traps across Chicago."
-git_branch = "master"
 git_url = "git://github.com/Chicago/west-nile-virus-predictions.git"
-last_pushed_within = "over_a_year"
 name = "west-nile-virus-predictions"
+organization_name = "City of Chicago Department of Innovation and Technology"
 topics = [
   "cdph",
   "chicago",
@@ -13,3 +12,57 @@ topics = [
   "r",
   "west-nile-virus"
 ]
+
+[github]
+archived = false
+created_at = "2016-07-14T13:04:13Z"
+default_branch = "master"
+description = "Algorithm to predict repeated positive results for West Nile Virus for mosquitoes captured in traps across Chicago."
+disabled = false
+fork = false
+forks_within = 10
+full_name = "Chicago/west-nile-virus-predictions"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = false
+has_wiki = true
+homepage = ""
+id = 63_337_116
+language = "R"
+name = "west-nile-virus-predictions"
+node_id = "MDEwOlJlcG9zaXRvcnk2MzMzNzExNg=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 100
+topics = [
+  "cdph",
+  "chicago",
+  "data-science",
+  "disease-surveillance",
+  "public-health",
+  "r",
+  "west-nile-virus"
+]
+updated_within = "over_a_year"
+watchers_within = 100
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 838_189
+  login = "Chicago"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjgzODE4OQ=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

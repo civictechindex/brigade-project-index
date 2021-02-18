@@ -1,7 +1,52 @@
 code_url = "https://github.com/Chicago/lead-public"
 description = "DSaPP Lead Hazard Modeling"
-git_branch = "master"
 git_url = "git://github.com/Chicago/lead-public.git"
-last_pushed_within = "over_a_year"
 name = "lead-public"
+organization_name = "City of Chicago Department of Innovation and Technology"
 topics = [ "cdph" ]
+
+[github]
+archived = false
+created_at = "2016-02-05T19:56:03Z"
+default_branch = "master"
+description = "DSaPP Lead Hazard Modeling"
+disabled = false
+fork = true
+forks_within = 10
+full_name = "Chicago/lead-public"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 51_170_470
+language = "Python"
+name = "lead-public"
+node_id = "MDEwOlJlcG9zaXRvcnk1MTE3MDQ3MA=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ "cdph" ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 838_189
+  login = "Chicago"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjgzODE4OQ=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

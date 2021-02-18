@@ -1,7 +1,47 @@
 code_url = "https://github.com/Chicago/smart-data-platform"
 description = "The Smart Data Platform is a platform which helps automate predictive analytics for use within cities and display it without requiring a background in data science or statistics."
-git_branch = "gh-pages"
 git_url = "git://github.com/Chicago/smart-data-platform.git"
-last_pushed_within = "over_a_year"
 link_url = "https://chicago.github.io/smart-data-platform"
 name = "smart-data-platform"
+organization_name = "City of Chicago Department of Innovation and Technology"
+
+[github]
+archived = false
+created_at = "2016-12-16T23:33:25Z"
+default_branch = "gh-pages"
+description = "The Smart Data Platform is a platform which helps automate predictive analytics for use within cities and display it without requiring a background in data science or statistics."
+disabled = false
+fork = false
+forks_within = 10
+full_name = "Chicago/smart-data-platform"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "https://chicago.github.io/smart-data-platform"
+id = 76_692_709
+language = { }
+license = { }
+name = "smart-data-platform"
+node_id = "MDEwOlJlcG9zaXRvcnk3NjY5MjcwOQ=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 838_189
+  login = "Chicago"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjgzODE4OQ=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

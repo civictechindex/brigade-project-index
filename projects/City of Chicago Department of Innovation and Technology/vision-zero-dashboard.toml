@@ -1,6 +1,51 @@
 code_url = "https://github.com/Chicago/vision-zero-dashboard"
 description = "Vision Zero Dashboard"
-git_branch = "master"
 git_url = "git://github.com/Chicago/vision-zero-dashboard.git"
-last_pushed_within = "year"
 name = "vision-zero-dashboard"
+organization_name = "City of Chicago Department of Innovation and Technology"
+
+[github]
+archived = false
+created_at = "2019-11-01T20:58:52Z"
+default_branch = "master"
+description = "Vision Zero Dashboard"
+disabled = false
+fork = false
+forks_within = 100
+full_name = "Chicago/vision-zero-dashboard"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 219_061_796
+language = "R"
+name = "vision-zero-dashboard"
+node_id = "MDEwOlJlcG9zaXRvcnkyMTkwNjE3OTY="
+open_issues_within = 100
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "month"
+watchers_within = 10
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 838_189
+  login = "Chicago"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjgzODE4OQ=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

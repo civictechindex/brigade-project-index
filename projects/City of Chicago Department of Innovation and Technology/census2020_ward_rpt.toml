@@ -1,7 +1,52 @@
 code_url = "https://github.com/Chicago/census2020_ward_rpt"
 description = "Census 2020 Report"
-git_branch = "master"
 git_url = "git://github.com/Chicago/census2020_ward_rpt.git"
-last_pushed_within = "year"
 link_url = "https://www.chicago.gov/city/en/sites/census2020/home/ward-reports.html"
 name = "census2020_ward_rpt"
+organization_name = "City of Chicago Department of Innovation and Technology"
+
+[github]
+archived = false
+created_at = "2020-02-18T17:11:47Z"
+default_branch = "master"
+description = "Census 2020 Report"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "Chicago/census2020_ward_rpt"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "https://www.chicago.gov/city/en/sites/census2020/home/ward-reports.html"
+id = 241_420_345
+language = "HTML"
+name = "census2020_ward_rpt"
+node_id = "MDEwOlJlcG9zaXRvcnkyNDE0MjAzNDU="
+open_issues_within = 10
+private = false
+pushed_within = "year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "year"
+watchers_within = 10
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 838_189
+  login = "Chicago"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjgzODE4OQ=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
