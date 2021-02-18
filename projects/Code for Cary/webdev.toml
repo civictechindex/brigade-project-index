@@ -1,6 +1,46 @@
 code_url = "https://github.com/CodeForCary/webdev"
 description = "Web Page source for Development rendered as polygons"
-git_branch = "master"
 git_url = "git://github.com/CodeForCary/webdev.git"
-last_pushed_within = "over_a_year"
 name = "webdev"
+organization_name = "Code for Cary"
+
+[github]
+archived = false
+created_at = "2014-03-25T23:45:42Z"
+default_branch = "master"
+description = "Web Page source for Development rendered as polygons"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "CodeForCary/webdev"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 18_120_703
+language = "HTML"
+license = { }
+name = "webdev"
+node_id = "MDEwOlJlcG9zaXRvcnkxODEyMDcwMw=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 4_837_138
+  login = "CodeForCary"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjQ4MzcxMzg="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

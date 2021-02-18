@@ -1,7 +1,52 @@
 code_url = "https://github.com/CodeForCary/vizicities"
 description = "3D city and data visualisation platform"
-git_branch = "master"
 git_url = "git://github.com/CodeForCary/vizicities.git"
-last_pushed_within = "over_a_year"
 link_url = "http://vizicities.com"
 name = "vizicities"
+organization_name = "Code for Cary"
+
+[github]
+archived = false
+created_at = "2014-02-17T13:18:48Z"
+default_branch = "master"
+description = "3D city and data visualisation platform"
+disabled = false
+fork = true
+forks_within = 10
+full_name = "CodeForCary/vizicities"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://vizicities.com"
+id = 16_913_391
+language = "JavaScript"
+name = "vizicities"
+node_id = "MDEwOlJlcG9zaXRvcnkxNjkxMzM5MQ=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "other"
+  name = "Other"
+  node_id = "MDc6TGljZW5zZTA="
+  spdx_id = "NOASSERTION"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 4_837_138
+  login = "CodeForCary"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjQ4MzcxMzg="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

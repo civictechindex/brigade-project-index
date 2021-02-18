@@ -1,6 +1,46 @@
 code_url = "https://github.com/CodeForCary/CountyDataUSA5m"
 description = "5m resolution from Census.gov - GeoJSON file of all counties in the USA"
-git_branch = "master"
 git_url = "git://github.com/CodeForCary/CountyDataUSA5m.git"
-last_pushed_within = "over_a_year"
 name = "CountyDataUSA5m"
+organization_name = "Code for Cary"
+
+[github]
+archived = false
+created_at = "2018-11-29T14:15:46Z"
+default_branch = "master"
+description = "5m resolution from Census.gov - GeoJSON file of all counties in the USA"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "CodeForCary/CountyDataUSA5m"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 159_676_935
+language = { }
+license = { }
+name = "CountyDataUSA5m"
+node_id = "MDEwOlJlcG9zaXRvcnkxNTk2NzY5MzU="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 4_837_138
+  login = "CodeForCary"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjQ4MzcxMzg="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

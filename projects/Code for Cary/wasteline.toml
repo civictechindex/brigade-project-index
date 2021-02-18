@@ -1,6 +1,46 @@
 code_url = "https://github.com/CodeForCary/wasteline"
 description = "Garbage and recycling scheduling information and notifications for residents of the Town of Cary"
-git_branch = "master"
 git_url = "git://github.com/CodeForCary/wasteline.git"
-last_pushed_within = "year"
 name = "wasteline"
+organization_name = "Code for Cary"
+
+[github]
+archived = false
+created_at = "2016-02-23T22:34:12Z"
+default_branch = "master"
+description = "Garbage and recycling scheduling information and notifications for residents of the Town of Cary"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "CodeForCary/wasteline"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 52_396_528
+language = "HTML"
+license = { }
+name = "wasteline"
+node_id = "MDEwOlJlcG9zaXRvcnk1MjM5NjUyOA=="
+open_issues_within = 10
+private = false
+pushed_within = "month"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 4_837_138
+  login = "CodeForCary"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjQ4MzcxMzg="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
