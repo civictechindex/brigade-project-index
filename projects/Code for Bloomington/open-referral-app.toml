@@ -1,6 +1,51 @@
 code_url = "https://github.com/BMGhack/open-referral-app"
 description = "Working repo for an open referral application"
-git_branch = "master"
 git_url = "git://github.com/BMGhack/open-referral-app.git"
-last_pushed_within = "over_a_year"
 name = "open-referral-app"
+organization_name = "Code for Bloomington"
+
+[github]
+archived = false
+created_at = "2019-05-02T22:10:59Z"
+default_branch = "master"
+description = "Working repo for an open referral application"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "BMGhack/open-referral-app"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 184_658_663
+language = { }
+name = "open-referral-app"
+node_id = "MDEwOlJlcG9zaXRvcnkxODQ2NTg2NjM="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 28_742_394
+  login = "BMGhack"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI4NzQyMzk0"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

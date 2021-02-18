@@ -1,6 +1,51 @@
 code_url = "https://github.com/BMGhack/Lets-Get-Visual"
 description = "Collection of data visualization methods for open data sets"
-git_branch = "master"
 git_url = "git://github.com/BMGhack/Lets-Get-Visual.git"
-last_pushed_within = "year"
 name = "Lets-Get-Visual"
+organization_name = "Code for Bloomington"
+
+[github]
+archived = false
+created_at = "2020-02-18T01:07:18Z"
+default_branch = "master"
+description = "Collection of data visualization methods for open data sets"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "BMGhack/Lets-Get-Visual"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 241_242_345
+language = "Jupyter Notebook"
+name = "Lets-Get-Visual"
+node_id = "MDEwOlJlcG9zaXRvcnkyNDEyNDIzNDU="
+open_issues_within = 10
+private = false
+pushed_within = "month"
+stargazers_within = 0
+topics = [ ]
+updated_within = "year"
+watchers_within = 0
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 28_742_394
+  login = "BMGhack"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI4NzQyMzk0"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

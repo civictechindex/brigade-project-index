@@ -1,6 +1,51 @@
 code_url = "https://github.com/BMGhack/uReport-client"
 description = "A redesigned front-end for Bloomington's citizen reporting application"
-git_branch = "master"
 git_url = "git://github.com/BMGhack/uReport-client.git"
-last_pushed_within = "over_a_year"
 name = "uReport-client"
+organization_name = "Code for Bloomington"
+
+[github]
+archived = false
+created_at = "2018-06-21T13:34:38Z"
+default_branch = "master"
+description = "A redesigned front-end for Bloomington's citizen reporting application"
+disabled = false
+fork = true
+forks_within = 0
+full_name = "BMGhack/uReport-client"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 138_174_658
+language = "CSS"
+name = "uReport-client"
+node_id = "MDEwOlJlcG9zaXRvcnkxMzgxNzQ2NTg="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 28_742_394
+  login = "BMGhack"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI4NzQyMzk0"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
