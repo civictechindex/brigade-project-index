@@ -1,7 +1,52 @@
 code_url = "https://github.com/codeforboston/ungentry"
 description = "Contributing to the policy discussion about gentrification and possible displacement"
-git_branch = "master"
 git_url = "git://github.com/codeforboston/ungentry.git"
-last_pushed_within = "over_a_year"
 link_url = "http://codeforboston.github.io/ungentry/"
 name = "ungentry"
+organization_name = "Code for Boston"
+
+[github]
+archived = false
+created_at = "2014-03-19T01:51:55Z"
+default_branch = "master"
+description = "Contributing to the policy discussion about gentrification and possible displacement"
+disabled = false
+fork = false
+forks_within = 100
+full_name = "codeforboston/ungentry"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "http://codeforboston.github.io/ungentry/"
+id = 17_888_836
+language = "Java"
+name = "ungentry"
+node_id = "MDEwOlJlcG9zaXRvcnkxNzg4ODgzNg=="
+open_issues_within = 100
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 100
+topics = [ ]
+updated_within = "year"
+watchers_within = 100
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_533_182
+  login = "codeforboston"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI1MzMxODI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

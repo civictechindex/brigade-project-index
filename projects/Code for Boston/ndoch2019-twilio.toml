@@ -1,6 +1,51 @@
 code_url = "https://github.com/codeforboston/ndoch2019-twilio"
 description = "A Twilio chatbot for MA record clearance eligibility"
-git_branch = "master"
 git_url = "git://github.com/codeforboston/ndoch2019-twilio.git"
-last_pushed_within = "over_a_year"
 name = "ndoch2019-twilio"
+organization_name = "Code for Boston"
+
+[github]
+archived = false
+created_at = "2019-09-23T18:55:37Z"
+default_branch = "master"
+description = "A Twilio chatbot for MA record clearance eligibility"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codeforboston/ndoch2019-twilio"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 210_429_830
+language = { }
+name = "ndoch2019-twilio"
+node_id = "MDEwOlJlcG9zaXRvcnkyMTA0Mjk4MzA="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_533_182
+  login = "codeforboston"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI1MzMxODI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

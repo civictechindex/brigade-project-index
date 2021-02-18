@@ -1,7 +1,47 @@
 code_url = "https://github.com/codeforboston/open_data_cambridge"
 description = "GIS data from City of Cambridge, Massachusetts: see updated version at @cambridgegis"
-git_branch = "master"
 git_url = "git://github.com/codeforboston/open_data_cambridge.git"
-last_pushed_within = "over_a_year"
 link_url = "https://github.com/cambridgegis/cambridgegis_data"
 name = "open_data_cambridge"
+organization_name = "Code for Boston"
+
+[github]
+archived = false
+created_at = "2013-07-16T23:38:59Z"
+default_branch = "master"
+description = "GIS data from City of Cambridge, Massachusetts: see updated version at @cambridgegis"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codeforboston/open_data_cambridge"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "https://github.com/cambridgegis/cambridgegis_data"
+id = 11_462_817
+language = { }
+license = { }
+name = "open_data_cambridge"
+node_id = "MDEwOlJlcG9zaXRvcnkxMTQ2MjgxNw=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_533_182
+  login = "codeforboston"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI1MzMxODI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

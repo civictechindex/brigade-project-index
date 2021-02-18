@@ -1,6 +1,51 @@
 code_url = "https://github.com/codeforboston/local-first-cms"
 description = "Template for local first websites"
-git_branch = "master"
 git_url = "git://github.com/codeforboston/local-first-cms.git"
-last_pushed_within = "over_a_year"
 name = "local-first-cms"
+organization_name = "Code for Boston"
+
+[github]
+archived = false
+created_at = "2017-12-06T01:45:20Z"
+default_branch = "master"
+description = "Template for local first websites"
+disabled = false
+fork = true
+forks_within = 10
+full_name = "codeforboston/local-first-cms"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 113_254_402
+language = "HTML"
+name = "local-first-cms"
+node_id = "MDEwOlJlcG9zaXRvcnkxMTMyNTQ0MDI="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_533_182
+  login = "codeforboston"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI1MzMxODI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

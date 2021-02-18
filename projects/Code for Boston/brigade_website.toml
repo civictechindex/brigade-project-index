@@ -1,6 +1,46 @@
 code_url = "https://github.com/codeforboston/brigade_website"
 description = "Website for the Code for Boston Brigade; part of Code for America"
-git_branch = "master"
 git_url = "git://github.com/codeforboston/brigade_website.git"
-last_pushed_within = "over_a_year"
 name = "brigade_website"
+organization_name = "Code for Boston"
+
+[github]
+archived = false
+created_at = "2013-08-14T19:25:38Z"
+default_branch = "master"
+description = "Website for the Code for Boston Brigade; part of Code for America"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codeforboston/brigade_website"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 12_117_480
+language = "JavaScript"
+license = { }
+name = "brigade_website"
+node_id = "MDEwOlJlcG9zaXRvcnkxMjExNzQ4MA=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_533_182
+  login = "codeforboston"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI1MzMxODI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

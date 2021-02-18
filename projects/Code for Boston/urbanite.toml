@@ -1,6 +1,51 @@
 code_url = "https://github.com/codeforboston/urbanite"
 description = "Urbanite: Boston is an app that allows users to access 'hidden' cultural gems in their local environment by leveraging social media streams from local venues and cultural organizations like bands, artists, authors, chefs, etc. It's based on the idea that most major media outlets don't necessarily know or report on what bands are playing at the Middle East or what movies are at the Brattle, but those places are promoting their lineups on their own Facebook and Twitter feeds. By aggregating those feeds by category and sub-category, we can let people explore cultural events in their neighborhoods. "
-git_branch = "dev_urbanite"
 git_url = "git://github.com/codeforboston/urbanite.git"
-last_pushed_within = "over_a_year"
 name = "urbanite"
+organization_name = "Code for Boston"
+
+[github]
+archived = false
+created_at = "2012-12-23T16:45:50Z"
+default_branch = "dev_urbanite"
+description = "Urbanite: Boston is an app that allows users to access 'hidden' cultural gems in their local environment by leveraging social media streams from local venues and cultural organizations like bands, artists, authors, chefs, etc. It's based on the idea that most major media outlets don't necessarily know or report on what bands are playing at the Middle East or what movies are at the Brattle, but those places are promoting their lineups on their own Facebook and Twitter feeds. By aggregating those feeds by category and sub-category, we can let people explore cultural events in their neighborhoods. "
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codeforboston/urbanite"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 7_296_836
+language = "JavaScript"
+name = "urbanite"
+node_id = "MDEwOlJlcG9zaXRvcnk3Mjk2ODM2"
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "year"
+watchers_within = 10
+
+  [github.license]
+  key = "gpl-3.0"
+  name = "GNU General Public License v3.0"
+  node_id = "MDc6TGljZW5zZTk="
+  spdx_id = "GPL-3.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_533_182
+  login = "codeforboston"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI1MzMxODI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

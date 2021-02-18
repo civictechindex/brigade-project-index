@@ -1,12 +1,62 @@
 code_url = "https://github.com/codeforboston/GovLens"
 description = "We scan thousands of government websites to check how well they stack up on security, accessibility, and public accountability."
-git_branch = "master"
 git_url = "git://github.com/codeforboston/GovLens.git"
-last_pushed_within = "year"
 name = "GovLens"
+organization_name = "Code for Boston"
 topics = [
   "code-for-america",
   "code-for-boston",
   "federal-websites",
   "muckrock"
 ]
+
+[github]
+archived = false
+created_at = "2019-04-06T19:45:05Z"
+default_branch = "master"
+description = "We scan thousands of government websites to check how well they stack up on security, accessibility, and public accountability."
+disabled = false
+fork = false
+forks_within = 100
+full_name = "codeforboston/GovLens"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 179_879_021
+language = "Python"
+name = "GovLens"
+node_id = "MDEwOlJlcG9zaXRvcnkxNzk4NzkwMjE="
+open_issues_within = 100
+private = false
+pushed_within = "year"
+stargazers_within = 100
+topics = [
+  "code-for-america",
+  "code-for-boston",
+  "federal-websites",
+  "muckrock"
+]
+updated_within = "year"
+watchers_within = 100
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_533_182
+  login = "codeforboston"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI1MzMxODI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

@@ -1,34 +1,43 @@
-code_url = "https://github.com/codeforboston/codeforboston.org"
-description = "Code for Boston's website."
-git_url = "git://github.com/codeforboston/codeforboston.org.git"
-link_url = "http://codeforboston.org"
-name = "codeforboston.org"
+code_url = "https://github.com/codeforboston/clean-slate-data"
+git_url = "git://github.com/codeforboston/clean-slate-data.git"
+name = "clean-slate-data"
 organization_name = "Code for Boston"
+topics = [
+  "code-for-america",
+  "code-for-boston",
+  "criminal-justice",
+  "expungement"
+]
 
 [github]
 archived = false
-created_at = "2015-05-06T14:29:34Z"
+created_at = "2019-02-27T20:39:29Z"
 default_branch = "master"
-description = "Code for Boston's website."
+description = { }
 disabled = false
 fork = false
 forks_within = 100
-full_name = "codeforboston/codeforboston.org"
+full_name = "codeforboston/clean-slate-data"
 has_downloads = true
 has_issues = true
 has_pages = true
 has_projects = true
 has_wiki = true
-homepage = "http://codeforboston.org"
-id = 35_163_517
-language = "HTML"
-name = "codeforboston.org"
-node_id = "MDEwOlJlcG9zaXRvcnkzNTE2MzUxNw=="
+homepage = { }
+id = 172_986_776
+language = "Jupyter Notebook"
+name = "clean-slate-data"
+node_id = "MDEwOlJlcG9zaXRvcnkxNzI5ODY3NzY="
 open_issues_within = 100
 private = false
 pushed_within = "week"
 stargazers_within = 100
-topics = [ ]
+topics = [
+  "code-for-america",
+  "code-for-boston",
+  "criminal-justice",
+  "expungement"
+]
 updated_within = "week"
 watchers_within = 100
 

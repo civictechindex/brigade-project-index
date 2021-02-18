@@ -1,6 +1,46 @@
 code_url = "https://github.com/codeforboston/helpsteps-mobile"
 description = "mobile frontend for helpsteps"
-git_branch = "master"
 git_url = "git://github.com/codeforboston/helpsteps-mobile.git"
-last_pushed_within = "over_a_year"
 name = "helpsteps-mobile"
+organization_name = "Code for Boston"
+
+[github]
+archived = false
+created_at = "2015-10-27T23:58:46Z"
+default_branch = "master"
+description = "mobile frontend for helpsteps"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codeforboston/helpsteps-mobile"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 45_077_537
+language = "JavaScript"
+license = { }
+name = "helpsteps-mobile"
+node_id = "MDEwOlJlcG9zaXRvcnk0NTA3NzUzNw=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_533_182
+  login = "codeforboston"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI1MzMxODI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

@@ -1,6 +1,46 @@
 code_url = "https://github.com/codeforboston/slack-doorbell"
 description = '"Doorbell", so members can text Twilio and it alerts us all on Slack'
-git_branch = "master"
 git_url = "git://github.com/codeforboston/slack-doorbell.git"
-last_pushed_within = "over_a_year"
 name = "slack-doorbell"
+organization_name = "Code for Boston"
+
+[github]
+archived = false
+created_at = "2014-12-03T02:10:35Z"
+default_branch = "master"
+description = '"Doorbell", so members can text Twilio and it alerts us all on Slack'
+disabled = false
+fork = true
+forks_within = 10
+full_name = "codeforboston/slack-doorbell"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 27_464_454
+language = "JavaScript"
+license = { }
+name = "slack-doorbell"
+node_id = "MDEwOlJlcG9zaXRvcnkyNzQ2NDQ1NA=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_533_182
+  login = "codeforboston"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI1MzMxODI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

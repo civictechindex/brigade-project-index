@@ -1,7 +1,52 @@
 code_url = "https://github.com/codeforboston/cambridge_voting_locations"
 description = "People of Cambridge, find your polling location."
-git_branch = "master"
 git_url = "git://github.com/codeforboston/cambridge_voting_locations.git"
-last_pushed_within = "over_a_year"
 link_url = "https://votecambridge.com"
 name = "cambridge_voting_locations"
+organization_name = "Code for Boston"
+
+[github]
+archived = false
+created_at = "2013-08-14T02:00:19Z"
+default_branch = "master"
+description = "People of Cambridge, find your polling location."
+disabled = false
+fork = false
+forks_within = 100
+full_name = "codeforboston/cambridge_voting_locations"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "https://votecambridge.com"
+id = 12_097_612
+language = "JavaScript"
+name = "cambridge_voting_locations"
+node_id = "MDEwOlJlcG9zaXRvcnkxMjA5NzYxMg=="
+open_issues_within = 100
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 100
+topics = [ ]
+updated_within = "year"
+watchers_within = 100
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_533_182
+  login = "codeforboston"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI1MzMxODI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

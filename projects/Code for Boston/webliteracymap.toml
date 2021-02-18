@@ -1,7 +1,52 @@
 code_url = "https://github.com/codeforboston/webliteracymap"
 description = "A collaborative effort, led by Mozilla, to define the skills and competencies required to read, write and participate on the web."
-git_branch = "master"
 git_url = "git://github.com/codeforboston/webliteracymap.git"
-last_pushed_within = "over_a_year"
 link_url = "http://webmaker.org/literacy"
 name = "webliteracymap"
+organization_name = "Code for Boston"
+
+[github]
+archived = false
+created_at = "2014-10-04T21:22:41Z"
+default_branch = "master"
+description = "A collaborative effort, led by Mozilla, to define the skills and competencies required to read, write and participate on the web."
+disabled = false
+fork = true
+forks_within = 0
+full_name = "codeforboston/webliteracymap"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://webmaker.org/literacy"
+id = 24_801_873
+language = { }
+name = "webliteracymap"
+node_id = "MDEwOlJlcG9zaXRvcnkyNDgwMTg3Mw=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "other"
+  name = "Other"
+  node_id = "MDc6TGljZW5zZTA="
+  spdx_id = "NOASSERTION"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_533_182
+  login = "codeforboston"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI1MzMxODI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

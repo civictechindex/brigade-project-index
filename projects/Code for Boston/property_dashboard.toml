@@ -1,7 +1,52 @@
 code_url = "https://github.com/codeforboston/property_dashboard"
 description = "The Wilmington Property Dashboard, started at CodeAcross"
-git_branch = "master"
 git_url = "git://github.com/codeforboston/property_dashboard.git"
-last_pushed_within = "over_a_year"
 link_url = "http://app.paulswartz.net/property-dash/"
 name = "property_dashboard"
+organization_name = "Code for Boston"
+
+[github]
+archived = false
+created_at = "2015-03-20T12:42:20Z"
+default_branch = "master"
+description = "The Wilmington Property Dashboard, started at CodeAcross"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codeforboston/property_dashboard"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://app.paulswartz.net/property-dash/"
+id = 32_583_080
+language = "JavaScript"
+name = "property_dashboard"
+node_id = "MDEwOlJlcG9zaXRvcnkzMjU4MzA4MA=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_533_182
+  login = "codeforboston"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI1MzMxODI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

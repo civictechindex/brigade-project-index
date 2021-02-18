@@ -1,6 +1,46 @@
 code_url = "https://github.com/codeforboston/mass-militarization"
 description = "Looking at trends of militarization in police forces in Massachusetts"
-git_branch = "master"
 git_url = "git://github.com/codeforboston/mass-militarization.git"
-last_pushed_within = "over_a_year"
 name = "mass-militarization"
+organization_name = "Code for Boston"
+
+[github]
+archived = false
+created_at = "2019-04-06T19:46:42Z"
+default_branch = "master"
+description = "Looking at trends of militarization in police forces in Massachusetts"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codeforboston/mass-militarization"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 179_879_177
+language = "HTML"
+license = { }
+name = "mass-militarization"
+node_id = "MDEwOlJlcG9zaXRvcnkxNzk4NzkxNzc="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_533_182
+  login = "codeforboston"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI1MzMxODI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

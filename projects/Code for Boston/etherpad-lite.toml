@@ -1,7 +1,52 @@
 code_url = "https://github.com/codeforboston/etherpad-lite"
 description = "Etherpad: Really real-time collaborative document editing"
-git_branch = "develop"
 git_url = "git://github.com/codeforboston/etherpad-lite.git"
-last_pushed_within = "over_a_year"
 link_url = "http://etherpad.org"
 name = "etherpad-lite"
+organization_name = "Code for Boston"
+
+[github]
+archived = false
+created_at = "2017-04-25T23:06:53Z"
+default_branch = "develop"
+description = "Etherpad: Really real-time collaborative document editing"
+disabled = false
+fork = true
+forks_within = 0
+full_name = "codeforboston/etherpad-lite"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://etherpad.org"
+id = 89_414_789
+language = "JavaScript"
+name = "etherpad-lite"
+node_id = "MDEwOlJlcG9zaXRvcnk4OTQxNDc4OQ=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "apache-2.0"
+  name = "Apache License 2.0"
+  node_id = "MDc6TGljZW5zZTI="
+  spdx_id = "Apache-2.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_533_182
+  login = "codeforboston"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI1MzMxODI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

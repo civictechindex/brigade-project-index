@@ -1,7 +1,52 @@
 code_url = "https://github.com/codeforboston/brigade_frontend"
 description = "a front-end for the Code for Boston Brigade website, running on Ember.js and served by Grunt"
-git_branch = "master"
 git_url = "git://github.com/codeforboston/brigade_frontend.git"
-last_pushed_within = "over_a_year"
 link_url = "http://codeforboston.github.io/brigade_frontend"
 name = "brigade_frontend"
+organization_name = "Code for Boston"
+
+[github]
+archived = false
+created_at = "2013-10-09T01:25:08Z"
+default_branch = "master"
+description = "a front-end for the Code for Boston Brigade website, running on Ember.js and served by Grunt"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codeforboston/brigade_frontend"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "http://codeforboston.github.io/brigade_frontend"
+id = 13_430_046
+language = "JavaScript"
+name = "brigade_frontend"
+node_id = "MDEwOlJlcG9zaXRvcnkxMzQzMDA0Ng=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_533_182
+  login = "codeforboston"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI1MzMxODI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

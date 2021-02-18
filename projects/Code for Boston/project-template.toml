@@ -1,6 +1,51 @@
 code_url = "https://github.com/codeforboston/project-template"
 description = "Template READMEs and Wiki pages for new and established projects."
-git_branch = "master"
 git_url = "git://github.com/codeforboston/project-template.git"
-last_pushed_within = "over_a_year"
 name = "project-template"
+organization_name = "Code for Boston"
+
+[github]
+archived = false
+created_at = "2015-08-28T22:18:47Z"
+default_branch = "master"
+description = "Template READMEs and Wiki pages for new and established projects."
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codeforboston/project-template"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 41_571_615
+language = { }
+name = "project-template"
+node_id = "MDEwOlJlcG9zaXRvcnk0MTU3MTYxNQ=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_533_182
+  login = "codeforboston"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI1MzMxODI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

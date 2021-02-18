@@ -1,5 +1,50 @@
 code_url = "https://github.com/codeforboston/plogalong"
-git_branch = "master"
 git_url = "git://github.com/codeforboston/plogalong.git"
-last_pushed_within = "month"
 name = "plogalong"
+organization_name = "Code for Boston"
+
+[github]
+archived = false
+created_at = "2019-02-27T01:43:09Z"
+default_branch = "develop"
+description = { }
+disabled = false
+fork = false
+forks_within = 100
+full_name = "codeforboston/plogalong"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 172_821_607
+language = "JavaScript"
+name = "plogalong"
+node_id = "MDEwOlJlcG9zaXRvcnkxNzI4MjE2MDc="
+open_issues_within = 100
+private = false
+pushed_within = "week"
+stargazers_within = 100
+topics = [ ]
+updated_within = "month"
+watchers_within = 100
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_533_182
+  login = "codeforboston"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI1MzMxODI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

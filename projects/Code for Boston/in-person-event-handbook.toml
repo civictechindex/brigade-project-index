@@ -1,7 +1,47 @@
 code_url = "https://github.com/codeforboston/in-person-event-handbook"
 description = "getting your open source project ready for new contributors"
-git_branch = "master"
 git_url = "git://github.com/codeforboston/in-person-event-handbook.git"
-last_pushed_within = "over_a_year"
 link_url = "http://opensource-events.com/"
 name = "in-person-event-handbook"
+organization_name = "Code for Boston"
+
+[github]
+archived = false
+created_at = "2014-05-06T00:41:56Z"
+default_branch = "master"
+description = "getting your open source project ready for new contributors"
+disabled = false
+fork = true
+forks_within = 10
+full_name = "codeforboston/in-person-event-handbook"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://opensource-events.com/"
+id = 19_475_966
+language = "Python"
+license = { }
+name = "in-person-event-handbook"
+node_id = "MDEwOlJlcG9zaXRvcnkxOTQ3NTk2Ng=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_533_182
+  login = "codeforboston"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI1MzMxODI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

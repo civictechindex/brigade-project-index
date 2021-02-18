@@ -1,7 +1,47 @@
 code_url = "https://github.com/codeforboston/calendar_front_end"
 description = "Front end for the Boston Civic Tech Ecosystem Calendar"
-git_branch = "master"
 git_url = "git://github.com/codeforboston/calendar_front_end.git"
-last_pushed_within = "over_a_year"
 link_url = "http://codeforboston.github.io/calendar_front_end"
 name = "calendar_front_end"
+organization_name = "Code for Boston"
+
+[github]
+archived = false
+created_at = "2015-05-19T23:04:49Z"
+default_branch = "master"
+description = "Front end for the Boston Civic Tech Ecosystem Calendar"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codeforboston/calendar_front_end"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "http://codeforboston.github.io/calendar_front_end"
+id = 35_913_323
+language = "HTML"
+license = { }
+name = "calendar_front_end"
+node_id = "MDEwOlJlcG9zaXRvcnkzNTkxMzMyMw=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_533_182
+  login = "codeforboston"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI1MzMxODI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

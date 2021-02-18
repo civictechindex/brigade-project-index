@@ -1,7 +1,52 @@
 code_url = "https://github.com/codeforboston/bostongreenmap"
 description = "Boston Green Map - A map promoting green spaces in Metro Boston."
-git_branch = "master"
 git_url = "git://github.com/codeforboston/bostongreenmap.git"
-last_pushed_within = "over_a_year"
 link_url = "http://bostongreenspace.org/"
 name = "bostongreenmap"
+organization_name = "Code for Boston"
+
+[github]
+archived = false
+created_at = "2013-04-05T15:48:06Z"
+default_branch = "master"
+description = "Boston Green Map - A map promoting green spaces in Metro Boston."
+disabled = false
+fork = false
+forks_within = 100
+full_name = "codeforboston/bostongreenmap"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://bostongreenspace.org/"
+id = 9_244_578
+language = "JavaScript"
+name = "bostongreenmap"
+node_id = "MDEwOlJlcG9zaXRvcnk5MjQ0NTc4"
+open_issues_within = 100
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 100
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 100
+
+  [github.license]
+  key = "other"
+  name = "Other"
+  node_id = "MDc6TGljZW5zZTA="
+  spdx_id = "NOASSERTION"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_533_182
+  login = "codeforboston"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI1MzMxODI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

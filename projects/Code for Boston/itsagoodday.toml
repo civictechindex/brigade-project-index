@@ -1,6 +1,51 @@
 code_url = "https://github.com/codeforboston/itsagoodday"
 description = "It's a good day, it's a national day of civic hacking."
-git_branch = "master"
 git_url = "git://github.com/codeforboston/itsagoodday.git"
-last_pushed_within = "over_a_year"
 name = "itsagoodday"
+organization_name = "Code for Boston"
+
+[github]
+archived = false
+created_at = "2014-06-02T15:44:27Z"
+default_branch = "master"
+description = "It's a good day, it's a national day of civic hacking."
+disabled = false
+fork = false
+forks_within = 0
+full_name = "codeforboston/itsagoodday"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 20_409_538
+language = { }
+name = "itsagoodday"
+node_id = "MDEwOlJlcG9zaXRvcnkyMDQwOTUzOA=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "other"
+  name = "Other"
+  node_id = "MDc6TGljZW5zZTA="
+  spdx_id = "NOASSERTION"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_533_182
+  login = "codeforboston"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI1MzMxODI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

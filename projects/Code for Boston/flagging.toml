@@ -1,6 +1,51 @@
 code_url = "https://github.com/codeforboston/flagging"
 description = "Flagging website for CRWA"
-git_branch = "master"
 git_url = "git://github.com/codeforboston/flagging.git"
-last_pushed_within = "month"
 name = "flagging"
+organization_name = "Code for Boston"
+
+[github]
+archived = false
+created_at = "2020-05-06T01:15:14Z"
+default_branch = "main"
+description = "Flagging website for CRWA"
+disabled = false
+fork = false
+forks_within = 100
+full_name = "codeforboston/flagging"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 261_620_297
+language = "Python"
+name = "flagging"
+node_id = "MDEwOlJlcG9zaXRvcnkyNjE2MjAyOTc="
+open_issues_within = 10
+private = false
+pushed_within = "week"
+stargazers_within = 10
+topics = [ ]
+updated_within = "week"
+watchers_within = 10
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_533_182
+  login = "codeforboston"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI1MzMxODI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

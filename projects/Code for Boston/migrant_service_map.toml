@@ -1,10 +1,9 @@
 code_url = "https://github.com/codeforboston/migrant_service_map"
 description = "Refugees welcome"
-git_branch = "reboot"
 git_url = "git://github.com/codeforboston/migrant_service_map.git"
-last_pushed_within = "year"
 link_url = "https://migrantservicemap.com"
 name = "migrant_service_map"
+organization_name = "Code for Boston"
 topics = [
   "boston",
   "code-for-america",
@@ -16,3 +15,59 @@ topics = [
   "refugees-welcome",
   "service-providers"
 ]
+
+[github]
+archived = false
+created_at = "2018-09-26T00:25:29Z"
+default_branch = "reboot"
+description = "Refugees welcome"
+disabled = false
+fork = false
+forks_within = 100
+full_name = "codeforboston/migrant_service_map"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "https://migrantservicemap.com"
+id = 150_345_404
+language = "JavaScript"
+name = "migrant_service_map"
+node_id = "MDEwOlJlcG9zaXRvcnkxNTAzNDU0MDQ="
+open_issues_within = 100
+private = false
+pushed_within = "month"
+stargazers_within = 100
+topics = [
+  "boston",
+  "code-for-america",
+  "code-for-boston",
+  "mapbox",
+  "migrants",
+  "rapid-response",
+  "refugees",
+  "refugees-welcome",
+  "service-providers"
+]
+updated_within = "year"
+watchers_within = 100
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_533_182
+  login = "codeforboston"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI1MzMxODI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
