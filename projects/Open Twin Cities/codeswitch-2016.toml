@@ -1,6 +1,46 @@
 code_url = "https://github.com/OpenTwinCities/codeswitch-2016"
 description = "Archive of the 2016 Code Switch Event website"
-git_branch = "master"
 git_url = "git://github.com/OpenTwinCities/codeswitch-2016.git"
-last_pushed_within = "over_a_year"
 name = "codeswitch-2016"
+organization_name = "Open Twin Cities"
+
+[github]
+archived = false
+created_at = "2017-03-03T14:43:28Z"
+default_branch = "master"
+description = "Archive of the 2016 Code Switch Event website"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "OpenTwinCities/codeswitch-2016"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 83_808_029
+language = { }
+license = { }
+name = "codeswitch-2016"
+node_id = "MDEwOlJlcG9zaXRvcnk4MzgwODAyOQ=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_691_793
+  login = "OpenTwinCities"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI2OTE3OTM="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

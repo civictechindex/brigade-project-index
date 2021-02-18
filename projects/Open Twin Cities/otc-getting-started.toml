@@ -1,6 +1,46 @@
 code_url = "https://github.com/OpenTwinCities/otc-getting-started"
 description = "Need somewhere to start? Look no further!"
-git_branch = "master"
 git_url = "git://github.com/OpenTwinCities/otc-getting-started.git"
-last_pushed_within = "year"
 name = "otc-getting-started"
+organization_name = "Open Twin Cities"
+
+[github]
+archived = false
+created_at = "2020-01-24T00:20:53Z"
+default_branch = "master"
+description = "Need somewhere to start? Look no further!"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "OpenTwinCities/otc-getting-started"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 235_912_580
+language = { }
+license = { }
+name = "otc-getting-started"
+node_id = "MDEwOlJlcG9zaXRvcnkyMzU5MTI1ODA="
+open_issues_within = 0
+private = false
+pushed_within = "year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_691_793
+  login = "OpenTwinCities"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI2OTE3OTM="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

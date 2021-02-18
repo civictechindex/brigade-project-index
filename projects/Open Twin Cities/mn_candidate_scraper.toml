@@ -1,7 +1,52 @@
 code_url = "https://github.com/OpenTwinCities/mn_candidate_scraper"
 description = "A script to scrape public candidate data from the Minnesota Secretary of State's website"
-git_branch = "master"
 git_url = "git://github.com/OpenTwinCities/mn_candidate_scraper.git"
-last_pushed_within = "over_a_year"
 name = "mn_candidate_scraper"
+organization_name = "Open Twin Cities"
 topics = [ "election-data", "elections", "minnesota" ]
+
+[github]
+archived = false
+created_at = "2018-07-22T01:29:06Z"
+default_branch = "master"
+description = "A script to scrape public candidate data from the Minnesota Secretary of State's website"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "OpenTwinCities/mn_candidate_scraper"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 141_857_107
+language = "Python"
+name = "mn_candidate_scraper"
+node_id = "MDEwOlJlcG9zaXRvcnkxNDE4NTcxMDc="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ "election-data", "elections", "minnesota" ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_691_793
+  login = "OpenTwinCities"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI2OTE3OTM="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

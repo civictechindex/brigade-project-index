@@ -1,6 +1,46 @@
 code_url = "https://github.com/OpenTwinCities/police-militarization-data-analysis"
 description = "Using public datasets to analyze police militarization trends"
-git_branch = "master"
 git_url = "git://github.com/OpenTwinCities/police-militarization-data-analysis.git"
-last_pushed_within = "year"
 name = "police-militarization-data-analysis"
+organization_name = "Open Twin Cities"
+
+[github]
+archived = false
+created_at = "2020-06-25T05:48:06Z"
+default_branch = "master"
+description = "Using public datasets to analyze police militarization trends"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "OpenTwinCities/police-militarization-data-analysis"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 274_839_115
+language = "HTML"
+license = { }
+name = "police-militarization-data-analysis"
+node_id = "MDEwOlJlcG9zaXRvcnkyNzQ4MzkxMTU="
+open_issues_within = 10
+private = false
+pushed_within = "year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_691_793
+  login = "OpenTwinCities"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI2OTE3OTM="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

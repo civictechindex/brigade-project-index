@@ -1,6 +1,46 @@
 code_url = "https://github.com/OpenTwinCities/covid19-data-exploration"
 description = "Tutorials and visualizations of data related to the COVID-19 pandemic"
-git_branch = "master"
 git_url = "git://github.com/OpenTwinCities/covid19-data-exploration.git"
-last_pushed_within = "year"
 name = "covid19-data-exploration"
+organization_name = "Open Twin Cities"
+
+[github]
+archived = false
+created_at = "2020-03-26T04:19:09Z"
+default_branch = "master"
+description = "Tutorials and visualizations of data related to the COVID-19 pandemic"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "OpenTwinCities/covid19-data-exploration"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 250_159_740
+language = { }
+license = { }
+name = "covid19-data-exploration"
+node_id = "MDEwOlJlcG9zaXRvcnkyNTAxNTk3NDA="
+open_issues_within = 0
+private = false
+pushed_within = "year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_691_793
+  login = "OpenTwinCities"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI2OTE3OTM="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
