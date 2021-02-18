@@ -1,34 +1,35 @@
-code_url = "https://github.com/Code4PuertoRico/chime"
-description = "COVID-19 Hospital Impact Model for Epidemics"
-git_url = "git://github.com/Code4PuertoRico/chime.git"
-name = "chime"
+code_url = "https://github.com/Code4PuertoRico/horas"
+description = "Una plataforma para facilitar la mentoría."
+git_url = "git://github.com/Code4PuertoRico/horas.git"
+link_url = "1hora.org"
+name = "horas"
 organization_name = "Code4PuertoRico"
 
 [github]
 archived = false
-created_at = "2020-03-16T18:47:02Z"
-default_branch = "master"
-description = "COVID-19 Hospital Impact Model for Epidemics"
+created_at = "2014-02-25T22:53:50Z"
+default_branch = "main"
+description = "Una plataforma para facilitar la mentoría."
 disabled = false
 fork = true
 forks_within = 0
-full_name = "Code4PuertoRico/chime"
+full_name = "Code4PuertoRico/horas"
 has_downloads = true
-has_issues = false
+has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = true
-homepage = ""
-id = 247_792_383
-language = { }
-name = "chime"
-node_id = "MDEwOlJlcG9zaXRvcnkyNDc3OTIzODM="
+homepage = "1hora.org"
+id = 17_191_123
+language = "Python"
+name = "horas"
+node_id = "MDEwOlJlcG9zaXRvcnkxNzE5MTEyMw=="
 open_issues_within = 10
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 0
 topics = [ ]
-updated_within = "year"
+updated_within = "week"
 watchers_within = 0
 
   [github.license]

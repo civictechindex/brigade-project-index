@@ -1,9 +1,8 @@
 code_url = "https://github.com/Code4PuertoRico/base-repo"
 description = "Repositorio base para todo proyecto en Code 4 Puerto Rico"
-git_branch = "master"
 git_url = "git://github.com/Code4PuertoRico/base-repo.git"
-last_pushed_within = "year"
 name = "base-repo"
+organization_name = "Code4PuertoRico"
 topics = [
   "civic-tech",
   "code4pr",
@@ -11,3 +10,55 @@ topics = [
   "codeforamerica-brigade",
   "repo-template"
 ]
+
+[github]
+archived = false
+created_at = "2020-03-14T21:19:00Z"
+default_branch = "master"
+description = "Repositorio base para todo proyecto en Code 4 Puerto Rico"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "Code4PuertoRico/base-repo"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 247_354_771
+language = { }
+name = "base-repo"
+node_id = "MDEwOlJlcG9zaXRvcnkyNDczNTQ3NzE="
+open_issues_within = 0
+private = false
+pushed_within = "year"
+stargazers_within = 0
+topics = [
+  "civic-tech",
+  "code4pr",
+  "codeforall",
+  "codeforamerica-brigade",
+  "repo-template"
+]
+updated_within = "year"
+watchers_within = 0
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_626_422
+  login = "Code4PuertoRico"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjY2MjY0MjI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

@@ -1,10 +1,9 @@
 code_url = "https://github.com/Code4PuertoRico/municipios-api"
 description = "Simple Flask API for getting distance and adjacency information on Puerto Rico's municipalities"
-git_branch = "master"
 git_url = "git://github.com/Code4PuertoRico/municipios-api.git"
-last_pushed_within = "year"
 link_url = "https://municipios.rauln.com"
 name = "municipios-api"
+organization_name = "Code4PuertoRico"
 topics = [
   "flask-api",
   "graph-algorithms",
@@ -14,3 +13,57 @@ topics = [
   "zappa",
   "zappa-flask"
 ]
+
+[github]
+archived = false
+created_at = "2019-08-04T00:16:00Z"
+default_branch = "master"
+description = "Simple Flask API for getting distance and adjacency information on Puerto Rico's municipalities"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "Code4PuertoRico/municipios-api"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "https://municipios.rauln.com"
+id = 200_432_540
+language = "Python"
+name = "municipios-api"
+node_id = "MDEwOlJlcG9zaXRvcnkyMDA0MzI1NDA="
+open_issues_within = 0
+private = false
+pushed_within = "year"
+stargazers_within = 10
+topics = [
+  "flask-api",
+  "graph-algorithms",
+  "municipalities",
+  "puerto-rico",
+  "puerto-rico-municipalities",
+  "zappa",
+  "zappa-flask"
+]
+updated_within = "year"
+watchers_within = 10
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_626_422
+  login = "Code4PuertoRico"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjY2MjY0MjI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

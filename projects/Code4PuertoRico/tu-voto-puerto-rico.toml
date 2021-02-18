@@ -1,5 +1,50 @@
 code_url = "https://github.com/Code4PuertoRico/tu-voto-puerto-rico"
-git_branch = "master"
 git_url = "git://github.com/Code4PuertoRico/tu-voto-puerto-rico.git"
-last_pushed_within = "year"
 name = "tu-voto-puerto-rico"
+organization_name = "Code4PuertoRico"
+
+[github]
+archived = false
+created_at = "2020-07-31T18:01:59Z"
+default_branch = "master"
+description = { }
+disabled = false
+fork = false
+forks_within = 0
+full_name = "Code4PuertoRico/tu-voto-puerto-rico"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 284_099_214
+language = "JavaScript"
+name = "tu-voto-puerto-rico"
+node_id = "MDEwOlJlcG9zaXRvcnkyODQwOTkyMTQ="
+open_issues_within = 0
+private = false
+pushed_within = "year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "year"
+watchers_within = 0
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_626_422
+  login = "Code4PuertoRico"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjY2MjY0MjI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

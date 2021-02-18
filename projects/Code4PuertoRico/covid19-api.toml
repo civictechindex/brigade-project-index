@@ -1,10 +1,9 @@
 code_url = "https://github.com/Code4PuertoRico/covid19-api"
 description = "This API provides updated real-time data on coronavirus cases from the worldometers page, provided by the most reputable organizations and statistical offices in the world."
-git_branch = "master"
 git_url = "git://github.com/Code4PuertoRico/covid19-api.git"
-last_pushed_within = "month"
 link_url = "https://covid19-server.chrismichael.now.sh/api/v1"
 name = "covid19-api"
+organization_name = "Code4PuertoRico"
 topics = [
   "api",
   "civic-tech",
@@ -15,3 +14,58 @@ topics = [
   "data-mining",
   "puerto-rico"
 ]
+
+[github]
+archived = false
+created_at = "2020-04-16T22:43:06Z"
+default_branch = "master"
+description = "This API provides updated real-time data on coronavirus cases from the worldometers page, provided by the most reputable organizations and statistical offices in the world."
+disabled = false
+fork = true
+forks_within = 0
+full_name = "Code4PuertoRico/covid19-api"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "https://covid19-server.chrismichael.now.sh/api/v1"
+id = 256_346_250
+language = "JavaScript"
+name = "covid19-api"
+node_id = "MDEwOlJlcG9zaXRvcnkyNTYzNDYyNTA="
+open_issues_within = 10
+private = false
+pushed_within = "year"
+stargazers_within = 10
+topics = [
+  "api",
+  "civic-tech",
+  "civic-tech-puerto-rico",
+  "code-for-puerto-rico",
+  "coronavirus",
+  "covid-19",
+  "data-mining",
+  "puerto-rico"
+]
+updated_within = "year"
+watchers_within = 10
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_626_422
+  login = "Code4PuertoRico"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjY2MjY0MjI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

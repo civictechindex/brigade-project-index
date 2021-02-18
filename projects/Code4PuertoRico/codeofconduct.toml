@@ -1,12 +1,57 @@
 code_url = "https://github.com/Code4PuertoRico/codeofconduct"
 description = "Código de conducta de Code 4 Puerto Rico / Code 4 Puerto Rico Code of Conduct"
-git_branch = "master"
 git_url = "git://github.com/Code4PuertoRico/codeofconduct.git"
-last_pushed_within = "year"
 name = "codeofconduct"
+organization_name = "Code4PuertoRico"
 topics = [
-  "code-of-conduct",
   "code4puertorico",
+  "code-of-conduct",
   "codigo-de-conduta",
   "puerto-rico"
 ]
+
+[github]
+archived = false
+created_at = "2014-10-02T00:54:54Z"
+default_branch = "master"
+description = "Código de conducta de Code 4 Puerto Rico / Code 4 Puerto Rico Code of Conduct"
+disabled = false
+fork = true
+forks_within = 10
+full_name = "Code4PuertoRico/codeofconduct"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = false
+has_wiki = false
+homepage = ""
+id = 24_701_226
+language = { }
+license = { }
+name = "codeofconduct"
+node_id = "MDEwOlJlcG9zaXRvcnkyNDcwMTIyNg=="
+open_issues_within = 0
+private = false
+pushed_within = "year"
+stargazers_within = 10
+topics = [
+  "code4puertorico",
+  "code-of-conduct",
+  "codigo-de-conduta",
+  "puerto-rico"
+]
+updated_within = "year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_626_422
+  login = "Code4PuertoRico"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjY2MjY0MjI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

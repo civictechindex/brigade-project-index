@@ -1,6 +1,46 @@
 code_url = "https://github.com/Code4PuertoRico/code4pr-design"
 description = "Repositorio principal para nuestros trabajos de diseño en Civic Tech"
-git_branch = "master"
 git_url = "git://github.com/Code4PuertoRico/code4pr-design.git"
-last_pushed_within = "year"
 name = "code4pr-design"
+organization_name = "Code4PuertoRico"
+
+[github]
+archived = false
+created_at = "2020-08-08T18:15:12Z"
+default_branch = "master"
+description = "Repositorio principal para nuestros trabajos de diseño en Civic Tech"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "Code4PuertoRico/code4pr-design"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 286_095_998
+language = { }
+license = { }
+name = "code4pr-design"
+node_id = "MDEwOlJlcG9zaXRvcnkyODYwOTU5OTg="
+open_issues_within = 10
+private = false
+pushed_within = "year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_626_422
+  login = "Code4PuertoRico"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjY2MjY0MjI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

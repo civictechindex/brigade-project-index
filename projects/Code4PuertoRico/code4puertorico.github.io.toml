@@ -1,7 +1,63 @@
 code_url = "https://github.com/Code4PuertoRico/code4puertorico.github.io"
-description = "Website for Puerto Rico's weekly open gov hack night"
-git_branch = "master"
+description = "La casa temporera de nuestra pagina"
 git_url = "git://github.com/Code4PuertoRico/code4puertorico.github.io.git"
-last_pushed_within = "year"
 link_url = "http://code4puertorico.org"
 name = "code4puertorico.github.io"
+organization_name = "Code4PuertoRico"
+topics = [
+  "code-for-all",
+  "code-for-america",
+  "code-for-puerto-rico",
+  "puerto-rico"
+]
+
+[github]
+archived = false
+created_at = "2021-02-09T20:36:38Z"
+default_branch = "main"
+description = "La casa temporera de nuestra pagina"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "Code4PuertoRico/code4puertorico.github.io"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "http://code4puertorico.org"
+id = 337_529_779
+language = { }
+name = "code4puertorico.github.io"
+node_id = "MDEwOlJlcG9zaXRvcnkzMzc1Mjk3Nzk="
+open_issues_within = 0
+private = false
+pushed_within = "month"
+stargazers_within = 0
+topics = [
+  "code-for-all",
+  "code-for-america",
+  "code-for-puerto-rico",
+  "puerto-rico"
+]
+updated_within = "month"
+watchers_within = 0
+
+  [github.license]
+  key = "cc0-1.0"
+  name = "Creative Commons Zero v1.0 Universal"
+  node_id = "MDc6TGljZW5zZTY="
+  spdx_id = "CC0-1.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_626_422
+  login = "Code4PuertoRico"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjY2MjY0MjI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
