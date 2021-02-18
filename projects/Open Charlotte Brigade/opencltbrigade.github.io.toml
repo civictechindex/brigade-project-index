@@ -1,7 +1,52 @@
 code_url = "https://github.com/OpenCLTBrigade/opencltbrigade.github.io"
 description = "The Open Charlotte website"
-git_branch = "release"
 git_url = "git://github.com/OpenCLTBrigade/opencltbrigade.github.io.git"
-last_pushed_within = "week"
 link_url = "https://OpenCharlotte.org"
 name = "opencltbrigade.github.io"
+organization_name = "Open Charlotte Brigade"
+
+[github]
+archived = false
+created_at = "2018-12-10T02:17:22Z"
+default_branch = "release"
+description = "The Open Charlotte website"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "OpenCLTBrigade/opencltbrigade.github.io"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = false
+has_wiki = false
+homepage = "https://OpenCharlotte.org"
+id = 161_103_978
+language = "HTML"
+name = "opencltbrigade.github.io"
+node_id = "MDEwOlJlcG9zaXRvcnkxNjExMDM5Nzg="
+open_issues_within = 10
+private = false
+pushed_within = "week"
+stargazers_within = 0
+topics = [ ]
+updated_within = "year"
+watchers_within = 0
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 7_139_543
+  login = "OpenCLTBrigade"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjcxMzk1NDM="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

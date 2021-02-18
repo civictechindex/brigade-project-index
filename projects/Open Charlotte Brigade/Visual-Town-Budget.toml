@@ -1,7 +1,47 @@
 code_url = "https://github.com/OpenCLTBrigade/Visual-Town-Budget"
 description = "Open-source budget visualization framework."
-git_branch = "master"
 git_url = "git://github.com/OpenCLTBrigade/Visual-Town-Budget.git"
-last_pushed_within = "over_a_year"
 link_url = "http://www.arlingtonvisualbudget.org/"
 name = "Visual-Town-Budget"
+organization_name = "Open Charlotte Brigade"
+
+[github]
+archived = false
+created_at = "2015-02-21T15:00:04Z"
+default_branch = "master"
+description = "Open-source budget visualization framework."
+disabled = false
+fork = true
+forks_within = 10
+full_name = "OpenCLTBrigade/Visual-Town-Budget"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = false
+homepage = "http://www.arlingtonvisualbudget.org/"
+id = 31_128_845
+language = "JavaScript"
+license = { }
+name = "Visual-Town-Budget"
+node_id = "MDEwOlJlcG9zaXRvcnkzMTEyODg0NQ=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 7_139_543
+  login = "OpenCLTBrigade"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjcxMzk1NDM="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

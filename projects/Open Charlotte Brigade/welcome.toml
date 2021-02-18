@@ -1,7 +1,52 @@
 code_url = "https://github.com/OpenCLTBrigade/welcome"
 description = "(in process) Introductory document for new brigade members, via GitHub Pages, originally created by @BretFisher and @bcbarsness."
-git_branch = "gh-pages"
 git_url = "git://github.com/OpenCLTBrigade/welcome.git"
-last_pushed_within = "over_a_year"
 link_url = "welcome.c4hrva.us"
 name = "welcome"
+organization_name = "Open Charlotte Brigade"
+
+[github]
+archived = false
+created_at = "2014-05-20T01:49:35Z"
+default_branch = "gh-pages"
+description = "(in process) Introductory document for new brigade members, via GitHub Pages, originally created by @BretFisher and @bcbarsness."
+disabled = false
+fork = true
+forks_within = 0
+full_name = "OpenCLTBrigade/welcome"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = false
+homepage = "welcome.c4hrva.us"
+id = 19_963_967
+language = "CSS"
+name = "welcome"
+node_id = "MDEwOlJlcG9zaXRvcnkxOTk2Mzk2Nw=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 7_139_543
+  login = "OpenCLTBrigade"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjcxMzk1NDM="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

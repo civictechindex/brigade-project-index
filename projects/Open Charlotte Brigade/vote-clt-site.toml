@@ -1,6 +1,51 @@
 code_url = "https://github.com/OpenCLTBrigade/vote-clt-site"
-git_branch = "develop"
 git_url = "git://github.com/OpenCLTBrigade/vote-clt-site.git"
-last_pushed_within = "year"
 link_url = "https://voteclt.com"
 name = "vote-clt-site"
+organization_name = "Open Charlotte Brigade"
+
+[github]
+archived = false
+created_at = "2019-10-24T20:53:50Z"
+default_branch = "develop"
+description = { }
+disabled = false
+fork = false
+forks_within = 10
+full_name = "OpenCLTBrigade/vote-clt-site"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "https://voteclt.com"
+id = 217_393_607
+language = "JavaScript"
+name = "vote-clt-site"
+node_id = "MDEwOlJlcG9zaXRvcnkyMTczOTM2MDc="
+open_issues_within = 0
+private = false
+pushed_within = "year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "year"
+watchers_within = 0
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 7_139_543
+  login = "OpenCLTBrigade"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjcxMzk1NDM="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

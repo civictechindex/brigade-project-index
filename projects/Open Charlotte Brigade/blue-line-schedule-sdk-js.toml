@@ -1,6 +1,46 @@
 code_url = "https://github.com/OpenCLTBrigade/blue-line-schedule-sdk-js"
 description = "SDK for working with the blue-line-schedule-json repo's output"
-git_branch = "master"
 git_url = "git://github.com/OpenCLTBrigade/blue-line-schedule-sdk-js.git"
-last_pushed_within = "month"
 name = "blue-line-schedule-sdk-js"
+organization_name = "Open Charlotte Brigade"
+
+[github]
+archived = false
+created_at = "2019-09-24T03:43:00Z"
+default_branch = "master"
+description = "SDK for working with the blue-line-schedule-json repo's output"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "OpenCLTBrigade/blue-line-schedule-sdk-js"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 210_505_792
+language = "JavaScript"
+license = { }
+name = "blue-line-schedule-sdk-js"
+node_id = "MDEwOlJlcG9zaXRvcnkyMTA1MDU3OTI="
+open_issues_within = 10
+private = false
+pushed_within = "year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 7_139_543
+  login = "OpenCLTBrigade"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjcxMzk1NDM="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

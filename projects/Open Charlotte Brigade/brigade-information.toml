@@ -1,6 +1,51 @@
 code_url = "https://github.com/OpenCLTBrigade/brigade-information"
 description = "Data about Code for America brigades and other civic tech organizations for the CfA API"
-git_branch = "master"
 git_url = "git://github.com/OpenCLTBrigade/brigade-information.git"
-last_pushed_within = "over_a_year"
 name = "brigade-information"
+organization_name = "Open Charlotte Brigade"
+
+[github]
+archived = false
+created_at = "2016-11-19T18:24:36Z"
+default_branch = "master"
+description = "Data about Code for America brigades and other civic tech organizations for the CfA API"
+disabled = false
+fork = true
+forks_within = 0
+full_name = "OpenCLTBrigade/brigade-information"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = false
+homepage = { }
+id = 74_226_917
+language = "Python"
+name = "brigade-information"
+node_id = "MDEwOlJlcG9zaXRvcnk3NDIyNjkxNw=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 7_139_543
+  login = "OpenCLTBrigade"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjcxMzk1NDM="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

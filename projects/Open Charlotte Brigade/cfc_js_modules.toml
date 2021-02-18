@@ -1,6 +1,46 @@
 code_url = "https://github.com/OpenCLTBrigade/cfc_js_modules"
 description = "Modules that can be re-used across our Javascript & Typescript Projects"
-git_branch = "master"
 git_url = "git://github.com/OpenCLTBrigade/cfc_js_modules.git"
-last_pushed_within = "over_a_year"
 name = "cfc_js_modules"
+organization_name = "Open Charlotte Brigade"
+
+[github]
+archived = false
+created_at = "2018-04-04T00:36:54Z"
+default_branch = "master"
+description = "Modules that can be re-used across our Javascript & Typescript Projects"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "OpenCLTBrigade/cfc_js_modules"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 127_985_170
+language = { }
+license = { }
+name = "cfc_js_modules"
+node_id = "MDEwOlJlcG9zaXRvcnkxMjc5ODUxNzA="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 7_139_543
+  login = "OpenCLTBrigade"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjcxMzk1NDM="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

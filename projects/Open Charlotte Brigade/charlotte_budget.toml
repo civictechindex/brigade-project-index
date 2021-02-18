@@ -1,6 +1,51 @@
 code_url = "https://github.com/OpenCLTBrigade/charlotte_budget"
 description = "Ruby ETL for City of Charlotte budget information to power visualizations"
-git_branch = "master"
 git_url = "git://github.com/OpenCLTBrigade/charlotte_budget.git"
-last_pushed_within = "over_a_year"
 name = "charlotte_budget"
+organization_name = "Open Charlotte Brigade"
+
+[github]
+archived = false
+created_at = "2015-08-23T16:08:00Z"
+default_branch = "master"
+description = "Ruby ETL for City of Charlotte budget information to power visualizations"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "OpenCLTBrigade/charlotte_budget"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = false
+homepage = { }
+id = 41_256_581
+language = "Ruby"
+name = "charlotte_budget"
+node_id = "MDEwOlJlcG9zaXRvcnk0MTI1NjU4MQ=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 7_139_543
+  login = "OpenCLTBrigade"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjcxMzk1NDM="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

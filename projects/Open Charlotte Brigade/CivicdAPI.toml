@@ -1,5 +1,45 @@
 code_url = "https://github.com/OpenCLTBrigade/CivicdAPI"
-git_branch = "master"
 git_url = "git://github.com/OpenCLTBrigade/CivicdAPI.git"
-last_pushed_within = "over_a_year"
 name = "CivicdAPI"
+organization_name = "Open Charlotte Brigade"
+
+[github]
+archived = false
+created_at = "2018-03-13T23:59:13Z"
+default_branch = "master"
+description = { }
+disabled = false
+fork = false
+forks_within = 10
+full_name = "OpenCLTBrigade/CivicdAPI"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 125_129_915
+language = "C#"
+license = { }
+name = "CivicdAPI"
+node_id = "MDEwOlJlcG9zaXRvcnkxMjUxMjk5MTU="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 7_139_543
+  login = "OpenCLTBrigade"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjcxMzk1NDM="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

@@ -1,9 +1,8 @@
 code_url = "https://github.com/OpenCLTBrigade/cmpd-holiday-gift"
 description = "CMPD Explorers Christmas Project"
-git_branch = "develop"
 git_url = "git://github.com/OpenCLTBrigade/cmpd-holiday-gift.git"
-last_pushed_within = "year"
 name = "cmpd-holiday-gift"
+organization_name = "Open Charlotte Brigade"
 topics = [
   "charlotte",
   "cmpd-explorers-christmas",
@@ -15,3 +14,59 @@ topics = [
   "sequelize",
   "styled-components"
 ]
+
+[github]
+archived = false
+created_at = "2015-11-11T02:28:51Z"
+default_branch = "develop"
+description = "CMPD Explorers Christmas Project"
+disabled = false
+fork = false
+forks_within = 100
+full_name = "OpenCLTBrigade/cmpd-holiday-gift"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 45_954_810
+language = "JavaScript"
+name = "cmpd-holiday-gift"
+node_id = "MDEwOlJlcG9zaXRvcnk0NTk1NDgxMA=="
+open_issues_within = 100
+private = false
+pushed_within = "year"
+stargazers_within = 100
+topics = [
+  "charlotte",
+  "cmpd-explorers-christmas",
+  "codeforamerica",
+  "codeforcharlotte",
+  "expressjs",
+  "nodejs",
+  "react",
+  "sequelize",
+  "styled-components"
+]
+updated_within = "year"
+watchers_within = 100
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 7_139_543
+  login = "OpenCLTBrigade"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjcxMzk1NDM="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

@@ -1,7 +1,47 @@
 code_url = "https://github.com/OpenCLTBrigade/re-entry-hub"
 description = " This is the initial demo of the Re-entry Roadmap project"
-git_branch = "master"
 git_url = "git://github.com/OpenCLTBrigade/re-entry-hub.git"
-last_pushed_within = "over_a_year"
 link_url = "http://opencharlotte.org/re-entry-hub/"
 name = "re-entry-hub"
+organization_name = "Open Charlotte Brigade"
+
+[github]
+archived = false
+created_at = "2019-06-19T16:07:01Z"
+default_branch = "master"
+description = " This is the initial demo of the Re-entry Roadmap project"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "OpenCLTBrigade/re-entry-hub"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "http://opencharlotte.org/re-entry-hub/"
+id = 192_765_073
+language = "JavaScript"
+license = { }
+name = "re-entry-hub"
+node_id = "MDEwOlJlcG9zaXRvcnkxOTI3NjUwNzM="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 7_139_543
+  login = "OpenCLTBrigade"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjcxMzk1NDM="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

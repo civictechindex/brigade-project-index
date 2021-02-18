@@ -1,6 +1,46 @@
 code_url = "https://github.com/OpenCLTBrigade/codeforcharlotte-splash"
 description = "Site to replace the old Code for Charlotte website"
-git_branch = "master"
 git_url = "git://github.com/OpenCLTBrigade/codeforcharlotte-splash.git"
-last_pushed_within = "over_a_year"
 name = "codeforcharlotte-splash"
+organization_name = "Open Charlotte Brigade"
+
+[github]
+archived = false
+created_at = "2019-05-23T00:28:24Z"
+default_branch = "master"
+description = "Site to replace the old Code for Charlotte website"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "OpenCLTBrigade/codeforcharlotte-splash"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = false
+has_wiki = false
+homepage = { }
+id = 188_132_450
+language = "CSS"
+license = { }
+name = "codeforcharlotte-splash"
+node_id = "MDEwOlJlcG9zaXRvcnkxODgxMzI0NTA="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 7_139_543
+  login = "OpenCLTBrigade"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjcxMzk1NDM="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

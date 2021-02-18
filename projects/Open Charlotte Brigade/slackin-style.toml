@@ -1,6 +1,51 @@
 code_url = "https://github.com/OpenCLTBrigade/slackin-style"
 description = "Adds some style to our slack join page"
-git_branch = "master"
 git_url = "git://github.com/OpenCLTBrigade/slackin-style.git"
-last_pushed_within = "over_a_year"
 name = "slackin-style"
+organization_name = "Open Charlotte Brigade"
+
+[github]
+archived = false
+created_at = "2017-10-04T00:53:15Z"
+default_branch = "master"
+description = "Adds some style to our slack join page"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "OpenCLTBrigade/slackin-style"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 105_718_941
+language = "HTML"
+name = "slackin-style"
+node_id = "MDEwOlJlcG9zaXRvcnkxMDU3MTg5NDE="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 7_139_543
+  login = "OpenCLTBrigade"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjcxMzk1NDM="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

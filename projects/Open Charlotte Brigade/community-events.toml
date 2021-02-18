@@ -1,7 +1,52 @@
 code_url = "https://github.com/OpenCLTBrigade/community-events"
 description = "Combining community event calendars from around Mecklenburg county"
-git_branch = "master"
 git_url = "git://github.com/OpenCLTBrigade/community-events.git"
-last_pushed_within = "month"
 name = "community-events"
+organization_name = "Open Charlotte Brigade"
 topics = [ "civic", "civic-tech" ]
+
+[github]
+archived = false
+created_at = "2019-01-19T19:31:55Z"
+default_branch = "master"
+description = "Combining community event calendars from around Mecklenburg county"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "OpenCLTBrigade/community-events"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 166_585_225
+language = "Python"
+name = "community-events"
+node_id = "MDEwOlJlcG9zaXRvcnkxNjY1ODUyMjU="
+open_issues_within = 100
+private = false
+pushed_within = "year"
+stargazers_within = 10
+topics = [ "civic", "civic-tech" ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "isc"
+  name = "ISC License"
+  node_id = "MDc6TGljZW5zZTEw"
+  spdx_id = "ISC"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 7_139_543
+  login = "OpenCLTBrigade"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjcxMzk1NDM="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
