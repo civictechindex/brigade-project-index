@@ -1,6 +1,51 @@
 code_url = "https://github.com/CodeForBrazil/ckan-docker"
 description = "Developing and deploying CKAN with Docker"
-git_branch = "master"
 git_url = "git://github.com/CodeForBrazil/ckan-docker.git"
-last_pushed_within = "over_a_year"
 name = "ckan-docker"
+organization_name = "Code for Brazil"
+
+[github]
+archived = false
+created_at = "2016-03-06T14:26:38Z"
+default_branch = "master"
+description = "Developing and deploying CKAN with Docker"
+disabled = false
+fork = true
+forks_within = 0
+full_name = "CodeForBrazil/ckan-docker"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 53_258_809
+language = "Shell"
+name = "ckan-docker"
+node_id = "MDEwOlJlcG9zaXRvcnk1MzI1ODgwOQ=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "gpl-3.0"
+  name = "GNU General Public License v3.0"
+  node_id = "MDc6TGljZW5zZTk="
+  spdx_id = "GPL-3.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 9_018_117
+  login = "CodeForBrazil"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjkwMTgxMTc="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

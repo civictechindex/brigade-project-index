@@ -1,6 +1,46 @@
 code_url = "https://github.com/CodeForBrazil/codeofconduct"
 description = "Code for America's Code of Conduct"
-git_branch = "master"
 git_url = "git://github.com/CodeForBrazil/codeofconduct.git"
-last_pushed_within = "over_a_year"
 name = "codeofconduct"
+organization_name = "Code for Brazil"
+
+[github]
+archived = false
+created_at = "2014-10-05T10:44:22Z"
+default_branch = "master"
+description = "Code for America's Code of Conduct"
+disabled = false
+fork = true
+forks_within = 0
+full_name = "CodeForBrazil/codeofconduct"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 24_813_640
+language = { }
+license = { }
+name = "codeofconduct"
+node_id = "MDEwOlJlcG9zaXRvcnkyNDgxMzY0MA=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 9_018_117
+  login = "CodeForBrazil"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjkwMTgxMTc="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

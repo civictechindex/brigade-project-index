@@ -1,6 +1,46 @@
 code_url = "https://github.com/CodeForBrazil/politikei"
 description = "Interface between citizen and legislative power promoting access, control and participation/Interface entre cidadãos e o poder legislativo promovendo acesso controle e participação"
-git_branch = "master"
 git_url = "git://github.com/CodeForBrazil/politikei.git"
-last_pushed_within = "over_a_year"
 name = "politikei"
+organization_name = "Code for Brazil"
+
+[github]
+archived = false
+created_at = "2015-10-08T00:46:27Z"
+default_branch = "master"
+description = "Interface between citizen and legislative power promoting access, control and participation/Interface entre cidadãos e o poder legislativo promovendo acesso controle e participação"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "CodeForBrazil/politikei"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 43_853_271
+language = "CSS"
+license = { }
+name = "politikei"
+node_id = "MDEwOlJlcG9zaXRvcnk0Mzg1MzI3MQ=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 9_018_117
+  login = "CodeForBrazil"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjkwMTgxMTc="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

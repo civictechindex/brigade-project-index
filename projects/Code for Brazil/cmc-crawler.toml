@@ -1,6 +1,46 @@
 code_url = "https://github.com/CodeForBrazil/cmc-crawler"
 description = "Web crawler that imports the data of the Chamber of municipal councilors of Curitiba city -  Brazil"
-git_branch = "master"
 git_url = "git://github.com/CodeForBrazil/cmc-crawler.git"
-last_pushed_within = "over_a_year"
 name = "cmc-crawler"
+organization_name = "Code for Brazil"
+
+[github]
+archived = false
+created_at = "2016-03-15T22:46:16Z"
+default_branch = "master"
+description = "Web crawler that imports the data of the Chamber of municipal councilors of Curitiba city -  Brazil"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "CodeForBrazil/cmc-crawler"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 53_984_017
+language = "JavaScript"
+license = { }
+name = "cmc-crawler"
+node_id = "MDEwOlJlcG9zaXRvcnk1Mzk4NDAxNw=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 9_018_117
+  login = "CodeForBrazil"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjkwMTgxMTc="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

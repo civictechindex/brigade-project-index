@@ -1,6 +1,51 @@
 code_url = "https://github.com/CodeForBrazil/streetmix"
-git_branch = "master"
 git_url = "git://github.com/CodeForBrazil/streetmix.git"
-last_pushed_within = "over_a_year"
 link_url = "https://minharua.herokuapp.com/"
 name = "streetmix"
+organization_name = "Code for Brazil"
+
+[github]
+archived = false
+created_at = "2014-10-05T18:42:48Z"
+default_branch = "master"
+description = { }
+disabled = false
+fork = true
+forks_within = 10
+full_name = "CodeForBrazil/streetmix"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "https://minharua.herokuapp.com/"
+id = 24_823_103
+language = "JavaScript"
+name = "streetmix"
+node_id = "MDEwOlJlcG9zaXRvcnkyNDgyMzEwMw=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "bsd-3-clause"
+  name = 'BSD 3-Clause "New" or "Revised" License'
+  node_id = "MDc6TGljZW5zZTU="
+  spdx_id = "BSD-3-Clause"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 9_018_117
+  login = "CodeForBrazil"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjkwMTgxMTc="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

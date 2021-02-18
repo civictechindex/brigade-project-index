@@ -1,7 +1,52 @@
 code_url = "https://github.com/CodeForBrazil/datapusher"
 description = "A standalone web service that pushes data files from a CKAN site's resources into its DataStore"
-git_branch = "master"
 git_url = "git://github.com/CodeForBrazil/datapusher.git"
-last_pushed_within = "over_a_year"
 link_url = "http://docs.ckan.org/projects/datapusher"
 name = "datapusher"
+organization_name = "Code for Brazil"
+
+[github]
+archived = false
+created_at = "2016-03-06T15:18:47Z"
+default_branch = "master"
+description = "A standalone web service that pushes data files from a CKAN site's resources into its DataStore"
+disabled = false
+fork = true
+forks_within = 0
+full_name = "CodeForBrazil/datapusher"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://docs.ckan.org/projects/datapusher"
+id = 53_261_191
+language = "Python"
+name = "datapusher"
+node_id = "MDEwOlJlcG9zaXRvcnk1MzI2MTE5MQ=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "agpl-3.0"
+  name = "GNU Affero General Public License v3.0"
+  node_id = "MDc6TGljZW5zZTE="
+  spdx_id = "AGPL-3.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 9_018_117
+  login = "CodeForBrazil"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjkwMTgxMTc="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
