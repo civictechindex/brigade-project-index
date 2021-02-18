@@ -1,7 +1,47 @@
 code_url = "https://github.com/CodeForBrazil/Vizin"
 description = "Aplicativo opensource que visa unir as pessoas por uma vizinhança mais segura"
-git_branch = "master"
 git_url = "git://github.com/CodeForBrazil/Vizin.git"
-last_pushed_within = "over_a_year"
 link_url = "http://www.vizin.com.br"
 name = "Vizin"
+organization_name = "Open Brazil"
+
+[github]
+archived = false
+created_at = "2015-09-06T00:42:33Z"
+default_branch = "master"
+description = "Aplicativo opensource que visa unir as pessoas por uma vizinhança mais segura"
+disabled = false
+fork = true
+forks_within = 0
+full_name = "CodeForBrazil/Vizin"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://www.vizin.com.br"
+id = 41_980_832
+language = { }
+license = { }
+name = "Vizin"
+node_id = "MDEwOlJlcG9zaXRvcnk0MTk4MDgzMg=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 9_018_117
+  login = "CodeForBrazil"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjkwMTgxMTc="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

@@ -1,7 +1,47 @@
 code_url = "https://github.com/CodeForBrazil/alunuz"
 description = "Gestão Educacional de A à Z"
-git_branch = "master"
 git_url = "git://github.com/CodeForBrazil/alunuz.git"
-last_pushed_within = "over_a_year"
 link_url = "http://codeforbrazil.github.io/alunuz/frontend"
 name = "alunuz"
+organization_name = "Open Brazil"
+
+[github]
+archived = false
+created_at = "2015-09-04T14:20:36Z"
+default_branch = "master"
+description = "Gestão Educacional de A à Z"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "CodeForBrazil/alunuz"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "http://codeforbrazil.github.io/alunuz/frontend"
+id = 41_919_790
+language = "JavaScript"
+license = { }
+name = "alunuz"
+node_id = "MDEwOlJlcG9zaXRvcnk0MTkxOTc5MA=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 9_018_117
+  login = "CodeForBrazil"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjkwMTgxMTc="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
