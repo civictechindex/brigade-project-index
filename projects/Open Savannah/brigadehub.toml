@@ -1,10 +1,9 @@
 code_url = "https://github.com/opensavannah/brigadehub"
 description = ":rescue_worker_helmet: Homepage for Open Savannah, a Code for America brigade."
-git_branch = "master"
 git_url = "git://github.com/opensavannah/brigadehub.git"
-last_pushed_within = "over_a_year"
 link_url = "https://opensavannah.org"
 name = "brigadehub"
+organization_name = "Open Savannah"
 topics = [
   "brigadehub",
   "civic-tech",
@@ -13,3 +12,51 @@ topics = [
   "opensavannah",
   "savannah"
 ]
+
+[github]
+archived = false
+created_at = "2017-03-07T22:38:52Z"
+default_branch = "master"
+description = ":rescue_worker_helmet: Homepage for Open Savannah, a Code for America brigade."
+disabled = false
+fork = true
+forks_within = 0
+full_name = "opensavannah/brigadehub"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "https://opensavannah.org"
+id = 84_253_302
+language = "JavaScript"
+license = { }
+name = "brigadehub"
+node_id = "MDEwOlJlcG9zaXRvcnk4NDI1MzMwMg=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [
+  "brigadehub",
+  "civic-tech",
+  "codeforamerica",
+  "nodejs",
+  "opensavannah",
+  "savannah"
+]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 23_719_460
+  login = "opensavannah"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjIzNzE5NDYw"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

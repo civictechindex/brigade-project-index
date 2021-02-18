@@ -1,7 +1,52 @@
 code_url = "https://github.com/opensavannah/Ushahidi_Web"
 description = "Ushahidi v2. A platform that allows information collection, visualization and interactive mapping, allowing anyone to submit information through text messaging using a mobile phone, email or web form."
-git_branch = "develop"
 git_url = "git://github.com/opensavannah/Ushahidi_Web.git"
-last_pushed_within = "over_a_year"
 link_url = "http://www.ushahidi.com"
 name = "Ushahidi_Web"
+organization_name = "Open Savannah"
+
+[github]
+archived = false
+created_at = "2017-07-06T08:47:39Z"
+default_branch = "develop"
+description = "Ushahidi v2. A platform that allows information collection, visualization and interactive mapping, allowing anyone to submit information through text messaging using a mobile phone, email or web form."
+disabled = false
+fork = true
+forks_within = 0
+full_name = "opensavannah/Ushahidi_Web"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = false
+homepage = "http://www.ushahidi.com"
+id = 96_408_871
+language = "PHP"
+name = "Ushahidi_Web"
+node_id = "MDEwOlJlcG9zaXRvcnk5NjQwODg3MQ=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "other"
+  name = "Other"
+  node_id = "MDc6TGljZW5zZTA="
+  spdx_id = "NOASSERTION"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 23_719_460
+  login = "opensavannah"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjIzNzE5NDYw"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

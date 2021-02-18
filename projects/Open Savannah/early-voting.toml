@@ -1,7 +1,52 @@
 code_url = "https://github.com/opensavannah/early-voting"
 description = "Map of early voting locations in Georgia"
-git_branch = "master"
 git_url = "git://github.com/opensavannah/early-voting.git"
-last_pushed_within = "over_a_year"
 link_url = "http://earlyvoting.codeforatlanta.org"
 name = "early-voting"
+organization_name = "Open Savannah"
+
+[github]
+archived = false
+created_at = "2016-12-12T06:54:59Z"
+default_branch = "master"
+description = "Map of early voting locations in Georgia"
+disabled = false
+fork = true
+forks_within = 0
+full_name = "opensavannah/early-voting"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://earlyvoting.codeforatlanta.org"
+id = 76_230_124
+language = "JavaScript"
+name = "early-voting"
+node_id = "MDEwOlJlcG9zaXRvcnk3NjIzMDEyNA=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "bsd-3-clause"
+  name = 'BSD 3-Clause "New" or "Revised" License'
+  node_id = "MDc6TGljZW5zZTU="
+  spdx_id = "BSD-3-Clause"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 23_719_460
+  login = "opensavannah"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjIzNzE5NDYw"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

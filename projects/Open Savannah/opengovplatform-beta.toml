@@ -1,6 +1,46 @@
 code_url = "https://github.com/opensavannah/opengovplatform-beta"
 description = "This is the Release of Beta Code base of the Open Government Platform (OGPL), which is a growing set of open source code that allows any city, organization or government to create an open data site. Below you'll see the code base for the Data Portal, its CMS, Data Management System (DMS) and Visitor Relationship Management (VRM).  The Open Government Platform (OGPL) is a joint product from India and the United States to promote transparency and greater citizen engagement by making more government data, documents, tools, and processes publicly available through a freely available, open source platform. By making this available in useful machine-readable formats it allows developers, analysts, media and academia to develop new applications and insights that will help give citizens more information for better decisions.   In using an open source method of development, the OGPL community will provide future technology enhancements, open government solutions, and community-based technical support. OGPL has become an example of a new era of diplomatic collaborations that benefit the global community that promote government transparency, citizen-focused applications, and enrich humanity.  The code below is the alpha code base for an OGPL instance. We are currently seeking pre-alpha testers and experienced open source developers to provide recommendations as additional modules are released to the open source community.   If you are interested in being part of OGPL, please contact us at opengovplatform.org or on Twitter at @OGPL Changes and enhancements incorporate in this release can be seen in the Readme.md file below. "
-git_branch = "master"
 git_url = "git://github.com/opensavannah/opengovplatform-beta.git"
-last_pushed_within = "over_a_year"
 name = "opengovplatform-beta"
+organization_name = "Open Savannah"
+
+[github]
+archived = false
+created_at = "2017-01-30T18:36:52Z"
+default_branch = "master"
+description = "This is the Release of Beta Code base of the Open Government Platform (OGPL), which is a growing set of open source code that allows any city, organization or government to create an open data site. Below you'll see the code base for the Data Portal, its CMS, Data Management System (DMS) and Visitor Relationship Management (VRM).  The Open Government Platform (OGPL) is a joint product from India and the United States to promote transparency and greater citizen engagement by making more government data, documents, tools, and processes publicly available through a freely available, open source platform. By making this available in useful machine-readable formats it allows developers, analysts, media and academia to develop new applications and insights that will help give citizens more information for better decisions.   In using an open source method of development, the OGPL community will provide future technology enhancements, open government solutions, and community-based technical support. OGPL has become an example of a new era of diplomatic collaborations that benefit the global community that promote government transparency, citizen-focused applications, and enrich humanity.  The code below is the alpha code base for an OGPL instance. We are currently seeking pre-alpha testers and experienced open source developers to provide recommendations as additional modules are released to the open source community.   If you are interested in being part of OGPL, please contact us at opengovplatform.org or on Twitter at @OGPL Changes and enhancements incorporate in this release can be seen in the Readme.md file below. "
+disabled = false
+fork = true
+forks_within = 0
+full_name = "opensavannah/opengovplatform-beta"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 80_450_762
+language = "PHP"
+license = { }
+name = "opengovplatform-beta"
+node_id = "MDEwOlJlcG9zaXRvcnk4MDQ1MDc2Mg=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 23_719_460
+  login = "opensavannah"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjIzNzE5NDYw"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

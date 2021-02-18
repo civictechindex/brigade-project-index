@@ -1,6 +1,46 @@
 code_url = "https://github.com/opensavannah/police-report-data"
 description = "raw spreadsheet police report numerical data by beat"
-git_branch = "master"
 git_url = "git://github.com/opensavannah/police-report-data.git"
-last_pushed_within = "over_a_year"
 name = "police-report-data"
+organization_name = "Open Savannah"
+
+[github]
+archived = false
+created_at = "2017-06-23T10:31:43Z"
+default_branch = "master"
+description = "raw spreadsheet police report numerical data by beat"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "opensavannah/police-report-data"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 95_210_545
+language = { }
+license = { }
+name = "police-report-data"
+node_id = "MDEwOlJlcG9zaXRvcnk5NTIxMDU0NQ=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 23_719_460
+  login = "opensavannah"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjIzNzE5NDYw"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

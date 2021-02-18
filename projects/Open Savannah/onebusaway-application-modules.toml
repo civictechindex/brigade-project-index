@@ -1,7 +1,52 @@
 code_url = "https://github.com/opensavannah/onebusaway-application-modules"
 description = "The core OneBusAway application suite."
-git_branch = "master"
 git_url = "git://github.com/opensavannah/onebusaway-application-modules.git"
-last_pushed_within = "over_a_year"
 link_url = "https://github.com/OneBusAway/onebusaway-application-modules/wiki"
 name = "onebusaway-application-modules"
+organization_name = "Open Savannah"
+
+[github]
+archived = false
+created_at = "2017-08-24T00:41:08Z"
+default_branch = "master"
+description = "The core OneBusAway application suite."
+disabled = false
+fork = true
+forks_within = 0
+full_name = "opensavannah/onebusaway-application-modules"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "https://github.com/OneBusAway/onebusaway-application-modules/wiki"
+id = 101_237_294
+language = "Java"
+name = "onebusaway-application-modules"
+node_id = "MDEwOlJlcG9zaXRvcnkxMDEyMzcyOTQ="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "other"
+  name = "Other"
+  node_id = "MDc6TGljZW5zZTA="
+  spdx_id = "NOASSERTION"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 23_719_460
+  login = "opensavannah"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjIzNzE5NDYw"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

@@ -1,6 +1,46 @@
 code_url = "https://github.com/opensavannah/ndoch17"
 description = "Ideation, planning and resource development to guide Savannah's National Day of Civic Hacking 2017"
-git_branch = "master"
 git_url = "git://github.com/opensavannah/ndoch17.git"
-last_pushed_within = "over_a_year"
 name = "ndoch17"
+organization_name = "Open Savannah"
+
+[github]
+archived = false
+created_at = "2017-08-16T08:14:40Z"
+default_branch = "master"
+description = "Ideation, planning and resource development to guide Savannah's National Day of Civic Hacking 2017"
+disabled = false
+fork = true
+forks_within = 0
+full_name = "opensavannah/ndoch17"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 100_465_162
+language = { }
+license = { }
+name = "ndoch17"
+node_id = "MDEwOlJlcG9zaXRvcnkxMDA0NjUxNjI="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 23_719_460
+  login = "opensavannah"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjIzNzE5NDYw"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

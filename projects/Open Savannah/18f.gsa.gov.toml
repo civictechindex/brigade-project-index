@@ -1,7 +1,52 @@
 code_url = "https://github.com/opensavannah/18f.gsa.gov"
 description = "This repository contains 18F's website."
-git_branch = "master"
 git_url = "git://github.com/opensavannah/18f.gsa.gov.git"
-last_pushed_within = "over_a_year"
 link_url = "https://opensavannah.github.io/18f.gsa.gov"
 name = "18f.gsa.gov"
+organization_name = "Open Savannah"
+
+[github]
+archived = false
+created_at = "2018-08-28T11:06:10Z"
+default_branch = "master"
+description = "This repository contains 18F's website."
+disabled = false
+fork = true
+forks_within = 0
+full_name = "opensavannah/18f.gsa.gov"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "https://opensavannah.github.io/18f.gsa.gov"
+id = 146_435_248
+language = "CSS"
+name = "18f.gsa.gov"
+node_id = "MDEwOlJlcG9zaXRvcnkxNDY0MzUyNDg="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "other"
+  name = "Other"
+  node_id = "MDc6TGljZW5zZTA="
+  spdx_id = "NOASSERTION"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 23_719_460
+  login = "opensavannah"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjIzNzE5NDYw"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

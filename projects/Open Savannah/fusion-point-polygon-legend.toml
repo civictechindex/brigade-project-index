@@ -1,7 +1,52 @@
 code_url = "https://github.com/opensavannah/fusion-point-polygon-legend"
 description = "Searchable point and polygon layer map, with dynamic legend, using Google Maps and Fusion Tables"
-git_branch = "master"
 git_url = "git://github.com/opensavannah/fusion-point-polygon-legend.git"
-last_pushed_within = "over_a_year"
 link_url = "https://opensavannah.github.io/fusion-point-polygon-legend/index.html"
 name = "fusion-point-polygon-legend"
+organization_name = "Open Savannah"
+
+[github]
+archived = false
+created_at = "2017-12-01T11:29:43Z"
+default_branch = "master"
+description = "Searchable point and polygon layer map, with dynamic legend, using Google Maps and Fusion Tables"
+disabled = false
+fork = true
+forks_within = 0
+full_name = "opensavannah/fusion-point-polygon-legend"
+has_downloads = true
+has_issues = false
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "https://opensavannah.github.io/fusion-point-polygon-legend/index.html"
+id = 112_732_648
+language = "CSS"
+name = "fusion-point-polygon-legend"
+node_id = "MDEwOlJlcG9zaXRvcnkxMTI3MzI2NDg="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 23_719_460
+  login = "opensavannah"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjIzNzE5NDYw"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

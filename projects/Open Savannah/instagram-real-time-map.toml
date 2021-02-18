@@ -1,6 +1,46 @@
 code_url = "https://github.com/opensavannah/instagram-real-time-map"
 description = "Show Instagram images with a certain #hashtag on a map"
-git_branch = "master"
 git_url = "git://github.com/opensavannah/instagram-real-time-map.git"
-last_pushed_within = "over_a_year"
 name = "instagram-real-time-map"
+organization_name = "Open Savannah"
+
+[github]
+archived = false
+created_at = "2017-02-14T15:49:32Z"
+default_branch = "master"
+description = "Show Instagram images with a certain #hashtag on a map"
+disabled = false
+fork = true
+forks_within = 0
+full_name = "opensavannah/instagram-real-time-map"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 81_961_561
+language = "JavaScript"
+license = { }
+name = "instagram-real-time-map"
+node_id = "MDEwOlJlcG9zaXRvcnk4MTk2MTU2MQ=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 23_719_460
+  login = "opensavannah"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjIzNzE5NDYw"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

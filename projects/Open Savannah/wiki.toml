@@ -1,7 +1,52 @@
 code_url = "https://github.com/opensavannah/wiki"
 description = "Brigade knowledge-sharing/documenting wiki"
-git_branch = "master"
 git_url = "git://github.com/opensavannah/wiki.git"
-last_pushed_within = "over_a_year"
 link_url = "http://wiki.opensavannah.org"
 name = "wiki"
+organization_name = "Open Savannah"
+
+[github]
+archived = false
+created_at = "2017-07-12T05:28:52Z"
+default_branch = "master"
+description = "Brigade knowledge-sharing/documenting wiki"
+disabled = false
+fork = true
+forks_within = 0
+full_name = "opensavannah/wiki"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = false
+homepage = "http://wiki.opensavannah.org"
+id = 96_968_663
+language = "CSS"
+name = "wiki"
+node_id = "MDEwOlJlcG9zaXRvcnk5Njk2ODY2Mw=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "agpl-3.0"
+  name = "GNU Affero General Public License v3.0"
+  node_id = "MDc6TGljZW5zZTE="
+  spdx_id = "AGPL-3.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 23_719_460
+  login = "opensavannah"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjIzNzE5NDYw"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

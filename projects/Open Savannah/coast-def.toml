@@ -1,6 +1,51 @@
 code_url = "https://github.com/opensavannah/coast-def"
 description = "A model which simulates coastal flooding, and evaluated the economic benefits of climate adaptation strategies."
-git_branch = "master"
 git_url = "git://github.com/opensavannah/coast-def.git"
-last_pushed_within = "over_a_year"
 name = "coast-def"
+organization_name = "Open Savannah"
+
+[github]
+archived = false
+created_at = "2019-03-26T16:58:51Z"
+default_branch = "master"
+description = "A model which simulates coastal flooding, and evaluated the economic benefits of climate adaptation strategies."
+disabled = false
+fork = true
+forks_within = 0
+full_name = "opensavannah/coast-def"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = false
+homepage = { }
+id = 177_832_745
+language = "Python"
+name = "coast-def"
+node_id = "MDEwOlJlcG9zaXRvcnkxNzc4MzI3NDU="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "gpl-3.0"
+  name = "GNU General Public License v3.0"
+  node_id = "MDc6TGljZW5zZTk="
+  spdx_id = "GPL-3.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 23_719_460
+  login = "opensavannah"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjIzNzE5NDYw"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

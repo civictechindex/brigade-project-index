@@ -1,10 +1,9 @@
 code_url = "https://github.com/opensavannah/track-a-cat"
 description = ":trolleybus: Real-time location-tracking app for Chatham Area Transit's new trolley fleet, with plans to expand eventually to entire bus service area"
-git_branch = "master"
 git_url = "git://github.com/opensavannah/track-a-cat.git"
-last_pushed_within = "over_a_year"
 link_url = "https://opensavannah.github.io/track-a-cat"
 name = "track-a-cat"
+organization_name = "Open Savannah"
 topics = [
   "bus",
   "chatham-area-transit",
@@ -13,3 +12,56 @@ topics = [
   "opensavannah",
   "transit"
 ]
+
+[github]
+archived = false
+created_at = "2017-03-27T01:32:32Z"
+default_branch = "master"
+description = ":trolleybus: Real-time location-tracking app for Chatham Area Transit's new trolley fleet, with plans to expand eventually to entire bus service area"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "opensavannah/track-a-cat"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "https://opensavannah.github.io/track-a-cat"
+id = 86_278_315
+language = { }
+name = "track-a-cat"
+node_id = "MDEwOlJlcG9zaXRvcnk4NjI3ODMxNQ=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [
+  "bus",
+  "chatham-area-transit",
+  "civic-tech",
+  "codeforamerica",
+  "opensavannah",
+  "transit"
+]
+updated_within = "year"
+watchers_within = 10
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 23_719_460
+  login = "opensavannah"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjIzNzE5NDYw"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

@@ -1,6 +1,46 @@
 code_url = "https://github.com/opensavannah/cap_app"
 description = "Online Application for Chatham Apprentice Program "
-git_branch = "master"
 git_url = "git://github.com/opensavannah/cap_app.git"
-last_pushed_within = "over_a_year"
 name = "cap_app"
+organization_name = "Open Savannah"
+
+[github]
+archived = false
+created_at = "2018-12-11T06:08:52Z"
+default_branch = "master"
+description = "Online Application for Chatham Apprentice Program "
+disabled = false
+fork = true
+forks_within = 0
+full_name = "opensavannah/cap_app"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 161_285_620
+language = "JavaScript"
+license = { }
+name = "cap_app"
+node_id = "MDEwOlJlcG9zaXRvcnkxNjEyODU2MjA="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 23_719_460
+  login = "opensavannah"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjIzNzE5NDYw"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

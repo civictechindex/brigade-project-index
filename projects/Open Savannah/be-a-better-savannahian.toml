@@ -1,7 +1,47 @@
 code_url = "https://github.com/opensavannah/be-a-better-savannahian"
 description = "PG and non-pg suggestion generator for making Savannah better in your daily life."
-git_branch = "master"
 git_url = "git://github.com/opensavannah/be-a-better-savannahian.git"
-last_pushed_within = "over_a_year"
 link_url = "https://opensavannah.github.io/be-a-better-savannahian"
 name = "be-a-better-savannahian"
+organization_name = "Open Savannah"
+
+[github]
+archived = false
+created_at = "2017-10-23T03:06:40Z"
+default_branch = "master"
+description = "PG and non-pg suggestion generator for making Savannah better in your daily life."
+disabled = false
+fork = true
+forks_within = 0
+full_name = "opensavannah/be-a-better-savannahian"
+has_downloads = true
+has_issues = false
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "https://opensavannah.github.io/be-a-better-savannahian"
+id = 107_925_770
+language = "CSS"
+license = { }
+name = "be-a-better-savannahian"
+node_id = "MDEwOlJlcG9zaXRvcnkxMDc5MjU3NzA="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 23_719_460
+  login = "opensavannah"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjIzNzE5NDYw"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

@@ -1,6 +1,46 @@
 code_url = "https://github.com/opensavannah/read-this-first"
 description = "Handy guide to getting started with opensavannah on GH"
-git_branch = "master"
 git_url = "git://github.com/opensavannah/read-this-first.git"
-last_pushed_within = "over_a_year"
 name = "read-this-first"
+organization_name = "Open Savannah"
+
+[github]
+archived = false
+created_at = "2017-05-15T08:25:52Z"
+default_branch = "master"
+description = "Handy guide to getting started with opensavannah on GH"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "opensavannah/read-this-first"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 91_313_173
+language = { }
+license = { }
+name = "read-this-first"
+node_id = "MDEwOlJlcG9zaXRvcnk5MTMxMzE3Mw=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 23_719_460
+  login = "opensavannah"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjIzNzE5NDYw"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

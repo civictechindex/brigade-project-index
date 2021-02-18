@@ -1,7 +1,52 @@
 code_url = "https://github.com/opensavannah/semantic-strap"
 description = "Beautiful and responsive CSS toolkit inspired by Semantic-UI, built with Bootstrap 4"
-git_branch = "master"
 git_url = "git://github.com/opensavannah/semantic-strap.git"
-last_pushed_within = "over_a_year"
 link_url = "http://websemantics.github.io/semantic-strap"
 name = "semantic-strap"
+organization_name = "Open Savannah"
+
+[github]
+archived = false
+created_at = "2016-12-20T04:36:26Z"
+default_branch = "master"
+description = "Beautiful and responsive CSS toolkit inspired by Semantic-UI, built with Bootstrap 4"
+disabled = false
+fork = true
+forks_within = 0
+full_name = "opensavannah/semantic-strap"
+has_downloads = true
+has_issues = false
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "http://websemantics.github.io/semantic-strap"
+id = 76_923_403
+language = "JavaScript"
+name = "semantic-strap"
+node_id = "MDEwOlJlcG9zaXRvcnk3NjkyMzQwMw=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 23_719_460
+  login = "opensavannah"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjIzNzE5NDYw"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

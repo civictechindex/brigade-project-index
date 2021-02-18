@@ -1,7 +1,52 @@
 code_url = "https://github.com/opensavannah/linksf"
 description = "A mobile website to connect those in need in to services that can help them"
-git_branch = "master"
 git_url = "git://github.com/opensavannah/linksf.git"
-last_pushed_within = "over_a_year"
 link_url = "http://link-sf.com"
 name = "linksf"
+organization_name = "Open Savannah"
+
+[github]
+archived = false
+created_at = "2018-12-19T08:42:58Z"
+default_branch = "master"
+description = "A mobile website to connect those in need in to services that can help them"
+disabled = false
+fork = true
+forks_within = 0
+full_name = "opensavannah/linksf"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://link-sf.com"
+id = 162_408_323
+language = "JavaScript"
+name = "linksf"
+node_id = "MDEwOlJlcG9zaXRvcnkxNjI0MDgzMjM="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "apache-2.0"
+  name = "Apache License 2.0"
+  node_id = "MDc6TGljZW5zZTI="
+  spdx_id = "Apache-2.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 23_719_460
+  login = "opensavannah"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjIzNzE5NDYw"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

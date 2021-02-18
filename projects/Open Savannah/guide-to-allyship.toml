@@ -1,7 +1,47 @@
 code_url = "https://github.com/opensavannah/guide-to-allyship"
 description = "Guide to Allyship, an open source guide to teach you how to be a better ally."
-git_branch = "master"
 git_url = "git://github.com/opensavannah/guide-to-allyship.git"
-last_pushed_within = "over_a_year"
 link_url = "http://www.guidetoallyship.com"
 name = "guide-to-allyship"
+organization_name = "Open Savannah"
+
+[github]
+archived = false
+created_at = "2019-08-12T03:25:23Z"
+default_branch = "master"
+description = "Guide to Allyship, an open source guide to teach you how to be a better ally."
+disabled = false
+fork = true
+forks_within = 0
+full_name = "opensavannah/guide-to-allyship"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://www.guidetoallyship.com"
+id = 201_850_887
+language = "HTML"
+license = { }
+name = "guide-to-allyship"
+node_id = "MDEwOlJlcG9zaXRvcnkyMDE4NTA4ODc="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 23_719_460
+  login = "opensavannah"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjIzNzE5NDYw"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
