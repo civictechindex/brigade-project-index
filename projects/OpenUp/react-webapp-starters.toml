@@ -1,6 +1,46 @@
 code_url = "https://github.com/OpenUpSA/react-webapp-starters"
 description = "🎁 A collection of standardised, open-sourced and well-documented project starters used to bootstrap React webapps at OpenUp."
-git_branch = "master"
 git_url = "git://github.com/OpenUpSA/react-webapp-starters.git"
-last_pushed_within = "over_a_year"
 name = "react-webapp-starters"
+organization_name = "OpenUp"
+
+[github]
+archived = false
+created_at = "2019-03-22T21:27:56Z"
+default_branch = "master"
+description = "🎁 A collection of standardised, open-sourced and well-documented project starters used to bootstrap React webapps at OpenUp."
+disabled = false
+fork = false
+forks_within = 0
+full_name = "OpenUpSA/react-webapp-starters"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 177_211_347
+language = "JavaScript"
+license = { }
+name = "react-webapp-starters"
+node_id = "MDEwOlJlcG9zaXRvcnkxNzcyMTEzNDc="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 26_482_663
+  login = "OpenUpSA"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI2NDgyNjYz"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

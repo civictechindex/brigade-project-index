@@ -1,6 +1,51 @@
 code_url = "https://github.com/OpenUpSA/scrapy-feed-storage-internetarchive"
 description = "Scrapy Item Feed Storage Backend for archive.org"
-git_branch = "master"
 git_url = "git://github.com/OpenUpSA/scrapy-feed-storage-internetarchive.git"
-last_pushed_within = "year"
 name = "scrapy-feed-storage-internetarchive"
+organization_name = "OpenUp"
+
+[github]
+archived = false
+created_at = "2020-06-27T19:33:21Z"
+default_branch = "master"
+description = "Scrapy Item Feed Storage Backend for archive.org"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "OpenUpSA/scrapy-feed-storage-internetarchive"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 275_440_671
+language = "Python"
+name = "scrapy-feed-storage-internetarchive"
+node_id = "MDEwOlJlcG9zaXRvcnkyNzU0NDA2NzE="
+open_issues_within = 0
+private = false
+pushed_within = "year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "year"
+watchers_within = 0
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 26_482_663
+  login = "OpenUpSA"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI2NDgyNjYz"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

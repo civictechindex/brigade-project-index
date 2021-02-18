@@ -1,13 +1,63 @@
 code_url = "https://github.com/OpenUpSA/pmg-cms-2"
 description = "Content Management System for the Parliamentary Monitoring Group · https://www.pivotaltracker.com/n/projects/1367366"
-git_branch = "master"
 git_url = "git://github.com/OpenUpSA/pmg-cms-2.git"
-last_pushed_within = "month"
 link_url = "https://pmg.org.za/"
 name = "pmg-cms-2"
+organization_name = "OpenUp"
 topics = [
   "open-data",
   "parliament",
   "parliamentary-monitoring",
   "python"
 ]
+
+[github]
+archived = false
+created_at = "2014-09-12T13:36:10Z"
+default_branch = "master"
+description = "Content Management System for the Parliamentary Monitoring Group · https://www.pivotaltracker.com/n/projects/1367366"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "OpenUpSA/pmg-cms-2"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = false
+has_wiki = false
+homepage = "https://pmg.org.za/"
+id = 23_961_985
+language = "HTML"
+name = "pmg-cms-2"
+node_id = "MDEwOlJlcG9zaXRvcnkyMzk2MTk4NQ=="
+open_issues_within = 10
+private = false
+pushed_within = "week"
+stargazers_within = 10
+topics = [
+  "open-data",
+  "parliament",
+  "parliamentary-monitoring",
+  "python"
+]
+updated_within = "week"
+watchers_within = 10
+
+  [github.license]
+  key = "apache-2.0"
+  name = "Apache License 2.0"
+  node_id = "MDc6TGljZW5zZTI="
+  spdx_id = "Apache-2.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 26_482_663
+  login = "OpenUpSA"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI2NDgyNjYz"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

@@ -1,6 +1,51 @@
 code_url = "https://github.com/OpenUpSA/pocketreporter-app"
 description = "An HTML5 offline version of the pocketreporter app"
-git_branch = "master"
 git_url = "git://github.com/OpenUpSA/pocketreporter-app.git"
-last_pushed_within = "over_a_year"
 name = "pocketreporter-app"
+organization_name = "OpenUp"
+
+[github]
+archived = false
+created_at = "2018-05-02T12:51:38Z"
+default_branch = "master"
+description = "An HTML5 offline version of the pocketreporter app"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "OpenUpSA/pocketreporter-app"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 131_850_014
+language = "JavaScript"
+name = "pocketreporter-app"
+node_id = "MDEwOlJlcG9zaXRvcnkxMzE4NTAwMTQ="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 26_482_663
+  login = "OpenUpSA"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI2NDgyNjYz"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

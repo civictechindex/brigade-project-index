@@ -1,6 +1,46 @@
 code_url = "https://github.com/OpenUpSA/court-records-aleph"
 description = "Config for deploying an instance of Aleph for court records"
-git_branch = "master"
 git_url = "git://github.com/OpenUpSA/court-records-aleph.git"
-last_pushed_within = "over_a_year"
 name = "court-records-aleph"
+organization_name = "OpenUp"
+
+[github]
+archived = false
+created_at = "2019-11-08T12:57:37Z"
+default_branch = "master"
+description = "Config for deploying an instance of Aleph for court records"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "OpenUpSA/court-records-aleph"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 220_467_187
+language = { }
+license = { }
+name = "court-records-aleph"
+node_id = "MDEwOlJlcG9zaXRvcnkyMjA0NjcxODc="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 26_482_663
+  login = "OpenUpSA"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI2NDgyNjYz"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

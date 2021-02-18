@@ -1,5 +1,50 @@
 code_url = "https://github.com/OpenUpSA/dia"
-git_branch = "master"
 git_url = "git://github.com/OpenUpSA/dia.git"
-last_pushed_within = "over_a_year"
 name = "dia"
+organization_name = "OpenUp"
+
+[github]
+archived = false
+created_at = "2017-09-18T09:33:44Z"
+default_branch = "master"
+description = { }
+disabled = false
+fork = false
+forks_within = 0
+full_name = "OpenUpSA/dia"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 103_920_001
+language = "CSS"
+name = "dia"
+node_id = "MDEwOlJlcG9zaXRvcnkxMDM5MjAwMDE="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "other"
+  name = "Other"
+  node_id = "MDc6TGljZW5zZTA="
+  spdx_id = "NOASSERTION"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 26_482_663
+  login = "OpenUpSA"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI2NDgyNjYz"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

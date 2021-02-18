@@ -1,7 +1,52 @@
 code_url = "https://github.com/OpenUpSA/wazimap"
 description = "Wazimap is a Django application for exploring census data."
-git_branch = "master"
 git_url = "git://github.com/OpenUpSA/wazimap.git"
-last_pushed_within = "year"
 link_url = "http://wazimap.readthedocs.org/en/latest/"
 name = "wazimap"
+organization_name = "OpenUp"
+
+[github]
+archived = false
+created_at = "2016-02-14T08:38:33Z"
+default_branch = "master"
+description = "Wazimap is a Django application for exploring census data."
+disabled = false
+fork = false
+forks_within = 100
+full_name = "OpenUpSA/wazimap"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = false
+has_wiki = false
+homepage = "http://wazimap.readthedocs.org/en/latest/"
+id = 51_686_861
+language = "HTML"
+name = "wazimap"
+node_id = "MDEwOlJlcG9zaXRvcnk1MTY4Njg2MQ=="
+open_issues_within = 100
+private = false
+pushed_within = "year"
+stargazers_within = 100
+topics = [ ]
+updated_within = "year"
+watchers_within = 100
+
+  [github.license]
+  key = "other"
+  name = "Other"
+  node_id = "MDc6TGljZW5zZTA="
+  spdx_id = "NOASSERTION"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 26_482_663
+  login = "OpenUpSA"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI2NDgyNjYz"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

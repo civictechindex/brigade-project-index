@@ -1,6 +1,46 @@
 code_url = "https://github.com/OpenUpSA/docker-python-nodejs"
 description = "🐳 Python with Node.js docker image"
-git_branch = "master"
 git_url = "git://github.com/OpenUpSA/docker-python-nodejs.git"
-last_pushed_within = "year"
 name = "docker-python-nodejs"
+organization_name = "OpenUp"
+
+[github]
+archived = false
+created_at = "2020-01-26T11:10:53Z"
+default_branch = "master"
+description = "🐳 Python with Node.js docker image"
+disabled = false
+fork = true
+forks_within = 0
+full_name = "OpenUpSA/docker-python-nodejs"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = false
+homepage = ""
+id = 236_300_966
+language = { }
+license = { }
+name = "docker-python-nodejs"
+node_id = "MDEwOlJlcG9zaXRvcnkyMzYzMDA5NjY="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 26_482_663
+  login = "OpenUpSA"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI2NDgyNjYz"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

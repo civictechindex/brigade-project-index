@@ -1,7 +1,52 @@
 code_url = "https://github.com/OpenUpSA/mapper"
 description = "A JQuery UI plugin that easily draws shapes on Google Maps"
-git_branch = "master"
 git_url = "git://github.com/OpenUpSA/mapper.git"
-last_pushed_within = "over_a_year"
 link_url = "http://capesean.co.za/mapper/"
 name = "mapper"
+organization_name = "OpenUp"
+
+[github]
+archived = false
+created_at = "2016-08-03T14:53:18Z"
+default_branch = "master"
+description = "A JQuery UI plugin that easily draws shapes on Google Maps"
+disabled = false
+fork = true
+forks_within = 0
+full_name = "OpenUpSA/mapper"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://capesean.co.za/mapper/"
+id = 64_854_411
+language = "JavaScript"
+name = "mapper"
+node_id = "MDEwOlJlcG9zaXRvcnk2NDg1NDQxMQ=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "gpl-2.0"
+  name = "GNU General Public License v2.0"
+  node_id = "MDc6TGljZW5zZTg="
+  spdx_id = "GPL-2.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 26_482_663
+  login = "OpenUpSA"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI2NDgyNjYz"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

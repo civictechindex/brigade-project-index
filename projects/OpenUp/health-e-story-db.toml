@@ -1,6 +1,46 @@
 code_url = "https://github.com/OpenUpSA/health-e-story-db"
 description = "Wordpress plugin to help Health-e maintain a syndication and impact database"
-git_branch = "master"
 git_url = "git://github.com/OpenUpSA/health-e-story-db.git"
-last_pushed_within = "over_a_year"
 name = "health-e-story-db"
+organization_name = "OpenUp"
+
+[github]
+archived = false
+created_at = "2016-03-09T09:53:28Z"
+default_branch = "master"
+description = "Wordpress plugin to help Health-e maintain a syndication and impact database"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "OpenUpSA/health-e-story-db"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 53_486_946
+language = "PHP"
+license = { }
+name = "health-e-story-db"
+node_id = "MDEwOlJlcG9zaXRvcnk1MzQ4Njk0Ng=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 26_482_663
+  login = "OpenUpSA"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI2NDgyNjYz"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

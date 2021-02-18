@@ -1,6 +1,51 @@
 code_url = "https://github.com/OpenUpSA/pa-hotness"
 description = '"Hot or Not" style app for getting to know your representatives in parliament.'
-git_branch = "master"
 git_url = "git://github.com/OpenUpSA/pa-hotness.git"
-last_pushed_within = "over_a_year"
 name = "pa-hotness"
+organization_name = "OpenUp"
+
+[github]
+archived = false
+created_at = "2014-04-08T10:55:02Z"
+default_branch = "master"
+description = '"Hot or Not" style app for getting to know your representatives in parliament.'
+disabled = false
+fork = false
+forks_within = 0
+full_name = "OpenUpSA/pa-hotness"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 18_554_862
+language = "Python"
+name = "pa-hotness"
+node_id = "MDEwOlJlcG9zaXRvcnkxODU1NDg2Mg=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "apache-2.0"
+  name = "Apache License 2.0"
+  node_id = "MDc6TGljZW5zZTI="
+  spdx_id = "Apache-2.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 26_482_663
+  login = "OpenUpSA"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI2NDgyNjYz"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

@@ -1,7 +1,52 @@
 code_url = "https://github.com/OpenUpSA/blacksash-poster-website"
 description = "A website showcasing the Black Sash SASSA (and other M&E site) poster project"
-git_branch = "master"
 git_url = "git://github.com/OpenUpSA/blacksash-poster-website.git"
-last_pushed_within = "over_a_year"
 link_url = "http://blacksashposters.code4sa.org/"
 name = "blacksash-poster-website"
+organization_name = "OpenUp"
+
+[github]
+archived = false
+created_at = "2015-04-10T07:30:26Z"
+default_branch = "master"
+description = "A website showcasing the Black Sash SASSA (and other M&E site) poster project"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "OpenUpSA/blacksash-poster-website"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = false
+homepage = "http://blacksashposters.code4sa.org/"
+id = 33_714_942
+language = "HTML"
+name = "blacksash-poster-website"
+node_id = "MDEwOlJlcG9zaXRvcnkzMzcxNDk0Mg=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 26_482_663
+  login = "OpenUpSA"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI2NDgyNjYz"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

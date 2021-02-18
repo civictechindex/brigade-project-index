@@ -1,7 +1,47 @@
 code_url = "https://github.com/OpenUpSA/khetha-django"
 description = "Khetha on Django. Project board: https://trello.com/b/6ImY0M9f/project-khetha-dev"
-git_branch = "master"
 git_url = "git://github.com/OpenUpSA/khetha-django.git"
-last_pushed_within = "year"
 link_url = "https://khetha.org.za/"
 name = "khetha-django"
+organization_name = "OpenUp"
+
+[github]
+archived = false
+created_at = "2019-03-15T09:36:04Z"
+default_branch = "master"
+description = "Khetha on Django. Project board: https://trello.com/b/6ImY0M9f/project-khetha-dev"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "OpenUpSA/khetha-django"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = false
+homepage = "https://khetha.org.za/"
+id = 175_790_741
+language = "Python"
+license = { }
+name = "khetha-django"
+node_id = "MDEwOlJlcG9zaXRvcnkxNzU3OTA3NDE="
+open_issues_within = 10
+private = false
+pushed_within = "year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 26_482_663
+  login = "OpenUpSA"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI2NDgyNjYz"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

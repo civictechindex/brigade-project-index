@@ -1,7 +1,52 @@
 code_url = "https://github.com/OpenUpSA/nearby"
 description = "Find out who your local ward councillor is"
-git_branch = "master"
 git_url = "git://github.com/OpenUpSA/nearby.git"
-last_pushed_within = "year"
 link_url = "http://nearby.code4sa.org"
 name = "nearby"
+organization_name = "OpenUp"
+
+[github]
+archived = false
+created_at = "2015-07-06T13:07:40Z"
+default_branch = "master"
+description = "Find out who your local ward councillor is"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "OpenUpSA/nearby"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://nearby.code4sa.org"
+id = 38_619_442
+language = "Python"
+name = "nearby"
+node_id = "MDEwOlJlcG9zaXRvcnkzODYxOTQ0Mg=="
+open_issues_within = 10
+private = false
+pushed_within = "month"
+stargazers_within = 10
+topics = [ ]
+updated_within = "year"
+watchers_within = 10
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 26_482_663
+  login = "OpenUpSA"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI2NDgyNjYz"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

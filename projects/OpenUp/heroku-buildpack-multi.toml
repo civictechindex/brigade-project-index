@@ -1,6 +1,46 @@
 code_url = "https://github.com/OpenUpSA/heroku-buildpack-multi"
 description = "DEPRECATED: Composable buildpacks"
-git_branch = "master"
 git_url = "git://github.com/OpenUpSA/heroku-buildpack-multi.git"
-last_pushed_within = "over_a_year"
 name = "heroku-buildpack-multi"
+organization_name = "OpenUp"
+
+[github]
+archived = false
+created_at = "2019-09-04T05:55:03Z"
+default_branch = "master"
+description = "DEPRECATED: Composable buildpacks"
+disabled = false
+fork = true
+forks_within = 0
+full_name = "OpenUpSA/heroku-buildpack-multi"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 206_242_227
+language = "Shell"
+license = { }
+name = "heroku-buildpack-multi"
+node_id = "MDEwOlJlcG9zaXRvcnkyMDYyNDIyMjc="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 26_482_663
+  login = "OpenUpSA"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI2NDgyNjYz"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

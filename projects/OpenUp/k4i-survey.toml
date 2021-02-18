@@ -1,6 +1,51 @@
 code_url = "https://github.com/OpenUpSA/k4i-survey"
 description = "Chart scripts for K4I"
-git_branch = "master"
 git_url = "git://github.com/OpenUpSA/k4i-survey.git"
-last_pushed_within = "year"
 name = "k4i-survey"
+organization_name = "OpenUp"
+
+[github]
+archived = false
+created_at = "2020-06-22T06:25:32Z"
+default_branch = "master"
+description = "Chart scripts for K4I"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "OpenUpSA/k4i-survey"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 274_056_885
+language = "JavaScript"
+name = "k4i-survey"
+node_id = "MDEwOlJlcG9zaXRvcnkyNzQwNTY4ODU="
+open_issues_within = 0
+private = false
+pushed_within = "year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "year"
+watchers_within = 0
+
+  [github.license]
+  key = "apache-2.0"
+  name = "Apache License 2.0"
+  node_id = "MDc6TGljZW5zZTI="
+  spdx_id = "Apache-2.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 26_482_663
+  login = "OpenUpSA"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI2NDgyNjYz"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

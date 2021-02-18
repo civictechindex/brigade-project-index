@@ -1,7 +1,52 @@
 code_url = "https://github.com/OpenUpSA/odac-idp"
 description = "Demo Web application for browsing through information relating to the government's numerous Integrated Development Plans."
-git_branch = "master"
 git_url = "git://github.com/OpenUpSA/odac-idp.git"
-last_pushed_within = "over_a_year"
 link_url = "http://idp.code4sa.org"
 name = "odac-idp"
+organization_name = "OpenUp"
+
+[github]
+archived = false
+created_at = "2014-01-20T06:48:13Z"
+default_branch = "master"
+description = "Demo Web application for browsing through information relating to the government's numerous Integrated Development Plans."
+disabled = false
+fork = false
+forks_within = 0
+full_name = "OpenUpSA/odac-idp"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://idp.code4sa.org"
+id = 16_063_180
+language = "JavaScript"
+name = "odac-idp"
+node_id = "MDEwOlJlcG9zaXRvcnkxNjA2MzE4MA=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "apache-2.0"
+  name = "Apache License 2.0"
+  node_id = "MDc6TGljZW5zZTI="
+  spdx_id = "Apache-2.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 26_482_663
+  login = "OpenUpSA"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI2NDgyNjYz"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

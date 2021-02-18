@@ -1,6 +1,46 @@
 code_url = "https://github.com/OpenUpSA/saflii-gazettes"
 description = "Scripts to publish gazettes to SAFLII"
-git_branch = "master"
 git_url = "git://github.com/OpenUpSA/saflii-gazettes.git"
-last_pushed_within = "over_a_year"
 name = "saflii-gazettes"
+organization_name = "OpenUp"
+
+[github]
+archived = false
+created_at = "2017-02-13T11:28:18Z"
+default_branch = "master"
+description = "Scripts to publish gazettes to SAFLII"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "OpenUpSA/saflii-gazettes"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = false
+homepage = { }
+id = 81_817_880
+language = "Python"
+license = { }
+name = "saflii-gazettes"
+node_id = "MDEwOlJlcG9zaXRvcnk4MTgxNzg4MA=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 26_482_663
+  login = "OpenUpSA"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI2NDgyNjYz"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

@@ -1,6 +1,51 @@
 code_url = "https://github.com/OpenUpSA/ccij-water-search"
 description = "Water article search"
-git_branch = "master"
 git_url = "git://github.com/OpenUpSA/ccij-water-search.git"
-last_pushed_within = "month"
 name = "ccij-water-search"
+organization_name = "OpenUp"
+
+[github]
+archived = false
+created_at = "2020-08-20T10:21:43Z"
+default_branch = "master"
+description = "Water article search"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "OpenUpSA/ccij-water-search"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 288_974_840
+language = "Jupyter Notebook"
+name = "ccij-water-search"
+node_id = "MDEwOlJlcG9zaXRvcnkyODg5NzQ4NDA="
+open_issues_within = 10
+private = false
+pushed_within = "year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "year"
+watchers_within = 0
+
+  [github.license]
+  key = "apache-2.0"
+  name = "Apache License 2.0"
+  node_id = "MDc6TGljZW5zZTI="
+  spdx_id = "Apache-2.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 26_482_663
+  login = "OpenUpSA"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI2NDgyNjYz"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

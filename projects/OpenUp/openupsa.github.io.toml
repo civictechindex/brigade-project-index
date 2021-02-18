@@ -1,7 +1,52 @@
 code_url = "https://github.com/OpenUpSA/openupsa.github.io"
 description = "OpenUp website until May 2020."
-git_branch = "master"
 git_url = "git://github.com/OpenUpSA/openupsa.github.io.git"
-last_pushed_within = "year"
 link_url = "https://openup.org.za"
 name = "openupsa.github.io"
+organization_name = "OpenUp"
+
+[github]
+archived = false
+created_at = "2016-12-14T12:22:52Z"
+default_branch = "master"
+description = "OpenUp website until May 2020."
+disabled = false
+fork = false
+forks_within = 10
+full_name = "OpenUpSA/openupsa.github.io"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = false
+homepage = "https://openup.org.za"
+id = 76_457_301
+language = "HTML"
+name = "openupsa.github.io"
+node_id = "MDEwOlJlcG9zaXRvcnk3NjQ1NzMwMQ=="
+open_issues_within = 10
+private = false
+pushed_within = "year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "year"
+watchers_within = 10
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 26_482_663
+  login = "OpenUpSA"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI2NDgyNjYz"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

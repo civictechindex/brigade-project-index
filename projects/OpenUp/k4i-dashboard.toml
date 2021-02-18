@@ -1,5 +1,45 @@
 code_url = "https://github.com/OpenUpSA/k4i-dashboard"
-git_branch = "master"
 git_url = "git://github.com/OpenUpSA/k4i-dashboard.git"
-last_pushed_within = "year"
 name = "k4i-dashboard"
+organization_name = "OpenUp"
+
+[github]
+archived = false
+created_at = "2020-07-24T13:28:55Z"
+default_branch = "master"
+description = { }
+disabled = false
+fork = false
+forks_within = 10
+full_name = "OpenUpSA/k4i-dashboard"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 282_227_253
+language = "HTML"
+license = { }
+name = "k4i-dashboard"
+node_id = "MDEwOlJlcG9zaXRvcnkyODIyMjcyNTM="
+open_issues_within = 0
+private = false
+pushed_within = "year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 26_482_663
+  login = "OpenUpSA"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI2NDgyNjYz"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

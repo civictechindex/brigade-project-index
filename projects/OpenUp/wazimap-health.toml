@@ -1,5 +1,45 @@
 code_url = "https://github.com/OpenUpSA/wazimap-health"
-git_branch = "master"
 git_url = "git://github.com/OpenUpSA/wazimap-health.git"
-last_pushed_within = "year"
 name = "wazimap-health"
+organization_name = "OpenUp"
+
+[github]
+archived = false
+created_at = "2018-09-03T08:53:35Z"
+default_branch = "master"
+description = { }
+disabled = false
+fork = false
+forks_within = 0
+full_name = "OpenUpSA/wazimap-health"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 147_177_818
+language = "Python"
+license = { }
+name = "wazimap-health"
+node_id = "MDEwOlJlcG9zaXRvcnkxNDcxNzc4MTg="
+open_issues_within = 10
+private = false
+pushed_within = "year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 26_482_663
+  login = "OpenUpSA"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI2NDgyNjYz"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

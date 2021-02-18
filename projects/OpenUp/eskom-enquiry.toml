@@ -1,7 +1,52 @@
 code_url = "https://github.com/OpenUpSA/eskom-enquiry"
 description = "A tool for searching through an archive of Eskom-related documents"
-git_branch = "master"
 git_url = "git://github.com/OpenUpSA/eskom-enquiry.git"
-last_pushed_within = "over_a_year"
 link_url = "https://eskom.openup.org.za"
 name = "eskom-enquiry"
+organization_name = "OpenUp"
+
+[github]
+archived = false
+created_at = "2018-06-18T10:40:42Z"
+default_branch = "master"
+description = "A tool for searching through an archive of Eskom-related documents"
+disabled = false
+fork = true
+forks_within = 10
+full_name = "OpenUpSA/eskom-enquiry"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = false
+homepage = "https://eskom.openup.org.za"
+id = 137_739_474
+language = "Python"
+name = "eskom-enquiry"
+node_id = "MDEwOlJlcG9zaXRvcnkxMzc3Mzk0NzQ="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 26_482_663
+  login = "OpenUpSA"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI2NDgyNjYz"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

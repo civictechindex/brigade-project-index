@@ -1,6 +1,51 @@
 code_url = "https://github.com/OpenUpSA/nameclass"
 description = "A simple API to classify race and gender by name. "
-git_branch = "master"
 git_url = "git://github.com/OpenUpSA/nameclass.git"
-last_pushed_within = "over_a_year"
 name = "nameclass"
+organization_name = "OpenUp"
+
+[github]
+archived = false
+created_at = "2017-12-03T05:45:55Z"
+default_branch = "master"
+description = "A simple API to classify race and gender by name. "
+disabled = false
+fork = false
+forks_within = 0
+full_name = "OpenUpSA/nameclass"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 112_903_611
+language = "Python"
+name = "nameclass"
+node_id = "MDEwOlJlcG9zaXRvcnkxMTI5MDM2MTE="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "apache-2.0"
+  name = "Apache License 2.0"
+  node_id = "MDc6TGljZW5zZTI="
+  spdx_id = "Apache-2.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 26_482_663
+  login = "OpenUpSA"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI2NDgyNjYz"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

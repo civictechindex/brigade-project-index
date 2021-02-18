@@ -1,6 +1,51 @@
 code_url = "https://github.com/OpenUpSA/cookiecutter-django-dokku"
 description = "Cookiecutter for Django on docker using dokku in prod and docker-compose in dev and test."
-git_branch = "master"
 git_url = "git://github.com/OpenUpSA/cookiecutter-django-dokku.git"
-last_pushed_within = "year"
 name = "cookiecutter-django-dokku"
+organization_name = "OpenUp"
+
+[github]
+archived = false
+created_at = "2020-01-12T17:43:07Z"
+default_branch = "master"
+description = "Cookiecutter for Django on docker using dokku in prod and docker-compose in dev and test."
+disabled = false
+fork = false
+forks_within = 10
+full_name = "OpenUpSA/cookiecutter-django-dokku"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = false
+has_wiki = false
+homepage = { }
+id = 233_432_629
+language = "Python"
+name = "cookiecutter-django-dokku"
+node_id = "MDEwOlJlcG9zaXRvcnkyMzM0MzI2Mjk="
+open_issues_within = 10
+private = false
+pushed_within = "year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "week"
+watchers_within = 10
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 26_482_663
+  login = "OpenUpSA"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI2NDgyNjYz"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

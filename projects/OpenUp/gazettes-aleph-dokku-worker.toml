@@ -1,6 +1,46 @@
 code_url = "https://github.com/OpenUpSA/gazettes-aleph-dokku-worker"
 description = "Repo to be able to deploy aleph (worker) via dockerfile"
-git_branch = "master"
 git_url = "git://github.com/OpenUpSA/gazettes-aleph-dokku-worker.git"
-last_pushed_within = "year"
 name = "gazettes-aleph-dokku-worker"
+organization_name = "OpenUp"
+
+[github]
+archived = false
+created_at = "2016-07-26T14:12:20Z"
+default_branch = "master"
+description = "Repo to be able to deploy aleph (worker) via dockerfile"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "OpenUpSA/gazettes-aleph-dokku-worker"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 64_226_665
+language = "Dockerfile"
+license = { }
+name = "gazettes-aleph-dokku-worker"
+node_id = "MDEwOlJlcG9zaXRvcnk2NDIyNjY2NQ=="
+open_issues_within = 10
+private = false
+pushed_within = "year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 26_482_663
+  login = "OpenUpSA"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI2NDgyNjYz"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

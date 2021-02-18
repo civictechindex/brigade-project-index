@@ -1,7 +1,52 @@
 code_url = "https://github.com/OpenUpSA/styles"
 description = "Code for South Africa's website styleguide"
-git_branch = "gh-pages"
 git_url = "git://github.com/OpenUpSA/styles.git"
-last_pushed_within = "over_a_year"
 link_url = "http://code4sa.org/styles/"
 name = "styles"
+organization_name = "OpenUp"
+
+[github]
+archived = false
+created_at = "2015-05-15T09:51:58Z"
+default_branch = "gh-pages"
+description = "Code for South Africa's website styleguide"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "OpenUpSA/styles"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = false
+homepage = "http://code4sa.org/styles/"
+id = 35_666_706
+language = "CSS"
+name = "styles"
+node_id = "MDEwOlJlcG9zaXRvcnkzNTY2NjcwNg=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 26_482_663
+  login = "OpenUpSA"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI2NDgyNjYz"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

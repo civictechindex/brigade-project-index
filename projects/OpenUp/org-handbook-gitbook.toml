@@ -1,6 +1,46 @@
 code_url = "https://github.com/OpenUpSA/org-handbook-gitbook"
 description = "Synced git repo of our organisational handbook gitbook"
-git_branch = "master"
 git_url = "git://github.com/OpenUpSA/org-handbook-gitbook.git"
-last_pushed_within = "year"
 name = "org-handbook-gitbook"
+organization_name = "OpenUp"
+
+[github]
+archived = false
+created_at = "2020-01-15T12:41:59Z"
+default_branch = "master"
+description = "Synced git repo of our organisational handbook gitbook"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "OpenUpSA/org-handbook-gitbook"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 234_078_264
+language = { }
+license = { }
+name = "org-handbook-gitbook"
+node_id = "MDEwOlJlcG9zaXRvcnkyMzQwNzgyNjQ="
+open_issues_within = 0
+private = false
+pushed_within = "week"
+stargazers_within = 0
+topics = [ ]
+updated_within = "week"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 26_482_663
+  login = "OpenUpSA"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI2NDgyNjYz"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

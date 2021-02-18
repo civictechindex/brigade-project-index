@@ -1,6 +1,46 @@
 code_url = "https://github.com/OpenUpSA/SA-Maps"
 description = "South African Shapefiles, GIS data and other useful mapping stuff"
-git_branch = "master"
 git_url = "git://github.com/OpenUpSA/SA-Maps.git"
-last_pushed_within = "over_a_year"
 name = "SA-Maps"
+organization_name = "OpenUp"
+
+[github]
+archived = false
+created_at = "2014-04-10T08:40:20Z"
+default_branch = "master"
+description = "South African Shapefiles, GIS data and other useful mapping stuff"
+disabled = false
+fork = true
+forks_within = 10
+full_name = "OpenUpSA/SA-Maps"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 18_629_668
+language = { }
+license = { }
+name = "SA-Maps"
+node_id = "MDEwOlJlcG9zaXRvcnkxODYyOTY2OA=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 26_482_663
+  login = "OpenUpSA"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI2NDgyNjYz"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

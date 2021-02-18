@@ -1,6 +1,51 @@
 code_url = "https://github.com/OpenUpSA/blacksash-cycle2-posters"
 description = "Automation of cycle 2 posters"
-git_branch = "master"
 git_url = "git://github.com/OpenUpSA/blacksash-cycle2-posters.git"
-last_pushed_within = "over_a_year"
 name = "blacksash-cycle2-posters"
+organization_name = "OpenUp"
+
+[github]
+archived = false
+created_at = "2015-08-17T20:23:20Z"
+default_branch = "master"
+description = "Automation of cycle 2 posters"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "OpenUpSA/blacksash-cycle2-posters"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 40_926_115
+language = "JavaScript"
+name = "blacksash-cycle2-posters"
+node_id = "MDEwOlJlcG9zaXRvcnk0MDkyNjExNQ=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "apache-2.0"
+  name = "Apache License 2.0"
+  node_id = "MDc6TGljZW5zZTI="
+  spdx_id = "Apache-2.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 26_482_663
+  login = "OpenUpSA"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI2NDgyNjYz"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

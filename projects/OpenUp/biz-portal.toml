@@ -1,6 +1,51 @@
 code_url = "https://github.com/OpenUpSA/biz-portal"
 description = "Open Business Portal"
-git_branch = "master"
 git_url = "git://github.com/OpenUpSA/biz-portal.git"
-last_pushed_within = "month"
 name = "biz-portal"
+organization_name = "OpenUp"
+
+[github]
+archived = false
+created_at = "2019-06-20T11:21:05Z"
+default_branch = "master"
+description = "Open Business Portal"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "OpenUpSA/biz-portal"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 192_906_698
+language = "Python"
+name = "biz-portal"
+node_id = "MDEwOlJlcG9zaXRvcnkxOTI5MDY2OTg="
+open_issues_within = 100
+private = false
+pushed_within = "year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 26_482_663
+  login = "OpenUpSA"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI2NDgyNjYz"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

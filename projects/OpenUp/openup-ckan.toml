@@ -1,6 +1,51 @@
 code_url = "https://github.com/OpenUpSA/openup-ckan"
 description = "Dokku Dockerfile-based deployment repository for CKAN for OpenUp's data portal"
-git_branch = "master"
 git_url = "git://github.com/OpenUpSA/openup-ckan.git"
-last_pushed_within = "year"
 name = "openup-ckan"
+organization_name = "OpenUp"
+
+[github]
+archived = false
+created_at = "2020-05-01T17:44:43Z"
+default_branch = "master"
+description = "Dokku Dockerfile-based deployment repository for CKAN for OpenUp's data portal"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "OpenUpSA/openup-ckan"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 260_521_335
+language = "Dockerfile"
+name = "openup-ckan"
+node_id = "MDEwOlJlcG9zaXRvcnkyNjA1MjEzMzU="
+open_issues_within = 10
+private = false
+pushed_within = "month"
+stargazers_within = 0
+topics = [ ]
+updated_within = "year"
+watchers_within = 0
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 26_482_663
+  login = "OpenUpSA"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI2NDgyNjYz"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
