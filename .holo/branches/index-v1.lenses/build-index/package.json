@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "build": "node build-index.js"
+  },
+  "dependencies": {
+    "gitsheets": "^0.20.1"
+  }
+}
