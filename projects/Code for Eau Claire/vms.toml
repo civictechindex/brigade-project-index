@@ -1,6 +1,46 @@
 code_url = "https://github.com/codeforeauclaire/vms"
 description = "Virtual Machine Spinner (For quick dev & demos)"
-git_branch = "master"
 git_url = "git://github.com/codeforeauclaire/vms.git"
-last_pushed_within = "over_a_year"
 name = "vms"
+organization_name = "Code for Eau Claire"
+
+[github]
+archived = false
+created_at = "2016-04-05T02:45:17Z"
+default_branch = "master"
+description = "Virtual Machine Spinner (For quick dev & demos)"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "codeforeauclaire/vms"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 55_462_340
+language = "JavaScript"
+license = { }
+name = "vms"
+node_id = "MDEwOlJlcG9zaXRvcnk1NTQ2MjM0MA=="
+open_issues_within = 100
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 14_985_225
+  login = "codeforeauclaire"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE0OTg1MjI1"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

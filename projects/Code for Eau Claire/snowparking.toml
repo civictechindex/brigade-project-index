@@ -1,5 +1,45 @@
 code_url = "https://github.com/codeforeauclaire/snowparking"
-git_branch = "master"
 git_url = "git://github.com/codeforeauclaire/snowparking.git"
-last_pushed_within = "over_a_year"
 name = "snowparking"
+organization_name = "Code for Eau Claire"
+
+[github]
+archived = false
+created_at = "2016-02-16T02:11:58Z"
+default_branch = "master"
+description = { }
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codeforeauclaire/snowparking"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 51_800_891
+language = "JavaScript"
+license = { }
+name = "snowparking"
+node_id = "MDEwOlJlcG9zaXRvcnk1MTgwMDg5MQ=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 14_985_225
+  login = "codeforeauclaire"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE0OTg1MjI1"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
