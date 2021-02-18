@@ -1,6 +1,46 @@
 code_url = "https://github.com/codeforabq/land-of-advancement"
 description = "Code4NM Learning Management System "
-git_branch = "master"
 git_url = "git://github.com/codeforabq/land-of-advancement.git"
-last_pushed_within = "over_a_year"
 name = "land-of-advancement"
+organization_name = "Code for ABQ"
+
+[github]
+archived = false
+created_at = "2018-09-24T23:11:42Z"
+default_branch = "master"
+description = "Code4NM Learning Management System "
+disabled = false
+fork = false
+forks_within = 0
+full_name = "codeforabq/land-of-advancement"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 150_179_764
+language = "CSS"
+license = { }
+name = "land-of-advancement"
+node_id = "MDEwOlJlcG9zaXRvcnkxNTAxNzk3NjQ="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 12_041_066
+  login = "codeforabq"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjEyMDQxMDY2"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

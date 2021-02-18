@@ -1,5 +1,50 @@
 code_url = "https://github.com/codeforabq/abqlocalfood"
-git_branch = "master"
 git_url = "git://github.com/codeforabq/abqlocalfood.git"
-last_pushed_within = "over_a_year"
 name = "abqlocalfood"
+organization_name = "Code for ABQ"
+
+[github]
+archived = false
+created_at = "2017-05-12T20:24:45Z"
+default_branch = "master"
+description = { }
+disabled = false
+fork = false
+forks_within = 0
+full_name = "codeforabq/abqlocalfood"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 91_127_149
+language = { }
+name = "abqlocalfood"
+node_id = "MDEwOlJlcG9zaXRvcnk5MTEyNzE0OQ=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "apache-2.0"
+  name = "Apache License 2.0"
+  node_id = "MDc6TGljZW5zZTI="
+  spdx_id = "Apache-2.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 12_041_066
+  login = "codeforabq"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjEyMDQxMDY2"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

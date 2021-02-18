@@ -1,6 +1,51 @@
 code_url = "https://github.com/codeforabq/immigrant-resource-website"
 description = " This webpage will serve as a comprehensive and easy to navigate resource hub for information on accessing housing, education, legal services, healthcare, nutrition, and more in New Mexico. "
-git_branch = "master"
 git_url = "git://github.com/codeforabq/immigrant-resource-website.git"
-last_pushed_within = "over_a_year"
 name = "immigrant-resource-website"
+organization_name = "Code for ABQ"
+
+[github]
+archived = false
+created_at = "2017-03-21T19:02:02Z"
+default_branch = "master"
+description = " This webpage will serve as a comprehensive and easy to navigate resource hub for information on accessing housing, education, legal services, healthcare, nutrition, and more in New Mexico. "
+disabled = false
+fork = false
+forks_within = 0
+full_name = "codeforabq/immigrant-resource-website"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 85_742_220
+language = "PHP"
+name = "immigrant-resource-website"
+node_id = "MDEwOlJlcG9zaXRvcnk4NTc0MjIyMA=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "apache-2.0"
+  name = "Apache License 2.0"
+  node_id = "MDc6TGljZW5zZTI="
+  spdx_id = "Apache-2.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 12_041_066
+  login = "codeforabq"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjEyMDQxMDY2"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

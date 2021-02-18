@@ -1,6 +1,46 @@
 code_url = "https://github.com/codeforabq/traffic-analysis"
 description = "Traffic Analysis Project for the University Heights Association"
-git_branch = "master"
 git_url = "git://github.com/codeforabq/traffic-analysis.git"
-last_pushed_within = "over_a_year"
 name = "traffic-analysis"
+organization_name = "Code for ABQ"
+
+[github]
+archived = false
+created_at = "2017-01-28T00:33:26Z"
+default_branch = "master"
+description = "Traffic Analysis Project for the University Heights Association"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "codeforabq/traffic-analysis"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 80_257_703
+language = "HTML"
+license = { }
+name = "traffic-analysis"
+node_id = "MDEwOlJlcG9zaXRvcnk4MDI1NzcwMw=="
+open_issues_within = 100
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 12_041_066
+  login = "codeforabq"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjEyMDQxMDY2"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

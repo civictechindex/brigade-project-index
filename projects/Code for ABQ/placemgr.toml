@@ -1,6 +1,51 @@
 code_url = "https://github.com/codeforabq/placemgr"
 description = "Place Manager"
-git_branch = "master"
 git_url = "git://github.com/codeforabq/placemgr.git"
-last_pushed_within = "over_a_year"
 name = "placemgr"
+organization_name = "Code for ABQ"
+
+[github]
+archived = false
+created_at = "2016-01-14T14:21:39Z"
+default_branch = "master"
+description = "Place Manager"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codeforabq/placemgr"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 49_651_794
+language = "JavaScript"
+name = "placemgr"
+node_id = "MDEwOlJlcG9zaXRvcnk0OTY1MTc5NA=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "gpl-2.0"
+  name = "GNU General Public License v2.0"
+  node_id = "MDc6TGljZW5zZTg="
+  spdx_id = "GPL-2.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 12_041_066
+  login = "codeforabq"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjEyMDQxMDY2"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
