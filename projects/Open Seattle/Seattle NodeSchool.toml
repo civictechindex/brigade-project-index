@@ -1,6 +1,58 @@
 code_url = "https://github.com/nodeschool/seattle"
 description = "Volunteer to mentor or to help with a general update of site with focus on building community and expanding community awareness. See the open issue at: https://github.com/nodeschool/seattle/issues/35"
-last_pushed_within = "over_a_year"
 link_url = "http://nodeschool.io/seattle/"
 name = "Seattle NodeSchool"
+organization_name = "Open Seattle"
 status = "live/ongoing"
+
+[github]
+archived = false
+created_at = "2014-10-23T08:08:05Z"
+default_branch = "master"
+description = "NodeSchool for Seattle!"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "nodeschool/seattle"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "http://nodeschool.io/seattle"
+id = 25_626_326
+language = "HTML"
+license = { }
+name = "seattle"
+network_count = 8
+node_id = "MDEwOlJlcG9zaXRvcnkyNTYyNjMyNg=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 100
+subscribers_count = 104
+temp_clone_token = ""
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 100
+
+  [github.organization]
+  gravatar_id = ""
+  id = 5_437_587
+  login = "nodeschool"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjU0Mzc1ODc="
+  site_admin = false
+  type = "Organization"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 5_437_587
+  login = "nodeschool"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjU0Mzc1ODc="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

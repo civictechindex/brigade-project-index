@@ -1,9 +1,36 @@
 code_url = "https://github.com/smartercleanup/duwamish"
 description = "A community of residents and stakeholders who are monitoring the cleanup of toxic waste in Seattle's Duwamish River."
-last_pushed_within = "week"
 link_url = "http://heyduwamish.org"
 name = "Hey Duwamish - River Cleanup Project"
+organization_name = "Open Seattle"
 status = "live/ongoing"
+
+[github]
+archived = false
+created_at = "2014-12-16T21:51:30Z"
+default_branch = "master"
+description = "Mapseed is a simple, beautiful way to collect information and tell geographic stories."
+disabled = false
+fork = false
+forks_within = 100
+full_name = "mapseed/platform"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://mapseed.org"
+id = 28_108_305
+language = "JavaScript"
+name = "platform"
+network_count = 30
+node_id = "MDEwOlJlcG9zaXRvcnkyODEwODMwNQ=="
+open_issues_within = 100
+private = false
+pushed_within = "week"
+stargazers_within = 100
+subscribers_count = 25
+temp_clone_token = ""
 topics = [
   "activism",
   "community",
@@ -13,3 +40,32 @@ topics = [
   "python",
   "sustainability"
 ]
+updated_within = "week"
+watchers_within = 100
+
+  [github.license]
+  key = "gpl-3.0"
+  name = "GNU General Public License v3.0"
+  node_id = "MDc6TGljZW5zZTk="
+  spdx_id = "GPL-3.0"
+
+  [github.organization]
+  gravatar_id = ""
+  id = 7_245_803
+  login = "mapseed"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjcyNDU4MDM="
+  site_admin = false
+  type = "Organization"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 7_245_803
+  login = "mapseed"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjcyNDU4MDM="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

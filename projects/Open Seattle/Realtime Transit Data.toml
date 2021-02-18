@@ -1,4 +1,53 @@
 code_url = "https://github.com/domoritz/live-bus-seattle"
-last_pushed_within = "over_a_year"
 link_url = "http://domoritz.de/live-bus-seattle/#12/47.6210/-122.3328"
 name = "Realtime Transit Data"
+organization_name = "Open Seattle"
+
+[github]
+archived = false
+created_at = "2014-02-22T20:12:50Z"
+default_branch = "gh-pages"
+description = "Live bus map for seattle"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "domoritz/live-bus-seattle"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "http://domoritz.github.io/live-bus-seattle"
+id = 17_093_680
+language = "JavaScript"
+name = "live-bus-seattle"
+network_count = 1
+node_id = "MDEwOlJlcG9zaXRvcnkxNzA5MzY4MA=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+subscribers_count = 5
+temp_clone_token = ""
+topics = [ ]
+updated_within = "year"
+watchers_within = 10
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 589_034
+  login = "domoritz"
+  node_id = "MDQ6VXNlcjU4OTAzNA=="
+  site_admin = false
+  type = "User"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

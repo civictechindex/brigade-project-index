@@ -1,4 +1,5 @@
 code_url = "https://github.com/openseattle/node-localwiki-client"
 description = "Use the data from LocalWiki in your JavaScript projects!"
-flags = [ "github_404" ]
+github = false
 name = "LocalWiki JavaScript client"
+organization_name = "Open Seattle"

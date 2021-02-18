@@ -1,4 +1,48 @@
 code_url = "https://github.com/lcdvirgo/stolenbikesSEA"
-last_pushed_within = "over_a_year"
 link_url = "http://bike.jumis.com/index.html"
 name = "Stolen Bike App"
+organization_name = "Open Seattle"
+
+[github]
+archived = false
+created_at = "2014-02-22T20:57:10Z"
+default_branch = "master"
+description = "Maps + Local Stolen Bikes"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "lcdvirgo/stolenbikesSEA"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://bike.jumis.com/index.html"
+id = 17_094_524
+language = "JavaScript"
+license = { }
+name = "stolenbikesSEA"
+network_count = 3
+node_id = "MDEwOlJlcG9zaXRvcnkxNzA5NDUyNA=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+subscribers_count = 2
+temp_clone_token = ""
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 229_170
+  login = "lcdvirgo"
+  node_id = "MDQ6VXNlcjIyOTE3MA=="
+  site_admin = false
+  type = "User"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

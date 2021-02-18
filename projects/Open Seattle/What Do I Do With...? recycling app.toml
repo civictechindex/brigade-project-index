@@ -1,6 +1,50 @@
 code_url = "https://github.com/audreycarlsen/recycling_app"
 description = "Dropoff locator for recyclables and other disposables in King County"
-last_pushed_within = "over_a_year"
 link_url = "http://www.wdidw.com"
 name = "What Do I Do With...? recycling app"
+organization_name = "Open Seattle"
 status = "live/ongoing"
+
+[github]
+archived = false
+created_at = "2014-04-04T18:24:40Z"
+default_branch = "master"
+description = "Capstone project, rah rah rah!"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "audreycarlsen/recycling_app"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "www.wdidw.com"
+id = 18_448_188
+language = "JavaScript"
+license = { }
+name = "recycling_app"
+network_count = 1
+node_id = "MDEwOlJlcG9zaXRvcnkxODQ0ODE4OA=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+subscribers_count = 1
+temp_clone_token = ""
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 5_515_746
+  login = "audreycarlsen"
+  node_id = "MDQ6VXNlcjU1MTU3NDY="
+  site_admin = false
+  type = "User"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

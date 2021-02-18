@@ -1,4 +1,48 @@
 code_url = "https://github.com/licyeus/seattle-geojson"
-last_pushed_within = "over_a_year"
 name = "Seattle GeoJSON datasets"
+organization_name = "Open Seattle"
 status = "in progress"
+
+[github]
+archived = false
+created_at = "2013-07-23T23:35:17Z"
+default_branch = "master"
+description = { }
+disabled = false
+fork = false
+forks_within = 10
+full_name = "sllvn/seattle-geojson"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 11_621_865
+language = { }
+license = { }
+name = "seattle-geojson"
+network_count = 4
+node_id = "MDEwOlJlcG9zaXRvcnkxMTYyMTg2NQ=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+subscribers_count = 2
+temp_clone_token = ""
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 451_517
+  login = "sllvn"
+  node_id = "MDQ6VXNlcjQ1MTUxNw=="
+  site_admin = false
+  type = "User"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

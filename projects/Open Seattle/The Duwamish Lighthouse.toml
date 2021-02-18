@@ -1,6 +1,63 @@
 code_url = "https://github.com/tipsqueal/duwamish-lighthouse"
 description = "Brings visibility and presence to the Duwamish River, Seattle's only river. This project enhances our relationship with the river through a sculptural form and water quality data-driven lighting at night."
-last_pushed_within = "over_a_year"
 link_url = "http://www.georgeleestudio.com/duwamishlighthouse/"
 name = "The Duwamish Lighthouse"
+organization_name = "Open Seattle"
 status = "live/ongoing"
+
+[github]
+archived = false
+created_at = "2015-04-15T04:15:30Z"
+default_branch = "master"
+description = "Bunch of Python code reading data originating from a duwamish-sensor node, then powering a set of LEDs."
+disabled = false
+fork = false
+forks_within = 10
+full_name = "illumenati/duwamish-lighthouse"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 33_972_754
+language = "Python"
+name = "duwamish-lighthouse"
+network_count = 1
+node_id = "MDEwOlJlcG9zaXRvcnkzMzk3Mjc1NA=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+subscribers_count = 5
+temp_clone_token = ""
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.organization]
+  gravatar_id = ""
+  id = 15_722_521
+  login = "illumenati"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE1NzIyNTIx"
+  site_admin = false
+  type = "Organization"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 15_722_521
+  login = "illumenati"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE1NzIyNTIx"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

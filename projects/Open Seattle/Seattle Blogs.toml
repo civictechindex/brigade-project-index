@@ -1,4 +1,56 @@
 code_url = "https://github.com/sethvincent/seattle-blogs"
 description = "Tracking all the blogs and online publications in the Seattle area."
-last_pushed_within = "over_a_year"
 name = "Seattle Blogs"
+organization_name = "Open Seattle"
+
+[github]
+archived = false
+created_at = "2013-10-03T03:29:27Z"
+default_branch = "gh-pages"
+description = "A directory of blogs and other online publications covering the Seattle, WA area."
+disabled = false
+fork = false
+forks_within = 10
+full_name = "seattleio/blogs.seattle.io"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "http://blogs.seattle.io"
+id = 13_289_528
+language = "JavaScript"
+license = { }
+name = "blogs.seattle.io"
+network_count = 2
+node_id = "MDEwOlJlcG9zaXRvcnkxMzI4OTUyOA=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+subscribers_count = 1
+temp_clone_token = ""
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.organization]
+  gravatar_id = ""
+  id = 5_035_942
+  login = "seattleio"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjUwMzU5NDI="
+  site_admin = false
+  type = "Organization"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 5_035_942
+  login = "seattleio"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjUwMzU5NDI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

@@ -1,6 +1,63 @@
 code_url = "https://github.com/sodaplus/sodaplus.github.io"
 description = "A project in the early stages to provide a GUI for generating Socrata API urls, doing advanced display of data, and allowing subscription to new results to queries."
-last_pushed_within = "over_a_year"
 link_url = "sodaplus.org"
 name = "SODA Plus"
+organization_name = "Open Seattle"
 status = "live"
+
+[github]
+archived = false
+created_at = "2016-02-08T12:41:15Z"
+default_branch = "master"
+description = { }
+disabled = false
+fork = false
+forks_within = 10
+full_name = "sodaplaygrounddotcom/sodaplaygrounddotcom.github.io"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 51_297_223
+language = "HTML"
+name = "sodaplaygrounddotcom.github.io"
+network_count = 1
+node_id = "MDEwOlJlcG9zaXRvcnk1MTI5NzIyMw=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+subscribers_count = 1
+temp_clone_token = ""
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "apache-2.0"
+  name = "Apache License 2.0"
+  node_id = "MDc6TGljZW5zZTI="
+  spdx_id = "Apache-2.0"
+
+  [github.organization]
+  gravatar_id = ""
+  id = 17_122_996
+  login = "sodaplaygrounddotcom"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE3MTIyOTk2"
+  site_admin = false
+  type = "Organization"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 17_122_996
+  login = "sodaplaygrounddotcom"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE3MTIyOTk2"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

@@ -1,5 +1,49 @@
 code_url = "https://github.com/typpo/political-annotations"
-last_pushed_within = "over_a_year"
 link_url = "n/a"
 name = "Political Annotations Chrome Extension"
+organization_name = "Open Seattle"
 status = "in progress"
+
+[github]
+archived = false
+created_at = "2013-12-07T05:03:27Z"
+default_branch = "master"
+description = { }
+disabled = false
+fork = false
+forks_within = 10
+full_name = "typpo/political-annotations"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 15_000_232
+language = "JavaScript"
+license = { }
+name = "political-annotations"
+network_count = 3
+node_id = "MDEwOlJlcG9zaXRvcnkxNTAwMDIzMg=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+subscribers_count = 10
+temp_clone_token = ""
+topics = [ ]
+updated_within = "year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 310_310
+  login = "typpo"
+  node_id = "MDQ6VXNlcjMxMDMxMA=="
+  site_admin = false
+  type = "User"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

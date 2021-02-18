@@ -1,6 +1,63 @@
 code_url = "https://github.com/sethvincent/nwdata.org"
 description = "A directory of data portals, apps, & other resources related to civic tech in the Pacific Northwest."
-last_pushed_within = "over_a_year"
 link_url = "http://nwdata.org"
 name = "nwdata.org"
+organization_name = "Open Seattle"
 status = "live"
+
+[github]
+archived = false
+created_at = "2013-11-07T23:35:56Z"
+default_branch = "master"
+description = "Directory of open data & civic tech resources in the pacific northwest"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "nwdata/nwdata.org"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = false
+homepage = "https://nwdata.org"
+id = 14_219_182
+language = "HTML"
+name = "nwdata.org"
+network_count = 9
+node_id = "MDEwOlJlcG9zaXRvcnkxNDIxOTE4Mg=="
+open_issues_within = 100
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 100
+subscribers_count = 6
+temp_clone_token = ""
+topics = [ ]
+updated_within = "year"
+watchers_within = 100
+
+  [github.license]
+  key = "other"
+  name = "Other"
+  node_id = "MDc6TGljZW5zZTA="
+  spdx_id = "NOASSERTION"
+
+  [github.organization]
+  gravatar_id = ""
+  id = 26_988_507
+  login = "nwdata"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI2OTg4NTA3"
+  site_admin = false
+  type = "Organization"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 26_988_507
+  login = "nwdata"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI2OTg4NTA3"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
