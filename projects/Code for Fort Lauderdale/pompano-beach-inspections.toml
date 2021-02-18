@@ -1,6 +1,46 @@
 code_url = "https://github.com/CodeForFtL/pompano-beach-inspections"
 description = "Pompano Beach Building Inspections"
-git_branch = "master"
 git_url = "git://github.com/CodeForFtL/pompano-beach-inspections.git"
-last_pushed_within = "over_a_year"
 name = "pompano-beach-inspections"
+organization_name = "Code for Fort Lauderdale"
+
+[github]
+archived = false
+created_at = "2018-04-26T00:09:14Z"
+default_branch = "master"
+description = "Pompano Beach Building Inspections"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "CodeForFtL/pompano-beach-inspections"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 131_077_243
+language = { }
+license = { }
+name = "pompano-beach-inspections"
+node_id = "MDEwOlJlcG9zaXRvcnkxMzEwNzcyNDM="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 5_661_283
+  login = "CodeForFtL"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjU2NjEyODM="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

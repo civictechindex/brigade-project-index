@@ -1,6 +1,51 @@
 code_url = "https://github.com/CodeForFtL/Fort-Lauderdale-Data"
 description = "The City of Fort Lauderdale shared this data with us."
-git_branch = "master"
 git_url = "git://github.com/CodeForFtL/Fort-Lauderdale-Data.git"
-last_pushed_within = "over_a_year"
 name = "Fort-Lauderdale-Data"
+organization_name = "Code for Fort Lauderdale"
+
+[github]
+archived = false
+created_at = "2014-08-07T23:57:57Z"
+default_branch = "master"
+description = "The City of Fort Lauderdale shared this data with us."
+disabled = false
+fork = false
+forks_within = 10
+full_name = "CodeForFtL/Fort-Lauderdale-Data"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 22_740_308
+language = { }
+name = "Fort-Lauderdale-Data"
+node_id = "MDEwOlJlcG9zaXRvcnkyMjc0MDMwOA=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "apache-2.0"
+  name = "Apache License 2.0"
+  node_id = "MDc6TGljZW5zZTI="
+  spdx_id = "Apache-2.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 5_661_283
+  login = "CodeForFtL"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjU2NjEyODM="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

@@ -1,6 +1,46 @@
 code_url = "https://github.com/CodeForFtL/project-ideas"
 description = "Project Ideas List for Fort Lauderdale/Broward County! "
-git_branch = "master"
 git_url = "git://github.com/CodeForFtL/project-ideas.git"
-last_pushed_within = "over_a_year"
 name = "project-ideas"
+organization_name = "Code for Fort Lauderdale"
+
+[github]
+archived = false
+created_at = "2017-06-01T19:26:19Z"
+default_branch = "master"
+description = "Project Ideas List for Fort Lauderdale/Broward County! "
+disabled = false
+fork = false
+forks_within = 10
+full_name = "CodeForFtL/project-ideas"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 93_092_060
+language = { }
+license = { }
+name = "project-ideas"
+node_id = "MDEwOlJlcG9zaXRvcnk5MzA5MjA2MA=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 5_661_283
+  login = "CodeForFtL"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjU2NjEyODM="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

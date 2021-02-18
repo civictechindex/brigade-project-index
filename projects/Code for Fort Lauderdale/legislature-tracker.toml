@@ -1,7 +1,52 @@
 code_url = "https://github.com/CodeForFtL/legislature-tracker"
 description = "An application that pulls in Open States data and combines with editorial expertise to create a live view into a state legislature session."
-git_branch = "master"
 git_url = "git://github.com/CodeForFtL/legislature-tracker.git"
-last_pushed_within = "over_a_year"
 link_url = "http://codeforftl.github.io/legislature-tracker"
 name = "legislature-tracker"
+organization_name = "Code for Fort Lauderdale"
+
+[github]
+archived = false
+created_at = "2013-10-13T23:32:40Z"
+default_branch = "master"
+description = "An application that pulls in Open States data and combines with editorial expertise to create a live view into a state legislature session."
+disabled = false
+fork = true
+forks_within = 10
+full_name = "CodeForFtL/legislature-tracker"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://codeforftl.github.io/legislature-tracker"
+id = 13_548_600
+language = "JavaScript"
+name = "legislature-tracker"
+node_id = "MDEwOlJlcG9zaXRvcnkxMzU0ODYwMA=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "other"
+  name = "Other"
+  node_id = "MDc6TGljZW5zZTA="
+  spdx_id = "NOASSERTION"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 5_661_283
+  login = "CodeForFtL"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjU2NjEyODM="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

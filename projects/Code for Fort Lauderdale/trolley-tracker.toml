@@ -1,6 +1,46 @@
 code_url = "https://github.com/CodeForFtL/trolley-tracker"
 description = "Code for Fort Lauderdale's trolley tracking system"
-git_branch = "master"
 git_url = "git://github.com/CodeForFtL/trolley-tracker.git"
-last_pushed_within = "over_a_year"
 name = "trolley-tracker"
+organization_name = "Code for Fort Lauderdale"
+
+[github]
+archived = false
+created_at = "2016-03-16T23:12:05Z"
+default_branch = "master"
+description = "Code for Fort Lauderdale's trolley tracking system"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "CodeForFtL/trolley-tracker"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 54_072_965
+language = "JavaScript"
+license = { }
+name = "trolley-tracker"
+node_id = "MDEwOlJlcG9zaXRvcnk1NDA3Mjk2NQ=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 5_661_283
+  login = "CodeForFtL"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjU2NjEyODM="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

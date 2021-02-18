@@ -1,8 +1,53 @@
 code_url = "https://github.com/CodeForFtL/CodeForftL.github.io"
 description = "codeforftl.org website (forked from Code for Miami)"
-git_branch = "master"
 git_url = "git://github.com/CodeForFtL/CodeForftL.github.io.git"
-last_pushed_within = "over_a_year"
 link_url = "http://codeforftl.org"
 name = "CodeForftL.github.io"
+organization_name = "Code for Fort Lauderdale"
 topics = [ "active" ]
+
+[github]
+archived = false
+created_at = "2013-10-13T23:35:08Z"
+default_branch = "master"
+description = "codeforftl.org website (forked from Code for Miami)"
+disabled = false
+fork = true
+forks_within = 10
+full_name = "CodeForFtL/CodeForftL.github.io"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "http://codeforftl.org"
+id = 13_548_623
+language = "HTML"
+name = "CodeForftL.github.io"
+node_id = "MDEwOlJlcG9zaXRvcnkxMzU0ODYyMw=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ "active" ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "other"
+  name = "Other"
+  node_id = "MDc6TGljZW5zZTA="
+  spdx_id = "NOASSERTION"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 5_661_283
+  login = "CodeForFtL"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjU2NjEyODM="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

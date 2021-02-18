@@ -1,5 +1,45 @@
 code_url = "https://github.com/CodeForFtL/ftl-vendor-pay"
-git_branch = "master"
 git_url = "git://github.com/CodeForFtL/ftl-vendor-pay.git"
-last_pushed_within = "over_a_year"
 name = "ftl-vendor-pay"
+organization_name = "Code for Fort Lauderdale"
+
+[github]
+archived = false
+created_at = "2015-06-06T22:14:38Z"
+default_branch = "master"
+description = { }
+disabled = false
+fork = false
+forks_within = 10
+full_name = "CodeForFtL/ftl-vendor-pay"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 36_996_803
+language = "Ruby"
+license = { }
+name = "ftl-vendor-pay"
+node_id = "MDEwOlJlcG9zaXRvcnkzNjk5NjgwMw=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 5_661_283
+  login = "CodeForFtL"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjU2NjEyODM="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
