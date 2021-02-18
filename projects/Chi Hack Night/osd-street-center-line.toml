@@ -1,4 +1,6 @@
 code_url = "https://github.com/Chicago/osd-street-center-line"
+git_branch = "master"
 last_pushed_within = "over_a_year"
 name = "osd-street-center-line"
+organization_name = "Chi Hack Night"
 topics = [ "chicago", "geojson-data", "government", "open-data" ]

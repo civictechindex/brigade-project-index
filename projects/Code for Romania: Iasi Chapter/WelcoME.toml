@@ -5,4 +5,5 @@ git_url = "git://github.com/code4romania/WelcoME.git"
 last_pushed_within = "over_a_year"
 link_url = "https://code4.ro/en/apps/welcome/"
 name = "WelcoME"
+organization_name = "Code for Romania: Iasi Chapter"
 topics = [ "civic-hacking", "civic-tech", "code4ro" ]

@@ -3,4 +3,5 @@ git_branch = "master"
 git_url = "git://github.com/codeformuenster/mshack2020-frontend.git"
 last_pushed_within = "year"
 name = "mshack2020-frontend"
+organization_name = "OK Lab Münster"
 topics = [ "mshack20", "mszaehlt" ]

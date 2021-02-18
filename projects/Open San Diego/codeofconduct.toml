@@ -4,4 +4,5 @@ git_branch = "master"
 git_url = "git://github.com/opensandiego/codeofconduct.git"
 last_pushed_within = "over_a_year"
 name = "codeofconduct"
+organization_name = "Open San Diego"
 topics = [ "code-for-america", "codeofconduct", "open-san-diego" ]

@@ -4,4 +4,5 @@ git_branch = "master"
 git_url = "git://github.com/CodeForFoco/bike-coop.git"
 last_pushed_within = "over_a_year"
 name = "bike-coop"
+organization_name = "Code for Fort Collins"
 topics = [ "wordpress-site" ]

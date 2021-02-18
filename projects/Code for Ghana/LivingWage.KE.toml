@@ -5,13 +5,14 @@ git_url = "git://github.com/CodeForAfrica/LivingWage.KE.git"
 last_pushed_within = "over_a_year"
 link_url = "https://livingwage.pd.co.ke/"
 name = "LivingWage.KE"
+organization_name = "Code for Ghana"
 topics = [
   "africa",
   "ancir",
   "calculator",
   "calorie-calculator",
-  "data-journalism",
   "datadrivenjournalism",
+  "data-journalism",
   "domestic-workers",
   "education",
   "health",

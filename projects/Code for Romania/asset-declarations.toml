@@ -4,6 +4,7 @@ git_branch = "develop"
 git_url = "git://github.com/code4romania/asset-declarations.git"
 last_pushed_within = "year"
 name = "asset-declarations"
+organization_name = "Code for Romania"
 topics = [
   "civic-hacking",
   "civic-tech",

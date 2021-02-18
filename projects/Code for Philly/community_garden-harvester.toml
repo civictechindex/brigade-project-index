@@ -1,8 +1,10 @@
 code_url = "https://github.com/HarvestHub/GardenHub"
 description = "Formed around the simple idea that food should not go to waste, GardenHub is the solution to the problem of community garden food waste. Despite the best efforts of community gardeners, far too often food produced in community gardens rots on the vine."
-last_pushed_within = "year"
+git_branch = "master"
+last_pushed_within = "month"
 link_url = "https://gardenhub.io"
 name = "community_garden-harvester"
+organization_name = "Code for Philly"
 status = "Maintaining"
 topics = [
   "Community",

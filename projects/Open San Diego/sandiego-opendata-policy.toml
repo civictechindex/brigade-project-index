@@ -4,4 +4,5 @@ git_branch = "master"
 git_url = "git://github.com/opensandiego/sandiego-opendata-policy.git"
 last_pushed_within = "over_a_year"
 name = "sandiego-opendata-policy"
+organization_name = "Open San Diego"
 topics = [ "inactive", "open-san-diego" ]

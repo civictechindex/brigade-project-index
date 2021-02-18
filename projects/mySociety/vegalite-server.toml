@@ -1,0 +1,7 @@
+code_url = "https://github.com/mysociety/vegalite-server"
+description = "Flask app to convert vegalite spec to image"
+git_branch = "master"
+git_url = "git://github.com/mysociety/vegalite-server.git"
+last_pushed_within = "week"
+name = "vegalite-server"
+organization_name = "mySociety"

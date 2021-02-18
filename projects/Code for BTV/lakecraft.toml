@@ -4,4 +4,5 @@ git_branch = "master"
 git_url = "git://github.com/codeforbtv/lakecraft.git"
 last_pushed_within = "over_a_year"
 name = "lakecraft"
+organization_name = "Code for BTV"
 topics = [ "open-data" ]

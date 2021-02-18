@@ -5,6 +5,7 @@ git_url = "git://github.com/CodeForAfrica/CodeOfConduct.git"
 last_pushed_within = "over_a_year"
 link_url = "https://codeforafrica.github.io/CodeOfConduct/"
 name = "CodeOfConduct"
+organization_name = "Code for Ghana"
 topics = [
   "code-for-africa",
   "code-of-conduct",

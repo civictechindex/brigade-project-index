@@ -3,6 +3,7 @@ git_branch = "master"
 git_url = "git://github.com/codeforamerica/training-provider-search.git"
 last_pushed_within = "over_a_year"
 name = "training-provider-search"
+organization_name = "Code for America"
 topics = [
   "codeforamerica-workforce",
   "codeforamerica-workforce-2018",

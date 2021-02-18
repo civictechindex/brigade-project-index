@@ -5,4 +5,5 @@ git_url = "git://github.com/CodeForFoco/solar-scorecard.git"
 last_pushed_within = "year"
 link_url = "http://solar-scorecard.org/"
 name = "solar-scorecard"
+organization_name = "Code for Fort Collins"
 topics = [ "community-driven", "renewable-energy", "solar" ]

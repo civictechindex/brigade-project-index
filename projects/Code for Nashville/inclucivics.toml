@@ -5,4 +5,5 @@ git_url = "git://github.com/code-for-nashville/inclucivics.git"
 last_pushed_within = "year"
 link_url = "http://www.codefornashville.org/inclucivics/"
 name = "inclucivics"
+organization_name = "Code for Nashville"
 topics = [ "civic-tech", "data-viz", "diversity-measurement" ]

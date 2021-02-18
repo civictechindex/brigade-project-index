@@ -1,5 +1,7 @@
 code_url = "https://github.com/CfABrigadePhiladelphia/sustainability-tour"
+git_branch = "master"
 last_pushed_within = "over_a_year"
 name = "philadelphia_water_sustainability_tour"
+organization_name = "Code for Philly"
 status = "Testing"
-topics = [ "Watershed", "water" ]
+topics = [ "water", "Watershed" ]

@@ -1,4 +1,3 @@
-categories = "launched"
 description = """
 Das Tool berrechnet die Nutzung der Flächen, basierend auf OpenStreetMap
  (OSM) Daten. Die OSM Daten wurden von verschiedenen Nutzern 
@@ -8,3 +7,4 @@ oder fehlerhaft eingetragen wurden. So können sich z.B. Flächen
 auf Deutschland beschränkt."""
 link_url = "http://hanshack.com/flaechentool/"
 name = "Flächentool"
+organization_name = "OK Lab Berlin"

@@ -5,6 +5,7 @@ git_url = "git://github.com/codeforUV/food_resources.git"
 last_pushed_within = "week"
 link_url = "https://food-resources.herokuapp.com"
 name = "food_resources"
+organization_name = "Code for Upper Valley"
 topics = [
   "codeforamerica",
   "food-access",

@@ -1,5 +1,7 @@
 code_url = "http://github.com/localwiki/localwiki"
+git_branch = "master"
 last_pushed_within = "over_a_year"
 link_url = "http://seattlewiki.net"
 name = "Seattle LocalWiki"
+organization_name = "Open Seattle"
 status = "live"

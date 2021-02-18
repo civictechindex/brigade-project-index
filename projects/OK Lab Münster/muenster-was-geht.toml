@@ -5,4 +5,5 @@ git_url = "git://github.com/codeformuenster/muenster-was-geht.git"
 last_pushed_within = "year"
 link_url = "https://demo.muenster-was-geht.de/"
 name = "muenster-was-geht"
+organization_name = "OK Lab Münster"
 topics = [ "mshack20" ]

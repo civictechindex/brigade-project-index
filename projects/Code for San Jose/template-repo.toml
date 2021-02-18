@@ -1,5 +1,6 @@
 code_url = "https://github.com/codeforsanjose/template-repo"
 git_branch = "master"
 git_url = "git://github.com/codeforsanjose/template-repo.git"
-last_pushed_within = "month"
+last_pushed_within = "year"
 name = "template-repo"
+organization_name = "Code for San Jose"

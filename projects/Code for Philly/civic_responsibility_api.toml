@@ -1,6 +1,8 @@
 code_url = "https://github.com/mheadd/civic-responsibility-api"
 description = "An API to support the lookup of property tax balances on properties in the City of Philadelphia."
+git_branch = "master"
 last_pushed_within = "over_a_year"
 name = "civic_responsibility_api"
+organization_name = "Code for Philly"
 status = "Hibernating"
 topics = [ "taxes" ]

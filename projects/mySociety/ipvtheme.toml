@@ -5,4 +5,5 @@ git_url = "git://github.com/mysociety/ipvtheme.git"
 last_pushed_within = "year"
 link_url = "http://infoprovsechny.cz"
 name = "ipvtheme"
+organization_name = "mySociety"
 topics = [ "alaveteli", "alaveteli-theme" ]

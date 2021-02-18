@@ -3,4 +3,5 @@ git_branch = "master"
 git_url = "git://github.com/codeformuenster/docker-elasticsearch-oss-plugins.git"
 last_pushed_within = "over_a_year"
 name = "docker-elasticsearch-oss-plugins"
+organization_name = "OK Lab Münster"
 topics = [ "dockerfile", "elasticsearch" ]

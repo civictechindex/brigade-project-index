@@ -1,5 +1,6 @@
 code_url = "https://github.com/codeforboston/.github"
 git_branch = "master"
 git_url = "git://github.com/codeforboston/.github.git"
-last_pushed_within = "month"
+last_pushed_within = "year"
 name = ".github"
+organization_name = "Code for Boston"

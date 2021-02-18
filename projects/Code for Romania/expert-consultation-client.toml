@@ -5,4 +5,5 @@ git_url = "git://github.com/code4romania/expert-consultation-client.git"
 last_pushed_within = "week"
 link_url = "https://expert-consultation-client.now.sh"
 name = "expert-consultation-client"
+organization_name = "Code for Romania"
 topics = [ "hacktoberfest" ]

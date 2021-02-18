@@ -5,6 +5,7 @@ git_url = "git://github.com/codefordenver/members.git"
 last_pushed_within = "year"
 link_url = "https://members.codefordenver.org"
 name = "members"
+organization_name = "Code for Denver"
 topics = [
   "brigade-tool",
   "code-for-america",

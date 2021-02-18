@@ -3,10 +3,11 @@ git_branch = "master"
 git_url = "git://github.com/codeforatlanta/future-greenspaces.git"
 last_pushed_within = "over_a_year"
 name = "future-greenspaces"
+organization_name = "Code for Atlanta"
 topics = [
   "atl",
-  "green-spaces",
   "greenspace",
+  "green-spaces",
   "new-park",
   "parcel",
   "park",

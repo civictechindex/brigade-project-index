@@ -1,5 +1,6 @@
 code_url = "https://github.com/OpenUpSA/municipal-money-charts"
 git_branch = "main"
 git_url = "git://github.com/OpenUpSA/municipal-money-charts.git"
-last_pushed_within = "month"
+last_pushed_within = "year"
 name = "municipal-money-charts"
+organization_name = "OpenUp"

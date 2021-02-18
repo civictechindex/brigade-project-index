@@ -2,8 +2,9 @@ code_url = "https://github.com/mysociety/bluetail"
 description = "An alpha project combining beneficial ownership and contracting data"
 git_branch = "master"
 git_url = "git://github.com/mysociety/bluetail.git"
-last_pushed_within = "year"
+last_pushed_within = "month"
 name = "bluetail"
+organization_name = "mySociety"
 topics = [
   "beneficial-ownership",
   "bods",

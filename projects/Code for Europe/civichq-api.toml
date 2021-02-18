@@ -5,4 +5,5 @@ git_url = "git://github.com/codeforeurope/civichq-api.git"
 last_pushed_within = "over_a_year"
 link_url = "http://codeforeu.github.io/portfolio"
 name = "civichq-api"
+organization_name = "Code for Europe"
 topics = [ "civic-tech", "civictech", "european" ]

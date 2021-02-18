@@ -4,4 +4,5 @@ git_url = "git://github.com/mysociety/foi-for-councils.git"
 last_pushed_within = "month"
 link_url = "https://www.mysociety.org/transparency/foi-works/"
 name = "foi-for-councils"
+organization_name = "mySociety"
 topics = [ "freedom-of-information" ]

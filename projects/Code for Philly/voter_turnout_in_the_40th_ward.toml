@@ -3,5 +3,6 @@ description = "This project maps the voter turnout in the November 2014 general 
 flags = [ "github_404" ]
 link_url = "https://github.com/ppierdo/Voter-Turnout-Maps/tree/gh-pages"
 name = "voter_turnout_in_the_40th_ward"
+organization_name = "Code for Philly"
 status = "Maintaining"
 topics = [ "voter registration", "Voting" ]

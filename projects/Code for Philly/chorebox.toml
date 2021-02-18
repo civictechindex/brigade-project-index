@@ -3,5 +3,6 @@ description = "Chorebox is to be an alternative to -autoconf- -- only unlike -au
 flags = [ "github_404" ]
 link_url = "http://chorebox.wordpress.com"
 name = "chorebox"
+organization_name = "Code for Philly"
 status = "Prototyping"
 topics = [ "configuration", "library" ]

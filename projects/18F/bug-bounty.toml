@@ -5,4 +5,5 @@ git_url = "git://github.com/18F/bug-bounty.git"
 last_pushed_within = "year"
 link_url = "https://github.com/18F/tts-tech-portfolio/issues/49"
 name = "bug-bounty"
+organization_name = "18F"
 topics = [ "tts-bug-bounty" ]

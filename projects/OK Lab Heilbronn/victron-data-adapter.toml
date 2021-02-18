@@ -4,6 +4,7 @@ git_branch = "master"
 git_url = "git://github.com/opendata-heilbronn/victron-data-adapter.git"
 last_pushed_within = "over_a_year"
 name = "victron-data-adapter"
+organization_name = "OK Lab Heilbronn"
 topics = [
   "docker",
   "dotnet-core",

@@ -1,5 +1,6 @@
 code_url = "https://github.com/g0v/idystopia-beacon"
 git_branch = "main"
 git_url = "git://github.com/g0v/idystopia-beacon.git"
-last_pushed_within = "week"
+last_pushed_within = "year"
 name = "idystopia-beacon"
+organization_name = "g0v.tw"

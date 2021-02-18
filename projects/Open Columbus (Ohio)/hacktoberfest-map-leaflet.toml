@@ -4,4 +4,5 @@ git_branch = "master"
 git_url = "git://github.com/SCODEMeetup/hacktoberfest-map-leaflet.git"
 last_pushed_within = "over_a_year"
 name = "hacktoberfest-map-leaflet"
-topics = [ "leaflet", "leaflet-layer", "leaflet-map", "leafletjs" ]
+organization_name = "Open Columbus (Ohio)"
+topics = [ "leaflet", "leafletjs", "leaflet-layer", "leaflet-map" ]

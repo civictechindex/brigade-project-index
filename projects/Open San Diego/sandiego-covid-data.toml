@@ -4,4 +4,5 @@ git_branch = "master"
 git_url = "git://github.com/opensandiego/sandiego-covid-data.git"
 last_pushed_within = "year"
 name = "sandiego-covid-data"
+organization_name = "Open San Diego"
 topics = [ "covid-19", "opensandiego" ]

@@ -1,8 +1,10 @@
 code_url = "https://github.com/yurykorzun/notinphilly"
 description = "Not in Philly"
+git_branch = "master"
 last_pushed_within = "year"
 link_url = "http://notinphilly.org"
 name = "not_in_philly"
+organization_name = "Code for Philly"
 status = "Testing"
 topics = [
   "Communities",

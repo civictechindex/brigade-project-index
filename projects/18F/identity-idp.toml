@@ -5,4 +5,5 @@ git_url = "git://github.com/18F/identity-idp.git"
 last_pushed_within = "week"
 link_url = "https://secure.login.gov/"
 name = "identity-idp"
+organization_name = "18F"
 topics = [ "idp", "login-gov" ]

@@ -1,6 +1,8 @@
 code_url = "https://github.com/Chicago/food-inspections-evaluation"
+git_branch = "master"
 last_pushed_within = "over_a_year"
 name = "food-inspections-evaluation"
+organization_name = "Chi Hack Night"
 topics = [
   "cdph",
   "chicago",

@@ -5,4 +5,5 @@ git_url = "git://github.com/sfbrigade/stop-covid19-sfbayarea.git"
 last_pushed_within = "week"
 link_url = "https://panda.baybrigades.org/"
 name = "stop-covid19-sfbayarea"
+organization_name = "Code for San Francisco"
 topics = [ "covid-19" ]

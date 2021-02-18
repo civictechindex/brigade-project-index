@@ -4,4 +4,5 @@ git_branch = "master"
 git_url = "git://github.com/codeforbtv/events-calendar.git"
 last_pushed_within = "over_a_year"
 name = "events-calendar"
+organization_name = "Code for BTV"
 topics = [ "big-heavy-world" ]

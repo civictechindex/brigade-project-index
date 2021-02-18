@@ -5,4 +5,5 @@ git_url = "git://github.com/18F/federalist.18f.gov.git"
 last_pushed_within = "week"
 link_url = "https://federalist.18f.gov"
 name = "federalist.18f.gov"
+organization_name = "18F"
 topics = [ "active", "federalist" ]

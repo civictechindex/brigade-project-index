@@ -5,4 +5,5 @@ git_url = "git://github.com/code4sac/bikeandwalk.git"
 last_pushed_within = "year"
 link_url = "app.bikeandwalk.org"
 name = "bikeandwalk"
+organization_name = "Code for Sacramento"
 topics = [ "javascript", "python", "transportation" ]

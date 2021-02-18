@@ -3,5 +3,6 @@ description = "PHL Crime Mapper lets you see the Part I (violent and property) c
 flags = [ "github_404" ]
 link_url = "http://www.phlcrimemapper.com"
 name = "PHL_Crime_Mapper"
+organization_name = "Code for Philly"
 status = "Maintaining"
 topics = [ "Crime", "GIS", "Maps" ]

@@ -5,6 +5,7 @@ git_url = "git://github.com/CodeForAfrica/AfricanSpending.git"
 last_pushed_within = "over_a_year"
 link_url = "https://africanspending.org/"
 name = "AfricanSpending"
+organization_name = "Code for Nigeria"
 topics = [
   "africa",
   "css",

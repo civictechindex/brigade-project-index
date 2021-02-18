@@ -5,6 +5,7 @@ git_url = "git://github.com/opensavannah/human-services-link.git"
 last_pushed_within = "over_a_year"
 link_url = "https://opensavannah.github.io/human-services-link"
 name = "human-services-link"
+organization_name = "Open Savannah"
 topics = [
   "civic-tech",
   "human-services-data-specification",

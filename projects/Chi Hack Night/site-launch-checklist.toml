@@ -1,4 +1,6 @@
 code_url = "https://github.com/datamade/site-launch-checklist"
-last_pushed_within = "week"
+git_branch = "master"
+last_pushed_within = "year"
 name = "site-launch-checklist"
+organization_name = "Chi Hack Night"
 topics = [ "checklist", "guide" ]

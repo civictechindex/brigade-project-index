@@ -4,6 +4,7 @@ git_branch = "gh-pages"
 git_url = "git://github.com/CodeForAfrica/codeafrica.org.git"
 last_pushed_within = "over_a_year"
 name = "codeafrica.org"
+organization_name = "Code for Nigeria"
 topics = [
   "africa",
   "africancommons",

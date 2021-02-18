@@ -3,4 +3,5 @@ git_branch = "master"
 git_url = "git://github.com/Chicago/chicago-opengrid-io.git"
 last_pushed_within = "over_a_year"
 name = "chicago-opengrid-io"
+organization_name = "City of Chicago Department of Innovation and Technology"
 topics = [ "chicago", "government", "opengrid" ]

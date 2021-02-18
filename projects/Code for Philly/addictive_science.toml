@@ -3,28 +3,29 @@ description = "This project is my effort to get the startup Addictive Science in
 flags = [ "github_404" ]
 link_url = "http://www.addictivescience.com/login"
 name = "addictive_science"
+organization_name = "Code for Philly"
 status = "Prototyping"
 topics = [
-  "science",
-  "Education",
-  "new technologies",
-  "programming",
+  "Algorithms",
+  "big data",
+  "cloud programming",
+  "Coding",
+  "communication",
+  "Communities",
   "Computers",
   "Crowdsourcing",
-  "Open Source",
-  "Coding",
-  "Communities",
-  "big data",
+  "Design",
+  "Education",
+  "Everyday People",
   "Hacking",
   "hackthons",
-  "Design",
-  "Photography",
-  "cloud programming",
-  "communication",
   "Immersion",
-  "People",
-  "Everyday People",
-  "learning Environment",
   "Learning",
-  "Algorithms"
+  "learning Environment",
+  "new technologies",
+  "Open Source",
+  "People",
+  "Photography",
+  "programming",
+  "science"
 ]

@@ -5,6 +5,7 @@ git_url = "git://github.com/CodeForAfrica/sensors.AFRICA-AQ-map-v2.git"
 last_pushed_within = "year"
 link_url = "https://v2.map.aq.sensors.africa/"
 name = "sensors.AFRICA-AQ-map-v2"
+organization_name = "Code for Africa"
 topics = [
   "africa",
   "air",

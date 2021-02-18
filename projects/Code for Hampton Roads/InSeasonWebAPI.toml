@@ -3,4 +3,5 @@ git_branch = "master"
 git_url = "git://github.com/Code4HR/InSeasonWebAPI.git"
 last_pushed_within = "over_a_year"
 name = "InSeasonWebAPI"
+organization_name = "Code for Hampton Roads"
 topics = [ "deprecated", "hackathon", "winner" ]

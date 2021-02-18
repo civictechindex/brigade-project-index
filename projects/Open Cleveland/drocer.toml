@@ -4,4 +4,5 @@ git_branch = "master"
 git_url = "git://github.com/opencleveland/drocer.git"
 last_pushed_within = "year"
 name = "drocer"
+organization_name = "Open Cleveland"
 topics = [ "cleveland", "legislation", "ohio" ]

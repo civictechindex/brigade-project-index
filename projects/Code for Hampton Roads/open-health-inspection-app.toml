@@ -5,4 +5,5 @@ git_url = "git://github.com/Code4HR/open-health-inspection-app.git"
 last_pushed_within = "over_a_year"
 link_url = "http://ohi.code4hr.org"
 name = "open-health-inspection-app"
+organization_name = "Code for Hampton Roads"
 topics = [ "official", "ohi" ]

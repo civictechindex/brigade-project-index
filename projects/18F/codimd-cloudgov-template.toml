@@ -5,6 +5,7 @@ git_url = "git://github.com/18F/codimd-cloudgov-template.git"
 last_pushed_within = "month"
 link_url = "https://github.com/18f/codimd-cloudgov-template#deploy-to-cloudgov"
 name = "codimd-cloudgov-template"
+organization_name = "18F"
 topics = [
   "cloudfoundry",
   "cloudgov",

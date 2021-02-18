@@ -4,6 +4,7 @@ git_branch = "master"
 git_url = "git://github.com/opensavannah/event-check-in-app.git"
 last_pushed_within = "over_a_year"
 name = "event-check-in-app"
+organization_name = "Open Savannah"
 topics = [
   "check-in",
   "codeforamerica",

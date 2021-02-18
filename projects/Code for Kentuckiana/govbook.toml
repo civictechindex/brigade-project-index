@@ -5,4 +5,5 @@ git_url = "git://github.com/codeforkyana/govbook.git"
 last_pushed_within = "over_a_year"
 link_url = "https://govbook.codeforkentuckiana.org"
 name = "govbook"
+organization_name = "Code for Kentuckiana"
 topics = [ "civic-tech", "government-data" ]

@@ -3,4 +3,5 @@ git_branch = "master"
 git_url = "git://github.com/Code4HR/neighborhoods.git"
 last_pushed_within = "over_a_year"
 name = "neighborhoods"
+organization_name = "Code for Hampton Roads"
 topics = [ "maptime", "official" ]

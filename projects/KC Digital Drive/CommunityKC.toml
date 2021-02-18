@@ -5,6 +5,7 @@ git_url = "git://github.com/codeforkansascity/CommunityKC.git"
 last_pushed_within = "over_a_year"
 link_url = "http://communitykc.org"
 name = "CommunityKC"
+organization_name = "KC Digital Drive"
 topics = [
   "code-for-america",
   "code-for-kc",

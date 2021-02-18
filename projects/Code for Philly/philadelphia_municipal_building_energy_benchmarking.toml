@@ -3,10 +3,11 @@ description = "The Philadelphia Department of Energy has data available on opend
 flags = [ "github_404" ]
 link_url = "https://codeforphilly.slack.com/archives/energy_benchmarking"
 name = "philadelphia_municipal_building_energy_benchmarking"
+organization_name = "Code for Philly"
 status = "Bootstrapping"
 topics = [
+  "data analysis",
   "Energy",
   "Public Benefits",
-  "Public Policy",
-  "data analysis"
+  "Public Policy"
 ]

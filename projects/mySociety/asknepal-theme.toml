@@ -5,4 +5,5 @@ git_url = "git://github.com/mysociety/asknepal-theme.git"
 last_pushed_within = "year"
 link_url = "https://asknepal.info/"
 name = "asknepal-theme"
+organization_name = "mySociety"
 topics = [ "alaveteli", "alaveteli-theme" ]

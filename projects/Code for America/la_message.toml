@@ -5,4 +5,5 @@ git_url = "git://github.com/codeforamerica/la_message.git"
 last_pushed_within = "year"
 link_url = "https://message.labenefits.org"
 name = "la_message"
+organization_name = "Code for America"
 topics = [ "integrated-benefits", "ruby-on-rails", "twilio" ]

@@ -1,7 +1,9 @@
 code_url = "https://github.com/corydissinger/geotrellis-transit"
 description = "Original Idea: http://studiocns.org/enterreturn/"
+git_branch = "master"
 last_pushed_within = "over_a_year"
 name = "Enter-Return"
+organization_name = "Code for Philly"
 status = "Commenting"
 topics = [
   "Anti-Prisons",

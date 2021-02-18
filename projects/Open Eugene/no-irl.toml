@@ -4,4 +4,5 @@ git_branch = "master"
 git_url = "git://github.com/OpenEugene/no-irl.git"
 last_pushed_within = "year"
 name = "no-irl"
+organization_name = "Open Eugene"
 topics = [ "covid-19" ]

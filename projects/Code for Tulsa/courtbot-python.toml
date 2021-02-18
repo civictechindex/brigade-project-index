@@ -5,13 +5,14 @@ git_url = "git://github.com/codefortulsa/courtbot-python.git"
 last_pushed_within = "month"
 link_url = "http://court.bot/"
 name = "courtbot-python"
+organization_name = "Code for Tulsa"
 topics = [
   "civictechindex",
   "code-for-america",
   "code-for-tulsa",
-  "court-reminder",
   "courtbot",
   "courtbot-python",
+  "court-reminder",
   "criminal-justice",
   "twilio"
 ]

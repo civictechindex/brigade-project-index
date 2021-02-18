@@ -4,4 +4,5 @@ git_branch = "master"
 git_url = "git://github.com/DataSF/Geojson-to-Socrata.git"
 last_pushed_within = "over_a_year"
 name = "Geojson-to-Socrata"
+organization_name = "Data SF"
 topics = [ "etl", "extract", "load", "transform" ]

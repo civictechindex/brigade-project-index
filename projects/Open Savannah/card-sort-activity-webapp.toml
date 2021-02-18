@@ -4,6 +4,7 @@ git_branch = "master"
 git_url = "git://github.com/opensavannah/card-sort-activity-webapp.git"
 last_pushed_within = "over_a_year"
 name = "card-sort-activity-webapp"
+organization_name = "Open Savannah"
 topics = [
   "card-sorting",
   "codeforamerica",

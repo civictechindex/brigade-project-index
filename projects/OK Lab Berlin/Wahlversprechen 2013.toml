@@ -1,4 +1,3 @@
-categories = "launched"
 code_url = "https://github.com/stheophil/wahlversprechen"
 description = """
 wahlversprechen2013.de dokumentiert alle Wahlversprechen der 
@@ -6,7 +5,9 @@ Bundesregierung, d.h. die Inhalte des Koalitionsvertrags und die Inhalte
  der Wahlprogramme von SPD und CDU. Wir möchten im Verlauf der 
 Legislaturperiode so objektiv wie möglich dokumentieren, welche 
 Wahlversprechen umgesetzt wurden und bei welchen die Umsetzung 
-scheiterte. """
+scheiterte."""
+git_branch = "master"
 last_pushed_within = "over_a_year"
 link_url = "http://www.wahlversprechen2013.de/"
 name = "Wahlversprechen 2013"
+organization_name = "OK Lab Berlin"

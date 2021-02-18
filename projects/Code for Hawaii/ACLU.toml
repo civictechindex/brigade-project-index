@@ -5,6 +5,7 @@ git_url = "git://github.com/CodeforHawaii/ACLU.git"
 last_pushed_within = "month"
 link_url = "https://aclu.codeforhawaii.org/#/"
 name = "ACLU"
+organization_name = "Code for Hawaii"
 topics = [
   "aclu",
   "civil-rights",

@@ -1,0 +1,7 @@
+code_url = "https://github.com/CodeForAfrica/feinstaub-api"
+description = "Django project to store sensor pushed via REST api"
+git_branch = "master"
+git_url = "git://github.com/CodeForAfrica/feinstaub-api.git"
+last_pushed_within = "week"
+name = "feinstaub-api"
+organization_name = "Code for Nigeria"

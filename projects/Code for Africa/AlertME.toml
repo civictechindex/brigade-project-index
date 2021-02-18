@@ -5,6 +5,7 @@ git_url = "git://github.com/CodeForAfrica/AlertME.git"
 last_pushed_within = "over_a_year"
 link_url = "https://greenalert.oxpeckers.org/"
 name = "AlertME"
+organization_name = "Code for Africa"
 topics = [
   "africa",
   "alertme",

@@ -3,5 +3,6 @@ description = "Gratis is a platform that connects restaurants that have surplus 
 flags = [ "github_404" ]
 link_url = "https://devpost.com/software/gratis"
 name = "gratis"
+organization_name = "Code for Philly"
 status = "Prototyping"
-topics = [ "Hunger", "Food Insecurity", "Food", "food donation" ]
+topics = [ "Food", "food donation", "Food Insecurity", "Hunger" ]

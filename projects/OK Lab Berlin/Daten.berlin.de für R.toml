@@ -1,9 +1,9 @@
-categories = "launched"
 code_url = "https://github.com/dirkschumacher/RBerlinData"
 description = """
 Ein R Paket, um einfach auf die Daten von daten.berlin.de
 zuzugreifen. Führ nähere Infos, folgt den Links unten:"""
+git_branch = "master"
 last_pushed_within = "over_a_year"
 link_url = "http://www.dirk-schumacher.net/RBerlinData/"
 name = "Daten.berlin.de für R"
-type = "Code"
+organization_name = "OK Lab Berlin"

@@ -3,12 +3,13 @@ description = "VoteWise is a cross between OkCupid, Wikipedia, Facebook and Redd
 flags = [ "github_404" ]
 link_url = "http://www.votewise.net/"
 name = "votewisenet"
+organization_name = "Code for Philly"
 status = "Prototyping"
 topics = [
-  "Education",
+  "CivicEngagement",
   "Democracy",
-  "Search",
-  "Mapping",
+  "Education",
   "Elections",
-  "CivicEngagement"
+  "Mapping",
+  "Search"
 ]

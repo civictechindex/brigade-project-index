@@ -1,5 +1,7 @@
 code_url = "https://github.com/opencleveland/refundcleveland"
+description = "website for residents to adjust the city of Cleveland budget to reflect their priorities. "
 git_branch = "main"
 git_url = "git://github.com/opencleveland/refundcleveland.git"
 last_pushed_within = "week"
 name = "refundcleveland"
+organization_name = "Open Cleveland"

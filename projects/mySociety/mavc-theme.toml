@@ -5,4 +5,5 @@ git_url = "git://github.com/mysociety/mavc-theme.git"
 last_pushed_within = "year"
 link_url = "http://infolib.org.lr/"
 name = "mavc-theme"
+organization_name = "mySociety"
 topics = [ "alaveteli", "alaveteli-theme" ]

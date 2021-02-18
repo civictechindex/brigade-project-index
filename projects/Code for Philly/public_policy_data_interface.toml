@@ -1,4 +1,5 @@
 description = "Help me create a web interface for public policy data. I need help developing a prototype, particularly the web interface and analysis of the API challenges."
 name = "public_policy_data_interface"
+organization_name = "Code for Philly"
 status = "Bootstrapping"
-topics = [ "Public Policy", "Politics" ]
+topics = [ "Politics", "Public Policy" ]

@@ -5,6 +5,7 @@ git_url = "git://github.com/CodeForAfrica/TaxClock.Kenya.git"
 last_pushed_within = "over_a_year"
 link_url = "https://taxclock.pesacheck.org/"
 name = "TaxClock.Kenya"
+organization_name = "Code for Kenya"
 topics = [
   "africa",
   "african-spending",
@@ -15,7 +16,7 @@ topics = [
   "money",
   "national-budget",
   "tax",
-  "tax-rate",
   "taxclock",
-  "taxes"
+  "taxes",
+  "tax-rate"
 ]

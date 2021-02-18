@@ -4,10 +4,11 @@ git_branch = "master"
 git_url = "git://github.com/CodeForAfrica/ckanext-embed.git"
 last_pushed_within = "over_a_year"
 name = "ckanext-embed"
+organization_name = "Code for Ghana"
 topics = [
   "ckan",
-  "ckan-extension",
   "ckanext",
+  "ckan-extension",
   "ckanext-openafrica",
   "embed"
 ]

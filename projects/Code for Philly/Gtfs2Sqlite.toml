@@ -1,6 +1,8 @@
 code_url = "https://github.com/atheken/Gtfs2Sqlite"
 description = "Convert GTFS to Sqlite, losslessly*"
+git_branch = "master"
 last_pushed_within = "over_a_year"
 name = "Gtfs2Sqlite"
+organization_name = "Code for Philly"
 status = "Commenting"
 topics = [ "Transit" ]

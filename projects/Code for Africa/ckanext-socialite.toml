@@ -4,6 +4,7 @@ git_branch = "develop"
 git_url = "git://github.com/CodeForAfrica/ckanext-socialite.git"
 last_pushed_within = "over_a_year"
 name = "ckanext-socialite"
+organization_name = "Code for Africa"
 topics = [
   "ckan",
   "ckan-extension",

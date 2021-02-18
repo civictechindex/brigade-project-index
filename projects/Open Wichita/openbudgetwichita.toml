@@ -5,4 +5,5 @@ git_url = "git://github.com/openwichita/openbudgetwichita.git"
 last_pushed_within = "over_a_year"
 link_url = "https://budget.openwichita.org/"
 name = "openbudgetwichita"
-topics = [ "budget", "d3", "open-data", "openbudgets" ]
+organization_name = "Open Wichita"
+topics = [ "budget", "d3", "openbudgets", "open-data" ]

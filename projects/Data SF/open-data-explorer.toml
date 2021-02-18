@@ -5,4 +5,5 @@ git_url = "git://github.com/DataSF/open-data-explorer.git"
 last_pushed_within = "over_a_year"
 link_url = "http://edge.explore.datasf.org"
 name = "open-data-explorer"
+organization_name = "Data SF"
 topics = [ "exploratory-data-analysis", "opendata", "transparency" ]

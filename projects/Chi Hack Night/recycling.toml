@@ -1,3 +1,5 @@
 code_url = "https://github.com/open-city/recycling"
-last_pushed_within = "month"
+git_branch = "master"
+last_pushed_within = "year"
 name = "recycling"
+organization_name = "Chi Hack Night"

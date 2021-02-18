@@ -5,6 +5,7 @@ git_url = "git://github.com/CodeForAfrica/HURUmap-apps.git"
 last_pushed_within = "year"
 link_url = "https://hurumap.org"
 name = "HURUmap-apps"
+organization_name = "Code for Kenya"
 topics = [
   "census",
   "census-data",

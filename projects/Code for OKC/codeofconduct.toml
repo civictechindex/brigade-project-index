@@ -5,4 +5,5 @@ git_url = "git://github.com/codeforokc/codeofconduct.git"
 last_pushed_within = "over_a_year"
 link_url = "http://codeforokc.org"
 name = "codeofconduct"
+organization_name = "Code for OKC"
 topics = [ "codeofconduct" ]

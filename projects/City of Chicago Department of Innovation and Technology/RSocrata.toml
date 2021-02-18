@@ -5,4 +5,5 @@ git_url = "git://github.com/Chicago/RSocrata.git"
 last_pushed_within = "year"
 link_url = "https://CRAN.R-project.org/package=RSocrata"
 name = "RSocrata"
+organization_name = "City of Chicago Department of Innovation and Technology"
 topics = [ "chicago", "government", "open-data", "r", "socrata", "soda" ]

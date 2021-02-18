@@ -5,4 +5,5 @@ git_url = "git://github.com/g0v/summit2018.git"
 last_pushed_within = "year"
 link_url = "https://summit.g0v.tw/2018/"
 name = "summit2018"
+organization_name = "g0v.tw"
 topics = [ "foundation6", "vue", "webpack" ]

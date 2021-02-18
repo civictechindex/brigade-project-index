@@ -4,4 +4,5 @@ git_branch = "master"
 git_url = "git://github.com/Code4HR/hrva-wiki.git"
 last_pushed_within = "over_a_year"
 name = "hrva-wiki"
+organization_name = "Code for Hampton Roads"
 topics = [ "deprecated" ]

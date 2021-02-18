@@ -5,4 +5,5 @@ git_url = "git://github.com/SCODEMeetup/maasto.git"
 last_pushed_within = "over_a_year"
 link_url = "https://www.smartcolumbusos.com/data-stories/data-feed-can-help-truckers-find-safe-spot-to-rest"
 name = "maasto"
+organization_name = "Open Columbus (Ohio)"
 topics = [ "enhanced-human-services" ]

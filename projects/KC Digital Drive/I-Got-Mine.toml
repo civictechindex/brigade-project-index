@@ -5,4 +5,5 @@ git_url = "git://github.com/codeforkansascity/I-Got-Mine.git"
 last_pushed_within = "year"
 link_url = "http://igotmineinkc.org"
 name = "I-Got-Mine"
+organization_name = "KC Digital Drive"
 topics = [ "code-for-america", "code-for-kc", "public-health" ]

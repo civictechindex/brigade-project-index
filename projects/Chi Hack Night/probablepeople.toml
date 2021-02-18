@@ -1,4 +1,6 @@
 code_url = "https://github.com/datamade/probablepeople"
+git_branch = "master"
 last_pushed_within = "over_a_year"
 name = "probablepeople"
+organization_name = "Chi Hack Night"
 topics = [ "names", "parse", "python" ]

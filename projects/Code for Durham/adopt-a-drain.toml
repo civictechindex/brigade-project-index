@@ -5,4 +5,5 @@ git_url = "git://github.com/codefordurham/adopt-a-drain.git"
 last_pushed_within = "year"
 link_url = "https://adoptadraindurham-staging.herokuapp.com/"
 name = "adopt-a-drain"
+organization_name = "Code for Durham"
 topics = [ "civic-apps" ]

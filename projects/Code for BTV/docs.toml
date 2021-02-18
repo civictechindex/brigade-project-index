@@ -5,4 +5,5 @@ git_url = "git://github.com/codeforbtv/docs.git"
 last_pushed_within = "over_a_year"
 link_url = "http://codeforbtv.org/docs/"
 name = "docs"
+organization_name = "Code for BTV"
 topics = [ "cfbtv-brigade" ]

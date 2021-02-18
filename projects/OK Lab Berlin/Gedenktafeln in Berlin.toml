@@ -1,4 +1,3 @@
-categories = "launched"
 code_url = "https://github.com/notapirate/gedenktafelnberlin"
 description = """
 Eine Webseite, die  vorhandene und, 
@@ -7,8 +6,9 @@ Viele davon sind der Erinnerung an jene Menschen gewidmet, die sich der
 nationalsozialistischen Diktatur widersetzt haben oder Opfer von 
 politischer oder rassistischer Verfolgung geworden sind.
 
-Quelle: http://daten.berlin.de/datensaetze/liste-der-gedenktafeln-berlin (überarbeitet)
-"""
+Quelle: http://daten.berlin.de/datensaetze/liste-der-gedenktafeln-berlin (überarbeitet)"""
+git_branch = "master"
 last_pushed_within = "over_a_year"
 link_url = "http://berlin.codefor.de/gedenktafeln/"
 name = "Gedenktafeln in Berlin"
+organization_name = "OK Lab Berlin"

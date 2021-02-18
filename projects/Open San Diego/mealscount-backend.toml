@@ -1,9 +1,10 @@
 code_url = "https://github.com/opensandiego/mealscount-backend"
 description = "Optimizing a free-meal reimbursement program for K-12 schools"
-git_branch = "validate"
+git_branch = "main"
 git_url = "git://github.com/opensandiego/mealscount-backend.git"
-last_pushed_within = "month"
+last_pushed_within = "week"
 name = "mealscount-backend"
+organization_name = "Open San Diego"
 topics = [
   "community-eligibility-provision",
   "educational-technology",

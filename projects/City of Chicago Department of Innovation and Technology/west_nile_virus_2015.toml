@@ -5,4 +5,5 @@ git_url = "git://github.com/Chicago/west_nile_virus_2015.git"
 last_pushed_within = "over_a_year"
 link_url = "https://www.kaggle.com/c/predict-west-nile-virus"
 name = "west_nile_virus_2015"
+organization_name = "City of Chicago Department of Innovation and Technology"
 topics = [ "cdph" ]

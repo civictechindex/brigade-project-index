@@ -4,4 +4,5 @@ git_branch = "staging"
 git_url = "git://github.com/18F/federalist-builder.git"
 last_pushed_within = "week"
 name = "federalist-builder"
+organization_name = "18F"
 topics = [ "federalist" ]

@@ -3,4 +3,5 @@ git_branch = "master"
 git_url = "git://github.com/codeformunich/feinstaubbot.git"
 last_pushed_within = "over_a_year"
 name = "feinstaubbot"
+organization_name = "OK Lab München"
 topics = [ "feinstaub" ]

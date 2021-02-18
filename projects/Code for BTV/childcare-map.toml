@@ -3,4 +3,5 @@ git_branch = "gh-pages"
 git_url = "git://github.com/codeforbtv/childcare-map.git"
 last_pushed_within = "over_a_year"
 name = "childcare-map"
+organization_name = "Code for BTV"
 topics = [ "geospatial" ]

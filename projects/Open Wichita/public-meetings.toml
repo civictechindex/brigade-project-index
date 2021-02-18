@@ -4,4 +4,5 @@ git_branch = "master"
 git_url = "git://github.com/openwichita/public-meetings.git"
 last_pushed_within = "over_a_year"
 name = "public-meetings"
+organization_name = "Open Wichita"
 topics = [ "css", "design", "elixir", "erlang", "html", "phoenix" ]

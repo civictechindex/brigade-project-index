@@ -5,4 +5,5 @@ git_url = "git://github.com/code-for-nashville/code-for-nashville.github.io.git"
 last_pushed_within = "year"
 link_url = "http://www.codefornashville.org"
 name = "code-for-nashville.github.io"
+organization_name = "Code for Nashville"
 topics = [ "code-for-america" ]

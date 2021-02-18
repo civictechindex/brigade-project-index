@@ -4,4 +4,5 @@ git_branch = "master"
 git_url = "git://github.com/mysociety/alaveteli-capistrano-vm.git"
 last_pushed_within = "over_a_year"
 name = "alaveteli-capistrano-vm"
+organization_name = "mySociety"
 topics = [ "alaveteli" ]

@@ -5,6 +5,7 @@ git_url = "git://github.com/opensavannah/hackforsavannah.org.git"
 last_pushed_within = "over_a_year"
 link_url = "http://hackforsavannah.org"
 name = "hackforsavannah.org"
+organization_name = "Open Savannah"
 topics = [
   "civic-tech",
   "code-for-america",

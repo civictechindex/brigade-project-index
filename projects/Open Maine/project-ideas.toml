@@ -4,4 +4,5 @@ git_branch = "master"
 git_url = "git://github.com/OpenMaine/project-ideas.git"
 last_pushed_within = "year"
 name = "project-ideas"
+organization_name = "Open Maine"
 topics = [ "openmaine" ]

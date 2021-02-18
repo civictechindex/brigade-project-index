@@ -1,6 +1,8 @@
 code_url = "https://github.com/datamade/usaddress"
-last_pushed_within = "year"
+git_branch = "master"
+last_pushed_within = "over_a_year"
 name = "usaddress"
+organization_name = "Chi Hack Night"
 topics = [
   "address",
   "address-parser",

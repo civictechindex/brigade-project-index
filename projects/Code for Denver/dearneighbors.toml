@@ -5,6 +5,7 @@ git_url = "git://github.com/codefordenver/dearneighbors.git"
 last_pushed_within = "year"
 link_url = "http://www.dearneighbors.org"
 name = "dearneighbors"
+organization_name = "Code for Denver"
 topics = [
   "code-for-america",
   "code-for-denver",

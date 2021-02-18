@@ -1,6 +1,8 @@
 code_url = "http://github.com/jebeck/PHLWork"
 description = "Apps for Philly Transit Hackathon!"
+git_branch = "master"
 last_pushed_within = "over_a_year"
 name = "Philly_Commute_Visualization"
+organization_name = "Code for Philly"
 status = "Commenting"
 topics = [ "Culture", "Cycling" ]

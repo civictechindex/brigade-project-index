@@ -5,4 +5,5 @@ git_url = "git://github.com/codeformunich/muenchen-transparent.git"
 last_pushed_within = "year"
 link_url = "https://www.muenchen-transparent.de"
 name = "muenchen-transparent"
+organization_name = "OK Lab München"
 topics = [ "oparl", "ratsinformationssystem" ]

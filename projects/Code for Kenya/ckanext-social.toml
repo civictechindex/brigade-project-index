@@ -4,12 +4,13 @@ git_branch = "master"
 git_url = "git://github.com/CodeForAfrica/ckanext-social.git"
 last_pushed_within = "over_a_year"
 name = "ckanext-social"
+organization_name = "Code for Kenya"
 topics = [
   "africa",
   "andela",
   "ckan",
-  "ckan-extension",
   "ckanext",
+  "ckan-extension",
   "open-africa",
   "open-data",
   "social",

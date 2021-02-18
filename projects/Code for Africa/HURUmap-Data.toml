@@ -1,5 +1,6 @@
 code_url = "https://github.com/CodeForAfrica/HURUmap-Data"
 git_branch = "master"
 git_url = "git://github.com/CodeForAfrica/HURUmap-Data.git"
-last_pushed_within = "year"
+last_pushed_within = "month"
 name = "HURUmap-Data"
+organization_name = "Code for Africa"

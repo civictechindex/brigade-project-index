@@ -5,6 +5,7 @@ git_url = "git://github.com/CodeForAfrica/sensors.AFRICA-SeaSensors.git"
 last_pushed_within = "month"
 link_url = "https://alpha.seasensors.africa/"
 name = "sensors.AFRICA-SeaSensors"
+organization_name = "Code for Kenya"
 topics = [
   "africa",
   "blast-tracker",

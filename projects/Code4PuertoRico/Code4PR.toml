@@ -4,4 +4,5 @@ git_branch = "main"
 git_url = "git://github.com/Code4PuertoRico/Code4PR.git"
 last_pushed_within = "year"
 name = "Code4PR"
+organization_name = "Code4PuertoRico"
 topics = [ "puerto-rico" ]

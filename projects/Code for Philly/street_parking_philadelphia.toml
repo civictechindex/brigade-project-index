@@ -3,5 +3,6 @@ description = "Street parking dataset for kiosk-metered zones has been requested
 flags = [ "github_404" ]
 link_url = "http://parkadelphia.org"
 name = "street_parking_philadelphia"
+organization_name = "Code for Philly"
 status = "Commenting"
-topics = [ "Maps", "GIS" ]
+topics = [ "GIS", "Maps" ]

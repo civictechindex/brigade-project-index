@@ -5,4 +5,5 @@ git_url = "git://github.com/CodeForFoco/volunteercore.git"
 last_pushed_within = "year"
 link_url = "https://volunteercore.herokuapp.com/"
 name = "volunteercore"
+organization_name = "Code for Fort Collins"
 topics = [ "volunteer-management", "volunteer-opportunities" ]

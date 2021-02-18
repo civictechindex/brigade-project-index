@@ -5,4 +5,5 @@ git_url = "git://github.com/codeforcroatia/open-data.git"
 last_pushed_within = "year"
 link_url = "http://codeforcroatia.github.io/open-data"
 name = "open-data"
-topics = [ "datasets", "open-data", "open-datasets", "opendata" ]
+organization_name = "Code for Croatia"
+topics = [ "datasets", "open-data", "opendata", "open-datasets" ]

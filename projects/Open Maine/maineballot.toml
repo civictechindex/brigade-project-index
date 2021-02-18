@@ -5,4 +5,5 @@ git_url = "git://github.com/OpenMaine/maineballot.git"
 last_pushed_within = "month"
 link_url = "https://maineballot.org"
 name = "maineballot"
+organization_name = "Open Maine"
 topics = [ "codeforamerica" ]

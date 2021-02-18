@@ -5,6 +5,7 @@ git_url = "git://github.com/Chicago/clear-water.git"
 last_pushed_within = "year"
 link_url = "http://chicago.github.io/clear-water"
 name = "clear-water"
+organization_name = "City of Chicago Department of Innovation and Technology"
 topics = [
   "chicago",
   "government",

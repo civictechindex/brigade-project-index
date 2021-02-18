@@ -4,4 +4,5 @@ git_branch = "master"
 git_url = "git://github.com/DataSF/sharepoint-data-to-open-data-portal.git"
 last_pushed_within = "over_a_year"
 name = "sharepoint-data-to-open-data-portal"
+organization_name = "Data SF"
 topics = [ "etl", "extract", "load" ]

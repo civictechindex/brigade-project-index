@@ -4,4 +4,5 @@ git_url = "git://github.com/mysociety/puppet-mariadb.git"
 last_pushed_within = "year"
 link_url = "https://www.mysociety.org/"
 name = "puppet-mariadb"
+organization_name = "mySociety"
 topics = [ "mariadb", "puppet" ]

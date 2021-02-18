@@ -5,4 +5,5 @@ git_url = "git://github.com/codeforanchorage/pfd-names.git"
 last_pushed_within = "year"
 link_url = "https://codeforanchorage.org/pfd-names/"
 name = "pfd-names"
+organization_name = "Code for Anchorage"
 topics = [ "alaska", "government", "names", "open-data", "pfd" ]

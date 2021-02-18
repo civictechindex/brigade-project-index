@@ -5,6 +5,7 @@ git_url = "git://github.com/mysociety/caps.git"
 last_pushed_within = "month"
 link_url = "https://data.climateemergency.uk"
 name = "caps"
+organization_name = "mySociety"
 topics = [
   "citizen-participation",
   "climate",

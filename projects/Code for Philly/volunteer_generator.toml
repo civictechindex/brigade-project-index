@@ -1,5 +1,7 @@
 code_url = "https://github.com/aaronclong/volunteer-generator"
+git_branch = "master"
 last_pushed_within = "over_a_year"
 name = "volunteer_generator"
+organization_name = "Code for Philly"
 status = "Bootstrapping"
 topics = [ "Hackthon Planning", "hackathon" ]

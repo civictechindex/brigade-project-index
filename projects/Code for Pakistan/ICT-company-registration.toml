@@ -1,5 +1,6 @@
 code_url = "https://github.com/codeforpakistan/ICT-company-registration"
 git_branch = "master"
 git_url = "git://github.com/codeforpakistan/ICT-company-registration.git"
-last_pushed_within = "month"
+last_pushed_within = "year"
 name = "ICT-company-registration"
+organization_name = "Code for Pakistan"

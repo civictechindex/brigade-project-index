@@ -4,6 +4,7 @@ git_branch = "master"
 git_url = "git://github.com/codefornola/nola-neighborhood-annotation.git"
 last_pushed_within = "over_a_year"
 name = "nola-neighborhood-annotation"
+organization_name = "Code for New Orleans"
 topics = [
   "311",
   "311-data",

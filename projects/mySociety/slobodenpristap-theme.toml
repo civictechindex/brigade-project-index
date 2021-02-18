@@ -5,4 +5,5 @@ git_url = "git://github.com/mysociety/slobodenpristap-theme.git"
 last_pushed_within = "year"
 link_url = "http://www.slobodenpristap.mk/"
 name = "slobodenpristap-theme"
+organization_name = "mySociety"
 topics = [ "alaveteli", "alaveteli-theme" ]

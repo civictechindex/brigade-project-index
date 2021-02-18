@@ -5,4 +5,5 @@ git_url = "git://github.com/Code4HR/business-openva-api.git"
 last_pushed_within = "over_a_year"
 link_url = "http://api.vabusinesses.org/"
 name = "business-openva-api"
+organization_name = "Code for Hampton Roads"
 topics = [ "official" ]

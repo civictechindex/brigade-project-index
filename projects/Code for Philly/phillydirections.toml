@@ -1,6 +1,8 @@
 code_url = "https://github.com/CfABrigadePhiladelphia/PhillyDirections"
 description = "description"
+git_branch = "master"
 last_pushed_within = "over_a_year"
 name = "phillydirections"
+organization_name = "Code for Philly"
 status = "Commenting"
 topics = [ "Transit" ]

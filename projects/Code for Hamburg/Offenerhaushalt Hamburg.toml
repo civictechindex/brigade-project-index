@@ -3,3 +3,4 @@ description = "Visualisierung des Haushalts der Freien und Hansestadt Hamburg na
 flags = [ "github_404" ]
 link_url = "http://offenerhaushalt.de/haushalt/bund/"
 name = "Offenerhaushalt Hamburg"
+organization_name = "Code for Hamburg"

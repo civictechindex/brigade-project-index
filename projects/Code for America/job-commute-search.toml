@@ -5,6 +5,7 @@ git_url = "git://github.com/codeforamerica/job-commute-search.git"
 last_pushed_within = "over_a_year"
 link_url = "https://job-commute-search.herokuapp.com"
 name = "job-commute-search"
+organization_name = "Code for America"
 topics = [
   "codeforamerica-workforce",
   "codeforamerica-workforce-2018",

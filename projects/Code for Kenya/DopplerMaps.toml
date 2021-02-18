@@ -4,4 +4,5 @@ git_branch = "master"
 git_url = "git://github.com/CodeForAfrica/DopplerMaps.git"
 last_pushed_within = "over_a_year"
 name = "DopplerMaps"
+organization_name = "Code for Kenya"
 topics = [ "d3", "d3js", "doppler-maps", "maps", "visualization" ]

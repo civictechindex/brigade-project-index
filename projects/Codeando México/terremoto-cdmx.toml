@@ -5,4 +5,5 @@ git_url = "git://github.com/CodeandoMexico/terremoto-cdmx.git"
 last_pushed_within = "year"
 link_url = "https://sismomexico.com.mx"
 name = "terremoto-cdmx"
+organization_name = "Codeando México"
 topics = [ "civic-tech", "disaster-response", "humanitarian", "mexico" ]

@@ -4,4 +4,5 @@ git_branch = "master"
 git_url = "git://github.com/Code4HR/data-driven-landing-page.git"
 last_pushed_within = "over_a_year"
 name = "data-driven-landing-page"
+organization_name = "Code for Hampton Roads"
 topics = [ "deprecated" ]

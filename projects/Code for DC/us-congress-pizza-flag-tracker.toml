@@ -1,5 +1,6 @@
 code_url = "https://github.com/codefordc/us-congress-pizza-flag-tracker"
 git_branch = "main"
 git_url = "git://github.com/codefordc/us-congress-pizza-flag-tracker.git"
-last_pushed_within = "month"
+last_pushed_within = "week"
 name = "us-congress-pizza-flag-tracker"
+organization_name = "Code for DC"

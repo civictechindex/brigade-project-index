@@ -4,6 +4,7 @@ git_branch = "master"
 git_url = "git://github.com/codefornola/211-data-wrangling.git"
 last_pushed_within = "year"
 name = "211-data-wrangling"
+organization_name = "Code for New Orleans"
 topics = [
   "civic-tech",
   "covid-19",

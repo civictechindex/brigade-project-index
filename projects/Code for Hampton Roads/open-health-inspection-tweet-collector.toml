@@ -4,4 +4,5 @@ git_branch = "master"
 git_url = "git://github.com/Code4HR/open-health-inspection-tweet-collector.git"
 last_pushed_within = "over_a_year"
 name = "open-health-inspection-tweet-collector"
+organization_name = "Code for Hampton Roads"
 topics = [ "deprecated" ]

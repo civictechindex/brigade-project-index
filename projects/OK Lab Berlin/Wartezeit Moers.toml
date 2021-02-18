@@ -1,10 +1,11 @@
-categories = "launched"
 code_url = "https://github.com/tursics/wait-moers"
 description = """
 Zeigt die durchschnittlichen Wartezeiten für den Bürgerservice in Moers 
 nach Stunden und Tagen. Größere Kreise bedeuten längere, kleinere Kreise
  kürzere Wartezeiten. Mittwoch bis Samstag Vormittag scheinen die besten
  Zeiten zu sein, zum Bürgerservice zu gehen."""
+git_branch = "master"
 last_pushed_within = "over_a_year"
 link_url = "http://wartezeit.tursics.de/"
 name = "Wartezeit Moers"
+organization_name = "OK Lab Berlin"

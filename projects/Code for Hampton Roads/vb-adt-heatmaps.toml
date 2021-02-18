@@ -4,4 +4,5 @@ git_branch = "master"
 git_url = "git://github.com/Code4HR/vb-adt-heatmaps.git"
 last_pushed_within = "over_a_year"
 name = "vb-adt-heatmaps"
+organization_name = "Code for Hampton Roads"
 topics = [ "deprecated" ]

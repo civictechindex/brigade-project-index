@@ -5,6 +5,7 @@ git_url = "git://github.com/codeforkansascity/nra_calc.git"
 last_pushed_within = "year"
 link_url = "https://codeforkc.org/nra_calc/"
 name = "nra_calc"
+organization_name = "KC Digital Drive"
 topics = [
   "code-for-america",
   "code-for-kc",

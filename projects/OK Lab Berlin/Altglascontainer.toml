@@ -1,4 +1,3 @@
-categories = "launched"
 code_url = "https://github.com/k-nut/altglas"
 description = """
 Die Anwendung zeigt die Positionen von Altglas-Containern auf einer Karte.
@@ -6,6 +5,8 @@ Die Anwendung zeigt die Positionen von Altglas-Containern auf einer Karte.
 Die erste Version zeigt die Altglas-Container in Berlin 
 Charlottenburg-Wilmersdorf. Hoffentlich veröffentlichen bald auch 
 anderen Bezirke und Städte ihre Daten."""
+git_branch = "gh-pages"
 last_pushed_within = "over_a_year"
 link_url = "https://k-nut.github.io/altglas/"
 name = "Altglascontainer"
+organization_name = "OK Lab Berlin"

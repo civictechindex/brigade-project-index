@@ -1,3 +1,5 @@
 code_url = "https://github.com/open-city/clearstreets-web"
-last_pushed_within = "year"
+git_branch = "master"
+last_pushed_within = "week"
 name = "clearstreets-web"
+organization_name = "Chi Hack Night"

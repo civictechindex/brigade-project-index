@@ -1,5 +1,7 @@
 code_url = "https://github.com/codeforamerica/CutePets"
 description = "We should connect with local animal shelters to setup an instance of CutePets for Philly"
+git_branch = "master"
 last_pushed_within = "over_a_year"
 name = "cutepets_philly"
+organization_name = "Code for Philly"
 status = "Commenting"

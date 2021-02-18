@@ -5,6 +5,7 @@ git_url = "git://github.com/CodeForAfrica/sensors.AFRICA-SeaSensors-ComingSoon.g
 last_pushed_within = "over_a_year"
 link_url = "https://seasensors.africa/"
 name = "sensors.AFRICA-SeaSensors-ComingSoon"
+organization_name = "Code for Africa"
 topics = [
   "blast-fishing",
   "iot",

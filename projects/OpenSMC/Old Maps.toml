@@ -1,5 +1,7 @@
 code_url = "https://github.com/opensmc/old-maps"
 description = "Georeferencing historical maps of San Mateo County"
+git_branch = "master"
 last_pushed_within = "over_a_year"
 name = "Old Maps"
+organization_name = "OpenSMC"
 status = "In Progress"

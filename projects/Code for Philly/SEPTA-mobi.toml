@@ -1,7 +1,9 @@
 code_url = "https://github.com/JarvusInnovations/SeptaMobi"
 description = "[SEPTA.mobi](http://septa.mobi) is a simple mobile website for finding live bus and trolley positions."
+git_branch = "master"
 last_pushed_within = "over_a_year"
 link_url = "http://v3.septa.mobi"
 name = "SEPTA-mobi"
+organization_name = "Code for Philly"
 status = "Maintaining"
 topics = [ "Transit" ]

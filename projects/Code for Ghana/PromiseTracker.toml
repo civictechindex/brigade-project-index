@@ -5,6 +5,7 @@ git_url = "git://github.com/CodeForAfrica/PromiseTracker.git"
 last_pushed_within = "week"
 link_url = "https://promisetracker.dev.codeforafrica.org/"
 name = "PromiseTracker"
+organization_name = "Code for Ghana"
 topics = [
   "africa",
   "development",
@@ -20,8 +21,8 @@ topics = [
   "pesacheck",
   "politicians",
   "politics",
-  "promise-tracker",
   "promises",
+  "promise-tracker",
   "reactjs",
   "tracker",
   "trello"

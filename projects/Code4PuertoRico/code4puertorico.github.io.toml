@@ -1,7 +1,14 @@
 code_url = "https://github.com/Code4PuertoRico/code4puertorico.github.io"
-description = "Website for Puerto Rico's weekly open gov hack night"
-git_branch = "master"
+description = "La casa temporera de nuestra pagina"
+git_branch = "main"
 git_url = "git://github.com/Code4PuertoRico/code4puertorico.github.io.git"
-last_pushed_within = "year"
+last_pushed_within = "month"
 link_url = "http://code4puertorico.org"
 name = "code4puertorico.github.io"
+organization_name = "Code4PuertoRico"
+topics = [
+  "code-for-all",
+  "code-for-america",
+  "code-for-puerto-rico",
+  "puerto-rico"
+]

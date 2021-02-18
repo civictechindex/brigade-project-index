@@ -4,4 +4,5 @@ git_branch = "master"
 git_url = "git://github.com/DataSF/sewer-drains-311-calls.git"
 last_pushed_within = "over_a_year"
 name = "sewer-drains-311-calls"
+organization_name = "Data SF"
 topics = [ "etl", "extract", "load", "transform" ]

@@ -5,6 +5,7 @@ git_url = "git://github.com/opensavannah/community-fellowship-sav-brief.git"
 last_pushed_within = "over_a_year"
 link_url = "https://opensavannah.github.io/community-fellowship-sav-brief"
 name = "community-fellowship-sav-brief"
+organization_name = "Open Savannah"
 topics = [
   "budget-app",
   "civic-apps-team",

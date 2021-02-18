@@ -4,6 +4,7 @@ git_branch = "main"
 git_url = "git://github.com/codeformuenster/clustersetup.git"
 last_pushed_within = "year"
 name = "clustersetup"
+organization_name = "OK Lab Münster"
 topics = [
   "ansible",
   "cilium",

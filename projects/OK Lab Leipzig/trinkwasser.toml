@@ -5,4 +5,5 @@ git_url = "git://github.com/CodeforLeipzig/trinkwasser.git"
 last_pushed_within = "over_a_year"
 link_url = "https://trinkwasser.codefor.de/"
 name = "trinkwasser"
+organization_name = "OK Lab Leipzig"
 topics = [ "geojson", "javascript", "open-data" ]

@@ -4,4 +4,5 @@ git_branch = "master"
 git_url = "git://github.com/opendenton/city_chat.git"
 last_pushed_within = "over_a_year"
 name = "city_chat"
+organization_name = "Open Denton"
 topics = [ "axios", "city-chat", "civic-tech", "react", "yarn" ]

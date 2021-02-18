@@ -4,4 +4,5 @@ git_branch = "master"
 git_url = "git://github.com/cforlando/OPD-Visualizations.git"
 last_pushed_within = "over_a_year"
 name = "OPD-Visualizations"
+organization_name = "Code for Orlando"
 topics = [ "inactive" ]

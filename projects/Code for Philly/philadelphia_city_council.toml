@@ -1,6 +1,8 @@
 code_url = "https://github.com/maneesha/phila_city_council"
+git_branch = "master"
 last_pushed_within = "over_a_year"
 link_url = "http://phlcitycouncil.pythonanywhere.com/"
 name = "philadelphia_city_council"
+organization_name = "Code for Philly"
 status = "Prototyping"
 topics = [ "Democracy", "opengov" ]

@@ -1,5 +1,6 @@
 code_url = "https://github.com/code4romania/dosarul-digital-web"
 git_branch = "master"
 git_url = "git://github.com/code4romania/dosarul-digital-web.git"
-last_pushed_within = "month"
+last_pushed_within = "year"
 name = "dosarul-digital-web"
+organization_name = "Code for Romania: Iasi Chapter"

@@ -4,4 +4,5 @@ git_branch = "master"
 git_url = "git://github.com/DataSF/form700_ETL.git"
 last_pushed_within = "over_a_year"
 name = "form700_ETL"
+organization_name = "Data SF"
 topics = [ "etl", "extract", "load", "transform" ]

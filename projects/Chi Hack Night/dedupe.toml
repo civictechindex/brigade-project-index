@@ -1,6 +1,8 @@
 code_url = "https://github.com/datamade/dedupe"
-last_pushed_within = "week"
+git_branch = "master"
+last_pushed_within = "year"
 name = "dedupe"
+organization_name = "Chi Hack Night"
 topics = [
   "clustering",
   "datamade",
