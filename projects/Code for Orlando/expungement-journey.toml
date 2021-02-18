@@ -1,8 +1,7 @@
 code_url = "https://github.com/cforlando/expungement-journey"
-git_branch = "master"
 git_url = "git://github.com/cforlando/expungement-journey.git"
-last_pushed_within = "year"
 name = "expungement-journey"
+organization_name = "Code for Orlando"
 topics = [
   "code-for-america",
   "code-for-orlando",
@@ -10,3 +9,55 @@ topics = [
   "record-clearance",
   "record-expungement"
 ]
+
+[github]
+archived = false
+created_at = "2020-01-08T01:37:19Z"
+default_branch = "master"
+description = { }
+disabled = false
+fork = false
+forks_within = 10
+full_name = "cforlando/expungement-journey"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 232_452_418
+language = { }
+name = "expungement-journey"
+node_id = "MDEwOlJlcG9zaXRvcnkyMzI0NTI0MTg="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [
+  "code-for-america",
+  "code-for-orlando",
+  "criminal-justice",
+  "record-clearance",
+  "record-expungement"
+]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 5_225_505
+  login = "cforlando"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjUyMjU1MDU="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

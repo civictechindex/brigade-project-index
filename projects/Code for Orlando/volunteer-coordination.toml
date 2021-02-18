@@ -1,8 +1,53 @@
 code_url = "https://github.com/cforlando/volunteer-coordination"
 description = "Application for coordinating volunteers & projects for an organization."
-git_branch = "master"
 git_url = "git://github.com/cforlando/volunteer-coordination.git"
-last_pushed_within = "over_a_year"
 link_url = "http://cl.ly/1n1s1w1O3X1Z"
 name = "volunteer-coordination"
+organization_name = "Code for Orlando"
 topics = [ "community-organizing", "inactive" ]
+
+[github]
+archived = false
+created_at = "2016-06-14T17:13:02Z"
+default_branch = "master"
+description = "Application for coordinating volunteers & projects for an organization."
+disabled = false
+fork = true
+forks_within = 0
+full_name = "cforlando/volunteer-coordination"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://cl.ly/1n1s1w1O3X1Z"
+id = 61_141_359
+language = "JavaScript"
+name = "volunteer-coordination"
+node_id = "MDEwOlJlcG9zaXRvcnk2MTE0MTM1OQ=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ "community-organizing", "inactive" ]
+updated_within = "year"
+watchers_within = 10
+
+  [github.license]
+  key = "bsd-3-clause"
+  name = 'BSD 3-Clause "New" or "Revised" License'
+  node_id = "MDc6TGljZW5zZTU="
+  spdx_id = "BSD-3-Clause"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 5_225_505
+  login = "cforlando"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjUyMjU1MDU="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

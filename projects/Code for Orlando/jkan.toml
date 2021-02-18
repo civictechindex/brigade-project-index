@@ -1,7 +1,52 @@
 code_url = "https://github.com/cforlando/jkan"
 description = "A lightweight, backend-free open data portal, powered by Jekyll"
-git_branch = "gh-pages"
 git_url = "git://github.com/cforlando/jkan.git"
-last_pushed_within = "over_a_year"
 link_url = "https://jkan.io"
 name = "jkan"
+organization_name = "Code for Orlando"
+
+[github]
+archived = false
+created_at = "2017-05-23T03:15:12Z"
+default_branch = "gh-pages"
+description = "A lightweight, backend-free open data portal, powered by Jekyll"
+disabled = false
+fork = true
+forks_within = 0
+full_name = "cforlando/jkan"
+has_downloads = true
+has_issues = false
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "https://jkan.io"
+id = 92_123_861
+language = "HTML"
+name = "jkan"
+node_id = "MDEwOlJlcG9zaXRvcnk5MjEyMzg2MQ=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 5_225_505
+  login = "cforlando"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjUyMjU1MDU="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

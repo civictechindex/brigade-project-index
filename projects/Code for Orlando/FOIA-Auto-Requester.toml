@@ -1,6 +1,51 @@
 code_url = "https://github.com/cforlando/FOIA-Auto-Requester"
 description = "Script to automatically make FOIA requests"
-git_branch = "master"
 git_url = "git://github.com/cforlando/FOIA-Auto-Requester.git"
-last_pushed_within = "over_a_year"
 name = "FOIA-Auto-Requester"
+organization_name = "Code for Orlando"
+
+[github]
+archived = false
+created_at = "2017-01-28T18:31:16Z"
+default_branch = "master"
+description = "Script to automatically make FOIA requests"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "cforlando/FOIA-Auto-Requester"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 80_302_250
+language = "Python"
+name = "FOIA-Auto-Requester"
+node_id = "MDEwOlJlcG9zaXRvcnk4MDMwMjI1MA=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "year"
+watchers_within = 10
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 5_225_505
+  login = "cforlando"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjUyMjU1MDU="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

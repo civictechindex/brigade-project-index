@@ -1,5 +1,50 @@
 code_url = "https://github.com/cforlando/PetAdoption-Wordpress"
-git_branch = "master"
 git_url = "git://github.com/cforlando/PetAdoption-Wordpress.git"
-last_pushed_within = "over_a_year"
 name = "PetAdoption-Wordpress"
+organization_name = "Code for Orlando"
+
+[github]
+archived = false
+created_at = "2015-08-11T01:12:55Z"
+default_branch = "master"
+description = { }
+disabled = false
+fork = false
+forks_within = 10
+full_name = "cforlando/PetAdoption-Wordpress"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 40_514_104
+language = "CSS"
+name = "PetAdoption-Wordpress"
+node_id = "MDEwOlJlcG9zaXRvcnk0MDUxNDEwNA=="
+open_issues_within = 100
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "month"
+watchers_within = 10
+
+  [github.license]
+  key = "gpl-2.0"
+  name = "GNU General Public License v2.0"
+  node_id = "MDc6TGljZW5zZTg="
+  spdx_id = "GPL-2.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 5_225_505
+  login = "cforlando"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjUyMjU1MDU="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

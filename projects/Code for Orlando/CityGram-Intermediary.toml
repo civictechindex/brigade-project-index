@@ -1,6 +1,46 @@
 code_url = "https://github.com/cforlando/CityGram-Intermediary"
 description = "Resources for documenting and constructing data for Orlando's Citygram services"
-git_branch = "master"
 git_url = "git://github.com/cforlando/CityGram-Intermediary.git"
-last_pushed_within = "over_a_year"
 name = "CityGram-Intermediary"
+organization_name = "Code for Orlando"
+
+[github]
+archived = false
+created_at = "2015-12-03T18:21:03Z"
+default_branch = "master"
+description = "Resources for documenting and constructing data for Orlando's Citygram services"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "cforlando/CityGram-Intermediary"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 47_351_246
+language = "Python"
+license = { }
+name = "CityGram-Intermediary"
+node_id = "MDEwOlJlcG9zaXRvcnk0NzM1MTI0Ng=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 5_225_505
+  login = "cforlando"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjUyMjU1MDU="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

@@ -1,7 +1,52 @@
 code_url = "https://github.com/cforlando/PetAdoption-iOS"
 description = "pet adoption app"
-git_branch = "develop"
 git_url = "git://github.com/cforlando/PetAdoption-iOS.git"
-last_pushed_within = "over_a_year"
 name = "PetAdoption-iOS"
+organization_name = "Code for Orlando"
 topics = [ "inactive" ]
+
+[github]
+archived = false
+created_at = "2015-07-10T00:17:54Z"
+default_branch = "develop"
+description = "pet adoption app"
+disabled = false
+fork = false
+forks_within = 100
+full_name = "cforlando/PetAdoption-iOS"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 38_851_885
+language = "Swift"
+name = "PetAdoption-iOS"
+node_id = "MDEwOlJlcG9zaXRvcnkzODg1MTg4NQ=="
+open_issues_within = 100
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 100
+topics = [ "inactive" ]
+updated_within = "year"
+watchers_within = 100
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 5_225_505
+  login = "cforlando"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjUyMjU1MDU="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

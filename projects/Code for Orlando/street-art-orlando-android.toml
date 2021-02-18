@@ -1,9 +1,8 @@
 code_url = "https://github.com/cforlando/street-art-orlando-android"
 description = "Explore a gallery of local artwork through the Street Art Orlando app"
-git_branch = "master"
 git_url = "git://github.com/cforlando/street-art-orlando-android.git"
-last_pushed_within = "over_a_year"
 name = "street-art-orlando-android"
+organization_name = "Code for Orlando"
 topics = [
   "android",
   "art",
@@ -11,3 +10,50 @@ topics = [
   "code-for-orlando",
   "murals"
 ]
+
+[github]
+archived = false
+created_at = "2016-06-04T15:07:15Z"
+default_branch = "master"
+description = "Explore a gallery of local artwork through the Street Art Orlando app"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "cforlando/street-art-orlando-android"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 60_415_847
+language = "Java"
+license = { }
+name = "street-art-orlando-android"
+node_id = "MDEwOlJlcG9zaXRvcnk2MDQxNTg0Nw=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [
+  "android",
+  "art",
+  "code-for-america",
+  "code-for-orlando",
+  "murals"
+]
+updated_within = "year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 5_225_505
+  login = "cforlando"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjUyMjU1MDU="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

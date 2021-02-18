@@ -1,7 +1,52 @@
 code_url = "https://github.com/cforlando/adopt-a-drain"
 description = "Forked from Code for San Francisco! "
-git_branch = "master"
 git_url = "git://github.com/cforlando/adopt-a-drain.git"
-last_pushed_within = "over_a_year"
 name = "adopt-a-drain"
+organization_name = "Code for Orlando"
 topics = [ "inactive" ]
+
+[github]
+archived = false
+created_at = "2018-09-05T00:04:12Z"
+default_branch = "master"
+description = "Forked from Code for San Francisco! "
+disabled = false
+fork = false
+forks_within = 0
+full_name = "cforlando/adopt-a-drain"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 147_434_822
+language = { }
+name = "adopt-a-drain"
+node_id = "MDEwOlJlcG9zaXRvcnkxNDc0MzQ4MjI="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ "inactive" ]
+updated_within = "year"
+watchers_within = 0
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 5_225_505
+  login = "cforlando"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjUyMjU1MDU="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

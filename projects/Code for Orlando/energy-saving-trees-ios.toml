@@ -1,5 +1,45 @@
 code_url = "https://github.com/cforlando/energy-saving-trees-ios"
-git_branch = "master"
 git_url = "git://github.com/cforlando/energy-saving-trees-ios.git"
-last_pushed_within = "over_a_year"
 name = "energy-saving-trees-ios"
+organization_name = "Code for Orlando"
+
+[github]
+archived = false
+created_at = "2016-06-03T14:49:17Z"
+default_branch = "master"
+description = { }
+disabled = false
+fork = false
+forks_within = 10
+full_name = "cforlando/energy-saving-trees-ios"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 60_355_419
+language = "Swift"
+license = { }
+name = "energy-saving-trees-ios"
+node_id = "MDEwOlJlcG9zaXRvcnk2MDM1NTQxOQ=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 5_225_505
+  login = "cforlando"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjUyMjU1MDU="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

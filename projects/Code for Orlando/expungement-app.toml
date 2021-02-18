@@ -1,8 +1,7 @@
 code_url = "https://github.com/cforlando/expungement-app"
-git_branch = "master"
 git_url = "git://github.com/cforlando/expungement-app.git"
-last_pushed_within = "over_a_year"
 name = "expungement-app"
+organization_name = "Code for Orlando"
 topics = [
   "code-for-america",
   "code-for-orlando",
@@ -11,3 +10,51 @@ topics = [
   "record-clearance",
   "record-expungement"
 ]
+
+[github]
+archived = false
+created_at = "2019-09-21T17:09:15Z"
+default_branch = "master"
+description = { }
+disabled = false
+fork = false
+forks_within = 0
+full_name = "cforlando/expungement-app"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 210_023_894
+language = "JavaScript"
+license = { }
+name = "expungement-app"
+node_id = "MDEwOlJlcG9zaXRvcnkyMTAwMjM4OTQ="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [
+  "code-for-america",
+  "code-for-orlando",
+  "criminal-justice",
+  "react",
+  "record-clearance",
+  "record-expungement"
+]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 5_225_505
+  login = "cforlando"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjUyMjU1MDU="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

@@ -1,10 +1,9 @@
 code_url = "https://github.com/cforlando/street-art-orlando-ios"
 description = "An iOS app that curates images of local murals and street art throughout Orlando"
-git_branch = "master"
 git_url = "git://github.com/cforlando/street-art-orlando-ios.git"
-last_pushed_within = "year"
 link_url = "https://streetartorlando.com"
 name = "street-art-orlando-ios"
+organization_name = "Code for Orlando"
 topics = [
   "art",
   "code-for-america",
@@ -13,3 +12,56 @@ topics = [
   "murals",
   "swift"
 ]
+
+[github]
+archived = false
+created_at = "2016-06-04T14:57:05Z"
+default_branch = "master"
+description = "An iOS app that curates images of local murals and street art throughout Orlando"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "cforlando/street-art-orlando-ios"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "https://streetartorlando.com"
+id = 60_415_383
+language = "Swift"
+name = "street-art-orlando-ios"
+node_id = "MDEwOlJlcG9zaXRvcnk2MDQxNTM4Mw=="
+open_issues_within = 10
+private = false
+pushed_within = "year"
+stargazers_within = 10
+topics = [
+  "art",
+  "code-for-america",
+  "code-for-orlando",
+  "ios",
+  "murals",
+  "swift"
+]
+updated_within = "year"
+watchers_within = 10
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 5_225_505
+  login = "cforlando"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjUyMjU1MDU="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

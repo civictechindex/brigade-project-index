@@ -1,9 +1,8 @@
 code_url = "https://github.com/cforlando/PetAdoption-Android"
 description = "Adopt pets easier with PetAdoption for Android"
-git_branch = "develop"
 git_url = "git://github.com/cforlando/PetAdoption-Android.git"
-last_pushed_within = "over_a_year"
 name = "PetAdoption-Android"
+organization_name = "Code for Orlando"
 topics = [
   "android",
   "code-for-america",
@@ -11,3 +10,50 @@ topics = [
   "inactive",
   "pet-adoption"
 ]
+
+[github]
+archived = false
+created_at = "2015-08-11T01:12:32Z"
+default_branch = "develop"
+description = "Adopt pets easier with PetAdoption for Android"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "cforlando/PetAdoption-Android"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 40_514_092
+language = "Java"
+license = { }
+name = "PetAdoption-Android"
+node_id = "MDEwOlJlcG9zaXRvcnk0MDUxNDA5Mg=="
+open_issues_within = 100
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [
+  "android",
+  "code-for-america",
+  "code-for-orlando",
+  "inactive",
+  "pet-adoption"
+]
+updated_within = "year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 5_225_505
+  login = "cforlando"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjUyMjU1MDU="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

@@ -1,6 +1,46 @@
 code_url = "https://github.com/cforlando/cfa-wiki"
 description = "https://wiki.codeforamerica.org"
-git_branch = "master"
 git_url = "git://github.com/cforlando/cfa-wiki.git"
-last_pushed_within = "over_a_year"
 name = "cfa-wiki"
+organization_name = "Code for Orlando"
+
+[github]
+archived = false
+created_at = "2016-11-01T19:45:37Z"
+default_branch = "master"
+description = "https://wiki.codeforamerica.org"
+disabled = false
+fork = true
+forks_within = 0
+full_name = "cforlando/cfa-wiki"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = false
+homepage = { }
+id = 72_570_606
+language = { }
+license = { }
+name = "cfa-wiki"
+node_id = "MDEwOlJlcG9zaXRvcnk3MjU3MDYwNg=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 5_225_505
+  login = "cforlando"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjUyMjU1MDU="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

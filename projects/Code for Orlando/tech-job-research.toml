@@ -1,9 +1,8 @@
 code_url = "https://github.com/cforlando/tech-job-research"
 description = "Ethnographic Research Project"
-git_branch = "master"
 git_url = "git://github.com/cforlando/tech-job-research.git"
-last_pushed_within = "over_a_year"
 name = "tech-job-research"
+organization_name = "Code for Orlando"
 topics = [
   "code-for-america",
   "code-for-orlando",
@@ -12,3 +11,51 @@ topics = [
   "research",
   "tech-jobs"
 ]
+
+[github]
+archived = false
+created_at = "2018-08-12T16:00:59Z"
+default_branch = "master"
+description = "Ethnographic Research Project"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "cforlando/tech-job-research"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = false
+homepage = { }
+id = 144_480_700
+language = { }
+license = { }
+name = "tech-job-research"
+node_id = "MDEwOlJlcG9zaXRvcnkxNDQ0ODA3MDA="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [
+  "code-for-america",
+  "code-for-orlando",
+  "inactive",
+  "ndoch",
+  "research",
+  "tech-jobs"
+]
+updated_within = "year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 5_225_505
+  login = "cforlando"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjUyMjU1MDU="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

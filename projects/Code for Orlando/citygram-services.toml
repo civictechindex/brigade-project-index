@@ -1,8 +1,48 @@
 code_url = "https://github.com/cforlando/citygram-services"
 description = "Web content transformation proxies for open data API's"
-git_branch = "master"
 git_url = "git://github.com/cforlando/citygram-services.git"
-last_pushed_within = "over_a_year"
 link_url = "https://citygram-services.herokuapp.com/"
 name = "citygram-services"
+organization_name = "Code for Orlando"
 topics = [ "inactive" ]
+
+[github]
+archived = false
+created_at = "2018-04-03T22:57:11Z"
+default_branch = "master"
+description = "Web content transformation proxies for open data API's"
+disabled = false
+fork = true
+forks_within = 0
+full_name = "cforlando/citygram-services"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "https://citygram-services.herokuapp.com/"
+id = 127_978_088
+language = "Ruby"
+license = { }
+name = "citygram-services"
+node_id = "MDEwOlJlcG9zaXRvcnkxMjc5NzgwODg="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ "inactive" ]
+updated_within = "year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 5_225_505
+  login = "cforlando"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjUyMjU1MDU="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

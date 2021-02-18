@@ -1,7 +1,47 @@
 code_url = "https://github.com/cforlando/lynx-info"
 description = "Connect Lynx' info to riders and observers"
-git_branch = "master"
 git_url = "git://github.com/cforlando/lynx-info.git"
-last_pushed_within = "over_a_year"
 name = "lynx-info"
+organization_name = "Code for Orlando"
 topics = [ "inactive" ]
+
+[github]
+archived = false
+created_at = "2015-10-06T14:39:39Z"
+default_branch = "master"
+description = "Connect Lynx' info to riders and observers"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "cforlando/lynx-info"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 43_756_656
+language = "CoffeeScript"
+license = { }
+name = "lynx-info"
+node_id = "MDEwOlJlcG9zaXRvcnk0Mzc1NjY1Ng=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ "inactive" ]
+updated_within = "year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 5_225_505
+  login = "cforlando"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjUyMjU1MDU="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

@@ -1,9 +1,8 @@
 code_url = "https://github.com/cforlando/Fox-Dono"
 description = "Fox-Dono is a very special fox, who keeps track of when meetings are, who is attending, and lets everyone know. Foxes are problem solvers, and guides. ありがとう ございます きつねーどの."
-git_branch = "master"
 git_url = "git://github.com/cforlando/Fox-Dono.git"
-last_pushed_within = "over_a_year"
 name = "Fox-Dono"
+organization_name = "Code for Orlando"
 topics = [
   "code-for-america",
   "code-for-orlando",
@@ -11,3 +10,55 @@ topics = [
   "meeting-planner",
   "productivity"
 ]
+
+[github]
+archived = false
+created_at = "2017-06-01T00:52:32Z"
+default_branch = "master"
+description = "Fox-Dono is a very special fox, who keeps track of when meetings are, who is attending, and lets everyone know. Foxes are problem solvers, and guides. ありがとう ございます きつねーどの."
+disabled = false
+fork = false
+forks_within = 0
+full_name = "cforlando/Fox-Dono"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 93_001_689
+language = "Python"
+name = "Fox-Dono"
+node_id = "MDEwOlJlcG9zaXRvcnk5MzAwMTY4OQ=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [
+  "code-for-america",
+  "code-for-orlando",
+  "inactive",
+  "meeting-planner",
+  "productivity"
+]
+updated_within = "year"
+watchers_within = 0
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 5_225_505
+  login = "cforlando"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjUyMjU1MDU="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

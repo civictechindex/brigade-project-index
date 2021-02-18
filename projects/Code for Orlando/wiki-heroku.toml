@@ -1,6 +1,51 @@
 code_url = "https://github.com/cforlando/wiki-heroku"
 description = "Heroku deploy manifest for Wiki.js"
-git_branch = "master"
 git_url = "git://github.com/cforlando/wiki-heroku.git"
-last_pushed_within = "year"
 name = "wiki-heroku"
+organization_name = "Code for Orlando"
+
+[github]
+archived = false
+created_at = "2018-04-07T01:57:00Z"
+default_branch = "master"
+description = "Heroku deploy manifest for Wiki.js"
+disabled = false
+fork = true
+forks_within = 10
+full_name = "cforlando/wiki-heroku"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 128_487_748
+language = "Shell"
+name = "wiki-heroku"
+node_id = "MDEwOlJlcG9zaXRvcnkxMjg0ODc3NDg="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 5_225_505
+  login = "cforlando"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjUyMjU1MDU="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

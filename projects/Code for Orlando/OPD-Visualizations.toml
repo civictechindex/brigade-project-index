@@ -1,7 +1,52 @@
 code_url = "https://github.com/cforlando/OPD-Visualizations"
 description = "Collection of web graphics displaying Orlando Police Dept dispatch data"
-git_branch = "master"
 git_url = "git://github.com/cforlando/OPD-Visualizations.git"
-last_pushed_within = "over_a_year"
 name = "OPD-Visualizations"
+organization_name = "Code for Orlando"
 topics = [ "inactive" ]
+
+[github]
+archived = false
+created_at = "2015-12-07T01:00:35Z"
+default_branch = "master"
+description = "Collection of web graphics displaying Orlando Police Dept dispatch data"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "cforlando/OPD-Visualizations"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 47_520_931
+language = "JavaScript"
+name = "OPD-Visualizations"
+node_id = "MDEwOlJlcG9zaXRvcnk0NzUyMDkzMQ=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ "inactive" ]
+updated_within = "year"
+watchers_within = 10
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 5_225_505
+  login = "cforlando"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjUyMjU1MDU="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
