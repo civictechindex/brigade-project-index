@@ -1,6 +1,51 @@
 code_url = "https://github.com/codeforbtv/drupal-codeforbtv.org"
 description = "The drupal website that codeforbtv.org began using in 2016"
-git_branch = "master"
 git_url = "git://github.com/codeforbtv/drupal-codeforbtv.org.git"
-last_pushed_within = "year"
 name = "drupal-codeforbtv.org"
+organization_name = "Code for BTV"
+
+[github]
+archived = false
+created_at = "2019-01-22T17:07:52Z"
+default_branch = "master"
+description = "The drupal website that codeforbtv.org began using in 2016"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "codeforbtv/drupal-codeforbtv.org"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 167_033_796
+language = "PHP"
+name = "drupal-codeforbtv.org"
+node_id = "MDEwOlJlcG9zaXRvcnkxNjcwMzM3OTY="
+open_issues_within = 10
+private = false
+pushed_within = "year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "year"
+watchers_within = 0
+
+  [github.license]
+  key = "other"
+  name = "Other"
+  node_id = "MDc6TGljZW5zZTA="
+  spdx_id = "NOASSERTION"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 3_893_216
+  login = "codeforbtv"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM4OTMyMTY="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

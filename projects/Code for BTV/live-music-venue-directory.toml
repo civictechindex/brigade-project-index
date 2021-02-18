@@ -1,7 +1,47 @@
 code_url = "https://github.com/codeforbtv/live-music-venue-directory"
 description = "Live Music Venue Directory"
-git_branch = "master"
 git_url = "git://github.com/codeforbtv/live-music-venue-directory.git"
-last_pushed_within = "over_a_year"
 name = "live-music-venue-directory"
+organization_name = "Code for BTV"
 topics = [ "big-heavy-world" ]
+
+[github]
+archived = false
+created_at = "2013-05-26T23:47:59Z"
+default_branch = "master"
+description = "Live Music Venue Directory"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codeforbtv/live-music-venue-directory"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 10_305_098
+language = "PHP"
+license = { }
+name = "live-music-venue-directory"
+node_id = "MDEwOlJlcG9zaXRvcnkxMDMwNTA5OA=="
+open_issues_within = 100
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ "big-heavy-world" ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 3_893_216
+  login = "codeforbtv"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM4OTMyMTY="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

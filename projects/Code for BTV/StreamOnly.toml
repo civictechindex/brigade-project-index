@@ -1,6 +1,51 @@
 code_url = "https://github.com/codeforbtv/StreamOnly"
 description = "A custom plugin for Omeka that allows the visitor to listen to protected audio files, but prevents the most common methods of downloading these files. It also limits the number of listeners simultaneously accessing protected audio files."
-git_branch = "master"
 git_url = "git://github.com/codeforbtv/StreamOnly.git"
-last_pushed_within = "over_a_year"
 name = "StreamOnly"
+organization_name = "Code for BTV"
+
+[github]
+archived = false
+created_at = "2018-04-10T23:44:32Z"
+default_branch = "master"
+description = "A custom plugin for Omeka that allows the visitor to listen to protected audio files, but prevents the most common methods of downloading these files. It also limits the number of listeners simultaneously accessing protected audio files."
+disabled = false
+fork = false
+forks_within = 0
+full_name = "codeforbtv/StreamOnly"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 129_007_608
+language = "PHP"
+name = "StreamOnly"
+node_id = "MDEwOlJlcG9zaXRvcnkxMjkwMDc2MDg="
+open_issues_within = 100
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "gpl-3.0"
+  name = "GNU General Public License v3.0"
+  node_id = "MDc6TGljZW5zZTk="
+  spdx_id = "GPL-3.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 3_893_216
+  login = "codeforbtv"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM4OTMyMTY="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

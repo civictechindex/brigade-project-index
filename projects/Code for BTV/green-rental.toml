@@ -1,6 +1,51 @@
 code_url = "https://github.com/codeforbtv/green-rental"
-git_branch = "master"
 git_url = "git://github.com/codeforbtv/green-rental.git"
-last_pushed_within = "over_a_year"
 name = "green-rental"
+organization_name = "Code for BTV"
 topics = [ "open-data" ]
+
+[github]
+archived = false
+created_at = "2014-06-18T17:08:38Z"
+default_branch = "master"
+description = { }
+disabled = false
+fork = true
+forks_within = 0
+full_name = "codeforbtv/green-rental"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 20_970_750
+language = "Python"
+name = "green-rental"
+node_id = "MDEwOlJlcG9zaXRvcnkyMDk3MDc1MA=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ "open-data" ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "other"
+  name = "Other"
+  node_id = "MDc6TGljZW5zZTA="
+  spdx_id = "NOASSERTION"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 3_893_216
+  login = "codeforbtv"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM4OTMyMTY="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

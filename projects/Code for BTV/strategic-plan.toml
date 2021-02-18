@@ -1,8 +1,48 @@
 code_url = "https://github.com/codeforbtv/strategic-plan"
 description = "Code for BTV Strategic Plan"
-git_branch = "master"
 git_url = "git://github.com/codeforbtv/strategic-plan.git"
-last_pushed_within = "over_a_year"
 link_url = "http://codeforbtv.github.com/strategic-plan/"
 name = "strategic-plan"
+organization_name = "Code for BTV"
 topics = [ "cfbtv-brigade" ]
+
+[github]
+archived = false
+created_at = "2013-03-17T22:11:24Z"
+default_branch = "master"
+description = "Code for BTV Strategic Plan"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "codeforbtv/strategic-plan"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = false
+homepage = "http://codeforbtv.github.com/strategic-plan/"
+id = 8_842_467
+language = { }
+license = { }
+name = "strategic-plan"
+node_id = "MDEwOlJlcG9zaXRvcnk4ODQyNDY3"
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ "cfbtv-brigade" ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 3_893_216
+  login = "codeforbtv"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM4OTMyMTY="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

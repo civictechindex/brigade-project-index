@@ -1,36 +1,35 @@
-code_url = "https://github.com/codeforbtv/artist-directory"
-description = "Artist Directory"
-git_url = "git://github.com/codeforbtv/artist-directory.git"
-name = "artist-directory"
+code_url = "https://github.com/codeforbtv/hsda-cfbtv"
+description = "HSDA Implementation"
+git_url = "git://github.com/codeforbtv/hsda-cfbtv.git"
+name = "hsda-cfbtv"
 organization_name = "Code for BTV"
-topics = [ "big-heavy-world" ]
 
 [github]
 archived = false
-created_at = "2013-05-26T23:55:24Z"
+created_at = "2021-01-11T19:21:27Z"
 default_branch = "master"
-description = "Artist Directory"
+description = "HSDA Implementation"
 disabled = false
 fork = false
 forks_within = 0
-full_name = "codeforbtv/artist-directory"
+full_name = "codeforbtv/hsda-cfbtv"
 has_downloads = true
 has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = true
 homepage = { }
-id = 10_305_149
-language = { }
+id = 328_768_315
+language = "JavaScript"
 license = { }
-name = "artist-directory"
-node_id = "MDEwOlJlcG9zaXRvcnkxMDMwNTE0OQ=="
-open_issues_within = 0
+name = "hsda-cfbtv"
+node_id = "MDEwOlJlcG9zaXRvcnkzMjg3NjgzMTU="
+open_issues_within = 100
 private = false
-pushed_within = "over_a_year"
+pushed_within = "month"
 stargazers_within = 0
-topics = [ "big-heavy-world" ]
-updated_within = "over_a_year"
+topics = [ ]
+updated_within = "month"
 watchers_within = 0
 
   [github.owner]

@@ -1,7 +1,52 @@
 code_url = "https://github.com/codeforbtv/discourse"
 description = "A platform for community discussion. Free, open, simple."
-git_branch = "master"
 git_url = "git://github.com/codeforbtv/discourse.git"
-last_pushed_within = "over_a_year"
 link_url = "http://www.discourse.org"
 name = "discourse"
+organization_name = "Code for BTV"
+
+[github]
+archived = false
+created_at = "2013-06-01T15:12:20Z"
+default_branch = "master"
+description = "A platform for community discussion. Free, open, simple."
+disabled = false
+fork = true
+forks_within = 0
+full_name = "codeforbtv/discourse"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://www.discourse.org"
+id = 10_424_004
+language = "JavaScript"
+name = "discourse"
+node_id = "MDEwOlJlcG9zaXRvcnkxMDQyNDAwNA=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "other"
+  name = "Other"
+  node_id = "MDc6TGljZW5zZTA="
+  spdx_id = "NOASSERTION"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 3_893_216
+  login = "codeforbtv"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM4OTMyMTY="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

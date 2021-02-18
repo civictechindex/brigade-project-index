@@ -1,6 +1,51 @@
 code_url = "https://github.com/codeforbtv/court-calendars"
 description = "A Git-based Cache of VT Court Calendar Data Scraped From the Court Calendars Primarily for CourtBot"
-git_branch = "main"
 git_url = "git://github.com/codeforbtv/court-calendars.git"
-last_pushed_within = "month"
 name = "court-calendars"
+organization_name = "Code for BTV"
+
+[github]
+archived = false
+created_at = "2020-12-11T00:43:46Z"
+default_branch = "main"
+description = "A Git-based Cache of VT Court Calendar Data Scraped From the Court Calendars Primarily for CourtBot"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "codeforbtv/court-calendars"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 320_426_682
+language = { }
+name = "court-calendars"
+node_id = "MDEwOlJlcG9zaXRvcnkzMjA0MjY2ODI="
+open_issues_within = 0
+private = false
+pushed_within = "month"
+stargazers_within = 10
+topics = [ ]
+updated_within = "month"
+watchers_within = 10
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 3_893_216
+  login = "codeforbtv"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM4OTMyMTY="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

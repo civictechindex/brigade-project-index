@@ -1,6 +1,46 @@
 code_url = "https://github.com/codeforbtv/green-printing-app"
 description = "An app to to avoid wasteful printing in Fletcher Free Library's wasteful public access computer center"
-git_branch = "master"
 git_url = "git://github.com/codeforbtv/green-printing-app.git"
-last_pushed_within = "over_a_year"
 name = "green-printing-app"
+organization_name = "Code for BTV"
+
+[github]
+archived = false
+created_at = "2013-10-27T16:27:30Z"
+default_branch = "master"
+description = "An app to to avoid wasteful printing in Fletcher Free Library's wasteful public access computer center"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codeforbtv/green-printing-app"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 13_904_509
+language = { }
+license = { }
+name = "green-printing-app"
+node_id = "MDEwOlJlcG9zaXRvcnkxMzkwNDUwOQ=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 3_893_216
+  login = "codeforbtv"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM4OTMyMTY="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

@@ -1,6 +1,51 @@
 code_url = "https://github.com/codeforbtv/cip-votingmap"
 description = "Re-building the city's voting map app based on the Community Innovation Proposal released in July 2019."
-git_branch = "master"
 git_url = "git://github.com/codeforbtv/cip-votingmap.git"
-last_pushed_within = "over_a_year"
 name = "cip-votingmap"
+organization_name = "Code for BTV"
+
+[github]
+archived = false
+created_at = "2019-07-25T03:45:03Z"
+default_branch = "master"
+description = "Re-building the city's voting map app based on the Community Innovation Proposal released in July 2019."
+disabled = false
+fork = false
+forks_within = 0
+full_name = "codeforbtv/cip-votingmap"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 198_752_486
+language = { }
+name = "cip-votingmap"
+node_id = "MDEwOlJlcG9zaXRvcnkxOTg3NTI0ODY="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 3_893_216
+  login = "codeforbtv"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM4OTMyMTY="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

@@ -1,6 +1,51 @@
 code_url = "https://github.com/codeforbtv/green-up-app"
 description = "The Official Mobile App for Green Up Day Vermont"
-git_branch = "master"
 git_url = "git://github.com/codeforbtv/green-up-app.git"
-last_pushed_within = "year"
 name = "green-up-app"
+organization_name = "Code for BTV"
+
+[github]
+archived = false
+created_at = "2018-04-12T20:47:17Z"
+default_branch = "master"
+description = "The Official Mobile App for Green Up Day Vermont"
+disabled = false
+fork = true
+forks_within = 10
+full_name = "codeforbtv/green-up-app"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 129_309_430
+language = "JavaScript"
+name = "green-up-app"
+node_id = "MDEwOlJlcG9zaXRvcnkxMjkzMDk0MzA="
+open_issues_within = 100
+private = false
+pushed_within = "year"
+stargazers_within = 100
+topics = [ ]
+updated_within = "week"
+watchers_within = 100
+
+  [github.license]
+  key = "apache-2.0"
+  name = "Apache License 2.0"
+  node_id = "MDc6TGljZW5zZTI="
+  spdx_id = "Apache-2.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 3_893_216
+  login = "codeforbtv"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM4OTMyMTY="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

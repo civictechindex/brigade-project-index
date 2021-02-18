@@ -1,6 +1,46 @@
 code_url = "https://github.com/codeforbtv/portal"
 description = "This is the developer area for open referral implementation."
-git_branch = "master"
 git_url = "git://github.com/codeforbtv/portal.git"
-last_pushed_within = "over_a_year"
 name = "portal"
+organization_name = "Code for BTV"
+
+[github]
+archived = false
+created_at = "2020-11-30T06:09:31Z"
+default_branch = "master"
+description = "This is the developer area for open referral implementation."
+disabled = false
+fork = true
+forks_within = 0
+full_name = "codeforbtv/portal"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 317_127_328
+language = { }
+license = { }
+name = "portal"
+node_id = "MDEwOlJlcG9zaXRvcnkzMTcxMjczMjg="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 3_893_216
+  login = "codeforbtv"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM4OTMyMTY="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

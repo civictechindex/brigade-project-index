@@ -1,7 +1,47 @@
 code_url = "https://github.com/codeforbtv/vt-map-maker"
 description = "VT Map Maker"
-git_branch = "master"
 git_url = "git://github.com/codeforbtv/vt-map-maker.git"
-last_pushed_within = "year"
 name = "vt-map-maker"
+organization_name = "Code for BTV"
 topics = [ "geospatial" ]
+
+[github]
+archived = false
+created_at = "2014-02-22T19:51:35Z"
+default_branch = "master"
+description = "VT Map Maker"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codeforbtv/vt-map-maker"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 17_093_274
+language = "JavaScript"
+license = { }
+name = "vt-map-maker"
+node_id = "MDEwOlJlcG9zaXRvcnkxNzA5MzI3NA=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ "geospatial" ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 3_893_216
+  login = "codeforbtv"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM4OTMyMTY="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

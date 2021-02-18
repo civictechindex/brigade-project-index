@@ -1,6 +1,46 @@
 code_url = "https://github.com/codeforbtv/lakebrite-temp-viz"
 description = "Lakebrite temperature visualization project"
-git_branch = "master"
 git_url = "git://github.com/codeforbtv/lakebrite-temp-viz.git"
-last_pushed_within = "over_a_year"
 name = "lakebrite-temp-viz"
+organization_name = "Code for BTV"
+
+[github]
+archived = false
+created_at = "2015-06-07T18:19:10Z"
+default_branch = "master"
+description = "Lakebrite temperature visualization project"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "codeforbtv/lakebrite-temp-viz"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 37_026_963
+language = "Processing"
+license = { }
+name = "lakebrite-temp-viz"
+node_id = "MDEwOlJlcG9zaXRvcnkzNzAyNjk2Mw=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 3_893_216
+  login = "codeforbtv"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM4OTMyMTY="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

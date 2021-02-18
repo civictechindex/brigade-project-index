@@ -1,6 +1,51 @@
 code_url = "https://github.com/codeforbtv/ndoch2k18_vahc_oldweb"
 description = "NDoCH VAHC Old Website Fixes"
-git_branch = "master"
 git_url = "git://github.com/codeforbtv/ndoch2k18_vahc_oldweb.git"
-last_pushed_within = "over_a_year"
 name = "ndoch2k18_vahc_oldweb"
+organization_name = "Code for BTV"
+
+[github]
+archived = false
+created_at = "2018-08-11T05:25:14Z"
+default_branch = "master"
+description = "NDoCH VAHC Old Website Fixes"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "codeforbtv/ndoch2k18_vahc_oldweb"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 144_358_049
+language = { }
+name = "ndoch2k18_vahc_oldweb"
+node_id = "MDEwOlJlcG9zaXRvcnkxNDQzNTgwNDk="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "gpl-3.0"
+  name = "GNU General Public License v3.0"
+  node_id = "MDc6TGljZW5zZTk="
+  spdx_id = "GPL-3.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 3_893_216
+  login = "codeforbtv"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM4OTMyMTY="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
