@@ -1,8 +1,53 @@
 code_url = "https://github.com/codeforeurope/civichq-api"
 description = "API that aggregates information about open source civic tech applications and systems."
-git_branch = "master"
 git_url = "git://github.com/codeforeurope/civichq-api.git"
-last_pushed_within = "over_a_year"
 link_url = "http://codeforeu.github.io/portfolio"
 name = "civichq-api"
+organization_name = "Code for Europe"
 topics = [ "civic-tech", "civictech", "european" ]
+
+[github]
+archived = false
+created_at = "2017-02-01T08:43:55Z"
+default_branch = "master"
+description = "API that aggregates information about open source civic tech applications and systems."
+disabled = false
+fork = true
+forks_within = 0
+full_name = "codeforeurope/civichq-api"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://codeforeu.github.io/portfolio"
+id = 80_602_550
+language = "JavaScript"
+name = "civichq-api"
+node_id = "MDEwOlJlcG9zaXRvcnk4MDYwMjU1MA=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ "civic-tech", "civictech", "european" ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "mpl-2.0"
+  name = "Mozilla Public License 2.0"
+  node_id = "MDc6TGljZW5zZTE0"
+  spdx_id = "MPL-2.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 3_342_302
+  login = "codeforeurope"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjMzNDIzMDI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

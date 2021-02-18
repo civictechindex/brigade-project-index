@@ -1,6 +1,46 @@
 code_url = "https://github.com/codeforeurope/europe_commons"
 description = "A Drupal Apps Catalog distribution sub-theme for the Europe Civic Commons."
-git_branch = "master"
 git_url = "git://github.com/codeforeurope/europe_commons.git"
-last_pushed_within = "over_a_year"
 name = "europe_commons"
+organization_name = "Code for Europe"
+
+[github]
+archived = false
+created_at = "2013-02-13T10:01:05Z"
+default_branch = "master"
+description = "A Drupal Apps Catalog distribution sub-theme for the Europe Civic Commons."
+disabled = false
+fork = false
+forks_within = 0
+full_name = "codeforeurope/europe_commons"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 8_176_821
+language = "PHP"
+license = { }
+name = "europe_commons"
+node_id = "MDEwOlJlcG9zaXRvcnk4MTc2ODIx"
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 3_342_302
+  login = "codeforeurope"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjMzNDIzMDI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

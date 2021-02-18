@@ -1,5 +1,50 @@
 code_url = "https://github.com/codeforeurope/badgr-ui"
-git_branch = "i18n"
 git_url = "git://github.com/codeforeurope/badgr-ui.git"
-last_pushed_within = "over_a_year"
 name = "badgr-ui"
+organization_name = "Code for Europe"
+
+[github]
+archived = false
+created_at = "2019-09-23T15:02:18Z"
+default_branch = "i18n"
+description = { }
+disabled = false
+fork = true
+forks_within = 0
+full_name = "codeforeurope/badgr-ui"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = false
+has_wiki = false
+homepage = { }
+id = 210_384_031
+language = { }
+name = "badgr-ui"
+node_id = "MDEwOlJlcG9zaXRvcnkyMTAzODQwMzE="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "agpl-3.0"
+  name = "GNU Affero General Public License v3.0"
+  node_id = "MDc6TGljZW5zZTE="
+  spdx_id = "AGPL-3.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 3_342_302
+  login = "codeforeurope"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjMzNDIzMDI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

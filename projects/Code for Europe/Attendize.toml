@@ -1,7 +1,52 @@
 code_url = "https://github.com/codeforeurope/Attendize"
 description = "Attendize is a free & open-source ticket selling and event management platform."
-git_branch = "master"
 git_url = "git://github.com/codeforeurope/Attendize.git"
-last_pushed_within = "over_a_year"
 link_url = "https://www.attendize.com"
 name = "Attendize"
+organization_name = "Code for Europe"
+
+[github]
+archived = false
+created_at = "2017-01-25T22:15:54Z"
+default_branch = "master"
+description = "Attendize is a free & open-source ticket selling and event management platform."
+disabled = false
+fork = true
+forks_within = 0
+full_name = "codeforeurope/Attendize"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "https://www.attendize.com"
+id = 80_063_265
+language = "CSS"
+name = "Attendize"
+node_id = "MDEwOlJlcG9zaXRvcnk4MDA2MzI2NQ=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "other"
+  name = "Other"
+  node_id = "MDc6TGljZW5zZTA="
+  spdx_id = "NOASSERTION"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 3_342_302
+  login = "codeforeurope"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjMzNDIzMDI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

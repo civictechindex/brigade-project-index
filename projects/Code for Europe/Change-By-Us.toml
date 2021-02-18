@@ -1,7 +1,52 @@
 code_url = "https://github.com/codeforeurope/Change-By-Us"
 description = "A new way to share ideas, do projects, and make our cities better"
-git_branch = "master"
 git_url = "git://github.com/codeforeurope/Change-By-Us.git"
-last_pushed_within = "over_a_year"
 link_url = "changeby.us"
 name = "Change-By-Us"
+organization_name = "Code for Europe"
+
+[github]
+archived = false
+created_at = "2014-05-08T15:17:59Z"
+default_branch = "master"
+description = "A new way to share ideas, do projects, and make our cities better"
+disabled = false
+fork = true
+forks_within = 0
+full_name = "codeforeurope/Change-By-Us"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "changeby.us"
+id = 19_578_162
+language = "Python"
+name = "Change-By-Us"
+node_id = "MDEwOlJlcG9zaXRvcnkxOTU3ODE2Mg=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "other"
+  name = "Other"
+  node_id = "MDc6TGljZW5zZTA="
+  spdx_id = "NOASSERTION"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 3_342_302
+  login = "codeforeurope"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjMzNDIzMDI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

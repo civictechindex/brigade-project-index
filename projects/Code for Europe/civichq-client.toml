@@ -1,7 +1,52 @@
 code_url = "https://github.com/codeforeurope/civichq-client"
 description = "Client al unui agregator de app-uri civice dezoltate în societatea civiliă din România."
-git_branch = "master"
 git_url = "git://github.com/codeforeurope/civichq-client.git"
-last_pushed_within = "over_a_year"
 link_url = "http://centrucivic.ro/"
 name = "civichq-client"
+organization_name = "Code for Europe"
+
+[github]
+archived = false
+created_at = "2017-02-01T08:43:34Z"
+default_branch = "master"
+description = "Client al unui agregator de app-uri civice dezoltate în societatea civiliă din România."
+disabled = false
+fork = true
+forks_within = 0
+full_name = "codeforeurope/civichq-client"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://centrucivic.ro/"
+id = 80_602_531
+language = "TypeScript"
+name = "civichq-client"
+node_id = "MDEwOlJlcG9zaXRvcnk4MDYwMjUzMQ=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "mpl-2.0"
+  name = "Mozilla Public License 2.0"
+  node_id = "MDc6TGljZW5zZTE0"
+  spdx_id = "MPL-2.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 3_342_302
+  login = "codeforeurope"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjMzNDIzMDI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

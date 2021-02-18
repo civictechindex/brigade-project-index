@@ -1,6 +1,46 @@
 code_url = "https://github.com/codeforeurope/issue-reporting-manual"
 description = "Gitbook repository for issue-reporting (6aika) manual"
-git_branch = "master"
 git_url = "git://github.com/codeforeurope/issue-reporting-manual.git"
-last_pushed_within = "over_a_year"
 name = "issue-reporting-manual"
+organization_name = "Code for Europe"
+
+[github]
+archived = false
+created_at = "2017-01-07T15:03:51Z"
+default_branch = "master"
+description = "Gitbook repository for issue-reporting (6aika) manual"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "codeforeurope/issue-reporting-manual"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 78_285_408
+language = { }
+license = { }
+name = "issue-reporting-manual"
+node_id = "MDEwOlJlcG9zaXRvcnk3ODI4NTQwOA=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 3_342_302
+  login = "codeforeurope"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjMzNDIzMDI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

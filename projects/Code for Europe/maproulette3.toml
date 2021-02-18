@@ -1,7 +1,52 @@
 code_url = "https://github.com/codeforeurope/maproulette3"
 description = "MapRoulette, the micro-tasking tool for OpenStreetMap"
-git_branch = "master"
 git_url = "git://github.com/codeforeurope/maproulette3.git"
-last_pushed_within = "over_a_year"
 link_url = "https://maproulette.org"
 name = "maproulette3"
+organization_name = "Code for Europe"
+
+[github]
+archived = false
+created_at = "2019-09-07T09:16:48Z"
+default_branch = "master"
+description = "MapRoulette, the micro-tasking tool for OpenStreetMap"
+disabled = false
+fork = true
+forks_within = 0
+full_name = "codeforeurope/maproulette3"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "https://maproulette.org"
+id = 206_944_537
+language = "JavaScript"
+name = "maproulette3"
+node_id = "MDEwOlJlcG9zaXRvcnkyMDY5NDQ1Mzc="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 3_342_302
+  login = "codeforeurope"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjMzNDIzMDI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

@@ -1,6 +1,51 @@
 code_url = "https://github.com/codeforeurope/na4lapy-android"
 description = "Aplikacja Android - www.na4lapy.org"
-git_branch = "master"
 git_url = "git://github.com/codeforeurope/na4lapy-android.git"
-last_pushed_within = "over_a_year"
 name = "na4lapy-android"
+organization_name = "Code for Europe"
+
+[github]
+archived = false
+created_at = "2017-11-09T10:31:42Z"
+default_branch = "master"
+description = "Aplikacja Android - www.na4lapy.org"
+disabled = false
+fork = true
+forks_within = 0
+full_name = "codeforeurope/na4lapy-android"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 110_101_404
+language = "Java"
+name = "na4lapy-android"
+node_id = "MDEwOlJlcG9zaXRvcnkxMTAxMDE0MDQ="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "apache-2.0"
+  name = "Apache License 2.0"
+  node_id = "MDc6TGljZW5zZTI="
+  spdx_id = "Apache-2.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 3_342_302
+  login = "codeforeurope"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjMzNDIzMDI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

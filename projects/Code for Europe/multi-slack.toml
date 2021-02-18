@@ -1,7 +1,47 @@
 code_url = "https://github.com/codeforeurope/multi-slack"
 description = "Slack team to team communication"
-git_branch = "master"
 git_url = "git://github.com/codeforeurope/multi-slack.git"
-last_pushed_within = "over_a_year"
 name = "multi-slack"
+organization_name = "Code for Europe"
 topics = [ "communication", "slack" ]
+
+[github]
+archived = false
+created_at = "2017-04-21T14:59:03Z"
+default_branch = "master"
+description = "Slack team to team communication"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "codeforeurope/multi-slack"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 88_995_131
+language = "PHP"
+license = { }
+name = "multi-slack"
+node_id = "MDEwOlJlcG9zaXRvcnk4ODk5NTEzMQ=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ "communication", "slack" ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 3_342_302
+  login = "codeforeurope"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjMzNDIzMDI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

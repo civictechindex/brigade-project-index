@@ -1,6 +1,46 @@
 code_url = "https://github.com/codeforeurope/overview"
 description = "Overview of Code For Europe and related stuff"
-git_branch = "master"
 git_url = "git://github.com/codeforeurope/overview.git"
-last_pushed_within = "over_a_year"
 name = "overview"
+organization_name = "Code for Europe"
+
+[github]
+archived = false
+created_at = "2016-09-19T16:07:17Z"
+default_branch = "master"
+description = "Overview of Code For Europe and related stuff"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codeforeurope/overview"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 68_622_526
+language = { }
+license = { }
+name = "overview"
+node_id = "MDEwOlJlcG9zaXRvcnk2ODYyMjUyNg=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 3_342_302
+  login = "codeforeurope"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjMzNDIzMDI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

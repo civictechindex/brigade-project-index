@@ -1,6 +1,46 @@
 code_url = "https://github.com/codeforeurope/art-explorer-demo"
 description = "A demo app, built on the Manchester Art Gallery Open Data API"
-git_branch = "master"
 git_url = "git://github.com/codeforeurope/art-explorer-demo.git"
-last_pushed_within = "over_a_year"
 name = "art-explorer-demo"
+organization_name = "Code for Europe"
+
+[github]
+archived = false
+created_at = "2014-07-20T16:45:07Z"
+default_branch = "master"
+description = "A demo app, built on the Manchester Art Gallery Open Data API"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codeforeurope/art-explorer-demo"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 22_037_820
+language = "JavaScript"
+license = { }
+name = "art-explorer-demo"
+node_id = "MDEwOlJlcG9zaXRvcnkyMjAzNzgyMA=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 3_342_302
+  login = "codeforeurope"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjMzNDIzMDI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

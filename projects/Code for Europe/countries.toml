@@ -1,7 +1,52 @@
 code_url = "https://github.com/codeforeurope/countries"
 description = "World countries in JSON, CSV, XML and Yaml. Any help is welcome!"
-git_branch = "master"
 git_url = "git://github.com/codeforeurope/countries.git"
-last_pushed_within = "over_a_year"
 link_url = "https://git.io/countries"
 name = "countries"
+organization_name = "Code for Europe"
+
+[github]
+archived = false
+created_at = "2017-03-17T18:16:15Z"
+default_branch = "master"
+description = "World countries in JSON, CSV, XML and Yaml. Any help is welcome!"
+disabled = false
+fork = true
+forks_within = 0
+full_name = "codeforeurope/countries"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = false
+homepage = "https://git.io/countries"
+id = 85_342_106
+language = "PHP"
+name = "countries"
+node_id = "MDEwOlJlcG9zaXRvcnk4NTM0MjEwNg=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "other"
+  name = "Other"
+  node_id = "MDc6TGljZW5zZTA="
+  spdx_id = "NOASSERTION"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 3_342_302
+  login = "codeforeurope"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjMzNDIzMDI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

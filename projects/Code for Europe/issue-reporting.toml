@@ -1,6 +1,51 @@
 code_url = "https://github.com/codeforeurope/issue-reporting"
 description = "Reference Open311 API server implementation"
-git_branch = "master"
 git_url = "git://github.com/codeforeurope/issue-reporting.git"
-last_pushed_within = "over_a_year"
 name = "issue-reporting"
+organization_name = "Code for Europe"
+
+[github]
+archived = false
+created_at = "2016-12-27T10:39:40Z"
+default_branch = "master"
+description = "Reference Open311 API server implementation"
+disabled = false
+fork = true
+forks_within = 0
+full_name = "codeforeurope/issue-reporting"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 77_447_839
+language = "Python"
+name = "issue-reporting"
+node_id = "MDEwOlJlcG9zaXRvcnk3NzQ0NzgzOQ=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 3_342_302
+  login = "codeforeurope"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjMzNDIzMDI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

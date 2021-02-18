@@ -1,6 +1,51 @@
 code_url = "https://github.com/codeforeurope/floswhistle-pandemic-v2"
 description = "A secure platform for patient care providers."
-git_branch = "master"
 git_url = "git://github.com/codeforeurope/floswhistle-pandemic-v2.git"
-last_pushed_within = "year"
 name = "floswhistle-pandemic-v2"
+organization_name = "Code for Europe"
+
+[github]
+archived = false
+created_at = "2020-04-30T16:06:31Z"
+default_branch = "master"
+description = "A secure platform for patient care providers."
+disabled = false
+fork = true
+forks_within = 0
+full_name = "codeforeurope/floswhistle-pandemic-v2"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 260_257_489
+language = { }
+name = "floswhistle-pandemic-v2"
+node_id = "MDEwOlJlcG9zaXRvcnkyNjAyNTc0ODk="
+open_issues_within = 0
+private = false
+pushed_within = "year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "year"
+watchers_within = 0
+
+  [github.license]
+  key = "apache-2.0"
+  name = "Apache License 2.0"
+  node_id = "MDc6TGljZW5zZTI="
+  spdx_id = "Apache-2.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 3_342_302
+  login = "codeforeurope"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjMzNDIzMDI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

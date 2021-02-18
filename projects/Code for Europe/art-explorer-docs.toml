@@ -1,6 +1,51 @@
 code_url = "https://github.com/codeforeurope/art-explorer-docs"
 description = "Public-facing documentation for the Manchester Art Gallery Open Data API"
-git_branch = "master"
 git_url = "git://github.com/codeforeurope/art-explorer-docs.git"
-last_pushed_within = "over_a_year"
 name = "art-explorer-docs"
+organization_name = "Code for Europe"
+
+[github]
+archived = false
+created_at = "2014-08-19T11:40:39Z"
+default_branch = "master"
+description = "Public-facing documentation for the Manchester Art Gallery Open Data API"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codeforeurope/art-explorer-docs"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 23_107_891
+language = "CSS"
+name = "art-explorer-docs"
+node_id = "MDEwOlJlcG9zaXRvcnkyMzEwNzg5MQ=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 3_342_302
+  login = "codeforeurope"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjMzNDIzMDI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

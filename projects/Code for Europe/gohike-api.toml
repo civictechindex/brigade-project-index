@@ -1,7 +1,47 @@
 code_url = "https://github.com/codeforeurope/gohike-api"
 description = "Admin app and API for Take A Hike"
-git_branch = "master"
 git_url = "git://github.com/codeforeurope/gohike-api.git"
-last_pushed_within = "over_a_year"
 link_url = "http://www.gotakeahike.nl"
 name = "gohike-api"
+organization_name = "Code for Europe"
+
+[github]
+archived = false
+created_at = "2013-05-22T21:38:04Z"
+default_branch = "master"
+description = "Admin app and API for Take A Hike"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codeforeurope/gohike-api"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://www.gotakeahike.nl"
+id = 10_230_303
+language = "Ruby"
+license = { }
+name = "gohike-api"
+node_id = "MDEwOlJlcG9zaXRvcnkxMDIzMDMwMw=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 3_342_302
+  login = "codeforeurope"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjMzNDIzMDI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

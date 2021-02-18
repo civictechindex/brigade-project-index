@@ -1,7 +1,47 @@
 code_url = "https://github.com/codeforeurope/Transparent-Water"
 description = "This repository holds various assets, the wiki and (under development) the website for the Transparent Water Initiative for Code For Europe."
-git_branch = "master"
 git_url = "git://github.com/codeforeurope/Transparent-Water.git"
-last_pushed_within = "over_a_year"
 link_url = "http://www.transparentwater.io"
 name = "Transparent-Water"
+organization_name = "Code for Europe"
+
+[github]
+archived = false
+created_at = "2017-03-24T10:14:25Z"
+default_branch = "master"
+description = "This repository holds various assets, the wiki and (under development) the website for the Transparent Water Initiative for Code For Europe."
+disabled = false
+fork = false
+forks_within = 0
+full_name = "codeforeurope/Transparent-Water"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://www.transparentwater.io"
+id = 86_054_928
+language = { }
+license = { }
+name = "Transparent-Water"
+node_id = "MDEwOlJlcG9zaXRvcnk4NjA1NDkyOA=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 3_342_302
+  login = "codeforeurope"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjMzNDIzMDI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

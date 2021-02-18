@@ -1,7 +1,52 @@
 code_url = "https://github.com/codeforeurope/open311-android"
 description = "New version of open311-android, ported from City of Bloomington version"
-git_branch = "master"
 git_url = "git://github.com/codeforeurope/open311-android.git"
-last_pushed_within = "over_a_year"
 name = "open311-android"
+organization_name = "Code for Europe"
 topics = [ "android", "android-studio", "georeport", "open311" ]
+
+[github]
+archived = false
+created_at = "2015-12-18T09:49:50Z"
+default_branch = "master"
+description = "New version of open311-android, ported from City of Bloomington version"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codeforeurope/open311-android"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 48_227_438
+language = "Java"
+name = "open311-android"
+node_id = "MDEwOlJlcG9zaXRvcnk0ODIyNzQzOA=="
+open_issues_within = 100
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ "android", "android-studio", "georeport", "open311" ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "other"
+  name = "Other"
+  node_id = "MDc6TGljZW5zZTA="
+  spdx_id = "NOASSERTION"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 3_342_302
+  login = "codeforeurope"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjMzNDIzMDI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

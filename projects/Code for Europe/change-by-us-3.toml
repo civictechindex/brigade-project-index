@@ -1,6 +1,46 @@
 code_url = "https://github.com/codeforeurope/change-by-us-3"
 description = "change-by-us-3"
-git_branch = "master"
 git_url = "git://github.com/codeforeurope/change-by-us-3.git"
-last_pushed_within = "over_a_year"
 name = "change-by-us-3"
+organization_name = "Code for Europe"
+
+[github]
+archived = false
+created_at = "2014-05-20T13:20:53Z"
+default_branch = "master"
+description = "change-by-us-3"
+disabled = false
+fork = true
+forks_within = 0
+full_name = "codeforeurope/change-by-us-3"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 19_981_568
+language = "Python"
+license = { }
+name = "change-by-us-3"
+node_id = "MDEwOlJlcG9zaXRvcnkxOTk4MTU2OA=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 3_342_302
+  login = "codeforeurope"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjMzNDIzMDI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
