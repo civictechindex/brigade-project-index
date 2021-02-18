@@ -1,8 +1,53 @@
 code_url = "https://github.com/opensandiego/open-dsd-notifications"
 description = "Discovery and notification from City of San Diego Development Services Department"
-git_branch = "master"
 git_url = "git://github.com/opensandiego/open-dsd-notifications.git"
-last_pushed_within = "over_a_year"
 link_url = "http://www.OpenSanDiego.com"
 name = "open-dsd-notifications"
+organization_name = "Open San Diego"
 topics = [ "inactive", "open-san-diego" ]
+
+[github]
+archived = false
+created_at = "2015-05-14T19:48:49Z"
+default_branch = "master"
+description = "Discovery and notification from City of San Diego Development Services Department"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "opensandiego/open-dsd-notifications"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://www.OpenSanDiego.com"
+id = 35_633_080
+language = "JavaScript"
+name = "open-dsd-notifications"
+node_id = "MDEwOlJlcG9zaXRvcnkzNTYzMzA4MA=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ "inactive", "open-san-diego" ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 363_945
+  login = "opensandiego"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM2Mzk0NQ=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

@@ -1,7 +1,47 @@
 code_url = "https://github.com/opensandiego/tacos-and-transit"
 description = "Tacos And Transit"
-git_branch = "master"
 git_url = "git://github.com/opensandiego/tacos-and-transit.git"
-last_pushed_within = "over_a_year"
 name = "tacos-and-transit"
+organization_name = "Open San Diego"
 topics = [ "data-viz", "open-san-diego" ]
+
+[github]
+archived = false
+created_at = "2019-02-23T18:29:37Z"
+default_branch = "master"
+description = "Tacos And Transit"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "opensandiego/tacos-and-transit"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 172_249_127
+language = "Python"
+license = { }
+name = "tacos-and-transit"
+node_id = "MDEwOlJlcG9zaXRvcnkxNzIyNDkxMjc="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ "data-viz", "open-san-diego" ]
+updated_within = "year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 363_945
+  login = "opensandiego"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM2Mzk0NQ=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

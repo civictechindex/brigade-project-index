@@ -1,7 +1,47 @@
 code_url = "https://github.com/opensandiego/p2p-lending"
 description = "Peer-to-Peer lending app in partnership with Linda Vista Library"
-git_branch = "master"
 git_url = "git://github.com/opensandiego/p2p-lending.git"
-last_pushed_within = "month"
 name = "p2p-lending"
+organization_name = "Open San Diego"
 topics = [ "library-management-system", "open-san-diego" ]
+
+[github]
+archived = false
+created_at = "2019-04-30T18:10:59Z"
+default_branch = "master"
+description = "Peer-to-Peer lending app in partnership with Linda Vista Library"
+disabled = false
+fork = false
+forks_within = 100
+full_name = "opensandiego/p2p-lending"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 184_309_751
+language = "JavaScript"
+license = { }
+name = "p2p-lending"
+node_id = "MDEwOlJlcG9zaXRvcnkxODQzMDk3NTE="
+open_issues_within = 100
+private = false
+pushed_within = "year"
+stargazers_within = 100
+topics = [ "library-management-system", "open-san-diego" ]
+updated_within = "year"
+watchers_within = 100
+
+  [github.owner]
+  gravatar_id = ""
+  id = 363_945
+  login = "opensandiego"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM2Mzk0NQ=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

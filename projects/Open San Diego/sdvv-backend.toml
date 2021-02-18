@@ -1,6 +1,51 @@
 code_url = "https://github.com/opensandiego/sdvv-backend"
 description = "Backend repository for Voter's Voice website. "
-git_branch = "main"
 git_url = "git://github.com/opensandiego/sdvv-backend.git"
-last_pushed_within = "week"
 name = "sdvv-backend"
+organization_name = "Open San Diego"
+
+[github]
+archived = false
+created_at = "2020-02-06T07:35:24Z"
+default_branch = "main"
+description = "Backend repository for Voter's Voice website. "
+disabled = false
+fork = false
+forks_within = 10
+full_name = "opensandiego/sdvv-backend"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 238_632_429
+language = "JavaScript"
+name = "sdvv-backend"
+node_id = "MDEwOlJlcG9zaXRvcnkyMzg2MzI0Mjk="
+open_issues_within = 10
+private = false
+pushed_within = "week"
+stargazers_within = 0
+topics = [ ]
+updated_within = "month"
+watchers_within = 0
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 363_945
+  login = "opensandiego"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM2Mzk0NQ=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

@@ -1,5 +1,52 @@
 code_url = "https://github.com/opensandiego/sandiego-food-map"
-git_branch = "master"
+description = "A (future) map of food resources in San Diego"
 git_url = "git://github.com/opensandiego/sandiego-food-map.git"
-last_pushed_within = "year"
 name = "sandiego-food-map"
+organization_name = "Open San Diego"
+topics = [ "civic-tech", "map" ]
+
+[github]
+archived = false
+created_at = "2020-09-10T22:30:28Z"
+default_branch = "master"
+description = "A (future) map of food resources in San Diego"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "opensandiego/sandiego-food-map"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 294_536_527
+language = { }
+name = "sandiego-food-map"
+node_id = "MDEwOlJlcG9zaXRvcnkyOTQ1MzY1Mjc="
+open_issues_within = 10
+private = false
+pushed_within = "month"
+stargazers_within = 0
+topics = [ "civic-tech", "map" ]
+updated_within = "month"
+watchers_within = 0
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 363_945
+  login = "opensandiego"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM2Mzk0NQ=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

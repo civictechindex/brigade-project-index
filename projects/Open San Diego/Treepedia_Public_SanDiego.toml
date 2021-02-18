@@ -1,6 +1,51 @@
 code_url = "https://github.com/opensandiego/Treepedia_Public_SanDiego"
 description = "Treepedia package for public use"
-git_branch = "master"
 git_url = "git://github.com/opensandiego/Treepedia_Public_SanDiego.git"
-last_pushed_within = "year"
 name = "Treepedia_Public_SanDiego"
+organization_name = "Open San Diego"
+
+[github]
+archived = false
+created_at = "2020-08-12T02:59:23Z"
+default_branch = "master"
+description = "Treepedia package for public use"
+disabled = false
+fork = true
+forks_within = 10
+full_name = "opensandiego/Treepedia_Public_SanDiego"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 286_901_929
+language = "Jupyter Notebook"
+name = "Treepedia_Public_SanDiego"
+node_id = "MDEwOlJlcG9zaXRvcnkyODY5MDE5Mjk="
+open_issues_within = 10
+private = false
+pushed_within = "year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "year"
+watchers_within = 0
+
+  [github.license]
+  key = "bsd-2-clause"
+  name = 'BSD 2-Clause "Simplified" License'
+  node_id = "MDc6TGljZW5zZTQ="
+  spdx_id = "BSD-2-Clause"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 363_945
+  login = "opensandiego"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM2Mzk0NQ=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

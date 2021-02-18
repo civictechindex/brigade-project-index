@@ -1,7 +1,47 @@
 code_url = "https://github.com/opensandiego/sandiego-covid-data"
 description = "Tools for tracking / visualizing COVID-19 in San Diego"
-git_branch = "master"
 git_url = "git://github.com/opensandiego/sandiego-covid-data.git"
-last_pushed_within = "year"
 name = "sandiego-covid-data"
+organization_name = "Open San Diego"
 topics = [ "covid-19", "opensandiego" ]
+
+[github]
+archived = false
+created_at = "2020-03-27T04:13:04Z"
+default_branch = "master"
+description = "Tools for tracking / visualizing COVID-19 in San Diego"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "opensandiego/sandiego-covid-data"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 250_437_878
+language = "Python"
+license = { }
+name = "sandiego-covid-data"
+node_id = "MDEwOlJlcG9zaXRvcnkyNTA0Mzc4Nzg="
+open_issues_within = 0
+private = false
+pushed_within = "year"
+stargazers_within = 10
+topics = [ "covid-19", "opensandiego" ]
+updated_within = "year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 363_945
+  login = "opensandiego"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM2Mzk0NQ=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

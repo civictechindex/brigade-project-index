@@ -1,8 +1,53 @@
 code_url = "https://github.com/opensandiego/opensandiego.github.io"
 description = "Open San Diego, Code for America Brigade in San Diego"
-git_branch = "master"
 git_url = "git://github.com/opensandiego/opensandiego.github.io.git"
-last_pushed_within = "year"
 link_url = "https://opensandiego.org/"
 name = "opensandiego.github.io"
+organization_name = "Open San Diego"
 topics = [ "open-san-diego" ]
+
+[github]
+archived = false
+created_at = "2013-01-19T23:41:36Z"
+default_branch = "master"
+description = "Open San Diego, Code for America Brigade in San Diego"
+disabled = false
+fork = false
+forks_within = 100
+full_name = "opensandiego/opensandiego.github.io"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "https://opensandiego.org/"
+id = 7_710_467
+language = "CSS"
+name = "opensandiego.github.io"
+node_id = "MDEwOlJlcG9zaXRvcnk3NzEwNDY3"
+open_issues_within = 100
+private = false
+pushed_within = "month"
+stargazers_within = 10
+topics = [ "open-san-diego" ]
+updated_within = "month"
+watchers_within = 10
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 363_945
+  login = "opensandiego"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM2Mzk0NQ=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
