@@ -1,7 +1,52 @@
 code_url = "https://github.com/OpenEugene/openboard"
 description = "An open source switchboard, written in Elm and Go. "
-git_branch = "main"
 git_url = "git://github.com/OpenEugene/openboard.git"
-last_pushed_within = "month"
 name = "openboard"
+organization_name = "Open Eugene"
 topics = [ "mozsprint", "openeugene" ]
+
+[github]
+archived = false
+created_at = "2019-01-13T01:08:09Z"
+default_branch = "main"
+description = "An open source switchboard, written in Elm and Go. "
+disabled = false
+fork = false
+forks_within = 10
+full_name = "OpenEugene/openboard"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 165_452_670
+language = "Go"
+name = "openboard"
+node_id = "MDEwOlJlcG9zaXRvcnkxNjU0NTI2NzA="
+open_issues_within = 100
+private = false
+pushed_within = "week"
+stargazers_within = 100
+topics = [ "mozsprint", "openeugene" ]
+updated_within = "week"
+watchers_within = 100
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 37_278_948
+  login = "OpenEugene"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM3Mjc4OTQ4"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

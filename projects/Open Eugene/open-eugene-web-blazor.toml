@@ -1,6 +1,51 @@
 code_url = "https://github.com/OpenEugene/open-eugene-web-blazor"
 description = "Open Eugene Web site made with Blazor"
-git_branch = "master"
 git_url = "git://github.com/OpenEugene/open-eugene-web-blazor.git"
-last_pushed_within = "over_a_year"
 name = "open-eugene-web-blazor"
+organization_name = "Open Eugene"
+
+[github]
+archived = false
+created_at = "2019-12-07T19:31:36Z"
+default_branch = "master"
+description = "Open Eugene Web site made with Blazor"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "OpenEugene/open-eugene-web-blazor"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 226_565_730
+language = "HTML"
+name = "open-eugene-web-blazor"
+node_id = "MDEwOlJlcG9zaXRvcnkyMjY1NjU3MzA="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 37_278_948
+  login = "OpenEugene"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM3Mjc4OTQ4"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

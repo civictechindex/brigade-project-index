@@ -1,6 +1,51 @@
 code_url = "https://github.com/OpenEugene/fist-to-five-slack-emoji"
 description = "A template and some emoji for Fist to Five Consensus Building Process on your Slack"
-git_branch = "master"
 git_url = "git://github.com/OpenEugene/fist-to-five-slack-emoji.git"
-last_pushed_within = "year"
 name = "fist-to-five-slack-emoji"
+organization_name = "Open Eugene"
+
+[github]
+archived = false
+created_at = "2019-11-22T20:52:29Z"
+default_branch = "master"
+description = "A template and some emoji for Fist to Five Consensus Building Process on your Slack"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "OpenEugene/fist-to-five-slack-emoji"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 223_484_566
+language = { }
+name = "fist-to-five-slack-emoji"
+node_id = "MDEwOlJlcG9zaXRvcnkyMjM0ODQ1NjY="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 37_278_948
+  login = "OpenEugene"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM3Mjc4OTQ4"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

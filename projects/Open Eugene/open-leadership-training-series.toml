@@ -1,7 +1,52 @@
 code_url = "https://github.com/OpenEugene/open-leadership-training-series"
 description = "Best Practices Working Open"
-git_branch = "gh-pages"
 git_url = "git://github.com/OpenEugene/open-leadership-training-series.git"
-last_pushed_within = "over_a_year"
 link_url = "https://mozilla.github.io/open-leadership-training-series/"
 name = "open-leadership-training-series"
+organization_name = "Open Eugene"
+
+[github]
+archived = false
+created_at = "2019-06-10T20:10:07Z"
+default_branch = "gh-pages"
+description = "Best Practices Working Open"
+disabled = false
+fork = true
+forks_within = 0
+full_name = "OpenEugene/open-leadership-training-series"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = false
+homepage = "https://mozilla.github.io/open-leadership-training-series/"
+id = 191_238_406
+language = "CSS"
+name = "open-leadership-training-series"
+node_id = "MDEwOlJlcG9zaXRvcnkxOTEyMzg0MDY="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 37_278_948
+  login = "OpenEugene"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM3Mjc4OTQ4"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

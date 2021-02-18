@@ -1,6 +1,51 @@
 code_url = "https://github.com/OpenEugene/innovate-eugene-blazor-client"
 description = "blazor site for entering innovation data and showing a map"
-git_branch = "master"
 git_url = "git://github.com/OpenEugene/innovate-eugene-blazor-client.git"
-last_pushed_within = "over_a_year"
 name = "innovate-eugene-blazor-client"
+organization_name = "Open Eugene"
+
+[github]
+archived = false
+created_at = "2019-09-01T03:51:47Z"
+default_branch = "master"
+description = "blazor site for entering innovation data and showing a map"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "OpenEugene/innovate-eugene-blazor-client"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 205_626_183
+language = "HTML"
+name = "innovate-eugene-blazor-client"
+node_id = "MDEwOlJlcG9zaXRvcnkyMDU2MjYxODM="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 37_278_948
+  login = "OpenEugene"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM3Mjc4OTQ4"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

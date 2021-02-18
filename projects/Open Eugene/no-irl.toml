@@ -1,7 +1,52 @@
 code_url = "https://github.com/OpenEugene/no-irl"
 description = "No more IRL meetings, go online or go home!"
-git_branch = "master"
 git_url = "git://github.com/OpenEugene/no-irl.git"
-last_pushed_within = "year"
 name = "no-irl"
+organization_name = "Open Eugene"
 topics = [ "covid-19" ]
+
+[github]
+archived = false
+created_at = "2020-03-13T16:13:34Z"
+default_branch = "master"
+description = "No more IRL meetings, go online or go home!"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "OpenEugene/no-irl"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 247_112_291
+language = { }
+name = "no-irl"
+node_id = "MDEwOlJlcG9zaXRvcnkyNDcxMTIyOTE="
+open_issues_within = 10
+private = false
+pushed_within = "year"
+stargazers_within = 0
+topics = [ "covid-19" ]
+updated_within = "year"
+watchers_within = 0
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 37_278_948
+  login = "OpenEugene"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM3Mjc4OTQ4"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
