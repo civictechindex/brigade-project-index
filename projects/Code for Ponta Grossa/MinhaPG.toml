@@ -1,5 +1,50 @@
 code_url = "https://github.com/codeforpg/MinhaPG"
-git_branch = "master"
 git_url = "git://github.com/codeforpg/MinhaPG.git"
-last_pushed_within = "over_a_year"
 name = "MinhaPG"
+organization_name = "Code for Ponta Grossa"
+
+[github]
+archived = false
+created_at = "2016-02-13T16:41:52Z"
+default_branch = "master"
+description = { }
+disabled = false
+fork = false
+forks_within = 0
+full_name = "codeforpg/MinhaPG"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 51_654_564
+language = "JavaScript"
+name = "MinhaPG"
+node_id = "MDEwOlJlcG9zaXRvcnk1MTY1NDU2NA=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "gpl-3.0"
+  name = "GNU General Public License v3.0"
+  node_id = "MDc6TGljZW5zZTk="
+  spdx_id = "GPL-3.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 16_852_729
+  login = "codeforpg"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE2ODUyNzI5"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
