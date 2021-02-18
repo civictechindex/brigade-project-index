@@ -1,5 +1,144 @@
 code_url = "https://github.com/codeforhamburg/Trinkwasser-Hamburg"
 description = "Trinkwasserqualität App für Hamburg. Fork von Code for Münster & Code for Heilbronn. Daten von Hamburg Wasser. Umgesetzt von Tom Friedel. Unterstütz von Timo Lundelius."
-last_pushed_within = "over_a_year"
 link_url = "http://codeforhamburg.org/Trinkwasser-Hamburg/"
 name = "Wasserqualität Hamburg"
+organization_name = "Code for Hamburg"
+
+[github]
+archived = false
+created_at = "2016-08-08T17:28:27Z"
+default_branch = "master"
+description = "Was steckt in meinem Trinkwasser? Visualisierung: Härtegrad, Bestandteile, Kosten."
+disabled = false
+fork = true
+forks_within = 0
+full_name = "codeforhamburg/trinkwasser"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "http://codeforhamburg.org/trinkwasser"
+id = 65_224_700
+language = "HTML"
+name = "trinkwasser"
+network_count = 31
+node_id = "MDEwOlJlcG9zaXRvcnk2NTIyNDcwMA=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+subscribers_count = 1
+temp_clone_token = ""
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.organization]
+  gravatar_id = ""
+  id = 7_387_840
+  login = "codeforhamburg"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjczODc4NDA="
+  site_admin = false
+  type = "Organization"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 7_387_840
+  login = "codeforhamburg"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjczODc4NDA="
+  site_admin = false
+  type = "Organization"
+
+  [github.parent]
+  archived = false
+  created_at = "2015-05-23T08:21:58Z"
+  default_branch = "gh-pages"
+  description = "Was steckt in meinem Trinkwasser? Visualisierung: Härtegrad, Bestandteile, Kosten."
+  disabled = false
+  fork = true
+  forks_within = 10
+  full_name = "codeformuenster/trinkwasser"
+  has_downloads = true
+  has_issues = true
+  has_pages = true
+  has_projects = true
+  has_wiki = true
+  homepage = "http://codeformuenster.org/trinkwasser/"
+  id = 36_113_894
+  language = "JavaScript"
+  name = "trinkwasser"
+  node_id = "MDEwOlJlcG9zaXRvcnkzNjExMzg5NA=="
+  open_issues_within = 10
+  private = false
+  pushed_within = "over_a_year"
+  stargazers_within = 0
+  topics = [ ]
+  updated_within = "year"
+  watchers_within = 0
+
+    [github.parent.license]
+    key = "mit"
+    name = "MIT License"
+    node_id = "MDc6TGljZW5zZTEz"
+    spdx_id = "MIT"
+
+    [github.parent.owner]
+    gravatar_id = ""
+    id = 6_464_842
+    login = "codeformuenster"
+    node_id = "MDEyOk9yZ2FuaXphdGlvbjY0NjQ4NDI="
+    site_admin = false
+    type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
+
+  [github.source]
+  archived = false
+  created_at = "2014-03-10T14:38:27Z"
+  default_branch = "master"
+  description = { }
+  disabled = false
+  fork = false
+  forks_within = 100
+  full_name = "opendata-heilbronn/trinkwasser"
+  has_downloads = true
+  has_issues = true
+  has_pages = false
+  has_projects = true
+  has_wiki = true
+  homepage = "http://opendatalab.de/projects/trinkwasser/"
+  id = 17_595_898
+  language = "JavaScript"
+  name = "trinkwasser"
+  node_id = "MDEwOlJlcG9zaXRvcnkxNzU5NTg5OA=="
+  open_issues_within = 10
+  private = false
+  pushed_within = "over_a_year"
+  stargazers_within = 100
+  topics = [ ]
+  updated_within = "month"
+  watchers_within = 100
+
+    [github.source.license]
+    key = "mit"
+    name = "MIT License"
+    node_id = "MDc6TGljZW5zZTEz"
+    spdx_id = "MIT"
+
+    [github.source.owner]
+    gravatar_id = ""
+    id = 6_741_385
+    login = "opendata-heilbronn"
+    node_id = "MDEyOk9yZ2FuaXphdGlvbjY3NDEzODU="
+    site_admin = false
+    type = "Organization"

@@ -1,5 +1,57 @@
 code_url = "https://github.com/codeforhamburg/cfhh-wikidata"
-description = "Wir lieben Daten - insbesondere offene Daten. Und auch wenn der Zugang zu den Daten immer besser wird, so bedeutet das noch lange nicht, dass die Daten auch technisch einfach zu erschließen sind... #PDF. Darum geben wir uns viel Mühe - und wenn wir fertig sind landen die Daten in unseren Projekten. Und dann? Damit diese erschlossenen Datenschätze auch anderen Projekten zur Verfügung stehen, bauen wir gerade ein Hamburger Team auf welches sich mit Bots, Importen, Scrapern und Co rund um Wikidata beschäftigt - um am Ende die Daten in die Wikipedia zu bekommen. Unterstützt dabei vom Wikidata-Team in Berlin, insbesondere durch Jens Ohlig (@johl) und natürlich Uwe Rohwedder von Wikipedia Hamburg (@UweRohwedderHH). Dank Euch dafür!  "
-last_pushed_within = "over_a_year"
+description = "Wir lieben Daten - insbesondere offene Daten. Und auch wenn der Zugang zu den Daten immer besser wird, so bedeutet das noch lange nicht, dass die Daten auch technisch einfach zu erschließen sind... #PDF. Darum geben wir uns viel Mühe - und wenn wir fertig sind landen die Daten in unseren Projekten. Und dann? Damit diese erschlossenen Datenschätze auch anderen Projekten zur Verfügung stehen, bauen wir gerade ein Hamburger Team auf welches sich mit Bots, Importen, Scrapern und Co rund um Wikidata beschäftigt - um am Ende die Daten in die Wikipedia zu bekommen. Unterstützt dabei vom Wikidata-Team in Berlin, insbesondere durch Jens Ohlig (@johl) und natürlich Uwe Rohwedder von Wikipedia Hamburg (@UweRohwedderHH). Dank Euch dafür!"
 link_url = "-"
 name = "Wikidata + CfHH = Datalove"
+organization_name = "Code for Hamburg"
+
+[github]
+archived = false
+created_at = "2016-05-08T12:08:43Z"
+default_branch = "master"
+description = "Wikidata + CfHH = Datalove --> Bots, Scraper, Scripts, Docs, Data..."
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codeforhamburg/cfhh-wikidata"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 58_310_323
+language = { }
+license = { }
+name = "cfhh-wikidata"
+network_count = 1
+node_id = "MDEwOlJlcG9zaXRvcnk1ODMxMDMyMw=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+subscribers_count = 2
+temp_clone_token = ""
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.organization]
+  gravatar_id = ""
+  id = 7_387_840
+  login = "codeforhamburg"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjczODc4NDA="
+  site_admin = false
+  type = "Organization"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 7_387_840
+  login = "codeforhamburg"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjczODc4NDA="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

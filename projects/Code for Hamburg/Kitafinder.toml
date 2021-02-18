@@ -1,5 +1,62 @@
 code_url = "https://github.com/codeforhamburg/kitaHamburg"
 description = "KitaFinder um Kindergärten in Hamburg zu finden."
-last_pushed_within = "over_a_year"
 link_url = "hamburg.codefor.de/kitas/"
 name = "Kitafinder"
+organization_name = "Code for Hamburg"
+
+[github]
+archived = false
+created_at = "2014-07-02T23:05:15Z"
+default_branch = "master"
+description = "die passende Kita einfach finden"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codeforhamburg/kitaHamburg"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 21_443_168
+language = "ApacheConf"
+name = "kitaHamburg"
+network_count = 3
+node_id = "MDEwOlJlcG9zaXRvcnkyMTQ0MzE2OA=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+subscribers_count = 18
+temp_clone_token = ""
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "agpl-3.0"
+  name = "GNU Affero General Public License v3.0"
+  node_id = "MDc6TGljZW5zZTE="
+  spdx_id = "AGPL-3.0"
+
+  [github.organization]
+  gravatar_id = ""
+  id = 7_387_840
+  login = "codeforhamburg"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjczODc4NDA="
+  site_admin = false
+  type = "Organization"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 7_387_840
+  login = "codeforhamburg"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjczODc4NDA="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

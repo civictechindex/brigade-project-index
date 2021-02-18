@@ -1,6 +1,62 @@
 code_url = "https://github.com/webuildcity/polis"
 description = "Eine Stadtplanungs- und Bürgerbeteiligungsplattform für alle Städte"
-last_pushed_within = "over_a_year"
 link_url = "wir-bauen-hamburg.de"
 name = "Wir-bauen-Hamburg.de"
+organization_name = "Code for Hamburg"
+
+[github]
+archived = true
+created_at = "2015-11-24T23:26:34Z"
+default_branch = "develop"
+description = "This repository contains the city instance of Polis. Together with the Django-WBC Library it is our development repo for the latest features of the WBC platform."
+disabled = false
+fork = false
+forks_within = 10
+full_name = "webuildcity/polis"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://polis.we-build.city"
+id = 46_825_004
+language = "Python"
+name = "polis"
+network_count = 1
+node_id = "MDEwOlJlcG9zaXRvcnk0NjgyNTAwNA=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+subscribers_count = 5
+temp_clone_token = ""
 topics = [ "2gitlab" ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "gpl-3.0"
+  name = "GNU General Public License v3.0"
+  node_id = "MDc6TGljZW5zZTk="
+  spdx_id = "GPL-3.0"
+
+  [github.organization]
+  gravatar_id = ""
+  id = 11_312_492
+  login = "webuildcity"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjExMzEyNDky"
+  site_admin = false
+  type = "Organization"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 11_312_492
+  login = "webuildcity"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjExMzEyNDky"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
