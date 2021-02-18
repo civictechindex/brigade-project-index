@@ -1,6 +1,46 @@
 code_url = "https://github.com/CodeForCuritiba/politikei_api_eleicoes"
 description = "Git repository to politikei api to 2016 elections"
-git_branch = "master"
 git_url = "git://github.com/CodeForCuritiba/politikei_api_eleicoes.git"
-last_pushed_within = "over_a_year"
 name = "politikei_api_eleicoes"
+organization_name = "Code for Curitiba"
+
+[github]
+archived = false
+created_at = "2016-08-13T18:19:00Z"
+default_branch = "master"
+description = "Git repository to politikei api to 2016 elections"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "CodeForCuritiba/politikei_api_eleicoes"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 65_630_850
+language = { }
+license = { }
+name = "politikei_api_eleicoes"
+node_id = "MDEwOlJlcG9zaXRvcnk2NTYzMDg1MA=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 11_762_338
+  login = "CodeForCuritiba"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjExNzYyMzM4"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

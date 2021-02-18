@@ -1,6 +1,51 @@
 code_url = "https://github.com/CodeForCuritiba/todeolho"
 description = "Projeto onde desenvolvemos um aplicativo para que o cidadão ajude na fiscalização dos gastos públicos em obras"
-git_branch = "master"
 git_url = "git://github.com/CodeForCuritiba/todeolho.git"
-last_pushed_within = "over_a_year"
 name = "todeolho"
+organization_name = "Code for Curitiba"
+
+[github]
+archived = false
+created_at = "2016-04-09T14:08:51Z"
+default_branch = "master"
+description = "Projeto onde desenvolvemos um aplicativo para que o cidadão ajude na fiscalização dos gastos públicos em obras"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "CodeForCuritiba/todeolho"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 55_847_663
+language = "Java"
+name = "todeolho"
+node_id = "MDEwOlJlcG9zaXRvcnk1NTg0NzY2Mw=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "gpl-2.0"
+  name = "GNU General Public License v2.0"
+  node_id = "MDc6TGljZW5zZTg="
+  spdx_id = "GPL-2.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 11_762_338
+  login = "CodeForCuritiba"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjExNzYyMzM4"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

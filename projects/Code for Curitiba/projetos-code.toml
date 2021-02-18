@@ -1,6 +1,46 @@
 code_url = "https://github.com/CodeForCuritiba/projetos-code"
 description = "Plugin de gestão de projetos do Code for Curitiba para Wordpress"
-git_branch = "master"
 git_url = "git://github.com/CodeForCuritiba/projetos-code.git"
-last_pushed_within = "over_a_year"
 name = "projetos-code"
+organization_name = "Code for Curitiba"
+
+[github]
+archived = false
+created_at = "2017-02-21T20:12:05Z"
+default_branch = "master"
+description = "Plugin de gestão de projetos do Code for Curitiba para Wordpress"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "CodeForCuritiba/projetos-code"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 82_722_487
+language = "PHP"
+license = { }
+name = "projetos-code"
+node_id = "MDEwOlJlcG9zaXRvcnk4MjcyMjQ4Nw=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 11_762_338
+  login = "CodeForCuritiba"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjExNzYyMzM4"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

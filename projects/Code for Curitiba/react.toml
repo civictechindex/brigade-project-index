@@ -1,34 +1,35 @@
-code_url = "https://github.com/CodeForCuritiba/slack-invite-automation"
-description = "A tiny web application to invite a user into your slack team."
-git_url = "git://github.com/CodeForCuritiba/slack-invite-automation.git"
-name = "slack-invite-automation"
+code_url = "https://github.com/CodeForCuritiba/react"
+description = "A declarative, efficient, and flexible JavaScript library for building user interfaces."
+git_url = "git://github.com/CodeForCuritiba/react.git"
+link_url = "https://reactjs.org"
+name = "react"
 organization_name = "Code for Curitiba"
 
 [github]
 archived = false
-created_at = "2017-02-18T14:37:30Z"
+created_at = "2021-01-17T20:53:15Z"
 default_branch = "master"
-description = "A tiny web application to invite a user into your slack team."
+description = "A declarative, efficient, and flexible JavaScript library for building user interfaces."
 disabled = false
 fork = true
 forks_within = 0
-full_name = "CodeForCuritiba/slack-invite-automation"
+full_name = "CodeForCuritiba/react"
 has_downloads = true
 has_issues = false
 has_pages = false
 has_projects = true
 has_wiki = true
-homepage = ""
-id = 82_392_697
-language = "JavaScript"
-name = "slack-invite-automation"
-node_id = "MDEwOlJlcG9zaXRvcnk4MjM5MjY5Nw=="
+homepage = "https://reactjs.org"
+id = 330_484_473
+language = { }
+name = "react"
+node_id = "MDEwOlJlcG9zaXRvcnkzMzA0ODQ0NzM="
 open_issues_within = 0
 private = false
-pushed_within = "over_a_year"
+pushed_within = "year"
 stargazers_within = 0
 topics = [ ]
-updated_within = "over_a_year"
+updated_within = "year"
 watchers_within = 0
 
   [github.license]

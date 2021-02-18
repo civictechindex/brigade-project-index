@@ -1,6 +1,51 @@
 code_url = "https://github.com/CodeForCuritiba/c4c-gestao-br-crawler"
 description = "Um Microserviço para Web Crawler de busca de pdfs nos sites de licitações "
-git_branch = "master"
 git_url = "git://github.com/CodeForCuritiba/c4c-gestao-br-crawler.git"
-last_pushed_within = "over_a_year"
 name = "c4c-gestao-br-crawler"
+organization_name = "Code for Curitiba"
+
+[github]
+archived = false
+created_at = "2017-03-15T12:49:00Z"
+default_branch = "master"
+description = "Um Microserviço para Web Crawler de busca de pdfs nos sites de licitações "
+disabled = false
+fork = false
+forks_within = 0
+full_name = "CodeForCuritiba/c4c-gestao-br-crawler"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 85_071_633
+language = "Scala"
+name = "c4c-gestao-br-crawler"
+node_id = "MDEwOlJlcG9zaXRvcnk4NTA3MTYzMw=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "apache-2.0"
+  name = "Apache License 2.0"
+  node_id = "MDc6TGljZW5zZTI="
+  spdx_id = "Apache-2.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 11_762_338
+  login = "CodeForCuritiba"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjExNzYyMzM4"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

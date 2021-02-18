@@ -1,6 +1,46 @@
 code_url = "https://github.com/CodeForCuritiba/mais_bici"
 description = "Projeto mais bici executado pelos hackers cívicos de CodeForCuritiba"
-git_branch = "master"
 git_url = "git://github.com/CodeForCuritiba/mais_bici.git"
-last_pushed_within = "over_a_year"
 name = "mais_bici"
+organization_name = "Code for Curitiba"
+
+[github]
+archived = false
+created_at = "2016-06-28T18:56:34Z"
+default_branch = "master"
+description = "Projeto mais bici executado pelos hackers cívicos de CodeForCuritiba"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "CodeForCuritiba/mais_bici"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 62_166_460
+language = "JavaScript"
+license = { }
+name = "mais_bici"
+node_id = "MDEwOlJlcG9zaXRvcnk2MjE2NjQ2MA=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 11_762_338
+  login = "CodeForCuritiba"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjExNzYyMzM4"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

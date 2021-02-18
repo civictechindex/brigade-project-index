@@ -1,6 +1,46 @@
 code_url = "https://github.com/CodeForCuritiba/onibus-io-backend"
 description = "Projeto do Code for Curitiba - Onibus IO Backend"
-git_branch = "master"
 git_url = "git://github.com/CodeForCuritiba/onibus-io-backend.git"
-last_pushed_within = "year"
 name = "onibus-io-backend"
+organization_name = "Code for Curitiba"
+
+[github]
+archived = false
+created_at = "2019-11-14T18:55:40Z"
+default_branch = "master"
+description = "Projeto do Code for Curitiba - Onibus IO Backend"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "CodeForCuritiba/onibus-io-backend"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 221_766_236
+language = "Go"
+license = { }
+name = "onibus-io-backend"
+node_id = "MDEwOlJlcG9zaXRvcnkyMjE3NjYyMzY="
+open_issues_within = 10
+private = false
+pushed_within = "year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 11_762_338
+  login = "CodeForCuritiba"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjExNzYyMzM4"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

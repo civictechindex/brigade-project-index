@@ -1,8 +1,53 @@
 code_url = "https://github.com/CodeForCuritiba/cmc-transparencia-spider"
 description = "Python spider for Câmara Municipal de Curitiba"
-git_branch = "master"
 git_url = "git://github.com/CodeForCuritiba/cmc-transparencia-spider.git"
-last_pushed_within = "over_a_year"
 link_url = "https://cmc-transparencia.herokuapp.com/"
 name = "cmc-transparencia-spider"
+organization_name = "Code for Curitiba"
 topics = [ "government-data", "scraper", "transparency" ]
+
+[github]
+archived = false
+created_at = "2017-06-28T17:31:24Z"
+default_branch = "master"
+description = "Python spider for Câmara Municipal de Curitiba"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "CodeForCuritiba/cmc-transparencia-spider"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "https://cmc-transparencia.herokuapp.com/"
+id = 95_694_775
+language = "Python"
+name = "cmc-transparencia-spider"
+node_id = "MDEwOlJlcG9zaXRvcnk5NTY5NDc3NQ=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ "government-data", "scraper", "transparency" ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 11_762_338
+  login = "CodeForCuritiba"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjExNzYyMzM4"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

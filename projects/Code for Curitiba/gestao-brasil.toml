@@ -1,6 +1,46 @@
 code_url = "https://github.com/CodeForCuritiba/gestao-brasil"
 description = "Gestão Brasil"
-git_branch = "master"
 git_url = "git://github.com/CodeForCuritiba/gestao-brasil.git"
-last_pushed_within = "over_a_year"
 name = "gestao-brasil"
+organization_name = "Code for Curitiba"
+
+[github]
+archived = false
+created_at = "2017-02-18T12:36:36Z"
+default_branch = "master"
+description = "Gestão Brasil"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "CodeForCuritiba/gestao-brasil"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 82_385_684
+language = { }
+license = { }
+name = "gestao-brasil"
+node_id = "MDEwOlJlcG9zaXRvcnk4MjM4NTY4NA=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 11_762_338
+  login = "CodeForCuritiba"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjExNzYyMzM4"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

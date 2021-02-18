@@ -1,6 +1,51 @@
 code_url = "https://github.com/CodeForCuritiba/ds-curitiba-dados-abertos"
 description = "Base de dados do portal da transparência do site https://www.curitiba.pr.gov.br/dadosabertos/busca/"
-git_branch = "master"
 git_url = "git://github.com/CodeForCuritiba/ds-curitiba-dados-abertos.git"
-last_pushed_within = "year"
 name = "ds-curitiba-dados-abertos"
+organization_name = "Code for Curitiba"
+
+[github]
+archived = false
+created_at = "2019-09-17T02:45:35Z"
+default_branch = "master"
+description = "Base de dados do portal da transparência do site https://www.curitiba.pr.gov.br/dadosabertos/busca/"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "CodeForCuritiba/ds-curitiba-dados-abertos"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 208_944_143
+language = "Jupyter Notebook"
+name = "ds-curitiba-dados-abertos"
+node_id = "MDEwOlJlcG9zaXRvcnkyMDg5NDQxNDM="
+open_issues_within = 0
+private = false
+pushed_within = "year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "year"
+watchers_within = 10
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 11_762_338
+  login = "CodeForCuritiba"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjExNzYyMzM4"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

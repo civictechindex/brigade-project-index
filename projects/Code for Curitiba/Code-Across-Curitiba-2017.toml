@@ -1,6 +1,46 @@
 code_url = "https://github.com/CodeForCuritiba/Code-Across-Curitiba-2017"
 description = "Dados da cidade de Curitiba/Paraná/Brasil utilizados no Code Across 2017"
-git_branch = "master"
 git_url = "git://github.com/CodeForCuritiba/Code-Across-Curitiba-2017.git"
-last_pushed_within = "over_a_year"
 name = "Code-Across-Curitiba-2017"
+organization_name = "Code for Curitiba"
+
+[github]
+archived = false
+created_at = "2017-03-04T20:16:24Z"
+default_branch = "master"
+description = "Dados da cidade de Curitiba/Paraná/Brasil utilizados no Code Across 2017"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "CodeForCuritiba/Code-Across-Curitiba-2017"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 83_921_814
+language = { }
+license = { }
+name = "Code-Across-Curitiba-2017"
+node_id = "MDEwOlJlcG9zaXRvcnk4MzkyMTgxNA=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 11_762_338
+  login = "CodeForCuritiba"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjExNzYyMzM4"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

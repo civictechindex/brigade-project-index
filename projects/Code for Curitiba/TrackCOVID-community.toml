@@ -1,7 +1,52 @@
 code_url = "https://github.com/CodeForCuritiba/TrackCOVID-community"
 description = "A codebase for setting up TrackCOVID in your own community"
-git_branch = "master"
 git_url = "git://github.com/CodeForCuritiba/TrackCOVID-community.git"
-last_pushed_within = "year"
 link_url = "https://demo.trackcovid.net/"
 name = "TrackCOVID-community"
+organization_name = "Code for Curitiba"
+
+[github]
+archived = false
+created_at = "2020-07-08T22:48:19Z"
+default_branch = "master"
+description = "A codebase for setting up TrackCOVID in your own community"
+disabled = false
+fork = true
+forks_within = 10
+full_name = "CodeForCuritiba/TrackCOVID-community"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "https://demo.trackcovid.net/"
+id = 278_209_844
+language = { }
+name = "TrackCOVID-community"
+node_id = "MDEwOlJlcG9zaXRvcnkyNzgyMDk4NDQ="
+open_issues_within = 0
+private = false
+pushed_within = "year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "year"
+watchers_within = 10
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 11_762_338
+  login = "CodeForCuritiba"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjExNzYyMzM4"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

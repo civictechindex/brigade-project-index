@@ -1,6 +1,46 @@
 code_url = "https://github.com/CodeForCuritiba/Help.city"
 description = "Projeto onde o objetiva é incentiva a pratica cidadã,que por meio da comunidade ,viabiliza soluções para sua região, com a ajuda dos moradores para solucionar o mesmo."
-git_branch = "master"
 git_url = "git://github.com/CodeForCuritiba/Help.city.git"
-last_pushed_within = "over_a_year"
 name = "Help.city"
+organization_name = "Code for Curitiba"
+
+[github]
+archived = false
+created_at = "2016-12-07T18:53:58Z"
+default_branch = "master"
+description = "Projeto onde o objetiva é incentiva a pratica cidadã,que por meio da comunidade ,viabiliza soluções para sua região, com a ajuda dos moradores para solucionar o mesmo."
+disabled = false
+fork = false
+forks_within = 0
+full_name = "CodeForCuritiba/Help.city"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 75_865_842
+language = { }
+license = { }
+name = "Help.city"
+node_id = "MDEwOlJlcG9zaXRvcnk3NTg2NTg0Mg=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 11_762_338
+  login = "CodeForCuritiba"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjExNzYyMzM4"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

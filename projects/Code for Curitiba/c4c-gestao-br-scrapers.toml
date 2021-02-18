@@ -1,9 +1,8 @@
 code_url = "https://github.com/CodeForCuritiba/c4c-gestao-br-scrapers"
 description = "Scripts de scraping dos dados que serão usados no Gestão BR"
-git_branch = "develop"
 git_url = "git://github.com/CodeForCuritiba/c4c-gestao-br-scrapers.git"
-last_pushed_within = "over_a_year"
 name = "c4c-gestao-br-scrapers"
+organization_name = "Code for Curitiba"
 topics = [
   "crawler",
   "curitiba",
@@ -12,3 +11,56 @@ topics = [
   "python",
   "webscraping"
 ]
+
+[github]
+archived = false
+created_at = "2017-03-31T19:28:06Z"
+default_branch = "develop"
+description = "Scripts de scraping dos dados que serão usados no Gestão BR"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "CodeForCuritiba/c4c-gestao-br-scrapers"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 86_853_484
+language = "Python"
+name = "c4c-gestao-br-scrapers"
+node_id = "MDEwOlJlcG9zaXRvcnk4Njg1MzQ4NA=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [
+  "crawler",
+  "curitiba",
+  "opendata",
+  "parser",
+  "python",
+  "webscraping"
+]
+updated_within = "year"
+watchers_within = 10
+
+  [github.license]
+  key = "gpl-3.0"
+  name = "GNU General Public License v3.0"
+  node_id = "MDc6TGljZW5zZTk="
+  spdx_id = "GPL-3.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 11_762_338
+  login = "CodeForCuritiba"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjExNzYyMzM4"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

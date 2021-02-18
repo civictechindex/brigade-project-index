@@ -1,7 +1,52 @@
 code_url = "https://github.com/CodeForCuritiba/mkartao"
 description = "Nova versão do site kartao.com.br com Meteor feita para o Code For Curitiba do Open Brazil."
-git_branch = "master"
 git_url = "git://github.com/CodeForCuritiba/mkartao.git"
-last_pushed_within = "over_a_year"
 name = "mkartao"
+organization_name = "Code for Curitiba"
 topics = [ "brazil", "curitiba", "meteor" ]
+
+[github]
+archived = false
+created_at = "2019-03-09T23:54:25Z"
+default_branch = "master"
+description = "Nova versão do site kartao.com.br com Meteor feita para o Code For Curitiba do Open Brazil."
+disabled = false
+fork = false
+forks_within = 0
+full_name = "CodeForCuritiba/mkartao"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 174_758_911
+language = "JavaScript"
+name = "mkartao"
+node_id = "MDEwOlJlcG9zaXRvcnkxNzQ3NTg5MTE="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ "brazil", "curitiba", "meteor" ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "cc0-1.0"
+  name = "Creative Commons Zero v1.0 Universal"
+  node_id = "MDc6TGljZW5zZTY="
+  spdx_id = "CC0-1.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 11_762_338
+  login = "CodeForCuritiba"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjExNzYyMzM4"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

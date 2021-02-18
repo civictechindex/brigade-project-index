@@ -1,7 +1,52 @@
 code_url = "https://github.com/CodeForCuritiba/adote-um-bueiro"
 description = "Adote um bueiro"
-git_branch = "master"
 git_url = "git://github.com/CodeForCuritiba/adote-um-bueiro.git"
-last_pushed_within = "over_a_year"
 link_url = "http://adote-um-bueiro.herokuapps.com"
 name = "adote-um-bueiro"
+organization_name = "Code for Curitiba"
+
+[github]
+archived = false
+created_at = "2016-10-19T04:01:04Z"
+default_branch = "master"
+description = "Adote um bueiro"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "CodeForCuritiba/adote-um-bueiro"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://adote-um-bueiro.herokuapps.com"
+id = 71_317_384
+language = "CSS"
+name = "adote-um-bueiro"
+node_id = "MDEwOlJlcG9zaXRvcnk3MTMxNzM4NA=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 11_762_338
+  login = "CodeForCuritiba"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjExNzYyMzM4"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

@@ -1,5 +1,50 @@
 code_url = "https://github.com/CodeForCuritiba/coronga-tracker"
-git_branch = "master"
 git_url = "git://github.com/CodeForCuritiba/coronga-tracker.git"
-last_pushed_within = "year"
 name = "coronga-tracker"
+organization_name = "Code for Curitiba"
+
+[github]
+archived = false
+created_at = "2020-07-02T00:10:53Z"
+default_branch = "master"
+description = { }
+disabled = false
+fork = false
+forks_within = 10
+full_name = "CodeForCuritiba/coronga-tracker"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 276_508_389
+language = "JavaScript"
+name = "coronga-tracker"
+node_id = "MDEwOlJlcG9zaXRvcnkyNzY1MDgzODk="
+open_issues_within = 10
+private = false
+pushed_within = "year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "year"
+watchers_within = 10
+
+  [github.license]
+  key = "gpl-3.0"
+  name = "GNU General Public License v3.0"
+  node_id = "MDc6TGljZW5zZTk="
+  spdx_id = "GPL-3.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 11_762_338
+  login = "CodeForCuritiba"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjExNzYyMzM4"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

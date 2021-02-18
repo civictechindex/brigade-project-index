@@ -1,6 +1,46 @@
 code_url = "https://github.com/CodeForCuritiba/Kartao"
 description = "Mapa e serviços para usuários do cartão de transporte de Curitiba"
-git_branch = "master"
 git_url = "git://github.com/CodeForCuritiba/Kartao.git"
-last_pushed_within = "over_a_year"
 name = "Kartao"
+organization_name = "Code for Curitiba"
+
+[github]
+archived = false
+created_at = "2015-08-19T18:12:23Z"
+default_branch = "master"
+description = "Mapa e serviços para usuários do cartão de transporte de Curitiba"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "CodeForCuritiba/Kartao"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 41_051_589
+language = "CSS"
+license = { }
+name = "Kartao"
+node_id = "MDEwOlJlcG9zaXRvcnk0MTA1MTU4OQ=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 11_762_338
+  login = "CodeForCuritiba"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjExNzYyMzM4"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

@@ -1,6 +1,46 @@
 code_url = "https://github.com/CodeForCuritiba/onibus-io-frontend"
 description = "Projeto do Onibus IO - Frontend"
-git_branch = "master"
 git_url = "git://github.com/CodeForCuritiba/onibus-io-frontend.git"
-last_pushed_within = "year"
 name = "onibus-io-frontend"
+organization_name = "Code for Curitiba"
+
+[github]
+archived = false
+created_at = "2019-11-14T18:56:28Z"
+default_branch = "master"
+description = "Projeto do Onibus IO - Frontend"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "CodeForCuritiba/onibus-io-frontend"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 221_766_368
+language = "Vue"
+license = { }
+name = "onibus-io-frontend"
+node_id = "MDEwOlJlcG9zaXRvcnkyMjE3NjYzNjg="
+open_issues_within = 100
+private = false
+pushed_within = "year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 11_762_338
+  login = "CodeForCuritiba"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjExNzYyMzM4"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
