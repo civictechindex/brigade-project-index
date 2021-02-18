@@ -1,6 +1,51 @@
 code_url = "https://github.com/18F/fedramp-data"
 description = "A repository for the data underlying the FedRamp Dashboard"
-git_branch = "master"
 git_url = "git://github.com/18F/fedramp-data.git"
-last_pushed_within = "week"
 name = "fedramp-data"
+organization_name = "18F"
+
+[github]
+archived = false
+created_at = "2016-02-03T22:59:13Z"
+default_branch = "master"
+description = "A repository for the data underlying the FedRamp Dashboard"
+disabled = false
+fork = false
+forks_within = 100
+full_name = "18F/fedramp-data"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 51_036_998
+language = "JavaScript"
+name = "fedramp-data"
+node_id = "MDEwOlJlcG9zaXRvcnk1MTAzNjk5OA=="
+open_issues_within = 10
+private = false
+pushed_within = "week"
+stargazers_within = 100
+topics = [ ]
+updated_within = "week"
+watchers_within = 100
+
+  [github.license]
+  key = "other"
+  name = "Other"
+  node_id = "MDc6TGljZW5zZTA="
+  spdx_id = "NOASSERTION"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_233_994
+  login = "18F"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjYyMzM5OTQ="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

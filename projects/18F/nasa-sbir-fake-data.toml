@@ -1,0 +1,46 @@
+code_url = "https://github.com/18F/nasa-sbir-fake-data"
+description = "Generate fake data for NASA SBIR tools"
+git_url = "git://github.com/18F/nasa-sbir-fake-data.git"
+name = "nasa-sbir-fake-data"
+organization_name = "18F"
+
+[github]
+archived = false
+created_at = "2021-02-12T22:33:21Z"
+default_branch = "main"
+description = "Generate fake data for NASA SBIR tools"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "18F/nasa-sbir-fake-data"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 338_448_845
+language = "JavaScript"
+license = { }
+name = "nasa-sbir-fake-data"
+node_id = "MDEwOlJlcG9zaXRvcnkzMzg0NDg4NDU="
+open_issues_within = 0
+private = false
+pushed_within = "week"
+stargazers_within = 0
+topics = [ ]
+updated_within = "week"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_233_994
+  login = "18F"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjYyMzM5OTQ="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

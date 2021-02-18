@@ -1,7 +1,52 @@
 code_url = "https://github.com/18F/snap-js-prescreener-prototypes"
 description = "Serverless static sites for SNAP benefit calculators"
-git_branch = "main"
 git_url = "git://github.com/18F/snap-js-prescreener-prototypes.git"
-last_pushed_within = "month"
 link_url = "https://federalist-1c734efa-8e7a-40ed-9b1e-432001a347e9.app.cloud.gov/site/18f/snap-js-prescreener-prototypes/prescreeners/va.html"
 name = "snap-js-prescreener-prototypes"
+organization_name = "18F"
+
+[github]
+archived = false
+created_at = "2020-06-11T16:59:01Z"
+default_branch = "main"
+description = "Serverless static sites for SNAP benefit calculators"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "18F/snap-js-prescreener-prototypes"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "https://federalist-1c734efa-8e7a-40ed-9b1e-432001a347e9.app.cloud.gov/site/18f/snap-js-prescreener-prototypes/prescreeners/va.html"
+id = 271_601_261
+language = "CSS"
+name = "snap-js-prescreener-prototypes"
+node_id = "MDEwOlJlcG9zaXRvcnkyNzE2MDEyNjE="
+open_issues_within = 10
+private = false
+pushed_within = "year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "year"
+watchers_within = 10
+
+  [github.license]
+  key = "other"
+  name = "Other"
+  node_id = "MDc6TGljZW5zZTA="
+  spdx_id = "NOASSERTION"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_233_994
+  login = "18F"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjYyMzM5OTQ="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

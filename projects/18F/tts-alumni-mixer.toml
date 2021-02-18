@@ -1,6 +1,46 @@
 code_url = "https://github.com/18F/tts-alumni-mixer"
 description = "repo for the TTS alumni mixer"
-git_branch = "master"
 git_url = "git://github.com/18F/tts-alumni-mixer.git"
-last_pushed_within = "year"
 name = "tts-alumni-mixer"
+organization_name = "18F"
+
+[github]
+archived = false
+created_at = "2020-06-09T17:58:15Z"
+default_branch = "master"
+description = "repo for the TTS alumni mixer"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "18F/tts-alumni-mixer"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 271_073_637
+language = { }
+license = { }
+name = "tts-alumni-mixer"
+node_id = "MDEwOlJlcG9zaXRvcnkyNzEwNzM2Mzc="
+open_issues_within = 0
+private = false
+pushed_within = "year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_233_994
+  login = "18F"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjYyMzM5OTQ="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

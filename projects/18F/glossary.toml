@@ -1,6 +1,51 @@
 code_url = "https://github.com/18F/glossary"
 description = "A glossary panel for your site to help readers understand jargon"
-git_branch = "master"
 git_url = "git://github.com/18F/glossary.git"
-last_pushed_within = "week"
 name = "glossary"
+organization_name = "18F"
+
+[github]
+archived = false
+created_at = "2015-10-20T21:20:06Z"
+default_branch = "master"
+description = "A glossary panel for your site to help readers understand jargon"
+disabled = false
+fork = false
+forks_within = 100
+full_name = "18F/glossary"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = false
+homepage = ""
+id = 44_635_595
+language = "JavaScript"
+name = "glossary"
+node_id = "MDEwOlJlcG9zaXRvcnk0NDYzNTU5NQ=="
+open_issues_within = 100
+private = false
+pushed_within = "year"
+stargazers_within = 100
+topics = [ ]
+updated_within = "year"
+watchers_within = 100
+
+  [github.license]
+  key = "other"
+  name = "Other"
+  node_id = "MDc6TGljZW5zZTA="
+  spdx_id = "NOASSERTION"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_233_994
+  login = "18F"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjYyMzM5OTQ="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

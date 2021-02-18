@@ -1,8 +1,53 @@
 code_url = "https://github.com/18F/federalist"
 description = "Federalist is a publishing platform for modern 21st Century IDEA websites."
-git_branch = "staging"
 git_url = "git://github.com/18F/federalist.git"
-last_pushed_within = "week"
 link_url = "https://federalist.18f.gov/"
 name = "federalist"
+organization_name = "18F"
 topics = [ "federalist" ]
+
+[github]
+archived = false
+created_at = "2015-05-28T20:09:37Z"
+default_branch = "staging"
+description = "Federalist is a publishing platform for modern 21st Century IDEA websites."
+disabled = false
+fork = false
+forks_within = 100
+full_name = "18F/federalist"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = false
+has_wiki = false
+homepage = "https://federalist.18f.gov/"
+id = 36_463_352
+language = "JavaScript"
+name = "federalist"
+node_id = "MDEwOlJlcG9zaXRvcnkzNjQ2MzM1Mg=="
+open_issues_within = 1_000
+private = false
+pushed_within = "week"
+stargazers_within = 1_000
+topics = [ "federalist" ]
+updated_within = "week"
+watchers_within = 1_000
+
+  [github.license]
+  key = "other"
+  name = "Other"
+  node_id = "MDc6TGljZW5zZTA="
+  spdx_id = "NOASSERTION"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_233_994
+  login = "18F"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjYyMzM5OTQ="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

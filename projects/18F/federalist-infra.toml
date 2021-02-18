@@ -1,6 +1,51 @@
 code_url = "https://github.com/18F/federalist-infra"
 description = "Infrastructure for Federalist"
-git_branch = "main"
 git_url = "git://github.com/18F/federalist-infra.git"
-last_pushed_within = "week"
 name = "federalist-infra"
+organization_name = "18F"
+
+[github]
+archived = false
+created_at = "2020-05-12T20:07:43Z"
+default_branch = "main"
+description = "Infrastructure for Federalist"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "18F/federalist-infra"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = false
+has_wiki = false
+homepage = { }
+id = 263_440_832
+language = "HCL"
+name = "federalist-infra"
+node_id = "MDEwOlJlcG9zaXRvcnkyNjM0NDA4MzI="
+open_issues_within = 10
+private = false
+pushed_within = "year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "year"
+watchers_within = 0
+
+  [github.license]
+  key = "other"
+  name = "Other"
+  node_id = "MDc6TGljZW5zZTA="
+  spdx_id = "NOASSERTION"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_233_994
+  login = "18F"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjYyMzM5OTQ="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

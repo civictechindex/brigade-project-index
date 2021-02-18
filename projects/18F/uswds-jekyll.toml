@@ -1,8 +1,53 @@
 code_url = "https://github.com/18F/uswds-jekyll"
 description = "A Jekyll theme showcasing the U.S. Web Design System (co-owned by 18F and the USWDS team)"
-git_branch = "master"
 git_url = "git://github.com/18F/uswds-jekyll.git"
-last_pushed_within = "year"
 link_url = "https://federalist-proxy.app.cloud.gov/site/18f/uswds-jekyll/"
 name = "uswds-jekyll"
+organization_name = "18F"
 topics = [ "government", "jekyll-theme", "uswds" ]
+
+[github]
+archived = false
+created_at = "2017-02-23T23:41:47Z"
+default_branch = "master"
+description = "A Jekyll theme showcasing the U.S. Web Design System (co-owned by 18F and the USWDS team)"
+disabled = false
+fork = false
+forks_within = 100
+full_name = "18F/uswds-jekyll"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "https://federalist-proxy.app.cloud.gov/site/18f/uswds-jekyll/"
+id = 82_982_183
+language = "JavaScript"
+name = "uswds-jekyll"
+node_id = "MDEwOlJlcG9zaXRvcnk4Mjk4MjE4Mw=="
+open_issues_within = 100
+private = false
+pushed_within = "month"
+stargazers_within = 100
+topics = [ "government", "jekyll-theme", "uswds" ]
+updated_within = "week"
+watchers_within = 100
+
+  [github.license]
+  key = "other"
+  name = "Other"
+  node_id = "MDc6TGljZW5zZTA="
+  spdx_id = "NOASSERTION"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_233_994
+  login = "18F"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjYyMzM5OTQ="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

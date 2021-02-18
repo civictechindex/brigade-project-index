@@ -1,7 +1,52 @@
 code_url = "https://github.com/18F/api.data.gov"
 description = "A hosted, shared-service that provides an API key, analytics, and proxy solution for government web services."
-git_branch = "master"
 git_url = "git://github.com/18F/api.data.gov.git"
-last_pushed_within = "month"
 link_url = "https://api.data.gov"
 name = "api.data.gov"
+organization_name = "18F"
+
+[github]
+archived = false
+created_at = "2013-07-17T05:21:11Z"
+default_branch = "master"
+description = "A hosted, shared-service that provides an API key, analytics, and proxy solution for government web services."
+disabled = false
+fork = false
+forks_within = 100
+full_name = "18F/api.data.gov"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "https://api.data.gov"
+id = 11_467_840
+language = "HTML"
+name = "api.data.gov"
+node_id = "MDEwOlJlcG9zaXRvcnkxMTQ2Nzg0MA=="
+open_issues_within = 100
+private = false
+pushed_within = "year"
+stargazers_within = 100
+topics = [ ]
+updated_within = "year"
+watchers_within = 100
+
+  [github.license]
+  key = "other"
+  name = "Other"
+  node_id = "MDc6TGljZW5zZTA="
+  spdx_id = "NOASSERTION"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_233_994
+  login = "18F"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjYyMzM5OTQ="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

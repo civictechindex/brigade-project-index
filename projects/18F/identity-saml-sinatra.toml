@@ -1,7 +1,52 @@
 code_url = "https://github.com/18F/identity-saml-sinatra"
 description = "Mock relying party (user app) to send requests to ID server"
-git_branch = "master"
 git_url = "git://github.com/18F/identity-saml-sinatra.git"
-last_pushed_within = "month"
 name = "identity-saml-sinatra"
+organization_name = "18F"
 topics = [ "login-gov" ]
+
+[github]
+archived = false
+created_at = "2016-04-22T19:20:55Z"
+default_branch = "main"
+description = "Mock relying party (user app) to send requests to ID server"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "18F/identity-saml-sinatra"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = false
+has_wiki = false
+homepage = { }
+id = 56_879_790
+language = "CSS"
+name = "identity-saml-sinatra"
+node_id = "MDEwOlJlcG9zaXRvcnk1Njg3OTc5MA=="
+open_issues_within = 0
+private = false
+pushed_within = "month"
+stargazers_within = 10
+topics = [ "login-gov" ]
+updated_within = "year"
+watchers_within = 10
+
+  [github.license]
+  key = "cc0-1.0"
+  name = "Creative Commons Zero v1.0 Universal"
+  node_id = "MDc6TGljZW5zZTY="
+  spdx_id = "CC0-1.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_233_994
+  login = "18F"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjYyMzM5OTQ="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

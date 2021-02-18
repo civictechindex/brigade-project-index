@@ -1,8 +1,53 @@
 code_url = "https://github.com/18F/accessibility"
 description = "A repo to organize the guidelines and best practices for accessibility at 18f."
-git_branch = "18f-pages"
 git_url = "git://github.com/18F/accessibility.git"
-last_pushed_within = "month"
 link_url = "https://accessibility.18f.gov/"
 name = "accessibility"
+organization_name = "18F"
 topics = [ "a11y", "accessibility", "best-practices" ]
+
+[github]
+archived = false
+created_at = "2015-01-29T15:51:15Z"
+default_branch = "18f-pages"
+description = "A repo to organize the guidelines and best practices for accessibility at 18f."
+disabled = false
+fork = false
+forks_within = 100
+full_name = "18F/accessibility"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "https://accessibility.18f.gov/"
+id = 30_027_650
+language = "HTML"
+name = "accessibility"
+node_id = "MDEwOlJlcG9zaXRvcnkzMDAyNzY1MA=="
+open_issues_within = 100
+private = false
+pushed_within = "month"
+stargazers_within = 1_000
+topics = [ "a11y", "accessibility", "best-practices" ]
+updated_within = "month"
+watchers_within = 1_000
+
+  [github.license]
+  key = "other"
+  name = "Other"
+  node_id = "MDc6TGljZW5zZTA="
+  spdx_id = "NOASSERTION"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_233_994
+  login = "18F"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjYyMzM5OTQ="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

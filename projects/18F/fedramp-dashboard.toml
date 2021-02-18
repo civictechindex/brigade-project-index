@@ -1,6 +1,51 @@
 code_url = "https://github.com/18F/fedramp-dashboard"
-git_branch = "federalist"
 git_url = "git://github.com/18F/fedramp-dashboard.git"
-last_pushed_within = "week"
 link_url = "https://marketplace.fedramp.gov"
 name = "fedramp-dashboard"
+organization_name = "18F"
+
+[github]
+archived = false
+created_at = "2016-06-14T12:45:22Z"
+default_branch = "federalist"
+description = { }
+disabled = false
+fork = false
+forks_within = 100
+full_name = "18F/fedramp-dashboard"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = false
+homepage = "https://marketplace.fedramp.gov"
+id = 61_122_109
+language = "JavaScript"
+name = "fedramp-dashboard"
+node_id = "MDEwOlJlcG9zaXRvcnk2MTEyMjEwOQ=="
+open_issues_within = 100
+private = false
+pushed_within = "week"
+stargazers_within = 100
+topics = [ ]
+updated_within = "week"
+watchers_within = 100
+
+  [github.license]
+  key = "cc0-1.0"
+  name = "Creative Commons Zero v1.0 Universal"
+  node_id = "MDc6TGljZW5zZTY="
+  spdx_id = "CC0-1.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_233_994
+  login = "18F"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjYyMzM5OTQ="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

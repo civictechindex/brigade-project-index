@@ -1,6 +1,46 @@
 code_url = "https://github.com/18F/transformation-research"
 description = "Best practices in government digital transformation"
-git_branch = "master"
 git_url = "git://github.com/18F/transformation-research.git"
-last_pushed_within = "year"
 name = "transformation-research"
+organization_name = "18F"
+
+[github]
+archived = false
+created_at = "2016-05-10T15:44:41Z"
+default_branch = "master"
+description = "Best practices in government digital transformation"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "18F/transformation-research"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 58_473_939
+language = { }
+license = { }
+name = "transformation-research"
+node_id = "MDEwOlJlcG9zaXRvcnk1ODQ3MzkzOQ=="
+open_issues_within = 10
+private = false
+pushed_within = "year"
+stargazers_within = 100
+topics = [ ]
+updated_within = "year"
+watchers_within = 100
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_233_994
+  login = "18F"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjYyMzM5OTQ="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

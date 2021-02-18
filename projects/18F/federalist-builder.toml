@@ -1,7 +1,52 @@
 code_url = "https://github.com/18F/federalist-builder"
 description = "This application is used to launch build tasks for Federalist in an AWS ECS Docker container based on messages from an AWS SQS queue"
-git_branch = "staging"
 git_url = "git://github.com/18F/federalist-builder.git"
-last_pushed_within = "week"
 name = "federalist-builder"
+organization_name = "18F"
 topics = [ "federalist" ]
+
+[github]
+archived = false
+created_at = "2015-10-23T17:33:53Z"
+default_branch = "staging"
+description = "This application is used to launch build tasks for Federalist in an AWS ECS Docker container based on messages from an AWS SQS queue"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "18F/federalist-builder"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = false
+has_wiki = false
+homepage = { }
+id = 44_828_292
+language = "JavaScript"
+name = "federalist-builder"
+node_id = "MDEwOlJlcG9zaXRvcnk0NDgyODI5Mg=="
+open_issues_within = 10
+private = false
+pushed_within = "week"
+stargazers_within = 10
+topics = [ "federalist" ]
+updated_within = "year"
+watchers_within = 10
+
+  [github.license]
+  key = "other"
+  name = "Other"
+  node_id = "MDc6TGljZW5zZTA="
+  spdx_id = "NOASSERTION"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_233_994
+  login = "18F"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjYyMzM5OTQ="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

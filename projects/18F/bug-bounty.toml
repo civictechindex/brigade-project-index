@@ -1,8 +1,53 @@
 code_url = "https://github.com/18F/bug-bounty"
 description = "OUT OF DATE: Internal documentation for TTS's bug bounty."
-git_branch = "master"
 git_url = "git://github.com/18F/bug-bounty.git"
-last_pushed_within = "year"
 link_url = "https://github.com/18F/tts-tech-portfolio/issues/49"
 name = "bug-bounty"
+organization_name = "18F"
 topics = [ "tts-bug-bounty" ]
+
+[github]
+archived = false
+created_at = "2016-05-06T20:01:03Z"
+default_branch = "master"
+description = "OUT OF DATE: Internal documentation for TTS's bug bounty."
+disabled = false
+fork = false
+forks_within = 10
+full_name = "18F/bug-bounty"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "https://github.com/18F/tts-tech-portfolio/issues/49"
+id = 58_231_823
+language = { }
+name = "bug-bounty"
+node_id = "MDEwOlJlcG9zaXRvcnk1ODIzMTgyMw=="
+open_issues_within = 10
+private = false
+pushed_within = "year"
+stargazers_within = 10
+topics = [ "tts-bug-bounty" ]
+updated_within = "year"
+watchers_within = 10
+
+  [github.license]
+  key = "other"
+  name = "Other"
+  node_id = "MDc6TGljZW5zZTA="
+  spdx_id = "NOASSERTION"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_233_994
+  login = "18F"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjYyMzM5OTQ="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

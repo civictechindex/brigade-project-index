@@ -1,7 +1,52 @@
 code_url = "https://github.com/18F/privacy-dashboard"
 description = "GSA PII Dashboard"
-git_branch = "master"
 git_url = "git://github.com/18F/privacy-dashboard.git"
-last_pushed_within = "month"
 link_url = "https://cg-9341b8ea-025c-4fe2-aa6c-850edbebc499.app.cloud.gov/site/18f/privacy-dashboard/"
 name = "privacy-dashboard"
+organization_name = "18F"
+
+[github]
+archived = false
+created_at = "2020-02-12T23:18:08Z"
+default_branch = "master"
+description = "GSA PII Dashboard"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "18F/privacy-dashboard"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "https://cg-9341b8ea-025c-4fe2-aa6c-850edbebc499.app.cloud.gov/site/18f/privacy-dashboard/"
+id = 240_135_486
+language = "HTML"
+name = "privacy-dashboard"
+node_id = "MDEwOlJlcG9zaXRvcnkyNDAxMzU0ODY="
+open_issues_within = 10
+private = false
+pushed_within = "year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "year"
+watchers_within = 10
+
+  [github.license]
+  key = "other"
+  name = "Other"
+  node_id = "MDc6TGljZW5zZTA="
+  spdx_id = "NOASSERTION"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_233_994
+  login = "18F"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjYyMzM5OTQ="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

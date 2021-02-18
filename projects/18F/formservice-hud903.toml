@@ -1,0 +1,45 @@
+code_url = "https://github.com/18F/formservice-hud903"
+git_url = "git://github.com/18F/formservice-hud903.git"
+name = "formservice-hud903"
+organization_name = "18F"
+
+[github]
+archived = false
+created_at = "2020-12-30T20:42:40Z"
+default_branch = "develop"
+description = { }
+disabled = false
+fork = false
+forks_within = 10
+full_name = "18F/formservice-hud903"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 325_644_348
+language = "JavaScript"
+license = { }
+name = "formservice-hud903"
+node_id = "MDEwOlJlcG9zaXRvcnkzMjU2NDQzNDg="
+open_issues_within = 0
+private = false
+pushed_within = "week"
+stargazers_within = 0
+topics = [ ]
+updated_within = "week"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_233_994
+  login = "18F"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjYyMzM5OTQ="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

@@ -1,6 +1,51 @@
 code_url = "https://github.com/18F/ReVAL"
 description = "ReVAL: Reusable Validation Library - A Django App for validating data via API and web interface"
-git_branch = "master"
 git_url = "git://github.com/18F/ReVAL.git"
-last_pushed_within = "week"
 name = "ReVAL"
+organization_name = "18F"
+
+[github]
+archived = false
+created_at = "2018-04-11T00:56:02Z"
+default_branch = "master"
+description = "ReVAL: Reusable Validation Library - A Django App for validating data via API and web interface"
+disabled = false
+fork = false
+forks_within = 100
+full_name = "18F/ReVAL"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 129_012_973
+language = "Python"
+name = "ReVAL"
+node_id = "MDEwOlJlcG9zaXRvcnkxMjkwMTI5NzM="
+open_issues_within = 100
+private = false
+pushed_within = "month"
+stargazers_within = 100
+topics = [ ]
+updated_within = "week"
+watchers_within = 100
+
+  [github.license]
+  key = "other"
+  name = "Other"
+  node_id = "MDc6TGljZW5zZTA="
+  spdx_id = "NOASSERTION"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_233_994
+  login = "18F"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjYyMzM5OTQ="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

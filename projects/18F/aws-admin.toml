@@ -1,6 +1,51 @@
 code_url = "https://github.com/18F/aws-admin"
 description = "TTS-wide AWS Administration"
-git_branch = "master"
 git_url = "git://github.com/18F/aws-admin.git"
-last_pushed_within = "month"
 name = "aws-admin"
+organization_name = "18F"
+
+[github]
+archived = false
+created_at = "2019-08-21T14:04:10Z"
+default_branch = "master"
+description = "TTS-wide AWS Administration"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "18F/aws-admin"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = false
+has_wiki = false
+homepage = ""
+id = 203_596_863
+language = "HCL"
+name = "aws-admin"
+node_id = "MDEwOlJlcG9zaXRvcnkyMDM1OTY4NjM="
+open_issues_within = 100
+private = false
+pushed_within = "month"
+stargazers_within = 10
+topics = [ ]
+updated_within = "month"
+watchers_within = 10
+
+  [github.license]
+  key = "other"
+  name = "Other"
+  node_id = "MDc6TGljZW5zZTA="
+  spdx_id = "NOASSERTION"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_233_994
+  login = "18F"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjYyMzM5OTQ="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

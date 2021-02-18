@@ -1,7 +1,47 @@
 code_url = "https://github.com/18F/identity-dashboard"
 description = "Identity developer dashboard"
-git_branch = "master"
 git_url = "git://github.com/18F/identity-dashboard.git"
-last_pushed_within = "week"
 name = "identity-dashboard"
+organization_name = "18F"
 topics = [ "login-gov" ]
+
+[github]
+archived = false
+created_at = "2016-05-09T21:23:58Z"
+default_branch = "master"
+description = "Identity developer dashboard"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "18F/identity-dashboard"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = false
+has_wiki = false
+homepage = { }
+id = 58_409_260
+language = "Ruby"
+license = { }
+name = "identity-dashboard"
+node_id = "MDEwOlJlcG9zaXRvcnk1ODQwOTI2MA=="
+open_issues_within = 10
+private = false
+pushed_within = "week"
+stargazers_within = 100
+topics = [ "login-gov" ]
+updated_within = "month"
+watchers_within = 100
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_233_994
+  login = "18F"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjYyMzM5OTQ="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

@@ -1,6 +1,46 @@
 code_url = "https://github.com/18F/crt-portal"
 description = "Using this repo for issues, code is at usdoj/crt-portal"
-git_branch = "master"
 git_url = "git://github.com/18F/crt-portal.git"
-last_pushed_within = "year"
 name = "crt-portal"
+organization_name = "18F"
+
+[github]
+archived = false
+created_at = "2019-04-24T15:39:26Z"
+default_branch = "master"
+description = "Using this repo for issues, code is at usdoj/crt-portal"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "18F/crt-portal"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 183_258_764
+language = "CSS"
+license = { }
+name = "crt-portal"
+node_id = "MDEwOlJlcG9zaXRvcnkxODMyNTg3NjQ="
+open_issues_within = 1_000
+private = false
+pushed_within = "year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_233_994
+  login = "18F"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjYyMzM5OTQ="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

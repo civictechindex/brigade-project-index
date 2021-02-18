@@ -1,7 +1,52 @@
 code_url = "https://github.com/18F/cv_faq"
 description = "A Coronavirus FAQ for the United States of America"
-git_branch = "preview"
 git_url = "git://github.com/18F/cv_faq.git"
-last_pushed_within = "week"
 link_url = "https://faq.coronavirus.gov"
 name = "cv_faq"
+organization_name = "18F"
+
+[github]
+archived = false
+created_at = "2020-03-16T13:08:49Z"
+default_branch = "preview"
+description = "A Coronavirus FAQ for the United States of America"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "18F/cv_faq"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "https://faq.coronavirus.gov"
+id = 247_704_958
+language = "Python"
+name = "cv_faq"
+node_id = "MDEwOlJlcG9zaXRvcnkyNDc3MDQ5NTg="
+open_issues_within = 100
+private = false
+pushed_within = "week"
+stargazers_within = 100
+topics = [ ]
+updated_within = "week"
+watchers_within = 100
+
+  [github.license]
+  key = "other"
+  name = "Other"
+  node_id = "MDc6TGljZW5zZTA="
+  spdx_id = "NOASSERTION"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_233_994
+  login = "18F"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjYyMzM5OTQ="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

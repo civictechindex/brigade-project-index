@@ -1,7 +1,52 @@
 code_url = "https://github.com/18F/federalist-proxy"
 description = "Proxies traffic from the Federalist S3 bucket"
-git_branch = "staging"
 git_url = "git://github.com/18F/federalist-proxy.git"
-last_pushed_within = "month"
 name = "federalist-proxy"
+organization_name = "18F"
 topics = [ "federalist", "federalistapp" ]
+
+[github]
+archived = false
+created_at = "2017-01-25T22:57:09Z"
+default_branch = "staging"
+description = "Proxies traffic from the Federalist S3 bucket"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "18F/federalist-proxy"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = false
+has_wiki = false
+homepage = { }
+id = 80_066_355
+language = "JavaScript"
+name = "federalist-proxy"
+node_id = "MDEwOlJlcG9zaXRvcnk4MDA2NjM1NQ=="
+open_issues_within = 0
+private = false
+pushed_within = "year"
+stargazers_within = 10
+topics = [ "federalist", "federalistapp" ]
+updated_within = "year"
+watchers_within = 10
+
+  [github.license]
+  key = "other"
+  name = "Other"
+  node_id = "MDc6TGljZW5zZTA="
+  spdx_id = "NOASSERTION"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_233_994
+  login = "18F"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjYyMzM5OTQ="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

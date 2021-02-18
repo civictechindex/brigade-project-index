@@ -1,8 +1,53 @@
 code_url = "https://github.com/18F/identity-dev-docs"
 description = "Login.gov developer documentation"
-git_branch = "master"
 git_url = "git://github.com/18F/identity-dev-docs.git"
-last_pushed_within = "week"
 link_url = "https://developers.login.gov"
 name = "identity-dev-docs"
+organization_name = "18F"
 topics = [ "login-gov" ]
+
+[github]
+archived = false
+created_at = "2016-05-17T18:59:52Z"
+default_branch = "main"
+description = "Login.gov developer documentation"
+disabled = false
+fork = false
+forks_within = 100
+full_name = "18F/identity-dev-docs"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = false
+has_wiki = false
+homepage = "https://developers.login.gov"
+id = 59_050_512
+language = "HTML"
+name = "identity-dev-docs"
+node_id = "MDEwOlJlcG9zaXRvcnk1OTA1MDUxMg=="
+open_issues_within = 10
+private = false
+pushed_within = "week"
+stargazers_within = 100
+topics = [ "login-gov" ]
+updated_within = "week"
+watchers_within = 100
+
+  [github.license]
+  key = "other"
+  name = "Other"
+  node_id = "MDc6TGljZW5zZTA="
+  spdx_id = "NOASSERTION"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_233_994
+  login = "18F"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjYyMzM5OTQ="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

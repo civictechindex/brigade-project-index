@@ -1,0 +1,50 @@
+code_url = "https://github.com/18F/csb-brokerpak-aws"
+git_url = "git://github.com/18F/csb-brokerpak-aws.git"
+name = "csb-brokerpak-aws"
+organization_name = "18F"
+
+[github]
+archived = false
+created_at = "2021-02-12T22:36:13Z"
+default_branch = "main"
+description = { }
+disabled = false
+fork = true
+forks_within = 0
+full_name = "18F/csb-brokerpak-aws"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 338_449_342
+language = { }
+name = "csb-brokerpak-aws"
+node_id = "MDEwOlJlcG9zaXRvcnkzMzg0NDkzNDI="
+open_issues_within = 0
+private = false
+pushed_within = "month"
+stargazers_within = 0
+topics = [ ]
+updated_within = "week"
+watchers_within = 0
+
+  [github.license]
+  key = "apache-2.0"
+  name = "Apache License 2.0"
+  node_id = "MDc6TGljZW5zZTI="
+  spdx_id = "Apache-2.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_233_994
+  login = "18F"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjYyMzM5OTQ="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

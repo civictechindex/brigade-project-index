@@ -1,8 +1,53 @@
 code_url = "https://github.com/18F/handbook"
 description = "The home of policies and guidelines that make up TTS."
-git_branch = "master"
 git_url = "git://github.com/18F/handbook.git"
-last_pushed_within = "week"
 link_url = "https://handbook.18f.gov"
 name = "handbook"
+organization_name = "18F"
 topics = [ "tts-handbook" ]
+
+[github]
+archived = false
+created_at = "2016-09-30T18:46:31Z"
+default_branch = "master"
+description = "The home of policies and guidelines that make up TTS."
+disabled = false
+fork = false
+forks_within = 1_000
+full_name = "18F/handbook"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = false
+has_wiki = false
+homepage = "https://handbook.18f.gov"
+id = 69_692_928
+language = "JavaScript"
+name = "handbook"
+node_id = "MDEwOlJlcG9zaXRvcnk2OTY5MjkyOA=="
+open_issues_within = 100
+private = false
+pushed_within = "week"
+stargazers_within = 100
+topics = [ "tts-handbook" ]
+updated_within = "week"
+watchers_within = 100
+
+  [github.license]
+  key = "other"
+  name = "Other"
+  node_id = "MDc6TGljZW5zZTA="
+  spdx_id = "NOASSERTION"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_233_994
+  login = "18F"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjYyMzM5OTQ="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

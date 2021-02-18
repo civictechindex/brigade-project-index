@@ -1,6 +1,51 @@
 code_url = "https://github.com/18F/analytics-reporter-api"
 description = "The Analytics API maintains the schema for the database that the Analytics Reporter writes to."
-git_branch = "master"
 git_url = "git://github.com/18F/analytics-reporter-api.git"
-last_pushed_within = "month"
 name = "analytics-reporter-api"
+organization_name = "18F"
+
+[github]
+archived = false
+created_at = "2017-03-09T17:56:57Z"
+default_branch = "master"
+description = "The Analytics API maintains the schema for the database that the Analytics Reporter writes to."
+disabled = false
+fork = false
+forks_within = 10
+full_name = "18F/analytics-reporter-api"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = false
+homepage = { }
+id = 84_472_607
+language = "JavaScript"
+name = "analytics-reporter-api"
+node_id = "MDEwOlJlcG9zaXRvcnk4NDQ3MjYwNw=="
+open_issues_within = 100
+private = false
+pushed_within = "month"
+stargazers_within = 10
+topics = [ ]
+updated_within = "year"
+watchers_within = 10
+
+  [github.license]
+  key = "other"
+  name = "Other"
+  node_id = "MDc6TGljZW5zZTA="
+  spdx_id = "NOASSERTION"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_233_994
+  login = "18F"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjYyMzM5OTQ="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
