@@ -1,6 +1,46 @@
 code_url = "https://github.com/open-austin/cheatsheet-basedef"
 description = "a repo for our git & BASEDEF cheatsheet"
-git_branch = "master"
 git_url = "git://github.com/open-austin/cheatsheet-basedef.git"
-last_pushed_within = "over_a_year"
 name = "cheatsheet-basedef"
+organization_name = "Open Austin"
+
+[github]
+archived = false
+created_at = "2016-06-03T03:13:10Z"
+default_branch = "master"
+description = "a repo for our git & BASEDEF cheatsheet"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "open-austin/cheatsheet-basedef"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 60_314_762
+language = { }
+license = { }
+name = "cheatsheet-basedef"
+node_id = "MDEwOlJlcG9zaXRvcnk2MDMxNDc2Mg=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 970_084
+  login = "open-austin"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjk3MDA4NA=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

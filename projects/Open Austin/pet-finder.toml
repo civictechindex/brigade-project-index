@@ -1,6 +1,46 @@
 code_url = "https://github.com/open-austin/pet-finder"
 description = "An application to quickly and easily help owners find lost pets."
-git_branch = "master"
 git_url = "git://github.com/open-austin/pet-finder.git"
-last_pushed_within = "over_a_year"
 name = "pet-finder"
+organization_name = "Open Austin"
+
+[github]
+archived = false
+created_at = "2014-07-05T15:43:28Z"
+default_branch = "master"
+description = "An application to quickly and easily help owners find lost pets."
+disabled = false
+fork = false
+forks_within = 10
+full_name = "open-austin/pet-finder"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 21_522_923
+language = "Ruby"
+license = { }
+name = "pet-finder"
+node_id = "MDEwOlJlcG9zaXRvcnkyMTUyMjkyMw=="
+open_issues_within = 100
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 970_084
+  login = "open-austin"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjk3MDA4NA=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

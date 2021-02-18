@@ -1,6 +1,46 @@
 code_url = "https://github.com/open-austin/project-ideas"
 description = ":bulb: A place to collect ideas for Open Austin projects"
-git_branch = "master"
 git_url = "git://github.com/open-austin/project-ideas.git"
-last_pushed_within = "over_a_year"
 name = "project-ideas"
+organization_name = "Open Austin"
+
+[github]
+archived = false
+created_at = "2015-06-30T19:40:16Z"
+default_branch = "master"
+description = ":bulb: A place to collect ideas for Open Austin projects"
+disabled = false
+fork = false
+forks_within = 100
+full_name = "open-austin/project-ideas"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = false
+has_wiki = false
+homepage = ""
+id = 38_329_313
+language = { }
+license = { }
+name = "project-ideas"
+node_id = "MDEwOlJlcG9zaXRvcnkzODMyOTMxMw=="
+open_issues_within = 100
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 1_000
+topics = [ ]
+updated_within = "year"
+watchers_within = 1_000
+
+  [github.owner]
+  gravatar_id = ""
+  id = 970_084
+  login = "open-austin"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjk3MDA4NA=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

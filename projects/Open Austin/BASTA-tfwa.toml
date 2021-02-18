@@ -1,6 +1,46 @@
 code_url = "https://github.com/open-austin/BASTA-tfwa"
 description = "Web application to help tenants keep track of documentss related to their rental unit"
-git_branch = "master"
 git_url = "git://github.com/open-austin/BASTA-tfwa.git"
-last_pushed_within = "week"
 name = "BASTA-tfwa"
+organization_name = "Open Austin"
+
+[github]
+archived = false
+created_at = "2020-01-16T23:45:31Z"
+default_branch = "master"
+description = "Web application to help tenants keep track of documentss related to their rental unit"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "open-austin/BASTA-tfwa"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 234_433_524
+language = "C#"
+license = { }
+name = "BASTA-tfwa"
+node_id = "MDEwOlJlcG9zaXRvcnkyMzQ0MzM1MjQ="
+open_issues_within = 100
+private = false
+pushed_within = "week"
+stargazers_within = 10
+topics = [ ]
+updated_within = "month"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 970_084
+  login = "open-austin"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjk3MDA4NA=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

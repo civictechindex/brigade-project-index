@@ -1,6 +1,46 @@
 code_url = "https://github.com/open-austin/vanilla-rails"
 description = "A Starter App on Rails with Bootstrap & Devise preinstalled"
-git_branch = "master"
 git_url = "git://github.com/open-austin/vanilla-rails.git"
-last_pushed_within = "over_a_year"
 name = "vanilla-rails"
+organization_name = "Open Austin"
+
+[github]
+archived = false
+created_at = "2015-02-05T02:27:44Z"
+default_branch = "master"
+description = "A Starter App on Rails with Bootstrap & Devise preinstalled"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "open-austin/vanilla-rails"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 30_333_445
+language = "Ruby"
+license = { }
+name = "vanilla-rails"
+node_id = "MDEwOlJlcG9zaXRvcnkzMDMzMzQ0NQ=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 970_084
+  login = "open-austin"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjk3MDA4NA=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

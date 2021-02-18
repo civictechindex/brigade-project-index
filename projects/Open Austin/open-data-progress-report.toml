@@ -1,6 +1,46 @@
 code_url = "https://github.com/open-austin/open-data-progress-report"
-git_branch = "gh-pages"
 git_url = "git://github.com/open-austin/open-data-progress-report.git"
-last_pushed_within = "over_a_year"
 link_url = "http://open-austin.github.io/open-data-progress-report/"
 name = "open-data-progress-report"
+organization_name = "Open Austin"
+
+[github]
+archived = false
+created_at = "2015-08-19T04:28:46Z"
+default_branch = "gh-pages"
+description = { }
+disabled = false
+fork = false
+forks_within = 100
+full_name = "open-austin/open-data-progress-report"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "http://open-austin.github.io/open-data-progress-report/"
+id = 41_013_299
+language = "HTML"
+license = { }
+name = "open-data-progress-report"
+node_id = "MDEwOlJlcG9zaXRvcnk0MTAxMzI5OQ=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 970_084
+  login = "open-austin"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjk3MDA4NA=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

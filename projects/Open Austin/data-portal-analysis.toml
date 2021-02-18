@@ -1,6 +1,51 @@
 code_url = "https://github.com/open-austin/data-portal-analysis"
 description = "Taking Austin's Data Portal to the Next Level"
-git_branch = "develop"
 git_url = "git://github.com/open-austin/data-portal-analysis.git"
-last_pushed_within = "over_a_year"
 name = "data-portal-analysis"
+organization_name = "Open Austin"
+
+[github]
+archived = false
+created_at = "2015-11-04T03:35:00Z"
+default_branch = "develop"
+description = "Taking Austin's Data Portal to the Next Level"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "open-austin/data-portal-analysis"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = false
+homepage = { }
+id = 45_513_257
+language = "Python"
+name = "data-portal-analysis"
+node_id = "MDEwOlJlcG9zaXRvcnk0NTUxMzI1Nw=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "unlicense"
+  name = "The Unlicense"
+  node_id = "MDc6TGljZW5zZTE1"
+  spdx_id = "Unlicense"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 970_084
+  login = "open-austin"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjk3MDA4NA=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

@@ -1,6 +1,46 @@
 code_url = "https://github.com/open-austin/hackpad"
 description = "Old Hackpads for archival purposes"
-git_branch = "master"
 git_url = "git://github.com/open-austin/hackpad.git"
-last_pushed_within = "over_a_year"
 name = "hackpad"
+organization_name = "Open Austin"
+
+[github]
+archived = false
+created_at = "2017-04-28T03:26:54Z"
+default_branch = "master"
+description = "Old Hackpads for archival purposes"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "open-austin/hackpad"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 89_663_717
+language = { }
+license = { }
+name = "hackpad"
+node_id = "MDEwOlJlcG9zaXRvcnk4OTY2MzcxNw=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 970_084
+  login = "open-austin"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjk3MDA4NA=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

@@ -1,7 +1,52 @@
 code_url = "https://github.com/open-austin/demo-website"
 description = "Demonstration websites that we use at events."
-git_branch = "master"
 git_url = "git://github.com/open-austin/demo-website.git"
-last_pushed_within = "over_a_year"
 link_url = "http://open-austin.github.io/demo-website/"
 name = "demo-website"
+organization_name = "Open Austin"
+
+[github]
+archived = false
+created_at = "2013-04-20T23:40:52Z"
+default_branch = "master"
+description = "Demonstration websites that we use at events."
+disabled = false
+fork = false
+forks_within = 10
+full_name = "open-austin/demo-website"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = false
+homepage = "http://open-austin.github.io/demo-website/"
+id = 9_572_307
+language = { }
+name = "demo-website"
+node_id = "MDEwOlJlcG9zaXRvcnk5NTcyMzA3"
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "unlicense"
+  name = "The Unlicense"
+  node_id = "MDc6TGljZW5zZTE1"
+  spdx_id = "Unlicense"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 970_084
+  login = "open-austin"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjk3MDA4NA=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

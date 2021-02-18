@@ -1,6 +1,46 @@
 code_url = "https://github.com/open-austin/transpo-game-night"
-git_branch = "master"
 git_url = "git://github.com/open-austin/transpo-game-night.git"
-last_pushed_within = "over_a_year"
 name = "transpo-game-night"
+organization_name = "Open Austin"
 topics = [ "transportation" ]
+
+[github]
+archived = false
+created_at = "2016-08-31T01:13:20Z"
+default_branch = "master"
+description = { }
+disabled = false
+fork = false
+forks_within = 10
+full_name = "open-austin/transpo-game-night"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 66_990_251
+language = { }
+license = { }
+name = "transpo-game-night"
+node_id = "MDEwOlJlcG9zaXRvcnk2Njk5MDI1MQ=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ "transportation" ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 970_084
+  login = "open-austin"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjk3MDA4NA=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

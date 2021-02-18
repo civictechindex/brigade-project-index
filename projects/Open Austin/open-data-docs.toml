@@ -1,7 +1,52 @@
 code_url = "https://github.com/open-austin/open-data-docs"
 description = "A place for developing documents for Austin's open data initiative"
-git_branch = "master"
 git_url = "git://github.com/open-austin/open-data-docs.git"
-last_pushed_within = "over_a_year"
 link_url = "https://cityofaustin.github.io/open-data-docs/"
 name = "open-data-docs"
+organization_name = "Open Austin"
+
+[github]
+archived = false
+created_at = "2015-12-03T04:05:36Z"
+default_branch = "master"
+description = "A place for developing documents for Austin's open data initiative"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "open-austin/open-data-docs"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "https://cityofaustin.github.io/open-data-docs/"
+id = 47_306_820
+language = "HTML"
+name = "open-data-docs"
+node_id = "MDEwOlJlcG9zaXRvcnk0NzMwNjgyMA=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "other"
+  name = "Other"
+  node_id = "MDc6TGljZW5zZTA="
+  spdx_id = "NOASSERTION"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 970_084
+  login = "open-austin"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjk3MDA4NA=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

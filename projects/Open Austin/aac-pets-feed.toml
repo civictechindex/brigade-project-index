@@ -1,6 +1,46 @@
 code_url = "https://github.com/open-austin/aac-pets-feed"
 description = "feeder to populate the pet alerts db"
-git_branch = "master"
 git_url = "git://github.com/open-austin/aac-pets-feed.git"
-last_pushed_within = "over_a_year"
 name = "aac-pets-feed"
+organization_name = "Open Austin"
+
+[github]
+archived = false
+created_at = "2015-08-17T19:07:51Z"
+default_branch = "master"
+description = "feeder to populate the pet alerts db"
+disabled = false
+fork = true
+forks_within = 0
+full_name = "open-austin/aac-pets-feed"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 40_921_158
+language = "Ruby"
+license = { }
+name = "aac-pets-feed"
+node_id = "MDEwOlJlcG9zaXRvcnk0MDkyMTE1OA=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 970_084
+  login = "open-austin"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjk3MDA4NA=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

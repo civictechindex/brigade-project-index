@@ -1,6 +1,46 @@
 code_url = "https://github.com/open-austin/hack-projects"
 description = "App for managing Open Austin's ongoing Hack Team Projects and surfacing new ideas."
-git_branch = "master"
 git_url = "git://github.com/open-austin/hack-projects.git"
-last_pushed_within = "over_a_year"
 name = "hack-projects"
+organization_name = "Open Austin"
+
+[github]
+archived = false
+created_at = "2015-01-10T19:38:49Z"
+default_branch = "master"
+description = "App for managing Open Austin's ongoing Hack Team Projects and surfacing new ideas."
+disabled = false
+fork = false
+forks_within = 0
+full_name = "open-austin/hack-projects"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 29_068_574
+language = "JavaScript"
+license = { }
+name = "hack-projects"
+node_id = "MDEwOlJlcG9zaXRvcnkyOTA2ODU3NA=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 970_084
+  login = "open-austin"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjk3MDA4NA=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

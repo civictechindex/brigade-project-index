@@ -1,7 +1,52 @@
 code_url = "https://github.com/open-austin/CutePetsAustin"
 description = ":cat2: Twitter bot that posts a random adoptable pet from the Austin Animal Center."
-git_branch = "austin"
 git_url = "git://github.com/open-austin/CutePetsAustin.git"
-last_pushed_within = "over_a_year"
 link_url = "https://twitter.com/CutePetsAustin"
 name = "CutePetsAustin"
+organization_name = "Open Austin"
+
+[github]
+archived = false
+created_at = "2014-08-07T01:25:52Z"
+default_branch = "austin"
+description = ":cat2: Twitter bot that posts a random adoptable pet from the Austin Animal Center."
+disabled = false
+fork = true
+forks_within = 10
+full_name = "open-austin/CutePetsAustin"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "https://twitter.com/CutePetsAustin"
+id = 22_703_984
+language = "HTML"
+name = "CutePetsAustin"
+node_id = "MDEwOlJlcG9zaXRvcnkyMjcwMzk4NA=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 970_084
+  login = "open-austin"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjk3MDA4NA=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

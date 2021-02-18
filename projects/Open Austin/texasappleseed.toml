@@ -1,7 +1,52 @@
 code_url = "https://github.com/open-austin/texasappleseed"
 description = ":apple: Stop Kids from Being Pushed out of School (school-to-prison pipeline)"
-git_branch = "gh-pages"
 git_url = "git://github.com/open-austin/texasappleseed.git"
-last_pushed_within = "over_a_year"
 link_url = "http://open-austin.github.io/texasappleseed"
 name = "texasappleseed"
+organization_name = "Open Austin"
+
+[github]
+archived = false
+created_at = "2015-07-28T04:27:54Z"
+default_branch = "gh-pages"
+description = ":apple: Stop Kids from Being Pushed out of School (school-to-prison pipeline)"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "open-austin/texasappleseed"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "http://open-austin.github.io/texasappleseed"
+id = 39_813_033
+language = "Python"
+name = "texasappleseed"
+node_id = "MDEwOlJlcG9zaXRvcnkzOTgxMzAzMw=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "unlicense"
+  name = "The Unlicense"
+  node_id = "MDc6TGljZW5zZTE1"
+  spdx_id = "Unlicense"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 970_084
+  login = "open-austin"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjk3MDA4NA=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

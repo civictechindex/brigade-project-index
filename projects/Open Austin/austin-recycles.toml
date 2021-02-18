@@ -1,7 +1,52 @@
 code_url = "https://github.com/open-austin/austin-recycles"
 description = "Application and web service that provides trash and recycling pickup information for the City of Austin."
-git_branch = "master"
 git_url = "git://github.com/open-austin/austin-recycles.git"
-last_pushed_within = "over_a_year"
 link_url = "http://austin-recycles.open-austin.org/"
 name = "austin-recycles"
+organization_name = "Open Austin"
+
+[github]
+archived = false
+created_at = "2013-02-26T21:06:19Z"
+default_branch = "master"
+description = "Application and web service that provides trash and recycling pickup information for the City of Austin."
+disabled = false
+fork = false
+forks_within = 10
+full_name = "open-austin/austin-recycles"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://austin-recycles.open-austin.org/"
+id = 8_442_001
+language = "JavaScript"
+name = "austin-recycles"
+node_id = "MDEwOlJlcG9zaXRvcnk4NDQyMDAx"
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "other"
+  name = "Other"
+  node_id = "MDc6TGljZW5zZTA="
+  spdx_id = "NOASSERTION"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 970_084
+  login = "open-austin"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjk3MDA4NA=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

@@ -1,7 +1,52 @@
 code_url = "https://github.com/open-austin/consumer-protection"
 description = "Visualizations of Consumer Financial Protection Data"
-git_branch = "master"
 git_url = "git://github.com/open-austin/consumer-protection.git"
-last_pushed_within = "over_a_year"
 link_url = "http://www.open-austin.org/consumer-protection/"
 name = "consumer-protection"
+organization_name = "Open Austin"
+
+[github]
+archived = false
+created_at = "2017-09-13T00:44:29Z"
+default_branch = "master"
+description = "Visualizations of Consumer Financial Protection Data"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "open-austin/consumer-protection"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "http://www.open-austin.org/consumer-protection/"
+id = 103_335_088
+language = "HTML"
+name = "consumer-protection"
+node_id = "MDEwOlJlcG9zaXRvcnkxMDMzMzUwODg="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 970_084
+  login = "open-austin"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjk3MDA4NA=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

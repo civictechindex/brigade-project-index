@@ -1,6 +1,51 @@
 code_url = "https://github.com/open-austin/harris-county-bookings"
-git_branch = "master"
 git_url = "git://github.com/open-austin/harris-county-bookings.git"
-last_pushed_within = "over_a_year"
 link_url = "https://github.com/open-austin/project-ideas/issues/73"
 name = "harris-county-bookings"
+organization_name = "Open Austin"
+
+[github]
+archived = false
+created_at = "2016-07-22T15:36:05Z"
+default_branch = "master"
+description = { }
+disabled = false
+fork = false
+forks_within = 10
+full_name = "open-austin/harris-county-bookings"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "https://github.com/open-austin/project-ideas/issues/73"
+id = 63_964_364
+language = "Python"
+name = "harris-county-bookings"
+node_id = "MDEwOlJlcG9zaXRvcnk2Mzk2NDM2NA=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "year"
+watchers_within = 10
+
+  [github.license]
+  key = "unlicense"
+  name = "The Unlicense"
+  node_id = "MDc6TGljZW5zZTE1"
+  spdx_id = "Unlicense"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 970_084
+  login = "open-austin"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjk3MDA4NA=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

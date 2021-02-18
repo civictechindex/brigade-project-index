@@ -1,7 +1,52 @@
 code_url = "https://github.com/open-austin/hack-summit-project-plans"
 description = "Project plans produced at the Code Across Austin V / Civic Hack Summit event"
-git_branch = "master"
 git_url = "git://github.com/open-austin/hack-summit-project-plans.git"
-last_pushed_within = "over_a_year"
 link_url = "http://www.open-austin.org/article/1484"
 name = "hack-summit-project-plans"
+organization_name = "Open Austin"
+
+[github]
+archived = false
+created_at = "2015-03-10T01:19:40Z"
+default_branch = "master"
+description = "Project plans produced at the Code Across Austin V / Civic Hack Summit event"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "open-austin/hack-summit-project-plans"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://www.open-austin.org/article/1484"
+id = 31_931_661
+language = { }
+name = "hack-summit-project-plans"
+node_id = "MDEwOlJlcG9zaXRvcnkzMTkzMTY2MQ=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "unlicense"
+  name = "The Unlicense"
+  node_id = "MDc6TGljZW5zZTE1"
+  spdx_id = "Unlicense"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 970_084
+  login = "open-austin"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjk3MDA4NA=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
