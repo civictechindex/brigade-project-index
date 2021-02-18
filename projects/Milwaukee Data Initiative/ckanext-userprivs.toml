@@ -1,6 +1,46 @@
 code_url = "https://github.com/milwaukeedata/ckanext-userprivs"
 description = "CKAN extension that allows multiple user privileges."
-git_branch = "master"
 git_url = "git://github.com/milwaukeedata/ckanext-userprivs.git"
-last_pushed_within = "over_a_year"
 name = "ckanext-userprivs"
+organization_name = "Milwaukee Data Initiative"
+
+[github]
+archived = false
+created_at = "2016-09-07T21:33:19Z"
+default_branch = "master"
+description = "CKAN extension that allows multiple user privileges."
+disabled = false
+fork = false
+forks_within = 0
+full_name = "milwaukeedata/ckanext-userprivs"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 67_645_230
+language = { }
+license = { }
+name = "ckanext-userprivs"
+node_id = "MDEwOlJlcG9zaXRvcnk2NzY0NTIzMA=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 3_681_104
+  login = "milwaukeedata"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM2ODExMDQ="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

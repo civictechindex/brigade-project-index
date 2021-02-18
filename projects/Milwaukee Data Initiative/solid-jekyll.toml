@@ -1,7 +1,47 @@
 code_url = "https://github.com/milwaukeedata/solid-jekyll"
 description = "A Jekyll port of the Solid theme (by blacktie.co). "
-git_branch = "master"
 git_url = "git://github.com/milwaukeedata/solid-jekyll.git"
-last_pushed_within = "over_a_year"
 link_url = "http://ojs.xyz/solid-jekyll/"
 name = "solid-jekyll"
+organization_name = "Milwaukee Data Initiative"
+
+[github]
+archived = false
+created_at = "2017-01-15T08:16:31Z"
+default_branch = "master"
+description = "A Jekyll port of the Solid theme (by blacktie.co). "
+disabled = false
+fork = true
+forks_within = 0
+full_name = "milwaukeedata/solid-jekyll"
+has_downloads = true
+has_issues = false
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "http://ojs.xyz/solid-jekyll/"
+id = 79_014_078
+language = "CSS"
+license = { }
+name = "solid-jekyll"
+node_id = "MDEwOlJlcG9zaXRvcnk3OTAxNDA3OA=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 3_681_104
+  login = "milwaukeedata"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM2ODExMDQ="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

@@ -1,6 +1,46 @@
 code_url = "https://github.com/milwaukeedata/QualityOfLife"
 description = "Deriving and computing a fine-grained quality-of-life measure."
-git_branch = "master"
 git_url = "git://github.com/milwaukeedata/QualityOfLife.git"
-last_pushed_within = "over_a_year"
 name = "QualityOfLife"
+organization_name = "Milwaukee Data Initiative"
+
+[github]
+archived = false
+created_at = "2017-03-01T02:27:21Z"
+default_branch = "master"
+description = "Deriving and computing a fine-grained quality-of-life measure."
+disabled = false
+fork = false
+forks_within = 0
+full_name = "milwaukeedata/QualityOfLife"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 83_502_084
+language = { }
+license = { }
+name = "QualityOfLife"
+node_id = "MDEwOlJlcG9zaXRvcnk4MzUwMjA4NA=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 3_681_104
+  login = "milwaukeedata"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM2ODExMDQ="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

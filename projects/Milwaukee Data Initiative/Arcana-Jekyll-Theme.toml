@@ -1,6 +1,51 @@
 code_url = "https://github.com/milwaukeedata/Arcana-Jekyll-Theme"
 description = "Arcana Jekyll Theme - more themes available @ http://cloudcannon.com/jekyll_themes"
-git_branch = "master"
 git_url = "git://github.com/milwaukeedata/Arcana-Jekyll-Theme.git"
-last_pushed_within = "over_a_year"
 name = "Arcana-Jekyll-Theme"
+organization_name = "Milwaukee Data Initiative"
+
+[github]
+archived = false
+created_at = "2017-01-17T19:38:56Z"
+default_branch = "master"
+description = "Arcana Jekyll Theme - more themes available @ http://cloudcannon.com/jekyll_themes"
+disabled = false
+fork = true
+forks_within = 0
+full_name = "milwaukeedata/Arcana-Jekyll-Theme"
+has_downloads = true
+has_issues = false
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 79_264_399
+language = "CSS"
+name = "Arcana-Jekyll-Theme"
+node_id = "MDEwOlJlcG9zaXRvcnk3OTI2NDM5OQ=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "other"
+  name = "Other"
+  node_id = "MDc6TGljZW5zZTA="
+  spdx_id = "NOASSERTION"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 3_681_104
+  login = "milwaukeedata"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM2ODExMDQ="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

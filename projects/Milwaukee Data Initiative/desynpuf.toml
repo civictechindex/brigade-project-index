@@ -1,6 +1,51 @@
 code_url = "https://github.com/milwaukeedata/desynpuf"
 description = "A collection of data sets for data entrepreneurs from the Centers for Medicare and Medicaid Services synthetic public use files"
-git_branch = "master"
 git_url = "git://github.com/milwaukeedata/desynpuf.git"
-last_pushed_within = "over_a_year"
 name = "desynpuf"
+organization_name = "Milwaukee Data Initiative"
+
+[github]
+archived = false
+created_at = "2013-05-03T20:23:50Z"
+default_branch = "master"
+description = "A collection of data sets for data entrepreneurs from the Centers for Medicare and Medicaid Services synthetic public use files"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "milwaukeedata/desynpuf"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 9_843_939
+language = "Python"
+name = "desynpuf"
+node_id = "MDEwOlJlcG9zaXRvcnk5ODQzOTM5"
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 100
+topics = [ ]
+updated_within = "month"
+watchers_within = 100
+
+  [github.license]
+  key = "other"
+  name = "Other"
+  node_id = "MDc6TGljZW5zZTA="
+  spdx_id = "NOASSERTION"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 3_681_104
+  login = "milwaukeedata"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM2ODExMDQ="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

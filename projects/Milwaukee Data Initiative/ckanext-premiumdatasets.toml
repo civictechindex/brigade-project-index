@@ -1,6 +1,46 @@
 code_url = "https://github.com/milwaukeedata/ckanext-premiumdatasets"
 description = "Extension for CKAN to allow premium datasets."
-git_branch = "master"
 git_url = "git://github.com/milwaukeedata/ckanext-premiumdatasets.git"
-last_pushed_within = "over_a_year"
 name = "ckanext-premiumdatasets"
+organization_name = "Milwaukee Data Initiative"
+
+[github]
+archived = false
+created_at = "2016-09-07T21:30:23Z"
+default_branch = "master"
+description = "Extension for CKAN to allow premium datasets."
+disabled = false
+fork = false
+forks_within = 0
+full_name = "milwaukeedata/ckanext-premiumdatasets"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 67_645_051
+language = { }
+license = { }
+name = "ckanext-premiumdatasets"
+node_id = "MDEwOlJlcG9zaXRvcnk2NzY0NTA1MQ=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 3_681_104
+  login = "milwaukeedata"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM2ODExMDQ="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

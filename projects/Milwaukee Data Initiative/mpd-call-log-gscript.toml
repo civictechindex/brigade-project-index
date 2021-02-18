@@ -1,6 +1,51 @@
 code_url = "https://github.com/milwaukeedata/mpd-call-log-gscript"
 description = "This is a Google Script to scrape the MPD Call Log located here: http://itmdapps.milwaukee.gov/MPDCallData/currentCADCalls/callsService.faces"
-git_branch = "master"
 git_url = "git://github.com/milwaukeedata/mpd-call-log-gscript.git"
-last_pushed_within = "over_a_year"
 name = "mpd-call-log-gscript"
+organization_name = "Milwaukee Data Initiative"
+
+[github]
+archived = false
+created_at = "2016-10-25T20:38:20Z"
+default_branch = "master"
+description = "This is a Google Script to scrape the MPD Call Log located here: http://itmdapps.milwaukee.gov/MPDCallData/currentCADCalls/callsService.faces"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "milwaukeedata/mpd-call-log-gscript"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 71_936_988
+language = "JavaScript"
+name = "mpd-call-log-gscript"
+node_id = "MDEwOlJlcG9zaXRvcnk3MTkzNjk4OA=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "gpl-3.0"
+  name = "GNU General Public License v3.0"
+  node_id = "MDc6TGljZW5zZTk="
+  spdx_id = "GPL-3.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 3_681_104
+  login = "milwaukeedata"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM2ODExMDQ="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
