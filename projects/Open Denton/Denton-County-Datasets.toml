@@ -1,6 +1,46 @@
 code_url = "https://github.com/opendenton/Denton-County-Datasets"
 description = "Issue Tracker for Denton County Open Data"
-git_branch = "master"
 git_url = "git://github.com/opendenton/Denton-County-Datasets.git"
-last_pushed_within = "over_a_year"
 name = "Denton-County-Datasets"
+organization_name = "Open Denton"
+
+[github]
+archived = false
+created_at = "2017-02-04T17:43:14Z"
+default_branch = "master"
+description = "Issue Tracker for Denton County Open Data"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "opendenton/Denton-County-Datasets"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 80_936_323
+language = { }
+license = { }
+name = "Denton-County-Datasets"
+node_id = "MDEwOlJlcG9zaXRvcnk4MDkzNjMyMw=="
+open_issues_within = 100
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_734_243
+  login = "opendenton"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjY3MzQyNDM="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

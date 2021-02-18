@@ -1,6 +1,46 @@
 code_url = "https://github.com/opendenton/Denton-Dashboard"
 description = "Static dashboard for open data in Denton."
-git_branch = "master"
 git_url = "git://github.com/opendenton/Denton-Dashboard.git"
-last_pushed_within = "over_a_year"
 name = "Denton-Dashboard"
+organization_name = "Open Denton"
+
+[github]
+archived = false
+created_at = "2016-03-05T15:24:27Z"
+default_branch = "master"
+description = "Static dashboard for open data in Denton."
+disabled = false
+fork = false
+forks_within = 10
+full_name = "opendenton/Denton-Dashboard"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 53_207_917
+language = { }
+license = { }
+name = "Denton-Dashboard"
+node_id = "MDEwOlJlcG9zaXRvcnk1MzIwNzkxNw=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_734_243
+  login = "opendenton"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjY3MzQyNDM="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

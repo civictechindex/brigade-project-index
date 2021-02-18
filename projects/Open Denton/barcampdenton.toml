@@ -1,6 +1,46 @@
 code_url = "https://github.com/opendenton/barcampdenton"
 description = "A static site for BarCamp Denton."
-git_branch = "master"
 git_url = "git://github.com/opendenton/barcampdenton.git"
-last_pushed_within = "over_a_year"
 name = "barcampdenton"
+organization_name = "Open Denton"
+
+[github]
+archived = false
+created_at = "2015-05-22T18:43:46Z"
+default_branch = "master"
+description = "A static site for BarCamp Denton."
+disabled = false
+fork = true
+forks_within = 0
+full_name = "opendenton/barcampdenton"
+has_downloads = true
+has_issues = false
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 36_089_350
+language = { }
+license = { }
+name = "barcampdenton"
+node_id = "MDEwOlJlcG9zaXRvcnkzNjA4OTM1MA=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_734_243
+  login = "opendenton"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjY3MzQyNDM="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

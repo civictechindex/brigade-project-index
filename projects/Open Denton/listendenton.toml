@@ -1,6 +1,46 @@
 code_url = "https://github.com/opendenton/listendenton"
 description = "Basic site for ListenDenton.com form entry."
-git_branch = "master"
 git_url = "git://github.com/opendenton/listendenton.git"
-last_pushed_within = "over_a_year"
 name = "listendenton"
+organization_name = "Open Denton"
+
+[github]
+archived = false
+created_at = "2015-05-04T16:44:10Z"
+default_branch = "master"
+description = "Basic site for ListenDenton.com form entry."
+disabled = false
+fork = false
+forks_within = 0
+full_name = "opendenton/listendenton"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 35_046_727
+language = { }
+license = { }
+name = "listendenton"
+node_id = "MDEwOlJlcG9zaXRvcnkzNTA0NjcyNw=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_734_243
+  login = "opendenton"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjY3MzQyNDM="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

@@ -1,6 +1,46 @@
 code_url = "https://github.com/opendenton/City-of-Denton-Datasets"
 description = "Issue tracker for City of Denton Datasets"
-git_branch = "master"
 git_url = "git://github.com/opendenton/City-of-Denton-Datasets.git"
-last_pushed_within = "over_a_year"
 name = "City-of-Denton-Datasets"
+organization_name = "Open Denton"
+
+[github]
+archived = false
+created_at = "2017-02-02T07:50:35Z"
+default_branch = "master"
+description = "Issue tracker for City of Denton Datasets"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "opendenton/City-of-Denton-Datasets"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 80_704_214
+language = "PHP"
+license = { }
+name = "City-of-Denton-Datasets"
+node_id = "MDEwOlJlcG9zaXRvcnk4MDcwNDIxNA=="
+open_issues_within = 1_000
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_734_243
+  login = "opendenton"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjY3MzQyNDM="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

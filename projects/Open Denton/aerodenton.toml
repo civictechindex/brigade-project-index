@@ -1,6 +1,51 @@
 code_url = "https://github.com/opendenton/aerodenton"
 description = "Aero Denton is an air quality monitoring project for the city of Denton, Texas."
-git_branch = "master"
 git_url = "git://github.com/opendenton/aerodenton.git"
-last_pushed_within = "over_a_year"
 name = "aerodenton"
+organization_name = "Open Denton"
+
+[github]
+archived = false
+created_at = "2019-04-25T06:00:22Z"
+default_branch = "master"
+description = "Aero Denton is an air quality monitoring project for the city of Denton, Texas."
+disabled = false
+fork = false
+forks_within = 10
+full_name = "opendenton/aerodenton"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 183_366_392
+language = "Python"
+name = "aerodenton"
+node_id = "MDEwOlJlcG9zaXRvcnkxODMzNjYzOTI="
+open_issues_within = 10
+private = false
+pushed_within = "year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_734_243
+  login = "opendenton"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjY3MzQyNDM="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

@@ -1,7 +1,52 @@
 code_url = "https://github.com/opendenton/mark-a-spot"
 description = "Public Civic Issue Tracking and Crowdsourcing / Mapping Platform based on Drupal 8. Open311 Server and Client Software"
-git_branch = "master"
 git_url = "git://github.com/opendenton/mark-a-spot.git"
-last_pushed_within = "over_a_year"
 link_url = "http://mark-a-spot.com"
 name = "mark-a-spot"
+organization_name = "Open Denton"
+
+[github]
+archived = false
+created_at = "2019-01-10T06:19:46Z"
+default_branch = "master"
+description = "Public Civic Issue Tracking and Crowdsourcing / Mapping Platform based on Drupal 8. Open311 Server and Client Software"
+disabled = false
+fork = true
+forks_within = 0
+full_name = "opendenton/mark-a-spot"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = false
+homepage = "http://mark-a-spot.com"
+id = 165_002_417
+language = "PHP"
+name = "mark-a-spot"
+node_id = "MDEwOlJlcG9zaXRvcnkxNjUwMDI0MTc="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "gpl-2.0"
+  name = "GNU General Public License v2.0"
+  node_id = "MDc6TGljZW5zZTg="
+  spdx_id = "GPL-2.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_734_243
+  login = "opendenton"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjY3MzQyNDM="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
