@@ -1,6 +1,51 @@
 code_url = "https://github.com/codefordc/strategic-plan"
 description = "Code for DC Strategic Plan (FY 2014)"
-git_branch = "master"
 git_url = "git://github.com/codefordc/strategic-plan.git"
-last_pushed_within = "over_a_year"
 name = "strategic-plan"
+organization_name = "Code for DC"
+
+[github]
+archived = false
+created_at = "2014-05-18T20:29:02Z"
+default_branch = "master"
+description = "Code for DC Strategic Plan (FY 2014)"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "codefordc/strategic-plan"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 19_920_318
+language = { }
+name = "strategic-plan"
+node_id = "MDEwOlJlcG9zaXRvcnkxOTkyMDMxOA=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "cc0-1.0"
+  name = "Creative Commons Zero v1.0 Universal"
+  node_id = "MDc6TGljZW5zZTY="
+  spdx_id = "CC0-1.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_768_897
+  login = "codefordc"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI3Njg4OTc="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

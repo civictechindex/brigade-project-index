@@ -1,6 +1,46 @@
 code_url = "https://github.com/codefordc/dchoodmaps"
 description = "DC neighborhood boundaries"
-git_branch = "master"
 git_url = "git://github.com/codefordc/dchoodmaps.git"
-last_pushed_within = "over_a_year"
 name = "dchoodmaps"
+organization_name = "Code for DC"
+
+[github]
+archived = false
+created_at = "2013-02-15T14:29:07Z"
+default_branch = "master"
+description = "DC neighborhood boundaries"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "codefordc/dchoodmaps"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 8_219_660
+language = { }
+license = { }
+name = "dchoodmaps"
+node_id = "MDEwOlJlcG9zaXRvcnk4MjE5NjYw"
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_768_897
+  login = "codefordc"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI3Njg4OTc="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

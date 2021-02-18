@@ -1,7 +1,52 @@
 code_url = "https://github.com/codefordc/ancfinder"
 description = "A website about DC's Advisory Neighborhood Commission system."
-git_branch = "master"
 git_url = "git://github.com/codefordc/ancfinder.git"
-last_pushed_within = "over_a_year"
 link_url = "http://ancfinder.org/"
 name = "ancfinder"
+organization_name = "Code for DC"
+
+[github]
+archived = false
+created_at = "2013-03-11T23:54:30Z"
+default_branch = "master"
+description = "A website about DC's Advisory Neighborhood Commission system."
+disabled = false
+fork = false
+forks_within = 100
+full_name = "codefordc/ancfinder"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://ancfinder.org/"
+id = 8_715_969
+language = "Python"
+name = "ancfinder"
+node_id = "MDEwOlJlcG9zaXRvcnk4NzE1OTY5"
+open_issues_within = 100
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 100
+topics = [ ]
+updated_within = "year"
+watchers_within = 100
+
+  [github.license]
+  key = "cc0-1.0"
+  name = "Creative Commons Zero v1.0 Universal"
+  node_id = "MDc6TGljZW5zZTY="
+  spdx_id = "CC0-1.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_768_897
+  login = "codefordc"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI3Njg4OTc="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

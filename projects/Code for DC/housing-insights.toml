@@ -1,7 +1,52 @@
 code_url = "https://github.com/codefordc/housing-insights"
 description = "Bringing open data to affordable housing decision makers in Washington DC. A D3/Javascript based website to visualize data related to affordable housing in Washington DC. Data processing with Python."
-git_branch = "dev"
 git_url = "git://github.com/codefordc/housing-insights.git"
-last_pushed_within = "month"
 link_url = "http://housinginsights.org"
 name = "housing-insights"
+organization_name = "Code for DC"
+
+[github]
+archived = false
+created_at = "2016-09-09T00:00:20Z"
+default_branch = "dev"
+description = "Bringing open data to affordable housing decision makers in Washington DC. A D3/Javascript based website to visualize data related to affordable housing in Washington DC. Data processing with Python."
+disabled = false
+fork = false
+forks_within = 1_000
+full_name = "codefordc/housing-insights"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "http://housinginsights.org"
+id = 67_749_425
+language = "Python"
+name = "housing-insights"
+node_id = "MDEwOlJlcG9zaXRvcnk2Nzc0OTQyNQ=="
+open_issues_within = 100
+private = false
+pushed_within = "month"
+stargazers_within = 100
+topics = [ ]
+updated_within = "year"
+watchers_within = 100
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_768_897
+  login = "codefordc"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI3Njg4OTc="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

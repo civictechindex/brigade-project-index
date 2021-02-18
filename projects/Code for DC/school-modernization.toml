@@ -1,7 +1,52 @@
 code_url = "https://github.com/codefordc/school-modernization"
 description = "Looking at fifteen years of school modernization funds"
-git_branch = "master"
 git_url = "git://github.com/codefordc/school-modernization.git"
-last_pushed_within = "over_a_year"
 link_url = "http://forgenerationstocome.org"
 name = "school-modernization"
+organization_name = "Code for DC"
+
+[github]
+archived = false
+created_at = "2015-11-17T01:01:13Z"
+default_branch = "master"
+description = "Looking at fifteen years of school modernization funds"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codefordc/school-modernization"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "http://forgenerationstocome.org"
+id = 46_313_726
+language = "HTML"
+name = "school-modernization"
+node_id = "MDEwOlJlcG9zaXRvcnk0NjMxMzcyNg=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "cc0-1.0"
+  name = "Creative Commons Zero v1.0 Universal"
+  node_id = "MDc6TGljZW5zZTY="
+  spdx_id = "CC0-1.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_768_897
+  login = "codefordc"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI3Njg4OTc="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

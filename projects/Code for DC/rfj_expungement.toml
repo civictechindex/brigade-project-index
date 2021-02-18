@@ -1,6 +1,51 @@
 code_url = "https://github.com/codefordc/rfj_expungement"
 description = "Tool for pro bono attorneys helping the Rising for Justice’s Expungement Clinic"
-git_branch = "master"
 git_url = "git://github.com/codefordc/rfj_expungement.git"
-last_pushed_within = "year"
 name = "rfj_expungement"
+organization_name = "Code for DC"
+
+[github]
+archived = false
+created_at = "2019-08-23T00:13:38Z"
+default_branch = "master"
+description = "Tool for pro bono attorneys helping the Rising for Justice’s Expungement Clinic"
+disabled = false
+fork = false
+forks_within = 100
+full_name = "codefordc/rfj_expungement"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 203_892_600
+language = "JavaScript"
+name = "rfj_expungement"
+node_id = "MDEwOlJlcG9zaXRvcnkyMDM4OTI2MDA="
+open_issues_within = 100
+private = false
+pushed_within = "year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "year"
+watchers_within = 10
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_768_897
+  login = "codefordc"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI3Njg4OTc="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

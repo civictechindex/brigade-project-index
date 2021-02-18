@@ -1,6 +1,46 @@
 code_url = "https://github.com/codefordc/branding-assets"
 description = "This is a collection of logos, graphics, text, etc, that projects can use to co-brand with Code for DC."
-git_branch = "master"
 git_url = "git://github.com/codefordc/branding-assets.git"
-last_pushed_within = "over_a_year"
 name = "branding-assets"
+organization_name = "Code for DC"
+
+[github]
+archived = false
+created_at = "2013-10-19T15:01:16Z"
+default_branch = "master"
+description = "This is a collection of logos, graphics, text, etc, that projects can use to co-brand with Code for DC."
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codefordc/branding-assets"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 13_702_878
+language = { }
+license = { }
+name = "branding-assets"
+node_id = "MDEwOlJlcG9zaXRvcnkxMzcwMjg3OA=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_768_897
+  login = "codefordc"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI3Njg4OTc="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

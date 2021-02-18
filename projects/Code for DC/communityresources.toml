@@ -1,7 +1,47 @@
 code_url = "https://github.com/codefordc/communityresources"
 description = "DC Community Resource Data (Formerly DC Open 211)"
-git_branch = "gh-pages"
 git_url = "git://github.com/codefordc/communityresources.git"
-last_pushed_within = "over_a_year"
 link_url = "http://communityresourcedata.codefordc.org/"
 name = "communityresources"
+organization_name = "Code for DC"
+
+[github]
+archived = false
+created_at = "2013-06-30T00:24:59Z"
+default_branch = "gh-pages"
+description = "DC Community Resource Data (Formerly DC Open 211)"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codefordc/communityresources"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "http://communityresourcedata.codefordc.org/"
+id = 11_062_071
+language = "CSS"
+license = { }
+name = "communityresources"
+node_id = "MDEwOlJlcG9zaXRvcnkxMTA2MjA3MQ=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_768_897
+  login = "codefordc"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI3Njg4OTc="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

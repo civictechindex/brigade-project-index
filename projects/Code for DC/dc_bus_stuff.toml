@@ -1,6 +1,46 @@
 code_url = "https://github.com/codefordc/dc_bus_stuff"
 description = "looking at DC bustime data"
-git_branch = "master"
 git_url = "git://github.com/codefordc/dc_bus_stuff.git"
-last_pushed_within = "over_a_year"
 name = "dc_bus_stuff"
+organization_name = "Code for DC"
+
+[github]
+archived = false
+created_at = "2019-06-05T01:46:21Z"
+default_branch = "master"
+description = "looking at DC bustime data"
+disabled = false
+fork = true
+forks_within = 0
+full_name = "codefordc/dc_bus_stuff"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 190_307_187
+language = "Jupyter Notebook"
+license = { }
+name = "dc_bus_stuff"
+node_id = "MDEwOlJlcG9zaXRvcnkxOTAzMDcxODc="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_768_897
+  login = "codefordc"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI3Njg4OTc="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

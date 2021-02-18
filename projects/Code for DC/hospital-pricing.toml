@@ -1,6 +1,46 @@
 code_url = "https://github.com/codefordc/hospital-pricing"
 description = "Repository to store data related to DC hospital pricing"
-git_branch = "master"
 git_url = "git://github.com/codefordc/hospital-pricing.git"
-last_pushed_within = "over_a_year"
 name = "hospital-pricing"
+organization_name = "Code for DC"
+
+[github]
+archived = false
+created_at = "2019-01-09T00:40:58Z"
+default_branch = "master"
+description = "Repository to store data related to DC hospital pricing"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codefordc/hospital-pricing"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 164_756_990
+language = { }
+license = { }
+name = "hospital-pricing"
+node_id = "MDEwOlJlcG9zaXRvcnkxNjQ3NTY5OTA="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_768_897
+  login = "codefordc"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI3Njg4OTc="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

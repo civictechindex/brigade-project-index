@@ -1,7 +1,52 @@
 code_url = "https://github.com/codefordc/adopt-a-hydrant"
 description = 'A Ruby on Rails application that allows citizens to "adopt" civic infrastructure, such as fire hydrants.'
-git_branch = "master"
 git_url = "git://github.com/codefordc/adopt-a-hydrant.git"
-last_pushed_within = "over_a_year"
 link_url = "http://hydrants.codefordc.org"
 name = "adopt-a-hydrant"
+organization_name = "Code for DC"
+
+[github]
+archived = false
+created_at = "2012-11-11T16:35:59Z"
+default_branch = "master"
+description = 'A Ruby on Rails application that allows citizens to "adopt" civic infrastructure, such as fire hydrants.'
+disabled = false
+fork = true
+forks_within = 10
+full_name = "codefordc/adopt-a-hydrant"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://hydrants.codefordc.org"
+id = 6_640_408
+language = "Ruby"
+name = "adopt-a-hydrant"
+node_id = "MDEwOlJlcG9zaXRvcnk2NjQwNDA4"
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "bsd-3-clause"
+  name = 'BSD 3-Clause "New" or "Revised" License'
+  node_id = "MDc6TGljZW5zZTU="
+  spdx_id = "BSD-3-Clause"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_768_897
+  login = "codefordc"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI3Njg4OTc="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

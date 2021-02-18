@@ -1,7 +1,47 @@
 code_url = "https://github.com/codefordc/dcps-budget"
 description = "Visualization of the DC Public Schools Budget"
-git_branch = "master"
 git_url = "git://github.com/codefordc/dcps-budget.git"
-last_pushed_within = "over_a_year"
 link_url = "http://fy16budget.ourdcschools.org/"
 name = "dcps-budget"
+organization_name = "Code for DC"
+
+[github]
+archived = false
+created_at = "2015-03-24T23:32:11Z"
+default_branch = "master"
+description = "Visualization of the DC Public Schools Budget"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "codefordc/dcps-budget"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "http://fy16budget.ourdcschools.org/"
+id = 32_831_162
+language = "HTML"
+license = { }
+name = "dcps-budget"
+node_id = "MDEwOlJlcG9zaXRvcnkzMjgzMTE2Mg=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_768_897
+  login = "codefordc"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI3Njg4OTc="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

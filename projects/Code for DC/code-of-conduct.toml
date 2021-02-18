@@ -1,6 +1,51 @@
 code_url = "https://github.com/codefordc/code-of-conduct"
 description = "This repository contains the Code of Conduct used in the Code for DC community and Code for DC related events."
-git_branch = "master"
 git_url = "git://github.com/codefordc/code-of-conduct.git"
-last_pushed_within = "over_a_year"
 name = "code-of-conduct"
+organization_name = "Code for DC"
+
+[github]
+archived = false
+created_at = "2014-05-19T01:58:01Z"
+default_branch = "master"
+description = "This repository contains the Code of Conduct used in the Code for DC community and Code for DC related events."
+disabled = false
+fork = false
+forks_within = 0
+full_name = "codefordc/code-of-conduct"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 19_926_261
+language = { }
+name = "code-of-conduct"
+node_id = "MDEwOlJlcG9zaXRvcnkxOTkyNjI2MQ=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "cc0-1.0"
+  name = "Creative Commons Zero v1.0 Universal"
+  node_id = "MDc6TGljZW5zZTY="
+  spdx_id = "CC0-1.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_768_897
+  login = "codefordc"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI3Njg4OTc="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

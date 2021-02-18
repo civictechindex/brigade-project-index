@@ -1,7 +1,52 @@
 code_url = "https://github.com/codefordc/dc-klaxon"
 description = "Klaxon enables reporters and editors to monitor scores of sites on the web for newsworthy changes."
-git_branch = "develop"
 git_url = "git://github.com/codefordc/dc-klaxon.git"
-last_pushed_within = "over_a_year"
 link_url = "https://newsklaxon.org"
 name = "dc-klaxon"
+organization_name = "Code for DC"
+
+[github]
+archived = false
+created_at = "2017-04-18T00:08:18Z"
+default_branch = "develop"
+description = "Klaxon enables reporters and editors to monitor scores of sites on the web for newsworthy changes."
+disabled = false
+fork = true
+forks_within = 0
+full_name = "codefordc/dc-klaxon"
+has_downloads = true
+has_issues = false
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "https://newsklaxon.org"
+id = 88_562_115
+language = "Ruby"
+name = "dc-klaxon"
+node_id = "MDEwOlJlcG9zaXRvcnk4ODU2MjExNQ=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_768_897
+  login = "codefordc"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI3Njg4OTc="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

@@ -1,7 +1,52 @@
 code_url = "https://github.com/codefordc/ERDA"
 description = "Analysis of emergency response data for Washington, DC."
-git_branch = "master"
 git_url = "git://github.com/codefordc/ERDA.git"
-last_pushed_within = "over_a_year"
 link_url = "http://codefordc.github.io/ERDA/"
 name = "ERDA"
+organization_name = "Code for DC"
+
+[github]
+archived = false
+created_at = "2014-04-30T00:47:20Z"
+default_branch = "master"
+description = "Analysis of emergency response data for Washington, DC."
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codefordc/ERDA"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "http://codefordc.github.io/ERDA/"
+id = 19_296_315
+language = "Python"
+name = "ERDA"
+node_id = "MDEwOlJlcG9zaXRvcnkxOTI5NjMxNQ=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "bsd-3-clause"
+  name = 'BSD 3-Clause "New" or "Revised" License'
+  node_id = "MDc6TGljZW5zZTU="
+  spdx_id = "BSD-3-Clause"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_768_897
+  login = "codefordc"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI3Njg4OTc="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

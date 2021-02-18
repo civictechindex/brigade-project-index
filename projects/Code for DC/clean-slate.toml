@@ -1,7 +1,52 @@
 code_url = "https://github.com/codefordc/clean-slate"
 description = "**Please note that the v.1 code frests with CodeforDC, where it was originally developed and deployed by a truly, truly amazing team. As of March 16, 2016, all further development and deployment will happen from this repo, housed at https://github.com/MissionLaunch/clean-slate. "
-git_branch = "gh-pages"
 git_url = "git://github.com/codefordc/clean-slate.git"
-last_pushed_within = "over_a_year"
 link_url = "https://codefordc.github.io/clean-slate"
 name = "clean-slate"
+organization_name = "Code for DC"
+
+[github]
+archived = false
+created_at = "2015-01-09T00:15:28Z"
+default_branch = "gh-pages"
+description = "**Please note that the v.1 code frests with CodeforDC, where it was originally developed and deployed by a truly, truly amazing team. As of March 16, 2016, all further development and deployment will happen from this repo, housed at https://github.com/MissionLaunch/clean-slate. "
+disabled = false
+fork = false
+forks_within = 100
+full_name = "codefordc/clean-slate"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "https://codefordc.github.io/clean-slate"
+id = 28_992_747
+language = "HTML"
+name = "clean-slate"
+node_id = "MDEwOlJlcG9zaXRvcnkyODk5Mjc0Nw=="
+open_issues_within = 100
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 100
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 100
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_768_897
+  login = "codefordc"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI3Njg4OTc="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

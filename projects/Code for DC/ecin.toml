@@ -1,6 +1,51 @@
 code_url = "https://github.com/codefordc/ecin"
 description = "Early Childhood Innovation Network"
-git_branch = "master"
 git_url = "git://github.com/codefordc/ecin.git"
-last_pushed_within = "over_a_year"
 name = "ecin"
+organization_name = "Code for DC"
+
+[github]
+archived = false
+created_at = "2017-02-07T13:37:17Z"
+default_branch = "master"
+description = "Early Childhood Innovation Network"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "codefordc/ecin"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 81_211_830
+language = { }
+name = "ecin"
+node_id = "MDEwOlJlcG9zaXRvcnk4MTIxMTgzMA=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "gpl-3.0"
+  name = "GNU General Public License v3.0"
+  node_id = "MDc6TGljZW5zZTk="
+  spdx_id = "GPL-3.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_768_897
+  login = "codefordc"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI3Njg4OTc="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
