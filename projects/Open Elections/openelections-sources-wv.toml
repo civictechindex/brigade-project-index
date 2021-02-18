@@ -1,6 +1,46 @@
 code_url = "https://github.com/openelections/openelections-sources-wv"
 description = "Source data for West Virginia results"
-git_branch = "master"
 git_url = "git://github.com/openelections/openelections-sources-wv.git"
-last_pushed_within = "year"
 name = "openelections-sources-wv"
+organization_name = "Open Elections"
+
+[github]
+archived = false
+created_at = "2016-03-26T19:00:27Z"
+default_branch = "master"
+description = "Source data for West Virginia results"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "openelections/openelections-sources-wv"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 54_794_646
+language = "HTML"
+license = { }
+name = "openelections-sources-wv"
+node_id = "MDEwOlJlcG9zaXRvcnk1NDc5NDY0Ng=="
+open_issues_within = 10
+private = false
+pushed_within = "year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 1_905_990
+  login = "openelections"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE5MDU5OTA="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

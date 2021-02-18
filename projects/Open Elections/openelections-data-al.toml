@@ -1,6 +1,46 @@
 code_url = "https://github.com/openelections/openelections-data-al"
 description = "Pre-processed results for Alabama elections"
-git_branch = "master"
 git_url = "git://github.com/openelections/openelections-data-al.git"
-last_pushed_within = "week"
 name = "openelections-data-al"
+organization_name = "Open Elections"
+
+[github]
+archived = false
+created_at = "2017-01-04T01:51:23Z"
+default_branch = "master"
+description = "Pre-processed results for Alabama elections"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "openelections/openelections-data-al"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 77_969_992
+language = "Python"
+license = { }
+name = "openelections-data-al"
+node_id = "MDEwOlJlcG9zaXRvcnk3Nzk2OTk5Mg=="
+open_issues_within = 10
+private = false
+pushed_within = "year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 1_905_990
+  login = "openelections"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE5MDU5OTA="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

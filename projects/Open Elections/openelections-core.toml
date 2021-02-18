@@ -1,7 +1,52 @@
 code_url = "https://github.com/openelections/openelections-core"
 description = "Core repo for election results data acquisition, transformation and output."
-git_branch = "master"
 git_url = "git://github.com/openelections/openelections-core.git"
-last_pushed_within = "week"
 name = "openelections-core"
+organization_name = "Open Elections"
 topics = [ "elections", "openelections" ]
+
+[github]
+archived = false
+created_at = "2013-07-12T19:52:57Z"
+default_branch = "master"
+description = "Core repo for election results data acquisition, transformation and output."
+disabled = false
+fork = false
+forks_within = 100
+full_name = "openelections/openelections-core"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 11_376_829
+language = "Python"
+name = "openelections-core"
+node_id = "MDEwOlJlcG9zaXRvcnkxMTM3NjgyOQ=="
+open_issues_within = 100
+private = false
+pushed_within = "year"
+stargazers_within = 1_000
+topics = [ "elections", "openelections" ]
+updated_within = "week"
+watchers_within = 1_000
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 1_905_990
+  login = "openelections"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE5MDU5OTA="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

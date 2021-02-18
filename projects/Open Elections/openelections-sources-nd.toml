@@ -1,6 +1,46 @@
 code_url = "https://github.com/openelections/openelections-sources-nd"
 description = "Original results source documents for North Dakota elections"
-git_branch = "master"
 git_url = "git://github.com/openelections/openelections-sources-nd.git"
-last_pushed_within = "over_a_year"
 name = "openelections-sources-nd"
+organization_name = "Open Elections"
+
+[github]
+archived = false
+created_at = "2016-10-12T23:20:11Z"
+default_branch = "master"
+description = "Original results source documents for North Dakota elections"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "openelections/openelections-sources-nd"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 70_749_740
+language = "R"
+license = { }
+name = "openelections-sources-nd"
+node_id = "MDEwOlJlcG9zaXRvcnk3MDc0OTc0MA=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 1_905_990
+  login = "openelections"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE5MDU5OTA="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

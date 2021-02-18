@@ -1,6 +1,46 @@
 code_url = "https://github.com/openelections/openelections-data-sd"
 description = "Election results for South Dakota"
-git_branch = "master"
 git_url = "git://github.com/openelections/openelections-data-sd.git"
-last_pushed_within = "week"
 name = "openelections-data-sd"
+organization_name = "Open Elections"
+
+[github]
+archived = false
+created_at = "2014-05-17T23:10:14Z"
+default_branch = "master"
+description = "Election results for South Dakota"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "openelections/openelections-data-sd"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 19_898_343
+language = "Python"
+license = { }
+name = "openelections-data-sd"
+node_id = "MDEwOlJlcG9zaXRvcnkxOTg5ODM0Mw=="
+open_issues_within = 10
+private = false
+pushed_within = "month"
+stargazers_within = 0
+topics = [ ]
+updated_within = "month"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 1_905_990
+  login = "openelections"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE5MDU5OTA="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

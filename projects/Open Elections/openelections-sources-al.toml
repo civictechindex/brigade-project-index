@@ -1,6 +1,46 @@
 code_url = "https://github.com/openelections/openelections-sources-al"
 description = "Official results files from Alabama jurisdictions"
-git_branch = "master"
 git_url = "git://github.com/openelections/openelections-sources-al.git"
-last_pushed_within = "month"
 name = "openelections-sources-al"
+organization_name = "Open Elections"
+
+[github]
+archived = false
+created_at = "2017-05-30T01:36:47Z"
+default_branch = "master"
+description = "Official results files from Alabama jurisdictions"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "openelections/openelections-sources-al"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 92_788_773
+language = { }
+license = { }
+name = "openelections-sources-al"
+node_id = "MDEwOlJlcG9zaXRvcnk5Mjc4ODc3Mw=="
+open_issues_within = 10
+private = false
+pushed_within = "year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 1_905_990
+  login = "openelections"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE5MDU5OTA="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

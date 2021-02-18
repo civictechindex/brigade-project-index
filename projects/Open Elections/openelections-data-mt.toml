@@ -1,7 +1,47 @@
 code_url = "https://github.com/openelections/openelections-data-mt"
 description = "Pre-processed results for Montana elections"
-git_branch = "master"
 git_url = "git://github.com/openelections/openelections-data-mt.git"
-last_pushed_within = "over_a_year"
 name = "openelections-data-mt"
+organization_name = "Open Elections"
 topics = [ "elections", "montana" ]
+
+[github]
+archived = false
+created_at = "2016-01-27T00:42:16Z"
+default_branch = "master"
+description = "Pre-processed results for Montana elections"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "openelections/openelections-data-mt"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 50_470_028
+language = "Python"
+license = { }
+name = "openelections-data-mt"
+node_id = "MDEwOlJlcG9zaXRvcnk1MDQ3MDAyOA=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ "elections", "montana" ]
+updated_within = "year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 1_905_990
+  login = "openelections"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE5MDU5OTA="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

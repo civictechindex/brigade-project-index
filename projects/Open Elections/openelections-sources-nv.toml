@@ -1,6 +1,46 @@
 code_url = "https://github.com/openelections/openelections-sources-nv"
 description = "Original source documents from Nevada elections"
-git_branch = "master"
 git_url = "git://github.com/openelections/openelections-sources-nv.git"
-last_pushed_within = "month"
 name = "openelections-sources-nv"
+organization_name = "Open Elections"
+
+[github]
+archived = false
+created_at = "2018-01-08T01:59:39Z"
+default_branch = "master"
+description = "Original source documents from Nevada elections"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "openelections/openelections-sources-nv"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 116_616_360
+language = { }
+license = { }
+name = "openelections-sources-nv"
+node_id = "MDEwOlJlcG9zaXRvcnkxMTY2MTYzNjA="
+open_issues_within = 0
+private = false
+pushed_within = "year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 1_905_990
+  login = "openelections"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE5MDU5OTA="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

@@ -1,6 +1,46 @@
 code_url = "https://github.com/openelections/openelections-sources-il"
 description = "Source files for Illinois results"
-git_branch = "master"
 git_url = "git://github.com/openelections/openelections-sources-il.git"
-last_pushed_within = "week"
 name = "openelections-sources-il"
+organization_name = "Open Elections"
+
+[github]
+archived = false
+created_at = "2016-04-17T01:43:31Z"
+default_branch = "master"
+description = "Source files for Illinois results"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "openelections/openelections-sources-il"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 56_413_905
+language = "HTML"
+license = { }
+name = "openelections-sources-il"
+node_id = "MDEwOlJlcG9zaXRvcnk1NjQxMzkwNQ=="
+open_issues_within = 0
+private = false
+pushed_within = "year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 1_905_990
+  login = "openelections"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE5MDU5OTA="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

@@ -1,6 +1,46 @@
 code_url = "https://github.com/openelections/openelections-sources-nh"
 description = "Original source documents from New Hampshire elections"
-git_branch = "master"
 git_url = "git://github.com/openelections/openelections-sources-nh.git"
-last_pushed_within = "over_a_year"
 name = "openelections-sources-nh"
+organization_name = "Open Elections"
+
+[github]
+archived = false
+created_at = "2018-07-14T16:04:57Z"
+default_branch = "master"
+description = "Original source documents from New Hampshire elections"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "openelections/openelections-sources-nh"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 140_959_457
+language = { }
+license = { }
+name = "openelections-sources-nh"
+node_id = "MDEwOlJlcG9zaXRvcnkxNDA5NTk0NTc="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 1_905_990
+  login = "openelections"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE5MDU5OTA="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

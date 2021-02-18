@@ -1,6 +1,46 @@
 code_url = "https://github.com/openelections/openelections-data-fl"
 description = "Converted CSV files of precinct-level election results"
-git_branch = "master"
 git_url = "git://github.com/openelections/openelections-data-fl.git"
-last_pushed_within = "week"
 name = "openelections-data-fl"
+organization_name = "Open Elections"
+
+[github]
+archived = false
+created_at = "2019-11-25T17:18:59Z"
+default_branch = "master"
+description = "Converted CSV files of precinct-level election results"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "openelections/openelections-data-fl"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 224_002_945
+language = "Python"
+license = { }
+name = "openelections-data-fl"
+node_id = "MDEwOlJlcG9zaXRvcnkyMjQwMDI5NDU="
+open_issues_within = 10
+private = false
+pushed_within = "week"
+stargazers_within = 10
+topics = [ ]
+updated_within = "week"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 1_905_990
+  login = "openelections"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE5MDU5OTA="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

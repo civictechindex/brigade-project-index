@@ -1,6 +1,46 @@
 code_url = "https://github.com/openelections/openelections-sources-ne"
 description = "Official results files from Nebraska jurisdictions"
-git_branch = "master"
 git_url = "git://github.com/openelections/openelections-sources-ne.git"
-last_pushed_within = "over_a_year"
 name = "openelections-sources-ne"
+organization_name = "Open Elections"
+
+[github]
+archived = false
+created_at = "2017-02-14T11:53:16Z"
+default_branch = "master"
+description = "Official results files from Nebraska jurisdictions"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "openelections/openelections-sources-ne"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 81_940_464
+language = "HTML"
+license = { }
+name = "openelections-sources-ne"
+node_id = "MDEwOlJlcG9zaXRvcnk4MTk0MDQ2NA=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 1_905_990
+  login = "openelections"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE5MDU5OTA="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

@@ -1,6 +1,46 @@
 code_url = "https://github.com/openelections/openelections-data-pa"
 description = "Pre-processed election results for Pennsylvania elections"
-git_branch = "master"
 git_url = "git://github.com/openelections/openelections-data-pa.git"
-last_pushed_within = "week"
 name = "openelections-data-pa"
+organization_name = "Open Elections"
+
+[github]
+archived = false
+created_at = "2014-05-24T00:12:31Z"
+default_branch = "master"
+description = "Pre-processed election results for Pennsylvania elections"
+disabled = false
+fork = false
+forks_within = 100
+full_name = "openelections/openelections-data-pa"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 20_118_027
+language = "Python"
+license = { }
+name = "openelections-data-pa"
+node_id = "MDEwOlJlcG9zaXRvcnkyMDExODAyNw=="
+open_issues_within = 100
+private = false
+pushed_within = "week"
+stargazers_within = 100
+topics = [ ]
+updated_within = "week"
+watchers_within = 100
+
+  [github.owner]
+  gravatar_id = ""
+  id = 1_905_990
+  login = "openelections"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE5MDU5OTA="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

@@ -1,6 +1,46 @@
 code_url = "https://github.com/openelections/openelections-sources-tx"
 description = "Unprocessed results files from Texas"
-git_branch = "master"
 git_url = "git://github.com/openelections/openelections-sources-tx.git"
-last_pushed_within = "week"
 name = "openelections-sources-tx"
+organization_name = "Open Elections"
+
+[github]
+archived = false
+created_at = "2016-02-02T13:11:18Z"
+default_branch = "master"
+description = "Unprocessed results files from Texas"
+disabled = false
+fork = false
+forks_within = 100
+full_name = "openelections/openelections-sources-tx"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 50_921_392
+language = "AGS Script"
+license = { }
+name = "openelections-sources-tx"
+node_id = "MDEwOlJlcG9zaXRvcnk1MDkyMTM5Mg=="
+open_issues_within = 100
+private = false
+pushed_within = "month"
+stargazers_within = 10
+topics = [ ]
+updated_within = "month"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 1_905_990
+  login = "openelections"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE5MDU5OTA="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

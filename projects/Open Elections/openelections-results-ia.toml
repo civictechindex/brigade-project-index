@@ -1,6 +1,46 @@
 code_url = "https://github.com/openelections/openelections-results-ia"
 description = "Published results for Iowa"
-git_branch = "master"
 git_url = "git://github.com/openelections/openelections-results-ia.git"
-last_pushed_within = "over_a_year"
 name = "openelections-results-ia"
+organization_name = "Open Elections"
+
+[github]
+archived = false
+created_at = "2014-11-30T18:17:35Z"
+default_branch = "master"
+description = "Published results for Iowa"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "openelections/openelections-results-ia"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 27_345_290
+language = { }
+license = { }
+name = "openelections-results-ia"
+node_id = "MDEwOlJlcG9zaXRvcnkyNzM0NTI5MA=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 1_905_990
+  login = "openelections"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE5MDU5OTA="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

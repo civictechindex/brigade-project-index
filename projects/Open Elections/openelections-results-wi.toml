@@ -1,6 +1,46 @@
 code_url = "https://github.com/openelections/openelections-results-wi"
 description = "Raw results for Wisconsin elections"
-git_branch = "master"
 git_url = "git://github.com/openelections/openelections-results-wi.git"
-last_pushed_within = "over_a_year"
 name = "openelections-results-wi"
+organization_name = "Open Elections"
+
+[github]
+archived = false
+created_at = "2018-09-10T15:08:34Z"
+default_branch = "master"
+description = "Raw results for Wisconsin elections"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "openelections/openelections-results-wi"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 148_174_115
+language = { }
+license = { }
+name = "openelections-results-wi"
+node_id = "MDEwOlJlcG9zaXRvcnkxNDgxNzQxMTU="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 1_905_990
+  login = "openelections"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE5MDU5OTA="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

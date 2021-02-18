@@ -1,6 +1,46 @@
 code_url = "https://github.com/openelections/openelections-sources-mo"
 description = "Original source files from Missouri elections"
-git_branch = "master"
 git_url = "git://github.com/openelections/openelections-sources-mo.git"
-last_pushed_within = "week"
 name = "openelections-sources-mo"
+organization_name = "Open Elections"
+
+[github]
+archived = false
+created_at = "2017-09-30T15:54:55Z"
+default_branch = "master"
+description = "Original source files from Missouri elections"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "openelections/openelections-sources-mo"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 105_381_219
+language = "HTML"
+license = { }
+name = "openelections-sources-mo"
+node_id = "MDEwOlJlcG9zaXRvcnkxMDUzODEyMTk="
+open_issues_within = 10
+private = false
+pushed_within = "month"
+stargazers_within = 10
+topics = [ ]
+updated_within = "month"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 1_905_990
+  login = "openelections"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE5MDU5OTA="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

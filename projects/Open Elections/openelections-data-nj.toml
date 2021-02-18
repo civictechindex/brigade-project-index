@@ -1,6 +1,46 @@
 code_url = "https://github.com/openelections/openelections-data-nj"
 description = "Pre-processed results for New Jersey elections"
-git_branch = "master"
 git_url = "git://github.com/openelections/openelections-data-nj.git"
-last_pushed_within = "year"
 name = "openelections-data-nj"
+organization_name = "Open Elections"
+
+[github]
+archived = false
+created_at = "2016-04-04T23:20:13Z"
+default_branch = "master"
+description = "Pre-processed results for New Jersey elections"
+disabled = false
+fork = false
+forks_within = 100
+full_name = "openelections/openelections-data-nj"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 55_452_368
+language = "Python"
+license = { }
+name = "openelections-data-nj"
+node_id = "MDEwOlJlcG9zaXRvcnk1NTQ1MjM2OA=="
+open_issues_within = 10
+private = false
+pushed_within = "year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "week"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 1_905_990
+  login = "openelections"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE5MDU5OTA="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

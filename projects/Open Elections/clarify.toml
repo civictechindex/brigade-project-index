@@ -1,7 +1,52 @@
 code_url = "https://github.com/openelections/clarify"
 description = "Discover and parse results for jurisdictions that use Clarity-based election systems."
-git_branch = "master"
 git_url = "git://github.com/openelections/clarify.git"
-last_pushed_within = "week"
 name = "clarify"
+organization_name = "Open Elections"
 topics = [ "clarity", "election", "python", "xml" ]
+
+[github]
+archived = false
+created_at = "2014-11-13T13:58:51Z"
+default_branch = "master"
+description = "Discover and parse results for jurisdictions that use Clarity-based election systems."
+disabled = false
+fork = false
+forks_within = 100
+full_name = "openelections/clarify"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 26_590_129
+language = "Python"
+name = "clarify"
+node_id = "MDEwOlJlcG9zaXRvcnkyNjU5MDEyOQ=="
+open_issues_within = 10
+private = false
+pushed_within = "year"
+stargazers_within = 100
+topics = [ "clarity", "election", "python", "xml" ]
+updated_within = "month"
+watchers_within = 100
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 1_905_990
+  login = "openelections"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE5MDU5OTA="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

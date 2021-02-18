@@ -1,7 +1,47 @@
 code_url = "https://github.com/openelections/openelections-data-oh"
 description = "Pre-processed election results from Ohio"
-git_branch = "master"
 git_url = "git://github.com/openelections/openelections-data-oh.git"
-last_pushed_within = "week"
 name = "openelections-data-oh"
+organization_name = "Open Elections"
 topics = [ "elections", "ohio", "openelections" ]
+
+[github]
+archived = false
+created_at = "2015-05-02T11:50:21Z"
+default_branch = "master"
+description = "Pre-processed election results from Ohio"
+disabled = false
+fork = false
+forks_within = 100
+full_name = "openelections/openelections-data-oh"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 34_945_885
+language = "Python"
+license = { }
+name = "openelections-data-oh"
+node_id = "MDEwOlJlcG9zaXRvcnkzNDk0NTg4NQ=="
+open_issues_within = 10
+private = false
+pushed_within = "year"
+stargazers_within = 10
+topics = [ "elections", "ohio", "openelections" ]
+updated_within = "year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 1_905_990
+  login = "openelections"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE5MDU5OTA="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
