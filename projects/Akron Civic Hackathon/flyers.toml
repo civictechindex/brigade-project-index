@@ -1,6 +1,46 @@
 code_url = "https://github.com/AkronCivicHackathon/flyers"
 description = "A repo for any flyers created for Akron Civic Hackathon"
-git_branch = "master"
 git_url = "git://github.com/AkronCivicHackathon/flyers.git"
-last_pushed_within = "over_a_year"
 name = "flyers"
+organization_name = "Akron Civic Hackathon"
+
+[github]
+archived = false
+created_at = "2015-03-24T04:48:50Z"
+default_branch = "master"
+description = "A repo for any flyers created for Akron Civic Hackathon"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "AkronCivicHackathon/flyers"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 32_776_718
+language = { }
+license = { }
+name = "flyers"
+node_id = "MDEwOlJlcG9zaXRvcnkzMjc3NjcxOA=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 11_445_690
+  login = "AkronCivicHackathon"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjExNDQ1Njkw"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

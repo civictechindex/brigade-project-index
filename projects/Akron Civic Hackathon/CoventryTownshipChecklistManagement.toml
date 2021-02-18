@@ -1,6 +1,51 @@
 code_url = "https://github.com/AkronCivicHackathon/CoventryTownshipChecklistManagement"
 description = "A repository to improve the process used to manage various checks performed by the staff. Paper checklists to web forms basically."
-git_branch = "master"
 git_url = "git://github.com/AkronCivicHackathon/CoventryTownshipChecklistManagement.git"
-last_pushed_within = "over_a_year"
 name = "CoventryTownshipChecklistManagement"
+organization_name = "Akron Civic Hackathon"
+
+[github]
+archived = false
+created_at = "2015-06-18T19:50:07Z"
+default_branch = "master"
+description = "A repository to improve the process used to manage various checks performed by the staff. Paper checklists to web forms basically."
+disabled = false
+fork = false
+forks_within = 0
+full_name = "AkronCivicHackathon/CoventryTownshipChecklistManagement"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 37_681_247
+language = { }
+name = "CoventryTownshipChecklistManagement"
+node_id = "MDEwOlJlcG9zaXRvcnkzNzY4MTI0Nw=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "gpl-2.0"
+  name = "GNU General Public License v2.0"
+  node_id = "MDc6TGljZW5zZTg="
+  spdx_id = "GPL-2.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 11_445_690
+  login = "AkronCivicHackathon"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjExNDQ1Njkw"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
