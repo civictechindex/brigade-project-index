@@ -1,7 +1,52 @@
 code_url = "https://github.com/sfbrigade/citygram-sf-registries"
 description = "All of the ETL scripts for Citygram SF"
-git_branch = "master"
 git_url = "git://github.com/sfbrigade/citygram-sf-registries.git"
-last_pushed_within = "over_a_year"
 link_url = "https://citygram-sf-registries.herokuapp.com/"
 name = "citygram-sf-registries"
+organization_name = "Code for San Francisco"
+
+[github]
+archived = false
+created_at = "2014-10-16T03:39:07Z"
+default_branch = "master"
+description = "All of the ETL scripts for Citygram SF"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "sfbrigade/citygram-sf-registries"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "https://citygram-sf-registries.herokuapp.com/"
+id = 25_285_160
+language = "Ruby"
+name = "citygram-sf-registries"
+node_id = "MDEwOlJlcG9zaXRvcnkyNTI4NTE2MA=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 3_926_630
+  login = "sfbrigade"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM5MjY2MzA="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

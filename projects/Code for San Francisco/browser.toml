@@ -1,7 +1,52 @@
 code_url = "https://github.com/sfbrigade/browser"
 description = "a browser for the SF Code"
-git_branch = "gh-pages"
 git_url = "git://github.com/sfbrigade/browser.git"
-last_pushed_within = "over_a_year"
 link_url = "http://dccode.org/browser/"
 name = "browser"
+organization_name = "Code for San Francisco"
+
+[github]
+archived = false
+created_at = "2013-07-25T01:49:06Z"
+default_branch = "gh-pages"
+description = "a browser for the SF Code"
+disabled = false
+fork = true
+forks_within = 0
+full_name = "sfbrigade/browser"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://dccode.org/browser/"
+id = 11_649_501
+language = "JavaScript"
+name = "browser"
+node_id = "MDEwOlJlcG9zaXRvcnkxMTY0OTUwMQ=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "unlicense"
+  name = "The Unlicense"
+  node_id = "MDc6TGljZW5zZTE1"
+  spdx_id = "Unlicense"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 3_926_630
+  login = "sfbrigade"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM5MjY2MzA="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

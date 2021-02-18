@@ -1,7 +1,52 @@
 code_url = "https://github.com/sfbrigade/lighten-api"
 description = "Lighten is a web-based tool for social service providers to store, update, and exchange social services information through a universal standard. We are solving the problem of quickly getting the right help to the right people, by making it easy to get the right information to the right people."
-git_branch = "master"
 git_url = "git://github.com/sfbrigade/lighten-api.git"
-last_pushed_within = "over_a_year"
 link_url = "https://github.com/sfbrigade/lighten/wiki"
 name = "lighten-api"
+organization_name = "Code for San Francisco"
+
+[github]
+archived = false
+created_at = "2016-02-18T16:03:16Z"
+default_branch = "master"
+description = "Lighten is a web-based tool for social service providers to store, update, and exchange social services information through a universal standard. We are solving the problem of quickly getting the right help to the right people, by making it easy to get the right information to the right people."
+disabled = false
+fork = false
+forks_within = 10
+full_name = "sfbrigade/lighten-api"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = false
+homepage = "https://github.com/sfbrigade/lighten/wiki"
+id = 52_019_530
+language = "Python"
+name = "lighten-api"
+node_id = "MDEwOlJlcG9zaXRvcnk1MjAxOTUzMA=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "apache-2.0"
+  name = "Apache License 2.0"
+  node_id = "MDc6TGljZW5zZTI="
+  spdx_id = "Apache-2.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 3_926_630
+  login = "sfbrigade"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM5MjY2MzA="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

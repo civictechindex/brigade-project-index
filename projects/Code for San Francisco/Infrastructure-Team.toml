@@ -1,6 +1,46 @@
 code_url = "https://github.com/sfbrigade/Infrastructure-Team"
 description = "The central location for the SF Brigade Infrastructure Team organizational issues and planning."
-git_branch = "master"
 git_url = "git://github.com/sfbrigade/Infrastructure-Team.git"
-last_pushed_within = "over_a_year"
 name = "Infrastructure-Team"
+organization_name = "Code for San Francisco"
+
+[github]
+archived = false
+created_at = "2015-09-17T17:54:52Z"
+default_branch = "master"
+description = "The central location for the SF Brigade Infrastructure Team organizational issues and planning."
+disabled = false
+fork = false
+forks_within = 10
+full_name = "sfbrigade/Infrastructure-Team"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 42_672_333
+language = { }
+license = { }
+name = "Infrastructure-Team"
+node_id = "MDEwOlJlcG9zaXRvcnk0MjY3MjMzMw=="
+open_issues_within = 100
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 3_926_630
+  login = "sfbrigade"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM5MjY2MzA="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

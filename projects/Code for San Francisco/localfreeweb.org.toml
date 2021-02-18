@@ -1,7 +1,47 @@
 code_url = "https://github.com/sfbrigade/localfreeweb.org"
 description = "Text message any bus stop to find the closest free and accessible computers with internet."
-git_branch = "gh-pages"
 git_url = "git://github.com/sfbrigade/localfreeweb.org.git"
-last_pushed_within = "over_a_year"
 link_url = "http://localfreeweb.org/"
 name = "localfreeweb.org"
+organization_name = "Code for San Francisco"
+
+[github]
+archived = false
+created_at = "2014-07-24T02:58:21Z"
+default_branch = "gh-pages"
+description = "Text message any bus stop to find the closest free and accessible computers with internet."
+disabled = false
+fork = false
+forks_within = 10
+full_name = "sfbrigade/localfreeweb.org"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "http://localfreeweb.org/"
+id = 22_195_766
+language = "CSS"
+license = { }
+name = "localfreeweb.org"
+node_id = "MDEwOlJlcG9zaXRvcnkyMjE5NTc2Ng=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 3_926_630
+  login = "sfbrigade"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM5MjY2MzA="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

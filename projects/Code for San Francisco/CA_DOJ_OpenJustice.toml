@@ -1,6 +1,46 @@
 code_url = "https://github.com/sfbrigade/CA_DOJ_OpenJustice"
 description = "Statistical hypothesis tests and predictive modeling for the CA DOJ's OpenJustice project."
-git_branch = "master"
 git_url = "git://github.com/sfbrigade/CA_DOJ_OpenJustice.git"
-last_pushed_within = "over_a_year"
 name = "CA_DOJ_OpenJustice"
+organization_name = "Code for San Francisco"
+
+[github]
+archived = false
+created_at = "2016-08-20T17:45:32Z"
+default_branch = "master"
+description = "Statistical hypothesis tests and predictive modeling for the CA DOJ's OpenJustice project."
+disabled = false
+fork = false
+forks_within = 10
+full_name = "sfbrigade/CA_DOJ_OpenJustice"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 66_160_060
+language = "Jupyter Notebook"
+license = { }
+name = "CA_DOJ_OpenJustice"
+node_id = "MDEwOlJlcG9zaXRvcnk2NjE2MDA2MA=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 3_926_630
+  login = "sfbrigade"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM5MjY2MzA="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

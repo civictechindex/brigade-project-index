@@ -1,7 +1,52 @@
 code_url = "https://github.com/sfbrigade/data-covid19-sfbayarea"
 description = "Manual and automated processes of sourcing data for the stop-covid19-sfbayarea project"
-git_branch = "master"
 git_url = "git://github.com/sfbrigade/data-covid19-sfbayarea.git"
-last_pushed_within = "month"
 name = "data-covid19-sfbayarea"
+organization_name = "Code for San Francisco"
 topics = [ "covid-19", "data", "python", "web-scraping" ]
+
+[github]
+archived = false
+created_at = "2020-03-21T02:34:02Z"
+default_branch = "master"
+description = "Manual and automated processes of sourcing data for the stop-covid19-sfbayarea project"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "sfbrigade/data-covid19-sfbayarea"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 248_893_035
+language = "Python"
+name = "data-covid19-sfbayarea"
+node_id = "MDEwOlJlcG9zaXRvcnkyNDg4OTMwMzU="
+open_issues_within = 100
+private = false
+pushed_within = "week"
+stargazers_within = 10
+topics = [ "covid-19", "data", "python", "web-scraping" ]
+updated_within = "month"
+watchers_within = 10
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 3_926_630
+  login = "sfbrigade"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM5MjY2MzA="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

@@ -1,10 +1,9 @@
 code_url = "https://github.com/sfbrigade/nltweets"
 description = '"Our corpus is tweets."'
-git_branch = "master"
 git_url = "git://github.com/sfbrigade/nltweets.git"
-last_pushed_within = "over_a_year"
 link_url = "http://www.codeforsanfrancisco.org/"
 name = "nltweets"
+organization_name = "Code for San Francisco"
 topics = [
   "code-for-america",
   "code-for-sf",
@@ -12,3 +11,50 @@ topics = [
   "python",
   "social-media"
 ]
+
+[github]
+archived = false
+created_at = "2018-12-10T04:45:05Z"
+default_branch = "master"
+description = '"Our corpus is tweets."'
+disabled = false
+fork = false
+forks_within = 100
+full_name = "sfbrigade/nltweets"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://www.codeforsanfrancisco.org/"
+id = 161_118_083
+language = "Jupyter Notebook"
+license = { }
+name = "nltweets"
+node_id = "MDEwOlJlcG9zaXRvcnkxNjExMTgwODM="
+open_issues_within = 100
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 100
+topics = [
+  "code-for-america",
+  "code-for-sf",
+  "machine-learning",
+  "python",
+  "social-media"
+]
+updated_within = "over_a_year"
+watchers_within = 100
+
+  [github.owner]
+  gravatar_id = ""
+  id = 3_926_630
+  login = "sfbrigade"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM5MjY2MzA="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

@@ -1,6 +1,51 @@
 code_url = "https://github.com/sfbrigade/sf-admin-code"
 description = "Scraper, API, and site for SF Admin Code"
-git_branch = "gh-pages"
 git_url = "git://github.com/sfbrigade/sf-admin-code.git"
-last_pushed_within = "over_a_year"
 name = "sf-admin-code"
+organization_name = "Code for San Francisco"
+
+[github]
+archived = false
+created_at = "2013-07-24T21:05:03Z"
+default_branch = "gh-pages"
+description = "Scraper, API, and site for SF Admin Code"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "sfbrigade/sf-admin-code"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 11_645_251
+language = "JavaScript"
+name = "sf-admin-code"
+node_id = "MDEwOlJlcG9zaXRvcnkxMTY0NTI1MQ=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "unlicense"
+  name = "The Unlicense"
+  node_id = "MDc6TGljZW5zZTE1"
+  spdx_id = "Unlicense"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 3_926_630
+  login = "sfbrigade"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM5MjY2MzA="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

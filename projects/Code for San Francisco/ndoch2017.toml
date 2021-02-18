@@ -1,7 +1,52 @@
 code_url = "https://github.com/sfbrigade/ndoch2017"
 description = "Landing page for National Day of Civic Hacking 2017"
-git_branch = "gh-pages"
 git_url = "git://github.com/sfbrigade/ndoch2017.git"
-last_pushed_within = "over_a_year"
 link_url = "http://ndoch2017.codeforsanfrancisco.org"
 name = "ndoch2017"
+organization_name = "Code for San Francisco"
+
+[github]
+archived = false
+created_at = "2017-08-16T20:59:31Z"
+default_branch = "gh-pages"
+description = "Landing page for National Day of Civic Hacking 2017"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "sfbrigade/ndoch2017"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "http://ndoch2017.codeforsanfrancisco.org"
+id = 100_532_117
+language = "HTML"
+name = "ndoch2017"
+node_id = "MDEwOlJlcG9zaXRvcnkxMDA1MzIxMTc="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "isc"
+  name = "ISC License"
+  node_id = "MDc6TGljZW5zZTEw"
+  spdx_id = "ISC"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 3_926_630
+  login = "sfbrigade"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM5MjY2MzA="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

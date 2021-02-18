@@ -1,6 +1,46 @@
 code_url = "https://github.com/sfbrigade/LocalFreeWeb"
 description = "A resource directory of sites that provide free access to internet enabled computers in San Francisco"
-git_branch = "master"
 git_url = "git://github.com/sfbrigade/LocalFreeWeb.git"
-last_pushed_within = "year"
 name = "LocalFreeWeb"
+organization_name = "Code for San Francisco"
+
+[github]
+archived = false
+created_at = "2014-02-13T03:49:03Z"
+default_branch = "master"
+description = "A resource directory of sites that provide free access to internet enabled computers in San Francisco"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "sfbrigade/LocalFreeWeb"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 16_790_967
+language = "Python"
+license = { }
+name = "LocalFreeWeb"
+node_id = "MDEwOlJlcG9zaXRvcnkxNjc5MDk2Nw=="
+open_issues_within = 10
+private = false
+pushed_within = "year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 3_926_630
+  login = "sfbrigade"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM5MjY2MzA="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

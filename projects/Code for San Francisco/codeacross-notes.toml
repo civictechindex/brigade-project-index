@@ -1,6 +1,46 @@
 code_url = "https://github.com/sfbrigade/codeacross-notes"
 description = "A collaborative note taking wiki"
-git_branch = "master"
 git_url = "git://github.com/sfbrigade/codeacross-notes.git"
-last_pushed_within = "over_a_year"
 name = "codeacross-notes"
+organization_name = "Code for San Francisco"
+
+[github]
+archived = false
+created_at = "2016-03-04T21:55:52Z"
+default_branch = "master"
+description = "A collaborative note taking wiki"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "sfbrigade/codeacross-notes"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 53_168_011
+language = { }
+license = { }
+name = "codeacross-notes"
+node_id = "MDEwOlJlcG9zaXRvcnk1MzE2ODAxMQ=="
+open_issues_within = 100
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 3_926_630
+  login = "sfbrigade"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM5MjY2MzA="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

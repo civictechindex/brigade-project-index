@@ -1,7 +1,47 @@
 code_url = "https://github.com/sfbrigade/look-at-sf"
 description = "Explore San Francisco's budget from 1989 to 2013 and learn how the money is being spent."
-git_branch = "gh-pages"
 git_url = "git://github.com/sfbrigade/look-at-sf.git"
-last_pushed_within = "over_a_year"
 link_url = "http://www.codeforsanfrancisco.org/look-at-sf/SFBudgetGoogle.html"
 name = "look-at-sf"
+organization_name = "Code for San Francisco"
+
+[github]
+archived = false
+created_at = "2014-02-22T19:33:28Z"
+default_branch = "gh-pages"
+description = "Explore San Francisco's budget from 1989 to 2013 and learn how the money is being spent."
+disabled = false
+fork = true
+forks_within = 10
+full_name = "sfbrigade/look-at-sf"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "http://www.codeforsanfrancisco.org/look-at-sf/SFBudgetGoogle.html"
+id = 17_092_824
+language = "CSS"
+license = { }
+name = "look-at-sf"
+node_id = "MDEwOlJlcG9zaXRvcnkxNzA5MjgyNA=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 3_926_630
+  login = "sfbrigade"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM5MjY2MzA="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

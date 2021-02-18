@@ -1,6 +1,46 @@
 code_url = "https://github.com/sfbrigade/doc-squad"
 description = ":pencil: guidelines for better project documentation!"
-git_branch = "master"
 git_url = "git://github.com/sfbrigade/doc-squad.git"
-last_pushed_within = "over_a_year"
 name = "doc-squad"
+organization_name = "Code for San Francisco"
+
+[github]
+archived = false
+created_at = "2016-04-14T23:37:42Z"
+default_branch = "master"
+description = ":pencil: guidelines for better project documentation!"
+disabled = false
+fork = true
+forks_within = 0
+full_name = "sfbrigade/doc-squad"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 56_276_618
+language = { }
+license = { }
+name = "doc-squad"
+node_id = "MDEwOlJlcG9zaXRvcnk1NjI3NjYxOA=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 3_926_630
+  login = "sfbrigade"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM5MjY2MzA="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

@@ -1,35 +1,35 @@
-code_url = "https://github.com/sfbrigade/bats-server"
-git_url = "git://github.com/sfbrigade/bats-server.git"
-name = "bats-server"
+code_url = "https://github.com/sfbrigade/covid19-sfbayarea-opendb"
+git_url = "git://github.com/sfbrigade/covid19-sfbayarea-opendb.git"
+name = "covid19-sfbayarea-opendb"
 organization_name = "Code for San Francisco"
 
 [github]
 archived = false
-created_at = "2020-07-22T05:41:00Z"
-default_branch = "master"
+created_at = "2021-02-07T04:39:42Z"
+default_branch = "main"
 description = { }
 disabled = false
 fork = false
-forks_within = 10
-full_name = "sfbrigade/bats-server"
+forks_within = 0
+full_name = "sfbrigade/covid19-sfbayarea-opendb"
 has_downloads = true
 has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = true
 homepage = { }
-id = 281_585_598
-language = "JavaScript"
+id = 336_701_718
+language = "Python"
 license = { }
-name = "bats-server"
-node_id = "MDEwOlJlcG9zaXRvcnkyODE1ODU1OTg="
-open_issues_within = 10
+name = "covid19-sfbayarea-opendb"
+node_id = "MDEwOlJlcG9zaXRvcnkzMzY3MDE3MTg="
+open_issues_within = 0
 private = false
-pushed_within = "week"
-stargazers_within = 10
+pushed_within = "month"
+stargazers_within = 0
 topics = [ ]
 updated_within = "month"
-watchers_within = 10
+watchers_within = 0
 
   [github.owner]
   gravatar_id = ""

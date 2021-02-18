@@ -1,6 +1,46 @@
 code_url = "https://github.com/sfbrigade/datasci-cfa-calfresh"
 description = "NLP Based Project in Collaboration w/ Code For America's Get Cal-Fresh Program "
-git_branch = "master"
 git_url = "git://github.com/sfbrigade/datasci-cfa-calfresh.git"
-last_pushed_within = "over_a_year"
 name = "datasci-cfa-calfresh"
+organization_name = "Code for San Francisco"
+
+[github]
+archived = false
+created_at = "2019-03-14T02:42:25Z"
+default_branch = "master"
+description = "NLP Based Project in Collaboration w/ Code For America's Get Cal-Fresh Program "
+disabled = false
+fork = false
+forks_within = 10
+full_name = "sfbrigade/datasci-cfa-calfresh"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 175_535_660
+language = "Python"
+license = { }
+name = "datasci-cfa-calfresh"
+node_id = "MDEwOlJlcG9zaXRvcnkxNzU1MzU2NjA="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 3_926_630
+  login = "sfbrigade"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM5MjY2MzA="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

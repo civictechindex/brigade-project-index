@@ -1,6 +1,46 @@
 code_url = "https://github.com/sfbrigade/datasci-open-data-search"
 description = "This project aims to use analytics of search text to improve the user experience at https://data.sfgov.org/"
-git_branch = "master"
 git_url = "git://github.com/sfbrigade/datasci-open-data-search.git"
-last_pushed_within = "over_a_year"
 name = "datasci-open-data-search"
+organization_name = "Code for San Francisco"
+
+[github]
+archived = false
+created_at = "2016-06-28T18:39:57Z"
+default_branch = "master"
+description = "This project aims to use analytics of search text to improve the user experience at https://data.sfgov.org/"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "sfbrigade/datasci-open-data-search"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 62_165_443
+language = "Jupyter Notebook"
+license = { }
+name = "datasci-open-data-search"
+node_id = "MDEwOlJlcG9zaXRvcnk2MjE2NTQ0Mw=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 3_926_630
+  login = "sfbrigade"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM5MjY2MzA="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

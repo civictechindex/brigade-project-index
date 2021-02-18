@@ -1,7 +1,47 @@
 code_url = "https://github.com/sfbrigade/datasci-sf-tree-map"
 description = "Basic map viz for SF Trees"
-git_branch = "master"
 git_url = "git://github.com/sfbrigade/datasci-sf-tree-map.git"
-last_pushed_within = "over_a_year"
 link_url = "http://old.codeforsanfrancisco.org/datasci-sf-tree-map/"
 name = "datasci-sf-tree-map"
+organization_name = "Code for San Francisco"
+
+[github]
+archived = false
+created_at = "2016-10-06T02:11:45Z"
+default_branch = "master"
+description = "Basic map viz for SF Trees"
+disabled = false
+fork = true
+forks_within = 0
+full_name = "sfbrigade/datasci-sf-tree-map"
+has_downloads = true
+has_issues = false
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "http://old.codeforsanfrancisco.org/datasci-sf-tree-map/"
+id = 70_115_545
+language = "JavaScript"
+license = { }
+name = "datasci-sf-tree-map"
+node_id = "MDEwOlJlcG9zaXRvcnk3MDExNTU0NQ=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 3_926_630
+  login = "sfbrigade"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM5MjY2MzA="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

@@ -1,10 +1,9 @@
 code_url = "https://github.com/sfbrigade/adopt-a-drain"
 description = 'A web application that allows citizens to "adopt" a storm drain in San Francisco. In use, and in development at other brigades. Looking for a maintainer or someone interested in developing further in collaboration with others across the country.'
-git_branch = "master"
 git_url = "git://github.com/sfbrigade/adopt-a-drain.git"
-last_pushed_within = "month"
 link_url = "http://adoptadrain.sfwater.org/"
 name = "adopt-a-drain"
+organization_name = "Code for San Francisco"
 topics = [
   "civic-infrastructure",
   "code-for-america",
@@ -15,3 +14,58 @@ topics = [
   "ruby",
   "stable"
 ]
+
+[github]
+archived = false
+created_at = "2015-10-22T02:31:50Z"
+default_branch = "master"
+description = 'A web application that allows citizens to "adopt" a storm drain in San Francisco. In use, and in development at other brigades. Looking for a maintainer or someone interested in developing further in collaboration with others across the country.'
+disabled = false
+fork = false
+forks_within = 100
+full_name = "sfbrigade/adopt-a-drain"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://adoptadrain.sfwater.org/"
+id = 44_717_341
+language = "Ruby"
+name = "adopt-a-drain"
+node_id = "MDEwOlJlcG9zaXRvcnk0NDcxNzM0MQ=="
+open_issues_within = 100
+private = false
+pushed_within = "month"
+stargazers_within = 100
+topics = [
+  "civic-infrastructure",
+  "code-for-america",
+  "code-for-sf",
+  "docker",
+  "environment",
+  "full-stack-developer",
+  "ruby",
+  "stable"
+]
+updated_within = "year"
+watchers_within = 100
+
+  [github.license]
+  key = "bsd-3-clause"
+  name = 'BSD 3-Clause "New" or "Revised" License'
+  node_id = "MDc6TGljZW5zZTU="
+  spdx_id = "BSD-3-Clause"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 3_926_630
+  login = "sfbrigade"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM5MjY2MzA="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

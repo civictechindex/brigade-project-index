@@ -1,6 +1,51 @@
 code_url = "https://github.com/sfbrigade/datasci-SF-addresses"
 description = "Internal address validation tool for use by the brigade, targeted at the city of San Francisco"
-git_branch = "master"
 git_url = "git://github.com/sfbrigade/datasci-SF-addresses.git"
-last_pushed_within = "over_a_year"
 name = "datasci-SF-addresses"
+organization_name = "Code for San Francisco"
+
+[github]
+archived = false
+created_at = "2017-06-08T03:23:33Z"
+default_branch = "master"
+description = "Internal address validation tool for use by the brigade, targeted at the city of San Francisco"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "sfbrigade/datasci-SF-addresses"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 93_703_324
+language = "Python"
+name = "datasci-SF-addresses"
+node_id = "MDEwOlJlcG9zaXRvcnk5MzcwMzMyNA=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "agpl-3.0"
+  name = "GNU Affero General Public License v3.0"
+  node_id = "MDc6TGljZW5zZTE="
+  spdx_id = "AGPL-3.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 3_926_630
+  login = "sfbrigade"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM5MjY2MzA="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

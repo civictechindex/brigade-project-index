@@ -1,6 +1,51 @@
 code_url = "https://github.com/sfbrigade/make-with-open-data"
 description = "A repository of ideas that can be made with SF Open Data"
-git_branch = "master"
 git_url = "git://github.com/sfbrigade/make-with-open-data.git"
-last_pushed_within = "over_a_year"
 name = "make-with-open-data"
+organization_name = "Code for San Francisco"
+
+[github]
+archived = false
+created_at = "2016-03-17T16:57:49Z"
+default_branch = "master"
+description = "A repository of ideas that can be made with SF Open Data"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "sfbrigade/make-with-open-data"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 54_135_827
+language = { }
+name = "make-with-open-data"
+node_id = "MDEwOlJlcG9zaXRvcnk1NDEzNTgyNw=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 3_926_630
+  login = "sfbrigade"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM5MjY2MzA="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

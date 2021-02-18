@@ -1,9 +1,8 @@
 code_url = "https://github.com/sfbrigade/civic-tech-taxonomy"
 description = "Standardized identifiers for categorizing civic technology projects"
-git_branch = "master"
 git_url = "git://github.com/sfbrigade/civic-tech-taxonomy.git"
-last_pushed_within = "over_a_year"
 name = "civic-tech-taxonomy"
+organization_name = "Code for San Francisco"
 topics = [
   "america",
   "brigade",
@@ -20,3 +19,64 @@ topics = [
   "taxonomy",
   "tech"
 ]
+
+[github]
+archived = false
+created_at = "2017-01-31T02:01:42Z"
+default_branch = "master"
+description = "Standardized identifiers for categorizing civic technology projects"
+disabled = false
+fork = true
+forks_within = 0
+full_name = "sfbrigade/civic-tech-taxonomy"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 80_483_124
+language = { }
+name = "civic-tech-taxonomy"
+node_id = "MDEwOlJlcG9zaXRvcnk4MDQ4MzEyNA=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [
+  "america",
+  "brigade",
+  "brigades",
+  "cfa",
+  "civic",
+  "civictech",
+  "code",
+  "for",
+  "needs",
+  "nomenclature",
+  "skills",
+  "tags",
+  "taxonomy",
+  "tech"
+]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 3_926_630
+  login = "sfbrigade"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM5MjY2MzA="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

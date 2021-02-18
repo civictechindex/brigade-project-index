@@ -1,7 +1,47 @@
 code_url = "https://github.com/sfbrigade/C4SFcheckIn"
 description = "Check In system for C4SF members"
-git_branch = "gh-pages"
 git_url = "git://github.com/sfbrigade/C4SFcheckIn.git"
-last_pushed_within = "over_a_year"
 link_url = "https://sfbrigade.github.io/C4SFcheckIn"
 name = "C4SFcheckIn"
+organization_name = "Code for San Francisco"
+
+[github]
+archived = false
+created_at = "2016-06-09T02:42:10Z"
+default_branch = "gh-pages"
+description = "Check In system for C4SF members"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "sfbrigade/C4SFcheckIn"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = false
+homepage = "https://sfbrigade.github.io/C4SFcheckIn"
+id = 60_745_083
+language = "HTML"
+license = { }
+name = "C4SFcheckIn"
+node_id = "MDEwOlJlcG9zaXRvcnk2MDc0NTA4Mw=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 3_926_630
+  login = "sfbrigade"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM5MjY2MzA="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

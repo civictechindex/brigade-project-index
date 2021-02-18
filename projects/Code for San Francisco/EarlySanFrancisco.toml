@@ -1,7 +1,52 @@
 code_url = "https://github.com/sfbrigade/EarlySanFrancisco"
 description = "Early childhood services search system"
-git_branch = "master"
 git_url = "git://github.com/sfbrigade/EarlySanFrancisco.git"
-last_pushed_within = "over_a_year"
 link_url = "http://earlysanfrancisco.com"
 name = "EarlySanFrancisco"
+organization_name = "Code for San Francisco"
+
+[github]
+archived = false
+created_at = "2013-03-21T01:54:19Z"
+default_branch = "master"
+description = "Early childhood services search system"
+disabled = false
+fork = true
+forks_within = 0
+full_name = "sfbrigade/EarlySanFrancisco"
+has_downloads = true
+has_issues = false
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "http://earlysanfrancisco.com"
+id = 8_918_881
+language = "JavaScript"
+name = "EarlySanFrancisco"
+node_id = "MDEwOlJlcG9zaXRvcnk4OTE4ODgx"
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "other"
+  name = "Other"
+  node_id = "MDc6TGljZW5zZTA="
+  spdx_id = "NOASSERTION"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 3_926_630
+  login = "sfbrigade"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM5MjY2MzA="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

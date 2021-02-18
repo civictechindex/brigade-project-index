@@ -1,7 +1,47 @@
 code_url = "https://github.com/sfbrigade/datasci-housing-pipeline"
 description = "Help us analyze data to understand why it takes so long to build housing in the Bay Area! "
-git_branch = "master"
 git_url = "git://github.com/sfbrigade/datasci-housing-pipeline.git"
-last_pushed_within = "year"
 name = "datasci-housing-pipeline"
+organization_name = "Code for San Francisco"
 topics = [ "code-for-america", "code-for-sf", "housing-policies" ]
+
+[github]
+archived = false
+created_at = "2016-08-04T03:13:05Z"
+default_branch = "master"
+description = "Help us analyze data to understand why it takes so long to build housing in the Bay Area! "
+disabled = false
+fork = true
+forks_within = 100
+full_name = "sfbrigade/datasci-housing-pipeline"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 64_898_246
+language = "Jupyter Notebook"
+license = { }
+name = "datasci-housing-pipeline"
+node_id = "MDEwOlJlcG9zaXRvcnk2NDg5ODI0Ng=="
+open_issues_within = 100
+private = false
+pushed_within = "year"
+stargazers_within = 100
+topics = [ "code-for-america", "code-for-sf", "housing-policies" ]
+updated_within = "year"
+watchers_within = 100
+
+  [github.owner]
+  gravatar_id = ""
+  id = 3_926_630
+  login = "sfbrigade"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM5MjY2MzA="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

@@ -1,7 +1,47 @@
 code_url = "https://github.com/sfbrigade/research-group"
 description = "Helping new members join a project team and find traction as volunteer"
-git_branch = "master"
 git_url = "git://github.com/sfbrigade/research-group.git"
-last_pushed_within = "over_a_year"
 link_url = "http://old.codeforsanfrancisco.org/research-group/projects/NewMemberEngagement/"
 name = "research-group"
+organization_name = "Code for San Francisco"
+
+[github]
+archived = false
+created_at = "2016-05-05T18:22:34Z"
+default_branch = "master"
+description = "Helping new members join a project team and find traction as volunteer"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "sfbrigade/research-group"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "http://old.codeforsanfrancisco.org/research-group/projects/NewMemberEngagement/"
+id = 58_151_682
+language = "HTML"
+license = { }
+name = "research-group"
+node_id = "MDEwOlJlcG9zaXRvcnk1ODE1MTY4Mg=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 100
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 100
+
+  [github.owner]
+  gravatar_id = ""
+  id = 3_926_630
+  login = "sfbrigade"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM5MjY2MzA="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

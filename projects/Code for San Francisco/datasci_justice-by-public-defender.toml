@@ -1,9 +1,8 @@
 code_url = "https://github.com/sfbrigade/datasci_justice-by-public-defender"
 description = "NLP and inferential stats to identify which public defenders more consistently seek plea bargains for their defendants, independent of case merits."
-git_branch = "master"
 git_url = "git://github.com/sfbrigade/datasci_justice-by-public-defender.git"
-last_pushed_within = "over_a_year"
 name = "datasci_justice-by-public-defender"
+organization_name = "Code for San Francisco"
 topics = [
   "justice",
   "machine-learning",
@@ -11,3 +10,50 @@ topics = [
   "nlp",
   "social-justice"
 ]
+
+[github]
+archived = false
+created_at = "2016-12-02T15:25:47Z"
+default_branch = "master"
+description = "NLP and inferential stats to identify which public defenders more consistently seek plea bargains for their defendants, independent of case merits."
+disabled = false
+fork = false
+forks_within = 10
+full_name = "sfbrigade/datasci_justice-by-public-defender"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 75_407_323
+language = { }
+license = { }
+name = "datasci_justice-by-public-defender"
+node_id = "MDEwOlJlcG9zaXRvcnk3NTQwNzMyMw=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [
+  "justice",
+  "machine-learning",
+  "natural-language-processing",
+  "nlp",
+  "social-justice"
+]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 3_926_630
+  login = "sfbrigade"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM5MjY2MzA="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

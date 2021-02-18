@@ -1,7 +1,52 @@
 code_url = "https://github.com/sfbrigade/adopt-a-drain.old"
 description = "AdoptaDrain is an online civic tool that supports the City of San Francisco Adopta-Spot program."
-git_branch = "develop"
 git_url = "git://github.com/sfbrigade/adopt-a-drain.old.git"
-last_pushed_within = "over_a_year"
 link_url = "http://adoptadrainsf.herokuapp.com/"
 name = "adopt-a-drain.old"
+organization_name = "Code for San Francisco"
+
+[github]
+archived = false
+created_at = "2015-10-20T17:29:16Z"
+default_branch = "develop"
+description = "AdoptaDrain is an online civic tool that supports the City of San Francisco Adopta-Spot program."
+disabled = false
+fork = true
+forks_within = 0
+full_name = "sfbrigade/adopt-a-drain.old"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://adoptadrainsf.herokuapp.com/"
+id = 44_623_193
+language = "Ruby"
+name = "adopt-a-drain.old"
+node_id = "MDEwOlJlcG9zaXRvcnk0NDYyMzE5Mw=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "other"
+  name = "Other"
+  node_id = "MDc6TGljZW5zZTA="
+  spdx_id = "NOASSERTION"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 3_926_630
+  login = "sfbrigade"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM5MjY2MzA="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

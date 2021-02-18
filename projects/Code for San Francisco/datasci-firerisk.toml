@@ -1,10 +1,9 @@
 code_url = "https://github.com/sfbrigade/datasci-firerisk"
 description = "This project attempts to model and acquire data from SF OpenData - and other sources - to predict the relative risk of fire in San Francisco’s buildings and public spaces."
-git_branch = "master"
 git_url = "git://github.com/sfbrigade/datasci-firerisk.git"
-last_pushed_within = "over_a_year"
 link_url = "http://codeforsanfrancisco.org/projects/SF-Fire-Risk-Project"
 name = "datasci-firerisk"
+organization_name = "Code for San Francisco"
 topics = [
   "civic-hacking",
   "civic-tech",
@@ -12,3 +11,50 @@ topics = [
   "machine-learning",
   "predictive-modeling"
 ]
+
+[github]
+archived = false
+created_at = "2017-05-25T02:19:00Z"
+default_branch = "master"
+description = "This project attempts to model and acquire data from SF OpenData - and other sources - to predict the relative risk of fire in San Francisco’s buildings and public spaces."
+disabled = false
+fork = false
+forks_within = 10
+full_name = "sfbrigade/datasci-firerisk"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://codeforsanfrancisco.org/projects/SF-Fire-Risk-Project"
+id = 92_355_828
+language = "Jupyter Notebook"
+license = { }
+name = "datasci-firerisk"
+node_id = "MDEwOlJlcG9zaXRvcnk5MjM1NTgyOA=="
+open_issues_within = 100
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [
+  "civic-hacking",
+  "civic-tech",
+  "data-science",
+  "machine-learning",
+  "predictive-modeling"
+]
+updated_within = "year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 3_926_630
+  login = "sfbrigade"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM5MjY2MzA="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

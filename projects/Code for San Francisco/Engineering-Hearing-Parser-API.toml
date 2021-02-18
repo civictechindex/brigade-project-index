@@ -1,6 +1,46 @@
 code_url = "https://github.com/sfbrigade/Engineering-Hearing-Parser-API"
 description = "Parsing and uploading of Items form the Engineering Hearing Parser"
-git_branch = "master"
 git_url = "git://github.com/sfbrigade/Engineering-Hearing-Parser-API.git"
-last_pushed_within = "over_a_year"
 name = "Engineering-Hearing-Parser-API"
+organization_name = "Code for San Francisco"
+
+[github]
+archived = false
+created_at = "2017-08-31T02:46:54Z"
+default_branch = "master"
+description = "Parsing and uploading of Items form the Engineering Hearing Parser"
+disabled = false
+fork = true
+forks_within = 10
+full_name = "sfbrigade/Engineering-Hearing-Parser-API"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 101_951_646
+language = "Python"
+license = { }
+name = "Engineering-Hearing-Parser-API"
+node_id = "MDEwOlJlcG9zaXRvcnkxMDE5NTE2NDY="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 3_926_630
+  login = "sfbrigade"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM5MjY2MzA="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
