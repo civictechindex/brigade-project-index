@@ -1,6 +1,46 @@
 code_url = "https://github.com/CodeForAsheville/asheville-budget-docs"
 description = 'HTML export of Asheville "budget book" for FY08-09 to FY12-13'
-git_branch = "master"
 git_url = "git://github.com/CodeForAsheville/asheville-budget-docs.git"
-last_pushed_within = "over_a_year"
 name = "asheville-budget-docs"
+organization_name = "Code for Asheville"
+
+[github]
+archived = false
+created_at = "2013-03-22T15:10:16Z"
+default_branch = "master"
+description = 'HTML export of Asheville "budget book" for FY08-09 to FY12-13'
+disabled = false
+fork = false
+forks_within = 0
+full_name = "CodeForAsheville/asheville-budget-docs"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 8_954_484
+language = { }
+license = { }
+name = "asheville-budget-docs"
+node_id = "MDEwOlJlcG9zaXRvcnk4OTU0NDg0"
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 3_941_752
+  login = "CodeForAsheville"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM5NDE3NTI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

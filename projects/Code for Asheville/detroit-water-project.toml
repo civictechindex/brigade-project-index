@@ -1,7 +1,52 @@
 code_url = "https://github.com/CodeForAsheville/detroit-water-project"
 description = "We're helping people Detroit get their water turned back on."
-git_branch = "master"
 git_url = "git://github.com/CodeForAsheville/detroit-water-project.git"
-last_pushed_within = "over_a_year"
 link_url = "http://detroitwaterproject.org"
 name = "detroit-water-project"
+organization_name = "Code for Asheville"
+
+[github]
+archived = false
+created_at = "2014-09-28T15:19:58Z"
+default_branch = "master"
+description = "We're helping people Detroit get their water turned back on."
+disabled = false
+fork = true
+forks_within = 0
+full_name = "CodeForAsheville/detroit-water-project"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://detroitwaterproject.org"
+id = 24_562_556
+language = "JavaScript"
+name = "detroit-water-project"
+node_id = "MDEwOlJlcG9zaXRvcnkyNDU2MjU1Ng=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 3_941_752
+  login = "CodeForAsheville"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM5NDE3NTI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

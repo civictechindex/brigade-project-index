@@ -1,6 +1,51 @@
 code_url = "https://github.com/CodeForAsheville/climate-change"
-git_branch = "master"
 git_url = "git://github.com/CodeForAsheville/climate-change.git"
-last_pushed_within = "over_a_year"
 link_url = "http://www.forecast2050.com"
 name = "climate-change"
+organization_name = "Code for Asheville"
+
+[github]
+archived = false
+created_at = "2014-09-13T14:46:18Z"
+default_branch = "master"
+description = { }
+disabled = false
+fork = false
+forks_within = 0
+full_name = "CodeForAsheville/climate-change"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "http://www.forecast2050.com"
+id = 23_996_696
+language = "JavaScript"
+name = "climate-change"
+node_id = "MDEwOlJlcG9zaXRvcnkyMzk5NjY5Ng=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "gpl-2.0"
+  name = "GNU General Public License v2.0"
+  node_id = "MDc6TGljZW5zZTg="
+  spdx_id = "GPL-2.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 3_941_752
+  login = "CodeForAsheville"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM5NDE3NTI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

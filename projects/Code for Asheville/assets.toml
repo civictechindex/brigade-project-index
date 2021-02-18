@@ -1,6 +1,46 @@
 code_url = "https://github.com/CodeForAsheville/assets"
 description = "A place to store generic assets"
-git_branch = "master"
 git_url = "git://github.com/CodeForAsheville/assets.git"
-last_pushed_within = "over_a_year"
 name = "assets"
+organization_name = "Code for Asheville"
+
+[github]
+archived = false
+created_at = "2013-03-22T15:09:31Z"
+default_branch = "master"
+description = "A place to store generic assets"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "CodeForAsheville/assets"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 8_954_471
+language = { }
+license = { }
+name = "assets"
+node_id = "MDEwOlJlcG9zaXRvcnk4OTU0NDcx"
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 3_941_752
+  login = "CodeForAsheville"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM5NDE3NTI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

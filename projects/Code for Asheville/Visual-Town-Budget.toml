@@ -1,7 +1,47 @@
 code_url = "https://github.com/CodeForAsheville/Visual-Town-Budget"
 description = "Open-source budget visualization framework."
-git_branch = "master"
 git_url = "git://github.com/CodeForAsheville/Visual-Town-Budget.git"
-last_pushed_within = "over_a_year"
 link_url = "http://www.avlbudget.org/"
 name = "Visual-Town-Budget"
+organization_name = "Code for Asheville"
+
+[github]
+archived = false
+created_at = "2014-03-11T22:35:20Z"
+default_branch = "master"
+description = "Open-source budget visualization framework."
+disabled = false
+fork = true
+forks_within = 10
+full_name = "CodeForAsheville/Visual-Town-Budget"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://www.avlbudget.org/"
+id = 17_647_661
+language = "JavaScript"
+license = { }
+name = "Visual-Town-Budget"
+node_id = "MDEwOlJlcG9zaXRvcnkxNzY0NzY2MQ=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 3_941_752
+  login = "CodeForAsheville"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM5NDE3NTI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

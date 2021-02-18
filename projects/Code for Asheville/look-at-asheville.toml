@@ -1,7 +1,47 @@
 code_url = "https://github.com/CodeForAsheville/look-at-asheville"
 description = "Explore the city of Asheville's budget from 2007 to 2012 and learn how the money is being spent."
-git_branch = "gh-pages"
 git_url = "git://github.com/CodeForAsheville/look-at-asheville.git"
-last_pushed_within = "over_a_year"
 link_url = "http://CodeForAsheville.github.com/look-at-asheville"
 name = "look-at-asheville"
+organization_name = "Code for Asheville"
+
+[github]
+archived = false
+created_at = "2013-03-22T15:08:53Z"
+default_branch = "gh-pages"
+description = "Explore the city of Asheville's budget from 2007 to 2012 and learn how the money is being spent."
+disabled = false
+fork = true
+forks_within = 10
+full_name = "CodeForAsheville/look-at-asheville"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "http://CodeForAsheville.github.com/look-at-asheville"
+id = 8_954_465
+language = "JavaScript"
+license = { }
+name = "look-at-asheville"
+node_id = "MDEwOlJlcG9zaXRvcnk4OTU0NDY1"
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 3_941_752
+  login = "CodeForAsheville"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM5NDE3NTI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

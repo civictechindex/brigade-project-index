@@ -1,5 +1,45 @@
 code_url = "https://github.com/CodeForAsheville/nobus"
-git_branch = "master"
 git_url = "git://github.com/CodeForAsheville/nobus.git"
-last_pushed_within = "over_a_year"
 name = "nobus"
+organization_name = "Code for Asheville"
+
+[github]
+archived = false
+created_at = "2019-02-13T17:29:44Z"
+default_branch = "master"
+description = { }
+disabled = false
+fork = false
+forks_within = 0
+full_name = "CodeForAsheville/nobus"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 170_549_798
+language = "JavaScript"
+license = { }
+name = "nobus"
+node_id = "MDEwOlJlcG9zaXRvcnkxNzA1NDk3OTg="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 3_941_752
+  login = "CodeForAsheville"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM5NDE3NTI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

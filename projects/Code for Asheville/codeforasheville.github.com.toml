@@ -1,6 +1,51 @@
 code_url = "https://github.com/CodeForAsheville/codeforasheville.github.com"
 description = "Landing page for Open Asheville"
-git_branch = "master"
 git_url = "git://github.com/CodeForAsheville/codeforasheville.github.com.git"
-last_pushed_within = "over_a_year"
 name = "codeforasheville.github.com"
+organization_name = "Code for Asheville"
+
+[github]
+archived = false
+created_at = "2013-03-22T15:15:04Z"
+default_branch = "master"
+description = "Landing page for Open Asheville"
+disabled = false
+fork = true
+forks_within = 10
+full_name = "CodeForAsheville/codeforasheville.github.com"
+has_downloads = true
+has_issues = false
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 8_954_590
+language = "CSS"
+name = "codeforasheville.github.com"
+node_id = "MDEwOlJlcG9zaXRvcnk4OTU0NTkw"
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "other"
+  name = "Other"
+  node_id = "MDc6TGljZW5zZTA="
+  spdx_id = "NOASSERTION"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 3_941_752
+  login = "CodeForAsheville"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM5NDE3NTI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

@@ -1,5 +1,45 @@
 code_url = "https://github.com/CodeForAsheville/openhousing-owner-decision-tree"
-git_branch = "master"
 git_url = "git://github.com/CodeForAsheville/openhousing-owner-decision-tree.git"
-last_pushed_within = "over_a_year"
 name = "openhousing-owner-decision-tree"
+organization_name = "Code for Asheville"
+
+[github]
+archived = false
+created_at = "2015-06-04T19:33:51Z"
+default_branch = "master"
+description = { }
+disabled = false
+fork = false
+forks_within = 0
+full_name = "CodeForAsheville/openhousing-owner-decision-tree"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 36_891_159
+language = { }
+license = { }
+name = "openhousing-owner-decision-tree"
+node_id = "MDEwOlJlcG9zaXRvcnkzNjg5MTE1OQ=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 3_941_752
+  login = "CodeForAsheville"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM5NDE3NTI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

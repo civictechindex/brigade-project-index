@@ -1,6 +1,51 @@
 code_url = "https://github.com/CodeForAsheville/simplicity-esri"
 description = "An implementation of SimpliCity that operates on ESRI Feature Services through the ArcGIS REST API with a focus on redeployablility"
-git_branch = "master"
 git_url = "git://github.com/CodeForAsheville/simplicity-esri.git"
-last_pushed_within = "over_a_year"
 name = "simplicity-esri"
+organization_name = "Code for Asheville"
+
+[github]
+archived = false
+created_at = "2015-10-12T01:45:17Z"
+default_branch = "master"
+description = "An implementation of SimpliCity that operates on ESRI Feature Services through the ArcGIS REST API with a focus on redeployablility"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "CodeForAsheville/simplicity-esri"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 44_078_059
+language = "CSS"
+name = "simplicity-esri"
+node_id = "MDEwOlJlcG9zaXRvcnk0NDA3ODA1OQ=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 3_941_752
+  login = "CodeForAsheville"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM5NDE3NTI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

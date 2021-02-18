@@ -1,6 +1,51 @@
 code_url = "https://github.com/CodeForAsheville/brigade-planning"
 description = "General planning notes, guidelines and resources for the Code for Asheville brigade"
-git_branch = "master"
 git_url = "git://github.com/CodeForAsheville/brigade-planning.git"
-last_pushed_within = "over_a_year"
 name = "brigade-planning"
+organization_name = "Code for Asheville"
+
+[github]
+archived = false
+created_at = "2016-07-20T09:45:56Z"
+default_branch = "master"
+description = "General planning notes, guidelines and resources for the Code for Asheville brigade"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "CodeForAsheville/brigade-planning"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 63_769_964
+language = "GCC Machine Description"
+name = "brigade-planning"
+node_id = "MDEwOlJlcG9zaXRvcnk2Mzc2OTk2NA=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "cc0-1.0"
+  name = "Creative Commons Zero v1.0 Universal"
+  node_id = "MDc6TGljZW5zZTY="
+  spdx_id = "CC0-1.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 3_941_752
+  login = "CodeForAsheville"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM5NDE3NTI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
