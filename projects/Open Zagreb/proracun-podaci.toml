@@ -1,5 +1,45 @@
 code_url = "https://github.com/openzagreb/proracun-podaci"
-git_branch = "master"
 git_url = "git://github.com/openzagreb/proracun-podaci.git"
-last_pushed_within = "over_a_year"
 name = "proracun-podaci"
+organization_name = "Open Zagreb"
+
+[github]
+archived = false
+created_at = "2014-10-05T09:46:32Z"
+default_branch = "master"
+description = { }
+disabled = false
+fork = false
+forks_within = 0
+full_name = "openzagreb/proracun-podaci"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = false
+homepage = { }
+id = 24_812_706
+language = { }
+license = { }
+name = "proracun-podaci"
+node_id = "MDEwOlJlcG9zaXRvcnkyNDgxMjcwNg=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_059_972
+  login = "openzagreb"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjYwNTk5NzI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

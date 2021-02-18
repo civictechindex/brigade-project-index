@@ -1,7 +1,47 @@
 code_url = "https://github.com/openzagreb/openzagreb.github.io"
 description = "Github Project Page"
-git_branch = "master"
 git_url = "git://github.com/openzagreb/openzagreb.github.io.git"
-last_pushed_within = "over_a_year"
 link_url = "http://openzagreb.github.io"
 name = "openzagreb.github.io"
+organization_name = "Open Zagreb"
+
+[github]
+archived = false
+created_at = "2016-10-14T16:31:07Z"
+default_branch = "master"
+description = "Github Project Page"
+disabled = false
+fork = true
+forks_within = 0
+full_name = "openzagreb/openzagreb.github.io"
+has_downloads = true
+has_issues = false
+has_pages = true
+has_projects = true
+has_wiki = false
+homepage = "http://openzagreb.github.io"
+id = 70_928_153
+language = "CSS"
+license = { }
+name = "openzagreb.github.io"
+node_id = "MDEwOlJlcG9zaXRvcnk3MDkyODE1Mw=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_059_972
+  login = "openzagreb"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjYwNTk5NzI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

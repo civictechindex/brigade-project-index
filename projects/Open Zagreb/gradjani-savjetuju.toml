@@ -1,7 +1,47 @@
 code_url = "https://github.com/openzagreb/gradjani-savjetuju"
 description = "Kako rade ili ne rade javne usluge uprave i vlade, naša inspiracija je @UserOnboard."
-git_branch = "gh-pages"
 git_url = "git://github.com/openzagreb/gradjani-savjetuju.git"
-last_pushed_within = "year"
 link_url = "http://openzagreb.github.io/gradjani-savjetuju"
 name = "gradjani-savjetuju"
+organization_name = "Open Zagreb"
+
+[github]
+archived = false
+created_at = "2014-10-11T20:48:46Z"
+default_branch = "gh-pages"
+description = "Kako rade ili ne rade javne usluge uprave i vlade, naša inspiracija je @UserOnboard."
+disabled = false
+fork = true
+forks_within = 0
+full_name = "openzagreb/gradjani-savjetuju"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = false
+homepage = "http://openzagreb.github.io/gradjani-savjetuju"
+id = 25_094_777
+language = "HTML"
+license = { }
+name = "gradjani-savjetuju"
+node_id = "MDEwOlJlcG9zaXRvcnkyNTA5NDc3Nw=="
+open_issues_within = 0
+private = false
+pushed_within = "year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_059_972
+  login = "openzagreb"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjYwNTk5NzI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

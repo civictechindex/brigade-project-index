@@ -1,7 +1,47 @@
 code_url = "https://github.com/openzagreb/proracun-status"
 description = "Data loads into OpenSpending - what's needed, what's in progress, what's done"
-git_branch = "gh-pages"
 git_url = "git://github.com/openzagreb/proracun-status.git"
-last_pushed_within = "over_a_year"
 link_url = "http://status.proracun.org/"
 name = "proracun-status"
+organization_name = "Open Zagreb"
+
+[github]
+archived = false
+created_at = "2014-10-05T08:36:48Z"
+default_branch = "gh-pages"
+description = "Data loads into OpenSpending - what's needed, what's in progress, what's done"
+disabled = false
+fork = true
+forks_within = 10
+full_name = "openzagreb/proracun-status"
+has_downloads = true
+has_issues = false
+has_pages = true
+has_projects = true
+has_wiki = false
+homepage = "http://status.proracun.org/"
+id = 24_811_711
+language = "JavaScript"
+license = { }
+name = "proracun-status"
+node_id = "MDEwOlJlcG9zaXRvcnkyNDgxMTcxMQ=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_059_972
+  login = "openzagreb"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjYwNTk5NzI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
