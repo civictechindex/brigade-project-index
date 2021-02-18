@@ -1,6 +1,46 @@
 code_url = "https://github.com/codeforbirmingham/Scrapers"
 description = "Scrapers for Birmingham / Alabama Data Portals"
-git_branch = "master"
 git_url = "git://github.com/codeforbirmingham/Scrapers.git"
-last_pushed_within = "over_a_year"
 name = "Scrapers"
+organization_name = "Code for Birmingham"
+
+[github]
+archived = false
+created_at = "2015-05-11T02:45:38Z"
+default_branch = "master"
+description = "Scrapers for Birmingham / Alabama Data Portals"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "codeforbirmingham/Scrapers"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 35_398_376
+language = "Python"
+license = { }
+name = "Scrapers"
+node_id = "MDEwOlJlcG9zaXRvcnkzNTM5ODM3Ng=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_835_788
+  login = "codeforbirmingham"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjY4MzU3ODg="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

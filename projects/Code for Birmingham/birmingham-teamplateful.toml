@@ -1,6 +1,46 @@
 code_url = "https://github.com/codeforbirmingham/birmingham-teamplateful"
 description = "Proposed web UI for rolling grocery buses"
-git_branch = "master"
 git_url = "git://github.com/codeforbirmingham/birmingham-teamplateful.git"
-last_pushed_within = "over_a_year"
 name = "birmingham-teamplateful"
+organization_name = "Code for Birmingham"
+
+[github]
+archived = false
+created_at = "2015-06-25T00:07:30Z"
+default_branch = "master"
+description = "Proposed web UI for rolling grocery buses"
+disabled = false
+fork = true
+forks_within = 0
+full_name = "codeforbirmingham/birmingham-teamplateful"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 38_017_823
+language = "HTML"
+license = { }
+name = "birmingham-teamplateful"
+node_id = "MDEwOlJlcG9zaXRvcnkzODAxNzgyMw=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_835_788
+  login = "codeforbirmingham"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjY4MzU3ODg="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

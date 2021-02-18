@@ -1,7 +1,52 @@
 code_url = "https://github.com/codeforbirmingham/traffic-accident-reports"
 description = "Traffic Accident Reporting Tool for the City of Birmingham"
-git_branch = "gh-pages"
 git_url = "git://github.com/codeforbirmingham/traffic-accident-reports.git"
-last_pushed_within = "over_a_year"
 link_url = "http://www.codeforbirmingham.org/traffic-accident-reports/"
 name = "traffic-accident-reports"
+organization_name = "Code for Birmingham"
+
+[github]
+archived = false
+created_at = "2015-02-21T16:15:39Z"
+default_branch = "gh-pages"
+description = "Traffic Accident Reporting Tool for the City of Birmingham"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "codeforbirmingham/traffic-accident-reports"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "http://www.codeforbirmingham.org/traffic-accident-reports/"
+id = 31_131_190
+language = "JavaScript"
+name = "traffic-accident-reports"
+node_id = "MDEwOlJlcG9zaXRvcnkzMTEzMTE5MA=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "unlicense"
+  name = "The Unlicense"
+  node_id = "MDc6TGljZW5zZTE1"
+  spdx_id = "Unlicense"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_835_788
+  login = "codeforbirmingham"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjY4MzU3ODg="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

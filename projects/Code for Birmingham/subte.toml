@@ -1,6 +1,51 @@
 code_url = "https://github.com/codeforbirmingham/subte"
 description = "Software for generating GTFS transit data for transit trip planners"
-git_branch = "master"
 git_url = "git://github.com/codeforbirmingham/subte.git"
-last_pushed_within = "over_a_year"
 name = "subte"
+organization_name = "Code for Birmingham"
+
+[github]
+archived = false
+created_at = "2014-07-10T15:33:46Z"
+default_branch = "master"
+description = "Software for generating GTFS transit data for transit trip planners"
+disabled = false
+fork = true
+forks_within = 10
+full_name = "codeforbirmingham/subte"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 21_699_517
+language = "Python"
+name = "subte"
+node_id = "MDEwOlJlcG9zaXRvcnkyMTY5OTUxNw=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "gpl-3.0"
+  name = "GNU General Public License v3.0"
+  node_id = "MDc6TGljZW5zZTk="
+  spdx_id = "GPL-3.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_835_788
+  login = "codeforbirmingham"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjY4MzU3ODg="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

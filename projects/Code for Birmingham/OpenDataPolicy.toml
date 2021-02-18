@@ -1,7 +1,47 @@
 code_url = "https://github.com/codeforbirmingham/OpenDataPolicy"
 description = "A simple one-page site to promote Open Data Policy in Birmingham"
-git_branch = "gh-pages"
 git_url = "git://github.com/codeforbirmingham/OpenDataPolicy.git"
-last_pushed_within = "over_a_year"
 link_url = "http://www.birminghamopendata.org"
 name = "OpenDataPolicy"
+organization_name = "Code for Birmingham"
+
+[github]
+archived = false
+created_at = "2015-05-12T22:30:31Z"
+default_branch = "gh-pages"
+description = "A simple one-page site to promote Open Data Policy in Birmingham"
+disabled = false
+fork = true
+forks_within = 0
+full_name = "codeforbirmingham/OpenDataPolicy"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "http://www.birminghamopendata.org"
+id = 35_515_786
+language = "HTML"
+license = { }
+name = "OpenDataPolicy"
+node_id = "MDEwOlJlcG9zaXRvcnkzNTUxNTc4Ng=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_835_788
+  login = "codeforbirmingham"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjY4MzU3ODg="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

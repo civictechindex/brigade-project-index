@@ -1,7 +1,47 @@
 code_url = "https://github.com/codeforbirmingham/hackadashery.github.io"
 description = "Philly 311 Issue tracker & stats explorer"
-git_branch = "master"
 git_url = "git://github.com/codeforbirmingham/hackadashery.github.io.git"
-last_pushed_within = "over_a_year"
 link_url = "https://hackadashery.github.io"
 name = "hackadashery.github.io"
+organization_name = "Code for Birmingham"
+
+[github]
+archived = false
+created_at = "2017-05-13T18:50:43Z"
+default_branch = "master"
+description = "Philly 311 Issue tracker & stats explorer"
+disabled = false
+fork = true
+forks_within = 0
+full_name = "codeforbirmingham/hackadashery.github.io"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "https://hackadashery.github.io"
+id = 91_196_133
+language = "JavaScript"
+license = { }
+name = "hackadashery.github.io"
+node_id = "MDEwOlJlcG9zaXRvcnk5MTE5NjEzMw=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_835_788
+  login = "codeforbirmingham"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjY4MzU3ODg="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

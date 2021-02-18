@@ -1,6 +1,46 @@
 code_url = "https://github.com/codeforbirmingham/spotholes-django"
 description = "The spotholes api retooled in python"
-git_branch = "master"
 git_url = "git://github.com/codeforbirmingham/spotholes-django.git"
-last_pushed_within = "over_a_year"
 name = "spotholes-django"
+organization_name = "Code for Birmingham"
+
+[github]
+archived = false
+created_at = "2017-10-20T23:06:48Z"
+default_branch = "master"
+description = "The spotholes api retooled in python"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "codeforbirmingham/spotholes-django"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 107_734_511
+language = "Python"
+license = { }
+name = "spotholes-django"
+node_id = "MDEwOlJlcG9zaXRvcnkxMDc3MzQ1MTE="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_835_788
+  login = "codeforbirmingham"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjY4MzU3ODg="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
