@@ -1,6 +1,46 @@
 code_url = "https://github.com/codeisland/dataheroes.github.io"
 description = "Homepage of Rhode Island Data Heroes"
-git_branch = "master"
 git_url = "git://github.com/codeisland/dataheroes.github.io.git"
-last_pushed_within = "over_a_year"
 name = "dataheroes.github.io"
+organization_name = "Code Island"
+
+[github]
+archived = false
+created_at = "2015-07-21T00:08:21Z"
+default_branch = "master"
+description = "Homepage of Rhode Island Data Heroes"
+disabled = false
+fork = true
+forks_within = 0
+full_name = "codeisland/dataheroes.github.io"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 39_414_526
+language = "CSS"
+license = { }
+name = "dataheroes.github.io"
+node_id = "MDEwOlJlcG9zaXRvcnkzOTQxNDUyNg=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_508_208
+  login = "codeisland"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjY1MDgyMDg="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

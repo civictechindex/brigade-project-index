@@ -1,6 +1,46 @@
 code_url = "https://github.com/codeisland/candidate-questionnaire"
 description = "2014 Candidate Open Data Questionnaire"
-git_branch = "master"
 git_url = "git://github.com/codeisland/candidate-questionnaire.git"
-last_pushed_within = "over_a_year"
 name = "candidate-questionnaire"
+organization_name = "Code Island"
+
+[github]
+archived = false
+created_at = "2014-09-18T16:32:03Z"
+default_branch = "master"
+description = "2014 Candidate Open Data Questionnaire"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codeisland/candidate-questionnaire"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 24_196_042
+language = { }
+license = { }
+name = "candidate-questionnaire"
+node_id = "MDEwOlJlcG9zaXRvcnkyNDE5NjA0Mg=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_508_208
+  login = "codeisland"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjY1MDgyMDg="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

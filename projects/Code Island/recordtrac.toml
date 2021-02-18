@@ -1,7 +1,52 @@
 code_url = "https://github.com/codeisland/recordtrac"
 description = "Manage and display public record requests, built by the Code for America 2013 Oakland team"
-git_branch = "master"
 git_url = "git://github.com/codeisland/recordtrac.git"
-last_pushed_within = "over_a_year"
 link_url = "http://codeforamerica.org/apps/recordtrac/"
 name = "recordtrac"
+organization_name = "Code Island"
+
+[github]
+archived = false
+created_at = "2015-04-07T01:11:04Z"
+default_branch = "master"
+description = "Manage and display public record requests, built by the Code for America 2013 Oakland team"
+disabled = false
+fork = true
+forks_within = 0
+full_name = "codeisland/recordtrac"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://codeforamerica.org/apps/recordtrac/"
+id = 33_514_540
+language = "JavaScript"
+name = "recordtrac"
+node_id = "MDEwOlJlcG9zaXRvcnkzMzUxNDU0MA=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "other"
+  name = "Other"
+  node_id = "MDc6TGljZW5zZTA="
+  spdx_id = "NOASSERTION"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_508_208
+  login = "codeisland"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjY1MDgyMDg="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

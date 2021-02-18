@@ -1,7 +1,52 @@
 code_url = "https://github.com/codeisland/textizen"
 description = "An SMS survey platform built by CfA Team Philadelphia"
-git_branch = "dev"
 git_url = "git://github.com/codeisland/textizen.git"
-last_pushed_within = "over_a_year"
 link_url = "http://www.textizen.com"
 name = "textizen"
+organization_name = "Code Island"
+
+[github]
+archived = false
+created_at = "2014-08-01T19:22:04Z"
+default_branch = "dev"
+description = "An SMS survey platform built by CfA Team Philadelphia"
+disabled = false
+fork = true
+forks_within = 10
+full_name = "codeisland/textizen"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://www.textizen.com"
+id = 22_524_653
+language = { }
+name = "textizen"
+node_id = "MDEwOlJlcG9zaXRvcnkyMjUyNDY1Mw=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "bsd-3-clause"
+  name = 'BSD 3-Clause "New" or "Revised" License'
+  node_id = "MDc6TGljZW5zZTU="
+  spdx_id = "BSD-3-Clause"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_508_208
+  login = "codeisland"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjY1MDgyMDg="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
