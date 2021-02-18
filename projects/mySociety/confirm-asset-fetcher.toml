@@ -1,6 +1,46 @@
 code_url = "https://github.com/mysociety/confirm-asset-fetcher"
-git_branch = "master"
 git_url = "git://github.com/mysociety/confirm-asset-fetcher.git"
-last_pushed_within = "over_a_year"
 link_url = "https://www.mysociety.org/"
 name = "confirm-asset-fetcher"
+organization_name = "mySociety"
+
+[github]
+archived = false
+created_at = "2019-03-14T15:39:20Z"
+default_branch = "master"
+description = { }
+disabled = false
+fork = false
+forks_within = 0
+full_name = "mysociety/confirm-asset-fetcher"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "https://www.mysociety.org/"
+id = 175_651_416
+language = "Python"
+license = { }
+name = "confirm-asset-fetcher"
+node_id = "MDEwOlJlcG9zaXRvcnkxNzU2NTE0MTY="
+open_issues_within = 10
+private = false
+pushed_within = "year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 141_338
+  login = "mysociety"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE0MTMzOA=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

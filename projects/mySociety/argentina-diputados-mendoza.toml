@@ -1,6 +1,46 @@
 code_url = "https://github.com/mysociety/argentina-diputados-mendoza"
-git_branch = "master"
 git_url = "git://github.com/mysociety/argentina-diputados-mendoza.git"
-last_pushed_within = "over_a_year"
 link_url = "https://morph.io/mysociety/argentina-diputados-mendoza"
 name = "argentina-diputados-mendoza"
+organization_name = "mySociety"
+
+[github]
+archived = false
+created_at = "2017-10-17T14:45:56Z"
+default_branch = "master"
+description = { }
+disabled = false
+fork = false
+forks_within = 0
+full_name = "mysociety/argentina-diputados-mendoza"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "https://morph.io/mysociety/argentina-diputados-mendoza"
+id = 107_282_280
+language = "Python"
+license = { }
+name = "argentina-diputados-mendoza"
+node_id = "MDEwOlJlcG9zaXRvcnkxMDcyODIyODA="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 141_338
+  login = "mysociety"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE0MTMzOA=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

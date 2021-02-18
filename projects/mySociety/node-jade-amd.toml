@@ -1,6 +1,51 @@
 code_url = "https://github.com/mysociety/node-jade-amd"
 description = "Helpers for working with Jade templates in an AMD setting"
-git_branch = "master"
 git_url = "git://github.com/mysociety/node-jade-amd.git"
-last_pushed_within = "over_a_year"
 name = "node-jade-amd"
+organization_name = "mySociety"
+
+[github]
+archived = false
+created_at = "2012-05-23T15:41:34Z"
+default_branch = "master"
+description = "Helpers for working with Jade templates in an AMD setting"
+disabled = false
+fork = false
+forks_within = 100
+full_name = "mysociety/node-jade-amd"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 4_421_959
+language = "JavaScript"
+name = "node-jade-amd"
+node_id = "MDEwOlJlcG9zaXRvcnk0NDIxOTU5"
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 100
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 100
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 141_338
+  login = "mysociety"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE0MTMzOA=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

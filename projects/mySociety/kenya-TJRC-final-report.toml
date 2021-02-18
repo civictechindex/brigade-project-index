@@ -1,6 +1,46 @@
 code_url = "https://github.com/mysociety/kenya-TJRC-final-report"
 description = "An accessible version of the Final Report of The Truth Justice and Reconciliation Commission of Kenya"
-git_branch = "master"
 git_url = "git://github.com/mysociety/kenya-TJRC-final-report.git"
-last_pushed_within = "over_a_year"
 name = "kenya-TJRC-final-report"
+organization_name = "mySociety"
+
+[github]
+archived = false
+created_at = "2013-05-31T13:42:04Z"
+default_branch = "master"
+description = "An accessible version of the Final Report of The Truth Justice and Reconciliation Commission of Kenya"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "mysociety/kenya-TJRC-final-report"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 10_405_610
+language = { }
+license = { }
+name = "kenya-TJRC-final-report"
+node_id = "MDEwOlJlcG9zaXRvcnkxMDQwNTYxMA=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 141_338
+  login = "mysociety"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE0MTMzOA=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

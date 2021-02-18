@@ -1,7 +1,47 @@
 code_url = "https://github.com/mysociety/multiple-django-popolo-sources"
 description = "Manage django-popolo models from multiple source URLs"
-git_branch = "master"
 git_url = "git://github.com/mysociety/multiple-django-popolo-sources.git"
-last_pushed_within = "over_a_year"
 link_url = "https://www.mysociety.org/"
 name = "multiple-django-popolo-sources"
+organization_name = "mySociety"
+
+[github]
+archived = false
+created_at = "2016-09-19T15:36:25Z"
+default_branch = "master"
+description = "Manage django-popolo models from multiple source URLs"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "mysociety/multiple-django-popolo-sources"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "https://www.mysociety.org/"
+id = 68_619_762
+language = "Python"
+license = { }
+name = "multiple-django-popolo-sources"
+node_id = "MDEwOlJlcG9zaXRvcnk2ODYxOTc2Mg=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 141_338
+  login = "mysociety"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE0MTMzOA=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

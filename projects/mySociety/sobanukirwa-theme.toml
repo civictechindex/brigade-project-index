@@ -1,8 +1,53 @@
 code_url = "https://github.com/mysociety/sobanukirwa-theme"
 description = "The Alavateli theme for Sobanukirwa (Rwanda)"
-git_branch = "master"
 git_url = "git://github.com/mysociety/sobanukirwa-theme.git"
-last_pushed_within = "week"
 link_url = "https://sobanukirwa.rw"
 name = "sobanukirwa-theme"
+organization_name = "mySociety"
 topics = [ "alaveteli", "alaveteli-theme" ]
+
+[github]
+archived = false
+created_at = "2014-11-20T15:36:02Z"
+default_branch = "master"
+description = "The Alavateli theme for Sobanukirwa (Rwanda)"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "mysociety/sobanukirwa-theme"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "https://sobanukirwa.rw"
+id = 26_918_855
+language = "HTML"
+name = "sobanukirwa-theme"
+node_id = "MDEwOlJlcG9zaXRvcnkyNjkxODg1NQ=="
+open_issues_within = 0
+private = false
+pushed_within = "year"
+stargazers_within = 10
+topics = [ "alaveteli", "alaveteli-theme" ]
+updated_within = "year"
+watchers_within = 10
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 141_338
+  login = "mysociety"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE0MTMzOA=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

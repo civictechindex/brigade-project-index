@@ -1,7 +1,52 @@
 code_url = "https://github.com/mysociety/taggle.js"
 description = "📝 Form-ready dependency-less tagging."
-git_branch = "master"
 git_url = "git://github.com/mysociety/taggle.js.git"
-last_pushed_within = "over_a_year"
 link_url = "https://sean.is/poppin/tags"
 name = "taggle.js"
+organization_name = "mySociety"
+
+[github]
+archived = false
+created_at = "2018-05-29T11:34:21Z"
+default_branch = "master"
+description = "📝 Form-ready dependency-less tagging."
+disabled = false
+fork = true
+forks_within = 0
+full_name = "mysociety/taggle.js"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "https://sean.is/poppin/tags"
+id = 135_286_646
+language = "JavaScript"
+name = "taggle.js"
+node_id = "MDEwOlJlcG9zaXRvcnkxMzUyODY2NDY="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 141_338
+  login = "mysociety"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE0MTMzOA=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

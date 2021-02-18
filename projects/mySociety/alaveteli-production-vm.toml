@@ -1,7 +1,47 @@
 code_url = "https://github.com/mysociety/alaveteli-production-vm"
 description = "VM with Alaveteli installed in production mode for testing."
-git_branch = "master"
 git_url = "git://github.com/mysociety/alaveteli-production-vm.git"
-last_pushed_within = "over_a_year"
 name = "alaveteli-production-vm"
+organization_name = "mySociety"
 topics = [ "alaveteli" ]
+
+[github]
+archived = false
+created_at = "2015-05-28T15:13:19Z"
+default_branch = "master"
+description = "VM with Alaveteli installed in production mode for testing."
+disabled = false
+fork = false
+forks_within = 0
+full_name = "mysociety/alaveteli-production-vm"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 36_446_990
+language = { }
+license = { }
+name = "alaveteli-production-vm"
+node_id = "MDEwOlJlcG9zaXRvcnkzNjQ0Njk5MA=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ "alaveteli" ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 141_338
+  login = "mysociety"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE0MTMzOA=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

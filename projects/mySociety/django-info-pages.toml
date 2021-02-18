@@ -1,7 +1,47 @@
 code_url = "https://github.com/mysociety/django-info-pages"
 description = "Simple support for static information pages, which can also be used for blog posts"
-git_branch = "master"
 git_url = "git://github.com/mysociety/django-info-pages.git"
-last_pushed_within = "over_a_year"
 link_url = "https://pypi.org/project/django-info-pages/"
 name = "django-info-pages"
+organization_name = "mySociety"
+
+[github]
+archived = false
+created_at = "2016-04-08T14:10:22Z"
+default_branch = "master"
+description = "Simple support for static information pages, which can also be used for blog posts"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "mysociety/django-info-pages"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "https://pypi.org/project/django-info-pages/"
+id = 55_783_785
+language = "Python"
+license = { }
+name = "django-info-pages"
+node_id = "MDEwOlJlcG9zaXRvcnk1NTc4Mzc4NQ=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 141_338
+  login = "mysociety"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE0MTMzOA=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

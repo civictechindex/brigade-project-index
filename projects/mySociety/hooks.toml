@@ -1,7 +1,47 @@
 code_url = "https://github.com/mysociety/hooks"
 description = "A home for webhooks"
-git_branch = "master"
 git_url = "git://github.com/mysociety/hooks.git"
-last_pushed_within = "year"
 link_url = "https://hooks.mysociety.org/"
 name = "hooks"
+organization_name = "mySociety"
+
+[github]
+archived = false
+created_at = "2018-09-19T11:47:07Z"
+default_branch = "master"
+description = "A home for webhooks"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "mysociety/hooks"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = false
+has_wiki = false
+homepage = "https://hooks.mysociety.org/"
+id = 149_442_338
+language = "PHP"
+license = { }
+name = "hooks"
+node_id = "MDEwOlJlcG9zaXRvcnkxNDk0NDIzMzg="
+open_issues_within = 0
+private = false
+pushed_within = "month"
+stargazers_within = 0
+topics = [ ]
+updated_within = "month"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 141_338
+  login = "mysociety"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE0MTMzOA=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

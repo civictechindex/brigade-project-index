@@ -1,8 +1,48 @@
 code_url = "https://github.com/mysociety/docker-puppetboard"
 description = "Configuration and scripts for running a Docker-based Puppetboard service"
-git_branch = "master"
 git_url = "git://github.com/mysociety/docker-puppetboard.git"
-last_pushed_within = "over_a_year"
 link_url = "https://www.mysociety.org/"
 name = "docker-puppetboard"
+organization_name = "mySociety"
 topics = [ "deployment", "docker", "puppetboard" ]
+
+[github]
+archived = false
+created_at = "2019-02-14T16:44:54Z"
+default_branch = "master"
+description = "Configuration and scripts for running a Docker-based Puppetboard service"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "mysociety/docker-puppetboard"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "https://www.mysociety.org/"
+id = 170_724_595
+language = "Shell"
+license = { }
+name = "docker-puppetboard"
+node_id = "MDEwOlJlcG9zaXRvcnkxNzA3MjQ1OTU="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ "deployment", "docker", "puppetboard" ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 141_338
+  login = "mysociety"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE0MTMzOA=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

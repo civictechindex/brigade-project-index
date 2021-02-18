@@ -1,7 +1,47 @@
 code_url = "https://github.com/mysociety/collideoscope-heatmap"
 description = "Geoprocessing script for generating collision heatmap on Collideoscope."
-git_branch = "master"
 git_url = "git://github.com/mysociety/collideoscope-heatmap.git"
-last_pushed_within = "over_a_year"
 link_url = "https://www.collideoscope.org.uk/"
 name = "collideoscope-heatmap"
+organization_name = "mySociety"
+
+[github]
+archived = false
+created_at = "2018-09-14T15:51:39Z"
+default_branch = "master"
+description = "Geoprocessing script for generating collision heatmap on Collideoscope."
+disabled = false
+fork = false
+forks_within = 0
+full_name = "mysociety/collideoscope-heatmap"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "https://www.collideoscope.org.uk/"
+id = 148_810_790
+language = "Python"
+license = { }
+name = "collideoscope-heatmap"
+node_id = "MDEwOlJlcG9zaXRvcnkxNDg4MTA3OTA="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 141_338
+  login = "mysociety"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE0MTMzOA=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

@@ -1,7 +1,47 @@
 code_url = "https://github.com/mysociety/france-elections-legislatives-results-2017"
 description = "Results from the second round of the elections législatives 2017 in France"
-git_branch = "master"
 git_url = "git://github.com/mysociety/france-elections-legislatives-results-2017.git"
-last_pushed_within = "over_a_year"
 link_url = "https://morph.io/mysociety/france-elections-legislatives-results-2017"
 name = "france-elections-legislatives-results-2017"
+organization_name = "mySociety"
+
+[github]
+archived = false
+created_at = "2017-06-19T10:39:02Z"
+default_branch = "master"
+description = "Results from the second round of the elections législatives 2017 in France"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "mysociety/france-elections-legislatives-results-2017"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "https://morph.io/mysociety/france-elections-legislatives-results-2017"
+id = 94_765_964
+language = "Python"
+license = { }
+name = "france-elections-legislatives-results-2017"
+node_id = "MDEwOlJlcG9zaXRvcnk5NDc2NTk2NA=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 141_338
+  login = "mysociety"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE0MTMzOA=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

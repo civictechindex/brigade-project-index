@@ -1,8 +1,53 @@
 code_url = "https://github.com/mysociety/puppet-dovecot"
 description = "Simple puppet module for managing Dovecot"
-git_branch = "master"
 git_url = "git://github.com/mysociety/puppet-dovecot.git"
-last_pushed_within = "year"
 link_url = "https://github.com/mysociety/puppet-dovecot"
 name = "puppet-dovecot"
+organization_name = "mySociety"
 topics = [ "dovecot", "puppet" ]
+
+[github]
+archived = false
+created_at = "2017-03-30T10:54:12Z"
+default_branch = "master"
+description = "Simple puppet module for managing Dovecot"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "mysociety/puppet-dovecot"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "https://github.com/mysociety/puppet-dovecot"
+id = 86_692_161
+language = "HTML"
+name = "puppet-dovecot"
+node_id = "MDEwOlJlcG9zaXRvcnk4NjY5MjE2MQ=="
+open_issues_within = 10
+private = false
+pushed_within = "year"
+stargazers_within = 0
+topics = [ "dovecot", "puppet" ]
+updated_within = "year"
+watchers_within = 0
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 141_338
+  login = "mysociety"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE0MTMzOA=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

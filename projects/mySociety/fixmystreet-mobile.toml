@@ -1,9 +1,8 @@
 code_url = "https://github.com/mysociety/fixmystreet-mobile"
 description = "Cordova application for making reports to FixMyStreet"
-git_branch = "master"
 git_url = "git://github.com/mysociety/fixmystreet-mobile.git"
-last_pushed_within = "year"
 name = "fixmystreet-mobile"
+organization_name = "mySociety"
 topics = [
   "civic-tech",
   "civictech",
@@ -12,3 +11,56 @@ topics = [
   "mobile",
   "mysociety"
 ]
+
+[github]
+archived = false
+created_at = "2013-07-02T18:09:25Z"
+default_branch = "master"
+description = "Cordova application for making reports to FixMyStreet"
+disabled = false
+fork = false
+forks_within = 100
+full_name = "mysociety/fixmystreet-mobile"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = false
+homepage = ""
+id = 11_131_493
+language = "JavaScript"
+name = "fixmystreet-mobile"
+node_id = "MDEwOlJlcG9zaXRvcnkxMTEzMTQ5Mw=="
+open_issues_within = 100
+private = false
+pushed_within = "year"
+stargazers_within = 100
+topics = [
+  "civic-tech",
+  "civictech",
+  "cordova",
+  "fixmystreet",
+  "mobile",
+  "mysociety"
+]
+updated_within = "year"
+watchers_within = 100
+
+  [github.license]
+  key = "other"
+  name = "Other"
+  node_id = "MDc6TGljZW5zZTA="
+  spdx_id = "NOASSERTION"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 141_338
+  login = "mysociety"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE0MTMzOA=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

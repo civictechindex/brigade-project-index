@@ -1,6 +1,46 @@
 code_url = "https://github.com/mysociety/poplus-theme"
 description = "Shared Sass theme for Poplus component sites like mapit.poplus.org and popit.poplus.org"
-git_branch = "master"
 git_url = "git://github.com/mysociety/poplus-theme.git"
-last_pushed_within = "over_a_year"
 name = "poplus-theme"
+organization_name = "mySociety"
+
+[github]
+archived = false
+created_at = "2014-06-05T11:30:39Z"
+default_branch = "master"
+description = "Shared Sass theme for Poplus component sites like mapit.poplus.org and popit.poplus.org"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "mysociety/poplus-theme"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 20_522_503
+language = "CSS"
+license = { }
+name = "poplus-theme"
+node_id = "MDEwOlJlcG9zaXRvcnkyMDUyMjUwMw=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 141_338
+  login = "mysociety"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE0MTMzOA=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

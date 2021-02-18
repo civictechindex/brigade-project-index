@@ -1,7 +1,52 @@
 code_url = "https://github.com/mysociety/sass"
 description = "Sass makes CSS fun again."
-git_branch = "stable"
 git_url = "git://github.com/mysociety/sass.git"
-last_pushed_within = "over_a_year"
 link_url = "http://sass-lang.com"
 name = "sass"
+organization_name = "mySociety"
+
+[github]
+archived = false
+created_at = "2014-11-06T13:48:42Z"
+default_branch = "stable"
+description = "Sass makes CSS fun again."
+disabled = false
+fork = true
+forks_within = 10
+full_name = "mysociety/sass"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = false
+homepage = "http://sass-lang.com"
+id = 26_271_904
+language = { }
+name = "sass"
+node_id = "MDEwOlJlcG9zaXRvcnkyNjI3MTkwNA=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 141_338
+  login = "mysociety"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE0MTMzOA=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

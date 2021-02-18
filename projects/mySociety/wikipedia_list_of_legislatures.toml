@@ -1,7 +1,47 @@
 code_url = "https://github.com/mysociety/wikipedia_list_of_legislatures"
 description = "Get csv of the list of legislatures"
-git_branch = "master"
 git_url = "git://github.com/mysociety/wikipedia_list_of_legislatures.git"
-last_pushed_within = "over_a_year"
 link_url = "https://morph.io/mysociety/wikipedia_list_of_legislatures"
 name = "wikipedia_list_of_legislatures"
+organization_name = "mySociety"
+
+[github]
+archived = false
+created_at = "2015-02-12T13:18:01Z"
+default_branch = "master"
+description = "Get csv of the list of legislatures"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "mysociety/wikipedia_list_of_legislatures"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "https://morph.io/mysociety/wikipedia_list_of_legislatures"
+id = 30_703_317
+language = "Python"
+license = { }
+name = "wikipedia_list_of_legislatures"
+node_id = "MDEwOlJlcG9zaXRvcnkzMDcwMzMxNw=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 141_338
+  login = "mysociety"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE0MTMzOA=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

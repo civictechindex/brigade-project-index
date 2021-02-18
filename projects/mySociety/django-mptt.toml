@@ -1,6 +1,51 @@
 code_url = "https://github.com/mysociety/django-mptt"
 description = "Utilities for implementing a modified pre-order traversal tree in django."
-git_branch = "master"
 git_url = "git://github.com/mysociety/django-mptt.git"
-last_pushed_within = "over_a_year"
 name = "django-mptt"
+organization_name = "mySociety"
+
+[github]
+archived = false
+created_at = "2013-04-04T10:36:46Z"
+default_branch = "master"
+description = "Utilities for implementing a modified pre-order traversal tree in django."
+disabled = false
+fork = true
+forks_within = 0
+full_name = "mysociety/django-mptt"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 9_215_949
+language = "Python"
+name = "django-mptt"
+node_id = "MDEwOlJlcG9zaXRvcnk5MjE1OTQ5"
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "other"
+  name = "Other"
+  node_id = "MDc6TGljZW5zZTA="
+  spdx_id = "NOASSERTION"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 141_338
+  login = "mysociety"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE0MTMzOA=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

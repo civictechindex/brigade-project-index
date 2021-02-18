@@ -1,6 +1,46 @@
 code_url = "https://github.com/mysociety/fms_meta_categories"
 description = "Set of meta-categories to combine FMS reports across different areas. "
-git_branch = "master"
 git_url = "git://github.com/mysociety/fms_meta_categories.git"
-last_pushed_within = "year"
 name = "fms_meta_categories"
+organization_name = "mySociety"
+
+[github]
+archived = false
+created_at = "2018-10-12T12:41:44Z"
+default_branch = "master"
+description = "Set of meta-categories to combine FMS reports across different areas. "
+disabled = false
+fork = false
+forks_within = 0
+full_name = "mysociety/fms_meta_categories"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 152_748_842
+language = "Python"
+license = { }
+name = "fms_meta_categories"
+node_id = "MDEwOlJlcG9zaXRvcnkxNTI3NDg4NDI="
+open_issues_within = 0
+private = false
+pushed_within = "year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 141_338
+  login = "mysociety"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE0MTMzOA=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

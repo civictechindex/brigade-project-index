@@ -1,6 +1,46 @@
 code_url = "https://github.com/mysociety/internal"
 description = "Internal things (intranet, mailing lists, web IRC)"
-git_branch = "master"
 git_url = "git://github.com/mysociety/internal.git"
-last_pushed_within = "over_a_year"
 name = "internal"
+organization_name = "mySociety"
+
+[github]
+archived = false
+created_at = "2014-01-27T11:57:32Z"
+default_branch = "master"
+description = "Internal things (intranet, mailing lists, web IRC)"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "mysociety/internal"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = false
+homepage = { }
+id = 16_277_784
+language = "HTML"
+license = { }
+name = "internal"
+node_id = "MDEwOlJlcG9zaXRvcnkxNjI3Nzc4NA=="
+open_issues_within = 100
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 141_338
+  login = "mysociety"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE0MTMzOA=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

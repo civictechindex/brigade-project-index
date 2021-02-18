@@ -1,7 +1,47 @@
 code_url = "https://github.com/mysociety/research_localgov_foi_stats"
 description = "Accompanying data repo for research report"
-git_branch = "master"
 git_url = "git://github.com/mysociety/research_localgov_foi_stats.git"
-last_pushed_within = "over_a_year"
 link_url = "https://research.mysociety.org/publications/freedom-information-local-government"
 name = "research_localgov_foi_stats"
+organization_name = "mySociety"
+
+[github]
+archived = false
+created_at = "2019-04-29T16:07:48Z"
+default_branch = "master"
+description = "Accompanying data repo for research report"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "mysociety/research_localgov_foi_stats"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "https://research.mysociety.org/publications/freedom-information-local-government"
+id = 184_103_117
+language = { }
+license = { }
+name = "research_localgov_foi_stats"
+node_id = "MDEwOlJlcG9zaXRvcnkxODQxMDMxMTc="
+open_issues_within = 10
+private = false
+pushed_within = "month"
+stargazers_within = 0
+topics = [ ]
+updated_within = "month"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 141_338
+  login = "mysociety"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE0MTMzOA=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

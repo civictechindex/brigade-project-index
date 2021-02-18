@@ -1,6 +1,46 @@
 code_url = "https://github.com/mysociety/sort-my-sign"
 description = "Project with Transport Focus for reporting signs on Highways England roads"
-git_branch = "master"
 git_url = "git://github.com/mysociety/sort-my-sign.git"
-last_pushed_within = "year"
 name = "sort-my-sign"
+organization_name = "mySociety"
+
+[github]
+archived = false
+created_at = "2020-01-10T15:01:48Z"
+default_branch = "master"
+description = "Project with Transport Focus for reporting signs on Highways England roads"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "mysociety/sort-my-sign"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 233_070_449
+language = "HTML"
+license = { }
+name = "sort-my-sign"
+node_id = "MDEwOlJlcG9zaXRvcnkyMzMwNzA0NDk="
+open_issues_within = 0
+private = false
+pushed_within = "year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 141_338
+  login = "mysociety"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE0MTMzOA=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

@@ -1,7 +1,47 @@
 code_url = "https://github.com/mysociety/home-poplus"
 description = "Website for the POPLUS environment. It serves as a hub for all poplus components, deployments, workspaces, etc."
-git_branch = "gh-pages"
 git_url = "git://github.com/mysociety/home-poplus.git"
-last_pushed_within = "over_a_year"
 link_url = "poplus.org"
 name = "home-poplus"
+organization_name = "mySociety"
+
+[github]
+archived = false
+created_at = "2013-10-22T09:53:50Z"
+default_branch = "gh-pages"
+description = "Website for the POPLUS environment. It serves as a hub for all poplus components, deployments, workspaces, etc."
+disabled = false
+fork = true
+forks_within = 0
+full_name = "mysociety/home-poplus"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "poplus.org"
+id = 13_769_155
+language = "CSS"
+license = { }
+name = "home-poplus"
+node_id = "MDEwOlJlcG9zaXRvcnkxMzc2OTE1NQ=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 141_338
+  login = "mysociety"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE0MTMzOA=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

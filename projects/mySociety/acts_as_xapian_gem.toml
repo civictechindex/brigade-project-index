@@ -1,7 +1,52 @@
 code_url = "https://github.com/mysociety/acts_as_xapian_gem"
 description = "acts_as_xapian plugin converted to a gem. Provides integration with the xapian fulltext search engine."
-git_branch = "master"
 git_url = "git://github.com/mysociety/acts_as_xapian_gem.git"
-last_pushed_within = "over_a_year"
 link_url = "http://www.mikenelsons.com/projects"
 name = "acts_as_xapian_gem"
+organization_name = "mySociety"
+
+[github]
+archived = false
+created_at = "2013-01-17T11:58:13Z"
+default_branch = "master"
+description = "acts_as_xapian plugin converted to a gem. Provides integration with the xapian fulltext search engine."
+disabled = false
+fork = true
+forks_within = 0
+full_name = "mysociety/acts_as_xapian_gem"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://www.mikenelsons.com/projects"
+id = 7_665_417
+language = "Ruby"
+name = "acts_as_xapian_gem"
+node_id = "MDEwOlJlcG9zaXRvcnk3NjY1NDE3"
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 141_338
+  login = "mysociety"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE0MTMzOA=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

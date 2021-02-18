@@ -1,6 +1,46 @@
 code_url = "https://github.com/mysociety/django-images"
 description = "Attach images to any Django model, with helpful admin"
-git_branch = "master"
 git_url = "git://github.com/mysociety/django-images.git"
-last_pushed_within = "over_a_year"
 name = "django-images"
+organization_name = "mySociety"
+
+[github]
+archived = false
+created_at = "2015-10-30T14:44:42Z"
+default_branch = "master"
+description = "Attach images to any Django model, with helpful admin"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "mysociety/django-images"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 45_256_771
+language = "Python"
+license = { }
+name = "django-images"
+node_id = "MDEwOlJlcG9zaXRvcnk0NTI1Njc3MQ=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 141_338
+  login = "mysociety"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE0MTMzOA=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

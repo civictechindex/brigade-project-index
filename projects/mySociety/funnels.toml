@@ -1,7 +1,52 @@
 code_url = "https://github.com/mysociety/funnels"
 description = "Piwik plugin that allows the definition, analysis and visualisation of funnels associated with goals."
-git_branch = "master"
 git_url = "git://github.com/mysociety/funnels.git"
-last_pushed_within = "over_a_year"
 link_url = "http://mysociety.org"
 name = "funnels"
+organization_name = "mySociety"
+
+[github]
+archived = false
+created_at = "2010-05-20T11:41:39Z"
+default_branch = "master"
+description = "Piwik plugin that allows the definition, analysis and visualisation of funnels associated with goals."
+disabled = false
+fork = false
+forks_within = 100
+full_name = "mysociety/funnels"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://mysociety.org"
+id = 676_906
+language = "PHP"
+name = "funnels"
+node_id = "MDEwOlJlcG9zaXRvcnk2NzY5MDY="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 100
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 100
+
+  [github.license]
+  key = "other"
+  name = "Other"
+  node_id = "MDc6TGljZW5zZTA="
+  spdx_id = "NOASSERTION"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 141_338
+  login = "mysociety"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE0MTMzOA=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

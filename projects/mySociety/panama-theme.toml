@@ -1,7 +1,52 @@
 code_url = "https://github.com/mysociety/panama-theme"
 description = "A theme for Alaveteli in Panama"
-git_branch = "master"
 git_url = "git://github.com/mysociety/panama-theme.git"
-last_pushed_within = "over_a_year"
 name = "panama-theme"
+organization_name = "mySociety"
 topics = [ "alaveteli", "alaveteli-theme" ]
+
+[github]
+archived = false
+created_at = "2014-07-24T16:22:34Z"
+default_branch = "master"
+description = "A theme for Alaveteli in Panama"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "mysociety/panama-theme"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 22_220_387
+language = "HTML"
+name = "panama-theme"
+node_id = "MDEwOlJlcG9zaXRvcnkyMjIyMDM4Nw=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ "alaveteli", "alaveteli-theme" ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 141_338
+  login = "mysociety"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE0MTMzOA=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

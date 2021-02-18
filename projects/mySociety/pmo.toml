@@ -1,6 +1,46 @@
 code_url = "https://github.com/mysociety/pmo"
 description = "A repository to allow the PMO team to track issues across multiple projects."
-git_branch = "master"
 git_url = "git://github.com/mysociety/pmo.git"
-last_pushed_within = "over_a_year"
 name = "pmo"
+organization_name = "mySociety"
+
+[github]
+archived = false
+created_at = "2014-11-24T15:26:29Z"
+default_branch = "master"
+description = "A repository to allow the PMO team to track issues across multiple projects."
+disabled = false
+fork = false
+forks_within = 0
+full_name = "mysociety/pmo"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = false
+homepage = { }
+id = 27_081_505
+language = { }
+license = { }
+name = "pmo"
+node_id = "MDEwOlJlcG9zaXRvcnkyNzA4MTUwNQ=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 141_338
+  login = "mysociety"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE0MTMzOA=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

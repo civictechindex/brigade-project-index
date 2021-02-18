@@ -1,6 +1,46 @@
 code_url = "https://github.com/mysociety/twfy-profile-spike"
 description = "Quick Jekyll scratchpad for mySociety designers to play with changes to the TheyWorkForYou MP profile page"
-git_branch = "master"
 git_url = "git://github.com/mysociety/twfy-profile-spike.git"
-last_pushed_within = "over_a_year"
 name = "twfy-profile-spike"
+organization_name = "mySociety"
+
+[github]
+archived = false
+created_at = "2017-07-31T08:41:50Z"
+default_branch = "master"
+description = "Quick Jekyll scratchpad for mySociety designers to play with changes to the TheyWorkForYou MP profile page"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "mysociety/twfy-profile-spike"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 98_867_557
+language = "CSS"
+license = { }
+name = "twfy-profile-spike"
+node_id = "MDEwOlJlcG9zaXRvcnk5ODg2NzU1Nw=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 141_338
+  login = "mysociety"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE0MTMzOA=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

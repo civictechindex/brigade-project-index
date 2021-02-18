@@ -1,7 +1,47 @@
 code_url = "https://github.com/mysociety/xapian-full"
 description = "Ruby Xapian bindings, including xapian-core"
-git_branch = "master"
 git_url = "git://github.com/mysociety/xapian-full.git"
-last_pushed_within = "year"
 name = "xapian-full"
+organization_name = "mySociety"
 topics = [ "alaveteli" ]
+
+[github]
+archived = false
+created_at = "2015-03-31T15:57:47Z"
+default_branch = "master"
+description = "Ruby Xapian bindings, including xapian-core"
+disabled = false
+fork = true
+forks_within = 10
+full_name = "mysociety/xapian-full"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 33_194_849
+language = "Ruby"
+license = { }
+name = "xapian-full"
+node_id = "MDEwOlJlcG9zaXRvcnkzMzE5NDg0OQ=="
+open_issues_within = 10
+private = false
+pushed_within = "month"
+stargazers_within = 0
+topics = [ "alaveteli" ]
+updated_within = "year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 141_338
+  login = "mysociety"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE0MTMzOA=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

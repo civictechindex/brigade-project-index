@@ -1,8 +1,53 @@
 code_url = "https://github.com/mysociety/askyourgovug-theme"
 description = "The Alaveteli theme for AskYourGov (Uganda)"
-git_branch = "master"
 git_url = "git://github.com/mysociety/askyourgovug-theme.git"
-last_pushed_within = "year"
 link_url = "http://askyourgov.ug"
 name = "askyourgovug-theme"
+organization_name = "mySociety"
 topics = [ "alaveteli", "alaveteli-theme" ]
+
+[github]
+archived = false
+created_at = "2013-11-21T10:37:04Z"
+default_branch = "master"
+description = "The Alaveteli theme for AskYourGov (Uganda)"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "mysociety/askyourgovug-theme"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://askyourgov.ug"
+id = 14_584_725
+language = "HTML"
+name = "askyourgovug-theme"
+node_id = "MDEwOlJlcG9zaXRvcnkxNDU4NDcyNQ=="
+open_issues_within = 10
+private = false
+pushed_within = "year"
+stargazers_within = 0
+topics = [ "alaveteli", "alaveteli-theme" ]
+updated_within = "year"
+watchers_within = 0
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 141_338
+  login = "mysociety"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE0MTMzOA=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

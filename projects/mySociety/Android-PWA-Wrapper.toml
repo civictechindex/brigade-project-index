@@ -1,7 +1,52 @@
 code_url = "https://github.com/mysociety/Android-PWA-Wrapper"
 description = "Android Wrapper to create native Android Apps from offline-capable Progressive Web Apps"
-git_branch = "master"
 git_url = "git://github.com/mysociety/Android-PWA-Wrapper.git"
-last_pushed_within = "year"
 link_url = "https://www.leasingrechnen.at"
 name = "Android-PWA-Wrapper"
+organization_name = "mySociety"
+
+[github]
+archived = false
+created_at = "2020-11-19T10:49:39Z"
+default_branch = "master"
+description = "Android Wrapper to create native Android Apps from offline-capable Progressive Web Apps"
+disabled = false
+fork = true
+forks_within = 0
+full_name = "mysociety/Android-PWA-Wrapper"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "https://www.leasingrechnen.at"
+id = 314_217_994
+language = { }
+name = "Android-PWA-Wrapper"
+node_id = "MDEwOlJlcG9zaXRvcnkzMTQyMTc5OTQ="
+open_issues_within = 0
+private = false
+pushed_within = "year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "year"
+watchers_within = 0
+
+  [github.license]
+  key = "gpl-3.0"
+  name = "GNU General Public License v3.0"
+  node_id = "MDc6TGljZW5zZTk="
+  spdx_id = "GPL-3.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 141_338
+  login = "mysociety"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE0MTMzOA=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

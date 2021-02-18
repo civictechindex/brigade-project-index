@@ -1,6 +1,51 @@
 code_url = "https://github.com/mysociety/django-pipeline-csscompressor"
 description = "A django-pipeline compressor to compress css files using the 100% Python csscompressor"
-git_branch = "master"
 git_url = "git://github.com/mysociety/django-pipeline-csscompressor.git"
-last_pushed_within = "over_a_year"
 name = "django-pipeline-csscompressor"
+organization_name = "mySociety"
+
+[github]
+archived = false
+created_at = "2016-05-26T12:54:29Z"
+default_branch = "master"
+description = "A django-pipeline compressor to compress css files using the 100% Python csscompressor"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "mysociety/django-pipeline-csscompressor"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 59_750_157
+language = "Python"
+name = "django-pipeline-csscompressor"
+node_id = "MDEwOlJlcG9zaXRvcnk1OTc1MDE1Nw=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "other"
+  name = "Other"
+  node_id = "MDc6TGljZW5zZTA="
+  spdx_id = "NOASSERTION"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 141_338
+  login = "mysociety"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE0MTMzOA=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

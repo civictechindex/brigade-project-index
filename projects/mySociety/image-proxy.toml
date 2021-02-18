@@ -1,6 +1,51 @@
 code_url = "https://github.com/mysociety/image-proxy"
 description = "An image proxy using the Express Node.js framework"
-git_branch = "master"
 git_url = "git://github.com/mysociety/image-proxy.git"
-last_pushed_within = "over_a_year"
 name = "image-proxy"
+organization_name = "mySociety"
+
+[github]
+archived = false
+created_at = "2014-09-25T09:36:22Z"
+default_branch = "master"
+description = "An image proxy using the Express Node.js framework"
+disabled = false
+fork = true
+forks_within = 0
+full_name = "mysociety/image-proxy"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = false
+homepage = { }
+id = 24_452_241
+language = "JavaScript"
+name = "image-proxy"
+node_id = "MDEwOlJlcG9zaXRvcnkyNDQ1MjI0MQ=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 141_338
+  login = "mysociety"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE0MTMzOA=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

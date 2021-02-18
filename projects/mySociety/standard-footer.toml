@@ -1,6 +1,46 @@
 code_url = "https://github.com/mysociety/standard-footer"
 description = "The reference implementation of the standard mySociety footer, for use across all of the sites we operate."
-git_branch = "master"
 git_url = "git://github.com/mysociety/standard-footer.git"
-last_pushed_within = "year"
 name = "standard-footer"
+organization_name = "mySociety"
+
+[github]
+archived = false
+created_at = "2016-04-27T16:15:58Z"
+default_branch = "master"
+description = "The reference implementation of the standard mySociety footer, for use across all of the sites we operate."
+disabled = false
+fork = false
+forks_within = 0
+full_name = "mysociety/standard-footer"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 57_227_905
+language = "CSS"
+license = { }
+name = "standard-footer"
+node_id = "MDEwOlJlcG9zaXRvcnk1NzIyNzkwNQ=="
+open_issues_within = 0
+private = false
+pushed_within = "week"
+stargazers_within = 10
+topics = [ ]
+updated_within = "year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 141_338
+  login = "mysociety"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE0MTMzOA=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

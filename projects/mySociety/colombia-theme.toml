@@ -1,8 +1,53 @@
 code_url = "https://github.com/mysociety/colombia-theme"
 description = "The Alaveteli theme for QueremosDatos (Colombia)"
-git_branch = "master"
 git_url = "git://github.com/mysociety/colombia-theme.git"
-last_pushed_within = "over_a_year"
 link_url = "http://www.queremosdatos.co/"
 name = "colombia-theme"
+organization_name = "mySociety"
 topics = [ "alaveteli", "alaveteli-theme" ]
+
+[github]
+archived = false
+created_at = "2016-01-11T15:42:50Z"
+default_branch = "master"
+description = "The Alaveteli theme for QueremosDatos (Colombia)"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "mysociety/colombia-theme"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://www.queremosdatos.co/"
+id = 49_436_169
+language = "HTML"
+name = "colombia-theme"
+node_id = "MDEwOlJlcG9zaXRvcnk0OTQzNjE2OQ=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ "alaveteli", "alaveteli-theme" ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 141_338
+  login = "mysociety"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE0MTMzOA=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

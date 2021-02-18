@@ -1,13 +1,63 @@
 code_url = "https://github.com/mysociety/alaveteli"
 description = "Provide a Freedom of Information request system for your jurisdiction"
-git_branch = "develop"
 git_url = "git://github.com/mysociety/alaveteli.git"
-last_pushed_within = "week"
 link_url = "https://alaveteli.org"
 name = "alaveteli"
+organization_name = "mySociety"
 topics = [
   "access-to-information",
   "alaveteli",
   "freedom-of-information",
   "right-to-know"
 ]
+
+[github]
+archived = false
+created_at = "2010-11-30T13:11:39Z"
+default_branch = "develop"
+description = "Provide a Freedom of Information request system for your jurisdiction"
+disabled = false
+fork = false
+forks_within = 1_000
+full_name = "mysociety/alaveteli"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "https://alaveteli.org"
+id = 1_125_389
+language = "Ruby"
+name = "alaveteli"
+node_id = "MDEwOlJlcG9zaXRvcnkxMTI1Mzg5"
+open_issues_within = "over_1000"
+private = false
+pushed_within = "week"
+stargazers_within = 1_000
+topics = [
+  "access-to-information",
+  "alaveteli",
+  "freedom-of-information",
+  "right-to-know"
+]
+updated_within = "week"
+watchers_within = 1_000
+
+  [github.license]
+  key = "other"
+  name = "Other"
+  node_id = "MDc6TGljZW5zZTA="
+  spdx_id = "NOASSERTION"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 141_338
+  login = "mysociety"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE0MTMzOA=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

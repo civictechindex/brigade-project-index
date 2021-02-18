@@ -1,6 +1,46 @@
 code_url = "https://github.com/mysociety/approx_dates"
-git_branch = "master"
 git_url = "git://github.com/mysociety/approx_dates.git"
-last_pushed_within = "over_a_year"
 link_url = "https://www.mysociety.org/"
 name = "approx_dates"
+organization_name = "mySociety"
+
+[github]
+archived = false
+created_at = "2016-10-31T18:27:36Z"
+default_branch = "master"
+description = { }
+disabled = false
+fork = false
+forks_within = 10
+full_name = "mysociety/approx_dates"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "https://www.mysociety.org/"
+id = 72_466_021
+language = "Python"
+license = { }
+name = "approx_dates"
+node_id = "MDEwOlJlcG9zaXRvcnk3MjQ2NjAyMQ=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 141_338
+  login = "mysociety"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE0MTMzOA=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

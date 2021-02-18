@@ -1,7 +1,52 @@
 code_url = "https://github.com/mysociety/Geography-NationalGrid"
 description = "Read-only release history for Geography-NationalGrid"
-git_branch = "master"
 git_url = "git://github.com/mysociety/Geography-NationalGrid.git"
-last_pushed_within = "over_a_year"
 link_url = "http://metacpan.org/release/Geography-NationalGrid"
 name = "Geography-NationalGrid"
+organization_name = "mySociety"
+
+[github]
+archived = false
+created_at = "2019-05-03T20:18:40Z"
+default_branch = "master"
+description = "Read-only release history for Geography-NationalGrid"
+disabled = false
+fork = true
+forks_within = 0
+full_name = "mysociety/Geography-NationalGrid"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = false
+homepage = "http://metacpan.org/release/Geography-NationalGrid"
+id = 184_815_439
+language = "Perl"
+name = "Geography-NationalGrid"
+node_id = "MDEwOlJlcG9zaXRvcnkxODQ4MTU0Mzk="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "other"
+  name = "Other"
+  node_id = "MDc6TGljZW5zZTA="
+  spdx_id = "NOASSERTION"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 141_338
+  login = "mysociety"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE0MTMzOA=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

@@ -1,7 +1,52 @@
 code_url = "https://github.com/mysociety/sayit"
 description = "SayIt - a component for recording and storing public statements."
-git_branch = "master"
 git_url = "git://github.com/mysociety/sayit.git"
-last_pushed_within = "year"
 link_url = "http://sayit.mysociety.org/"
 name = "sayit"
+organization_name = "mySociety"
+
+[github]
+archived = false
+created_at = "2012-09-12T10:57:38Z"
+default_branch = "master"
+description = "SayIt - a component for recording and storing public statements."
+disabled = false
+fork = false
+forks_within = 100
+full_name = "mysociety/sayit"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "http://sayit.mysociety.org/"
+id = 5_778_576
+language = "Python"
+name = "sayit"
+node_id = "MDEwOlJlcG9zaXRvcnk1Nzc4NTc2"
+open_issues_within = 1_000
+private = false
+pushed_within = "year"
+stargazers_within = 100
+topics = [ ]
+updated_within = "year"
+watchers_within = 100
+
+  [github.license]
+  key = "other"
+  name = "Other"
+  node_id = "MDc6TGljZW5zZTA="
+  spdx_id = "NOASSERTION"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 141_338
+  login = "mysociety"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE0MTMzOA=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

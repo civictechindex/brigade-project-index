@@ -1,10 +1,9 @@
 code_url = "https://github.com/mysociety/writetothem"
 description = "Write to your MP, MEP, & other elected representatives."
-git_branch = "master"
 git_url = "git://github.com/mysociety/writetothem.git"
-last_pushed_within = "year"
 link_url = "https://www.writetothem.com"
 name = "writetothem"
+organization_name = "mySociety"
 topics = [
   "civic-tech",
   "civictech",
@@ -14,3 +13,57 @@ topics = [
   "php",
   "representatives"
 ]
+
+[github]
+archived = false
+created_at = "2010-01-19T11:17:22Z"
+default_branch = "master"
+description = "Write to your MP, MEP, & other elected representatives."
+disabled = false
+fork = false
+forks_within = 100
+full_name = "mysociety/writetothem"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = false
+homepage = "https://www.writetothem.com"
+id = 478_804
+language = "PHP"
+name = "writetothem"
+node_id = "MDEwOlJlcG9zaXRvcnk0Nzg4MDQ="
+open_issues_within = 1_000
+private = false
+pushed_within = "week"
+stargazers_within = 100
+topics = [
+  "civic-tech",
+  "civictech",
+  "communication",
+  "mysociety",
+  "perl",
+  "php",
+  "representatives"
+]
+updated_within = "year"
+watchers_within = 100
+
+  [github.license]
+  key = "other"
+  name = "Other"
+  node_id = "MDc6TGljZW5zZTA="
+  spdx_id = "NOASSERTION"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 141_338
+  login = "mysociety"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE0MTMzOA=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

@@ -1,7 +1,47 @@
 code_url = "https://github.com/mysociety/london_planning_applications"
 description = "Planning applications from all 35 London local planning authorities"
-git_branch = "master"
 git_url = "git://github.com/mysociety/london_planning_applications.git"
-last_pushed_within = "over_a_year"
 link_url = "https://morph.io/adrianshort/london_planning_applications"
 name = "london_planning_applications"
+organization_name = "mySociety"
+
+[github]
+archived = false
+created_at = "2019-04-18T07:57:14Z"
+default_branch = "master"
+description = "Planning applications from all 35 London local planning authorities"
+disabled = false
+fork = true
+forks_within = 0
+full_name = "mysociety/london_planning_applications"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "https://morph.io/adrianshort/london_planning_applications"
+id = 182_042_919
+language = "Ruby"
+license = { }
+name = "london_planning_applications"
+node_id = "MDEwOlJlcG9zaXRvcnkxODIwNDI5MTk="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 141_338
+  login = "mysociety"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE0MTMzOA=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

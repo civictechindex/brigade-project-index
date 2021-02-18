@@ -1,7 +1,52 @@
 code_url = "https://github.com/mysociety/iOS-PWA-Wrapper"
 description = "An iOS Wrapper application to create a native iOS App from an offline-capable Progressive Web App."
-git_branch = "master"
 git_url = "git://github.com/mysociety/iOS-PWA-Wrapper.git"
-last_pushed_within = "month"
 link_url = "https://www.leasingrechnen.at"
 name = "iOS-PWA-Wrapper"
+organization_name = "mySociety"
+
+[github]
+archived = false
+created_at = "2020-09-30T08:30:59Z"
+default_branch = "master"
+description = "An iOS Wrapper application to create a native iOS App from an offline-capable Progressive Web App."
+disabled = false
+fork = true
+forks_within = 10
+full_name = "mysociety/iOS-PWA-Wrapper"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "https://www.leasingrechnen.at"
+id = 299_856_722
+language = { }
+name = "iOS-PWA-Wrapper"
+node_id = "MDEwOlJlcG9zaXRvcnkyOTk4NTY3MjI="
+open_issues_within = 0
+private = false
+pushed_within = "year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "year"
+watchers_within = 0
+
+  [github.license]
+  key = "gpl-3.0"
+  name = "GNU General Public License v3.0"
+  node_id = "MDc6TGljZW5zZTk="
+  spdx_id = "GPL-3.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 141_338
+  login = "mysociety"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE0MTMzOA=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

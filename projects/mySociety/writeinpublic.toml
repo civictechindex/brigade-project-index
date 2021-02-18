@@ -1,5 +1,50 @@
 code_url = "https://github.com/mysociety/writeinpublic"
-git_branch = "master"
 git_url = "git://github.com/mysociety/writeinpublic.git"
-last_pushed_within = "over_a_year"
 name = "writeinpublic"
+organization_name = "mySociety"
+
+[github]
+archived = false
+created_at = "2014-04-23T14:36:20Z"
+default_branch = "master"
+description = { }
+disabled = false
+fork = true
+forks_within = 10
+full_name = "mysociety/writeinpublic"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 19_072_978
+language = "Python"
+name = "writeinpublic"
+node_id = "MDEwOlJlcG9zaXRvcnkxOTA3Mjk3OA=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "year"
+watchers_within = 10
+
+  [github.license]
+  key = "gpl-3.0"
+  name = "GNU General Public License v3.0"
+  node_id = "MDc6TGljZW5zZTk="
+  spdx_id = "GPL-3.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 141_338
+  login = "mysociety"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE0MTMzOA=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

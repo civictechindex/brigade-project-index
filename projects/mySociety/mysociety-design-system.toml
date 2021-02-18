@@ -1,6 +1,46 @@
 code_url = "https://github.com/mysociety/mysociety-design-system"
-git_branch = "master"
 git_url = "git://github.com/mysociety/mysociety-design-system.git"
-last_pushed_within = "over_a_year"
 link_url = "https://www.mysociety.org/"
 name = "mysociety-design-system"
+organization_name = "mySociety"
+
+[github]
+archived = false
+created_at = "2019-09-26T09:04:40Z"
+default_branch = "master"
+description = { }
+disabled = false
+fork = false
+forks_within = 0
+full_name = "mysociety/mysociety-design-system"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "https://www.mysociety.org/"
+id = 211_046_668
+language = "CSS"
+license = { }
+name = "mysociety-design-system"
+node_id = "MDEwOlJlcG9zaXRvcnkyMTEwNDY2Njg="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 141_338
+  login = "mysociety"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE0MTMzOA=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

@@ -1,6 +1,51 @@
 code_url = "https://github.com/mysociety/writeinpublic-ansible"
 description = "Fork of https://github.com/jcalazan/ansible-django-stack for running WriteInPublic on AWS"
-git_branch = "master"
 git_url = "git://github.com/mysociety/writeinpublic-ansible.git"
-last_pushed_within = "over_a_year"
 name = "writeinpublic-ansible"
+organization_name = "mySociety"
+
+[github]
+archived = false
+created_at = "2016-07-06T11:49:35Z"
+default_branch = "master"
+description = "Fork of https://github.com/jcalazan/ansible-django-stack for running WriteInPublic on AWS"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "mysociety/writeinpublic-ansible"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 62_717_192
+language = "Shell"
+name = "writeinpublic-ansible"
+node_id = "MDEwOlJlcG9zaXRvcnk2MjcxNzE5Mg=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 141_338
+  login = "mysociety"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE0MTMzOA=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

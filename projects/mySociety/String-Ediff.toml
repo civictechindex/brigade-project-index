@@ -1,7 +1,47 @@
 code_url = "https://github.com/mysociety/String-Ediff"
 description = "String-Ediff, forked to fix compile issue"
-git_branch = "master"
 git_url = "git://github.com/mysociety/String-Ediff.git"
-last_pushed_within = "over_a_year"
 link_url = "http://metacpan.org/release/String-Ediff"
 name = "String-Ediff"
+organization_name = "mySociety"
+
+[github]
+archived = false
+created_at = "2019-05-22T07:57:27Z"
+default_branch = "master"
+description = "String-Ediff, forked to fix compile issue"
+disabled = false
+fork = true
+forks_within = 0
+full_name = "mysociety/String-Ediff"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = false
+homepage = "http://metacpan.org/release/String-Ediff"
+id = 187_990_963
+language = "C"
+license = { }
+name = "String-Ediff"
+node_id = "MDEwOlJlcG9zaXRvcnkxODc5OTA5NjM="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 141_338
+  login = "mysociety"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE0MTMzOA=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

@@ -1,6 +1,51 @@
 code_url = "https://github.com/mysociety/consul"
 description = "Consul - Open Government and E-Participation Web Software"
-git_branch = "master"
 git_url = "git://github.com/mysociety/consul.git"
-last_pushed_within = "over_a_year"
 name = "consul"
+organization_name = "mySociety"
+
+[github]
+archived = false
+created_at = "2019-02-15T08:31:53Z"
+default_branch = "master"
+description = "Consul - Open Government and E-Participation Web Software"
+disabled = false
+fork = true
+forks_within = 0
+full_name = "mysociety/consul"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 170_829_568
+language = "Ruby"
+name = "consul"
+node_id = "MDEwOlJlcG9zaXRvcnkxNzA4Mjk1Njg="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "agpl-3.0"
+  name = "GNU Affero General Public License v3.0"
+  node_id = "MDc6TGljZW5zZTE="
+  spdx_id = "AGPL-3.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 141_338
+  login = "mysociety"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE0MTMzOA=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

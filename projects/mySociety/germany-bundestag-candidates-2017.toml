@@ -1,7 +1,47 @@
 code_url = "https://github.com/mysociety/germany-bundestag-candidates-2017"
 description = "Candidates for the Bundestag in the 2017 election"
-git_branch = "master"
 git_url = "git://github.com/mysociety/germany-bundestag-candidates-2017.git"
-last_pushed_within = "over_a_year"
 link_url = "https://morph.io/mysociety/germany-bundestag-candidates-2017"
 name = "germany-bundestag-candidates-2017"
+organization_name = "mySociety"
+
+[github]
+archived = false
+created_at = "2017-08-29T11:34:10Z"
+default_branch = "master"
+description = "Candidates for the Bundestag in the 2017 election"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "mysociety/germany-bundestag-candidates-2017"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "https://morph.io/mysociety/germany-bundestag-candidates-2017"
+id = 101_754_164
+language = "Python"
+license = { }
+name = "germany-bundestag-candidates-2017"
+node_id = "MDEwOlJlcG9zaXRvcnkxMDE3NTQxNjQ="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 141_338
+  login = "mysociety"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE0MTMzOA=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

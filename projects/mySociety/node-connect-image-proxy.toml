@@ -1,6 +1,51 @@
 code_url = "https://github.com/mysociety/node-connect-image-proxy"
 description = "A Node.js Connect middleware for proxing (and manipulating) images."
-git_branch = "master"
 git_url = "git://github.com/mysociety/node-connect-image-proxy.git"
-last_pushed_within = "year"
 name = "node-connect-image-proxy"
+organization_name = "mySociety"
+
+[github]
+archived = false
+created_at = "2012-05-22T10:05:24Z"
+default_branch = "master"
+description = "A Node.js Connect middleware for proxing (and manipulating) images."
+disabled = false
+fork = false
+forks_within = 100
+full_name = "mysociety/node-connect-image-proxy"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 4_405_092
+language = "JavaScript"
+name = "node-connect-image-proxy"
+node_id = "MDEwOlJlcG9zaXRvcnk0NDA1MDky"
+open_issues_within = 10
+private = false
+pushed_within = "year"
+stargazers_within = 100
+topics = [ ]
+updated_within = "year"
+watchers_within = 100
+
+  [github.license]
+  key = "other"
+  name = "Other"
+  node_id = "MDc6TGljZW5zZTA="
+  spdx_id = "NOASSERTION"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 141_338
+  login = "mysociety"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE0MTMzOA=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

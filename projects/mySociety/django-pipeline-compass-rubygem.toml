@@ -1,7 +1,52 @@
 code_url = "https://github.com/mysociety/django-pipeline-compass-rubygem"
 description = "Compass compiler for django-pipeline using the official Ruby Gem."
-git_branch = "master"
 git_url = "git://github.com/mysociety/django-pipeline-compass-rubygem.git"
-last_pushed_within = "over_a_year"
 link_url = "https://pypi.python.org/pypi/django-pipeline-compass-rubygem/"
 name = "django-pipeline-compass-rubygem"
+organization_name = "mySociety"
+
+[github]
+archived = false
+created_at = "2016-04-06T13:57:14Z"
+default_branch = "master"
+description = "Compass compiler for django-pipeline using the official Ruby Gem."
+disabled = false
+fork = true
+forks_within = 0
+full_name = "mysociety/django-pipeline-compass-rubygem"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = false
+homepage = "https://pypi.python.org/pypi/django-pipeline-compass-rubygem/"
+id = 55_610_400
+language = "Python"
+name = "django-pipeline-compass-rubygem"
+node_id = "MDEwOlJlcG9zaXRvcnk1NTYxMDQwMA=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 141_338
+  login = "mysociety"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE0MTMzOA=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

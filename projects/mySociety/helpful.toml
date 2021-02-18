@@ -1,6 +1,51 @@
 code_url = "https://github.com/mysociety/helpful"
 description = "Our fork of @pixelbart‘s WordPress plugin, pinned to v4.3.2 for compatibility reasons."
-git_branch = "master"
 git_url = "git://github.com/mysociety/helpful.git"
-last_pushed_within = "year"
 name = "helpful"
+organization_name = "mySociety"
+
+[github]
+archived = false
+created_at = "2020-09-16T10:53:36Z"
+default_branch = "master"
+description = "Our fork of @pixelbart‘s WordPress plugin, pinned to v4.3.2 for compatibility reasons."
+disabled = false
+fork = true
+forks_within = 0
+full_name = "mysociety/helpful"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = false
+homepage = ""
+id = 296_004_998
+language = "PHP"
+name = "helpful"
+node_id = "MDEwOlJlcG9zaXRvcnkyOTYwMDQ5OTg="
+open_issues_within = 0
+private = false
+pushed_within = "year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "year"
+watchers_within = 0
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 141_338
+  login = "mysociety"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE0MTMzOA=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

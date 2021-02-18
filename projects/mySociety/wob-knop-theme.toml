@@ -1,7 +1,52 @@
 code_url = "https://github.com/mysociety/wob-knop-theme"
 description = "Alaveteli theme for The Netherlands"
-git_branch = "master"
 git_url = "git://github.com/mysociety/wob-knop-theme.git"
-last_pushed_within = "year"
 name = "wob-knop-theme"
+organization_name = "mySociety"
 topics = [ "alaveteli", "alaveteli-theme" ]
+
+[github]
+archived = false
+created_at = "2019-07-16T08:48:05Z"
+default_branch = "master"
+description = "Alaveteli theme for The Netherlands"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "mysociety/wob-knop-theme"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 197_156_288
+language = "HTML"
+name = "wob-knop-theme"
+node_id = "MDEwOlJlcG9zaXRvcnkxOTcxNTYyODg="
+open_issues_within = 10
+private = false
+pushed_within = "year"
+stargazers_within = 0
+topics = [ "alaveteli", "alaveteli-theme" ]
+updated_within = "year"
+watchers_within = 0
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 141_338
+  login = "mysociety"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE0MTMzOA=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

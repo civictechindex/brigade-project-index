@@ -1,8 +1,53 @@
 code_url = "https://github.com/mysociety/belgium-theme"
 description = "The Alaveteli theme for Belgian site Transparencia"
-git_branch = "master"
 git_url = "git://github.com/mysociety/belgium-theme.git"
-last_pushed_within = "year"
 link_url = "https://transparencia.be/"
 name = "belgium-theme"
+organization_name = "mySociety"
 topics = [ "alaveteli", "alaveteli-theme" ]
+
+[github]
+archived = false
+created_at = "2016-08-05T12:37:33Z"
+default_branch = "master"
+description = "The Alaveteli theme for Belgian site Transparencia"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "mysociety/belgium-theme"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "https://transparencia.be/"
+id = 65_017_327
+language = "HTML"
+name = "belgium-theme"
+node_id = "MDEwOlJlcG9zaXRvcnk2NTAxNzMyNw=="
+open_issues_within = 10
+private = false
+pushed_within = "year"
+stargazers_within = 10
+topics = [ "alaveteli", "alaveteli-theme" ]
+updated_within = "year"
+watchers_within = 10
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 141_338
+  login = "mysociety"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE0MTMzOA=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

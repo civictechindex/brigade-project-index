@@ -1,8 +1,48 @@
 code_url = "https://github.com/mysociety/puppet-elasticsearch"
 description = "A basic Puppet module for handling legacy Elasticsearch installations"
-git_branch = "master"
 git_url = "git://github.com/mysociety/puppet-elasticsearch.git"
-last_pushed_within = "year"
 link_url = "https://www.mysociety.org/"
 name = "puppet-elasticsearch"
+organization_name = "mySociety"
 topics = [ "elasticsearch", "puppet" ]
+
+[github]
+archived = false
+created_at = "2019-06-05T13:54:17Z"
+default_branch = "master"
+description = "A basic Puppet module for handling legacy Elasticsearch installations"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "mysociety/puppet-elasticsearch"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "https://www.mysociety.org/"
+id = 190_404_468
+language = "HTML"
+license = { }
+name = "puppet-elasticsearch"
+node_id = "MDEwOlJlcG9zaXRvcnkxOTA0MDQ0Njg="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ "elasticsearch", "puppet" ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 141_338
+  login = "mysociety"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE0MTMzOA=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

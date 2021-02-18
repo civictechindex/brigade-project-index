@@ -1,8 +1,53 @@
 code_url = "https://github.com/mysociety/whatdotheyknow-theme"
 description = "The Alaveteli theme for WhatDoTheyKnow (UK)"
-git_branch = "master"
 git_url = "git://github.com/mysociety/whatdotheyknow-theme.git"
-last_pushed_within = "month"
 link_url = "http://www.whatdotheyknow.com/"
 name = "whatdotheyknow-theme"
+organization_name = "mySociety"
 topics = [ "alaveteli", "alaveteli-theme", "whatdotheyknow" ]
+
+[github]
+archived = false
+created_at = "2011-06-14T07:48:38Z"
+default_branch = "master"
+description = "The Alaveteli theme for WhatDoTheyKnow (UK)"
+disabled = false
+fork = false
+forks_within = 100
+full_name = "mysociety/whatdotheyknow-theme"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://www.whatdotheyknow.com/"
+id = 1_893_173
+language = "HTML"
+name = "whatdotheyknow-theme"
+node_id = "MDEwOlJlcG9zaXRvcnkxODkzMTcz"
+open_issues_within = 1_000
+private = false
+pushed_within = "week"
+stargazers_within = 100
+topics = [ "alaveteli", "alaveteli-theme", "whatdotheyknow" ]
+updated_within = "week"
+watchers_within = 100
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 141_338
+  login = "mysociety"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE0MTMzOA=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

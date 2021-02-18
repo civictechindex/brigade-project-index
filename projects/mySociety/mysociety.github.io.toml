@@ -1,7 +1,52 @@
 code_url = "https://github.com/mysociety/mysociety.github.io"
 description = "Dev bucket site"
-git_branch = "master"
 git_url = "git://github.com/mysociety/mysociety.github.io.git"
-last_pushed_within = "year"
 link_url = "https://mysociety.github.io/"
 name = "mysociety.github.io"
+organization_name = "mySociety"
+
+[github]
+archived = false
+created_at = "2013-09-03T11:16:41Z"
+default_branch = "master"
+description = "Dev bucket site"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "mysociety/mysociety.github.io"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = false
+homepage = "https://mysociety.github.io/"
+id = 12_561_902
+language = "HTML"
+name = "mysociety.github.io"
+node_id = "MDEwOlJlcG9zaXRvcnkxMjU2MTkwMg=="
+open_issues_within = 10
+private = false
+pushed_within = "year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "year"
+watchers_within = 10
+
+  [github.license]
+  key = "other"
+  name = "Other"
+  node_id = "MDc6TGljZW5zZTA="
+  spdx_id = "NOASSERTION"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 141_338
+  login = "mysociety"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE0MTMzOA=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

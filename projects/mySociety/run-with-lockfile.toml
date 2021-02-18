@@ -1,0 +1,51 @@
+code_url = "https://github.com/mysociety/run-with-lockfile"
+git_url = "git://github.com/mysociety/run-with-lockfile.git"
+link_url = "https://www.mysociety.org/"
+name = "run-with-lockfile"
+organization_name = "mySociety"
+
+[github]
+archived = false
+created_at = "2021-01-28T15:17:18Z"
+default_branch = "master"
+description = { }
+disabled = false
+fork = false
+forks_within = 0
+full_name = "mysociety/run-with-lockfile"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "https://www.mysociety.org/"
+id = 333_797_158
+language = "C"
+name = "run-with-lockfile"
+node_id = "MDEwOlJlcG9zaXRvcnkzMzM3OTcxNTg="
+open_issues_within = 0
+private = false
+pushed_within = "month"
+stargazers_within = 0
+topics = [ ]
+updated_within = "month"
+watchers_within = 0
+
+  [github.license]
+  key = "gpl-2.0"
+  name = "GNU General Public License v2.0"
+  node_id = "MDc6TGljZW5zZTg="
+  spdx_id = "GPL-2.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 141_338
+  login = "mysociety"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE0MTMzOA=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

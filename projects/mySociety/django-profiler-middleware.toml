@@ -1,6 +1,46 @@
 code_url = "https://github.com/mysociety/django-profiler-middleware"
 description = "A profiler middleware for Django"
-git_branch = "master"
 git_url = "git://github.com/mysociety/django-profiler-middleware.git"
-last_pushed_within = "over_a_year"
 name = "django-profiler-middleware"
+organization_name = "mySociety"
+
+[github]
+archived = false
+created_at = "2014-12-02T15:37:42Z"
+default_branch = "master"
+description = "A profiler middleware for Django"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "mysociety/django-profiler-middleware"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = false
+homepage = { }
+id = 27_439_192
+language = "Python"
+license = { }
+name = "django-profiler-middleware"
+node_id = "MDEwOlJlcG9zaXRvcnkyNzQzOTE5Mg=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 141_338
+  login = "mysociety"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE0MTMzOA=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

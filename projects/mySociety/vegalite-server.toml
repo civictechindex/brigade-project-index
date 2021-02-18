@@ -1,0 +1,51 @@
+code_url = "https://github.com/mysociety/vegalite-server"
+description = "Flask app to convert vegalite spec to image"
+git_url = "git://github.com/mysociety/vegalite-server.git"
+name = "vegalite-server"
+organization_name = "mySociety"
+
+[github]
+archived = false
+created_at = "2021-02-11T18:27:06Z"
+default_branch = "master"
+description = "Flask app to convert vegalite spec to image"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "mysociety/vegalite-server"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 338_115_693
+language = "Python"
+name = "vegalite-server"
+node_id = "MDEwOlJlcG9zaXRvcnkzMzgxMTU2OTM="
+open_issues_within = 0
+private = false
+pushed_within = "week"
+stargazers_within = 0
+topics = [ ]
+updated_within = "week"
+watchers_within = 0
+
+  [github.license]
+  key = "other"
+  name = "Other"
+  node_id = "MDc6TGljZW5zZTA="
+  spdx_id = "NOASSERTION"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 141_338
+  login = "mysociety"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE0MTMzOA=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

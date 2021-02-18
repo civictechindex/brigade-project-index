@@ -1,6 +1,46 @@
 code_url = "https://github.com/mysociety/django-select-time-widget"
 description = "My copy of Brad Montgomery's SelectTimeWidget"
-git_branch = "master"
 git_url = "git://github.com/mysociety/django-select-time-widget.git"
-last_pushed_within = "over_a_year"
 name = "django-select-time-widget"
+organization_name = "mySociety"
+
+[github]
+archived = false
+created_at = "2012-09-20T10:22:31Z"
+default_branch = "master"
+description = "My copy of Brad Montgomery's SelectTimeWidget"
+disabled = false
+fork = true
+forks_within = 0
+full_name = "mysociety/django-select-time-widget"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 5_884_903
+language = "Python"
+license = { }
+name = "django-select-time-widget"
+node_id = "MDEwOlJlcG9zaXRvcnk1ODg0OTAz"
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 141_338
+  login = "mysociety"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE0MTMzOA=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

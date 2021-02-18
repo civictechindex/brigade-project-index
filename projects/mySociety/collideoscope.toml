@@ -1,7 +1,47 @@
 code_url = "https://github.com/mysociety/collideoscope"
 description = "Extra code for Collideoscope that doesn't fit into the main FixMyStreet repository"
-git_branch = "master"
 git_url = "git://github.com/mysociety/collideoscope.git"
-last_pushed_within = "year"
 link_url = "https://www.collideoscope.org.uk/"
 name = "collideoscope"
+organization_name = "mySociety"
+
+[github]
+archived = false
+created_at = "2015-08-11T14:26:35Z"
+default_branch = "master"
+description = "Extra code for Collideoscope that doesn't fit into the main FixMyStreet repository"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "mysociety/collideoscope"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = false
+homepage = "https://www.collideoscope.org.uk/"
+id = 40_546_350
+language = "HTML"
+license = { }
+name = "collideoscope"
+node_id = "MDEwOlJlcG9zaXRvcnk0MDU0NjM1MA=="
+open_issues_within = 10
+private = false
+pushed_within = "year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 141_338
+  login = "mysociety"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE0MTMzOA=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

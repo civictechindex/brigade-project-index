@@ -1,6 +1,46 @@
 code_url = "https://github.com/mysociety/django-file-archive"
 description = "Simple facility for uploading files in the Django admin"
-git_branch = "master"
 git_url = "git://github.com/mysociety/django-file-archive.git"
-last_pushed_within = "over_a_year"
 name = "django-file-archive"
+organization_name = "mySociety"
+
+[github]
+archived = false
+created_at = "2016-04-13T06:59:15Z"
+default_branch = "master"
+description = "Simple facility for uploading files in the Django admin"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "mysociety/django-file-archive"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 56_128_683
+language = "Python"
+license = { }
+name = "django-file-archive"
+node_id = "MDEwOlJlcG9zaXRvcnk1NjEyODY4Mw=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 141_338
+  login = "mysociety"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE0MTMzOA=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

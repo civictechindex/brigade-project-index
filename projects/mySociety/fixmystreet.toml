@@ -1,10 +1,9 @@
 code_url = "https://github.com/mysociety/fixmystreet"
 description = "This is mySociety's popular map-based reporting platform: easy to install in new countries and regions"
-git_branch = "master"
 git_url = "git://github.com/mysociety/fixmystreet.git"
-last_pushed_within = "week"
 link_url = "http://fixmystreet.org/"
 name = "fixmystreet"
+organization_name = "mySociety"
 topics = [
   "civic-tech",
   "civictech",
@@ -15,3 +14,58 @@ topics = [
   "mysociety",
   "reporting"
 ]
+
+[github]
+archived = false
+created_at = "2010-01-25T11:54:20Z"
+default_branch = "master"
+description = "This is mySociety's popular map-based reporting platform: easy to install in new countries and regions"
+disabled = false
+fork = false
+forks_within = 1_000
+full_name = "mysociety/fixmystreet"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "http://fixmystreet.org/"
+id = 487_492
+language = "Perl"
+name = "fixmystreet"
+node_id = "MDEwOlJlcG9zaXRvcnk0ODc0OTI="
+open_issues_within = 1_000
+private = false
+pushed_within = "week"
+stargazers_within = 1_000
+topics = [
+  "civic-tech",
+  "civictech",
+  "councils",
+  "fixmystreet",
+  "international",
+  "map",
+  "mysociety",
+  "reporting"
+]
+updated_within = "week"
+watchers_within = 1_000
+
+  [github.license]
+  key = "other"
+  name = "Other"
+  node_id = "MDc6TGljZW5zZTA="
+  spdx_id = "NOASSERTION"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 141_338
+  login = "mysociety"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE0MTMzOA=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

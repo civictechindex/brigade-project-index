@@ -1,7 +1,47 @@
 code_url = "https://github.com/mysociety/rails"
 description = "Ruby on Rails"
-git_branch = "master"
 git_url = "git://github.com/mysociety/rails.git"
-last_pushed_within = "over_a_year"
 link_url = "http://rubyonrails.org"
 name = "rails"
+organization_name = "mySociety"
+
+[github]
+archived = false
+created_at = "2013-01-08T11:25:26Z"
+default_branch = "master"
+description = "Ruby on Rails"
+disabled = false
+fork = true
+forks_within = 0
+full_name = "mysociety/rails"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = false
+homepage = "http://rubyonrails.org"
+id = 7_500_387
+language = "Ruby"
+license = { }
+name = "rails"
+node_id = "MDEwOlJlcG9zaXRvcnk3NTAwMzg3"
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 141_338
+  login = "mysociety"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE0MTMzOA=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

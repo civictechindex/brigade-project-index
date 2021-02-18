@@ -1,6 +1,46 @@
 code_url = "https://github.com/mysociety/za-parliament-image-scraper"
 description = "Scrape images from the ZA Parliament website."
-git_branch = "master"
 git_url = "git://github.com/mysociety/za-parliament-image-scraper.git"
-last_pushed_within = "over_a_year"
 name = "za-parliament-image-scraper"
+organization_name = "mySociety"
+
+[github]
+archived = false
+created_at = "2014-06-19T12:31:31Z"
+default_branch = "master"
+description = "Scrape images from the ZA Parliament website."
+disabled = false
+fork = false
+forks_within = 0
+full_name = "mysociety/za-parliament-image-scraper"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = false
+homepage = { }
+id = 20_999_542
+language = "Python"
+license = { }
+name = "za-parliament-image-scraper"
+node_id = "MDEwOlJlcG9zaXRvcnkyMDk5OTU0Mg=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 141_338
+  login = "mysociety"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE0MTMzOA=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

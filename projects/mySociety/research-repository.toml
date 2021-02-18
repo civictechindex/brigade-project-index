@@ -1,8 +1,53 @@
 code_url = "https://github.com/mysociety/research-repository"
 description = "A place for mySociety to keep its research in a sensibly organised and presented manner."
-git_branch = "master"
 git_url = "git://github.com/mysociety/research-repository.git"
-last_pushed_within = "year"
 link_url = "http://research.mysociety.org/"
 name = "research-repository"
+organization_name = "mySociety"
 topics = [ "django", "mysociety", "python", "repository", "research" ]
+
+[github]
+archived = false
+created_at = "2017-02-23T12:16:37Z"
+default_branch = "master"
+description = "A place for mySociety to keep its research in a sensibly organised and presented manner."
+disabled = false
+fork = false
+forks_within = 10
+full_name = "mysociety/research-repository"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = false
+homepage = "http://research.mysociety.org/"
+id = 82_924_236
+language = "Python"
+name = "research-repository"
+node_id = "MDEwOlJlcG9zaXRvcnk4MjkyNDIzNg=="
+open_issues_within = 10
+private = false
+pushed_within = "week"
+stargazers_within = 10
+topics = [ "django", "mysociety", "python", "repository", "research" ]
+updated_within = "week"
+watchers_within = 10
+
+  [github.license]
+  key = "other"
+  name = "Other"
+  node_id = "MDc6TGljZW5zZTA="
+  spdx_id = "NOASSERTION"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 141_338
+  login = "mysociety"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE0MTMzOA=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

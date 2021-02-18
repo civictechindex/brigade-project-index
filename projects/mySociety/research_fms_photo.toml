@@ -1,6 +1,51 @@
 code_url = "https://github.com/mysociety/research_fms_photo"
 description = "R scripts and source data for photo analysis"
-git_branch = "master"
 git_url = "git://github.com/mysociety/research_fms_photo.git"
-last_pushed_within = "year"
 name = "research_fms_photo"
+organization_name = "mySociety"
+
+[github]
+archived = false
+created_at = "2020-11-03T17:55:52Z"
+default_branch = "master"
+description = "R scripts and source data for photo analysis"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "mysociety/research_fms_photo"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 309_766_087
+language = "R"
+name = "research_fms_photo"
+node_id = "MDEwOlJlcG9zaXRvcnkzMDk3NjYwODc="
+open_issues_within = 0
+private = false
+pushed_within = "month"
+stargazers_within = 0
+topics = [ ]
+updated_within = "month"
+watchers_within = 0
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 141_338
+  login = "mysociety"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE0MTMzOA=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

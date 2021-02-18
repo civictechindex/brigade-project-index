@@ -1,6 +1,46 @@
 code_url = "https://github.com/mysociety/misc-scripts"
 description = "Miscellaneous scripts (deploying, log rotation, lockfiles, git hooks, server config, etc)"
-git_branch = "master"
 git_url = "git://github.com/mysociety/misc-scripts.git"
-last_pushed_within = "month"
 name = "misc-scripts"
+organization_name = "mySociety"
+
+[github]
+archived = false
+created_at = "2014-01-27T11:59:12Z"
+default_branch = "master"
+description = "Miscellaneous scripts (deploying, log rotation, lockfiles, git hooks, server config, etc)"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "mysociety/misc-scripts"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 16_277_822
+language = "Python"
+license = { }
+name = "misc-scripts"
+node_id = "MDEwOlJlcG9zaXRvcnkxNjI3NzgyMg=="
+open_issues_within = 10
+private = false
+pushed_within = "month"
+stargazers_within = 10
+topics = [ ]
+updated_within = "month"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 141_338
+  login = "mysociety"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE0MTMzOA=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

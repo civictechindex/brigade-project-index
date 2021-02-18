@@ -1,8 +1,53 @@
 code_url = "https://github.com/mysociety/ruby-msg"
 description = "A library for reading and converting Outlook msg and pst files (mapi message stores)"
-git_branch = "master"
 git_url = "git://github.com/mysociety/ruby-msg.git"
-last_pushed_within = "year"
 link_url = "http://ruby-msg.googlecode.com"
 name = "ruby-msg"
+organization_name = "mySociety"
 topics = [ "alaveteli" ]
+
+[github]
+archived = false
+created_at = "2014-11-06T10:32:07Z"
+default_branch = "master"
+description = "A library for reading and converting Outlook msg and pst files (mapi message stores)"
+disabled = false
+fork = true
+forks_within = 10
+full_name = "mysociety/ruby-msg"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://ruby-msg.googlecode.com"
+id = 26_265_182
+language = "Ruby"
+name = "ruby-msg"
+node_id = "MDEwOlJlcG9zaXRvcnkyNjI2NTE4Mg=="
+open_issues_within = 10
+private = false
+pushed_within = "year"
+stargazers_within = 10
+topics = [ "alaveteli" ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 141_338
+  login = "mysociety"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE0MTMzOA=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

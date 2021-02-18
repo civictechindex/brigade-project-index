@@ -1,6 +1,46 @@
 code_url = "https://github.com/mysociety/django-os-geocoder"
 description = "A Django app that lets you load Ordnance Survey data and use it to find places"
-git_branch = "master"
 git_url = "git://github.com/mysociety/django-os-geocoder.git"
-last_pushed_within = "over_a_year"
 name = "django-os-geocoder"
+organization_name = "mySociety"
+
+[github]
+archived = false
+created_at = "2013-08-20T11:25:43Z"
+default_branch = "master"
+description = "A Django app that lets you load Ordnance Survey data and use it to find places"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "mysociety/django-os-geocoder"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 12_241_460
+language = "Python"
+license = { }
+name = "django-os-geocoder"
+node_id = "MDEwOlJlcG9zaXRvcnkxMjI0MTQ2MA=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 141_338
+  login = "mysociety"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE0MTMzOA=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

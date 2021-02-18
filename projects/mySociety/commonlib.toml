@@ -1,6 +1,51 @@
 code_url = "https://github.com/mysociety/commonlib"
 description = "mySociety code common to several projects"
-git_branch = "master"
 git_url = "git://github.com/mysociety/commonlib.git"
-last_pushed_within = "year"
 name = "commonlib"
+organization_name = "mySociety"
+
+[github]
+archived = false
+created_at = "2011-02-28T16:41:45Z"
+default_branch = "master"
+description = "mySociety code common to several projects"
+disabled = false
+fork = false
+forks_within = 100
+full_name = "mysociety/commonlib"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 1_422_246
+language = "PHP"
+name = "commonlib"
+node_id = "MDEwOlJlcG9zaXRvcnkxNDIyMjQ2"
+open_issues_within = 10
+private = false
+pushed_within = "month"
+stargazers_within = 100
+topics = [ ]
+updated_within = "month"
+watchers_within = 100
+
+  [github.license]
+  key = "other"
+  name = "Other"
+  node_id = "MDc6TGljZW5zZTA="
+  spdx_id = "NOASSERTION"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 141_338
+  login = "mysociety"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE0MTMzOA=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

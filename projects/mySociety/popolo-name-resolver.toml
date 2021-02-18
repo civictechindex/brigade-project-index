@@ -1,6 +1,46 @@
 code_url = "https://github.com/mysociety/popolo-name-resolver"
 description = "A name resolver library for Popolo people data based on django-popolo"
-git_branch = "master"
 git_url = "git://github.com/mysociety/popolo-name-resolver.git"
-last_pushed_within = "over_a_year"
 name = "popolo-name-resolver"
+organization_name = "mySociety"
+
+[github]
+archived = false
+created_at = "2016-02-10T09:39:55Z"
+default_branch = "master"
+description = "A name resolver library for Popolo people data based on django-popolo"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "mysociety/popolo-name-resolver"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 51_432_091
+language = "JavaScript"
+license = { }
+name = "popolo-name-resolver"
+node_id = "MDEwOlJlcG9zaXRvcnk1MTQzMjA5MQ=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 141_338
+  login = "mysociety"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE0MTMzOA=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

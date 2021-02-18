@@ -1,6 +1,51 @@
 code_url = "https://github.com/mysociety/django-debug-queries"
 description = "A context manager for printing Django SQL queries to the terminal"
-git_branch = "master"
 git_url = "git://github.com/mysociety/django-debug-queries.git"
-last_pushed_within = "over_a_year"
 name = "django-debug-queries"
+organization_name = "mySociety"
+
+[github]
+archived = false
+created_at = "2016-06-17T12:31:14Z"
+default_branch = "master"
+description = "A context manager for printing Django SQL queries to the terminal"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "mysociety/django-debug-queries"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 61_372_169
+language = "Python"
+name = "django-debug-queries"
+node_id = "MDEwOlJlcG9zaXRvcnk2MTM3MjE2OQ=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 141_338
+  login = "mysociety"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE0MTMzOA=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

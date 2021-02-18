@@ -1,7 +1,47 @@
 code_url = "https://github.com/mysociety/gaze"
 description = "The mySociety Gazetteer web service"
-git_branch = "master"
 git_url = "git://github.com/mysociety/gaze.git"
-last_pushed_within = "year"
 link_url = "http://gaze.mysociety.org/"
 name = "gaze"
+organization_name = "mySociety"
+
+[github]
+archived = false
+created_at = "2011-07-20T09:22:25Z"
+default_branch = "master"
+description = "The mySociety Gazetteer web service"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "mysociety/gaze"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://gaze.mysociety.org/"
+id = 2_077_155
+language = "Perl"
+license = { }
+name = "gaze"
+node_id = "MDEwOlJlcG9zaXRvcnkyMDc3MTU1"
+open_issues_within = 10
+private = false
+pushed_within = "year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 141_338
+  login = "mysociety"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE0MTMzOA=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

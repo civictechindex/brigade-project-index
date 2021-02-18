@@ -1,8 +1,53 @@
 code_url = "https://github.com/mysociety/asktheeu-theme"
 description = "The Alavateli theme for AskTheEU (EU)"
-git_branch = "master"
 git_url = "git://github.com/mysociety/asktheeu-theme.git"
-last_pushed_within = "year"
 link_url = "https://www.asktheeu.org"
 name = "asktheeu-theme"
+organization_name = "mySociety"
 topics = [ "alaveteli", "alaveteli-theme" ]
+
+[github]
+archived = false
+created_at = "2014-11-11T14:43:38Z"
+default_branch = "master"
+description = "The Alavateli theme for AskTheEU (EU)"
+disabled = false
+fork = true
+forks_within = 10
+full_name = "mysociety/asktheeu-theme"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "https://www.asktheeu.org"
+id = 26_489_053
+language = "HTML"
+name = "asktheeu-theme"
+node_id = "MDEwOlJlcG9zaXRvcnkyNjQ4OTA1Mw=="
+open_issues_within = 10
+private = false
+pushed_within = "year"
+stargazers_within = 10
+topics = [ "alaveteli", "alaveteli-theme" ]
+updated_within = "year"
+watchers_within = 10
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 141_338
+  login = "mysociety"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE0MTMzOA=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

@@ -1,8 +1,53 @@
 code_url = "https://github.com/mysociety/derechoapreguntar-theme"
 description = "The Alaveteli theme for Derecho a Preguntar (Nicaragua)"
-git_branch = "master"
 git_url = "git://github.com/mysociety/derechoapreguntar-theme.git"
-last_pushed_within = "over_a_year"
 link_url = "https://derechoapreguntar.org/"
 name = "derechoapreguntar-theme"
+organization_name = "mySociety"
 topics = [ "alaveteli", "alaveteli-theme" ]
+
+[github]
+archived = false
+created_at = "2014-08-22T08:21:54Z"
+default_branch = "master"
+description = "The Alaveteli theme for Derecho a Preguntar (Nicaragua)"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "mysociety/derechoapreguntar-theme"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "https://derechoapreguntar.org/"
+id = 23_218_246
+language = "HTML"
+name = "derechoapreguntar-theme"
+node_id = "MDEwOlJlcG9zaXRvcnkyMzIxODI0Ng=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ "alaveteli", "alaveteli-theme" ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "other"
+  name = "Other"
+  node_id = "MDc6TGljZW5zZTA="
+  spdx_id = "NOASSERTION"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 141_338
+  login = "mysociety"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE0MTMzOA=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

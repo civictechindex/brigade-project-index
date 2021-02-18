@@ -1,6 +1,46 @@
 code_url = "https://github.com/mysociety/france-departmental-presidents-wikipedia"
-git_branch = "master"
 git_url = "git://github.com/mysociety/france-departmental-presidents-wikipedia.git"
-last_pushed_within = "over_a_year"
 link_url = "https://www.mysociety.org/"
 name = "france-departmental-presidents-wikipedia"
+organization_name = "mySociety"
+
+[github]
+archived = false
+created_at = "2017-06-26T17:07:32Z"
+default_branch = "master"
+description = { }
+disabled = false
+fork = false
+forks_within = 0
+full_name = "mysociety/france-departmental-presidents-wikipedia"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "https://www.mysociety.org/"
+id = 95_469_892
+language = "Ruby"
+license = { }
+name = "france-departmental-presidents-wikipedia"
+node_id = "MDEwOlJlcG9zaXRvcnk5NTQ2OTg5Mg=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 141_338
+  login = "mysociety"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE0MTMzOA=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

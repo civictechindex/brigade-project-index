@@ -1,7 +1,52 @@
 code_url = "https://github.com/mysociety/Modernizr"
 description = "Modernizr is a JavaScript library that detects HTML5 and CSS3 features in the user’s browser."
-git_branch = "mysociety-tweaks"
 git_url = "git://github.com/mysociety/Modernizr.git"
-last_pushed_within = "month"
 link_url = "https://modernizr.com"
 name = "Modernizr"
+organization_name = "mySociety"
+
+[github]
+archived = false
+created_at = "2020-12-10T09:38:34Z"
+default_branch = "mysociety-tweaks"
+description = "Modernizr is a JavaScript library that detects HTML5 and CSS3 features in the user’s browser."
+disabled = false
+fork = true
+forks_within = 0
+full_name = "mysociety/Modernizr"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "https://modernizr.com"
+id = 320_224_750
+language = { }
+name = "Modernizr"
+node_id = "MDEwOlJlcG9zaXRvcnkzMjAyMjQ3NTA="
+open_issues_within = 0
+private = false
+pushed_within = "year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "year"
+watchers_within = 0
+
+  [github.license]
+  key = "other"
+  name = "Other"
+  node_id = "MDc6TGljZW5zZTA="
+  spdx_id = "NOASSERTION"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 141_338
+  login = "mysociety"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE0MTMzOA=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
