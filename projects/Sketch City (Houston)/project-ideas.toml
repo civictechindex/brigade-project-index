@@ -1,7 +1,47 @@
 code_url = "https://github.com/sketch-city/project-ideas"
 description = "Running list of all project ideas - pick one and run with it!"
-git_branch = "master"
 git_url = "git://github.com/sketch-city/project-ideas.git"
-last_pushed_within = "over_a_year"
 link_url = "http://sketch-city.github.io/project-ideas/"
 name = "project-ideas"
+organization_name = "Sketch City (Houston)"
+
+[github]
+archived = false
+created_at = "2016-05-05T04:16:18Z"
+default_branch = "master"
+description = "Running list of all project ideas - pick one and run with it!"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "sketch-city/project-ideas"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "http://sketch-city.github.io/project-ideas/"
+id = 58_103_796
+language = { }
+license = { }
+name = "project-ideas"
+node_id = "MDEwOlJlcG9zaXRvcnk1ODEwMzc5Ng=="
+open_issues_within = 1_000
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 100
+topics = [ ]
+updated_within = "week"
+watchers_within = 100
+
+  [github.owner]
+  gravatar_id = ""
+  id = 7_483_869
+  login = "sketch-city"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjc0ODM4Njk="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

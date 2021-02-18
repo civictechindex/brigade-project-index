@@ -1,6 +1,46 @@
 code_url = "https://github.com/sketch-city/nasa-uv-data-downloader"
 description = "A way to download [Level-2 OMI Surface UV Irradiance and Erythemal Dose](https://disc.gsfc.nasa.gov/Aura/data-holdings/OMI/omuvbg_v003.shtml) from NASA."
-git_branch = "master"
 git_url = "git://github.com/sketch-city/nasa-uv-data-downloader.git"
-last_pushed_within = "over_a_year"
 name = "nasa-uv-data-downloader"
+organization_name = "Sketch City (Houston)"
+
+[github]
+archived = false
+created_at = "2017-03-05T03:50:36Z"
+default_branch = "master"
+description = "A way to download [Level-2 OMI Surface UV Irradiance and Erythemal Dose](https://disc.gsfc.nasa.gov/Aura/data-holdings/OMI/omuvbg_v003.shtml) from NASA."
+disabled = false
+fork = false
+forks_within = 10
+full_name = "sketch-city/nasa-uv-data-downloader"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 83_942_810
+language = "Shell"
+license = { }
+name = "nasa-uv-data-downloader"
+node_id = "MDEwOlJlcG9zaXRvcnk4Mzk0MjgxMA=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 7_483_869
+  login = "sketch-city"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjc0ODM4Njk="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

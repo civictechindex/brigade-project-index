@@ -1,6 +1,46 @@
 code_url = "https://github.com/sketch-city/2014-Hackathon-Artwork"
 description = "The official City of Houston Hackathon 2014 poster."
-git_branch = "master"
 git_url = "git://github.com/sketch-city/2014-Hackathon-Artwork.git"
-last_pushed_within = "over_a_year"
 name = "2014-Hackathon-Artwork"
+organization_name = "Sketch City (Houston)"
+
+[github]
+archived = false
+created_at = "2014-05-05T01:38:57Z"
+default_branch = "master"
+description = "The official City of Houston Hackathon 2014 poster."
+disabled = false
+fork = false
+forks_within = 0
+full_name = "sketch-city/2014-Hackathon-Artwork"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 19_440_594
+language = { }
+license = { }
+name = "2014-Hackathon-Artwork"
+node_id = "MDEwOlJlcG9zaXRvcnkxOTQ0MDU5NA=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 7_483_869
+  login = "sketch-city"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjc0ODM4Njk="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

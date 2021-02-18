@@ -1,7 +1,52 @@
 code_url = "https://github.com/sketch-city/connect-restyle"
 description = "Restyled Application to link to Non-Emergency Pages of the Houston Police Department."
-git_branch = "gh-pages"
 git_url = "git://github.com/sketch-city/connect-restyle.git"
-last_pushed_within = "over_a_year"
 link_url = "http://bvseven.byethost18.com/"
 name = "connect-restyle"
+organization_name = "Sketch City (Houston)"
+
+[github]
+archived = false
+created_at = "2016-05-16T23:20:22Z"
+default_branch = "gh-pages"
+description = "Restyled Application to link to Non-Emergency Pages of the Houston Police Department."
+disabled = false
+fork = true
+forks_within = 0
+full_name = "sketch-city/connect-restyle"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "http://bvseven.byethost18.com/"
+id = 58_974_587
+language = "HTML"
+name = "connect-restyle"
+node_id = "MDEwOlJlcG9zaXRvcnk1ODk3NDU4Nw=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 7_483_869
+  login = "sketch-city"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjc0ODM4Njk="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

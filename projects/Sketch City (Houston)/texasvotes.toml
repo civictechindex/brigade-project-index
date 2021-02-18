@@ -1,6 +1,51 @@
 code_url = "https://github.com/sketch-city/texasvotes"
 description = "A web application to help people in Texas find useful voter information including their polling place and it's hours."
-git_branch = "master"
 git_url = "git://github.com/sketch-city/texasvotes.git"
-last_pushed_within = "over_a_year"
 name = "texasvotes"
+organization_name = "Sketch City (Houston)"
+
+[github]
+archived = false
+created_at = "2016-03-24T19:15:34Z"
+default_branch = "master"
+description = "A web application to help people in Texas find useful voter information including their polling place and it's hours."
+disabled = false
+fork = false
+forks_within = 10
+full_name = "sketch-city/texasvotes"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 54_667_889
+language = "PHP"
+name = "texasvotes"
+node_id = "MDEwOlJlcG9zaXRvcnk1NDY2Nzg4OQ=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 7_483_869
+  login = "sketch-city"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjc0ODM4Njk="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

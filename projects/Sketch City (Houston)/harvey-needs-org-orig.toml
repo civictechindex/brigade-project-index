@@ -1,5 +1,45 @@
 code_url = "https://github.com/sketch-city/harvey-needs-org-orig"
-git_branch = "master"
 git_url = "git://github.com/sketch-city/harvey-needs-org-orig.git"
-last_pushed_within = "over_a_year"
 name = "harvey-needs-org-orig"
+organization_name = "Sketch City (Houston)"
+
+[github]
+archived = false
+created_at = "2017-08-30T20:20:07Z"
+default_branch = "master"
+description = { }
+disabled = false
+fork = false
+forks_within = 10
+full_name = "sketch-city/harvey-needs-org-orig"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 101_925_089
+language = "HTML"
+license = { }
+name = "harvey-needs-org-orig"
+node_id = "MDEwOlJlcG9zaXRvcnkxMDE5MjUwODk="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 7_483_869
+  login = "sketch-city"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjc0ODM4Njk="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

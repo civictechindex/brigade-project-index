@@ -1,6 +1,46 @@
 code_url = "https://github.com/sketch-city/oneclickrelief"
 description = "click a button and buy something on Amazon for a shelter that needs it in Houston"
-git_branch = "master"
 git_url = "git://github.com/sketch-city/oneclickrelief.git"
-last_pushed_within = "over_a_year"
 name = "oneclickrelief"
+organization_name = "Sketch City (Houston)"
+
+[github]
+archived = false
+created_at = "2017-09-01T04:21:17Z"
+default_branch = "master"
+description = "click a button and buy something on Amazon for a shelter that needs it in Houston"
+disabled = false
+fork = true
+forks_within = 0
+full_name = "sketch-city/oneclickrelief"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 102_073_440
+language = "CSS"
+license = { }
+name = "oneclickrelief"
+node_id = "MDEwOlJlcG9zaXRvcnkxMDIwNzM0NDA="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 7_483_869
+  login = "sketch-city"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjc0ODM4Njk="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

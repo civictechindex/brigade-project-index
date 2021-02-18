@@ -1,6 +1,46 @@
 code_url = "https://github.com/sketch-city/2016-Hackathon-Artwork"
 description = "Artwork for the 2016 Houston Hackathon. http://houstonhackathon.com"
-git_branch = "master"
 git_url = "git://github.com/sketch-city/2016-Hackathon-Artwork.git"
-last_pushed_within = "over_a_year"
 name = "2016-Hackathon-Artwork"
+organization_name = "Sketch City (Houston)"
+
+[github]
+archived = false
+created_at = "2016-03-02T16:17:53Z"
+default_branch = "master"
+description = "Artwork for the 2016 Houston Hackathon. http://houstonhackathon.com"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "sketch-city/2016-Hackathon-Artwork"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 52_977_346
+language = { }
+license = { }
+name = "2016-Hackathon-Artwork"
+node_id = "MDEwOlJlcG9zaXRvcnk1Mjk3NzM0Ng=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 7_483_869
+  login = "sketch-city"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjc0ODM4Njk="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

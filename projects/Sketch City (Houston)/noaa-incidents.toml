@@ -1,5 +1,45 @@
 code_url = "https://github.com/sketch-city/noaa-incidents"
-git_branch = "master"
 git_url = "git://github.com/sketch-city/noaa-incidents.git"
-last_pushed_within = "over_a_year"
 name = "noaa-incidents"
+organization_name = "Sketch City (Houston)"
+
+[github]
+archived = false
+created_at = "2017-03-04T20:29:18Z"
+default_branch = "master"
+description = { }
+disabled = false
+fork = false
+forks_within = 0
+full_name = "sketch-city/noaa-incidents"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 83_922_582
+language = "HTML"
+license = { }
+name = "noaa-incidents"
+node_id = "MDEwOlJlcG9zaXRvcnk4MzkyMjU4Mg=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 7_483_869
+  login = "sketch-city"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjc0ODM4Njk="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

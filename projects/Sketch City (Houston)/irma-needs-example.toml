@@ -1,7 +1,47 @@
 code_url = "https://github.com/sketch-city/irma-needs-example"
 description = "Example irma-needs map forked form harvey-needs"
-git_branch = "gh-pages"
 git_url = "git://github.com/sketch-city/irma-needs-example.git"
-last_pushed_within = "over_a_year"
 link_url = "https://sketch-city.github.io/irma-needs-example/"
 name = "irma-needs-example"
+organization_name = "Sketch City (Houston)"
+
+[github]
+archived = false
+created_at = "2017-09-06T15:11:21Z"
+default_branch = "gh-pages"
+description = "Example irma-needs map forked form harvey-needs"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "sketch-city/irma-needs-example"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "https://sketch-city.github.io/irma-needs-example/"
+id = 102_623_800
+language = "JavaScript"
+license = { }
+name = "irma-needs-example"
+node_id = "MDEwOlJlcG9zaXRvcnkxMDI2MjM4MDA="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 7_483_869
+  login = "sketch-city"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjc0ODM4Njk="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

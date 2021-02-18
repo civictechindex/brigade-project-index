@@ -1,6 +1,46 @@
 code_url = "https://github.com/sketch-city/basketball-mapping"
 description = "Data on every publicly available basketball hoop in the City of Houston"
-git_branch = "master"
 git_url = "git://github.com/sketch-city/basketball-mapping.git"
-last_pushed_within = "over_a_year"
 name = "basketball-mapping"
+organization_name = "Sketch City (Houston)"
+
+[github]
+archived = false
+created_at = "2016-02-26T14:13:56Z"
+default_branch = "master"
+description = "Data on every publicly available basketball hoop in the City of Houston"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "sketch-city/basketball-mapping"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 52_608_828
+language = { }
+license = { }
+name = "basketball-mapping"
+node_id = "MDEwOlJlcG9zaXRvcnk1MjYwODgyOA=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 7_483_869
+  login = "sketch-city"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjc0ODM4Njk="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
