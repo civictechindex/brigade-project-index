@@ -1,7 +1,52 @@
 code_url = "https://github.com/CodeandoMexico/opendatasurvey"
 description = "The Open Data Survey application."
-git_branch = "master"
 git_url = "git://github.com/CodeandoMexico/opendatasurvey.git"
-last_pushed_within = "over_a_year"
 link_url = "http://survey.okfn.org/"
 name = "opendatasurvey"
+organization_name = "Codeando México"
+
+[github]
+archived = false
+created_at = "2018-09-04T19:30:33Z"
+default_branch = "master"
+description = "The Open Data Survey application."
+disabled = false
+fork = true
+forks_within = 0
+full_name = "CodeandoMexico/opendatasurvey"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = false
+homepage = "http://survey.okfn.org/"
+id = 147_402_265
+language = "JavaScript"
+name = "opendatasurvey"
+node_id = "MDEwOlJlcG9zaXRvcnkxNDc0MDIyNjU="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "other"
+  name = "Other"
+  node_id = "MDc6TGljZW5zZTA="
+  spdx_id = "NOASSERTION"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_940_113
+  login = "CodeandoMexico"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI5NDAxMTM="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

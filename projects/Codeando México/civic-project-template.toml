@@ -1,8 +1,53 @@
 code_url = "https://github.com/CodeandoMexico/civic-project-template"
 description = "Este proyecto es una plantilla para crear proyectos de tecnología cívica en Codeando México."
-git_branch = "master"
 git_url = "git://github.com/CodeandoMexico/civic-project-template.git"
-last_pushed_within = "year"
 link_url = "http://www.codeandomexico.org"
 name = "civic-project-template"
+organization_name = "Codeando México"
 topics = [ "civic-tech", "codeando-mexico", "tecnologia-civica" ]
+
+[github]
+archived = false
+created_at = "2017-09-25T18:47:45Z"
+default_branch = "master"
+description = "Este proyecto es una plantilla para crear proyectos de tecnología cívica en Codeando México."
+disabled = false
+fork = false
+forks_within = 10
+full_name = "CodeandoMexico/civic-project-template"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://www.codeandomexico.org"
+id = 104_788_720
+language = { }
+name = "civic-project-template"
+node_id = "MDEwOlJlcG9zaXRvcnkxMDQ3ODg3MjA="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ "civic-tech", "codeando-mexico", "tecnologia-civica" ]
+updated_within = "year"
+watchers_within = 10
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_940_113
+  login = "CodeandoMexico"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI5NDAxMTM="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

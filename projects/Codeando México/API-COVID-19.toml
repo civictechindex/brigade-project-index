@@ -1,6 +1,51 @@
 code_url = "https://github.com/CodeandoMexico/API-COVID-19"
 description = "Repositorio de scrapers y API con información de casos de COVID-19 en México."
-git_branch = "master"
 git_url = "git://github.com/CodeandoMexico/API-COVID-19.git"
-last_pushed_within = "year"
 name = "API-COVID-19"
+organization_name = "Codeando México"
+
+[github]
+archived = false
+created_at = "2020-03-20T00:19:57Z"
+default_branch = "master"
+description = "Repositorio de scrapers y API con información de casos de COVID-19 en México."
+disabled = false
+fork = false
+forks_within = 10
+full_name = "CodeandoMexico/API-COVID-19"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 248_632_351
+language = "HTML"
+name = "API-COVID-19"
+node_id = "MDEwOlJlcG9zaXRvcnkyNDg2MzIzNTE="
+open_issues_within = 10
+private = false
+pushed_within = "year"
+stargazers_within = 100
+topics = [ ]
+updated_within = "year"
+watchers_within = 100
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_940_113
+  login = "CodeandoMexico"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI5NDAxMTM="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

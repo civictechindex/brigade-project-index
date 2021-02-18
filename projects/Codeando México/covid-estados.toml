@@ -1,8 +1,48 @@
 code_url = "https://github.com/CodeandoMexico/covid-estados"
 description = "Este proyecto recopila, sistematiza y facilita el acceso a información oficial relevante, líneas de atención y medidas de restricción o protección implementadas por los gobiernos estatales."
-git_branch = "master"
 git_url = "git://github.com/CodeandoMexico/covid-estados.git"
-last_pushed_within = "month"
 link_url = "https://directoriocovidmx.org/"
 name = "covid-estados"
+organization_name = "Codeando México"
 topics = [ "covid-19", "directory", "mexico", "open-data" ]
+
+[github]
+archived = false
+created_at = "2020-05-15T22:37:42Z"
+default_branch = "master"
+description = "Este proyecto recopila, sistematiza y facilita el acceso a información oficial relevante, líneas de atención y medidas de restricción o protección implementadas por los gobiernos estatales."
+disabled = false
+fork = false
+forks_within = 100
+full_name = "CodeandoMexico/covid-estados"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "https://directoriocovidmx.org/"
+id = 264_313_203
+language = "JavaScript"
+license = { }
+name = "covid-estados"
+node_id = "MDEwOlJlcG9zaXRvcnkyNjQzMTMyMDM="
+open_issues_within = 10
+private = false
+pushed_within = "month"
+stargazers_within = 100
+topics = [ "covid-19", "directory", "mexico", "open-data" ]
+updated_within = "month"
+watchers_within = 100
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_940_113
+  login = "CodeandoMexico"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI5NDAxMTM="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

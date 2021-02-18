@@ -1,7 +1,47 @@
 code_url = "https://github.com/CodeandoMexico/awesome-civic-tech"
 description = "Una lista curada de proyectos de tecnología cívica en México."
-git_branch = "master"
 git_url = "git://github.com/CodeandoMexico/awesome-civic-tech.git"
-last_pushed_within = "year"
 link_url = "https://codeandomexico.github.io/awesome-civic-tech/"
 name = "awesome-civic-tech"
+organization_name = "Codeando México"
+
+[github]
+archived = false
+created_at = "2016-06-22T22:09:46Z"
+default_branch = "master"
+description = "Una lista curada de proyectos de tecnología cívica en México."
+disabled = false
+fork = false
+forks_within = 10
+full_name = "CodeandoMexico/awesome-civic-tech"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "https://codeandomexico.github.io/awesome-civic-tech/"
+id = 61_754_791
+language = "CSS"
+license = { }
+name = "awesome-civic-tech"
+node_id = "MDEwOlJlcG9zaXRvcnk2MTc1NDc5MQ=="
+open_issues_within = 10
+private = false
+pushed_within = "year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_940_113
+  login = "CodeandoMexico"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI5NDAxMTM="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

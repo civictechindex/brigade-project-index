@@ -1,7 +1,47 @@
 code_url = "https://github.com/CodeandoMexico/government.github.com"
 description = "Gather, curate, and feature stories of public servants and civic hackers using GitHub as part of their open government innovations"
-git_branch = "gh-pages"
 git_url = "git://github.com/CodeandoMexico/government.github.com.git"
-last_pushed_within = "over_a_year"
 link_url = "http://government.github.com/"
 name = "government.github.com"
+organization_name = "Codeando México"
+
+[github]
+archived = false
+created_at = "2013-10-16T22:25:18Z"
+default_branch = "gh-pages"
+description = "Gather, curate, and feature stories of public servants and civic hackers using GitHub as part of their open government innovations"
+disabled = false
+fork = true
+forks_within = 0
+full_name = "CodeandoMexico/government.github.com"
+has_downloads = true
+has_issues = false
+has_pages = true
+has_projects = true
+has_wiki = false
+homepage = "http://government.github.com/"
+id = 13_632_914
+language = "CSS"
+license = { }
+name = "government.github.com"
+node_id = "MDEwOlJlcG9zaXRvcnkxMzYzMjkxNA=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_940_113
+  login = "CodeandoMexico"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI5NDAxMTM="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

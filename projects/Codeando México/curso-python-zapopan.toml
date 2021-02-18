@@ -1,7 +1,47 @@
 code_url = "https://github.com/CodeandoMexico/curso-python-zapopan"
 description = 'Repositorio del curso "Introducción al desarrollo web con Python" en Zapopan, 2020.'
-git_branch = "master"
 git_url = "git://github.com/CodeandoMexico/curso-python-zapopan.git"
-last_pushed_within = "year"
 link_url = "https://codeandomexico.github.io/curso-python-zapopan"
 name = "curso-python-zapopan"
+organization_name = "Codeando México"
+
+[github]
+archived = false
+created_at = "2020-02-29T18:33:07Z"
+default_branch = "master"
+description = 'Repositorio del curso "Introducción al desarrollo web con Python" en Zapopan, 2020.'
+disabled = false
+fork = false
+forks_within = 10
+full_name = "CodeandoMexico/curso-python-zapopan"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "https://codeandomexico.github.io/curso-python-zapopan"
+id = 244_021_219
+language = "HTML"
+license = { }
+name = "curso-python-zapopan"
+node_id = "MDEwOlJlcG9zaXRvcnkyNDQwMjEyMTk="
+open_issues_within = 10
+private = false
+pushed_within = "year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_940_113
+  login = "CodeandoMexico"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI5NDAxMTM="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

@@ -1,7 +1,52 @@
 code_url = "https://github.com/CodeandoMexico/tu-plataforma-abierta"
 description = "La versión comunitaria de la Plataforma Nacional de Transparencia"
-git_branch = "master"
 git_url = "git://github.com/CodeandoMexico/tu-plataforma-abierta.git"
-last_pushed_within = "over_a_year"
 link_url = "http://tu-plataforma-abierta.herokuapp.com"
 name = "tu-plataforma-abierta"
+organization_name = "Codeando México"
+
+[github]
+archived = false
+created_at = "2016-06-06T20:28:42Z"
+default_branch = "master"
+description = "La versión comunitaria de la Plataforma Nacional de Transparencia"
+disabled = false
+fork = true
+forks_within = 100
+full_name = "CodeandoMexico/tu-plataforma-abierta"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "http://tu-plataforma-abierta.herokuapp.com"
+id = 60_558_640
+language = "Ruby"
+name = "tu-plataforma-abierta"
+node_id = "MDEwOlJlcG9zaXRvcnk2MDU1ODY0MA=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 100
+topics = [ ]
+updated_within = "year"
+watchers_within = 100
+
+  [github.license]
+  key = "other"
+  name = "Other"
+  node_id = "MDc6TGljZW5zZTA="
+  spdx_id = "NOASSERTION"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_940_113
+  login = "CodeandoMexico"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI5NDAxMTM="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

@@ -1,8 +1,48 @@
 code_url = "https://github.com/CodeandoMexico/drtoolkit"
 description = "Disaster relief tech projects repository - Collaboration with Code4Rumania and Code for All"
-git_branch = "master"
 git_url = "git://github.com/CodeandoMexico/drtoolkit.git"
-last_pushed_within = "over_a_year"
 link_url = "http://disasterrelief.codeforall.org/"
 name = "drtoolkit"
+organization_name = "Codeando México"
 topics = [ "civic-hacking", "civic-tech", "open-source" ]
+
+[github]
+archived = false
+created_at = "2018-07-30T14:24:35Z"
+default_branch = "master"
+description = "Disaster relief tech projects repository - Collaboration with Code4Rumania and Code for All"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "CodeandoMexico/drtoolkit"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://disasterrelief.codeforall.org/"
+id = 142_886_406
+language = "CSS"
+license = { }
+name = "drtoolkit"
+node_id = "MDEwOlJlcG9zaXRvcnkxNDI4ODY0MDY="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ "civic-hacking", "civic-tech", "open-source" ]
+updated_within = "year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_940_113
+  login = "CodeandoMexico"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI5NDAxMTM="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

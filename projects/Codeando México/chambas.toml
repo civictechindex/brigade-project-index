@@ -1,9 +1,8 @@
 code_url = "https://github.com/CodeandoMexico/chambas"
 description = "La bolsa de trabajo para hackers cívicos."
-git_branch = "master"
 git_url = "git://github.com/CodeandoMexico/chambas.git"
-last_pushed_within = "over_a_year"
 name = "chambas"
+organization_name = "Codeando México"
 topics = [
   "civic-tech",
   "codeando-mexico",
@@ -12,3 +11,51 @@ topics = [
   "open-data",
   "tecnologia-civica"
 ]
+
+[github]
+archived = false
+created_at = "2016-10-17T23:27:09Z"
+default_branch = "master"
+description = "La bolsa de trabajo para hackers cívicos."
+disabled = false
+fork = false
+forks_within = 10
+full_name = "CodeandoMexico/chambas"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 71_189_707
+language = { }
+license = { }
+name = "chambas"
+node_id = "MDEwOlJlcG9zaXRvcnk3MTE4OTcwNw=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 100
+topics = [
+  "civic-tech",
+  "codeando-mexico",
+  "datos-abiertos",
+  "jobs",
+  "open-data",
+  "tecnologia-civica"
+]
+updated_within = "week"
+watchers_within = 100
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_940_113
+  login = "CodeandoMexico"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI5NDAxMTM="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

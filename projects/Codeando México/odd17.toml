@@ -1,10 +1,9 @@
 code_url = "https://github.com/CodeandoMexico/odd17"
 description = "Open Data Day 2017 | Data Showdown ⚡️"
-git_branch = "gh-pages"
 git_url = "git://github.com/CodeandoMexico/odd17.git"
-last_pushed_within = "over_a_year"
 link_url = "http://odd17.codeandomexico.org"
 name = "odd17"
+organization_name = "Codeando México"
 topics = [
   "civic-tech",
   "codeando-mexico",
@@ -13,3 +12,56 @@ topics = [
   "opendataday",
   "tecnologia-civica"
 ]
+
+[github]
+archived = false
+created_at = "2017-03-01T20:39:24Z"
+default_branch = "gh-pages"
+description = "Open Data Day 2017 | Data Showdown ⚡️"
+disabled = false
+fork = true
+forks_within = 10
+full_name = "CodeandoMexico/odd17"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "http://odd17.codeandomexico.org"
+id = 83_599_427
+language = "CSS"
+name = "odd17"
+node_id = "MDEwOlJlcG9zaXRvcnk4MzU5OTQyNw=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [
+  "civic-tech",
+  "codeando-mexico",
+  "datos-abiertos",
+  "open-data",
+  "opendataday",
+  "tecnologia-civica"
+]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_940_113
+  login = "CodeandoMexico"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI5NDAxMTM="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

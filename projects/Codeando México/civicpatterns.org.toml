@@ -1,7 +1,52 @@
 code_url = "https://github.com/CodeandoMexico/civicpatterns.org"
 description = "A collection of design patterns and best practice for the civic community."
-git_branch = "gh-pages"
 git_url = "git://github.com/CodeandoMexico/civicpatterns.org.git"
-last_pushed_within = "over_a_year"
 link_url = "http://civicpatterns.org"
 name = "civicpatterns.org"
+organization_name = "Codeando México"
+
+[github]
+archived = false
+created_at = "2014-08-29T20:03:12Z"
+default_branch = "gh-pages"
+description = "A collection of design patterns and best practice for the civic community."
+disabled = false
+fork = true
+forks_within = 10
+full_name = "CodeandoMexico/civicpatterns.org"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = false
+homepage = "http://civicpatterns.org"
+id = 23_476_242
+language = { }
+name = "civicpatterns.org"
+node_id = "MDEwOlJlcG9zaXRvcnkyMzQ3NjI0Mg=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "other"
+  name = "Other"
+  node_id = "MDc6TGljZW5zZTA="
+  spdx_id = "NOASSERTION"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_940_113
+  login = "CodeandoMexico"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI5NDAxMTM="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

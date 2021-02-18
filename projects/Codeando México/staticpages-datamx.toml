@@ -1,6 +1,46 @@
 code_url = "https://github.com/CodeandoMexico/staticpages-datamx"
 description = "Páginas estáticas de contenido de datamx"
-git_branch = "master"
 git_url = "git://github.com/CodeandoMexico/staticpages-datamx.git"
-last_pushed_within = "over_a_year"
 name = "staticpages-datamx"
+organization_name = "Codeando México"
+
+[github]
+archived = false
+created_at = "2014-10-27T17:45:46Z"
+default_branch = "master"
+description = "Páginas estáticas de contenido de datamx"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "CodeandoMexico/staticpages-datamx"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 25_831_349
+language = "CSS"
+license = { }
+name = "staticpages-datamx"
+node_id = "MDEwOlJlcG9zaXRvcnkyNTgzMTM0OQ=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_940_113
+  login = "CodeandoMexico"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI5NDAxMTM="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
