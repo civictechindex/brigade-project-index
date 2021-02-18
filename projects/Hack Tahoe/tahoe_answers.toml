@@ -1,7 +1,52 @@
 code_url = "https://github.com/hacktahoe/tahoe_answers"
 description = "A fork of the honolulu answers CfA Fellows project for contributing patches"
-git_branch = "master"
 git_url = "git://github.com/hacktahoe/tahoe_answers.git"
-last_pushed_within = "over_a_year"
 link_url = "https://hnlgovanswers.herokuapp.com/"
 name = "tahoe_answers"
+organization_name = "Hack Tahoe"
+
+[github]
+archived = false
+created_at = "2016-05-21T19:21:15Z"
+default_branch = "master"
+description = "A fork of the honolulu answers CfA Fellows project for contributing patches"
+disabled = false
+fork = true
+forks_within = 0
+full_name = "hacktahoe/tahoe_answers"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "https://hnlgovanswers.herokuapp.com/"
+id = 59_377_622
+language = "JavaScript"
+name = "tahoe_answers"
+node_id = "MDEwOlJlcG9zaXRvcnk1OTM3NzYyMg=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "other"
+  name = "Other"
+  node_id = "MDc6TGljZW5zZTA="
+  spdx_id = "NOASSERTION"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 18_195_122
+  login = "hacktahoe"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE4MTk1MTIy"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
