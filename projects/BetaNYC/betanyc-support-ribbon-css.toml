@@ -1,7 +1,52 @@
 code_url = "https://github.com/BetaNYC/betanyc-support-ribbon-css"
 description = 'A CSS-only, resolution-independent "I support BetaNYC" based off of the "Fork me on GitHub" ribbon.'
-git_branch = "gh-pages"
 git_url = "git://github.com/BetaNYC/betanyc-support-ribbon-css.git"
-last_pushed_within = "over_a_year"
 link_url = "http://betanyc.github.io/betanyc-support-ribbon-css/"
 name = "betanyc-support-ribbon-css"
+organization_name = "BetaNYC"
+
+[github]
+archived = false
+created_at = "2014-08-25T22:18:11Z"
+default_branch = "gh-pages"
+description = 'A CSS-only, resolution-independent "I support BetaNYC" based off of the "Fork me on GitHub" ribbon.'
+disabled = false
+fork = true
+forks_within = 0
+full_name = "BetaNYC/betanyc-support-ribbon-css"
+has_downloads = true
+has_issues = false
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "http://betanyc.github.io/betanyc-support-ribbon-css/"
+id = 23_330_656
+language = "CSS"
+name = "betanyc-support-ribbon-css"
+node_id = "MDEwOlJlcG9zaXRvcnkyMzMzMDY1Ng=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 3_756_624
+  login = "BetaNYC"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM3NTY2MjQ="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

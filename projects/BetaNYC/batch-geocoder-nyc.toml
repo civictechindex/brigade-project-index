@@ -1,7 +1,52 @@
 code_url = "https://github.com/BetaNYC/batch-geocoder-nyc"
 description = "Batch geocoder for nyc. Fueled by Planning Lab's GeoSearch. Inspired by Erik Willems' Batch geocoder for journalists."
-git_branch = "master"
 git_url = "git://github.com/BetaNYC/batch-geocoder-nyc.git"
-last_pushed_within = "year"
 link_url = "https://www.geocoder.nyc"
 name = "batch-geocoder-nyc"
+organization_name = "BetaNYC"
+
+[github]
+archived = false
+created_at = "2020-04-20T03:44:28Z"
+default_branch = "master"
+description = "Batch geocoder for nyc. Fueled by Planning Lab's GeoSearch. Inspired by Erik Willems' Batch geocoder for journalists."
+disabled = false
+fork = false
+forks_within = 0
+full_name = "BetaNYC/batch-geocoder-nyc"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "https://www.geocoder.nyc"
+id = 257_164_168
+language = "Svelte"
+name = "batch-geocoder-nyc"
+node_id = "MDEwOlJlcG9zaXRvcnkyNTcxNjQxNjg="
+open_issues_within = 10
+private = false
+pushed_within = "year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "year"
+watchers_within = 10
+
+  [github.license]
+  key = "gpl-3.0"
+  name = "GNU General Public License v3.0"
+  node_id = "MDc6TGljZW5zZTk="
+  spdx_id = "GPL-3.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 3_756_624
+  login = "BetaNYC"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM3NTY2MjQ="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

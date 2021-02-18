@@ -1,7 +1,52 @@
 code_url = "https://github.com/BetaNYC/betanyc-landing"
 description = "Landing page for BetaNYC based upon Code for Hampton Roads"
-git_branch = "gh-pages"
 git_url = "git://github.com/BetaNYC/betanyc-landing.git"
-last_pushed_within = "over_a_year"
 link_url = "http://beta.nyc"
 name = "betanyc-landing"
+organization_name = "BetaNYC"
+
+[github]
+archived = false
+created_at = "2013-11-16T18:46:25Z"
+default_branch = "gh-pages"
+description = "Landing page for BetaNYC based upon Code for Hampton Roads"
+disabled = false
+fork = true
+forks_within = 10
+full_name = "BetaNYC/betanyc-landing"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = false
+homepage = "http://beta.nyc"
+id = 14_452_594
+language = "HTML"
+name = "betanyc-landing"
+node_id = "MDEwOlJlcG9zaXRvcnkxNDQ1MjU5NA=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "other"
+  name = "Other"
+  node_id = "MDc6TGljZW5zZTA="
+  spdx_id = "NOASSERTION"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 3_756_624
+  login = "BetaNYC"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM3NTY2MjQ="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

@@ -1,6 +1,46 @@
 code_url = "https://github.com/BetaNYC/citibike-sinatra"
 description = "an exercise for learning to use forms in sinatra using citibike data"
-git_branch = "master"
 git_url = "git://github.com/BetaNYC/citibike-sinatra.git"
-last_pushed_within = "over_a_year"
 name = "citibike-sinatra"
+organization_name = "BetaNYC"
+
+[github]
+archived = false
+created_at = "2013-07-17T20:25:01Z"
+default_branch = "master"
+description = "an exercise for learning to use forms in sinatra using citibike data"
+disabled = false
+fork = true
+forks_within = 0
+full_name = "BetaNYC/citibike-sinatra"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 11_486_691
+language = "Ruby"
+license = { }
+name = "citibike-sinatra"
+node_id = "MDEwOlJlcG9zaXRvcnkxMTQ4NjY5MQ=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 3_756_624
+  login = "BetaNYC"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM3NTY2MjQ="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

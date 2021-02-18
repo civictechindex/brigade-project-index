@@ -1,7 +1,47 @@
 code_url = "https://github.com/BetaNYC/21stCenturyForAll"
 description = "Toward a 21st Century City for All is an initiative of the Center for Urban Research at the CUNY Graduate Center, directed by Distinguished Professor John Mollenkopf in collaboration with New York City Council Member Brad Lander."
-git_branch = "master"
 git_url = "git://github.com/BetaNYC/21stCenturyForAll.git"
-last_pushed_within = "over_a_year"
 link_url = "http://www.21cforall.org/"
 name = "21stCenturyForAll"
+organization_name = "BetaNYC"
+
+[github]
+archived = false
+created_at = "2014-07-28T14:54:09Z"
+default_branch = "master"
+description = "Toward a 21st Century City for All is an initiative of the Center for Urban Research at the CUNY Graduate Center, directed by Distinguished Professor John Mollenkopf in collaboration with New York City Council Member Brad Lander."
+disabled = false
+fork = false
+forks_within = 0
+full_name = "BetaNYC/21stCenturyForAll"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://www.21cforall.org/"
+id = 22_346_526
+language = { }
+license = { }
+name = "21stCenturyForAll"
+node_id = "MDEwOlJlcG9zaXRvcnkyMjM0NjUyNg=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 3_756_624
+  login = "BetaNYC"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM3NTY2MjQ="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

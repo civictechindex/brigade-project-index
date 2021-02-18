@@ -1,7 +1,47 @@
 code_url = "https://github.com/BetaNYC/govlab.github.io"
 description = "Static pages for the GovLab and Gov 3.0 class."
-git_branch = "master"
 git_url = "git://github.com/BetaNYC/govlab.github.io.git"
-last_pushed_within = "over_a_year"
 link_url = "govlab.github.io"
 name = "govlab.github.io"
+organization_name = "BetaNYC"
+
+[github]
+archived = false
+created_at = "2013-09-11T19:26:50Z"
+default_branch = "master"
+description = "Static pages for the GovLab and Gov 3.0 class."
+disabled = false
+fork = true
+forks_within = 0
+full_name = "BetaNYC/govlab.github.io"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "govlab.github.io"
+id = 12_765_492
+language = "CSS"
+license = { }
+name = "govlab.github.io"
+node_id = "MDEwOlJlcG9zaXRvcnkxMjc2NTQ5Mg=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 3_756_624
+  login = "BetaNYC"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM3NTY2MjQ="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

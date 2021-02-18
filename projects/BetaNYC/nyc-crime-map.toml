@@ -1,7 +1,47 @@
 code_url = "https://github.com/BetaNYC/nyc-crime-map"
 description = "NYC Crime Data"
-git_branch = "master"
 git_url = "git://github.com/BetaNYC/nyc-crime-map.git"
-last_pushed_within = "over_a_year"
 link_url = "http://maps.nyc.gov/crime/"
 name = "nyc-crime-map"
+organization_name = "BetaNYC"
+
+[github]
+archived = false
+created_at = "2014-01-10T04:28:22Z"
+default_branch = "master"
+description = "NYC Crime Data"
+disabled = false
+fork = true
+forks_within = 0
+full_name = "BetaNYC/nyc-crime-map"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://maps.nyc.gov/crime/"
+id = 15_788_233
+language = { }
+license = { }
+name = "nyc-crime-map"
+node_id = "MDEwOlJlcG9zaXRvcnkxNTc4ODIzMw=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 3_756_624
+  login = "BetaNYC"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM3NTY2MjQ="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

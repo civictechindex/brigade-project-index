@@ -1,6 +1,51 @@
 code_url = "https://github.com/BetaNYC/talk.beta.nyc"
 description = "This is a issue tracking repo for talk.beta.nyc"
-git_branch = "master"
 git_url = "git://github.com/BetaNYC/talk.beta.nyc.git"
-last_pushed_within = "over_a_year"
 name = "talk.beta.nyc"
+organization_name = "BetaNYC"
+
+[github]
+archived = false
+created_at = "2015-07-20T23:34:07Z"
+default_branch = "master"
+description = "This is a issue tracking repo for talk.beta.nyc"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "BetaNYC/talk.beta.nyc"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 39_413_610
+language = { }
+name = "talk.beta.nyc"
+node_id = "MDEwOlJlcG9zaXRvcnkzOTQxMzYxMA=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "apache-2.0"
+  name = "Apache License 2.0"
+  node_id = "MDc6TGljZW5zZTI="
+  spdx_id = "Apache-2.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 3_756_624
+  login = "BetaNYC"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM3NTY2MjQ="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

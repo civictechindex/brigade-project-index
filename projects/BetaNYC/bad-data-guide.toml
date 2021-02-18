@@ -1,6 +1,46 @@
 code_url = "https://github.com/BetaNYC/bad-data-guide"
 description = "An exhaustive reference to problems seen in real-world data along with suggestions on how to resolve them."
-git_branch = "master"
 git_url = "git://github.com/BetaNYC/bad-data-guide.git"
-last_pushed_within = "over_a_year"
 name = "bad-data-guide"
+organization_name = "BetaNYC"
+
+[github]
+archived = false
+created_at = "2015-12-11T16:34:59Z"
+default_branch = "master"
+description = "An exhaustive reference to problems seen in real-world data along with suggestions on how to resolve them."
+disabled = false
+fork = true
+forks_within = 0
+full_name = "BetaNYC/bad-data-guide"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 47_838_002
+language = { }
+license = { }
+name = "bad-data-guide"
+node_id = "MDEwOlJlcG9zaXRvcnk0NzgzODAwMg=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 3_756_624
+  login = "BetaNYC"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM3NTY2MjQ="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

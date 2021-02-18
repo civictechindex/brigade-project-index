@@ -1,7 +1,47 @@
 code_url = "https://github.com/BetaNYC/NYC-CIF"
 description = "The New York City Civic Innovation Fellows program help connect college students with civic tech opportunities and NYC community boards with civic tech resources."
-git_branch = "master"
 git_url = "git://github.com/BetaNYC/NYC-CIF.git"
-last_pushed_within = "over_a_year"
 link_url = "https://beta.nyc/programs/nyc-civic-innovation-fellows/"
 name = "NYC-CIF"
+organization_name = "BetaNYC"
+
+[github]
+archived = false
+created_at = "2015-08-10T20:36:23Z"
+default_branch = "master"
+description = "The New York City Civic Innovation Fellows program help connect college students with civic tech opportunities and NYC community boards with civic tech resources."
+disabled = false
+fork = false
+forks_within = 10
+full_name = "BetaNYC/NYC-CIF"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = false
+homepage = "https://beta.nyc/programs/nyc-civic-innovation-fellows/"
+id = 40_504_892
+language = { }
+license = { }
+name = "NYC-CIF"
+node_id = "MDEwOlJlcG9zaXRvcnk0MDUwNDg5Mg=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 100
+topics = [ ]
+updated_within = "year"
+watchers_within = 100
+
+  [github.owner]
+  gravatar_id = ""
+  id = 3_756_624
+  login = "BetaNYC"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM3NTY2MjQ="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

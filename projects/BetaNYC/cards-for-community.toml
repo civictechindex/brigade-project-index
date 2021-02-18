@@ -1,6 +1,46 @@
 code_url = "https://github.com/BetaNYC/cards-for-community"
 description = "We've created a teaching tool that helps individuals learn the City's open data portal and the portal's datasets."
-git_branch = "master"
 git_url = "git://github.com/BetaNYC/cards-for-community.git"
-last_pushed_within = "over_a_year"
 name = "cards-for-community"
+organization_name = "BetaNYC"
+
+[github]
+archived = false
+created_at = "2017-12-07T19:05:59Z"
+default_branch = "master"
+description = "We've created a teaching tool that helps individuals learn the City's open data portal and the portal's datasets."
+disabled = false
+fork = false
+forks_within = 10
+full_name = "BetaNYC/cards-for-community"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = false
+has_wiki = false
+homepage = { }
+id = 113_488_293
+language = { }
+license = { }
+name = "cards-for-community"
+node_id = "MDEwOlJlcG9zaXRvcnkxMTM0ODgyOTM="
+open_issues_within = 100
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 3_756_624
+  login = "BetaNYC"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM3NTY2MjQ="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

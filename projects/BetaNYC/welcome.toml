@@ -1,7 +1,52 @@
 code_url = "https://github.com/BetaNYC/welcome"
 description = "(in process) Introductory document for new brigade members, via GitHub Pages, originally created by @BretFisher and @bcbarsness."
-git_branch = "gh-pages"
 git_url = "git://github.com/BetaNYC/welcome.git"
-last_pushed_within = "over_a_year"
 link_url = "welcome.c4hrva.us"
 name = "welcome"
+organization_name = "BetaNYC"
+
+[github]
+archived = false
+created_at = "2013-09-15T18:43:07Z"
+default_branch = "gh-pages"
+description = "(in process) Introductory document for new brigade members, via GitHub Pages, originally created by @BretFisher and @bcbarsness."
+disabled = false
+fork = true
+forks_within = 10
+full_name = "BetaNYC/welcome"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = false
+homepage = "welcome.c4hrva.us"
+id = 12_850_427
+language = "CSS"
+name = "welcome"
+node_id = "MDEwOlJlcG9zaXRvcnkxMjg1MDQyNw=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 3_756_624
+  login = "BetaNYC"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM3NTY2MjQ="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

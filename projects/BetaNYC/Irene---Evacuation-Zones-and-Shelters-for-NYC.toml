@@ -1,6 +1,46 @@
 code_url = "https://github.com/BetaNYC/Irene---Evacuation-Zones-and-Shelters-for-NYC"
 description = "The main information about Hurricane Irene preparedness & possible evacuations can be found in two PDFs: the hurricane brochure (750kb) and the map (1.5mb). There's also a Flash-based viewer of this PDF map. "
-git_branch = "master"
 git_url = "git://github.com/BetaNYC/Irene---Evacuation-Zones-and-Shelters-for-NYC.git"
-last_pushed_within = "over_a_year"
 name = "Irene---Evacuation-Zones-and-Shelters-for-NYC"
+organization_name = "BetaNYC"
+
+[github]
+archived = false
+created_at = "2013-11-17T19:20:47Z"
+default_branch = "master"
+description = "The main information about Hurricane Irene preparedness & possible evacuations can be found in two PDFs: the hurricane brochure (750kb) and the map (1.5mb). There's also a Flash-based viewer of this PDF map. "
+disabled = false
+fork = false
+forks_within = 10
+full_name = "BetaNYC/Irene---Evacuation-Zones-and-Shelters-for-NYC"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 14_472_992
+language = { }
+license = { }
+name = "Irene---Evacuation-Zones-and-Shelters-for-NYC"
+node_id = "MDEwOlJlcG9zaXRvcnkxNDQ3Mjk5Mg=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 3_756_624
+  login = "BetaNYC"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM3NTY2MjQ="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

@@ -1,5 +1,45 @@
 code_url = "https://github.com/BetaNYC/dhcr-rent-stabilized-data"
-git_branch = "master"
 git_url = "git://github.com/BetaNYC/dhcr-rent-stabilized-data.git"
-last_pushed_within = "over_a_year"
 name = "dhcr-rent-stabilized-data"
+organization_name = "BetaNYC"
+
+[github]
+archived = false
+created_at = "2014-11-25T16:49:52Z"
+default_branch = "master"
+description = { }
+disabled = false
+fork = false
+forks_within = 0
+full_name = "BetaNYC/dhcr-rent-stabilized-data"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 27_135_861
+language = { }
+license = { }
+name = "dhcr-rent-stabilized-data"
+node_id = "MDEwOlJlcG9zaXRvcnkyNzEzNTg2MQ=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 3_756_624
+  login = "BetaNYC"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM3NTY2MjQ="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

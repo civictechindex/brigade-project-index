@@ -1,7 +1,52 @@
 code_url = "https://github.com/BetaNYC/peoples-roadmap-2018"
 description = "This is an open repo / task list to manage BetaNYC’s work on the updated People’s Roadmap to a Digital New York City."
-git_branch = "master"
 git_url = "git://github.com/BetaNYC/peoples-roadmap-2018.git"
-last_pushed_within = "over_a_year"
 link_url = "http://roadmap.beta.nyc"
 name = "peoples-roadmap-2018"
+organization_name = "BetaNYC"
+
+[github]
+archived = false
+created_at = "2017-09-05T00:10:32Z"
+default_branch = "master"
+description = "This is an open repo / task list to manage BetaNYC’s work on the updated People’s Roadmap to a Digital New York City."
+disabled = false
+fork = false
+forks_within = 10
+full_name = "BetaNYC/peoples-roadmap-2018"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = false
+homepage = "http://roadmap.beta.nyc"
+id = 102_413_259
+language = "HTML"
+name = "peoples-roadmap-2018"
+node_id = "MDEwOlJlcG9zaXRvcnkxMDI0MTMyNTk="
+open_issues_within = 100
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "other"
+  name = "Other"
+  node_id = "MDc6TGljZW5zZTA="
+  spdx_id = "NOASSERTION"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 3_756_624
+  login = "BetaNYC"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM3NTY2MjQ="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

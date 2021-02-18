@@ -1,7 +1,52 @@
 code_url = "https://github.com/BetaNYC/Tools-for-NYC-Council-and-Community-Boards"
 description = "This repo is being use for its wiki and in the end will contain a collection of tools and datasets for City Council and Community Boards."
-git_branch = "master"
 git_url = "git://github.com/BetaNYC/Tools-for-NYC-Council-and-Community-Boards.git"
-last_pushed_within = "over_a_year"
 link_url = "https://github.com/betanyc/Tools-for-NYC-Council-and-Community-Boards/wiki"
 name = "Tools-for-NYC-Council-and-Community-Boards"
+organization_name = "BetaNYC"
+
+[github]
+archived = false
+created_at = "2014-01-13T19:54:10Z"
+default_branch = "master"
+description = "This repo is being use for its wiki and in the end will contain a collection of tools and datasets for City Council and Community Boards."
+disabled = false
+fork = true
+forks_within = 0
+full_name = "BetaNYC/Tools-for-NYC-Council-and-Community-Boards"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "https://github.com/betanyc/Tools-for-NYC-Council-and-Community-Boards/wiki"
+id = 15_879_781
+language = { }
+name = "Tools-for-NYC-Council-and-Community-Boards"
+node_id = "MDEwOlJlcG9zaXRvcnkxNTg3OTc4MQ=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 100
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 100
+
+  [github.license]
+  key = "gpl-2.0"
+  name = "GNU General Public License v2.0"
+  node_id = "MDc6TGljZW5zZTg="
+  spdx_id = "GPL-2.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 3_756_624
+  login = "BetaNYC"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM3NTY2MjQ="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

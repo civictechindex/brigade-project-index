@@ -1,7 +1,47 @@
 code_url = "https://github.com/BetaNYC/open-data-handbook"
 description = "New York State Provisional Open Data Handbook"
-git_branch = "gh-pages"
 git_url = "git://github.com/BetaNYC/open-data-handbook.git"
-last_pushed_within = "over_a_year"
 link_url = "http://nys-its.github.io/open-data-handbook/"
 name = "open-data-handbook"
+organization_name = "BetaNYC"
+
+[github]
+archived = false
+created_at = "2013-08-26T21:19:52Z"
+default_branch = "gh-pages"
+description = "New York State Provisional Open Data Handbook"
+disabled = false
+fork = true
+forks_within = 0
+full_name = "BetaNYC/open-data-handbook"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = false
+homepage = "http://nys-its.github.io/open-data-handbook/"
+id = 12_389_932
+language = "JavaScript"
+license = { }
+name = "open-data-handbook"
+node_id = "MDEwOlJlcG9zaXRvcnkxMjM4OTkzMg=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 3_756_624
+  login = "BetaNYC"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM3NTY2MjQ="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

@@ -1,6 +1,46 @@
 code_url = "https://github.com/BetaNYC/budgetBuddyData"
 description = "Data for budgetBuddy"
-git_branch = "master"
 git_url = "git://github.com/BetaNYC/budgetBuddyData.git"
-last_pushed_within = "over_a_year"
 name = "budgetBuddyData"
+organization_name = "BetaNYC"
+
+[github]
+archived = false
+created_at = "2014-06-26T21:30:05Z"
+default_branch = "master"
+description = "Data for budgetBuddy"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "BetaNYC/budgetBuddyData"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 21_255_649
+language = "Python"
+license = { }
+name = "budgetBuddyData"
+node_id = "MDEwOlJlcG9zaXRvcnkyMTI1NTY0OQ=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 3_756_624
+  login = "BetaNYC"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM3NTY2MjQ="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

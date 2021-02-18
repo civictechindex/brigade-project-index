@@ -1,7 +1,52 @@
 code_url = "https://github.com/BetaNYC/peoples-roadmap-nyc"
 description = "Welcome to the 21st century New York, build by the people, for the people. In this citizen created roadmap, we outline how to humanize technology, move beyond transparency for transparency's sake, and ensure we have government technology that works for the people, built with the people."
-git_branch = "gh-pages"
 git_url = "git://github.com/BetaNYC/peoples-roadmap-nyc.git"
-last_pushed_within = "over_a_year"
 link_url = "http://NYCroadmap.us"
 name = "peoples-roadmap-nyc"
+organization_name = "BetaNYC"
+
+[github]
+archived = false
+created_at = "2013-12-09T17:25:57Z"
+default_branch = "gh-pages"
+description = "Welcome to the 21st century New York, build by the people, for the people. In this citizen created roadmap, we outline how to humanize technology, move beyond transparency for transparency's sake, and ensure we have government technology that works for the people, built with the people."
+disabled = false
+fork = true
+forks_within = 10
+full_name = "BetaNYC/peoples-roadmap-nyc"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = false
+has_wiki = false
+homepage = "http://NYCroadmap.us"
+id = 15_053_964
+language = "HTML"
+name = "peoples-roadmap-nyc"
+node_id = "MDEwOlJlcG9zaXRvcnkxNTA1Mzk2NA=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "other"
+  name = "Other"
+  node_id = "MDc6TGljZW5zZTA="
+  spdx_id = "NOASSERTION"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 3_756_624
+  login = "BetaNYC"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM3NTY2MjQ="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

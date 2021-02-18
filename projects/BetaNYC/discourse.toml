@@ -1,6 +1,46 @@
 code_url = "https://github.com/BetaNYC/discourse"
 description = "this is a repository for BetaNYC's discourse distribution. For now, this hosts the Civic.JSON file and issue cue."
-git_branch = "master"
 git_url = "git://github.com/BetaNYC/discourse.git"
-last_pushed_within = "over_a_year"
 name = "discourse"
+organization_name = "BetaNYC"
+
+[github]
+archived = false
+created_at = "2015-02-06T18:48:01Z"
+default_branch = "master"
+description = "this is a repository for BetaNYC's discourse distribution. For now, this hosts the Civic.JSON file and issue cue."
+disabled = false
+fork = false
+forks_within = 0
+full_name = "BetaNYC/discourse"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = false
+homepage = { }
+id = 30_427_471
+language = { }
+license = { }
+name = "discourse"
+node_id = "MDEwOlJlcG9zaXRvcnkzMDQyNzQ3MQ=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 3_756_624
+  login = "BetaNYC"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM3NTY2MjQ="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

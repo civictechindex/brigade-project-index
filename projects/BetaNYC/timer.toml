@@ -1,7 +1,52 @@
 code_url = "https://github.com/BetaNYC/timer"
 description = "A web based timer for community board presentations"
-git_branch = "master"
 git_url = "git://github.com/BetaNYC/timer.git"
-last_pushed_within = "year"
 link_url = "https://betanyc.github.io/timer/"
 name = "timer"
+organization_name = "BetaNYC"
+
+[github]
+archived = false
+created_at = "2020-05-04T19:50:53Z"
+default_branch = "master"
+description = "A web based timer for community board presentations"
+disabled = false
+fork = true
+forks_within = 10
+full_name = "BetaNYC/timer"
+has_downloads = true
+has_issues = false
+has_pages = true
+has_projects = true
+has_wiki = false
+homepage = "https://betanyc.github.io/timer/"
+id = 261_280_998
+language = "JavaScript"
+name = "timer"
+node_id = "MDEwOlJlcG9zaXRvcnkyNjEyODA5OTg="
+open_issues_within = 0
+private = false
+pushed_within = "year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "year"
+watchers_within = 10
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 3_756_624
+  login = "BetaNYC"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM3NTY2MjQ="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

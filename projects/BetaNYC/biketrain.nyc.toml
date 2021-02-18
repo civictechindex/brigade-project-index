@@ -1,6 +1,46 @@
 code_url = "https://github.com/BetaNYC/biketrain.nyc"
 description = "to manage and maintain biketrain.nyc"
-git_branch = "master"
 git_url = "git://github.com/BetaNYC/biketrain.nyc.git"
-last_pushed_within = "year"
 name = "biketrain.nyc"
+organization_name = "BetaNYC"
+
+[github]
+archived = false
+created_at = "2020-03-13T01:38:51Z"
+default_branch = "master"
+description = "to manage and maintain biketrain.nyc"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "BetaNYC/biketrain.nyc"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 246_965_185
+language = { }
+license = { }
+name = "biketrain.nyc"
+node_id = "MDEwOlJlcG9zaXRvcnkyNDY5NjUxODU="
+open_issues_within = 10
+private = false
+pushed_within = "year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 3_756_624
+  login = "BetaNYC"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM3NTY2MjQ="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

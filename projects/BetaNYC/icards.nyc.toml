@@ -1,6 +1,46 @@
 code_url = "https://github.com/BetaNYC/icards.nyc"
 description = "These cards are a historical treasure trove.  They date from the turn of the century until the 1940s, and often contain floorplans, business uses, tenancy, original unit sizes, and rent rolls."
-git_branch = "master"
 git_url = "git://github.com/BetaNYC/icards.nyc.git"
-last_pushed_within = "over_a_year"
 name = "icards.nyc"
+organization_name = "BetaNYC"
+
+[github]
+archived = false
+created_at = "2015-04-27T20:17:46Z"
+default_branch = "master"
+description = "These cards are a historical treasure trove.  They date from the turn of the century until the 1940s, and often contain floorplans, business uses, tenancy, original unit sizes, and rent rolls."
+disabled = false
+fork = false
+forks_within = 0
+full_name = "BetaNYC/icards.nyc"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 34_688_940
+language = { }
+license = { }
+name = "icards.nyc"
+node_id = "MDEwOlJlcG9zaXRvcnkzNDY4ODk0MA=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 3_756_624
+  login = "BetaNYC"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM3NTY2MjQ="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

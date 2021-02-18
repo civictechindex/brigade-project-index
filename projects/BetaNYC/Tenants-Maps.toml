@@ -1,7 +1,52 @@
 code_url = "https://github.com/BetaNYC/Tenants-Maps"
 description = "At BetaNYC, we have scraped the PDFs listing rent-stabilized units throughout the City put out by the Rent Guidelines Board. We then designed Tenants Map - a map that displays the location of rent-stabilized units throughout Manhattan. The map separately highlights the properties listed in the Rent Guidelines Board dataset and the NYC tax bill dataset scraped by John Krauss, allowing users to compare the accuracy of the two datasets. When users click on a property, they are provided with additional information about the property owner, the rent-stabilization programs in which the owner participates, and the number of rent-stabilized units in the building from 2007 to 2016. Users can also see the number of housing-related 311 complaints made about the property since 2015 - including those made about heat/hot water, plumbing, paint/plaster, rodents, dirty conditions, and elevators. Finally, users can filter the map to display only the properties in a particular community district. We hope the tool can help buildings where owners are harassing rent-stabilized tenants out of their units to make way for high-rent leases."
-git_branch = "master"
 git_url = "git://github.com/BetaNYC/Tenants-Maps.git"
-last_pushed_within = "over_a_year"
 link_url = "https://tenants.beta.nyc"
 name = "Tenants-Maps"
+organization_name = "BetaNYC"
+
+[github]
+archived = false
+created_at = "2018-08-01T20:52:56Z"
+default_branch = "master"
+description = "At BetaNYC, we have scraped the PDFs listing rent-stabilized units throughout the City put out by the Rent Guidelines Board. We then designed Tenants Map - a map that displays the location of rent-stabilized units throughout Manhattan. The map separately highlights the properties listed in the Rent Guidelines Board dataset and the NYC tax bill dataset scraped by John Krauss, allowing users to compare the accuracy of the two datasets. When users click on a property, they are provided with additional information about the property owner, the rent-stabilization programs in which the owner participates, and the number of rent-stabilized units in the building from 2007 to 2016. Users can also see the number of housing-related 311 complaints made about the property since 2015 - including those made about heat/hot water, plumbing, paint/plaster, rodents, dirty conditions, and elevators. Finally, users can filter the map to display only the properties in a particular community district. We hope the tool can help buildings where owners are harassing rent-stabilized tenants out of their units to make way for high-rent leases."
+disabled = false
+fork = false
+forks_within = 10
+full_name = "BetaNYC/Tenants-Maps"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = false
+homepage = "https://tenants.beta.nyc"
+id = 143_207_594
+language = "HTML"
+name = "Tenants-Maps"
+node_id = "MDEwOlJlcG9zaXRvcnkxNDMyMDc1OTQ="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "year"
+watchers_within = 10
+
+  [github.license]
+  key = "gpl-3.0"
+  name = "GNU General Public License v3.0"
+  node_id = "MDc6TGljZW5zZTk="
+  spdx_id = "GPL-3.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 3_756_624
+  login = "BetaNYC"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM3NTY2MjQ="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

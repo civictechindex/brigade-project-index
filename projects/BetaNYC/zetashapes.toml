@@ -1,6 +1,46 @@
 code_url = "https://github.com/BetaNYC/zetashapes"
 description = "it's a collection of things. around neighborhoods. get ready."
-git_branch = "master"
 git_url = "git://github.com/BetaNYC/zetashapes.git"
-last_pushed_within = "over_a_year"
 name = "zetashapes"
+organization_name = "BetaNYC"
+
+[github]
+archived = false
+created_at = "2018-06-05T19:02:28Z"
+default_branch = "master"
+description = "it's a collection of things. around neighborhoods. get ready."
+disabled = false
+fork = true
+forks_within = 0
+full_name = "BetaNYC/zetashapes"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 136_222_277
+language = "JavaScript"
+license = { }
+name = "zetashapes"
+node_id = "MDEwOlJlcG9zaXRvcnkxMzYyMjIyNzc="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 3_756_624
+  login = "BetaNYC"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM3NTY2MjQ="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

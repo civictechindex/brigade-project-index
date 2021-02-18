@@ -1,6 +1,51 @@
 code_url = "https://github.com/BetaNYC/Map-Vacant-Storefront"
 description = "This repo is to coordinate tools, data, and issues surrounding the scraping of data that relates to NYC's vacant storefronts."
-git_branch = "master"
 git_url = "git://github.com/BetaNYC/Map-Vacant-Storefront.git"
-last_pushed_within = "over_a_year"
 name = "Map-Vacant-Storefront"
+organization_name = "BetaNYC"
+
+[github]
+archived = false
+created_at = "2018-04-24T14:49:34Z"
+default_branch = "master"
+description = "This repo is to coordinate tools, data, and issues surrounding the scraping of data that relates to NYC's vacant storefronts."
+disabled = false
+fork = false
+forks_within = 0
+full_name = "BetaNYC/Map-Vacant-Storefront"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = false
+homepage = { }
+id = 130_870_172
+language = "Python"
+name = "Map-Vacant-Storefront"
+node_id = "MDEwOlJlcG9zaXRvcnkxMzA4NzAxNzI="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "year"
+watchers_within = 10
+
+  [github.license]
+  key = "apache-2.0"
+  name = "Apache License 2.0"
+  node_id = "MDc6TGljZW5zZTI="
+  spdx_id = "Apache-2.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 3_756_624
+  login = "BetaNYC"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM3NTY2MjQ="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

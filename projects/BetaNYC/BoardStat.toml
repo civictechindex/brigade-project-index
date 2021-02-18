@@ -1,7 +1,47 @@
 code_url = "https://github.com/BetaNYC/BoardStat"
 description = "Workplace to build out BoardStat, an interactive NYC 311 dashboard built with Community Boards for Community Boards."
-git_branch = "master"
 git_url = "git://github.com/BetaNYC/BoardStat.git"
-last_pushed_within = "year"
 link_url = "https://boardstat.beta.nyc/"
 name = "BoardStat"
+organization_name = "BetaNYC"
+
+[github]
+archived = false
+created_at = "2017-05-18T18:21:37Z"
+default_branch = "master"
+description = "Workplace to build out BoardStat, an interactive NYC 311 dashboard built with Community Boards for Community Boards."
+disabled = false
+fork = false
+forks_within = 10
+full_name = "BetaNYC/BoardStat"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = false
+homepage = "https://boardstat.beta.nyc/"
+id = 91_724_979
+language = "HTML"
+license = { }
+name = "BoardStat"
+node_id = "MDEwOlJlcG9zaXRvcnk5MTcyNDk3OQ=="
+open_issues_within = 100
+private = false
+pushed_within = "year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 3_756_624
+  login = "BetaNYC"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM3NTY2MjQ="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

@@ -1,5 +1,45 @@
 code_url = "https://github.com/BetaNYC/CurbsideChaos"
-git_branch = "master"
 git_url = "git://github.com/BetaNYC/CurbsideChaos.git"
-last_pushed_within = "over_a_year"
 name = "CurbsideChaos"
+organization_name = "BetaNYC"
+
+[github]
+archived = false
+created_at = "2019-09-21T15:36:15Z"
+default_branch = "master"
+description = { }
+disabled = false
+fork = false
+forks_within = 10
+full_name = "BetaNYC/CurbsideChaos"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 210_009_867
+language = "Jupyter Notebook"
+license = { }
+name = "CurbsideChaos"
+node_id = "MDEwOlJlcG9zaXRvcnkyMTAwMDk4Njc="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 3_756_624
+  login = "BetaNYC"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM3NTY2MjQ="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

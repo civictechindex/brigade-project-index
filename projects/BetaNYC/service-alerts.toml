@@ -1,6 +1,46 @@
 code_url = "https://github.com/BetaNYC/service-alerts"
 description = "We are scraping real time MTA alert data and capturing it in a database to visualize frequency, duration and time of different alert types (sick passenger, rail condition, police activity, etc.) on an interactive map."
-git_branch = "master"
 git_url = "git://github.com/BetaNYC/service-alerts.git"
-last_pushed_within = "over_a_year"
 name = "service-alerts"
+organization_name = "BetaNYC"
+
+[github]
+archived = false
+created_at = "2015-03-01T20:12:01Z"
+default_branch = "master"
+description = "We are scraping real time MTA alert data and capturing it in a database to visualize frequency, duration and time of different alert types (sick passenger, rail condition, police activity, etc.) on an interactive map."
+disabled = false
+fork = true
+forks_within = 10
+full_name = "BetaNYC/service-alerts"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 31_509_104
+language = "JavaScript"
+license = { }
+name = "service-alerts"
+node_id = "MDEwOlJlcG9zaXRvcnkzMTUwOTEwNA=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 3_756_624
+  login = "BetaNYC"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM3NTY2MjQ="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

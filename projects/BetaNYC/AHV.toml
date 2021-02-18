@@ -1,7 +1,52 @@
 code_url = "https://github.com/BetaNYC/AHV"
 description = "This repository contains scripts to scrape AHV permits from BISweb and to visualize AHV issuances via Tableau Public"
-git_branch = "master"
 git_url = "git://github.com/BetaNYC/AHV.git"
-last_pushed_within = "over_a_year"
 link_url = "https://beta.nyc/ahv/"
 name = "AHV"
+organization_name = "BetaNYC"
+
+[github]
+archived = false
+created_at = "2018-07-02T18:01:40Z"
+default_branch = "master"
+description = "This repository contains scripts to scrape AHV permits from BISweb and to visualize AHV issuances via Tableau Public"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "BetaNYC/AHV"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "https://beta.nyc/ahv/"
+id = 139_477_237
+language = "HTML"
+name = "AHV"
+node_id = "MDEwOlJlcG9zaXRvcnkxMzk0NzcyMzc="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "apache-2.0"
+  name = "Apache License 2.0"
+  node_id = "MDc6TGljZW5zZTI="
+  spdx_id = "Apache-2.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 3_756_624
+  login = "BetaNYC"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM3NTY2MjQ="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
