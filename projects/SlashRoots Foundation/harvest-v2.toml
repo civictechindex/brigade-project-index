@@ -1,7 +1,47 @@
 code_url = "https://github.com/slashroots/harvest-v2"
 description = "The Harvest API is an open data platform for the publishing and sharing of agricultural sector data across government and with the public."
-git_branch = "develop"
 git_url = "git://github.com/slashroots/harvest-v2.git"
-last_pushed_within = "over_a_year"
 link_url = "http://data.abisjamaica.com.jm"
 name = "harvest-v2"
+organization_name = "SlashRoots Foundation"
+
+[github]
+archived = false
+created_at = "2016-08-27T03:14:20Z"
+default_branch = "develop"
+description = "The Harvest API is an open data platform for the publishing and sharing of agricultural sector data across government and with the public."
+disabled = false
+fork = false
+forks_within = 10
+full_name = "slashroots/harvest-v2"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://data.abisjamaica.com.jm"
+id = 66_693_238
+language = "CSS"
+license = { }
+name = "harvest-v2"
+node_id = "MDEwOlJlcG9zaXRvcnk2NjY5MzIzOA=="
+open_issues_within = 100
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 693_298
+  login = "slashroots"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjY5MzI5OA=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

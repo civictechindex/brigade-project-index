@@ -1,6 +1,51 @@
 code_url = "https://github.com/slashroots/agrocheck"
 description = "Mobile application to support police officers checking farmer information while doing vehicle stops. Built using the Ionic framework."
-git_branch = "master"
 git_url = "git://github.com/slashroots/agrocheck.git"
-last_pushed_within = "over_a_year"
 name = "agrocheck"
+organization_name = "SlashRoots Foundation"
+
+[github]
+archived = false
+created_at = "2017-01-11T18:54:32Z"
+default_branch = "master"
+description = "Mobile application to support police officers checking farmer information while doing vehicle stops. Built using the Ionic framework."
+disabled = false
+fork = false
+forks_within = 10
+full_name = "slashroots/agrocheck"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 78_669_250
+language = "JavaScript"
+name = "agrocheck"
+node_id = "MDEwOlJlcG9zaXRvcnk3ODY2OTI1MA=="
+open_issues_within = 100
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "other"
+  name = "Other"
+  node_id = "MDc6TGljZW5zZTA="
+  spdx_id = "NOASSERTION"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 693_298
+  login = "slashroots"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjY5MzI5OA=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

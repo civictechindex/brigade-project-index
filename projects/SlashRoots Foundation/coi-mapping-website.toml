@@ -1,7 +1,47 @@
 code_url = "https://github.com/slashroots/coi-mapping-website"
 description = "The Caribbean Tech Ecosystem Map is an interactive, searchable, centralized database of ICT, mobile and open data stakeholders and initiatives from across the Caribbean."
-git_branch = "master"
 git_url = "git://github.com/slashroots/coi-mapping-website.git"
-last_pushed_within = "over_a_year"
 link_url = "http://coi-mapping-website.herokuapp.com/map"
 name = "coi-mapping-website"
+organization_name = "SlashRoots Foundation"
+
+[github]
+archived = false
+created_at = "2015-11-13T21:10:13Z"
+default_branch = "master"
+description = "The Caribbean Tech Ecosystem Map is an interactive, searchable, centralized database of ICT, mobile and open data stakeholders and initiatives from across the Caribbean."
+disabled = false
+fork = false
+forks_within = 10
+full_name = "slashroots/coi-mapping-website"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://coi-mapping-website.herokuapp.com/map"
+id = 46_147_421
+language = "JavaScript"
+license = { }
+name = "coi-mapping-website"
+node_id = "MDEwOlJlcG9zaXRvcnk0NjE0NzQyMQ=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 693_298
+  login = "slashroots"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjY5MzI5OA=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

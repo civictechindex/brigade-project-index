@@ -1,6 +1,46 @@
 code_url = "https://github.com/slashroots/jas-mis-app"
 description = "Jamaica Agricultural Society - Marketing Information System"
-git_branch = "master"
 git_url = "git://github.com/slashroots/jas-mis-app.git"
-last_pushed_within = "over_a_year"
 name = "jas-mis-app"
+organization_name = "SlashRoots Foundation"
+
+[github]
+archived = false
+created_at = "2015-04-27T15:14:11Z"
+default_branch = "master"
+description = "Jamaica Agricultural Society - Marketing Information System"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "slashroots/jas-mis-app"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 34_673_946
+language = "JavaScript"
+license = { }
+name = "jas-mis-app"
+node_id = "MDEwOlJlcG9zaXRvcnkzNDY3Mzk0Ng=="
+open_issues_within = 100
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 693_298
+  login = "slashroots"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjY5MzI5OA=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

@@ -1,6 +1,46 @@
 code_url = "https://github.com/slashroots/coi-mapping-app"
 description = "COI Mapping Project"
-git_branch = "master"
 git_url = "git://github.com/slashroots/coi-mapping-app.git"
-last_pushed_within = "over_a_year"
 name = "coi-mapping-app"
+organization_name = "SlashRoots Foundation"
+
+[github]
+archived = false
+created_at = "2015-11-03T13:35:56Z"
+default_branch = "master"
+description = "COI Mapping Project"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "slashroots/coi-mapping-app"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 45_468_618
+language = "JavaScript"
+license = { }
+name = "coi-mapping-app"
+node_id = "MDEwOlJlcG9zaXRvcnk0NTQ2ODYxOA=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 693_298
+  login = "slashroots"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjY5MzI5OA=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

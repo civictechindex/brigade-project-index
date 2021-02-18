@@ -1,6 +1,51 @@
 code_url = "https://github.com/slashroots/LabsProcedures"
 description = "SlashRoots Labs Policies and Procedures for Software Developers"
-git_branch = "master"
 git_url = "git://github.com/slashroots/LabsProcedures.git"
-last_pushed_within = "over_a_year"
 name = "LabsProcedures"
+organization_name = "SlashRoots Foundation"
+
+[github]
+archived = false
+created_at = "2015-01-29T21:16:50Z"
+default_branch = "master"
+description = "SlashRoots Labs Policies and Procedures for Software Developers"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "slashroots/LabsProcedures"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 30_041_740
+language = { }
+name = "LabsProcedures"
+node_id = "MDEwOlJlcG9zaXRvcnkzMDA0MTc0MA=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "gpl-2.0"
+  name = "GNU General Public License v2.0"
+  node_id = "MDc6TGljZW5zZTg="
+  spdx_id = "GPL-2.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 693_298
+  login = "slashroots"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjY5MzI5OA=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
