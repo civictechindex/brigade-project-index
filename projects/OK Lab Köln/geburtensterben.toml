@@ -1,5 +1,45 @@
 code_url = "https://github.com/codeforcologne/geburtensterben"
-git_branch = "gh-pages"
 git_url = "git://github.com/codeforcologne/geburtensterben.git"
-last_pushed_within = "over_a_year"
 name = "geburtensterben"
+organization_name = "OK Lab Köln"
+
+[github]
+archived = false
+created_at = "2016-02-27T17:59:21Z"
+default_branch = "gh-pages"
+description = { }
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codeforcologne/geburtensterben"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 52_680_748
+language = "HTML"
+license = { }
+name = "geburtensterben"
+node_id = "MDEwOlJlcG9zaXRvcnk1MjY4MDc0OA=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 14_066_251
+  login = "codeforcologne"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE0MDY2MjUx"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

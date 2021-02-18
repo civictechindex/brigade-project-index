@@ -1,6 +1,46 @@
 code_url = "https://github.com/codeforcologne/FAQ"
 description = "Fragen und Antworten zum OKLab Köln"
-git_branch = "master"
 git_url = "git://github.com/codeforcologne/FAQ.git"
-last_pushed_within = "over_a_year"
 name = "FAQ"
+organization_name = "OK Lab Köln"
+
+[github]
+archived = false
+created_at = "2015-10-22T19:24:40Z"
+default_branch = "master"
+description = "Fragen und Antworten zum OKLab Köln"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "codeforcologne/FAQ"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 44_768_117
+language = { }
+license = { }
+name = "FAQ"
+node_id = "MDEwOlJlcG9zaXRvcnk0NDc2ODExNw=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 14_066_251
+  login = "codeforcologne"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE0MDY2MjUx"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

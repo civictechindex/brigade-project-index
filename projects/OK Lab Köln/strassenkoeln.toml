@@ -1,7 +1,47 @@
 code_url = "https://github.com/codeforcologne/strassenkoeln"
 description = "Geschlechterverteilung der Straßennamen in Köln"
-git_branch = "master"
 git_url = "git://github.com/codeforcologne/strassenkoeln.git"
-last_pushed_within = "over_a_year"
 link_url = "http://codeforcologne.github.io/strassenkoeln/"
 name = "strassenkoeln"
+organization_name = "OK Lab Köln"
+
+[github]
+archived = false
+created_at = "2016-03-07T17:33:26Z"
+default_branch = "master"
+description = "Geschlechterverteilung der Straßennamen in Köln"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "codeforcologne/strassenkoeln"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "http://codeforcologne.github.io/strassenkoeln/"
+id = 53_345_135
+language = "HTML"
+license = { }
+name = "strassenkoeln"
+node_id = "MDEwOlJlcG9zaXRvcnk1MzM0NTEzNQ=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 14_066_251
+  login = "codeforcologne"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE0MDY2MjUx"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

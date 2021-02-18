@@ -1,6 +1,46 @@
 code_url = "https://github.com/codeforcologne/wahlhelfer"
 description = "Sich im Vorbeifahren über die Landtagswahl in Köln informieren: Wir zeigen Dir zu Deiner Position den Stimmbezirk, das nächste Wahlbüro und das Wahlergebnis an."
-git_branch = "master"
 git_url = "git://github.com/codeforcologne/wahlhelfer.git"
-last_pushed_within = "over_a_year"
 name = "wahlhelfer"
+organization_name = "OK Lab Köln"
+
+[github]
+archived = false
+created_at = "2016-09-06T20:59:48Z"
+default_branch = "master"
+description = "Sich im Vorbeifahren über die Landtagswahl in Köln informieren: Wir zeigen Dir zu Deiner Position den Stimmbezirk, das nächste Wahlbüro und das Wahlergebnis an."
+disabled = false
+fork = false
+forks_within = 0
+full_name = "codeforcologne/wahlhelfer"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 67_546_447
+language = "CSS"
+license = { }
+name = "wahlhelfer"
+node_id = "MDEwOlJlcG9zaXRvcnk2NzU0NjQ0Nw=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 14_066_251
+  login = "codeforcologne"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE0MDY2MjUx"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
