@@ -1,6 +1,51 @@
 code_url = "https://github.com/CodeforNRV/park-blacksburg"
 description = "Project to help find parking in downtown Blacksburg and the Virginia Tech campus"
-git_branch = "master"
 git_url = "git://github.com/CodeforNRV/park-blacksburg.git"
-last_pushed_within = "over_a_year"
 name = "park-blacksburg"
+organization_name = "Code for New River Valley"
+
+[github]
+archived = false
+created_at = "2017-03-02T22:01:33Z"
+default_branch = "master"
+description = "Project to help find parking in downtown Blacksburg and the Virginia Tech campus"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "CodeforNRV/park-blacksburg"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 83_728_996
+language = "CSS"
+name = "park-blacksburg"
+node_id = "MDEwOlJlcG9zaXRvcnk4MzcyODk5Ng=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 10_054_894
+  login = "CodeforNRV"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjEwMDU0ODk0"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

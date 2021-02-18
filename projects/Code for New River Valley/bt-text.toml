@@ -1,6 +1,51 @@
 code_url = "https://github.com/CodeforNRV/bt-text"
 description = "Twilio app for Blacksburg Transit"
-git_branch = "master"
 git_url = "git://github.com/CodeforNRV/bt-text.git"
-last_pushed_within = "over_a_year"
 name = "bt-text"
+organization_name = "Code for New River Valley"
+
+[github]
+archived = false
+created_at = "2015-10-01T23:21:36Z"
+default_branch = "master"
+description = "Twilio app for Blacksburg Transit"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "CodeforNRV/bt-text"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 43_526_334
+language = "Python"
+name = "bt-text"
+node_id = "MDEwOlJlcG9zaXRvcnk0MzUyNjMzNA=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 10_054_894
+  login = "CodeforNRV"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjEwMDU0ODk0"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
