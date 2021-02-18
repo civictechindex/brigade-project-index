@@ -1,8 +1,48 @@
 code_url = "https://github.com/OpenMaine/portlandschoolsmap"
 description = "This is a basic google map and shareable web graphic for school meal pickup locations during COVID-19"
-git_branch = "master"
 git_url = "git://github.com/OpenMaine/portlandschoolsmap.git"
-last_pushed_within = "year"
 link_url = "https://www.portlandschools.org/c_o_v_i_d-19/food_distribution_sites"
 name = "portlandschoolsmap"
+organization_name = "Open Maine"
 topics = [ "covid-19" ]
+
+[github]
+archived = false
+created_at = "2020-05-02T16:39:45Z"
+default_branch = "master"
+description = "This is a basic google map and shareable web graphic for school meal pickup locations during COVID-19"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "OpenMaine/portlandschoolsmap"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "https://www.portlandschools.org/c_o_v_i_d-19/food_distribution_sites"
+id = 260_730_398
+language = { }
+license = { }
+name = "portlandschoolsmap"
+node_id = "MDEwOlJlcG9zaXRvcnkyNjA3MzAzOTg="
+open_issues_within = 10
+private = false
+pushed_within = "year"
+stargazers_within = 0
+topics = [ "covid-19" ]
+updated_within = "year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 31_015_387
+  login = "OpenMaine"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjMxMDE1Mzg3"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

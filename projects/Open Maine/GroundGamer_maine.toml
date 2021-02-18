@@ -1,5 +1,45 @@
 code_url = "https://github.com/OpenMaine/GroundGamer_maine"
-git_branch = "master"
 git_url = "git://github.com/OpenMaine/GroundGamer_maine.git"
-last_pushed_within = "over_a_year"
 name = "GroundGamer_maine"
+organization_name = "Open Maine"
+
+[github]
+archived = false
+created_at = "2018-11-04T19:08:09Z"
+default_branch = "master"
+description = { }
+disabled = false
+fork = false
+forks_within = 0
+full_name = "OpenMaine/GroundGamer_maine"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 156_115_331
+language = "JavaScript"
+license = { }
+name = "GroundGamer_maine"
+node_id = "MDEwOlJlcG9zaXRvcnkxNTYxMTUzMzE="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 31_015_387
+  login = "OpenMaine"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjMxMDE1Mzg3"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

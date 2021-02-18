@@ -1,7 +1,47 @@
 code_url = "https://github.com/OpenMaine/civic-archipelago"
 description = "Building a flexible pathway to civic leadership, collaboration, and changemaking"
-git_branch = "master"
 git_url = "git://github.com/OpenMaine/civic-archipelago.git"
-last_pushed_within = "over_a_year"
 link_url = "https://openmaine.github.io/civic-archipelago/"
 name = "civic-archipelago"
+organization_name = "Open Maine"
+
+[github]
+archived = false
+created_at = "2019-03-12T23:55:15Z"
+default_branch = "master"
+description = "Building a flexible pathway to civic leadership, collaboration, and changemaking"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "OpenMaine/civic-archipelago"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "https://openmaine.github.io/civic-archipelago/"
+id = 175_313_940
+language = { }
+license = { }
+name = "civic-archipelago"
+node_id = "MDEwOlJlcG9zaXRvcnkxNzUzMTM5NDA="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 31_015_387
+  login = "OpenMaine"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjMxMDE1Mzg3"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

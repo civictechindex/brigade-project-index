@@ -1,7 +1,47 @@
 code_url = "https://github.com/OpenMaine/openmaine-website"
 description = "This is the source of the website for openmaine.org. It's based on a bootstrap theme, but currently just HTML, CSS, and JavaScript. NOTE: These files correspond to the actual site. It's usually best not to edit the main branch. Instead, make a new branch, make your changes, and issue a pull request."
-git_branch = "master"
 git_url = "git://github.com/OpenMaine/openmaine-website.git"
-last_pushed_within = "year"
 name = "openmaine-website"
+organization_name = "Open Maine"
 topics = [ "css", "html", "javascript" ]
+
+[github]
+archived = false
+created_at = "2019-04-19T00:12:43Z"
+default_branch = "master"
+description = "This is the source of the website for openmaine.org. It's based on a bootstrap theme, but currently just HTML, CSS, and JavaScript. NOTE: These files correspond to the actual site. It's usually best not to edit the main branch. Instead, make a new branch, make your changes, and issue a pull request."
+disabled = false
+fork = false
+forks_within = 10
+full_name = "OpenMaine/openmaine-website"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 182_173_957
+language = "HTML"
+license = { }
+name = "openmaine-website"
+node_id = "MDEwOlJlcG9zaXRvcnkxODIxNzM5NTc="
+open_issues_within = 10
+private = false
+pushed_within = "year"
+stargazers_within = 10
+topics = [ "css", "html", "javascript" ]
+updated_within = "year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 31_015_387
+  login = "OpenMaine"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjMxMDE1Mzg3"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

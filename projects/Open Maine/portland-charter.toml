@@ -1,5 +1,50 @@
 code_url = "https://github.com/OpenMaine/portland-charter"
-git_branch = "main"
 git_url = "git://github.com/OpenMaine/portland-charter.git"
-last_pushed_within = "month"
 name = "portland-charter"
+organization_name = "Open Maine"
+
+[github]
+archived = false
+created_at = "2020-12-12T19:30:34Z"
+default_branch = "main"
+description = { }
+disabled = false
+fork = false
+forks_within = 0
+full_name = "OpenMaine/portland-charter"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 320_908_132
+language = "Ruby"
+name = "portland-charter"
+node_id = "MDEwOlJlcG9zaXRvcnkzMjA5MDgxMzI="
+open_issues_within = 0
+private = false
+pushed_within = "year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "year"
+watchers_within = 0
+
+  [github.license]
+  key = "agpl-3.0"
+  name = "GNU Affero General Public License v3.0"
+  node_id = "MDc6TGljZW5zZTE="
+  spdx_id = "AGPL-3.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 31_015_387
+  login = "OpenMaine"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjMxMDE1Mzg3"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

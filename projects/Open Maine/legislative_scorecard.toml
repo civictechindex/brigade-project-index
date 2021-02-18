@@ -1,6 +1,46 @@
 code_url = "https://github.com/OpenMaine/legislative_scorecard"
 description = "Website to allow citizens to see how their state representatives voted on bills and whether those votes match with their values."
-git_branch = "master"
 git_url = "git://github.com/OpenMaine/legislative_scorecard.git"
-last_pushed_within = "year"
 name = "legislative_scorecard"
+organization_name = "Open Maine"
+
+[github]
+archived = false
+created_at = "2019-09-19T23:46:32Z"
+default_branch = "master"
+description = "Website to allow citizens to see how their state representatives voted on bills and whether those votes match with their values."
+disabled = false
+fork = false
+forks_within = 10
+full_name = "OpenMaine/legislative_scorecard"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 209_667_340
+language = "JavaScript"
+license = { }
+name = "legislative_scorecard"
+node_id = "MDEwOlJlcG9zaXRvcnkyMDk2NjczNDA="
+open_issues_within = 100
+private = false
+pushed_within = "year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 31_015_387
+  login = "OpenMaine"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjMxMDE1Mzg3"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

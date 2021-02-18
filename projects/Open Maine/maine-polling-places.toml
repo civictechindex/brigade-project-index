@@ -1,6 +1,51 @@
 code_url = "https://github.com/OpenMaine/maine-polling-places"
 description = "Polling place location map for Maine"
-git_branch = "master"
 git_url = "git://github.com/OpenMaine/maine-polling-places.git"
-last_pushed_within = "over_a_year"
 name = "maine-polling-places"
+organization_name = "Open Maine"
+
+[github]
+archived = false
+created_at = "2018-10-07T19:19:11Z"
+default_branch = "master"
+description = "Polling place location map for Maine"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "OpenMaine/maine-polling-places"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 151_976_636
+language = "JavaScript"
+name = "maine-polling-places"
+node_id = "MDEwOlJlcG9zaXRvcnkxNTE5NzY2MzY="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "year"
+watchers_within = 10
+
+  [github.license]
+  key = "gpl-3.0"
+  name = "GNU General Public License v3.0"
+  node_id = "MDc6TGljZW5zZTk="
+  spdx_id = "GPL-3.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 31_015_387
+  login = "OpenMaine"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjMxMDE1Mzg3"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

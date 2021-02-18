@@ -1,6 +1,46 @@
 code_url = "https://github.com/OpenMaine/Map_Generator"
 description = "This is a small utility for generating maps for independent political campaigns."
-git_branch = "master"
 git_url = "git://github.com/OpenMaine/Map_Generator.git"
-last_pushed_within = "over_a_year"
 name = "Map_Generator"
+organization_name = "Open Maine"
+
+[github]
+archived = false
+created_at = "2018-09-03T20:30:34Z"
+default_branch = "master"
+description = "This is a small utility for generating maps for independent political campaigns."
+disabled = false
+fork = false
+forks_within = 0
+full_name = "OpenMaine/Map_Generator"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 147_250_844
+language = "JavaScript"
+license = { }
+name = "Map_Generator"
+node_id = "MDEwOlJlcG9zaXRvcnkxNDcyNTA4NDQ="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 31_015_387
+  login = "OpenMaine"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjMxMDE1Mzg3"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

@@ -1,7 +1,47 @@
 code_url = "https://github.com/OpenMaine/visual-town-budget"
 description = "Open-source budget visualization framework."
-git_branch = "master"
 git_url = "git://github.com/OpenMaine/visual-town-budget.git"
-last_pushed_within = "over_a_year"
 link_url = "http://www.arlingtonvisualbudget.org/"
 name = "visual-town-budget"
+organization_name = "Open Maine"
+
+[github]
+archived = false
+created_at = "2017-01-17T06:00:29Z"
+default_branch = "master"
+description = "Open-source budget visualization framework."
+disabled = false
+fork = false
+forks_within = 10
+full_name = "OpenMaine/visual-town-budget"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://www.arlingtonvisualbudget.org/"
+id = 79_194_192
+language = "PHP"
+license = { }
+name = "visual-town-budget"
+node_id = "MDEwOlJlcG9zaXRvcnk3OTE5NDE5Mg=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 31_015_387
+  login = "OpenMaine"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjMxMDE1Mzg3"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

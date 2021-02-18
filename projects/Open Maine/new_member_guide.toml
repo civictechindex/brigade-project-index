@@ -1,6 +1,46 @@
 code_url = "https://github.com/OpenMaine/new_member_guide"
 description = "✅  All the Information a New Member Could Want Or Need"
-git_branch = "master"
 git_url = "git://github.com/OpenMaine/new_member_guide.git"
-last_pushed_within = "year"
 name = "new_member_guide"
+organization_name = "Open Maine"
+
+[github]
+archived = false
+created_at = "2020-02-29T20:15:46Z"
+default_branch = "master"
+description = "✅  All the Information a New Member Could Want Or Need"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "OpenMaine/new_member_guide"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 244_035_009
+language = { }
+license = { }
+name = "new_member_guide"
+node_id = "MDEwOlJlcG9zaXRvcnkyNDQwMzUwMDk="
+open_issues_within = 10
+private = false
+pushed_within = "year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 31_015_387
+  login = "OpenMaine"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjMxMDE1Mzg3"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

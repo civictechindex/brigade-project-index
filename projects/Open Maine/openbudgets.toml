@@ -1,7 +1,52 @@
 code_url = "https://github.com/OpenMaine/openbudgets"
 description = "Open Budgets is a public wiki and data visualization space to help the public better understand the local budget. "
-git_branch = "master"
 git_url = "git://github.com/OpenMaine/openbudgets.git"
-last_pushed_within = "year"
 link_url = "https://github.com/OpenMaine/openbudgets/wiki"
 name = "openbudgets"
+organization_name = "Open Maine"
+
+[github]
+archived = false
+created_at = "2020-06-01T01:06:20Z"
+default_branch = "master"
+description = "Open Budgets is a public wiki and data visualization space to help the public better understand the local budget. "
+disabled = false
+fork = false
+forks_within = 0
+full_name = "OpenMaine/openbudgets"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "https://github.com/OpenMaine/openbudgets/wiki"
+id = 268_393_794
+language = { }
+name = "openbudgets"
+node_id = "MDEwOlJlcG9zaXRvcnkyNjgzOTM3OTQ="
+open_issues_within = 10
+private = false
+pushed_within = "year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "year"
+watchers_within = 10
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 31_015_387
+  login = "OpenMaine"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjMxMDE1Mzg3"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

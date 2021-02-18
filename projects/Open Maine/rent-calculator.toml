@@ -1,0 +1,51 @@
+code_url = "https://github.com/OpenMaine/rent-calculator"
+description = "A cost calculator to help landlords comply with Portland's new rent stabilization ordinance."
+git_url = "git://github.com/OpenMaine/rent-calculator.git"
+name = "rent-calculator"
+organization_name = "Open Maine"
+
+[github]
+archived = false
+created_at = "2021-01-24T19:04:54Z"
+default_branch = "master"
+description = "A cost calculator to help landlords comply with Portland's new rent stabilization ordinance."
+disabled = false
+fork = false
+forks_within = 10
+full_name = "OpenMaine/rent-calculator"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 332_532_141
+language = "CSS"
+name = "rent-calculator"
+node_id = "MDEwOlJlcG9zaXRvcnkzMzI1MzIxNDE="
+open_issues_within = 10
+private = false
+pushed_within = "week"
+stargazers_within = 10
+topics = [ ]
+updated_within = "week"
+watchers_within = 10
+
+  [github.license]
+  key = "other"
+  name = "Other"
+  node_id = "MDc6TGljZW5zZTA="
+  spdx_id = "NOASSERTION"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 31_015_387
+  login = "OpenMaine"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjMxMDE1Mzg3"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
