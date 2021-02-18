@@ -1,7 +1,62 @@
 code_url = "https://github.com/philasdbudget/philasdbudget"
 description = "The School District of Philadelphia posts budgets for their schools on their [website](https://apps.philasd.org/SchoolBudgets/servlet). However, this data is in PDF format and therefore cannot be easily used by developers and others interested in examining the budgets of schools in a programmatic fashion."
-last_pushed_within = "over_a_year"
 link_url = "http://phillyschools.info"
 name = "Budget_Visualization"
+organization_name = "Code for Philly"
 status = "Hibernating"
 topics = [ "Budgets", "Education" ]
+
+[github]
+archived = false
+created_at = "2013-02-23T18:20:52Z"
+default_branch = "master"
+description = "Project to parse Philadelphia School District Budget PDFs and visualize data"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "philasdbudget/philasdbudget"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 8_379_592
+language = "JavaScript"
+license = { }
+name = "philasdbudget"
+network_count = 4
+node_id = "MDEwOlJlcG9zaXRvcnk4Mzc5NTky"
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+subscribers_count = 6
+temp_clone_token = ""
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.organization]
+  gravatar_id = ""
+  id = 3_680_411
+  login = "philasdbudget"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM2ODA0MTE="
+  site_admin = false
+  type = "Organization"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 3_680_411
+  login = "philasdbudget"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM2ODA0MTE="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
+
+[projects_list_extra]
+title = "School District of Philadelphia Budget - Data Liberation and Visualization"

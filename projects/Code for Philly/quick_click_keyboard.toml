@@ -1,4 +1,9 @@
 description = "In a quick survey I did in the Muscular Dystrophy community, over 70% of computer users use a mouse and on-screen keyboard, yet so much interaction is done through hover functionality and hotkeys. There are minimal tools and web accessibility practices out there to make computer usage fully accessible to mouse/touchpad/trackball users. These limitations become even more apparent with specialized software, such as CAD and video editing applications. Would anyone like to help me build something to accommodate this group, of which I am a part?"
 name = "quick_click_keyboard"
+organization_name = "Code for Philly"
 status = "Commenting"
-topics = [ "Computers", "Software Development", "Accessibility" ]
+topics = [ "Accessibility", "Computers", "Software Development" ]
+
+[projects_list_extra]
+chat_channel = "quickclickkeyboard"
+title = "Quick Click Keyboard"

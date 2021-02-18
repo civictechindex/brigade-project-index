@@ -2,5 +2,9 @@ code_url = "https://github.com/BelieveAcheive"
 description = "BelieveAchieve is a volunteer-run ed-tech initiative seeking to provide on-demand educational and guidance services to disadvantaged high school students in the U.S. Our 3-pronged approach will consist of free, online, and on-demand: mentoring, tutoring, and college counseling. We are planning to pilot our model in the NYC metropolitan area beginning in January 2017. During the pilot, BelieveAchieve will focus on delivering math tutoring, general mentorship, and college admissions guidance to low-income public high school students in the NYC area. After our NYC pilot, we will scale our model to Philadelphia. Our long-term vision is to make our services available to all disadvantaged students in the U.S."
 link_url = "http://believeachieve.org/"
 name = "believeachieve--free-online-on-demand_tutoring_for_disadvantaged_students"
+organization_name = "Code for Philly"
 status = "Bootstrapping"
-topics = [ "mathematics", "Mentorship", "teaching", "Education" ]
+topics = [ "Education", "mathematics", "Mentorship", "teaching" ]
+
+[projects_list_extra]
+title = "BelieveAchieve: Free, online, on-demand tutoring for disadvantaged students"

@@ -2,5 +2,10 @@ code_url = "http://drawthelinespa.org/"
 description = "Draw the Lines is a public mapping competition calling on Pennsylvanians to draw their own federal congressional districts.  While anyone is welcome to submit their own entry, we thought it would be less daunting (and less time consuming) to do it together."
 link_url = "http://drawthelinespa.org/"
 name = "draw_the_lines_fall_2018_cfp_group_submission"
+organization_name = "Code for Philly"
 status = "Hibernating"
-topics = [ "Gerrymandering", "Elections", "Democracy" ]
+topics = [ "Democracy", "Elections", "Gerrymandering" ]
+
+[projects_list_extra]
+chat_channel = "drawthelines"
+title = "Draw the Lines Fall 2018 CfP Group Submission"

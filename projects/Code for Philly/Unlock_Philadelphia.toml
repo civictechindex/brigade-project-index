@@ -1,7 +1,63 @@
 code_url = "https://github.com/UnlockedLab/unlockphilly"
 description = "Using open data and crowd sourcing our mission is to make Philadelphia a more accessible city that welcomes and embraces people of all ages and abilities."
-last_pushed_within = "year"
 link_url = "http://www.unlockphilly.com"
 name = "Unlock_Philadelphia"
+organization_name = "Code for Philly"
 status = "Maintaining"
 topics = [ "Accessibility", "Transit" ]
+
+[github]
+archived = false
+created_at = "2014-03-30T17:26:16Z"
+default_branch = "master"
+description = "Elevating accessibility on and around mass transit"
+disabled = false
+fork = false
+forks_within = 100
+full_name = "UnlockedLab/unlockphilly"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://www.unlockphilly.com"
+id = 18_269_244
+language = "JavaScript"
+license = { }
+name = "unlockphilly"
+network_count = 12
+node_id = "MDEwOlJlcG9zaXRvcnkxODI2OTI0NA=="
+open_issues_within = 10
+private = false
+pushed_within = "year"
+stargazers_within = 100
+subscribers_count = 8
+temp_clone_token = ""
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 100
+
+  [github.organization]
+  gravatar_id = ""
+  id = 7_108_498
+  login = "UnlockedLab"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjcxMDg0OTg="
+  site_admin = false
+  type = "Organization"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 7_108_498
+  login = "UnlockedLab"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjcxMDg0OTg="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
+
+[projects_list_extra]
+chat_channel = "unlockphilly"
+title = "Unlock Philly"

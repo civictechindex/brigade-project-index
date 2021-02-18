@@ -1,6 +1,53 @@
 code_url = "https://github.com/maneesha/phila_city_council"
-last_pushed_within = "over_a_year"
 link_url = "http://phlcitycouncil.pythonanywhere.com/"
 name = "philadelphia_city_council"
+organization_name = "Code for Philly"
 status = "Prototyping"
 topics = [ "Democracy", "opengov" ]
+
+[github]
+archived = false
+created_at = "2014-12-20T19:42:11Z"
+default_branch = "master"
+description = "Django app to explore terms of service, demographics, and other data for Philadelphia City Council members"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "maneesha/phila_city_council"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 28_277_009
+language = "HTML"
+license = { }
+name = "phila_city_council"
+network_count = 0
+node_id = "MDEwOlJlcG9zaXRvcnkyODI3NzAwOQ=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+subscribers_count = 2
+temp_clone_token = ""
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 829_690
+  login = "maneesha"
+  node_id = "MDQ6VXNlcjgyOTY5MA=="
+  site_admin = false
+  type = "User"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
+
+[projects_list_extra]
+title = "Philadelphia City Council"

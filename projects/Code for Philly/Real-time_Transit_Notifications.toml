@@ -1,4 +1,8 @@
 description = "I'd like to write the backend in Node on Amazon Web Services, need help writing the front-end. Definitely doable in a weekend!"
 name = "Real-time_Transit_Notifications"
+organization_name = "Code for Philly"
 status = "Hibernating"
 topics = [ "Transit" ]
+
+[projects_list_extra]
+title = "Real-time Transit Notifications"

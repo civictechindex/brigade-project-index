@@ -1,5 +1,9 @@
 description = 'PHL Map of Shame is a citizen-led project to map the impact of the School Reform Commission’s "doomsday budget" on students and parents. We will visualize complaints filed with the Pennsylvania Department of Education.'
 link_url = "http://phillymapofshame.org"
 name = "PHL_Map_of_Shame"
+organization_name = "Code for Philly"
 status = "Hibernating"
-topics = [ "Education", "CivicEngagement" ]
+topics = [ "CivicEngagement", "Education" ]
+
+[projects_list_extra]
+title = "Philly Map of Shame"

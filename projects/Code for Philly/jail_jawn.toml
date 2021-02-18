@@ -2,5 +2,10 @@ code_url = "https://github.com/JailJawn"
 description = "Data Source: (http://www.phila.gov/prisons/page.htm)"
 link_url = "https://www.jailjawn.com"
 name = "jail_jawn"
+organization_name = "Code for Philly"
 status = "Maintaining"
 topics = [ "Anti-Prisons", "Social Justice", "statistics" ]
+
+[projects_list_extra]
+chat_channel = "jailjawn"
+title = "Jail Jawn"

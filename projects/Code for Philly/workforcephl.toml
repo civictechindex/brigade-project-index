@@ -1,5 +1,10 @@
 description = "The pandemic has affected our global community in unimaginable ways. Many effects are yet to be revealed. In response, and in attempt to gauge the impact on the workforce, we are working with the City of Philadelphia to conduct an impact analysis and make a report public to inform future policymaking, as well as help people get jobs."
 link_url = "https://workforcephl.org"
 name = "workforcephl"
+organization_name = "Code for Philly"
 status = "Prototyping"
 topics = [ "covid-19", "employment" ]
+
+[projects_list_extra]
+chat_channel = "covid19-workforce-impact"
+title = "Workforce Impact Analysis"

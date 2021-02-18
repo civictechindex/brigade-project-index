@@ -1,7 +1,62 @@
 code_url = "https://github.com/jimRsmiley/what-hood"
 description = "Whathood aims to settle the neighborhood border debate for all time by aggregating"
-last_pushed_within = "over_a_year"
 link_url = "http://whathood.in"
 name = "What_Hood_Is_This"
+organization_name = "Code for Philly"
 status = "Maintaining"
 topics = [ "Communities", "Maps" ]
+
+[github]
+archived = false
+created_at = "2013-11-27T01:15:02Z"
+default_branch = "develop"
+description = "WhatHood is a neighborhood border crowdsourcing web application"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "whathood/whathood"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = false
+homepage = "http://whathood.in"
+id = 14_733_984
+language = "TSQL"
+license = { }
+name = "whathood"
+network_count = 3
+node_id = "MDEwOlJlcG9zaXRvcnkxNDczMzk4NA=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+subscribers_count = 2
+temp_clone_token = ""
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.organization]
+  gravatar_id = ""
+  id = 13_055_579
+  login = "whathood"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjEzMDU1NTc5"
+  site_admin = false
+  type = "Organization"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 13_055_579
+  login = "whathood"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjEzMDU1NTc5"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
+
+[projects_list_extra]
+title = "Whathood - crowdsourcing neighborhood borders"

@@ -1,6 +1,58 @@
 code_url = "https://github.com/davewalk/philly-hoods"
 description = "Philly Hoods is a neighborhoods API for Philadelphia."
-last_pushed_within = "over_a_year"
 link_url = "http://phillyhoods.net"
 name = "Philly_Hoods"
+organization_name = "Code for Philly"
 status = "Hibernating"
+
+[github]
+archived = false
+created_at = "2013-08-10T15:52:01Z"
+default_branch = "master"
+description = "A Philadelphia neighborhoods API"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "davewalk/philly-hoods"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 12_022_828
+language = "JavaScript"
+name = "philly-hoods"
+network_count = 5
+node_id = "MDEwOlJlcG9zaXRvcnkxMjAyMjgyOA=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+subscribers_count = 4
+temp_clone_token = ""
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 759_312
+  login = "davewalk"
+  node_id = "MDQ6VXNlcjc1OTMxMg=="
+  site_admin = false
+  type = "User"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
+
+[projects_list_extra]
+title = "Philly Hoods"

@@ -1,12 +1,16 @@
 code_url = "https://github.com/TRys8/Energy-Benchmarking-Philadelphia-Muni-Buildings.git"
 description = "The Philadelphia Department of Energy has data available on opendataphilly.org (link below) showing energy consumption for Philadelphia Municipal Buildings between 2011-13.  They are looking to add 2014 in the near future.  They have asked us to help analyze and present the data so that the information is palatable for Philadelphians interested in creating energy efficient buildings.  The Department of Energy has invested money in projects to help make some of our older municipal buildings become more energy efficient. They'd like to help voters understand the impact of their tax dollars on creating energy efficient buildings in our city. Informing citizens of these energy improvements could help the Department of Energy with passing future legislation to support funding for energy efficient building projects in Philadelphia."
-flags = [ "github_404" ]
+github = false
 link_url = "https://codeforphilly.slack.com/archives/energy_benchmarking"
 name = "philadelphia_municipal_building_energy_benchmarking"
+organization_name = "Code for Philly"
 status = "Bootstrapping"
 topics = [
+  "data analysis",
   "Energy",
   "Public Benefits",
-  "Public Policy",
-  "data analysis"
+  "Public Policy"
 ]
+
+[projects_list_extra]
+title = "Philadelphia Municipal Building Energy Benchmarking"

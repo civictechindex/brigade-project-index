@@ -1,4 +1,8 @@
 description = "Fortifying Families is an app for families/friends/advocates/supporters of incarcerated persons to assist the returning citizen in the reentry process."
 name = "fortifyingfamilies"
+organization_name = "Code for Philly"
 status = "Prototyping"
 topics = [ "Reentry-Network" ]
+
+[projects_list_extra]
+title = "FortifyingFamilies"

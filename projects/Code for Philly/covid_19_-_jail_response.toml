@@ -1,4 +1,9 @@
 description = "Currently, roughly three groups of people are being held in local jails:"
 name = "covid_19_-_jail_response"
+organization_name = "Code for Philly"
 status = "Prototyping"
 topics = [ "covid-19" ]
+
+[projects_list_extra]
+chat_channel = "covid19-jail-response"
+title = "Covid 19 - Jail Response"

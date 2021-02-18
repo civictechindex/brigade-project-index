@@ -1,7 +1,67 @@
 code_url = "https://github.com/openplans/myphillyrising/"
 description = "myPhillyRising"
-last_pushed_within = "over_a_year"
 link_url = "http://www.myphillyrising.com/"
 name = "myPhillyRising"
+organization_name = "Code for Philly"
 status = "Commenting"
 topics = [ "Knowledge" ]
+
+[github]
+archived = true
+created_at = "2013-06-03T17:08:24Z"
+default_branch = "master"
+description = "A mobile web app for the City of Philadelphia's PhillyRising Collaborative."
+disabled = false
+fork = false
+forks_within = 10
+full_name = "CityOfPhiladelphia/myphillyrising"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://myphillyrising.com"
+id = 10_459_797
+language = "JavaScript"
+name = "myphillyrising"
+network_count = 2
+node_id = "MDEwOlJlcG9zaXRvcnkxMDQ1OTc5Nw=="
+open_issues_within = 100
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+subscribers_count = 16
+temp_clone_token = ""
+topics = [ ]
+updated_within = "year"
+watchers_within = 10
+
+  [github.license]
+  key = "gpl-3.0"
+  name = "GNU General Public License v3.0"
+  node_id = "MDc6TGljZW5zZTk="
+  spdx_id = "GPL-3.0"
+
+  [github.organization]
+  gravatar_id = ""
+  id = 2_641_050
+  login = "CityOfPhiladelphia"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI2NDEwNTA="
+  site_admin = false
+  type = "Organization"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_641_050
+  login = "CityOfPhiladelphia"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI2NDEwNTA="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
+
+[projects_list_extra]
+title = "myPhillyRising"

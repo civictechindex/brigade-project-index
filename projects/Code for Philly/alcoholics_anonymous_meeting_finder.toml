@@ -1,4 +1,8 @@
 description = "Mobile app to find nearest upcoming alcoholics anonymous meetings"
 name = "alcoholics_anonymous_meeting_finder"
+organization_name = "Code for Philly"
 status = "Commenting"
 topics = [ "Health" ]
+
+[projects_list_extra]
+title = "Alcoholics Anonymous Meeting Finder"

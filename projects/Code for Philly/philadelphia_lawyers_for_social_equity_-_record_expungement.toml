@@ -1,14 +1,19 @@
 description = "Philadelphia Lawyers for Social Equity (PLSE) is a non-profit legal aid organization that focuses on helping people overcome the barriers they face as a result of criminal records."
 link_url = "http://plsephilly.org/"
 name = "philadelphia_lawyers_for_social_equity_-_record_expungement"
+organization_name = "Code for Philly"
 status = "Prototyping"
 topics = [
-  "Criminal Justice Reform",
-  "Social Justice",
-  "Social Good",
-  "economic development",
   "Community Development",
+  "Criminal Justice Reform",
+  "Criminal Records",
+  "economic development",
   "Expungement",
   "Pardon",
-  "Criminal Records"
+  "Social Good",
+  "Social Justice"
 ]
+
+[projects_list_extra]
+chat_channel = "plse-expungement"
+title = "Philadelphia Lawyers for Social Equity - Criminal Record Expungement & Pardons"

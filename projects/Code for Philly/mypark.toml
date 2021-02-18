@@ -2,5 +2,9 @@ code_url = "https://github.com/J-LAB"
 description = "This project was developed during the Philly Ecocamp 2014."
 link_url = "https://github.com/J-LAB/my_park"
 name = "mypark"
+organization_name = "Code for Philly"
 status = "Drifting"
 topics = [ "GIS" ]
+
+[projects_list_extra]
+title = "MyPark"

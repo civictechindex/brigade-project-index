@@ -1,6 +1,53 @@
 code_url = "https://github.com/amberheilman/StationDown"
 description = "Collaborate data on brown outs and fire incidents in Philadelphia. In the future the trip of the browned out station will be calculated and compared to the responding station in order to find out if the response time was affected by the station brown out."
-last_pushed_within = "over_a_year"
 name = "StationDown"
+organization_name = "Code for Philly"
 status = "Commenting"
 topics = [ "CivicEngagement", "Philly" ]
+
+[github]
+archived = false
+created_at = "2014-02-27T23:21:02Z"
+default_branch = "master"
+description = "Collaborating Brown-out data with fire incident locations"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "amberheilman/StationDown"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 17_268_515
+language = "Python"
+license = { }
+name = "StationDown"
+network_count = 2
+node_id = "MDEwOlJlcG9zaXRvcnkxNzI2ODUxNQ=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+subscribers_count = 3
+temp_clone_token = ""
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 3_092_064
+  login = "amberheilman"
+  node_id = "MDQ6VXNlcjMwOTIwNjQ="
+  site_admin = false
+  type = "User"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
+
+[projects_list_extra]
+title = "StationDown"

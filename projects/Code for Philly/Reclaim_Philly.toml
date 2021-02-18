@@ -2,4 +2,8 @@ code_url = "https://github.com/ReclaimPhilly"
 description = "A way to help revitalize, renew, and reclaim Philadelphia's abandoned properties."
 link_url = "http://reclaimphilly.org"
 name = "Reclaim_Philly"
+organization_name = "Code for Philly"
 status = "Drifting"
+
+[projects_list_extra]
+title = "Reclaim Philly"

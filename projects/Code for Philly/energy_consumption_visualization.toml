@@ -1,11 +1,145 @@
 code_url = "https://github.com/bayoadejare/energy_viz"
 description = "The goal of the energy consumption visualization tool is to enable interested stakeholders to be able to gain invaluable insight into their building energy usage and use it in making informed decisions about energy efficiency, investment in renewable energy, and overall sustainability."
-last_pushed_within = "over_a_year"
 name = "energy_consumption_visualization"
+organization_name = "Code for Philly"
 status = "Prototyping"
 topics = [
   "Energy Efficiency",
   "Mapping",
-  "Utilities",
-  "sustainability"
+  "sustainability",
+  "Utilities"
 ]
+
+[github]
+archived = false
+created_at = "2015-06-04T00:18:05Z"
+default_branch = "master"
+description = "Standard Energy Efficiency Data Platform"
+disabled = false
+fork = true
+forks_within = 0
+full_name = "AdebayoAdejare/energy_viz"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 36_837_909
+language = "Python"
+name = "energy_viz"
+network_count = 50
+node_id = "MDEwOlJlcG9zaXRvcnkzNjgzNzkwOQ=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+subscribers_count = 1
+temp_clone_token = ""
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "other"
+  name = "Other"
+  node_id = "MDc6TGljZW5zZTA="
+  spdx_id = "NOASSERTION"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 4_624_500
+  login = "AdebayoAdejare"
+  node_id = "MDQ6VXNlcjQ2MjQ1MDA="
+  site_admin = false
+  type = "User"
+
+  [github.parent]
+  archived = false
+  created_at = "2014-10-20T04:26:53Z"
+  default_branch = "develop"
+  description = "Standard Energy Efficiency Data (SEED) Platform™ is a web-based application that helps organizations easily manage data on the energy performance of large groups of buildings."
+  disabled = false
+  fork = false
+  forks_within = 100
+  full_name = "SEED-platform/seed"
+  has_downloads = true
+  has_issues = true
+  has_pages = false
+  has_projects = true
+  has_wiki = true
+  homepage = ""
+  id = 25_450_714
+  language = "Python"
+  name = "seed"
+  node_id = "MDEwOlJlcG9zaXRvcnkyNTQ1MDcxNA=="
+  open_issues_within = 1_000
+  private = false
+  pushed_within = "week"
+  stargazers_within = 100
+  topics = [ "buildings", "commercial", "energy" ]
+  updated_within = "week"
+  watchers_within = 100
+
+    [github.parent.license]
+    key = "other"
+    name = "Other"
+    node_id = "MDc6TGljZW5zZTA="
+    spdx_id = "NOASSERTION"
+
+    [github.parent.owner]
+    gravatar_id = ""
+    id = 7_445_100
+    login = "SEED-platform"
+    node_id = "MDEyOk9yZ2FuaXphdGlvbjc0NDUxMDA="
+    site_admin = false
+    type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
+
+  [github.source]
+  archived = false
+  created_at = "2014-10-20T04:26:53Z"
+  default_branch = "develop"
+  description = "Standard Energy Efficiency Data (SEED) Platform™ is a web-based application that helps organizations easily manage data on the energy performance of large groups of buildings."
+  disabled = false
+  fork = false
+  forks_within = 100
+  full_name = "SEED-platform/seed"
+  has_downloads = true
+  has_issues = true
+  has_pages = false
+  has_projects = true
+  has_wiki = true
+  homepage = ""
+  id = 25_450_714
+  language = "Python"
+  name = "seed"
+  node_id = "MDEwOlJlcG9zaXRvcnkyNTQ1MDcxNA=="
+  open_issues_within = 1_000
+  private = false
+  pushed_within = "week"
+  stargazers_within = 100
+  topics = [ "buildings", "commercial", "energy" ]
+  updated_within = "week"
+  watchers_within = 100
+
+    [github.source.license]
+    key = "other"
+    name = "Other"
+    node_id = "MDc6TGljZW5zZTA="
+    spdx_id = "NOASSERTION"
+
+    [github.source.owner]
+    gravatar_id = ""
+    id = 7_445_100
+    login = "SEED-platform"
+    node_id = "MDEyOk9yZ2FuaXphdGlvbjc0NDUxMDA="
+    site_admin = false
+    type = "Organization"
+
+[projects_list_extra]
+title = "Energy Consumption Visualization"

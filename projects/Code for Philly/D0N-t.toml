@@ -1,3 +1,7 @@
 description = "Note: May 28th, 2013 - Deleted Developer URL since it gave Error404 message."
 name = "D0N-t"
+organization_name = "Code for Philly"
 status = "Commenting"
+
+[projects_list_extra]
+title = "Nightlife Mobile"

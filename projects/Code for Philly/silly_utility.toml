@@ -2,11 +2,16 @@ code_url = "https://sillyutility.net/"
 description = "Compare utility bills with neighbors. https://sillyutility.net/"
 link_url = "https://sillyutility.net/"
 name = "silly_utility"
+organization_name = "Code for Philly"
 status = "Testing"
 topics = [
-  "local economy",
-  "Utilities",
+  "Anti-corporate",
   "Data",
   "Inequality Anti-corporation",
-  "Anti-corporate"
+  "local economy",
+  "Utilities"
 ]
+
+[projects_list_extra]
+chat_channel = "sillyutility"
+title = "Silly Utility"

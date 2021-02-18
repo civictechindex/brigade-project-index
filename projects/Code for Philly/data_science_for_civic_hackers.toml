@@ -1,6 +1,10 @@
 code_url = "https://github.com/tfgit/Data-Sci-for-Civic-Hackers"
 description = "IPython Notebooks on Data Science for Civic Hackers"
-flags = [ "github_404" ]
+github = false
 name = "data_science_for_civic_hackers"
+organization_name = "Code for Philly"
 status = "Hibernating"
 topics = [ "Data", "Education", "Hacking" ]
+
+[projects_list_extra]
+title = "Data Science for Civic Hackers"

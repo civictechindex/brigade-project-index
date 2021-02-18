@@ -1,4 +1,8 @@
 description = "A way for Philadelphians to discover stops/stop times close to their location, and to keep tabs on their favorite routes/stops. First on iOS, then perhaps on Droid. Then.. Windows Phone."
 name = "SEPTAstic"
+organization_name = "Code for Philly"
 status = "Commenting"
 topics = [ "Transit" ]
+
+[projects_list_extra]
+title = "NextStop"

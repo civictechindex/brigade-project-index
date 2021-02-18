@@ -1,10 +1,14 @@
 code_url = "https://github.com/theONEdotnet/Alexa-Skill-about-Philly.git"
-flags = [ "github_404" ]
+github = false
 name = "alexa-what-s_philly_status-an_alexa_smart_city_skill"
+organization_name = "Code for Philly"
 status = "Commenting"
 topics = [
-  "smart city",
+  "Amazon HQ2",
   "city statistics",
   "Civic Education",
-  "Amazon HQ2"
+  "smart city"
 ]
+
+[projects_list_extra]
+title = 'Designing a Voice User Interface for "Smart Cities"'

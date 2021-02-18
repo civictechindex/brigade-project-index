@@ -1,7 +1,63 @@
 code_url = "https://github.com/CodeForPhilly/home-repairs-for-seniors"
 description = "So, if you're a senior with limited resources and you're trying to grow old and stay in your home, there's not a lot of help. This project supports Mamie Young's vision: creating a list of handymen and handywomen who sign on to do home repairs for seniors, at low cost and pro-bono. This is an important civic need. A few organizations cover some blocks and neighborhoods in the city, but in general, it's hard to find someone to help you as you age. Step one: let's make Mamie Young a webapp with a database, so that home repair people can sign up, creating a list that people in need can refer to."
-last_pushed_within = "over_a_year"
 link_url = "https://codepen.io/MiriamP/pen/pQoVEQ"
 name = "mamie_young-s_finding_home_repair_help_for_philadelphia_seniors"
+organization_name = "Code for Philly"
 status = "Bootstrapping"
-topics = [ "Seniors", "help for homes", "repair people" ]
+topics = [ "help for homes", "repair people", "Seniors" ]
+
+[github]
+archived = false
+created_at = "2018-12-13T20:59:28Z"
+default_branch = "master"
+description = { }
+disabled = false
+fork = false
+forks_within = 0
+full_name = "CodeForPhilly/home-repairs-for-seniors"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 161_694_282
+language = { }
+license = { }
+name = "home-repairs-for-seniors"
+network_count = 0
+node_id = "MDEwOlJlcG9zaXRvcnkxNjE2OTQyODI="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+subscribers_count = 10
+temp_clone_token = ""
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.organization]
+  gravatar_id = ""
+  id = 1_451_716
+  login = "CodeForPhilly"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE0NTE3MTY="
+  site_admin = false
+  type = "Organization"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 1_451_716
+  login = "CodeForPhilly"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE0NTE3MTY="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
+
+[projects_list_extra]
+chat_channel = "homerepairforseniors"
+title = "Mamie Young's Finding Home Repair Help for Philadelphia Seniors"

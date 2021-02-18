@@ -1,6 +1,61 @@
 code_url = "https://github.com/CfABrigadePhiladelphia/PhillyDirections"
 description = "description"
-last_pushed_within = "over_a_year"
 name = "phillydirections"
+organization_name = "Code for Philly"
 status = "Commenting"
 topics = [ "Transit" ]
+
+[github]
+archived = false
+created_at = "2015-12-02T01:12:50Z"
+default_branch = "master"
+description = { }
+disabled = false
+fork = false
+forks_within = 0
+full_name = "CodeForPhilly/PhillyDirections"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 47_227_892
+language = "CSS"
+license = { }
+name = "PhillyDirections"
+network_count = 0
+node_id = "MDEwOlJlcG9zaXRvcnk0NzIyNzg5Mg=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+subscribers_count = 11
+temp_clone_token = ""
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.organization]
+  gravatar_id = ""
+  id = 1_451_716
+  login = "CodeForPhilly"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE0NTE3MTY="
+  site_admin = false
+  type = "Organization"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 1_451_716
+  login = "CodeForPhilly"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE0NTE3MTY="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
+
+[projects_list_extra]
+title = "PhillyDirections"

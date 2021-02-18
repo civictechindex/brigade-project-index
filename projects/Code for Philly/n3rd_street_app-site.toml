@@ -2,4 +2,9 @@ code_url = "http://n3rd.st"
 description = "Building an app & site for the N3rd Street community. To include, but not limited to: news feed, forum, events list, map of companies, jobs, and available real estate."
 link_url = "http://n3rd.st"
 name = "n3rd_street_app-site"
+organization_name = "Code for Philly"
 status = "Commenting"
+
+[projects_list_extra]
+chat_channel = "n3rdst"
+title = "N3rd Street App/Site"

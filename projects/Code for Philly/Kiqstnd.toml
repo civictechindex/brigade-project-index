@@ -1,6 +1,140 @@
 code_url = "https://github.com/csharpie/kiqstnd"
 description = "A bike parking locator that allows users to find Bike Parking published through Open Data Philly and allows for user input to display parking they've discovered. In addition, a map overlay of Bike Theft data would be able to be toggled to show theft by month and year."
-last_pushed_within = "over_a_year"
 name = "Kiqstnd"
+organization_name = "Code for Philly"
 status = "Bootstrapping"
 topics = [ "Bike", "Biking", "Crime Mapping", "Mapping", "Parking" ]
+
+[github]
+archived = false
+created_at = "2015-06-20T23:42:10Z"
+default_branch = "master"
+description = "Bike parking locator from Philly Transit Hackathon 2013"
+disabled = false
+fork = true
+forks_within = 0
+full_name = "csharpie/kiqstnd"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = false
+homepage = ""
+id = 37_789_954
+language = "JavaScript"
+name = "kiqstnd"
+network_count = 2
+node_id = "MDEwOlJlcG9zaXRvcnkzNzc4OTk1NA=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+subscribers_count = 1
+temp_clone_token = ""
+topics = [ ]
+updated_within = "year"
+watchers_within = 0
+
+  [github.license]
+  key = "other"
+  name = "Other"
+  node_id = "MDc6TGljZW5zZTA="
+  spdx_id = "NOASSERTION"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_009_242
+  login = "csharpie"
+  node_id = "MDQ6VXNlcjIwMDkyNDI="
+  site_admin = false
+  type = "User"
+
+  [github.parent]
+  archived = true
+  created_at = "2013-04-28T02:16:51Z"
+  default_branch = "master"
+  description = "A web application for cataloging vacant property in Philadelphia"
+  disabled = false
+  fork = false
+  forks_within = 10
+  full_name = "jeffmaher/reclaimphilly-web"
+  has_downloads = true
+  has_issues = true
+  has_pages = false
+  has_projects = true
+  has_wiki = false
+  homepage = ""
+  id = 9_724_063
+  language = "JavaScript"
+  name = "reclaimphilly-web"
+  node_id = "MDEwOlJlcG9zaXRvcnk5NzI0MDYz"
+  open_issues_within = 100
+  private = false
+  pushed_within = "over_a_year"
+  stargazers_within = 10
+  topics = [ ]
+  updated_within = "year"
+  watchers_within = 10
+
+    [github.parent.license]
+    key = "other"
+    name = "Other"
+    node_id = "MDc6TGljZW5zZTA="
+    spdx_id = "NOASSERTION"
+
+    [github.parent.owner]
+    gravatar_id = ""
+    id = 950_486
+    login = "jeffmaher"
+    node_id = "MDQ6VXNlcjk1MDQ4Ng=="
+    site_admin = false
+    type = "User"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
+
+  [github.source]
+  archived = true
+  created_at = "2013-04-28T02:16:51Z"
+  default_branch = "master"
+  description = "A web application for cataloging vacant property in Philadelphia"
+  disabled = false
+  fork = false
+  forks_within = 10
+  full_name = "jeffmaher/reclaimphilly-web"
+  has_downloads = true
+  has_issues = true
+  has_pages = false
+  has_projects = true
+  has_wiki = false
+  homepage = ""
+  id = 9_724_063
+  language = "JavaScript"
+  name = "reclaimphilly-web"
+  node_id = "MDEwOlJlcG9zaXRvcnk5NzI0MDYz"
+  open_issues_within = 100
+  private = false
+  pushed_within = "over_a_year"
+  stargazers_within = 10
+  topics = [ ]
+  updated_within = "year"
+  watchers_within = 10
+
+    [github.source.license]
+    key = "other"
+    name = "Other"
+    node_id = "MDc6TGljZW5zZTA="
+    spdx_id = "NOASSERTION"
+
+    [github.source.owner]
+    gravatar_id = ""
+    id = 950_486
+    login = "jeffmaher"
+    node_id = "MDQ6VXNlcjk1MDQ4Ng=="
+    site_admin = false
+    type = "User"
+
+[projects_list_extra]
+title = "Kiqstnd"

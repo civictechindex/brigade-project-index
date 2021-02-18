@@ -1,6 +1,58 @@
 code_url = "http://github.com/jebeck/PHLWork"
 description = "Apps for Philly Transit Hackathon!"
-last_pushed_within = "over_a_year"
 name = "Philly_Commute_Visualization"
+organization_name = "Code for Philly"
 status = "Commenting"
 topics = [ "Culture", "Cycling" ]
+
+[github]
+archived = true
+created_at = "2013-09-21T15:23:10Z"
+default_branch = "master"
+description = "Where Phila+ goes to work."
+disabled = false
+fork = false
+forks_within = 0
+full_name = "jebeck/PHLWork"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 12_997_250
+language = "JavaScript"
+name = "PHLWork"
+network_count = 0
+node_id = "MDEwOlJlcG9zaXRvcnkxMjk5NzI1MA=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+subscribers_count = 4
+temp_clone_token = ""
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "gpl-3.0"
+  name = "GNU General Public License v3.0"
+  node_id = "MDc6TGljZW5zZTk="
+  spdx_id = "GPL-3.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 1_588_547
+  login = "jebeck"
+  node_id = "MDQ6VXNlcjE1ODg1NDc="
+  site_admin = false
+  type = "User"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
+
+[projects_list_extra]
+title = "PHL Work (Philly Commute Visualization)"

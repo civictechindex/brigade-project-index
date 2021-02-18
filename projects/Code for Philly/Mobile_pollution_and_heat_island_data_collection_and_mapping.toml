@@ -1,6 +1,53 @@
 code_url = "https://github.com/pekasus/CAC-open-climate-tracker"
 description = "The Clean Air Council's Open Climate Tracker is an open-hardware, mobile sensor platform that is designed to gather data over large areas and connect that data to the internet through its built-in mobile mesh network. The goal of the project is to gather city-wide data pertaining to Climate Change and pollution and combine that data with with open databases such as OpenTreeMaps to quantify the effects of tree cover in the city over time. This will allow researchers to quantify the real economic and environmental value to each tree planted. The data will also be opened up to developers who want to include pollution and heat levels in real time to users, thereby helping people know when pollution levels are too high in an area to go outside."
-last_pushed_within = "over_a_year"
 link_url = "http://climatetracker.wordpress.com/"
 name = "Mobile_pollution_and_heat_island_data_collection_and_mapping"
+organization_name = "Code for Philly"
 status = "Commenting"
+
+[github]
+archived = false
+created_at = "2013-09-22T01:57:35Z"
+default_branch = "master"
+description = "Mobile pollution and heat island data collection and mapping"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "pekasus/CAC-open-climate-tracker"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 13_005_907
+language = "Arduino"
+license = { }
+name = "CAC-open-climate-tracker"
+network_count = 5
+node_id = "MDEwOlJlcG9zaXRvcnkxMzAwNTkwNw=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 100
+subscribers_count = 13
+temp_clone_token = ""
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 100
+
+  [github.owner]
+  gravatar_id = ""
+  id = 4_648_964
+  login = "pekasus"
+  node_id = "MDQ6VXNlcjQ2NDg5NjQ="
+  site_admin = false
+  type = "User"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
+
+[projects_list_extra]
+title = "Clean Air Council's Open Climate Tracker"

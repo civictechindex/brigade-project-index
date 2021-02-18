@@ -1,3 +1,7 @@
 description = '"Make sure to check in! Seriously, guys!" *-- Chris Alfano, every meetup*'
 name = "code_for_philly_check-in_system"
+organization_name = "Code for Philly"
 status = "Commenting"
+
+[projects_list_extra]
+title = "Code for Philly Check-in System"

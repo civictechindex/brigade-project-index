@@ -1,12 +1,16 @@
 code_url = "https://github.com/OSCAV"
 description = "cvRecognition"
 name = "o.s.c.a.v.-open_system_for_computer_accessible_vision"
+organization_name = "Code for Philly"
 status = "Testing"
 topics = [
+  "Accessiblilty",
+  "Automation",
   "Computer Vision",
   "Machine Learning",
-  "Automation",
-  "Accessiblilty",
-  "navigation",
-  "Mobile"
+  "Mobile",
+  "navigation"
 ]
+
+[projects_list_extra]
+title = "O.S.C.A.V. (Open System for Computer Accessible Vision)"

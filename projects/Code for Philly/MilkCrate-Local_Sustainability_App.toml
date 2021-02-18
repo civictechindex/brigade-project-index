@@ -2,4 +2,8 @@ code_url = "http://morganberman.weebly.com/milkcrate.html"
 description = "MilkCrate is the digital hub for Philadelphia's local sustainable economy. We have almost 2,000 local sustainable businesses and resources in our database. We plan to grow to every city in the country."
 link_url = "http://www.MilkCratePhilly.com"
 name = "MilkCrate-Local_Sustainability_App"
+organization_name = "Code for Philly"
 status = "Maintaining"
+
+[projects_list_extra]
+title = "MilkCrate- Local Sustainability App"

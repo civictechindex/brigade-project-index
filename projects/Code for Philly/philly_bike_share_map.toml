@@ -1,7 +1,11 @@
 code_url = "https://github.com/shalperin/philly-bike-share-android"
 description = "Philly Bike Share for Android"
-flags = [ "github_404" ]
+github = false
 link_url = "https://play.google.com/store/apps/details?id=com.samhalperin.phillybikesharemap"
 name = "philly_bike_share_map"
+organization_name = "Code for Philly"
 status = "Maintaining"
-topics = [ "bike sharing", "Bike", "bikes" ]
+topics = [ "Bike", "bikes", "bike sharing" ]
+
+[projects_list_extra]
+title = "Philly Bike Share Map"

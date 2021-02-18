@@ -1,4 +1,8 @@
 link_url = "https://github.com/jaqms/cand-comp"
 name = "camparison"
+organization_name = "Code for Philly"
 status = "Testing"
-topics = [ "Elections", "Democracy" ]
+topics = [ "Democracy", "Elections" ]
+
+[projects_list_extra]
+title = "Camparison"

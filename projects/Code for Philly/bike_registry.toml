@@ -1,4 +1,8 @@
 description = "A free city-wide online bike registry."
 name = "bike_registry"
+organization_name = "Code for Philly"
 status = "Commenting"
 topics = [ "Cycling" ]
+
+[projects_list_extra]
+title = "Bike Registry"

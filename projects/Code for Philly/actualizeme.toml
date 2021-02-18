@@ -1,5 +1,9 @@
 description = "A Dashboard that facilitates the exploration process of self through project based learning, challenge fulfillment, research based initiatives, and young professional service learning opportunities. - Primarily For High School Students"
 link_url = "http://actualizephilly.wordpress.com"
 name = "actualizeme"
+organization_name = "Code for Philly"
 status = "Commenting"
 topics = [ "Education" ]
+
+[projects_list_extra]
+title = "Actualize.Me"

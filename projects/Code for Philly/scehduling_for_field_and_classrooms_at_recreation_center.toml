@@ -1,13 +1,17 @@
 code_url = "http://www.phila.gov/parksandrecreation/findafacility/RecCenterDetails.aspx?ID=837"
 link_url = "https://www.facebook.com/Starr-Garden-Neighbors-and-Friends-161282187289928/"
 name = "scehduling_for_field_and_classrooms_at_recreation_center"
+organization_name = "Code for Philly"
 status = "Commenting"
 topics = [
-  "recreation",
-  "Community",
-  "Parksandrecreation",
-  "Sports",
   "Art",
+  "Community",
   "Education",
-  "public"
+  "Parksandrecreation",
+  "public",
+  "recreation",
+  "Sports"
 ]
+
+[projects_list_extra]
+title = "Scheduling for Field and classrooms at Recreation Center"

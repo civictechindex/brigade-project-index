@@ -1,4 +1,8 @@
 code_url = "http://codiqa.com/preview/58871224"
 link_url = "http://codiqa.com/preview/58871224"
 name = "konext"
+organization_name = "Code for Philly"
 status = "Commenting"
+
+[projects_list_extra]
+title = "Konext"

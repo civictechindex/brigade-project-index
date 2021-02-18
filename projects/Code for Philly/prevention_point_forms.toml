@@ -1,5 +1,61 @@
 code_url = "https://github.com/CodeForPhilly/prevpoint-forms"
 description = "Whoops--this project is a duplicate. See [Computer Vision for Prevention Point Forms](https://codeforphilly.org/projects/computer_vision_for_prevention_point_forms)"
-last_pushed_within = "year"
 name = "prevention_point_forms"
+organization_name = "Code for Philly"
 status = "Hibernating"
+
+[github]
+archived = false
+created_at = "2020-03-12T20:07:58Z"
+default_branch = "master"
+description = "Project to import data from prevention point's narcan forms"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "CodeForPhilly/prevpoint-forms"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 246_921_745
+language = "Jupyter Notebook"
+license = { }
+name = "prevpoint-forms"
+network_count = 2
+node_id = "MDEwOlJlcG9zaXRvcnkyNDY5MjE3NDU="
+open_issues_within = 10
+private = false
+pushed_within = "year"
+stargazers_within = 0
+subscribers_count = 10
+temp_clone_token = ""
+topics = [ ]
+updated_within = "year"
+watchers_within = 0
+
+  [github.organization]
+  gravatar_id = ""
+  id = 1_451_716
+  login = "CodeForPhilly"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE0NTE3MTY="
+  site_admin = false
+  type = "Organization"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 1_451_716
+  login = "CodeForPhilly"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE0NTE3MTY="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
+
+[projects_list_extra]
+chat_channel = "prevpoint_forms"
+title = "Prevention Point Forms"

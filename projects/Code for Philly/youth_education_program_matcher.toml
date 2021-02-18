@@ -1,3 +1,8 @@
 name = "youth_education_program_matcher"
+organization_name = "Code for Philly"
 status = "Maintaining"
 topics = [ "Education" ]
+
+[projects_list_extra]
+chat_channel = "youth_work_prgm_match"
+title = "Youth Education Program Matcher"

@@ -1,7 +1,54 @@
 code_url = "https://github.com/jmealo/SafestWay"
 description = "Find the safest way to travel from your house to school based on crime, traffic and safety data."
-last_pushed_within = "over_a_year"
 link_url = "http://safestway.org"
 name = "Safest_Way"
+organization_name = "Code for Philly"
 status = "Commenting"
 topics = [ "Education", "GIS" ]
+
+[github]
+archived = false
+created_at = "2013-02-23T18:38:46Z"
+default_branch = "master"
+description = "SafestWay is a mobile app that provides safe walking routes based on crime data."
+disabled = false
+fork = false
+forks_within = 10
+full_name = "jmealo/SafestWay"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 8_379_901
+language = "JavaScript"
+license = { }
+name = "SafestWay"
+network_count = 2
+node_id = "MDEwOlJlcG9zaXRvcnk4Mzc5OTAx"
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+subscribers_count = 2
+temp_clone_token = ""
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 1_066_536
+  login = "jmealo"
+  node_id = "MDQ6VXNlcjEwNjY1MzY="
+  site_admin = false
+  type = "User"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
+
+[projects_list_extra]
+title = "Safest Way"

@@ -2,5 +2,9 @@ code_url = "http://healthdata.phillyopen.org"
 description = "We're currently working on a public health repository over at http://codeforphilly.org/projects/Public_Health_Data_Repository - visit THERE for updates, not here."
 link_url = "http://healthdata.phillyopen.org"
 name = "HIV_Philly_2-0"
+organization_name = "Code for Philly"
 status = "Commenting"
 topics = [ "Health" ]
+
+[projects_list_extra]
+title = "Philly HealthData"

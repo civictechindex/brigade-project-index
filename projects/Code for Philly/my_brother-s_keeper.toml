@@ -1,6 +1,67 @@
 code_url = "https://github.com/mflamb/my-brothers-keeper"
 description = "My Brother's Keeper was conceived in response to the problem of lopsided inventory levels at donation centers serving Philadelphia's homeless. These centers often have an abundance of a few types of donated goods, while many others are in short supply. This web application will enable such donation centers to inform the community of what items they need by simply selecting the items from a list of their general inventory. If greater specificity is needed, they can add comments for any item."
-last_pushed_within = "over_a_year"
 name = "my_brother-s_keeper"
+organization_name = "Code for Philly"
 status = "Prototyping"
 topics = [ "Donation", "Homelessness", "Mapping" ]
+
+[github]
+archived = false
+created_at = "2018-04-28T17:32:39Z"
+default_branch = "master"
+description = { }
+disabled = false
+fork = false
+forks_within = 0
+full_name = "my-brothers-keeper/my-brothers-keeper"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 131_430_452
+language = "Ruby"
+name = "my-brothers-keeper"
+network_count = 0
+node_id = "MDEwOlJlcG9zaXRvcnkxMzE0MzA0NTI="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+subscribers_count = 4
+temp_clone_token = ""
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.organization]
+  gravatar_id = ""
+  id = 38_818_633
+  login = "my-brothers-keeper"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM4ODE4NjMz"
+  site_admin = false
+  type = "Organization"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 38_818_633
+  login = "my-brothers-keeper"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM4ODE4NjMz"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
+
+[projects_list_extra]
+chat_channel = "my-brothers-keeper"
+title = "My Brother's Keeper"

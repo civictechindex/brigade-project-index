@@ -1,7 +1,67 @@
 code_url = "https://github.com/CfABrigadePhiladelphia/schoolbudget.phl.io"
 description = "A web-based visualization of the budget information released on the School District of Philadelphia's [Open Data Initiative](http://webgui.phila.k12.pa.us/offices/o/open-data-initiative) page."
-last_pushed_within = "over_a_year"
 link_url = "http://schoolbudget.phl.io"
 name = "sdp_online_budget_visualization"
+organization_name = "Code for Philly"
 status = "Maintaining"
 topics = [ "Budgets", "Education" ]
+
+[github]
+archived = false
+created_at = "2014-05-12T18:19:57Z"
+default_branch = "master"
+description = { }
+disabled = false
+fork = false
+forks_within = 100
+full_name = "CodeForPhilly/schoolbudget.phl.io"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 19_709_923
+language = "JavaScript"
+name = "schoolbudget.phl.io"
+network_count = 22
+node_id = "MDEwOlJlcG9zaXRvcnkxOTcwOTkyMw=="
+open_issues_within = 100
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 100
+subscribers_count = 12
+temp_clone_token = ""
+topics = [ ]
+updated_within = "year"
+watchers_within = 100
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.organization]
+  gravatar_id = ""
+  id = 1_451_716
+  login = "CodeForPhilly"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE0NTE3MTY="
+  site_admin = false
+  type = "Organization"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 1_451_716
+  login = "CodeForPhilly"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE0NTE3MTY="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
+
+[projects_list_extra]
+title = "SDP Online Budget Visualization"

@@ -2,5 +2,9 @@ code_url = "https://github.com/sheltr"
 description = "The Problem:"
 link_url = "http://sheltr.org"
 name = "Suppr-The_App_Formerly_Known_As_Sheltr"
+organization_name = "Code for Philly"
 status = "Commenting"
 topics = [ "Health" ]
+
+[projects_list_extra]
+title = "sheltr - connecting people in need to basic needs"

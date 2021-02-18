@@ -1,6 +1,53 @@
 code_url = "https://github.com/mheadd/schooldata-api"
 description = "A simple LAMP-based REST API for Philadelphia School District data."
-last_pushed_within = "over_a_year"
 name = "Philadelphia_School_District_API"
+organization_name = "Code for Philly"
 status = "Hibernating"
 topics = [ "Education" ]
+
+[github]
+archived = false
+created_at = "2013-02-24T20:38:27Z"
+default_branch = "master"
+description = "A simple REST API for Philadelphia School District Data"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "mheadd/schooldata-api"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 8_396_357
+language = "PHP"
+license = { }
+name = "schooldata-api"
+network_count = 4
+node_id = "MDEwOlJlcG9zaXRvcnk4Mzk2MzU3"
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+subscribers_count = 5
+temp_clone_token = ""
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 58_419
+  login = "mheadd"
+  node_id = "MDQ6VXNlcjU4NDE5"
+  site_admin = false
+  type = "User"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
+
+[projects_list_extra]
+title = "Philadelphia School District API"

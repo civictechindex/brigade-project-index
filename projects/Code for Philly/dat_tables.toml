@@ -1,8 +1,8 @@
 code_url = "https://github.com/CodeForPhilly/decentralized-data"
 description = "We are creating an open-source adapter to allow [Noms](https://github.com/attic-labs/noms) to store its data on [IPFS](http://ipfs.io).  This trio of technologies will provide top-to-bottom support for distributed version control of tabular data."
-last_pushed_within = "over_a_year"
 link_url = "https://codeforphilly.github.io/decentralized-data/"
 name = "dat_tables"
+organization_name = "Code for Philly"
 status = "Bootstrapping"
 topics = [
   "Data Science",
@@ -13,3 +13,64 @@ topics = [
   "programming",
   "science"
 ]
+
+[github]
+archived = false
+created_at = "2016-09-06T22:43:03Z"
+default_branch = "gh-pages"
+description = "A series of workshops on distributed version control for data."
+disabled = false
+fork = false
+forks_within = 10
+full_name = "CodeForPhilly/decentralized-data"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "https://codeforphilly.github.io/decentralized-data/"
+id = 67_552_175
+language = "CSS"
+name = "decentralized-data"
+network_count = 2
+node_id = "MDEwOlJlcG9zaXRvcnk2NzU1MjE3NQ=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+subscribers_count = 12
+temp_clone_token = ""
+topics = [ ]
+updated_within = "year"
+watchers_within = 10
+
+  [github.license]
+  key = "other"
+  name = "Other"
+  node_id = "MDc6TGljZW5zZTA="
+  spdx_id = "NOASSERTION"
+
+  [github.organization]
+  gravatar_id = ""
+  id = 1_451_716
+  login = "CodeForPhilly"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE0NTE3MTY="
+  site_admin = false
+  type = "Organization"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 1_451_716
+  login = "CodeForPhilly"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE0NTE3MTY="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
+
+[projects_list_extra]
+chat_channel = "dat_jawn"
+title = "Dat Jawn"

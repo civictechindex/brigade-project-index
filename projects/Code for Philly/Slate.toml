@@ -1,5 +1,9 @@
 code_url = "https://github.com/SlateFoundation"
 link_url = "http://slate.is"
 name = "Slate"
+organization_name = "Code for Philly"
 status = "Maintaining"
 topics = [ "Education" ]
+
+[projects_list_extra]
+title = "Slate"

@@ -1,3 +1,7 @@
 name = "check_yr_reps"
+organization_name = "Code for Philly"
 status = "Commenting"
-topics = [ "news", "Politics", "Elections" ]
+topics = [ "Elections", "news", "Politics" ]
+
+[projects_list_extra]
+title = "Check Yr Reps"

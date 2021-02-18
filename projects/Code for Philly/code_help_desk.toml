@@ -1,4 +1,8 @@
 description = "This is the help desk table for questions that you may not have awnsers to, headed by patrick and karin we will try to help you with you're codeing probles"
 name = "code_help_desk"
+organization_name = "Code for Philly"
 status = "Maintaining"
-topics = [ "Help", "Coding", "Design", "programming", "Education" ]
+topics = [ "Coding", "Design", "Education", "Help", "programming" ]
+
+[projects_list_extra]
+title = "Code Help Desk"

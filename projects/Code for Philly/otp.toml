@@ -1,7 +1,140 @@
 code_url = "https://github.com/CfABrigadePhiladelphia/OpenTripPlanner"
 description = "A deployment of the OpenTripPlanner multi-modal trip planning tool. Loaded with transit data for agencies in PA, NJ, NY, CT, and DE.  Useful for trip planning and transit accessibility analysis."
-last_pushed_within = "over_a_year"
 link_url = "http://opentrips.phl.io/"
 name = "otp"
+organization_name = "Code for Philly"
 status = "Maintaining"
-topics = [ "Biking", "Cycling", "Transit", "Transport", "bicyc" ]
+topics = [ "bicyc", "Biking", "Cycling", "Transit", "Transport" ]
+
+[github]
+archived = false
+created_at = "2013-12-04T00:53:11Z"
+default_branch = "feature/codeforphilly"
+description = "An open source multi-modal trip planner"
+disabled = false
+fork = true
+forks_within = 10
+full_name = "CodeForPhilly/OpenTripPlanner"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://www.opentripplanner.org"
+id = 14_910_243
+language = "Java"
+license = { }
+name = "OpenTripPlanner"
+network_count = 860
+node_id = "MDEwOlJlcG9zaXRvcnkxNDkxMDI0Mw=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+subscribers_count = 9
+temp_clone_token = ""
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.organization]
+  gravatar_id = ""
+  id = 1_451_716
+  login = "CodeForPhilly"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE0NTE3MTY="
+  site_admin = false
+  type = "Organization"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 1_451_716
+  login = "CodeForPhilly"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE0NTE3MTY="
+  site_admin = false
+  type = "Organization"
+
+  [github.parent]
+  archived = false
+  created_at = "2013-04-30T23:13:32Z"
+  default_branch = "master"
+  description = "An open source multi-modal trip planner"
+  disabled = false
+  fork = true
+  forks_within = 10
+  full_name = "flibbertigibbet/OpenTripPlanner"
+  has_downloads = true
+  has_issues = false
+  has_pages = false
+  has_projects = true
+  has_wiki = true
+  homepage = "http://www.opentripplanner.org"
+  id = 9_782_068
+  language = "Java"
+  license = { }
+  name = "OpenTripPlanner"
+  node_id = "MDEwOlJlcG9zaXRvcnk5NzgyMDY4"
+  open_issues_within = 0
+  private = false
+  pushed_within = "over_a_year"
+  stargazers_within = 10
+  topics = [ ]
+  updated_within = "over_a_year"
+  watchers_within = 10
+
+    [github.parent.owner]
+    gravatar_id = ""
+    id = 960_264
+    login = "flibbertigibbet"
+    node_id = "MDQ6VXNlcjk2MDI2NA=="
+    site_admin = false
+    type = "User"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
+
+  [github.source]
+  archived = false
+  created_at = "2011-07-18T16:15:38Z"
+  default_branch = "dev-2.x"
+  description = "An open source multi-modal trip planner"
+  disabled = false
+  fork = false
+  forks_within = 1_000
+  full_name = "opentripplanner/OpenTripPlanner"
+  has_downloads = true
+  has_issues = true
+  has_pages = true
+  has_projects = true
+  has_wiki = true
+  homepage = "http://www.opentripplanner.org"
+  id = 2_067_253
+  language = "Java"
+  name = "OpenTripPlanner"
+  node_id = "MDEwOlJlcG9zaXRvcnkyMDY3MjUz"
+  open_issues_within = 1_000
+  private = false
+  pushed_within = "week"
+  stargazers_within = "over_1000"
+  topics = [ ]
+  updated_within = "week"
+  watchers_within = "over_1000"
+
+    [github.source.license]
+    key = "other"
+    name = "Other"
+    node_id = "MDc6TGljZW5zZTA="
+    spdx_id = "NOASSERTION"
+
+    [github.source.owner]
+    gravatar_id = ""
+    id = 3_007_066
+    login = "opentripplanner"
+    node_id = "MDEyOk9yZ2FuaXphdGlvbjMwMDcwNjY="
+    site_admin = false
+    type = "Organization"
+
+[projects_list_extra]
+chat_channel = "opentripplanner"
+title = "OpenTripPlanner"

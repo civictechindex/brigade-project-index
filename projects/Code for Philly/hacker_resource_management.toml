@@ -1,5 +1,132 @@
 code_url = "https://github.com/sophia-collaborations/hacker-resources"
 description = "The purpose of the Hacker Resource Management project is to come up with a solution to a problem faced by Code for Philly and many other Code for America groups -- the difficulty faced by many potential hackers (especially newcomers) in connecting with a project who's need matches their skills."
-last_pushed_within = "over_a_year"
 name = "hacker_resource_management"
+organization_name = "Code for Philly"
 status = "Commenting"
+
+[github]
+archived = false
+created_at = "2015-04-08T01:45:12Z"
+default_branch = "master"
+description = "Manual for Hacker Resource Management"
+disabled = false
+fork = true
+forks_within = 10
+full_name = "sophia-collaborations/hacker-resources"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 33_578_334
+language = { }
+license = { }
+name = "hacker-resources"
+network_count = 2
+node_id = "MDEwOlJlcG9zaXRvcnkzMzU3ODMzNA=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+subscribers_count = 1
+temp_clone_token = ""
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.organization]
+  gravatar_id = ""
+  id = 11_845_333
+  login = "sophia-collaborations"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjExODQ1MzMz"
+  site_admin = false
+  type = "Organization"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 11_845_333
+  login = "sophia-collaborations"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjExODQ1MzMz"
+  site_admin = false
+  type = "Organization"
+
+  [github.parent]
+  archived = false
+  created_at = "2015-04-08T01:39:07Z"
+  default_branch = "master"
+  description = "Manual for Hacker Resource Management"
+  disabled = false
+  fork = false
+  forks_within = 10
+  full_name = "sophiaphillyqueen/hacker-resources"
+  has_downloads = true
+  has_issues = true
+  has_pages = false
+  has_projects = true
+  has_wiki = true
+  homepage = { }
+  id = 33_578_096
+  language = "Shell"
+  license = { }
+  name = "hacker-resources"
+  node_id = "MDEwOlJlcG9zaXRvcnkzMzU3ODA5Ng=="
+  open_issues_within = 0
+  private = false
+  pushed_within = "over_a_year"
+  stargazers_within = 0
+  topics = [ ]
+  updated_within = "over_a_year"
+  watchers_within = 0
+
+    [github.parent.owner]
+    gravatar_id = ""
+    id = 8_315_206
+    login = "sophiaphillyqueen"
+    node_id = "MDQ6VXNlcjgzMTUyMDY="
+    site_admin = false
+    type = "User"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
+
+  [github.source]
+  archived = false
+  created_at = "2015-04-08T01:39:07Z"
+  default_branch = "master"
+  description = "Manual for Hacker Resource Management"
+  disabled = false
+  fork = false
+  forks_within = 10
+  full_name = "sophiaphillyqueen/hacker-resources"
+  has_downloads = true
+  has_issues = true
+  has_pages = false
+  has_projects = true
+  has_wiki = true
+  homepage = { }
+  id = 33_578_096
+  language = "Shell"
+  license = { }
+  name = "hacker-resources"
+  node_id = "MDEwOlJlcG9zaXRvcnkzMzU3ODA5Ng=="
+  open_issues_within = 0
+  private = false
+  pushed_within = "over_a_year"
+  stargazers_within = 0
+  topics = [ ]
+  updated_within = "over_a_year"
+  watchers_within = 0
+
+    [github.source.owner]
+    gravatar_id = ""
+    id = 8_315_206
+    login = "sophiaphillyqueen"
+    node_id = "MDQ6VXNlcjgzMTUyMDY="
+    site_admin = false
+    type = "User"
+
+[projects_list_extra]
+title = "Hacker Resource Management"

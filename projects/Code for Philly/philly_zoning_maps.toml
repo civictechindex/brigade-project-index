@@ -1,6 +1,59 @@
 code_url = "https://github.com/ESultanik/ZoningMaps"
 description = "The goal of this project is to map and analyze Philadelphia zoning, particularly the impact of the reforms that were implemented in 2012."
-last_pushed_within = "over_a_year"
 name = "philly_zoning_maps"
+organization_name = "Code for Philly"
 status = "Testing"
-topics = [ "Mapping", "Zoning", "data analysis" ]
+topics = [ "data analysis", "Mapping", "Zoning" ]
+
+[github]
+archived = false
+created_at = "2017-06-29T17:05:03Z"
+default_branch = "master"
+description = "Code to merge and analyze zoning district maps."
+disabled = false
+fork = false
+forks_within = 10
+full_name = "ESultanik/ZoningMaps"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 95_800_401
+language = "Python"
+name = "ZoningMaps"
+network_count = 1
+node_id = "MDEwOlJlcG9zaXRvcnk5NTgwMDQwMQ=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+subscribers_count = 1
+temp_clone_token = ""
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "gpl-3.0"
+  name = "GNU General Public License v3.0"
+  node_id = "MDc6TGljZW5zZTk="
+  spdx_id = "GPL-3.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_444_465
+  login = "ESultanik"
+  node_id = "MDQ6VXNlcjY0NDQ0NjU="
+  site_admin = false
+  type = "User"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
+
+[projects_list_extra]
+chat_channel = "zoning"
+title = "Philly Zoning Maps"

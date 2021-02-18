@@ -1,7 +1,12 @@
 code_url = "https://github.com/hbthen3rd/foodr"
 description = "Gratis is a platform that connects restaurants that have surplus food with shelters to provide a solution to the hunger problem in Philadelphia."
-flags = [ "github_404" ]
+github = false
 link_url = "https://devpost.com/software/gratis"
 name = "gratis"
+organization_name = "Code for Philly"
 status = "Prototyping"
-topics = [ "Hunger", "Food Insecurity", "Food", "food donation" ]
+topics = [ "Food", "food donation", "Food Insecurity", "Hunger" ]
+
+[projects_list_extra]
+chat_channel = "gratis"
+title = "Gratis"

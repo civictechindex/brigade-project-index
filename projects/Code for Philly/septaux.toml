@@ -2,5 +2,10 @@ code_url = "https://airtable.com/tblOSJaqtGXQ8sSvo/viwXjuQGzhgcDOkqj?blocks=hide
 description = "The Southeastern Pennsylvania Transportation Authority (SEPTA) is a regional public transportation authority that operates bus, rapid transit, commuter rail, light rail, and electric trolleybus services for nearly 4 million people in five counties in and around Philadelphia, Pennsylvania. It also manages projects that maintain, replace and expand its infrastructure, facilities and vehicles."
 link_url = "https://medium.com/@kli93/septa-lets-get-there-faster-together-c553f5fd5b0e"
 name = "septaux"
+organization_name = "Code for Philly"
 status = "Bootstrapping"
-topics = [ "Transit", "SEPTA" ]
+topics = [ "SEPTA", "Transit" ]
+
+[projects_list_extra]
+chat_channel = "septaux"
+title = "SeptaUX"

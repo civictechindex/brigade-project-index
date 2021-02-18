@@ -1,6 +1,53 @@
 code_url = "https://github.com/crsmyz/pa-hospital-finder"
 description = "This project is a simple react/typescript app that takes publicly available hospital data along with a users geolocation and finds the nearest hospital location to the user and presents hospital information and directions in a card format to the user. WARNING geolocation in web browsers can be fairly in accurate and this app is meant for demo purposes only!"
-last_pushed_within = "over_a_year"
 name = "ux_designer_and_developer"
+organization_name = "Code for Philly"
 status = "Prototyping"
 topics = [ "Health", "Public Heath" ]
+
+[github]
+archived = false
+created_at = "2019-06-23T20:50:18Z"
+default_branch = "master"
+description = "Modular hospital finder app. Uses hospital data lists and matches user with the closest hospital. Currently implemented for PA hospitals."
+disabled = false
+fork = false
+forks_within = 0
+full_name = "crsmyz/hospital-finder"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "https://crsmyz.github.io/pa-hospital-finder/"
+id = 193_394_219
+language = "TypeScript"
+license = { }
+name = "hospital-finder"
+network_count = 0
+node_id = "MDEwOlJlcG9zaXRvcnkxOTMzOTQyMTk="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+subscribers_count = 0
+temp_clone_token = ""
+topics = [ ]
+updated_within = "week"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_206_785
+  login = "crsmyz"
+  node_id = "MDQ6VXNlcjYyMDY3ODU="
+  site_admin = false
+  type = "User"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
+
+[projects_list_extra]
+title = "PA Hospital Finder"

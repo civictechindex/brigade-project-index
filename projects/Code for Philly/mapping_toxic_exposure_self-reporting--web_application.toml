@@ -1,4 +1,8 @@
 code_url = "https://github.com/devsterr?tab=repositories"
 name = "mapping_toxic_exposure_self-reporting--web_application"
+organization_name = "Code for Philly"
 status = "Commenting"
-topics = [ "Environment", "Social Justice", "GIS" ]
+topics = [ "Environment", "GIS", "Social Justice" ]
+
+[projects_list_extra]
+title = "Mapping Toxic Exposure Self-Reporting: Web Application"

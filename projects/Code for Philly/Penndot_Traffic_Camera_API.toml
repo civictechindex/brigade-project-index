@@ -1,6 +1,58 @@
 code_url = "https://github.com/chap19150/Penndot-Traffic-Cameras-API"
 description = "Penndot-Traffic-Cameras-API"
-last_pushed_within = "over_a_year"
 link_url = "http://7677mobile.com/PhillyTrafficCameras/production/"
 name = "Penndot_Traffic_Camera_API"
+organization_name = "Code for Philly"
 status = "Commenting"
+
+[github]
+archived = false
+created_at = "2013-09-21T17:14:03Z"
+default_branch = "master"
+description = { }
+disabled = false
+fork = false
+forks_within = 10
+full_name = "chap19150/Penndot-Traffic-Cameras-API"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 12_998_963
+language = { }
+name = "Penndot-Traffic-Cameras-API"
+network_count = 1
+node_id = "MDEwOlJlcG9zaXRvcnkxMjk5ODk2Mw=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+subscribers_count = 3
+temp_clone_token = ""
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "apache-2.0"
+  name = "Apache License 2.0"
+  node_id = "MDc6TGljZW5zZTI="
+  spdx_id = "Apache-2.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 288_701
+  login = "chap19150"
+  node_id = "MDQ6VXNlcjI4ODcwMQ=="
+  site_admin = false
+  type = "User"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
+
+[projects_list_extra]
+title = "Penndot Traffic Camera API"

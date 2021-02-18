@@ -1,5 +1,9 @@
 code_url = "https://github.com/SolarSunflowerProject"
 description = "The GreenSTEM Network is an open source, Arduino-powered urban sensor network developed by a group of civic-minded Philly hackers in collaboration with the Philadelphia Water Department. It collects data from the urban environment (such as sunlight levels and soil moisture), and can be expanded as new sensors are developed."
 name = "Solar_Sunflower"
+organization_name = "Code for Philly"
 status = "Maintaining"
-topics = [ "Watershed", "Education" ]
+topics = [ "Education", "Watershed" ]
+
+[projects_list_extra]
+title = "GreenSTEM Network"

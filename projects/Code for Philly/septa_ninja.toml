@@ -1,7 +1,141 @@
 code_url = "https://github.com/patmaiden/septa-ninja"
 description = "Get set up - see our [README page](https://github.com/patmaiden/septa-ninja/blob/master/README.md)"
-last_pushed_within = "over_a_year"
 link_url = "http://www.septa.ninja"
 name = "septa_ninja"
+organization_name = "Code for Philly"
 status = "Testing"
 topics = [ "Accessibility", "Crowdsourcing", "SEPTA", "Transit" ]
+
+[github]
+archived = false
+created_at = "2015-06-06T15:59:00Z"
+default_branch = "master"
+description = "SEPTA Ninja!"
+disabled = false
+fork = true
+forks_within = 10
+full_name = "patmaiden/septa-ninja"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://septa.ninja"
+id = 36_985_963
+language = "JavaScript"
+name = "septa-ninja"
+network_count = 47
+node_id = "MDEwOlJlcG9zaXRvcnkzNjk4NTk2Mw=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+subscribers_count = 14
+temp_clone_token = ""
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 1_330_856
+  login = "patmaiden"
+  node_id = "MDQ6VXNlcjEzMzA4NTY="
+  site_admin = false
+  type = "User"
+
+  [github.parent]
+  archived = false
+  created_at = "2015-02-21T19:42:56Z"
+  default_branch = "master"
+  description = "MBTA Ninja!"
+  disabled = false
+  fork = false
+  forks_within = 100
+  full_name = "codeforboston/mbta-ninja"
+  has_downloads = true
+  has_issues = true
+  has_pages = false
+  has_projects = true
+  has_wiki = true
+  homepage = "http://mbta.ninja"
+  id = 31_138_203
+  language = "JavaScript"
+  name = "mbta-ninja"
+  node_id = "MDEwOlJlcG9zaXRvcnkzMTEzODIwMw=="
+  open_issues_within = 100
+  private = false
+  pushed_within = "over_a_year"
+  stargazers_within = 100
+  topics = [ ]
+  updated_within = "year"
+  watchers_within = 100
+
+    [github.parent.license]
+    key = "mit"
+    name = "MIT License"
+    node_id = "MDc6TGljZW5zZTEz"
+    spdx_id = "MIT"
+
+    [github.parent.owner]
+    gravatar_id = ""
+    id = 2_533_182
+    login = "codeforboston"
+    node_id = "MDEyOk9yZ2FuaXphdGlvbjI1MzMxODI="
+    site_admin = false
+    type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
+
+  [github.source]
+  archived = false
+  created_at = "2015-02-21T19:42:56Z"
+  default_branch = "master"
+  description = "MBTA Ninja!"
+  disabled = false
+  fork = false
+  forks_within = 100
+  full_name = "codeforboston/mbta-ninja"
+  has_downloads = true
+  has_issues = true
+  has_pages = false
+  has_projects = true
+  has_wiki = true
+  homepage = "http://mbta.ninja"
+  id = 31_138_203
+  language = "JavaScript"
+  name = "mbta-ninja"
+  node_id = "MDEwOlJlcG9zaXRvcnkzMTEzODIwMw=="
+  open_issues_within = 100
+  private = false
+  pushed_within = "over_a_year"
+  stargazers_within = 100
+  topics = [ ]
+  updated_within = "year"
+  watchers_within = 100
+
+    [github.source.license]
+    key = "mit"
+    name = "MIT License"
+    node_id = "MDc6TGljZW5zZTEz"
+    spdx_id = "MIT"
+
+    [github.source.owner]
+    gravatar_id = ""
+    id = 2_533_182
+    login = "codeforboston"
+    node_id = "MDEyOk9yZ2FuaXphdGlvbjI1MzMxODI="
+    site_admin = false
+    type = "Organization"
+
+[projects_list_extra]
+title = "Septa Ninja"

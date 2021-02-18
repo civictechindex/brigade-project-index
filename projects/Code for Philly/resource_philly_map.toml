@@ -1,14 +1,62 @@
 code_url = "https://github.com/mattschaff/phillyresourcemap"
 description = "Resource Philly Map (RPM) aims to make accessing critical services across the city quick and easy for people in need."
-last_pushed_within = "month"
 link_url = "https://dev-link-love.pantheonsite.io"
 name = "resource_philly_map"
+organization_name = "Code for Philly"
 status = "Prototyping"
 topics = [
   "Food Insecurity",
   "Homelessness",
-  "Mapping",
-  "Urban housing",
   "map",
-  "services"
+  "Mapping",
+  "services",
+  "Urban housing"
 ]
+
+[github]
+archived = false
+created_at = "2019-03-31T01:47:30Z"
+default_branch = "develop"
+description = { }
+disabled = false
+fork = false
+forks_within = 10
+full_name = "mattschaff/phillyresourcemap"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 178_630_583
+language = "PHP"
+license = { }
+name = "phillyresourcemap"
+network_count = 1
+node_id = "MDEwOlJlcG9zaXRvcnkxNzg2MzA1ODM="
+open_issues_within = 10
+private = false
+pushed_within = "year"
+stargazers_within = 10
+subscribers_count = 1
+temp_clone_token = ""
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 25_593_671
+  login = "mattschaff"
+  node_id = "MDQ6VXNlcjI1NTkzNjcx"
+  site_admin = false
+  type = "User"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
+
+[projects_list_extra]
+chat_channel = "resource-philly-map"
+title = "Resource Philly Map"

@@ -1,5 +1,10 @@
 description = "UliftU is a community organization that seeks to provide re-entering citizens with the skills and certifications necessary to become Crossfit coaches.  The organization is relatively new and has made a preliminary website designed to communicate their goals and purposes to both partners and potential participants."
 link_url = "http://www.uliftu.org/"
 name = "uliftu_website_redesign"
+organization_name = "Code for Philly"
 status = "Commenting"
-topics = [ "Health", "fitness", "Returning-Citizens" ]
+topics = [ "fitness", "Health", "Returning-Citizens" ]
+
+[projects_list_extra]
+chat_channel = "u_lift_u"
+title = "UliftU Website Redesign"

@@ -1,4 +1,8 @@
 description = "Resolve Philly is a new hub for the city’s general interest, community and ethnic newsrooms to produce collaborative solutions reporting and community engagement on urgent social challenges."
 name = "resolve_philly-broke_in_philly-_logo_design_requests"
+organization_name = "Code for Philly"
 status = "Bootstrapping"
-topics = [ "Poverty", "Inequality", "Journalism" ]
+topics = [ "Inequality", "Journalism", "Poverty" ]
+
+[projects_list_extra]
+title = "RESOLVE Philly & BROKE in Philly- Logo Design Requests (Q1 2018 Request)"

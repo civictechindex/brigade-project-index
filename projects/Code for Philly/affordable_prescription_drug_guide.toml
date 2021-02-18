@@ -1,6 +1,58 @@
 code_url = "https://github.com/bennovack/prescription-drug-guide"
 description = "A tool to help physicians prescribe less-expensive drugs for patients (#appsforphilly health hackathon, 2015)"
-last_pushed_within = "over_a_year"
 name = "affordable_prescription_drug_guide"
+organization_name = "Code for Philly"
 status = "Commenting"
 topics = [ "Health" ]
+
+[github]
+archived = false
+created_at = "2015-05-03T16:31:48Z"
+default_branch = "master"
+description = "A tool to help physicians prescribe less-expensive drugs for patients (#appsforphilly health hackathon, 2015) "
+disabled = false
+fork = false
+forks_within = 10
+full_name = "bennovack/prescription-drug-guide"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 34_992_595
+language = "Python"
+name = "prescription-drug-guide"
+network_count = 1
+node_id = "MDEwOlJlcG9zaXRvcnkzNDk5MjU5NQ=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+subscribers_count = 4
+temp_clone_token = ""
+topics = [ ]
+updated_within = "year"
+watchers_within = 10
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 5_924_104
+  login = "bennovack"
+  node_id = "MDQ6VXNlcjU5MjQxMDQ="
+  site_admin = false
+  type = "User"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
+
+[projects_list_extra]
+title = "Affordable Prescription Drug Guide"

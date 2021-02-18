@@ -1,3 +1,8 @@
 name = "food_desert_informatics"
+organization_name = "Code for Philly"
 status = "Commenting"
 topics = [ "Food Insecurity" ]
+
+[projects_list_extra]
+chat_channel = "urban_food_desert_analyzer"
+title = "Food Desert Informatics"

@@ -1,6 +1,54 @@
 code_url = "https://github.com/TRys8/Female-Political-Representation-in-PA"
 description = "Some women from Rittenhouse Political stopped by Code for Philly a month or two ago to ask for help with a data set in CSV.  They would like to visually display the data in tables, graphs, and ultimately a \"heat map\" to show how women have been represented in PA from 2000-2014.  Click the developer's link to go to the GitHub page.  We are working in Python and potentially JavaScript down the line to display this data in a palatable manner for end users."
-last_pushed_within = "over_a_year"
 name = "female_political_representation_in_pa"
+organization_name = "Code for Philly"
 status = "Bootstrapping"
 topics = [ "Equality", "Politics", "Women's Rights" ]
+
+[github]
+archived = false
+created_at = "2015-11-06T01:49:16Z"
+default_branch = "master"
+description = { }
+disabled = false
+fork = false
+forks_within = 10
+full_name = "TRys8/Female-Political-Representation-in-PA"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 45_652_237
+language = "JavaScript"
+license = { }
+name = "Female-Political-Representation-in-PA"
+network_count = 5
+node_id = "MDEwOlJlcG9zaXRvcnk0NTY1MjIzNw=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+subscribers_count = 5
+temp_clone_token = ""
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 15_115_513
+  login = "TRys8"
+  node_id = "MDQ6VXNlcjE1MTE1NTEz"
+  site_admin = false
+  type = "User"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
+
+[projects_list_extra]
+chat_channel = "female_political_rep"
+title = "Female Political Representation in PA"

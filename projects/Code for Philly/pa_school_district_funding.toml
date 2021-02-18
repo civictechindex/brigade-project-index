@@ -1,7 +1,54 @@
 code_url = "http://github.com/bergey/school-districts"
 description = "I wanted to know how school funding in Philadelphia compares to the rest of the state.  The state Department of Education publishes enrollment and expenditure figures for every school district in the state.  Here are some graphs of these data."
-last_pushed_within = "over_a_year"
 link_url = "http://bergey.github.io/school-districts/"
 name = "pa_school_district_funding"
+organization_name = "Code for Philly"
 status = "Hibernating"
 topics = [ "Budgets", "Education" ]
+
+[github]
+archived = false
+created_at = "2014-11-07T17:34:09Z"
+default_branch = "master"
+description = { }
+disabled = false
+fork = false
+forks_within = 0
+full_name = "bergey/school-districts"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "http://bergey.github.io/school-districts"
+id = 26_330_312
+language = "JavaScript"
+license = { }
+name = "school-districts"
+network_count = 0
+node_id = "MDEwOlJlcG9zaXRvcnkyNjMzMDMxMg=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+subscribers_count = 5
+temp_clone_token = ""
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 251_106
+  login = "bergey"
+  node_id = "MDQ6VXNlcjI1MTEwNg=="
+  site_admin = false
+  type = "User"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
+
+[projects_list_extra]
+title = "PA School District Funding"

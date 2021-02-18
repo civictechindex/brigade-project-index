@@ -1,6 +1,58 @@
 code_url = "https://github.com/sophiaphillyqueen/foreign-language-learn"
 description = "This is an open-source project to facilitate the learning of foreign languages. The plan is to implement various ways that crowdsourcing can be used to create the contents."
-last_pushed_within = "over_a_year"
 name = "foreign_language_learn"
+organization_name = "Code for Philly"
 status = "Commenting"
 topics = [ "Education", "foreign language" ]
+
+[github]
+archived = false
+created_at = "2014-09-05T01:47:29Z"
+default_branch = "master"
+description = "An Open Source system to facilitate the learning of foreign languages"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "sophiaphillyqueen/foreign-language-learn"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 23_686_448
+language = "PHP"
+name = "foreign-language-learn"
+network_count = 0
+node_id = "MDEwOlJlcG9zaXRvcnkyMzY4NjQ0OA=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+subscribers_count = 1
+temp_clone_token = ""
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "gpl-3.0"
+  name = "GNU General Public License v3.0"
+  node_id = "MDc6TGljZW5zZTk="
+  spdx_id = "GPL-3.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 8_315_206
+  login = "sophiaphillyqueen"
+  node_id = "MDQ6VXNlcjgzMTUyMDY="
+  site_admin = false
+  type = "User"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
+
+[projects_list_extra]
+title = "Foreign Language Learn"

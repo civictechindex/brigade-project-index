@@ -1,14 +1,19 @@
 code_url = "https://github.com/spencersnygg/VoteWise"
 description = "VoteWise is a cross between OkCupid, Wikipedia, Facebook and Reddit but entirely dedicated to politics.  If successful, it can change the face of democracy, and you can help build it."
-flags = [ "github_404" ]
+github = false
 link_url = "http://www.votewise.net/"
 name = "votewisenet"
+organization_name = "Code for Philly"
 status = "Prototyping"
 topics = [
-  "Education",
+  "CivicEngagement",
   "Democracy",
-  "Search",
-  "Mapping",
+  "Education",
   "Elections",
-  "CivicEngagement"
+  "Mapping",
+  "Search"
 ]
+
+[projects_list_extra]
+chat_channel = "votewise"
+title = "VoteWise.net"

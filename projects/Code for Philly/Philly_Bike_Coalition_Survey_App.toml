@@ -1,8 +1,8 @@
 code_url = "https://github.com/joepetrini/bike-counter"
 description = "Each year, the Philadelphia Bike Coalition oversees an army of volunteers to collect bike ridership data across the city of Philadelphia. Today, the data collection and data analysis processes are all completed with the use of pen, paper, and lots of data entry."
-last_pushed_within = "over_a_year"
 link_url = "https://qa.bikecounts.com/phl-bike/home"
 name = "Philly_Bike_Coalition_Survey_App"
+organization_name = "Code for Philly"
 status = "Maintaining"
 topics = [
   "Bike",
@@ -12,7 +12,59 @@ topics = [
   "Data",
   "Mobile Web App",
   "Philly",
+  "ridership",
   "Survey",
-  "Transit",
-  "ridership"
+  "Transit"
 ]
+
+[github]
+archived = false
+created_at = "2014-03-19T01:37:00Z"
+default_branch = "master"
+description = "Web and mobile application to support the data collection and reporting for urban bike counting efforts"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "joepetrini/bike-counter"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 17_888_499
+language = "JavaScript"
+name = "bike-counter"
+network_count = 2
+node_id = "MDEwOlJlcG9zaXRvcnkxNzg4ODQ5OQ=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+subscribers_count = 4
+temp_clone_token = ""
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 3_083_430
+  login = "joepetrini"
+  node_id = "MDQ6VXNlcjMwODM0MzA="
+  site_admin = false
+  type = "User"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
+
+[projects_list_extra]
+title = "Philly Bike Coalition Survey App"

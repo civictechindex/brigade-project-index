@@ -1,5 +1,9 @@
 code_url = "https://github.com/osmp2015"
 description = "[Girl Develop It Philly (GDI)](https://www.girldevelopit.com/) and Code for Philly (CfP) are excited to build off of the success of last year’s Summer of Open Source to once again offer interested female applicants a crash course in open source and a chance to get hands-on project experience in civic tech. We’ve updated the name to include fall and winter programs run by sister GDI chapters and brigades replicating and refining the precedent set in the pilot run. Last year’s project topics ranged from visualizing school budget data to mapping city-wide street tree locations. For many participants this was their first exposure to the tech community and the tenets of open source. The first class of 12 mentees and their mentors learned from each other during the course of the summer, but the impacts were much longer-lasting. We hope you’ll join us and see for yourself what can be accomplished in 10 weeks!"
 name = "open_source_mentorship_program_2015"
+organization_name = "Code for Philly"
 status = "Maintaining"
 topics = [ "Mentorship", "Open Source" ]
+
+[projects_list_extra]
+title = "Open Source Mentorship Program 2015"

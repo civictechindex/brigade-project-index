@@ -1,4 +1,8 @@
 description = "I own the domain name www.SmallBizPhilly.com. My goal is to turn this into a social networking website for small business owners in the Philadelphia area. I would like for this to be an online resource similar to this: www.biznik.com. I am a writer but not the type that writes code. I am the journalism/creative writer type and am looking for a techie that knows back-end development with a specialized knowledge of PHP and hand-coding from scratch. If anyone gets involved with my project not only will I give you a stake in my company and a life-time of free advertising on the front-page, but I will generously write a nice story about your small business on my blog. You can contact me via the following:"
 link_url = "www.SmallBizPhilly.com"
 name = "Small_Biz_Philly"
+organization_name = "Code for Philly"
 status = "Commenting"
+
+[projects_list_extra]
+title = "Small Biz Philly"

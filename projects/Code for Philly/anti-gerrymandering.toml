@@ -1,5 +1,10 @@
 code_url = "https://github.com/Anti-Gerrymandering"
 description = 'we should tie in with "Fair Districts PA"'
 name = "anti-gerrymandering"
+organization_name = "Code for Philly"
 status = "Bootstrapping"
-topics = [ "Mapping", "Data", "Gerrymandering" ]
+topics = [ "Data", "Gerrymandering", "Mapping" ]
+
+[projects_list_extra]
+chat_channel = "anti-gerrymandering"
+title = "Anti-Gerrymandering"

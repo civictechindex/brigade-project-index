@@ -1,4 +1,9 @@
 description = "In just the last few years, Capital One, TJX Companies, Sears, The Home Deport, and Equifax have all been hacked, exposing hundreds of millions of consumer credit files to bad actors. New credit cards, loans, or other lending accounts could be opened with that information, unless you freeze your credit. Freezing your credit is one of the best ways you can protect yourself from identity theft and fraud. You can still use your cards and accounts normally when your credit is frozen, and if you need to apply for new account, you can unfreeze it."
 link_url = "https://www.snowcap.me/"
 name = "snow-capped"
+organization_name = "Code for Philly"
 status = "Maintaining"
+
+[projects_list_extra]
+chat_channel = "creditfreezeapp"
+title = "Snowcap.Me"

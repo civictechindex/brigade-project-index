@@ -1,6 +1,58 @@
 code_url = "https://github.com/christophernies/Stormfighter"
 description = "Stormfighter is a mapping project designed to optimize the Philadelphia Water Department's efforts in mitigating sewer overflow during rainstorms. The project identifies Water Department-installed stormwater mitigation technologies (such as green roofs, tree trenches, and rain barrels) overlaid on a graduated map of the city's permeable surfaces. This provides data on places where permeability is low, but stormwater mitigation technologies are not installed - in other words, places where flooding is most likely to occur."
-last_pushed_within = "over_a_year"
 name = "stormfighter"
+organization_name = "Code for Philly"
 status = "Commenting"
 topics = [ "GIS", "Watershed" ]
+
+[github]
+archived = false
+created_at = "2014-06-25T22:33:09Z"
+default_branch = "master"
+description = "Mapping stormwater mitigation infrastructure over land permeability to recommend optimal locations for rain barrels."
+disabled = false
+fork = false
+forks_within = 0
+full_name = "christophernies/Stormfighter"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 21_220_792
+language = "Python"
+name = "Stormfighter"
+network_count = 0
+node_id = "MDEwOlJlcG9zaXRvcnkyMTIyMDc5Mg=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+subscribers_count = 2
+temp_clone_token = ""
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "gpl-2.0"
+  name = "GNU General Public License v2.0"
+  node_id = "MDc6TGljZW5zZTg="
+  spdx_id = "GPL-2.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 1_483_104
+  login = "christophernies"
+  node_id = "MDQ6VXNlcjE0ODMxMDQ="
+  site_admin = false
+  type = "User"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
+
+[projects_list_extra]
+title = "Stormfighter"

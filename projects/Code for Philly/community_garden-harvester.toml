@@ -1,14 +1,67 @@
 code_url = "https://github.com/HarvestHub/GardenHub"
 description = "Formed around the simple idea that food should not go to waste, GardenHub is the solution to the problem of community garden food waste. Despite the best efforts of community gardeners, far too often food produced in community gardens rots on the vine."
-last_pushed_within = "year"
 link_url = "https://gardenhub.io"
 name = "community_garden-harvester"
+organization_name = "Code for Philly"
 status = "Maintaining"
-topics = [
-  "Community",
-  "Food",
-  "community-gardens",
-  "django",
-  "food",
-  "vegan"
-]
+topics = [ "Community", "Food" ]
+
+[github]
+archived = false
+created_at = "2017-09-23T18:04:58Z"
+default_branch = "master"
+description = "Improve urban food distribution by connecting community gardeners with pickers :eggplant:"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "HarvestHub/GardenHub"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "https://gardenhub.io"
+id = 104_588_370
+language = "Python"
+name = "GardenHub"
+network_count = 1
+node_id = "MDEwOlJlcG9zaXRvcnkxMDQ1ODgzNzA="
+open_issues_within = 100
+private = false
+pushed_within = "month"
+stargazers_within = 100
+subscribers_count = 5
+temp_clone_token = ""
+topics = [ "community-gardens", "django", "food", "vegan" ]
+updated_within = "year"
+watchers_within = 100
+
+  [github.license]
+  key = "agpl-3.0"
+  name = "GNU Affero General Public License v3.0"
+  node_id = "MDc6TGljZW5zZTE="
+  spdx_id = "AGPL-3.0"
+
+  [github.organization]
+  gravatar_id = ""
+  id = 31_634_838
+  login = "HarvestHub"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjMxNjM0ODM4"
+  site_admin = false
+  type = "Organization"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 31_634_838
+  login = "HarvestHub"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjMxNjM0ODM4"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
+
+[projects_list_extra]
+title = "GardenHub - Community Gardens web app"

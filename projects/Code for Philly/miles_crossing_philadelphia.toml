@@ -1,5 +1,9 @@
 description = "'250 Miles Crossing Philadelphia' will be a location based film in Google Earth: a NavDoc (Navigation Documentary)"
 link_url = "http://www.250miles.net/"
 name = "miles_crossing_philadelphia"
+organization_name = "Code for Philly"
 status = "Commenting"
-topics = [ "Maps", "Art", "GIS" ]
+topics = [ "Art", "GIS", "Maps" ]
+
+[projects_list_extra]
+title = "250 Miles Crossing Philadelphia"

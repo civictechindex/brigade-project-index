@@ -1,4 +1,8 @@
 description = "PhillyBudget"
 name = "PhillyBudget"
+organization_name = "Code for Philly"
 status = "Commenting"
 topics = [ "Budgets" ]
+
+[projects_list_extra]
+title = "PhillyBudget"

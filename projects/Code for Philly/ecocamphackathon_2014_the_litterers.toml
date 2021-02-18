@@ -1,5 +1,52 @@
 code_url = "https://github.com/bguggs/EcocampHackathon2014"
-last_pushed_within = "over_a_year"
 link_url = "http://brandonpsmith.net/EcocampHackathon2014/site/"
 name = "ecocamphackathon_2014_the_litterers"
+organization_name = "Code for Philly"
 status = "Commenting"
+
+[github]
+archived = false
+created_at = "2014-06-21T13:43:43Z"
+default_branch = "master"
+description = { }
+disabled = false
+fork = false
+forks_within = 10
+full_name = "bguggs/EcocampHackathon2014"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 21_069_384
+language = "Python"
+license = { }
+name = "EcocampHackathon2014"
+network_count = 5
+node_id = "MDEwOlJlcG9zaXRvcnkyMTA2OTM4NA=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+subscribers_count = 5
+temp_clone_token = ""
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_495_242
+  login = "bguggs"
+  node_id = "MDQ6VXNlcjY0OTUyNDI="
+  site_admin = false
+  type = "User"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
+
+[projects_list_extra]
+title = "The Litterers"

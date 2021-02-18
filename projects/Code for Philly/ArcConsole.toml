@@ -1,7 +1,62 @@
 code_url = "https://github.com/CityOfPhiladelphia/arc-console"
 description = "ArcConsole is a simple, intuitive console for the ArcGIS Server REST API. It's intended for people not familiar with the ArcGIS REST API or users that want to get their data quickly and move on with their application. It does this by making some decisions for you, like for instance since you're on the internet the spatial reference you're using is probably WGS 84 (4326). It also uses JavaScript libraries like Chosen and Leaflet Draw to help you construct your query parameters how you need them."
-last_pushed_within = "over_a_year"
 link_url = "http://phlapi.com/geoconsole.html"
 name = "ArcConsole"
+organization_name = "Code for Philly"
 status = "Maintaining"
 topics = [ "GIS", "Maps" ]
+
+[github]
+archived = true
+created_at = "2013-03-26T00:22:26Z"
+default_branch = "master"
+description = "A simple and intuitive console for the ArcGIS REST API."
+disabled = false
+fork = false
+forks_within = 10
+full_name = "CityOfPhiladelphia/arc-console"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 9_019_271
+language = "JavaScript"
+license = { }
+name = "arc-console"
+network_count = 4
+node_id = "MDEwOlJlcG9zaXRvcnk5MDE5Mjcx"
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+subscribers_count = 35
+temp_clone_token = ""
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.organization]
+  gravatar_id = ""
+  id = 2_641_050
+  login = "CityOfPhiladelphia"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI2NDEwNTA="
+  site_admin = false
+  type = "Organization"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_641_050
+  login = "CityOfPhiladelphia"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI2NDEwNTA="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
+
+[projects_list_extra]
+title = "ArcConsole"

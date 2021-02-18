@@ -1,5 +1,9 @@
 description = "There is a huge opportunity to provide an awesome summer program for high school students through a grant with the Digital Media and Learning competition. I have a dream of pulling more HS students into the Code for Philly brigade with the idea of even building a student brigade chapter."
 link_url = "http://philly.stemleague.org/webslam-2013-recap/"
 name = "Summer_Hackathon_for_HS_Students-WebSLAM"
+organization_name = "Code for Philly"
 status = "Commenting"
 topics = [ "Education", "Mentorship" ]
+
+[projects_list_extra]
+title = "Summer Hackathon for HS Students (WebSLAM)"

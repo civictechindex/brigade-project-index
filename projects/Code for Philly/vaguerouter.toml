@@ -1,7 +1,54 @@
 code_url = "https://github.com/dmiddlecamp/VagueRouter"
 description = "My Apps 4 Septa App!"
-last_pushed_within = "over_a_year"
 link_url = "http://middle.camp/septa/"
 name = "vaguerouter"
+organization_name = "Code for Philly"
 status = "Drifting"
 topics = [ "Maps", "Transit" ]
+
+[github]
+archived = false
+created_at = "2012-08-04T22:51:42Z"
+default_branch = "master"
+description = "My Apps 4 Septa App!"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "dmiddlecamp/VagueRouter"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 5_299_388
+language = "JavaScript"
+license = { }
+name = "VagueRouter"
+network_count = 0
+node_id = "MDEwOlJlcG9zaXRvcnk1Mjk5Mzg4"
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+subscribers_count = 2
+temp_clone_token = ""
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 833_793
+  login = "dmiddlecamp"
+  node_id = "MDQ6VXNlcjgzMzc5Mw=="
+  site_admin = false
+  type = "User"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
+
+[projects_list_extra]
+title = "VagueRouter"

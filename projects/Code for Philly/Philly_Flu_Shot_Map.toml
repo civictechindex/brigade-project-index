@@ -2,5 +2,9 @@ code_url = "http://ph.ly/flushotmap"
 description = "Details coming shortly."
 link_url = "http://ph.ly/flushotmap"
 name = "Philly_Flu_Shot_Map"
+organization_name = "Code for Philly"
 status = "Commenting"
 topics = [ "Health" ]
+
+[projects_list_extra]
+title = "Philly Flu Shot Map"

@@ -1,4 +1,8 @@
 description = "A meta-project for organizing events and matchmaking to help Philly high-school and college students explore technology through civic projects."
 name = "students-club"
+organization_name = "Code for Philly"
 status = "Commenting"
 topics = [ "Education" ]
+
+[projects_list_extra]
+title = "Code for Philly Schools"

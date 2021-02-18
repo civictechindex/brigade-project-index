@@ -1,6 +1,54 @@
 code_url = "https://github.com/mattschaff/VibeDetector"
 description = "Using tech to ensure safer gun sales"
-last_pushed_within = "over_a_year"
 name = "vibedetector"
+organization_name = "Code for Philly"
 status = "Commenting"
 topics = [ "Crime", "Sales" ]
+
+[github]
+archived = false
+created_at = "2018-03-30T19:17:28Z"
+default_branch = "master"
+description = "Using tech to ensure safer gun sales"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "mattschaff/VibeDetector"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 127_464_568
+language = { }
+license = { }
+name = "VibeDetector"
+network_count = 0
+node_id = "MDEwOlJlcG9zaXRvcnkxMjc0NjQ1Njg="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+subscribers_count = 0
+temp_clone_token = ""
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 25_593_671
+  login = "mattschaff"
+  node_id = "MDQ6VXNlcjI1NTkzNjcx"
+  site_admin = false
+  type = "User"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
+
+[projects_list_extra]
+chat_channel = "vibedetector"
+title = "VibeDetector"

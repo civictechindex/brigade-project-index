@@ -1,5 +1,9 @@
 code_url = "https://www.indiegogo.com/projects/phl-ride-philly-microtransit#/story"
 link_url = "https://www.indiegogo.com/projects/phl-ride-philly-microtransit#/story"
 name = "phl-ride_-_philly_microtransit"
+organization_name = "Code for Philly"
 status = "Bootstrapping"
-topics = [ "Transportation", "new technologies", "CivicEngagement" ]
+topics = [ "CivicEngagement", "new technologies", "Transportation" ]
+
+[projects_list_extra]
+title = "PHL-RIDE - Philly Microtransit"

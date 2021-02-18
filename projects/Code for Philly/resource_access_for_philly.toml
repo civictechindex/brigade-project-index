@@ -1,13 +1,74 @@
 code_url = "https://github.com/CfABrigadePhiladelphia/homeless-services"
 description = "Resource Awareness Philly is a open-source project that started at the Code for Philly SustyHack2015 from 10/17/15 - 10/18/15 in Philly. The goals of the project are"
-last_pushed_within = "over_a_year"
 name = "resource_access_for_philly"
+organization_name = "Code for Philly"
 status = "Prototyping"
 topics = [
   "Homelessness",
+  "organizations",
   "Philadelphia",
   "Philly",
-  "organizations",
   "programs",
   "services"
 ]
+
+[github]
+archived = false
+created_at = "2015-10-17T16:50:24Z"
+default_branch = "master"
+description = { }
+disabled = false
+fork = false
+forks_within = 10
+full_name = "CodeForPhilly/homeless-services"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 44_445_939
+language = "CSS"
+name = "homeless-services"
+network_count = 6
+node_id = "MDEwOlJlcG9zaXRvcnk0NDQ0NTkzOQ=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+subscribers_count = 16
+temp_clone_token = ""
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.organization]
+  gravatar_id = ""
+  id = 1_451_716
+  login = "CodeForPhilly"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE0NTE3MTY="
+  site_admin = false
+  type = "Organization"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 1_451_716
+  login = "CodeForPhilly"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE0NTE3MTY="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
+
+[projects_list_extra]
+chat_channel = "community_services"
+title = "Resource Awareness for Philly"

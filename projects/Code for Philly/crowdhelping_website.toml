@@ -1,3 +1,7 @@
 name = "crowdhelping_website"
+organization_name = "Code for Philly"
 status = "Commenting"
 topics = [ "#helpfulness #crowdhelping" ]
+
+[projects_list_extra]
+title = "CrowdHelping Website"

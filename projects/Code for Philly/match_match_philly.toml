@@ -1,5 +1,53 @@
 code_url = "https://github.com/lukemckinstry/matchmatchphilly"
 description = "Match Match Philly will integrate the City of Philadelphia's engagement data collection system (VAN) with its volunteer recruitment tool (VolunteerMatch). The City is moving to track all engagement data with this tool to increase data sharing and improve the way departments track and conduct engagement. This integration will enable seamless tracking and management of volunteer recruitment data."
-last_pushed_within = "over_a_year"
 name = "match_match_philly"
+organization_name = "Code for Philly"
 status = "Prototyping"
+
+[github]
+archived = false
+created_at = "2018-05-09T23:06:06Z"
+default_branch = "master"
+description = "connect APIs 2 connect people"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "lukemckinstry/matchmatchphilly"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 132_821_740
+language = "HTML"
+license = { }
+name = "matchmatchphilly"
+network_count = 1
+node_id = "MDEwOlJlcG9zaXRvcnkxMzI4MjE3NDA="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+subscribers_count = 5
+temp_clone_token = ""
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 16_727_618
+  login = "lukemckinstry"
+  node_id = "MDQ6VXNlcjE2NzI3NjE4"
+  site_admin = false
+  type = "User"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
+
+[projects_list_extra]
+chat_channel = "matchmatchphilly"
+title = "Match Match Philly"

@@ -1,5 +1,52 @@
 code_url = "https://github.com/aaronclong/volunteer-generator"
-last_pushed_within = "over_a_year"
 name = "volunteer_generator"
+organization_name = "Code for Philly"
 status = "Bootstrapping"
-topics = [ "Hackthon Planning", "hackathon" ]
+topics = [ "Hackthon Planning" ]
+
+[github]
+archived = false
+created_at = "2017-02-28T02:25:46Z"
+default_branch = "master"
+description = "Automated markdown builder for Code for Philly's Hackathon"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "aaronclong/volunteer-generator"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 83_379_854
+language = "Python"
+license = { }
+name = "volunteer-generator"
+network_count = 0
+node_id = "MDEwOlJlcG9zaXRvcnk4MzM3OTg1NA=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+subscribers_count = 1
+temp_clone_token = ""
+topics = [ "hackathon" ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 7_354_981
+  login = "aaronclong"
+  node_id = "MDQ6VXNlcjczNTQ5ODE="
+  site_admin = false
+  type = "User"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
+
+[projects_list_extra]
+title = "Volunteer Generator"

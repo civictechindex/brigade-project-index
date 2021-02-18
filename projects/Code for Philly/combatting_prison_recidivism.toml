@@ -1,3 +1,7 @@
 name = "combatting_prison_recidivism"
+organization_name = "Code for Philly"
 status = "Commenting"
 topics = [ "Anti-Prisons" ]
+
+[projects_list_extra]
+title = "Combatting Prison Recidivism"

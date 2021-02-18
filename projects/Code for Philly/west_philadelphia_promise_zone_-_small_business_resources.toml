@@ -1,3 +1,8 @@
 description = "The West Philadelphia Promise Zone is a place-based initiative created to support local leaders who are working to address challenges faced by people living in deep and persistent poverty. By working collaboratively in a collective impact model and focusing on one geographical area, Promise Zone partners can see the wider system, the interconnection of its parts, and make impactful direct and system changes. Roughly two square miles, the Promise Zone is bound by the Schuylkill River to the East, 48th Street to the West, Girard Avenue to the North, and Sansom Street to the South."
 name = "west_philadelphia_promise_zone_-_small_business_resources"
+organization_name = "Code for Philly"
 status = "Bootstrapping"
+
+[projects_list_extra]
+chat_channel = "west-philly-promise-zone-business-resources"
+title = "West Philadelphia Promise Zone - Small Business Resources"

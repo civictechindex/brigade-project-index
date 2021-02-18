@@ -2,13 +2,18 @@ code_url = "https://github.com/phlask"
 description = "PHLASK is an Ecosystem for Finding and Sharing Water in Philadelphia"
 link_url = "http://phlask.me"
 name = "phlask--life-liberty_and_the_pursuit_of_water"
+organization_name = "Code for Philly"
 status = "Prototyping"
 topics = [
-  "sustainability",
-  "Environment",
   "CivicEngagement",
+  "Environment",
   "social impact",
   "Social Justice",
+  "sustainability",
   "water",
   "water resources"
 ]
+
+[projects_list_extra]
+chat_channel = "phlask"
+title = "PHLASK: Life, Liberty and the Pursuit of Water"

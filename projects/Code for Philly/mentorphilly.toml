@@ -1,7 +1,7 @@
 code_url = "https://github.com/CodeForPhilly/mentorphilly"
-last_pushed_within = "over_a_year"
 link_url = "http://mentorphilly.org"
 name = "mentorphilly"
+organization_name = "Code for Philly"
 status = "Prototyping"
 topics = [
   "CivicEngagement",
@@ -9,3 +9,59 @@ topics = [
   "Reentry-Network",
   "Returning-Citizens"
 ]
+
+[github]
+archived = false
+created_at = "2018-04-08T15:39:07Z"
+default_branch = "master"
+description = "MentorPhilly Text Message Service and Backend"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "CodeForPhilly/mentorphilly"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://mentorphilly.org"
+id = 128_656_139
+language = "PHP"
+license = { }
+name = "mentorphilly"
+network_count = 0
+node_id = "MDEwOlJlcG9zaXRvcnkxMjg2NTYxMzk="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+subscribers_count = 6
+temp_clone_token = ""
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.organization]
+  gravatar_id = ""
+  id = 1_451_716
+  login = "CodeForPhilly"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE0NTE3MTY="
+  site_admin = false
+  type = "Organization"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 1_451_716
+  login = "CodeForPhilly"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE0NTE3MTY="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
+
+[projects_list_extra]
+chat_channel = "mentorphilly"
+title = "MentorPhilly"

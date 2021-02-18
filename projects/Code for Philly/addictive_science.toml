@@ -1,30 +1,34 @@
 code_url = "https://github.com/HarrisRobin/AddictiveScience"
 description = "This project is my effort to get the startup Addictive Science involved with the local Philadelphia Science/Tech communities. Addictive Science is an online learning environment designed to virtually immerse everyday people in discovery & curiosity while engaging minds with STEM Sciences through online social discovery apps. I started building [www.AddictiveScience.com](http://scienceaddict.herokuapp.com/login) as a means to embrace my new career in Science Communication and Technology. The programming & design goals of Addictive Science from conception were to make all of our code open source and free to the public. The reasoning is to allow the Science/Technology communities, locally and globally online, to be able to contribute and build upon our code. Addictive Science needs your help in crowdsourcing awesome ideas, people, code, design and more to enhance the experience and social engagement of everyday people throughout the site."
-flags = [ "github_404" ]
+github = false
 link_url = "http://www.addictivescience.com/login"
 name = "addictive_science"
+organization_name = "Code for Philly"
 status = "Prototyping"
 topics = [
-  "science",
-  "Education",
-  "new technologies",
-  "programming",
+  "Algorithms",
+  "big data",
+  "cloud programming",
+  "Coding",
+  "communication",
+  "Communities",
   "Computers",
   "Crowdsourcing",
-  "Open Source",
-  "Coding",
-  "Communities",
-  "big data",
+  "Design",
+  "Education",
+  "Everyday People",
   "Hacking",
   "hackthons",
-  "Design",
-  "Photography",
-  "cloud programming",
-  "communication",
   "Immersion",
-  "People",
-  "Everyday People",
-  "learning Environment",
   "Learning",
-  "Algorithms"
+  "learning Environment",
+  "new technologies",
+  "Open Source",
+  "People",
+  "Photography",
+  "programming",
+  "science"
 ]
+
+[projects_list_extra]
+title = "Addictive Science"

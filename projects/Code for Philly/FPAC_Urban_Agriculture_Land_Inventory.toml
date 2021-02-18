@@ -1,7 +1,67 @@
 code_url = "https://github.com/CfABrigadePhiladelphia/philly-urban-agriculture"
 description = "Vacant Land Inventory Post for Code for Philly"
-last_pushed_within = "over_a_year"
 link_url = "http://phillyfpac.org/"
 name = "FPAC_Urban_Agriculture_Land_Inventory"
+organization_name = "Code for Philly"
 status = "Commenting"
 topics = [ "GIS" ]
+
+[github]
+archived = false
+created_at = "2014-06-21T16:19:23Z"
+default_branch = "master"
+description = "Multi-factor rating and analysis tool for vacant and under-utilized lots in Philadelphia, for food production use"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "CodeForPhilly/philly-urban-agriculture"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "http://codeforphilly.github.io/philly-urban-agriculture/"
+id = 21_072_786
+language = { }
+name = "philly-urban-agriculture"
+network_count = 3
+node_id = "MDEwOlJlcG9zaXRvcnkyMTA3Mjc4Ng=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+subscribers_count = 14
+temp_clone_token = ""
+topics = [ ]
+updated_within = "year"
+watchers_within = 10
+
+  [github.license]
+  key = "agpl-3.0"
+  name = "GNU Affero General Public License v3.0"
+  node_id = "MDc6TGljZW5zZTE="
+  spdx_id = "AGPL-3.0"
+
+  [github.organization]
+  gravatar_id = ""
+  id = 1_451_716
+  login = "CodeForPhilly"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE0NTE3MTY="
+  site_admin = false
+  type = "Organization"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 1_451_716
+  login = "CodeForPhilly"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE0NTE3MTY="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
+
+[projects_list_extra]
+title = "Philadelphia Land Inventory for Urban Agriculture (Vacant and Underutilized Land)"

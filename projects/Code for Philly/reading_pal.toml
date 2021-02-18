@@ -1,3 +1,7 @@
 description = "Objective: Design a Web based application, oriented for children, teachers and parents to track the books the kids read, and assess the learning of content and children progress."
 name = "reading_pal"
+organization_name = "Code for Philly"
 status = "Commenting"
+
+[projects_list_extra]
+title = "Reading Pal"

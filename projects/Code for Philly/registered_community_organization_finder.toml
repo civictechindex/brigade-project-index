@@ -1,7 +1,60 @@
 code_url = "https://github.com/mcgrogan91/RCOEngagement"
 description = "My Philly is a site designed to make it easier to find and interact with the Registered Community Organizations (RCOs) of Philadelphia.  It enables users to search their address, and find which RCOs apply to where they live.  It also provides a coverage map to explore the city and see which areas could use more love."
-last_pushed_within = "over_a_year"
 link_url = "http://myphilly.org"
 name = "registered_community_organization_finder"
+organization_name = "Code for Philly"
 status = "Drifting"
-topics = [ "Community", "GIS", "Mapping", "RCO", "organizations" ]
+topics = [ "Community", "GIS", "Mapping", "organizations", "RCO" ]
+
+[github]
+archived = false
+created_at = "2017-03-25T17:42:44Z"
+default_branch = "develop"
+description = "A tool bringing Registered Community Organization information to the forefront for community members"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "mcgrogan91/RCOEngagement"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 86_176_471
+language = "PHP"
+name = "RCOEngagement"
+network_count = 1
+node_id = "MDEwOlJlcG9zaXRvcnk4NjE3NjQ3MQ=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+subscribers_count = 6
+temp_clone_token = ""
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 3_495_617
+  login = "mcgrogan91"
+  node_id = "MDQ6VXNlcjM0OTU2MTc="
+  site_admin = false
+  type = "User"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
+
+[projects_list_extra]
+chat_channel = "myphilly"
+title = "My Philly"

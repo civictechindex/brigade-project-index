@@ -2,5 +2,10 @@ code_url = "https://github.com/yadaguru/yadaguru-app/wiki/Yadaguru-Dev-Environme
 description = "Yadaguru is an app that helps Philly High School Seniors remember all the things they have to do to submit complete applications to college on time.  We're solving the problem of doors closing to good schools because of dumb stuff like a transcript getting in after a deadline.   We do this through sending multiple reminders well before stuff is due.  Whole support structures around students can use the app as well so they can be part of the 'reminder team' that helps kids get the docs in on time."
 link_url = "http://about.yadaguru.com"
 name = "yadaguru"
+organization_name = "Code for Philly"
 status = "Maintaining"
 topics = [ "Education" ]
+
+[projects_list_extra]
+chat_channel = "yadaguru"
+title = "YadaGuru - College Application Reminders"

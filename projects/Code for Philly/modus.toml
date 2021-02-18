@@ -2,5 +2,9 @@ code_url = "https://github.com/modusplatform"
 description = "Modus-Keystone is an augmented reality game to learn about Pennsylvania's rich historical sites. Participants earn crypto currency for reaching new historical landmarks and for solving puzzles associated with each destination."
 link_url = "http://modusapps.com"
 name = "modus"
+organization_name = "Code for Philly"
 status = "Prototyping"
-topics = [ "Mapping", "history", "Transit", "Biking", "Open Data" ]
+topics = [ "Biking", "history", "Mapping", "Open Data", "Transit" ]
+
+[projects_list_extra]
+title = "Modus"

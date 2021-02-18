@@ -1,38 +1,39 @@
-code_url = "https://github.com/CfABrigadePhiladelphia/PGW-digs"
-description = "PGW has committed to releasing a web service that can be queried for real-time and historic information on road closings due to repairs. This project will provide a desktop and/or mobile map of digs with details on their status."
-name = "pgw_dig_map"
+code_url = "https://github.com/CodeForPhilly/cfp-data-pipeline"
+description = "We're building a data pipeline + dashboard for Code for Philly data!"
+link_url = "https://github.com/CodeForPhilly/cfp-data-pipeline"
+name = "code_for_philly_data_pipeline"
 organization_name = "Code for Philly"
-status = "Drifting"
+status = "Bootstrapping"
 
 [github]
 archived = false
-created_at = "2014-06-17T22:25:10Z"
+created_at = "2021-01-03T19:54:32Z"
 default_branch = "master"
 description = { }
 disabled = false
 fork = false
 forks_within = 10
-full_name = "CodeForPhilly/PGW-digs"
+full_name = "CodeForPhilly/cfp-data-pipeline"
 has_downloads = true
 has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = true
-homepage = { }
-id = 20_941_510
-language = { }
+homepage = ""
+id = 326_489_314
+language = "Python"
 license = { }
-name = "PGW-digs"
-network_count = 1
-node_id = "MDEwOlJlcG9zaXRvcnkyMDk0MTUxMA=="
-open_issues_within = 0
+name = "cfp-data-pipeline"
+network_count = 4
+node_id = "MDEwOlJlcG9zaXRvcnkzMjY0ODkzMTQ="
+open_issues_within = 10
 private = false
-pushed_within = "over_a_year"
+pushed_within = "week"
 stargazers_within = 10
-subscribers_count = 8
+subscribers_count = 4
 temp_clone_token = ""
-topics = [ ]
-updated_within = "over_a_year"
+topics = [ "civic-tech-template" ]
+updated_within = "week"
 watchers_within = 10
 
   [github.organization]
@@ -57,4 +58,5 @@ watchers_within = 10
   push = false
 
 [projects_list_extra]
-title = "PGW dig map"
+chat_channel = "cfp-dashboard"
+title = "Code for Philly Data Pipeline"

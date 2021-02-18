@@ -1,7 +1,62 @@
 code_url = "https://github.com/CfABrigadePhiladelphia/SEPTA-RT"
 description = "SEPTA-RT: Real-time map of SEPTA mobile App Users"
-last_pushed_within = "over_a_year"
 link_url = "http://septa-rt.phl.io"
 name = "septa-rt"
+organization_name = "Code for Philly"
 status = "Commenting"
 topics = [ "Transit" ]
+
+[github]
+archived = false
+created_at = "2014-09-18T23:27:15Z"
+default_branch = "master"
+description = "SEPTA-RT: Real-time map of SEPTA mobile App Users"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "CodeForPhilly/SEPTA-RT"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 24_208_621
+language = { }
+license = { }
+name = "SEPTA-RT"
+network_count = 0
+node_id = "MDEwOlJlcG9zaXRvcnkyNDIwODYyMQ=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+subscribers_count = 13
+temp_clone_token = ""
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.organization]
+  gravatar_id = ""
+  id = 1_451_716
+  login = "CodeForPhilly"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE0NTE3MTY="
+  site_admin = false
+  type = "Organization"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 1_451_716
+  login = "CodeForPhilly"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE0NTE3MTY="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
+
+[projects_list_extra]
+title = "SEPTA-RT"

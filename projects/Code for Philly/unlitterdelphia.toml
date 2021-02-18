@@ -2,4 +2,8 @@ code_url = "http://jawntehrani.github.io/ghp-shareabouts-map"
 description = "This project will customize the shareabouts crowd source map architecture created by OpenPlans to become a web tool citizens can use to report instances of illegal household short dumping."
 link_url = "http://unlitterdelphia.me"
 name = "unlitterdelphia"
+organization_name = "Code for Philly"
 status = "Commenting"
+
+[projects_list_extra]
+title = "UNLITTERdelphia"

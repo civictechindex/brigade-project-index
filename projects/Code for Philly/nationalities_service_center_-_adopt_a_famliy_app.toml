@@ -1,4 +1,9 @@
 description = "Who we are"
 name = "nationalities_service_center_-_adopt_a_famliy_app"
+organization_name = "Code for Philly"
 status = "Commenting"
 topics = [ "Immigration" ]
+
+[projects_list_extra]
+chat_channel = "nsc-adopt-a-family"
+title = "Nationalities Service Center - Adopt a Famliy App"

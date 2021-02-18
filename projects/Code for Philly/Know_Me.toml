@@ -2,4 +2,8 @@ code_url = "knowme.doercreator.com"
 description = "App for keeping nurses on the same page about their nursing home patients.  Won third place in Startup Weekend Health 2013.  Current under development. https://twitter.com/KnowMeHealth"
 link_url = "knowme.doercreator.com"
 name = "Know_Me"
+organization_name = "Code for Philly"
 status = "Commenting"
+
+[projects_list_extra]
+title = "Know Me"

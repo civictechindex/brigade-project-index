@@ -1,6 +1,62 @@
 code_url = "https://github.com/untitledfolder/cypherphilly"
 description = "The [Philly Graph DB](https://www.meetup.com/Philly-GraphDB/) meetup group has started a new initiative called Cypher Philly. The initiative is intended to inspire and equip citizen journalists, data enthusiasts and social activists with the tools and data to do good for the city and citizens of Philadelphia."
-last_pushed_within = "month"
 link_url = "http://cypherphil.ly/"
 name = "cypher_philly"
+organization_name = "Code for Philly"
 status = "Prototyping"
+
+[github]
+archived = false
+created_at = "2018-02-25T22:57:14Z"
+default_branch = "develop"
+description = "Decipher all things Philly"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "untitledfolder/cypherphilly"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://cypherphil.ly/"
+id = 122_885_685
+language = "JavaScript"
+license = { }
+name = "cypherphilly"
+network_count = 4
+node_id = "MDEwOlJlcG9zaXRvcnkxMjI4ODU2ODU="
+open_issues_within = 100
+private = false
+pushed_within = "year"
+stargazers_within = 100
+subscribers_count = 10
+temp_clone_token = ""
+topics = [ ]
+updated_within = "year"
+watchers_within = 100
+
+  [github.organization]
+  gravatar_id = ""
+  id = 38_092_699
+  login = "untitledfolder"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM4MDkyNjk5"
+  site_admin = false
+  type = "Organization"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 38_092_699
+  login = "untitledfolder"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM4MDkyNjk5"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
+
+[projects_list_extra]
+chat_channel = "cypher_philly"
+title = "Cypher Philly"

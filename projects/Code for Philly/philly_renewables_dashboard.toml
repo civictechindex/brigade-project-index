@@ -1,6 +1,53 @@
 code_url = "https://github.com/JohnYagecic/PhillyRenewablesDashboard"
 description = "The goal is to translate real time solar radiation and wind data into a graphic descriptor of the availability of energy from renewable sources.  Users could use the simple interface to decide whether or not to plug in.  Need immediate help with data discovery of real-time wind data and historical time series data sets for electricity production from renewables.  Private weather stations and solar panels could be a high value data set, but their availability is unknown."
-last_pushed_within = "over_a_year"
 name = "philly_renewables_dashboard"
+organization_name = "Code for Philly"
 status = "Commenting"
 topics = [ "Data Science", "renewable energy" ]
+
+[github]
+archived = false
+created_at = "2015-04-28T23:21:42Z"
+default_branch = "master"
+description = "A near real-time dashboard indicating the availability of electricity from solar and wind in the Philadelphia area"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "JohnYagecic/PhillyRenewablesDashboard"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 34_761_128
+language = "R"
+license = { }
+name = "PhillyRenewablesDashboard"
+network_count = 0
+node_id = "MDEwOlJlcG9zaXRvcnkzNDc2MTEyOA=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+subscribers_count = 1
+temp_clone_token = ""
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 7_224_291
+  login = "JohnYagecic"
+  node_id = "MDQ6VXNlcjcyMjQyOTE="
+  site_admin = false
+  type = "User"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
+
+[projects_list_extra]
+title = "Philly Renewables Dashboard"

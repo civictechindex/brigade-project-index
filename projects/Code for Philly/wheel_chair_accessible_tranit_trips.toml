@@ -1,6 +1,133 @@
 code_url = "https://github.com/summer-of-open-source/wheel-chair-accessible-google-maps"
-last_pushed_within = "over_a_year"
 link_url = "http://summer-of-open-source.github.io/wheel-chair-accessible-google-maps/"
 name = "wheel_chair_accessible_tranit_trips"
+organization_name = "Code for Philly"
 status = "Commenting"
 topics = [ "Transit" ]
+
+[github]
+archived = false
+created_at = "2014-06-26T11:27:51Z"
+default_branch = "master"
+description = "A website that tells users whether their planned transit trip in Philly will be successful with a wheelchair"
+disabled = false
+fork = true
+forks_within = 10
+full_name = "summer-of-open-source/wheel-chair-accessible-google-maps"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 21_238_391
+language = "JavaScript"
+license = { }
+name = "wheel-chair-accessible-google-maps"
+network_count = 4
+node_id = "MDEwOlJlcG9zaXRvcnkyMTIzODM5MQ=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+subscribers_count = 24
+temp_clone_token = ""
+topics = [ ]
+updated_within = "year"
+watchers_within = 10
+
+  [github.organization]
+  gravatar_id = ""
+  id = 7_675_041
+  login = "summer-of-open-source"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjc2NzUwNDE="
+  site_admin = false
+  type = "Organization"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 7_675_041
+  login = "summer-of-open-source"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjc2NzUwNDE="
+  site_admin = false
+  type = "Organization"
+
+  [github.parent]
+  archived = false
+  created_at = "2014-06-01T13:40:39Z"
+  default_branch = "master"
+  description = "A website that tells users whether their planned transit trip in Philly will be successful with a wheelchair"
+  disabled = false
+  fork = false
+  forks_within = 10
+  full_name = "jimRsmiley/wheel-chair-accessible-transit-directions"
+  has_downloads = true
+  has_issues = true
+  has_pages = false
+  has_projects = true
+  has_wiki = true
+  homepage = { }
+  id = 20_378_055
+  language = "JavaScript"
+  license = { }
+  name = "wheel-chair-accessible-transit-directions"
+  node_id = "MDEwOlJlcG9zaXRvcnkyMDM3ODA1NQ=="
+  open_issues_within = 0
+  private = false
+  pushed_within = "over_a_year"
+  stargazers_within = 10
+  topics = [ ]
+  updated_within = "over_a_year"
+  watchers_within = 10
+
+    [github.parent.owner]
+    gravatar_id = ""
+    id = 1_074_616
+    login = "jimRsmiley"
+    node_id = "MDQ6VXNlcjEwNzQ2MTY="
+    site_admin = false
+    type = "User"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
+
+  [github.source]
+  archived = false
+  created_at = "2014-06-01T13:40:39Z"
+  default_branch = "master"
+  description = "A website that tells users whether their planned transit trip in Philly will be successful with a wheelchair"
+  disabled = false
+  fork = false
+  forks_within = 10
+  full_name = "jimRsmiley/wheel-chair-accessible-transit-directions"
+  has_downloads = true
+  has_issues = true
+  has_pages = false
+  has_projects = true
+  has_wiki = true
+  homepage = { }
+  id = 20_378_055
+  language = "JavaScript"
+  license = { }
+  name = "wheel-chair-accessible-transit-directions"
+  node_id = "MDEwOlJlcG9zaXRvcnkyMDM3ODA1NQ=="
+  open_issues_within = 0
+  private = false
+  pushed_within = "over_a_year"
+  stargazers_within = 10
+  topics = [ ]
+  updated_within = "over_a_year"
+  watchers_within = 10
+
+    [github.source.owner]
+    gravatar_id = ""
+    id = 1_074_616
+    login = "jimRsmiley"
+    node_id = "MDQ6VXNlcjEwNzQ2MTY="
+    site_admin = false
+    type = "User"
+
+[projects_list_extra]
+title = "Wheel Chair Accessible Tranit Trips"

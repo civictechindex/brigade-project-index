@@ -1,6 +1,10 @@
 code_url = "https://github.com/ishbobzalimar/PPR-Computer-Labs-Check-In-Test1"
 description = "This project is being built on the Appery.io mobile app platform to be deployed the 34 Philadelphia Parks and Recreation Computer labs."
-flags = [ "github_404" ]
+github = false
 name = "ppr_computer_lab_checkin_app"
+organization_name = "Code for Philly"
 status = "Prototyping"
-topics = [ "computer labs", "check-in", "mobile app" ]
+topics = [ "check-in", "computer labs", "mobile app" ]
+
+[projects_list_extra]
+title = "PPR Computer Lab Checkin App"

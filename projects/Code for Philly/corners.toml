@@ -1,6 +1,53 @@
 code_url = "https://github.com/lukemckinstry/11Corners"
 description = "Driving directions for the safety inclined"
-last_pushed_within = "over_a_year"
 name = "corners"
+organization_name = "Code for Philly"
 status = "Prototyping"
-topics = [ "Mapping", "Safety", "navigation" ]
+topics = [ "Mapping", "navigation", "Safety" ]
+
+[github]
+archived = false
+created_at = "2017-09-30T19:54:59Z"
+default_branch = "master"
+description = "Driving directions for the safety inclined - Built on Python, Mongo,  OpenStreetMaps + https://data.pa.gov/"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "lukemckinstry/11Corners"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 105_396_902
+language = "Python"
+license = { }
+name = "11Corners"
+network_count = 1
+node_id = "MDEwOlJlcG9zaXRvcnkxMDUzOTY5MDI="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+subscribers_count = 2
+temp_clone_token = ""
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 16_727_618
+  login = "lukemckinstry"
+  node_id = "MDQ6VXNlcjE2NzI3NjE4"
+  site_admin = false
+  type = "User"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
+
+[projects_list_extra]
+title = "100Corners"

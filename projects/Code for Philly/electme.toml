@@ -1,8 +1,8 @@
 code_url = "https://github.com/1nullpointer/elect-me"
 description = "A jobs board for elected offices with analysis of how difficult each is to win"
-last_pushed_within = "over_a_year"
 link_url = "https://elect-me-1255.appspot.com/index.html"
 name = "electme"
+organization_name = "Code for Philly"
 status = "Prototyping"
 topics = [
   "Democracy",
@@ -14,3 +14,51 @@ topics = [
   "Republican Party",
   "Voting"
 ]
+
+[github]
+archived = false
+created_at = "2016-03-19T16:10:00Z"
+default_branch = "master"
+description = "Elect me"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "1nullpointer/elect-me"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "https://elect-me-1255.appspot.com/index.html"
+id = 54_274_631
+language = "HTML"
+license = { }
+name = "elect-me"
+network_count = 3
+node_id = "MDEwOlJlcG9zaXRvcnk1NDI3NDYzMQ=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+subscribers_count = 6
+temp_clone_token = ""
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 15_132_811
+  login = "1nullpointer"
+  node_id = "MDQ6VXNlcjE1MTMyODEx"
+  site_admin = false
+  type = "User"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
+
+[projects_list_extra]
+chat_channel = "elect-me"
+title = "electME"

@@ -1,3 +1,7 @@
 description = "Working with the data located here:"
 name = "births_and_deaths_viz"
+organization_name = "Code for Philly"
 status = "Commenting"
+
+[projects_list_extra]
+title = "Births and Deaths Viz"

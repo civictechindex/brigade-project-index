@@ -1,5 +1,9 @@
 code_url = "https://github.com/PhillyHealthDataRepo"
 description = "Important: Read this!"
 name = "Public_Health_Data_Repository"
+organization_name = "Code for Philly"
 status = "Prototyping"
 topics = [ "Health" ]
+
+[projects_list_extra]
+title = "Philly Open Health"

@@ -1,4 +1,8 @@
 description = "Cite Club is an attempt to incentivize and streamline the process of fixing [citation needed] tags on Wikipedia entries."
 name = "cite_club"
+organization_name = "Code for Philly"
 status = "Commenting"
 topics = [ "Knowledge" ]
+
+[projects_list_extra]
+title = "Cite Club"

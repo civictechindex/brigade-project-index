@@ -1,6 +1,58 @@
 code_url = "https://github.com/csskfulton/PhillyPoliceDroid"
 description = "Philly Police Droid (PPD) is a Android mobile app that updates users on local crime activity in the city of Philadelphia. PPD displays data of the city's crime activity, traffic advisories and unsolved crime video by police district. Also, users are able to set news alerts based on districts in which they're concerned about."
-last_pushed_within = "over_a_year"
 name = "philly_police_droid"
+organization_name = "Code for Philly"
 status = "Prototyping"
 topics = [ "Crime", "Philly" ]
+
+[github]
+archived = false
+created_at = "2018-01-17T18:57:31Z"
+default_branch = "master"
+description = "Philly Police Droid (PPD) is a Android mobile app that updates users on local crime activity in the city of Philadelphia. PPD displays data of the city's crime activity, traffic advisories and unsolved crime video by police district. Also, users are able to set news alerts based on districts in which they're concerned about."
+disabled = false
+fork = false
+forks_within = 10
+full_name = "csskfulton/PhillyPoliceDroid"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 117_879_092
+language = "Java"
+name = "PhillyPoliceDroid"
+network_count = 1
+node_id = "MDEwOlJlcG9zaXRvcnkxMTc4NzkwOTI="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+subscribers_count = 3
+temp_clone_token = ""
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_098_713
+  login = "csskfulton"
+  node_id = "MDQ6VXNlcjIwOTg3MTM="
+  site_admin = false
+  type = "User"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
+
+[projects_list_extra]
+title = "Philly Police Droid"

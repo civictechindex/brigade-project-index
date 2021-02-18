@@ -2,5 +2,9 @@ code_url = "http://philly-phlash.sites.emr.ge"
 description = "Philly Phlash App is a mobile app for the Philly Phlash trolley. Phlash is the trolley services managed by Independence Visitor Center (http://www.phlvisitorcenter.com/) that runs between May - October. Phlash is a tourism trolley that covers all Philadelphia vacation spots from the Independence Hall to Philly Zoo."
 link_url = "http://www.ridephillyphlash.com/"
 name = "Philly_Phlash_App"
+organization_name = "Code for Philly"
 status = "Commenting"
-topics = [ "Transit", "Tourism" ]
+topics = [ "Tourism", "Transit" ]
+
+[projects_list_extra]
+title = "Philly Phlash App"

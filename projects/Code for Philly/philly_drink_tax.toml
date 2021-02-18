@@ -1,6 +1,53 @@
 code_url = "https://github.com/davisshaver/phillydrinktax"
-last_pushed_within = "over_a_year"
 link_url = "http://phillydrinktax.com"
 name = "philly_drink_tax"
+organization_name = "Code for Philly"
 status = "Maintaining"
 topics = [ "CivicEngagement", "Education", "Elections", "Voting" ]
+
+[github]
+archived = false
+created_at = "2015-04-26T13:27:30Z"
+default_branch = "master"
+description = "WordPress theme to power PhillyDrinkTax.com"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "davisshaver/phillydrinktax"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://www.phillydrinktax.com"
+id = 34_612_549
+language = "CSS"
+license = { }
+name = "phillydrinktax"
+network_count = 0
+node_id = "MDEwOlJlcG9zaXRvcnkzNDYxMjU0OQ=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+subscribers_count = 3
+temp_clone_token = ""
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 1_636_964
+  login = "davisshaver"
+  node_id = "MDQ6VXNlcjE2MzY5NjQ="
+  site_admin = false
+  type = "User"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
+
+[projects_list_extra]
+title = "Philly Drink Tax"

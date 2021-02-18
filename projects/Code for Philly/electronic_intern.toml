@@ -1,6 +1,58 @@
 code_url = "https://github.com/davewalk/electronic_intern"
 description = 'Electronic Intern will help the [PhillyASAP](http://phillyasap.org/) program maintain their listing of after-school programs in Philadelphia. Instead of having interns spend all summer cold-calling these programs, Electronic Intern will send automated calls that will direct the location to either send in their details by fax, a submit form on the website or press "4" to be directed back to PhillyASAP.'
-last_pushed_within = "over_a_year"
 name = "electronic_intern"
+organization_name = "Code for Philly"
 status = "Drifting"
 topics = [ "After-school Programs", "PhillyASAP", "Voice" ]
+
+[github]
+archived = false
+created_at = "2014-04-13T02:11:30Z"
+default_branch = "master"
+description = "An electronic intern for PhillyASAP using Twilio voice"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "davewalk/electronic_intern"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 18_719_432
+language = "Python"
+name = "electronic_intern"
+network_count = 0
+node_id = "MDEwOlJlcG9zaXRvcnkxODcxOTQzMg=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+subscribers_count = 2
+temp_clone_token = ""
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "gpl-3.0"
+  name = "GNU General Public License v3.0"
+  node_id = "MDc6TGljZW5zZTk="
+  spdx_id = "GPL-3.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 759_312
+  login = "davewalk"
+  node_id = "MDQ6VXNlcjc1OTMxMg=="
+  site_admin = false
+  type = "User"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
+
+[projects_list_extra]
+title = "Electronic Intern"

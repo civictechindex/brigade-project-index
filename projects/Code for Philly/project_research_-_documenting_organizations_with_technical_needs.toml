@@ -1,4 +1,9 @@
 description = "Every month, dozens of volunteers attend the Code for Philly (CfP) 101 event, bringing with them a diverse set of technical and leadership skills. Similarly, every month, many organizations reach out to CfP about creating projects. However, two big challenges remain."
 name = "project_research_-_documenting_organizations_with_technical_needs"
+organization_name = "Code for Philly"
 status = "Bootstrapping"
-topics = [ "Education", "Civic involvement" ]
+topics = [ "Civic involvement", "Education" ]
+
+[projects_list_extra]
+chat_channel = "project-research"
+title = "Project Research - Documenting Organizations with Technical Needs"

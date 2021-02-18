@@ -1,4 +1,8 @@
 description = "The LGBTQ community has difficulty finding safe and competent healthcare services that take into consideration the wide spectrum of gender and sexuality-related issues. Many people in the LGBTQ community avoid or delay care because of past or expected homophobic attitudes and practices. In the “Philly Queer Exchange” Facebook group, requests for healthcare service recommendations are as frequent as a couple requests per week."
 name = "lgbtq_health_app"
+organization_name = "Code for Philly"
 status = "Bootstrapping"
-topics = [ "lgbtq", "Healthcare", "Public Health" ]
+topics = [ "Healthcare", "lgbtq", "Public Health" ]
+
+[projects_list_extra]
+title = "LGBTQ Health App"

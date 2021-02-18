@@ -1,16 +1,20 @@
 code_url = "https://github.com/PlantSwapr/PlantSwapr.git"
 description = "The entire city is our free botanic garden!"
-flags = [ "github_404" ]
+github = false
 name = "Plant_Swapr"
+organization_name = "Code for Philly"
 status = "Commenting"
 topics = [
   "Botany",
-  "Environment",
-  "Sharing",
-  "Swapping",
-  "Seeds",
-  "Plants",
   "Bulbs",
+  "Environment",
   "Horticulture",
-  "Permaculture"
+  "Permaculture",
+  "Plants",
+  "Seeds",
+  "Sharing",
+  "Swapping"
 ]
+
+[projects_list_extra]
+title = "PlantSwapr"

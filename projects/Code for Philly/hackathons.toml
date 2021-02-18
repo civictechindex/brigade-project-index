@@ -2,13 +2,17 @@ code_url = "http://appsforphilly.org/education"
 description = "This project serves as a hub for planning and updating Code for Philly-organized hackathons. PM us if you have ideas for new verticals to explore or want to share feedback on hackathons more generally."
 link_url = "http://appsforphilly.org/"
 name = "hackathons"
+organization_name = "Code for Philly"
 status = "Maintaining"
 topics = [
+  "arts and culture",
+  "Democracy",
+  "Education",
   "Hacking",
   "hackthons",
-  "Education",
-  "Transportation",
   "Health",
-  "arts and culture",
-  "Democracy"
+  "Transportation"
 ]
+
+[projects_list_extra]
+title = "Hackathons"

@@ -1,4 +1,9 @@
 description = "Plan your trips better by checking your SEPTA route before you go."
 name = "septa_on_time"
+organization_name = "Code for Philly"
 status = "Prototyping"
 topics = [ "Mapping" ]
+
+[projects_list_extra]
+chat_channel = "septaontime"
+title = "SEPTA On Time"

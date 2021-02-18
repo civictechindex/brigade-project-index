@@ -1,7 +1,62 @@
 code_url = "https://github.com/CfABrigadePhiladelphia/WhatsGoingOn"
 description = "A campaign website for promoting and collecting data about after-school programs in Philadelphia, and a mobile webapp based on Sencha Touch for finding programs from mobile web browsers or as a Philly 311 app widget."
-last_pushed_within = "over_a_year"
 link_url = "http://whatsgoingonphl.org"
 name = "What-s_Going_On"
+organization_name = "Code for Philly"
 status = "Hibernating"
 topics = [ "Education" ]
+
+[github]
+archived = false
+created_at = "2013-06-03T17:09:56Z"
+default_branch = "master"
+description = "A LocalWiki-backed directory of after school programs."
+disabled = false
+fork = false
+forks_within = 0
+full_name = "CodeForPhilly/WhatsGoingOn"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 10_459_830
+language = "CSS"
+license = { }
+name = "WhatsGoingOn"
+network_count = 0
+node_id = "MDEwOlJlcG9zaXRvcnkxMDQ1OTgzMA=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+subscribers_count = 6
+temp_clone_token = ""
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.organization]
+  gravatar_id = ""
+  id = 1_451_716
+  login = "CodeForPhilly"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE0NTE3MTY="
+  site_admin = false
+  type = "Organization"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 1_451_716
+  login = "CodeForPhilly"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE0NTE3MTY="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
+
+[projects_list_extra]
+title = "What's Going On?"

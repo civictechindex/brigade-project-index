@@ -1,5 +1,9 @@
 code_url = "https://live.phillyopen.org/map"
 link_url = "https://live-septa.rhcloud.cm/map"
 name = "LiveTransit"
+organization_name = "Code for Philly"
 status = "Commenting"
 topics = [ "Transit" ]
+
+[projects_list_extra]
+title = "LiveTransit"

@@ -1,6 +1,53 @@
 code_url = "https://github.com/jimRsmiley/septa-regional-rail-crime-heatmap"
 description = "Note: this project is heavy on data manipulation and coding."
-last_pushed_within = "over_a_year"
 link_url = "http://jimrsmiley.github.io/septa-regional-rail-crime-heatmap/"
 name = "Heatmapping_crime_around_stuff"
+organization_name = "Code for Philly"
 status = "Commenting"
+
+[github]
+archived = false
+created_at = "2013-10-15T19:20:18Z"
+default_branch = "master"
+description = { }
+disabled = false
+fork = false
+forks_within = 10
+full_name = "jimRsmiley/septa-regional-rail-crime-heatmap"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 13_599_701
+language = "JavaScript"
+license = { }
+name = "septa-regional-rail-crime-heatmap"
+network_count = 1
+node_id = "MDEwOlJlcG9zaXRvcnkxMzU5OTcwMQ=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+subscribers_count = 2
+temp_clone_token = ""
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 1_074_616
+  login = "jimRsmiley"
+  node_id = "MDQ6VXNlcjEwNzQ2MTY="
+  site_admin = false
+  type = "User"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
+
+[projects_list_extra]
+title = "Heatmapping crime around stuff"

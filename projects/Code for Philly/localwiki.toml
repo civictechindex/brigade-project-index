@@ -1,5 +1,9 @@
 description = "A LocalWiki for Philadelphia."
 link_url = "http://localwiki.org/philadelphia/"
 name = "localwiki"
+organization_name = "Code for Philly"
 status = "Maintaining"
-topics = [ "Knowledge", "Education" ]
+topics = [ "Education", "Knowledge" ]
+
+[projects_list_extra]
+title = "LocalWiki"

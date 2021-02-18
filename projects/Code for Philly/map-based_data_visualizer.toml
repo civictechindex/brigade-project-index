@@ -1,4 +1,8 @@
 description = "This project originally was going to start by trying to visualize school budget data.  However, the budget data did not contain amounts per school, just for broad-based categories.  Instead, we chose to develop a map-based visualization project using test score data which did have details at the school level."
 name = "map-based_data_visualizer"
+organization_name = "Code for Philly"
 status = "Commenting"
 topics = [ "GIS" ]
+
+[projects_list_extra]
+title = "Map-based data visualizer"

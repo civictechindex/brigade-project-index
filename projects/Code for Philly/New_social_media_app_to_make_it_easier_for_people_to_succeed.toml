@@ -1,3 +1,7 @@
 description = "We're creating a new social media app (native and web) to make it easier for anyone to show off their talent and succeed in life. If you're interested hit me up @ kevin@vuid.co (don't judge our website, it's slow and intentionally stealthy right now - but we think you'll like the app - or maybe not)."
 name = "New_social_media_app_to_make_it_easier_for_people_to_succeed"
+organization_name = "Code for Philly"
 status = "Commenting"
+
+[projects_list_extra]
+title = "New social media app to make it easier for people to succeed"

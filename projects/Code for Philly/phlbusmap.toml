@@ -1,3 +1,7 @@
 name = "phlbusmap"
+organization_name = "Code for Philly"
 status = "Hibernating"
-topics = [ "Transit", "Mapping", "SEPTA" ]
+topics = [ "Mapping", "SEPTA", "Transit" ]
+
+[projects_list_extra]
+title = "phlbusmap"

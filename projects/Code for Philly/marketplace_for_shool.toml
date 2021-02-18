@@ -1,5 +1,9 @@
 code_url = "https://bitbucket.org/xiaoerge/marketplace"
 description = "We are developing a platform that enables schools to locate profit or non-profit organizations for funding and services, and allows organizations to reach out to schools for donations."
 name = "marketplace_for_shool"
+organization_name = "Code for Philly"
 status = "Hibernating"
 topics = [ "Education" ]
+
+[projects_list_extra]
+title = "MarketPlace for school partners"

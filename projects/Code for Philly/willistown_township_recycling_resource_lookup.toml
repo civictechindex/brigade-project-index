@@ -1,3 +1,7 @@
 link_url = "https://public.tableau.com/profile/zach3504#!/vizhome/WillistownRecyclingLookup/Search?publish=yes"
 name = "willistown_township_recycling_resource_lookup"
-status = "Testing"
+organization_name = "Code for Philly"
+status = "Maintaining"
+
+[projects_list_extra]
+title = "Malvern Recycling Resource Lookup"

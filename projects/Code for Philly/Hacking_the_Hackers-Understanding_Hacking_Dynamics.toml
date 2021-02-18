@@ -2,5 +2,9 @@ code_url = "https://docs.google.com/document/d/1HydauEeMzWMvFqKUPmrqqKKr4RCB8ght
 description = "Hello PHL Hackers:"
 link_url = "https://docs.google.com/document/d/1HydauEeMzWMvFqKUPmrqqKKr4RCB8ght1aZqwkHTNbI/edit"
 name = "Hacking_the_Hackers-Understanding_Hacking_Dynamics"
+organization_name = "Code for Philly"
 status = "Commenting"
 topics = [ "Hacking" ]
+
+[projects_list_extra]
+title = "Hacking the Hackers : Understanding Hacking Dynamics"

@@ -1,5 +1,10 @@
 description = "Al-Bustan is a Philadelphia-based non profit that promotes and affirms Arab culture. They reached out to Code for Philly for help with the website for their art installation Immigrant Alphabet. Immigrant Alphabet was produced in partnership with Wendy Ewald and students from Northeast High School. The installation was in residence at the City of Philadelphia’s Municipal Services Building. It'S currently on display at the Cherry Street Pier in Philadelphia. It's Al-Bustan’s hope that the installation will travel on even further from there, to new cities and states."
 link_url = "http://www.albustanseeds.org/ialphabet/"
 name = "al-bustan_immigrant_alphabet_website_redesign"
+organization_name = "Code for Philly"
 status = "Bootstrapping"
-topics = [ "Immigration", "arts and culture" ]
+topics = [ "arts and culture", "Immigration" ]
+
+[projects_list_extra]
+chat_channel = "iAlphabet"
+title = "Al-Bustan Immigrant Alphabet Website Redesign"

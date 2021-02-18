@@ -1,4 +1,9 @@
 description = "Code for Philly, Data Philly, R Ladies Philly, and the Data Jawn are joining together to host a data science hackathon to answer pertinent questions around the Opioid Crisis in Philadelphia using the power and talent inherent in the Philadelphia data community. The goals of this event are to provide health organizations with insight that may normally be unavailable to them without the resources of a data professional on staff and to demonstrate creative analyses that help folks gain more understanding around the opioid epidemic in our city."
 name = "opioid_data_hackathon"
+organization_name = "Code for Philly"
 status = "Drifting"
-topics = [ "Opioid Crisis", "Data", "Data Science" ]
+topics = [ "Data", "Data Science", "Opioid Crisis" ]
+
+[projects_list_extra]
+chat_channel = "opioid-data-hack"
+title = "Opioid Data Hackathon"

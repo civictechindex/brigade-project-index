@@ -1,4 +1,8 @@
 code_url = "https://drive.google.com/?usp=folder&authuser=0#folders/0Bwr1ULORR8WPWnZkNy10VmVqWU0"
 description = "uForage Philly is an app for finding street vendors and food trucks in Philadelphia."
 name = "uforage_philly"
+organization_name = "Code for Philly"
 status = "Commenting"
+
+[projects_list_extra]
+title = "uForage Philly"

@@ -2,5 +2,9 @@ code_url = "http://phor.net/apps/septa/"
 description = "SEPTA Regional Rail Independent On-Time Performance Report"
 link_url = "http://phor.net/apps/septa/"
 name = "SEPTA_Train_Schedule_Analyzer"
+organization_name = "Code for Philly"
 status = "Maintaining"
 topics = [ "Transit" ]
+
+[projects_list_extra]
+title = "SEPTA Train Schedule Analyzer"

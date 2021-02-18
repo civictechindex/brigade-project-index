@@ -1,6 +1,58 @@
 code_url = "https://github.com/ssuffian/comphonemploy"
 description = "Many people seeking employment have sparse availability to the internet. Without smartphones or consistent access to the internet, it is very difficult to respond to job postings in a timely manner. This application will ingest relevant job postings from popular websites, filter out only those that indicate they can be contacted by phone, and parse the postings into a 140-character explanation that can include the phone number, hourly wage, address, and title of that posting. People can sign up for certain job searches such as 'warehouse philadelphia', and receive text messages when a new, phone-contactable, posting appears. They can then respond to the posting immediately."
-last_pushed_within = "over_a_year"
 name = "text_alerts_for_job_postings"
+organization_name = "Code for Philly"
 status = "Commenting"
 topics = [ "employment" ]
+
+[github]
+archived = false
+created_at = "2014-09-27T14:47:47Z"
+default_branch = "master"
+description = { }
+disabled = false
+fork = false
+forks_within = 10
+full_name = "ssuffian/comphonemploy"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 24_534_217
+language = "Python"
+name = "comphonemploy"
+network_count = 1
+node_id = "MDEwOlJlcG9zaXRvcnkyNDUzNDIxNw=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+subscribers_count = 0
+temp_clone_token = ""
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 7_773_786
+  login = "ssuffian"
+  node_id = "MDQ6VXNlcjc3NzM3ODY="
+  site_admin = false
+  type = "User"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
+
+[projects_list_extra]
+title = "Text Alerts for Job Postings"

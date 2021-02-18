@@ -1,6 +1,67 @@
 code_url = "https://github.com/CodeForPhilly/prevention-point"
 description = "[Prevention Point](http://ppponline.org/) is a private nonprofit organization providing harm reduction services to Philadelphia and the surrounding area."
-last_pushed_within = "week"
 name = "prevention_point_unified_reporting_system"
+organization_name = "Code for Philly"
 status = "Prototyping"
 topics = [ "Data", "Public Heath", "UI" ]
+
+[github]
+archived = false
+created_at = "2019-03-12T23:33:02Z"
+default_branch = "master"
+description = "Current Functional Product"
+disabled = false
+fork = false
+forks_within = 100
+full_name = "CodeForPhilly/prevention-point"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 175_312_036
+language = "JavaScript"
+name = "prevention-point"
+network_count = 15
+node_id = "MDEwOlJlcG9zaXRvcnkxNzUzMTIwMzY="
+open_issues_within = 100
+private = false
+pushed_within = "week"
+stargazers_within = 100
+subscribers_count = 20
+temp_clone_token = ""
+topics = [ ]
+updated_within = "week"
+watchers_within = 100
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.organization]
+  gravatar_id = ""
+  id = 1_451_716
+  login = "CodeForPhilly"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE0NTE3MTY="
+  site_admin = false
+  type = "Organization"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 1_451_716
+  login = "CodeForPhilly"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE0NTE3MTY="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
+
+[projects_list_extra]
+chat_channel = "preventionpoint"
+title = "Prevention Point Unified Reporting System"

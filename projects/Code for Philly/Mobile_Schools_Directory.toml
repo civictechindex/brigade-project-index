@@ -1,5 +1,9 @@
 description = "A mobile webapp powered by Sencha Touch for browsing Philly's open school data"
 link_url = "http://kbc-sandbox.sites.emr.ge/app/PhillySchools/production/"
 name = "Mobile_Schools_Directory"
+organization_name = "Code for Philly"
 status = "Hibernating"
 topics = [ "Education" ]
+
+[projects_list_extra]
+title = "Mobile Schools Directory"

@@ -1,10 +1,14 @@
 description = "PROJECT ON HOLD"
 link_url = "https://uno.nhu313.com/"
 name = "interpreter_training"
+organization_name = "Code for Philly"
 status = "Commenting"
 topics = [
-  "Language Access",
+  "Education",
   "foreign language",
   "Language",
-  "Education"
+  "Language Access"
 ]
+
+[projects_list_extra]
+title = "PROJECT ON HOLD - Interpreter Training"

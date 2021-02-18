@@ -1,3 +1,7 @@
 link_url = "checkmarkchallenge.com"
 name = "social_exercise_challenge"
+organization_name = "Code for Philly"
 status = "Commenting"
+
+[projects_list_extra]
+title = "Social Exercise Challenge"

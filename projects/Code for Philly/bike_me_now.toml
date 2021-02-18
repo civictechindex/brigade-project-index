@@ -1,6 +1,58 @@
 code_url = "http://github.com/boutell/bike-me-now"
 description = 'An indego app with just two buttons: "Closest Bike" and "Closest Dock."'
-last_pushed_within = "over_a_year"
 name = "bike_me_now"
+organization_name = "Code for Philly"
 status = "Prototyping"
-topics = [ "Cycling", "bike sharing", "indego" ]
+topics = [ "bike sharing", "Cycling", "indego" ]
+
+[github]
+archived = false
+created_at = "2015-06-16T23:57:38Z"
+default_branch = "master"
+description = "Find the closest bike, or the closest dock, in Philly's Indego bike sharing system. Idea: Ben Novack"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "boutell/bike-me-now"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 37_562_315
+language = "HTML"
+name = "bike-me-now"
+network_count = 2
+node_id = "MDEwOlJlcG9zaXRvcnkzNzU2MjMxNQ=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+subscribers_count = 2
+temp_clone_token = ""
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 32_125
+  login = "boutell"
+  node_id = "MDQ6VXNlcjMyMTI1"
+  site_admin = false
+  type = "User"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
+
+[projects_list_extra]
+title = "Bike Me Now"

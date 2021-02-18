@@ -1,9 +1,13 @@
 name = "the_food_connect_group"
+organization_name = "Code for Philly"
 status = "Testing"
 topics = [
-  "Food Insecurity",
-  "Hunger",
-  "Food",
   "Donation",
-  "food donation"
+  "Food",
+  "food donation",
+  "Food Insecurity",
+  "Hunger"
 ]
+
+[projects_list_extra]
+title = "The Food Connect Group"

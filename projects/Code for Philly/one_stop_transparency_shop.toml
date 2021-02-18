@@ -1,3 +1,7 @@
 description = "Provide searchable site linking campaign donations and lobbying data to resulting city contracts."
 name = "one_stop_transparency_shop"
+organization_name = "Code for Philly"
 status = "Commenting"
+
+[projects_list_extra]
+title = "One Stop Transparency Shop"

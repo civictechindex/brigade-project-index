@@ -1,7 +1,67 @@
 code_url = "https://github.com/codeforphilly/my-ep"
 description = "This project is designed to provide middle school-aged and high school-aged students with learning disabilities, understand their rights as students with IEP (Individualized Education Plans). It gives them the tool to empower themselves and take charge of their education."
-last_pushed_within = "over_a_year"
 link_url = "https://codeforphilly.github.io/my-ep/"
 name = "my_ep"
+organization_name = "Code for Philly"
 status = "Prototyping"
 topics = [ "Education", "Enpowerment" ]
+
+[github]
+archived = false
+created_at = "2015-10-17T16:43:27Z"
+default_branch = "master"
+description = { }
+disabled = false
+fork = false
+forks_within = 10
+full_name = "CodeForPhilly/my-ep"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 44_445_681
+language = "JavaScript"
+name = "my-ep"
+network_count = 2
+node_id = "MDEwOlJlcG9zaXRvcnk0NDQ0NTY4MQ=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+subscribers_count = 18
+temp_clone_token = ""
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.organization]
+  gravatar_id = ""
+  id = 1_451_716
+  login = "CodeForPhilly"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE0NTE3MTY="
+  site_admin = false
+  type = "Organization"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 1_451_716
+  login = "CodeForPhilly"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE0NTE3MTY="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
+
+[projects_list_extra]
+title = "My EP"

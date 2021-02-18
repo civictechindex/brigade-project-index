@@ -2,5 +2,9 @@ code_url = "http://appsforphilly.org/develop"
 description = "Mentions would be a new object in the AppsForPhilly database that tracks URLs for News stories, blog posts, notable tweets, etc that mention an app in the catalog. Another object, AppMentions, will link apps with their mentions."
 link_url = "http://appsforphilly.org/"
 name = "Apps_for_Philly"
+organization_name = "Code for Philly"
 status = "Maintaining"
 topics = [ "Hacking" ]
+
+[projects_list_extra]
+title = "Apps for Philly"

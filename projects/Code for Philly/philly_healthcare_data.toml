@@ -1,3 +1,8 @@
 name = "philly_healthcare_data"
+organization_name = "Code for Philly"
 status = "Bootstrapping"
 topics = [ "Healthcare" ]
+
+[projects_list_extra]
+chat_channel = "launchpadhealth"
+title = "Philly Healthcare Data"

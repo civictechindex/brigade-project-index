@@ -1,7 +1,7 @@
 code_url = "https://github.com/corydissinger/geotrellis-transit"
 description = "Original Idea: http://studiocns.org/enterreturn/"
-last_pushed_within = "over_a_year"
 name = "Enter-Return"
+organization_name = "Code for Philly"
 status = "Commenting"
 topics = [
   "Anti-Prisons",
@@ -11,3 +11,132 @@ topics = [
   "Transformative-Justice",
   "Transit"
 ]
+
+[github]
+archived = false
+created_at = "2013-09-21T20:02:39Z"
+default_branch = "master"
+description = "API and libraries for generating travelsheds from OSM & GTFS data"
+disabled = false
+fork = true
+forks_within = 0
+full_name = "corydissinger/geotrellis-transit"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 13_001_476
+language = "JavaScript"
+license = { }
+name = "geotrellis-transit"
+network_count = 20
+node_id = "MDEwOlJlcG9zaXRvcnkxMzAwMTQ3Ng=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+subscribers_count = 2
+temp_clone_token = ""
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_505_980
+  login = "corydissinger"
+  node_id = "MDQ6VXNlcjI1MDU5ODA="
+  site_admin = false
+  type = "User"
+
+  [github.parent]
+  archived = true
+  created_at = "2013-07-09T19:38:36Z"
+  default_branch = "master"
+  description = "API and libraries for generating travelsheds from OSM & GTFS data"
+  disabled = false
+  fork = false
+  forks_within = 100
+  full_name = "geotrellis/geotrellis-transit"
+  has_downloads = true
+  has_issues = true
+  has_pages = false
+  has_projects = true
+  has_wiki = true
+  homepage = { }
+  id = 11_292_106
+  language = "JavaScript"
+  name = "geotrellis-transit"
+  node_id = "MDEwOlJlcG9zaXRvcnkxMTI5MjEwNg=="
+  open_issues_within = 10
+  private = false
+  pushed_within = "over_a_year"
+  stargazers_within = 100
+  topics = [ ]
+  updated_within = "over_a_year"
+  watchers_within = 100
+
+    [github.parent.license]
+    key = "other"
+    name = "Other"
+    node_id = "MDc6TGljZW5zZTA="
+    spdx_id = "NOASSERTION"
+
+    [github.parent.owner]
+    gravatar_id = ""
+    id = 3_129_444
+    login = "geotrellis"
+    node_id = "MDEyOk9yZ2FuaXphdGlvbjMxMjk0NDQ="
+    site_admin = false
+    type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
+
+  [github.source]
+  archived = true
+  created_at = "2013-07-09T19:38:36Z"
+  default_branch = "master"
+  description = "API and libraries for generating travelsheds from OSM & GTFS data"
+  disabled = false
+  fork = false
+  forks_within = 100
+  full_name = "geotrellis/geotrellis-transit"
+  has_downloads = true
+  has_issues = true
+  has_pages = false
+  has_projects = true
+  has_wiki = true
+  homepage = { }
+  id = 11_292_106
+  language = "JavaScript"
+  name = "geotrellis-transit"
+  node_id = "MDEwOlJlcG9zaXRvcnkxMTI5MjEwNg=="
+  open_issues_within = 10
+  private = false
+  pushed_within = "over_a_year"
+  stargazers_within = 100
+  topics = [ ]
+  updated_within = "over_a_year"
+  watchers_within = 100
+
+    [github.source.license]
+    key = "other"
+    name = "Other"
+    node_id = "MDc6TGljZW5zZTA="
+    spdx_id = "NOASSERTION"
+
+    [github.source.owner]
+    gravatar_id = ""
+    id = 3_129_444
+    login = "geotrellis"
+    node_id = "MDEyOk9yZ2FuaXphdGlvbjMxMjk0NDQ="
+    site_admin = false
+    type = "Organization"
+
+[projects_list_extra]
+title = "Enter/Return"

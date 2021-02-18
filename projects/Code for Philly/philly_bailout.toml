@@ -1,10 +1,15 @@
 description = "Project Description"
 link_url = "https://www.phillybailout.com/"
 name = "philly_bailout"
+organization_name = "Code for Philly"
 status = "Commenting"
 topics = [
-  "Social Justice",
   "Bail Reform",
+  "Criminal Justice Reform",
   "Incarceration",
-  "Criminal Justice Reform"
+  "Social Justice"
 ]
+
+[projects_list_extra]
+chat_channel = "philly-bailout"
+title = "Philly Bailout"

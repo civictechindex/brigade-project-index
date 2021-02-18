@@ -2,5 +2,9 @@ code_url = "http://wp.streetwise.co/wp-content/uploads/2011/08/I-dont-always-tes
 description = "Find political districts for any SEPTA route."
 link_url = "http://www3.septa.org/reps/"
 name = "Routes_and_Reps"
+organization_name = "Code for Philly"
 status = "Commenting"
-topics = [ "Transit", "Democracy" ]
+topics = [ "Democracy", "Transit" ]
+
+[projects_list_extra]
+title = "Routes and Reps"

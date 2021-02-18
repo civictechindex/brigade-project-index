@@ -1,7 +1,67 @@
 code_url = "http://github.com/JarvusInnovations/Emergence"
 description = "A PHP- and NodeJS- development and deployment environment for Web 3.0"
-last_pushed_within = "month"
 link_url = "http://emr.ge"
 name = "Emergence"
+organization_name = "Code for Philly"
 status = "Maintaining"
 topics = [ "Development" ]
+
+[github]
+archived = false
+created_at = "2011-07-17T02:23:49Z"
+default_branch = "develop"
+description = "Emergence is a NodeJS-powered server that provides a web interface for configuring and launching the services that power your website or application. It provides virtualized storage containers for your code and assets that are accessible via WebDAV and API. Each storage container maintains complete version history for all files and can be linked over the web to a parent container that files will be inherited from just-in-time."
+disabled = false
+fork = false
+forks_within = 10
+full_name = "JarvusInnovations/emergence"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://emr.ge"
+id = 2_060_306
+language = "PHP"
+name = "emergence"
+network_count = 9
+node_id = "MDEwOlJlcG9zaXRvcnkyMDYwMzA2"
+open_issues_within = 100
+private = false
+pushed_within = "year"
+stargazers_within = 100
+subscribers_count = 8
+temp_clone_token = ""
+topics = [ ]
+updated_within = "year"
+watchers_within = 100
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.organization]
+  gravatar_id = ""
+  id = 609_450
+  login = "JarvusInnovations"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjYwOTQ1MA=="
+  site_admin = false
+  type = "Organization"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 609_450
+  login = "JarvusInnovations"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjYwOTQ1MA=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
+
+[projects_list_extra]
+title = "Emergence"

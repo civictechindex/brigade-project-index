@@ -2,5 +2,9 @@ code_url = "http://phl.io"
 description = "The Philly Public Cloud will utilize OpenStack together with community-contributed hardware, rackspace, and management to provide free hosting for public-service apps and sites."
 link_url = "http://phl.io"
 name = "Philly_Cloud_Service"
+organization_name = "Code for Philly"
 status = "Commenting"
 topics = [ "DevOps" ]
+
+[projects_list_extra]
+title = "Philly Public Cloud"

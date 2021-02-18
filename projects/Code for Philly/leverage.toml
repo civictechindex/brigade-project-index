@@ -1,7 +1,63 @@
 code_url = "https://github.com/Lever-age/leverage/"
 description = "The goal of Leverage is to empower citizens of Philadelphia to use campaign finance data when making informed decisions about who they donate to, who they support, and who they vote for."
-last_pushed_within = "over_a_year"
 link_url = "http://leveragecampaignfinance.org"
 name = "leverage"
+organization_name = "Code for Philly"
 status = "Prototyping"
 topics = [ "Campaign Finance Reform", "Elections", "Voting" ]
+
+[github]
+archived = false
+created_at = "2016-03-19T16:48:52Z"
+default_branch = "master"
+description = "Empower citizens of Philadelphia to use campaign finance data when making informed decisions about who they donate to, who they support, and who they vote for."
+disabled = false
+fork = false
+forks_within = 100
+full_name = "Lever-age/leverage"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "http://leveragecampaignfinance.org/"
+id = 54_276_519
+language = { }
+license = { }
+name = "leverage"
+network_count = 11
+node_id = "MDEwOlJlcG9zaXRvcnk1NDI3NjUxOQ=="
+open_issues_within = 100
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 100
+subscribers_count = 16
+temp_clone_token = ""
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 100
+
+  [github.organization]
+  gravatar_id = ""
+  id = 18_223_346
+  login = "Lever-age"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE4MjIzMzQ2"
+  site_admin = false
+  type = "Organization"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 18_223_346
+  login = "Lever-age"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE4MjIzMzQ2"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
+
+[projects_list_extra]
+chat_channel = "leverage"
+title = "Leverage: Philly Campaign Finance"
