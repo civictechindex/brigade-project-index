@@ -1,0 +1,52 @@
+code_url = "https://github.com/opennebraska/openrfps-scrapers"
+description = "Scraping government contracting opportunities."
+git_url = "git://github.com/opennebraska/openrfps-scrapers.git"
+link_url = "openrfps.org"
+name = "openrfps-scrapers"
+organization_name = "Code for Nebraska"
+
+[github]
+archived = false
+created_at = "2014-03-06T14:37:41Z"
+default_branch = "master"
+description = "Scraping government contracting opportunities."
+disabled = false
+fork = true
+forks_within = 0
+full_name = "opennebraska/openrfps-scrapers"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "openrfps.org"
+id = 17_480_653
+language = "CoffeeScript"
+name = "openrfps-scrapers"
+node_id = "MDEwOlJlcG9zaXRvcnkxNzQ4MDY1Mw=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "gpl-3.0"
+  name = "GNU General Public License v3.0"
+  node_id = "MDc6TGljZW5zZTk="
+  spdx_id = "GPL-3.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 5_042_049
+  login = "opennebraska"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjUwNDIwNDk="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

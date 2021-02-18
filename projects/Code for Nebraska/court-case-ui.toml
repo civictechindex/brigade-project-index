@@ -1,0 +1,46 @@
+code_url = "https://github.com/opennebraska/court-case-ui"
+description = "UI for Court Case Tracking"
+git_url = "git://github.com/opennebraska/court-case-ui.git"
+name = "court-case-ui"
+organization_name = "Code for Nebraska"
+
+[github]
+archived = false
+created_at = "2020-12-30T03:59:49Z"
+default_branch = "main"
+description = "UI for Court Case Tracking"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "opennebraska/court-case-ui"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 325_450_178
+language = "JavaScript"
+license = { }
+name = "court-case-ui"
+node_id = "MDEwOlJlcG9zaXRvcnkzMjU0NTAxNzg="
+open_issues_within = 10
+private = false
+pushed_within = "month"
+stargazers_within = 0
+topics = [ ]
+updated_within = "month"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 5_042_049
+  login = "opennebraska"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjUwNDIwNDk="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

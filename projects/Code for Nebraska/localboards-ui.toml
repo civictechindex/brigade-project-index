@@ -1,0 +1,46 @@
+code_url = "https://github.com/opennebraska/localboards-ui"
+description = "front interface using simple html5, bootstrab & knockout"
+git_url = "git://github.com/opennebraska/localboards-ui.git"
+name = "localboards-ui"
+organization_name = "Code for Nebraska"
+
+[github]
+archived = false
+created_at = "2013-11-26T00:17:38Z"
+default_branch = "master"
+description = "front interface using simple html5, bootstrab & knockout"
+disabled = false
+fork = true
+forks_within = 0
+full_name = "opennebraska/localboards-ui"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 14_702_530
+language = "Ruby"
+license = { }
+name = "localboards-ui"
+node_id = "MDEwOlJlcG9zaXRvcnkxNDcwMjUzMA=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 5_042_049
+  login = "opennebraska"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjUwNDIwNDk="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

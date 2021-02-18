@@ -1,0 +1,47 @@
+code_url = "https://github.com/opennebraska/staging-site"
+description = "A simple static site"
+git_url = "git://github.com/opennebraska/staging-site.git"
+link_url = "https://opennebraska.io/"
+name = "staging-site"
+organization_name = "Code for Nebraska"
+
+[github]
+archived = false
+created_at = "2013-10-23T00:16:53Z"
+default_branch = "master"
+description = "A simple static site"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "opennebraska/staging-site"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "https://opennebraska.io/"
+id = 13_789_465
+language = "CSS"
+license = { }
+name = "staging-site"
+node_id = "MDEwOlJlcG9zaXRvcnkxMzc4OTQ2NQ=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 5_042_049
+  login = "opennebraska"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjUwNDIwNDk="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

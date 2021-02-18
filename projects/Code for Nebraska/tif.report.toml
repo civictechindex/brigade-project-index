@@ -1,0 +1,47 @@
+code_url = "https://github.com/opennebraska/tif.report"
+description = "List of TIF information around the US. Tax Increment Financing"
+git_url = "git://github.com/opennebraska/tif.report.git"
+link_url = "http://tif.report"
+name = "tif.report"
+organization_name = "Code for Nebraska"
+
+[github]
+archived = false
+created_at = "2017-05-29T03:42:34Z"
+default_branch = "master"
+description = "List of TIF information around the US. Tax Increment Financing"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "opennebraska/tif.report"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "http://tif.report"
+id = 92_704_111
+language = "HTML"
+license = { }
+name = "tif.report"
+node_id = "MDEwOlJlcG9zaXRvcnk5MjcwNDExMQ=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 5_042_049
+  login = "opennebraska"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjUwNDIwNDk="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

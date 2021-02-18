@@ -1,0 +1,65 @@
+code_url = "https://github.com/opennebraska/landlord"
+description = "Douglas County Nebraska Parcels"
+git_url = "git://github.com/opennebraska/landlord.git"
+link_url = "https://opennebraska.github.io/landlord/"
+name = "landlord"
+organization_name = "Code for Nebraska"
+topics = [
+  "actions",
+  "civic-hacking",
+  "hacktoberfest",
+  "hacktoberfest2020",
+  "react"
+]
+
+[github]
+archived = false
+created_at = "2020-08-11T21:56:12Z"
+default_branch = "master"
+description = "Douglas County Nebraska Parcels"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "opennebraska/landlord"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "https://opennebraska.github.io/landlord/"
+id = 286_855_776
+language = "JavaScript"
+name = "landlord"
+node_id = "MDEwOlJlcG9zaXRvcnkyODY4NTU3NzY="
+open_issues_within = 10
+private = false
+pushed_within = "year"
+stargazers_within = 10
+topics = [
+  "actions",
+  "civic-hacking",
+  "hacktoberfest",
+  "hacktoberfest2020",
+  "react"
+]
+updated_within = "year"
+watchers_within = 10
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 5_042_049
+  login = "opennebraska"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjUwNDIwNDk="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

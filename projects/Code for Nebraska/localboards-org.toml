@@ -1,0 +1,45 @@
+code_url = "https://github.com/opennebraska/localboards-org"
+git_url = "git://github.com/opennebraska/localboards-org.git"
+name = "localboards-org"
+organization_name = "Code for Nebraska"
+
+[github]
+archived = false
+created_at = "2014-02-27T23:50:47Z"
+default_branch = "master"
+description = { }
+disabled = false
+fork = false
+forks_within = 10
+full_name = "opennebraska/localboards-org"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 17_269_307
+language = "JavaScript"
+license = { }
+name = "localboards-org"
+node_id = "MDEwOlJlcG9zaXRvcnkxNzI2OTMwNw=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 5_042_049
+  login = "opennebraska"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjUwNDIwNDk="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
