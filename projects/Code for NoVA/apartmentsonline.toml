@@ -1,6 +1,46 @@
 code_url = "https://github.com/sarl-hackerspace/apartmentsonline"
 description = "Arlington Apartments Online"
-git_branch = "master"
 git_url = "git://github.com/sarl-hackerspace/apartmentsonline.git"
-last_pushed_within = "over_a_year"
 name = "apartmentsonline"
+organization_name = "Code for NoVA"
+
+[github]
+archived = false
+created_at = "2016-08-05T00:36:34Z"
+default_branch = "master"
+description = "Arlington Apartments Online"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "sarl-hackerspace/apartmentsonline"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 64_976_341
+language = "Python"
+license = { }
+name = "apartmentsonline"
+node_id = "MDEwOlJlcG9zaXRvcnk2NDk3NjM0MQ=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_251_967
+  login = "sarl-hackerspace"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjIyNTE5Njc="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

@@ -1,6 +1,46 @@
 code_url = "https://github.com/sarl-hackerspace/ingredient.guru"
 description = "This is the central repo for work on the Ingredient.guru project"
-git_branch = "master"
 git_url = "git://github.com/sarl-hackerspace/ingredient.guru.git"
-last_pushed_within = "year"
 name = "ingredient.guru"
+organization_name = "Code for NoVA"
+
+[github]
+archived = false
+created_at = "2018-11-13T15:26:49Z"
+default_branch = "master"
+description = "This is the central repo for work on the Ingredient.guru project"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "sarl-hackerspace/ingredient.guru"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 157_401_978
+language = "Perl 6"
+license = { }
+name = "ingredient.guru"
+node_id = "MDEwOlJlcG9zaXRvcnkxNTc0MDE5Nzg="
+open_issues_within = 10
+private = false
+pushed_within = "year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_251_967
+  login = "sarl-hackerspace"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjIyNTE5Njc="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

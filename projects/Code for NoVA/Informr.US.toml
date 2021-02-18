@@ -1,7 +1,47 @@
 code_url = "https://github.com/sarl-hackerspace/Informr.US"
 description = "An application to get informed about your representatives"
-git_branch = "master"
 git_url = "git://github.com/sarl-hackerspace/Informr.US.git"
-last_pushed_within = "over_a_year"
 link_url = "https://www.informr.us"
 name = "Informr.US"
+organization_name = "Code for NoVA"
+
+[github]
+archived = false
+created_at = "2017-02-24T00:02:58Z"
+default_branch = "master"
+description = "An application to get informed about your representatives"
+disabled = false
+fork = true
+forks_within = 0
+full_name = "sarl-hackerspace/Informr.US"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "https://www.informr.us"
+id = 82_983_443
+language = "JavaScript"
+license = { }
+name = "Informr.US"
+node_id = "MDEwOlJlcG9zaXRvcnk4Mjk4MzQ0Mw=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_251_967
+  login = "sarl-hackerspace"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjIyNTE5Njc="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

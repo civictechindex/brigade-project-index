@@ -1,6 +1,51 @@
 code_url = "https://github.com/sarl-hackerspace/Preci-PI-tation"
 description = "An interdisciplinary project using a Raspberry Pi to automatically water plans."
-git_branch = "master"
 git_url = "git://github.com/sarl-hackerspace/Preci-PI-tation.git"
-last_pushed_within = "over_a_year"
 name = "Preci-PI-tation"
+organization_name = "Code for NoVA"
+
+[github]
+archived = false
+created_at = "2016-10-07T00:47:22Z"
+default_branch = "master"
+description = "An interdisciplinary project using a Raspberry Pi to automatically water plans."
+disabled = false
+fork = false
+forks_within = 10
+full_name = "sarl-hackerspace/Preci-PI-tation"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 70_204_453
+language = "Python"
+name = "Preci-PI-tation"
+node_id = "MDEwOlJlcG9zaXRvcnk3MDIwNDQ1Mw=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "apache-2.0"
+  name = "Apache License 2.0"
+  node_id = "MDc6TGljZW5zZTI="
+  spdx_id = "Apache-2.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_251_967
+  login = "sarl-hackerspace"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjIyNTE5Njc="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
