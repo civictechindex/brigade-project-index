@@ -1,7 +1,52 @@
 code_url = "https://github.com/HackingMadison/smsmybus-dev"
 description = "SMSMyBus API Examples"
-git_branch = "master"
 git_url = "git://github.com/HackingMadison/smsmybus-dev.git"
-last_pushed_within = "over_a_year"
 link_url = "http://www.smsmybus.com/api/"
 name = "smsmybus-dev"
+organization_name = "Hacking Madison"
+
+[github]
+archived = false
+created_at = "2011-04-17T15:42:50Z"
+default_branch = "master"
+description = "SMSMyBus API Examples"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "HackingMadison/smsmybus-dev"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://www.smsmybus.com/api/"
+id = 1_626_718
+language = "Python"
+name = "smsmybus-dev"
+node_id = "MDEwOlJlcG9zaXRvcnkxNjI2NzE4"
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 100
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 100
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 1_305_747
+  login = "HackingMadison"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjEzMDU3NDc="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

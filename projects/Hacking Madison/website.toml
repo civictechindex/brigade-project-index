@@ -1,7 +1,47 @@
 code_url = "https://github.com/HackingMadison/website"
 description = "website resources and assets for hackingmadison.org"
-git_branch = "master"
 git_url = "git://github.com/HackingMadison/website.git"
-last_pushed_within = "over_a_year"
 link_url = "http://hackingmadison.org"
 name = "website"
+organization_name = "Hacking Madison"
+
+[github]
+archived = false
+created_at = "2012-04-11T03:49:32Z"
+default_branch = "master"
+description = "website resources and assets for hackingmadison.org"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "HackingMadison/website"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://hackingmadison.org"
+id = 3_989_900
+language = "JavaScript"
+license = { }
+name = "website"
+node_id = "MDEwOlJlcG9zaXRvcnkzOTg5OTAw"
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 1_305_747
+  login = "HackingMadison"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjEzMDU3NDc="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

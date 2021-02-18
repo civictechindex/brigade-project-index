@@ -1,6 +1,46 @@
 code_url = "https://github.com/HackingMadison/hackingmadison.github.io"
 description = "Static version of the Hacking Madison website, hosted by Github"
-git_branch = "master"
 git_url = "git://github.com/HackingMadison/hackingmadison.github.io.git"
-last_pushed_within = "over_a_year"
 name = "hackingmadison.github.io"
+organization_name = "Hacking Madison"
+
+[github]
+archived = false
+created_at = "2013-10-16T17:59:39Z"
+default_branch = "master"
+description = "Static version of the Hacking Madison website, hosted by Github"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "HackingMadison/hackingmadison.github.io"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 13_626_860
+language = "CSS"
+license = { }
+name = "hackingmadison.github.io"
+node_id = "MDEwOlJlcG9zaXRvcnkxMzYyNjg2MA=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 1_305_747
+  login = "HackingMadison"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjEzMDU3NDc="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

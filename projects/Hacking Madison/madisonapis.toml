@@ -1,6 +1,46 @@
 code_url = "https://github.com/HackingMadison/madisonapis"
 description = "Madison APIs 2.0!"
-git_branch = "master"
 git_url = "git://github.com/HackingMadison/madisonapis.git"
-last_pushed_within = "over_a_year"
 name = "madisonapis"
+organization_name = "Hacking Madison"
+
+[github]
+archived = false
+created_at = "2013-03-13T18:22:12Z"
+default_branch = "master"
+description = "Madison APIs 2.0!"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "HackingMadison/madisonapis"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 8_758_606
+language = "Ruby"
+license = { }
+name = "madisonapis"
+node_id = "MDEwOlJlcG9zaXRvcnk4NzU4NjA2"
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 1_305_747
+  login = "HackingMadison"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjEzMDU3NDc="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
