@@ -1,6 +1,46 @@
 code_url = "https://github.com/codeforseoul/congress-report-mailer"
 description = "Congress Report 프로젝트 메일러 소스코드"
-git_branch = "master"
 git_url = "git://github.com/codeforseoul/congress-report-mailer.git"
-last_pushed_within = "over_a_year"
 name = "congress-report-mailer"
+organization_name = "CodeNamu"
+
+[github]
+archived = false
+created_at = "2015-07-09T05:35:32Z"
+default_branch = "master"
+description = "Congress Report 프로젝트 메일러 소스코드"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "codeforseoul/congress-report-mailer"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 38_799_385
+language = "HTML"
+license = { }
+name = "congress-report-mailer"
+node_id = "MDEwOlJlcG9zaXRvcnkzODc5OTM4NQ=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 7_872_447
+  login = "codeforseoul"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjc4NzI0NDc="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

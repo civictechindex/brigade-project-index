@@ -1,7 +1,47 @@
 code_url = "https://github.com/codeforseoul/wheredoesmymoneygo.kr"
 description = "대한민국 지자체별 세출 데이터를 시각화하여 보여주는 프로젝트입니다."
-git_branch = "gh-pages"
 git_url = "git://github.com/codeforseoul/wheredoesmymoneygo.kr.git"
-last_pushed_within = "over_a_year"
 link_url = "http://wheredoesmymoneygo.kr"
 name = "wheredoesmymoneygo.kr"
+organization_name = "CodeNamu"
+
+[github]
+archived = false
+created_at = "2014-07-29T16:03:06Z"
+default_branch = "gh-pages"
+description = "대한민국 지자체별 세출 데이터를 시각화하여 보여주는 프로젝트입니다."
+disabled = false
+fork = false
+forks_within = 100
+full_name = "codeforseoul/wheredoesmymoneygo.kr"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "http://wheredoesmymoneygo.kr"
+id = 22_386_055
+language = "JavaScript"
+license = { }
+name = "wheredoesmymoneygo.kr"
+node_id = "MDEwOlJlcG9zaXRvcnkyMjM4NjA1NQ=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 100
+topics = [ ]
+updated_within = "year"
+watchers_within = 100
+
+  [github.owner]
+  gravatar_id = ""
+  id = 7_872_447
+  login = "codeforseoul"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjc4NzI0NDc="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

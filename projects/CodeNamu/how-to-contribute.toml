@@ -1,6 +1,51 @@
 code_url = "https://github.com/codeforseoul/how-to-contribute"
 description = "To start civic hacking at Code for Seoul"
-git_branch = "master"
 git_url = "git://github.com/codeforseoul/how-to-contribute.git"
-last_pushed_within = "over_a_year"
 name = "how-to-contribute"
+organization_name = "CodeNamu"
+
+[github]
+archived = false
+created_at = "2014-12-12T19:59:49Z"
+default_branch = "master"
+description = "To start civic hacking at Code for Seoul"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codeforseoul/how-to-contribute"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 27_935_930
+language = { }
+name = "how-to-contribute"
+node_id = "MDEwOlJlcG9zaXRvcnkyNzkzNTkzMA=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "cc0-1.0"
+  name = "Creative Commons Zero v1.0 Universal"
+  node_id = "MDc6TGljZW5zZTY="
+  spdx_id = "CC0-1.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 7_872_447
+  login = "codeforseoul"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjc4NzI0NDc="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

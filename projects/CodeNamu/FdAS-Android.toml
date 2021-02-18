@@ -1,6 +1,51 @@
 code_url = "https://github.com/codeforseoul/FdAS-Android"
 description = "FdAS Android version"
-git_branch = "master"
 git_url = "git://github.com/codeforseoul/FdAS-Android.git"
-last_pushed_within = "over_a_year"
 name = "FdAS-Android"
+organization_name = "CodeNamu"
+
+[github]
+archived = false
+created_at = "2015-01-27T00:25:35Z"
+default_branch = "master"
+description = "FdAS Android version"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "codeforseoul/FdAS-Android"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 29_889_321
+language = "Java"
+name = "FdAS-Android"
+node_id = "MDEwOlJlcG9zaXRvcnkyOTg4OTMyMQ=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "cc0-1.0"
+  name = "Creative Commons Zero v1.0 Universal"
+  node_id = "MDc6TGljZW5zZTY="
+  spdx_id = "CC0-1.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 7_872_447
+  login = "codeforseoul"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjc4NzI0NDc="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

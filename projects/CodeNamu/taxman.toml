@@ -1,7 +1,47 @@
 code_url = "https://github.com/codeforseoul/taxman"
 description = "Where Does My Money Go 프로젝트에 적용되는 전 세계 세금 계산 알고리즘입니다."
-git_branch = "master"
 git_url = "git://github.com/codeforseoul/taxman.git"
-last_pushed_within = "over_a_year"
 link_url = "http://taxman.openspending.org"
 name = "taxman"
+organization_name = "CodeNamu"
+
+[github]
+archived = false
+created_at = "2014-07-27T03:30:14Z"
+default_branch = "master"
+description = "Where Does My Money Go 프로젝트에 적용되는 전 세계 세금 계산 알고리즘입니다."
+disabled = false
+fork = true
+forks_within = 0
+full_name = "codeforseoul/taxman"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://taxman.openspending.org"
+id = 22_302_231
+language = "CoffeeScript"
+license = { }
+name = "taxman"
+node_id = "MDEwOlJlcG9zaXRvcnkyMjMwMjIzMQ=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 7_872_447
+  login = "codeforseoul"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjc4NzI0NDc="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

@@ -1,6 +1,46 @@
 code_url = "https://github.com/codeforseoul/national-assembly-activity-mailer--deprecated"
 description = "deprecated"
-git_branch = "master"
 git_url = "git://github.com/codeforseoul/national-assembly-activity-mailer--deprecated.git"
-last_pushed_within = "over_a_year"
 name = "national-assembly-activity-mailer--deprecated"
+organization_name = "CodeNamu"
+
+[github]
+archived = false
+created_at = "2014-07-23T14:58:29Z"
+default_branch = "master"
+description = "deprecated"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codeforseoul/national-assembly-activity-mailer--deprecated"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 22_155_119
+language = "Python"
+license = { }
+name = "national-assembly-activity-mailer--deprecated"
+node_id = "MDEwOlJlcG9zaXRvcnkyMjE1NTExOQ=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 7_872_447
+  login = "codeforseoul"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjc4NzI0NDc="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

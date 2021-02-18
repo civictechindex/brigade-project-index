@@ -1,7 +1,47 @@
 code_url = "https://github.com/codeforseoul/how-much-shoveling"
 description = "정부의 재정데이터중 건설관련 비용을 지도상에 표시하여 보다 쉽게 건설관련 비용의 흐름과 유용성을 보여줍니다."
-git_branch = "master"
 git_url = "git://github.com/codeforseoul/how-much-shoveling.git"
-last_pushed_within = "over_a_year"
 link_url = "http://codeforseoul.org/how-much-shoveling/"
 name = "how-much-shoveling"
+organization_name = "CodeNamu"
+
+[github]
+archived = false
+created_at = "2015-03-02T01:43:38Z"
+default_branch = "master"
+description = "정부의 재정데이터중 건설관련 비용을 지도상에 표시하여 보다 쉽게 건설관련 비용의 흐름과 유용성을 보여줍니다."
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codeforseoul/how-much-shoveling"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "http://codeforseoul.org/how-much-shoveling/"
+id = 31_518_524
+language = "Python"
+license = { }
+name = "how-much-shoveling"
+node_id = "MDEwOlJlcG9zaXRvcnkzMTUxODUyNA=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 7_872_447
+  login = "codeforseoul"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjc4NzI0NDc="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

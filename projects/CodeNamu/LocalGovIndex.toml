@@ -1,7 +1,47 @@
 code_url = "https://github.com/codeforseoul/LocalGovIndex"
 description = "지방정부 재정 자립도 시각화 프로젝트"
-git_branch = "master"
 git_url = "git://github.com/codeforseoul/LocalGovIndex.git"
-last_pushed_within = "over_a_year"
 link_url = "http://codeforseoul.org/LocalGovIndex/"
 name = "LocalGovIndex"
+organization_name = "CodeNamu"
+
+[github]
+archived = false
+created_at = "2015-03-29T04:05:16Z"
+default_branch = "master"
+description = "지방정부 재정 자립도 시각화 프로젝트"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "codeforseoul/LocalGovIndex"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "http://codeforseoul.org/LocalGovIndex/"
+id = 33_060_918
+language = "JavaScript"
+license = { }
+name = "LocalGovIndex"
+node_id = "MDEwOlJlcG9zaXRvcnkzMzA2MDkxOA=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 7_872_447
+  login = "codeforseoul"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjc4NzI0NDc="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

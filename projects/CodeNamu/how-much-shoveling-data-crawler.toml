@@ -1,5 +1,45 @@
 code_url = "https://github.com/codeforseoul/how-much-shoveling-data-crawler"
-git_branch = "master"
 git_url = "git://github.com/codeforseoul/how-much-shoveling-data-crawler.git"
-last_pushed_within = "over_a_year"
 name = "how-much-shoveling-data-crawler"
+organization_name = "CodeNamu"
+
+[github]
+archived = false
+created_at = "2015-03-23T01:34:10Z"
+default_branch = "master"
+description = { }
+disabled = false
+fork = false
+forks_within = 0
+full_name = "codeforseoul/how-much-shoveling-data-crawler"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 32_704_932
+language = "Java"
+license = { }
+name = "how-much-shoveling-data-crawler"
+node_id = "MDEwOlJlcG9zaXRvcnkzMjcwNDkzMg=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 7_872_447
+  login = "codeforseoul"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjc4NzI0NDc="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
