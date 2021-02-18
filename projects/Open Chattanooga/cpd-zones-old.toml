@@ -1,7 +1,52 @@
 code_url = "https://github.com/openchattanooga/cpd-zones-old"
 description = "Helps Chattanoogans find which CPD zone they live in."
-git_branch = "master"
 git_url = "git://github.com/openchattanooga/cpd-zones-old.git"
-last_pushed_within = "over_a_year"
 link_url = "http://cpd-zones.herokuapp.com/"
 name = "cpd-zones-old"
+organization_name = "Open Chattanooga"
+
+[github]
+archived = false
+created_at = "2015-01-28T23:09:46Z"
+default_branch = "master"
+description = "Helps Chattanoogans find which CPD zone they live in."
+disabled = false
+fork = false
+forks_within = 10
+full_name = "openchattanooga/cpd-zones-old"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://cpd-zones.herokuapp.com/"
+id = 29_993_115
+language = "Python"
+name = "cpd-zones-old"
+node_id = "MDEwOlJlcG9zaXRvcnkyOTk5MzExNQ=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 3_266_762
+  login = "openchattanooga"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjMyNjY3NjI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

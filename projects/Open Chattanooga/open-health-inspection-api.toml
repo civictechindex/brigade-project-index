@@ -1,7 +1,52 @@
 code_url = "https://github.com/openchattanooga/open-health-inspection-api"
 description = "The API for the Open Health Inspection app"
-git_branch = "master"
 git_url = "git://github.com/openchattanooga/open-health-inspection-api.git"
-last_pushed_within = "over_a_year"
 link_url = "api.openhealthinspection.com"
 name = "open-health-inspection-api"
+organization_name = "Open Chattanooga"
+
+[github]
+archived = false
+created_at = "2014-08-27T22:16:23Z"
+default_branch = "master"
+description = "The API for the Open Health Inspection app"
+disabled = false
+fork = true
+forks_within = 0
+full_name = "openchattanooga/open-health-inspection-api"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "api.openhealthinspection.com"
+id = 23_407_328
+language = { }
+name = "open-health-inspection-api"
+node_id = "MDEwOlJlcG9zaXRvcnkyMzQwNzMyOA=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "gpl-2.0"
+  name = "GNU General Public License v2.0"
+  node_id = "MDc6TGljZW5zZTg="
+  spdx_id = "GPL-2.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 3_266_762
+  login = "openchattanooga"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjMyNjY3NjI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

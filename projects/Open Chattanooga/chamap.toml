@@ -1,7 +1,52 @@
 code_url = "https://github.com/openchattanooga/chamap"
 description = "One beautifully designed free outdoor basemap for Chattanooga to rule them all. "
-git_branch = "gh-pages"
 git_url = "git://github.com/openchattanooga/chamap.git"
-last_pushed_within = "over_a_year"
 link_url = "http://openchattanooga.github.io/chamap"
 name = "chamap"
+organization_name = "Open Chattanooga"
+
+[github]
+archived = false
+created_at = "2015-12-08T07:09:45Z"
+default_branch = "gh-pages"
+description = "One beautifully designed free outdoor basemap for Chattanooga to rule them all. "
+disabled = false
+fork = false
+forks_within = 10
+full_name = "openchattanooga/chamap"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "http://openchattanooga.github.io/chamap"
+id = 47_605_118
+language = "CSS"
+name = "chamap"
+node_id = "MDEwOlJlcG9zaXRvcnk0NzYwNTExOA=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 3_266_762
+  login = "openchattanooga"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjMyNjY3NjI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

@@ -1,7 +1,47 @@
 code_url = "https://github.com/openchattanooga/chadocs-docs"
 description = "Document repository and index source for chadocs."
-git_branch = "master"
 git_url = "git://github.com/openchattanooga/chadocs-docs.git"
-last_pushed_within = "over_a_year"
 link_url = "http://chadocs.herokuapp.com/"
 name = "chadocs-docs"
+organization_name = "Open Chattanooga"
+
+[github]
+archived = false
+created_at = "2014-09-02T01:34:24Z"
+default_branch = "master"
+description = "Document repository and index source for chadocs."
+disabled = false
+fork = false
+forks_within = 0
+full_name = "openchattanooga/chadocs-docs"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://chadocs.herokuapp.com/"
+id = 23_560_937
+language = { }
+license = { }
+name = "chadocs-docs"
+node_id = "MDEwOlJlcG9zaXRvcnkyMzU2MDkzNw=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 3_266_762
+  login = "openchattanooga"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjMyNjY3NjI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

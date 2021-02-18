@@ -1,7 +1,47 @@
 code_url = "https://github.com/openchattanooga/open-data-automation"
 description = "Open Data Automation Manual"
-git_branch = "master"
 git_url = "git://github.com/openchattanooga/open-data-automation.git"
-last_pushed_within = "year"
 link_url = "http://open-data-automation.readthedocs.org/"
 name = "open-data-automation"
+organization_name = "Open Chattanooga"
+
+[github]
+archived = false
+created_at = "2015-07-13T20:22:38Z"
+default_branch = "master"
+description = "Open Data Automation Manual"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "openchattanooga/open-data-automation"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "http://open-data-automation.readthedocs.org/"
+id = 39_035_359
+language = "Makefile"
+license = { }
+name = "open-data-automation"
+node_id = "MDEwOlJlcG9zaXRvcnkzOTAzNTM1OQ=="
+open_issues_within = 0
+private = false
+pushed_within = "year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 3_266_762
+  login = "openchattanooga"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjMyNjY3NjI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

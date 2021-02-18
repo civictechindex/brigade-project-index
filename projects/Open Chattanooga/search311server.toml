@@ -1,6 +1,51 @@
 code_url = "https://github.com/openchattanooga/search311server"
 description = "The files used to create and configure the search 311 server."
-git_branch = "master"
 git_url = "git://github.com/openchattanooga/search311server.git"
-last_pushed_within = "over_a_year"
 name = "search311server"
+organization_name = "Open Chattanooga"
+
+[github]
+archived = false
+created_at = "2013-06-03T03:51:28Z"
+default_branch = "master"
+description = "The files used to create and configure the search 311 server."
+disabled = false
+fork = false
+forks_within = 0
+full_name = "openchattanooga/search311server"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 10_446_627
+language = "Ruby"
+name = "search311server"
+node_id = "MDEwOlJlcG9zaXRvcnkxMDQ0NjYyNw=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "unlicense"
+  name = "The Unlicense"
+  node_id = "MDc6TGljZW5zZTE1"
+  spdx_id = "Unlicense"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 3_266_762
+  login = "openchattanooga"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjMyNjY3NjI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

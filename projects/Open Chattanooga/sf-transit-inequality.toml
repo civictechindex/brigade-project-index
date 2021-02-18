@@ -1,7 +1,47 @@
 code_url = "https://github.com/openchattanooga/sf-transit-inequality"
 description = "A mashup to overlaying demographic info with the all the major mass transit routes in the San Francisco Bay Area."
-git_branch = "master"
 git_url = "git://github.com/openchattanooga/sf-transit-inequality.git"
-last_pushed_within = "over_a_year"
 link_url = "http://dangrover.github.io/sf-transit-inequality"
 name = "sf-transit-inequality"
+organization_name = "Open Chattanooga"
+
+[github]
+archived = false
+created_at = "2013-05-08T18:23:38Z"
+default_branch = "master"
+description = "A mashup to overlaying demographic info with the all the major mass transit routes in the San Francisco Bay Area."
+disabled = false
+fork = true
+forks_within = 10
+full_name = "openchattanooga/sf-transit-inequality"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://dangrover.github.io/sf-transit-inequality"
+id = 9_943_015
+language = "Python"
+license = { }
+name = "sf-transit-inequality"
+node_id = "MDEwOlJlcG9zaXRvcnk5OTQzMDE1"
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 3_266_762
+  login = "openchattanooga"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjMyNjY3NjI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

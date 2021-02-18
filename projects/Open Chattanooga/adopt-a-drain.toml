@@ -1,5 +1,50 @@
 code_url = "https://github.com/openchattanooga/adopt-a-drain"
-git_branch = "master"
 git_url = "git://github.com/openchattanooga/adopt-a-drain.git"
-last_pushed_within = "over_a_year"
 name = "adopt-a-drain"
+organization_name = "Open Chattanooga"
+
+[github]
+archived = false
+created_at = "2013-01-14T16:32:56Z"
+default_branch = "master"
+description = { }
+disabled = false
+fork = true
+forks_within = 10
+full_name = "openchattanooga/adopt-a-drain"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 7_608_012
+language = "Ruby"
+name = "adopt-a-drain"
+node_id = "MDEwOlJlcG9zaXRvcnk3NjA4MDEy"
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "other"
+  name = "Other"
+  node_id = "MDc6TGljZW5zZTA="
+  spdx_id = "NOASSERTION"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 3_266_762
+  login = "openchattanooga"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjMyNjY3NjI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

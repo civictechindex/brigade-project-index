@@ -1,0 +1,46 @@
+code_url = "https://github.com/openchattanooga/fire-risk-model"
+description = "This notebook is used for to generate a fire risk score used as a decision support tool by the Chattanooga Fire Department to help prioritize inspections. For more information on the model please visit https://www.chattadata.org/stories/s/jxzy-f5id"
+git_url = "git://github.com/openchattanooga/fire-risk-model.git"
+name = "fire-risk-model"
+organization_name = "Open Chattanooga"
+
+[github]
+archived = false
+created_at = "2021-01-13T19:11:47Z"
+default_branch = "main"
+description = "This notebook is used for to generate a fire risk score used as a decision support tool by the Chattanooga Fire Department to help prioritize inspections. For more information on the model please visit https://www.chattadata.org/stories/s/jxzy-f5id"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "openchattanooga/fire-risk-model"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 329_407_031
+language = "Jupyter Notebook"
+license = { }
+name = "fire-risk-model"
+node_id = "MDEwOlJlcG9zaXRvcnkzMjk0MDcwMzE="
+open_issues_within = 0
+private = false
+pushed_within = "year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 3_266_762
+  login = "openchattanooga"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjMyNjY3NjI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

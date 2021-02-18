@@ -1,6 +1,46 @@
 code_url = "https://github.com/openchattanooga/DidChaKnow"
 description = "Simple PHP application that displays a random string of text from a MySQL database with each refresh."
-git_branch = "master"
 git_url = "git://github.com/openchattanooga/DidChaKnow.git"
-last_pushed_within = "over_a_year"
 name = "DidChaKnow"
+organization_name = "Open Chattanooga"
+
+[github]
+archived = false
+created_at = "2014-07-08T18:15:02Z"
+default_branch = "master"
+description = "Simple PHP application that displays a random string of text from a MySQL database with each refresh."
+disabled = false
+fork = false
+forks_within = 0
+full_name = "openchattanooga/DidChaKnow"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 21_624_232
+language = "PHP"
+license = { }
+name = "DidChaKnow"
+node_id = "MDEwOlJlcG9zaXRvcnkyMTYyNDIzMg=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 3_266_762
+  login = "openchattanooga"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjMyNjY3NjI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
