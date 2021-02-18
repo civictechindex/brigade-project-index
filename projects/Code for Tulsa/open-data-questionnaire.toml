@@ -1,6 +1,46 @@
 code_url = "https://github.com/codefortulsa/open-data-questionnaire"
 description = "Dervied from 2013 Minneapolis Open Data Questionnaire Press Release"
-git_branch = "master"
 git_url = "git://github.com/codefortulsa/open-data-questionnaire.git"
-last_pushed_within = "over_a_year"
 name = "open-data-questionnaire"
+organization_name = "Code for Tulsa"
+
+[github]
+archived = false
+created_at = "2013-09-20T00:14:07Z"
+default_branch = "master"
+description = "Dervied from 2013 Minneapolis Open Data Questionnaire Press Release"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codefortulsa/open-data-questionnaire"
+has_downloads = true
+has_issues = false
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 12_962_395
+language = { }
+license = { }
+name = "open-data-questionnaire"
+node_id = "MDEwOlJlcG9zaXRvcnkxMjk2MjM5NQ=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 4_308_649
+  login = "codefortulsa"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjQzMDg2NDk="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

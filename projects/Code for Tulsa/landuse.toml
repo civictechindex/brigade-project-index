@@ -1,8 +1,48 @@
 code_url = "https://github.com/codefortulsa/landuse"
 description = "A project with Tulsa's Urban Data Pioneers to visualize sales tax geographically"
-git_branch = "master"
 git_url = "git://github.com/codefortulsa/landuse.git"
-last_pushed_within = "over_a_year"
 link_url = "http://codefortulsa.github.io/landuse/map"
 name = "landuse"
+organization_name = "Code for Tulsa"
 topics = [ "boundary", "census", "geocode" ]
+
+[github]
+archived = false
+created_at = "2017-03-11T12:57:15Z"
+default_branch = "master"
+description = "A project with Tulsa's Urban Data Pioneers to visualize sales tax geographically"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codefortulsa/landuse"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "http://codefortulsa.github.io/landuse/map"
+id = 84_649_985
+language = "JavaScript"
+license = { }
+name = "landuse"
+node_id = "MDEwOlJlcG9zaXRvcnk4NDY0OTk4NQ=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ "boundary", "census", "geocode" ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 4_308_649
+  login = "codefortulsa"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjQzMDg2NDk="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

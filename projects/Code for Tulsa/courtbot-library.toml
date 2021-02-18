@@ -1,6 +1,46 @@
 code_url = "https://github.com/codefortulsa/courtbot-library"
 description = "Generic Court Scraper for Courbot system use"
-git_branch = "prod"
 git_url = "git://github.com/codefortulsa/courtbot-library.git"
-last_pushed_within = "year"
 name = "courtbot-library"
+organization_name = "Code for Tulsa"
+
+[github]
+archived = false
+created_at = "2020-09-12T17:04:44Z"
+default_branch = "prod"
+description = "Generic Court Scraper for Courbot system use"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codefortulsa/courtbot-library"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 294_988_809
+language = "Python"
+license = { }
+name = "courtbot-library"
+node_id = "MDEwOlJlcG9zaXRvcnkyOTQ5ODg4MDk="
+open_issues_within = 10
+private = false
+pushed_within = "month"
+stargazers_within = 0
+topics = [ ]
+updated_within = "year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 4_308_649
+  login = "codefortulsa"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjQzMDg2NDk="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

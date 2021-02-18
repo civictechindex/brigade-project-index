@@ -1,7 +1,47 @@
 code_url = "https://github.com/codefortulsa/water-in-the-river"
 description = "A simple app that checks data from USGS, USACE, and SWPA to determine if (and when) there is water in the Tulsa Riverside stretch of the Arkansas River."
-git_branch = "master"
 git_url = "git://github.com/codefortulsa/water-in-the-river.git"
-last_pushed_within = "over_a_year"
 link_url = "http://istherewaterintheriver.com"
 name = "water-in-the-river"
+organization_name = "Code for Tulsa"
+
+[github]
+archived = false
+created_at = "2015-06-06T21:13:29Z"
+default_branch = "master"
+description = "A simple app that checks data from USGS, USACE, and SWPA to determine if (and when) there is water in the Tulsa Riverside stretch of the Arkansas River."
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codefortulsa/water-in-the-river"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://istherewaterintheriver.com"
+id = 36_995_335
+language = "HTML"
+license = { }
+name = "water-in-the-river"
+node_id = "MDEwOlJlcG9zaXRvcnkzNjk5NTMzNQ=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 4_308_649
+  login = "codefortulsa"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjQzMDg2NDk="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

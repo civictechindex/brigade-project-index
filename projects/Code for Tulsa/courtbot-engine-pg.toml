@@ -1,5 +1,45 @@
 code_url = "https://github.com/codefortulsa/courtbot-engine-pg"
-git_branch = "master"
 git_url = "git://github.com/codefortulsa/courtbot-engine-pg.git"
-last_pushed_within = "over_a_year"
 name = "courtbot-engine-pg"
+organization_name = "Code for Tulsa"
+
+[github]
+archived = false
+created_at = "2016-12-19T17:55:09Z"
+default_branch = "master"
+description = { }
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codefortulsa/courtbot-engine-pg"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 76_884_490
+language = "JavaScript"
+license = { }
+name = "courtbot-engine-pg"
+node_id = "MDEwOlJlcG9zaXRvcnk3Njg4NDQ5MA=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 4_308_649
+  login = "codefortulsa"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjQzMDg2NDk="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

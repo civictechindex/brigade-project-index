@@ -1,7 +1,47 @@
 code_url = "https://github.com/codefortulsa/tulsa-cares-act"
 description = "See if a property in Tulsa County is eligible for eviction protection under the CARES act."
-git_branch = "master"
 git_url = "git://github.com/codefortulsa/tulsa-cares-act.git"
-last_pushed_within = "month"
 link_url = "https://tulsacaresact.com"
 name = "tulsa-cares-act"
+organization_name = "Code for Tulsa"
+
+[github]
+archived = false
+created_at = "2020-06-19T17:16:41Z"
+default_branch = "master"
+description = "See if a property in Tulsa County is eligible for eviction protection under the CARES act."
+disabled = false
+fork = false
+forks_within = 0
+full_name = "codefortulsa/tulsa-cares-act"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "https://tulsacaresact.com"
+id = 273_548_784
+language = "TypeScript"
+license = { }
+name = "tulsa-cares-act"
+node_id = "MDEwOlJlcG9zaXRvcnkyNzM1NDg3ODQ="
+open_issues_within = 10
+private = false
+pushed_within = "year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 4_308_649
+  login = "codefortulsa"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjQzMDg2NDk="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

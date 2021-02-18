@@ -1,6 +1,46 @@
 code_url = "https://github.com/codefortulsa/welcome"
 description = "Introduction to Code for Tulsa"
-git_branch = "master"
 git_url = "git://github.com/codefortulsa/welcome.git"
-last_pushed_within = "year"
 name = "welcome"
+organization_name = "Code for Tulsa"
+
+[github]
+archived = false
+created_at = "2017-09-06T00:39:28Z"
+default_branch = "master"
+description = "Introduction to Code for Tulsa"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codefortulsa/welcome"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 102_543_985
+language = { }
+license = { }
+name = "welcome"
+node_id = "MDEwOlJlcG9zaXRvcnkxMDI1NDM5ODU="
+open_issues_within = 10
+private = false
+pushed_within = "year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 4_308_649
+  login = "codefortulsa"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjQzMDg2NDk="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

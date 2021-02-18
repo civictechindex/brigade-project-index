@@ -1,6 +1,46 @@
 code_url = "https://github.com/codefortulsa/oscn-case-api"
 description = "An API for getting Oklahoma State Court Network data as JSON."
-git_branch = "master"
 git_url = "git://github.com/codefortulsa/oscn-case-api.git"
-last_pushed_within = "over_a_year"
 name = "oscn-case-api"
+organization_name = "Code for Tulsa"
+
+[github]
+archived = false
+created_at = "2016-12-07T21:04:29Z"
+default_branch = "master"
+description = "An API for getting Oklahoma State Court Network data as JSON."
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codefortulsa/oscn-case-api"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 75_875_494
+language = "JavaScript"
+license = { }
+name = "oscn-case-api"
+node_id = "MDEwOlJlcG9zaXRvcnk3NTg3NTQ5NA=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 4_308_649
+  login = "codefortulsa"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjQzMDg2NDk="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

@@ -1,7 +1,52 @@
 code_url = "https://github.com/codefortulsa/badges.codeforamerica.org"
 description = "badges for mozillians!"
-git_branch = "master"
 git_url = "git://github.com/codefortulsa/badges.codeforamerica.org.git"
-last_pushed_within = "over_a_year"
 link_url = "badges.mozilla.org"
 name = "badges.codeforamerica.org"
+organization_name = "Code for Tulsa"
+
+[github]
+archived = false
+created_at = "2013-10-17T01:46:03Z"
+default_branch = "master"
+description = "badges for mozillians!"
+disabled = false
+fork = true
+forks_within = 0
+full_name = "codefortulsa/badges.codeforamerica.org"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "badges.mozilla.org"
+id = 13_636_270
+language = "Python"
+name = "badges.codeforamerica.org"
+node_id = "MDEwOlJlcG9zaXRvcnkxMzYzNjI3MA=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "bsd-3-clause"
+  name = 'BSD 3-Clause "New" or "Revised" License'
+  node_id = "MDc6TGljZW5zZTU="
+  spdx_id = "BSD-3-Clause"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 4_308_649
+  login = "codefortulsa"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjQzMDg2NDk="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

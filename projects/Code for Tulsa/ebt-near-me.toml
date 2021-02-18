@@ -1,7 +1,52 @@
 code_url = "https://github.com/codefortulsa/ebt-near-me"
 description = "A mobile app that shows the nearest places you can use an EBT card nationwide."
-git_branch = "master"
 git_url = "git://github.com/codefortulsa/ebt-near-me.git"
-last_pushed_within = "over_a_year"
 link_url = "http://ebtnearme.org"
 name = "ebt-near-me"
+organization_name = "Code for Tulsa"
+
+[github]
+archived = false
+created_at = "2014-10-26T13:41:28Z"
+default_branch = "master"
+description = "A mobile app that shows the nearest places you can use an EBT card nationwide."
+disabled = false
+fork = true
+forks_within = 0
+full_name = "codefortulsa/ebt-near-me"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://ebtnearme.org"
+id = 25_773_900
+language = { }
+name = "ebt-near-me"
+node_id = "MDEwOlJlcG9zaXRvcnkyNTc3MzkwMA=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 4_308_649
+  login = "codefortulsa"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjQzMDg2NDk="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

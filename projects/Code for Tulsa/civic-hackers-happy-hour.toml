@@ -1,6 +1,46 @@
 code_url = "https://github.com/codefortulsa/civic-hackers-happy-hour"
 description = "This is Code for Tulsa's hack of a GitHub repository as a place to connect attendees of our Civic Hackers Happy Hour held in Washington, D.C. on July 22nd, 2013. The Happy Hour was held for attendees of the White House's Open Government/Civic Hacking Champions of Change event on July 23rd, 2013, and other civic hacking folks in and around the greater D.C. area."
-git_branch = "master"
 git_url = "git://github.com/codefortulsa/civic-hackers-happy-hour.git"
-last_pushed_within = "over_a_year"
 name = "civic-hackers-happy-hour"
+organization_name = "Code for Tulsa"
+
+[github]
+archived = false
+created_at = "2013-07-19T15:55:27Z"
+default_branch = "master"
+description = "This is Code for Tulsa's hack of a GitHub repository as a place to connect attendees of our Civic Hackers Happy Hour held in Washington, D.C. on July 22nd, 2013. The Happy Hour was held for attendees of the White House's Open Government/Civic Hacking Champions of Change event on July 23rd, 2013, and other civic hacking folks in and around the greater D.C. area."
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codefortulsa/civic-hackers-happy-hour"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 11_531_465
+language = { }
+license = { }
+name = "civic-hackers-happy-hour"
+node_id = "MDEwOlJlcG9zaXRvcnkxMTUzMTQ2NQ=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 4_308_649
+  login = "codefortulsa"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjQzMDg2NDk="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

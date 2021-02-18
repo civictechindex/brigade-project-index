@@ -1,6 +1,46 @@
 code_url = "https://github.com/codefortulsa/OpenDataDay2017"
 description = "Repo for organizing OpenDataDay2017"
-git_branch = "master"
 git_url = "git://github.com/codefortulsa/OpenDataDay2017.git"
-last_pushed_within = "over_a_year"
 name = "OpenDataDay2017"
+organization_name = "Code for Tulsa"
+
+[github]
+archived = false
+created_at = "2017-01-08T20:16:37Z"
+default_branch = "master"
+description = "Repo for organizing OpenDataDay2017"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codefortulsa/OpenDataDay2017"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 78_368_021
+language = { }
+license = { }
+name = "OpenDataDay2017"
+node_id = "MDEwOlJlcG9zaXRvcnk3ODM2ODAyMQ=="
+open_issues_within = 100
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 4_308_649
+  login = "codefortulsa"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjQzMDg2NDk="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

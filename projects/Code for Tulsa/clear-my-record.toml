@@ -1,7 +1,52 @@
 code_url = "https://github.com/codefortulsa/clear-my-record"
 description = "Inspired by Code for America's Clear My Record project. "
-git_branch = "master"
 git_url = "git://github.com/codefortulsa/clear-my-record.git"
-last_pushed_within = "year"
 name = "clear-my-record"
+organization_name = "Code for Tulsa"
 topics = [ "code-for-america", "code-for-tulsa", "criminal-justice" ]
+
+[github]
+archived = false
+created_at = "2019-07-07T16:28:07Z"
+default_branch = "master"
+description = "Inspired by Code for America's Clear My Record project. "
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codefortulsa/clear-my-record"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 195_673_507
+language = "HTML"
+name = "clear-my-record"
+node_id = "MDEwOlJlcG9zaXRvcnkxOTU2NzM1MDc="
+open_issues_within = 10
+private = false
+pushed_within = "year"
+stargazers_within = 10
+topics = [ "code-for-america", "code-for-tulsa", "criminal-justice" ]
+updated_within = "year"
+watchers_within = 10
+
+  [github.license]
+  key = "gpl-3.0"
+  name = "GNU General Public License v3.0"
+  node_id = "MDc6TGljZW5zZTk="
+  spdx_id = "GPL-3.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 4_308_649
+  login = "codefortulsa"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjQzMDg2NDk="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

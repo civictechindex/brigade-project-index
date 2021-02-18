@@ -1,7 +1,47 @@
 code_url = "https://github.com/codefortulsa/mrelief_snap_screeners"
 description = "We invite users all across the nation to build a food stamp pre-screeners for different states and target populations. "
-git_branch = "master"
 git_url = "git://github.com/codefortulsa/mrelief_snap_screeners.git"
-last_pushed_within = "over_a_year"
 name = "mrelief_snap_screeners"
+organization_name = "Code for Tulsa"
 topics = [ "food-security" ]
+
+[github]
+archived = false
+created_at = "2015-02-21T16:49:13Z"
+default_branch = "master"
+description = "We invite users all across the nation to build a food stamp pre-screeners for different states and target populations. "
+disabled = false
+fork = true
+forks_within = 10
+full_name = "codefortulsa/mrelief_snap_screeners"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 31_132_315
+language = "JavaScript"
+license = { }
+name = "mrelief_snap_screeners"
+node_id = "MDEwOlJlcG9zaXRvcnkzMTEzMjMxNQ=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ "food-security" ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 4_308_649
+  login = "codefortulsa"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjQzMDg2NDk="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

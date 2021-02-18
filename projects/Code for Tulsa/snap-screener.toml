@@ -1,10 +1,9 @@
 code_url = "https://github.com/codefortulsa/snap-screener"
 description = "Screener for SNAP. Built in partnership with Hunger Free Oklahaoma and TPS. Very special thanks to volunteers Travis Miller, Cody Walinciak, Kendall Wertz, and Chris Doe."
-git_branch = "master"
 git_url = "git://github.com/codefortulsa/snap-screener.git"
-last_pushed_within = "year"
 link_url = "https://snap-screener-ok.web.app/"
 name = "snap-screener"
+organization_name = "Code for Tulsa"
 topics = [
   "civictechindex",
   "code-for-america",
@@ -13,3 +12,51 @@ topics = [
   "snap",
   "social-safety-net"
 ]
+
+[github]
+archived = false
+created_at = "2020-02-20T21:42:37Z"
+default_branch = "master"
+description = "Screener for SNAP. Built in partnership with Hunger Free Oklahaoma and TPS. Very special thanks to volunteers Travis Miller, Cody Walinciak, Kendall Wertz, and Chris Doe."
+disabled = false
+fork = false
+forks_within = 0
+full_name = "codefortulsa/snap-screener"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "https://snap-screener-ok.web.app/"
+id = 241_996_290
+language = "TypeScript"
+license = { }
+name = "snap-screener"
+node_id = "MDEwOlJlcG9zaXRvcnkyNDE5OTYyOTA="
+open_issues_within = 10
+private = false
+pushed_within = "year"
+stargazers_within = 10
+topics = [
+  "civictechindex",
+  "code-for-america",
+  "code-for-tulsa",
+  "food-security",
+  "snap",
+  "social-safety-net"
+]
+updated_within = "year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 4_308_649
+  login = "codefortulsa"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjQzMDg2NDk="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

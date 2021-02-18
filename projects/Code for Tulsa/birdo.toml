@@ -1,7 +1,47 @@
 code_url = "https://github.com/codefortulsa/birdo"
 description = "Hack for change project to gather birding data from social networks."
-git_branch = "master"
 git_url = "git://github.com/codefortulsa/birdo.git"
-last_pushed_within = "year"
 link_url = "http://birdo.destos.com"
 name = "birdo"
+organization_name = "Code for Tulsa"
+
+[github]
+archived = false
+created_at = "2015-06-06T21:37:12Z"
+default_branch = "master"
+description = "Hack for change project to gather birding data from social networks."
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codefortulsa/birdo"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://birdo.destos.com"
+id = 36_995_935
+language = "Python"
+license = { }
+name = "birdo"
+node_id = "MDEwOlJlcG9zaXRvcnkzNjk5NTkzNQ=="
+open_issues_within = 10
+private = false
+pushed_within = "year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 4_308_649
+  login = "codefortulsa"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjQzMDg2NDk="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

@@ -1,6 +1,46 @@
 code_url = "https://github.com/codefortulsa/tu-attendees"
 description = "People who attended our GitHub class for TU"
-git_branch = "master"
 git_url = "git://github.com/codefortulsa/tu-attendees.git"
-last_pushed_within = "over_a_year"
 name = "tu-attendees"
+organization_name = "Code for Tulsa"
+
+[github]
+archived = false
+created_at = "2014-02-14T20:08:35Z"
+default_branch = "master"
+description = "People who attended our GitHub class for TU"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codefortulsa/tu-attendees"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 16_848_104
+language = "CSS"
+license = { }
+name = "tu-attendees"
+node_id = "MDEwOlJlcG9zaXRvcnkxNjg0ODEwNA=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 4_308_649
+  login = "codefortulsa"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjQzMDg2NDk="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

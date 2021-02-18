@@ -1,6 +1,46 @@
 code_url = "https://github.com/codefortulsa/open-search-and-rescue"
 description = "Open Search and Rescue is an application to help Search & Rescue teams organize, deploy, and operate."
-git_branch = "master"
 git_url = "git://github.com/codefortulsa/open-search-and-rescue.git"
-last_pushed_within = "over_a_year"
 name = "open-search-and-rescue"
+organization_name = "Code for Tulsa"
+
+[github]
+archived = false
+created_at = "2013-06-01T19:32:12Z"
+default_branch = "master"
+description = "Open Search and Rescue is an application to help Search & Rescue teams organize, deploy, and operate."
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codefortulsa/open-search-and-rescue"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 10_427_321
+language = "Python"
+license = { }
+name = "open-search-and-rescue"
+node_id = "MDEwOlJlcG9zaXRvcnkxMDQyNzMyMQ=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 4_308_649
+  login = "codefortulsa"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjQzMDg2NDk="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

@@ -1,7 +1,47 @@
 code_url = "https://github.com/codefortulsa/food-for-thought-ok"
 description = "Web app allowing families in Oklahoma to find nearby food sites for the summer meal program."
-git_branch = "master"
 git_url = "git://github.com/codefortulsa/food-for-thought-ok.git"
-last_pushed_within = "month"
 link_url = "https://meals4kidsok.org"
 name = "food-for-thought-ok"
+organization_name = "Code for Tulsa"
+
+[github]
+archived = false
+created_at = "2019-04-09T06:48:38Z"
+default_branch = "master"
+description = "Web app allowing families in Oklahoma to find nearby food sites for the summer meal program."
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codefortulsa/food-for-thought-ok"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "https://meals4kidsok.org"
+id = 180_303_113
+language = "TypeScript"
+license = { }
+name = "food-for-thought-ok"
+node_id = "MDEwOlJlcG9zaXRvcnkxODAzMDMxMTM="
+open_issues_within = 10
+private = false
+pushed_within = "year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 4_308_649
+  login = "codefortulsa"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjQzMDg2NDk="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

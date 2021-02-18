@@ -1,6 +1,51 @@
 code_url = "https://github.com/codefortulsa/BPZAround.me"
 description = "BPZAround.me alerts you when someone is building, planning, or zoning around you."
-git_branch = "master"
 git_url = "git://github.com/codefortulsa/BPZAround.me.git"
-last_pushed_within = "over_a_year"
 name = "BPZAround.me"
+organization_name = "Code for Tulsa"
+
+[github]
+archived = false
+created_at = "2014-06-27T05:28:23Z"
+default_branch = "master"
+description = "BPZAround.me alerts you when someone is building, planning, or zoning around you."
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codefortulsa/BPZAround.me"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 21_265_027
+language = "Python"
+name = "BPZAround.me"
+node_id = "MDEwOlJlcG9zaXRvcnkyMTI2NTAyNw=="
+open_issues_within = 100
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "apache-2.0"
+  name = "Apache License 2.0"
+  node_id = "MDc6TGljZW5zZTI="
+  spdx_id = "Apache-2.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 4_308_649
+  login = "codefortulsa"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjQzMDg2NDk="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
