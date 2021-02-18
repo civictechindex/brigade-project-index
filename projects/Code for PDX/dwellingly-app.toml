@@ -1,9 +1,8 @@
 code_url = "https://github.com/codeforpdx/dwellingly-app"
 description = "Application for property managers to communicate with social workers"
-git_branch = "development"
 git_url = "git://github.com/codeforpdx/dwellingly-app.git"
-last_pushed_within = "week"
 name = "dwellingly-app"
+organization_name = "Code for PDX"
 topics = [
   "bulma",
   "civictech",
@@ -17,3 +16,56 @@ topics = [
   "react",
   "scss"
 ]
+
+[github]
+archived = false
+created_at = "2019-04-11T03:01:15Z"
+default_branch = "development"
+description = "Application for property managers to communicate with social workers"
+disabled = false
+fork = false
+forks_within = 100
+full_name = "codeforpdx/dwellingly-app"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 180_703_673
+language = "JavaScript"
+license = { }
+name = "dwellingly-app"
+node_id = "MDEwOlJlcG9zaXRvcnkxODA3MDM2NzM="
+open_issues_within = 100
+private = false
+pushed_within = "week"
+stargazers_within = 100
+topics = [
+  "bulma",
+  "civictech",
+  "civictechindex",
+  "code-for-all",
+  "code-for-america",
+  "codeforpdx",
+  "frontend",
+  "hacktoberfest",
+  "javascript",
+  "react",
+  "scss"
+]
+updated_within = "week"
+watchers_within = 100
+
+  [github.owner]
+  gravatar_id = ""
+  id = 39_497_980
+  login = "codeforpdx"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM5NDk3OTgw"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

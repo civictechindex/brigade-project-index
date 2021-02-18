@@ -1,6 +1,46 @@
 code_url = "https://github.com/codeforpdx/symptomsurvey_backend"
 description = "Back End of the Symptom Survey Project"
-git_branch = "master"
 git_url = "git://github.com/codeforpdx/symptomsurvey_backend.git"
-last_pushed_within = "year"
 name = "symptomsurvey_backend"
+organization_name = "Code for PDX"
+
+[github]
+archived = false
+created_at = "2018-10-14T19:21:45Z"
+default_branch = "master"
+description = "Back End of the Symptom Survey Project"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codeforpdx/symptomsurvey_backend"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 153_010_241
+language = "Python"
+license = { }
+name = "symptomsurvey_backend"
+node_id = "MDEwOlJlcG9zaXRvcnkxNTMwMTAyNDE="
+open_issues_within = 10
+private = false
+pushed_within = "year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 39_497_980
+  login = "codeforpdx"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM5NDk3OTgw"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

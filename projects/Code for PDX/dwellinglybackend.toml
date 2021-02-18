@@ -1,9 +1,8 @@
 code_url = "https://github.com/codeforpdx/dwellinglybackend"
 description = "Application for property managers to communicate with social workers"
-git_branch = "development"
 git_url = "git://github.com/codeforpdx/dwellinglybackend.git"
-last_pushed_within = "week"
 name = "dwellinglybackend"
+organization_name = "Code for PDX"
 topics = [
   "backend",
   "civictech",
@@ -15,3 +14,59 @@ topics = [
   "hacktoberfest",
   "python"
 ]
+
+[github]
+archived = false
+created_at = "2020-02-27T04:33:08Z"
+default_branch = "development"
+description = "Application for property managers to communicate with social workers"
+disabled = false
+fork = false
+forks_within = 100
+full_name = "codeforpdx/dwellinglybackend"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 243_431_090
+language = "Python"
+name = "dwellinglybackend"
+node_id = "MDEwOlJlcG9zaXRvcnkyNDM0MzEwOTA="
+open_issues_within = 10
+private = false
+pushed_within = "week"
+stargazers_within = 10
+topics = [
+  "backend",
+  "civictech",
+  "civictechindex",
+  "code-for-all",
+  "code-for-america",
+  "codeforpdx",
+  "flask",
+  "hacktoberfest",
+  "python"
+]
+updated_within = "week"
+watchers_within = 10
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 39_497_980
+  login = "codeforpdx"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM5NDk3OTgw"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

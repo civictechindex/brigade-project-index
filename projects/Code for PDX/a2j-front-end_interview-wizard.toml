@@ -1,9 +1,8 @@
 code_url = "https://github.com/codeforpdx/a2j-front-end_interview-wizard"
 description = "A question and answer module for Access2Justice.  "
-git_branch = "master"
 git_url = "git://github.com/codeforpdx/a2j-front-end_interview-wizard.git"
-last_pushed_within = "over_a_year"
 name = "a2j-front-end_interview-wizard"
+organization_name = "Code for PDX"
 topics = [
   "a2j",
   "access2justice",
@@ -11,3 +10,50 @@ topics = [
   "code-for-pdx",
   "volunteering"
 ]
+
+[github]
+archived = false
+created_at = "2018-10-27T02:51:12Z"
+default_branch = "master"
+description = "A question and answer module for Access2Justice.  "
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codeforpdx/a2j-front-end_interview-wizard"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 154_917_996
+language = "TypeScript"
+license = { }
+name = "a2j-front-end_interview-wizard"
+node_id = "MDEwOlJlcG9zaXRvcnkxNTQ5MTc5OTY="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [
+  "a2j",
+  "access2justice",
+  "code-for-america",
+  "code-for-pdx",
+  "volunteering"
+]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 39_497_980
+  login = "codeforpdx"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM5NDk3OTgw"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
