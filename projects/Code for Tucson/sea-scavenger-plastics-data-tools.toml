@@ -1,6 +1,51 @@
 code_url = "https://github.com/CodeForTucson/sea-scavenger-plastics-data-tools"
 description = "Tools for analyzing TOP plastics data and generating data files for the Sea Scavenger game."
-git_branch = "main"
 git_url = "git://github.com/CodeForTucson/sea-scavenger-plastics-data-tools.git"
-last_pushed_within = "year"
 name = "sea-scavenger-plastics-data-tools"
+organization_name = "Code for Tucson"
+
+[github]
+archived = false
+created_at = "2020-10-13T01:56:14Z"
+default_branch = "main"
+description = "Tools for analyzing TOP plastics data and generating data files for the Sea Scavenger game."
+disabled = false
+fork = false
+forks_within = 0
+full_name = "CodeForTucson/sea-scavenger-plastics-data-tools"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 303_560_178
+language = "Python"
+name = "sea-scavenger-plastics-data-tools"
+node_id = "MDEwOlJlcG9zaXRvcnkzMDM1NjAxNzg="
+open_issues_within = 0
+private = false
+pushed_within = "year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "year"
+watchers_within = 0
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 5_103_176
+  login = "CodeForTucson"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjUxMDMxNzY="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

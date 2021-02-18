@@ -1,7 +1,47 @@
 code_url = "https://github.com/CodeForTucson/feed-the-kids"
 description = "A mapping project created for NDoCH 2020. This Mapbox map displays where free and reduced lunches are available for school students in Arizona."
-git_branch = "master"
 git_url = "git://github.com/CodeForTucson/feed-the-kids.git"
-last_pushed_within = "year"
 name = "feed-the-kids"
+organization_name = "Code for Tucson"
 topics = [ "code-for-america", "code-for-tucson", "covid-19" ]
+
+[github]
+archived = false
+created_at = "2020-09-12T19:45:50Z"
+default_branch = "master"
+description = "A mapping project created for NDoCH 2020. This Mapbox map displays where free and reduced lunches are available for school students in Arizona."
+disabled = false
+fork = false
+forks_within = 0
+full_name = "CodeForTucson/feed-the-kids"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 295_014_787
+language = "JavaScript"
+license = { }
+name = "feed-the-kids"
+node_id = "MDEwOlJlcG9zaXRvcnkyOTUwMTQ3ODc="
+open_issues_within = 0
+private = false
+pushed_within = "year"
+stargazers_within = 0
+topics = [ "code-for-america", "code-for-tucson", "covid-19" ]
+updated_within = "year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 5_103_176
+  login = "CodeForTucson"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjUxMDMxNzY="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

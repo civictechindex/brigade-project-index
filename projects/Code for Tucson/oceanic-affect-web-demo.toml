@@ -1,6 +1,46 @@
 code_url = "https://github.com/CodeForTucson/oceanic-affect-web-demo"
 description = "Javascript demo of the ocean plastics pollution game Oceanic Affect. (A demo for TOP-2020-Sprint-1.)"
-git_branch = "master"
 git_url = "git://github.com/CodeForTucson/oceanic-affect-web-demo.git"
-last_pushed_within = "year"
 name = "oceanic-affect-web-demo"
+organization_name = "Code for Tucson"
+
+[github]
+archived = false
+created_at = "2020-08-19T01:18:35Z"
+default_branch = "master"
+description = "Javascript demo of the ocean plastics pollution game Oceanic Affect. (A demo for TOP-2020-Sprint-1.)"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "CodeForTucson/oceanic-affect-web-demo"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 288_601_368
+language = "JavaScript"
+license = { }
+name = "oceanic-affect-web-demo"
+node_id = "MDEwOlJlcG9zaXRvcnkyODg2MDEzNjg="
+open_issues_within = 10
+private = false
+pushed_within = "year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 5_103_176
+  login = "CodeForTucson"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjUxMDMxNzY="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

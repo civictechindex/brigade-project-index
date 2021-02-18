@@ -1,6 +1,46 @@
 code_url = "https://github.com/CodeForTucson/top-2020-sprint-1"
 description = "The Opportunity Project Sprint 1 - Natural Environment"
-git_branch = "master"
 git_url = "git://github.com/CodeForTucson/top-2020-sprint-1.git"
-last_pushed_within = "year"
 name = "top-2020-sprint-1"
+organization_name = "Code for Tucson"
+
+[github]
+archived = false
+created_at = "2020-07-10T07:22:36Z"
+default_branch = "master"
+description = "The Opportunity Project Sprint 1 - Natural Environment"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "CodeForTucson/top-2020-sprint-1"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 278_567_218
+language = "HTML"
+license = { }
+name = "top-2020-sprint-1"
+node_id = "MDEwOlJlcG9zaXRvcnkyNzg1NjcyMTg="
+open_issues_within = 10
+private = false
+pushed_within = "year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 5_103_176
+  login = "CodeForTucson"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjUxMDMxNzY="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

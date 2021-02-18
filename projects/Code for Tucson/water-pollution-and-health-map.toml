@@ -1,6 +1,46 @@
 code_url = "https://github.com/CodeForTucson/water-pollution-and-health-map"
 description = "A map of water contamination in the Tucson area and related health effects."
-git_branch = "master"
 git_url = "git://github.com/CodeForTucson/water-pollution-and-health-map.git"
-last_pushed_within = "year"
 name = "water-pollution-and-health-map"
+organization_name = "Code for Tucson"
+
+[github]
+archived = false
+created_at = "2020-03-07T19:52:48Z"
+default_branch = "master"
+description = "A map of water contamination in the Tucson area and related health effects."
+disabled = false
+fork = false
+forks_within = 0
+full_name = "CodeForTucson/water-pollution-and-health-map"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 245_695_985
+language = { }
+license = { }
+name = "water-pollution-and-health-map"
+node_id = "MDEwOlJlcG9zaXRvcnkyNDU2OTU5ODU="
+open_issues_within = 0
+private = false
+pushed_within = "year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 5_103_176
+  login = "CodeForTucson"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjUxMDMxNzY="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

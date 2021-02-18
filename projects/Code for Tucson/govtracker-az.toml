@@ -1,6 +1,46 @@
 code_url = "https://github.com/CodeForTucson/govtracker-az"
 description = "Making local AZ government info available to citizens."
-git_branch = "master"
 git_url = "git://github.com/CodeForTucson/govtracker-az.git"
-last_pushed_within = "year"
 name = "govtracker-az"
+organization_name = "Code for Tucson"
+
+[github]
+archived = false
+created_at = "2016-11-01T23:56:11Z"
+default_branch = "master"
+description = "Making local AZ government info available to citizens."
+disabled = false
+fork = false
+forks_within = 10
+full_name = "CodeForTucson/govtracker-az"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 72_587_066
+language = "Python"
+license = { }
+name = "govtracker-az"
+node_id = "MDEwOlJlcG9zaXRvcnk3MjU4NzA2Ng=="
+open_issues_within = 100
+private = false
+pushed_within = "year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 5_103_176
+  login = "CodeForTucson"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjUxMDMxNzY="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

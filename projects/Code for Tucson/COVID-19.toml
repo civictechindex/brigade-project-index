@@ -1,7 +1,47 @@
 code_url = "https://github.com/CodeForTucson/COVID-19"
 description = "Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE"
-git_branch = "master"
 git_url = "git://github.com/CodeForTucson/COVID-19.git"
-last_pushed_within = "year"
 link_url = "https://systems.jhu.edu/research/public-health/ncov/"
 name = "COVID-19"
+organization_name = "Code for Tucson"
+
+[github]
+archived = false
+created_at = "2020-05-24T07:43:23Z"
+default_branch = "master"
+description = "Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE"
+disabled = false
+fork = true
+forks_within = 0
+full_name = "CodeForTucson/COVID-19"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "https://systems.jhu.edu/research/public-health/ncov/"
+id = 266_493_434
+language = { }
+license = { }
+name = "COVID-19"
+node_id = "MDEwOlJlcG9zaXRvcnkyNjY0OTM0MzQ="
+open_issues_within = 0
+private = false
+pushed_within = "year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 5_103_176
+  login = "CodeForTucson"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjUxMDMxNzY="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

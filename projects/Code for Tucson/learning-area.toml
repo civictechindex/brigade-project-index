@@ -1,0 +1,52 @@
+code_url = "https://github.com/CodeForTucson/learning-area"
+description = "Github repo for the MDN Learning Area. "
+git_url = "git://github.com/CodeForTucson/learning-area.git"
+link_url = "https://developer.mozilla.org/en-US/Learn"
+name = "learning-area"
+organization_name = "Code for Tucson"
+
+[github]
+archived = false
+created_at = "2021-01-04T05:58:21Z"
+default_branch = "master"
+description = "Github repo for the MDN Learning Area. "
+disabled = false
+fork = true
+forks_within = 0
+full_name = "CodeForTucson/learning-area"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = false
+homepage = "https://developer.mozilla.org/en-US/Learn"
+id = 326_584_629
+language = { }
+name = "learning-area"
+node_id = "MDEwOlJlcG9zaXRvcnkzMjY1ODQ2Mjk="
+open_issues_within = 0
+private = false
+pushed_within = "year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "year"
+watchers_within = 0
+
+  [github.license]
+  key = "cc0-1.0"
+  name = "Creative Commons Zero v1.0 Universal"
+  node_id = "MDc6TGljZW5zZTY="
+  spdx_id = "CC0-1.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 5_103_176
+  login = "CodeForTucson"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjUxMDMxNzY="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

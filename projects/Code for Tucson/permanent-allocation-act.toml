@@ -1,6 +1,46 @@
 code_url = "https://github.com/CodeForTucson/permanent-allocation-act"
 description = "A project to illustrate the impact of the Permanent Allocation Act of 1929 on the American voter."
-git_branch = "main"
 git_url = "git://github.com/CodeForTucson/permanent-allocation-act.git"
-last_pushed_within = "month"
 name = "permanent-allocation-act"
+organization_name = "Code for Tucson"
+
+[github]
+archived = false
+created_at = "2020-11-29T06:51:29Z"
+default_branch = "main"
+description = "A project to illustrate the impact of the Permanent Allocation Act of 1929 on the American voter."
+disabled = false
+fork = false
+forks_within = 0
+full_name = "CodeForTucson/permanent-allocation-act"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 316_893_567
+language = { }
+license = { }
+name = "permanent-allocation-act"
+node_id = "MDEwOlJlcG9zaXRvcnkzMTY4OTM1Njc="
+open_issues_within = 0
+private = false
+pushed_within = "year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 5_103_176
+  login = "CodeForTucson"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjUxMDMxNzY="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
