@@ -1,7 +1,52 @@
 code_url = "https://github.com/Open-NC/durham-quality-of-life-data"
 description = "Durham County data for the Quality of Life Dashboard"
-git_branch = "master"
 git_url = "git://github.com/Open-NC/durham-quality-of-life-data.git"
-last_pushed_within = "over_a_year"
 link_url = "http://compass.dataworks-nc.org"
 name = "durham-quality-of-life-data"
+organization_name = "Open Raleigh Brigade"
+
+[github]
+archived = false
+created_at = "2018-06-09T18:17:10Z"
+default_branch = "master"
+description = "Durham County data for the Quality of Life Dashboard"
+disabled = false
+fork = true
+forks_within = 0
+full_name = "Open-NC/durham-quality-of-life-data"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://compass.dataworks-nc.org"
+id = 136_747_434
+language = "JavaScript"
+name = "durham-quality-of-life-data"
+node_id = "MDEwOlJlcG9zaXRvcnkxMzY3NDc0MzQ="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 24_854_789
+  login = "Open-NC"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI0ODU0Nzg5"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

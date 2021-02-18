@@ -1,7 +1,52 @@
 code_url = "https://github.com/Open-NC/park-locator"
 description = "Park Locator is a mapping tool for Raleigh parks that allows you to find the closest park to your home, search for parks by amenity, get directions to a park, and explore program offerings at the parks."
-git_branch = "master"
 git_url = "git://github.com/Open-NC/park-locator.git"
-last_pushed_within = "over_a_year"
 link_url = "https://maps.raleighnc.gov/parklocator"
 name = "park-locator"
+organization_name = "Open Raleigh Brigade"
+
+[github]
+archived = false
+created_at = "2017-09-02T17:24:19Z"
+default_branch = "master"
+description = "Park Locator is a mapping tool for Raleigh parks that allows you to find the closest park to your home, search for parks by amenity, get directions to a park, and explore program offerings at the parks."
+disabled = false
+fork = true
+forks_within = 0
+full_name = "Open-NC/park-locator"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "https://maps.raleighnc.gov/parklocator"
+id = 102_212_293
+language = "JavaScript"
+name = "park-locator"
+node_id = "MDEwOlJlcG9zaXRvcnkxMDIyMTIyOTM="
+open_issues_within = 100
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 24_854_789
+  login = "Open-NC"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI0ODU0Nzg5"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
