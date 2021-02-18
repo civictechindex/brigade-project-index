@@ -1,5 +1,62 @@
 code_url = "https://github.com/opensmc/get-connected-smc"
 description = "A site that helps San Mateo County residents understand more about what assistance programs they may qualify for including health insurance, MediCal, Medicaid, and WIC"
-last_pushed_within = "over_a_year"
 name = "Get Connected SMC"
+organization_name = "OpenSMC"
 status = "In Progress"
+
+[github]
+archived = false
+created_at = "2017-03-22T02:35:40Z"
+default_branch = "master"
+description = "Helps San Mateo County residents understand what assistance programs they may be eligible for"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "opensmc/get-connected-smc"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 85_776_650
+language = "JavaScript"
+name = "get-connected-smc"
+network_count = 3
+node_id = "MDEwOlJlcG9zaXRvcnk4NTc3NjY1MA=="
+open_issues_within = 100
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+subscribers_count = 3
+temp_clone_token = ""
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.organization]
+  gravatar_id = ""
+  id = 16_023_997
+  login = "opensmc"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE2MDIzOTk3"
+  site_admin = false
+  type = "Organization"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 16_023_997
+  login = "opensmc"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE2MDIzOTk3"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

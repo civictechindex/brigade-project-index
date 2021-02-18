@@ -1,5 +1,57 @@
 code_url = "https://github.com/opensmc/park-periscope"
 description = "A project to collect attribute information about parks within San Mateo County."
-last_pushed_within = "over_a_year"
 name = "Park Periscope"
+organization_name = "OpenSMC"
 status = "In Progress"
+
+[github]
+archived = false
+created_at = "2016-12-07T03:49:07Z"
+default_branch = "master"
+description = "A project to collect attribute information about parks within San Mateo County."
+disabled = false
+fork = false
+forks_within = 10
+full_name = "opensmc/park-periscope"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 75_797_027
+language = "HTML"
+license = { }
+name = "park-periscope"
+network_count = 1
+node_id = "MDEwOlJlcG9zaXRvcnk3NTc5NzAyNw=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+subscribers_count = 9
+temp_clone_token = ""
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.organization]
+  gravatar_id = ""
+  id = 16_023_997
+  login = "opensmc"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE2MDIzOTk3"
+  site_admin = false
+  type = "Organization"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 16_023_997
+  login = "opensmc"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE2MDIzOTk3"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

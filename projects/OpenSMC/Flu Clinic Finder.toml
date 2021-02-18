@@ -1,5 +1,57 @@
 code_url = "https://github.com/opensmc/smcfluclinics"
 description = "Mobile application framework created to help users find flu clinics by location and open date/time. Conceived as a framework for other location- and time-based services.  (This project is on hold until flu clinics re-open in the fall.)"
-last_pushed_within = "over_a_year"
 name = "Flu Clinic Finder"
+organization_name = "OpenSMC"
 status = "Completed"
+
+[github]
+archived = false
+created_at = "2015-11-07T05:57:24Z"
+default_branch = "master"
+description = "Multiplatform mobile app to display flu clinics in San Mateo County, California."
+disabled = false
+fork = false
+forks_within = 10
+full_name = "opensmc/smcfluclinics"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 45_724_593
+language = "CSS"
+license = { }
+name = "smcfluclinics"
+network_count = 5
+node_id = "MDEwOlJlcG9zaXRvcnk0NTcyNDU5Mw=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+subscribers_count = 4
+temp_clone_token = ""
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.organization]
+  gravatar_id = ""
+  id = 16_023_997
+  login = "opensmc"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE2MDIzOTk3"
+  site_admin = false
+  type = "Organization"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 16_023_997
+  login = "opensmc"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE2MDIzOTk3"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
