@@ -1,0 +1,51 @@
+code_url = "https://github.com/CodeForCuritiba/EventBriteHandler"
+description = "A tool responsible for fetching information about an specific event and performing an action as you desire;"
+git_url = "git://github.com/CodeForCuritiba/EventBriteHandler.git"
+name = "EventBriteHandler"
+organization_name = "Code for Curitiba"
+
+[github]
+archived = false
+created_at = "2021-02-18T03:30:52Z"
+default_branch = "main"
+description = "A tool responsible for fetching information about an specific event and performing an action as you desire;"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "CodeForCuritiba/EventBriteHandler"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 339_925_371
+language = "Python"
+name = "EventBriteHandler"
+node_id = "MDEwOlJlcG9zaXRvcnkzMzk5MjUzNzE="
+open_issues_within = 0
+private = false
+pushed_within = "week"
+stargazers_within = 0
+topics = [ ]
+updated_within = "week"
+watchers_within = 0
+
+  [github.license]
+  key = "gpl-3.0"
+  name = "GNU General Public License v3.0"
+  node_id = "MDc6TGljZW5zZTk="
+  spdx_id = "GPL-3.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 11_762_338
+  login = "CodeForCuritiba"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjExNzYyMzM4"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
