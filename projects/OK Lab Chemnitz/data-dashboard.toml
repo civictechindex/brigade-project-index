@@ -1,7 +1,52 @@
 code_url = "https://github.com/CodeforChemnitz/data-dashboard"
 description = "Show an #OpenData data dashboard of Chemnitz"
-git_branch = "gh-pages"
 git_url = "git://github.com/CodeforChemnitz/data-dashboard.git"
-last_pushed_within = "over_a_year"
 link_url = "http://status.codeforchemnitz.de/"
 name = "data-dashboard"
+organization_name = "OK Lab Chemnitz"
+
+[github]
+archived = false
+created_at = "2016-04-14T18:05:41Z"
+default_branch = "gh-pages"
+description = "Show an #OpenData data dashboard of Chemnitz"
+disabled = false
+fork = true
+forks_within = 0
+full_name = "CodeforChemnitz/data-dashboard"
+has_downloads = true
+has_issues = false
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "http://status.codeforchemnitz.de/"
+id = 56_259_362
+language = "JavaScript"
+name = "data-dashboard"
+node_id = "MDEwOlJlcG9zaXRvcnk1NjI1OTM2Mg=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 7_165_089
+  login = "CodeforChemnitz"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjcxNjUwODk="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

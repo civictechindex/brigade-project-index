@@ -1,7 +1,52 @@
 code_url = "https://github.com/CodeforChemnitz/codefor.de"
 description = "The website for Code for Germany. Includes the blog, projects list and basic info about the group."
-git_branch = "gh-pages"
 git_url = "git://github.com/CodeforChemnitz/codefor.de.git"
-last_pushed_within = "over_a_year"
 link_url = "http://codefor.de"
 name = "codefor.de"
+organization_name = "OK Lab Chemnitz"
+
+[github]
+archived = false
+created_at = "2017-10-05T20:39:59Z"
+default_branch = "gh-pages"
+description = "The website for Code for Germany. Includes the blog, projects list and basic info about the group."
+disabled = false
+fork = true
+forks_within = 0
+full_name = "CodeforChemnitz/codefor.de"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://codefor.de"
+id = 105_938_088
+language = "HTML"
+name = "codefor.de"
+node_id = "MDEwOlJlcG9zaXRvcnkxMDU5MzgwODg="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 7_165_089
+  login = "CodeforChemnitz"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjcxNjUwODk="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

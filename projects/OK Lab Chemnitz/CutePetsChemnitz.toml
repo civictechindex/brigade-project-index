@@ -1,7 +1,52 @@
 code_url = "https://github.com/CodeforChemnitz/CutePetsChemnitz"
 description = "🐶🐱🐣 This is a twitter bot that posts a random adoptable pet from Chemnitz's shelter."
-git_branch = "master"
 git_url = "git://github.com/CodeforChemnitz/CutePetsChemnitz.git"
-last_pushed_within = "over_a_year"
 link_url = "http://twitter.com/petschemnitz"
 name = "CutePetsChemnitz"
+organization_name = "OK Lab Chemnitz"
+
+[github]
+archived = false
+created_at = "2015-07-16T17:59:23Z"
+default_branch = "master"
+description = "🐶🐱🐣 This is a twitter bot that posts a random adoptable pet from Chemnitz's shelter."
+disabled = false
+fork = true
+forks_within = 10
+full_name = "CodeforChemnitz/CutePetsChemnitz"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = false
+homepage = "http://twitter.com/petschemnitz"
+id = 39_212_256
+language = "CoffeeScript"
+name = "CutePetsChemnitz"
+node_id = "MDEwOlJlcG9zaXRvcnkzOTIxMjI1Ng=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 7_165_089
+  login = "CodeforChemnitz"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjcxNjUwODk="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

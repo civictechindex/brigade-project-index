@@ -1,6 +1,46 @@
 code_url = "https://github.com/CodeforChemnitz/SensorAPI-phoenix"
 description = "SensorAPI REST service build with Phoenix Framework and Elixir"
-git_branch = "master"
 git_url = "git://github.com/CodeforChemnitz/SensorAPI-phoenix.git"
-last_pushed_within = "over_a_year"
 name = "SensorAPI-phoenix"
+organization_name = "OK Lab Chemnitz"
+
+[github]
+archived = false
+created_at = "2015-09-26T13:04:36Z"
+default_branch = "master"
+description = "SensorAPI REST service build with Phoenix Framework and Elixir"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "CodeforChemnitz/SensorAPI-phoenix"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = false
+homepage = { }
+id = 43_205_611
+language = "Elixir"
+license = { }
+name = "SensorAPI-phoenix"
+node_id = "MDEwOlJlcG9zaXRvcnk0MzIwNTYxMQ=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 7_165_089
+  login = "CodeforChemnitz"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjcxNjUwODk="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

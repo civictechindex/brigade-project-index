@@ -1,7 +1,47 @@
 code_url = "https://github.com/CodeforChemnitz/sensor_node"
 description = "SensorNode"
-git_branch = "master"
 git_url = "git://github.com/CodeforChemnitz/sensor_node.git"
-last_pushed_within = "over_a_year"
 link_url = "http://codeforchemnitz.de/projects/sensor/"
 name = "sensor_node"
+organization_name = "OK Lab Chemnitz"
+
+[github]
+archived = false
+created_at = "2016-01-22T19:33:00Z"
+default_branch = "master"
+description = "SensorNode"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "CodeforChemnitz/sensor_node"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://codeforchemnitz.de/projects/sensor/"
+id = 50_203_090
+language = "C++"
+license = { }
+name = "sensor_node"
+node_id = "MDEwOlJlcG9zaXRvcnk1MDIwMzA5MA=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 7_165_089
+  login = "CodeforChemnitz"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjcxNjUwODk="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

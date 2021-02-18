@@ -1,5 +1,50 @@
 code_url = "https://github.com/CodeforChemnitz/trinkwasser"
-git_branch = "master"
 git_url = "git://github.com/CodeforChemnitz/trinkwasser.git"
-last_pushed_within = "over_a_year"
 name = "trinkwasser"
+organization_name = "OK Lab Chemnitz"
+
+[github]
+archived = false
+created_at = "2014-10-02T18:01:34Z"
+default_branch = "master"
+description = { }
+disabled = false
+fork = true
+forks_within = 0
+full_name = "CodeforChemnitz/trinkwasser"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = false
+homepage = { }
+id = 24_730_159
+language = "JavaScript"
+name = "trinkwasser"
+node_id = "MDEwOlJlcG9zaXRvcnkyNDczMDE1OQ=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 7_165_089
+  login = "CodeforChemnitz"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjcxNjUwODk="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

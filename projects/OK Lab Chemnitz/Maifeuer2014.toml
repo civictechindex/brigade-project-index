@@ -1,6 +1,46 @@
 code_url = "https://github.com/CodeforChemnitz/Maifeuer2014"
 description = "Maifeuer 2014 in Chemnitz"
-git_branch = "master"
 git_url = "git://github.com/CodeforChemnitz/Maifeuer2014.git"
-last_pushed_within = "over_a_year"
 name = "Maifeuer2014"
+organization_name = "OK Lab Chemnitz"
+
+[github]
+archived = false
+created_at = "2014-04-29T23:25:44Z"
+default_branch = "master"
+description = "Maifeuer 2014 in Chemnitz"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "CodeforChemnitz/Maifeuer2014"
+has_downloads = true
+has_issues = false
+has_pages = true
+has_projects = true
+has_wiki = false
+homepage = { }
+id = 19_294_750
+language = { }
+license = { }
+name = "Maifeuer2014"
+node_id = "MDEwOlJlcG9zaXRvcnkxOTI5NDc1MA=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 7_165_089
+  login = "CodeforChemnitz"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjcxNjUwODk="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

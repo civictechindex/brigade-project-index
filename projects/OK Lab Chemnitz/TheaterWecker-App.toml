@@ -1,7 +1,47 @@
 code_url = "https://github.com/CodeforChemnitz/TheaterWecker-App"
 description = "iOS and Android App for our Theaterwecker project (React Native based)"
-git_branch = "master"
 git_url = "git://github.com/CodeforChemnitz/TheaterWecker-App.git"
-last_pushed_within = "over_a_year"
 link_url = "https://theaterwecker.de"
 name = "TheaterWecker-App"
+organization_name = "OK Lab Chemnitz"
+
+[github]
+archived = false
+created_at = "2017-11-17T15:57:48Z"
+default_branch = "master"
+description = "iOS and Android App for our Theaterwecker project (React Native based)"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "CodeforChemnitz/TheaterWecker-App"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "https://theaterwecker.de"
+id = 111_122_344
+language = "JavaScript"
+license = { }
+name = "TheaterWecker-App"
+node_id = "MDEwOlJlcG9zaXRvcnkxMTExMjIzNDQ="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 7_165_089
+  login = "CodeforChemnitz"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjcxNjUwODk="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

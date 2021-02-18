@@ -1,6 +1,46 @@
 code_url = "https://github.com/CodeforChemnitz/SensorKarte"
 description = "Citizen-Science Sensor Karte - Verwaltung von Sensor-Stationen und deren Sensoren"
-git_branch = "master"
 git_url = "git://github.com/CodeforChemnitz/SensorKarte.git"
-last_pushed_within = "over_a_year"
 name = "SensorKarte"
+organization_name = "OK Lab Chemnitz"
+
+[github]
+archived = false
+created_at = "2015-06-18T17:57:13Z"
+default_branch = "master"
+description = "Citizen-Science Sensor Karte - Verwaltung von Sensor-Stationen und deren Sensoren"
+disabled = false
+fork = true
+forks_within = 0
+full_name = "CodeforChemnitz/SensorKarte"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = false
+homepage = ""
+id = 37_675_649
+language = "HTML"
+license = { }
+name = "SensorKarte"
+node_id = "MDEwOlJlcG9zaXRvcnkzNzY3NTY0OQ=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 7_165_089
+  login = "CodeforChemnitz"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjcxNjUwODk="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
