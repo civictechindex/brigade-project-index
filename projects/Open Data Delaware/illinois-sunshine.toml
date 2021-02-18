@@ -1,7 +1,52 @@
 code_url = "https://github.com/OpenDataDE/illinois-sunshine"
 description = ":sunny: Illinois Sunshine. Keep an eye on money in Illinois politics."
-git_branch = "master"
 git_url = "git://github.com/OpenDataDE/illinois-sunshine.git"
-last_pushed_within = "over_a_year"
 link_url = "http://www.illinoissunshine.org/"
 name = "illinois-sunshine"
+organization_name = "Open Data Delaware"
+
+[github]
+archived = false
+created_at = "2017-01-17T21:29:59Z"
+default_branch = "master"
+description = ":sunny: Illinois Sunshine. Keep an eye on money in Illinois politics."
+disabled = false
+fork = true
+forks_within = 0
+full_name = "OpenDataDE/illinois-sunshine"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://www.illinoissunshine.org/"
+id = 79_273_836
+language = "HTML"
+name = "illinois-sunshine"
+node_id = "MDEwOlJlcG9zaXRvcnk3OTI3MzgzNg=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 14_185_206
+  login = "OpenDataDE"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE0MTg1MjA2"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

@@ -1,6 +1,46 @@
 code_url = "https://github.com/OpenDataDE/de-geojson-data"
 description = "A collection of GeoJSON files for Delaware!"
-git_branch = "master"
 git_url = "git://github.com/OpenDataDE/de-geojson-data.git"
-last_pushed_within = "over_a_year"
 name = "de-geojson-data"
+organization_name = "Open Data Delaware"
+
+[github]
+archived = false
+created_at = "2016-10-19T14:57:09Z"
+default_branch = "master"
+description = "A collection of GeoJSON files for Delaware!"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "OpenDataDE/de-geojson-data"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 71_368_549
+language = { }
+license = { }
+name = "de-geojson-data"
+node_id = "MDEwOlJlcG9zaXRvcnk3MTM2ODU0OQ=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 14_185_206
+  login = "OpenDataDE"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE0MTg1MjA2"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

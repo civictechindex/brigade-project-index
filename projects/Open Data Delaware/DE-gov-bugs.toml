@@ -1,6 +1,46 @@
 code_url = "https://github.com/OpenDataDE/DE-gov-bugs"
 description = "A place to submit bug reports and usability feedback for Delaware government websites"
-git_branch = "master"
 git_url = "git://github.com/OpenDataDE/DE-gov-bugs.git"
-last_pushed_within = "over_a_year"
 name = "DE-gov-bugs"
+organization_name = "Open Data Delaware"
+
+[github]
+archived = false
+created_at = "2016-09-16T01:35:15Z"
+default_branch = "master"
+description = "A place to submit bug reports and usability feedback for Delaware government websites"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "OpenDataDE/DE-gov-bugs"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 68_344_794
+language = { }
+license = { }
+name = "DE-gov-bugs"
+node_id = "MDEwOlJlcG9zaXRvcnk2ODM0NDc5NA=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 14_185_206
+  login = "OpenDataDE"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE0MTg1MjA2"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

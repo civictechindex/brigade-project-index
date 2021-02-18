@@ -1,6 +1,46 @@
 code_url = "https://github.com/OpenDataDE/opendatachallenge.com"
 description = "Repository for the Open Data Challenge website"
-git_branch = "master"
 git_url = "git://github.com/OpenDataDE/opendatachallenge.com.git"
-last_pushed_within = "over_a_year"
 name = "opendatachallenge.com"
+organization_name = "Open Data Delaware"
+
+[github]
+archived = false
+created_at = "2017-01-20T04:01:57Z"
+default_branch = "master"
+description = "Repository for the Open Data Challenge website"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "OpenDataDE/opendatachallenge.com"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 79_523_819
+language = "CSS"
+license = { }
+name = "opendatachallenge.com"
+node_id = "MDEwOlJlcG9zaXRvcnk3OTUyMzgxOQ=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 14_185_206
+  login = "OpenDataDE"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE0MTg1MjA2"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

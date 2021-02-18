@@ -1,6 +1,51 @@
 code_url = "https://github.com/OpenDataDE/networkde"
 description = "hackathon"
-git_branch = "master"
 git_url = "git://github.com/OpenDataDE/networkde.git"
-last_pushed_within = "over_a_year"
 name = "networkde"
+organization_name = "Open Data Delaware"
+
+[github]
+archived = false
+created_at = "2017-06-05T13:48:32Z"
+default_branch = "master"
+description = "hackathon"
+disabled = false
+fork = true
+forks_within = 0
+full_name = "OpenDataDE/networkde"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 93_408_678
+language = "HTML"
+name = "networkde"
+node_id = "MDEwOlJlcG9zaXRvcnk5MzQwODY3OA=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "other"
+  name = "Other"
+  node_id = "MDc6TGljZW5zZTA="
+  spdx_id = "NOASSERTION"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 14_185_206
+  login = "OpenDataDE"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE0MTg1MjA2"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

@@ -1,6 +1,46 @@
 code_url = "https://github.com/OpenDataDE/standardize-us-address"
 description = "Helper function that standarizes a US address"
-git_branch = "master"
 git_url = "git://github.com/OpenDataDE/standardize-us-address.git"
-last_pushed_within = "over_a_year"
 name = "standardize-us-address"
+organization_name = "Open Data Delaware"
+
+[github]
+archived = false
+created_at = "2016-10-14T18:12:46Z"
+default_branch = "master"
+description = "Helper function that standarizes a US address"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "OpenDataDE/standardize-us-address"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 70_935_746
+language = "Python"
+license = { }
+name = "standardize-us-address"
+node_id = "MDEwOlJlcG9zaXRvcnk3MDkzNTc0Ng=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 14_185_206
+  login = "OpenDataDE"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE0MTg1MjA2"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
