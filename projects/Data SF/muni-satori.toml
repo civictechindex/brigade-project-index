@@ -1,6 +1,46 @@
 code_url = "https://github.com/DataSF/muni-satori"
 description = "Node server to push nextbus vehicle locations to Satori"
-git_branch = "master"
 git_url = "git://github.com/DataSF/muni-satori.git"
-last_pushed_within = "over_a_year"
 name = "muni-satori"
+organization_name = "Data SF"
+
+[github]
+archived = false
+created_at = "2017-04-17T18:37:54Z"
+default_branch = "master"
+description = "Node server to push nextbus vehicle locations to Satori"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "DataSF/muni-satori"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 88_538_660
+language = "JavaScript"
+license = { }
+name = "muni-satori"
+node_id = "MDEwOlJlcG9zaXRvcnk4ODUzODY2MA=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 7_906_949
+  login = "DataSF"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjc5MDY5NDk="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

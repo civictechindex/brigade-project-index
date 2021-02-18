@@ -1,6 +1,46 @@
 code_url = "https://github.com/DataSF/data-ferry"
 description = "[WIP] Airflow/Astronomer code supporting orchestration of open data ETLs"
-git_branch = "master"
 git_url = "git://github.com/DataSF/data-ferry.git"
-last_pushed_within = "year"
 name = "data-ferry"
+organization_name = "Data SF"
+
+[github]
+archived = false
+created_at = "2020-01-28T20:38:52Z"
+default_branch = "master"
+description = "[WIP] Airflow/Astronomer code supporting orchestration of open data ETLs"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "DataSF/data-ferry"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 236_836_399
+language = "Python"
+license = { }
+name = "data-ferry"
+node_id = "MDEwOlJlcG9zaXRvcnkyMzY4MzYzOTk="
+open_issues_within = 0
+private = false
+pushed_within = "year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 7_906_949
+  login = "DataSF"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjc5MDY5NDk="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

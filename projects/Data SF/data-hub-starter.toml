@@ -1,6 +1,51 @@
 code_url = "https://github.com/DataSF/data-hub-starter"
 description = 'Data Hub Starter for deploying new "hubs" similar to the Housing Data Hub'
-git_branch = "master"
 git_url = "git://github.com/DataSF/data-hub-starter.git"
-last_pushed_within = "over_a_year"
 name = "data-hub-starter"
+organization_name = "Data SF"
+
+[github]
+archived = false
+created_at = "2015-12-01T22:58:31Z"
+default_branch = "master"
+description = 'Data Hub Starter for deploying new "hubs" similar to the Housing Data Hub'
+disabled = false
+fork = false
+forks_within = 10
+full_name = "DataSF/data-hub-starter"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 47_222_734
+language = "CSS"
+name = "data-hub-starter"
+node_id = "MDEwOlJlcG9zaXRvcnk0NzIyMjczNA=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 7_906_949
+  login = "DataSF"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjc5MDY5NDk="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

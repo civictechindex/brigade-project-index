@@ -1,7 +1,47 @@
 code_url = "https://github.com/DataSF/sewer-drains-311-calls"
 description = "ETL to get Sewer Drain related 311 calls and output them as an shp file on the sftp"
-git_branch = "master"
 git_url = "git://github.com/DataSF/sewer-drains-311-calls.git"
-last_pushed_within = "over_a_year"
 name = "sewer-drains-311-calls"
+organization_name = "Data SF"
 topics = [ "etl", "extract", "load", "transform" ]
+
+[github]
+archived = false
+created_at = "2017-07-24T20:30:28Z"
+default_branch = "master"
+description = "ETL to get Sewer Drain related 311 calls and output them as an shp file on the sftp"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "DataSF/sewer-drains-311-calls"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 98_232_298
+language = "Python"
+license = { }
+name = "sewer-drains-311-calls"
+node_id = "MDEwOlJlcG9zaXRvcnk5ODIzMjI5OA=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ "etl", "extract", "load", "transform" ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 7_906_949
+  login = "DataSF"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjc5MDY5NDk="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

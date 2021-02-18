@@ -1,7 +1,52 @@
 code_url = "https://github.com/DataSF/sf-building-explorer"
 description = "A demonstration application showcasing SF's updated building footprints"
-git_branch = "master"
 git_url = "git://github.com/DataSF/sf-building-explorer.git"
-last_pushed_within = "over_a_year"
 link_url = "https://datasf.org/sf-building-explorer"
 name = "sf-building-explorer"
+organization_name = "Data SF"
+
+[github]
+archived = false
+created_at = "2017-05-11T21:31:28Z"
+default_branch = "master"
+description = "A demonstration application showcasing SF's updated building footprints"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "DataSF/sf-building-explorer"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "https://datasf.org/sf-building-explorer"
+id = 91_025_211
+language = "HTML"
+name = "sf-building-explorer"
+node_id = "MDEwOlJlcG9zaXRvcnk5MTAyNTIxMQ=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 100
+topics = [ ]
+updated_within = "year"
+watchers_within = 100
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 7_906_949
+  login = "DataSF"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjc5MDY5NDk="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

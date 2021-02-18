@@ -1,7 +1,47 @@
 code_url = "https://github.com/DataSF/arcFeaturesToSocrata"
 description = "Extracts Geodata from a ArcGis Feature Service and Dumps the Data onto Socrata"
-git_branch = "master"
 git_url = "git://github.com/DataSF/arcFeaturesToSocrata.git"
-last_pushed_within = "over_a_year"
 name = "arcFeaturesToSocrata"
+organization_name = "Data SF"
 topics = [ "etl", "extract", "load", "transform" ]
+
+[github]
+archived = false
+created_at = "2016-03-02T23:39:09Z"
+default_branch = "master"
+description = "Extracts Geodata from a ArcGis Feature Service and Dumps the Data onto Socrata"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "DataSF/arcFeaturesToSocrata"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 53_004_812
+language = "Python"
+license = { }
+name = "arcFeaturesToSocrata"
+node_id = "MDEwOlJlcG9zaXRvcnk1MzAwNDgxMg=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ "etl", "extract", "load", "transform" ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 7_906_949
+  login = "DataSF"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjc5MDY5NDk="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

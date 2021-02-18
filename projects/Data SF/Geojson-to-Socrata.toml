@@ -1,7 +1,47 @@
 code_url = "https://github.com/DataSF/Geojson-to-Socrata"
 description = "Uploads geojson files to Socrata using standard API calls"
-git_branch = "master"
 git_url = "git://github.com/DataSF/Geojson-to-Socrata.git"
-last_pushed_within = "over_a_year"
 name = "Geojson-to-Socrata"
+organization_name = "Data SF"
 topics = [ "etl", "extract", "load", "transform" ]
+
+[github]
+archived = false
+created_at = "2016-06-03T00:06:28Z"
+default_branch = "master"
+description = "Uploads geojson files to Socrata using standard API calls"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "DataSF/Geojson-to-Socrata"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 60_305_457
+language = "Python"
+license = { }
+name = "Geojson-to-Socrata"
+node_id = "MDEwOlJlcG9zaXRvcnk2MDMwNTQ1Nw=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ "etl", "extract", "load", "transform" ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 7_906_949
+  login = "DataSF"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjc5MDY5NDk="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

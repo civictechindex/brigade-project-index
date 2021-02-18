@@ -1,8 +1,53 @@
 code_url = "https://github.com/DataSF/open-data-explorer"
 description = "To promote exploration and use of open data - currently in beta"
-git_branch = "develop"
 git_url = "git://github.com/DataSF/open-data-explorer.git"
-last_pushed_within = "over_a_year"
 link_url = "http://edge.explore.datasf.org"
 name = "open-data-explorer"
+organization_name = "Data SF"
 topics = [ "exploratory-data-analysis", "opendata", "transparency" ]
+
+[github]
+archived = false
+created_at = "2016-03-09T02:07:38Z"
+default_branch = "develop"
+description = "To promote exploration and use of open data - currently in beta"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "DataSF/open-data-explorer"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://edge.explore.datasf.org"
+id = 53_460_374
+language = "JavaScript"
+name = "open-data-explorer"
+node_id = "MDEwOlJlcG9zaXRvcnk1MzQ2MDM3NA=="
+open_issues_within = 100
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 100
+topics = [ "exploratory-data-analysis", "opendata", "transparency" ]
+updated_within = "year"
+watchers_within = 100
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 7_906_949
+  login = "DataSF"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjc5MDY5NDk="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

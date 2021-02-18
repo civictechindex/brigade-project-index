@@ -1,6 +1,46 @@
 code_url = "https://github.com/DataSF/datasf-portal-monitoring"
 description = "Tools to monitor when datasets are created, updated or updated on your city's open data portal "
-git_branch = "master"
 git_url = "git://github.com/DataSF/datasf-portal-monitoring.git"
-last_pushed_within = "over_a_year"
 name = "datasf-portal-monitoring"
+organization_name = "Data SF"
+
+[github]
+archived = false
+created_at = "2017-10-26T04:40:49Z"
+default_branch = "master"
+description = "Tools to monitor when datasets are created, updated or updated on your city's open data portal "
+disabled = false
+fork = false
+forks_within = 10
+full_name = "DataSF/datasf-portal-monitoring"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 108_362_386
+language = "Python"
+license = { }
+name = "datasf-portal-monitoring"
+node_id = "MDEwOlJlcG9zaXRvcnkxMDgzNjIzODY="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 7_906_949
+  login = "DataSF"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjc5MDY5NDk="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

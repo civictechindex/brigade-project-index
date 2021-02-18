@@ -1,6 +1,46 @@
 code_url = "https://github.com/DataSF/sync-socrata-airtable"
 description = "Sync socrata catalog to airtable and airtable inventory to socrata"
-git_branch = "master"
 git_url = "git://github.com/DataSF/sync-socrata-airtable.git"
-last_pushed_within = "year"
 name = "sync-socrata-airtable"
+organization_name = "Data SF"
+
+[github]
+archived = false
+created_at = "2018-01-30T03:36:07Z"
+default_branch = "master"
+description = "Sync socrata catalog to airtable and airtable inventory to socrata"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "DataSF/sync-socrata-airtable"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 119_477_727
+language = "JavaScript"
+license = { }
+name = "sync-socrata-airtable"
+node_id = "MDEwOlJlcG9zaXRvcnkxMTk0Nzc3Mjc="
+open_issues_within = 10
+private = false
+pushed_within = "year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 7_906_949
+  login = "DataSF"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjc5MDY5NDk="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

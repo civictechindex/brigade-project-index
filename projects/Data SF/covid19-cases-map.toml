@@ -1,7 +1,52 @@
 code_url = "https://github.com/DataSF/covid19-cases-map"
 description = "Mapbox map to display COVID-19 cases and related data"
-git_branch = "master"
 git_url = "git://github.com/DataSF/covid19-cases-map.git"
-last_pushed_within = "year"
 link_url = "https://data.sfgov.org/stories/s/adm5-wq8i"
 name = "covid19-cases-map"
+organization_name = "Data SF"
+
+[github]
+archived = false
+created_at = "2020-05-11T08:28:01Z"
+default_branch = "master"
+description = "Mapbox map to display COVID-19 cases and related data"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "DataSF/covid19-cases-map"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "https://data.sfgov.org/stories/s/adm5-wq8i"
+id = 262_983_617
+language = "HTML"
+name = "covid19-cases-map"
+node_id = "MDEwOlJlcG9zaXRvcnkyNjI5ODM2MTc="
+open_issues_within = 0
+private = false
+pushed_within = "year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "year"
+watchers_within = 10
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 7_906_949
+  login = "DataSF"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjc5MDY5NDk="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

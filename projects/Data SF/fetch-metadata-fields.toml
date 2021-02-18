@@ -1,6 +1,46 @@
 code_url = "https://github.com/DataSF/fetch-metadata-fields"
 description = "Utility node and python scripts to grab and update socrata field and metadata information"
-git_branch = "master"
 git_url = "git://github.com/DataSF/fetch-metadata-fields.git"
-last_pushed_within = "over_a_year"
 name = "fetch-metadata-fields"
+organization_name = "Data SF"
+
+[github]
+archived = false
+created_at = "2016-12-21T18:01:11Z"
+default_branch = "master"
+description = "Utility node and python scripts to grab and update socrata field and metadata information"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "DataSF/fetch-metadata-fields"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 77_074_652
+language = "Python"
+license = { }
+name = "fetch-metadata-fields"
+node_id = "MDEwOlJlcG9zaXRvcnk3NzA3NDY1Mg=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 7_906_949
+  login = "DataSF"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjc5MDY5NDk="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
