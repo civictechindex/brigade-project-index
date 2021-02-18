@@ -1,0 +1,52 @@
+code_url = "https://github.com/BetaNYC/nyc-core-framework"
+description = "NYC Core Framework"
+git_url = "git://github.com/BetaNYC/nyc-core-framework.git"
+link_url = "https://cityofnewyork.github.io/nyc-core-framework/"
+name = "nyc-core-framework"
+organization_name = "BetaNYC"
+
+[github]
+archived = false
+created_at = "2021-02-18T17:45:13Z"
+default_branch = "master"
+description = "NYC Core Framework"
+disabled = false
+fork = true
+forks_within = 0
+full_name = "BetaNYC/nyc-core-framework"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "https://cityofnewyork.github.io/nyc-core-framework/"
+id = 340_130_141
+language = { }
+name = "nyc-core-framework"
+node_id = "MDEwOlJlcG9zaXRvcnkzNDAxMzAxNDE="
+open_issues_within = 0
+private = false
+pushed_within = "month"
+stargazers_within = 0
+topics = [ ]
+updated_within = "week"
+watchers_within = 0
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 3_756_624
+  login = "BetaNYC"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM3NTY2MjQ="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
