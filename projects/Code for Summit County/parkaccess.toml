@@ -1,6 +1,46 @@
 code_url = "https://github.com/CodeForSummitCounty/parkaccess"
 description = "New iteration of parkaccess, hosted on Heroku"
-git_branch = "master"
 git_url = "git://github.com/CodeForSummitCounty/parkaccess.git"
-last_pushed_within = "over_a_year"
 name = "parkaccess"
+organization_name = "Code for Summit County"
+
+[github]
+archived = false
+created_at = "2013-06-12T21:25:22Z"
+default_branch = "master"
+description = "New iteration of parkaccess, hosted on Heroku"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "CodeForSummitCounty/parkaccess"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 10_652_628
+language = "JavaScript"
+license = { }
+name = "parkaccess"
+node_id = "MDEwOlJlcG9zaXRvcnkxMDY1MjYyOA=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 3_849_495
+  login = "CodeForSummitCounty"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM4NDk0OTU="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

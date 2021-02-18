@@ -1,7 +1,52 @@
 code_url = "https://github.com/CodeForSummitCounty/codeforsummitcounty.org"
 description = "Code for Summit County Website"
-git_branch = "master"
 git_url = "git://github.com/CodeForSummitCounty/codeforsummitcounty.org.git"
-last_pushed_within = "over_a_year"
 link_url = "http://codeforsummitcounty.org"
 name = "codeforsummitcounty.org"
+organization_name = "Code for Summit County"
+
+[github]
+archived = false
+created_at = "2013-03-13T03:35:49Z"
+default_branch = "master"
+description = "Code for Summit County Website"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "CodeForSummitCounty/codeforsummitcounty.org"
+has_downloads = true
+has_issues = false
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "http://codeforsummitcounty.org"
+id = 8_744_293
+language = { }
+name = "codeforsummitcounty.org"
+node_id = "MDEwOlJlcG9zaXRvcnk4NzQ0Mjkz"
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "other"
+  name = "Other"
+  node_id = "MDc6TGljZW5zZTA="
+  spdx_id = "NOASSERTION"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 3_849_495
+  login = "CodeForSummitCounty"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM4NDk0OTU="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
