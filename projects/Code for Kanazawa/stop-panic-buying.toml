@@ -1,6 +1,46 @@
 code_url = "https://github.com/codeforkanazawa-org/stop-panic-buying"
 description = "買い占め対策として食料品の入手性に関する情報や特定商品の買い占め回避策の提供を考える"
-git_branch = "master"
 git_url = "git://github.com/codeforkanazawa-org/stop-panic-buying.git"
-last_pushed_within = "year"
 name = "stop-panic-buying"
+organization_name = "Code for Kanazawa"
+
+[github]
+archived = false
+created_at = "2020-03-28T11:26:32Z"
+default_branch = "master"
+description = "買い占め対策として食料品の入手性に関する情報や特定商品の買い占め回避策の提供を考える"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codeforkanazawa-org/stop-panic-buying"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 250_777_137
+language = { }
+license = { }
+name = "stop-panic-buying"
+node_id = "MDEwOlJlcG9zaXRvcnkyNTA3NzcxMzc="
+open_issues_within = 0
+private = false
+pushed_within = "year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 5_687_728
+  login = "codeforkanazawa-org"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjU2ODc3Mjg="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
