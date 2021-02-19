@@ -1,7 +1,7 @@
 code_url = "https://github.com/codeforsanjose/Map-of-Silicon-Valley-development-projects"
 description = "Building an interactive map of development projects for a local non-profit, Catalyze SV. The map will be on Catalyze SV's website."
 git_url = "git://github.com/codeforsanjose/Map-of-Silicon-Valley-development-projects.git"
-link_url = "https://github.com/codeforsanjose/Project-Ideas/issues/102"
+link_url = "https://www.catalyzesv.org/map"
 name = "Map-of-Silicon-Valley-development-projects"
 organization_name = "Code for San Jose"
 
@@ -19,7 +19,7 @@ has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = true
-homepage = "https://github.com/codeforsanjose/Project-Ideas/issues/102"
+homepage = "https://www.catalyzesv.org/map"
 id = 187_524_555
 language = "HTML"
 license = { }
@@ -27,10 +27,10 @@ name = "Map-of-Silicon-Valley-development-projects"
 node_id = "MDEwOlJlcG9zaXRvcnkxODc1MjQ1NTU="
 open_issues_within = 10
 private = false
-pushed_within = "over_a_year"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
-updated_within = "over_a_year"
+updated_within = "week"
 watchers_within = 10
 
   [github.owner]
