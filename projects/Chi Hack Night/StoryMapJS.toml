@@ -20,11 +20,11 @@ homepage = "https://storymap.knightlab.com/"
 id = 11_586_630
 language = "JavaScript"
 name = "StoryMapJS"
-network_count = 5
+network_count = 6
 node_id = "MDEwOlJlcG9zaXRvcnkxMTU4NjYzMA=="
 open_issues_within = 1_000
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 100
 subscribers_count = 9
 temp_clone_token = ""
