@@ -1,7 +1,7 @@
 code_url = "https://github.com/codeforjapan/remote-patient-monitoring-dashboard"
 description = "遠隔療養者モニタリングシステムのダッシュボードです。"
 git_url = "git://github.com/codeforjapan/remote-patient-monitoring-dashboard.git"
-link_url = "remote-patient-monitoring-dashboard-git-development.nekoya.vercel.app"
+link_url = "https://remote-patient-monitoring-dashboard.nekoya.vercel.app/"
 name = "remote-patient-monitoring-dashboard"
 organization_name = "Code for Japan"
 
@@ -19,7 +19,7 @@ has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = true
-homepage = "remote-patient-monitoring-dashboard-git-development.nekoya.vercel.app"
+homepage = "https://remote-patient-monitoring-dashboard.nekoya.vercel.app/"
 id = 325_290_532
 language = "Vue"
 license = { }
