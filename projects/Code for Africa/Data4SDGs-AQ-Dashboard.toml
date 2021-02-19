@@ -1,0 +1,53 @@
+code_url = "https://github.com/CodeForAfrica/Data4SDGs-AQ-Dashboard"
+description = "Dashboard of air quality data from citizen science networks around Africa consolidated into a private repository that updates in real-time. "
+git_url = "git://github.com/CodeForAfrica/Data4SDGs-AQ-Dashboard.git"
+link_url = "https://data4sdgs.sensors.africa"
+name = "Data4SDGs-AQ-Dashboard"
+organization_name = "Code for Africa"
+topics = [ "air-quality", "sensor" ]
+
+[github]
+archived = false
+created_at = "2020-09-04T05:50:49Z"
+default_branch = "main"
+description = "Dashboard of air quality data from citizen science networks around Africa consolidated into a private repository that updates in real-time. "
+disabled = false
+fork = false
+forks_within = 0
+full_name = "CodeForAfrica/Data4SDGs-AQ-Dashboard"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "https://data4sdgs.sensors.africa"
+id = 292_761_259
+language = "JavaScript"
+name = "Data4SDGs-AQ-Dashboard"
+node_id = "MDEwOlJlcG9zaXRvcnkyOTI3NjEyNTk="
+open_issues_within = 10
+private = false
+pushed_within = "week"
+stargazers_within = 0
+topics = [ "air-quality", "sensor" ]
+updated_within = "week"
+watchers_within = 0
+
+  [github.license]
+  key = "gpl-3.0"
+  name = "GNU General Public License v3.0"
+  node_id = "MDc6TGljZW5zZTk="
+  spdx_id = "GPL-3.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_786_364
+  login = "CodeForAfrica"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI3ODYzNjQ="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
