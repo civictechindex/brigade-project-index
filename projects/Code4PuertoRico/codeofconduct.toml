@@ -13,7 +13,7 @@ topics = [
 [github]
 archived = false
 created_at = "2014-10-02T00:54:54Z"
-default_branch = "master"
+default_branch = "main"
 description = "Código de conducta de Code 4 Puerto Rico / Code 4 Puerto Rico Code of Conduct"
 disabled = false
 fork = true
@@ -32,7 +32,7 @@ name = "codeofconduct"
 node_id = "MDEwOlJlcG9zaXRvcnkyNDcwMTIyNg=="
 open_issues_within = 0
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 10
 topics = [
   "code4puertorico",
@@ -40,7 +40,7 @@ topics = [
   "codigo-de-conduta",
   "puerto-rico"
 ]
-updated_within = "year"
+updated_within = "week"
 watchers_within = 10
 
   [github.owner]
