@@ -10,7 +10,8 @@ topics = [
   "code-for-all",
   "code-for-america",
   "hack-for-la",
-  "neighborhood-councils"
+  "python",
+  "reactjs"
 ]
 
 [github]
@@ -43,7 +44,8 @@ topics = [
   "code-for-all",
   "code-for-america",
   "hack-for-la",
-  "neighborhood-councils"
+  "python",
+  "reactjs"
 ]
 updated_within = "week"
 watchers_within = 100
