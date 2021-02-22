@@ -1,0 +1,47 @@
+code_url = "https://github.com/timdef/criminal-sentencing"
+git_url = "git://github.com/timdef/criminal-sentencing.git"
+name = "criminal-sentencing"
+organization_name = "Hack for LA Brigade"
+topics = [ "code-for-america", "criminal-sentences", "hack-for-la" ]
+
+[github]
+archived = false
+created_at = "2018-11-14T03:28:29Z"
+default_branch = "master"
+description = { }
+disabled = false
+fork = false
+forks_within = 10
+full_name = "timdef/criminal-sentencing"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 157_484_926
+language = "Jupyter Notebook"
+license = { }
+name = "criminal-sentencing"
+node_id = "MDEwOlJlcG9zaXRvcnkxNTc0ODQ5MjY="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+score = 1
+stargazers_within = 10
+topics = [ "code-for-america", "criminal-sentences", "hack-for-la" ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 13_793_236
+  login = "timdef"
+  node_id = "MDQ6VXNlcjEzNzkzMjM2"
+  site_admin = false
+  type = "User"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

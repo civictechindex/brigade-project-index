@@ -1,0 +1,66 @@
+code_url = "https://github.com/hackforla/civic-opportunity"
+description = "The Civic Opportunity Project will seek to provide a curated journey for Civic Tech volunteers. Our goal is to equip participants with the resources, exposure and toolsets to excel in a competitive workforce. The project will continuously iterate the experience process and ultimately exist as  software that can be streamlined, scaled and replicated."
+git_url = "git://github.com/hackforla/civic-opportunity.git"
+name = "civic-opportunity"
+organization_name = "Hack for LA Brigade"
+topics = [
+  "civictechindex",
+  "code-for-all",
+  "code-for-america",
+  "duty-of-care",
+  "hack-for-la",
+  "volunteer",
+  "volunteer-management",
+  "workforce-development"
+]
+
+[github]
+archived = false
+created_at = "2020-06-20T16:41:08Z"
+default_branch = "master"
+description = "The Civic Opportunity Project will seek to provide a curated journey for Civic Tech volunteers. Our goal is to equip participants with the resources, exposure and toolsets to excel in a competitive workforce. The project will continuously iterate the experience process and ultimately exist as  software that can be streamlined, scaled and replicated."
+disabled = false
+fork = false
+forks_within = 10
+full_name = "hackforla/civic-opportunity"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 273_746_448
+language = { }
+license = { }
+name = "civic-opportunity"
+node_id = "MDEwOlJlcG9zaXRvcnkyNzM3NDY0NDg="
+open_issues_within = 100
+private = false
+pushed_within = "week"
+score = 1
+stargazers_within = 10
+topics = [
+  "civictechindex",
+  "code-for-all",
+  "code-for-america",
+  "duty-of-care",
+  "hack-for-la",
+  "volunteer",
+  "volunteer-management",
+  "workforce-development"
+]
+updated_within = "week"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 11_635_254
+  login = "hackforla"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjExNjM1MjU0"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

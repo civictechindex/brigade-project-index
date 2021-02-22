@@ -1,0 +1,68 @@
+code_url = "https://github.com/hackforla/website"
+description = "Hack for LA's website"
+git_url = "git://github.com/hackforla/website.git"
+link_url = "https://www.hackforla.org"
+name = "website"
+organization_name = "Hack for LA Brigade"
+topics = [
+  "docker",
+  "docker-compose",
+  "gh-pages",
+  "ghpages",
+  "hack-for-la",
+  "jekyll"
+]
+
+[github]
+archived = false
+created_at = "2018-04-18T03:47:42Z"
+default_branch = "gh-pages"
+description = "Hack for LA's website"
+disabled = false
+fork = false
+forks_within = 1_000
+full_name = "hackforla/website"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "https://www.hackforla.org"
+id = 130_000_551
+language = "HTML"
+name = "website"
+node_id = "MDEwOlJlcG9zaXRvcnkxMzAwMDA1NTE="
+open_issues_within = 1_000
+private = false
+pushed_within = "week"
+score = 1
+stargazers_within = 100
+topics = [
+  "docker",
+  "docker-compose",
+  "gh-pages",
+  "ghpages",
+  "hack-for-la",
+  "jekyll"
+]
+updated_within = "week"
+watchers_within = 100
+
+  [github.license]
+  key = "gpl-2.0"
+  name = "GNU General Public License v2.0"
+  node_id = "MDc6TGljZW5zZTg="
+  spdx_id = "GPL-2.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 11_635_254
+  login = "hackforla"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjExNjM1MjU0"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

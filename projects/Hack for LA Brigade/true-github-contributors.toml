@@ -1,0 +1,69 @@
+code_url = "https://github.com/100Automations/true-github-contributors"
+description = "True GitHub Contributors delivers a consolidated list of who contributed and how many times.  This code can be seen on Hack for LA’s project pages, where are contributors are represented by their GitHub Avatar in the Contributors section."
+git_url = "git://github.com/100Automations/true-github-contributors.git"
+name = "true-github-contributors"
+organization_name = "Hack for LA Brigade"
+topics = [
+  "civictechindex",
+  "code-for-all",
+  "code-for-america",
+  "hack-for-la",
+  "mixin",
+  "nodejs",
+  "octokit"
+]
+
+[github]
+archived = false
+created_at = "2020-09-07T21:33:04Z"
+default_branch = "mixin"
+description = "True GitHub Contributors delivers a consolidated list of who contributed and how many times.  This code can be seen on Hack for LA’s project pages, where are contributors are represented by their GitHub Avatar in the Contributors section."
+disabled = false
+fork = false
+forks_within = 10
+full_name = "100Automations/true-github-contributors"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 293_636_694
+language = "JavaScript"
+name = "true-github-contributors"
+node_id = "MDEwOlJlcG9zaXRvcnkyOTM2MzY2OTQ="
+open_issues_within = 10
+private = false
+pushed_within = "month"
+score = 1
+stargazers_within = 10
+topics = [
+  "civictechindex",
+  "code-for-all",
+  "code-for-america",
+  "hack-for-la",
+  "mixin",
+  "nodejs",
+  "octokit"
+]
+updated_within = "month"
+watchers_within = 10
+
+  [github.license]
+  key = "gpl-2.0"
+  name = "GNU General Public License v2.0"
+  node_id = "MDc6TGljZW5zZTg="
+  spdx_id = "GPL-2.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 67_671_778
+  login = "100Automations"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjY3NjcxNzc4"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

@@ -1,0 +1,72 @@
+code_url = "https://github.com/hackforla/heart"
+description = "Heart is a project working directly with the LA City Attorney’s Homeless Engagement and Response Team. We are building a database and case management system to streamline their workflow and enable them to scale their program. Find us on the Hack for LA Slack #heart."
+git_url = "git://github.com/hackforla/heart.git"
+link_url = "https://www.lacityattorney.org/community-justice"
+name = "heart"
+organization_name = "Hack for LA Brigade"
+topics = [
+  "civic-tech",
+  "civictechindex",
+  "code-for-all",
+  "code-for-america",
+  "hack-for-la",
+  "homeless",
+  "la-county",
+  "record-expungement"
+]
+
+[github]
+archived = false
+created_at = "2018-11-27T06:26:31Z"
+default_branch = "develop"
+description = "Heart is a project working directly with the LA City Attorney’s Homeless Engagement and Response Team. We are building a database and case management system to streamline their workflow and enable them to scale their program. Find us on the Hack for LA Slack #heart."
+disabled = false
+fork = false
+forks_within = 100
+full_name = "hackforla/heart"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "https://www.lacityattorney.org/community-justice"
+id = 159_286_729
+language = "JavaScript"
+name = "heart"
+node_id = "MDEwOlJlcG9zaXRvcnkxNTkyODY3Mjk="
+open_issues_within = 100
+private = false
+pushed_within = "year"
+score = 1
+stargazers_within = 100
+topics = [
+  "civic-tech",
+  "civictechindex",
+  "code-for-all",
+  "code-for-america",
+  "hack-for-la",
+  "homeless",
+  "la-county",
+  "record-expungement"
+]
+updated_within = "month"
+watchers_within = 100
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 11_635_254
+  login = "hackforla"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjExNjM1MjU0"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

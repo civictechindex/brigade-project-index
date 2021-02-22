@@ -1,0 +1,65 @@
+code_url = "https://github.com/hackforla/rrcc-mock-election-locations"
+description = "Locations for the LA County Registrar Recorder/County Clerk's Mock Elections (9/28-9/29)"
+git_url = "git://github.com/hackforla/rrcc-mock-election-locations.git"
+link_url = "https://hackforla.github.io/rrcc-mock-election-locations/"
+name = "rrcc-mock-election-locations"
+organization_name = "Hack for LA Brigade"
+topics = [
+  "civictechindex",
+  "code-for-all",
+  "code-for-america",
+  "elections",
+  "hack-for-la",
+  "la-county",
+  "map-visualization"
+]
+
+[github]
+archived = false
+created_at = "2019-09-12T02:34:29Z"
+default_branch = "master"
+description = "Locations for the LA County Registrar Recorder/County Clerk's Mock Elections (9/28-9/29)"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "hackforla/rrcc-mock-election-locations"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = false
+has_wiki = false
+homepage = "https://hackforla.github.io/rrcc-mock-election-locations/"
+id = 207_948_472
+language = "HTML"
+license = { }
+name = "rrcc-mock-election-locations"
+node_id = "MDEwOlJlcG9zaXRvcnkyMDc5NDg0NzI="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+score = 1
+stargazers_within = 0
+topics = [
+  "civictechindex",
+  "code-for-all",
+  "code-for-america",
+  "elections",
+  "hack-for-la",
+  "la-county",
+  "map-visualization"
+]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 11_635_254
+  login = "hackforla"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjExNjM1MjU0"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

@@ -1,0 +1,68 @@
+code_url = "https://github.com/hackforla/311-data"
+description = "Empowering Neighborhood Associations to improve the analysis of their initiatives using 311 data"
+git_url = "git://github.com/hackforla/311-data.git"
+link_url = "https://www.311-data.org"
+name = "311-data"
+organization_name = "Hack for LA Brigade"
+topics = [
+  "311-data",
+  "civictechindex",
+  "code-for-all",
+  "code-for-america",
+  "hack-for-la",
+  "neighborhood-councils"
+]
+
+[github]
+archived = false
+created_at = "2019-06-05T03:46:06Z"
+default_branch = "dev"
+description = "Empowering Neighborhood Associations to improve the analysis of their initiatives using 311 data"
+disabled = false
+fork = false
+forks_within = 100
+full_name = "hackforla/311-data"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "https://www.311-data.org"
+id = 190_321_758
+language = "JavaScript"
+name = "311-data"
+node_id = "MDEwOlJlcG9zaXRvcnkxOTAzMjE3NTg="
+open_issues_within = 1_000
+private = false
+pushed_within = "week"
+score = 1
+stargazers_within = 100
+topics = [
+  "311-data",
+  "civictechindex",
+  "code-for-all",
+  "code-for-america",
+  "hack-for-la",
+  "neighborhood-councils"
+]
+updated_within = "week"
+watchers_within = 100
+
+  [github.license]
+  key = "gpl-3.0"
+  name = "GNU General Public License v3.0"
+  node_id = "MDc6TGljZW5zZTk="
+  spdx_id = "GPL-3.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 11_635_254
+  login = "hackforla"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjExNjM1MjU0"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

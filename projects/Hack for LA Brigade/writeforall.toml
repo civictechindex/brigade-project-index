@@ -1,0 +1,64 @@
+code_url = "https://github.com/hackforla/writeforall"
+description = "Write for All TM is A project to help cities replace gender exclusive language with gender inclusive language."
+git_url = "git://github.com/hackforla/writeforall.git"
+name = "writeforall"
+organization_name = "Hack for LA Brigade"
+topics = [
+  "abelist-language",
+  "civictechindex",
+  "code-for-america",
+  "gender-equity",
+  "gender-inclusive-language",
+  "gender-neutral-language",
+  "hack-for-la"
+]
+
+[github]
+archived = false
+created_at = "2020-02-05T03:12:09Z"
+default_branch = "master"
+description = "Write for All TM is A project to help cities replace gender exclusive language with gender inclusive language."
+disabled = false
+fork = false
+forks_within = 10
+full_name = "hackforla/writeforall"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 238_357_606
+language = "HTML"
+license = { }
+name = "writeforall"
+node_id = "MDEwOlJlcG9zaXRvcnkyMzgzNTc2MDY="
+open_issues_within = 10
+private = false
+pushed_within = "year"
+score = 1
+stargazers_within = 10
+topics = [
+  "abelist-language",
+  "civictechindex",
+  "code-for-america",
+  "gender-equity",
+  "gender-inclusive-language",
+  "gender-neutral-language",
+  "hack-for-la"
+]
+updated_within = "year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 11_635_254
+  login = "hackforla"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjExNjM1MjU0"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

@@ -1,0 +1,62 @@
+code_url = "https://github.com/hackforla/super-duper-easy-map-template"
+description = "An easy template for you to map a set of data."
+git_url = "git://github.com/hackforla/super-duper-easy-map-template.git"
+name = "super-duper-easy-map-template"
+organization_name = "Hack for LA Brigade"
+topics = [
+  "civictechindex",
+  "code-for-all",
+  "code-for-america",
+  "hack-for-la",
+  "map",
+  "template"
+]
+
+[github]
+archived = false
+created_at = "2019-10-03T02:52:21Z"
+default_branch = "master"
+description = "An easy template for you to map a set of data."
+disabled = false
+fork = false
+forks_within = 10
+full_name = "hackforla/super-duper-easy-map-template"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 212_485_601
+language = { }
+license = { }
+name = "super-duper-easy-map-template"
+node_id = "MDEwOlJlcG9zaXRvcnkyMTI0ODU2MDE="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+score = 1
+stargazers_within = 0
+topics = [
+  "civictechindex",
+  "code-for-all",
+  "code-for-america",
+  "hack-for-la",
+  "map",
+  "template"
+]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 11_635_254
+  login = "hackforla"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjExNjM1MjU0"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

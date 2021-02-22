@@ -1,0 +1,67 @@
+code_url = "https://github.com/hackforla/covid19-help"
+description = "A resource site for living in Los Angeles during the pandemic"
+git_url = "git://github.com/hackforla/covid19-help.git"
+link_url = "https://sites.google.com/view/lacommunityresources/population-groups"
+name = "covid19-help"
+organization_name = "Hack for LA Brigade"
+topics = [
+  "civictechindex",
+  "code-for-all",
+  "code-for-america",
+  "covid-19",
+  "covid19",
+  "hack-for-la",
+  "pandemic",
+  "resource-list"
+]
+
+[github]
+archived = false
+created_at = "2020-03-17T15:52:27Z"
+default_branch = "master"
+description = "A resource site for living in Los Angeles during the pandemic"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "hackforla/covid19-help"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "https://sites.google.com/view/lacommunityresources/population-groups"
+id = 248_011_031
+language = { }
+license = { }
+name = "covid19-help"
+node_id = "MDEwOlJlcG9zaXRvcnkyNDgwMTEwMzE="
+open_issues_within = 10
+private = false
+pushed_within = "year"
+score = 1
+stargazers_within = 10
+topics = [
+  "civictechindex",
+  "code-for-all",
+  "code-for-america",
+  "covid-19",
+  "covid19",
+  "hack-for-la",
+  "pandemic",
+  "resource-list"
+]
+updated_within = "year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 11_635_254
+  login = "hackforla"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjExNjM1MjU0"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

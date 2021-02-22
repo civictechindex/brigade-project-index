@@ -1,0 +1,71 @@
+code_url = "https://github.com/hackforla/HomeUniteUs"
+description = "We're working with community non-profits who have a Host Home or empty bedrooms initiative to develop a workflow management tool to make the process scalable (across all providers), reduce institutional bias, and effectively capture data."
+git_url = "git://github.com/hackforla/HomeUniteUs.git"
+link_url = "https://homeunite.us/"
+name = "HomeUniteUs"
+organization_name = "Hack for LA Brigade"
+topics = [
+  "civictechindex",
+  "code-for-all",
+  "code-for-america",
+  "hack-for-la",
+  "homeless",
+  "homelessness",
+  "host-home",
+  "hosthome",
+  "poc",
+  "youth"
+]
+
+[github]
+archived = false
+created_at = "2019-12-19T05:23:26Z"
+default_branch = "master"
+description = "We're working with community non-profits who have a Host Home or empty bedrooms initiative to develop a workflow management tool to make the process scalable (across all providers), reduce institutional bias, and effectively capture data."
+disabled = false
+fork = false
+forks_within = 100
+full_name = "hackforla/HomeUniteUs"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "https://homeunite.us/"
+id = 228_981_080
+language = "TypeScript"
+license = { }
+name = "HomeUniteUs"
+node_id = "MDEwOlJlcG9zaXRvcnkyMjg5ODEwODA="
+open_issues_within = 100
+private = false
+pushed_within = "year"
+score = 1
+stargazers_within = 100
+topics = [
+  "civictechindex",
+  "code-for-all",
+  "code-for-america",
+  "hack-for-la",
+  "homeless",
+  "homelessness",
+  "host-home",
+  "hosthome",
+  "poc",
+  "youth"
+]
+updated_within = "year"
+watchers_within = 100
+
+  [github.owner]
+  gravatar_id = ""
+  id = 11_635_254
+  login = "hackforla"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjExNjM1MjU0"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

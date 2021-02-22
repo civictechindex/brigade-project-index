@@ -1,0 +1,77 @@
+code_url = "https://github.com/hackforla/spare"
+description = "Spare connects people in need of clothing and other essentials with people in the community who have things to spare. It is like a one-on-one Goodwill.  We are hoping the donation can be a mechanism for building these connections throughout our community."
+git_url = "git://github.com/hackforla/spare.git"
+link_url = "http://whatcanyouspare.org/"
+name = "spare"
+organization_name = "Hack for LA Brigade"
+topics = [
+  "code-for-america",
+  "django",
+  "donation",
+  "donations",
+  "giving",
+  "hack-for-la",
+  "helping",
+  "homeless",
+  "homelessness",
+  "non-profit",
+  "react",
+  "sharing",
+  "unhoused"
+]
+
+[github]
+archived = false
+created_at = "2018-03-28T03:34:06Z"
+default_branch = "dev"
+description = "Spare connects people in need of clothing and other essentials with people in the community who have things to spare. It is like a one-on-one Goodwill.  We are hoping the donation can be a mechanism for building these connections throughout our community."
+disabled = false
+fork = false
+forks_within = 100
+full_name = "hackforla/spare"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://whatcanyouspare.org/"
+id = 127_079_094
+language = "Python"
+license = { }
+name = "spare"
+node_id = "MDEwOlJlcG9zaXRvcnkxMjcwNzkwOTQ="
+open_issues_within = 100
+private = false
+pushed_within = "year"
+score = 1
+stargazers_within = 100
+topics = [
+  "code-for-america",
+  "django",
+  "donation",
+  "donations",
+  "giving",
+  "hack-for-la",
+  "helping",
+  "homeless",
+  "homelessness",
+  "non-profit",
+  "react",
+  "sharing",
+  "unhoused"
+]
+updated_within = "year"
+watchers_within = 100
+
+  [github.owner]
+  gravatar_id = ""
+  id = 11_635_254
+  login = "hackforla"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjExNjM1MjU0"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

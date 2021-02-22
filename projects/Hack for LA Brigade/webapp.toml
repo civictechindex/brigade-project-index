@@ -1,0 +1,70 @@
+code_url = "https://github.com/helloGov/webapp"
+description = "HelloGOV is a call-to-rep campaign link generating tool for organizations engaging in state and federal level legislative advocacy."
+git_url = "git://github.com/helloGov/webapp.git"
+link_url = "https://hellogov.app"
+name = "webapp"
+organization_name = "Hack for LA Brigade"
+topics = [
+  "angular",
+  "code-for-america",
+  "hack-for-la",
+  "mean",
+  "mean-stack",
+  "mongo",
+  "node"
+]
+
+[github]
+archived = false
+created_at = "2016-12-10T21:02:35Z"
+default_branch = "master"
+description = "HelloGOV is a call-to-rep campaign link generating tool for organizations engaging in state and federal level legislative advocacy."
+disabled = false
+fork = false
+forks_within = 100
+full_name = "helloGov/webapp"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "https://hellogov.app"
+id = 76_137_532
+language = "JavaScript"
+name = "webapp"
+node_id = "MDEwOlJlcG9zaXRvcnk3NjEzNzUzMg=="
+open_issues_within = 100
+private = false
+pushed_within = "year"
+score = 1
+stargazers_within = 100
+topics = [
+  "angular",
+  "code-for-america",
+  "hack-for-la",
+  "mean",
+  "mean-stack",
+  "mongo",
+  "node"
+]
+updated_within = "year"
+watchers_within = 100
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 24_498_595
+  login = "helloGov"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI0NDk4NTk1"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

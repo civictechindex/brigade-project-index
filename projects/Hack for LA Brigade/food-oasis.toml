@@ -1,0 +1,80 @@
+code_url = "https://github.com/hackforla/food-oasis"
+description = "Repository for the current redevelopment of the Food Oasis Los Angeles website"
+git_url = "git://github.com/hackforla/food-oasis.git"
+link_url = "https://foodoasis.la"
+name = "food-oasis"
+organization_name = "Hack for LA Brigade"
+topics = [
+  "civictechindex",
+  "code-for-all",
+  "code-for-america",
+  "community-gardens",
+  "community-project",
+  "community-sourced",
+  "farmers-markets",
+  "food-deserts",
+  "food-insecure",
+  "food-pantry",
+  "hack-for-la",
+  "los-angeles"
+]
+
+[github]
+archived = false
+created_at = "2019-10-17T00:06:56Z"
+default_branch = "develop"
+description = "Repository for the current redevelopment of the Food Oasis Los Angeles website"
+disabled = false
+fork = false
+forks_within = 100
+full_name = "hackforla/food-oasis"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "https://foodoasis.la"
+id = 215_666_884
+language = "JavaScript"
+name = "food-oasis"
+node_id = "MDEwOlJlcG9zaXRvcnkyMTU2NjY4ODQ="
+open_issues_within = 100
+private = false
+pushed_within = "week"
+score = 1
+stargazers_within = 100
+topics = [
+  "civictechindex",
+  "code-for-all",
+  "code-for-america",
+  "community-gardens",
+  "community-project",
+  "community-sourced",
+  "farmers-markets",
+  "food-deserts",
+  "food-insecure",
+  "food-pantry",
+  "hack-for-la",
+  "los-angeles"
+]
+updated_within = "week"
+watchers_within = 100
+
+  [github.license]
+  key = "gpl-2.0"
+  name = "GNU General Public License v2.0"
+  node_id = "MDc6TGljZW5zZTg="
+  spdx_id = "GPL-2.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 11_635_254
+  login = "hackforla"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjExNjM1MjU0"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

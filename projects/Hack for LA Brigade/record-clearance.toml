@@ -1,0 +1,62 @@
+code_url = "https://github.com/hackforla/record-clearance"
+description = "Record Clearance helps people with non-violent criminal records get record clearance or expungement in California as a result of Prop 47 & Prop 64"
+git_url = "git://github.com/hackforla/record-clearance.git"
+name = "record-clearance"
+organization_name = "Hack for LA Brigade"
+topics = [
+  "civictechindex",
+  "code-for-all",
+  "code-for-america",
+  "hack-for-la",
+  "record-clearance",
+  "record-expungement"
+]
+
+[github]
+archived = false
+created_at = "2019-10-29T21:57:32Z"
+default_branch = "master"
+description = "Record Clearance helps people with non-violent criminal records get record clearance or expungement in California as a result of Prop 47 & Prop 64"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "hackforla/record-clearance"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 218_391_110
+language = "JavaScript"
+license = { }
+name = "record-clearance"
+node_id = "MDEwOlJlcG9zaXRvcnkyMTgzOTExMTA="
+open_issues_within = 100
+private = false
+pushed_within = "week"
+score = 1
+stargazers_within = 10
+topics = [
+  "civictechindex",
+  "code-for-all",
+  "code-for-america",
+  "hack-for-la",
+  "record-clearance",
+  "record-expungement"
+]
+updated_within = "week"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 11_635_254
+  login = "hackforla"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjExNjM1MjU0"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

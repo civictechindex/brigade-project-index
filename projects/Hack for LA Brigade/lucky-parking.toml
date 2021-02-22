@@ -1,0 +1,65 @@
+code_url = "https://github.com/hackforla/lucky-parking"
+description = "Visualization of parking data to assist in understanding of the effects of parking policies on a neighborhood by neighborhood basis in the City of Los Angeles"
+git_url = "git://github.com/hackforla/lucky-parking.git"
+link_url = "https://www.hackforla.org/projects/lucky-parking.html"
+name = "lucky-parking"
+organization_name = "Hack for LA Brigade"
+topics = [
+  "citations",
+  "civictechindex",
+  "code-for-all",
+  "code-for-america",
+  "hack-for-la",
+  "parking",
+  "street-parking"
+]
+
+[github]
+archived = false
+created_at = "2019-10-22T16:04:26Z"
+default_branch = "master"
+description = "Visualization of parking data to assist in understanding of the effects of parking policies on a neighborhood by neighborhood basis in the City of Los Angeles"
+disabled = false
+fork = false
+forks_within = 100
+full_name = "hackforla/lucky-parking"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "https://www.hackforla.org/projects/lucky-parking.html"
+id = 216_854_923
+language = "JavaScript"
+license = { }
+name = "lucky-parking"
+node_id = "MDEwOlJlcG9zaXRvcnkyMTY4NTQ5MjM="
+open_issues_within = 100
+private = false
+pushed_within = "week"
+score = 1
+stargazers_within = 100
+topics = [
+  "citations",
+  "civictechindex",
+  "code-for-all",
+  "code-for-america",
+  "hack-for-la",
+  "parking",
+  "street-parking"
+]
+updated_within = "month"
+watchers_within = 100
+
+  [github.owner]
+  gravatar_id = ""
+  id = 11_635_254
+  login = "hackforla"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjExNjM1MjU0"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

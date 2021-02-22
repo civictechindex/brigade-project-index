@@ -1,0 +1,71 @@
+code_url = "https://github.com/EnCiv/undebate"
+description = "Not debates, but recorded online video Q&A with candidates so voters can quickly can get to know them, for every candidate, for every election, across the US."
+git_url = "git://github.com/EnCiv/undebate.git"
+name = "undebate"
+organization_name = "Hack for LA Brigade"
+topics = [
+  "civictechindex",
+  "code-for-america",
+  "democratic-discourse",
+  "hack-for-la",
+  "mongodb",
+  "node",
+  "reactjs",
+  "webrtc"
+]
+
+[github]
+archived = false
+created_at = "2019-11-11T21:07:06Z"
+default_branch = "master"
+description = "Not debates, but recorded online video Q&A with candidates so voters can quickly can get to know them, for every candidate, for every election, across the US."
+disabled = false
+fork = false
+forks_within = 100
+full_name = "EnCiv/undebate"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 221_070_186
+language = "JavaScript"
+name = "undebate"
+node_id = "MDEwOlJlcG9zaXRvcnkyMjEwNzAxODY="
+open_issues_within = 1_000
+private = false
+pushed_within = "year"
+score = 1
+stargazers_within = 100
+topics = [
+  "civictechindex",
+  "code-for-america",
+  "democratic-discourse",
+  "hack-for-la",
+  "mongodb",
+  "node",
+  "reactjs",
+  "webrtc"
+]
+updated_within = "year"
+watchers_within = 100
+
+  [github.license]
+  key = "other"
+  name = "Other"
+  node_id = "MDc6TGljZW5zZTA="
+  spdx_id = "NOASSERTION"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 56_694_082
+  login = "EnCiv"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjU2Njk0MDgy"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

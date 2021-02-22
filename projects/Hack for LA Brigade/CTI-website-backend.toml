@@ -1,0 +1,67 @@
+code_url = "https://github.com/civictechindex/CTI-website-backend"
+description = "Python-Django based backend for Civic Tech Index"
+git_url = "git://github.com/civictechindex/CTI-website-backend.git"
+name = "CTI-website-backend"
+organization_name = "Hack for LA Brigade"
+topics = [
+  "civic-tech",
+  "civictechindex",
+  "code-for-all",
+  "code-for-america",
+  "hack-for-la",
+  "open-source"
+]
+
+[github]
+archived = false
+created_at = "2020-06-27T04:03:34Z"
+default_branch = "main"
+description = "Python-Django based backend for Civic Tech Index"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "civictechindex/CTI-website-backend"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 275_296_439
+language = "Python"
+name = "CTI-website-backend"
+node_id = "MDEwOlJlcG9zaXRvcnkyNzUyOTY0Mzk="
+open_issues_within = 10
+private = false
+pushed_within = "month"
+score = 1
+stargazers_within = 10
+topics = [
+  "civic-tech",
+  "civictechindex",
+  "code-for-all",
+  "code-for-america",
+  "hack-for-la",
+  "open-source"
+]
+updated_within = "month"
+watchers_within = 10
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 57_879_025
+  login = "civictechindex"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjU3ODc5MDI1"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
