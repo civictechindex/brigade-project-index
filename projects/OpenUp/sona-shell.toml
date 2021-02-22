@@ -1,0 +1,45 @@
+code_url = "https://github.com/OpenUpSA/sona-shell"
+git_url = "git://github.com/OpenUpSA/sona-shell.git"
+name = "sona-shell"
+organization_name = "OpenUp"
+
+[github]
+archived = false
+created_at = "2021-02-22T10:23:30Z"
+default_branch = "master"
+description = { }
+disabled = false
+fork = false
+forks_within = 0
+full_name = "OpenUpSA/sona-shell"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 341_160_612
+language = "HTML"
+license = { }
+name = "sona-shell"
+node_id = "MDEwOlJlcG9zaXRvcnkzNDExNjA2MTI="
+open_issues_within = 0
+private = false
+pushed_within = "week"
+stargazers_within = 0
+topics = [ ]
+updated_within = "week"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 26_482_663
+  login = "OpenUpSA"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI2NDgyNjYz"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
