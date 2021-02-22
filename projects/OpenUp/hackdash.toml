@@ -1,0 +1,52 @@
+code_url = "https://github.com/OpenUpSA/hackdash"
+description = "Ideas for a hackathon"
+git_url = "git://github.com/OpenUpSA/hackdash.git"
+link_url = "http://hackdash.org"
+name = "hackdash"
+organization_name = "OpenUp"
+
+[github]
+archived = false
+created_at = "2021-02-22T15:39:55Z"
+default_branch = "master"
+description = "Ideas for a hackathon"
+disabled = false
+fork = true
+forks_within = 0
+full_name = "OpenUpSA/hackdash"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://hackdash.org"
+id = 341_249_473
+language = { }
+name = "hackdash"
+node_id = "MDEwOlJlcG9zaXRvcnkzNDEyNDk0NzM="
+open_issues_within = 0
+private = false
+pushed_within = "year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "week"
+watchers_within = 0
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 26_482_663
+  login = "OpenUpSA"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI2NDgyNjYz"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
