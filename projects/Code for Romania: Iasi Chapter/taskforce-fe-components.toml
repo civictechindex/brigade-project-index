@@ -28,10 +28,10 @@ node_id = "MDEwOlJlcG9zaXRvcnkyNDczNDExNjE="
 open_issues_within = 100
 private = false
 pushed_within = "year"
-stargazers_within = 10
+stargazers_within = 100
 topics = [ "hacktoberfest" ]
-updated_within = "month"
-watchers_within = 10
+updated_within = "week"
+watchers_within = 100
 
   [github.license]
   key = "mpl-2.0"
