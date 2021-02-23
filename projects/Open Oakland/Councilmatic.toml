@@ -7,7 +7,7 @@ organization_name = "Open Oakland"
 [github]
 archived = false
 created_at = "2018-03-06T03:15:06Z"
-default_branch = "develop"
+default_branch = "main"
 description = "The councilmatic website for Open Oakland"
 disabled = false
 fork = false
@@ -21,6 +21,7 @@ has_wiki = true
 homepage = ""
 id = 124_013_558
 language = "Python"
+license = { }
 name = "councilmatic"
 network_count = 6
 node_id = "MDEwOlJlcG9zaXRvcnkxMjQwMTM1NTg="
@@ -40,12 +41,6 @@ topics = [
 ]
 updated_within = "week"
 watchers_within = 10
-
-  [github.license]
-  key = "mit"
-  name = "MIT License"
-  node_id = "MDc6TGljZW5zZTEz"
-  spdx_id = "MIT"
 
   [github.organization]
   gravatar_id = ""
