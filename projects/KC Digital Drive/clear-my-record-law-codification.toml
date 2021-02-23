@@ -1,34 +1,34 @@
-code_url = "https://github.com/codeforkansascity/meep-backend"
-git_url = "git://github.com/codeforkansascity/meep-backend.git"
-name = "meep-backend"
+code_url = "https://github.com/codeforkansascity/clear-my-record-law-codification"
+git_url = "git://github.com/codeforkansascity/clear-my-record-law-codification.git"
+name = "clear-my-record-law-codification"
 organization_name = "KC Digital Drive"
 
 [github]
 archived = false
-created_at = "2019-03-05T01:56:40Z"
-default_branch = "master"
+created_at = "2021-02-23T00:24:19Z"
+default_branch = "main"
 description = { }
 disabled = false
 fork = false
-forks_within = 100
-full_name = "codeforkansascity/meep-backend"
+forks_within = 0
+full_name = "codeforkansascity/clear-my-record-law-codification"
 has_downloads = true
 has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = true
 homepage = { }
-id = 173_853_470
-language = "Python"
-name = "meep-backend"
-node_id = "MDEwOlJlcG9zaXRvcnkxNzM4NTM0NzA="
-open_issues_within = 100
+id = 341_376_983
+language = { }
+name = "clear-my-record-law-codification"
+node_id = "MDEwOlJlcG9zaXRvcnkzNDEzNzY5ODM="
+open_issues_within = 0
 private = false
-pushed_within = "year"
-stargazers_within = 10
+pushed_within = "week"
+stargazers_within = 0
 topics = [ ]
-updated_within = "year"
-watchers_within = 10
+updated_within = "week"
+watchers_within = 0
 
   [github.license]
   key = "mit"
