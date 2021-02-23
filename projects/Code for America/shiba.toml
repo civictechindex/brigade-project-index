@@ -1,6 +1,7 @@
 code_url = "https://github.com/codeforamerica/shiba"
 description = "Securely Hosted Integrated Benefits Application"
 git_url = "git://github.com/codeforamerica/shiba.git"
+link_url = "https://www.mnbenefits.org"
 name = "shiba"
 organization_name = "Code for America"
 
@@ -18,7 +19,7 @@ has_issues = false
 has_pages = false
 has_projects = false
 has_wiki = false
-homepage = ""
+homepage = "https://www.mnbenefits.org"
 id = 261_803_317
 language = "Java"
 name = "shiba"
