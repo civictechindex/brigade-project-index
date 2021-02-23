@@ -30,9 +30,9 @@ id = 304_448_636
 language = "HTML"
 name = "clustersetup"
 node_id = "MDEwOlJlcG9zaXRvcnkzMDQ0NDg2MzY="
-open_issues_within = 0
+open_issues_within = 10
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 0
 topics = [
   "ansible",
