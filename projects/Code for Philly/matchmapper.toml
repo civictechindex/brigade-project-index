@@ -1,0 +1,62 @@
+code_url = "https://github.com/CodeForPhilly/MATchMapper"
+description = "Because providers are limited in the amount of prescriptions they are allowed to give to individuals recovering from addiction disorders, referring agencies have a hard time knowing where to send patients for care."
+name = "matchmapper"
+organization_name = "Code for Philly"
+status = "Prototyping"
+topics = [ "Data", "Healthcare", "Mobile Web App" ]
+
+[github]
+archived = false
+created_at = "2020-07-23T15:19:07Z"
+default_branch = "master"
+description = { }
+disabled = false
+fork = false
+forks_within = 10
+full_name = "CodeForPhilly/MATchMapper"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 281_986_680
+language = "Python"
+license = { }
+name = "MATchMapper"
+network_count = 2
+node_id = "MDEwOlJlcG9zaXRvcnkyODE5ODY2ODA="
+open_issues_within = 10
+private = false
+pushed_within = "week"
+stargazers_within = 10
+subscribers_count = 12
+temp_clone_token = ""
+topics = [ ]
+updated_within = "week"
+watchers_within = 10
+
+  [github.organization]
+  gravatar_id = ""
+  id = 1_451_716
+  login = "CodeForPhilly"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE0NTE3MTY="
+  site_admin = false
+  type = "Organization"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 1_451_716
+  login = "CodeForPhilly"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE0NTE3MTY="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
+
+[projects_list_extra]
+chat_channel = "matchmapper"
+title = "MATchMapper"
