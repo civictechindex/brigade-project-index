@@ -20,15 +20,15 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 222_681_400
-language = { }
+language = "Perl"
 name = "check_lsi_raid"
 node_id = "MDEwOlJlcG9zaXRvcnkyMjI2ODE0MDA="
 open_issues_within = 0
 private = false
-pushed_within = "over_a_year"
+pushed_within = "week"
 stargazers_within = 0
 topics = [ ]
-updated_within = "over_a_year"
+updated_within = "week"
 watchers_within = 0
 
   [github.license]
