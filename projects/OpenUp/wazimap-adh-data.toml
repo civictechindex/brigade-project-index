@@ -1,0 +1,51 @@
+code_url = "https://github.com/OpenUpSA/wazimap-adh-data"
+description = "Scripts and jupyter notebooks to prepare data for upload to wazimap for the Africa Data Hub project"
+git_url = "git://github.com/OpenUpSA/wazimap-adh-data.git"
+name = "wazimap-adh-data"
+organization_name = "OpenUp"
+
+[github]
+archived = false
+created_at = "2021-02-24T13:26:19Z"
+default_branch = "main"
+description = "Scripts and jupyter notebooks to prepare data for upload to wazimap for the Africa Data Hub project"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "OpenUpSA/wazimap-adh-data"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 341_908_884
+language = { }
+name = "wazimap-adh-data"
+node_id = "MDEwOlJlcG9zaXRvcnkzNDE5MDg4ODQ="
+open_issues_within = 0
+private = false
+pushed_within = "week"
+stargazers_within = 0
+topics = [ ]
+updated_within = "week"
+watchers_within = 0
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 26_482_663
+  login = "OpenUpSA"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI2NDgyNjYz"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
