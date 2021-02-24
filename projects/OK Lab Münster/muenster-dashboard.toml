@@ -30,7 +30,7 @@ private = false
 pushed_within = "month"
 stargazers_within = 10
 topics = [ "elasticsearch", "open-data", "react" ]
-updated_within = "week"
+updated_within = "month"
 watchers_within = 10
 
   [github.license]
