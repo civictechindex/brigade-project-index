@@ -7,7 +7,7 @@ organization_name = "18F"
 [github]
 archived = false
 created_at = "2020-11-16T21:12:58Z"
-default_branch = "master"
+default_branch = "main"
 description = "The focal point for an 18F/TTS collaboration with the USFS Natural Resource Manager (NRM)"
 disabled = false
 fork = false
@@ -20,7 +20,7 @@ has_projects = true
 has_wiki = true
 homepage = { }
 id = 313_428_293
-language = "Python"
+language = "HTML"
 name = "NRM-Grants-Agreements"
 node_id = "MDEwOlJlcG9zaXRvcnkzMTM0MjgyOTM="
 open_issues_within = 100
