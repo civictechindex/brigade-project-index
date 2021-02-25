@@ -28,10 +28,10 @@ node_id = "MDEwOlJlcG9zaXRvcnk4MDU2MTU2"
 open_issues_within = 0
 private = false
 pushed_within = "over_a_year"
-stargazers_within = 100
+stargazers_within = 1_000
 topics = [ ]
-updated_within = "month"
-watchers_within = 100
+updated_within = "week"
+watchers_within = 1_000
 
   [github.owner]
   gravatar_id = ""
