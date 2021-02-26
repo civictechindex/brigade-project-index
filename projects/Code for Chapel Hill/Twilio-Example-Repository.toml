@@ -1,0 +1,45 @@
+code_url = "https://github.com/code-for-chapel-hill/Twilio-Example-Repository"
+git_url = "git://github.com/code-for-chapel-hill/Twilio-Example-Repository.git"
+name = "Twilio-Example-Repository"
+organization_name = "Code for Chapel Hill"
+
+[github]
+archived = false
+created_at = "2021-02-26T18:58:29Z"
+default_branch = "main"
+description = { }
+disabled = false
+fork = false
+forks_within = 0
+full_name = "code-for-chapel-hill/Twilio-Example-Repository"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 342_672_480
+language = "Python"
+license = { }
+name = "Twilio-Example-Repository"
+node_id = "MDEwOlJlcG9zaXRvcnkzNDI2NzI0ODA="
+open_issues_within = 0
+private = false
+pushed_within = "week"
+stargazers_within = 0
+topics = [ ]
+updated_within = "week"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 47_088_442
+  login = "code-for-chapel-hill"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjQ3MDg4NDQy"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
