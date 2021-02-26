@@ -20,11 +20,11 @@ has_projects = true
 has_wiki = true
 homepage = { }
 id = 342_661_395
-language = { }
+language = "Ruby"
 license = { }
 name = "identity-logging"
 node_id = "MDEwOlJlcG9zaXRvcnkzNDI2NjEzOTU="
-open_issues_within = 10
+open_issues_within = 0
 private = false
 pushed_within = "week"
 stargazers_within = 0
