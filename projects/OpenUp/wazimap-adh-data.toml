@@ -11,7 +11,7 @@ default_branch = "main"
 description = "Scripts and jupyter notebooks to prepare data for upload to wazimap for the Africa Data Hub project"
 disabled = false
 fork = false
-forks_within = 0
+forks_within = 10
 full_name = "OpenUpSA/wazimap-adh-data"
 has_downloads = true
 has_issues = true
@@ -20,7 +20,7 @@ has_projects = true
 has_wiki = true
 homepage = { }
 id = 341_908_884
-language = { }
+language = "Jupyter Notebook"
 name = "wazimap-adh-data"
 node_id = "MDEwOlJlcG9zaXRvcnkzNDE5MDg4ODQ="
 open_issues_within = 0
