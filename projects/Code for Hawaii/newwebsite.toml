@@ -1,0 +1,51 @@
+code_url = "https://github.com/CodeforHawaii/newwebsite"
+description = "Website v2"
+git_url = "git://github.com/CodeforHawaii/newwebsite.git"
+name = "newwebsite"
+organization_name = "Code for Hawaii"
+
+[github]
+archived = false
+created_at = "2021-03-02T06:03:03Z"
+default_branch = "main"
+description = "Website v2"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "CodeforHawaii/newwebsite"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 343_663_489
+language = { }
+name = "newwebsite"
+node_id = "MDEwOlJlcG9zaXRvcnkzNDM2NjM0ODk="
+open_issues_within = 0
+private = false
+pushed_within = "week"
+stargazers_within = 0
+topics = [ ]
+updated_within = "week"
+watchers_within = 0
+
+  [github.license]
+  key = "apache-2.0"
+  name = "Apache License 2.0"
+  node_id = "MDc6TGljZW5zZTI="
+  spdx_id = "Apache-2.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_244_195
+  login = "CodeforHawaii"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjYyNDQxOTU="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
