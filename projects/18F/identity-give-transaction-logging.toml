@@ -23,7 +23,7 @@ language = "Python"
 license = { }
 name = "identity-give-transaction-logging"
 node_id = "MDEwOlJlcG9zaXRvcnkyOTU1MDEzOTA="
-open_issues_within = 0
+open_issues_within = 10
 private = false
 pushed_within = "week"
 stargazers_within = 10
