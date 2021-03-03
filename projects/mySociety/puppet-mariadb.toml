@@ -26,10 +26,10 @@ name = "puppet-mariadb"
 node_id = "MDEwOlJlcG9zaXRvcnkxMTYxNTE5MTY="
 open_issues_within = 10
 private = false
-pushed_within = "year"
+pushed_within = "over_a_year"
 stargazers_within = 0
 topics = [ "mariadb", "puppet" ]
-updated_within = "year"
+updated_within = "over_a_year"
 watchers_within = 0
 
   [github.license]
