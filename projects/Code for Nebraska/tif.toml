@@ -1,19 +1,19 @@
-code_url = "https://github.com/opennebraska/pri-tif"
+code_url = "https://github.com/opennebraska/tif"
 description = "Nebraska TIF Report (Tax Increment Financing)"
-git_url = "git://github.com/opennebraska/pri-tif.git"
+git_url = "git://github.com/opennebraska/tif.git"
 link_url = "http://nebraska.tif.report"
-name = "pri-tif"
+name = "tif"
 organization_name = "Code for Nebraska"
 
 [github]
 archived = false
 created_at = "2015-08-01T16:35:31Z"
-default_branch = "master"
+default_branch = "main"
 description = "Nebraska TIF Report (Tax Increment Financing)"
 disabled = false
 fork = false
 forks_within = 10
-full_name = "opennebraska/pri-tif"
+full_name = "opennebraska/tif"
 has_downloads = true
 has_issues = true
 has_pages = true
@@ -23,11 +23,11 @@ homepage = "http://nebraska.tif.report"
 id = 40_052_947
 language = "Perl"
 license = { }
-name = "pri-tif"
+name = "tif"
 node_id = "MDEwOlJlcG9zaXRvcnk0MDA1Mjk0Nw=="
 open_issues_within = 10
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
 updated_within = "week"
