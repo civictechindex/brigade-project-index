@@ -32,9 +32,9 @@ id = 113_743_686
 language = "TypeScript"
 name = "theater-hub-api"
 node_id = "MDEwOlJlcG9zaXRvcnkxMTM3NDM2ODY="
-open_issues_within = 10
+open_issues_within = 100
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 10
 topics = [
   "civic-hacking",
