@@ -20,16 +20,16 @@ has_projects = true
 has_wiki = true
 homepage = { }
 id = 310_708_705
-language = { }
+language = "HTML"
 license = { }
 name = "development-resources"
 node_id = "MDEwOlJlcG9zaXRvcnkzMTA3MDg3MDU="
 open_issues_within = 10
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 0
 topics = [ ]
-updated_within = "month"
+updated_within = "week"
 watchers_within = 0
 
   [github.owner]
