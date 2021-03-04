@@ -21,15 +21,15 @@ has_projects = true
 has_wiki = true
 homepage = "http://hackdash.org"
 id = 341_249_473
-language = { }
+language = "JavaScript"
 name = "hackdash"
 node_id = "MDEwOlJlcG9zaXRvcnkzNDEyNDk0NzM="
-open_issues_within = 10
+open_issues_within = 0
 private = false
 pushed_within = "week"
 stargazers_within = 0
 topics = [ ]
-updated_within = "month"
+updated_within = "week"
 watchers_within = 0
 
   [github.license]
