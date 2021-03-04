@@ -10,7 +10,7 @@ default_branch = "main"
 description = { }
 disabled = false
 fork = false
-forks_within = 0
+forks_within = 10
 full_name = "code4romania/consul"
 has_downloads = true
 has_issues = true
@@ -22,7 +22,7 @@ id = 342_879_250
 language = "Ruby"
 name = "consul"
 node_id = "MDEwOlJlcG9zaXRvcnkzNDI4NzkyNTA="
-open_issues_within = 0
+open_issues_within = 10
 private = false
 pushed_within = "week"
 stargazers_within = 0
