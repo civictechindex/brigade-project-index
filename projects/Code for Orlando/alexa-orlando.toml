@@ -2,6 +2,7 @@ code_url = "https://github.com/cforlando/alexa-orlando"
 git_url = "git://github.com/cforlando/alexa-orlando.git"
 name = "alexa-orlando"
 organization_name = "Code for Orlando"
+topics = [ "inactive" ]
 
 [github]
 archived = false
@@ -17,7 +18,7 @@ has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = true
-homepage = { }
+homepage = ""
 id = 104_835_366
 language = "JavaScript"
 license = { }
@@ -27,8 +28,8 @@ open_issues_within = 10
 private = false
 pushed_within = "year"
 stargazers_within = 10
-topics = [ ]
-updated_within = "over_a_year"
+topics = [ "inactive" ]
+updated_within = "week"
 watchers_within = 10
 
   [github.owner]
