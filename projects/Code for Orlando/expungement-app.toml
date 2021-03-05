@@ -6,6 +6,7 @@ topics = [
   "code-for-america",
   "code-for-orlando",
   "criminal-justice",
+  "inactive",
   "react",
   "record-clearance",
   "record-expungement"
@@ -25,7 +26,7 @@ has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = true
-homepage = { }
+homepage = ""
 id = 210_023_894
 language = "JavaScript"
 license = { }
@@ -39,11 +40,12 @@ topics = [
   "code-for-america",
   "code-for-orlando",
   "criminal-justice",
+  "inactive",
   "react",
   "record-clearance",
   "record-expungement"
 ]
-updated_within = "over_a_year"
+updated_within = "week"
 watchers_within = 0
 
   [github.owner]
