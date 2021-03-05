@@ -40,7 +40,7 @@ name = "NC-COVID-Support"
 node_id = "MDEwOlJlcG9zaXRvcnkyNDgzMjA5NDY="
 open_issues_within = 100
 private = false
-pushed_within = "week"
+pushed_within = "month"
 stargazers_within = 100
 topics = [
   "civictechindex",
@@ -56,7 +56,7 @@ topics = [
   "rapid-response",
   "vuejs"
 ]
-updated_within = "week"
+updated_within = "month"
 watchers_within = 100
 
   [github.license]
