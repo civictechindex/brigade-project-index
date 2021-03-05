@@ -1,7 +1,7 @@
-code_url = "https://github.com/18F/federalist-uswd-11ty"
+code_url = "https://github.com/18F/federalist-uswds-11ty"
 description = "WIP effort to provide a starter pack for 11ty sites on federalist"
-git_url = "git://github.com/18F/federalist-uswd-11ty.git"
-name = "federalist-uswd-11ty"
+git_url = "git://github.com/18F/federalist-uswds-11ty.git"
+name = "federalist-uswds-11ty"
 organization_name = "18F"
 
 [github]
@@ -12,7 +12,7 @@ description = "WIP effort to provide a starter pack for 11ty sites on federalist
 disabled = false
 fork = false
 forks_within = 0
-full_name = "18F/federalist-uswd-11ty"
+full_name = "18F/federalist-uswds-11ty"
 has_downloads = true
 has_issues = true
 has_pages = false
@@ -20,9 +20,8 @@ has_projects = true
 has_wiki = true
 homepage = { }
 id = 344_609_570
-language = { }
-license = { }
-name = "federalist-uswd-11ty"
+language = "JavaScript"
+name = "federalist-uswds-11ty"
 node_id = "MDEwOlJlcG9zaXRvcnkzNDQ2MDk1NzA="
 open_issues_within = 10
 private = false
@@ -31,6 +30,12 @@ stargazers_within = 0
 topics = [ ]
 updated_within = "week"
 watchers_within = 0
+
+  [github.license]
+  key = "other"
+  name = "Other"
+  node_id = "MDc6TGljZW5zZTA="
+  spdx_id = "NOASSERTION"
 
   [github.owner]
   gravatar_id = ""
