@@ -11,9 +11,9 @@ Note that these are the tags as they are collected by the Index Crawler
 and thus they include tags referring to locations and technologies employed.
 
 - URL: [https://projects.brigade.network/](https://projects.brigade.network/)
-- Contacts: Melanie
+- Contacts: Melanie Mazanec
 - Status: The current system is available and doesn’t have major known issues
-- Project needs: The project is looking for ...
+- Project needs: The project is looking for ReactJS developers
 - How to collaborate: [Join Us](../#participate)
 - Github: [https://github.com/codeforamerica/brigade-project-index-statusboard](https://github.com/codeforamerica/brigade-project-index-statusboard)
 

@@ -49,7 +49,7 @@ If you have questions or are interested in helping to improve the Brigade Projec
 
 ## Tagging your brigade’s projects
 
-The group that has been working on this project has begun to form a taxonomy.  When assigning topics, please check [the existing topics](https://statusboard.brigade.cloud/#/topics) (and consider adding to [the official set](https://github.com/codeforamerica/civic-tech-taxonomy/tree/master/issues-addressed) if something is missing) first to be sure you’re not creating a duplicate.  **For COVID-19 related projects, please use the topic “covid-19”.**
+The group that has been working on this project has begun to form a [taxonomy](../../../civic-tech-taxonomy).  When assigning topics, please check [the existing topics](https://statusboard.brigade.cloud/api/taxonomy.json) (and consider adding to [the official set](https://github.com/codeforamerica/civic-tech-taxonomy/tree/master/issues) if something is missing) first to be sure you’re not creating a duplicate.  **For COVID-19 related projects, please use the topic “covid-19”.**
 
 ## More about the Index and the Statusboard
 

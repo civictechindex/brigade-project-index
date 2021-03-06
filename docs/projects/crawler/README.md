@@ -28,12 +28,10 @@ The reason for this layered approach was that we wanted to focus on collecting r
 
 - Tag your projects on github!
   - Make sure your brigade's projects are listed in the index ([instructions](contributing/get-indexed.md))
-  - Using the github "Topics", tag your project directly in github with #code-for-america and your brigade tag (e.g. code-for-sf). Then include any relevant topic tags from [this list](https://github.com/codeforamerica/civic-tech-taxonomy/tree/master/issues-addressed).
+  - Using the github "Topics", tag your project directly in github with #code-for-america and your brigade tag (e.g. code-for-sf). Then include any relevant topic tags from [this list](https://github.com/codeforamerica/civic-tech-taxonomy/tree/master/issues).
 
-- [Search for Projects](https://projects.brigade.network/)
+- [Join the discussion!](../#participate)
 
-- Join the discussion!
-  - We primarily use slack (https://cfa.slack.com #brigade-project-index), and meet every 2 weeks, usually Sunday at 6pm. Drop a note in the slack channel to be included.
 
 ## Resources
 
