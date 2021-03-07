@@ -3,6 +3,7 @@ description = "Code for Orlando - Goal of this project is to create a website to
 git_url = "git://github.com/cforlando/Oil_Recycling_Project.git"
 name = "Oil_Recycling_Project"
 organization_name = "Code for Orlando"
+topics = [ "inactive" ]
 
 [github]
 archived = false
@@ -28,8 +29,8 @@ open_issues_within = 0
 private = false
 pushed_within = "over_a_year"
 stargazers_within = 0
-topics = [ ]
-updated_within = "year"
+topics = [ "inactive" ]
+updated_within = "week"
 watchers_within = 0
 
   [github.owner]

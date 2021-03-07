@@ -2,7 +2,13 @@ code_url = "https://github.com/cforlando/spoonie-ios"
 git_url = "git://github.com/cforlando/spoonie-ios.git"
 name = "spoonie-ios"
 organization_name = "Code for Orlando"
-topics = [ "code-for-america", "code-for-orlando", "health-care", "ios" ]
+topics = [
+  "code-for-america",
+  "code-for-orlando",
+  "health-care",
+  "inactive",
+  "ios"
+]
 
 [github]
 archived = false
@@ -18,7 +24,7 @@ has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = true
-homepage = { }
+homepage = ""
 id = 220_681_882
 language = "Swift"
 license = { }
@@ -28,8 +34,14 @@ open_issues_within = 0
 private = false
 pushed_within = "over_a_year"
 stargazers_within = 0
-topics = [ "code-for-america", "code-for-orlando", "health-care", "ios" ]
-updated_within = "over_a_year"
+topics = [
+  "code-for-america",
+  "code-for-orlando",
+  "health-care",
+  "inactive",
+  "ios"
+]
+updated_within = "week"
 watchers_within = 0
 
   [github.owner]

@@ -3,6 +3,7 @@ description = "Heroku deploy manifest for Wiki.js"
 git_url = "git://github.com/cforlando/wiki-heroku.git"
 name = "wiki-heroku"
 organization_name = "Code for Orlando"
+topics = [ "inactive" ]
 
 [github]
 archived = false
@@ -27,8 +28,8 @@ open_issues_within = 10
 private = false
 pushed_within = "over_a_year"
 stargazers_within = 0
-topics = [ ]
-updated_within = "over_a_year"
+topics = [ "inactive" ]
+updated_within = "week"
 watchers_within = 0
 
   [github.license]

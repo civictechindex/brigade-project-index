@@ -2,6 +2,7 @@ code_url = "https://github.com/cforlando/why-orlando"
 git_url = "git://github.com/cforlando/why-orlando.git"
 name = "why-orlando"
 organization_name = "Code for Orlando"
+topics = [ "inactive" ]
 
 [github]
 archived = false
@@ -17,7 +18,7 @@ has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = true
-homepage = { }
+homepage = ""
 id = 124_156_420
 language = "JavaScript"
 name = "why-orlando"
@@ -26,8 +27,8 @@ open_issues_within = 0
 private = false
 pushed_within = "year"
 stargazers_within = 0
-topics = [ ]
-updated_within = "year"
+topics = [ "inactive" ]
+updated_within = "week"
 watchers_within = 0
 
   [github.license]

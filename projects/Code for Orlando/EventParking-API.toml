@@ -6,6 +6,7 @@ topics = [
   "code-for-america",
   "code-for-orlando",
   "event-parking",
+  "inactive",
   "transportation"
 ]
 
@@ -23,7 +24,7 @@ has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = true
-homepage = { }
+homepage = ""
 id = 105_373_797
 language = "JavaScript"
 name = "EventParking-API"
@@ -36,9 +37,10 @@ topics = [
   "code-for-america",
   "code-for-orlando",
   "event-parking",
+  "inactive",
   "transportation"
 ]
-updated_within = "over_a_year"
+updated_within = "week"
 watchers_within = 10
 
   [github.license]
