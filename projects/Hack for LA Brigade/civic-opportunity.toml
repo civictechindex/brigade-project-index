@@ -49,7 +49,7 @@ topics = [
   "volunteer-management",
   "workforce-development"
 ]
-updated_within = "week"
+updated_within = "month"
 watchers_within = 10
 
   [github.owner]
