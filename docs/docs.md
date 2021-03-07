@@ -1,4 +1,6 @@
-# Documentation / Website
+# Documentation
+
+If you see anything incorrect or incomplete in this documentation, you can follow the instructions below to update the source documentation.
 
 This documentation website is generated with **MkDocs**. See [the MkDocs documentation](https://www.mkdocs.org/) for detailed information on writing and styling documentation.
 

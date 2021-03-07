@@ -2,13 +2,13 @@
 
 This project aims at a categorization of civic tech projects. There have been numerous attempts at this important goals, various websites that provide lists of civic tech projects have implemented their own classification.
 A comprehensive and intuitive projects categorization is critical in order to avoid duplication of efforts, improve volunteer recruiting and retention, optimize resources, seek for repeatable processes, reach the market and more.
-More…
 
 - URL: [https://statusboard.brigade.cloud/api/taxonomy.json](https://statusboard.brigade.cloud/api/taxonomy.json)
 - Contacts: Gio at giosce@verizon.net 
 - Status: Conceptual
 - Project needs: Civic Tech and Classification/Taxonomy competency, front-end developers
 - How to collaborate: [Join Us](../#participate)
+- Github: [https://github.com/codeforamerica/civic-tech-taxonomy/tree/master/issues](https://github.com/codeforamerica/civic-tech-taxonomy/tree/master/issues)
 
 
 There are some significant challenges to achieve such a good taxonomy
@@ -20,3 +20,17 @@ There are some significant challenges to achieve such a good taxonomy
   - Projects are manually input in a database with specific tags
   - Crawlers or queries retrieve all tags of all projects of interest
 - In the first case, the list of projects is limited and projects details risk to be outdated. In the second case, the tags can’t easily fit in a define taxonomy, there are many variations of the same keyword, there are tags that refer to realms (like technologies or locations).
+
+As of now, the Taxonomy has been built as bottom-up, this taxonomy categorizes (via synonims) the majority of "topics" extracted by the [Crawler](../crawler) from all the scanned projects.
+Ideally there may need both a bottom-up and a top-down taxonomies that hopefully will converge.
+
+## Next Enhancements
+We are discussing some enhancements focused on the Taxonomy
+
+- Review and validate the current set of items
+- Load this data in a relational database which will allow for more data analysis
+- Decided if bottom-up is the right approach
+- Decide how to keep this list up to date (integrate the taxonomy with the [crawler](../crawler)
+- Decided whether to separate items that are not "topics" from the large list extracted by the crawler
+- Provide a proper UI to the taxonomy
+- Integrate the taxonomy in the [Statusboard](../statusboard)

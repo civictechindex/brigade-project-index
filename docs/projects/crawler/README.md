@@ -15,16 +15,23 @@ This tool collects data about civic tech projects crawling Github or other proje
 - How to collaborate: [Join Us](../#participate)
 - Github: [https://github.com/codeforamerica/brigade-project-index](https://github.com/codeforamerica/brigade-project-index)
 
+## More about the Index and the Statusboard
+
+The index is the dataset we suck everything into.  The statusboard is a tool for browsing the index that's been designed around helping brigade's assess their index status (hence it doing things like showing checkmarks for key details being filled in).  The idea with the statusboard was for it to evolve into a one-stop-shop for brigade leaders and members to see how well their projects are indexed and where the gaps are.
+
+The reason for this layered approach was that we wanted to focus on collecting really quality data that could be distributed across the network for a variety of tools and uses.  This way, there's a much stronger value prop for brigades to publish their projects into the index--it doesn't just feed one tool/site we're building, but a whole ecosystem of brigade network tools that anyone can add to. There are a couple other tools out there using the index in addition to the statusboard.
+
+## Next enhancements
+- Read the [public-code.yaml](../publiccode-helper.md)
+
 ## How to Get Involved
 
 - Tag your projects on github!
   - Make sure your brigade's projects are listed in the index ([instructions](contributing/get-indexed.md))
-  - Using the github "Topics", tag your project directly in github with #code-for-america and your brigade tag (e.g. code-for-sf). Then include any relevant topic tags from [this list](https://github.com/codeforamerica/civic-tech-taxonomy/tree/master/issues-addressed).
+  - Using the github "Topics", tag your project directly in github with #code-for-america and your brigade tag (e.g. code-for-sf). Then include any relevant topic tags from [this list](https://github.com/codeforamerica/civic-tech-taxonomy/tree/master/issues).
 
-- [Search for Projects](https://projects.brigade.network/)
+- [Join the discussion!](../#participate)
 
-- Join the discussion!
-  - We primarily use slack (https://cfa.slack.com #brigade-project-index), and meet every 2 weeks, usually Sunday at 6pm. Drop a note in the slack channel to be included.
 
 ## Resources
 
