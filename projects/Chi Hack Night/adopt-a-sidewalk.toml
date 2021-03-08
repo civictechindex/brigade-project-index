@@ -73,7 +73,7 @@ watchers_within = 100
   pushed_within = "over_a_year"
   stargazers_within = 1_000
   topics = [ ]
-  updated_within = "month"
+  updated_within = "week"
   watchers_within = 1_000
 
     [github.parent.license]
@@ -119,7 +119,7 @@ watchers_within = 100
   pushed_within = "over_a_year"
   stargazers_within = 1_000
   topics = [ ]
-  updated_within = "month"
+  updated_within = "week"
   watchers_within = 1_000
 
     [github.source.license]
