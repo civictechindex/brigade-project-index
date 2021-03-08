@@ -1,0 +1,46 @@
+code_url = "https://github.com/codeforpakistan/Open-Data-Day-2021"
+description = "This repo contains the code from opening the KP Billion Tree Tsunami data during the Open Data Day 2021."
+git_url = "git://github.com/codeforpakistan/Open-Data-Day-2021.git"
+name = "Open-Data-Day-2021"
+organization_name = "Code for Pakistan"
+
+[github]
+archived = false
+created_at = "2021-03-08T08:27:15Z"
+default_branch = "master"
+description = "This repo contains the code from opening the KP Billion Tree Tsunami data during the Open Data Day 2021."
+disabled = false
+fork = false
+forks_within = 0
+full_name = "codeforpakistan/Open-Data-Day-2021"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 345_582_967
+language = "JavaScript"
+license = { }
+name = "Open-Data-Day-2021"
+node_id = "MDEwOlJlcG9zaXRvcnkzNDU1ODI5Njc="
+open_issues_within = 0
+private = false
+pushed_within = "week"
+stargazers_within = 0
+topics = [ ]
+updated_within = "week"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 4_421_892
+  login = "codeforpakistan"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjQ0MjE4OTI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
