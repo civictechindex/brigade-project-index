@@ -1,6 +1,7 @@
 code_url = "https://github.com/OpenUpSA/wazimap-ng-ui"
-description = "User interface for Wazimap next generation"
+description = "User interface for Wazimap next generation. See also https://github.com/OpenUpSA/wazimap-ng"
 git_url = "git://github.com/OpenUpSA/wazimap-ng-ui.git"
+link_url = "https://geo.vulekamali.gov.za/"
 name = "wazimap-ng-ui"
 organization_name = "OpenUp"
 
@@ -8,7 +9,7 @@ organization_name = "OpenUp"
 archived = false
 created_at = "2019-12-17T14:19:34Z"
 default_branch = "staging"
-description = "User interface for Wazimap next generation"
+description = "User interface for Wazimap next generation. See also https://github.com/OpenUpSA/wazimap-ng"
 disabled = false
 fork = false
 forks_within = 10
@@ -18,7 +19,7 @@ has_issues = true
 has_pages = true
 has_projects = true
 has_wiki = true
-homepage = { }
+homepage = "https://geo.vulekamali.gov.za/"
 id = 228_632_544
 language = "CSS"
 name = "wazimap-ng-ui"
