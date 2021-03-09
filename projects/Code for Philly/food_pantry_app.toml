@@ -1,0 +1,66 @@
+code_url = "https://github.com/ncosd/food-pantry-app"
+description = "Food Pantry App is a web app created to make it easier to operate a food pantry or food bank, reduce food insecurity, and help people in need."
+name = "food_pantry_app"
+organization_name = "Code for Philly"
+status = "Prototyping"
+
+[github]
+archived = false
+created_at = "2015-12-22T03:32:39Z"
+default_branch = "main"
+description = "Web application for food pantries."
+disabled = false
+fork = false
+forks_within = 10
+full_name = "ncosd/food-pantry-app"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 48_408_411
+language = "Vue"
+name = "food-pantry-app"
+network_count = 1
+node_id = "MDEwOlJlcG9zaXRvcnk0ODQwODQxMQ=="
+open_issues_within = 100
+private = false
+pushed_within = "week"
+stargazers_within = 10
+subscribers_count = 2
+temp_clone_token = ""
+topics = [ "food-banks", "food-pantries", "food-pantry-admin" ]
+updated_within = "week"
+watchers_within = 10
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.organization]
+  gravatar_id = ""
+  id = 10_831_937
+  login = "ncosd"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjEwODMxOTM3"
+  site_admin = false
+  type = "Organization"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 10_831_937
+  login = "ncosd"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjEwODMxOTM3"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
+
+[projects_list_extra]
+chat_channel = "food-pantry-app"
+title = "Food Pantry App"
