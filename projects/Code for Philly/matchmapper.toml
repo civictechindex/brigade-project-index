@@ -32,14 +32,14 @@ license = { }
 name = "MATchMapper"
 network_count = 2
 node_id = "MDEwOlJlcG9zaXRvcnkyODE5ODY2ODA="
-open_issues_within = 100
+open_issues_within = 10
 private = false
 pushed_within = "week"
 stargazers_within = 10
 subscribers_count = 12
 temp_clone_token = ""
 topics = [ ]
-updated_within = "month"
+updated_within = "week"
 watchers_within = 10
 
   [github.organization]
