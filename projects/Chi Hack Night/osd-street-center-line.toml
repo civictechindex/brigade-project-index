@@ -29,7 +29,7 @@ stargazers_within = 1_000
 subscribers_count = 33
 temp_clone_token = ""
 topics = [ "chicago", "geojson-data", "government", "open-data" ]
-updated_within = "year"
+updated_within = "over_a_year"
 watchers_within = 1_000
 
   [github.license]
