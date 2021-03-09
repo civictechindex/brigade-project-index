@@ -1,0 +1,51 @@
+code_url = "https://github.com/codeforpdx/stealthheath"
+description = "coming soon... "
+git_url = "git://github.com/codeforpdx/stealthheath.git"
+name = "stealthheath"
+organization_name = "Code for PDX"
+
+[github]
+archived = false
+created_at = "2021-03-09T02:10:00Z"
+default_branch = "main"
+description = "coming soon... "
+disabled = false
+fork = false
+forks_within = 0
+full_name = "codeforpdx/stealthheath"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 345_854_611
+language = { }
+name = "stealthheath"
+node_id = "MDEwOlJlcG9zaXRvcnkzNDU4NTQ2MTE="
+open_issues_within = 0
+private = false
+pushed_within = "week"
+stargazers_within = 10
+topics = [ ]
+updated_within = "week"
+watchers_within = 10
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 39_497_980
+  login = "codeforpdx"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM5NDk3OTgw"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
