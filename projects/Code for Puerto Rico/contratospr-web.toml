@@ -32,9 +32,9 @@ language = "JavaScript"
 license = { }
 name = "contratospr-web"
 node_id = "MDEwOlJlcG9zaXRvcnkxNzA0MzU0OTY="
-open_issues_within = 10
+open_issues_within = 100
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 10
 topics = [
   "civic-tech",
