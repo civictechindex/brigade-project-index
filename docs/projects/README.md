@@ -5,7 +5,7 @@ Each of the projects also has additional goals and directions
 
 We connect on the areas that are related and keep eachother informed on the areas where our goals and directions diverge
 
-Want more information? See our presentation from Brigade Congress 10/2020 **(I can't find this deck in Google Drive)**.
+Want more information? See our presentation from Brigade Congress 10/2020 [video](https://www.youtube.com/watch?v=mUi317f1zOM&list=PL65XgbSILalVD81qt-I_vfUJLEjhfdmXh&index=25).
 
 You can learn more about the few initiatives that this group focuses on below.
 
