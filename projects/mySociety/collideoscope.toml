@@ -17,7 +17,7 @@ full_name = "mysociety/collideoscope"
 has_downloads = true
 has_issues = true
 has_pages = false
-has_projects = true
+has_projects = false
 has_wiki = false
 homepage = "https://www.collideoscope.org.uk/"
 id = 40_546_350
@@ -25,12 +25,12 @@ language = "HTML"
 license = { }
 name = "collideoscope"
 node_id = "MDEwOlJlcG9zaXRvcnk0MDU0NjM1MA=="
-open_issues_within = 10
+open_issues_within = 0
 private = false
 pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
-updated_within = "year"
+updated_within = "week"
 watchers_within = 10
 
   [github.owner]
