@@ -14,12 +14,12 @@ forks_within = 0
 full_name = "codeformuenster/corona-testungen"
 has_downloads = true
 has_issues = true
-has_pages = false
+has_pages = true
 has_projects = true
 has_wiki = false
 homepage = { }
 id = 346_159_665
-language = "Python"
+language = "JavaScript"
 name = "corona-testungen"
 node_id = "MDEwOlJlcG9zaXRvcnkzNDYxNTk2NjU="
 open_issues_within = 0
