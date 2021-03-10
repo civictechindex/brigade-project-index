@@ -8,7 +8,7 @@ topics = [ "login-gov", "product-design", "visual-design" ]
 [github]
 archived = false
 created_at = "2019-05-30T20:55:09Z"
-default_branch = "master"
+default_branch = "main"
 description = "A repository for the login.gov User Experience (UX) Team to publicly version, store and share design assets from the program."
 disabled = false
 fork = false
@@ -26,7 +26,7 @@ name = "identity-design-assets"
 node_id = "MDEwOlJlcG9zaXRvcnkxODk0ODEzNTA="
 open_issues_within = 10
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ "login-gov", "product-design", "visual-design" ]
 updated_within = "week"
