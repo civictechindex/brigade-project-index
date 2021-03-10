@@ -9,7 +9,7 @@ topics = [ "idp", "login-gov" ]
 [github]
 archived = false
 created_at = "2016-01-25T22:40:59Z"
-default_branch = "master"
+default_branch = "main"
 description = "Login.gov Core App: Identity Provider (IdP)"
 disabled = false
 fork = false

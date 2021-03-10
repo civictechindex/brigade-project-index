@@ -24,19 +24,19 @@ id = 56_879_790
 language = "CSS"
 name = "identity-saml-sinatra"
 node_id = "MDEwOlJlcG9zaXRvcnk1Njg3OTc5MA=="
-open_issues_within = 10
+open_issues_within = 0
 private = false
 pushed_within = "week"
 stargazers_within = 10
 topics = [ "login-gov" ]
-updated_within = "year"
+updated_within = "week"
 watchers_within = 10
 
   [github.license]
-  key = "cc0-1.0"
-  name = "Creative Commons Zero v1.0 Universal"
-  node_id = "MDc6TGljZW5zZTY="
-  spdx_id = "CC0-1.0"
+  key = "other"
+  name = "Other"
+  node_id = "MDc6TGljZW5zZTA="
+  spdx_id = "NOASSERTION"
 
   [github.owner]
   gravatar_id = ""
