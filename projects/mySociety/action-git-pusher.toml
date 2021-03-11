@@ -1,14 +1,16 @@
 code_url = "https://github.com/mysociety/action-git-pusher"
+description = "GithHub Action to push git things somewhere else"
 git_url = "git://github.com/mysociety/action-git-pusher.git"
 link_url = "https://www.mysociety.org/"
 name = "action-git-pusher"
 organization_name = "mySociety"
+topics = [ "actions", "git" ]
 
 [github]
 archived = false
 created_at = "2021-03-10T16:01:19Z"
 default_branch = "master"
-description = { }
+description = "GithHub Action to push git things somewhere else"
 disabled = false
 fork = false
 forks_within = 0
@@ -28,7 +30,7 @@ open_issues_within = 0
 private = false
 pushed_within = "week"
 stargazers_within = 0
-topics = [ ]
+topics = [ "actions", "git" ]
 updated_within = "week"
 watchers_within = 0
 
