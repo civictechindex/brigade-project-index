@@ -2,6 +2,9 @@
 
 If you see anything incorrect or incomplete in this documentation, you can follow the instructions below to update the source documentation.
 
+You can edit directly this wiki pages with the pencil appearing on the right inside of each page/paragraph. This process will create a fork and a pull request that the repo owner will need to approve and merge.
+Similarly, you can edit the md file directly in github.
+
 This documentation website is generated with **MkDocs**. See [the MkDocs documentation](https://www.mkdocs.org/) for detailed information on writing and styling documentation.
 
 ## File layout
