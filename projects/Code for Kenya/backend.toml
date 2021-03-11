@@ -1,7 +1,7 @@
 code_url = "https://github.com/CodeForAfrica/backend"
 description = "Media Cloud is an open source, open data platform that allows researchers to answer quantitative questions about the content of online media."
 git_url = "git://github.com/CodeForAfrica/backend.git"
-link_url = "http://www.mediacloud.org"
+link_url = "http://civicsignal.africa/"
 name = "backend"
 organization_name = "Code for Kenya"
 
@@ -19,17 +19,17 @@ has_issues = false
 has_pages = false
 has_projects = true
 has_wiki = false
-homepage = "http://www.mediacloud.org"
+homepage = "http://civicsignal.africa/"
 id = 308_616_003
 language = "Python"
 name = "backend"
 node_id = "MDEwOlJlcG9zaXRvcnkzMDg2MTYwMDM="
 open_issues_within = 0
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 0
 topics = [ ]
-updated_within = "year"
+updated_within = "week"
 watchers_within = 0
 
   [github.license]
