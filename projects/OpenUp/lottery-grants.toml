@@ -1,0 +1,51 @@
+code_url = "https://github.com/OpenUpSA/lottery-grants"
+description = "Lottery grants data and website"
+git_url = "git://github.com/OpenUpSA/lottery-grants.git"
+name = "lottery-grants"
+organization_name = "OpenUp"
+
+[github]
+archived = false
+created_at = "2021-03-11T14:21:11Z"
+default_branch = "main"
+description = "Lottery grants data and website"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "OpenUpSA/lottery-grants"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 346_727_259
+language = { }
+name = "lottery-grants"
+node_id = "MDEwOlJlcG9zaXRvcnkzNDY3MjcyNTk="
+open_issues_within = 0
+private = false
+pushed_within = "week"
+stargazers_within = 0
+topics = [ ]
+updated_within = "week"
+watchers_within = 0
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 26_482_663
+  login = "OpenUpSA"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI2NDgyNjYz"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
