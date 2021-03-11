@@ -28,10 +28,10 @@ name = "hrt-bus-finder"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDQyMzg1OA=="
 open_issues_within = 100
 private = false
-pushed_within = "year"
+pushed_within = "over_a_year"
 stargazers_within = 100
 topics = [ "hrtbus", "official" ]
-updated_within = "year"
+updated_within = "over_a_year"
 watchers_within = 100
 
   [github.owner]
