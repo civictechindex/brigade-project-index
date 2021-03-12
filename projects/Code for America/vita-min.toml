@@ -3,6 +3,7 @@ description = "Minimal VITA web application for EITC pilot (2019-2020)"
 git_url = "git://github.com/codeforamerica/vita-min.git"
 name = "vita-min"
 organization_name = "Code for America"
+topics = [ "get-your-refund", "gyr" ]
 
 [github]
 archived = false
@@ -18,7 +19,7 @@ has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = true
-homepage = { }
+homepage = ""
 id = 219_626_796
 language = "Ruby"
 license = { }
@@ -28,7 +29,7 @@ open_issues_within = 10
 private = false
 pushed_within = "week"
 stargazers_within = 10
-topics = [ ]
+topics = [ "get-your-refund", "gyr" ]
 updated_within = "week"
 watchers_within = 10
 
