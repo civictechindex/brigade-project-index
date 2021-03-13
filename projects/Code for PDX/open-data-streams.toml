@@ -1,7 +1,7 @@
-code_url = "https://github.com/codeforpdx/pdx-open-data-streams"
+code_url = "https://github.com/codeforpdx/open-data-streams"
 description = "Data validation and profiling for publishing City of Portland open datasets"
-git_url = "git://github.com/codeforpdx/pdx-open-data-streams.git"
-name = "pdx-open-data-streams"
+git_url = "git://github.com/codeforpdx/open-data-streams.git"
+name = "open-data-streams"
 organization_name = "Code for PDX"
 
 [github]
@@ -12,7 +12,7 @@ description = "Data validation and profiling for publishing City of Portland ope
 disabled = false
 fork = false
 forks_within = 0
-full_name = "codeforpdx/pdx-open-data-streams"
+full_name = "codeforpdx/open-data-streams"
 has_downloads = true
 has_issues = true
 has_pages = false
@@ -22,7 +22,7 @@ homepage = { }
 id = 346_104_309
 language = { }
 license = { }
-name = "pdx-open-data-streams"
+name = "open-data-streams"
 node_id = "MDEwOlJlcG9zaXRvcnkzNDYxMDQzMDk="
 open_issues_within = 0
 private = false
