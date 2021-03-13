@@ -8,7 +8,7 @@ organization_name = "Code for America"
 [github]
 archived = false
 created_at = "2018-07-26T22:33:06Z"
-default_branch = "master"
+default_branch = "main"
 description = "A Rails gem with base styles and Javascript for Code for America products"
 disabled = false
 fork = false
@@ -26,10 +26,10 @@ name = "honeycrisp-gem"
 node_id = "MDEwOlJlcG9zaXRvcnkxNDI1MDA1MTY="
 open_issues_within = 100
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 100
 topics = [ ]
-updated_within = "month"
+updated_within = "week"
 watchers_within = 100
 
   [github.license]
