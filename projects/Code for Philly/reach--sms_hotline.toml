@@ -1,67 +1,11 @@
 code_url = "http://github.com/Reach-Technologies/reach"
 description = "This is an SMS Hotline platform developed to facilitate a Warm Handoff to treatment services for overdose survivors. Reach connects people in need with service professionals at any hour of the day and across geographic barriers using SMS."
+github = false
 link_url = "http://reachtechnologies.net/"
 name = "reach--sms_hotline"
 organization_name = "Code for Philly"
 status = "Maintaining"
 topics = [ "Opioid Crisis" ]
-
-[github]
-archived = false
-created_at = "2019-09-28T15:47:35Z"
-default_branch = "master"
-description = "SMS Hotline Platform with Integrated Case Management System"
-disabled = false
-fork = false
-forks_within = 10
-full_name = "Reach-Technologies/reach"
-has_downloads = true
-has_issues = true
-has_pages = false
-has_projects = true
-has_wiki = true
-homepage = { }
-id = 211_523_961
-language = "HTML"
-name = "reach"
-network_count = 8
-node_id = "MDEwOlJlcG9zaXRvcnkyMTE1MjM5NjE="
-open_issues_within = 100
-private = false
-pushed_within = "over_a_year"
-stargazers_within = 10
-subscribers_count = 3
-temp_clone_token = ""
-topics = [ ]
-updated_within = "over_a_year"
-watchers_within = 10
-
-  [github.license]
-  key = "apache-2.0"
-  name = "Apache License 2.0"
-  node_id = "MDc6TGljZW5zZTI="
-  spdx_id = "Apache-2.0"
-
-  [github.organization]
-  gravatar_id = ""
-  id = 55_923_040
-  login = "Reach-Technologies"
-  node_id = "MDEyOk9yZ2FuaXphdGlvbjU1OTIzMDQw"
-  site_admin = false
-  type = "Organization"
-
-  [github.owner]
-  gravatar_id = ""
-  id = 55_923_040
-  login = "Reach-Technologies"
-  node_id = "MDEyOk9yZ2FuaXphdGlvbjU1OTIzMDQw"
-  site_admin = false
-  type = "Organization"
-
-  [github.permissions]
-  admin = false
-  pull = true
-  push = false
 
 [projects_list_extra]
 chat_channel = "reach"
