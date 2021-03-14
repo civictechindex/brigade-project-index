@@ -23,9 +23,9 @@ language = "Python"
 license = { }
 name = "covid19-sfbayarea-opendb"
 node_id = "MDEwOlJlcG9zaXRvcnkzMzY3MDE3MTg="
-open_issues_within = 0
+open_issues_within = 10
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 0
 topics = [ ]
 updated_within = "year"
