@@ -1,0 +1,51 @@
+code_url = "https://github.com/mysociety/notebook_helper"
+description = "Tools to tidy up jupyter notebook use"
+git_url = "git://github.com/mysociety/notebook_helper.git"
+name = "notebook_helper"
+organization_name = "mySociety"
+
+[github]
+archived = false
+created_at = "2021-03-16T11:42:30Z"
+default_branch = "main"
+description = "Tools to tidy up jupyter notebook use"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "mysociety/notebook_helper"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 348_325_518
+language = "Python"
+name = "notebook_helper"
+node_id = "MDEwOlJlcG9zaXRvcnkzNDgzMjU1MTg="
+open_issues_within = 0
+private = false
+pushed_within = "week"
+stargazers_within = 0
+topics = [ ]
+updated_within = "week"
+watchers_within = 0
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 141_338
+  login = "mysociety"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE0MTMzOA=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
