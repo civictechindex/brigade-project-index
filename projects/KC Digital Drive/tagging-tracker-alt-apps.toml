@@ -1,7 +1,7 @@
-code_url = "https://github.com/codeforkansascity/tagging-tracker-pwa"
+code_url = "https://github.com/codeforkansascity/tagging-tracker-alt-apps"
 description = "ReactJS PWA build of the Tagging Tracker front-end interface"
-git_url = "git://github.com/codeforkansascity/tagging-tracker-pwa.git"
-name = "tagging-tracker-pwa"
+git_url = "git://github.com/codeforkansascity/tagging-tracker-alt-apps.git"
+name = "tagging-tracker-alt-apps"
 organization_name = "KC Digital Drive"
 
 [github]
@@ -12,7 +12,7 @@ description = "ReactJS PWA build of the Tagging Tracker front-end interface"
 disabled = false
 fork = false
 forks_within = 10
-full_name = "codeforkansascity/tagging-tracker-pwa"
+full_name = "codeforkansascity/tagging-tracker-alt-apps"
 has_downloads = true
 has_issues = true
 has_pages = true
@@ -21,7 +21,7 @@ has_wiki = true
 homepage = ""
 id = 241_233_014
 language = "JavaScript"
-name = "tagging-tracker-pwa"
+name = "tagging-tracker-alt-apps"
 node_id = "MDEwOlJlcG9zaXRvcnkyNDEyMzMwMTQ="
 open_issues_within = 10
 private = false
