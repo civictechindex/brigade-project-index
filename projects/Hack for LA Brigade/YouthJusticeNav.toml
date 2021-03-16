@@ -4,7 +4,7 @@ git_url = "git://github.com/hackforla/YouthJusticeNav.git"
 name = "YouthJusticeNav"
 organization_name = "Hack for LA Brigade"
 topics = [
-  "civic-tech-index",
+  "civictechindex",
   "code-for-all",
   "code-for-america",
   "criminal-justice",
@@ -43,7 +43,7 @@ pushed_within = "month"
 score = 1
 stargazers_within = 0
 topics = [
-  "civic-tech-index",
+  "civictechindex",
   "code-for-all",
   "code-for-america",
   "criminal-justice",
