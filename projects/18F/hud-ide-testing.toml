@@ -24,9 +24,9 @@ language = { }
 license = { }
 name = "hud-ide-testing"
 node_id = "MDEwOlJlcG9zaXRvcnkzMzU0NTY3MzY="
-open_issues_within = 0
+open_issues_within = 10
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
 updated_within = "year"
