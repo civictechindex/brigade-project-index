@@ -1,6 +1,7 @@
 code_url = "https://github.com/18F/site-scanning-query-builder"
 description = "A query builder for the Site Scanning API"
 git_url = "git://github.com/18F/site-scanning-query-builder.git"
+link_url = "https://site-scanning.api.data.gov/"
 name = "site-scanning-query-builder"
 organization_name = "18F"
 
@@ -18,7 +19,7 @@ has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = true
-homepage = { }
+homepage = "https://site-scanning.api.data.gov/"
 id = 335_725_052
 language = "JavaScript"
 name = "site-scanning-query-builder"
@@ -28,7 +29,7 @@ private = false
 pushed_within = "year"
 stargazers_within = 0
 topics = [ ]
-updated_within = "year"
+updated_within = "week"
 watchers_within = 0
 
   [github.license]
