@@ -1,7 +1,7 @@
-code_url = "https://github.com/hackforla/record-clearance"
+code_url = "https://github.com/hackforla/expunge-assist"
 description = "Record Clearance helps people with non-violent criminal records get record clearance or expungement in California as a result of Prop 47 & Prop 64"
-git_url = "git://github.com/hackforla/record-clearance.git"
-name = "record-clearance"
+git_url = "git://github.com/hackforla/expunge-assist.git"
+name = "expunge-assist"
 organization_name = "Hack for LA Brigade"
 topics = [
   "civictechindex",
@@ -20,7 +20,7 @@ description = "Record Clearance helps people with non-violent criminal records g
 disabled = false
 fork = false
 forks_within = 10
-full_name = "hackforla/record-clearance"
+full_name = "hackforla/expunge-assist"
 has_downloads = true
 has_issues = true
 has_pages = true
@@ -30,7 +30,7 @@ homepage = ""
 id = 218_391_110
 language = "JavaScript"
 license = { }
-name = "record-clearance"
+name = "expunge-assist"
 node_id = "MDEwOlJlcG9zaXRvcnkyMTgzOTExMTA="
 open_issues_within = 100
 private = false
