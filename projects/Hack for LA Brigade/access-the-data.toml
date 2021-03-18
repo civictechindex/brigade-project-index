@@ -34,7 +34,7 @@ name = "access-the-data"
 node_id = "MDEwOlJlcG9zaXRvcnkzMzA4MDAwNzk="
 open_issues_within = 10
 private = false
-pushed_within = "year"
+pushed_within = "week"
 score = 1
 stargazers_within = 10
 topics = [
@@ -46,7 +46,7 @@ topics = [
   "government-data",
   "hack-for-la"
 ]
-updated_within = "month"
+updated_within = "week"
 watchers_within = 10
 
   [github.license]
