@@ -20,17 +20,22 @@ has_projects = true
 has_wiki = true
 homepage = { }
 id = 349_427_233
-language = { }
-license = { }
+language = "JavaScript"
 name = "health-tracking-course"
 node_id = "MDEwOlJlcG9zaXRvcnkzNDk0MjcyMzM="
-open_issues_within = 0
+open_issues_within = 10
 private = false
 pushed_within = "week"
-stargazers_within = 0
+stargazers_within = 10
 topics = [ ]
 updated_within = "week"
-watchers_within = 0
+watchers_within = 10
+
+  [github.license]
+  key = "other"
+  name = "Other"
+  node_id = "MDc6TGljZW5zZTA="
+  spdx_id = "NOASSERTION"
 
   [github.owner]
   gravatar_id = ""
