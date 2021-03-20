@@ -24,7 +24,7 @@ id = 326_489_314
 language = "Python"
 license = { }
 name = "cfp-data-pipeline"
-network_count = 4
+network_count = 3
 node_id = "MDEwOlJlcG9zaXRvcnkzMjY0ODkzMTQ="
 open_issues_within = 10
 private = false
