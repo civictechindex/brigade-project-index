@@ -31,9 +31,9 @@ id = 234_944_837
 language = "Python"
 name = "CitySync"
 node_id = "MDEwOlJlcG9zaXRvcnkyMzQ5NDQ4Mzc="
-open_issues_within = 10
+open_issues_within = 100
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 10
 topics = [
   "civic-tech",
