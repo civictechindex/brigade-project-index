@@ -1,0 +1,51 @@
+code_url = "https://github.com/mysociety/foi_monitor"
+description = "Django app to process FOI statistics and compare to WDTK"
+git_url = "git://github.com/mysociety/foi_monitor.git"
+name = "foi_monitor"
+organization_name = "mySociety"
+
+[github]
+archived = false
+created_at = "2020-10-21T09:47:53Z"
+default_branch = "master"
+description = "Django app to process FOI statistics and compare to WDTK"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "mysociety/foi_monitor"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 305_978_453
+language = "JavaScript"
+name = "foi_monitor"
+node_id = "MDEwOlJlcG9zaXRvcnkzMDU5Nzg0NTM="
+open_issues_within = 0
+private = false
+pushed_within = "week"
+stargazers_within = 0
+topics = [ ]
+updated_within = "week"
+watchers_within = 0
+
+  [github.license]
+  key = "other"
+  name = "Other"
+  node_id = "MDc6TGljZW5zZTA="
+  spdx_id = "NOASSERTION"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 141_338
+  login = "mysociety"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE0MTMzOA=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
