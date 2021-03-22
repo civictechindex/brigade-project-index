@@ -25,9 +25,9 @@ language = "TypeScript"
 license = { }
 name = "sdvv-frontend"
 node_id = "MDEwOlJlcG9zaXRvcnkyMzg2MzI1Mzg="
-open_issues_within = 100
+open_issues_within = 10
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
 updated_within = "year"
