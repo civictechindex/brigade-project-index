@@ -25,12 +25,12 @@ language = "Perl"
 license = { }
 name = "gaze"
 node_id = "MDEwOlJlcG9zaXRvcnkyMDc3MTU1"
-open_issues_within = 10
+open_issues_within = 0
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
-updated_within = "year"
+updated_within = "week"
 watchers_within = 10
 
   [github.owner]
