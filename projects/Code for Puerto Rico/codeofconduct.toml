@@ -32,7 +32,7 @@ name = "codeofconduct"
 node_id = "MDEwOlJlcG9zaXRvcnkyNDcwMTIyNg=="
 open_issues_within = 0
 private = false
-pushed_within = "month"
+pushed_within = "year"
 stargazers_within = 10
 topics = [
   "code4puertorico",
@@ -40,7 +40,7 @@ topics = [
   "codigo-de-conduta",
   "puerto-rico"
 ]
-updated_within = "month"
+updated_within = "year"
 watchers_within = 10
 
   [github.owner]
