@@ -1,7 +1,7 @@
 code_url = "https://github.com/18F/site-scanning-query-builder"
 description = "A query builder for the Site Scanning API"
 git_url = "git://github.com/18F/site-scanning-query-builder.git"
-link_url = "https://site-scanning.api.data.gov/"
+link_url = "https://site-scanning.api.data.gov"
 name = "site-scanning-query-builder"
 organization_name = "18F"
 
@@ -19,7 +19,7 @@ has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = true
-homepage = "https://site-scanning.api.data.gov/"
+homepage = "https://site-scanning.api.data.gov"
 id = 335_725_052
 language = "JavaScript"
 name = "site-scanning-query-builder"
