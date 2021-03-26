@@ -7,6 +7,7 @@ on:
 
 jobs:
   markdown-link-check:
+    name: Markdown link check
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@master
@@ -14,4 +15,15 @@ jobs:
         with:
           use-quiet-mode: 'yes'
           use-verbose-mode: 'no'
-          config-file: './markdown-link-check-configuration.json'
+          config-file: './markdown-link-check-config.json'
+  lint-changelog:
+    name: Markdown linter
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out code
+        uses: actions/checkout@v2
+      - name: Markdown linter
+        uses: docker://avtodev/markdown-lint:v1
+        with:
+          config: './markdown-linter-configuration.yml'
+          args: '**/*.md' # This is a glob
