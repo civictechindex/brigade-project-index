@@ -1,0 +1,52 @@
+code_url = "https://github.com/codeforpdx/food-oasis"
+description = "Repository for the current redevelopment of the Food Oasis Los Angeles website"
+git_url = "git://github.com/codeforpdx/food-oasis.git"
+link_url = "https://foodoasis.la"
+name = "food-oasis"
+organization_name = "Code for PDX"
+
+[github]
+archived = false
+created_at = "2021-03-26T01:52:49Z"
+default_branch = "develop"
+description = "Repository for the current redevelopment of the Food Oasis Los Angeles website"
+disabled = false
+fork = true
+forks_within = 0
+full_name = "codeforpdx/food-oasis"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "https://foodoasis.la"
+id = 351_630_779
+language = { }
+name = "food-oasis"
+node_id = "MDEwOlJlcG9zaXRvcnkzNTE2MzA3Nzk="
+open_issues_within = 0
+private = false
+pushed_within = "week"
+stargazers_within = 0
+topics = [ ]
+updated_within = "week"
+watchers_within = 0
+
+  [github.license]
+  key = "gpl-2.0"
+  name = "GNU General Public License v2.0"
+  node_id = "MDc6TGljZW5zZTg="
+  spdx_id = "GPL-2.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 39_497_980
+  login = "codeforpdx"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM5NDk3OTgw"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
