@@ -15,3 +15,5 @@ jobs:
           use-quiet-mode: 'yes'
           use-verbose-mode: 'no'
           config-file: './markdown-link-check-configuration.json'
+          folder-path: './docs'
+          file-path: './README.md'
