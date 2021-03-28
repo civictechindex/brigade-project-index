@@ -1,14 +1,15 @@
 code_url = "https://github.com/open-austin/eviction-hearing-parser"
-description = "parse registers of actions for eviction hearings"
+description = "parse registers of actions for eviction hearings in Texas counties"
 git_url = "git://github.com/open-austin/eviction-hearing-parser.git"
 name = "eviction-hearing-parser"
 organization_name = "Open Austin"
+topics = [ "eviction-hearings" ]
 
 [github]
 archived = false
 created_at = "2020-05-14T00:55:57Z"
 default_branch = "master"
-description = "parse registers of actions for eviction hearings"
+description = "parse registers of actions for eviction hearings in Texas counties"
 disabled = false
 fork = false
 forks_within = 100
@@ -18,7 +19,7 @@ has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = true
-homepage = { }
+homepage = ""
 id = 263_779_212
 language = "HTML"
 license = { }
@@ -28,7 +29,7 @@ open_issues_within = 100
 private = false
 pushed_within = "week"
 stargazers_within = 10
-topics = [ ]
+topics = [ "eviction-hearings" ]
 updated_within = "week"
 watchers_within = 10
 
