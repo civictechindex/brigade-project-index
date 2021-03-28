@@ -1,6 +1,6 @@
-code_url = "https://github.com/codeforkansascity/tagging-tracker-pwa-backend"
-git_url = "git://github.com/codeforkansascity/tagging-tracker-pwa-backend.git"
-name = "tagging-tracker-pwa-backend"
+code_url = "https://github.com/codeforkansascity/tagging-tracker-node-backend"
+git_url = "git://github.com/codeforkansascity/tagging-tracker-node-backend.git"
+name = "tagging-tracker-node-backend"
 organization_name = "KC Digital Drive"
 
 [github]
@@ -11,7 +11,7 @@ description = { }
 disabled = false
 fork = false
 forks_within = 10
-full_name = "codeforkansascity/tagging-tracker-pwa-backend"
+full_name = "codeforkansascity/tagging-tracker-node-backend"
 has_downloads = true
 has_issues = true
 has_pages = false
@@ -20,14 +20,14 @@ has_wiki = true
 homepage = { }
 id = 241_233_269
 language = "JavaScript"
-name = "tagging-tracker-pwa-backend"
+name = "tagging-tracker-node-backend"
 node_id = "MDEwOlJlcG9zaXRvcnkyNDEyMzMyNjk="
 open_issues_within = 0
 private = false
 pushed_within = "month"
 stargazers_within = 0
 topics = [ ]
-updated_within = "month"
+updated_within = "week"
 watchers_within = 0
 
   [github.license]
