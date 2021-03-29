@@ -27,10 +27,10 @@ name = "before-you-ship"
 node_id = "MDEwOlJlcG9zaXRvcnkyODkyNTU0OQ=="
 open_issues_within = 10
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 100
 topics = [ "compliance" ]
-updated_within = "year"
+updated_within = "week"
 watchers_within = 100
 
   [github.license]
