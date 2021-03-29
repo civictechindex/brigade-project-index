@@ -1,6 +1,6 @@
-code_url = "https://github.com/18F/identity-give-ipp-idemia"
-git_url = "git://github.com/18F/identity-give-ipp-idemia.git"
-name = "identity-give-ipp-idemia"
+code_url = "https://github.com/18F/identity-give-idemia"
+git_url = "git://github.com/18F/identity-give-idemia.git"
+name = "identity-give-idemia"
 organization_name = "18F"
 
 [github]
@@ -11,7 +11,7 @@ description = { }
 disabled = false
 fork = false
 forks_within = 10
-full_name = "18F/identity-give-ipp-idemia"
+full_name = "18F/identity-give-idemia"
 has_downloads = true
 has_issues = true
 has_pages = false
@@ -20,7 +20,7 @@ has_wiki = true
 homepage = { }
 id = 290_600_436
 language = "Python"
-name = "identity-give-ipp-idemia"
+name = "identity-give-idemia"
 node_id = "MDEwOlJlcG9zaXRvcnkyOTA2MDA0MzY="
 open_issues_within = 0
 private = false
