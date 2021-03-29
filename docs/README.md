@@ -1,37 +1,37 @@
 # Overview
 
-The Brigade Project Index is a collaborative effort involving core contributors from across many brigades.
+Project Index Working group is currently composed of interested brigade volunteers and CfA staff who are separately working on a variety of projects all related to fostering data models and creation of searchable indexes that will allow people to find and connect with projects in specific topic areas. 
+Each of the projects also has additional goals and directions
 
-We design, develop, and maintain a set of tools and practices for mapping out all the work being done on projects across the entire global network of civic hacking organizations and Code for America brigades.
+We connect on the areas that are related and keep eachother informed on the areas where our goals and directions diverge
 
-Our core goal is to publish a rich and constantly-updated database of projects that any number of network projects can use as a data source to help us get better connected.
+Want more information? See our presentation from Brigade Congress 10/2020 [video](https://www.youtube.com/watch?v=mUi317f1zOM&list=PL65XgbSILalVD81qt-I_vfUJLEjhfdmXh&index=25).
 
-## How to Get Involved
+You can learn more about the few initiatives that this group focuses on below.
 
-- Tag your projects on github!
-  - Make sure your brigade's projects are listed in the index ([instructions](projects/crawler/contributing/get-indexed.md))
-  - Using the github "Topics", tag your project directly in github with #code-for-america and your brigade tag (e.g. code-for-sf). Then include any relevant topic tags from [this list](https://github.com/codeforamerica/civic-tech-taxonomy/tree/master/issues-addressed).
+<a name="participate"></a>
+** How to Participate **
 
-- [Search for Projects](https://projects.brigade.network/)
+- Join one of the individual initiatives (below)
+- Join the co-organizer team
+  - Every two weeks on Wednesday at 3 PM PT/ 5 PM CT / 6 PM ET
+- Volunteer to one of the initiatives
+- Spread the word at your brigade, and add data to the index for projects
+- Provide marketing help
 
-- Join the discussion!
-  - We primarily use slack (https://cfa.slack.com #brigade-project-index), and meet every 2 weeks, usually Sunday at 6pm. Drop a note in the slack channel to be included.
+** Meeting times **
 
-## Resources
+[Zoom meeting link](https://codeforamerica.zoom.us/j/96551956929?pwd=ME81S0ZUT1UwY3JTeFpaVXVZV25pdz09) Wednesday every other week 3pm PDT / 5pm CDT / 6pm EST
 
-- [`brigade-project-index` GitHub repository](https://github.com/codeforamerica/brigade-project-index)
-  - [`snapshot/v1:/`](https://github.com/codeforamerica/brigade-project-index/tree/snapshot/v1): The crawler snapshot in raw data form, projected into a GitHub repo for distribution and historic tracking
-  - [`index/v1:/`](https://github.com/codeforamerica/brigade-project-index/tree/index/v1): the first version of the published index
-  - [`gh-pages:static-api/v1`](https://github.com/codeforamerica/brigade-project-index/tree/gh-pages/static-api/v1): Static JSON API projected into GitHub Pages website hourly
-    - [`/static-api/v1/organizations.json`](https://brigade.cloud/static-api/v1/organizations.json): _all_ organizations
-    - [`/static-api/v1/projects.json`](https://brigade.cloud/static-api/v1/projects.json): _all_ projects (large file)
-    - [`/static-api/v1/organizations/Code for Philly/projects.json`](https://brigade.cloud/static-api/v1/organizations/Code%20for%20Philly/projects.json): all projects by brigade
-    - [`/static-api/v1/organizations/Code for Philly/projects/laddr.json`](https://brigade.cloud/static-api/v1/organizations/Code%20for%20Philly/projects/laddr.json): details for one project
-  - [`master:docs/`](https://github.com/codeforamerica/brigade-project-index/tree/master/docs): The source for this website
-  - [`master:crawler/`](https://github.com/codeforamerica/brigade-project-index/tree/master/crawler): Script that crawls every brigade's projects list hourly
-  - [`master:.github/workflows`](https://github.com/codeforamerica/brigade-project-index/blob/master/.github/workflows/crawler.yml): GitHub Actions Workflow that runs the crawler every hour
-  - [Actions log](https://github.com/codeforamerica/brigade-project-index/actions): History of crawler runs
-- [Network-wide GitHub topic search UI](https://hackforla.github.io/github-api-test/)
-- [Network-wide index search UI](https://projects.brigade.network/)
-- [`publiccode.yml` standard](https://docs.italia.it/italia/developers-italia/publiccodeyml-en/en/master/)
-- [GitHub Community Health Files standards](https://help.github.com/en/articles/creating-a-default-community-health-file-for-your-organization)
+[Slack channel #brigade-project-index](https://cfa.slack.com/archives/CLMA6BAVB)
+
+[Google Drive](https://drive.google.com/drive/folders/1CRGEL2MkRocWcyTaTAaqlJuPugaL_99F)
+
+| Project | Homepage | Maintainer(s) |
+|-|-|-|
+| [Project Index Crawler](./crawler) | [github.com/codeforamerica/brigade-project-index](https://github.com/codeforamerica/brigade-project-index) | Chris |
+| [Project Index Statusboard](./statusboard.md) | [projects.brigade.network](https://projects.brigade.network/) | Melanie |
+| [Civic Tech Index](./civic-tech-index.md) | [civictechindex.org](http://civictechindex.org/) | Bonnie, Olivia |
+| [DemocracyLab](./democracy-lab.md) | [democracylab.org](https://democracylab.org/) | Mark |
+| [Civic Tech Taxonomy](civic-tech-taxonomy.md) | [github.com/codeforamerica/civic-tech-taxonomy](https://github.com/codeforamerica/civic-tech-taxonomy) | Gio |
+| [publiccode.yml Helper](./publiccode-helper.md) | [github.com/italia/publiccode.yml](https://github.com/italia/publiccode.yml) | Gio |
