@@ -115,7 +115,7 @@ require('yargs')
                     const organizations = await CodeForAmericaNetwork.loadFromUrl(orgsSource);
                     orgsTree = await organizations.buildTree(repo);
                 } catch (err) {
-                    logger.error(`failed to load organizations: ${err}`);
+                    logger.error(`failed to load organizations from ${orgsSource}: ${err}`);
                     process.exit(1);
                 }
 
@@ -195,7 +195,14 @@ require('yargs')
 
 
                     // load all projects for given org, delegating to the first Projects Repository implementation that accepts the job
-                    const orgProjects = await Organization.loadProjects(org); // TODO: wrap in try
+                    let orgProjects;
+
+                    try {
+                        orgProjects = await Organization.loadProjects(org);
+                    } catch (err) {
+                        logger.error(`failed to load projects for ${org.name} from ${org.projects_list_url}: ${err}, skipping organization...`);
+                        continue;
+                    }
 
                     if (!orgProjects) {
                         logger.warn(`no projects loader is able to handle organization '${orgName}', skipping organization...`);
