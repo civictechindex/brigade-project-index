@@ -1,5 +1,5 @@
 code_url = "https://github.com/codeforkansascity/tagging-tracker-alt-apps"
-description = "ReactJS PWA build of the Tagging Tracker front-end interface"
+description = "ReactJS PWA and RN build of the Tagging Tracker front-end interface for the Node TT backend"
 git_url = "git://github.com/codeforkansascity/tagging-tracker-alt-apps.git"
 name = "tagging-tracker-alt-apps"
 organization_name = "KC Digital Drive"
@@ -8,7 +8,7 @@ organization_name = "KC Digital Drive"
 archived = false
 created_at = "2020-02-17T23:55:26Z"
 default_branch = "master"
-description = "ReactJS PWA build of the Tagging Tracker front-end interface"
+description = "ReactJS PWA and RN build of the Tagging Tracker front-end interface for the Node TT backend"
 disabled = false
 fork = false
 forks_within = 10
@@ -25,10 +25,10 @@ name = "tagging-tracker-alt-apps"
 node_id = "MDEwOlJlcG9zaXRvcnkyNDEyMzMwMTQ="
 open_issues_within = 10
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 0
 topics = [ ]
-updated_within = "month"
+updated_within = "week"
 watchers_within = 0
 
   [github.license]
