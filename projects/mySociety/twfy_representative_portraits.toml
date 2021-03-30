@@ -1,0 +1,46 @@
+code_url = "https://github.com/mysociety/twfy_representative_portraits"
+description = "Images and sourcing script for representative portraits."
+git_url = "git://github.com/mysociety/twfy_representative_portraits.git"
+name = "twfy_representative_portraits"
+organization_name = "mySociety"
+
+[github]
+archived = false
+created_at = "2021-03-30T16:14:04Z"
+default_branch = "main"
+description = "Images and sourcing script for representative portraits."
+disabled = false
+fork = false
+forks_within = 0
+full_name = "mysociety/twfy_representative_portraits"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 353_063_973
+language = "Python"
+license = { }
+name = "twfy_representative_portraits"
+node_id = "MDEwOlJlcG9zaXRvcnkzNTMwNjM5NzM="
+open_issues_within = 0
+private = false
+pushed_within = "week"
+stargazers_within = 0
+topics = [ ]
+updated_within = "week"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 141_338
+  login = "mysociety"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE0MTMzOA=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
