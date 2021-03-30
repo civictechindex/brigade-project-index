@@ -34,7 +34,7 @@ forks_within = 10
 full_name = "CodeForAfrica/sensors.AFRICA"
 has_downloads = true
 has_issues = true
-has_pages = true
+has_pages = false
 has_projects = false
 has_wiki = true
 homepage = "https://sensors.africa"
@@ -64,7 +64,7 @@ topics = [
   "tanzania",
   "uganda"
 ]
-updated_within = "year"
+updated_within = "week"
 watchers_within = 10
 
   [github.license]
