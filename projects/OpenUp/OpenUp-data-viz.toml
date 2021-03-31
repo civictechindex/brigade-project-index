@@ -1,7 +1,7 @@
-code_url = "https://github.com/OpenUpSA/open-up-data-viz"
+code_url = "https://github.com/OpenUpSA/OpenUp-data-viz"
 description = "OpenUp Data Visualisations"
-git_url = "git://github.com/OpenUpSA/open-up-data-viz.git"
-name = "open-up-data-viz"
+git_url = "git://github.com/OpenUpSA/OpenUp-data-viz.git"
+name = "OpenUp-data-viz"
 organization_name = "OpenUp"
 
 [github]
@@ -12,7 +12,7 @@ description = "OpenUp Data Visualisations"
 disabled = false
 fork = false
 forks_within = 10
-full_name = "OpenUpSA/open-up-data-viz"
+full_name = "OpenUpSA/OpenUp-data-viz"
 has_downloads = true
 has_issues = true
 has_pages = false
@@ -21,7 +21,7 @@ has_wiki = true
 homepage = { }
 id = 351_343_273
 language = { }
-name = "open-up-data-viz"
+name = "OpenUp-data-viz"
 node_id = "MDEwOlJlcG9zaXRvcnkzNTEzNDMyNzM="
 open_issues_within = 0
 private = false
