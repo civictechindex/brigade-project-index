@@ -36,7 +36,7 @@ id = 194_053_887
 language = "JavaScript"
 name = "HURUmap-UI"
 node_id = "MDEwOlJlcG9zaXRvcnkxOTQwNTM4ODc="
-open_issues_within = 10
+open_issues_within = 0
 private = false
 pushed_within = "week"
 stargazers_within = 10
@@ -52,7 +52,7 @@ topics = [
   "reactjs",
   "storybook"
 ]
-updated_within = "year"
+updated_within = "week"
 watchers_within = 10
 
   [github.license]
