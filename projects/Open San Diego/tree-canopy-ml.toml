@@ -1,0 +1,46 @@
+code_url = "https://github.com/opensandiego/tree-canopy-ml"
+description = "Use machine learning to identify San Diego's tree canopy from recent satellite data"
+git_url = "git://github.com/opensandiego/tree-canopy-ml.git"
+name = "tree-canopy-ml"
+organization_name = "Open San Diego"
+
+[github]
+archived = false
+created_at = "2021-03-31T03:00:07Z"
+default_branch = "main"
+description = "Use machine learning to identify San Diego's tree canopy from recent satellite data"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "opensandiego/tree-canopy-ml"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 353_207_218
+language = { }
+license = { }
+name = "tree-canopy-ml"
+node_id = "MDEwOlJlcG9zaXRvcnkzNTMyMDcyMTg="
+open_issues_within = 0
+private = false
+pushed_within = "week"
+stargazers_within = 0
+topics = [ ]
+updated_within = "week"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 363_945
+  login = "opensandiego"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM2Mzk0NQ=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
