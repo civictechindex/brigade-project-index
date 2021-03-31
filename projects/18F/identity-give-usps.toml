@@ -19,8 +19,7 @@ has_projects = true
 has_wiki = true
 homepage = { }
 id = 290_600_481
-language = "Java"
-license = { }
+language = "Python"
 name = "identity-give-usps"
 node_id = "MDEwOlJlcG9zaXRvcnkyOTA2MDA0ODE="
 open_issues_within = 10
@@ -30,6 +29,12 @@ stargazers_within = 0
 topics = [ ]
 updated_within = "week"
 watchers_within = 0
+
+  [github.license]
+  key = "other"
+  name = "Other"
+  node_id = "MDc6TGljZW5zZTA="
+  spdx_id = "NOASSERTION"
 
   [github.owner]
   gravatar_id = ""
