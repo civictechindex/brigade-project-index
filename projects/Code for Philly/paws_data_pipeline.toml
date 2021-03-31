@@ -22,7 +22,6 @@ has_wiki = true
 homepage = ""
 id = 216_936_227
 language = "Python"
-license = { }
 name = "paws-data-pipeline"
 network_count = 11
 node_id = "MDEwOlJlcG9zaXRvcnkyMTY5MzYyMjc="
@@ -35,6 +34,12 @@ temp_clone_token = ""
 topics = [ ]
 updated_within = "week"
 watchers_within = 100
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
 
   [github.organization]
   gravatar_id = ""
