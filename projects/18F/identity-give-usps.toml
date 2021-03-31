@@ -1,6 +1,6 @@
-code_url = "https://github.com/18F/identity-give-ipp-usps"
-git_url = "git://github.com/18F/identity-give-ipp-usps.git"
-name = "identity-give-ipp-usps"
+code_url = "https://github.com/18F/identity-give-usps"
+git_url = "git://github.com/18F/identity-give-usps.git"
+name = "identity-give-usps"
 organization_name = "18F"
 
 [github]
@@ -11,7 +11,7 @@ description = { }
 disabled = false
 fork = false
 forks_within = 10
-full_name = "18F/identity-give-ipp-usps"
+full_name = "18F/identity-give-usps"
 has_downloads = true
 has_issues = true
 has_pages = false
@@ -21,7 +21,7 @@ homepage = { }
 id = 290_600_481
 language = "Java"
 license = { }
-name = "identity-give-ipp-usps"
+name = "identity-give-usps"
 node_id = "MDEwOlJlcG9zaXRvcnkyOTA2MDA0ODE="
 open_issues_within = 10
 private = false
