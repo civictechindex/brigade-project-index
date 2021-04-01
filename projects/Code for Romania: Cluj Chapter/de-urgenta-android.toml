@@ -20,10 +20,10 @@ has_projects = true
 has_wiki = true
 homepage = { }
 id = 352_069_273
-language = { }
+language = "Kotlin"
 name = "de-urgenta-android"
 node_id = "MDEwOlJlcG9zaXRvcnkzNTIwNjkyNzM="
-open_issues_within = 0
+open_issues_within = 10
 private = false
 pushed_within = "week"
 stargazers_within = 0
