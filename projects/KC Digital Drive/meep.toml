@@ -26,10 +26,10 @@ name = "meep"
 node_id = "MDEwOlJlcG9zaXRvcnkxNTA2MzgyMTQ="
 open_issues_within = 100
 private = false
-pushed_within = "month"
+pushed_within = "year"
 stargazers_within = 10
 topics = [ "code-for-america", "code-for-kc", "energy" ]
-updated_within = "month"
+updated_within = "year"
 watchers_within = 10
 
   [github.license]
