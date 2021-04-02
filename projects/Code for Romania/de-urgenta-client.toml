@@ -11,7 +11,7 @@ default_branch = "develop"
 description = "De Urgență web app - frontend"
 disabled = false
 fork = false
-forks_within = 0
+forks_within = 10
 full_name = "code4romania/de-urgenta-client"
 has_downloads = true
 has_issues = true
@@ -26,10 +26,10 @@ node_id = "MDEwOlJlcG9zaXRvcnkzNTIwNjk1Mzc="
 open_issues_within = 10
 private = false
 pushed_within = "week"
-stargazers_within = 0
+stargazers_within = 10
 topics = [ ]
 updated_within = "week"
-watchers_within = 0
+watchers_within = 10
 
   [github.license]
   key = "mpl-2.0"
