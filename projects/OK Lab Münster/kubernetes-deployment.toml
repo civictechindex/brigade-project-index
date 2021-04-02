@@ -27,12 +27,12 @@ has_projects = false
 has_wiki = false
 homepage = { }
 id = 69_484_614
-language = "HTML"
+language = "Mustache"
 name = "kubernetes-deployment"
 node_id = "MDEwOlJlcG9zaXRvcnk2OTQ4NDYxNA=="
 open_issues_within = 10
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 100
 topics = [
   "cluster",
@@ -42,7 +42,7 @@ topics = [
   "scaleway",
   "terraform"
 ]
-updated_within = "year"
+updated_within = "week"
 watchers_within = 100
 
   [github.license]
