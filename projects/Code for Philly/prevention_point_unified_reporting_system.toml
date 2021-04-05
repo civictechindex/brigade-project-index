@@ -23,7 +23,7 @@ homepage = ""
 id = 175_312_036
 language = "JavaScript"
 name = "prevention-point"
-network_count = 15
+network_count = 16
 node_id = "MDEwOlJlcG9zaXRvcnkxNzUzMTIwMzY="
 open_issues_within = 100
 private = false
@@ -32,7 +32,7 @@ stargazers_within = 100
 subscribers_count = 19
 temp_clone_token = ""
 topics = [ ]
-updated_within = "year"
+updated_within = "week"
 watchers_within = 100
 
   [github.license]
