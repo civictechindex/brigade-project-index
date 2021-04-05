@@ -1,7 +1,7 @@
-code_url = "https://github.com/OpenEugene/safety-net"
+code_url = "https://github.com/OpenEugene/fire-refuge"
 description = "helping folks find temporary refuge from fire impacted zones"
-git_url = "git://github.com/OpenEugene/safety-net.git"
-name = "safety-net"
+git_url = "git://github.com/OpenEugene/fire-refuge.git"
+name = "fire-refuge"
 organization_name = "Open Eugene"
 
 [github]
@@ -12,7 +12,7 @@ description = "helping folks find temporary refuge from fire impacted zones"
 disabled = false
 fork = false
 forks_within = 10
-full_name = "OpenEugene/safety-net"
+full_name = "OpenEugene/fire-refuge"
 has_downloads = true
 has_issues = true
 has_pages = false
@@ -21,7 +21,7 @@ has_wiki = true
 homepage = { }
 id = 294_774_853
 language = "JavaScript"
-name = "safety-net"
+name = "fire-refuge"
 node_id = "MDEwOlJlcG9zaXRvcnkyOTQ3NzQ4NTM="
 open_issues_within = 100
 private = false
