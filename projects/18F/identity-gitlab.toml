@@ -22,7 +22,7 @@ id = 355_306_075
 language = "Shell"
 name = "identity-gitlab"
 node_id = "MDEwOlJlcG9zaXRvcnkzNTUzMDYwNzU="
-open_issues_within = 10
+open_issues_within = 0
 private = false
 pushed_within = "week"
 stargazers_within = 0
