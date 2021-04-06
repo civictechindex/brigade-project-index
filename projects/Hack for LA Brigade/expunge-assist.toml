@@ -1,5 +1,5 @@
 code_url = "https://github.com/hackforla/expunge-assist"
-description = "Record Clearance helps people with non-violent criminal records get record clearance or expungement in California as a result of Prop 47 & Prop 64"
+description = "Expunge Assist helps people with criminal records reduce, dismiss, or seal their record in California as a result of Prop 47 & Prop 64"
 git_url = "git://github.com/hackforla/expunge-assist.git"
 name = "expunge-assist"
 organization_name = "Hack for LA Brigade"
@@ -16,7 +16,7 @@ topics = [
 archived = false
 created_at = "2019-10-29T21:57:32Z"
 default_branch = "master"
-description = "Record Clearance helps people with non-violent criminal records get record clearance or expungement in California as a result of Prop 47 & Prop 64"
+description = "Expunge Assist helps people with criminal records reduce, dismiss, or seal their record in California as a result of Prop 47 & Prop 64"
 disabled = false
 fork = false
 forks_within = 10
