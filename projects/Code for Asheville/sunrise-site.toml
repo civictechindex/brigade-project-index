@@ -1,0 +1,46 @@
+code_url = "https://github.com/CodeForAsheville/sunrise-site"
+description = "Updating website content for Sunrise AVL (https://www.sunriseavl.org/)"
+git_url = "git://github.com/CodeForAsheville/sunrise-site.git"
+name = "sunrise-site"
+organization_name = "Code for Asheville"
+
+[github]
+archived = false
+created_at = "2021-04-08T16:27:44Z"
+default_branch = "main"
+description = "Updating website content for Sunrise AVL (https://www.sunriseavl.org/)"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "CodeForAsheville/sunrise-site"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 355_978_398
+language = { }
+license = { }
+name = "sunrise-site"
+node_id = "MDEwOlJlcG9zaXRvcnkzNTU5NzgzOTg="
+open_issues_within = 100
+private = false
+pushed_within = "week"
+stargazers_within = 0
+topics = [ ]
+updated_within = "week"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 3_941_752
+  login = "CodeForAsheville"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM5NDE3NTI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
