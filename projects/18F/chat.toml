@@ -1,34 +1,36 @@
-code_url = "https://github.com/18F/identity-gitlab"
-git_url = "git://github.com/18F/identity-gitlab.git"
-name = "identity-gitlab"
+code_url = "https://github.com/18F/chat"
+description = "the little site that connects 18F to the public"
+git_url = "git://github.com/18F/chat.git"
+link_url = "https://chat.18f.gov"
+name = "chat"
 organization_name = "18F"
 
 [github]
 archived = false
-created_at = "2021-04-06T19:24:34Z"
-default_branch = "main"
-description = { }
+created_at = "2016-04-13T01:56:06Z"
+default_branch = "master"
+description = "the little site that connects 18F to the public"
 disabled = false
 fork = false
-forks_within = 0
-full_name = "18F/identity-gitlab"
+forks_within = 10
+full_name = "18F/chat"
 has_downloads = true
 has_issues = true
 has_pages = false
 has_projects = true
-has_wiki = true
-homepage = { }
-id = 355_306_075
-language = "HCL"
-name = "identity-gitlab"
-node_id = "MDEwOlJlcG9zaXRvcnkzNTUzMDYwNzU="
+has_wiki = false
+homepage = "https://chat.18f.gov"
+id = 56_112_456
+language = "HTML"
+name = "chat"
+node_id = "MDEwOlJlcG9zaXRvcnk1NjExMjQ1Ng=="
 open_issues_within = 0
 private = false
-pushed_within = "week"
-stargazers_within = 0
+pushed_within = "year"
+stargazers_within = 10
 topics = [ ]
 updated_within = "week"
-watchers_within = 0
+watchers_within = 10
 
   [github.license]
   key = "other"
