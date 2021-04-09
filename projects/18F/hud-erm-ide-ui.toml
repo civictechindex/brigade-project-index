@@ -19,16 +19,16 @@ has_projects = true
 has_wiki = true
 homepage = { }
 id = 314_068_017
-language = { }
+language = "JavaScript"
 license = { }
 name = "hud-erm-ide-ui"
 node_id = "MDEwOlJlcG9zaXRvcnkzMTQwNjgwMTc="
-open_issues_within = 0
+open_issues_within = 10
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
-updated_within = "year"
+updated_within = "week"
 watchers_within = 10
 
   [github.owner]
