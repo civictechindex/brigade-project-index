@@ -17,8 +17,8 @@ full_name = "18F/site-scanning-query-builder"
 has_downloads = true
 has_issues = true
 has_pages = false
-has_projects = true
-has_wiki = true
+has_projects = false
+has_wiki = false
 homepage = "https://site-scanning.api.data.gov"
 id = 335_725_052
 language = "JavaScript"
@@ -26,10 +26,10 @@ name = "site-scanning-query-builder"
 node_id = "MDEwOlJlcG9zaXRvcnkzMzU3MjUwNTI="
 open_issues_within = 10
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 0
 topics = [ ]
-updated_within = "month"
+updated_within = "week"
 watchers_within = 0
 
   [github.license]

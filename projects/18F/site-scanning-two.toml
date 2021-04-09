@@ -1,6 +1,7 @@
 code_url = "https://github.com/18F/site-scanning-two"
-description = "The repository for the rearchitected site-scanning project"
+description = "The repository for the rearchitected site-scanning project, specifically the scanning engine itself. "
 git_url = "git://github.com/18F/site-scanning-two.git"
+link_url = "https://digital.gov/site-scanning"
 name = "site-scanning-two"
 organization_name = "18F"
 
@@ -8,7 +9,7 @@ organization_name = "18F"
 archived = false
 created_at = "2020-10-03T00:02:51Z"
 default_branch = "main"
-description = "The repository for the rearchitected site-scanning project"
+description = "The repository for the rearchitected site-scanning project, specifically the scanning engine itself. "
 disabled = false
 fork = false
 forks_within = 10
@@ -18,7 +19,7 @@ has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = true
-homepage = { }
+homepage = "https://digital.gov/site-scanning"
 id = 300_761_835
 language = "TypeScript"
 license = { }
@@ -29,7 +30,7 @@ private = false
 pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
-updated_within = "year"
+updated_within = "week"
 watchers_within = 10
 
   [github.owner]
