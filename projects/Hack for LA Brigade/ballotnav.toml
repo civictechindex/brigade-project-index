@@ -1,4 +1,5 @@
 code_url = "https://github.com/hackforla/ballotnav"
+description = "A repository for HackforLA's BallotNav project"
 git_url = "git://github.com/hackforla/ballotnav.git"
 link_url = "https://BallotNav.org"
 name = "ballotnav"
@@ -13,14 +14,15 @@ topics = [
   "dropoff-locations",
   "hack-for-la",
   "state",
-  "usps"
+  "usps",
+  "voters"
 ]
 
 [github]
 archived = false
 created_at = "2020-08-19T00:31:59Z"
 default_branch = "master"
-description = { }
+description = "A repository for HackforLA's BallotNav project"
 disabled = false
 fork = false
 forks_within = 100
@@ -50,7 +52,8 @@ topics = [
   "dropoff-locations",
   "hack-for-la",
   "state",
-  "usps"
+  "usps",
+  "voters"
 ]
 updated_within = "week"
 watchers_within = 100

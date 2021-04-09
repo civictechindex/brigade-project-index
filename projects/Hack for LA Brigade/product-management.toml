@@ -1,0 +1,64 @@
+code_url = "https://github.com/hackforla/product-management"
+description = "A repository for the Product Management Community of Practice"
+git_url = "git://github.com/hackforla/product-management.git"
+name = "product-management"
+organization_name = "Hack for LA Brigade"
+topics = [
+  "civictechindex",
+  "code-for-all",
+  "code-for-america",
+  "community-of-practice",
+  "hack-for-la",
+  "product",
+  "product-managment"
+]
+
+[github]
+archived = false
+created_at = "2020-06-26T00:34:17Z"
+default_branch = "master"
+description = "A repository for the Product Management Community of Practice"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "hackforla/product-management"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 275_042_633
+language = { }
+license = { }
+name = "product-management"
+node_id = "MDEwOlJlcG9zaXRvcnkyNzUwNDI2MzM="
+open_issues_within = 1_000
+private = false
+pushed_within = "week"
+score = 1
+stargazers_within = 10
+topics = [
+  "civictechindex",
+  "code-for-all",
+  "code-for-america",
+  "community-of-practice",
+  "hack-for-la",
+  "product",
+  "product-managment"
+]
+updated_within = "week"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 11_635_254
+  login = "hackforla"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjExNjM1MjU0"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
