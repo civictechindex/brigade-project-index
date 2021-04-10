@@ -12,7 +12,7 @@ This tool collects data about civic tech projects crawling Github or other proje
 - Contacts: Chris at ... (ok to display email?)
 - Status: The current system is available and doesn’t have major known issues
 - Project needs: The project is looking for ...
-- How to collaborate: [Join Us](../#participate)
+- How to collaborate: [Join Us](/docs/join-us.md#how-to-participate)
 - Github: [https://github.com/codeforamerica/brigade-project-index](https://github.com/codeforamerica/brigade-project-index)
 
 ## More about the Index and the Statusboard
@@ -22,6 +22,7 @@ The index is the dataset we suck everything into.  The statusboard is a tool for
 The reason for this layered approach was that we wanted to focus on collecting really quality data that could be distributed across the network for a variety of tools and uses.  This way, there's a much stronger value prop for brigades to publish their projects into the index--it doesn't just feed one tool/site we're building, but a whole ecosystem of brigade network tools that anyone can add to. There are a couple other tools out there using the index in addition to the statusboard.
 
 ## Next enhancements
+
 - Read the [public-code.yaml](../publiccode-helper.md)
 
 ## How to Get Involved
@@ -30,8 +31,7 @@ The reason for this layered approach was that we wanted to focus on collecting r
   - Make sure your brigade's projects are listed in the index ([instructions](contributing/get-indexed.md))
   - Using the github "Topics", tag your project directly in github with #code-for-america and your brigade tag (e.g. code-for-sf). Then include any relevant topic tags from [this list](https://github.com/codeforamerica/civic-tech-taxonomy/tree/master/issues).
 
-- [Join the discussion!](../#participate)
-
+- [Join the discussion!](/docs/join-us.md#how-to-participate)
 
 ## Resources
 

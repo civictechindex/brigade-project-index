@@ -7,9 +7,8 @@ A comprehensive and intuitive projects categorization is critical in order to av
 - Contacts: Gio at giosce@verizon.net 
 - Status: Conceptual
 - Project needs: Civic Tech and Classification/Taxonomy competency, front-end developers
-- How to collaborate: [Join Us](../#participate)
+- How to collaborate: [Join Us](../join-us.md#how-to-participate)
 - Github: [https://github.com/codeforamerica/civic-tech-taxonomy/tree/master/issues](https://github.com/codeforamerica/civic-tech-taxonomy/tree/master/issues)
-
 
 There are some significant challenges to achieve such a good taxonomy
 
@@ -25,6 +24,7 @@ As of now, the Taxonomy has been built as bottom-up, this taxonomy categorizes (
 Ideally there may need both a bottom-up and a top-down taxonomies that hopefully will converge.
 
 ## Next Enhancements
+
 We are discussing some enhancements focused on the Taxonomy
 
 - Review and validate the current set of items

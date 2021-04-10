@@ -98,7 +98,7 @@ Chi Hack Night's official project list is a [JSON file](https://raw.github.com/o
 
 ```json
 {
-    "projects_list_url": "https://raw.github.com/open-city/civic-json-files/master/projects.json",
+    "projects_list_url": "https://raw.github.com/open-city/civic-json-files/master/projects.json"
 }
 ```
 
