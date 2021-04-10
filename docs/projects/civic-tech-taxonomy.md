@@ -21,7 +21,7 @@ There are some significant challenges to achieve such a good taxonomy
   - Crawlers or queries retrieve all tags of all projects of interest
 - In the first case, the list of projects is limited and projects details risk to be outdated. In the second case, the tags can’t easily fit in a define taxonomy, there are many variations of the same keyword, there are tags that refer to realms (like technologies or locations).
 
-As of now, the Taxonomy has been built as bottom-up, this taxonomy categorizes (via synonims) the majority of "topics" extracted by the [Crawler](../crawler) from all the scanned projects.
+As of now, the Taxonomy has been built as bottom-up, this taxonomy categorizes (via synonims) the majority of "topics" extracted by the [Crawler](crawler/README.md) from all the scanned projects.
 Ideally there may need both a bottom-up and a top-down taxonomies that hopefully will converge.
 
 ## Next Enhancements
@@ -30,7 +30,7 @@ We are discussing some enhancements focused on the Taxonomy
 - Review and validate the current set of items
 - Load this data in a relational database which will allow for more data analysis
 - Decided if bottom-up is the right approach
-- Decide how to keep this list up to date (integrate the taxonomy with the [crawler](../crawler)
+- Decide how to keep this list up to date (integrate the taxonomy with the [crawler](crawler/README.md)
 - Decided whether to separate items that are not "topics" from the large list extracted by the crawler
 - Provide a proper UI to the taxonomy
-- Integrate the taxonomy in the [Statusboard](../statusboard)
+- Integrate the taxonomy in the [Statusboard](statusboard.md)

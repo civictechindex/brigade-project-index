@@ -7,7 +7,7 @@ We connect on the areas that are related and keep eachother informed on the area
 
 Want more information? See our presentation from Brigade Congress 10/2020 [video](https://www.youtube.com/watch?v=mUi317f1zOM&list=PL65XgbSILalVD81qt-I_vfUJLEjhfdmXh&index=25).
 
-The various [initiatives](../projects) could use help in the areas of Javascript, ReactJS, data analys, github, devops and marketing.
+The various [initiatives](projects/README.md) could use help in the areas of Javascript, ReactJS, data analys, github, devops and marketing.
 
 <a name="participate"></a>
 ** How to Participate **

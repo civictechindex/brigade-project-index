@@ -16,10 +16,9 @@ Note that currently, non-US and non-brigade organizations aren’t currently pul
 
 ## Tagging your brigade’s projects
 
-The group that has been working on this project has begun to form a [taxonomy](civic-tech-taxonomy).  
+The group that has been working on this project has begun to form a [taxonomy](projects/civic-tech-taxonomy.md).  
 When assigning topics, please check [the existing topics](https://statusboard.brigade.cloud/api/taxonomy.json) (and consider adding to [the official set](https://github.com/codeforamerica/civic-tech-taxonomy/tree/master/issues) synonims if something is missing) first to be sure you’re not creating a duplicate.  
 **For COVID-19 related projects, please use the topic “covid-19”.**
-
 
 ## Civic Tech Index
 The Civic Tech Index website [http://civictechindex.org](http://civictechindex.org) will soon guides users to tag github projects so to be included in this Index.
@@ -27,4 +26,3 @@ The inclusion is based on using some specific tags in Github (which could be als
 
 ## Democracy Lab
 If you are or become a Democracy Lab registered user you can add projects through the website at [https://www.democracylab.org/projects/create](https://www.democracylab.org/projects/create).
-

@@ -1,6 +1,6 @@
 # Get your organization indexed
 
-The [Project Index Statusboard](https://statusboard.brigade.cloud/#/) aggregates all Code for America brigade projects and displays them on a map. Adding your brigade’s projects to the Statusboard can be done through one of several automated (or semi-automated) processes.
+The [Project Index Statusboard](../../statusboard.md) aggregates all Code for America brigade projects and displays them on a map. Adding your brigade’s projects to the Statusboard can be done through one of several automated (or semi-automated) processes.
 
 
 ## Verify that your brigade is listed accurately
@@ -49,7 +49,7 @@ If you have questions or are interested in helping to improve the Brigade Projec
 
 ## Tagging your brigade’s projects
 
-The group that has been working on this project has begun to form a [taxonomy](../../../civic-tech-taxonomy).  When assigning topics, please check [the existing topics](https://statusboard.brigade.cloud/api/taxonomy.json) (and consider adding to [the official set](https://github.com/codeforamerica/civic-tech-taxonomy/tree/master/issues) if something is missing) first to be sure you’re not creating a duplicate.  **For COVID-19 related projects, please use the topic “covid-19”.**
+The group that has been working on this project has begun to form a [taxonomy](../../civic-tech-taxonomy.md).  When assigning topics, please check [the existing topics](https://statusboard.brigade.cloud/api/taxonomy.json) (and consider adding to [the official set](https://github.com/codeforamerica/civic-tech-taxonomy/tree/master/issues) if something is missing) first to be sure you’re not creating a duplicate.  **For COVID-19 related projects, please use the topic “covid-19”.**
 
 ## More about the Index and the Statusboard
 

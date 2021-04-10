@@ -60,7 +60,7 @@ graph TD
 
 ## Examples
 
-See [Contributing / Get your organization indexed](contributing/get-indexed.md) for a complete walkthrough on how to get your organization indexed.
+See [Contributing / Get your organization indexed](../contributing/get-indexed.md) for a complete walkthrough on how to get your organization indexed.
 
 ### GitHub organization
 

@@ -29,9 +29,9 @@ You can learn more about the few initiatives that this group focuses on below.
 
 | Project | Homepage | Maintainer(s) |
 |-|-|-|
-| [Project Index Crawler](./crawler) | [github.com/codeforamerica/brigade-project-index](https://github.com/codeforamerica/brigade-project-index) | Chris |
-| [Project Index Statusboard](./statusboard.md) | [projects.brigade.network](https://projects.brigade.network/) | Melanie |
-| [Civic Tech Index](./civic-tech-index.md) | [civictechindex.org](http://civictechindex.org/) | Bonnie, Olivia |
-| [DemocracyLab](./democracy-lab.md) | [democracylab.org](https://democracylab.org/) | Mark |
-| [Civic Tech Taxonomy](civic-tech-taxonomy.md) | [github.com/codeforamerica/civic-tech-taxonomy](https://github.com/codeforamerica/civic-tech-taxonomy) | Gio |
-| [publiccode.yml Helper](./publiccode-helper.md) | [github.com/italia/publiccode.yml](https://github.com/italia/publiccode.yml) | Gio |
+| [Project Index Crawler](projects/crawler/README.md) | [github.com/codeforamerica/brigade-project-index](https://github.com/codeforamerica/brigade-project-index) | Chris |
+| [Project Index Statusboard](projects/statusboard.md) | [projects.brigade.network](https://projects.brigade.network/) | Melanie |
+| [Civic Tech Index](projects/civic-tech-index.md) | [civictechindex.org](http://civictechindex.org/) | Bonnie, Olivia |
+| [DemocracyLab](projects/democracy-lab.md) | [democracylab.org](https://democracylab.org/) | Mark |
+| [Civic Tech Taxonomy](projects/civic-tech-taxonomy.md) | [github.com/codeforamerica/civic-tech-taxonomy](https://github.com/codeforamerica/civic-tech-taxonomy) | Gio |
+| [publiccode.yml Helper](projects/publiccode-helper.md) | [github.com/italia/publiccode.yml](https://github.com/italia/publiccode.yml) | Gio |
