@@ -1,7 +1,7 @@
 default: false # includes/excludes all rules by default
 
 # Heading levels should only increment by one level at a time <https://github.com/DavidAnson/markdownlint/blob/master/doc/Rules.md#md001>
-MD001: true
+MD001: false
 
 # Heading style <https://github.com/DavidAnson/markdownlint/blob/master/doc/Rules.md#md003>
 MD003: true
@@ -19,7 +19,7 @@ MD006: true
 MD007: true
 
 # Trailing spaces <https://github.com/DavidAnson/markdownlint/blob/master/doc/Rules.md#md009>
-MD009: true
+MD009: false
 
 # Hard tabs <https://github.com/DavidAnson/markdownlint/blob/master/doc/Rules.md#md010>
 MD010: true
@@ -49,7 +49,7 @@ MD020: true
 MD021: true
 
 # Headings should be surrounded by blank lines <https://github.com/DavidAnson/markdownlint/blob/master/doc/Rules.md#md022>
-MD022: true
+MD022: false
 
 # Headings must start at the beginning of the line <https://github.com/DavidAnson/markdownlint/blob/master/doc/Rules.md#md023>
 MD023: true
@@ -128,7 +128,7 @@ MD046:
   style: 'fenced'
 
 # Files should end with a single newline character <https://github.com/DavidAnson/markdownlint/blob/master/doc/Rules.md#md047>
-MD047: true
+MD047: false
 
 # Code fence style <https://github.com/DavidAnson/markdownlint/blob/master/doc/Rules.md#md048>
 MD048:
