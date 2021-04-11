@@ -24,7 +24,7 @@ language = "Python"
 license = { }
 name = "openelections-data-az"
 node_id = "MDEwOlJlcG9zaXRvcnk0MDUzOTMyOQ=="
-open_issues_within = 10
+open_issues_within = 100
 private = false
 pushed_within = "week"
 stargazers_within = 10
