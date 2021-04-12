@@ -20,16 +20,16 @@ has_projects = true
 has_wiki = true
 homepage = { }
 id = 57_227_905
-language = "CSS"
+language = "SCSS"
 license = { }
 name = "standard-footer"
 node_id = "MDEwOlJlcG9zaXRvcnk1NzIyNzkwNQ=="
-open_issues_within = 10
+open_issues_within = 0
 private = false
 pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
-updated_within = "year"
+updated_within = "week"
 watchers_within = 10
 
   [github.owner]
