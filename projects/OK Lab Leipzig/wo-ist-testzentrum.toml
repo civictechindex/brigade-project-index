@@ -11,7 +11,7 @@ default_branch = "master"
 description = { }
 disabled = false
 fork = false
-forks_within = 0
+forks_within = 10
 full_name = "CodeforLeipzig/wo-ist-testzentrum"
 has_downloads = true
 has_issues = true
@@ -23,7 +23,7 @@ id = 357_000_607
 language = "JavaScript"
 name = "wo-ist-testzentrum"
 node_id = "MDEwOlJlcG9zaXRvcnkzNTcwMDA2MDc="
-open_issues_within = 0
+open_issues_within = 10
 private = false
 pushed_within = "week"
 stargazers_within = 10
