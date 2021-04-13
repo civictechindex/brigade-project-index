@@ -32,7 +32,7 @@ id = 330_800_079
 language = { }
 name = "access-the-data"
 node_id = "MDEwOlJlcG9zaXRvcnkzMzA4MDAwNzk="
-open_issues_within = 10
+open_issues_within = 100
 private = false
 pushed_within = "month"
 score = 1
@@ -46,7 +46,7 @@ topics = [
   "government-data",
   "hack-for-la"
 ]
-updated_within = "month"
+updated_within = "week"
 watchers_within = 10
 
   [github.license]
