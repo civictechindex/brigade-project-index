@@ -1,36 +1,35 @@
-code_url = "https://github.com/code4romania/civiclabs.ro"
-description = "Website for the Civic Labs program"
-git_url = "git://github.com/code4romania/civiclabs.ro.git"
-link_url = "https://civiclabs.ro"
-name = "civiclabs.ro"
+code_url = "https://github.com/code4romania/data-portal"
+description = "Data Portal - the open data community"
+git_url = "git://github.com/code4romania/data-portal.git"
+name = "data-portal"
 organization_name = "Code for Romania"
 
 [github]
 archived = false
-created_at = "2019-07-01T08:42:22Z"
-default_branch = "master"
-description = "Website for the Civic Labs program"
+created_at = "2019-01-22T12:53:45Z"
+default_branch = "main"
+description = "Data Portal - the open data community"
 disabled = false
 fork = false
-forks_within = 10
-full_name = "code4romania/civiclabs.ro"
+forks_within = 0
+full_name = "code4romania/data-portal"
 has_downloads = true
 has_issues = true
 has_pages = false
 has_projects = true
-has_wiki = false
-homepage = "https://civiclabs.ro"
-id = 194_634_323
-language = "PHP"
-name = "civiclabs.ro"
-node_id = "MDEwOlJlcG9zaXRvcnkxOTQ2MzQzMjM="
-open_issues_within = 100
+has_wiki = true
+homepage = { }
+id = 166_993_976
+language = "Dockerfile"
+name = "data-portal"
+node_id = "MDEwOlJlcG9zaXRvcnkxNjY5OTM5NzY="
+open_issues_within = 10
 private = false
 pushed_within = "week"
-stargazers_within = 10
+stargazers_within = 0
 topics = [ ]
 updated_within = "week"
-watchers_within = 10
+watchers_within = 0
 
   [github.license]
   key = "mpl-2.0"
