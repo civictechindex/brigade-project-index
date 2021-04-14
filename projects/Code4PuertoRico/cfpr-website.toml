@@ -19,10 +19,10 @@ has_projects = true
 has_wiki = true
 homepage = { }
 id = 357_708_481
-language = { }
+language = "JavaScript"
 name = "cfpr-website"
 node_id = "MDEwOlJlcG9zaXRvcnkzNTc3MDg0ODE="
-open_issues_within = 0
+open_issues_within = 10
 private = false
 pushed_within = "week"
 stargazers_within = 0
