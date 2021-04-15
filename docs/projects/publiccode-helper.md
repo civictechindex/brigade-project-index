@@ -7,7 +7,7 @@ that can be automatically discovered and processed.
 - URL: The main original repository is [https://github.com/italia/publiccode.yml](https://github.com/italia/publiccode.yml)
 - Contact: Bonnie at bonnie@hackforla.org or Gio at giosce@verizon.net
 - Status: There is a usable version at [https://giosce.github.io/publiccode-pusher](https://giosce.github.io/publiccode-pusher) 
-- Project needs: Taxonomy Expert, Front-End Developer
+- Project needs: Taxonomy Expert, Github deployment settings, Front-End Developer
 - How to collaborate:  [Join Us](../#participate)
 - Github: [https://giosce.github.io/publiccode-pusher](https://giosce.github.io/publiccode-pusher) 
 [https://github.com/civictechindex/publiccode-pusher](https://github.com/civictechindex/publiccode-pusher)
