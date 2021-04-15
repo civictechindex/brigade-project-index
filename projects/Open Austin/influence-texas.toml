@@ -30,7 +30,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://www.influencetexas.com/"
 id = 93_272_025
-language = "HTML"
+language = "Jinja"
 name = "influence-texas"
 node_id = "MDEwOlJlcG9zaXRvcnk5MzI3MjAyNQ=="
 open_issues_within = 100
@@ -46,7 +46,7 @@ topics = [
   "policy",
   "politics"
 ]
-updated_within = "month"
+updated_within = "week"
 watchers_within = 100
 
   [github.license]
