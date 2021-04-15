@@ -1,0 +1,52 @@
+code_url = "https://github.com/code4romania/ckanext-dataportaltheme"
+description = "Data Portal - theme"
+git_url = "git://github.com/code4romania/ckanext-dataportaltheme.git"
+name = "ckanext-dataportaltheme"
+organization_name = "Code for Romania"
+topics = [ "ckan", "dataportal", "theme" ]
+
+[github]
+archived = false
+created_at = "2019-01-22T17:16:19Z"
+default_branch = "master"
+description = "Data Portal - theme"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "code4romania/ckanext-dataportaltheme"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 167_035_085
+language = "HTML"
+name = "ckanext-dataportaltheme"
+node_id = "MDEwOlJlcG9zaXRvcnkxNjcwMzUwODU="
+open_issues_within = 100
+private = false
+pushed_within = "week"
+stargazers_within = 10
+topics = [ "ckan", "dataportal", "theme" ]
+updated_within = "week"
+watchers_within = 10
+
+  [github.license]
+  key = "agpl-3.0"
+  name = "GNU Affero General Public License v3.0"
+  node_id = "MDc6TGljZW5zZTE="
+  spdx_id = "AGPL-3.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 18_010_308
+  login = "code4romania"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE4MDEwMzA4"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
