@@ -5,4 +5,5 @@ organization_name = "Code for Philly"
 status = "Maintaining"
 
 [projects_list_extra]
+chat_channel = "pa-wildflower-selector"
 title = "PA Wildflower Selector"
