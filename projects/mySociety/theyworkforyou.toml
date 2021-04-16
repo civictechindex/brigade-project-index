@@ -38,7 +38,7 @@ name = "theyworkforyou"
 node_id = "MDEwOlJlcG9zaXRvcnk1MDA3OTU="
 open_issues_within = 1_000
 private = false
-pushed_within = "month"
+pushed_within = "year"
 stargazers_within = 1_000
 topics = [
   "civic-tech",
@@ -52,7 +52,7 @@ topics = [
   "transparency",
   "uk"
 ]
-updated_within = "month"
+updated_within = "year"
 watchers_within = 1_000
 
   [github.license]
