@@ -19,15 +19,15 @@ has_projects = true
 has_wiki = true
 homepage = { }
 id = 346_876_338
-language = "Ruby"
+language = "HTML"
 name = "ceic_design_system"
 node_id = "MDEwOlJlcG9zaXRvcnkzNDY4NzYzMzg="
 open_issues_within = 0
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 0
 topics = [ ]
-updated_within = "year"
+updated_within = "week"
 watchers_within = 0
 
   [github.license]
