@@ -19,15 +19,15 @@ has_projects = true
 has_wiki = true
 homepage = { }
 id = 223_472_840
-language = "CSS"
+language = "SCSS"
 name = "accelerate"
 node_id = "MDEwOlJlcG9zaXRvcnkyMjM0NzI4NDA="
 open_issues_within = 0
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 0
 topics = [ ]
-updated_within = "year"
+updated_within = "week"
 watchers_within = 0
 
   [github.license]
