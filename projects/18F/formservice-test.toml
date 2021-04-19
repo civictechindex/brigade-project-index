@@ -19,16 +19,16 @@ has_projects = true
 has_wiki = true
 homepage = { }
 id = 355_616_699
-language = "JavaScript"
+language = "HTML"
 license = { }
 name = "formservice-test"
 node_id = "MDEwOlJlcG9zaXRvcnkzNTU2MTY2OTk="
 open_issues_within = 0
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 0
 topics = [ ]
-updated_within = "month"
+updated_within = "week"
 watchers_within = 0
 
   [github.owner]
