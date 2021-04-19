@@ -26,7 +26,7 @@ network_count = 132
 node_id = "MDEwOlJlcG9zaXRvcnk3ODQ1NTc5"
 open_issues_within = 100
 private = false
-pushed_within = "week"
+pushed_within = "month"
 stargazers_within = 100
 subscribers_count = 29
 temp_clone_token = ""
@@ -39,7 +39,7 @@ topics = [
   "data-visualization",
   "openoakland"
 ]
-updated_within = "week"
+updated_within = "month"
 watchers_within = 100
 
   [github.license]
