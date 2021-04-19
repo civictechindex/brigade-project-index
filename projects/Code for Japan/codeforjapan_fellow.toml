@@ -1,0 +1,45 @@
+code_url = "https://github.com/codeforjapan/codeforjapan_fellow"
+git_url = "git://github.com/codeforjapan/codeforjapan_fellow.git"
+name = "codeforjapan_fellow"
+organization_name = "Code for Japan"
+
+[github]
+archived = false
+created_at = "2021-04-19T15:31:56Z"
+default_branch = "main"
+description = { }
+disabled = false
+fork = false
+forks_within = 0
+full_name = "codeforjapan/codeforjapan_fellow"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 359_509_504
+language = { }
+license = { }
+name = "codeforjapan_fellow"
+node_id = "MDEwOlJlcG9zaXRvcnkzNTk1MDk1MDQ="
+open_issues_within = 0
+private = false
+pushed_within = "week"
+stargazers_within = 0
+topics = [ ]
+updated_within = "week"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 5_137_738
+  login = "codeforjapan"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjUxMzc3Mzg="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
