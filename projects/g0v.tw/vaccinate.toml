@@ -1,0 +1,45 @@
+code_url = "https://github.com/g0v/vaccinate"
+git_url = "git://github.com/g0v/vaccinate.git"
+name = "vaccinate"
+organization_name = "g0v.tw"
+
+[github]
+archived = false
+created_at = "2021-04-19T11:16:47Z"
+default_branch = "main"
+description = { }
+disabled = false
+fork = false
+forks_within = 0
+full_name = "g0v/vaccinate"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 359_431_426
+language = "HTML"
+license = { }
+name = "vaccinate"
+node_id = "MDEwOlJlcG9zaXRvcnkzNTk0MzE0MjY="
+open_issues_within = 0
+private = false
+pushed_within = "week"
+stargazers_within = 0
+topics = [ ]
+updated_within = "week"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_668_086
+  login = "g0v"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI2NjgwODY="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
