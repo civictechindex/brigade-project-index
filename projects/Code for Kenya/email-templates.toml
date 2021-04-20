@@ -1,0 +1,46 @@
+code_url = "https://github.com/CodeForAfrica/email-templates"
+description = "Templates for emails that CivicSignal sends."
+git_url = "git://github.com/CodeForAfrica/email-templates.git"
+name = "email-templates"
+organization_name = "Code for Kenya"
+
+[github]
+archived = false
+created_at = "2021-04-20T12:15:34Z"
+default_branch = "master"
+description = "Templates for emails that CivicSignal sends."
+disabled = false
+fork = true
+forks_within = 0
+full_name = "CodeForAfrica/email-templates"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = false
+homepage = ""
+id = 359_803_846
+language = { }
+license = { }
+name = "email-templates"
+node_id = "MDEwOlJlcG9zaXRvcnkzNTk4MDM4NDY="
+open_issues_within = 0
+private = false
+pushed_within = "year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "week"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_786_364
+  login = "CodeForAfrica"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI3ODYzNjQ="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
