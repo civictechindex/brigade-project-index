@@ -32,7 +32,7 @@ name = "local-govt-reporter"
 node_id = "MDEwOlJlcG9zaXRvcnkyNTQ2OTMwMzM="
 open_issues_within = 0
 private = false
-pushed_within = "week"
+pushed_within = "month"
 stargazers_within = 10
 topics = [
   "code-for-america",
@@ -40,7 +40,7 @@ topics = [
   "journalism",
   "local-government"
 ]
-updated_within = "week"
+updated_within = "month"
 watchers_within = 10
 
   [github.owner]
