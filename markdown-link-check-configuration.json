@@ -2,9 +2,6 @@
   "ignorePatterns": [
     {
       "pattern": "brigade-project-index/settings/secrets"
-    },
-    {
-      "pattern": "^https://github.com/codefornola$"
     }
   ]
 }
