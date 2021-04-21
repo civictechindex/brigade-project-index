@@ -21,7 +21,7 @@ id = 11_256_638
 language = "JavaScript"
 license = { }
 name = "bikeshare"
-network_count = 30
+network_count = 29
 node_id = "MDEwOlJlcG9zaXRvcnkxMTI1NjYzOA=="
 open_issues_within = 10
 private = false
@@ -30,7 +30,7 @@ stargazers_within = 1_000
 subscribers_count = 147
 temp_clone_token = ""
 topics = [ ]
-updated_within = "month"
+updated_within = "week"
 watchers_within = 1_000
 
   [github.organization]
