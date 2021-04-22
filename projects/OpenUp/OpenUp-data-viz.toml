@@ -1,6 +1,7 @@
 code_url = "https://github.com/OpenUpSA/OpenUp-data-viz"
 description = "OpenUp Data Visualisations"
 git_url = "git://github.com/OpenUpSA/OpenUp-data-viz.git"
+link_url = "https://viz.openup.org.za/"
 name = "OpenUp-data-viz"
 organization_name = "OpenUp"
 
@@ -18,7 +19,7 @@ has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = true
-homepage = { }
+homepage = "https://viz.openup.org.za/"
 id = 351_343_273
 language = "CSS"
 name = "OpenUp-data-viz"
