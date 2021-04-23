@@ -1,0 +1,51 @@
+code_url = "https://github.com/CodeForAfrica/actNOW"
+description = "A public engagement toolkit that enables a media house or civil society organisation to easily set up channels for engagement."
+git_url = "git://github.com/CodeForAfrica/actNOW.git"
+name = "actNOW"
+organization_name = "Code for Nigeria"
+
+[github]
+archived = false
+created_at = "2021-04-19T13:49:31Z"
+default_branch = "main"
+description = "A public engagement toolkit that enables a media house or civil society organisation to easily set up channels for engagement."
+disabled = false
+fork = false
+forks_within = 0
+full_name = "CodeForAfrica/actNOW"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = false
+has_wiki = false
+homepage = { }
+id = 359_476_267
+language = "Python"
+name = "actNOW"
+node_id = "MDEwOlJlcG9zaXRvcnkzNTk0NzYyNjc="
+open_issues_within = 0
+private = false
+pushed_within = "week"
+stargazers_within = 0
+topics = [ ]
+updated_within = "week"
+watchers_within = 0
+
+  [github.license]
+  key = "gpl-3.0"
+  name = "GNU General Public License v3.0"
+  node_id = "MDc6TGljZW5zZTk="
+  spdx_id = "GPL-3.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_786_364
+  login = "CodeForAfrica"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI3ODYzNjQ="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
