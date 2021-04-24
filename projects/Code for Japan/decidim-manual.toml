@@ -1,5 +1,6 @@
 code_url = "https://github.com/codeforjapan/decidim-manual"
 git_url = "git://github.com/codeforjapan/decidim-manual.git"
+link_url = "decidim-manual.vercel.app"
 name = "decidim-manual"
 organization_name = "Code for Japan"
 
@@ -17,7 +18,7 @@ has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = true
-homepage = { }
+homepage = "decidim-manual.vercel.app"
 id = 361_074_481
 language = "TypeScript"
 name = "decidim-manual"
