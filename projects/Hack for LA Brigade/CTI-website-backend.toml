@@ -33,7 +33,7 @@ name = "CTI-website-backend"
 node_id = "MDEwOlJlcG9zaXRvcnkyNzUyOTY0Mzk="
 open_issues_within = 10
 private = false
-pushed_within = "week"
+pushed_within = "month"
 score = 1
 stargazers_within = 10
 topics = [
@@ -44,7 +44,7 @@ topics = [
   "hack-for-la",
   "open-source"
 ]
-updated_within = "week"
+updated_within = "month"
 watchers_within = 10
 
   [github.license]
