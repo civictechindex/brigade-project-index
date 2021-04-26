@@ -29,7 +29,7 @@ stargazers_within = 100
 subscribers_count = 20
 temp_clone_token = ""
 topics = [ "checkbook-nyc", "comptroller-nyc-gov" ]
-updated_within = "month"
+updated_within = "week"
 watchers_within = 100
 
   [github.license]
