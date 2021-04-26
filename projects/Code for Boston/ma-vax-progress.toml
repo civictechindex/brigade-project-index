@@ -19,15 +19,15 @@ has_projects = true
 has_wiki = true
 homepage = { }
 id = 348_461_593
-language = { }
+language = "JavaScript"
 name = "ma-vax-progress"
 node_id = "MDEwOlJlcG9zaXRvcnkzNDg0NjE1OTM="
 open_issues_within = 0
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
-updated_within = "year"
+updated_within = "week"
 watchers_within = 10
 
   [github.license]
