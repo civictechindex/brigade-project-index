@@ -10,7 +10,7 @@ default_branch = "master"
 description = { }
 disabled = false
 fork = false
-forks_within = 0
+forks_within = 10
 full_name = "code4romania/cms-deployment-test"
 has_downloads = true
 has_issues = true
@@ -25,7 +25,7 @@ name = "cms-deployment-test"
 node_id = "MDEwOlJlcG9zaXRvcnkyNjMzNjgxNjA="
 open_issues_within = 10
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 0
 topics = [ ]
 updated_within = "year"
