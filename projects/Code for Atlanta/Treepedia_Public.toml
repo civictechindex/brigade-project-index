@@ -1,0 +1,51 @@
+code_url = "https://github.com/codeforatlanta/Treepedia_Public"
+description = "Treepedia package for public use"
+git_url = "git://github.com/codeforatlanta/Treepedia_Public.git"
+name = "Treepedia_Public"
+organization_name = "Code for Atlanta"
+
+[github]
+archived = false
+created_at = "2021-04-27T23:58:13Z"
+default_branch = "master"
+description = "Treepedia package for public use"
+disabled = false
+fork = true
+forks_within = 10
+full_name = "codeforatlanta/Treepedia_Public"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 362_284_738
+language = "Python"
+name = "Treepedia_Public"
+node_id = "MDEwOlJlcG9zaXRvcnkzNjIyODQ3Mzg="
+open_issues_within = 0
+private = false
+pushed_within = "week"
+stargazers_within = 0
+topics = [ ]
+updated_within = "week"
+watchers_within = 0
+
+  [github.license]
+  key = "bsd-2-clause"
+  name = 'BSD 2-Clause "Simplified" License'
+  node_id = "MDc6TGljZW5zZTQ="
+  spdx_id = "BSD-2-Clause"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 5_956_025
+  login = "codeforatlanta"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjU5NTYwMjU="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
