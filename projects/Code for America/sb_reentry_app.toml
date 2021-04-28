@@ -1,9 +1,16 @@
 code_url = "https://github.com/codeforamerica/sb_reentry_app"
 description = "Santa Barbara Reentry Project / Thrive SBC -- part of the 2020 - 2021 CFA Community Fellowship"
 git_url = "git://github.com/codeforamerica/sb_reentry_app.git"
-link_url = "https://santabarbarareentry.netlify.app/"
+link_url = "https://www.thrivesbc.com/"
 name = "sb_reentry_app"
 organization_name = "Code for America"
+topics = [
+  "civic-tech",
+  "directory",
+  "nextjs",
+  "react",
+  "santa-barbara"
+]
 
 [github]
 archived = false
@@ -19,17 +26,23 @@ has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = true
-homepage = "https://santabarbarareentry.netlify.app/"
+homepage = "https://www.thrivesbc.com/"
 id = 304_457_617
 language = "TypeScript"
 license = { }
 name = "sb_reentry_app"
 node_id = "MDEwOlJlcG9zaXRvcnkzMDQ0NTc2MTc="
-open_issues_within = 10
+open_issues_within = 0
 private = false
 pushed_within = "week"
 stargazers_within = 10
-topics = [ ]
+topics = [
+  "civic-tech",
+  "directory",
+  "nextjs",
+  "react",
+  "santa-barbara"
+]
 updated_within = "week"
 watchers_within = 10
 
