@@ -26,7 +26,7 @@ license = { }
 name = "RecordLib"
 network_count = 7
 node_id = "MDEwOlJlcG9zaXRvcnkxOTE5NzMwMDg="
-open_issues_within = 100
+open_issues_within = 10
 private = false
 pushed_within = "week"
 stargazers_within = 10
