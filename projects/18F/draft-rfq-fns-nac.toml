@@ -1,40 +1,36 @@
-code_url = "https://github.com/18F/identity-give-usps"
-git_url = "git://github.com/18F/identity-give-usps.git"
-name = "identity-give-usps"
+code_url = "https://github.com/18F/draft-rfq-fns-nac"
+description = "Draft RFQ for the FNS NAC"
+git_url = "git://github.com/18F/draft-rfq-fns-nac.git"
+name = "draft-rfq-fns-nac"
 organization_name = "18F"
 
 [github]
 archived = false
-created_at = "2020-08-26T20:42:48Z"
+created_at = "2021-04-27T22:20:06Z"
 default_branch = "main"
-description = { }
+description = "Draft RFQ for the FNS NAC"
 disabled = false
 fork = false
-forks_within = 10
-full_name = "18F/identity-give-usps"
+forks_within = 0
+full_name = "18F/draft-rfq-fns-nac"
 has_downloads = true
 has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = true
 homepage = { }
-id = 290_600_481
-language = "Python"
-name = "identity-give-usps"
-node_id = "MDEwOlJlcG9zaXRvcnkyOTA2MDA0ODE="
-open_issues_within = 10
+id = 362_266_669
+language = { }
+license = { }
+name = "draft-rfq-fns-nac"
+node_id = "MDEwOlJlcG9zaXRvcnkzNjIyNjY2Njk="
+open_issues_within = 0
 private = false
 pushed_within = "week"
 stargazers_within = 0
 topics = [ ]
 updated_within = "week"
 watchers_within = 0
-
-  [github.license]
-  key = "other"
-  name = "Other"
-  node_id = "MDc6TGljZW5zZTA="
-  spdx_id = "NOASSERTION"
 
   [github.owner]
   gravatar_id = ""
