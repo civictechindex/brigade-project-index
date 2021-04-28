@@ -26,12 +26,12 @@ language = "Vue"
 license = { }
 name = "CivictechCC-Website"
 node_id = "MDEwOlJlcG9zaXRvcnkyNzc0ODc2NDM="
-open_issues_within = 10
+open_issues_within = 0
 private = false
 pushed_within = "week"
 stargazers_within = 10
 topics = [ "civic-tech", "civictech", "code-for-japan", "nuxtjs" ]
-updated_within = "month"
+updated_within = "week"
 watchers_within = 10
 
   [github.owner]
