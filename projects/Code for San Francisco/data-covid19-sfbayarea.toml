@@ -26,10 +26,10 @@ name = "data-covid19-sfbayarea"
 node_id = "MDEwOlJlcG9zaXRvcnkyNDg4OTMwMzU="
 open_issues_within = 100
 private = false
-pushed_within = "week"
+pushed_within = "month"
 stargazers_within = 10
 topics = [ "covid-19", "data", "python", "web-scraping" ]
-updated_within = "week"
+updated_within = "month"
 watchers_within = 10
 
   [github.license]
