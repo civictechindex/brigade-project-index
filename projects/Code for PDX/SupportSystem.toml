@@ -1,7 +1,7 @@
-code_url = "https://github.com/codeforpdx/stealthhealth"
+code_url = "https://github.com/codeforpdx/SupportSystem"
 description = "coming soon... "
-git_url = "git://github.com/codeforpdx/stealthhealth.git"
-name = "stealthhealth"
+git_url = "git://github.com/codeforpdx/SupportSystem.git"
+name = "SupportSystem"
 organization_name = "Code for PDX"
 
 [github]
@@ -12,7 +12,7 @@ description = "coming soon... "
 disabled = false
 fork = false
 forks_within = 0
-full_name = "codeforpdx/stealthhealth"
+full_name = "codeforpdx/SupportSystem"
 has_downloads = true
 has_issues = true
 has_pages = false
@@ -21,7 +21,7 @@ has_wiki = true
 homepage = ""
 id = 345_854_611
 language = "Ruby"
-name = "stealthhealth"
+name = "SupportSystem"
 node_id = "MDEwOlJlcG9zaXRvcnkzNDU4NTQ2MTE="
 open_issues_within = 0
 private = false
