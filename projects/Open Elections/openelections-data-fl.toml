@@ -11,7 +11,7 @@ default_branch = "master"
 description = "Converted CSV files of precinct-level election results"
 disabled = false
 fork = false
-forks_within = 0
+forks_within = 10
 full_name = "openelections/openelections-data-fl"
 has_downloads = true
 has_issues = true
@@ -26,10 +26,10 @@ name = "openelections-data-fl"
 node_id = "MDEwOlJlcG9zaXRvcnkyMjQwMDI5NDU="
 open_issues_within = 10
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
-updated_within = "year"
+updated_within = "week"
 watchers_within = 10
 
   [github.owner]
