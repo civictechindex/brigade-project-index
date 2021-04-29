@@ -19,15 +19,15 @@ has_projects = true
 has_wiki = true
 homepage = { }
 id = 347_330_850
-language = { }
+language = "Ruby"
 name = "amis-webdb"
 node_id = "MDEwOlJlcG9zaXRvcnkzNDczMzA4NTA="
 open_issues_within = 0
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 0
 topics = [ ]
-updated_within = "year"
+updated_within = "week"
 watchers_within = 0
 
   [github.license]
