@@ -1,5 +1,7 @@
 code_url = "https://github.com/g0v/vaccinate"
+description = "vaxx.tw is a tool to find COVID-19 Vaccine Appointments near you"
 git_url = "git://github.com/g0v/vaccinate.git"
+link_url = "http://vaxx.tw"
 name = "vaccinate"
 organization_name = "g0v.tw"
 
@@ -7,7 +9,7 @@ organization_name = "g0v.tw"
 archived = false
 created_at = "2021-04-19T11:16:47Z"
 default_branch = "master"
-description = { }
+description = "vaxx.tw is a tool to find COVID-19 Vaccine Appointments near you"
 disabled = false
 fork = false
 forks_within = 0
@@ -17,7 +19,7 @@ has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = true
-homepage = { }
+homepage = "http://vaxx.tw"
 id = 359_431_426
 language = "Python"
 license = { }
