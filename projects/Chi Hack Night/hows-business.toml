@@ -24,12 +24,12 @@ network_count = 16
 node_id = "MDEwOlJlcG9zaXRvcnk1MTI3OTA4"
 open_issues_within = 10
 private = false
-pushed_within = "year"
+pushed_within = "over_a_year"
 stargazers_within = 100
 subscribers_count = 9
 temp_clone_token = ""
 topics = [ ]
-updated_within = "year"
+updated_within = "over_a_year"
 watchers_within = 100
 
   [github.license]
