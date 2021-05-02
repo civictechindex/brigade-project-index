@@ -12,7 +12,7 @@ default_branch = "master"
 description = "vaxx.tw is a tool to find COVID-19 Vaccine Appointments near you"
 disabled = false
 fork = false
-forks_within = 0
+forks_within = 10
 full_name = "g0v/vaccinate"
 has_downloads = true
 has_issues = true
@@ -25,7 +25,7 @@ language = "Python"
 license = { }
 name = "vaccinate"
 node_id = "MDEwOlJlcG9zaXRvcnkzNTk0MzE0MjY="
-open_issues_within = 0
+open_issues_within = 10
 private = false
 pushed_within = "week"
 stargazers_within = 10
