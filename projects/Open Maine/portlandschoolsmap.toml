@@ -28,10 +28,10 @@ name = "portlandschoolsmap"
 node_id = "MDEwOlJlcG9zaXRvcnkyNjA3MzAzOTg="
 open_issues_within = 10
 private = false
-pushed_within = "year"
+pushed_within = "over_a_year"
 stargazers_within = 0
 topics = [ "covid-19" ]
-updated_within = "year"
+updated_within = "over_a_year"
 watchers_within = 0
 
   [github.owner]
