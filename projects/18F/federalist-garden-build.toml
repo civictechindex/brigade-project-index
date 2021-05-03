@@ -24,12 +24,12 @@ id = 43_935_410
 language = "Python"
 name = "federalist-garden-build"
 node_id = "MDEwOlJlcG9zaXRvcnk0MzkzNTQxMA=="
-open_issues_within = 100
+open_issues_within = 10
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 100
 topics = [ "federalist", "federalist-core" ]
-updated_within = "month"
+updated_within = "week"
 watchers_within = 100
 
   [github.license]
