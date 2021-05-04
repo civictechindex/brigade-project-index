@@ -30,12 +30,12 @@ stargazers_within = 100
 subscribers_count = 18
 temp_clone_token = ""
 topics = [
-  "air-pollution",
   "air-quality",
+  "air-pollution",
   "code-for-america",
   "environmental-justice",
-  "openoakland",
-  "west-oakland"
+  "west-oakland",
+  "openoakland"
 ]
 updated_within = "week"
 watchers_within = 100
