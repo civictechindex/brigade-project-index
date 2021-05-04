@@ -29,11 +29,11 @@ stargazers_within = 1_000
 subscribers_count = 21
 temp_clone_token = ""
 topics = [
-  "bike-routes",
-  "chicago",
-  "geojson-data",
   "government",
-  "open-data"
+  "geojson-data",
+  "open-data",
+  "chicago",
+  "bike-routes"
 ]
 updated_within = "year"
 watchers_within = 1_000
