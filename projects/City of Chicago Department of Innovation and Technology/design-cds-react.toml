@@ -1,0 +1,45 @@
+code_url = "https://github.com/Chicago/design-cds-react"
+git_url = "git://github.com/Chicago/design-cds-react.git"
+name = "design-cds-react"
+organization_name = "City of Chicago Department of Innovation and Technology"
+
+[github]
+archived = false
+created_at = "2021-05-04T14:17:59Z"
+default_branch = "main"
+description = { }
+disabled = false
+fork = false
+forks_within = 0
+full_name = "Chicago/design-cds-react"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 364_280_238
+language = { }
+license = { }
+name = "design-cds-react"
+node_id = "MDEwOlJlcG9zaXRvcnkzNjQyODAyMzg="
+open_issues_within = 0
+private = false
+pushed_within = "week"
+stargazers_within = 0
+topics = [ ]
+updated_within = "week"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 838_189
+  login = "Chicago"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjgzODE4OQ=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
