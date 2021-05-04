@@ -34,10 +34,10 @@ subscribers_count = 4
 temp_clone_token = ""
 topics = [
   "civic",
-  "civic-apps",
-  "civic-hacking",
-  "pennsylvania",
   "philadelphia",
+  "civic-hacking",
+  "civic-apps",
+  "pennsylvania",
   "philadelphia-traffic-court"
 ]
 updated_within = "year"

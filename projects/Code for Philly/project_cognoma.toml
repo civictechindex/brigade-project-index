@@ -32,14 +32,14 @@ stargazers_within = 100
 subscribers_count = 46
 temp_clone_token = ""
 topics = [
-  "cancer",
-  "codeforphilly",
-  "cognoma",
-  "dataphilly",
-  "greenelab",
   "meetup",
+  "cancer",
   "philadelphia",
-  "tcga"
+  "tcga",
+  "dataphilly",
+  "codeforphilly",
+  "greenelab",
+  "cognoma"
 ]
 updated_within = "year"
 watchers_within = 100
