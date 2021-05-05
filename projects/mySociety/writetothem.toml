@@ -35,7 +35,7 @@ name = "writetothem"
 node_id = "MDEwOlJlcG9zaXRvcnk0Nzg4MDQ="
 open_issues_within = 1_000
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 100
 topics = [
   "civictech",
@@ -46,7 +46,7 @@ topics = [
   "php",
   "representatives"
 ]
-updated_within = "year"
+updated_within = "week"
 watchers_within = 100
 
   [github.license]
