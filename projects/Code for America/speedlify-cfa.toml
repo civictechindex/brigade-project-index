@@ -1,0 +1,50 @@
+code_url = "https://github.com/codeforamerica/speedlify-cfa"
+git_url = "git://github.com/codeforamerica/speedlify-cfa.git"
+name = "speedlify-cfa"
+organization_name = "Code for America"
+
+[github]
+archived = false
+created_at = "2020-09-25T10:15:52Z"
+default_branch = "live"
+description = { }
+disabled = false
+fork = false
+forks_within = 0
+full_name = "codeforamerica/speedlify-cfa"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 298_538_497
+language = "JavaScript"
+name = "speedlify-cfa"
+node_id = "MDEwOlJlcG9zaXRvcnkyOTg1Mzg0OTc="
+open_issues_within = 0
+private = false
+pushed_within = "year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "week"
+watchers_within = 0
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 337_792
+  login = "codeforamerica"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjMzNzc5Mg=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
