@@ -1,0 +1,45 @@
+code_url = "https://github.com/g0v/aray"
+git_url = "git://github.com/g0v/aray.git"
+name = "aray"
+organization_name = "g0v.tw"
+
+[github]
+archived = false
+created_at = "2021-05-05T00:00:54Z"
+default_branch = "develop"
+description = { }
+disabled = false
+fork = false
+forks_within = 0
+full_name = "g0v/aray"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 364_417_543
+language = { }
+license = { }
+name = "aray"
+node_id = "MDEwOlJlcG9zaXRvcnkzNjQ0MTc1NDM="
+open_issues_within = 0
+private = false
+pushed_within = "week"
+stargazers_within = 0
+topics = [ ]
+updated_within = "week"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_668_086
+  login = "g0v"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI2NjgwODY="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
