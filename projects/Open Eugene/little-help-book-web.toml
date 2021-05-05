@@ -45,7 +45,7 @@ topics = [
   "social-services",
   "social-workers"
 ]
-updated_within = "month"
+updated_within = "year"
 watchers_within = 10
 
   [github.license]
