@@ -1,35 +1,34 @@
-code_url = "https://github.com/18F/identity-idp"
-description = "Login.gov Core App: Identity Provider (IdP)"
-git_url = "git://github.com/18F/identity-idp.git"
-link_url = "https://secure.login.gov/"
-name = "identity-idp"
+code_url = "https://github.com/18F/laptop"
+description = "DEPRECATED: A shell script which turns your Mac into an awesome web development machine."
+git_url = "git://github.com/18F/laptop.git"
+link_url = "https://github.com/18F/handbook/pull/2186"
+name = "laptop"
 organization_name = "18F"
-topics = [ "idp", "login-gov" ]
 
 [github]
 archived = false
-created_at = "2016-01-25T22:40:59Z"
-default_branch = "main"
-description = "Login.gov Core App: Identity Provider (IdP)"
+created_at = "2015-02-27T21:23:51Z"
+default_branch = "master"
+description = "DEPRECATED: A shell script which turns your Mac into an awesome web development machine."
 disabled = false
 fork = false
 forks_within = 100
-full_name = "18F/identity-idp"
+full_name = "18F/laptop"
 has_downloads = true
 has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = true
-homepage = "https://secure.login.gov/"
-id = 50_386_243
-language = "Ruby"
-name = "identity-idp"
-node_id = "MDEwOlJlcG9zaXRvcnk1MDM4NjI0Mw=="
-open_issues_within = 100
+homepage = "https://github.com/18F/handbook/pull/2186"
+id = 31_439_762
+language = "Shell"
+name = "laptop"
+node_id = "MDEwOlJlcG9zaXRvcnkzMTQzOTc2Mg=="
+open_issues_within = 10
 private = false
 pushed_within = "week"
 stargazers_within = 1_000
-topics = [ "idp", "login-gov" ]
+topics = [ ]
 updated_within = "week"
 watchers_within = 1_000
 
