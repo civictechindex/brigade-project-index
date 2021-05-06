@@ -1,6 +1,7 @@
 code_url = "https://github.com/OpenUpSA/muni-portal-frontend"
 description = "Frontend to the Cape Agulhas Municipality app"
 git_url = "git://github.com/OpenUpSA/muni-portal-frontend.git"
+link_url = "https://app.capeagulhas.org.za"
 name = "muni-portal-frontend"
 organization_name = "OpenUp"
 
@@ -18,7 +19,7 @@ has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = true
-homepage = { }
+homepage = "https://app.capeagulhas.org.za"
 id = 287_331_349
 language = "JavaScript"
 name = "muni-portal-frontend"
@@ -28,7 +29,7 @@ private = false
 pushed_within = "week"
 stargazers_within = 0
 topics = [ ]
-updated_within = "month"
+updated_within = "week"
 watchers_within = 0
 
   [github.license]
