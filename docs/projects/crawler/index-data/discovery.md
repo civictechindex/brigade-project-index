@@ -60,7 +60,7 @@ graph TD
 
 ## Examples
 
-See [Contributing / Get your organization indexed](contributing/get-indexed.md) for a complete walkthrough on how to get your organization indexed.
+See [Contributing / Get your organization indexed](../contributing/get-indexed.md) for a complete walkthrough on how to get your organization indexed.
 
 ### GitHub organization
 
@@ -98,7 +98,7 @@ Chi Hack Night's official project list is a [JSON file](https://raw.github.com/o
 
 ```json
 {
-    "projects_list_url": "https://raw.github.com/open-city/civic-json-files/master/projects.json",
+    "projects_list_url": "https://raw.github.com/open-city/civic-json-files/master/projects.json"
 }
 ```
 

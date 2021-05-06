@@ -14,9 +14,8 @@ and thus they include tags referring to locations and technologies employed.
 - Contacts: Melanie Mazanec
 - Status: The current system is available and doesn’t have major known issues
 - Project needs: The project is looking for ReactJS developers
-- How to collaborate: [Join Us](../#participate)
+- How to collaborate: [Join Us](../join-us.md#how-to-participate)
 - Github: [https://github.com/codeforamerica/brigade-project-index-statusboard](https://github.com/codeforamerica/brigade-project-index-statusboard)
-
 
 ## More about the Index and the Statusboard
 
@@ -25,4 +24,5 @@ The index is the dataset we suck everything into.  The statusboard is a tool for
 The reason for this layered approach was that we wanted to focus on collecting really quality data that could be distributed across the network for a variety of tools and uses.  This way, there's a much stronger value prop for brigades to publish their projects into the index--it doesn't just feed one tool/site we're building, but a whole ecosystem of brigade network tools that anyone can add to. There are a couple other tools out there using the index in addition to the statusboard.
 
 ## Next enhancements
+
 This user interface will include the [Civic Tech Taxonomy](civic-tech-taxonomy.md) to guide the users in their project search.
