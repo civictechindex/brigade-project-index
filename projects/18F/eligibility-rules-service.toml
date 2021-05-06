@@ -25,7 +25,7 @@ name = "eligibility-rules-service"
 node_id = "MDEwOlJlcG9zaXRvcnkxMTM4ODY2NTY="
 open_issues_within = 100
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 100
 topics = [ ]
 updated_within = "month"
