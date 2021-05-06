@@ -1,0 +1,46 @@
+code_url = "https://github.com/g0v/court-placer"
+description = "地方法院管轄範圍結構化資料"
+git_url = "git://github.com/g0v/court-placer.git"
+name = "court-placer"
+organization_name = "g0v.tw"
+
+[github]
+archived = false
+created_at = "2021-05-06T12:18:16Z"
+default_branch = "main"
+description = "地方法院管轄範圍結構化資料"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "g0v/court-placer"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 364_899_778
+language = "Python"
+license = { }
+name = "court-placer"
+node_id = "MDEwOlJlcG9zaXRvcnkzNjQ4OTk3Nzg="
+open_issues_within = 0
+private = false
+pushed_within = "week"
+stargazers_within = 0
+topics = [ ]
+updated_within = "week"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_668_086
+  login = "g0v"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI2NjgwODY="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
