@@ -1,0 +1,51 @@
+code_url = "https://github.com/OpenUpSA/case-management-portal"
+description = "A reporting dashboard and admin web application for the OSF Case Management project"
+git_url = "git://github.com/OpenUpSA/case-management-portal.git"
+name = "case-management-portal"
+organization_name = "OpenUp"
+
+[github]
+archived = false
+created_at = "2021-05-06T09:41:02Z"
+default_branch = "main"
+description = "A reporting dashboard and admin web application for the OSF Case Management project"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "OpenUpSA/case-management-portal"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 364_859_227
+language = { }
+name = "case-management-portal"
+node_id = "MDEwOlJlcG9zaXRvcnkzNjQ4NTkyMjc="
+open_issues_within = 0
+private = false
+pushed_within = "week"
+stargazers_within = 0
+topics = [ ]
+updated_within = "week"
+watchers_within = 0
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 26_482_663
+  login = "OpenUpSA"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI2NDgyNjYz"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
