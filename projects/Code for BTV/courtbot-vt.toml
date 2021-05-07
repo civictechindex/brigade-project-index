@@ -20,7 +20,7 @@ has_projects = true
 has_wiki = true
 homepage = { }
 id = 320_427_262
-language = "Python"
+language = "HTML"
 name = "courtbot-vt"
 node_id = "MDEwOlJlcG9zaXRvcnkzMjA0MjcyNjI="
 open_issues_within = 10
@@ -28,7 +28,7 @@ private = false
 pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
-updated_within = "year"
+updated_within = "week"
 watchers_within = 10
 
   [github.license]
