@@ -27,10 +27,10 @@ name = "open-data"
 node_id = "MDEwOlJlcG9zaXRvcnkxNzM0NzM1Mg=="
 open_issues_within = 100
 private = false
-pushed_within = "week"
+pushed_within = "month"
 stargazers_within = 10
 topics = [ "datasets", "opendata", "open-data", "open-datasets" ]
-updated_within = "week"
+updated_within = "month"
 watchers_within = 10
 
   [github.license]
