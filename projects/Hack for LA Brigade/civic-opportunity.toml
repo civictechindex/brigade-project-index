@@ -36,7 +36,7 @@ name = "civic-opportunity"
 node_id = "MDEwOlJlcG9zaXRvcnkyNzM3NDY0NDg="
 open_issues_within = 100
 private = false
-pushed_within = "week"
+pushed_within = "month"
 score = 1
 stargazers_within = 10
 topics = [
@@ -49,7 +49,7 @@ topics = [
   "volunteer-management",
   "workforce-development"
 ]
-updated_within = "week"
+updated_within = "month"
 watchers_within = 10
 
   [github.owner]
