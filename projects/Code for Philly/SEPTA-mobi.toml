@@ -6,5 +6,57 @@ organization_name = "Code for Philly"
 status = "Maintaining"
 topics = [ "Transit" ]
 
+[github]
+archived = false
+created_at = "2013-09-17T21:37:02Z"
+default_branch = "master"
+description = { }
+disabled = false
+fork = false
+forks_within = 10
+full_name = "JarvusInnovations/SeptaMobi"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 12_907_467
+language = "JavaScript"
+license = { }
+name = "SeptaMobi"
+network_count = 1
+node_id = "MDEwOlJlcG9zaXRvcnkxMjkwNzQ2Nw=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+subscribers_count = 8
+temp_clone_token = ""
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.organization]
+  gravatar_id = ""
+  id = 609_450
+  login = "JarvusInnovations"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjYwOTQ1MA=="
+  site_admin = false
+  type = "Organization"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 609_450
+  login = "JarvusInnovations"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjYwOTQ1MA=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
+
 [projects_list_extra]
 title = "SEPTA.mobi"

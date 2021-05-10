@@ -5,5 +5,49 @@ name = "Mobile_pollution_and_heat_island_data_collection_and_mapping"
 organization_name = "Code for Philly"
 status = "Commenting"
 
+[github]
+archived = false
+created_at = "2013-09-22T01:57:35Z"
+default_branch = "master"
+description = "Mobile pollution and heat island data collection and mapping"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "pekasus/CAC-open-climate-tracker"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 13_005_907
+language = "Arduino"
+license = { }
+name = "CAC-open-climate-tracker"
+network_count = 5
+node_id = "MDEwOlJlcG9zaXRvcnkxMzAwNTkwNw=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 100
+subscribers_count = 13
+temp_clone_token = ""
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 100
+
+  [github.owner]
+  gravatar_id = ""
+  id = 4_648_964
+  login = "pekasus"
+  node_id = "MDQ6VXNlcjQ2NDg5NjQ="
+  site_admin = false
+  type = "User"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
+
 [projects_list_extra]
 title = "Clean Air Council's Open Climate Tracker"

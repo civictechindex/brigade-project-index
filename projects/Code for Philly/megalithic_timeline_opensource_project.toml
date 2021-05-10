@@ -6,6 +6,55 @@ organization_name = "Code for Philly"
 status = "Prototyping"
 topics = [ "Education", "history", "Megalithic", "science", "Timeline" ]
 
+[github]
+archived = false
+created_at = "2016-12-09T21:33:58Z"
+default_branch = "master"
+description = "Visually Graphing the Chronology Human Made Megalithic Structure Thought History"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "AddictiveScience/megalithicTimeline"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 76_071_879
+language = "Scala"
+name = "megalithicTimeline"
+network_count = 1
+node_id = "MDEwOlJlcG9zaXRvcnk3NjA3MTg3OQ=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+subscribers_count = 6
+temp_clone_token = ""
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_504_121
+  login = "AddictiveScience"
+  node_id = "MDQ6VXNlcjY1MDQxMjE="
+  site_admin = false
+  type = "User"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
+
 [projects_list_extra]
 chat_channel = "Megalithic_Timeline_Science_History"
 title = "Megalithic Timeline OpenSource Project"
