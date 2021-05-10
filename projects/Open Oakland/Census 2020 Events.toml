@@ -2,3 +2,62 @@ code_url = "https://github.com/openoakland/dos-census-events"
 description = "Help the Alameda County Complete Count Committee collect and publish events and resources for the 2020 census"
 name = "Census 2020 Events"
 organization_name = "Open Oakland"
+
+[github]
+archived = false
+created_at = "2019-05-11T18:57:04Z"
+default_branch = "master"
+description = "Day of Service project to collect and publish events and resources for the 2020 census"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "openoakland/dos-census-events"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 186_171_020
+language = "CSS"
+license = { }
+name = "dos-census-events"
+network_count = 5
+node_id = "MDEwOlJlcG9zaXRvcnkxODYxNzEwMjA="
+open_issues_within = 100
+private = false
+pushed_within = "month"
+stargazers_within = 10
+subscribers_count = 11
+temp_clone_token = ""
+topics = [
+  "google-calendar",
+  "census",
+  "code-for-america",
+  "openoakland",
+  "census-events",
+  "complete-count-committee"
+]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.organization]
+  gravatar_id = ""
+  id = 2_238_933
+  login = "openoakland"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjIyMzg5MzM="
+  site_admin = false
+  type = "Organization"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_238_933
+  login = "openoakland"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjIyMzg5MzM="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
