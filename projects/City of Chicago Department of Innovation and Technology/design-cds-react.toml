@@ -19,16 +19,16 @@ has_projects = true
 has_wiki = true
 homepage = { }
 id = 364_280_238
-language = { }
+language = "JavaScript"
 license = { }
 name = "design-cds-react"
 node_id = "MDEwOlJlcG9zaXRvcnkzNjQyODAyMzg="
 open_issues_within = 0
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 0
 topics = [ ]
-updated_within = "month"
+updated_within = "week"
 watchers_within = 0
 
   [github.owner]
