@@ -1,7 +1,7 @@
 code_url = "https://github.com/OpenTwinCities/opentwincities.github.com"
 description = "Main website for the Open Twin Cities group"
 git_url = "git://github.com/OpenTwinCities/opentwincities.github.com.git"
-link_url = "http://opentwincities.github.com/"
+link_url = "https://www.opentwincities.org/"
 name = "opentwincities.github.com"
 organization_name = "Open Twin Cities"
 topics = [ "hacktoberfest" ]
@@ -20,7 +20,7 @@ has_issues = true
 has_pages = true
 has_projects = true
 has_wiki = true
-homepage = "http://opentwincities.github.com/"
+homepage = "https://www.opentwincities.org/"
 id = 6_616_824
 language = "JavaScript"
 license = { }
@@ -31,7 +31,7 @@ private = false
 pushed_within = "month"
 stargazers_within = 100
 topics = [ "hacktoberfest" ]
-updated_within = "month"
+updated_within = "week"
 watchers_within = 100
 
   [github.owner]
