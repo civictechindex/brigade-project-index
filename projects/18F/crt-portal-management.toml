@@ -1,7 +1,7 @@
-code_url = "https://github.com/18F/crt-portal"
+code_url = "https://github.com/18F/crt-portal-management"
 description = "Using this repo for issues, code is at usdoj/crt-portal"
-git_url = "git://github.com/18F/crt-portal.git"
-name = "crt-portal"
+git_url = "git://github.com/18F/crt-portal-management.git"
+name = "crt-portal-management"
 organization_name = "18F"
 
 [github]
@@ -12,7 +12,7 @@ description = "Using this repo for issues, code is at usdoj/crt-portal"
 disabled = false
 fork = false
 forks_within = 10
-full_name = "18F/crt-portal"
+full_name = "18F/crt-portal-management"
 has_downloads = true
 has_issues = true
 has_pages = false
@@ -22,14 +22,14 @@ homepage = ""
 id = 183_258_764
 language = "CSS"
 license = { }
-name = "crt-portal"
+name = "crt-portal-management"
 node_id = "MDEwOlJlcG9zaXRvcnkxODMyNTg3NjQ="
 open_issues_within = 1_000
 private = false
 pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
-updated_within = "month"
+updated_within = "week"
 watchers_within = 10
 
   [github.owner]
