@@ -24,12 +24,12 @@ id = 44_828_292
 language = "JavaScript"
 name = "federalist-builder"
 node_id = "MDEwOlJlcG9zaXRvcnk0NDgyODI5Mg=="
-open_issues_within = 100
+open_issues_within = 10
 private = false
 pushed_within = "week"
 stargazers_within = 10
 topics = [ "federalist" ]
-updated_within = "month"
+updated_within = "week"
 watchers_within = 10
 
   [github.license]
