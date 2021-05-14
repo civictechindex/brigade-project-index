@@ -8,7 +8,7 @@ topics = [ "bot", "bot-responses", "charlie" ]
 [github]
 archived = false
 created_at = "2018-12-27T22:40:01Z"
-default_branch = "master"
+default_branch = "main"
 description = "Lists of facts used by 18F bot"
 disabled = false
 fork = false
@@ -24,7 +24,7 @@ id = 163_341_988
 language = "JavaScript"
 name = "18f-bot-facts"
 node_id = "MDEwOlJlcG9zaXRvcnkxNjMzNDE5ODg="
-open_issues_within = 10
+open_issues_within = 0
 private = false
 pushed_within = "week"
 stargazers_within = 10
