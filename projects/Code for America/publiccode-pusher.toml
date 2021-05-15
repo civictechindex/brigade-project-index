@@ -1,0 +1,50 @@
+code_url = "https://github.com/codeforamerica/publiccode-pusher"
+git_url = "git://github.com/codeforamerica/publiccode-pusher.git"
+name = "publiccode-pusher"
+organization_name = "Code for America"
+
+[github]
+archived = false
+created_at = "2021-05-14T21:33:19Z"
+default_branch = "master"
+description = { }
+disabled = false
+fork = false
+forks_within = 0
+full_name = "codeforamerica/publiccode-pusher"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 367_484_086
+language = "SCSS"
+name = "publiccode-pusher"
+node_id = "MDEwOlJlcG9zaXRvcnkzNjc0ODQwODY="
+open_issues_within = 0
+private = false
+pushed_within = "week"
+stargazers_within = 0
+topics = [ ]
+updated_within = "week"
+watchers_within = 0
+
+  [github.license]
+  key = "gpl-3.0"
+  name = "GNU General Public License v3.0"
+  node_id = "MDc6TGljZW5zZTk="
+  spdx_id = "GPL-3.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 337_792
+  login = "codeforamerica"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjMzNzc5Mg=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
