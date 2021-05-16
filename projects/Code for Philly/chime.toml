@@ -40,7 +40,7 @@ topics = [
   "covid-19",
   "code-for-philly"
 ]
-updated_within = "year"
+updated_within = "week"
 watchers_within = 1_000
 
   [github.license]
