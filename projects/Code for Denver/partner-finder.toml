@@ -1,0 +1,46 @@
+code_url = "https://github.com/codefordenver/partner-finder"
+description = "Using an open dataset with registered colorado business to build a tool that manages outreach to potential CFD partners."
+git_url = "git://github.com/codefordenver/partner-finder.git"
+name = "partner-finder"
+organization_name = "Code for Denver"
+
+[github]
+archived = false
+created_at = "2021-05-18T01:49:41Z"
+default_branch = "main"
+description = "Using an open dataset with registered colorado business to build a tool that manages outreach to potential CFD partners."
+disabled = false
+fork = false
+forks_within = 0
+full_name = "codefordenver/partner-finder"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 368_370_432
+language = "Jupyter Notebook"
+license = { }
+name = "partner-finder"
+node_id = "MDEwOlJlcG9zaXRvcnkzNjgzNzA0MzI="
+open_issues_within = 0
+private = false
+pushed_within = "week"
+stargazers_within = 0
+topics = [ ]
+updated_within = "week"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 7_472_092
+  login = "codefordenver"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjc0NzIwOTI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
