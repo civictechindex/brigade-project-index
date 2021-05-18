@@ -40,7 +40,7 @@ topics = [
   "conditional-random-fields",
   "parserator"
 ]
-updated_within = "week"
+updated_within = "month"
 watchers_within = "over_1000"
 
   [github.license]
