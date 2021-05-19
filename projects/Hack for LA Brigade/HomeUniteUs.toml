@@ -39,7 +39,7 @@ name = "HomeUniteUs"
 node_id = "MDEwOlJlcG9zaXRvcnkyMjg5ODEwODA="
 open_issues_within = 100
 private = false
-pushed_within = "month"
+pushed_within = "week"
 score = 1
 stargazers_within = 100
 topics = [
@@ -54,7 +54,7 @@ topics = [
   "poc",
   "youth"
 ]
-updated_within = "month"
+updated_within = "week"
 watchers_within = 100
 
   [github.owner]
