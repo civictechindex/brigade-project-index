@@ -7,7 +7,7 @@ organization_name = "18F"
 [github]
 archived = false
 created_at = "2020-10-19T15:58:25Z"
-default_branch = "main"
+default_branch = "dev"
 description = "A system for storing and matching Personal Identifiable Information (PII) records"
 disabled = false
 fork = false
