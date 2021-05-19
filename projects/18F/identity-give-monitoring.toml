@@ -11,7 +11,7 @@ default_branch = "main"
 description = "Monitoring for GIVE microservices in cloud.gov"
 disabled = false
 fork = false
-forks_within = 0
+forks_within = 10
 full_name = "18F/identity-give-monitoring"
 has_downloads = true
 has_issues = true
@@ -21,7 +21,6 @@ has_wiki = true
 homepage = { }
 id = 368_908_505
 language = { }
-license = { }
 name = "identity-give-monitoring"
 node_id = "MDEwOlJlcG9zaXRvcnkzNjg5MDg1MDU="
 open_issues_within = 0
@@ -31,6 +30,12 @@ stargazers_within = 0
 topics = [ ]
 updated_within = "week"
 watchers_within = 0
+
+  [github.license]
+  key = "other"
+  name = "Other"
+  node_id = "MDc6TGljZW5zZTA="
+  spdx_id = "NOASSERTION"
 
   [github.owner]
   gravatar_id = ""
