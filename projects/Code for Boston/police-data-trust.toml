@@ -22,12 +22,12 @@ id = 342_570_977
 language = "Python"
 name = "police-data-trust"
 node_id = "MDEwOlJlcG9zaXRvcnkzNDI1NzA5Nzc="
-open_issues_within = 100
+open_issues_within = 10
 private = false
 pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
-updated_within = "month"
+updated_within = "week"
 watchers_within = 10
 
   [github.license]
