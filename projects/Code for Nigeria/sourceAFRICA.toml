@@ -44,7 +44,7 @@ topics = [
   "sourceafrica",
   "source-documents"
 ]
-updated_within = "over_a_year"
+updated_within = "week"
 watchers_within = 10
 
   [github.license]
