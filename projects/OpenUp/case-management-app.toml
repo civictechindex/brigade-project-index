@@ -1,14 +1,14 @@
 code_url = "https://github.com/OpenUpSA/case-management-app"
-description = "A client-side browser app for the OSF Case Management project"
+description = "A client-side browser app for the OSF Case Management project."
 git_url = "git://github.com/OpenUpSA/case-management-app.git"
 name = "case-management-app"
 organization_name = "OpenUp"
 
 [github]
 archived = false
-created_at = "2021-05-06T09:38:58Z"
+created_at = "2021-05-20T12:37:31Z"
 default_branch = "main"
-description = "A client-side browser app for the OSF Case Management project"
+description = "A client-side browser app for the OSF Case Management project."
 disabled = false
 fork = false
 forks_within = 0
@@ -19,23 +19,18 @@ has_pages = false
 has_projects = true
 has_wiki = true
 homepage = { }
-id = 364_858_604
-language = { }
+id = 369_203_073
+language = "JavaScript"
+license = { }
 name = "case-management-app"
-node_id = "MDEwOlJlcG9zaXRvcnkzNjQ4NTg2MDQ="
+node_id = "MDEwOlJlcG9zaXRvcnkzNjkyMDMwNzM="
 open_issues_within = 0
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 0
 topics = [ ]
-updated_within = "month"
+updated_within = "week"
 watchers_within = 0
-
-  [github.license]
-  key = "mit"
-  name = "MIT License"
-  node_id = "MDc6TGljZW5zZTEz"
-  spdx_id = "MIT"
 
   [github.owner]
   gravatar_id = ""
