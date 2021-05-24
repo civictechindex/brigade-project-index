@@ -37,7 +37,7 @@ name = "HealthTools.API"
 node_id = "MDEwOlJlcG9zaXRvcnk4NzQxNTkxOA=="
 open_issues_within = 100
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 100
 topics = [
   "africa",
@@ -50,7 +50,7 @@ topics = [
   "kenya",
   "memcached"
 ]
-updated_within = "year"
+updated_within = "week"
 watchers_within = 100
 
   [github.license]
