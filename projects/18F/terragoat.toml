@@ -21,7 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://www.bridgecrew.io/"
 id = 369_358_589
-language = { }
+language = "HCL"
 name = "terragoat"
 node_id = "MDEwOlJlcG9zaXRvcnkzNjkzNTg1ODk="
 open_issues_within = 0
