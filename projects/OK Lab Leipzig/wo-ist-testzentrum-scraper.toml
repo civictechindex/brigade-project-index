@@ -12,7 +12,7 @@ default_branch = "master"
 description = "Find the next corona test center"
 disabled = false
 fork = false
-forks_within = 0
+forks_within = 10
 full_name = "CodeforLeipzig/wo-ist-testzentrum-scraper"
 has_downloads = true
 has_issues = true
@@ -24,13 +24,13 @@ id = 356_083_392
 language = "JavaScript"
 name = "wo-ist-testzentrum-scraper"
 node_id = "MDEwOlJlcG9zaXRvcnkzNTYwODMzOTI="
-open_issues_within = 0
+open_issues_within = 10
 private = false
 pushed_within = "year"
-stargazers_within = 0
+stargazers_within = 10
 topics = [ ]
-updated_within = "year"
-watchers_within = 0
+updated_within = "week"
+watchers_within = 10
 
   [github.license]
   key = "apache-2.0"
