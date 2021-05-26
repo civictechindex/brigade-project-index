@@ -27,10 +27,10 @@ name = "covid-19-jurnal-medical"
 node_id = "MDEwOlJlcG9zaXRvcnkyNDcyNzE4NDk="
 open_issues_within = 100
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 100
 topics = [ "civic-tech", "covid-19", "hacktoberfest" ]
-updated_within = "month"
+updated_within = "week"
 watchers_within = 100
 
   [github.license]
