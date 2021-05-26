@@ -38,7 +38,7 @@ open_issues_within = 100
 private = false
 pushed_within = "week"
 score = 1
-stargazers_within = 10
+stargazers_within = 100
 topics = [
   "civictechindex",
   "code-for-all",
@@ -50,7 +50,7 @@ topics = [
   "record-expungement"
 ]
 updated_within = "week"
-watchers_within = 10
+watchers_within = 100
 
   [github.owner]
   gravatar_id = ""
