@@ -31,7 +31,7 @@ name = "bods-test"
 node_id = "MDEwOlJlcG9zaXRvcnkyNTQwNDc1MTY="
 open_issues_within = 0
 private = false
-pushed_within = "year"
+pushed_within = "over_a_year"
 stargazers_within = 0
 topics = [
   "beneficial-ownership",
@@ -40,7 +40,7 @@ topics = [
   "forms-builder",
   "frontend"
 ]
-updated_within = "year"
+updated_within = "over_a_year"
 watchers_within = 0
 
   [github.license]
