@@ -1,13 +1,16 @@
 code_url = "https://github.com/codeforamerica/speedlify-cfa"
+description = "A static site that creates a leader board of sites based on performance metrics."
 git_url = "git://github.com/codeforamerica/speedlify-cfa.git"
+link_url = "https://speedlify.codeforamerica.org/"
 name = "speedlify-cfa"
 organization_name = "Code for America"
+topics = [ "a11y", "netlify", "performance", "speedlify" ]
 
 [github]
 archived = false
 created_at = "2020-09-25T10:15:52Z"
 default_branch = "live"
-description = { }
+description = "A static site that creates a leader board of sites based on performance metrics."
 disabled = false
 fork = false
 forks_within = 0
@@ -17,7 +20,7 @@ has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = true
-homepage = { }
+homepage = "https://speedlify.codeforamerica.org/"
 id = 298_538_497
 language = "JavaScript"
 name = "speedlify-cfa"
@@ -26,8 +29,8 @@ open_issues_within = 0
 private = false
 pushed_within = "month"
 stargazers_within = 0
-topics = [ ]
-updated_within = "month"
+topics = [ "a11y", "netlify", "performance", "speedlify" ]
+updated_within = "week"
 watchers_within = 0
 
   [github.license]
