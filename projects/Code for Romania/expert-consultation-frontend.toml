@@ -1,5 +1,6 @@
 code_url = "https://github.com/code4romania/expert-consultation-frontend"
 git_url = "git://github.com/code4romania/expert-consultation-frontend.git"
+link_url = "expert-consultation-frontend.vercel.app"
 name = "expert-consultation-frontend"
 organization_name = "Code for Romania"
 
@@ -17,9 +18,9 @@ has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = true
-homepage = { }
+homepage = "expert-consultation-frontend.vercel.app"
 id = 370_761_560
-language = { }
+language = "TypeScript"
 name = "expert-consultation-frontend"
 node_id = "MDEwOlJlcG9zaXRvcnkzNzA3NjE1NjA="
 open_issues_within = 0
