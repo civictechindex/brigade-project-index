@@ -30,7 +30,6 @@ has_wiki = true
 homepage = ""
 id = 226_157_870
 language = "JavaScript"
-license = { }
 name = "VRMS"
 node_id = "MDEwOlJlcG9zaXRvcnkyMjYxNTc4NzA="
 open_issues_within = 100
@@ -49,6 +48,12 @@ topics = [
 ]
 updated_within = "week"
 watchers_within = 100
+
+  [github.license]
+  key = "agpl-3.0"
+  name = "GNU Affero General Public License v3.0"
+  node_id = "MDc6TGljZW5zZTE="
+  spdx_id = "AGPL-3.0"
 
   [github.owner]
   gravatar_id = ""
