@@ -11,7 +11,7 @@ default_branch = "main"
 description = "Copy of https://github.com/alphagov/paas-prometheus-exporter for exporting application metrics in cloud.gov"
 disabled = false
 fork = false
-forks_within = 0
+forks_within = 10
 full_name = "18F/identity-give-cf-metrics"
 has_downloads = true
 has_issues = true
@@ -20,8 +20,7 @@ has_projects = true
 has_wiki = true
 homepage = { }
 id = 371_748_946
-language = { }
-license = { }
+language = "Go"
 name = "identity-give-cf-metrics"
 node_id = "MDEwOlJlcG9zaXRvcnkzNzE3NDg5NDY="
 open_issues_within = 0
@@ -31,6 +30,12 @@ stargazers_within = 0
 topics = [ ]
 updated_within = "week"
 watchers_within = 0
+
+  [github.license]
+  key = "apache-2.0"
+  name = "Apache License 2.0"
+  node_id = "MDc6TGljZW5zZTI="
+  spdx_id = "Apache-2.0"
 
   [github.owner]
   gravatar_id = ""
