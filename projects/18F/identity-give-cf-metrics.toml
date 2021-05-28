@@ -1,0 +1,46 @@
+code_url = "https://github.com/18F/identity-give-cf-metrics"
+description = "Copy of https://github.com/alphagov/paas-prometheus-exporter for exporting application metrics in cloud.gov"
+git_url = "git://github.com/18F/identity-give-cf-metrics.git"
+name = "identity-give-cf-metrics"
+organization_name = "18F"
+
+[github]
+archived = false
+created_at = "2021-05-28T15:46:00Z"
+default_branch = "main"
+description = "Copy of https://github.com/alphagov/paas-prometheus-exporter for exporting application metrics in cloud.gov"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "18F/identity-give-cf-metrics"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 371_748_946
+language = { }
+license = { }
+name = "identity-give-cf-metrics"
+node_id = "MDEwOlJlcG9zaXRvcnkzNzE3NDg5NDY="
+open_issues_within = 0
+private = false
+pushed_within = "week"
+stargazers_within = 0
+topics = [ ]
+updated_within = "week"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_233_994
+  login = "18F"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjYyMzM5OTQ="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
