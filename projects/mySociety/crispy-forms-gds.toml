@@ -1,0 +1,51 @@
+code_url = "https://github.com/mysociety/crispy-forms-gds"
+description = "Django Crispy Forms template pack for the Gov.UK Design System"
+git_url = "git://github.com/mysociety/crispy-forms-gds.git"
+name = "crispy-forms-gds"
+organization_name = "mySociety"
+
+[github]
+archived = false
+created_at = "2021-05-28T08:26:37Z"
+default_branch = "master"
+description = "Django Crispy Forms template pack for the Gov.UK Design System"
+disabled = false
+fork = true
+forks_within = 0
+full_name = "mysociety/crispy-forms-gds"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 371_632_544
+language = { }
+name = "crispy-forms-gds"
+node_id = "MDEwOlJlcG9zaXRvcnkzNzE2MzI1NDQ="
+open_issues_within = 0
+private = false
+pushed_within = "week"
+stargazers_within = 0
+topics = [ ]
+updated_within = "week"
+watchers_within = 0
+
+  [github.license]
+  key = "bsd-3-clause"
+  name = 'BSD 3-Clause "New" or "Revised" License'
+  node_id = "MDc6TGljZW5zZTU="
+  spdx_id = "BSD-3-Clause"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 141_338
+  login = "mysociety"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE0MTMzOA=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
