@@ -41,7 +41,7 @@ topics = [
   "meal-management",
   "open-san-diego"
 ]
-updated_within = "year"
+updated_within = "week"
 watchers_within = 10
 
   [github.license]
