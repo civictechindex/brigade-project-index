@@ -22,7 +22,6 @@ has_wiki = true
 homepage = "remote-patient-monitoring-client.nekoya.vercel.app"
 id = 325_291_226
 language = "Vue"
-license = { }
 name = "remote-patient-monitoring-client"
 node_id = "MDEwOlJlcG9zaXRvcnkzMjUyOTEyMjY="
 open_issues_within = 10
@@ -32,6 +31,12 @@ stargazers_within = 10
 topics = [ ]
 updated_within = "week"
 watchers_within = 10
+
+  [github.license]
+  key = "agpl-3.0"
+  name = "GNU Affero General Public License v3.0"
+  node_id = "MDc6TGljZW5zZTE="
+  spdx_id = "AGPL-3.0"
 
   [github.owner]
   gravatar_id = ""
