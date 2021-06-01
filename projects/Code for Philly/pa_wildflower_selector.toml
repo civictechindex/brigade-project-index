@@ -1,8 +1,65 @@
-code_url = "https://docs.google.com/spreadsheets/d/1R_zhN3GUxhDEMlGFMhcPB_gAoaE9IoyWi10I_nM9f3o/"
+code_url = "https://github.com/CodeForPhilly/pa-wildflower-selector"
 link_url = "https://public.tableau.com/views/PAWildflowerLookup/PANativePlantView"
 name = "pa_wildflower_selector"
 organization_name = "Code for Philly"
-status = "Maintaining"
+status = "Prototyping"
+
+[github]
+archived = false
+created_at = "2021-05-19T23:40:52Z"
+default_branch = "main"
+description = "Project Repository for the Pennsylvania Wildflower Selector "
+disabled = false
+fork = false
+forks_within = 10
+full_name = "CodeForPhilly/pa-wildflower-selector"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 369_027_859
+language = "Shell"
+name = "pa-wildflower-selector"
+network_count = 2
+node_id = "MDEwOlJlcG9zaXRvcnkzNjkwMjc4NTk="
+open_issues_within = 10
+private = false
+pushed_within = "month"
+stargazers_within = 10
+subscribers_count = 6
+temp_clone_token = ""
+topics = [ ]
+updated_within = "week"
+watchers_within = 10
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.organization]
+  gravatar_id = ""
+  id = 1_451_716
+  login = "CodeForPhilly"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE0NTE3MTY="
+  site_admin = false
+  type = "Organization"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 1_451_716
+  login = "CodeForPhilly"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE0NTE3MTY="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
 
 [projects_list_extra]
 chat_channel = "pa-wildflower-selector"
