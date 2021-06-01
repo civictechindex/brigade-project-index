@@ -11,7 +11,7 @@ default_branch = "main"
 description = "Monitoring visualizations for GIVE in cloud.gov using Grafana"
 disabled = false
 fork = false
-forks_within = 0
+forks_within = 10
 full_name = "18F/identity-give-monitoring-dash"
 has_downloads = true
 has_issues = true
@@ -23,7 +23,7 @@ id = 372_899_498
 language = { }
 name = "identity-give-monitoring-dash"
 node_id = "MDEwOlJlcG9zaXRvcnkzNzI4OTk0OTg="
-open_issues_within = 0
+open_issues_within = 10
 private = false
 pushed_within = "week"
 stargazers_within = 0
