@@ -118,7 +118,7 @@ watchers_within = 10
   pushed_within = "week"
   stargazers_within = "over_1000"
   topics = [ ]
-  updated_within = "week"
+  updated_within = "month"
   watchers_within = "over_1000"
 
     [github.source.license]
