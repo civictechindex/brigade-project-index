@@ -45,7 +45,7 @@ topics = [
   "san-jose",
   "youth"
 ]
-updated_within = "year"
+updated_within = "week"
 watchers_within = 10
 
   [github.license]
