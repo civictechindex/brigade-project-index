@@ -29,7 +29,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 330_800_079
-language = { }
+language = "Jupyter Notebook"
 name = "access-the-data"
 node_id = "MDEwOlJlcG9zaXRvcnkzMzA4MDAwNzk="
 open_issues_within = 100
@@ -46,7 +46,7 @@ topics = [
   "government-data",
   "hack-for-la"
 ]
-updated_within = "year"
+updated_within = "week"
 watchers_within = 10
 
   [github.license]
