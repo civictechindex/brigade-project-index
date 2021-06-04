@@ -1,0 +1,54 @@
+code_url = "https://github.com/RedHen/Patterns-of-Gun-Violnece-"
+description = 'im working to create a longitudinal social justice stop the violence data mapping initiative to add stories from communities addressing the various forms of violence plaguing our city. im working on learning code that helps us map our stories because so much policy, whether we like it or not, is created based on us without us at the table. i reached out to the Algorithmic Justice League to see if i can host a viewing of their documentary "Coded Bias" https://www.wmm.com/coded-bias-host-a-screening/thank-you-for-signing-up/ https://www.ajl.org/ to help show how we are experimented in this society. I will then ask people to upload a photo of themselves in various rotations, with #CITEAFROAMERICANWOMEN #CITEAFROAMERCIANMAN #CITEYOURCULTURE to help add more of our images to the database feed currently hosting surveillance of us all.'
+link_url = "https://www.facebook.com/groups/897349291128122"
+name = "social_justice_stop_the_violence_data_mapping_initiative"
+organization_name = "Code for Philly"
+status = "Bootstrapping"
+topics = [ "Budgets", "CivicEngagement", "Urban violence" ]
+
+[github]
+archived = false
+created_at = "2021-05-06T11:25:25Z"
+default_branch = "main"
+description = "Looking to address the social barriers killing so many in Philadelphia. Would like to see if we can build AI that helps give light to gun violence from street soldier's perspectives. There are various roadblocks in communities of philadelphia that have traditionally been neglected for another community gain. In the 20 plus years that i have been a family community advocate, i have learned about variables that contribute to gun violence. Variables like communities with natural settings versus abandon row homes, public resources versus privatization, homeowners associations versus developers planning communities. As a member of Philly Truce, i would also like to highlight the economic crisis driving patterns of gun violence."
+disabled = false
+fork = false
+forks_within = 0
+full_name = "RedHen/Patterns-of-Gun-Violnece-"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 364_885_684
+language = { }
+license = { }
+name = "Patterns-of-Gun-Violnece-"
+network_count = 0
+node_id = "MDEwOlJlcG9zaXRvcnkzNjQ4ODU2ODQ="
+open_issues_within = 0
+private = false
+pushed_within = "week"
+stargazers_within = 0
+subscribers_count = 1
+temp_clone_token = ""
+topics = [ ]
+updated_within = "week"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 4_689_346
+  login = "RedHen"
+  node_id = "MDQ6VXNlcjQ2ODkzNDY="
+  site_admin = false
+  type = "User"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
+
+[projects_list_extra]
+title = "Social Justice Stop The Violence Data Mapping Initiative"
