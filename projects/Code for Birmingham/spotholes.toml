@@ -26,10 +26,10 @@ name = "spotholes"
 node_id = "MDEwOlJlcG9zaXRvcnkyODQ2NDA3Nw=="
 open_issues_within = 10
 private = false
-pushed_within = "year"
+pushed_within = "over_a_year"
 stargazers_within = 10
 topics = [ ]
-updated_within = "year"
+updated_within = "over_a_year"
 watchers_within = 10
 
   [github.owner]
