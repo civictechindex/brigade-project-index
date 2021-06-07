@@ -25,12 +25,12 @@ id = 298_538_497
 language = "JavaScript"
 name = "speedlify-cfa"
 node_id = "MDEwOlJlcG9zaXRvcnkyOTg1Mzg0OTc="
-open_issues_within = 0
+open_issues_within = 10
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 0
 topics = [ "a11y", "netlify", "performance", "speedlify" ]
-updated_within = "month"
+updated_within = "week"
 watchers_within = 0
 
   [github.license]
