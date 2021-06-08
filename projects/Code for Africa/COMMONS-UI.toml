@@ -1,8 +1,10 @@
 code_url = "https://github.com/CodeForAfrica/COMMONS-UI"
 description = "This library packages React components used to develop various UIs."
 git_url = "git://github.com/CodeForAfrica/COMMONS-UI.git"
+link_url = "https://codeforafrica.github.io/COMMONS-UI"
 name = "COMMONS-UI"
 organization_name = "Code for Africa"
+topics = [ "javascript", "material-ui", "storybook" ]
 
 [github]
 archived = false
@@ -18,7 +20,7 @@ has_issues = true
 has_pages = true
 has_projects = true
 has_wiki = true
-homepage = ""
+homepage = "https://codeforafrica.github.io/COMMONS-UI"
 id = 252_171_327
 language = "JavaScript"
 name = "COMMONS-UI"
@@ -27,7 +29,7 @@ open_issues_within = 10
 private = false
 pushed_within = "week"
 stargazers_within = 0
-topics = [ ]
+topics = [ "javascript", "material-ui", "storybook" ]
 updated_within = "week"
 watchers_within = 0
 
