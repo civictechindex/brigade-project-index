@@ -1,0 +1,46 @@
+code_url = "https://github.com/codeforamerica/nac-sandbox-cluster"
+description = "An experimental Kubernetes cluster for some NAC-owned deployments"
+git_url = "git://github.com/codeforamerica/nac-sandbox-cluster.git"
+name = "nac-sandbox-cluster"
+organization_name = "Code for America"
+
+[github]
+archived = false
+created_at = "2021-06-08T21:51:26Z"
+default_branch = "main"
+description = "An experimental Kubernetes cluster for some NAC-owned deployments"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "codeforamerica/nac-sandbox-cluster"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 375_154_240
+language = { }
+license = { }
+name = "nac-sandbox-cluster"
+node_id = "MDEwOlJlcG9zaXRvcnkzNzUxNTQyNDA="
+open_issues_within = 0
+private = false
+pushed_within = "week"
+stargazers_within = 0
+topics = [ ]
+updated_within = "week"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 337_792
+  login = "codeforamerica"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjMzNzc5Mg=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
