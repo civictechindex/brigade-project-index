@@ -1,7 +1,7 @@
-code_url = "https://github.com/CodeandoMexico/representantes-patito-2"
+code_url = "https://github.com/CodeandoMexico/estandar-datos-legislativos"
 description = "En este proyecto buscamos una forma sencilla para los ciudadanos de saber quién los representa en los congresos locales y federales."
-git_url = "git://github.com/CodeandoMexico/representantes-patito-2.git"
-name = "representantes-patito-2"
+git_url = "git://github.com/CodeandoMexico/estandar-datos-legislativos.git"
+name = "estandar-datos-legislativos"
 organization_name = "Codeando México"
 
 [github]
@@ -12,7 +12,7 @@ description = "En este proyecto buscamos una forma sencilla para los ciudadanos 
 disabled = false
 fork = false
 forks_within = 10
-full_name = "CodeandoMexico/representantes-patito-2"
+full_name = "CodeandoMexico/estandar-datos-legislativos"
 has_downloads = true
 has_issues = true
 has_pages = false
@@ -21,14 +21,14 @@ has_wiki = true
 homepage = ""
 id = 198_673_672
 language = { }
-name = "representantes-patito-2"
+name = "estandar-datos-legislativos"
 node_id = "MDEwOlJlcG9zaXRvcnkxOTg2NzM2NzI="
 open_issues_within = 100
 private = false
 pushed_within = "year"
 stargazers_within = 10
 topics = [ ]
-updated_within = "over_a_year"
+updated_within = "week"
 watchers_within = 10
 
   [github.license]
