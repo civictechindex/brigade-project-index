@@ -6,7 +6,7 @@ organization_name = "Code for Pakistan"
 [github]
 archived = false
 created_at = "2021-06-08T07:51:25Z"
-default_branch = "main"
+default_branch = "lab-tech"
 description = { }
 disabled = false
 fork = false
@@ -19,7 +19,7 @@ has_projects = true
 has_wiki = true
 homepage = { }
 id = 374_927_312
-language = { }
+language = "Python"
 license = { }
 name = "LabTech"
 node_id = "MDEwOlJlcG9zaXRvcnkzNzQ5MjczMTI="
