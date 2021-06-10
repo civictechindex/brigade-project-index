@@ -20,15 +20,15 @@ has_projects = true
 has_wiki = false
 homepage = ""
 id = 363_899_485
-language = { }
+language = "PHP"
 name = "wds-headless-wordpress"
 node_id = "MDEwOlJlcG9zaXRvcnkzNjM4OTk0ODU="
-open_issues_within = 10
+open_issues_within = 0
 private = false
 pushed_within = "week"
 stargazers_within = 0
 topics = [ ]
-updated_within = "year"
+updated_within = "week"
 watchers_within = 0
 
   [github.license]
