@@ -1,0 +1,46 @@
+code_url = "https://github.com/CodeForAsheville/codeofconduct"
+description = "Code for America's Code of Conduct"
+git_url = "git://github.com/CodeForAsheville/codeofconduct.git"
+name = "codeofconduct"
+organization_name = "Code for Asheville"
+
+[github]
+archived = false
+created_at = "2021-06-10T20:55:37Z"
+default_branch = "master"
+description = "Code for America's Code of Conduct"
+disabled = false
+fork = true
+forks_within = 0
+full_name = "CodeForAsheville/codeofconduct"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 375_828_224
+language = { }
+license = { }
+name = "codeofconduct"
+node_id = "MDEwOlJlcG9zaXRvcnkzNzU4MjgyMjQ="
+open_issues_within = 0
+private = false
+pushed_within = "week"
+stargazers_within = 0
+topics = [ ]
+updated_within = "week"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 3_941_752
+  login = "CodeForAsheville"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM5NDE3NTI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
