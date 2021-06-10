@@ -1,35 +1,35 @@
 code_url = "https://github.com/codeforatlanta/localsite"
-description = "2021 Sustainable Community Web Challenge - Analysis tools, Leaflet maps and EPA widget embeds"
+description = "Sustainable Community Web Challenge - maps and widgets"
 git_url = "git://github.com/codeforatlanta/localsite.git"
 name = "localsite"
 organization_name = "Code for Atlanta"
 
 [github]
 archived = false
-created_at = "2020-08-11T21:47:31Z"
-default_branch = "master"
-description = "2021 Sustainable Community Web Challenge - Analysis tools, Leaflet maps and EPA widget embeds"
+created_at = "2021-06-10T14:12:32Z"
+default_branch = "main"
+description = "Sustainable Community Web Challenge - maps and widgets"
 disabled = false
 fork = true
 forks_within = 0
 full_name = "codeforatlanta/localsite"
 has_downloads = true
 has_issues = false
-has_pages = true
+has_pages = false
 has_projects = true
 has_wiki = true
 homepage = ""
-id = 286_854_389
-language = "JavaScript"
+id = 375_721_081
+language = { }
 license = { }
 name = "localsite"
-node_id = "MDEwOlJlcG9zaXRvcnkyODY4NTQzODk="
+node_id = "MDEwOlJlcG9zaXRvcnkzNzU3MjEwODE="
 open_issues_within = 0
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 0
 topics = [ ]
-updated_within = "year"
+updated_within = "week"
 watchers_within = 0
 
   [github.owner]
