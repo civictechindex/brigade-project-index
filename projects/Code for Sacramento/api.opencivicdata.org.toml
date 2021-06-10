@@ -1,0 +1,46 @@
+code_url = "https://github.com/code4sac/api.opencivicdata.org"
+description = ":cloud: deployment stuff for api.opencivicdata.org"
+git_url = "git://github.com/code4sac/api.opencivicdata.org.git"
+name = "api.opencivicdata.org"
+organization_name = "Code for Sacramento"
+
+[github]
+archived = false
+created_at = "2021-06-10T02:18:07Z"
+default_branch = "master"
+description = ":cloud: deployment stuff for api.opencivicdata.org"
+disabled = false
+fork = true
+forks_within = 0
+full_name = "code4sac/api.opencivicdata.org"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = false
+homepage = ""
+id = 375_543_912
+language = "CartoCSS"
+license = { }
+name = "api.opencivicdata.org"
+node_id = "MDEwOlJlcG9zaXRvcnkzNzU1NDM5MTI="
+open_issues_within = 0
+private = false
+pushed_within = "week"
+stargazers_within = 0
+topics = [ ]
+updated_within = "week"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 3_915_088
+  login = "code4sac"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM5MTUwODg="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
