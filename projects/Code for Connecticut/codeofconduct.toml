@@ -6,7 +6,7 @@ organization_name = "Code for Connecticut"
 
 [github]
 archived = false
-created_at = "2019-07-23T15:16:21Z"
+created_at = "2021-06-10T11:22:55Z"
 default_branch = "master"
 description = "Code for America's Code of Conduct"
 disabled = false
@@ -19,17 +19,17 @@ has_pages = false
 has_projects = true
 has_wiki = true
 homepage = ""
-id = 198_455_995
+id = 375_672_481
 language = { }
 license = { }
 name = "codeofconduct"
-node_id = "MDEwOlJlcG9zaXRvcnkxOTg0NTU5OTU="
+node_id = "MDEwOlJlcG9zaXRvcnkzNzU2NzI0ODE="
 open_issues_within = 0
 private = false
-pushed_within = "over_a_year"
+pushed_within = "week"
 stargazers_within = 0
 topics = [ ]
-updated_within = "over_a_year"
+updated_within = "week"
 watchers_within = 0
 
   [github.owner]
