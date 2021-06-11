@@ -1,0 +1,47 @@
+code_url = "https://github.com/g0v/covid-19-data"
+description = "Data on COVID-19 (coronavirus) cases, deaths, hospitalizations, tests • All countries • Updated daily by Our World in Data"
+git_url = "git://github.com/g0v/covid-19-data.git"
+link_url = "https://ourworldindata.org/coronavirus"
+name = "covid-19-data"
+organization_name = "g0v.tw"
+
+[github]
+archived = false
+created_at = "2021-06-11T09:40:12Z"
+default_branch = "master"
+description = "Data on COVID-19 (coronavirus) cases, deaths, hospitalizations, tests • All countries • Updated daily by Our World in Data"
+disabled = false
+fork = true
+forks_within = 0
+full_name = "g0v/covid-19-data"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = false
+homepage = "https://ourworldindata.org/coronavirus"
+id = 375_975_755
+language = { }
+license = { }
+name = "covid-19-data"
+node_id = "MDEwOlJlcG9zaXRvcnkzNzU5NzU3NTU="
+open_issues_within = 0
+private = false
+pushed_within = "week"
+stargazers_within = 0
+topics = [ ]
+updated_within = "week"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_668_086
+  login = "g0v"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI2NjgwODY="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
