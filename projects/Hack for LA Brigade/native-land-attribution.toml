@@ -1,0 +1,68 @@
+code_url = "https://github.com/judecalvillo/native-land-attribution"
+description = "Quick #dataengineering project to map L.A. County cities to Native American territories, leveraging PDF parsing and multiple geocoding APIs (e.g. Google, Native Lands)."
+git_url = "git://github.com/judecalvillo/native-land-attribution.git"
+name = "native-land-attribution"
+organization_name = "Hack for LA Brigade"
+topics = [
+  "civic-tech",
+  "code-for-america",
+  "data-engineering",
+  "data-science",
+  "hack-for-la",
+  "native-american",
+  "native-american-lands",
+  "non-profit",
+  "r"
+]
+
+[github]
+archived = false
+created_at = "2021-04-28T21:31:25Z"
+default_branch = "master"
+description = "Quick #dataengineering project to map L.A. County cities to Native American territories, leveraging PDF parsing and multiple geocoding APIs (e.g. Google, Native Lands)."
+disabled = false
+fork = false
+forks_within = 0
+full_name = "judecalvillo/native-land-attribution"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 362_611_462
+language = { }
+license = { }
+name = "native-land-attribution"
+node_id = "MDEwOlJlcG9zaXRvcnkzNjI2MTE0NjI="
+open_issues_within = 0
+private = false
+pushed_within = "week"
+score = 1
+stargazers_within = 0
+topics = [
+  "civic-tech",
+  "code-for-america",
+  "data-engineering",
+  "data-science",
+  "hack-for-la",
+  "native-american",
+  "native-american-lands",
+  "non-profit",
+  "r"
+]
+updated_within = "week"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 10_369_337
+  login = "judecalvillo"
+  node_id = "MDQ6VXNlcjEwMzY5MzM3"
+  site_admin = false
+  type = "User"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
