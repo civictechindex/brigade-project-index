@@ -1,6 +1,7 @@
 code_url = "https://github.com/open-austin/eviction-hearing-parser"
 description = "parse registers of actions for eviction hearings in Texas counties"
 git_url = "git://github.com/open-austin/eviction-hearing-parser.git"
+link_url = "https://tx-eviction-hearing-parser.readthedocs.io/en/latest/"
 name = "eviction-hearing-parser"
 organization_name = "Open Austin"
 topics = [ "eviction-hearings" ]
@@ -19,7 +20,7 @@ has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = true
-homepage = ""
+homepage = "https://tx-eviction-hearing-parser.readthedocs.io/en/latest/"
 id = 263_779_212
 language = "HTML"
 license = { }
