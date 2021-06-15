@@ -1,0 +1,45 @@
+code_url = "https://github.com/codeforpakistan/amr-nih"
+git_url = "git://github.com/codeforpakistan/amr-nih.git"
+name = "amr-nih"
+organization_name = "Code for Pakistan"
+
+[github]
+archived = false
+created_at = "2021-06-15T10:14:12Z"
+default_branch = "master"
+description = { }
+disabled = false
+fork = false
+forks_within = 0
+full_name = "codeforpakistan/amr-nih"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 377_119_947
+language = "HTML"
+license = { }
+name = "amr-nih"
+node_id = "MDEwOlJlcG9zaXRvcnkzNzcxMTk5NDc="
+open_issues_within = 0
+private = false
+pushed_within = "week"
+stargazers_within = 0
+topics = [ ]
+updated_within = "week"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 4_421_892
+  login = "codeforpakistan"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjQ0MjE4OTI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
