@@ -1,0 +1,52 @@
+code_url = "https://github.com/codeforpakistan/e-petitions"
+description = "This is the code base for the UK Government's e-petitions service (https://petition.parliament.uk)"
+git_url = "git://github.com/codeforpakistan/e-petitions.git"
+link_url = "https://petition.parliament.uk"
+name = "e-petitions"
+organization_name = "Code for Pakistan"
+
+[github]
+archived = false
+created_at = "2021-06-15T13:32:40Z"
+default_branch = "master"
+description = "This is the code base for the UK Government's e-petitions service (https://petition.parliament.uk)"
+disabled = false
+fork = true
+forks_within = 0
+full_name = "codeforpakistan/e-petitions"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "https://petition.parliament.uk"
+id = 377_173_801
+language = { }
+name = "e-petitions"
+node_id = "MDEwOlJlcG9zaXRvcnkzNzcxNzM4MDE="
+open_issues_within = 0
+private = false
+pushed_within = "week"
+stargazers_within = 0
+topics = [ ]
+updated_within = "week"
+watchers_within = 0
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 4_421_892
+  login = "codeforpakistan"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjQ0MjE4OTI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
