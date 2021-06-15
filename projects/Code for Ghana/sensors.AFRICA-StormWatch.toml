@@ -50,7 +50,7 @@ node_id = "MDEwOlJlcG9zaXRvcnkxMzM2MTI5NDg="
 open_issues_within = 10
 private = false
 pushed_within = "over_a_year"
-stargazers_within = 0
+stargazers_within = 10
 topics = [
   "africa",
   "extreme-weather",
@@ -73,8 +73,8 @@ topics = [
   "views",
   "weather"
 ]
-updated_within = "over_a_year"
-watchers_within = 0
+updated_within = "week"
+watchers_within = 10
 
   [github.owner]
   gravatar_id = ""
