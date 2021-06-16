@@ -1,6 +1,5 @@
 code_url = "https://github.com/codeforboston/communityconnect"
 git_url = "git://github.com/codeforboston/communityconnect.git"
-link_url = "https://ccfor.me/"
 name = "communityconnect"
 organization_name = "Code for Boston"
 topics = [ "code-for-america", "code-for-boston", "health-resource" ]
@@ -19,7 +18,7 @@ has_issues = true
 has_pages = true
 has_projects = true
 has_wiki = true
-homepage = "https://ccfor.me/"
+homepage = ""
 id = 144_785_135
 language = "JavaScript"
 name = "communityconnect"
@@ -29,7 +28,7 @@ private = false
 pushed_within = "month"
 stargazers_within = 100
 topics = [ "code-for-america", "code-for-boston", "health-resource" ]
-updated_within = "over_a_year"
+updated_within = "week"
 watchers_within = 100
 
   [github.license]
