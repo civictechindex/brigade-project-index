@@ -1,0 +1,51 @@
+code_url = "https://github.com/18F/us-federal-holidays"
+description = "A Node.js package for getting US federal holidays for a given year, or determining if a date is a federal holiday."
+git_url = "git://github.com/18F/us-federal-holidays.git"
+name = "us-federal-holidays"
+organization_name = "18F"
+
+[github]
+archived = false
+created_at = "2016-02-27T20:57:10Z"
+default_branch = "master"
+description = "A Node.js package for getting US federal holidays for a given year, or determining if a date is a federal holiday."
+disabled = false
+fork = false
+forks_within = 100
+full_name = "18F/us-federal-holidays"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 52_688_382
+language = "JavaScript"
+name = "us-federal-holidays"
+node_id = "MDEwOlJlcG9zaXRvcnk1MjY4ODM4Mg=="
+open_issues_within = 10
+private = false
+pushed_within = "week"
+stargazers_within = 100
+topics = [ ]
+updated_within = "week"
+watchers_within = 100
+
+  [github.license]
+  key = "other"
+  name = "Other"
+  node_id = "MDc6TGljZW5zZTA="
+  spdx_id = "NOASSERTION"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_233_994
+  login = "18F"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjYyMzM5OTQ="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
