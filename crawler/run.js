@@ -1,28 +1,17 @@
 #!/usr/bin/env node
 
 const path = require('path');
-const axios = require('axios');
-const csvParser = require('csv-parser');
 const GitSheets = require('gitsheets');
-const ProgressBar = require('progress');
-const parseLinkHeader = require('parse-link-header');
+
+const CodeForAmericaNetwork = require('./lib/repositories/organizations/CodeForAmericaNetwork.js');
+const Organization = require('./lib/parsers/Organization.js');
+const decorateProject = require('./lib/decorators');
 
 const EMPTY_TREE_HASH = '4b825dc642cb6eb9a060e54bf8d69288fbee4904';
-const CFAPI_FIELDS = ['name', 'description', 'link_url', 'code_url', 'type', 'categories', 'tags', 'organization_name', 'status'];
 
-const githubOrgRegex = new RegExp('^(https?://)?(www\.)?github\.com(/orgs)?/(?<username>[^/]+)/?$');
-const githubTopicRegex = new RegExp('^(https?://)?(www\.)?github\.com/topics/(?<topic>[^/]+)/?$');
-const githubRepoRegex = new RegExp('^(https?://)?(www\.)?github\.com/(?<username>[^/]+)/(?<repo>[^/]+)/?$');
-const { GITHUB_ACTOR: githubActor, GITHUB_TOKEN: githubToken } = process.env;
-const githubAxios = axios.create({
-    baseURL: 'https://api.github.com',
-    headers: {
-        Accept: 'application/vnd.github.mercy-preview+json'
-    },
-    auth: githubActor && githubToken
-        ? { username: githubActor, password: githubToken }
-        : null
-});
+// prepare logger
+const logger = require('winston');
+
 
 require('yargs')
     .command({
@@ -61,6 +50,11 @@ require('yargs')
                 describe: 'A target branch/ref to commit the imported orgs tree to',
                 type: 'string'
             },
+            debug: {
+                describe: 'Enable more verbose output',
+                type: 'boolean',
+                default: false
+            }
         },
         handler: async argv => {
             const {
@@ -75,8 +69,22 @@ require('yargs')
                 // commit options
                 commitTo,
                 commitMessage,
-                commitOrgsTo
+                commitOrgsTo,
+
+                // run options
+                debug,
             } = argv;
+
+
+            // configure logger
+            logger.add(new logger.transports.Console({
+                level: process.env.DEBUG || debug ? 'debug' : 'info',
+                stderrLevels: Object.keys(logger.config.npm.levels),
+                format: logger.format.combine(
+                    logger.format.colorize(),
+                    logger.format.simple()
+                )
+            }));
 
 
             // prepare interfaces
@@ -104,16 +112,15 @@ require('yargs')
                 let orgsTree;
 
                 try {
-                    console.error('loading orgs tree from cfapi repo...');
-                    orgsTree = await loadOrgsTree(repo, orgsSource);
-                    console.error('orgs tree loaded');
+                    const organizations = await CodeForAmericaNetwork.loadFromUrl(orgsSource);
+                    orgsTree = await organizations.buildTree(repo);
                 } catch (err) {
-                    console.error('failed to load organizations:', err);
+                    logger.error(`failed to load organizations from ${orgsSource}: ${err}`);
                     process.exit(1);
                 }
 
                 const orgsTreeHash = await orgsTree.write();
-                console.error(`orgs tree written: ${orgsTreeHash}`);
+                logger.info(`orgs tree written: ${orgsTreeHash}`);
 
 
                 // check for existing orgs commit
@@ -135,16 +142,13 @@ require('yargs')
                     // optionally write new intermediary orgs commit to ref
                     if (commitOrgsRef) {
                         await git.updateRef(commitOrgsRef, orgsCommit);
-                        console.warn(`committed imported orgs tree to ${commitOrgsRef}: ${orgsCommit}`);
+                        logger.info(`committed imported orgs tree to ${commitOrgsRef}: ${orgsCommit}`);
                     }
                 }
 
 
                 // merge orgs tree into main index tre
                 await outputTree.writeChild('./organizations/', orgsTree);
-
-                // TODO: enrich/normalize/transform orgs tree as desired for index branch
-
                 const outputTreeHash = await outputTree.write();
 
 
@@ -166,7 +170,7 @@ require('yargs')
                     // optionally commit main index tree into
                     if (commitRef) {
                         await git.updateRef(commitRef, outputCommit);
-                        console.warn(`merged new orgs tree into "${commitRef}": ${outputCommitParents.join('+')}->${outputCommit}`);
+                        logger.info(`merged new orgs tree into "${commitRef}": ${outputCommitParents.join('+')}->${outputCommit}`);
                     }
                 }
             }
@@ -188,49 +192,38 @@ require('yargs')
                 for (const orgBlobName in orgBlobs) {
                     const org = await sheets.parseBlob(orgBlobs[orgBlobName]);
                     const orgName = path.basename(orgBlobName, '.toml');
-                    let { projects_list_url: projectsListUrl, projects_tag: projectsTag } = org;
 
-                    if (!projectsListUrl && projectsTag) {
-                        projectsListUrl = `https://github.com/topics/${projectsTag}`;
-                    }
 
-                    if (!projectsListUrl) {
-                        console.error(`skipping org with no projects list: ${orgName}`);
+                    // load all projects for given org, delegating to the first Projects Repository implementation that accepts the job
+                    let orgProjects;
+
+                    try {
+                        orgProjects = await Organization.loadProjects(org);
+                    } catch (err) {
+                        logger.error(`failed to load projects for ${org.name} from ${org.projects_list_url}: ${err}, skipping organization...`);
                         continue;
                     }
 
-                    let orgProjectsTree;
-                    const githubOrgMatch = githubOrgRegex.exec(projectsListUrl);
-                    const githubTopicMatch = githubTopicRegex.exec(projectsListUrl);
-
-                    if (githubOrgMatch) {
-                        const { username } = githubOrgMatch.groups;
-                        orgProjectsTree = await loadGithubOrgProjects(repo, username);
-
-                        if (!orgProjectsTree) {
-                            console.error(`skipping empty projects list for ${orgName}: ${projectsListUrl}`);
-                            continue;
-                        }
-                    } else if (githubTopicMatch) {
-                        const { topic } = githubTopicMatch.groups;
-                        orgProjectsTree = await loadGithubTopicProjects(repo, topic);
-
-                        if (!orgProjectsTree) {
-                            console.error(`skipping empty projects list for ${orgName}: ${projectsListUrl}`);
-                            continue;
-                        }
-                    } else {
-                        // fetch curated CSV or JSON feed
-                        orgProjectsTree = await loadFeedProjects(repo, projectsListUrl);
-
-                        if (!orgProjectsTree) {
-                            console.error(`skipping empty projects list for ${orgName}: ${projectsListUrl}`);
-                            continue;
-                        }
+                    if (!orgProjects) {
+                        logger.warn(`no projects loader is able to handle organization '${orgName}', skipping organization...`);
+                        continue;
                     }
 
 
-                    // merge into output tree
+                    // apply organization_name to every project
+                    for (const projectData of orgProjects.values()) {
+                        projectData.organization_name = orgName;
+                    }
+
+
+                    // apply decorators to all projects
+                    logger.debug('applying decorators');
+                    await Promise.all([...orgProjects.values()].map(decorateProject));
+
+
+
+                    // write projects list to git tree
+                    const orgProjectsTree = await orgProjects.buildTree(repo);
                     await outputTree.writeChild(`projects/${orgName}`, orgProjectsTree);
                     const outputTreeHash = await outputTree.write();
 
@@ -240,7 +233,7 @@ require('yargs')
                         outputCommit = await git.commitTree(
                             {
                                 p: outputCommit,
-                                m: (commitMessage || `🔁 refreshed projects from ${orgName}`) + `\n\nSource-Url: ${projectsListUrl}\nLoader-Version: ${loaderCommit}\n`
+                                m: (commitMessage || `🔁 refreshed projects from ${orgName}`) + `\n\nSource-Url: ${orgProjects.metadata.sourceUrl||'␀'}\nLoader-Version: ${loaderCommit}\n`
                             },
                             outputTreeHash
                         );
@@ -248,7 +241,7 @@ require('yargs')
                         // optionally commit main index tree into
                         if (commitRef) {
                             await git.updateRef(commitRef, outputCommit);
-                            console.warn(`merged ${orgName} projects tree into "${commitRef}": ${outputCommit}`);
+                            logger.info(`merged ${orgName} projects tree into "${commitRef}": ${outputCommit}`);
                         }
                     }
                 }
@@ -274,380 +267,4 @@ function normalizeRef(ref) {
     }
 
     return `refs/heads/${ref}`;
-}
-
-async function loadOrgsTree(repo, orgsSource) {
-
-    // load data from JSON URL
-    const { data: orgs } = await axios.get(orgsSource);
-
-
-    // build tree
-    const tree = repo.createTree();
-    const progressBar = new ProgressBar('building orgs list :current/:total [:bar] :etas', {
-        total: orgs.length
-    });
-
-    for (const org of orgs) {
-        // null-out empty strings
-        for (const key in org) {
-            if (org[key] === '') {
-                org[key] = null;
-            }
-        }
-
-        const toml = GitSheets.stringifyRecord(org);
-        const blob = await tree.writeChild(`${org.name}.toml`, toml);
-
-        progressBar.tick();
-    }
-
-
-    // return tree
-    return tree;
-}
-
-async function loadGithubOrgProjects(repo, username) {
-
-    // load repos
-    console.error(`loading repos from github.com/${username}...`);
-    const repos = [];
-    let next = `/users/${username}/repos`;
-    let reposProgressBar;
-
-    do {
-        let response;
-
-        try {
-            response = await githubAxios.get(next);
-        } catch (err) {
-            console.error(`GitHub request failed: ${err.response ? err.response.data.message || err.response.status : err.message}`);
-
-            if (err.response && err.response.status == 404) {
-                return null;
-            }
-
-            // GitHub will return 403 when you hit rate limit without auth
-            if (err.response && err.response.status == 403) {
-                console.error('Try setting GITHUB_ACTOR and GITHUB_TOKEN');
-                process.exit(1);
-            }
-
-            return null;
-        }
-
-        repos.push(...response.data);
-
-
-        // handle paging
-        const links = response.headers.link ? parseLinkHeader(response.headers.link) : {};
-        if (links.next) {
-            if (!reposProgressBar) {
-                reposProgressBar = new ProgressBar(`pages :current/:total [:bar] :etas`, {
-                    total: links.last ? parseInt(links.last.page) : 1
-                });
-            }
-
-            reposProgressBar.tick();
-            next = links.next.url;
-        } else {
-            next = null;
-
-            if (reposProgressBar) {
-                reposProgressBar.tick();
-            }
-        }
-    } while (next);
-
-
-    // build tree
-    const tree = repo.createTree();
-    const progressBar = new ProgressBar('building projects list :current/:total [:bar] :etas', {
-        total: repos.length
-    });
-
-    for (const repo of repos) {
-        // skip archived
-        if (repo.archived) {
-            progressBar.tick();
-            continue;
-        }
-
-        // extract interesting bits of data
-        const projectData = {
-            name: repo.name,
-            code_url: repo.html_url,
-            description: repo.description,
-            git_url: repo.git_url,
-            git_branch: repo.default_branch,
-            link_url: repo.homepage || null,
-            topics: repo.topics.length ? repo.topics : null
-        };
-        const toml = GitSheets.stringifyRecord(projectData);
-        const blob = await tree.writeChild(`${repo.name}.toml`, toml);
-
-        progressBar.tick();
-    }
-
-
-    // return tree
-    return tree;
-}
-
-async function loadGithubTopicProjects(repo, topic) {
-    https://api.github.comhack-for-la
-
-    // load repos
-    console.error(`loading repos from github.com/topics${topic}...`);
-    const repos = [];
-    let next = `/search/repositories?q=topic:${topic}`;
-    let reposProgressBar;
-
-    do {
-        let response;
-
-        try {
-            response = await githubAxios.get(next);
-        } catch (err) {
-            console.error(`GitHub request failed: ${err.response ? err.response.data.message || err.response.status : err.message}`);
-
-            if (err.response && err.response.status == 404) {
-                return null;
-            }
-
-            // GitHub will return 403 when you hit rate limit without auth
-            if (err.response && err.response.status == 403) {
-                console.error('Try setting GITHUB_ACTOR and GITHUB_TOKEN');
-                process.exit(1);
-            }
-
-            return null;
-        }
-
-        repos.push(...response.data.items);
-
-
-        // handle paging
-        const links = response.headers.link ? parseLinkHeader(response.headers.link) : {};
-        if (links.next) {
-            if (!reposProgressBar) {
-                reposProgressBar = new ProgressBar(`pages :current/:total [:bar] :etas`, {
-                    total: links.last ? parseInt(links.last.page) : 1
-                });
-            }
-
-            reposProgressBar.tick();
-            next = links.next.url;
-        } else {
-            next = null;
-
-            if (reposProgressBar) {
-                reposProgressBar.tick();
-            }
-        }
-    } while (next);
-
-
-    // build tree
-    const tree = repo.createTree();
-    const progressBar = new ProgressBar('building projects list :current/:total [:bar] :etas', {
-        total: repos.length
-    });
-
-    for (const repo of repos) {
-        // skip archived
-        if (repo.archived) {
-            progressBar.tick();
-            continue;
-        }
-
-        // extract interesting bits of data
-        const projectData = {
-            name: repo.name,
-            code_url: repo.html_url,
-            description: repo.description,
-            git_url: repo.git_url,
-            git_branch: repo.default_branch,
-            link_url: repo.homepage || null,
-            topics: repo.topics.length ? repo.topics : null
-        };
-        const toml = GitSheets.stringifyRecord(projectData);
-        const blob = await tree.writeChild(`${repo.name}.toml`, toml);
-
-        progressBar.tick();
-    }
-
-
-    // return tree
-    return tree;
-}
-
-async function loadFeedProjects(repo, projectsListUrl) {
-
-    // auto-prepend http://
-    if (!projectsListUrl.match(/^https?:\/\//)) {
-        projectsListUrl = `http://${projectsListUrl}`;
-    }
-
-
-    // load response from URL
-    console.error(`loading projects from ${projectsListUrl}...`);
-    let response;
-
-    try {
-        response = await axios.get(projectsListUrl, { responseType: 'stream' });
-    } catch (err) {
-        console.error(`Feed request failed: ${err.message}`);
-
-        if (err.response && err.response.status == 404) {
-            return null;
-        }
-
-        return null;
-    }
-
-
-    // read and normalize content type
-    let contentType = response.headers['content-type'] || '';
-
-    // look for text/csv or application/json anywhere within the response's Content-Type
-    if (contentType.includes('text/csv')) {
-        contentType = 'text/csv';
-    } else if (contentType.includes('application/json')) {
-        contentType = 'application/json';
-    } else {
-        // if Content-Type wasn't CSV or JSON, see if filename extension in URL is
-        const lowerCaseUrl = projectsListUrl.toLowerCase();
-
-        if (lowerCaseUrl.endsWith('.json')) {
-            contentType = 'application/json';
-        } else if(lowerCaseUrl.endsWith('.csv')) {
-            contentType = 'text/csv';
-        } else {
-            console.error(`Response Content-Type must be text/csv or application/csv, got: ${contentType}`);
-            return null;
-        }
-    }
-
-
-    // extract projects array from response
-    let projects;
-
-    if (contentType == 'text/csv') {
-        projects = await new Promise((resolve, reject) => {
-            const rows = [];
-
-            response.data
-                .pipe(csvParser())
-                .on('data', row => rows.push(row))
-                .on('end', () => resolve(rows))
-                .on('error', reject);
-        });
-    } else {
-        projects = await new Promise((resolve, reject) => {
-            const chunks = [];
-
-            response.data
-                .on('data', chunk => chunks.push(chunk))
-                .on('end', () => resolve(JSON.parse(Buffer.concat(chunks).toString('utf8'))))
-                .on('error', reject);
-        });
-    }
-
-
-    // build tree
-    const tree = repo.createTree();
-    const progressBar = new ProgressBar('building projects list :current/:total [:bar] :etas', {
-        total: projects.length
-    });
-
-    for (const project of projects) {
-        // extract interesting bits of data
-        const projectData = {};
-
-        if (typeof project == 'string') {
-            projectData.code_url = project;
-            projectData.name = path.basename(project);
-        } else {
-
-            // cfapi mapped these two fields, presumably some systems use it
-            if (project.homepage) {
-                projectData.link_url = project.homepage;
-            }
-
-            if (project.html_url) {
-                projectData.code_url = project.html_url;
-            }
-
-            // split tags into trimmed array if needed
-            if (typeof project.tags == 'string') {
-                project.tags = project.tags.trim().split(/\s*,\s*/).filter(tag => tag);
-            }
-
-            // extract known CfAPI fields
-            for (const sourceKey of CFAPI_FIELDS) {
-                const sourceValue = project[sourceKey];
-
-                if (!sourceValue) {
-                    continue;
-                } else if (Array.isArray(sourceValue) && !sourceValue.length) {
-                    continue;
-                }
-
-                let destKey = sourceKey;
-
-                if (destKey == 'tags') {
-                    destKey = 'topics';
-                }
-
-                projectData[destKey] = sourceValue;
-            }
-        }
-
-        if (!projectData.name) {
-            console.error('Skipping project with no name');
-            continue;
-        }
-
-        let name = projectData.name;
-
-        // if name can't be written only to path, record as field
-        if (name.includes('/')) {
-            name = name.replace(/\//g, '--');
-        }
-
-        // load github data
-        const githubRepoMatch = projectData.code_url && githubRepoRegex.exec(projectData.code_url);
-        if (githubRepoMatch) {
-            const { username, repo } = githubRepoMatch.groups;
-            let response;
-
-            try {
-                response = await githubAxios.get(`/repos/${username}/${repo}`);
-
-                if (response.data.topics.length) {
-                    projectData.topics = (projectData.topics || []).concat(response.data.topics);
-                }
-
-                if (projectData.topics) {
-                    projectData.topics = projectData.topics.sort();
-                }
-            } catch (err) {
-                if (err.response && err.response.status == 404) {
-                    projectData.flags = [ 'github_404' ]
-                } else {
-                    console.error(`GitHub request failed: ${err.response ? err.response.data.message || err.response.status : err.message}`);
-                }
-            }
-        }
-
-        const toml = GitSheets.stringifyRecord(projectData);
-        const blob = await tree.writeChild(`${name}.toml`, toml);
-
-        progressBar.tick();
-    }
-
-
-    // return tree
-    return tree;
 }
