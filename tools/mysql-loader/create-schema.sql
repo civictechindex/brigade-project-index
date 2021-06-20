@@ -1,3 +1,5 @@
+SHOW DATABASES;
+
 USE `cfa_project_index`;
 
 CREATE TABLE IF NOT EXISTS `locations` (
