@@ -1,8 +1,0 @@
-[hololens]
-package = "holo/lens-gitbook"
-
-[hololens.input]
-files = "**/*.md"
-
-[hololens.output]
-merge = "underlay"
