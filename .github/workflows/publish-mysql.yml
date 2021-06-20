@@ -42,12 +42,6 @@ jobs:
         pip install --upgrade pip
         pip install -r requirements.txt
 
-    #- name: Drop existing tables
-    #  run: mysql -h "${DB_HOST}" -u "${DB_USER}" -p"${DB_PWD}" < tools/mysql-loader/drop-schema.sql
-
-    #- name: Create database tables
-    #  run: mysql -h "${DB_HOST}" -u "${DB_USER}" -p"${DB_PWD}" < tools/mysql-loader/create-schema.sql
-
     - name: Load organizations
       run: |
         cd tools/mysql-loader
