@@ -42,11 +42,11 @@ jobs:
         pip install --upgrade pip
         pip install -r requirements.txt
 
-    - name: Drop existing database
-      run: mysql -h "${DB_HOST}" -u "${DB_USER}" -p"${DB_PWD}" < tools/mysql-loader/drop-schema.sql
+    #- name: Drop existing tables
+    #  run: mysql -h "${DB_HOST}" -u "${DB_USER}" -p"${DB_PWD}" < tools/mysql-loader/drop-schema.sql
 
-    - name: Initialize new database schema
-      run: mysql -h "${DB_HOST}" -u "${DB_USER}" -p"${DB_PWD}" < tools/mysql-loader/create-schema.sql
+    #- name: Create database tables
+    #  run: mysql -h "${DB_HOST}" -u "${DB_USER}" -p"${DB_PWD}" < tools/mysql-loader/create-schema.sql
 
     - name: Load organizations
       run: |
