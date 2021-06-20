@@ -1,4 +1,5 @@
 USE `cfa_project_index`;
+
 DROP TABLE `organizations_locations`;
 DROP TABLE `organizations_tags`;
 DROP TABLE `locations`;

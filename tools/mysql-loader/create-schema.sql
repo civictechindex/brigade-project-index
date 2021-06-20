@@ -1,3 +1,5 @@
+USE `cfa_project_index`;
+
 CREATE TABLE IF NOT EXISTS `locations` (
   `id` int(11) NOT NULL AUTO_INCREMENT,
   `city` varchar(128) COLLATE utf8mb4_unicode_ci DEFAULT NULL,
@@ -111,5 +113,3 @@ INSERT INTO periods (`last_pushed_within`, `last_pushed_within_num`) value('year
 INSERT INTO periods (`last_pushed_within`, `last_pushed_within_num`) value('over_a_year', 4);
 
 /*!40101 SET SQL_MODE=IFNULL(@OLD_SQL_MODE, '') */;
-/*!40014 SET FOREIGN_KEY_CHECKS=IF(@OLD_FOREIGN_KEY_CHECKS IS NULL, 1, @OLD_FOREIGN_KEY_CHECKS) */;
-/*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
