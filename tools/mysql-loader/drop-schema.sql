@@ -1,21 +1,21 @@
 USE `cfa_project_index`;
 
-DROP TABLE `organizations_locations`;
-DROP TABLE `organizations_tags`;
-DROP TABLE `locations`;
+DROP TABLE IF EXISTS `organizations_locations`;
+DROP TABLE IF EXISTS  `organizations_tags`;
+DROP TABLE IF EXISTS  `locations`;
 
-DROP TABLE `organizations`;
-DROP TABLE `tags`;
+DROP TABLE IF EXISTS  `organizations`;
+DROP TABLE IF EXISTS  `tags`;
 
-DROP TABLE `projects_topics`;
-DROP TABLE `projects`;
-DROP TABLE `topics`;
+DROP TABLE IF EXISTS  `projects_topics`;
+DROP TABLE IF EXISTS  `projects`;
+DROP TABLE IF EXISTS  `topics`;
 
-DROP TABLE `periods`;
-DROP TABLE `states_regions`;
+DROP TABLE IF EXISTS  `periods`;
+DROP TABLE IF EXISTS  `states_regions`;
 
-DROP VIEW `brigades_topics`;
-DROP VIEW `projects_last_pushed_within`;
-DROP VIEW `organizations_last_pushed_within`;
-DROP VIEW `organizations_projects_count`;
-DROP VIEW `projects_organizations_locations`;
+DROP VIEW IF EXISTS  `brigades_topics`;
+DROP VIEW IF EXISTS  `projects_last_pushed_within`;
+DROP VIEW IF EXISTS  `organizations_last_pushed_within`;
+DROP VIEW IF EXISTS  `organizations_projects_count`;
+DROP VIEW IF EXISTS  `projects_organizations_locations`;
