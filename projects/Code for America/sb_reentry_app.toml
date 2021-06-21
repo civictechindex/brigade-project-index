@@ -34,7 +34,7 @@ name = "sb_reentry_app"
 node_id = "MDEwOlJlcG9zaXRvcnkzMDQ0NTc2MTc="
 open_issues_within = 0
 private = false
-pushed_within = "week"
+pushed_within = "month"
 stargazers_within = 10
 topics = [
   "civic-tech",
@@ -43,7 +43,7 @@ topics = [
   "react",
   "santa-barbara"
 ]
-updated_within = "week"
+updated_within = "month"
 watchers_within = 10
 
   [github.owner]
