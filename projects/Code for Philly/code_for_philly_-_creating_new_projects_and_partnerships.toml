@@ -12,7 +12,7 @@ default_branch = "master"
 description = { }
 disabled = false
 fork = false
-forks_within = 0
+forks_within = 10
 full_name = "CodeForPhilly/partnerships"
 has_downloads = true
 has_issues = true
@@ -24,7 +24,7 @@ id = 242_204_745
 language = { }
 license = { }
 name = "partnerships"
-network_count = 0
+network_count = 1
 node_id = "MDEwOlJlcG9zaXRvcnkyNDIyMDQ3NDU="
 open_issues_within = 10
 private = false
