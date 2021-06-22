@@ -25,12 +25,12 @@ id = 296_403_774
 language = "Ruby"
 name = "all_sorns"
 node_id = "MDEwOlJlcG9zaXRvcnkyOTY0MDM3NzQ="
-open_issues_within = 100
+open_issues_within = 10
 private = false
 pushed_within = "week"
 stargazers_within = 10
 topics = [ "18f", "government", "government-data", "privacy", "rails" ]
-updated_within = "month"
+updated_within = "week"
 watchers_within = 10
 
   [github.license]
