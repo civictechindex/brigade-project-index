@@ -1,0 +1,46 @@
+code_url = "https://github.com/code-for-tb/community-badges"
+description = "List of general community badges"
+git_url = "git://github.com/code-for-tb/community-badges.git"
+name = "community-badges"
+organization_name = "Code for Tampa Bay"
+
+[github]
+archived = false
+created_at = "2021-06-22T21:51:40Z"
+default_branch = "main"
+description = "List of general community badges"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "code-for-tb/community-badges"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 379_409_422
+language = { }
+license = { }
+name = "community-badges"
+node_id = "MDEwOlJlcG9zaXRvcnkzNzk0MDk0MjI="
+open_issues_within = 0
+private = false
+pushed_within = "week"
+stargazers_within = 0
+topics = [ ]
+updated_within = "week"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 9_374_504
+  login = "code-for-tb"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjkzNzQ1MDQ="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
