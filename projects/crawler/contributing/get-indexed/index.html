@@ -12,7 +12,7 @@
         <link rel="canonical" href="https://brigade.cloud/projects/crawler/contributing/get-indexed/">
       
       <link rel="icon" href="../../../../assets/images/favicon.png">
-      <meta name="generator" content="mkdocs-1.1.2, mkdocs-material-7.1.1">
+      <meta name="generator" content="mkdocs-1.2.1, mkdocs-material-7.1.8">
     
     
       
@@ -20,10 +20,10 @@
       
     
     
-      <link rel="stylesheet" href="../../../../assets/stylesheets/main.9299cb39.min.css">
+      <link rel="stylesheet" href="../../../../assets/stylesheets/main.ca7ac06f.min.css">
       
         
-        <link rel="stylesheet" href="../../../../assets/stylesheets/palette.ef6f36e2.min.css">
+        <link rel="stylesheet" href="../../../../assets/stylesheets/palette.f1a3b89f.min.css">
         
           
           
@@ -46,6 +46,8 @@
     
     
       
+
+
     
     
   </head>
@@ -199,7 +201,7 @@
 
   <li class="md-tabs__item">
     <a href="../../../../join-us/" class="md-tabs__link">
-      Join us
+      Join Us
     </a>
   </li>
 
@@ -390,6 +392,7 @@
       
       <input class="md-nav__toggle md-toggle" data-md-toggle="toc" type="checkbox" id="__toc">
       
+      
         
       
       
@@ -404,6 +407,7 @@
       
         
 <nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
   
   
     
@@ -662,7 +666,7 @@
   
     <li class="md-nav__item">
       <a href="../../../../join-us/" class="md-nav__link">
-        Join us
+        Join Us
       </a>
     </li>
   
@@ -711,6 +715,7 @@
                   <div class="md-sidebar__inner">
                     
 <nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
   
   
     
@@ -802,20 +807,22 @@
                 
                 
                 <h1 id="get-your-organization-indexed">Get your organization indexed<a class="headerlink" href="#get-your-organization-indexed" title="Permanent link"> ¶</a></h1>
-<p>The <a href="https://statusboard.brigade.cloud/#/">Project Index Statusboard</a> aggregates all Code for America brigade projects and displays them on a map. Adding your brigade’s projects to the Statusboard can be done through one of several automated (or semi-automated) processes.</p>
+<p>The <a href="../../../statusboard/">Project Index Statusboard</a> aggregates all Code for America brigade projects and displays them on a map. Adding your brigade’s projects to the Statusboard can be done through one of several automated (or semi-automated) processes.</p>
 <h2 id="verify-that-your-brigade-is-listed-accurately">Verify that your brigade is listed accurately<a class="headerlink" href="#verify-that-your-brigade-is-listed-accurately" title="Permanent link"> ¶</a></h2>
 <p>The index automatically pulls data from the <a href="https://github.com/codeforamerica/brigade-information">brigade-information project</a>:</p>
 <ol>
 <li>View the <a href="https://github.com/codeforamerica/brigade-information/blob/master/organizations.json">organizations.json file</a> and look for your brigade (a simple cmd-F should do the trick).</li>
-<li>If your brigade is already listed, check the following fields:
-    1. <strong>“projects_list_url”</strong> should be your brigade’s GitHub URL.
-    2. <strong>“tags”</strong> should include &ldquo;Brigade&rdquo; and &ldquo;Code for America&rdquo;.</li>
+<li>If your brigade is already listed, check the following fields:<ol>
+<li><strong>“projects_list_url”</strong> should be your brigade’s GitHub URL.</li>
+<li><strong>“tags”</strong> should include &ldquo;Brigade&rdquo; and &ldquo;Code for America&rdquo;.</li>
+</ol>
+</li>
 <li>If your brigade is <em>not</em> listed there or you want to consider other ways to include your brigade’s projects, choose one of the methods below.</li>
 </ol>
 <p>Note that currently, non-US and non-brigade organizations aren’t currently pulled into the Project Index Statusboard.</p>
 <h2 id="ways-to-index-your-brigades-projects">Ways to index your brigade’s projects<a class="headerlink" href="#ways-to-index-your-brigades-projects" title="Permanent link"> ¶</a></h2>
 <h3 id="method-1-using-your-brigades-github-url">Method 1: Using your brigade’s GitHub URL<a class="headerlink" href="#method-1-using-your-brigades-github-url" title="Permanent link"> ¶</a></h3>
-<p>Do your brigade’s projects live under your GitHub organization?  You can just use the URL for that (i.e. “https://github.com/codefornola”) as the key for “projects_list_url” in the <a href="https://github.com/codeforamerica/brigade-information/blob/master/organizations.json">organizations.json file</a>.</p>
+<p>Do your brigade’s projects live under your GitHub organization?  You can just use the URL for that (i.e. <code>https://github.com/codefornola</code>) as the key for “projects_list_url” in the <a href="https://github.com/codeforamerica/brigade-information/blob/master/organizations.json">organizations.json file</a>.</p>
 <p>If you have projects that live outside of GitHub, you’ll have to create a “placeholder” repo for each of those projects. These repos need only include a readme.md doc with relevant links to external project documentation as appropriate.</p>
 <h3 id="method-2-using-github-topics">Method 2) Using GitHub topics<a class="headerlink" href="#method-2-using-github-topics" title="Permanent link"> ¶</a></h3>
 <p>In this option, all brigade project repos should include a shared topic based on the brigade&rsquo;s name (eg <em>openoakland</em> or <em>hack-for-la</em>). See <a href="https://help.github.com/en/github/administering-a-repository/classifying-your-repository-with-topics">GitHub’s instructions for adding a topic to a repo</a>.</p>
@@ -826,7 +833,7 @@
 <p>Google Sheets is a common tool so we’ve written out instructions, but any JSON or CSV file <em>with the right column headers</em> and the correct link in the <a href="https://github.com/codeforamerica/brigade-information/blob/master/organizations.json">organizations.json file</a> (see the Google Sheet instructions above) will do the trick.</p>
 <p>If you have questions or are interested in helping to improve the Brigade Project Index, please <a href="https://github.com/codeforamerica/brigade-project-index">read the README on the repo</a> and visit #brigade-project-index in the CfA slack.</p>
 <h2 id="tagging-your-brigades-projects">Tagging your brigade’s projects<a class="headerlink" href="#tagging-your-brigades-projects" title="Permanent link"> ¶</a></h2>
-<p>The group that has been working on this project has begun to form a <a href="../../../civic-tech-taxonomy">taxonomy</a>.  When assigning topics, please check <a href="https://statusboard.brigade.cloud/api/taxonomy.json">the existing topics</a> (and consider adding to <a href="https://github.com/codeforamerica/civic-tech-taxonomy/tree/master/issues">the official set</a> if something is missing) first to be sure you’re not creating a duplicate.  <strong>For COVID-19 related projects, please use the topic “covid-19”.</strong></p>
+<p>The group that has been working on this project has begun to form a <a href="../../../civic-tech-taxonomy/">taxonomy</a>.  When assigning topics, please check <a href="https://statusboard.brigade.cloud/api/taxonomy.json">the existing topics</a> (and consider adding to <a href="https://github.com/codeforamerica/civic-tech-taxonomy/tree/master/issues">the official set</a> if something is missing) first to be sure you’re not creating a duplicate.  <strong>For COVID-19 related projects, please use the topic “covid-19”.</strong></p>
 <h2 id="more-about-the-index-and-the-statusboard">More about the Index and the Statusboard<a class="headerlink" href="#more-about-the-index-and-the-statusboard" title="Permanent link"> ¶</a></h2>
 <p>The index is the dataset we suck everything into.  The statusboard is a tool for browsing the index that&rsquo;s been designed around helping brigade&rsquo;s assess their index status (hence it doing things like showing checkmarks for key details being filled in).  The idea with the statusboard was for it to evolve into a one-stop-shop for brigade leaders and members to see how well their projects are indexed and where the gaps are.</p>
 <p>The reason for this layered approach was that we wanted to focus on collecting really quality data that could be distributed across the network for a variety of tools and uses.  This way, there&rsquo;s a much stronger value prop for brigades to publish their projects into the index&ndash;it doesn&rsquo;t just feed one tool/site we&rsquo;re building, but a whole ecosystem of brigade network tools that anyone can add to. There are a couple other tools out there using the index in addition to the statusboard.</p>
@@ -848,7 +855,8 @@
   
     <nav class="md-footer__inner md-grid" aria-label="Footer">
       
-        <a href="../../GLOSSARY/" class="md-footer__link md-footer__link--prev" rel="prev">
+        
+        <a href="../../GLOSSARY/" class="md-footer__link md-footer__link--prev" aria-label="Previous: Glossary" rel="prev">
           <div class="md-footer__button md-icon">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12z"/></svg>
           </div>
@@ -863,7 +871,8 @@
         </a>
       
       
-        <a href="../docs/" class="md-footer__link md-footer__link--next" rel="next">
+        
+        <a href="../docs/" class="md-footer__link md-footer__link--next" aria-label="Next: Documentation / Website" rel="next">
           <div class="md-footer__title">
             <div class="md-ellipsis">
               <span class="md-footer__direction">
@@ -898,10 +907,10 @@
     <div class="md-dialog" data-md-component="dialog">
       <div class="md-dialog__inner md-typeset"></div>
     </div>
-    <script id="__config" type="application/json">{"base": "../../../..", "features": ["navigation.tabs"], "translations": {"clipboard.copy": "Copy to clipboard", "clipboard.copied": "Copied to clipboard", "search.config.lang": "en", "search.config.pipeline": "trimmer, stopWordFilter", "search.config.separator": "[\\s\\-]+", "search.placeholder": "Search", "search.result.placeholder": "Type to start searching", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.term.missing": "Missing"}, "search": "../../../../assets/javascripts/workers/search.fe42c31b.min.js", "version": null}</script>
+    <script id="__config" type="application/json">{"base": "../../../..", "features": ["navigation.tabs"], "translations": {"clipboard.copy": "Copy to clipboard", "clipboard.copied": "Copied to clipboard", "search.config.lang": "en", "search.config.pipeline": "trimmer, stopWordFilter", "search.config.separator": "[\\s\\-]+", "search.placeholder": "Search", "search.result.placeholder": "Type to start searching", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.term.missing": "Missing", "select.version.title": "Select version"}, "search": "../../../../assets/javascripts/workers/search.b0710199.min.js", "version": null}</script>
     
     
-      <script src="../../../../assets/javascripts/bundle.7353b375.min.js"></script>
+      <script src="../../../../assets/javascripts/bundle.76f349be.min.js"></script>
       
         <script src="https://unpkg.com/mermaid@8.5.0/dist/mermaid.min.js"></script>
       
