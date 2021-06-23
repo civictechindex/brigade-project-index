@@ -1,6 +1,6 @@
-code_url = "https://github.com/18F/OPRE-MAPS"
-git_url = "git://github.com/18F/OPRE-MAPS.git"
-name = "OPRE-MAPS"
+code_url = "https://github.com/18F/OPRE-Unicorn"
+git_url = "git://github.com/18F/OPRE-Unicorn.git"
+name = "OPRE-Unicorn"
 organization_name = "18F"
 
 [github]
@@ -11,7 +11,7 @@ description = { }
 disabled = false
 fork = false
 forks_within = 0
-full_name = "18F/OPRE-MAPS"
+full_name = "18F/OPRE-Unicorn"
 has_downloads = true
 has_issues = true
 has_pages = false
@@ -21,7 +21,7 @@ homepage = { }
 id = 368_634_076
 language = { }
 license = { }
-name = "OPRE-MAPS"
+name = "OPRE-Unicorn"
 node_id = "MDEwOlJlcG9zaXRvcnkzNjg2MzQwNzY="
 open_issues_within = 100
 private = false
