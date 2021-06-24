@@ -27,7 +27,7 @@ name = "bug-bounty"
 node_id = "MDEwOlJlcG9zaXRvcnk1ODIzMTgyMw=="
 open_issues_within = 10
 private = false
-pushed_within = "week"
+pushed_within = "month"
 stargazers_within = 10
 topics = [ "tts-bug-bounty" ]
 updated_within = "month"
