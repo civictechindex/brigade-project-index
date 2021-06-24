@@ -1,14 +1,16 @@
 code_url = "https://github.com/mysociety/greece-theme"
+description = "The Alaveteli theme for arthro5a.gr (Greece) "
 git_url = "git://github.com/mysociety/greece-theme.git"
-link_url = "https://www.mysociety.org/"
+link_url = "https://arthro5a.gr"
 name = "greece-theme"
 organization_name = "mySociety"
+topics = [ "alaveteli", "alaveteli-theme" ]
 
 [github]
 archived = false
 created_at = "2021-04-07T12:00:07Z"
 default_branch = "master"
-description = { }
+description = "The Alaveteli theme for arthro5a.gr (Greece) "
 disabled = false
 fork = false
 forks_within = 0
@@ -18,7 +20,7 @@ has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = true
-homepage = "https://www.mysociety.org/"
+homepage = "https://arthro5a.gr"
 id = 355_528_368
 language = "HTML"
 name = "greece-theme"
@@ -27,7 +29,7 @@ open_issues_within = 10
 private = false
 pushed_within = "week"
 stargazers_within = 0
-topics = [ ]
+topics = [ "alaveteli", "alaveteli-theme" ]
 updated_within = "week"
 watchers_within = 0
 
