@@ -7,11 +7,11 @@ organization_name = "Code for Romania"
 [github]
 archived = false
 created_at = "2021-06-21T10:32:22Z"
-default_branch = "main"
+default_branch = "develop"
 description = "Teacher Workout backend (API for mobile apps & for the web client)"
 disabled = false
 fork = false
-forks_within = 0
+forks_within = 10
 full_name = "code4romania/teacher-workout-backend"
 has_downloads = true
 has_issues = true
