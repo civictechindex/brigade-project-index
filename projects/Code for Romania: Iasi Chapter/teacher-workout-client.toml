@@ -11,7 +11,7 @@ default_branch = "develop"
 description = "Web client for Teacher Workout"
 disabled = false
 fork = false
-forks_within = 0
+forks_within = 10
 full_name = "code4romania/teacher-workout-client"
 has_downloads = true
 has_issues = true
@@ -20,7 +20,7 @@ has_projects = true
 has_wiki = true
 homepage = { }
 id = 378_893_786
-language = { }
+language = "HTML"
 name = "teacher-workout-client"
 node_id = "MDEwOlJlcG9zaXRvcnkzNzg4OTM3ODY="
 open_issues_within = 10
