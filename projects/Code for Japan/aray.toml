@@ -1,0 +1,47 @@
+code_url = "https://github.com/codeforjapan/aray"
+description = "黑客松系統（零時小學校 + 其他 g0v 專案都可以用的時數和成就系統）"
+git_url = "git://github.com/codeforjapan/aray.git"
+link_url = "https://aray.g0v.tw/"
+name = "aray"
+organization_name = "Code for Japan"
+
+[github]
+archived = false
+created_at = "2021-06-26T03:16:23Z"
+default_branch = "develop"
+description = "黑客松系統（零時小學校 + 其他 g0v 專案都可以用的時數和成就系統）"
+disabled = false
+fork = true
+forks_within = 0
+full_name = "codeforjapan/aray"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "https://aray.g0v.tw/"
+id = 380_403_223
+language = { }
+license = { }
+name = "aray"
+node_id = "MDEwOlJlcG9zaXRvcnkzODA0MDMyMjM="
+open_issues_within = 0
+private = false
+pushed_within = "week"
+stargazers_within = 0
+topics = [ ]
+updated_within = "week"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 5_137_738
+  login = "codeforjapan"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjUxMzc3Mzg="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
