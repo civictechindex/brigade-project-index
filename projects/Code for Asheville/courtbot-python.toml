@@ -1,0 +1,52 @@
+code_url = "https://github.com/CodeForAsheville/courtbot-python"
+description = "This is an experimental reimplementation of courtbot using python."
+git_url = "git://github.com/CodeForAsheville/courtbot-python.git"
+link_url = "http://court.bot/"
+name = "courtbot-python"
+organization_name = "Code for Asheville"
+
+[github]
+archived = false
+created_at = "2021-06-26T17:24:24Z"
+default_branch = "master"
+description = "This is an experimental reimplementation of courtbot using python."
+disabled = false
+fork = true
+forks_within = 0
+full_name = "CodeForAsheville/courtbot-python"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://court.bot/"
+id = 380_559_329
+language = { }
+name = "courtbot-python"
+node_id = "MDEwOlJlcG9zaXRvcnkzODA1NTkzMjk="
+open_issues_within = 0
+private = false
+pushed_within = "month"
+stargazers_within = 0
+topics = [ ]
+updated_within = "week"
+watchers_within = 0
+
+  [github.license]
+  key = "isc"
+  name = "ISC License"
+  node_id = "MDc6TGljZW5zZTEw"
+  spdx_id = "ISC"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 3_941_752
+  login = "CodeForAsheville"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM5NDE3NTI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

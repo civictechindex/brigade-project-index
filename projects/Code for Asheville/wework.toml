@@ -1,0 +1,52 @@
+code_url = "https://github.com/CodeForAsheville/wework"
+description = "YMI Cultural Center Job Board"
+git_url = "git://github.com/CodeForAsheville/wework.git"
+link_url = "https://ymiculturalcenter.org"
+name = "wework"
+organization_name = "Code for Asheville"
+
+[github]
+archived = false
+created_at = "2021-06-26T17:56:39Z"
+default_branch = "master"
+description = "YMI Cultural Center Job Board"
+disabled = false
+fork = true
+forks_within = 0
+full_name = "CodeForAsheville/wework"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "https://ymiculturalcenter.org"
+id = 380_565_464
+language = { }
+name = "wework"
+node_id = "MDEwOlJlcG9zaXRvcnkzODA1NjU0NjQ="
+open_issues_within = 0
+private = false
+pushed_within = "year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "week"
+watchers_within = 0
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 3_941_752
+  login = "CodeForAsheville"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM5NDE3NTI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
