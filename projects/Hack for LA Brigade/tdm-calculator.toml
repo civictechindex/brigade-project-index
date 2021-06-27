@@ -1,0 +1,73 @@
+code_url = "https://github.com/hackforla/tdm-calculator"
+description = "DTLA Hack for LA is partnering with Los Angeles Department of Transportation (LADOT) to develop a Traffic Demand Management (TDM) calculator tool.  This tool will help planners at LADOT and real estate developers to meet the Los Angeles’s Mobility Plan goals by 2035. "
+git_url = "git://github.com/hackforla/tdm-calculator.git"
+name = "tdm-calculator"
+organization_name = "Hack for LA Brigade"
+topics = [
+  "civictechindex",
+  "code-for-all",
+  "code-for-america",
+  "hack-for-la",
+  "ladot",
+  "los-angeles",
+  "parking",
+  "traffic-demand-management",
+  "transportation"
+]
+
+[github]
+archived = false
+created_at = "2019-07-17T19:46:19Z"
+default_branch = "develop"
+description = "DTLA Hack for LA is partnering with Los Angeles Department of Transportation (LADOT) to develop a Traffic Demand Management (TDM) calculator tool.  This tool will help planners at LADOT and real estate developers to meet the Los Angeles’s Mobility Plan goals by 2035. "
+disabled = false
+fork = false
+forks_within = 100
+full_name = "hackforla/tdm-calculator"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 197_452_459
+language = "JavaScript"
+name = "tdm-calculator"
+node_id = "MDEwOlJlcG9zaXRvcnkxOTc0NTI0NTk="
+open_issues_within = 100
+private = false
+pushed_within = "month"
+score = 1
+stargazers_within = 100
+topics = [
+  "civictechindex",
+  "code-for-all",
+  "code-for-america",
+  "hack-for-la",
+  "ladot",
+  "los-angeles",
+  "parking",
+  "traffic-demand-management",
+  "transportation"
+]
+updated_within = "month"
+watchers_within = 100
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 11_635_254
+  login = "hackforla"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjExNjM1MjU0"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
