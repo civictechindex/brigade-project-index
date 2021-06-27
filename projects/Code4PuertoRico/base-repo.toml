@@ -32,7 +32,7 @@ name = "base-repo"
 node_id = "MDEwOlJlcG9zaXRvcnkyNDczNTQ3NzE="
 open_issues_within = 0
 private = false
-pushed_within = "year"
+pushed_within = "over_a_year"
 stargazers_within = 0
 topics = [
   "civic-tech",
@@ -41,7 +41,7 @@ topics = [
   "codeforamerica-brigade",
   "repo-template"
 ]
-updated_within = "year"
+updated_within = "over_a_year"
 watchers_within = 0
 
   [github.license]
