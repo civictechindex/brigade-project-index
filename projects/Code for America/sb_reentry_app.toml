@@ -32,9 +32,9 @@ language = "TypeScript"
 license = { }
 name = "sb_reentry_app"
 node_id = "MDEwOlJlcG9zaXRvcnkzMDQ0NTc2MTc="
-open_issues_within = 0
+open_issues_within = 10
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 10
 topics = [
   "civic-tech",
