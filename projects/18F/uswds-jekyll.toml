@@ -9,7 +9,7 @@ topics = [ "government", "jekyll-theme", "uswds" ]
 [github]
 archived = false
 created_at = "2017-02-23T23:41:47Z"
-default_branch = "master"
+default_branch = "main"
 description = "A Jekyll theme showcasing the U.S. Web Design System"
 disabled = false
 fork = false
@@ -27,10 +27,10 @@ name = "uswds-jekyll"
 node_id = "MDEwOlJlcG9zaXRvcnk4Mjk4MjE4Mw=="
 open_issues_within = 100
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 1_000
 topics = [ "government", "jekyll-theme", "uswds" ]
-updated_within = "month"
+updated_within = "week"
 watchers_within = 1_000
 
   [github.license]
