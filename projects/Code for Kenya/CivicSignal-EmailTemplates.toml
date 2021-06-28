@@ -1,7 +1,7 @@
-code_url = "https://github.com/CodeForAfrica/email-templates"
+code_url = "https://github.com/CodeForAfrica/CivicSignal-EmailTemplates"
 description = "Templates for emails that CivicSignal sends."
-git_url = "git://github.com/CodeForAfrica/email-templates.git"
-name = "email-templates"
+git_url = "git://github.com/CodeForAfrica/CivicSignal-EmailTemplates.git"
+name = "CivicSignal-EmailTemplates"
 organization_name = "Code for Kenya"
 
 [github]
@@ -12,7 +12,7 @@ description = "Templates for emails that CivicSignal sends."
 disabled = false
 fork = true
 forks_within = 0
-full_name = "CodeForAfrica/email-templates"
+full_name = "CodeForAfrica/CivicSignal-EmailTemplates"
 has_downloads = true
 has_issues = false
 has_pages = false
@@ -22,14 +22,14 @@ homepage = ""
 id = 359_803_846
 language = "HTML"
 license = { }
-name = "email-templates"
+name = "CivicSignal-EmailTemplates"
 node_id = "MDEwOlJlcG9zaXRvcnkzNTk4MDM4NDY="
 open_issues_within = 0
 private = false
 pushed_within = "year"
 stargazers_within = 0
 topics = [ ]
-updated_within = "year"
+updated_within = "week"
 watchers_within = 0
 
   [github.owner]
