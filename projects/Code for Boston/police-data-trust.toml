@@ -1,13 +1,20 @@
 code_url = "https://github.com/codeforboston/police-data-trust"
+description = "A national archive of police data collected by journalists, lawyers, and activists around the country."
 git_url = "git://github.com/codeforboston/police-data-trust.git"
 name = "police-data-trust"
 organization_name = "Code for Boston"
+topics = [
+  "accountability",
+  "open-government",
+  "police-misconduct",
+  "transparency"
+]
 
 [github]
 archived = false
 created_at = "2021-02-26T12:35:31Z"
 default_branch = "main"
-description = { }
+description = "A national archive of police data collected by journalists, lawyers, and activists around the country."
 disabled = false
 fork = false
 forks_within = 100
@@ -17,7 +24,7 @@ has_issues = true
 has_pages = true
 has_projects = true
 has_wiki = true
-homepage = { }
+homepage = ""
 id = 342_570_977
 language = "Python"
 name = "police-data-trust"
@@ -26,7 +33,12 @@ open_issues_within = 100
 private = false
 pushed_within = "week"
 stargazers_within = 10
-topics = [ ]
+topics = [
+  "accountability",
+  "open-government",
+  "police-misconduct",
+  "transparency"
+]
 updated_within = "week"
 watchers_within = 10
 
