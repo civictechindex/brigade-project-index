@@ -1,0 +1,46 @@
+code_url = "https://github.com/codeforjapan/CfJSummit-2021-Website"
+git_url = "git://github.com/codeforjapan/CfJSummit-2021-Website.git"
+link_url = "cf-js-ummit-2021-website.vercel.app"
+name = "CfJSummit-2021-Website"
+organization_name = "Code for Japan"
+
+[github]
+archived = false
+created_at = "2021-05-30T07:31:46Z"
+default_branch = "main"
+description = { }
+disabled = false
+fork = false
+forks_within = 0
+full_name = "codeforjapan/CfJSummit-2021-Website"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "cf-js-ummit-2021-website.vercel.app"
+id = 372_151_612
+language = "SCSS"
+license = { }
+name = "CfJSummit-2021-Website"
+node_id = "MDEwOlJlcG9zaXRvcnkzNzIxNTE2MTI="
+open_issues_within = 0
+private = false
+pushed_within = "week"
+stargazers_within = 0
+topics = [ ]
+updated_within = "week"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 5_137_738
+  login = "codeforjapan"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjUxMzc3Mzg="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
