@@ -5,14 +5,14 @@ name = "OakCrime"
 organization_name = "Open Oakland"
 
 [github]
-archived = false
+archived = true
 created_at = "2013-06-08T21:50:22Z"
 default_branch = "master"
 description = "Code supporting citizen analysis of crime in Oakland, CA"
 disabled = false
 fork = false
 forks_within = 100
-full_name = "openoakland/OakCrime"
+full_name = "openoakland/OakCrime-Decommissioned"
 has_downloads = true
 has_issues = true
 has_pages = false
@@ -22,12 +22,12 @@ homepage = { }
 id = 10_574_718
 language = "Python"
 license = { }
-name = "OakCrime"
+name = "OakCrime-Decommissioned"
 network_count = 16
 node_id = "MDEwOlJlcG9zaXRvcnkxMDU3NDcxOA=="
-open_issues_within = 100
+open_issues_within = 10
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 100
 subscribers_count = 15
 temp_clone_token = ""
@@ -39,7 +39,7 @@ topics = [
   "openoakland",
   "supporting-citizen-analysis"
 ]
-updated_within = "year"
+updated_within = "week"
 watchers_within = 100
 
   [github.organization]
