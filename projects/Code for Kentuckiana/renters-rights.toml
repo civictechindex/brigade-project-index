@@ -30,14 +30,14 @@ private = false
 pushed_within = "week"
 stargazers_within = 10
 topics = [ "civic-tech", "housing" ]
-updated_within = "over_a_year"
+updated_within = "week"
 watchers_within = 10
 
   [github.license]
-  key = "other"
-  name = "Other"
-  node_id = "MDc6TGljZW5zZTA="
-  spdx_id = "NOASSERTION"
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
 
   [github.owner]
   gravatar_id = ""
