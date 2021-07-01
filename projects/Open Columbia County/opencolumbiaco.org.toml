@@ -1,0 +1,48 @@
+code_url = "https://github.com/Open-Columbia-County/opencolumbiaco.org"
+description = "Website for Open Columbia County"
+git_url = "git://github.com/Open-Columbia-County/opencolumbiaco.org.git"
+link_url = "https://opencolumbiaco.org"
+name = "opencolumbiaco.org"
+organization_name = "Open Columbia County"
+topics = [ "code-for-america", "open-columbia-county" ]
+
+[github]
+archived = false
+created_at = "2021-01-03T20:51:00Z"
+default_branch = "master"
+description = "Website for Open Columbia County"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "Open-Columbia-County/opencolumbiaco.org"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "https://opencolumbiaco.org"
+id = 326_498_332
+language = "JavaScript"
+license = { }
+name = "opencolumbiaco.org"
+node_id = "MDEwOlJlcG9zaXRvcnkzMjY0OTgzMzI="
+open_issues_within = 0
+private = false
+pushed_within = "year"
+stargazers_within = 10
+topics = [ "code-for-america", "open-columbia-county" ]
+updated_within = "week"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 76_081_811
+  login = "Open-Columbia-County"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjc2MDgxODEx"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
