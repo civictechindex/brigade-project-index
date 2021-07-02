@@ -1,0 +1,50 @@
+code_url = "https://github.com/g0v/vaxx-crawler"
+git_url = "git://github.com/g0v/vaxx-crawler.git"
+name = "vaxx-crawler"
+organization_name = "g0v.tw"
+
+[github]
+archived = false
+created_at = "2021-06-26T10:06:29Z"
+default_branch = "main"
+description = { }
+disabled = false
+fork = false
+forks_within = 0
+full_name = "g0v/vaxx-crawler"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 380_470_664
+language = "JavaScript"
+name = "vaxx-crawler"
+node_id = "MDEwOlJlcG9zaXRvcnkzODA0NzA2NjQ="
+open_issues_within = 0
+private = false
+pushed_within = "week"
+stargazers_within = 0
+topics = [ ]
+updated_within = "week"
+watchers_within = 0
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_668_086
+  login = "g0v"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI2NjgwODY="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
