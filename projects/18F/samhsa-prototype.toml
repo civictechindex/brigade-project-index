@@ -1,0 +1,52 @@
+code_url = "https://github.com/18F/samhsa-prototype"
+description = "FindTreatment.gov, An 18F+SAMHSA Collaboration"
+git_url = "git://github.com/18F/samhsa-prototype.git"
+link_url = "https://findtreatment.gov/"
+name = "samhsa-prototype"
+organization_name = "18F"
+
+[github]
+archived = false
+created_at = "2019-11-14T16:49:27Z"
+default_branch = "master"
+description = "FindTreatment.gov, An 18F+SAMHSA Collaboration"
+disabled = false
+fork = true
+forks_within = 10
+full_name = "18F/samhsa-prototype"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = false
+homepage = "https://findtreatment.gov/"
+id = 221_744_604
+language = "JavaScript"
+name = "samhsa-prototype"
+node_id = "MDEwOlJlcG9zaXRvcnkyMjE3NDQ2MDQ="
+open_issues_within = 10
+private = false
+pushed_within = "week"
+stargazers_within = 10
+topics = [ ]
+updated_within = "week"
+watchers_within = 10
+
+  [github.license]
+  key = "other"
+  name = "Other"
+  node_id = "MDc6TGljZW5zZTA="
+  spdx_id = "NOASSERTION"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_233_994
+  login = "18F"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjYyMzM5OTQ="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
