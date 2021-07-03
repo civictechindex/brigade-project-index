@@ -1,0 +1,46 @@
+code_url = "https://github.com/g0v/plaaf-intrusion"
+description = "China so annoying"
+git_url = "git://github.com/g0v/plaaf-intrusion.git"
+name = "plaaf-intrusion"
+organization_name = "g0v.tw"
+
+[github]
+archived = false
+created_at = "2021-07-03T04:20:11Z"
+default_branch = "master"
+description = "China so annoying"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "g0v/plaaf-intrusion"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 382_523_174
+language = "JavaScript"
+license = { }
+name = "plaaf-intrusion"
+node_id = "MDEwOlJlcG9zaXRvcnkzODI1MjMxNzQ="
+open_issues_within = 0
+private = false
+pushed_within = "week"
+stargazers_within = 0
+topics = [ ]
+updated_within = "week"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_668_086
+  login = "g0v"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI2NjgwODY="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
