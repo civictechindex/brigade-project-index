@@ -1,5 +1,6 @@
 code_url = "https://github.com/codeforpakistan/Super-app"
 git_url = "git://github.com/codeforpakistan/Super-app.git"
+link_url = "https://play.google.com/apps/internaltest/4700180691063195913"
 name = "Super-app"
 organization_name = "Code for Pakistan"
 
@@ -17,7 +18,7 @@ has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = true
-homepage = { }
+homepage = "https://play.google.com/apps/internaltest/4700180691063195913"
 id = 331_251_087
 language = "Vue"
 license = { }
