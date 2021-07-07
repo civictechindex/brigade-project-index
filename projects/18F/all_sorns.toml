@@ -25,9 +25,9 @@ id = 296_403_774
 language = "Ruby"
 name = "all_sorns"
 node_id = "MDEwOlJlcG9zaXRvcnkyOTY0MDM3NzQ="
-open_issues_within = 10
+open_issues_within = 100
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ "18f", "government", "government-data", "privacy", "rails" ]
 updated_within = "month"
