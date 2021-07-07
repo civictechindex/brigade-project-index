@@ -14,7 +14,7 @@ fork = true
 forks_within = 0
 full_name = "codeforgreenville/open-map-data-multi-layers-demo"
 has_downloads = true
-has_issues = false
+has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = true
@@ -24,12 +24,12 @@ language = { }
 license = { }
 name = "open-map-data-multi-layers-demo"
 node_id = "MDEwOlJlcG9zaXRvcnkyNDMxODQwOTU="
-open_issues_within = 0
+open_issues_within = 10
 private = false
 pushed_within = "over_a_year"
 stargazers_within = 0
 topics = [ ]
-updated_within = "over_a_year"
+updated_within = "week"
 watchers_within = 0
 
   [github.owner]
