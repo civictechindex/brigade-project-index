@@ -47,7 +47,7 @@ topics = [
   "mapit",
   "vagrant"
 ]
-updated_within = "year"
+updated_within = "week"
 watchers_within = 10
 
   [github.owner]
