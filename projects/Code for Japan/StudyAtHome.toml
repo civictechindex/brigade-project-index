@@ -25,12 +25,12 @@ id = 260_518_795
 language = "Vue"
 name = "StudyAtHome"
 node_id = "MDEwOlJlcG9zaXRvcnkyNjA1MTg3OTU="
-open_issues_within = 100
+open_issues_within = 10
 private = false
 pushed_within = "week"
 stargazers_within = 100
 topics = [ "study" ]
-updated_within = "month"
+updated_within = "week"
 watchers_within = 100
 
   [github.license]
