@@ -1,5 +1,6 @@
 code_url = "https://github.com/codeforcroatia/popravi.to-coming-soon"
 git_url = "git://github.com/codeforcroatia/popravi.to-coming-soon.git"
+link_url = "https://codeforcroatia.github.io/popravi.to-coming-soon"
 name = "popravi.to-coming-soon"
 organization_name = "Code for Croatia"
 
@@ -17,7 +18,7 @@ has_issues = false
 has_pages = true
 has_projects = true
 has_wiki = true
-homepage = { }
+homepage = "https://codeforcroatia.github.io/popravi.to-coming-soon"
 id = 375_984_164
 language = "HTML"
 license = { }
@@ -25,10 +26,10 @@ name = "popravi.to-coming-soon"
 node_id = "MDEwOlJlcG9zaXRvcnkzNzU5ODQxNjQ="
 open_issues_within = 0
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 0
 topics = [ ]
-updated_within = "month"
+updated_within = "week"
 watchers_within = 0
 
   [github.owner]
