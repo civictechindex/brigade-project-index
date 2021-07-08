@@ -27,7 +27,7 @@ network_count = 16
 node_id = "MDEwOlJlcG9zaXRvcnkxMDU3NDcxOA=="
 open_issues_within = 10
 private = false
-pushed_within = "week"
+pushed_within = "month"
 stargazers_within = 100
 subscribers_count = 15
 temp_clone_token = ""
@@ -39,7 +39,7 @@ topics = [
   "openoakland",
   "supporting-citizen-analysis"
 ]
-updated_within = "week"
+updated_within = "month"
 watchers_within = 100
 
   [github.organization]
