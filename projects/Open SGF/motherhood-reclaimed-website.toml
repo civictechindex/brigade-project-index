@@ -19,11 +19,11 @@ has_projects = true
 has_wiki = true
 homepage = { }
 id = 366_206_540
-language = "PHP"
+language = "SCSS"
 license = { }
 name = "motherhood-reclaimed-website"
 node_id = "MDEwOlJlcG9zaXRvcnkzNjYyMDY1NDA="
-open_issues_within = 10
+open_issues_within = 100
 private = false
 pushed_within = "week"
 stargazers_within = 10
