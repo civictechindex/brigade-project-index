@@ -29,7 +29,7 @@ stargazers_within = 1_000
 subscribers_count = 23
 temp_clone_token = ""
 topics = [ "government", "r", "open-data", "chicago", "socrata", "soda" ]
-updated_within = "week"
+updated_within = "month"
 watchers_within = 1_000
 
   [github.license]
