@@ -23,12 +23,12 @@ id = 330_766_055
 language = "Go"
 name = "nolabase"
 node_id = "MDEwOlJlcG9zaXRvcnkzMzA3NjYwNTU="
-open_issues_within = 0
+open_issues_within = 10
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
-updated_within = "year"
+updated_within = "week"
 watchers_within = 10
 
   [github.license]
