@@ -1,0 +1,46 @@
+code_url = "https://github.com/open-austin/indigent-defense-scraper"
+description = "Scraper for collecting data about motions filed by public defenders in county courts"
+git_url = "git://github.com/open-austin/indigent-defense-scraper.git"
+name = "indigent-defense-scraper"
+organization_name = "Open Austin"
+
+[github]
+archived = false
+created_at = "2021-07-11T20:41:32Z"
+default_branch = "main"
+description = "Scraper for collecting data about motions filed by public defenders in county courts"
+disabled = false
+fork = true
+forks_within = 0
+full_name = "open-austin/indigent-defense-scraper"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 385_048_293
+language = { }
+license = { }
+name = "indigent-defense-scraper"
+node_id = "MDEwOlJlcG9zaXRvcnkzODUwNDgyOTM="
+open_issues_within = 0
+private = false
+pushed_within = "week"
+stargazers_within = 0
+topics = [ ]
+updated_within = "week"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 970_084
+  login = "open-austin"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjk3MDA4NA=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
