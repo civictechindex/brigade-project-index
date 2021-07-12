@@ -25,9 +25,9 @@ language = "HTML"
 license = { }
 name = "docs"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDY5OTA2Nw=="
-open_issues_within = 10
+open_issues_within = 100
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 100
 topics = [ ]
 updated_within = "year"
