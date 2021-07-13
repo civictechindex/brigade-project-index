@@ -1,5 +1,5 @@
 code_url = "https://github.com/g0v/aray"
-description = "黑客松系統（零時小學校 + 其他 g0v 專案都可以用的時數和成就系統）"
+description = "貢獻者與學習者時數平台"
 git_url = "git://github.com/g0v/aray.git"
 link_url = "https://aray.g0v.tw/"
 name = "aray"
@@ -9,7 +9,7 @@ organization_name = "g0v.tw"
 archived = false
 created_at = "2021-05-05T00:00:54Z"
 default_branch = "develop"
-description = "黑客松系統（零時小學校 + 其他 g0v 專案都可以用的時數和成就系統）"
+description = "貢獻者與學習者時數平台"
 disabled = false
 fork = false
 forks_within = 10
