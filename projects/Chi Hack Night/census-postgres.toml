@@ -18,18 +18,18 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 9_085_331
-language = "PLpgSQL"
+language = "Python"
 name = "census-postgres"
 network_count = 65
 node_id = "MDEwOlJlcG9zaXRvcnk5MDg1MzMx"
 open_issues_within = 10
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 100
 subscribers_count = 16
 temp_clone_token = ""
 topics = [ ]
-updated_within = "month"
+updated_within = "week"
 watchers_within = 100
 
   [github.license]
