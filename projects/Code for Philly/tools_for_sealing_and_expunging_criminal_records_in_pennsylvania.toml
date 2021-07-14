@@ -28,12 +28,12 @@ network_count = 7
 node_id = "MDEwOlJlcG9zaXRvcnkxOTE5NzMwMDg="
 open_issues_within = 10
 private = false
-pushed_within = "week"
+pushed_within = "month"
 stargazers_within = 10
 subscribers_count = 2
 temp_clone_token = ""
 topics = [ ]
-updated_within = "week"
+updated_within = "month"
 watchers_within = 10
 
   [github.organization]
