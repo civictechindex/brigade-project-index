@@ -12,7 +12,7 @@
         <link rel="canonical" href="https://brigade.cloud/projects/publiccode-helper/">
       
       <link rel="icon" href="../../assets/images/favicon.png">
-      <meta name="generator" content="mkdocs-1.2.1, mkdocs-material-7.1.8">
+      <meta name="generator" content="mkdocs-1.2.1, mkdocs-material-7.1.10">
     
     
       
@@ -20,7 +20,7 @@
       
     
     
-      <link rel="stylesheet" href="../../assets/stylesheets/main.ca7ac06f.min.css">
+      <link rel="stylesheet" href="../../assets/stylesheets/main.1fe995fd.min.css">
       
         
         <link rel="stylesheet" href="../../assets/stylesheets/palette.f1a3b89f.min.css">
@@ -653,25 +653,24 @@ Its core is to use a standard minimum but flexible and extensible schema of a pi
 <ul>
 <li>URL: The main original repository is <a href="https://github.com/italia/publiccode.yml">https://github.com/italia/publiccode.yml</a></li>
 <li>Contact: Bonnie at bonnie@hackforla.org or Gio at giosce@verizon.net</li>
-<li>Status: There is a usable version at <a href="https://giosce.github.io/publiccode-pusher">https://giosce.github.io/publiccode-pusher</a> </li>
+<li>Status: There is a usable version at <a href="https://codeforamerica.github.io/publiccode-pusher">https://codeforamerica.github.io/publiccode-pusher</a> </li>
 <li>Project needs: Taxonomy Expert, Github deployment settings, Front-End Developer</li>
 <li>How to collaborate:  <a href="../../join-us/#how-to-participate">Join Us</a></li>
-<li>Github: <a href="https://giosce.github.io/publiccode-pusher">https://giosce.github.io/publiccode-pusher</a> 
-<a href="https://github.com/civictechindex/publiccode-pusher">https://github.com/civictechindex/publiccode-pusher</a></li>
+<li>Github: <a href="https://github.com/codeforamerica/publiccode-pusher">https://github.com/codeforamerica/publiccode-pusher</a> </li>
 </ul>
-<p>We are not thinking to change the existing schema (as found in github official repository).</p>
+<p>We are discussing whether and how to extend the schema to better describe Code For America typical projects. Right now the schema (documentation) seems maintained by the &ldquo;Agency for Digital Italy&rdquo; at  <a href="https://docs.italia.it/italia/developers-italia/publiccodeyml-en/en/master/">https://docs.italia.it/italia/developers-italia/publiccodeyml-en/en/master/</a>.</p>
 <p>We are looking to provide a UI to guide people in creating their repo meaningful public-code.yaml. 
 Note that many civic-tech index tools are already set to read the public-code.yaml (the brigade-project-index crawler does that [Chris?])</p>
-<p>Compare to the prototype <a href="https://giosce.github.io/publiccode-pusher">https://giosce.github.io/publiccode-pusher</a>, we want to do the following changes:</p>
+<p>Compare to the Italian version <a href="https://publiccode-editor.developers.italia.it/">https://publiccode-editor.developers.italia.it/</a>, we want to do the following changes:</p>
 <ul>
 <li>Review and possibly change what&rsquo;s mandatory and what&rsquo;s not</li>
-<li>Add mandatory tags (like code-for-america and/or civic-tech-index and others)</li>
-<li>Make Category and Issue mandatory</li>
+<li>Add fields like technologies, skills, organization, location</li>
+<li>Add some &ldquo;behind the scene&rdquo; tags like code-for-america and/or civic-tech-index</li>
 <li>Change the list of values (especially for Category and Issue)</li>
-<li>Allow to enter new Category and Issue</li>
 </ul>
-<p>A description of the schema including what items are mandatory and explanation of each item can be found <a href="https://github.com/giosce/publiccode-pusher/blob/master/schema/schema.core.rst">here</a></p>
-<p>The tool asks the user to log in a repository and when the user saves the new public-code.yml the tool creates a branch in the designated repository.</p>
+<p>A description of the schema including what items are mandatory and explanation of each item can be found <a href="https://github.com/codeforamerica/publiccode-pusher/blob/master/schema/schema.core.rst">here</a></p>
+<p>Basically, the PublicCode Editor should use all the values in whatever will be decide to be the Code For America projects <a href="../taxonomy">Taxonomy</a>. In fact, eventually the PublicCode Editor should retrieve the values of several dropdowns via a Taxonomy API.</p>
+<p>The tool asks the user to log in a repository and when the user saves the new public-code.yml the tool creates a branch and a pull request in the designated repository.</p>
 <p>From this step, authorized users of the repository can review, modify if needed and merge the public-code.yml in their main branch.</p>
 <p>It needs to be in the repository top folder.</p>
 <p>Later on, the public-code.yml could be edited again via this user interface but as of now the source schema needs to be uploaded from local disk (it would be more convenient the possibility to edit the github version directly).</p>
@@ -746,10 +745,10 @@ Note that many civic-tech index tools are already set to read the public-code.ya
     <div class="md-dialog" data-md-component="dialog">
       <div class="md-dialog__inner md-typeset"></div>
     </div>
-    <script id="__config" type="application/json">{"base": "../..", "features": ["navigation.tabs"], "translations": {"clipboard.copy": "Copy to clipboard", "clipboard.copied": "Copied to clipboard", "search.config.lang": "en", "search.config.pipeline": "trimmer, stopWordFilter", "search.config.separator": "[\\s\\-]+", "search.placeholder": "Search", "search.result.placeholder": "Type to start searching", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.term.missing": "Missing", "select.version.title": "Select version"}, "search": "../../assets/javascripts/workers/search.b0710199.min.js", "version": null}</script>
+    <script id="__config" type="application/json">{"base": "../..", "features": ["navigation.tabs"], "translations": {"clipboard.copy": "Copy to clipboard", "clipboard.copied": "Copied to clipboard", "search.config.lang": "en", "search.config.pipeline": "trimmer, stopWordFilter", "search.config.separator": "[\\s\\-]+", "search.placeholder": "Search", "search.result.placeholder": "Type to start searching", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.term.missing": "Missing", "select.version.title": "Select version"}, "search": "../../assets/javascripts/workers/search.477d984a.min.js", "version": null}</script>
     
     
-      <script src="../../assets/javascripts/bundle.76f349be.min.js"></script>
+      <script src="../../assets/javascripts/bundle.ddd52ceb.min.js"></script>
       
         <script src="https://unpkg.com/mermaid@8.5.0/dist/mermaid.min.js"></script>
       
