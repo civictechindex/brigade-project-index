@@ -1,0 +1,51 @@
+code_url = "https://github.com/sfbrigade/analytics"
+description = "Analytics project, encompassing metrics for engagement and more. "
+git_url = "git://github.com/sfbrigade/analytics.git"
+name = "analytics"
+organization_name = "Code for San Francisco"
+
+[github]
+archived = false
+created_at = "2021-07-13T23:54:07Z"
+default_branch = "main"
+description = "Analytics project, encompassing metrics for engagement and more. "
+disabled = false
+fork = false
+forks_within = 0
+full_name = "sfbrigade/analytics"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 385_763_394
+language = { }
+name = "analytics"
+node_id = "MDEwOlJlcG9zaXRvcnkzODU3NjMzOTQ="
+open_issues_within = 0
+private = false
+pushed_within = "week"
+stargazers_within = 0
+topics = [ ]
+updated_within = "week"
+watchers_within = 0
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 3_926_630
+  login = "sfbrigade"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM5MjY2MzA="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
