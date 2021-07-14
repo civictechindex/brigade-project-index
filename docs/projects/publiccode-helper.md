@@ -5,7 +5,7 @@ Its core is to use a standard minimum but flexible and extensible schema of a pi
 
 - URL: The main original repository is [https://github.com/italia/publiccode.yml](https://github.com/italia/publiccode.yml)
 - Contact: Bonnie at bonnie@hackforla.org or Gio at giosce@verizon.net
-- Status: There is a usable version at [https://codeforamerica.github.io/publiccode-pusher](https://codeforamerica.github.io/publiccode-pusher) 
+- Status: We forked a Code For America version at [https://codeforamerica.github.io/publiccode-pusher](https://codeforamerica.github.io/publiccode-pusher) 
 - Project needs: Taxonomy Expert, Github deployment settings, Front-End Developer
 - How to collaborate:  [Join Us](../join-us.md#how-to-participate)
 - Github: [https://github.com/codeforamerica/publiccode-pusher](https://github.com/codeforamerica/publiccode-pusher) 
@@ -24,7 +24,7 @@ Compare to the Italian version [https://publiccode-editor.developers.italia.it/]
 
 A description of the schema including what items are mandatory and explanation of each item can be found [here](https://github.com/codeforamerica/publiccode-pusher/blob/master/schema/schema.core.rst)
 
-Basically, the PublicCode Editor should use all the values in whatever will be decide to be the Code For America projects [Taxonomy](../taxonomy). In fact, eventually the PublicCode Editor should retrieve the values of several dropdowns via a Taxonomy API.
+Basically, the PublicCode Editor should use all the values in the Code For America projects [Taxonomy](../taxonomy). In fact, eventually the PublicCode Editor should retrieve the values of several dropdowns via a Taxonomy API.
 
 The tool asks the user to log in a repository and when the user saves the new public-code.yml the tool creates a branch and a pull request in the designated repository.
 
