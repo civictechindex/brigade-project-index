@@ -24,7 +24,7 @@ Compare to the Italian version [https://publiccode-editor.developers.italia.it/]
 
 A description of the schema including what items are mandatory and explanation of each item can be found [here](https://github.com/codeforamerica/publiccode-pusher/blob/master/schema/schema.core.rst)
 
-Basically, the PublicCode Editor should use all the values in the Code For America projects [Taxonomy](../taxonomy). In fact, eventually the PublicCode Editor should retrieve the values of several dropdowns via a Taxonomy API.
+Basically, the PublicCode Editor should use all the values in the Code For America projects [Taxonomy](../civic-tech-taxonomy). In fact, eventually the PublicCode Editor should retrieve the values of several dropdowns via a Taxonomy API.
 
 The tool asks the user to log in a repository and when the user saves the new public-code.yml the tool creates a branch and a pull request in the designated repository.
 
