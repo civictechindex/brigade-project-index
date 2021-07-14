@@ -1,6 +1,6 @@
 # Overview
 
-Project Index Working group is currently composed of interested brigade volunteers and CfA staff who are separately working on a variety of projects all related to fostering data models and creation of searchable indexes that will allow people to find and connect with projects in specific topic areas.
+Project Index Working group is currently composed of interested brigade volunteers and CfA staff who are separately working on a variety of [projects](projects) all related to fostering data models and creation of searchable indexes that will allow people to find and connect with projects in specific topic areas.
 Each of the projects also has additional goals and directions
 
 We connect on the areas that are related and keep eachother informed on the areas where our goals and directions diverge
