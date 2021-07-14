@@ -32,9 +32,9 @@ language = "JavaScript"
 license = { }
 name = "contratospr-web"
 node_id = "MDEwOlJlcG9zaXRvcnkxNzA0MzU0OTY="
-open_issues_within = 100
+open_issues_within = 10
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 10
 topics = [
   "civic-tech",
@@ -43,7 +43,7 @@ topics = [
   "open-data",
   "puerto-rico"
 ]
-updated_within = "year"
+updated_within = "week"
 watchers_within = 10
 
   [github.owner]
