@@ -1,6 +1,6 @@
-code_url = "https://github.com/18F/formsgov_emailtemplates"
-git_url = "git://github.com/18F/formsgov_emailtemplates.git"
-name = "formsgov_emailtemplates"
+code_url = "https://github.com/18F/formsgov-static-assets"
+git_url = "git://github.com/18F/formsgov-static-assets.git"
+name = "formsgov-static-assets"
 organization_name = "18F"
 
 [github]
@@ -11,7 +11,7 @@ description = { }
 disabled = false
 fork = false
 forks_within = 0
-full_name = "18F/formsgov_emailtemplates"
+full_name = "18F/formsgov-static-assets"
 has_downloads = true
 has_issues = true
 has_pages = false
@@ -21,15 +21,15 @@ homepage = { }
 id = 385_957_887
 language = "HTML"
 license = { }
-name = "formsgov_emailtemplates"
+name = "formsgov-static-assets"
 node_id = "MDEwOlJlcG9zaXRvcnkzODU5NTc4ODc="
 open_issues_within = 0
 private = false
 pushed_within = "week"
-stargazers_within = 0
+stargazers_within = 10
 topics = [ ]
 updated_within = "week"
-watchers_within = 0
+watchers_within = 10
 
   [github.owner]
   gravatar_id = ""
