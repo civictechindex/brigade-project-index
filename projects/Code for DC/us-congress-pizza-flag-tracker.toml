@@ -1,5 +1,6 @@
 code_url = "https://github.com/codefordc/us-congress-pizza-flag-tracker"
 git_url = "git://github.com/codefordc/us-congress-pizza-flag-tracker.git"
+link_url = "https://codefordc-flag/dot/netlify/dot/app"
 name = "us-congress-pizza-flag-tracker"
 organization_name = "Code for DC"
 
@@ -17,7 +18,7 @@ has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = true
-homepage = { }
+homepage = "https://codefordc-flag/dot/netlify/dot/app"
 id = 319_492_802
 language = "Python"
 license = { }
