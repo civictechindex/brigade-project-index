@@ -21,7 +21,6 @@ has_wiki = true
 homepage = "https://codefordc-flag/dot/netlify/dot/app"
 id = 319_492_802
 language = "Python"
-license = { }
 name = "us-congress-pizza-flag-tracker"
 node_id = "MDEwOlJlcG9zaXRvcnkzMTk0OTI4MDI="
 open_issues_within = 0
@@ -31,6 +30,12 @@ stargazers_within = 10
 topics = [ ]
 updated_within = "week"
 watchers_within = 10
+
+  [github.license]
+  key = "other"
+  name = "Other"
+  node_id = "MDc6TGljZW5zZTA="
+  spdx_id = "NOASSERTION"
 
   [github.owner]
   gravatar_id = ""
