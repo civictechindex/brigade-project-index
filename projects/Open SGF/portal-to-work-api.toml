@@ -25,10 +25,10 @@ name = "portal-to-work-api"
 node_id = "MDEwOlJlcG9zaXRvcnkzMzA4MjI2ODA="
 open_issues_within = 10
 private = false
-pushed_within = "month"
+pushed_within = "year"
 stargazers_within = 0
 topics = [ ]
-updated_within = "month"
+updated_within = "year"
 watchers_within = 0
 
   [github.license]
