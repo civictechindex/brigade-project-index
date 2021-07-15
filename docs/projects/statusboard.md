@@ -1,8 +1,8 @@
 # Statusboard
 
 This tool allows to search Code for America USA projects by brigade or topics tags.
-This graphical interface loads the brigade projects data via the API at ... which returns a subset of the data produced by the
-Index Crawler.
+This graphical interface loads the brigade projects data via the API at https://statusboard.brigade.cloud/api/data.json which returns a subset of the data produced by the
+Index Crawler. Compare with the [Index Crawler data](https://brigade.cloud/projects/crawler/#more-about-the-index-and-the-statusboard) the statusboard API retrieves only the organizations tagged as "brigade" or "code for america".
 
 The Statusboard graphical interface display the US Brigades in a map and allows to search the projects based on their topic tag
 s.
