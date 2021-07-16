@@ -35,7 +35,7 @@ name = "open-disclosure"
 node_id = "MDEwOlJlcG9zaXRvcnkyMDQwNTA2MDU="
 open_issues_within = 100
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 100
 topics = [
   "ballot",
@@ -47,7 +47,7 @@ topics = [
   "react",
   "san-jose"
 ]
-updated_within = "month"
+updated_within = "week"
 watchers_within = 100
 
   [github.license]
