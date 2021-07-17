@@ -1,0 +1,46 @@
+code_url = "https://github.com/codefordenver/renters-help"
+git_url = "git://github.com/codefordenver/renters-help.git"
+link_url = "https://codefornebraska.github.io/renters-help/"
+name = "renters-help"
+organization_name = "Code for Denver"
+
+[github]
+archived = false
+created_at = "2021-07-16T23:04:55Z"
+default_branch = "master"
+description = { }
+disabled = false
+fork = true
+forks_within = 0
+full_name = "codefordenver/renters-help"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "https://codefornebraska.github.io/renters-help/"
+id = 386_784_799
+language = { }
+license = { }
+name = "renters-help"
+node_id = "MDEwOlJlcG9zaXRvcnkzODY3ODQ3OTk="
+open_issues_within = 10
+private = false
+pushed_within = "year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "week"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 7_472_092
+  login = "codefordenver"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjc0NzIwOTI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
