@@ -14,7 +14,7 @@ fork = true
 forks_within = 0
 full_name = "open-austin/indigent-defense-scraper"
 has_downloads = true
-has_issues = false
+has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = true
@@ -24,7 +24,7 @@ language = { }
 license = { }
 name = "indigent-defense-scraper"
 node_id = "MDEwOlJlcG9zaXRvcnkzODUwNDgyOTM="
-open_issues_within = 0
+open_issues_within = 10
 private = false
 pushed_within = "week"
 stargazers_within = 0
