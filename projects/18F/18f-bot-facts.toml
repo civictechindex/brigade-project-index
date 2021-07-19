@@ -26,10 +26,10 @@ name = "18f-bot-facts"
 node_id = "MDEwOlJlcG9zaXRvcnkxNjMzNDE5ODg="
 open_issues_within = 0
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ "bot", "bot-responses", "charlie" ]
-updated_within = "month"
+updated_within = "week"
 watchers_within = 10
 
   [github.license]
