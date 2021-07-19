@@ -35,7 +35,7 @@ name = "redirectioneaza"
 node_id = "MDEwOlJlcG9zaXRvcnkxMjU0MTcyMTk="
 open_issues_within = 100
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 100
 topics = [
   "civic-hacking",
@@ -46,7 +46,7 @@ topics = [
   "python27",
   "webapp"
 ]
-updated_within = "year"
+updated_within = "week"
 watchers_within = 100
 
   [github.license]
