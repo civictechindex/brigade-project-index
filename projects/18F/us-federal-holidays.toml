@@ -25,10 +25,10 @@ name = "us-federal-holidays"
 node_id = "MDEwOlJlcG9zaXRvcnk1MjY4ODM4Mg=="
 open_issues_within = 0
 private = false
-pushed_within = "week"
+pushed_within = "month"
 stargazers_within = 100
 topics = [ ]
-updated_within = "week"
+updated_within = "month"
 watchers_within = 100
 
   [github.license]
