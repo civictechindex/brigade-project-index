@@ -40,7 +40,7 @@ name = "covid19-pr-api"
 node_id = "MDEwOlJlcG9zaXRvcnkyNTIyMTI5ODU="
 open_issues_within = 100
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 100
 topics = [
   "callforcode",
