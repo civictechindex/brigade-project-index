@@ -1,5 +1,5 @@
 code_url = "https://github.com/18F/identity-site"
-description = "This is the login.gov main website where the public is able to learn about their one account for governement."
+description = "This is the Login.gov main website where the public is able to learn about their one account for government."
 git_url = "git://github.com/18F/identity-site.git"
 link_url = "https://login.gov"
 name = "identity-site"
@@ -10,7 +10,7 @@ topics = [ "gov", "identity", "login-gov" ]
 archived = false
 created_at = "2017-03-08T16:13:33Z"
 default_branch = "main"
-description = "This is the login.gov main website where the public is able to learn about their one account for governement."
+description = "This is the Login.gov main website where the public is able to learn about their one account for government."
 disabled = false
 fork = false
 forks_within = 100
