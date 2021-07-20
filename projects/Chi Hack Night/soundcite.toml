@@ -26,10 +26,10 @@ open_issues_within = 100
 private = false
 pushed_within = "month"
 stargazers_within = 1_000
-subscribers_count = 29
+subscribers_count = 30
 temp_clone_token = ""
 topics = [ ]
-updated_within = "month"
+updated_within = "week"
 watchers_within = 1_000
 
   [github.license]
