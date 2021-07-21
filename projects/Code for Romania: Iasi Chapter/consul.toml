@@ -21,10 +21,10 @@ has_projects = true
 has_wiki = true
 homepage = "https://consulproject.org"
 id = 387_514_548
-language = { }
+language = "Ruby"
 name = "consul"
 node_id = "MDEwOlJlcG9zaXRvcnkzODc1MTQ1NDg="
-open_issues_within = 10
+open_issues_within = 0
 private = false
 pushed_within = "week"
 stargazers_within = 0
