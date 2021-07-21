@@ -1,14 +1,13 @@
 code_url = "https://github.com/18F/ifgovthenthat"
 description = "If Gov Then That website, a project to promote gov open data by designing clever uses for government APIs. (Currently on hold.)"
 git_url = "git://github.com/18F/ifgovthenthat.git"
-link_url = "https://18f.github.io/ifgovthenthat"
 name = "ifgovthenthat"
 organization_name = "18F"
 
 [github]
 archived = false
 created_at = "2014-02-21T20:11:53Z"
-default_branch = "gh-pages"
+default_branch = "formerly-gh-pages"
 description = "If Gov Then That website, a project to promote gov open data by designing clever uses for government APIs. (Currently on hold.)"
 disabled = false
 fork = false
@@ -16,17 +15,17 @@ forks_within = 10
 full_name = "18F/ifgovthenthat"
 has_downloads = true
 has_issues = true
-has_pages = true
+has_pages = false
 has_projects = true
 has_wiki = false
-homepage = "https://18f.github.io/ifgovthenthat"
+homepage = ""
 id = 17_068_264
 language = "CSS"
 name = "ifgovthenthat"
 node_id = "MDEwOlJlcG9zaXRvcnkxNzA2ODI2NA=="
 open_issues_within = 10
 private = false
-pushed_within = "over_a_year"
+pushed_within = "week"
 stargazers_within = 100
 topics = [ ]
 updated_within = "week"
