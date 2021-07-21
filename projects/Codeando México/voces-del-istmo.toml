@@ -1,5 +1,6 @@
 code_url = "https://github.com/CodeandoMexico/voces-del-istmo"
 git_url = "git://github.com/CodeandoMexico/voces-del-istmo.git"
+link_url = "https://vocesdelistmo.org"
 name = "voces-del-istmo"
 organization_name = "Codeando México"
 
@@ -17,7 +18,7 @@ has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = true
-homepage = { }
+homepage = "https://vocesdelistmo.org"
 id = 308_433_690
 language = "Vue"
 license = { }
