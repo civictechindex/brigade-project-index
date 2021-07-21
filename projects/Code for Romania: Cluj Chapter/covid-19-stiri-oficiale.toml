@@ -27,10 +27,10 @@ name = "covid-19-stiri-oficiale"
 node_id = "MDEwOlJlcG9zaXRvcnkyNDY5MTg4NDc="
 open_issues_within = 0
 private = false
-pushed_within = "month"
+pushed_within = "year"
 stargazers_within = 100
 topics = [ "alpinejs", "covid-19", "laravel", "php", "tailwindcss" ]
-updated_within = "month"
+updated_within = "year"
 watchers_within = 100
 
   [github.license]
