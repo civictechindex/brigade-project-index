@@ -6,7 +6,7 @@ organization_name = "Codeando México"
 [github]
 archived = false
 created_at = "2020-10-29T19:47:26Z"
-default_branch = "main"
+default_branch = "master"
 description = { }
 disabled = false
 fork = false
@@ -19,7 +19,7 @@ has_projects = true
 has_wiki = true
 homepage = { }
 id = 308_433_690
-language = { }
+language = "Vue"
 license = { }
 name = "voces-del-istmo"
 node_id = "MDEwOlJlcG9zaXRvcnkzMDg0MzM2OTA="
@@ -28,7 +28,7 @@ private = false
 pushed_within = "week"
 stargazers_within = 0
 topics = [ ]
-updated_within = "year"
+updated_within = "week"
 watchers_within = 0
 
   [github.owner]
