@@ -1,0 +1,46 @@
+code_url = "https://github.com/18F/agile-labor-categories"
+git_url = "git://github.com/18F/agile-labor-categories.git"
+link_url = "https://pages.18f.gov/agile-labor-categories/"
+name = "agile-labor-categories"
+organization_name = "18F"
+
+[github]
+archived = false
+created_at = "2015-02-18T16:43:13Z"
+default_branch = "gh-pages"
+description = { }
+disabled = false
+fork = false
+forks_within = 10
+full_name = "18F/agile-labor-categories"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "https://pages.18f.gov/agile-labor-categories/"
+id = 30_974_820
+language = "CSS"
+license = { }
+name = "agile-labor-categories"
+node_id = "MDEwOlJlcG9zaXRvcnkzMDk3NDgyMA=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "week"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_233_994
+  login = "18F"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjYyMzM5OTQ="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
