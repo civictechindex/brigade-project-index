@@ -24,9 +24,9 @@ language = { }
 license = { }
 name = ".github"
 node_id = "MDEwOlJlcG9zaXRvcnkyODE3OTI0MjU="
-open_issues_within = 0
+open_issues_within = 10
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 0
 topics = [ ]
 updated_within = "year"
