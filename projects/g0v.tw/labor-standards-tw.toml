@@ -43,7 +43,7 @@ topics = [
   "labor-standards-act",
   "typescript"
 ]
-updated_within = "year"
+updated_within = "over_a_year"
 watchers_within = 100
 
   [github.license]
