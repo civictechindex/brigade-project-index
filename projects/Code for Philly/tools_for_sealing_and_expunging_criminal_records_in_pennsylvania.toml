@@ -1,61 +1,10 @@
 code_url = "https://github.com/clsphila/recordlib"
 description = "Community Legal Services is a private nonprofit that provides civil legal representation to thousands of low-income Philadelphians every year. CLS's Employment Unit helps clients' secure employment by expunging and sealing criminal records. CLS also maintains the Expungement Generator, a web application that nonprofits across the state use to automate creating and filing expungement petitions."
+github = false
 link_url = "https://clsphila.org/mycleanslatepa"
 name = "tools_for_sealing_and_expunging_criminal_records_in_pennsylvania"
 organization_name = "Code for Philly"
 status = "Testing"
-
-[github]
-archived = false
-created_at = "2019-06-14T16:13:29Z"
-default_branch = "main"
-description = "Experimental Python package for analyzing dockets and criminal records"
-disabled = false
-fork = false
-forks_within = 10
-full_name = "CLSPhila/RecordLib"
-has_downloads = true
-has_issues = true
-has_pages = false
-has_projects = true
-has_wiki = true
-homepage = { }
-id = 191_973_008
-language = "Python"
-license = { }
-name = "RecordLib"
-network_count = 7
-node_id = "MDEwOlJlcG9zaXRvcnkxOTE5NzMwMDg="
-open_issues_within = 10
-private = false
-pushed_within = "week"
-stargazers_within = 10
-subscribers_count = 2
-temp_clone_token = ""
-topics = [ ]
-updated_within = "week"
-watchers_within = 10
-
-  [github.organization]
-  gravatar_id = ""
-  id = 25_136_455
-  login = "CLSPhila"
-  node_id = "MDEyOk9yZ2FuaXphdGlvbjI1MTM2NDU1"
-  site_admin = false
-  type = "Organization"
-
-  [github.owner]
-  gravatar_id = ""
-  id = 25_136_455
-  login = "CLSPhila"
-  node_id = "MDEyOk9yZ2FuaXphdGlvbjI1MTM2NDU1"
-  site_admin = false
-  type = "Organization"
-
-  [github.permissions]
-  admin = false
-  pull = true
-  push = false
 
 [projects_list_extra]
 chat_channel = "clean-slate-tools"
