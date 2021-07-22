@@ -7,7 +7,7 @@ organization_name = "Code for Romania"
 [github]
 archived = false
 created_at = "2020-07-22T22:06:18Z"
-default_branch = "master"
+default_branch = "main"
 description = "Code for Romania default community health files"
 disabled = false
 fork = false
@@ -24,12 +24,12 @@ language = { }
 license = { }
 name = ".github"
 node_id = "MDEwOlJlcG9zaXRvcnkyODE3OTI0MjU="
-open_issues_within = 10
+open_issues_within = 0
 private = false
 pushed_within = "week"
 stargazers_within = 0
 topics = [ ]
-updated_within = "year"
+updated_within = "week"
 watchers_within = 0
 
   [github.owner]
