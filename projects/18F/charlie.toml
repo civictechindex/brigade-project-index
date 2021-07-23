@@ -3,6 +3,7 @@ description = "18F's Slack bot, Charlie. Based on Hubot."
 git_url = "git://github.com/18F/charlie.git"
 name = "charlie"
 organization_name = "18F"
+topics = [ "maintained" ]
 
 [github]
 archived = false
@@ -27,7 +28,7 @@ open_issues_within = 10
 private = false
 pushed_within = "week"
 stargazers_within = 100
-topics = [ ]
+topics = [ "maintained" ]
 updated_within = "week"
 watchers_within = 100
 
