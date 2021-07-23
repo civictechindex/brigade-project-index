@@ -22,15 +22,15 @@ has_projects = true
 has_wiki = true
 homepage = "https://github.com/mysociety/puppet-dovecot"
 id = 86_692_161
-language = "HTML"
+language = "Puppet"
 name = "puppet-dovecot"
 node_id = "MDEwOlJlcG9zaXRvcnk4NjY5MjE2MQ=="
 open_issues_within = 10
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 0
 topics = [ "dovecot", "puppet" ]
-updated_within = "year"
+updated_within = "week"
 watchers_within = 0
 
   [github.license]
