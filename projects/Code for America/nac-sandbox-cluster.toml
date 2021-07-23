@@ -12,7 +12,7 @@ default_branch = "main"
 description = "An experimental Kubernetes cluster for some NAC-owned deployments"
 disabled = false
 fork = false
-forks_within = 0
+forks_within = 10
 full_name = "codeforamerica/nac-sandbox-cluster"
 has_downloads = true
 has_issues = true
@@ -25,12 +25,12 @@ language = { }
 license = { }
 name = "nac-sandbox-cluster"
 node_id = "MDEwOlJlcG9zaXRvcnkzNzUxNTQyNDA="
-open_issues_within = 0
+open_issues_within = 10
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 0
 topics = [ ]
-updated_within = "year"
+updated_within = "week"
 watchers_within = 0
 
   [github.owner]
