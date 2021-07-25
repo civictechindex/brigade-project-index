@@ -26,7 +26,7 @@ network_count = 133
 node_id = "MDEwOlJlcG9zaXRvcnk3ODQ1NTc5"
 open_issues_within = 100
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 100
 subscribers_count = 25
 temp_clone_token = ""
@@ -39,7 +39,7 @@ topics = [
   "openoakland",
   "civictechindex"
 ]
-updated_within = "month"
+updated_within = "week"
 watchers_within = 100
 
   [github.license]
