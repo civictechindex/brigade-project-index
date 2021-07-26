@@ -21,16 +21,16 @@ has_projects = true
 has_wiki = true
 homepage = "https://uscensusbureau.github.io/censussurveys/"
 id = 338_084_788
-language = "JavaScript"
+language = "HTML"
 license = { }
 name = "censussurveys"
 node_id = "MDEwOlJlcG9zaXRvcnkzMzgwODQ3ODg="
 open_issues_within = 0
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
-updated_within = "year"
+updated_within = "week"
 watchers_within = 10
 
   [github.owner]
