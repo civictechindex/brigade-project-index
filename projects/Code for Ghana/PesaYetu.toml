@@ -1,0 +1,69 @@
+code_url = "https://github.com/CodeForAfrica/PesaYetu"
+description = "PesaYetu, an easy-to-use visualization tool that helps journalists quickly find, analyse and compare government budget data to help fact-check claims about resource allocations, public procurement and development plans or services. Accessible at  https://pesayetu.dev.codeforafrica.org"
+git_url = "git://github.com/CodeForAfrica/PesaYetu.git"
+link_url = "https://pesayetu.dev.codeforafrica.org"
+name = "PesaYetu"
+organization_name = "Code for Ghana"
+topics = [
+  "africa",
+  "budgets",
+  "kenya",
+  "open-budgets",
+  "open-data",
+  "pesa",
+  "pesayetu"
+]
+
+[github]
+archived = false
+created_at = "2019-09-11T06:19:04Z"
+default_branch = "main"
+description = "PesaYetu, an easy-to-use visualization tool that helps journalists quickly find, analyse and compare government budget data to help fact-check claims about resource allocations, public procurement and development plans or services. Accessible at  https://pesayetu.dev.codeforafrica.org"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "CodeForAfrica/PesaYetu"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "https://pesayetu.dev.codeforafrica.org"
+id = 207_737_714
+language = "JavaScript"
+name = "PesaYetu"
+node_id = "MDEwOlJlcG9zaXRvcnkyMDc3Mzc3MTQ="
+open_issues_within = 10
+private = false
+pushed_within = "week"
+stargazers_within = 0
+topics = [
+  "africa",
+  "budgets",
+  "kenya",
+  "open-budgets",
+  "open-data",
+  "pesa",
+  "pesayetu"
+]
+updated_within = "week"
+watchers_within = 0
+
+  [github.license]
+  key = "gpl-3.0"
+  name = "GNU General Public License v3.0"
+  node_id = "MDc6TGljZW5zZTk="
+  spdx_id = "GPL-3.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_786_364
+  login = "CodeForAfrica"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI3ODYzNjQ="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
