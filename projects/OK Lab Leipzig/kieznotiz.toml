@@ -1,6 +1,7 @@
 code_url = "https://github.com/CodeforLeipzig/kieznotiz"
 description = "Dashboard für Akteure und Veranstaltungen in Neustadt-Neuschönefeld und Volkmarsdorf"
 git_url = "git://github.com/CodeforLeipzig/kieznotiz.git"
+link_url = "https://codeforleipzig.github.io/kieznotiz/"
 name = "kieznotiz"
 organization_name = "OK Lab Leipzig"
 
@@ -18,7 +19,7 @@ has_issues = true
 has_pages = true
 has_projects = true
 has_wiki = true
-homepage = { }
+homepage = "https://codeforleipzig.github.io/kieznotiz/"
 id = 390_428_207
 language = { }
 name = "kieznotiz"
