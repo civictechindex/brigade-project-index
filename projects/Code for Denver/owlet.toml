@@ -1,5 +1,5 @@
 code_url = "https://github.com/codefordenver/owlet"
-description = "The Owlet Project"
+description = "Creative technology education platform"
 git_url = "git://github.com/codefordenver/owlet.git"
 link_url = "http://owlet.codefordenver.org"
 name = "owlet"
@@ -15,7 +15,7 @@ topics = [
 archived = false
 created_at = "2016-03-15T03:09:42Z"
 default_branch = "master"
-description = "The Owlet Project"
+description = "Creative technology education platform"
 disabled = false
 fork = false
 forks_within = 10
@@ -41,7 +41,7 @@ topics = [
   "education",
   "learn-to-code"
 ]
-updated_within = "over_a_year"
+updated_within = "week"
 watchers_within = 10
 
   [github.owner]
