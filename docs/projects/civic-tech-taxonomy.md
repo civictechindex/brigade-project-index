@@ -3,7 +3,7 @@
 This project aims at a categorization of civic tech projects. There have been numerous attempts at this important goals, various websites that provide lists of civic tech projects have implemented their own classification.
 A comprehensive and intuitive projects categorization is critical in order to avoid duplication of efforts, improve volunteer recruiting and retention, optimize resources, seek for repeatable processes, reach the market and more.
 
-- URL: [https://statusboard.brigade.cloud/api/taxonomy.json](https://statusboard.brigade.cloud/api/taxonomy.json)
+- URL: [https://codeforamerica.github.io/civic-tech-taxonomy/](https://codeforamerica.github.io/civic-tech-taxonomy/)
 - Contacts: Gio at giosce@verizon.net 
 - Status: Conceptual
 - Project needs: Civic Tech and Classification/Taxonomy competency, front-end developers
