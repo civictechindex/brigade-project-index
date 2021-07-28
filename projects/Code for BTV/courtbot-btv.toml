@@ -1,34 +1,34 @@
-code_url = "https://github.com/codeforbtv/courbot-pycore"
-git_url = "git://github.com/codeforbtv/courbot-pycore.git"
-name = "courbot-pycore"
+code_url = "https://github.com/codeforbtv/courtbot-btv"
+git_url = "git://github.com/codeforbtv/courtbot-btv.git"
+name = "courtbot-btv"
 organization_name = "Code for BTV"
 
 [github]
 archived = false
-created_at = "2021-07-20T23:54:45Z"
-default_branch = "master"
+created_at = "2021-07-28T00:15:35Z"
+default_branch = "main"
 description = { }
 disabled = false
-fork = false
+fork = true
 forks_within = 0
-full_name = "codeforbtv/courbot-pycore"
+full_name = "codeforbtv/courtbot-btv"
 has_downloads = true
-has_issues = true
+has_issues = false
 has_pages = false
 has_projects = true
 has_wiki = true
 homepage = { }
-id = 387_941_072
-language = "HTML"
+id = 390_162_560
+language = { }
 license = { }
-name = "courbot-pycore"
-node_id = "MDEwOlJlcG9zaXRvcnkzODc5NDEwNzI="
+name = "courtbot-btv"
+node_id = "MDEwOlJlcG9zaXRvcnkzOTAxNjI1NjA="
 open_issues_within = 0
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 0
 topics = [ ]
-updated_within = "month"
+updated_within = "week"
 watchers_within = 0
 
   [github.owner]
