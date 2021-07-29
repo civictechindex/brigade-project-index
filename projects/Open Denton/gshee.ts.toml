@@ -42,7 +42,7 @@ topics = [
   "open-source",
   "typescript"
 ]
-updated_within = "year"
+updated_within = "over_a_year"
 watchers_within = 0
 
   [github.license]
