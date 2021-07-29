@@ -24,12 +24,12 @@ id = 17_191_123
 language = "Python"
 name = "horas"
 node_id = "MDEwOlJlcG9zaXRvcnkxNzE5MTEyMw=="
-open_issues_within = 100
+open_issues_within = 10
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
-updated_within = "year"
+updated_within = "week"
 watchers_within = 10
 
   [github.license]
