@@ -1,7 +1,7 @@
 code_url = "https://github.com/code4romania/teacher-workout-client"
 description = "Web client for Teacher Workout"
 git_url = "git://github.com/code4romania/teacher-workout-client.git"
-link_url = "teacher-workout-client.vercel.app"
+link_url = "https://teacher-workout-staging.vercel.app/"
 name = "teacher-workout-client"
 organization_name = "Code for Romania: Iasi Chapter"
 
@@ -19,7 +19,7 @@ has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = true
-homepage = "teacher-workout-client.vercel.app"
+homepage = "https://teacher-workout-staging.vercel.app/"
 id = 378_893_786
 language = "JavaScript"
 name = "teacher-workout-client"
