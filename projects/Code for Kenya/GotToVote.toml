@@ -58,7 +58,7 @@ topics = [
   "zambia",
   "zimbabwe"
 ]
-updated_within = "year"
+updated_within = "week"
 watchers_within = 1_000
 
   [github.license]
