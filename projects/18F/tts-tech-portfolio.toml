@@ -1,7 +1,7 @@
 code_url = "https://github.com/18F/tts-tech-portfolio"
 description = "Home of the TTS Technology Portfolio team"
 git_url = "git://github.com/18F/tts-tech-portfolio.git"
-link_url = "https://handbook.tts.gsa.gov/tech-portfolio/"
+link_url = "https://handbook.tts.gsa.gov/office-of-solutions/tech-portfolio/"
 name = "tts-tech-portfolio"
 organization_name = "18F"
 
@@ -19,7 +19,7 @@ has_issues = true
 has_pages = false
 has_projects = false
 has_wiki = false
-homepage = "https://handbook.tts.gsa.gov/tech-portfolio/"
+homepage = "https://handbook.tts.gsa.gov/office-of-solutions/tech-portfolio/"
 id = 196_464_495
 language = "JavaScript"
 name = "tts-tech-portfolio"
