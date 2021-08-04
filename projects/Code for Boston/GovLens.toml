@@ -39,7 +39,7 @@ topics = [
   "federal-websites",
   "muckrock"
 ]
-updated_within = "week"
+updated_within = "month"
 watchers_within = 100
 
   [github.license]
