@@ -20,15 +20,15 @@ has_projects = true
 has_wiki = true
 homepage = { }
 id = 385_763_394
-language = { }
+language = "Python"
 name = "analytics"
 node_id = "MDEwOlJlcG9zaXRvcnkzODU3NjMzOTQ="
 open_issues_within = 10
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 0
 topics = [ ]
-updated_within = "month"
+updated_within = "week"
 watchers_within = 0
 
   [github.license]
