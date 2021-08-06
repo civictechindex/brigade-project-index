@@ -11,7 +11,7 @@ name = "Altglascontainer"
 organization_name = "OK Lab Berlin"
 
 [github]
-archived = false
+archived = true
 created_at = "2014-02-22T11:28:08Z"
 default_branch = "gh-pages"
 description = "Altglascontainer in Charlottenburg-Wilmersdorf"
@@ -37,7 +37,7 @@ stargazers_within = 10
 subscribers_count = 6
 temp_clone_token = ""
 topics = [ ]
-updated_within = "over_a_year"
+updated_within = "week"
 watchers_within = 10
 
   [github.license]
