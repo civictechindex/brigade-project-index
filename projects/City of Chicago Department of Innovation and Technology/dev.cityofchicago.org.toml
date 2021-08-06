@@ -28,10 +28,10 @@ name = "dev.cityofchicago.org"
 node_id = "MDEwOlJlcG9zaXRvcnk2NTM4Nzk5MQ=="
 open_issues_within = 10
 private = false
-pushed_within = "month"
+pushed_within = "year"
 stargazers_within = 100
 topics = [ "chicago", "government", "jekyll", "website" ]
-updated_within = "month"
+updated_within = "year"
 watchers_within = 100
 
   [github.owner]
