@@ -1,0 +1,51 @@
+code_url = "https://github.com/OpenEugene/vaxx-proof"
+description = "http://VaxxProof.org is a registry of community-minded business in Oregon that are requiring proof of vaccination."
+git_url = "git://github.com/OpenEugene/vaxx-proof.git"
+name = "vaxx-proof"
+organization_name = "Open Eugene"
+
+[github]
+archived = false
+created_at = "2021-08-07T20:56:36Z"
+default_branch = "main"
+description = "http://VaxxProof.org is a registry of community-minded business in Oregon that are requiring proof of vaccination."
+disabled = false
+fork = false
+forks_within = 0
+full_name = "OpenEugene/vaxx-proof"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 393_790_780
+language = { }
+name = "vaxx-proof"
+node_id = "MDEwOlJlcG9zaXRvcnkzOTM3OTA3ODA="
+open_issues_within = 10
+private = false
+pushed_within = "week"
+stargazers_within = 0
+topics = [ ]
+updated_within = "week"
+watchers_within = 0
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 37_278_948
+  login = "OpenEugene"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM3Mjc4OTQ4"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
