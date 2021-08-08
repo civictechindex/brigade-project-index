@@ -36,7 +36,7 @@ name = "211-data-wrangling"
 node_id = "MDEwOlJlcG9zaXRvcnkyNTU3NTUyNzM="
 open_issues_within = 10
 private = false
-pushed_within = "year"
+pushed_within = "over_a_year"
 stargazers_within = 0
 topics = [
   "civic-tech",
@@ -48,7 +48,7 @@ topics = [
   "python",
   "social-services"
 ]
-updated_within = "year"
+updated_within = "over_a_year"
 watchers_within = 0
 
   [github.owner]
