@@ -1,0 +1,46 @@
+code_url = "https://github.com/codeforcroatia/PredizborniProgrami"
+git_url = "git://github.com/codeforcroatia/PredizborniProgrami.git"
+link_url = "https://codeforcroatia.github.io/PredizborniProgrami"
+name = "PredizborniProgrami"
+organization_name = "Code for Croatia"
+
+[github]
+archived = false
+created_at = "2021-08-09T14:23:21Z"
+default_branch = "gh-pages"
+description = { }
+disabled = false
+fork = true
+forks_within = 0
+full_name = "codeforcroatia/PredizborniProgrami"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = false
+homepage = "https://codeforcroatia.github.io/PredizborniProgrami"
+id = 394_320_858
+language = "HTML"
+license = { }
+name = "PredizborniProgrami"
+node_id = "MDEwOlJlcG9zaXRvcnkzOTQzMjA4NTg="
+open_issues_within = 0
+private = false
+pushed_within = "week"
+stargazers_within = 0
+topics = [ ]
+updated_within = "week"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_293_362
+  login = "codeforcroatia"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjYyOTMzNjI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
