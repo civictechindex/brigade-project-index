@@ -21,7 +21,6 @@ has_wiki = true
 homepage = { }
 id = 393_781_060
 language = "Shell"
-license = { }
 name = "identity-give-sk-setup"
 node_id = "MDEwOlJlcG9zaXRvcnkzOTM3ODEwNjA="
 open_issues_within = 0
@@ -31,6 +30,12 @@ stargazers_within = 0
 topics = [ ]
 updated_within = "week"
 watchers_within = 0
+
+  [github.license]
+  key = "other"
+  name = "Other"
+  node_id = "MDc6TGljZW5zZTA="
+  spdx_id = "NOASSERTION"
 
   [github.owner]
   gravatar_id = ""
