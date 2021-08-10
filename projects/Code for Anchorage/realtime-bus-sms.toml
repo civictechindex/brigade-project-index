@@ -26,7 +26,7 @@ name = "realtime-bus-sms"
 node_id = "MDEwOlJlcG9zaXRvcnkyNzU1NjU2Ng=="
 open_issues_within = 100
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 100
 topics = [ ]
 updated_within = "year"
@@ -42,5 +42,7 @@ watchers_within = 100
 
   [github.permissions]
   admin = false
+  maintain = false
   pull = true
   push = false
+  triage = false
