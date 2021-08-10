@@ -25,7 +25,7 @@ id = 14_910_243
 language = "Java"
 license = { }
 name = "OpenTripPlanner"
-network_count = 889
+network_count = 890
 node_id = "MDEwOlJlcG9zaXRvcnkxNDkxMDI0Mw=="
 open_issues_within = 0
 private = false
@@ -91,8 +91,10 @@ watchers_within = 10
 
   [github.permissions]
   admin = false
+  maintain = false
   pull = true
   push = false
+  triage = false
 
   [github.source]
   archived = false

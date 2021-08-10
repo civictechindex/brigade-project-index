@@ -53,8 +53,10 @@ watchers_within = 10
 
   [github.permissions]
   admin = false
+  maintain = false
   pull = true
   push = false
+  triage = false
 
 [projects_list_extra]
 title = "PGW dig map"

@@ -89,8 +89,10 @@ watchers_within = 10
 
   [github.permissions]
   admin = false
+  maintain = false
   pull = true
   push = false
+  triage = false
 
   [github.source]
   archived = false
