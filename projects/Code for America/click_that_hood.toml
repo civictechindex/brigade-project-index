@@ -22,16 +22,21 @@ has_wiki = true
 homepage = "http://click-that-hood.com/"
 id = 7_968_253
 language = "JavaScript"
-license = { }
 name = "click_that_hood"
 node_id = "MDEwOlJlcG9zaXRvcnk3OTY4MjUz"
 open_issues_within = 100
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 1_000
 topics = [ ]
-updated_within = "year"
+updated_within = "week"
 watchers_within = 1_000
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
 
   [github.owner]
   gravatar_id = ""
