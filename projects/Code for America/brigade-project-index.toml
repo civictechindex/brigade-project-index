@@ -43,5 +43,7 @@ watchers_within = 10
 
   [github.permissions]
   admin = false
+  maintain = false
   pull = true
   push = true
+  triage = true
