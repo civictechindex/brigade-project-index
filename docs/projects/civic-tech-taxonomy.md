@@ -3,12 +3,13 @@
 This project aims at a categorization of civic tech projects. There have been numerous attempts at this important goals, various websites that provide lists of civic tech projects have implemented their own classification.
 A comprehensive and intuitive projects categorization is critical in order to avoid duplication of efforts, improve volunteer recruiting and retention, optimize resources, seek for repeatable processes, reach the market and more.
 
-- URL: [https://codeforamerica.github.io/civic-tech-taxonomy/](https://codeforamerica.github.io/civic-tech-taxonomy/)
+- Github: [https://codeforamerica.github.io/civic-tech-taxonomy/](https://codeforamerica.github.io/civic-tech-taxonomy/)
 - Contacts: Gio at giosce@verizon.net 
 - Status: Conceptual
 - Project needs: Civic Tech and Classification/Taxonomy competency, front-end developers
 - How to collaborate: [Join Us](../join-us.md#how-to-participate)
-- Github: [https://github.com/codeforamerica/civic-tech-taxonomy/tree/master/issues](https://github.com/codeforamerica/civic-tech-taxonomy/tree/master/issues)
+- Draft UI: [https://github.com/codeforamerica/civic-tech-taxonomy/taxonomy.html](https://github.com/codeforamerica/civic-tech-taxonomy/taxonomy.html)
+- Draft API sample https://api.taxonomy.sandbox.k8s.brigade.cloud/taxonomy
 
 There are some significant challenges to achieve such a good taxonomy
 
@@ -34,5 +35,5 @@ We are discussing some enhancements focused on the Taxonomy
 - Decide how to keep this list up to date (integrate the taxonomy with the [crawler](crawler/README.md)
 - Decided whether to separate items that are not "topics" from the large list extracted by the crawler
 - Provide a proper UI to the taxonomy
-- Build an API to retrieve Taxonomy data in json format
+- Build API endpoints to retrieve the Taxonomy data in json format
 - Integrate the taxonomy in the [Statusboard](statusboard.md) and [PublicCode Editor](../publiccode-helper)
