@@ -43,7 +43,7 @@ topics = [
   "oidc",
   "webpack"
 ]
-updated_within = "week"
+updated_within = "month"
 watchers_within = 10
 
   [github.owner]
@@ -56,5 +56,7 @@ watchers_within = 10
 
   [github.permissions]
   admin = false
+  maintain = false
   pull = true
   push = false
+  triage = false
