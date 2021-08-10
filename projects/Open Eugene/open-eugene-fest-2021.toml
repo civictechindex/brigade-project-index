@@ -1,0 +1,53 @@
+code_url = "https://github.com/OpenEugene/open-eugene-fest-2021"
+description = "the planning repo for Open Eugene Fest 2021"
+git_url = "git://github.com/OpenEugene/open-eugene-fest-2021.git"
+name = "open-eugene-fest-2021"
+organization_name = "Open Eugene"
+
+[github]
+archived = false
+created_at = "2021-08-10T20:49:24Z"
+default_branch = "main"
+description = "the planning repo for Open Eugene Fest 2021"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "OpenEugene/open-eugene-fest-2021"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = false
+has_wiki = true
+homepage = { }
+id = 394_777_940
+language = { }
+name = "open-eugene-fest-2021"
+node_id = "MDEwOlJlcG9zaXRvcnkzOTQ3Nzc5NDA="
+open_issues_within = 10
+private = false
+pushed_within = "week"
+stargazers_within = 0
+topics = [ ]
+updated_within = "week"
+watchers_within = 0
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 37_278_948
+  login = "OpenEugene"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM3Mjc4OTQ4"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  maintain = false
+  pull = true
+  push = false
+  triage = false
