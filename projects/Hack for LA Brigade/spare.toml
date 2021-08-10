@@ -42,7 +42,7 @@ name = "spare"
 node_id = "MDEwOlJlcG9zaXRvcnkxMjcwNzkwOTQ="
 open_issues_within = 100
 private = false
-pushed_within = "year"
+pushed_within = "week"
 score = 1
 stargazers_within = 100
 topics = [
@@ -73,5 +73,7 @@ watchers_within = 100
 
   [github.permissions]
   admin = false
+  maintain = false
   pull = true
   push = false
+  triage = false
