@@ -1,0 +1,50 @@
+code_url = "https://github.com/mysociety/la_distance"
+git_url = "git://github.com/mysociety/la_distance.git"
+name = "la_distance"
+organization_name = "mySociety"
+
+[github]
+archived = false
+created_at = "2021-08-09T16:13:49Z"
+default_branch = "master"
+description = { }
+disabled = false
+fork = false
+forks_within = 0
+full_name = "mysociety/la_distance"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 394_359_648
+language = "Jupyter Notebook"
+name = "la_distance"
+node_id = "MDEwOlJlcG9zaXRvcnkzOTQzNTk2NDg="
+open_issues_within = 0
+private = false
+pushed_within = "week"
+stargazers_within = 0
+topics = [ ]
+updated_within = "week"
+watchers_within = 0
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 141_338
+  login = "mysociety"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE0MTMzOA=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
