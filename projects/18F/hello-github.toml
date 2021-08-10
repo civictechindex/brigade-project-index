@@ -1,0 +1,46 @@
+code_url = "https://github.com/18F/hello-github"
+description = "A toy repository for new TTS employees to learn GitHub by doing: opening a pull request."
+git_url = "git://github.com/18F/hello-github.git"
+name = "hello-github"
+organization_name = "18F"
+
+[github]
+archived = false
+created_at = "2021-08-09T23:35:40Z"
+default_branch = "main"
+description = "A toy repository for new TTS employees to learn GitHub by doing: opening a pull request."
+disabled = false
+fork = false
+forks_within = 0
+full_name = "18F/hello-github"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 394_469_053
+language = "JavaScript"
+license = { }
+name = "hello-github"
+node_id = "MDEwOlJlcG9zaXRvcnkzOTQ0NjkwNTM="
+open_issues_within = 0
+private = false
+pushed_within = "week"
+stargazers_within = 0
+topics = [ ]
+updated_within = "week"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_233_994
+  login = "18F"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjYyMzM5OTQ="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
