@@ -31,7 +31,7 @@ id = 275_296_439
 language = "Python"
 name = "CTI-website-backend"
 node_id = "MDEwOlJlcG9zaXRvcnkyNzUyOTY0Mzk="
-open_issues_within = 100
+open_issues_within = 10
 private = false
 pushed_within = "week"
 score = 1
@@ -44,7 +44,7 @@ topics = [
   "hack-for-la",
   "open-source"
 ]
-updated_within = "month"
+updated_within = "week"
 watchers_within = 10
 
   [github.license]
