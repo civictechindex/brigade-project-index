@@ -62,5 +62,7 @@ watchers_within = 0
 
   [github.permissions]
   admin = false
+  maintain = false
   pull = true
   push = false
+  triage = false
