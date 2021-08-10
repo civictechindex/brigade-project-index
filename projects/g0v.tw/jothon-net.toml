@@ -27,7 +27,7 @@ name = "jothon-net"
 node_id = "MDEwOlJlcG9zaXRvcnkxMTIyMDcxNjE="
 open_issues_within = 100
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ "activity", "g0v", "hackathon", "jothon", "landing-page" ]
 updated_within = "month"
@@ -49,5 +49,7 @@ watchers_within = 10
 
   [github.permissions]
   admin = false
+  maintain = false
   pull = true
   push = false
+  triage = false
