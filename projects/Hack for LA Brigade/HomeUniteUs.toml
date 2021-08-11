@@ -20,7 +20,7 @@ topics = [
 [github]
 archived = false
 created_at = "2019-12-19T05:23:26Z"
-default_branch = "master"
+default_branch = "main"
 description = "We're working with community non-profits who have a Host Home or empty bedrooms initiative to develop a workflow management tool to make the process scalable (across all providers), reduce institutional bias, and effectively capture data."
 disabled = false
 fork = false
