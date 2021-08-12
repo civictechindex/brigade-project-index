@@ -37,9 +37,9 @@ id = 139_191_915
 language = "Svelte"
 name = "SLAM"
 node_id = "MDEwOlJlcG9zaXRvcnkxMzkxOTE5MTU="
-open_issues_within = 10
+open_issues_within = 100
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 10
 topics = [
   "carto",
