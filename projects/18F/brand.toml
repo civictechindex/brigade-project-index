@@ -9,7 +9,7 @@ topics = [ "brand" ]
 [github]
 archived = false
 created_at = "2015-10-06T21:44:29Z"
-default_branch = "master"
+default_branch = "main"
 description = "18F Brand"
 disabled = false
 fork = false
@@ -27,7 +27,7 @@ name = "brand"
 node_id = "MDEwOlJlcG9zaXRvcnk0Mzc4MDYxMw=="
 open_issues_within = 100
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 100
 topics = [ "brand" ]
 updated_within = "month"
