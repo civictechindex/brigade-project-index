@@ -27,7 +27,7 @@ name = "sandiego-covid-data"
 node_id = "MDEwOlJlcG9zaXRvcnkyNTA0Mzc4Nzg="
 open_issues_within = 0
 private = false
-pushed_within = "year"
+pushed_within = "over_a_year"
 stargazers_within = 10
 topics = [ "covid-19", "opensandiego" ]
 updated_within = "over_a_year"
