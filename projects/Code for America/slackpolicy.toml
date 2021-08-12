@@ -26,7 +26,7 @@ name = "slackpolicy"
 node_id = "MDEwOlJlcG9zaXRvcnk3OTM5MDI2MQ=="
 open_issues_within = 10
 private = false
-pushed_within = "year"
+pushed_within = "over_a_year"
 stargazers_within = 10
 topics = [ ]
 updated_within = "year"
