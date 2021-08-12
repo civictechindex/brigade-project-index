@@ -26,9 +26,9 @@ language = "JavaScript"
 license = { }
 name = "dev.cityofchicago.org"
 node_id = "MDEwOlJlcG9zaXRvcnk2NTM4Nzk5MQ=="
-open_issues_within = 10
+open_issues_within = 100
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 100
 topics = [ "chicago", "government", "jekyll", "website" ]
 updated_within = "year"
