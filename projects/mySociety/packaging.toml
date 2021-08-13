@@ -21,16 +21,16 @@ has_projects = true
 has_wiki = true
 homepage = "https://www.mysociety.org/"
 id = 342_279_587
-language = "HTML"
+language = "Jinja"
 license = { }
 name = "packaging"
 node_id = "MDEwOlJlcG9zaXRvcnkzNDIyNzk1ODc="
 open_issues_within = 0
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 0
 topics = [ ]
-updated_within = "year"
+updated_within = "week"
 watchers_within = 0
 
   [github.owner]
