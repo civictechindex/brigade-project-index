@@ -26,10 +26,10 @@ name = "ohana-api"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDA2MjM5Ng=="
 open_issues_within = 100
 private = false
-pushed_within = "month"
+pushed_within = "year"
 stargazers_within = 1_000
 topics = [ ]
-updated_within = "month"
+updated_within = "year"
 watchers_within = 1_000
 
   [github.license]
