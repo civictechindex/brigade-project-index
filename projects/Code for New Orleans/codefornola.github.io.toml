@@ -25,10 +25,10 @@ name = "codefornola.github.io"
 node_id = "MDEwOlJlcG9zaXRvcnk2MjM1NTEwOA=="
 open_issues_within = 10
 private = false
-pushed_within = "year"
+pushed_within = "over_a_year"
 stargazers_within = 10
 topics = [ ]
-updated_within = "year"
+updated_within = "over_a_year"
 watchers_within = 10
 
   [github.license]
