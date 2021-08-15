@@ -1,7 +1,7 @@
 code_url = "https://github.com/opencleveland/opencleveland.github.io"
 description = "Open Cleveland's website - Derived from https://github.com/sfbrigade/sfbrigade.github.io"
 git_url = "git://github.com/opencleveland/opencleveland.github.io.git"
-link_url = "http://opencleveland.org"
+link_url = "https://opencleveland.org"
 name = "opencleveland.github.io"
 organization_name = "Open Cleveland"
 
@@ -19,7 +19,7 @@ has_issues = true
 has_pages = true
 has_projects = true
 has_wiki = false
-homepage = "http://opencleveland.org"
+homepage = "https://opencleveland.org"
 id = 25_658_485
 language = "HTML"
 license = { }
@@ -27,10 +27,10 @@ name = "opencleveland.github.io"
 node_id = "MDEwOlJlcG9zaXRvcnkyNTY1ODQ4NQ=="
 open_issues_within = 10
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
-updated_within = "year"
+updated_within = "week"
 watchers_within = 10
 
   [github.owner]
