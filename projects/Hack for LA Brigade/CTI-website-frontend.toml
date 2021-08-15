@@ -1,6 +1,7 @@
 code_url = "https://github.com/civictechindex/CTI-website-frontend"
 description = "Join a worldwide movement to catalog  every open source  civic tech project."
 git_url = "git://github.com/civictechindex/CTI-website-frontend.git"
+link_url = "https://civictechindex.org"
 name = "CTI-website-frontend"
 organization_name = "Hack for LA Brigade"
 topics = [
@@ -27,7 +28,7 @@ has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = true
-homepage = ""
+homepage = "https://civictechindex.org"
 id = 241_519_642
 language = "JavaScript"
 name = "CTI-website-frontend"
