@@ -27,10 +27,10 @@ name = "openmaine-website"
 node_id = "MDEwOlJlcG9zaXRvcnkxODIxNzM5NTc="
 open_issues_within = 10
 private = false
-pushed_within = "year"
+pushed_within = "over_a_year"
 stargazers_within = 10
 topics = [ "css", "html", "javascript" ]
-updated_within = "year"
+updated_within = "over_a_year"
 watchers_within = 10
 
   [github.owner]
