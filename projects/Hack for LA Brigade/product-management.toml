@@ -1,6 +1,7 @@
 code_url = "https://github.com/hackforla/product-management"
 description = "A repository for the Product Management Community of Practice"
 git_url = "git://github.com/hackforla/product-management.git"
+link_url = "https://hackforla.org/communities-of-practice"
 name = "product-management"
 organization_name = "Hack for LA Brigade"
 topics = [
@@ -27,7 +28,7 @@ has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = true
-homepage = ""
+homepage = "https://hackforla.org/communities-of-practice"
 id = 275_042_633
 language = { }
 license = { }
