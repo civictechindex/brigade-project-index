@@ -1,5 +1,5 @@
 code_url = "https://github.com/openelections/openelections-data-tests"
-description = "Test for converted data"
+description = "A collection of tests to validate the contents of OpenElections data files."
 git_url = "git://github.com/openelections/openelections-data-tests.git"
 name = "openelections-data-tests"
 organization_name = "Open Elections"
@@ -8,7 +8,7 @@ organization_name = "Open Elections"
 archived = false
 created_at = "2021-08-17T18:55:56Z"
 default_branch = "main"
-description = "Test for converted data"
+description = "A collection of tests to validate the contents of OpenElections data files."
 disabled = false
 fork = false
 forks_within = 10
@@ -18,9 +18,9 @@ has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = true
-homepage = { }
+homepage = ""
 id = 397_361_824
-language = { }
+language = "Python"
 name = "openelections-data-tests"
 node_id = "MDEwOlJlcG9zaXRvcnkzOTczNjE4MjQ="
 open_issues_within = 0
