@@ -30,10 +30,10 @@ subscribers_count = 16
 temp_clone_token = ""
 topics = [
   "cli",
-  "dedupe",
-  "record-linkage",
   "csv-files",
-  "entity-resolution"
+  "dedupe",
+  "entity-resolution",
+  "record-linkage"
 ]
 updated_within = "week"
 watchers_within = 1_000

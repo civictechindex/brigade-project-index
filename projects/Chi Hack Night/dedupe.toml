@@ -29,15 +29,15 @@ stargazers_within = "over_1000"
 subscribers_count = 132
 temp_clone_token = ""
 topics = [
-  "python",
   "clustering",
-  "dedupe",
-  "record-linkage",
-  "python-library",
-  "entity-resolution",
   "datamade",
+  "de-duplicating",
+  "dedupe",
   "dedupe-library",
-  "de-duplicating"
+  "entity-resolution",
+  "python",
+  "python-library",
+  "record-linkage"
 ]
 updated_within = "week"
 watchers_within = "over_1000"

@@ -29,13 +29,13 @@ stargazers_within = 1_000
 subscribers_count = 42
 temp_clone_token = ""
 topics = [
+  "cdph",
+  "chicago",
   "data-science",
+  "food-poisoning",
   "open-data",
   "open-science",
-  "public-health",
-  "chicago",
-  "food-poisoning",
-  "cdph"
+  "public-health"
 ]
 updated_within = "month"
 watchers_within = 1_000

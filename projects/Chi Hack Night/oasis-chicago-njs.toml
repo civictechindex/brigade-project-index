@@ -29,12 +29,12 @@ stargazers_within = 10
 subscribers_count = 1
 temp_clone_token = ""
 topics = [
-  "javascript",
-  "data-science",
-  "data",
+  "census",
   "chicago",
-  "neighborhood",
-  "census"
+  "data",
+  "data-science",
+  "javascript",
+  "neighborhood"
 ]
 updated_within = "over_a_year"
 watchers_within = 10

@@ -29,16 +29,16 @@ stargazers_within = "over_1000"
 subscribers_count = 39
 temp_clone_token = ""
 topics = [
-  "python",
-  "nlp",
-  "machine-learning",
-  "natural-language-processing",
-  "crf",
-  "python-library",
   "address",
   "address-parser",
   "conditional-random-fields",
-  "parserator"
+  "crf",
+  "machine-learning",
+  "natural-language-processing",
+  "nlp",
+  "parserator",
+  "python",
+  "python-library"
 ]
 updated_within = "week"
 watchers_within = "over_1000"
