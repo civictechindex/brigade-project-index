@@ -32,10 +32,10 @@ stargazers_within = 10
 subscribers_count = 16
 temp_clone_token = ""
 topics = [
-  "city-government",
   "city-council",
-  "code-for-america",
   "city-council-data",
+  "city-government",
+  "code-for-america",
   "oakland",
   "openoakland"
 ]

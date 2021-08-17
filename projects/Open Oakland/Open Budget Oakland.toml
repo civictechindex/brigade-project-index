@@ -31,13 +31,13 @@ stargazers_within = 100
 subscribers_count = 25
 temp_clone_token = ""
 topics = [
-  "civictech",
-  "data-visualization",
   "budget",
   "civic-hacking",
+  "civictech",
+  "civictechindex",
   "code-for-america",
-  "openoakland",
-  "civictechindex"
+  "data-visualization",
+  "openoakland"
 ]
 updated_within = "month"
 watchers_within = 100

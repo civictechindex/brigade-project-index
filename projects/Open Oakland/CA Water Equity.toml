@@ -32,11 +32,11 @@ stargazers_within = 10
 subscribers_count = 3
 temp_clone_token = ""
 topics = [
-  "environment",
-  "water",
-  "code-for-america",
   "activists",
-  "openoakland"
+  "code-for-america",
+  "environment",
+  "openoakland",
+  "water"
 ]
 updated_within = "year"
 watchers_within = 10

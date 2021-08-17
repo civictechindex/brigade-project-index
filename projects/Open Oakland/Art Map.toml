@@ -31,13 +31,13 @@ subscribers_count = 1
 temp_clone_token = ""
 topics = [
   "beauty",
-  "web-scraping",
   "code-for-america",
-  "oakland",
+  "local-wki",
   "murals",
-  "openoakland",
+  "oakland",
   "oakland-art-murmur",
-  "local-wki"
+  "openoakland",
+  "web-scraping"
 ]
 updated_within = "over_a_year"
 watchers_within = 10
