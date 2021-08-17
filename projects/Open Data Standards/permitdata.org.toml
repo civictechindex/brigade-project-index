@@ -4,7 +4,7 @@ git_url = "git://github.com/open-data-standards/permitdata.org.git"
 link_url = "https://permitdata.org"
 name = "permitdata.org"
 organization_name = "Open Data Standards"
-topics = [ "government", "opendata", "open-data", "pemits", "standards" ]
+topics = [ "government", "open-data", "opendata", "pemits", "standards" ]
 
 [github]
 archived = false
@@ -30,7 +30,7 @@ open_issues_within = 100
 private = false
 pushed_within = "year"
 stargazers_within = 100
-topics = [ "government", "opendata", "open-data", "pemits", "standards" ]
+topics = [ "government", "open-data", "opendata", "pemits", "standards" ]
 updated_within = "month"
 watchers_within = 100
 
