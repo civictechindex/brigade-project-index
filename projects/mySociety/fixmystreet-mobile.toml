@@ -4,8 +4,8 @@ git_url = "git://github.com/mysociety/fixmystreet-mobile.git"
 name = "fixmystreet-mobile"
 organization_name = "mySociety"
 topics = [
-  "civictech",
   "civic-tech",
+  "civictech",
   "cordova",
   "fixmystreet",
   "mobile",
@@ -36,8 +36,8 @@ private = false
 pushed_within = "year"
 stargazers_within = 100
 topics = [
-  "civictech",
   "civic-tech",
+  "civictech",
   "cordova",
   "fixmystreet",
   "mobile",

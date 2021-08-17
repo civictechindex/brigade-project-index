@@ -5,8 +5,8 @@ link_url = "http://fixmystreet.org/"
 name = "fixmystreet"
 organization_name = "mySociety"
 topics = [
-  "civictech",
   "civic-tech",
+  "civictech",
   "councils",
   "fixmystreet",
   "international",
@@ -39,8 +39,8 @@ private = false
 pushed_within = "week"
 stargazers_within = 1_000
 topics = [
-  "civictech",
   "civic-tech",
+  "civictech",
   "councils",
   "fixmystreet",
   "international",
