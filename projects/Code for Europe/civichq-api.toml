@@ -4,7 +4,7 @@ git_url = "git://github.com/codeforeurope/civichq-api.git"
 link_url = "http://codeforeu.github.io/portfolio"
 name = "civichq-api"
 organization_name = "Code for Europe"
-topics = [ "civictech", "civic-tech", "european" ]
+topics = [ "civic-tech", "civictech", "european" ]
 
 [github]
 archived = false
@@ -29,7 +29,7 @@ open_issues_within = 0
 private = false
 pushed_within = "over_a_year"
 stargazers_within = 0
-topics = [ "civictech", "civic-tech", "european" ]
+topics = [ "civic-tech", "civictech", "european" ]
 updated_within = "over_a_year"
 watchers_within = 0
 
