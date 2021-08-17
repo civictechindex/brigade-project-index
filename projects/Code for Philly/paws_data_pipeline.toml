@@ -1,68 +1,10 @@
 code_url = "https://github.com/CodeForPhilly/paws-data-pipeline"
 description = "WHO IS PAWS - As the city's largest animal rescue partner and no-kill animal shelter, PAWS is working to make Philadelphia a place where every healthy and treatable pet is guaranteed a home. Since inception over 10 years ago, PAWS has rescued and placed 27,000+ animals in adoptive and foster homes, and has worked to prevent pet homelessness by providing 86,000+ low-cost spay/neuter services and affordable vet care to 227,000+ clinic patients. Just in 2018, 3,584 animals were rescued and 36,871 clinic patients were served. PAWS is funded 100% through donations, with 91 cents of every dollar collected going directly to the animals. Therefore, PAWS' rescue work (including 3 shelters and all rescue and animal care programs), administration and development efforts are coordinated by only about 70 staff members complemented by over 1500 volunteers."
+github = false
 name = "paws_data_pipeline"
 organization_name = "Code for Philly"
 status = "Prototyping"
 topics = [ "Animal Shelters/Pet Adoption", "data management" ]
-
-[github]
-archived = false
-created_at = "2019-10-23T00:46:20Z"
-default_branch = "master"
-description = "PAWS Data Pipeline Project"
-disabled = false
-fork = false
-forks_within = 100
-full_name = "CodeForPhilly/paws-data-pipeline"
-has_downloads = true
-has_issues = true
-has_pages = false
-has_projects = true
-has_wiki = true
-homepage = ""
-id = 216_936_227
-language = "Python"
-name = "paws-data-pipeline"
-network_count = 13
-node_id = "MDEwOlJlcG9zaXRvcnkyMTY5MzYyMjc="
-open_issues_within = 100
-private = false
-pushed_within = "week"
-stargazers_within = 100
-subscribers_count = 22
-temp_clone_token = ""
-topics = [ ]
-updated_within = "week"
-watchers_within = 100
-
-  [github.license]
-  key = "mit"
-  name = "MIT License"
-  node_id = "MDc6TGljZW5zZTEz"
-  spdx_id = "MIT"
-
-  [github.organization]
-  gravatar_id = ""
-  id = 1_451_716
-  login = "CodeForPhilly"
-  node_id = "MDEyOk9yZ2FuaXphdGlvbjE0NTE3MTY="
-  site_admin = false
-  type = "Organization"
-
-  [github.owner]
-  gravatar_id = ""
-  id = 1_451_716
-  login = "CodeForPhilly"
-  node_id = "MDEyOk9yZ2FuaXphdGlvbjE0NTE3MTY="
-  site_admin = false
-  type = "Organization"
-
-  [github.permissions]
-  admin = false
-  maintain = false
-  pull = true
-  push = false
-  triage = false
 
 [projects_list_extra]
 chat_channel = "paws_data_pipeline"
