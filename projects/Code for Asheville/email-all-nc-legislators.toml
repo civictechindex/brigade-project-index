@@ -27,10 +27,10 @@ name = "email-all-nc-legislators"
 node_id = "MDEwOlJlcG9zaXRvcnkzODc2MzY0Mg=="
 open_issues_within = 0
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ "civictech", "email", "html", "northcarolina" ]
-updated_within = "year"
+updated_within = "week"
 watchers_within = 10
 
   [github.license]
