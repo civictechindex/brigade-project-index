@@ -1,6 +1,6 @@
-code_url = "https://github.com/codeforboston/clean-slate-app-project"
-git_url = "git://github.com/codeforboston/clean-slate-app-project.git"
-name = "clean-slate-app-project"
+code_url = "https://github.com/codeforboston/MA-Clean-Slate-App"
+git_url = "git://github.com/codeforboston/MA-Clean-Slate-App.git"
+name = "MA-Clean-Slate-App"
 organization_name = "Code for Boston"
 
 [github]
@@ -11,7 +11,7 @@ description = { }
 disabled = false
 fork = false
 forks_within = 0
-full_name = "codeforboston/clean-slate-app-project"
+full_name = "codeforboston/MA-Clean-Slate-App"
 has_downloads = true
 has_issues = true
 has_pages = false
@@ -21,7 +21,7 @@ homepage = { }
 id = 397_383_369
 language = { }
 license = { }
-name = "clean-slate-app-project"
+name = "MA-Clean-Slate-App"
 node_id = "MDEwOlJlcG9zaXRvcnkzOTczODMzNjk="
 open_issues_within = 0
 private = false
