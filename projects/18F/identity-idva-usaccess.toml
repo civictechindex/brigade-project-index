@@ -1,6 +1,6 @@
-code_url = "https://github.com/18F/identity-give-usaccess"
-git_url = "git://github.com/18F/identity-give-usaccess.git"
-name = "identity-give-usaccess"
+code_url = "https://github.com/18F/identity-idva-usaccess"
+git_url = "git://github.com/18F/identity-idva-usaccess.git"
+name = "identity-idva-usaccess"
 organization_name = "18F"
 
 [github]
@@ -11,7 +11,7 @@ description = { }
 disabled = false
 fork = false
 forks_within = 10
-full_name = "18F/identity-give-usaccess"
+full_name = "18F/identity-idva-usaccess"
 has_downloads = true
 has_issues = true
 has_pages = false
@@ -20,14 +20,14 @@ has_wiki = true
 homepage = { }
 id = 370_922_998
 language = "Python"
-name = "identity-give-usaccess"
+name = "identity-idva-usaccess"
 node_id = "MDEwOlJlcG9zaXRvcnkzNzA5MjI5OTg="
 open_issues_within = 0
 private = false
 pushed_within = "month"
 stargazers_within = 0
 topics = [ ]
-updated_within = "month"
+updated_within = "week"
 watchers_within = 0
 
   [github.license]

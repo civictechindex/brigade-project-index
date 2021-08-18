@@ -1,7 +1,7 @@
-code_url = "https://github.com/18F/identity-give-cf-metrics"
+code_url = "https://github.com/18F/identity-idva-cf-metrics"
 description = "Copy of https://github.com/alphagov/paas-prometheus-exporter for exporting application metrics in cloud.gov"
-git_url = "git://github.com/18F/identity-give-cf-metrics.git"
-name = "identity-give-cf-metrics"
+git_url = "git://github.com/18F/identity-idva-cf-metrics.git"
+name = "identity-idva-cf-metrics"
 organization_name = "18F"
 
 [github]
@@ -12,7 +12,7 @@ description = "Copy of https://github.com/alphagov/paas-prometheus-exporter for 
 disabled = false
 fork = false
 forks_within = 10
-full_name = "18F/identity-give-cf-metrics"
+full_name = "18F/identity-idva-cf-metrics"
 has_downloads = true
 has_issues = true
 has_pages = false
@@ -21,7 +21,7 @@ has_wiki = true
 homepage = { }
 id = 371_748_946
 language = "Go"
-name = "identity-give-cf-metrics"
+name = "identity-idva-cf-metrics"
 node_id = "MDEwOlJlcG9zaXRvcnkzNzE3NDg5NDY="
 open_issues_within = 10
 private = false
