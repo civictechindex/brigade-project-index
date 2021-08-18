@@ -15,6 +15,7 @@ topics = [
   "hack-for-la",
   "state",
   "usps",
+  "vote",
   "voters"
 ]
 
@@ -53,9 +54,10 @@ topics = [
   "hack-for-la",
   "state",
   "usps",
+  "vote",
   "voters"
 ]
-updated_within = "month"
+updated_within = "week"
 watchers_within = 100
 
   [github.license]
