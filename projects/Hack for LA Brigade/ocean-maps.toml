@@ -1,0 +1,60 @@
+code_url = "https://github.com/hackforla/ocean-maps"
+description = "Working on mapping the effects on human pollution on sharks, dolphins, and whales"
+git_url = "git://github.com/hackforla/ocean-maps.git"
+name = "ocean-maps"
+organization_name = "Hack for LA Brigade"
+topics = [
+  "civictechindex",
+  "code-for-all",
+  "code-for-america",
+  "hack-for-la"
+]
+
+[github]
+archived = false
+created_at = "2019-10-03T03:12:36Z"
+default_branch = "master"
+description = "Working on mapping the effects on human pollution on sharks, dolphins, and whales"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "hackforla/ocean-maps"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 212_488_094
+language = { }
+license = { }
+name = "ocean-maps"
+node_id = "MDEwOlJlcG9zaXRvcnkyMTI0ODgwOTQ="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+score = 1
+stargazers_within = 10
+topics = [
+  "civictechindex",
+  "code-for-all",
+  "code-for-america",
+  "hack-for-la"
+]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 11_635_254
+  login = "hackforla"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjExNjM1MjU0"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  maintain = false
+  pull = true
+  push = false
+  triage = false
