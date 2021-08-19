@@ -1,6 +1,7 @@
 code_url = "https://github.com/code4romania/de-urgenta-backend"
 description = "De Urgență backend - web & mobile"
 git_url = "git://github.com/code4romania/de-urgenta-backend.git"
+link_url = "de-urgenta-backend-mu.vercel.app"
 name = "de-urgenta-backend"
 organization_name = "Code for Romania: Cluj Chapter"
 
@@ -18,7 +19,7 @@ has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = true
-homepage = { }
+homepage = "de-urgenta-backend-mu.vercel.app"
 id = 353_318_527
 language = "C#"
 name = "de-urgenta-backend"
