@@ -1,35 +1,34 @@
-code_url = "https://github.com/OpenUpSA/municipal-structures-compliance"
-description = "Django web-form system for DCOG."
-git_url = "git://github.com/OpenUpSA/municipal-structures-compliance.git"
-name = "municipal-structures-compliance"
+code_url = "https://github.com/OpenUpSA/mpr_analysis"
+git_url = "git://github.com/OpenUpSA/mpr_analysis.git"
+name = "mpr_analysis"
 organization_name = "OpenUp"
 
 [github]
 archived = false
-created_at = "2021-08-13T12:05:53Z"
+created_at = "2017-05-18T09:54:29Z"
 default_branch = "master"
-description = "Django web-form system for DCOG."
+description = { }
 disabled = false
 fork = false
 forks_within = 0
-full_name = "OpenUpSA/municipal-structures-compliance"
+full_name = "OpenUpSA/mpr_analysis"
 has_downloads = true
 has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = true
 homepage = { }
-id = 395_640_066
-language = "Python"
+id = 91_677_559
+language = "Jupyter Notebook"
 license = { }
-name = "municipal-structures-compliance"
-node_id = "MDEwOlJlcG9zaXRvcnkzOTU2NDAwNjY="
+name = "mpr_analysis"
+node_id = "MDEwOlJlcG9zaXRvcnk5MTY3NzU1OQ=="
 open_issues_within = 10
 private = false
-pushed_within = "week"
+pushed_within = "over_a_year"
 stargazers_within = 0
 topics = [ ]
-updated_within = "month"
+updated_within = "week"
 watchers_within = 0
 
   [github.owner]
