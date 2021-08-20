@@ -16,19 +16,19 @@ full_name = "18F/us-federal-holidays"
 has_downloads = true
 has_issues = true
 has_pages = false
-has_projects = true
-has_wiki = true
+has_projects = false
+has_wiki = false
 homepage = { }
 id = 52_688_382
 language = "JavaScript"
 name = "us-federal-holidays"
 node_id = "MDEwOlJlcG9zaXRvcnk1MjY4ODM4Mg=="
-open_issues_within = 10
+open_issues_within = 0
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 100
 topics = [ ]
-updated_within = "month"
+updated_within = "week"
 watchers_within = 100
 
   [github.license]
