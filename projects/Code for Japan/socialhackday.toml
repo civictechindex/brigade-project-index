@@ -20,15 +20,15 @@ has_projects = true
 has_wiki = true
 homepage = { }
 id = 128_494_821
-language = "HTML"
+language = "Nunjucks"
 name = "socialhackday"
 node_id = "MDEwOlJlcG9zaXRvcnkxMjg0OTQ4MjE="
-open_issues_within = 100
+open_issues_within = 10
 private = false
 pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
-updated_within = "year"
+updated_within = "week"
 watchers_within = 10
 
   [github.license]
