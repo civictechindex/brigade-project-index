@@ -27,10 +27,10 @@ name = "maineballot"
 node_id = "MDEwOlJlcG9zaXRvcnkxNjU5MTA1NDQ="
 open_issues_within = 10
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ "codeforamerica" ]
-updated_within = "year"
+updated_within = "week"
 watchers_within = 10
 
   [github.license]
