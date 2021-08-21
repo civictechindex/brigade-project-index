@@ -36,7 +36,7 @@ name = "dwellinglybackend"
 node_id = "MDEwOlJlcG9zaXRvcnkyNDM0MzEwOTA="
 open_issues_within = 10
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 100
 topics = [
   "backend",
@@ -49,7 +49,7 @@ topics = [
   "hacktoberfest",
   "python"
 ]
-updated_within = "month"
+updated_within = "week"
 watchers_within = 100
 
   [github.license]
