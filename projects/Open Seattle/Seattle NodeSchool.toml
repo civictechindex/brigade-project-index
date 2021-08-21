@@ -24,7 +24,7 @@ id = 25_626_326
 language = "HTML"
 license = { }
 name = "seattle"
-network_count = 8
+network_count = 9
 node_id = "MDEwOlJlcG9zaXRvcnkyNTYyNjMyNg=="
 open_issues_within = 10
 private = false
@@ -33,7 +33,7 @@ stargazers_within = 100
 subscribers_count = 104
 temp_clone_token = ""
 topics = [ ]
-updated_within = "over_a_year"
+updated_within = "week"
 watchers_within = 100
 
   [github.organization]
