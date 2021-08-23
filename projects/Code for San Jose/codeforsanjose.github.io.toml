@@ -18,7 +18,7 @@ topics = [
 [github]
 archived = false
 created_at = "2014-10-06T06:07:02Z"
-default_branch = "master"
+default_branch = "main"
 description = "Code for San José website"
 disabled = false
 fork = false
@@ -36,7 +36,7 @@ name = "codeforsanjose.github.io"
 node_id = "MDEwOlJlcG9zaXRvcnkyNDgzNTYwNg=="
 open_issues_within = 10
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 100
 topics = [
   "brigade",
@@ -48,7 +48,7 @@ topics = [
   "sass",
   "website"
 ]
-updated_within = "year"
+updated_within = "week"
 watchers_within = 100
 
   [github.license]
