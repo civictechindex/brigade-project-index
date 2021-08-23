@@ -27,10 +27,10 @@ name = "municipal-data"
 node_id = "MDEwOlJlcG9zaXRvcnk1NTIzNjU3OQ=="
 open_issues_within = 100
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 100
 topics = [ "babbage", "fiscaldata", "opendata" ]
-updated_within = "year"
+updated_within = "week"
 watchers_within = 100
 
   [github.license]
