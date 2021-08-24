@@ -1,29 +1,27 @@
-code_url = "https://github.com/codeforatlanta/community"
-description = "Sustainability apps created with the US Environmental Protection Agency (EPA). https://model.earth/community"
-git_url = "git://github.com/codeforatlanta/community.git"
-name = "community"
+code_url = "https://github.com/codeforatlanta/io"
+git_url = "git://github.com/codeforatlanta/io.git"
+name = "io"
 organization_name = "Code for Atlanta"
 
 [github]
 archived = false
-created_at = "2021-08-24T13:53:47Z"
+created_at = "2021-08-24T14:06:21Z"
 default_branch = "master"
-description = "Sustainability apps created with the US Environmental Protection Agency (EPA). https://model.earth/community"
+description = { }
 disabled = false
 fork = true
 forks_within = 0
-full_name = "codeforatlanta/community"
+full_name = "codeforatlanta/io"
 has_downloads = true
 has_issues = false
-has_pages = true
+has_pages = false
 has_projects = true
 has_wiki = true
-homepage = ""
-id = 399_483_988
-language = "JavaScript"
-license = { }
-name = "community"
-node_id = "MDEwOlJlcG9zaXRvcnkzOTk0ODM5ODg="
+homepage = { }
+id = 399_488_161
+language = { }
+name = "io"
+node_id = "MDEwOlJlcG9zaXRvcnkzOTk0ODgxNjE="
 open_issues_within = 0
 private = false
 pushed_within = "week"
@@ -31,6 +29,12 @@ stargazers_within = 0
 topics = [ ]
 updated_within = "week"
 watchers_within = 0
+
+  [github.license]
+  key = "cc0-1.0"
+  name = "Creative Commons Zero v1.0 Universal"
+  node_id = "MDc6TGljZW5zZTY="
+  spdx_id = "CC0-1.0"
 
   [github.owner]
   gravatar_id = ""
