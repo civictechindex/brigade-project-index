@@ -1,0 +1,20 @@
+name: Publish Index
+
+on:
+  push:
+    branches: [ snapshot/v1 ]
+
+jobs:
+
+  publish-index:
+    runs-on: ubuntu-latest
+    steps:
+
+    - name: 'Update holobranch: index/v1'
+      uses: JarvusInnovations/hologit@actions/projector/v1
+      env:
+        GITHUB_TOKEN: ${{ secrets.BOT_GITHUB_TOKEN }}
+        HAB_LICENSE: accept
+      with:
+        holobranch: index-v1
+        commit-to: index/v1
