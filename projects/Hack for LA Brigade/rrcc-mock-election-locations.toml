@@ -1,0 +1,17 @@
+code_url = "https://github.com/hackforla/rrcc-mock-election-locations"
+description = "Locations for the LA County Registrar Recorder/County Clerk's Mock Elections (9/28-9/29)"
+git_branch = "master"
+git_url = "git://github.com/hackforla/rrcc-mock-election-locations.git"
+last_pushed_within = "over_a_year"
+link_url = "https://hackforla.github.io/rrcc-mock-election-locations/"
+name = "rrcc-mock-election-locations"
+organization_name = "Hack for LA Brigade"
+topics = [
+  "civictechindex",
+  "code-for-all",
+  "code-for-america",
+  "elections",
+  "hack-for-la",
+  "la-county",
+  "map-visualization"
+]

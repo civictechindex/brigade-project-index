@@ -1,6 +1,6 @@
 code_url = "https://github.com/datamade/csvdedupe"
 git_branch = "master"
-last_pushed_within = "year"
+last_pushed_within = "over_a_year"
 name = "csvdedupe"
 organization_name = "Chi Hack Night"
 topics = [

@@ -1,6 +1,6 @@
 code_url = "https://github.com/18F/private-eye"
 description = "a JavaScript plugin to warn users about links to private pages"
-git_branch = "master"
+git_branch = "main"
 git_url = "git://github.com/18F/private-eye.git"
 last_pushed_within = "month"
 link_url = "https://private-eye.18f.gov"

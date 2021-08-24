@@ -1,0 +1,7 @@
+code_url = "https://github.com/Open-Columbia-County/occ-django"
+description = "Open Columbia County Main site built in Django"
+git_branch = "main"
+git_url = "git://github.com/Open-Columbia-County/occ-django.git"
+last_pushed_within = "year"
+name = "occ-django"
+organization_name = "Open Columbia County"

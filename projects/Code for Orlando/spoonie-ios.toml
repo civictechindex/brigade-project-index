@@ -4,4 +4,10 @@ git_url = "git://github.com/cforlando/spoonie-ios.git"
 last_pushed_within = "over_a_year"
 name = "spoonie-ios"
 organization_name = "Code for Orlando"
-topics = [ "code-for-america", "code-for-orlando", "health-care", "ios" ]
+topics = [
+  "code-for-america",
+  "code-for-orlando",
+  "health-care",
+  "inactive",
+  "ios"
+]

@@ -1,7 +1,6 @@
 code_url = "https://github.com/clsphila/recordlib"
 description = "Community Legal Services is a private nonprofit that provides civil legal representation to thousands of low-income Philadelphians every year. CLS's Employment Unit helps clients' secure employment by expunging and sealing criminal records. CLS also maintains the Expungement Generator, a web application that nonprofits across the state use to automate creating and filing expungement petitions."
-git_branch = "main"
-last_pushed_within = "week"
+flags = [ "github_404" ]
 link_url = "https://clsphila.org/mycleanslatepa"
 name = "tools_for_sealing_and_expunging_criminal_records_in_pennsylvania"
 organization_name = "Code for Philly"

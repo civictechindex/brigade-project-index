@@ -1,0 +1,7 @@
+code_url = "https://github.com/codeforpdx/open-data-streams"
+description = "Data validation and profiling for publishing City of Portland open datasets"
+git_branch = "main"
+git_url = "git://github.com/codeforpdx/open-data-streams.git"
+last_pushed_within = "year"
+name = "open-data-streams"
+organization_name = "Code for PDX"

@@ -1,0 +1,7 @@
+code_url = "https://github.com/openelections/openelections-sources-la"
+description = "Original results files for Louisiana elections"
+git_branch = "main"
+git_url = "git://github.com/openelections/openelections-sources-la.git"
+last_pushed_within = "year"
+name = "openelections-sources-la"
+organization_name = "Open Elections"

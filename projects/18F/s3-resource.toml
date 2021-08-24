@@ -1,7 +1,0 @@
-code_url = "https://github.com/18F/s3-resource"
-description = "Concourse resource for interacting with AWS S3"
-git_branch = "master"
-git_url = "git://github.com/18F/s3-resource.git"
-last_pushed_within = "over_a_year"
-name = "s3-resource"
-organization_name = "18F"

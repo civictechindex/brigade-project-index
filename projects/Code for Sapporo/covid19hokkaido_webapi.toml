@@ -1,6 +1,6 @@
 code_url = "https://github.com/codeforsapporo/covid19hokkaido_webapi"
 git_branch = "develop"
 git_url = "git://github.com/codeforsapporo/covid19hokkaido_webapi.git"
-last_pushed_within = "year"
+last_pushed_within = "over_a_year"
 name = "covid19hokkaido_webapi"
 organization_name = "Code for Sapporo"

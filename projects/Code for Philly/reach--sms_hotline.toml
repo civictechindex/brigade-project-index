@@ -1,7 +1,6 @@
 code_url = "http://github.com/Reach-Technologies/reach"
 description = "This is an SMS Hotline platform developed to facilitate a Warm Handoff to treatment services for overdose survivors. Reach connects people in need with service professionals at any hour of the day and across geographic barriers using SMS."
-git_branch = "master"
-last_pushed_within = "over_a_year"
+flags = [ "github_404" ]
 link_url = "http://reachtechnologies.net/"
 name = "reach--sms_hotline"
 organization_name = "Code for Philly"

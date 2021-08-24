@@ -1,0 +1,13 @@
+code_url = "https://github.com/hackforla/ocean-maps"
+description = "Working on mapping the effects on human pollution on sharks, dolphins, and whales"
+git_branch = "master"
+git_url = "git://github.com/hackforla/ocean-maps.git"
+last_pushed_within = "over_a_year"
+name = "ocean-maps"
+organization_name = "Hack for LA Brigade"
+topics = [
+  "civictechindex",
+  "code-for-all",
+  "code-for-america",
+  "hack-for-la"
+]

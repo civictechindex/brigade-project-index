@@ -1,0 +1,17 @@
+code_url = "https://github.com/hackforla/product-management"
+description = "A repository for the Product Management Community of Practice"
+git_branch = "master"
+git_url = "git://github.com/hackforla/product-management.git"
+last_pushed_within = "week"
+link_url = "https://hackforla.org/communities-of-practice"
+name = "product-management"
+organization_name = "Hack for LA Brigade"
+topics = [
+  "civictechindex",
+  "code-for-all",
+  "code-for-america",
+  "community-of-practice",
+  "hack-for-la",
+  "product",
+  "product-managment"
+]

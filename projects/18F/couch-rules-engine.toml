@@ -1,8 +1,0 @@
-code_url = "https://github.com/18F/couch-rules-engine"
-description = "A prototype effort to look at using CouchDB as a rules engine"
-git_branch = "master"
-git_url = "git://github.com/18F/couch-rules-engine.git"
-last_pushed_within = "year"
-name = "couch-rules-engine"
-organization_name = "18F"
-topics = [ "10x-data-federation", "couchdb", "open-data", "rule-engine" ]

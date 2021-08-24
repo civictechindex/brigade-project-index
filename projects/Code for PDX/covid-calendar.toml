@@ -1,7 +1,9 @@
 code_url = "https://github.com/codeforpdx/covid-calendar"
+description = "Source code for https://covidcalc.org"
 git_branch = "master"
 git_url = "git://github.com/codeforpdx/covid-calendar.git"
-last_pushed_within = "week"
-link_url = "https://codeforpdx.github.io/covid-calendar/"
+last_pushed_within = "year"
+link_url = "https://covidcalc.org"
 name = "covid-calendar"
 organization_name = "Code for PDX"
+topics = [ "covid-19" ]

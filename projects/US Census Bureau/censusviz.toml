@@ -1,0 +1,6 @@
+code_url = "https://github.com/uscensusbureau/censusviz"
+git_branch = "main"
+git_url = "git://github.com/uscensusbureau/censusviz.git"
+last_pushed_within = "year"
+name = "censusviz"
+organization_name = "US Census Bureau"

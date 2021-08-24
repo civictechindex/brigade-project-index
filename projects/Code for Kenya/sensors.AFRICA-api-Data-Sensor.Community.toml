@@ -2,6 +2,6 @@ code_url = "https://github.com/CodeForAfrica/sensors.AFRICA-api-Data-Sensor.Comm
 description = "Pulls sensors data from  https://maps.sensor.community platform, and uploads them to Sensors.Africa."
 git_branch = "main"
 git_url = "git://github.com/CodeForAfrica/sensors.AFRICA-api-Data-Sensor.Community.git"
-last_pushed_within = "month"
+last_pushed_within = "year"
 name = "sensors.AFRICA-api-Data-Sensor.Community"
 organization_name = "Code for Kenya"

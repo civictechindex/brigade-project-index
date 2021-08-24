@@ -1,8 +1,0 @@
-code_url = "https://github.com/18F/s3-resource-simple"
-description = "Concourse CI Resource for uploading files to S3"
-git_branch = "main"
-git_url = "git://github.com/18F/s3-resource-simple.git"
-last_pushed_within = "week"
-link_url = "https://hub.docker.com/r/18fgsa/s3-resource-simple/"
-name = "s3-resource-simple"
-organization_name = "18F"

@@ -1,7 +1,0 @@
-code_url = "https://github.com/18F/alpine-fips"
-description = "Alpine Linux with FIPS 140-2 OpenSSL"
-git_branch = "master"
-git_url = "git://github.com/18F/alpine-fips.git"
-last_pushed_within = "year"
-name = "alpine-fips"
-organization_name = "18F"

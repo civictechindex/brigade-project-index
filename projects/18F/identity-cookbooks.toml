@@ -1,6 +1,6 @@
 code_url = "https://github.com/18F/identity-cookbooks"
 description = "Open source cookbooks used by the login.gov team"
-git_branch = "master"
+git_branch = "main"
 git_url = "git://github.com/18F/identity-cookbooks.git"
 last_pushed_within = "month"
 name = "identity-cookbooks"

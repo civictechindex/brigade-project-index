@@ -1,0 +1,16 @@
+code_url = "https://github.com/hackforla/VRMS"
+description = "Volunteer Relationship Management System: This is an ambitious project to create a system that will help us measure our human capital development, reduce repetitive tasks and processes, and improve outcomes."
+git_branch = "development"
+git_url = "git://github.com/hackforla/VRMS.git"
+last_pushed_within = "week"
+name = "VRMS"
+organization_name = "Hack for LA Brigade"
+topics = [
+  "civictechindex",
+  "code-for-all",
+  "code-for-america",
+  "github-api",
+  "hack-for-la",
+  "meetup-api",
+  "sign-in"
+]

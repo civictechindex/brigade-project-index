@@ -1,8 +1,0 @@
-code_url = "https://github.com/18F/cloud-foundry-cli"
-description = "Docker image for running the Cloud Foundry CLI"
-git_branch = "master"
-git_url = "git://github.com/18F/cloud-foundry-cli.git"
-last_pushed_within = "month"
-link_url = "https://hub.docker.com/r/18fgsa/cloud-foundry-cli/"
-name = "cloud-foundry-cli"
-organization_name = "18F"

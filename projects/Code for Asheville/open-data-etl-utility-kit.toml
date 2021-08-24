@@ -1,7 +1,0 @@
-code_url = "https://github.com/CodeForAsheville/open-data-etl-utility-kit"
-description = "Use Pentaho's open source data integration tool (Kettle) to create Extract-Transform-Load (ETL) processes to update a Socrata open data portal. Documentation is available at http://open-data-etl-utility-kit.readthedocs.org/en/latest/"
-git_branch = "master"
-git_url = "git://github.com/CodeForAsheville/open-data-etl-utility-kit.git"
-last_pushed_within = "over_a_year"
-name = "open-data-etl-utility-kit"
-organization_name = "Code for Asheville"

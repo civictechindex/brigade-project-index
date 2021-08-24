@@ -1,6 +1,6 @@
 code_url = "https://github.com/codeforsanjose/gov-agenda-notifier"
 description = "Agenda notifications for local government meetings"
-git_branch = "master"
+git_branch = "develop"
 git_url = "git://github.com/codeforsanjose/gov-agenda-notifier.git"
 last_pushed_within = "week"
 link_url = "https://gov-agenda-notifier.herokuapp.com/"

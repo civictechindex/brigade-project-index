@@ -1,0 +1,7 @@
+code_url = "https://github.com/OpenUpSA/wazimap-adh-data"
+description = "Scripts and jupyter notebooks to prepare data for upload to wazimap for the Africa Data Hub project"
+git_branch = "main"
+git_url = "git://github.com/OpenUpSA/wazimap-adh-data.git"
+last_pushed_within = "year"
+name = "wazimap-adh-data"
+organization_name = "OpenUp"

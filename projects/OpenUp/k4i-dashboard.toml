@@ -1,6 +1,6 @@
 code_url = "https://github.com/OpenUpSA/k4i-dashboard"
 git_branch = "master"
 git_url = "git://github.com/OpenUpSA/k4i-dashboard.git"
-last_pushed_within = "year"
+last_pushed_within = "over_a_year"
 name = "k4i-dashboard"
 organization_name = "OpenUp"

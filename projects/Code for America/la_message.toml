@@ -1,9 +1,0 @@
-code_url = "https://github.com/codeforamerica/la_message"
-description = "SMS messaging application for sending and tracking text messages in Louisiana."
-git_branch = "master"
-git_url = "git://github.com/codeforamerica/la_message.git"
-last_pushed_within = "year"
-link_url = "https://message.labenefits.org"
-name = "la_message"
-organization_name = "Code for America"
-topics = [ "integrated-benefits", "ruby-on-rails", "twilio" ]

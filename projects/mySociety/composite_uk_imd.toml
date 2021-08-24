@@ -1,0 +1,7 @@
+code_url = "https://github.com/mysociety/composite_uk_imd"
+description = "Composite version of UK and GB wide deprivation indexes for small areas."
+git_branch = "master"
+git_url = "git://github.com/mysociety/composite_uk_imd.git"
+last_pushed_within = "year"
+name = "composite_uk_imd"
+organization_name = "mySociety"

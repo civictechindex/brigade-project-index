@@ -1,0 +1,7 @@
+code_url = "https://github.com/CodeForAsheville/tramcar"
+description = "Tramcar is a multi-site, self-hosted job board built using Django"
+git_branch = "main"
+git_url = "git://github.com/CodeForAsheville/tramcar.git"
+last_pushed_within = "year"
+name = "tramcar"
+organization_name = "Code for Asheville"

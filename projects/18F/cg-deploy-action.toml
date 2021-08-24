@@ -1,0 +1,7 @@
+code_url = "https://github.com/18F/cg-deploy-action"
+description = "Github Action for deploying a cloud.gov application"
+git_branch = "main"
+git_url = "git://github.com/18F/cg-deploy-action.git"
+last_pushed_within = "month"
+name = "cg-deploy-action"
+organization_name = "18F"

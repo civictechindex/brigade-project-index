@@ -1,8 +1,8 @@
 code_url = "https://github.com/18F/identity-lambda-functions"
 description = "(public) AWS Lambdas used by the Login.gov project"
-git_branch = "master"
+git_branch = "main"
 git_url = "git://github.com/18F/identity-lambda-functions.git"
-last_pushed_within = "month"
+last_pushed_within = "week"
 name = "identity-lambda-functions"
 organization_name = "18F"
 topics = [ "login-gov" ]

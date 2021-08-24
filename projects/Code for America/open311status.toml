@@ -1,8 +1,0 @@
-code_url = "https://github.com/codeforamerica/open311status"
-description = "Open311 Status monitors and aggregates the status of dozens of Open311 API endpoints, providing benchmarks and comparative insights."
-git_branch = "main"
-git_url = "git://github.com/codeforamerica/open311status.git"
-last_pushed_within = "month"
-link_url = "https://status.open311.org"
-name = "open311status"
-organization_name = "Code for America"

@@ -1,0 +1,9 @@
+code_url = "https://github.com/mysociety/action-git-pusher"
+description = "GithHub Action to push git things somewhere else"
+git_branch = "master"
+git_url = "git://github.com/mysociety/action-git-pusher.git"
+last_pushed_within = "year"
+link_url = "https://www.mysociety.org/"
+name = "action-git-pusher"
+organization_name = "mySociety"
+topics = [ "actions", "git" ]

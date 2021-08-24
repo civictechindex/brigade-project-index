@@ -1,7 +1,0 @@
-code_url = "https://github.com/18F/identity-eks"
-description = "Prototype EKS cluster config/management/tooling"
-git_branch = "master"
-git_url = "git://github.com/18F/identity-eks.git"
-last_pushed_within = "year"
-name = "identity-eks"
-organization_name = "18F"

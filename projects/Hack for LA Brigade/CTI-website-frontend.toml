@@ -1,0 +1,17 @@
+code_url = "https://github.com/civictechindex/CTI-website-frontend"
+description = "Join a worldwide movement to catalog  every open source  civic tech project."
+git_branch = "main"
+git_url = "git://github.com/civictechindex/CTI-website-frontend.git"
+last_pushed_within = "week"
+link_url = "https://civictechindex.org"
+name = "CTI-website-frontend"
+organization_name = "Hack for LA Brigade"
+topics = [
+  "civic-tech",
+  "civictechindex",
+  "code-for-all",
+  "code-for-america",
+  "hack-for-la",
+  "open-source",
+  "opensource"
+]

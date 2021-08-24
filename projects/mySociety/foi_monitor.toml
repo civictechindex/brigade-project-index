@@ -1,0 +1,7 @@
+code_url = "https://github.com/mysociety/foi_monitor"
+description = "Django app to process FOI statistics and compare to WDTK"
+git_branch = "master"
+git_url = "git://github.com/mysociety/foi_monitor.git"
+last_pushed_within = "year"
+name = "foi_monitor"
+organization_name = "mySociety"

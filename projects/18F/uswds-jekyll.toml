@@ -1,6 +1,6 @@
 code_url = "https://github.com/18F/uswds-jekyll"
-description = "A Jekyll theme showcasing the U.S. Web Design System (co-owned by 18F and the USWDS team)"
-git_branch = "master"
+description = "A Jekyll theme showcasing the U.S. Web Design System"
+git_branch = "main"
 git_url = "git://github.com/18F/uswds-jekyll.git"
 last_pushed_within = "month"
 link_url = "https://federalist-proxy.app.cloud.gov/site/18f/uswds-jekyll/"

@@ -1,9 +1,0 @@
-code_url = "https://github.com/18F/nsf-sbir"
-description = "National Science Foundation - Small Business Innovation Research"
-git_branch = "dev"
-git_url = "git://github.com/18F/nsf-sbir.git"
-last_pushed_within = "week"
-link_url = "https://seedfund.nsf.gov"
-name = "nsf-sbir"
-organization_name = "18F"
-topics = [ "nsf", "sbir" ]

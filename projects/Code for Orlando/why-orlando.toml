@@ -1,6 +1,7 @@
 code_url = "https://github.com/cforlando/why-orlando"
 git_branch = "develop"
 git_url = "git://github.com/cforlando/why-orlando.git"
-last_pushed_within = "year"
+last_pushed_within = "over_a_year"
 name = "why-orlando"
 organization_name = "Code for Orlando"
+topics = [ "inactive" ]

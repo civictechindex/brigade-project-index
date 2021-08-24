@@ -1,0 +1,7 @@
+code_url = "https://github.com/OpenUpSA/browser-device-info-collector"
+description = "Really simple browser and device information collector. Submits to a Google Form."
+git_branch = "main"
+git_url = "git://github.com/OpenUpSA/browser-device-info-collector.git"
+last_pushed_within = "year"
+name = "browser-device-info-collector"
+organization_name = "OpenUp"

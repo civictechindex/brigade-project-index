@@ -1,8 +1,8 @@
 code_url = "https://github.com/CodeForBaltimore/lambda-restful-util"
-description = "A utility package for API's built using AWS Lambda."
+description = "A utility package for RESTful API's built using AWS Lambda."
 git_branch = "main"
 git_url = "git://github.com/CodeForBaltimore/lambda-restful-util.git"
-last_pushed_within = "week"
+last_pushed_within = "year"
 name = "lambda-restful-util"
 organization_name = "Code for Baltimore"
 topics = [ "api-rest", "lambda", "typescript", "utility" ]

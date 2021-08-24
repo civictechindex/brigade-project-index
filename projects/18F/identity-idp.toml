@@ -1,6 +1,6 @@
 code_url = "https://github.com/18F/identity-idp"
 description = "Login.gov Core App: Identity Provider (IdP)"
-git_branch = "master"
+git_branch = "main"
 git_url = "git://github.com/18F/identity-idp.git"
 last_pushed_within = "week"
 link_url = "https://secure.login.gov/"

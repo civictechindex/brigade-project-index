@@ -1,0 +1,7 @@
+code_url = "https://github.com/OpenEugene/vaxx-proof"
+description = "http://VaxxProof.org is a registry of community-minded business in Oregon that are requiring proof of vaccination."
+git_branch = "main"
+git_url = "git://github.com/OpenEugene/vaxx-proof.git"
+last_pushed_within = "month"
+name = "vaxx-proof"
+organization_name = "Open Eugene"

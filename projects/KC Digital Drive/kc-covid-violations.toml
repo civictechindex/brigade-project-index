@@ -1,6 +1,6 @@
 code_url = "https://github.com/codeforkansascity/kc-covid-violations"
 git_branch = "master"
 git_url = "git://github.com/codeforkansascity/kc-covid-violations.git"
-last_pushed_within = "year"
+last_pushed_within = "over_a_year"
 name = "kc-covid-violations"
 organization_name = "KC Digital Drive"

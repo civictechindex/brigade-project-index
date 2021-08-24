@@ -1,0 +1,21 @@
+code_url = "https://github.com/hackforla/YouthJusticeNav"
+description = "A project with UCLA law school to help defendants in the Juvenile Justice system in Los Angeles County"
+git_branch = "main"
+git_url = "git://github.com/hackforla/YouthJusticeNav.git"
+last_pushed_within = "year"
+name = "YouthJusticeNav"
+organization_name = "Hack for LA Brigade"
+topics = [
+  "civictechindex",
+  "code-for-all",
+  "code-for-america",
+  "criminal-justice",
+  "criminal-justice-reform",
+  "hack-for-la",
+  "justice-involved-youth",
+  "know-your-rights",
+  "restorative-justice",
+  "ucla-law",
+  "youth-diversion",
+  "youth-rights"
+]

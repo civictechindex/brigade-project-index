@@ -1,0 +1,18 @@
+code_url = "https://github.com/judecalvillo/native-land-attribution"
+description = "Quick #dataengineering project to map L.A. County cities to Native American territories, leveraging PDF parsing and multiple geocoding APIs (e.g. Google, Native Lands)."
+git_branch = "master"
+git_url = "git://github.com/judecalvillo/native-land-attribution.git"
+last_pushed_within = "year"
+name = "native-land-attribution"
+organization_name = "Hack for LA Brigade"
+topics = [
+  "civic-tech",
+  "code-for-america",
+  "data-engineering",
+  "data-science",
+  "hack-for-la",
+  "native-american",
+  "native-american-lands",
+  "non-profit",
+  "r"
+]

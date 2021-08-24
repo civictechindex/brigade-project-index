@@ -1,7 +1,7 @@
 code_url = "https://github.com/CodeForPhilly/prevpoint-forms"
 description = "Prevention Point collects data via handwritten forms. This project seeks to use computer vision to eliminate the need to do data entry by hand."
 git_branch = "master"
-last_pushed_within = "year"
+last_pushed_within = "over_a_year"
 name = "computer_vision_for_prevention_point_forms"
 organization_name = "Code for Philly"
 status = "Prototyping"

@@ -1,7 +1,0 @@
-code_url = "https://github.com/18F/analytics-restarter"
-description = "Triggers nightly builds for the apps that makeup the analytics.usa.gov system"
-git_branch = "master"
-git_url = "git://github.com/18F/analytics-restarter.git"
-last_pushed_within = "year"
-name = "analytics-restarter"
-organization_name = "18F"

@@ -1,7 +1,0 @@
-code_url = "https://github.com/g0v/encoding-mashup-server"
-description = "A system to help users find the correct Unicode or the CNS 11643 encoding for Han characters found as pictures (due to the limitation of Big-5) in many dictionaries published by the Ministry of Education (Taiwan)"
-git_branch = "new-server"
-git_url = "git://github.com/g0v/encoding-mashup-server.git"
-last_pushed_within = "over_a_year"
-name = "encoding-mashup-server"
-organization_name = "g0v.tw"

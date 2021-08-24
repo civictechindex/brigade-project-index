@@ -1,0 +1,7 @@
+code_url = "https://github.com/opensandiego/tree-canopy-ml"
+description = "Use machine learning to identify San Diego's tree canopy from recent satellite data"
+git_branch = "main"
+git_url = "git://github.com/opensandiego/tree-canopy-ml.git"
+last_pushed_within = "year"
+name = "tree-canopy-ml"
+organization_name = "Open San Diego"

@@ -1,9 +1,0 @@
-code_url = "https://github.com/OpenUpSA/pocketreporter"
-description = "A tool for helping young reporters write better stories."
-git_branch = "app"
-git_url = "git://github.com/OpenUpSA/pocketreporter.git"
-last_pushed_within = "over_a_year"
-link_url = "http://pocketreporter.co.za"
-name = "pocketreporter"
-organization_name = "OpenUp"
-topics = [ "backbonejs", "journalism", "phonegap" ]

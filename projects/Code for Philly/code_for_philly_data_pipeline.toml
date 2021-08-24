@@ -1,7 +1,7 @@
 code_url = "https://github.com/CodeForPhilly/cfp-data-pipeline"
 description = "We're building a data pipeline + dashboard for Code for Philly data!"
 git_branch = "master"
-last_pushed_within = "week"
+last_pushed_within = "year"
 link_url = "https://github.com/CodeForPhilly/cfp-data-pipeline"
 name = "code_for_philly_data_pipeline"
 organization_name = "Code for Philly"

@@ -1,6 +1,6 @@
 code_url = "https://github.com/codeformuenster/pytest-kube"
 git_branch = "master"
 git_url = "git://github.com/codeformuenster/pytest-kube.git"
-last_pushed_within = "year"
+last_pushed_within = "over_a_year"
 name = "pytest-kube"
 organization_name = "OK Lab Münster"

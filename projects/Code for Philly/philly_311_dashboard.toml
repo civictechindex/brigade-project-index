@@ -1,7 +1,7 @@
 code_url = "https://github.com/anmins/Philly-311-Dashboard"
 description = "We're building a dashboard to interface with the Philly 311 data. It provides a useful way for Philly residents to check on 311 requests they've made, as well as explore the data in depth."
 git_branch = "master"
-last_pushed_within = "over_a_year"
+last_pushed_within = "year"
 link_url = "https://hackadashery.github.io/"
 name = "philly_311_dashboard"
 organization_name = "Code for Philly"

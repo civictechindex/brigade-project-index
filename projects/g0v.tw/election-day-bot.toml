@@ -1,7 +1,7 @@
 code_url = "https://github.com/g0v/election-day-bot"
 git_branch = "fun"
 git_url = "git://github.com/g0v/election-day-bot.git"
-last_pushed_within = "week"
+last_pushed_within = "year"
 link_url = "https://twitter.com/ElectionDay_bot/"
 name = "election-day-bot"
 organization_name = "g0v.tw"

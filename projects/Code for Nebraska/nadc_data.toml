@@ -1,8 +1,0 @@
-code_url = "https://github.com/opennebraska/nadc_data"
-description = "Scripts to download and parse ready-to-upload data to our Nebraska campaign finance app."
-git_branch = "master"
-git_url = "git://github.com/opennebraska/nadc_data.git"
-last_pushed_within = "over_a_year"
-link_url = "https://github.com/OWH-projects/nadc_data"
-name = "nadc_data"
-organization_name = "Code for Nebraska"

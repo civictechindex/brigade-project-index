@@ -1,15 +1,7 @@
 code_url = "https://github.com/opennebraska/landlord"
-description = "Douglas County Nebraska Parcels"
-git_branch = "master"
+description = "Forwards to the https://codefornebraska.github.io/landlord/"
+git_branch = "main"
 git_url = "git://github.com/opennebraska/landlord.git"
 last_pushed_within = "year"
-link_url = "https://opennebraska.github.io/landlord/"
 name = "landlord"
 organization_name = "Code for Nebraska"
-topics = [
-  "actions",
-  "civic-hacking",
-  "hacktoberfest",
-  "hacktoberfest2020",
-  "react"
-]

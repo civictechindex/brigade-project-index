@@ -1,6 +1,6 @@
 code_url = "https://github.com/BetaNYC/coronavirus-data"
 git_branch = "master"
 git_url = "git://github.com/BetaNYC/coronavirus-data.git"
-last_pushed_within = "year"
+last_pushed_within = "over_a_year"
 name = "coronavirus-data"
 organization_name = "BetaNYC"

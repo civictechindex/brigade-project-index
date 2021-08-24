@@ -3,5 +3,6 @@ description = "遠隔療養者モニタリングシステムのクライアン�
 git_branch = "development"
 git_url = "git://github.com/codeforjapan/remote-patient-monitoring-client.git"
 last_pushed_within = "week"
+link_url = "remote-patient-monitoring-client.nekoya.vercel.app"
 name = "remote-patient-monitoring-client"
 organization_name = "Code for Japan"

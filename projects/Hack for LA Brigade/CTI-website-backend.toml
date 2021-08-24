@@ -1,0 +1,15 @@
+code_url = "https://github.com/civictechindex/CTI-website-backend"
+description = "Python-Django based backend for Civic Tech Index"
+git_branch = "main"
+git_url = "git://github.com/civictechindex/CTI-website-backend.git"
+last_pushed_within = "month"
+name = "CTI-website-backend"
+organization_name = "Hack for LA Brigade"
+topics = [
+  "civic-tech",
+  "civictechindex",
+  "code-for-all",
+  "code-for-america",
+  "hack-for-la",
+  "open-source"
+]

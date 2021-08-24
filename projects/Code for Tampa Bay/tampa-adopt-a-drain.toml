@@ -2,7 +2,14 @@ code_url = "https://github.com/code-for-tb/tampa-adopt-a-drain"
 description = "Adopt A Drain for the Tampa Bay Area"
 git_branch = "master"
 git_url = "git://github.com/code-for-tb/tampa-adopt-a-drain.git"
-last_pushed_within = "year"
+last_pushed_within = "over_a_year"
 name = "tampa-adopt-a-drain"
 organization_name = "Code for Tampa Bay"
-topics = [ "civic-tech", "drain", "flooding", "neighborhood" ]
+topics = [
+  "brigade",
+  "civic-tech",
+  "codeforamerica",
+  "drain",
+  "flooding",
+  "neighborhood"
+]

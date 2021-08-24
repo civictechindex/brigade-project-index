@@ -1,7 +1,7 @@
 code_url = "https://github.com/mysociety/mediawiki"
 git_branch = "master"
 git_url = "git://github.com/mysociety/mediawiki.git"
-last_pushed_within = "month"
+last_pushed_within = "year"
 link_url = "https://www.mysociety.org/"
 name = "mediawiki"
 organization_name = "mySociety"
