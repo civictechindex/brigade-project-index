@@ -1,29 +1,28 @@
-code_url = "https://github.com/codeforatlanta/localsite"
-description = "Sustainable Community Web Challenge - maps and widgets"
-git_url = "git://github.com/codeforatlanta/localsite.git"
-name = "localsite"
+code_url = "https://github.com/codeforatlanta/apps"
+git_url = "git://github.com/codeforatlanta/apps.git"
+name = "apps"
 organization_name = "Code for Atlanta"
 
 [github]
 archived = false
-created_at = "2021-06-10T14:12:32Z"
+created_at = "2021-08-24T13:57:43Z"
 default_branch = "main"
-description = "Sustainable Community Web Challenge - maps and widgets"
+description = { }
 disabled = false
 fork = true
 forks_within = 0
-full_name = "codeforatlanta/localsite"
+full_name = "codeforatlanta/apps"
 has_downloads = true
 has_issues = false
 has_pages = true
 has_projects = true
 has_wiki = true
-homepage = ""
-id = 375_721_081
-language = "JavaScript"
+homepage = { }
+id = 399_485_230
+language = { }
 license = { }
-name = "localsite"
-node_id = "MDEwOlJlcG9zaXRvcnkzNzU3MjEwODE="
+name = "apps"
+node_id = "MDEwOlJlcG9zaXRvcnkzOTk0ODUyMzA="
 open_issues_within = 0
 private = false
 pushed_within = "week"

@@ -1,29 +1,29 @@
-code_url = "https://github.com/codeforatlanta/localsite"
-description = "Sustainable Community Web Challenge - maps and widgets"
-git_url = "git://github.com/codeforatlanta/localsite.git"
-name = "localsite"
+code_url = "https://github.com/codeforatlanta/community"
+description = "Sustainability apps created with the US Environmental Protection Agency (EPA). https://model.earth/community"
+git_url = "git://github.com/codeforatlanta/community.git"
+name = "community"
 organization_name = "Code for Atlanta"
 
 [github]
 archived = false
-created_at = "2021-06-10T14:12:32Z"
-default_branch = "main"
-description = "Sustainable Community Web Challenge - maps and widgets"
+created_at = "2021-08-24T13:53:47Z"
+default_branch = "master"
+description = "Sustainability apps created with the US Environmental Protection Agency (EPA). https://model.earth/community"
 disabled = false
 fork = true
 forks_within = 0
-full_name = "codeforatlanta/localsite"
+full_name = "codeforatlanta/community"
 has_downloads = true
 has_issues = false
 has_pages = true
 has_projects = true
 has_wiki = true
 homepage = ""
-id = 375_721_081
-language = "JavaScript"
+id = 399_483_988
+language = { }
 license = { }
-name = "localsite"
-node_id = "MDEwOlJlcG9zaXRvcnkzNzU3MjEwODE="
+name = "community"
+node_id = "MDEwOlJlcG9zaXRvcnkzOTk0ODM5ODg="
 open_issues_within = 0
 private = false
 pushed_within = "week"
