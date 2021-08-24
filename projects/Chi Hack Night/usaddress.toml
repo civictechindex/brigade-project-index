@@ -40,7 +40,7 @@ topics = [
   "python",
   "python-library"
 ]
-updated_within = "week"
+updated_within = "month"
 watchers_within = "over_1000"
 
   [github.license]
