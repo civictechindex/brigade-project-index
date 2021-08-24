@@ -1,6 +1,0 @@
-[holosource]
-url = "https://github.com/codeforamerica/brigade-project-index"
-ref = "refs/heads/index/v1"
-
-[holosource.project]
-holobranch = "static-api-v1"

@@ -1,3 +1,3 @@
 [holomapping]
-holosource = "static-api-v1"
+holosource = "snapshot-v1=>static-api-v1"
 files = "**"
