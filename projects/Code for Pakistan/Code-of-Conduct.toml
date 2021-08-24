@@ -1,7 +1,8 @@
-code_url = "https://github.com/codeforpakistan/codeofconduct"
+code_url = "https://github.com/codeforpakistan/Code-of-Conduct"
 description = "Code for Pakistan's Code of Conduct"
-git_url = "git://github.com/codeforpakistan/codeofconduct.git"
-name = "codeofconduct"
+git_url = "git://github.com/codeforpakistan/Code-of-Conduct.git"
+link_url = "http://codeforpakistan.github.io/codeofconduct/"
+name = "Code-of-Conduct"
 organization_name = "Code for Pakistan"
 
 [github]
@@ -12,24 +13,24 @@ description = "Code for Pakistan's Code of Conduct"
 disabled = false
 fork = true
 forks_within = 10
-full_name = "codeforpakistan/codeofconduct"
+full_name = "codeforpakistan/Code-of-Conduct"
 has_downloads = true
 has_issues = false
-has_pages = false
+has_pages = true
 has_projects = true
 has_wiki = true
-homepage = ""
+homepage = "http://codeforpakistan.github.io/codeofconduct/"
 id = 29_747_571
-language = { }
+language = "HTML"
 license = { }
-name = "codeofconduct"
+name = "Code-of-Conduct"
 node_id = "MDEwOlJlcG9zaXRvcnkyOTc0NzU3MQ=="
 open_issues_within = 0
 private = false
-pushed_within = "over_a_year"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
-updated_within = "over_a_year"
+updated_within = "week"
 watchers_within = 10
 
   [github.owner]
