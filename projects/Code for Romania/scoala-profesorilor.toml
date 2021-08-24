@@ -25,17 +25,17 @@ name = "scoala-profesorilor"
 node_id = "MDEwOlJlcG9zaXRvcnkyNDIxMTkyMDc="
 open_issues_within = 0
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
-updated_within = "year"
+updated_within = "week"
 watchers_within = 10
 
   [github.license]
-  key = "mit"
-  name = "MIT License"
-  node_id = "MDc6TGljZW5zZTEz"
-  spdx_id = "MIT"
+  key = "mpl-2.0"
+  name = "Mozilla Public License 2.0"
+  node_id = "MDc6TGljZW5zZTE0"
+  spdx_id = "MPL-2.0"
 
   [github.owner]
   gravatar_id = ""
