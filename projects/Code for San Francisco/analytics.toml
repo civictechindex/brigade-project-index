@@ -11,7 +11,7 @@ default_branch = "main"
 description = "Analytics project, encompassing metrics for engagement and more. "
 disabled = false
 fork = false
-forks_within = 0
+forks_within = 10
 full_name = "sfbrigade/analytics"
 has_downloads = true
 has_issues = true
@@ -28,7 +28,7 @@ private = false
 pushed_within = "week"
 stargazers_within = 0
 topics = [ ]
-updated_within = "week"
+updated_within = "month"
 watchers_within = 0
 
   [github.license]
