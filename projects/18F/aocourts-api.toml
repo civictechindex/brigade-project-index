@@ -25,10 +25,10 @@ name = "aocourts-api"
 node_id = "MDEwOlJlcG9zaXRvcnkzODg1OTc3MDk="
 open_issues_within = 10
 private = false
-pushed_within = "week"
+pushed_within = "month"
 stargazers_within = 0
 topics = [ ]
-updated_within = "week"
+updated_within = "month"
 watchers_within = 0
 
   [github.license]
