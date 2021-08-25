@@ -1,0 +1,48 @@
+code_url = "https://github.com/codeforjapan/moc-Website"
+description = "make our cityプロジェクトのPRサイト"
+git_url = "git://github.com/codeforjapan/moc-Website.git"
+name = "moc-Website"
+organization_name = "Code for Japan"
+
+[github]
+archived = false
+created_at = "2021-08-25T08:29:19Z"
+default_branch = "main"
+description = "make our cityプロジェクトのPRサイト"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "codeforjapan/moc-Website"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 399_745_688
+language = { }
+license = { }
+name = "moc-Website"
+node_id = "MDEwOlJlcG9zaXRvcnkzOTk3NDU2ODg="
+open_issues_within = 0
+private = false
+pushed_within = "week"
+stargazers_within = 0
+topics = [ ]
+updated_within = "week"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 5_137_738
+  login = "codeforjapan"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjUxMzc3Mzg="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  maintain = false
+  pull = true
+  push = false
+  triage = false
