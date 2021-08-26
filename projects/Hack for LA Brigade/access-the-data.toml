@@ -4,10 +4,12 @@ git_url = "git://github.com/hackforla/access-the-data.git"
 name = "access-the-data"
 organization_name = "Hack for LA Brigade"
 topics = [
+  "citizen-science",
   "city-data",
   "civictechindex",
   "code-for-all",
   "code-for-america",
+  "data-analysis",
   "data-literacy",
   "government-data",
   "hack-for-la"
@@ -38,10 +40,12 @@ pushed_within = "year"
 score = 1
 stargazers_within = 10
 topics = [
+  "citizen-science",
   "city-data",
   "civictechindex",
   "code-for-all",
   "code-for-america",
+  "data-analysis",
   "data-literacy",
   "government-data",
   "hack-for-la"
