@@ -1,5 +1,5 @@
 code_url = "https://github.com/codeforcroatia/DNS-Service"
-description = "DNS records for codeforamerica.org, to be updated see link"
+description = "DNS records for codeforcroatia.org"
 git_url = "git://github.com/codeforcroatia/DNS-Service.git"
 link_url = "https://gist.github.com/schlos/f0ce623631ed5979a087c382eb66345e"
 name = "DNS-Service"
@@ -9,7 +9,7 @@ organization_name = "Code for Croatia"
 archived = false
 created_at = "2015-07-29T22:02:57Z"
 default_branch = "master"
-description = "DNS records for codeforamerica.org, to be updated see link"
+description = "DNS records for codeforcroatia.org"
 disabled = false
 fork = true
 forks_within = 0
@@ -30,7 +30,7 @@ private = false
 pushed_within = "over_a_year"
 stargazers_within = 0
 topics = [ ]
-updated_within = "over_a_year"
+updated_within = "week"
 watchers_within = 0
 
   [github.owner]
