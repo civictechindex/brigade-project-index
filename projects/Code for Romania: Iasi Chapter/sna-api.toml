@@ -42,7 +42,7 @@ topics = [
   "php",
   "restful-api"
 ]
-updated_within = "year"
+updated_within = "over_a_year"
 watchers_within = 10
 
   [github.license]
