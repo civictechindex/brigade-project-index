@@ -12,7 +12,7 @@ default_branch = "develop"
 description = "Web client for Teacher Workout"
 disabled = false
 fork = false
-forks_within = 10
+forks_within = 100
 full_name = "code4romania/teacher-workout-client"
 has_downloads = true
 has_issues = true
@@ -26,7 +26,7 @@ name = "teacher-workout-client"
 node_id = "MDEwOlJlcG9zaXRvcnkzNzg4OTM3ODY="
 open_issues_within = 10
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
 updated_within = "week"
