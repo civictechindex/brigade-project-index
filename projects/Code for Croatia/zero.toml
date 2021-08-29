@@ -3,6 +3,7 @@ description = "Short URL service for Code for Croatia"
 git_url = "git://github.com/codeforcroatia/zero.git"
 name = "zero"
 organization_name = "Code for Croatia"
+topics = [ "jekyll" ]
 
 [github]
 archived = false
@@ -27,7 +28,7 @@ open_issues_within = 10
 private = false
 pushed_within = "year"
 stargazers_within = 0
-topics = [ ]
+topics = [ "jekyll" ]
 updated_within = "year"
 watchers_within = 0
 

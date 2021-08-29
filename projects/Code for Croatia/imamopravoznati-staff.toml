@@ -4,6 +4,7 @@ git_url = "git://github.com/codeforcroatia/imamopravoznati-staff.git"
 link_url = "http://staff.imamopravoznati.org"
 name = "imamopravoznati-staff"
 organization_name = "Code for Croatia"
+topics = [ "documentation", "github-pages", "jekyll" ]
 
 [github]
 archived = false
@@ -28,7 +29,7 @@ open_issues_within = 10
 private = false
 pushed_within = "year"
 stargazers_within = 0
-topics = [ ]
+topics = [ "documentation", "github-pages", "jekyll" ]
 updated_within = "year"
 watchers_within = 0
 

@@ -4,7 +4,7 @@ git_url = "git://github.com/codeforcroatia/open-data.git"
 link_url = "http://codeforcroatia.github.io/open-data"
 name = "open-data"
 organization_name = "Code for Croatia"
-topics = [ "datasets", "open-data", "opendata", "open-datasets" ]
+topics = [ "data", "datasets", "open-data", "opendata", "open-datasets" ]
 
 [github]
 archived = false
@@ -29,7 +29,7 @@ open_issues_within = 100
 private = false
 pushed_within = "year"
 stargazers_within = 10
-topics = [ "datasets", "open-data", "opendata", "open-datasets" ]
+topics = [ "data", "datasets", "open-data", "opendata", "open-datasets" ]
 updated_within = "month"
 watchers_within = 10
 
