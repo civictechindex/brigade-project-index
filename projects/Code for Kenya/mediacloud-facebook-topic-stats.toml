@@ -1,0 +1,48 @@
+code_url = "https://github.com/CodeForAfrica/mediacloud-facebook-topic-stats"
+description = "Extract stats i.e likes count, shares count and comments count of mediacloud topic stories."
+git_url = "git://github.com/CodeForAfrica/mediacloud-facebook-topic-stats.git"
+name = "mediacloud-facebook-topic-stats"
+organization_name = "Code for Kenya"
+
+[github]
+archived = false
+created_at = "2021-08-30T05:56:33Z"
+default_branch = "main"
+description = "Extract stats i.e likes count, shares count and comments count of mediacloud topic stories."
+disabled = false
+fork = false
+forks_within = 0
+full_name = "CodeForAfrica/mediacloud-facebook-topic-stats"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 401_232_007
+language = "Python"
+license = { }
+name = "mediacloud-facebook-topic-stats"
+node_id = "MDEwOlJlcG9zaXRvcnk0MDEyMzIwMDc="
+open_issues_within = 0
+private = false
+pushed_within = "week"
+stargazers_within = 0
+topics = [ ]
+updated_within = "week"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_786_364
+  login = "CodeForAfrica"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI3ODYzNjQ="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  maintain = false
+  pull = true
+  push = false
+  triage = false
