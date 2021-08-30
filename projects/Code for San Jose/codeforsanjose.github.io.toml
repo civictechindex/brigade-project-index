@@ -36,7 +36,7 @@ name = "codeforsanjose.github.io"
 node_id = "MDEwOlJlcG9zaXRvcnkyNDgzNTYwNg=="
 open_issues_within = 10
 private = false
-pushed_within = "week"
+pushed_within = "month"
 stargazers_within = 100
 topics = [
   "brigade",
@@ -48,7 +48,7 @@ topics = [
   "sass",
   "website"
 ]
-updated_within = "week"
+updated_within = "month"
 watchers_within = 100
 
   [github.license]
