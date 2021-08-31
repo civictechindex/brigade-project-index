@@ -56,7 +56,7 @@ topics = [
   "strapi",
   "workinprogress"
 ]
-updated_within = "week"
+updated_within = "month"
 watchers_within = 100
 
   [github.owner]
