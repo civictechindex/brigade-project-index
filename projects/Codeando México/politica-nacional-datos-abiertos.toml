@@ -1,0 +1,47 @@
+code_url = "https://github.com/CodeandoMexico/politica-nacional-datos-abiertos"
+git_url = "git://github.com/CodeandoMexico/politica-nacional-datos-abiertos.git"
+name = "politica-nacional-datos-abiertos"
+organization_name = "Codeando México"
+
+[github]
+archived = false
+created_at = "2021-08-31T18:32:43Z"
+default_branch = "main"
+description = { }
+disabled = false
+fork = false
+forks_within = 0
+full_name = "CodeandoMexico/politica-nacional-datos-abiertos"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 401_806_398
+language = { }
+license = { }
+name = "politica-nacional-datos-abiertos"
+node_id = "MDEwOlJlcG9zaXRvcnk0MDE4MDYzOTg="
+open_issues_within = 0
+private = false
+pushed_within = "week"
+stargazers_within = 0
+topics = [ ]
+updated_within = "week"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_940_113
+  login = "CodeandoMexico"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI5NDAxMTM="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  maintain = false
+  pull = true
+  push = false
+  triage = false
