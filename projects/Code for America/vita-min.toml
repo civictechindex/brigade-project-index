@@ -8,7 +8,7 @@ topics = [ "get-your-refund", "gyr" ]
 [github]
 archived = false
 created_at = "2019-11-05T01:00:00Z"
-default_branch = "main"
+default_branch = "staging"
 description = "Now Get Your Refund, Minimal VITA web application for EITC pilot (2019-2020)"
 disabled = false
 fork = false
