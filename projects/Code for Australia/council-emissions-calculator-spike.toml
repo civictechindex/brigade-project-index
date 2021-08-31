@@ -1,6 +1,7 @@
 code_url = "https://github.com/CodeforAustralia/council-emissions-calculator-spike"
 description = "An experiment to test the initial design of Civic Maker's 2021 Council Emissions Calculator project."
 git_url = "git://github.com/CodeforAustralia/council-emissions-calculator-spike.git"
+link_url = "council-emissions-calculator-spike-flax.vercel.app"
 name = "council-emissions-calculator-spike"
 organization_name = "Code for Australia"
 
@@ -18,7 +19,7 @@ has_issues = true
 has_pages = true
 has_projects = true
 has_wiki = true
-homepage = ""
+homepage = "council-emissions-calculator-spike-flax.vercel.app"
 id = 385_742_430
 language = "JavaScript"
 name = "council-emissions-calculator-spike"
