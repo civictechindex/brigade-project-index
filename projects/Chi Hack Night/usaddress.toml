@@ -20,7 +20,7 @@ homepage = "https://parserator.datamade.us/usaddress"
 id = 21_954_559
 language = "Python"
 name = "usaddress"
-network_count = 250
+network_count = 251
 node_id = "MDEwOlJlcG9zaXRvcnkyMTk1NDU1OQ=="
 open_issues_within = 1_000
 private = false
@@ -40,7 +40,7 @@ topics = [
   "python",
   "python-library"
 ]
-updated_within = "month"
+updated_within = "week"
 watchers_within = "over_1000"
 
   [github.license]
