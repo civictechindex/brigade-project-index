@@ -20,15 +20,15 @@ has_projects = true
 has_wiki = true
 homepage = { }
 id = 328_703_807
-language = { }
+language = "CSS"
 name = "wazimap-ng-ui"
 node_id = "MDEwOlJlcG9zaXRvcnkzMjg3MDM4MDc="
 open_issues_within = 0
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 0
 topics = [ ]
-updated_within = "year"
+updated_within = "week"
 watchers_within = 0
 
   [github.license]
