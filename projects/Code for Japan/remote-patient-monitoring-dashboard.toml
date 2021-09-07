@@ -27,10 +27,10 @@ node_id = "MDEwOlJlcG9zaXRvcnkzMjUyOTA1MzI="
 open_issues_within = 10
 private = false
 pushed_within = "week"
-stargazers_within = 10
+stargazers_within = 100
 topics = [ ]
 updated_within = "week"
-watchers_within = 10
+watchers_within = 100
 
   [github.license]
   key = "agpl-3.0"
