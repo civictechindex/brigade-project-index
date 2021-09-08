@@ -20,8 +20,7 @@ has_projects = true
 has_wiki = true
 homepage = { }
 id = 348_343_776
-language = "Dockerfile"
-license = { }
+language = "Jupyter Notebook"
 name = "template_notebook"
 node_id = "MDEwOlJlcG9zaXRvcnkzNDgzNDM3NzY="
 open_issues_within = 0
@@ -31,6 +30,12 @@ stargazers_within = 0
 topics = [ ]
 updated_within = "week"
 watchers_within = 0
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
 
   [github.owner]
   gravatar_id = ""
