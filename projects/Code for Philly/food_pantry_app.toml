@@ -27,7 +27,7 @@ network_count = 1
 node_id = "MDEwOlJlcG9zaXRvcnk0ODQwODQxMQ=="
 open_issues_within = 100
 private = false
-pushed_within = "month"
+pushed_within = "year"
 stargazers_within = 10
 subscribers_count = 3
 temp_clone_token = ""
@@ -37,7 +37,7 @@ topics = [
   "food-pantries",
   "food-pantry-admin"
 ]
-updated_within = "month"
+updated_within = "year"
 watchers_within = 10
 
   [github.license]
