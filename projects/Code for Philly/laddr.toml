@@ -24,16 +24,16 @@ homepage = "http://codeforphilly.github.io/laddr/"
 id = 18_474_868
 language = "Smarty"
 name = "laddr"
-network_count = 34
+network_count = 35
 node_id = "MDEwOlJlcG9zaXRvcnkxODQ3NDg2OA=="
 open_issues_within = 100
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 100
 subscribers_count = 19
 temp_clone_token = ""
 topics = [ ]
-updated_within = "month"
+updated_within = "week"
 watchers_within = 100
 
   [github.license]
