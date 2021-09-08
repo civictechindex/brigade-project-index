@@ -7,7 +7,7 @@ organization_name = "mySociety"
 [github]
 archived = false
 created_at = "2021-03-16T12:43:55Z"
-default_branch = "master"
+default_branch = "main"
 description = "Template jupyter notebook with mysoc charting"
 disabled = false
 fork = false
@@ -26,10 +26,10 @@ name = "template_notebook"
 node_id = "MDEwOlJlcG9zaXRvcnkzNDgzNDM3NzY="
 open_issues_within = 0
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 0
 topics = [ ]
-updated_within = "year"
+updated_within = "week"
 watchers_within = 0
 
   [github.owner]
