@@ -1,0 +1,48 @@
+code_url = "https://github.com/mysociety/cookie_notebook"
+description = "Cookie Cutter template for jupyter notebook"
+git_url = "git://github.com/mysociety/cookie_notebook.git"
+name = "cookie_notebook"
+organization_name = "mySociety"
+
+[github]
+archived = false
+created_at = "2021-09-08T15:20:57Z"
+default_branch = "main"
+description = "Cookie Cutter template for jupyter notebook"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "mysociety/cookie_notebook"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 404_397_410
+language = "Python"
+license = { }
+name = "cookie_notebook"
+node_id = "MDEwOlJlcG9zaXRvcnk0MDQzOTc0MTA="
+open_issues_within = 0
+private = false
+pushed_within = "week"
+stargazers_within = 0
+topics = [ ]
+updated_within = "week"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 141_338
+  login = "mysociety"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE0MTMzOA=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  maintain = false
+  pull = true
+  push = false
+  triage = false
