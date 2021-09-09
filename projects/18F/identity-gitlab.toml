@@ -24,7 +24,7 @@ name = "identity-gitlab"
 node_id = "MDEwOlJlcG9zaXRvcnkzNTUzMDYwNzU="
 open_issues_within = 10
 private = false
-pushed_within = "month"
+pushed_within = "year"
 stargazers_within = 10
 topics = [ ]
 updated_within = "year"
