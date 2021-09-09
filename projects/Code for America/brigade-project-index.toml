@@ -4,6 +4,14 @@ git_url = "git://github.com/codeforamerica/brigade-project-index.git"
 link_url = "https://brigade.cloud/"
 name = "brigade-project-index"
 organization_name = "Code for America"
+topics = [
+  "civic-tech",
+  "civic-tech-projects-catalog",
+  "civic-tech-projects-index",
+  "civic-tech-projects-map",
+  "civic-tech-projects-volunteers",
+  "code-for-america"
+]
 
 [github]
 archived = false
@@ -29,8 +37,15 @@ open_issues_within = 100
 private = false
 pushed_within = "week"
 stargazers_within = 10
-topics = [ ]
-updated_within = "month"
+topics = [
+  "civic-tech",
+  "civic-tech-projects-catalog",
+  "civic-tech-projects-index",
+  "civic-tech-projects-map",
+  "civic-tech-projects-volunteers",
+  "code-for-america"
+]
+updated_within = "week"
 watchers_within = 10
 
   [github.owner]
