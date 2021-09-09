@@ -30,7 +30,7 @@ private = false
 pushed_within = "year"
 stargazers_within = 1_000
 topics = [ "design", "design-methods", "guide", "human-centered-design" ]
-updated_within = "year"
+updated_within = "week"
 watchers_within = 1_000
 
   [github.license]
