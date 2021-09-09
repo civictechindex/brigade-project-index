@@ -24,11 +24,11 @@ name = "una-hora"
 node_id = "MDEwOlJlcG9zaXRvcnk0MDAzMDE5Mjg="
 open_issues_within = 100
 private = false
-pushed_within = "week"
-stargazers_within = 0
+pushed_within = "month"
+stargazers_within = 10
 topics = [ ]
 updated_within = "week"
-watchers_within = 0
+watchers_within = 10
 
   [github.license]
   key = "mit"
