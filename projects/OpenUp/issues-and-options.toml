@@ -20,10 +20,10 @@ has_projects = true
 has_wiki = true
 homepage = { }
 id = 404_267_043
-language = { }
+language = "JavaScript"
 name = "issues-and-options"
 node_id = "MDEwOlJlcG9zaXRvcnk0MDQyNjcwNDM="
-open_issues_within = 10
+open_issues_within = 0
 private = false
 pushed_within = "week"
 stargazers_within = 0
