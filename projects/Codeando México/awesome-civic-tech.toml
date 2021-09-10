@@ -1,7 +1,7 @@
 code_url = "https://github.com/CodeandoMexico/awesome-civic-tech"
 description = "Una lista curada de proyectos de tecnología cívica en México."
 git_url = "git://github.com/CodeandoMexico/awesome-civic-tech.git"
-link_url = "https://codeandomexico.github.io/awesome-civic-tech/"
+link_url = "https://awesome-civic-tech.codeandomexico.org/"
 name = "awesome-civic-tech"
 organization_name = "Codeando México"
 
@@ -19,7 +19,7 @@ has_issues = true
 has_pages = true
 has_projects = true
 has_wiki = true
-homepage = "https://codeandomexico.github.io/awesome-civic-tech/"
+homepage = "https://awesome-civic-tech.codeandomexico.org/"
 id = 61_754_791
 language = "CSS"
 license = { }
