@@ -16,7 +16,7 @@ forks_within = 100
 full_name = "CodeandoMexico/hacking-civico"
 has_downloads = true
 has_issues = true
-has_pages = false
+has_pages = true
 has_projects = true
 has_wiki = true
 homepage = "https://lableon.github.io/hacking-civico/"
@@ -27,7 +27,7 @@ name = "hacking-civico"
 node_id = "MDEwOlJlcG9zaXRvcnkyODAxODk1ODU="
 open_issues_within = 10
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 1_000
 topics = [ ]
 updated_within = "month"
