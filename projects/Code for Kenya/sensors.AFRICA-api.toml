@@ -40,7 +40,7 @@ name = "sensors.AFRICA-api"
 node_id = "MDEwOlJlcG9zaXRvcnkxNjUwNTAwNjI="
 open_issues_within = 10
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 100
 topics = [
   "africa",
@@ -55,7 +55,7 @@ topics = [
   "sensors-api",
   "sensors-data"
 ]
-updated_within = "year"
+updated_within = "week"
 watchers_within = 100
 
   [github.owner]
