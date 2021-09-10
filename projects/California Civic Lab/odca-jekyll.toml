@@ -46,7 +46,7 @@ topics = [
   "jekyll-site",
   "openoakland"
 ]
-updated_within = "month"
+updated_within = "year"
 watchers_within = 100
 
   [github.license]
