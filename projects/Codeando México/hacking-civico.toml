@@ -1,7 +1,7 @@
 code_url = "https://github.com/CodeandoMexico/hacking-civico"
 description = "Curso de Datos Abiertos y Hacking Cívico, habilitando las capacidades de la ciudadanía y los servidores públicos en el uso de datos abiertos."
 git_url = "git://github.com/CodeandoMexico/hacking-civico.git"
-link_url = "https://lableon.github.io/hacking-civico/"
+link_url = "https://aprende.codeandomexico.org/"
 name = "hacking-civico"
 organization_name = "Codeando México"
 
@@ -19,7 +19,7 @@ has_issues = true
 has_pages = true
 has_projects = true
 has_wiki = true
-homepage = "https://lableon.github.io/hacking-civico/"
+homepage = "https://aprende.codeandomexico.org/"
 id = 280_189_585
 language = "Jupyter Notebook"
 license = { }
@@ -30,7 +30,7 @@ private = false
 pushed_within = "week"
 stargazers_within = 1_000
 topics = [ ]
-updated_within = "month"
+updated_within = "week"
 watchers_within = 1_000
 
   [github.owner]
