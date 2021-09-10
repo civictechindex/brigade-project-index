@@ -1,15 +1,16 @@
 code_url = "https://github.com/codeforcroatia/popravi.to"
-description = "This is mySociety's popular map-based reporting platform: easy to install in new countries and regions"
+description = 'This is popular map-based reporting platform FixMyStreet for Croatia named "Popravi.to"'
 git_url = "git://github.com/codeforcroatia/popravi.to.git"
-link_url = "http://fixmystreet.org/"
+link_url = "http://popravi.to"
 name = "popravi.to"
 organization_name = "Code for Croatia"
+topics = [ "croatia", "fixmystreet", "map", "open311", "open-source" ]
 
 [github]
 archived = false
 created_at = "2021-01-02T17:08:30Z"
 default_branch = "develop"
-description = "This is mySociety's popular map-based reporting platform: easy to install in new countries and regions"
+description = 'This is popular map-based reporting platform FixMyStreet for Croatia named "Popravi.to"'
 disabled = false
 fork = true
 forks_within = 10
@@ -19,7 +20,7 @@ has_issues = true
 has_pages = true
 has_projects = true
 has_wiki = false
-homepage = "http://fixmystreet.org/"
+homepage = "http://popravi.to"
 id = 326_231_377
 language = "Perl"
 name = "popravi.to"
@@ -28,7 +29,7 @@ open_issues_within = 100
 private = false
 pushed_within = "week"
 stargazers_within = 10
-topics = [ ]
+topics = [ "croatia", "fixmystreet", "map", "open311", "open-source" ]
 updated_within = "week"
 watchers_within = 10
 
