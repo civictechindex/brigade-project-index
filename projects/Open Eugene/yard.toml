@@ -1,0 +1,53 @@
+code_url = "https://github.com/OpenEugene/yard"
+description = "Yet Another Resource Directory"
+git_url = "git://github.com/OpenEugene/yard.git"
+name = "yard"
+organization_name = "Open Eugene"
+
+[github]
+archived = false
+created_at = "2021-09-11T21:28:15Z"
+default_branch = "main"
+description = "Yet Another Resource Directory"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "OpenEugene/yard"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 405_486_674
+language = { }
+name = "yard"
+node_id = "MDEwOlJlcG9zaXRvcnk0MDU0ODY2NzQ="
+open_issues_within = 0
+private = false
+pushed_within = "week"
+stargazers_within = 0
+topics = [ ]
+updated_within = "week"
+watchers_within = 0
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 37_278_948
+  login = "OpenEugene"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM3Mjc4OTQ4"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  maintain = false
+  pull = true
+  push = false
+  triage = false
