@@ -29,7 +29,7 @@ private = false
 pushed_within = "month"
 stargazers_within = 1_000
 topics = [ "analytics", "google-analytics" ]
-updated_within = "week"
+updated_within = "month"
 watchers_within = 1_000
 
   [github.license]
