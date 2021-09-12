@@ -1,7 +1,7 @@
 code_url = "https://github.com/codeforsanjose/heartofthevalley"
 description = "Map visualization of murals and public art in South Bay (Bay Area, California)"
 git_url = "git://github.com/codeforsanjose/heartofthevalley.git"
-link_url = "https://www.codeforsanjose.com/heartofthevalley/"
+link_url = "https://www.codeforsanjose.org/heartofthevalley/"
 name = "heartofthevalley"
 organization_name = "Code for San Jose"
 topics = [
@@ -41,7 +41,7 @@ has_issues = true
 has_pages = true
 has_projects = true
 has_wiki = true
-homepage = "https://www.codeforsanjose.com/heartofthevalley/"
+homepage = "https://www.codeforsanjose.org/heartofthevalley/"
 id = 106_234_699
 language = "JavaScript"
 name = "heartofthevalley"
@@ -72,7 +72,7 @@ topics = [
   "santa-clara",
   "south-bay"
 ]
-updated_within = "year"
+updated_within = "week"
 watchers_within = 10
 
   [github.license]
