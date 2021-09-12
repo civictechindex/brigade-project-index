@@ -1,0 +1,53 @@
+code_url = "https://github.com/OpenEugene/people-and-stuff"
+description = "An Oqtane module for checking in people and stuff for disaster relief. "
+git_url = "git://github.com/OpenEugene/people-and-stuff.git"
+name = "people-and-stuff"
+organization_name = "Open Eugene"
+
+[github]
+archived = false
+created_at = "2021-09-12T01:04:42Z"
+default_branch = "main"
+description = "An Oqtane module for checking in people and stuff for disaster relief. "
+disabled = false
+fork = false
+forks_within = 0
+full_name = "OpenEugene/people-and-stuff"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 405_516_113
+language = { }
+name = "people-and-stuff"
+node_id = "MDEwOlJlcG9zaXRvcnk0MDU1MTYxMTM="
+open_issues_within = 0
+private = false
+pushed_within = "week"
+stargazers_within = 0
+topics = [ ]
+updated_within = "week"
+watchers_within = 0
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 37_278_948
+  login = "OpenEugene"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM3Mjc4OTQ4"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  maintain = false
+  pull = true
+  push = false
+  triage = false
