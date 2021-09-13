@@ -5,6 +5,7 @@ name = "ballot-validator"
 organization_name = "Code for Puerto Rico"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2020-09-08T20:20:33Z"
 default_branch = "master"

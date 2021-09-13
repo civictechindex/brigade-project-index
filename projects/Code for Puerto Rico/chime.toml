@@ -5,6 +5,7 @@ name = "chime"
 organization_name = "Code for Puerto Rico"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2020-03-16T18:47:02Z"
 default_branch = "master"

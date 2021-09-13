@@ -5,6 +5,7 @@ name = "brigade-information"
 organization_name = "Code for Puerto Rico"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2021-08-28T14:57:45Z"
 default_branch = "master"

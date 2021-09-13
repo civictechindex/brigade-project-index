@@ -6,6 +6,7 @@ organization_name = "Code for Puerto Rico"
 topics = [ "puerto-rico" ]
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2019-12-29T20:52:04Z"
 default_branch = "main"

@@ -5,6 +5,7 @@ name = "cfpr-website"
 organization_name = "Code for Puerto Rico"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2021-04-13T22:49:12Z"
 default_branch = "main"

@@ -6,6 +6,7 @@ name = "slackin-extended"
 organization_name = "Code for Puerto Rico"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2020-01-31T07:47:38Z"
 default_branch = "master"

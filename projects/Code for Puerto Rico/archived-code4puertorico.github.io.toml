@@ -6,6 +6,7 @@ name = "archived-code4puertorico.github.io"
 organization_name = "Code for Puerto Rico"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-02-10T19:39:12Z"
 default_branch = "master"

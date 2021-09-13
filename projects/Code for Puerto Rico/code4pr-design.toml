@@ -5,6 +5,7 @@ name = "code4pr-design"
 organization_name = "Code for Puerto Rico"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2020-08-08T18:15:12Z"
 default_branch = "master"
