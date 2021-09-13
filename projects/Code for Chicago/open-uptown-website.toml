@@ -5,6 +5,7 @@ name = "open-uptown-website"
 organization_name = "Code for Chicago"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2018-07-27T01:13:22Z"
 default_branch = "master"

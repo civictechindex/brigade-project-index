@@ -5,6 +5,7 @@ name = "Voma-frontend"
 organization_name = "Code for Chicago"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2021-06-28T22:20:16Z"
 default_branch = "main"
