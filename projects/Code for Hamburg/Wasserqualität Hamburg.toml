@@ -5,6 +5,7 @@ name = "Wasserqualität Hamburg"
 organization_name = "Code for Hamburg"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-08-08T17:28:27Z"
 default_branch = "master"
@@ -57,6 +58,7 @@ watchers_within = 0
   type = "Organization"
 
   [github.parent]
+  allow_forking = true
   archived = false
   created_at = "2015-05-23T08:21:58Z"
   default_branch = "gh-pages"
@@ -105,6 +107,7 @@ watchers_within = 0
   triage = false
 
   [github.source]
+  allow_forking = true
   archived = false
   created_at = "2014-03-10T14:38:27Z"
   default_branch = "master"

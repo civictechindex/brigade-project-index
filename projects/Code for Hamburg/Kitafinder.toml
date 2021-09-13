@@ -5,6 +5,7 @@ name = "Kitafinder"
 organization_name = "Code for Hamburg"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-07-02T23:05:15Z"
 default_branch = "master"

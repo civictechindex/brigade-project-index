@@ -5,6 +5,7 @@ name = "Wir-bauen-Hamburg.de"
 organization_name = "Code for Hamburg"
 
 [github]
+allow_forking = true
 archived = true
 created_at = "2015-11-24T23:26:34Z"
 default_branch = "develop"
