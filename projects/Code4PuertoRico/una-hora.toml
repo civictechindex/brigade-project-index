@@ -4,6 +4,7 @@ name = "una-hora"
 organization_name = "Code4PuertoRico"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2021-08-26T20:48:19Z"
 default_branch = "main"

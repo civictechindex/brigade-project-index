@@ -6,6 +6,7 @@ organization_name = "Code4PuertoRico"
 topics = [ "disaster-relief", "donations", "gatsby", "puerto-rico" ]
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2020-01-13T05:42:08Z"
 default_branch = "master"

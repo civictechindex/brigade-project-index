@@ -4,6 +4,7 @@ name = "paravotar-api"
 organization_name = "Code4PuertoRico"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2020-03-19T21:30:54Z"
 default_branch = "master"

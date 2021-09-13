@@ -5,6 +5,7 @@ name = "covid19-response"
 organization_name = "Code4PuertoRico"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2020-04-11T21:03:22Z"
 default_branch = "master"

@@ -6,6 +6,7 @@ name = "openstates"
 organization_name = "Code4PuertoRico"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2020-02-05T18:58:20Z"
 default_branch = "master"

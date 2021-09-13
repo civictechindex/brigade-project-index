@@ -5,6 +5,7 @@ name = "gaen-mobile"
 organization_name = "Code4PuertoRico"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2020-09-11T16:37:49Z"
 default_branch = "develop"

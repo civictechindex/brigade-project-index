@@ -4,6 +4,7 @@ name = "witpr.github.io"
 organization_name = "Code4PuertoRico"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2020-06-16T21:48:02Z"
 default_branch = "master"
