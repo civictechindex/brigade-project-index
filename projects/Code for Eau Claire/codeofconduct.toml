@@ -5,6 +5,7 @@ name = "codeofconduct"
 organization_name = "Code for Eau Claire"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-11-28T20:23:53Z"
 default_branch = "master"
