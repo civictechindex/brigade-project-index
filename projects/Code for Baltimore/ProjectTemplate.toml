@@ -6,6 +6,7 @@ organization_name = "Code for Baltimore"
 topics = [ "code-for-america", "code-for-baltimore", "projecttemplate" ]
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2019-08-14T05:05:04Z"
 default_branch = "main"

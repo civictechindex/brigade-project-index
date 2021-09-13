@@ -5,6 +5,7 @@ name = "JuryInstructions"
 organization_name = "Code for Baltimore"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2019-08-14T22:30:23Z"
 default_branch = "master"

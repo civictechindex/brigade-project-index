@@ -5,6 +5,7 @@ name = "codeforbaltimore.org"
 organization_name = "Code for Baltimore"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2019-12-19T19:44:51Z"
 default_branch = "master"

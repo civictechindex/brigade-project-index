@@ -6,6 +6,7 @@ organization_name = "Code for Baltimore"
 topics = [ "api-rest", "lambda", "typescript", "utility" ]
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2021-02-13T14:44:04Z"
 default_branch = "main"
