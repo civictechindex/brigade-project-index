@@ -5,6 +5,7 @@ name = "norta-data"
 organization_name = "Code for New Orleans"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-07-15T01:35:28Z"
 default_branch = "master"

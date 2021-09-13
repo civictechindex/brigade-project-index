@@ -6,6 +6,7 @@ organization_name = "Code for New Orleans"
 topics = [ "civic-tech", "new-orleans", "public-data", "street-address" ]
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2017-08-11T01:10:11Z"
 default_branch = "master"

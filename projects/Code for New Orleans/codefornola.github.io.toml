@@ -5,6 +5,7 @@ name = "codefornola.github.io"
 organization_name = "Code for New Orleans"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-07-01T02:09:17Z"
 default_branch = "master"
