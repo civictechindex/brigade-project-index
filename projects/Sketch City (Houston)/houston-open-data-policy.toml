@@ -5,6 +5,7 @@ name = "houston-open-data-policy"
 organization_name = "Sketch City (Houston)"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-10-02T15:56:26Z"
 default_branch = "master"

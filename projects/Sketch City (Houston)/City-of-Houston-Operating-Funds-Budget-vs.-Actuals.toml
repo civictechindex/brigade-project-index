@@ -5,6 +5,7 @@ name = "City-of-Houston-Operating-Funds-Budget-vs.-Actuals"
 organization_name = "Sketch City (Houston)"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2018-11-25T18:39:16Z"
 default_branch = "master"

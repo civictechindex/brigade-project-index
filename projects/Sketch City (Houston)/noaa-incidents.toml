@@ -4,6 +4,7 @@ name = "noaa-incidents"
 organization_name = "Sketch City (Houston)"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2017-03-04T20:29:18Z"
 default_branch = "master"

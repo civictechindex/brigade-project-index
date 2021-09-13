@@ -5,6 +5,7 @@ name = "houston-resources"
 organization_name = "Sketch City (Houston)"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2019-05-18T21:03:45Z"
 default_branch = "master"

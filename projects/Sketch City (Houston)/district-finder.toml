@@ -5,6 +5,7 @@ name = "district-finder"
 organization_name = "Sketch City (Houston)"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-05-14T18:59:39Z"
 default_branch = "master"

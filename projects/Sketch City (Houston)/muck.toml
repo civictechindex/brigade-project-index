@@ -4,6 +4,7 @@ name = "muck"
 organization_name = "Sketch City (Houston)"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2017-09-01T17:53:24Z"
 default_branch = "master"
