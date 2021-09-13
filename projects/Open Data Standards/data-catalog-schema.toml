@@ -5,6 +5,7 @@ name = "data-catalog-schema"
 organization_name = "Open Data Standards"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2012-10-18T01:10:30Z"
 default_branch = "master"

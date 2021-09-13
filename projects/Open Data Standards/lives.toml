@@ -5,6 +5,7 @@ name = "lives"
 organization_name = "Open Data Standards"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-06-11T21:39:21Z"
 default_branch = "gh-pages"
