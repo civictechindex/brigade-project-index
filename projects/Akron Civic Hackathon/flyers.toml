@@ -5,6 +5,7 @@ name = "flyers"
 organization_name = "Akron Civic Hackathon"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-03-24T04:48:50Z"
 default_branch = "master"
