@@ -5,6 +5,7 @@ name = "MilwaukeeWater2011"
 organization_name = "Milwaukee Data Initiative"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2013-06-06T15:43:33Z"
 default_branch = "master"

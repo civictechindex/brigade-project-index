@@ -5,6 +5,7 @@ name = "MKE_Street_Parking_Regs_2013-03-19"
 organization_name = "Milwaukee Data Initiative"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2013-05-30T03:52:20Z"
 default_branch = "master"

@@ -6,6 +6,7 @@ name = "solid-jekyll"
 organization_name = "Milwaukee Data Initiative"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2017-01-15T08:16:31Z"
 default_branch = "master"

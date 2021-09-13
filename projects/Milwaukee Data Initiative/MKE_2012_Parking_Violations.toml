@@ -5,6 +5,7 @@ name = "MKE_2012_Parking_Violations"
 organization_name = "Milwaukee Data Initiative"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2013-05-30T03:53:06Z"
 default_branch = "master"

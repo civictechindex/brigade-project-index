@@ -5,6 +5,7 @@ name = "mdi-website"
 organization_name = "Milwaukee Data Initiative"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-08-09T04:59:12Z"
 default_branch = "master"

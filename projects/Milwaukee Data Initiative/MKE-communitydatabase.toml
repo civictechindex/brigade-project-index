@@ -5,6 +5,7 @@ name = "MKE-communitydatabase"
 organization_name = "Milwaukee Data Initiative"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-11-17T18:19:50Z"
 default_branch = "master"

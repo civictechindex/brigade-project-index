@@ -6,6 +6,7 @@ name = "MKE_CD-markdown"
 organization_name = "Milwaukee Data Initiative"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2017-01-20T01:00:05Z"
 default_branch = "master"

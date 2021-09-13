@@ -6,6 +6,7 @@ name = "playbook"
 organization_name = "Milwaukee Data Initiative"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-08-15T17:19:12Z"
 default_branch = "gh-pages"

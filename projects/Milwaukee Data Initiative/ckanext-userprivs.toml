@@ -5,6 +5,7 @@ name = "ckanext-userprivs"
 organization_name = "Milwaukee Data Initiative"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-09-07T21:33:19Z"
 default_branch = "master"
