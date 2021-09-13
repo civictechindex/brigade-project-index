@@ -6,6 +6,7 @@ name = "docs"
 organization_name = "Open Elections"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2013-06-14T22:35:14Z"
 default_branch = "master"

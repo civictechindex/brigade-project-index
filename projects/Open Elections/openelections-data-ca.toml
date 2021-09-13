@@ -6,6 +6,7 @@ organization_name = "Open Elections"
 topics = [ "california-elections", "openelections-data" ]
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-08-16T17:38:32Z"
 default_branch = "master"

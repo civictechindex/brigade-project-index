@@ -5,6 +5,7 @@ name = "openelections.net"
 organization_name = "Open Elections"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2012-09-01T00:53:11Z"
 default_branch = "master"

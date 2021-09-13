@@ -5,6 +5,7 @@ name = "openelections-data-ri"
 organization_name = "Open Elections"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-01-31T13:15:16Z"
 default_branch = "master"

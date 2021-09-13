@@ -5,6 +5,7 @@ name = "openelections-sources-nv"
 organization_name = "Open Elections"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2018-01-08T01:59:39Z"
 default_branch = "master"

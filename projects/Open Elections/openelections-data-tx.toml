@@ -5,6 +5,7 @@ name = "openelections-data-tx"
 organization_name = "Open Elections"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-02-15T00:18:54Z"
 default_branch = "master"

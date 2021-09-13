@@ -5,6 +5,7 @@ name = "openelections-sources-ky"
 organization_name = "Open Elections"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2017-05-31T00:09:18Z"
 default_branch = "master"

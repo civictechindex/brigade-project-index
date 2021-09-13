@@ -6,6 +6,7 @@ organization_name = "Open Elections"
 topics = [ "georgia-election", "hacktoberfest" ]
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-03-08T01:22:09Z"
 default_branch = "master"

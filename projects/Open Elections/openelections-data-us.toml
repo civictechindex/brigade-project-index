@@ -5,6 +5,7 @@ name = "openelections-data-us"
 organization_name = "Open Elections"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2017-08-02T02:35:50Z"
 default_branch = "master"

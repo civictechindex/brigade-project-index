@@ -5,6 +5,7 @@ name = "openelections-results-az"
 organization_name = "Open Elections"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-09-18T01:21:16Z"
 default_branch = "master"

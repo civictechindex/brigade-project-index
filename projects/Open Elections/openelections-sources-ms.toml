@@ -5,6 +5,7 @@ name = "openelections-sources-ms"
 organization_name = "Open Elections"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-05-02T00:06:49Z"
 default_branch = "master"

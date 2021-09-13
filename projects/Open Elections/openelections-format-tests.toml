@@ -5,6 +5,7 @@ name = "openelections-format-tests"
 organization_name = "Open Elections"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2021-07-03T16:41:23Z"
 default_branch = "master"

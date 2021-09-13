@@ -5,6 +5,7 @@ name = "wigab"
 organization_name = "Open Elections"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-11-12T01:54:14Z"
 default_branch = "master"

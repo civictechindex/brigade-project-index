@@ -6,6 +6,7 @@ organization_name = "Open Elections"
 topics = [ "elections", "montana" ]
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-01-27T00:42:16Z"
 default_branch = "master"

@@ -6,6 +6,7 @@ organization_name = "Open Elections"
 topics = [ "clarity", "election", "python", "xml" ]
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-11-13T13:58:51Z"
 default_branch = "master"

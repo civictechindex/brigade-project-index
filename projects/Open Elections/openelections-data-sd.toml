@@ -5,6 +5,7 @@ name = "openelections-data-sd"
 organization_name = "Open Elections"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-05-17T23:10:14Z"
 default_branch = "master"

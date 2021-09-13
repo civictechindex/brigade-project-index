@@ -5,6 +5,7 @@ name = "dashboard"
 organization_name = "Open Elections"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2012-09-16T20:42:38Z"
 default_branch = "master"
