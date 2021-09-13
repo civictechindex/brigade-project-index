@@ -6,6 +6,7 @@ name = "NDoCH2017"
 organization_name = "KC Digital Drive"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2017-08-01T00:38:54Z"
 default_branch = "master"

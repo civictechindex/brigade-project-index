@@ -5,6 +5,7 @@ name = "Fair-Foreclosures"
 organization_name = "KC Digital Drive"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2018-07-25T15:45:20Z"
 default_branch = "master"

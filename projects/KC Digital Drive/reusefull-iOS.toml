@@ -5,6 +5,7 @@ name = "reusefull-iOS"
 organization_name = "KC Digital Drive"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2020-07-21T00:43:07Z"
 default_branch = "master"

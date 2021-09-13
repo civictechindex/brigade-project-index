@@ -6,6 +6,7 @@ name = "street-medicine-kc"
 organization_name = "KC Digital Drive"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-06-23T21:22:27Z"
 default_branch = "master"

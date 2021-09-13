@@ -4,6 +4,7 @@ name = "tagging_tracker_haproxy"
 organization_name = "KC Digital Drive"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2017-12-29T04:38:46Z"
 default_branch = "master"

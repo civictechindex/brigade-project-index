@@ -5,6 +5,7 @@ name = "tagging-tracker-alt-apps"
 organization_name = "KC Digital Drive"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2020-02-17T23:55:26Z"
 default_branch = "master"

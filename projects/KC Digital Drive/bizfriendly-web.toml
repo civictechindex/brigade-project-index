@@ -6,6 +6,7 @@ name = "bizfriendly-web"
 organization_name = "KC Digital Drive"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-05-15T18:11:41Z"
 default_branch = "gh-pages"

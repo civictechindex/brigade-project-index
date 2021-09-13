@@ -4,6 +4,7 @@ name = "myCommunity"
 organization_name = "KC Digital Drive"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2017-09-23T16:50:40Z"
 default_branch = "master"

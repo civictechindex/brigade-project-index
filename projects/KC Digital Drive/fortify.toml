@@ -5,6 +5,7 @@ name = "fortify"
 organization_name = "KC Digital Drive"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-06-04T19:53:14Z"
 default_branch = "master"

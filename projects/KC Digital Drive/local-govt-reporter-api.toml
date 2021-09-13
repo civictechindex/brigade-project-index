@@ -4,6 +4,7 @@ name = "local-govt-reporter-api"
 organization_name = "KC Digital Drive"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2020-09-14T23:29:11Z"
 default_branch = "master"

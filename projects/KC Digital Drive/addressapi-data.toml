@@ -5,6 +5,7 @@ name = "addressapi-data"
 organization_name = "KC Digital Drive"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-08-27T17:30:40Z"
 default_branch = "master"

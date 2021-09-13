@@ -6,6 +6,7 @@ organization_name = "KC Digital Drive"
 topics = [ "code-for-america", "code-for-kc", "energy" ]
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2018-09-27T19:33:40Z"
 default_branch = "master"

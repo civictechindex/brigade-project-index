@@ -4,6 +4,7 @@ name = "digitalInclusion"
 organization_name = "KC Digital Drive"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-11-09T04:08:50Z"
 default_branch = "master"

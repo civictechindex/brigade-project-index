@@ -5,6 +5,7 @@ name = "antiharassment-policy"
 organization_name = "KC Digital Drive"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2013-08-20T18:51:47Z"
 default_branch = "master"

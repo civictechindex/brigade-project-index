@@ -4,6 +4,7 @@ name = "locale-kc"
 organization_name = "KC Digital Drive"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2018-09-27T19:30:05Z"
 default_branch = "master"

@@ -6,6 +6,7 @@ name = "kcmo311"
 organization_name = "KC Digital Drive"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-03-14T05:05:33Z"
 default_branch = "master"

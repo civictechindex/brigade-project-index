@@ -6,6 +6,7 @@ name = "api-examples"
 organization_name = "KC Digital Drive"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-03-24T03:52:19Z"
 default_branch = "gh-pages"

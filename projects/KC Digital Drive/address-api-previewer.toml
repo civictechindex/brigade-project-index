@@ -6,6 +6,7 @@ name = "address-api-previewer"
 organization_name = "KC Digital Drive"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-11-03T01:50:35Z"
 default_branch = "master"

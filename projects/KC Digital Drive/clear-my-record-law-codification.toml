@@ -4,6 +4,7 @@ name = "clear-my-record-law-codification"
 organization_name = "KC Digital Drive"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2021-02-23T00:24:19Z"
 default_branch = "main"

@@ -4,6 +4,7 @@ name = "kc-speed-test"
 organization_name = "KC Digital Drive"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-06-08T19:29:21Z"
 default_branch = "master-old"

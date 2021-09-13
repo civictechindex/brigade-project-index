@@ -4,6 +4,7 @@ name = "streetlights-front-end"
 organization_name = "KC Digital Drive"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2020-01-28T01:42:00Z"
 default_branch = "master"
