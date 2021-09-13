@@ -4,6 +4,7 @@ name = "com-ds"
 organization_name = "Code for Australia"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2018-09-05T01:51:26Z"
 default_branch = "master"

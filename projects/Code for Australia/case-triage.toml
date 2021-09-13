@@ -5,6 +5,7 @@ name = "case-triage"
 organization_name = "Code for Australia"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-03-07T02:00:33Z"
 default_branch = "master"

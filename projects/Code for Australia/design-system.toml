@@ -4,6 +4,7 @@ name = "design-system"
 organization_name = "Code for Australia"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2018-10-09T11:10:53Z"
 default_branch = "master"

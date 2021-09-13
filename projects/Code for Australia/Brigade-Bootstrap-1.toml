@@ -6,6 +6,7 @@ name = "Brigade-Bootstrap-1"
 organization_name = "Code for Australia"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-03-20T11:51:41Z"
 default_branch = "master"

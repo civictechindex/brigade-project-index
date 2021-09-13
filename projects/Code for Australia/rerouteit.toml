@@ -5,6 +5,7 @@ name = "rerouteit"
 organization_name = "Code for Australia"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-05-28T12:19:45Z"
 default_branch = "develop"

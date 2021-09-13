@@ -6,6 +6,7 @@ organization_name = "Code for Australia"
 topics = [ "australia", "corrections", "justice" ]
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2017-09-22T06:39:02Z"
 default_branch = "master"

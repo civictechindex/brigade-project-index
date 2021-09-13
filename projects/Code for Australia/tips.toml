@@ -5,6 +5,7 @@ name = "tips"
 organization_name = "Code for Australia"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-04-28T05:59:38Z"
 default_branch = "master"

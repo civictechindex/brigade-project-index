@@ -4,6 +4,7 @@ name = "njc-blog"
 organization_name = "Code for Australia"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-04-28T06:04:18Z"
 default_branch = "master"

@@ -5,6 +5,7 @@ name = "Sens-able-Parker"
 organization_name = "Code for Australia"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-06-19T08:13:40Z"
 default_branch = "master"

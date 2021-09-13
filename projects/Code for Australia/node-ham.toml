@@ -4,6 +4,7 @@ name = "node-ham"
 organization_name = "Code for Australia"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-12-22T22:20:00Z"
 default_branch = "master"

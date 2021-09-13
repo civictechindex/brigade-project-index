@@ -5,6 +5,7 @@ name = "VEOHRC-widget"
 organization_name = "Code for Australia"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2018-11-15T02:41:01Z"
 default_branch = "master"

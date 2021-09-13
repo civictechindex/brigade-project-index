@@ -5,6 +5,7 @@ name = "delwp-blog"
 organization_name = "Code for Australia"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-05-16T06:40:45Z"
 default_branch = "master"

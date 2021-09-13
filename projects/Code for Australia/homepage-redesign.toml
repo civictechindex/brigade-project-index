@@ -5,6 +5,7 @@ name = "homepage-redesign"
 organization_name = "Code for Australia"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-07-16T12:12:13Z"
 default_branch = "master"

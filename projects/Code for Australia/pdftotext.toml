@@ -4,6 +4,7 @@ name = "pdftotext"
 organization_name = "Code for Australia"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2017-08-14T05:16:27Z"
 default_branch = "master"

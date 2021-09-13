@@ -5,6 +5,7 @@ name = "VEOHRC-Year-In-Review"
 organization_name = "Code for Australia"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2019-01-18T03:54:17Z"
 default_branch = "master"

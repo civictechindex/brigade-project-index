@@ -6,6 +6,7 @@ name = "government-service-design-manual"
 organization_name = "Code for Australia"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-05-05T03:31:30Z"
 default_branch = "master"

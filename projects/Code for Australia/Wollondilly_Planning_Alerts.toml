@@ -5,6 +5,7 @@ name = "Wollondilly_Planning_Alerts"
 organization_name = "Code for Australia"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-11-09T00:22:37Z"
 default_branch = "master"

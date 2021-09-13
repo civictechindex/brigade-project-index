@@ -5,6 +5,7 @@ name = "heritage-near-me"
 organization_name = "Code for Australia"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-01-17T22:50:49Z"
 default_branch = "master"

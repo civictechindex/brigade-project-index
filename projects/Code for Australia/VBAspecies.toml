@@ -6,6 +6,7 @@ name = "VBAspecies"
 organization_name = "Code for Australia"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-10-14T04:53:44Z"
 default_branch = "master"

@@ -5,6 +5,7 @@ name = "vla_fellowship_2016"
 organization_name = "Code for Australia"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-09-09T01:22:47Z"
 default_branch = "master"

@@ -6,6 +6,7 @@ name = "Brigade-Bootstrap-2"
 organization_name = "Code for Australia"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-03-20T11:48:46Z"
 default_branch = "gh-pages"

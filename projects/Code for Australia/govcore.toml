@@ -5,6 +5,7 @@ name = "govcore"
 organization_name = "Code for Australia"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2018-11-27T05:10:04Z"
 default_branch = "master"

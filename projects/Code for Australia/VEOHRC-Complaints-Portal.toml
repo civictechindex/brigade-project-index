@@ -5,6 +5,7 @@ name = "VEOHRC-Complaints-Portal"
 organization_name = "Code for Australia"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2018-10-24T00:37:12Z"
 default_branch = "master"

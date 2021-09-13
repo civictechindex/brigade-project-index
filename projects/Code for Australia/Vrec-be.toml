@@ -4,6 +4,7 @@ name = "Vrec-be"
 organization_name = "Code for Australia"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2018-02-01T03:08:32Z"
 default_branch = "master"

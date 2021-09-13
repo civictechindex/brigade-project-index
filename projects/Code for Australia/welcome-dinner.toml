@@ -5,6 +5,7 @@ name = "welcome-dinner"
 organization_name = "Code for Australia"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2017-05-11T12:12:17Z"
 default_branch = "master"

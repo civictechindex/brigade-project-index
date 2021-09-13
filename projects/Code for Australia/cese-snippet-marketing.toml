@@ -5,6 +5,7 @@ name = "cese-snippet-marketing"
 organization_name = "Code for Australia"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2018-07-02T05:47:50Z"
 default_branch = "master"
