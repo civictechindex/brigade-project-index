@@ -4,6 +4,7 @@ name = "openwichita-hubot"
 organization_name = "Open Wichita"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-01-15T19:33:51Z"
 default_branch = "master"

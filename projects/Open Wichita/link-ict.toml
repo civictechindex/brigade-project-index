@@ -6,6 +6,7 @@ name = "link-ict"
 organization_name = "Open Wichita"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-06-04T19:35:41Z"
 default_branch = "master"

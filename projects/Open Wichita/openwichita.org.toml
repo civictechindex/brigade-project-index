@@ -5,6 +5,7 @@ name = "openwichita.org"
 organization_name = "Open Wichita"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-05-14T21:37:34Z"
 default_branch = "master"

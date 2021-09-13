@@ -6,6 +6,7 @@ name = "data.gov"
 organization_name = "Open Wichita"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2017-03-04T22:24:24Z"
 default_branch = "master"

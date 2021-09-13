@@ -7,6 +7,7 @@ organization_name = "Open Wichita"
 topics = [ "budget", "d3", "openbudgets", "open-data" ]
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-11-13T15:43:26Z"
 default_branch = "master"

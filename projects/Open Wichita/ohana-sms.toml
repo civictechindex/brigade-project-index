@@ -5,6 +5,7 @@ name = "ohana-sms"
 organization_name = "Open Wichita"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-07-07T23:34:19Z"
 default_branch = "master"

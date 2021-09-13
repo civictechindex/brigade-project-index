@@ -5,6 +5,7 @@ name = "incentivizer"
 organization_name = "Open Wichita"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2017-01-12T03:59:53Z"
 default_branch = "master"

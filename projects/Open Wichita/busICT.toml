@@ -5,6 +5,7 @@ name = "busICT"
 organization_name = "Open Wichita"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-06-06T19:04:24Z"
 default_branch = "master"

@@ -5,6 +5,7 @@ name = "hackathon-website"
 organization_name = "Open Wichita"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-01-27T16:49:09Z"
 default_branch = "master"
