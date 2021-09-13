@@ -5,6 +5,7 @@ name = "police-crime-cameras"
 organization_name = "Open Columbus (Ohio)"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2019-07-21T19:36:14Z"
 default_branch = "master"

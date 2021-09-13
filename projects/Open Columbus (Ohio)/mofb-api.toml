@@ -5,6 +5,7 @@ name = "mofb-api"
 organization_name = "Open Columbus (Ohio)"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2018-08-08T01:51:39Z"
 default_branch = "master"

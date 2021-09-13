@@ -5,6 +5,7 @@ name = "hackscos18-presentations"
 organization_name = "Open Columbus (Ohio)"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2018-06-17T15:24:30Z"
 default_branch = "master"

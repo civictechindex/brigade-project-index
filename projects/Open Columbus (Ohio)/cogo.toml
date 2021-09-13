@@ -4,6 +4,7 @@ name = "cogo"
 organization_name = "Open Columbus (Ohio)"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2019-07-11T21:24:44Z"
 default_branch = "master"

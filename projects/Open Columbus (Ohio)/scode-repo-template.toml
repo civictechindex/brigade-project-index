@@ -5,6 +5,7 @@ name = "scode-repo-template"
 organization_name = "Open Columbus (Ohio)"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2019-01-22T16:47:12Z"
 default_branch = "master"

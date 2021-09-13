@@ -4,6 +4,7 @@ name = "pantry_elasticsearch_poc"
 organization_name = "Open Columbus (Ohio)"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2018-11-20T02:36:28Z"
 default_branch = "master"

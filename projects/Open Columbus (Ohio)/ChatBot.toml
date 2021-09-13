@@ -5,6 +5,7 @@ name = "ChatBot"
 organization_name = "Open Columbus (Ohio)"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2018-07-17T18:18:43Z"
 default_branch = "master"

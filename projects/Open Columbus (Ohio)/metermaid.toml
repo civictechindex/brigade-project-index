@@ -5,6 +5,7 @@ name = "metermaid"
 organization_name = "Open Columbus (Ohio)"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2018-05-19T17:01:20Z"
 default_branch = "master"

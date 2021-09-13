@@ -5,6 +5,7 @@ name = "cbus_fair_chrome_extension"
 organization_name = "Open Columbus (Ohio)"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2020-02-17T20:14:25Z"
 default_branch = "master"
