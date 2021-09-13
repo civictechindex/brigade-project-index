@@ -5,6 +5,7 @@ name = "onibus-io-frontend"
 organization_name = "Code for Curitiba"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2019-11-14T18:56:28Z"
 default_branch = "master"

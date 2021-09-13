@@ -5,6 +5,7 @@ name = "Code-Across-Curitiba-2017"
 organization_name = "Code for Curitiba"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2017-03-04T20:16:24Z"
 default_branch = "master"

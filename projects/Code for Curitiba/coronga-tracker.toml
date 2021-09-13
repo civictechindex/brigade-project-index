@@ -4,6 +4,7 @@ name = "coronga-tracker"
 organization_name = "Code for Curitiba"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2020-07-02T00:10:53Z"
 default_branch = "master"

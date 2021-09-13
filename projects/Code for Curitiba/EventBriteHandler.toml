@@ -5,6 +5,7 @@ name = "EventBriteHandler"
 organization_name = "Code for Curitiba"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2021-02-18T03:30:52Z"
 default_branch = "main"

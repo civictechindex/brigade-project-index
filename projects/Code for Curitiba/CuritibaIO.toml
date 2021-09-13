@@ -6,6 +6,7 @@ name = "CuritibaIO"
 organization_name = "Code for Curitiba"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2019-02-14T16:25:17Z"
 default_branch = "master"

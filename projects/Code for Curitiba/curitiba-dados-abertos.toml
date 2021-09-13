@@ -5,6 +5,7 @@ name = "curitiba-dados-abertos"
 organization_name = "Code for Curitiba"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2020-02-09T02:10:18Z"
 default_branch = "master"

@@ -5,6 +5,7 @@ name = "BrigadaC4C"
 organization_name = "Code for Curitiba"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2020-07-23T19:53:11Z"
 default_branch = "master"

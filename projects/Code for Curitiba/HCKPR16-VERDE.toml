@@ -5,6 +5,7 @@ name = "HCKPR16-VERDE"
 organization_name = "Code for Curitiba"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-10-08T19:12:55Z"
 default_branch = "master"

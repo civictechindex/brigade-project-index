@@ -5,6 +5,7 @@ name = "politikei_api_eleicoes"
 organization_name = "Code for Curitiba"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-08-13T18:19:00Z"
 default_branch = "master"

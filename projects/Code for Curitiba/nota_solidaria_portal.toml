@@ -5,6 +5,7 @@ name = "nota_solidaria_portal"
 organization_name = "Code for Curitiba"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-06-09T03:00:10Z"
 default_branch = "master"

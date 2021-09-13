@@ -5,6 +5,7 @@ name = "csv_portal_curitiba"
 organization_name = "Code for Curitiba"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-11-23T20:11:29Z"
 default_branch = "master"

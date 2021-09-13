@@ -4,6 +4,7 @@ name = "ChamaSocorro"
 organization_name = "Code for Curitiba"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2017-02-15T23:46:47Z"
 default_branch = "master"

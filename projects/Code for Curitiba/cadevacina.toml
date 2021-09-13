@@ -5,6 +5,7 @@ name = "cadevacina"
 organization_name = "Code for Curitiba"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-09-29T00:43:04Z"
 default_branch = "master"
