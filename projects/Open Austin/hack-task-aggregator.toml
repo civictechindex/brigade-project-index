@@ -6,6 +6,7 @@ name = "hack-task-aggregator"
 organization_name = "Open Austin"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2013-06-25T23:20:57Z"
 default_branch = "master"

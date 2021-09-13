@@ -5,6 +5,7 @@ name = "hack-team-projects-list"
 organization_name = "Open Austin"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-05-14T01:47:36Z"
 default_branch = "master"

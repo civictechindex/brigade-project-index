@@ -5,6 +5,7 @@ name = "OARK-back-end"
 organization_name = "Open Austin"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-01-10T23:08:31Z"
 default_branch = "master"

@@ -5,6 +5,7 @@ name = "open-by-default"
 organization_name = "Open Austin"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-10-15T05:29:28Z"
 default_branch = "master"

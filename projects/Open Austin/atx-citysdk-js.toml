@@ -6,6 +6,7 @@ name = "atx-citysdk-js"
 organization_name = "Open Austin"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-09-24T07:20:49Z"
 default_branch = "master"

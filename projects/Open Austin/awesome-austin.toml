@@ -5,6 +5,7 @@ name = "awesome-austin"
 organization_name = "Open Austin"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-11-03T14:00:52Z"
 default_branch = "master"

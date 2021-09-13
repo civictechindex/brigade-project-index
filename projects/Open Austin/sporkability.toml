@@ -5,6 +5,7 @@ name = "sporkability"
 organization_name = "Open Austin"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-09-28T22:17:36Z"
 default_branch = "master"

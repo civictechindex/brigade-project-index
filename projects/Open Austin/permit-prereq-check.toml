@@ -6,6 +6,7 @@ name = "permit-prereq-check"
 organization_name = "Open Austin"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-09-03T16:19:27Z"
 default_branch = "master"

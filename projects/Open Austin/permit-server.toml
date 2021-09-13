@@ -5,6 +5,7 @@ name = "permit-server"
 organization_name = "Open Austin"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-06-04T21:17:10Z"
 default_branch = "master"

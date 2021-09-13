@@ -5,6 +5,7 @@ name = "complaint-map"
 organization_name = "Open Austin"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2018-05-23T01:14:40Z"
 default_branch = "master"

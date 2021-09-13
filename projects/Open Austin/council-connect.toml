@@ -4,6 +4,7 @@ name = "council-connect"
 organization_name = "Open Austin"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-06-03T16:05:38Z"
 default_branch = "master"

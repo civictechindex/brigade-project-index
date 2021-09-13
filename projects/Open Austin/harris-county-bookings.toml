@@ -5,6 +5,7 @@ name = "harris-county-bookings"
 organization_name = "Open Austin"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-07-22T15:36:05Z"
 default_branch = "master"

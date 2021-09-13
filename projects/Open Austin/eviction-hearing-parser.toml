@@ -7,6 +7,7 @@ organization_name = "Open Austin"
 topics = [ "eviction-hearings" ]
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2020-05-14T00:55:57Z"
 default_branch = "master"

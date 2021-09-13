@@ -6,6 +6,7 @@ organization_name = "Open Austin"
 topics = [ "civic-tech" ]
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-10-28T01:07:48Z"
 default_branch = "master"

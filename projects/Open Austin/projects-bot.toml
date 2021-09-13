@@ -5,6 +5,7 @@ name = "projects-bot"
 organization_name = "Open Austin"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2017-04-11T03:10:37Z"
 default_branch = "master"

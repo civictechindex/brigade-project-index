@@ -5,6 +5,7 @@ name = "onebusaway-docker"
 organization_name = "Open Austin"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-10-07T02:19:10Z"
 default_branch = "master"

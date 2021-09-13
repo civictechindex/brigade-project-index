@@ -5,6 +5,7 @@ name = "indigent-defense-scraper"
 organization_name = "Open Austin"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2021-07-11T20:41:32Z"
 default_branch = "main"

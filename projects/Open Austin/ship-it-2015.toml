@@ -5,6 +5,7 @@ name = "ship-it-2015"
 organization_name = "Open Austin"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-11-16T16:42:34Z"
 default_branch = "master"

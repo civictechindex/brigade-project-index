@@ -6,6 +6,7 @@ name = "atx-restaurant-scores"
 organization_name = "Open Austin"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2013-05-23T19:34:48Z"
 default_branch = "master"

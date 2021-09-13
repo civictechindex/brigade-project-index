@@ -6,6 +6,7 @@ name = "restroom-map"
 organization_name = "Open Austin"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2017-06-03T19:54:43Z"
 default_branch = "master"

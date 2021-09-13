@@ -5,6 +5,7 @@ name = "ballotapi"
 organization_name = "Open Austin"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-11-03T00:25:58Z"
 default_branch = "master"

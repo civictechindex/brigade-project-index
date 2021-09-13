@@ -5,6 +5,7 @@ name = "indigent-court-scrapy"
 organization_name = "Open Austin"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2021-08-26T03:56:52Z"
 default_branch = "main"
