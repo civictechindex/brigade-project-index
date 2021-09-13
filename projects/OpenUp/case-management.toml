@@ -5,6 +5,7 @@ name = "case-management"
 organization_name = "OpenUp"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2021-07-07T09:24:03Z"
 default_branch = "master"

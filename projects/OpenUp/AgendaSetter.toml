@@ -5,6 +5,7 @@ name = "AgendaSetter"
 organization_name = "OpenUp"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-01-15T16:03:16Z"
 default_branch = "master"

@@ -5,6 +5,7 @@ name = "minimum-wage"
 organization_name = "OpenUp"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2017-08-11T07:28:49Z"
 default_branch = "master"

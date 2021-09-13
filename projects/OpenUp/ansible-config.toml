@@ -5,6 +5,7 @@ name = "ansible-config"
 organization_name = "OpenUp"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2019-06-11T07:52:02Z"
 default_branch = "master"

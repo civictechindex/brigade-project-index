@@ -5,6 +5,7 @@ name = "nakeddata-wp-theme"
 organization_name = "OpenUp"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-07-12T05:04:16Z"
 default_branch = "master"

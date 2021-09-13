@@ -6,6 +6,7 @@ name = "django-info-pages"
 organization_name = "OpenUp"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2020-11-22T20:49:58Z"
 default_branch = "master"

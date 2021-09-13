@@ -6,6 +6,7 @@ name = "OverlappingMarkerSpiderfier-Leaflet"
 organization_name = "OpenUp"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2021-07-27T08:04:58Z"
 default_branch = "master"

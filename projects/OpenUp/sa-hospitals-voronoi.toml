@@ -5,6 +5,7 @@ name = "sa-hospitals-voronoi"
 organization_name = "OpenUp"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2018-05-31T09:28:48Z"
 default_branch = "master"

@@ -5,6 +5,7 @@ name = "traffic-fines"
 organization_name = "OpenUp"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2018-06-06T15:01:26Z"
 default_branch = "master"

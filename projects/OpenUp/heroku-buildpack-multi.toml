@@ -5,6 +5,7 @@ name = "heroku-buildpack-multi"
 organization_name = "OpenUp"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2019-09-04T05:55:03Z"
 default_branch = "master"

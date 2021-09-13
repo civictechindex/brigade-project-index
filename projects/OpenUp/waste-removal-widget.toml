@@ -6,6 +6,7 @@ name = "waste-removal-widget"
 organization_name = "OpenUp"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2018-10-03T08:48:53Z"
 default_branch = "master"

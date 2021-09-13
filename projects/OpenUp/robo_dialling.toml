@@ -4,6 +4,7 @@ name = "robo_dialling"
 organization_name = "OpenUp"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2019-06-18T19:31:16Z"
 default_branch = "master"

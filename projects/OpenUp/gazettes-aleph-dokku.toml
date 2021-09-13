@@ -5,6 +5,7 @@ name = "gazettes-aleph-dokku"
 organization_name = "OpenUp"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-07-26T14:11:14Z"
 default_branch = "master"

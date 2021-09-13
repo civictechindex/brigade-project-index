@@ -5,6 +5,7 @@ name = "IEC-API-reader"
 organization_name = "OpenUp"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-04-23T11:24:59Z"
 default_branch = "master"

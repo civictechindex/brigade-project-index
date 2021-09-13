@@ -5,6 +5,7 @@ name = "contact-mps"
 organization_name = "OpenUp"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2017-06-01T09:52:56Z"
 default_branch = "master"

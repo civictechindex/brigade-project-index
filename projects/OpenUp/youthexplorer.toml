@@ -5,6 +5,7 @@ name = "youthexplorer"
 organization_name = "OpenUp"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2019-10-28T11:42:48Z"
 default_branch = "master"

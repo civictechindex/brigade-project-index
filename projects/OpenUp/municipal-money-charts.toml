@@ -4,6 +4,7 @@ name = "municipal-money-charts"
 organization_name = "OpenUp"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2020-10-21T07:11:23Z"
 default_branch = "main"

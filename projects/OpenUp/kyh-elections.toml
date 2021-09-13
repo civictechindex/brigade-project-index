@@ -6,6 +6,7 @@ name = "kyh-elections"
 organization_name = "OpenUp"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2013-12-07T22:25:59Z"
 default_branch = "master"

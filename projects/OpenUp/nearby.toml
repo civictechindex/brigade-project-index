@@ -6,6 +6,7 @@ name = "nearby"
 organization_name = "OpenUp"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-07-06T13:07:40Z"
 default_branch = "master"

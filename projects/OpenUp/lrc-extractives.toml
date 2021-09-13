@@ -4,6 +4,7 @@ name = "lrc-extractives"
 organization_name = "OpenUp"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2017-06-01T11:30:30Z"
 default_branch = "master"

@@ -6,6 +6,7 @@ name = "umibukela"
 organization_name = "OpenUp"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-11-30T09:03:27Z"
 default_branch = "master"

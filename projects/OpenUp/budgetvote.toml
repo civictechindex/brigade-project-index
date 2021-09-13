@@ -5,6 +5,7 @@ name = "budgetvote"
 organization_name = "OpenUp"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-02-22T08:26:12Z"
 default_branch = "gh-pages"

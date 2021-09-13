@@ -5,6 +5,7 @@ name = "openup-ckan"
 organization_name = "OpenUp"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2020-05-01T17:44:43Z"
 default_branch = "master"

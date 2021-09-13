@@ -5,6 +5,7 @@ name = "gmmp"
 organization_name = "OpenUp"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-02-23T18:39:20Z"
 default_branch = "master"

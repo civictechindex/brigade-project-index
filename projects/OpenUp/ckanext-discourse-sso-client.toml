@@ -5,6 +5,7 @@ name = "ckanext-discourse-sso-client"
 organization_name = "OpenUp"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2018-03-23T13:31:20Z"
 default_branch = "master"

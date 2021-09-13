@@ -6,6 +6,7 @@ name = "herana"
 organization_name = "OpenUp"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-06-22T10:23:20Z"
 default_branch = "master"

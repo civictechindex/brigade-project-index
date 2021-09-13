@@ -6,6 +6,7 @@ name = "redirects"
 organization_name = "OpenUp"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-04-07T14:16:19Z"
 default_branch = "master"

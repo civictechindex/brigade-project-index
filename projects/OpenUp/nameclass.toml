@@ -5,6 +5,7 @@ name = "nameclass"
 organization_name = "OpenUp"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2017-12-03T05:45:55Z"
 default_branch = "master"

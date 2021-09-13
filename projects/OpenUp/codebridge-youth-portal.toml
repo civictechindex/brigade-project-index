@@ -5,6 +5,7 @@ name = "codebridge-youth-portal"
 organization_name = "OpenUp"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2019-04-01T10:33:16Z"
 default_branch = "master"

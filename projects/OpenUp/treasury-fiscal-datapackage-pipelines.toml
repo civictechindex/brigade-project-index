@@ -6,6 +6,7 @@ name = "treasury-fiscal-datapackage-pipelines"
 organization_name = "OpenUp"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2017-10-17T15:56:56Z"
 default_branch = "master"

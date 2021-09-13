@@ -5,6 +5,7 @@ name = "ckanext-gdoc"
 organization_name = "OpenUp"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2017-10-10T05:46:34Z"
 default_branch = "master"

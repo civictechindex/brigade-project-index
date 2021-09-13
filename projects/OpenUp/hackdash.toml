@@ -6,6 +6,7 @@ name = "hackdash"
 organization_name = "OpenUp"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2021-02-22T15:39:55Z"
 default_branch = "master"

@@ -5,6 +5,7 @@ name = "cookiecutter-django-dokku"
 organization_name = "OpenUp"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2020-01-12T17:43:07Z"
 default_branch = "master"

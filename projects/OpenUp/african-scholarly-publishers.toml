@@ -6,6 +6,7 @@ name = "african-scholarly-publishers"
 organization_name = "OpenUp"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2018-03-06T08:06:42Z"
 default_branch = "master"

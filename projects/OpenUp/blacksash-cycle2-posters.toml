@@ -5,6 +5,7 @@ name = "blacksash-cycle2-posters"
 organization_name = "OpenUp"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-08-17T20:23:20Z"
 default_branch = "master"

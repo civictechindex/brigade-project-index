@@ -5,6 +5,7 @@ name = "wazimap-adh-data"
 organization_name = "OpenUp"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2021-02-24T13:26:19Z"
 default_branch = "main"

@@ -4,6 +4,7 @@ name = "hackdash-embed"
 organization_name = "OpenUp"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2019-06-20T13:22:25Z"
 default_branch = "master"

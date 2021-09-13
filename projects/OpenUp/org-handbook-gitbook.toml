@@ -5,6 +5,7 @@ name = "org-handbook-gitbook"
 organization_name = "OpenUp"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2020-01-15T12:41:59Z"
 default_branch = "master"

@@ -5,6 +5,7 @@ name = "lottery-grants"
 organization_name = "OpenUp"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2021-03-11T14:21:11Z"
 default_branch = "main"

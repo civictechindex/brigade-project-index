@@ -6,6 +6,7 @@ name = "blacksash-poster-website"
 organization_name = "OpenUp"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-04-10T07:30:26Z"
 default_branch = "master"

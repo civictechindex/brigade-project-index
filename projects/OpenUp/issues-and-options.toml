@@ -5,6 +5,7 @@ name = "issues-and-options"
 organization_name = "OpenUp"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2021-09-08T08:19:18Z"
 default_branch = "main"

@@ -5,6 +5,7 @@ name = "collaborator-api-client"
 organization_name = "OpenUp"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2020-11-04T09:43:18Z"
 default_branch = "main"

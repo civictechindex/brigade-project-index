@@ -4,6 +4,7 @@ name = "mpr_analysis"
 organization_name = "OpenUp"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2017-05-18T09:54:29Z"
 default_branch = "master"

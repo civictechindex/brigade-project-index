@@ -4,6 +4,7 @@ name = "piwik-dokku"
 organization_name = "OpenUp"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2017-10-26T13:20:45Z"
 default_branch = "master"

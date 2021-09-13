@@ -6,6 +6,7 @@ name = "wazimap-za"
 organization_name = "OpenUp"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-03-01T11:37:37Z"
 default_branch = "master"
