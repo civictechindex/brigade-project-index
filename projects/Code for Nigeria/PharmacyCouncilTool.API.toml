@@ -6,6 +6,7 @@ name = "PharmacyCouncilTool.API"
 organization_name = "Code for Nigeria"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2017-08-15T07:51:33Z"
 default_branch = "master"

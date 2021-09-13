@@ -18,6 +18,7 @@ topics = [
 ]
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-12-19T07:58:24Z"
 default_branch = "master"

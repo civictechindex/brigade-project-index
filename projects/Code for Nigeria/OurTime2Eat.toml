@@ -6,6 +6,7 @@ name = "OurTime2Eat"
 organization_name = "Code for Nigeria"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-05-09T05:44:24Z"
 default_branch = "master"

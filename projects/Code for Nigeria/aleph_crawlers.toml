@@ -5,6 +5,7 @@ name = "aleph_crawlers"
 organization_name = "Code for Nigeria"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-02-08T13:46:38Z"
 default_branch = "master"

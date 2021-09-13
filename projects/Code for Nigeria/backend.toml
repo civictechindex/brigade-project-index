@@ -6,6 +6,7 @@ name = "backend"
 organization_name = "Code for Nigeria"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2020-10-30T11:52:25Z"
 default_branch = "master"

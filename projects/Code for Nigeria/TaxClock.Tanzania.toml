@@ -5,6 +5,7 @@ name = "TaxClock.Tanzania"
 organization_name = "Code for Nigeria"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2019-04-14T14:24:10Z"
 default_branch = "gh-pages"

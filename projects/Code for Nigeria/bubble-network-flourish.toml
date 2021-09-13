@@ -5,6 +5,7 @@ name = "bubble-network-flourish"
 organization_name = "Code for Nigeria"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2019-03-07T11:13:13Z"
 default_branch = "master"

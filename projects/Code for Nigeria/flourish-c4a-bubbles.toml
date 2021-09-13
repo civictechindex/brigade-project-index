@@ -5,6 +5,7 @@ name = "flourish-c4a-bubbles"
 organization_name = "Code for Nigeria"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2018-10-11T08:57:30Z"
 default_branch = "master"
