@@ -5,6 +5,7 @@ name = "muenchen-transparent-doc"
 organization_name = "OK Lab München"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-06-01T17:52:53Z"
 default_branch = "master"

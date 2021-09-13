@@ -4,6 +4,7 @@ name = "sensorworkshop"
 organization_name = "OK Lab München"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-03-04T20:46:20Z"
 default_branch = "master"

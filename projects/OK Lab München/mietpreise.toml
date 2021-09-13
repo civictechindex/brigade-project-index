@@ -4,6 +4,7 @@ name = "mietpreise"
 organization_name = "OK Lab München"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-05-11T19:20:15Z"
 default_branch = "master"

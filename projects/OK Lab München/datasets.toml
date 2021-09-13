@@ -5,6 +5,7 @@ name = "datasets"
 organization_name = "OK Lab München"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-12-02T10:43:21Z"
 default_branch = "master"
