@@ -1,7 +1,7 @@
-code_url = "https://github.com/CodeandoMexico/dppd"
+code_url = "https://github.com/CodeandoMexico/dppd-violencia-contra-las-mujeres"
 description = "Aplicamos la metodología de Data Powered Positive Deviance, usando una variedad de datos y métodos estadísticos para identificar lugares en la CDMX donde las mujeres están más seguras o donde la violencia de género es menor que en otras áreas con atributos similares."
-git_url = "git://github.com/CodeandoMexico/dppd.git"
-name = "dppd"
+git_url = "git://github.com/CodeandoMexico/dppd-violencia-contra-las-mujeres.git"
+name = "dppd-violencia-contra-las-mujeres"
 organization_name = "Codeando México"
 
 [github]
@@ -12,7 +12,7 @@ description = "Aplicamos la metodología de Data Powered Positive Deviance, usan
 disabled = false
 fork = false
 forks_within = 0
-full_name = "CodeandoMexico/dppd"
+full_name = "CodeandoMexico/dppd-violencia-contra-las-mujeres"
 has_downloads = true
 has_issues = true
 has_pages = false
@@ -21,7 +21,7 @@ has_wiki = true
 homepage = ""
 id = 335_452_839
 language = "R"
-name = "dppd"
+name = "dppd-violencia-contra-las-mujeres"
 node_id = "MDEwOlJlcG9zaXRvcnkzMzU0NTI4Mzk="
 open_issues_within = 0
 private = false
