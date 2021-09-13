@@ -6,6 +6,7 @@ name = "askpgh"
 organization_name = "Code for Pittsburgh"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-06-05T01:36:59Z"
 default_branch = "master"

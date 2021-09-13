@@ -5,6 +5,7 @@ name = "pa-candidate-email-scraper"
 organization_name = "Code for Pittsburgh"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-09-28T23:37:38Z"
 default_branch = "master"

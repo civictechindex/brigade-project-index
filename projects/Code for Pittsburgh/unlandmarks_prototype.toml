@@ -5,6 +5,7 @@ name = "unlandmarks_prototype"
 organization_name = "Code for Pittsburgh"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2017-12-12T15:32:17Z"
 default_branch = "master"

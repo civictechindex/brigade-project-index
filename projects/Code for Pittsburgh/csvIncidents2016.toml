@@ -5,6 +5,7 @@ name = "csvIncidents2016"
 organization_name = "Code for Pittsburgh"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-11-20T14:33:42Z"
 default_branch = "master"

@@ -4,6 +4,7 @@ name = "parking-data"
 organization_name = "Code for Pittsburgh"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2019-08-14T19:15:50Z"
 default_branch = "master"

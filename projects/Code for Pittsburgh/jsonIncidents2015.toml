@@ -5,6 +5,7 @@ name = "jsonIncidents2015"
 organization_name = "Code for Pittsburgh"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-01-29T20:36:11Z"
 default_branch = "master"

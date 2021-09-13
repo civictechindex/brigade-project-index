@@ -5,6 +5,7 @@ name = "412FR-Donation-NLP-Tool"
 organization_name = "Code for Pittsburgh"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2019-04-23T18:02:48Z"
 default_branch = "master"

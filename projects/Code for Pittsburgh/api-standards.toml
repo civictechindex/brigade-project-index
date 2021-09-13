@@ -5,6 +5,7 @@ name = "api-standards"
 organization_name = "Code for Pittsburgh"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-12-04T18:56:28Z"
 default_branch = "master"

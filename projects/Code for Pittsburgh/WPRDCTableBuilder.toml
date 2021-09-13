@@ -5,6 +5,7 @@ name = "WPRDCTableBuilder"
 organization_name = "Code for Pittsburgh"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2017-10-30T15:33:23Z"
 default_branch = "master"

@@ -5,6 +5,7 @@ name = "Meta"
 organization_name = "Code for Pittsburgh"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2017-06-20T01:13:54Z"
 default_branch = "master"

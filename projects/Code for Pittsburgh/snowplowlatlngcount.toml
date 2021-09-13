@@ -5,6 +5,7 @@ name = "snowplowlatlngcount"
 organization_name = "Code for Pittsburgh"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-03-21T15:15:19Z"
 default_branch = "master"

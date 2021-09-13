@@ -5,6 +5,7 @@ name = "overdose-dashboard"
 organization_name = "Code for Pittsburgh"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2019-04-09T01:47:46Z"
 default_branch = "master"

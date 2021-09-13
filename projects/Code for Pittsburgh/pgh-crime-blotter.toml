@@ -5,6 +5,7 @@ name = "pgh-crime-blotter"
 organization_name = "Code for Pittsburgh"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-09-28T23:37:13Z"
 default_branch = "master"

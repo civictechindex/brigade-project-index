@@ -4,6 +4,7 @@ name = "CodeForPittsburgh.github.io-master"
 organization_name = "Code for Pittsburgh"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2017-04-20T18:53:27Z"
 default_branch = "master"
