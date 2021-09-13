@@ -4,6 +4,7 @@ name = "hurricane-response"
 organization_name = "Open Raleigh Brigade"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2018-09-20T18:26:52Z"
 default_branch = "master"

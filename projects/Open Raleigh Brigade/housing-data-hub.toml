@@ -6,6 +6,7 @@ name = "housing-data-hub"
 organization_name = "Open Raleigh Brigade"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2018-06-09T13:51:05Z"
 default_branch = "gh-pages"
