@@ -7,6 +7,7 @@ status = "experiment"
 topics = [ "canada", "democracy", "toronto", "voting" ]
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-05-17T18:34:13Z"
 default_branch = "feature/use-grape-api"
@@ -54,6 +55,7 @@ watchers_within = 0
   type = "Organization"
 
   [github.parent]
+  allow_forking = true
   archived = false
   created_at = "2015-03-04T21:53:15Z"
   default_branch = "master"
@@ -97,6 +99,7 @@ watchers_within = 0
   triage = false
 
   [github.source]
+  allow_forking = true
   archived = false
   created_at = "2015-03-04T21:53:15Z"
   default_branch = "master"
