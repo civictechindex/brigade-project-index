@@ -5,6 +5,7 @@ name = "CFP_TeamSATisFire"
 organization_name = "Code for Pakistan"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2020-12-15T07:26:00Z"
 default_branch = "main"

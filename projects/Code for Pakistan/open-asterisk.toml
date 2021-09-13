@@ -6,6 +6,7 @@ name = "open-asterisk"
 organization_name = "Code for Pakistan"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2019-03-23T06:30:47Z"
 default_branch = "master"

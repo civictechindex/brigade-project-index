@@ -5,6 +5,7 @@ name = "KP_traffic_IOS18"
 organization_name = "Code for Pakistan"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2018-08-01T04:29:01Z"
 default_branch = "master"

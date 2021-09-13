@@ -4,6 +4,7 @@ name = "muavin"
 organization_name = "Code for Pakistan"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2017-05-16T07:13:22Z"
 default_branch = "master"

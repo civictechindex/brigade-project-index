@@ -5,6 +5,7 @@ name = "teamWSSP17"
 organization_name = "Code for Pakistan"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2017-03-27T04:32:47Z"
 default_branch = "master"

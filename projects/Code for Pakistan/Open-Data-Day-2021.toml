@@ -5,6 +5,7 @@ name = "Open-Data-Day-2021"
 organization_name = "Code for Pakistan"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2021-03-08T08:27:15Z"
 default_branch = "master"

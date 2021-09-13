@@ -4,6 +4,7 @@ name = "TrafficPoliceKPK-AndroidModule"
 organization_name = "Code for Pakistan"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-02-01T17:04:30Z"
 default_branch = "master"

@@ -5,6 +5,7 @@ name = "MeraCity"
 organization_name = "Code for Pakistan"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-02-22T10:24:15Z"
 default_branch = "master"

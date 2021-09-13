@@ -5,6 +5,7 @@ name = "KPTraffic-VMS"
 organization_name = "Code for Pakistan"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2018-02-13T07:00:18Z"
 default_branch = "master"

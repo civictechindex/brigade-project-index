@@ -4,6 +4,7 @@ name = "airpak-backend"
 organization_name = "Code for Pakistan"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2020-08-13T10:40:44Z"
 default_branch = "master"

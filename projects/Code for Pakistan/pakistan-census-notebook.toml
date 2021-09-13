@@ -4,6 +4,7 @@ name = "pakistan-census-notebook"
 organization_name = "Code for Pakistan"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2017-11-25T06:29:23Z"
 default_branch = "master"

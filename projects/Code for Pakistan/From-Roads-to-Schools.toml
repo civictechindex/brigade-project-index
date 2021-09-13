@@ -5,6 +5,7 @@ name = "From-Roads-to-Schools"
 organization_name = "Code for Pakistan"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2017-08-20T10:54:19Z"
 default_branch = "master"

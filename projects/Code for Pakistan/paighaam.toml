@@ -4,6 +4,7 @@ name = "paighaam"
 organization_name = "Code for Pakistan"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2021-02-12T07:24:04Z"
 default_branch = "main"

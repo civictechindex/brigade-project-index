@@ -5,6 +5,7 @@ name = "Private-Schools-Regulatory-Authority-Web"
 organization_name = "Code for Pakistan"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2018-11-29T10:47:54Z"
 default_branch = "master"

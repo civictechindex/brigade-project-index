@@ -5,6 +5,7 @@ name = "civispot"
 organization_name = "Code for Pakistan"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-01-25T05:03:21Z"
 default_branch = "master"

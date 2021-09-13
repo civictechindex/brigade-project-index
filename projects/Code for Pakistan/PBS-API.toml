@@ -4,6 +4,7 @@ name = "PBS-API"
 organization_name = "Code for Pakistan"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-01-11T16:17:14Z"
 default_branch = "master"

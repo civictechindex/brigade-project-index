@@ -5,6 +5,7 @@ name = "CrimeReport"
 organization_name = "Code for Pakistan"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-02-22T10:53:42Z"
 default_branch = "master"

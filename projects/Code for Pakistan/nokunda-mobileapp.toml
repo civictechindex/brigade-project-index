@@ -4,6 +4,7 @@ name = "nokunda-mobileapp"
 organization_name = "Code for Pakistan"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-02-21T14:55:05Z"
 default_branch = "master"

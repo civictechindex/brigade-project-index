@@ -4,6 +4,7 @@ name = "SaveWatts"
 organization_name = "Code for Pakistan"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-07-17T12:15:15Z"
 default_branch = "master"

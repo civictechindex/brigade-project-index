@@ -4,6 +4,7 @@ name = "trashtaker"
 organization_name = "Code for Pakistan"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-07-17T14:13:01Z"
 default_branch = "master"

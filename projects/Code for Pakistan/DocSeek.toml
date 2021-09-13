@@ -5,6 +5,7 @@ name = "DocSeek"
 organization_name = "Code for Pakistan"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-03-26T07:55:13Z"
 default_branch = "master"

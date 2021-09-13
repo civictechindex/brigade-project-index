@@ -4,6 +4,7 @@ name = "pehchan-verify-service"
 organization_name = "Code for Pakistan"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2021-01-27T05:58:05Z"
 default_branch = "main"

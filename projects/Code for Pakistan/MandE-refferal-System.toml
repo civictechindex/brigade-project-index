@@ -4,6 +4,7 @@ name = "MandE-refferal-System"
 organization_name = "Code for Pakistan"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2020-12-09T11:24:05Z"
 default_branch = "main"

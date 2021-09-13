@@ -5,6 +5,7 @@ name = "awaami"
 organization_name = "Code for Pakistan"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-07-17T14:23:38Z"
 default_branch = "master"

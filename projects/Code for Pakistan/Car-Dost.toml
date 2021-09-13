@@ -4,6 +4,7 @@ name = "Car-Dost"
 organization_name = "Code for Pakistan"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2018-08-04T17:44:30Z"
 default_branch = "master"

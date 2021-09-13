@@ -5,6 +5,7 @@ name = "NIH-Appointments"
 organization_name = "Code for Pakistan"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2020-12-20T07:13:54Z"
 default_branch = "main"

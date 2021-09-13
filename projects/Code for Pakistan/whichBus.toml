@@ -5,6 +5,7 @@ name = "whichBus"
 organization_name = "Code for Pakistan"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-01-25T11:24:14Z"
 default_branch = "master"

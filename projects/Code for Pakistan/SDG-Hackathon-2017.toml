@@ -5,6 +5,7 @@ name = "SDG-Hackathon-2017"
 organization_name = "Code for Pakistan"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2017-08-20T11:45:37Z"
 default_branch = "master"

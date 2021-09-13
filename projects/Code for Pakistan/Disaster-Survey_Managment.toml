@@ -4,6 +4,7 @@ name = "Disaster-Survey_Managment"
 organization_name = "Code for Pakistan"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-02-02T07:23:59Z"
 default_branch = "master"

@@ -5,6 +5,7 @@ name = "teamFirms17"
 organization_name = "Code for Pakistan"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2017-03-27T04:33:35Z"
 default_branch = "master"

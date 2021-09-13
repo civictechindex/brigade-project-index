@@ -5,6 +5,7 @@ name = "Pharma-License"
 organization_name = "Code for Pakistan"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2020-12-09T10:43:59Z"
 default_branch = "master"

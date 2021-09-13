@@ -5,6 +5,7 @@ name = "jugnoo-school-map"
 organization_name = "Code for Pakistan"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-05-05T16:41:52Z"
 default_branch = "master"

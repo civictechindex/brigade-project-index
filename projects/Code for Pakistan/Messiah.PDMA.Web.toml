@@ -6,6 +6,7 @@ name = "Messiah.PDMA.Web"
 organization_name = "Code for Pakistan"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-06-18T09:38:52Z"
 default_branch = "master"

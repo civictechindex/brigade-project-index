@@ -4,6 +4,7 @@ name = "chabi"
 organization_name = "Code for Pakistan"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2021-01-20T07:32:24Z"
 default_branch = "main"

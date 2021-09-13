@@ -5,6 +5,7 @@ name = "PakCovid19-DataCollection"
 organization_name = "Code for Pakistan"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2020-03-14T18:34:30Z"
 default_branch = "master"

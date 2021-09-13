@@ -4,6 +4,7 @@ name = "pehchan-client"
 organization_name = "Code for Pakistan"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2021-01-19T10:33:23Z"
 default_branch = "master"

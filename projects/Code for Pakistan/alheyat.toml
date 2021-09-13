@@ -5,6 +5,7 @@ name = "alheyat"
 organization_name = "Code for Pakistan"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-07-17T15:13:39Z"
 default_branch = "master"

@@ -5,6 +5,7 @@ name = "PakSaaf"
 organization_name = "Code for Pakistan"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-01-26T09:25:49Z"
 default_branch = "master"
