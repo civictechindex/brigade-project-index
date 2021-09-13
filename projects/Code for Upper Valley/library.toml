@@ -5,6 +5,7 @@ name = "library"
 organization_name = "Code for Upper Valley"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2020-01-18T20:12:52Z"
 default_branch = "master"
