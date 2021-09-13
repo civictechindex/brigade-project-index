@@ -5,6 +5,7 @@ name = "swap"
 organization_name = "Code for Kentuckiana"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2018-09-09T18:18:45Z"
 default_branch = "master"

@@ -5,6 +5,7 @@ name = "ky-aoc-contact-info"
 organization_name = "Code for Kentuckiana"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2020-05-28T01:47:17Z"
 default_branch = "master"

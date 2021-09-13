@@ -6,6 +6,7 @@ name = "public-comment"
 organization_name = "Code for Kentuckiana"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2020-11-21T21:04:58Z"
 default_branch = "main"

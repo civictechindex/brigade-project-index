@@ -5,6 +5,7 @@ name = "career-navigator"
 organization_name = "Code for Kentuckiana"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2019-09-09T21:40:01Z"
 default_branch = "master"

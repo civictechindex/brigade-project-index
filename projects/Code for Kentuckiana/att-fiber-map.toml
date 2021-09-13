@@ -4,6 +4,7 @@ name = "att-fiber-map"
 organization_name = "Code for Kentuckiana"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2019-02-15T19:51:36Z"
 default_branch = "master"
