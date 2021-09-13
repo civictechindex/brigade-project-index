@@ -5,6 +5,7 @@ organization_name = "OpenSMC"
 status = "In Progress"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2017-03-22T02:35:40Z"
 default_branch = "master"
