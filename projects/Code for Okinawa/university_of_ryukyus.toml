@@ -5,6 +5,7 @@ name = "university_of_ryukyus"
 organization_name = "Code for Okinawa"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-06-09T02:35:34Z"
 default_branch = "gh-pages"

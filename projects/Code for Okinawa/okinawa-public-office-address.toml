@@ -4,6 +4,7 @@ name = "okinawa-public-office-address"
 organization_name = "Code for Okinawa"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-05-01T15:14:45Z"
 default_branch = "master"

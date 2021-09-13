@@ -6,6 +6,7 @@ name = "ha4go"
 organization_name = "Code for Okinawa"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-10-18T12:33:34Z"
 default_branch = "master"
