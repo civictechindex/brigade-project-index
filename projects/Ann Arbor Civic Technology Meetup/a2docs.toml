@@ -5,6 +5,7 @@ name = "a2docs"
 organization_name = "Ann Arbor Civic Technology Meetup"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-10-31T18:20:14Z"
 default_branch = "master"

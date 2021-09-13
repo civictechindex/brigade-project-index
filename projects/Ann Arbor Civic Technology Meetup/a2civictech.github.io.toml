@@ -5,6 +5,7 @@ name = "a2civictech.github.io"
 organization_name = "Ann Arbor Civic Technology Meetup"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-10-28T12:41:50Z"
 default_branch = "master"

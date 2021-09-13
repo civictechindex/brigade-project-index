@@ -6,6 +6,7 @@ name = "docstore"
 organization_name = "Ann Arbor Civic Technology Meetup"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2018-04-08T10:54:22Z"
 default_branch = "master"
