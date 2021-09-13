@@ -5,6 +5,7 @@ name = "LabsProcedures"
 organization_name = "SlashRoots Foundation"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-01-29T21:16:50Z"
 default_branch = "master"

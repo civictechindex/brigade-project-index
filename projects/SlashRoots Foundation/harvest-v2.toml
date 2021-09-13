@@ -6,6 +6,7 @@ name = "harvest-v2"
 organization_name = "SlashRoots Foundation"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-08-27T03:14:20Z"
 default_branch = "develop"
