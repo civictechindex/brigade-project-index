@@ -6,6 +6,7 @@ name = "opendataday"
 organization_name = "OK Lab Münster"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-01-21T21:25:36Z"
 default_branch = "gh-pages"

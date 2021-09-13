@@ -6,6 +6,7 @@ name = "wahlprogramm-matrix"
 organization_name = "OK Lab Münster"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-05-20T18:57:29Z"
 default_branch = "master"

@@ -5,6 +5,7 @@ name = "discourse_registrations"
 organization_name = "OK Lab Münster"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-11-03T22:10:19Z"
 default_branch = "master"

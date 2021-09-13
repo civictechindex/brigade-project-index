@@ -6,6 +6,7 @@ name = "alternative-skulptur-projekte"
 organization_name = "OK Lab Münster"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-04-27T20:16:10Z"
 default_branch = "gh-pages"

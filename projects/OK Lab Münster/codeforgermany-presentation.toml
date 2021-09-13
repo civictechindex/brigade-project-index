@@ -6,6 +6,7 @@ name = "codeforgermany-presentation"
 organization_name = "OK Lab Münster"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-03-27T15:43:13Z"
 default_branch = "gh-pages"

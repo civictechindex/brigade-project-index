@@ -6,6 +6,7 @@ organization_name = "OK Lab Münster"
 topics = [ "mshack", "muensterhack" ]
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2018-10-06T08:54:32Z"
 default_branch = "master"

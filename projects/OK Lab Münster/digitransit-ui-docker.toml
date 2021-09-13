@@ -4,6 +4,7 @@ name = "digitransit-ui-docker"
 organization_name = "OK Lab Münster"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2019-11-14T17:31:57Z"
 default_branch = "master"

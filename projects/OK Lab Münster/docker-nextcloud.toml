@@ -5,6 +5,7 @@ name = "docker-nextcloud"
 organization_name = "OK Lab Münster"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2018-12-09T12:51:28Z"
 default_branch = "master"

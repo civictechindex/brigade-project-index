@@ -6,6 +6,7 @@ name = "wahlprogramme2014"
 organization_name = "OK Lab Münster"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-04-09T16:58:37Z"
 default_branch = "master"

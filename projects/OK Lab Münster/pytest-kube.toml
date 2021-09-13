@@ -4,6 +4,7 @@ name = "pytest-kube"
 organization_name = "OK Lab Münster"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2020-06-02T18:42:00Z"
 default_branch = "master"

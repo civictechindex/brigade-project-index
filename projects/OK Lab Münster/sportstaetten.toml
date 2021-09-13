@@ -5,6 +5,7 @@ name = "sportstaetten"
 organization_name = "OK Lab Münster"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-07-09T17:47:41Z"
 default_branch = "master"

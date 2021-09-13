@@ -6,6 +6,7 @@ name = "codeformuenster.github.io"
 organization_name = "OK Lab Münster"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-01-17T11:20:12Z"
 default_branch = "master"

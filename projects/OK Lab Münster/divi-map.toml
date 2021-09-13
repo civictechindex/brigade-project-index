@@ -5,6 +5,7 @@ name = "divi-map"
 organization_name = "OK Lab Münster"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2020-04-07T20:51:06Z"
 default_branch = "master"

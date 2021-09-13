@@ -4,6 +4,7 @@ name = "docker-prometheus-es-exporter"
 organization_name = "OK Lab Münster"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-12-25T14:25:33Z"
 default_branch = "master"

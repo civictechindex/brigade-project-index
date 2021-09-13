@@ -5,6 +5,7 @@ organization_name = "OK Lab Münster"
 topics = [ "mshack20", "mshack2020", "mszaehlt" ]
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2020-09-25T10:35:04Z"
 default_branch = "master"

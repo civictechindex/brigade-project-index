@@ -4,6 +4,7 @@ name = "mein-ms-wfs-importer"
 organization_name = "OK Lab Münster"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2018-05-22T19:22:37Z"
 default_branch = "master"

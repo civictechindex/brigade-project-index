@@ -4,6 +4,7 @@ name = "digitransit-graphiql"
 organization_name = "OK Lab Münster"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2019-11-13T23:17:34Z"
 default_branch = "master"

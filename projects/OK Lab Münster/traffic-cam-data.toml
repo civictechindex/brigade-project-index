@@ -5,6 +5,7 @@ name = "traffic-cam-data"
 organization_name = "OK Lab Münster"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2020-09-25T18:29:36Z"
 default_branch = "master"

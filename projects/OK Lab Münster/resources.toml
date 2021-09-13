@@ -5,6 +5,7 @@ name = "resources"
 organization_name = "OK Lab Münster"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2021-07-31T07:41:57Z"
 default_branch = "master"

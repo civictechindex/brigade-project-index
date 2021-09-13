@@ -6,6 +6,7 @@ name = "abfuhrkarte"
 organization_name = "OK Lab Münster"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2020-06-09T18:59:38Z"
 default_branch = "master"

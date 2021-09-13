@@ -5,6 +5,7 @@ name = "geojson-display"
 organization_name = "OK Lab Münster"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-06-15T19:01:04Z"
 default_branch = "master"

@@ -5,6 +5,7 @@ name = "verkehrsunfaelle-http"
 organization_name = "OK Lab Münster"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2019-08-13T20:35:32Z"
 default_branch = "master"

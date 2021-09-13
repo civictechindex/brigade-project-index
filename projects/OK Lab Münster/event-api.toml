@@ -7,6 +7,7 @@ organization_name = "OK Lab Münster"
 topics = [ "dockerfile", "elasticsearch", "open-api" ]
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2017-02-07T21:53:13Z"
 default_branch = "master"

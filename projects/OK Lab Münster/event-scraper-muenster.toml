@@ -6,6 +6,7 @@ organization_name = "OK Lab Münster"
 topics = [ "event-scraper" ]
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2017-10-19T17:51:29Z"
 default_branch = "master"

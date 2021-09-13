@@ -5,6 +5,7 @@ organization_name = "OK Lab Münster"
 topics = [ "dockerfile", "kibana" ]
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2019-10-23T03:14:58Z"
 default_branch = "master"

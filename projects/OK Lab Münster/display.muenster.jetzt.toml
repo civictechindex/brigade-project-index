@@ -4,6 +4,7 @@ name = "display.muenster.jetzt"
 organization_name = "OK Lab Münster"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2020-01-21T20:27:06Z"
 default_branch = "master"

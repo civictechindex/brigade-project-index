@@ -5,6 +5,7 @@ name = "postgres-minio-mc-container-image"
 organization_name = "OK Lab Münster"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2019-06-25T18:39:50Z"
 default_branch = "master"

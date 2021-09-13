@@ -4,6 +4,7 @@ name = "traffic-dynamics-python"
 organization_name = "OK Lab Münster"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2019-10-15T17:03:55Z"
 default_branch = "master"

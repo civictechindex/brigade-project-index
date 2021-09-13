@@ -6,6 +6,7 @@ name = "meine-stadt-transparent"
 organization_name = "OK Lab Münster"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2019-11-18T16:18:56Z"
 default_branch = "master"

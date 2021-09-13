@@ -6,6 +6,7 @@ name = "geo-quiz"
 organization_name = "OK Lab Münster"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-08-31T16:19:36Z"
 default_branch = "master"

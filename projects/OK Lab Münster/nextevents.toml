@@ -4,6 +4,7 @@ name = "nextevents"
 organization_name = "OK Lab Münster"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2018-05-20T21:10:30Z"
 default_branch = "master"

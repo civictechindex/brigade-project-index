@@ -4,6 +4,7 @@ name = "lanuv"
 organization_name = "OK Lab Münster"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-06-08T17:31:12Z"
 default_branch = "master"

@@ -5,6 +5,7 @@ name = "mshack2020-counting-dart-openapi"
 organization_name = "OK Lab Münster"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2020-09-25T16:20:24Z"
 default_branch = "master"

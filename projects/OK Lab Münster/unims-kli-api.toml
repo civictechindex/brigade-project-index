@@ -4,6 +4,7 @@ name = "unims-kli-api"
 organization_name = "OK Lab Münster"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-04-22T19:19:25Z"
 default_branch = "master"

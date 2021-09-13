@@ -5,6 +5,7 @@ name = "dev.codefor.de"
 organization_name = "OK Lab Münster"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2020-01-21T19:12:12Z"
 default_branch = "dev"

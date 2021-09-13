@@ -6,6 +6,7 @@ name = "kfzData"
 organization_name = "OK Lab Münster"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2017-10-24T18:53:57Z"
 default_branch = "master"

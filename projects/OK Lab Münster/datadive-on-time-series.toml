@@ -5,6 +5,7 @@ name = "datadive-on-time-series"
 organization_name = "OK Lab Münster"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-10-30T15:03:00Z"
 default_branch = "master"

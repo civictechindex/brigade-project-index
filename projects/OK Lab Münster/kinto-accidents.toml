@@ -4,6 +4,7 @@ name = "kinto-accidents"
 organization_name = "OK Lab Münster"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2018-08-14T17:48:55Z"
 default_branch = "master"

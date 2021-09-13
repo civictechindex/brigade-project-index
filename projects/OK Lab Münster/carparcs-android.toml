@@ -4,6 +4,7 @@ name = "carparcs-android"
 organization_name = "OK Lab Münster"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-10-18T16:27:32Z"
 default_branch = "master"

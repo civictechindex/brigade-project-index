@@ -5,6 +5,7 @@ name = "microscale"
 organization_name = "OK Lab Münster"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-09-13T12:27:44Z"
 default_branch = "master"

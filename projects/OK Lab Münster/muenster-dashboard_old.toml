@@ -6,6 +6,7 @@ name = "muenster-dashboard_old"
 organization_name = "OK Lab Münster"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-02-21T15:21:58Z"
 default_branch = "master"
