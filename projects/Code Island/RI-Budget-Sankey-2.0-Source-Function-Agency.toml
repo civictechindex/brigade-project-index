@@ -5,6 +5,7 @@ name = "RI-Budget-Sankey-2.0-Source-Function-Agency"
 organization_name = "Code Island"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-04-06T22:50:39Z"
 default_branch = "master"

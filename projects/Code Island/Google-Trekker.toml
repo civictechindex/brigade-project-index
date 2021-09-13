@@ -5,6 +5,7 @@ name = "Google-Trekker"
 organization_name = "Code Island"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-11-19T02:00:33Z"
 default_branch = "master"

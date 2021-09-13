@@ -5,6 +5,7 @@ name = "makermap"
 organization_name = "Code Island"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-06-07T14:21:20Z"
 default_branch = "master"

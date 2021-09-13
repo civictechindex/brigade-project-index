@@ -5,6 +5,7 @@ name = "ReclaimRI"
 organization_name = "Code Island"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-12-17T01:22:17Z"
 default_branch = "master"

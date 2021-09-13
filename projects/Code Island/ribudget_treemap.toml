@@ -5,6 +5,7 @@ name = "ribudget_treemap"
 organization_name = "Code Island"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-09-15T20:55:11Z"
 default_branch = "master"

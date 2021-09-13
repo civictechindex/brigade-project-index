@@ -5,6 +5,7 @@ name = "healthy-homes"
 organization_name = "Code Island"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-10-09T13:47:12Z"
 default_branch = "master"

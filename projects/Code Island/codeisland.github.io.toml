@@ -5,6 +5,7 @@ name = "codeisland.github.io"
 organization_name = "Code Island"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-09-29T15:13:39Z"
 default_branch = "master"

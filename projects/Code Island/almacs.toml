@@ -5,6 +5,7 @@ name = "almacs"
 organization_name = "Code Island"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-05-23T19:01:25Z"
 default_branch = "master"

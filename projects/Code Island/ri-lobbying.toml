@@ -5,6 +5,7 @@ name = "ri-lobbying"
 organization_name = "Code Island"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2017-12-01T21:54:27Z"
 default_branch = "latest"
