@@ -4,6 +4,7 @@ name = "designAssets"
 organization_name = "Code for Japan"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-04-29T09:40:46Z"
 default_branch = "master"

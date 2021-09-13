@@ -5,6 +5,7 @@ name = "github-hands-on"
 organization_name = "Code for Japan"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2020-12-27T03:52:15Z"
 default_branch = "main"

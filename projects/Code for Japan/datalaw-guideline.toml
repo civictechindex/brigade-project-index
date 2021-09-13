@@ -5,6 +5,7 @@ name = "datalaw-guideline"
 organization_name = "Code for Japan"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2017-12-21T06:17:54Z"
 default_branch = "master"

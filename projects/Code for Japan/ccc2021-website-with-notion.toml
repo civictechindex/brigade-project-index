@@ -4,6 +4,7 @@ name = "ccc2021-website-with-notion"
 organization_name = "Code for Japan"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2021-04-18T07:29:26Z"
 default_branch = "main"

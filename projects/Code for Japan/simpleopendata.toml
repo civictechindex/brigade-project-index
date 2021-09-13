@@ -6,6 +6,7 @@ name = "simpleopendata"
 organization_name = "Code for Japan"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-02-16T12:31:06Z"
 default_branch = "gh-pages"

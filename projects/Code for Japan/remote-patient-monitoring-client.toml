@@ -6,6 +6,7 @@ name = "remote-patient-monitoring-client"
 organization_name = "Code for Japan"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2020-12-29T13:15:55Z"
 default_branch = "development"

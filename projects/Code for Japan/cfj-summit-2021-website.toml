@@ -4,6 +4,7 @@ name = "cfj-summit-2021-website"
 organization_name = "Code for Japan"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2021-01-16T10:30:52Z"
 default_branch = "default"

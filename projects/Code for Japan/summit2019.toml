@@ -5,6 +5,7 @@ name = "summit2019"
 organization_name = "Code for Japan"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2019-06-26T08:00:50Z"
 default_branch = "master"

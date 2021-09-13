@@ -5,6 +5,7 @@ name = "mynumbercard_statistics"
 organization_name = "Code for Japan"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2020-07-05T08:51:46Z"
 default_branch = "development"

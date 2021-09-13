@@ -5,6 +5,7 @@ name = "gspreadsheet-importer"
 organization_name = "Code for Japan"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2020-07-12T03:15:07Z"
 default_branch = "master"

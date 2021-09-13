@@ -4,6 +4,7 @@ name = "codeforjapan_fellow"
 organization_name = "Code for Japan"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2021-04-19T15:31:56Z"
 default_branch = "main"

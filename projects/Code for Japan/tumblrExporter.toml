@@ -5,6 +5,7 @@ name = "tumblrExporter"
 organization_name = "Code for Japan"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-05-06T05:08:27Z"
 default_branch = "master"

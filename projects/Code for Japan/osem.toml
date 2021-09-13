@@ -6,6 +6,7 @@ name = "osem"
 organization_name = "Code for Japan"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2018-03-27T00:34:37Z"
 default_branch = "master"

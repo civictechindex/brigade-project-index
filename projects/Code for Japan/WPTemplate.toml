@@ -5,6 +5,7 @@ name = "WPTemplate"
 organization_name = "Code for Japan"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-06-09T12:36:37Z"
 default_branch = "master"

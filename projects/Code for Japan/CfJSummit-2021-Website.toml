@@ -5,6 +5,7 @@ name = "CfJSummit-2021-Website"
 organization_name = "Code for Japan"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2021-05-30T07:31:46Z"
 default_branch = "main"

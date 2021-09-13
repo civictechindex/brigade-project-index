@@ -5,6 +5,7 @@ name = "regulations"
 organization_name = "Code for Japan"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-04-30T07:42:56Z"
 default_branch = "master"
