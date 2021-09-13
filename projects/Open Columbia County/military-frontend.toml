@@ -6,6 +6,7 @@ organization_name = "Open Columbia County"
 topics = [ "code-for-america", "open-columbia-county" ]
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2021-01-03T06:23:28Z"
 default_branch = "start-up"

@@ -5,6 +5,7 @@ name = "occ-django"
 organization_name = "Open Columbia County"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2021-07-01T10:41:51Z"
 default_branch = "main"
