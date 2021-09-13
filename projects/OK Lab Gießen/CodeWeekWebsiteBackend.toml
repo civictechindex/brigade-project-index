@@ -5,6 +5,7 @@ name = "CodeWeekWebsiteBackend"
 organization_name = "OK Lab Gießen"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-10-04T12:23:46Z"
 default_branch = "master"

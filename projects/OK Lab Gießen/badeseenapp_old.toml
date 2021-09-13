@@ -4,6 +4,7 @@ name = "badeseenapp_old"
 organization_name = "OK Lab Gießen"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-12-13T10:53:02Z"
 default_branch = "master"
