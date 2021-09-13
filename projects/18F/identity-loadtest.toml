@@ -5,6 +5,7 @@ name = "identity-loadtest"
 organization_name = "18F"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2020-03-24T18:34:02Z"
 default_branch = "main"

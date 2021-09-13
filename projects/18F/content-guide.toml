@@ -6,6 +6,7 @@ name = "content-guide"
 organization_name = "18F"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-07-01T18:26:02Z"
 default_branch = "18f-pages"

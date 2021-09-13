@@ -7,6 +7,7 @@ organization_name = "18F"
 topics = [ "tts-handbook" ]
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-09-30T18:46:31Z"
 default_branch = "main"

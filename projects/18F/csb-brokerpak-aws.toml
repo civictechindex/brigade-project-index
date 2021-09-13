@@ -4,6 +4,7 @@ name = "csb-brokerpak-aws"
 organization_name = "18F"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2021-02-12T22:36:13Z"
 default_branch = "main"

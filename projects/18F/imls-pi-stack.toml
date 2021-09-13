@@ -4,6 +4,7 @@ name = "imls-pi-stack"
 organization_name = "18F"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2021-07-19T19:51:34Z"
 default_branch = "main"

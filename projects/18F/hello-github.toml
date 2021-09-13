@@ -5,6 +5,7 @@ name = "hello-github"
 organization_name = "18F"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2021-08-09T23:35:40Z"
 default_branch = "main"

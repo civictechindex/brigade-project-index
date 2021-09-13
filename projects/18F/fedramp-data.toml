@@ -5,6 +5,7 @@ name = "fedramp-data"
 organization_name = "18F"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-02-03T22:59:13Z"
 default_branch = "master"

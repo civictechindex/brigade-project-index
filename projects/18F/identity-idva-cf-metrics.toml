@@ -5,6 +5,7 @@ name = "identity-idva-cf-metrics"
 organization_name = "18F"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2021-05-28T15:46:00Z"
 default_branch = "main"

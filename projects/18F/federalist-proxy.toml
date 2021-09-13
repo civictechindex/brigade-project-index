@@ -6,6 +6,7 @@ organization_name = "18F"
 topics = [ "federalist", "federalistapp" ]
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2017-01-25T22:57:09Z"
 default_branch = "staging"

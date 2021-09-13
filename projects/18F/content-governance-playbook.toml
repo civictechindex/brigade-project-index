@@ -4,6 +4,7 @@ name = "content-governance-playbook"
 organization_name = "18F"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2021-02-26T17:33:55Z"
 default_branch = "main"

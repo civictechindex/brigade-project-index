@@ -4,6 +4,7 @@ name = "hud-erm-ide-custom-api"
 organization_name = "18F"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2020-11-18T22:01:12Z"
 default_branch = "develop"

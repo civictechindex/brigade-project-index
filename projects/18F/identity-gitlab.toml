@@ -4,6 +4,7 @@ name = "identity-gitlab"
 organization_name = "18F"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2021-04-06T19:24:34Z"
 default_branch = "main"

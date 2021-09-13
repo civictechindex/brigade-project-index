@@ -6,6 +6,7 @@ name = "fedramp-automation"
 organization_name = "18F"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2020-10-23T17:24:09Z"
 default_branch = "develop"

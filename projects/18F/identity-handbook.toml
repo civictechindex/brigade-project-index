@@ -5,6 +5,7 @@ name = "identity-handbook"
 organization_name = "18F"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2020-08-18T17:22:15Z"
 default_branch = "main"

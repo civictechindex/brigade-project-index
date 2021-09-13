@@ -5,6 +5,7 @@ name = "nasa-sbir-fake-data"
 organization_name = "18F"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2021-02-12T22:33:21Z"
 default_branch = "main"

@@ -5,6 +5,7 @@ name = "identity-telephony"
 organization_name = "18F"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2019-08-06T20:58:36Z"
 default_branch = "main"

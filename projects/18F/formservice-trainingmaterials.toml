@@ -5,6 +5,7 @@ name = "formservice-trainingmaterials"
 organization_name = "18F"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2021-01-29T14:27:53Z"
 default_branch = "develop"

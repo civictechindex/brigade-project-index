@@ -6,6 +6,7 @@ organization_name = "18F"
 topics = [ "maintained" ]
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-09-18T12:23:35Z"
 default_branch = "main"

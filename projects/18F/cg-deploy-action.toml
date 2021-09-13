@@ -5,6 +5,7 @@ name = "cg-deploy-action"
 organization_name = "18F"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2021-08-10T18:07:04Z"
 default_branch = "main"

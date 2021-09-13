@@ -5,6 +5,7 @@ name = "agile-labor-categories"
 organization_name = "18F"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-02-18T16:43:13Z"
 default_branch = "gh-pages"

@@ -4,6 +4,7 @@ name = "ao-courts-ei-frontend"
 organization_name = "18F"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2021-07-30T15:25:30Z"
 default_branch = "main"
