@@ -5,6 +5,7 @@ name = "codeforcanada.org"
 organization_name = "Code for Vancouver"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2013-01-11T16:38:15Z"
 default_branch = "master"

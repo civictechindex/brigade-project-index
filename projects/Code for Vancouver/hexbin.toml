@@ -6,6 +6,7 @@ name = "hexbin"
 organization_name = "Code for Vancouver"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-03-25T14:37:55Z"
 default_branch = "gh-pages"
