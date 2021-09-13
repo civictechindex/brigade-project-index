@@ -5,6 +5,7 @@ name = "SupportSystem"
 organization_name = "Code for PDX"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2021-03-09T02:10:00Z"
 default_branch = "main"

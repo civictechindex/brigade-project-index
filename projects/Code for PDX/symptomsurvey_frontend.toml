@@ -5,6 +5,7 @@ name = "symptomsurvey_frontend"
 organization_name = "Code for PDX"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2018-10-14T19:21:00Z"
 default_branch = "master"

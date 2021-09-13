@@ -6,6 +6,7 @@ name = "food-oasis"
 organization_name = "Code for PDX"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2021-03-26T01:52:49Z"
 default_branch = "develop"
