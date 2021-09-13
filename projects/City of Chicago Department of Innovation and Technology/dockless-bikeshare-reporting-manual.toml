@@ -5,6 +5,7 @@ name = "dockless-bikeshare-reporting-manual"
 organization_name = "City of Chicago Department of Innovation and Technology"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2018-05-01T17:06:12Z"
 default_branch = "gh-pages"

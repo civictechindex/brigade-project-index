@@ -6,6 +6,7 @@ name = "design.chicago.gov"
 organization_name = "City of Chicago Department of Innovation and Technology"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2018-01-19T16:56:09Z"
 default_branch = "master"

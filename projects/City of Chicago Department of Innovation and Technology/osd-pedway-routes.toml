@@ -6,6 +6,7 @@ organization_name = "City of Chicago Department of Innovation and Technology"
 topics = [ "chicago", "geojson-data", "government", "open-data" ]
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2013-02-07T03:40:15Z"
 default_branch = "master"

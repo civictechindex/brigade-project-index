@@ -5,6 +5,7 @@ name = "predicting-e-coli-concentrations"
 organization_name = "City of Chicago Department of Innovation and Technology"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2017-08-31T09:28:06Z"
 default_branch = "master"

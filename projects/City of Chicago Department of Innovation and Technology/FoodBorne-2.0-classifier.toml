@@ -4,6 +4,7 @@ name = "FoodBorne-2.0-classifier"
 organization_name = "City of Chicago Department of Innovation and Technology"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-01-16T00:22:16Z"
 default_branch = "master"

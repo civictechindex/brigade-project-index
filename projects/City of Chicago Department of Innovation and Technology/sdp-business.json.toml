@@ -5,6 +5,7 @@ name = "sdp-business.json"
 organization_name = "City of Chicago Department of Innovation and Technology"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-12-27T22:54:43Z"
 default_branch = "master"

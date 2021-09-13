@@ -6,6 +6,7 @@ organization_name = "City of Chicago Department of Innovation and Technology"
 topics = [ "chicago", "r", "rmarkdown" ]
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-12-13T21:38:05Z"
 default_branch = "master"
