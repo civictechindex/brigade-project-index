@@ -5,6 +5,7 @@ name = "manual"
 organization_name = "Codeando México"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2020-05-26T03:27:02Z"
 default_branch = "master"

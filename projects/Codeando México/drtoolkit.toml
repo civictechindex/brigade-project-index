@@ -7,6 +7,7 @@ organization_name = "Codeando México"
 topics = [ "civic-hacking", "civic-tech", "open-source" ]
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2018-07-30T14:24:35Z"
 default_branch = "master"

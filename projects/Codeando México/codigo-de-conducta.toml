@@ -4,6 +4,7 @@ name = "codigo-de-conducta"
 organization_name = "Codeando México"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-11-07T06:18:05Z"
 default_branch = "master"

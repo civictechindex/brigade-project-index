@@ -5,6 +5,7 @@ name = "codeandomexico"
 organization_name = "Codeando México"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2018-05-23T17:40:37Z"
 default_branch = "master"

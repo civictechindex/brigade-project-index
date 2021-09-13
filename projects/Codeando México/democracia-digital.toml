@@ -5,6 +5,7 @@ name = "democracia-digital"
 organization_name = "Codeando México"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2017-05-30T23:01:58Z"
 default_branch = "master"

@@ -7,6 +7,7 @@ organization_name = "Codeando México"
 topics = [ "covid-19", "directory", "mexico", "open-data" ]
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2020-05-15T22:37:42Z"
 default_branch = "master"

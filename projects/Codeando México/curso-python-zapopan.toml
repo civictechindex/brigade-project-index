@@ -6,6 +6,7 @@ name = "curso-python-zapopan"
 organization_name = "Codeando México"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2020-02-29T18:33:07Z"
 default_branch = "master"

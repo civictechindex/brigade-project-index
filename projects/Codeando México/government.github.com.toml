@@ -6,6 +6,7 @@ name = "government.github.com"
 organization_name = "Codeando México"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2013-10-16T22:25:18Z"
 default_branch = "gh-pages"

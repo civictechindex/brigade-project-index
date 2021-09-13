@@ -4,6 +4,7 @@ name = "guia-datos-abiertos-legislativos"
 organization_name = "Codeando México"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2021-05-26T02:43:19Z"
 default_branch = "main"

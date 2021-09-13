@@ -4,6 +4,7 @@ name = "mexico-creativo"
 organization_name = "Codeando México"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2020-11-18T16:23:15Z"
 default_branch = "main"

@@ -5,6 +5,7 @@ name = "staticpages-datamx"
 organization_name = "Codeando México"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-10-27T17:45:46Z"
 default_branch = "master"

@@ -5,6 +5,7 @@ name = "datamx-frontend"
 organization_name = "Codeando México"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-02-04T20:12:09Z"
 default_branch = "master"

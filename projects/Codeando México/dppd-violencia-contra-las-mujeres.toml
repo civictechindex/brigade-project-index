@@ -5,6 +5,7 @@ name = "dppd-violencia-contra-las-mujeres"
 organization_name = "Codeando México"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2021-02-02T23:35:20Z"
 default_branch = "main"
