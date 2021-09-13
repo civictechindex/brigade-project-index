@@ -6,6 +6,7 @@ name = "OpenDataDe.github.io"
 organization_name = "Open Data Delaware"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-09-08T18:15:55Z"
 default_branch = "master"

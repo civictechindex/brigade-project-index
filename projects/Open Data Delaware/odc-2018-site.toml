@@ -5,6 +5,7 @@ name = "odc-2018-site"
 organization_name = "Open Data Delaware"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2018-12-12T02:38:11Z"
 default_branch = "master"

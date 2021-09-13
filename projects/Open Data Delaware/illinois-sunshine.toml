@@ -6,6 +6,7 @@ name = "illinois-sunshine"
 organization_name = "Open Data Delaware"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2017-01-17T21:29:59Z"
 default_branch = "master"

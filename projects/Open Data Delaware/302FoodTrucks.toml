@@ -5,6 +5,7 @@ name = "302FoodTrucks"
 organization_name = "Open Data Delaware"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-11-23T17:09:02Z"
 default_branch = "master"

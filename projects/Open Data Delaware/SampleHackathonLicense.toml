@@ -5,6 +5,7 @@ name = "SampleHackathonLicense"
 organization_name = "Open Data Delaware"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2017-06-04T16:01:39Z"
 default_branch = "master"

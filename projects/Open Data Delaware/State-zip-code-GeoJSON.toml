@@ -5,6 +5,7 @@ name = "State-zip-code-GeoJSON"
 organization_name = "Open Data Delaware"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-10-29T18:13:28Z"
 default_branch = "master"

@@ -5,6 +5,7 @@ name = "networkde"
 organization_name = "Open Data Delaware"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2017-06-05T13:48:32Z"
 default_branch = "master"

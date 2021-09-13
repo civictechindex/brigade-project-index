@@ -5,6 +5,7 @@ name = "DE-gov-bugs"
 organization_name = "Open Data Delaware"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-09-16T01:35:15Z"
 default_branch = "master"

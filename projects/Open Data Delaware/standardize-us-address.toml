@@ -5,6 +5,7 @@ name = "standardize-us-address"
 organization_name = "Open Data Delaware"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-10-14T18:12:46Z"
 default_branch = "master"

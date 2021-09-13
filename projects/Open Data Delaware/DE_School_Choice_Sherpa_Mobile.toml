@@ -4,6 +4,7 @@ name = "DE_School_Choice_Sherpa_Mobile"
 organization_name = "Open Data Delaware"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2018-11-15T00:11:51Z"
 default_branch = "master"

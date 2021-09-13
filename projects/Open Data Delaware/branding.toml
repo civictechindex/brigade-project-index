@@ -5,6 +5,7 @@ name = "branding"
 organization_name = "Open Data Delaware"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2019-06-22T15:34:19Z"
 default_branch = "master"

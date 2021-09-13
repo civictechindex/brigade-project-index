@@ -4,6 +4,7 @@ name = "FBI-Unified-Crime-Data-Scraper"
 organization_name = "Open Data Delaware"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-08-09T20:52:44Z"
 default_branch = "master"

@@ -4,6 +4,7 @@ name = "maps"
 organization_name = "Open Data Delaware"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2018-06-07T18:25:23Z"
 default_branch = "master"
