@@ -4,6 +4,7 @@ name = "koop-hsds-provider"
 organization_name = "Code for BTV"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2020-11-20T21:31:36Z"
 default_branch = "main"

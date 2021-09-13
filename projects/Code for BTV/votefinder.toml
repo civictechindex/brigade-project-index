@@ -4,6 +4,7 @@ name = "votefinder"
 organization_name = "Code for BTV"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-01-11T20:05:59Z"
 default_branch = "master"

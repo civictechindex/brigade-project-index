@@ -5,6 +5,7 @@ organization_name = "Code for BTV"
 topics = [ "geospatial" ]
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-02-23T20:44:12Z"
 default_branch = "gh-pages"

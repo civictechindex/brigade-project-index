@@ -5,6 +5,7 @@ name = "ndoch2k18_vrsc"
 organization_name = "Code for BTV"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2018-08-11T05:04:25Z"
 default_branch = "master"

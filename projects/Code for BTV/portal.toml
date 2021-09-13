@@ -5,6 +5,7 @@ name = "portal"
 organization_name = "Code for BTV"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2020-11-30T06:09:31Z"
 default_branch = "master"

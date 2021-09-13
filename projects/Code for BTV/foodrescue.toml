@@ -4,6 +4,7 @@ name = "foodrescue"
 organization_name = "Code for BTV"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-05-31T17:03:18Z"
 default_branch = "master"

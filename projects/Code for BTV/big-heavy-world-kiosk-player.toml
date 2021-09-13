@@ -4,6 +4,7 @@ name = "big-heavy-world-kiosk-player"
 organization_name = "Code for BTV"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2019-04-03T13:59:09Z"
 default_branch = "master"

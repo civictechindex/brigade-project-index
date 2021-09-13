@@ -5,6 +5,7 @@ name = "lakebrite-temp-viz"
 organization_name = "Code for BTV"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-06-07T18:19:10Z"
 default_branch = "master"
