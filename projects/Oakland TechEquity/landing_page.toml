@@ -5,6 +5,7 @@ name = "landing_page"
 organization_name = "Oakland TechEquity"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-11-14T02:34:40Z"
 default_branch = "develop"

@@ -5,6 +5,7 @@ name = "CoC"
 organization_name = "Oakland TechEquity"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-11-14T01:09:21Z"
 default_branch = "master"
