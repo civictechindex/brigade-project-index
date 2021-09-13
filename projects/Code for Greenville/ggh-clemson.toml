@@ -5,6 +5,7 @@ name = "ggh-clemson"
 organization_name = "Code for Greenville"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2017-11-02T19:02:39Z"
 default_branch = "master"

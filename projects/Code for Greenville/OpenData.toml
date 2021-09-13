@@ -5,6 +5,7 @@ name = "OpenData"
 organization_name = "Code for Greenville"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-06-29T15:02:24Z"
 default_branch = "master"

@@ -5,6 +5,7 @@ name = "public-art"
 organization_name = "Code for Greenville"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2018-06-28T11:45:48Z"
 default_branch = "master"

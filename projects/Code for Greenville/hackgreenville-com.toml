@@ -6,6 +6,7 @@ name = "hackgreenville-com"
 organization_name = "Code for Greenville"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2018-07-09T20:48:21Z"
 default_branch = "develop"

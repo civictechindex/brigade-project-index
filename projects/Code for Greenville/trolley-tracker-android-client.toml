@@ -5,6 +5,7 @@ name = "trolley-tracker-android-client"
 organization_name = "Code for Greenville"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-08-24T00:11:12Z"
 default_branch = "master"
