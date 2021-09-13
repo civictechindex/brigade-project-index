@@ -5,6 +5,7 @@ name = "ptonWalk"
 organization_name = "Code for Princeton"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-06-05T18:34:58Z"
 default_branch = "master"

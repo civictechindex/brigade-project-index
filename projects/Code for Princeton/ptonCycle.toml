@@ -5,6 +5,7 @@ name = "ptonCycle"
 organization_name = "Code for Princeton"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-06-05T23:08:32Z"
 default_branch = "master"

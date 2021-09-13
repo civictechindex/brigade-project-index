@@ -5,6 +5,7 @@ name = "savePets"
 organization_name = "Code for Princeton"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-05-11T04:29:48Z"
 default_branch = "master"

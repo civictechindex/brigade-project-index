@@ -5,6 +5,7 @@ name = "ptonAffordableHousing"
 organization_name = "Code for Princeton"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-06-25T23:56:46Z"
 default_branch = "master"

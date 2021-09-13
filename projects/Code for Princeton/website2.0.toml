@@ -5,6 +5,7 @@ name = "website2.0"
 organization_name = "Code for Princeton"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2017-09-18T18:07:12Z"
 default_branch = "master"

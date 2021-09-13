@@ -5,6 +5,7 @@ name = "SelfSegregation"
 organization_name = "Code for Princeton"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-10-23T15:48:45Z"
 default_branch = "master"

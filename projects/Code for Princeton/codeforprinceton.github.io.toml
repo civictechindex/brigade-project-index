@@ -6,6 +6,7 @@ name = "codeforprinceton.github.io"
 organization_name = "Code for Princeton"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-05-01T00:40:55Z"
 default_branch = "master"

@@ -5,6 +5,7 @@ name = "pwa_test"
 organization_name = "Code for Princeton"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2017-11-15T00:50:00Z"
 default_branch = "master"

@@ -5,6 +5,7 @@ name = "jquery"
 organization_name = "Code for Princeton"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2017-08-06T15:22:06Z"
 default_branch = "master"

@@ -5,6 +5,7 @@ name = "ash_tree_project"
 organization_name = "Code for Princeton"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2017-10-21T15:59:29Z"
 default_branch = "master"

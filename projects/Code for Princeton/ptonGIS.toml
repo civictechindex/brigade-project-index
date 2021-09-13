@@ -5,6 +5,7 @@ name = "ptonGIS"
 organization_name = "Code for Princeton"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-05-11T04:23:23Z"
 default_branch = "master"

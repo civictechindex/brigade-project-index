@@ -5,6 +5,7 @@ name = "nitwit"
 organization_name = "Code for Princeton"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-08-13T00:06:35Z"
 default_branch = "master"

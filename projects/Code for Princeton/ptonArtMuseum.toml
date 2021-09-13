@@ -5,6 +5,7 @@ name = "ptonArtMuseum"
 organization_name = "Code for Princeton"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-06-03T05:14:36Z"
 default_branch = "master"

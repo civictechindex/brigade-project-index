@@ -6,6 +6,7 @@ name = "codeforprinceton-projects-list"
 organization_name = "Code for Princeton"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-08-28T12:00:48Z"
 default_branch = "master"

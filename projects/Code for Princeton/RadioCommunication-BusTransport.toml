@@ -4,6 +4,7 @@ name = "RadioCommunication-BusTransport"
 organization_name = "Code for Princeton"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-02-27T17:26:10Z"
 default_branch = "master"

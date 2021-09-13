@@ -6,6 +6,7 @@ name = "hackathon_jun_15"
 organization_name = "Code for Princeton"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-04-29T18:47:24Z"
 default_branch = "master"
