@@ -5,6 +5,7 @@ name = "metadata_viewer"
 organization_name = "Data SF"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-12-31T06:28:26Z"
 default_branch = "master"

@@ -5,6 +5,7 @@ name = "data-ferry"
 organization_name = "Data SF"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2020-01-28T20:38:52Z"
 default_branch = "master"

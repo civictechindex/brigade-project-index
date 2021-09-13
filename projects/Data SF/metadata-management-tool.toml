@@ -5,6 +5,7 @@ name = "metadata-management-tool"
 organization_name = "Data SF"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-10-07T22:20:18Z"
 default_branch = "master"

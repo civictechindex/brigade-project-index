@@ -5,6 +5,7 @@ name = "privacy-review-crosstabs"
 organization_name = "Data SF"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-09-19T22:13:03Z"
 default_branch = "master"

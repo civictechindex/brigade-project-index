@@ -5,6 +5,7 @@ name = "data-hub-starter"
 organization_name = "Data SF"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-12-01T22:58:31Z"
 default_branch = "master"

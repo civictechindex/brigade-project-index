@@ -6,6 +6,7 @@ name = "draft-publishing-standards"
 organization_name = "Data SF"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-05-16T18:31:02Z"
 default_branch = "master"

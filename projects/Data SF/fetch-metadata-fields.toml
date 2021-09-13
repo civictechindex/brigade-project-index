@@ -5,6 +5,7 @@ name = "fetch-metadata-fields"
 organization_name = "Data SF"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-12-21T18:01:11Z"
 default_branch = "master"

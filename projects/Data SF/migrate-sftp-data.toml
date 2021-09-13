@@ -6,6 +6,7 @@ organization_name = "Data SF"
 topics = [ "etl", "extract", "load" ]
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2017-09-27T00:11:28Z"
 default_branch = "master"

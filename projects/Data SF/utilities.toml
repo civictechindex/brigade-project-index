@@ -5,6 +5,7 @@ name = "utilities"
 organization_name = "Data SF"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-11-21T00:43:55Z"
 default_branch = "master"

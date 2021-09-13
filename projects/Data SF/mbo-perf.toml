@@ -4,6 +4,7 @@ name = "mbo-perf"
 organization_name = "Data SF"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2017-10-12T17:04:31Z"
 default_branch = "master"

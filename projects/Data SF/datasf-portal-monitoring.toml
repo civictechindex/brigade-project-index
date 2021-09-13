@@ -5,6 +5,7 @@ name = "datasf-portal-monitoring"
 organization_name = "Data SF"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2017-10-26T04:40:49Z"
 default_branch = "master"
