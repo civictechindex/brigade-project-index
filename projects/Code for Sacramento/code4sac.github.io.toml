@@ -4,6 +4,7 @@ name = "code4sac.github.io"
 organization_name = "Code for Sacramento"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-03-17T04:08:44Z"
 default_branch = "master"

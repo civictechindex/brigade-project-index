@@ -6,6 +6,7 @@ name = "wicit"
 organization_name = "Code for Sacramento"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-07-30T23:49:10Z"
 default_branch = "master"

@@ -6,6 +6,7 @@ name = "openbudgetsac.org"
 organization_name = "Code for Sacramento"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-09-24T00:23:21Z"
 default_branch = "gh-pages"

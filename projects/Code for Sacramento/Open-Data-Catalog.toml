@@ -6,6 +6,7 @@ name = "Open-Data-Catalog"
 organization_name = "Code for Sacramento"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2013-12-07T17:42:39Z"
 default_branch = "master"

@@ -6,6 +6,7 @@ name = "handbook"
 organization_name = "Code for Sacramento"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-09-04T18:07:56Z"
 default_branch = "gh-pages"

@@ -5,6 +5,7 @@ name = "councilmatic-stack"
 organization_name = "Code for Sacramento"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2019-06-20T02:28:36Z"
 default_branch = "master"

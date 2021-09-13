@@ -5,6 +5,7 @@ name = "SacCares"
 organization_name = "Code for Sacramento"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-08-28T05:25:15Z"
 default_branch = "master"

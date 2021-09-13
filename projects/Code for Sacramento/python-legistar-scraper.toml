@@ -5,6 +5,7 @@ name = "python-legistar-scraper"
 organization_name = "Code for Sacramento"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2017-09-23T18:52:19Z"
 default_branch = "master"

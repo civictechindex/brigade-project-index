@@ -5,6 +5,7 @@ name = "open-budget"
 organization_name = "Code for Sacramento"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2013-11-03T14:30:58Z"
 default_branch = "master"

@@ -6,6 +6,7 @@ name = "angular-leaflet-directive"
 organization_name = "Code for Sacramento"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-08-14T21:15:29Z"
 default_branch = "master"

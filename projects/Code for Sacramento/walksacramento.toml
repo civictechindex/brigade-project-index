@@ -4,6 +4,7 @@ name = "walksacramento"
 organization_name = "Code for Sacramento"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2017-03-29T22:53:06Z"
 default_branch = "master"

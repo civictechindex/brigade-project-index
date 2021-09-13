@@ -6,6 +6,7 @@ name = "ndoch.codeforsacramento.org"
 organization_name = "Code for Sacramento"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-06-02T01:22:06Z"
 default_branch = "gh-pages"

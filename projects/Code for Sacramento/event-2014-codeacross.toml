@@ -5,6 +5,7 @@ name = "event-2014-codeacross"
 organization_name = "Code for Sacramento"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-02-10T05:07:51Z"
 default_branch = "gh-pages"

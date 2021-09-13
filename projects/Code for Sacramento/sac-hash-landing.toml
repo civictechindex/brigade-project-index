@@ -5,6 +5,7 @@ name = "sac-hash-landing"
 organization_name = "Code for Sacramento"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2013-11-14T03:18:19Z"
 default_branch = "master"

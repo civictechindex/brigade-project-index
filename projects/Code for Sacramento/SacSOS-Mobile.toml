@@ -5,6 +5,7 @@ name = "SacSOS-Mobile"
 organization_name = "Code for Sacramento"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2017-03-04T21:28:18Z"
 default_branch = "master"

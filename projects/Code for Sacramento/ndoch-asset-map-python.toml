@@ -4,6 +4,7 @@ name = "ndoch-asset-map-python"
 organization_name = "Code for Sacramento"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2020-08-27T02:19:02Z"
 default_branch = "master"

@@ -6,6 +6,7 @@ name = "asthmastoryca.org"
 organization_name = "Code for Sacramento"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-09-16T18:01:48Z"
 default_branch = "master"

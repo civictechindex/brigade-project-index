@@ -5,6 +5,7 @@ name = "wp-brigade-widgets"
 organization_name = "Code for Sacramento"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2013-10-19T21:25:01Z"
 default_branch = "master"

@@ -4,6 +4,7 @@ name = "data-trees"
 organization_name = "Code for Sacramento"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-02-22T20:31:27Z"
 default_branch = "master"

@@ -5,6 +5,7 @@ name = "city-data-portal-conversion"
 organization_name = "Code for Sacramento"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-01-16T13:47:23Z"
 default_branch = "master"

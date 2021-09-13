@@ -5,6 +5,7 @@ name = "SacSOS"
 organization_name = "Code for Sacramento"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2017-03-04T21:47:19Z"
 default_branch = "master"

@@ -6,6 +6,7 @@ name = "sac2050"
 organization_name = "Code for Sacramento"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-11-03T19:09:01Z"
 default_branch = "gh-pages"

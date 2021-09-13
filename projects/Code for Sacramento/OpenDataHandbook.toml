@@ -6,6 +6,7 @@ name = "OpenDataHandbook"
 organization_name = "Code for Sacramento"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-02-08T18:27:06Z"
 default_branch = "gh-pages"

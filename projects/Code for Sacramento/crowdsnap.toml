@@ -4,6 +4,7 @@ name = "crowdsnap"
 organization_name = "Code for Sacramento"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2013-07-14T21:46:35Z"
 default_branch = "master"

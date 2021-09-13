@@ -4,6 +4,7 @@ name = "data-human-services"
 organization_name = "Code for Sacramento"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-02-23T01:52:10Z"
 default_branch = "master"

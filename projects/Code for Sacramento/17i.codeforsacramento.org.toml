@@ -6,6 +6,7 @@ name = "17i.codeforsacramento.org"
 organization_name = "Code for Sacramento"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-10-16T20:30:28Z"
 default_branch = "gh-pages"

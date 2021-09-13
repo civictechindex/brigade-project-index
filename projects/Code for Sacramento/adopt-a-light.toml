@@ -5,6 +5,7 @@ name = "adopt-a-light"
 organization_name = "Code for Sacramento"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2013-06-30T13:22:41Z"
 default_branch = "master"

@@ -5,6 +5,7 @@ name = "scout"
 organization_name = "Code for Sacramento"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-02-22T02:17:31Z"
 default_branch = "master"

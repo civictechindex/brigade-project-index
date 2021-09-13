@@ -5,6 +5,7 @@ name = "scrapers-us-municipal"
 organization_name = "Code for Sacramento"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2017-09-06T02:35:31Z"
 default_branch = "master"

@@ -6,6 +6,7 @@ name = "citycamp.github.io"
 organization_name = "Code for Sacramento"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-12-18T01:32:44Z"
 default_branch = "master"
