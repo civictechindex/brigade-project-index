@@ -6,6 +6,7 @@ name = "codeofconduct"
 organization_name = "Open Cleveland"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-01-23T01:18:34Z"
 default_branch = "master"

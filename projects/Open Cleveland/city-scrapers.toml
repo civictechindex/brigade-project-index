@@ -6,6 +6,7 @@ name = "city-scrapers"
 organization_name = "Open Cleveland"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2019-01-09T14:32:01Z"
 default_branch = "master"

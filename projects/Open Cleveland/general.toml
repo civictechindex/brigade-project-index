@@ -5,6 +5,7 @@ name = "general"
 organization_name = "Open Cleveland"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-11-07T14:26:24Z"
 default_branch = "master"

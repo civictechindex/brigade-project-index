@@ -6,6 +6,7 @@ organization_name = "Open Cleveland"
 topics = [ "cleveland", "legislation", "ohio" ]
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-01-22T22:47:37Z"
 default_branch = "master"
