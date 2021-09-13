@@ -5,6 +5,7 @@ name = "civic_tech_resources"
 organization_name = "Code for Boston"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-04-27T16:30:38Z"
 default_branch = "master"

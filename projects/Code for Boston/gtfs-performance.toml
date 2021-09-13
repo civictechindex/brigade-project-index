@@ -4,6 +4,7 @@ name = "gtfs-performance"
 organization_name = "Code for Boston"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-10-19T14:38:02Z"
 default_branch = "master"

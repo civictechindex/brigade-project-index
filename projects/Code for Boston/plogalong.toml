@@ -4,6 +4,7 @@ name = "plogalong"
 organization_name = "Code for Boston"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2019-02-27T01:43:09Z"
 default_branch = "develop"

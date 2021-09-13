@@ -5,6 +5,7 @@ name = "ndoch2019-twilio"
 organization_name = "Code for Boston"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2019-09-23T18:55:37Z"
 default_branch = "master"

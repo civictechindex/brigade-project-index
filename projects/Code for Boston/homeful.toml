@@ -5,6 +5,7 @@ name = "homeful"
 organization_name = "Code for Boston"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-05-31T04:23:21Z"
 default_branch = "master"

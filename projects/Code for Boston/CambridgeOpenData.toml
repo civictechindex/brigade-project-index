@@ -4,6 +4,7 @@ name = "CambridgeOpenData"
 organization_name = "Code for Boston"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2013-07-18T18:13:44Z"
 default_branch = "master"

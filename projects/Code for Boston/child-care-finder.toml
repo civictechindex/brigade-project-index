@@ -6,6 +6,7 @@ name = "child-care-finder"
 organization_name = "Code for Boston"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-12-11T15:01:41Z"
 default_branch = "gh-pages"

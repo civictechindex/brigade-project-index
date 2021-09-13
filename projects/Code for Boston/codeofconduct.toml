@@ -5,6 +5,7 @@ name = "codeofconduct"
 organization_name = "Code for Boston"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-12-30T23:39:46Z"
 default_branch = "master"

@@ -5,6 +5,7 @@ name = "dudley_late"
 organization_name = "Code for Boston"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-03-06T15:32:05Z"
 default_branch = "master"

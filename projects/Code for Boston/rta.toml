@@ -4,6 +4,7 @@ name = "rta"
 organization_name = "Code for Boston"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2013-08-06T21:22:39Z"
 default_branch = "master"

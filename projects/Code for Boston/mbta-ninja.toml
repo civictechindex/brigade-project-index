@@ -6,6 +6,7 @@ name = "mbta-ninja"
 organization_name = "Code for Boston"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-02-21T19:42:56Z"
 default_branch = "master"

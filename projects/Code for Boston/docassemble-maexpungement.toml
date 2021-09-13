@@ -4,6 +4,7 @@ name = "docassemble-maexpungement"
 organization_name = "Code for Boston"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2020-05-06T01:08:49Z"
 default_branch = "master"

@@ -4,6 +4,7 @@ name = "legalhousing"
 organization_name = "Code for Boston"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2017-01-04T02:01:56Z"
 default_branch = "master"

@@ -5,6 +5,7 @@ name = "bostonflushots"
 organization_name = "Code for Boston"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2013-01-10T20:04:00Z"
 default_branch = "master"

@@ -5,6 +5,7 @@ name = "cob_data_portal"
 organization_name = "Code for Boston"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2013-02-10T02:36:18Z"
 default_branch = "master"

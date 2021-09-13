@@ -5,6 +5,7 @@ name = "flagging"
 organization_name = "Code for Boston"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2020-05-06T01:15:14Z"
 default_branch = "main"

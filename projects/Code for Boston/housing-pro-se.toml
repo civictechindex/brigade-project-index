@@ -4,6 +4,7 @@ name = "housing-pro-se"
 organization_name = "Code for Boston"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-06-05T15:13:29Z"
 default_branch = "master"

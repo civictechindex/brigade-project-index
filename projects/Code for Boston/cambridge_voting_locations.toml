@@ -6,6 +6,7 @@ name = "cambridge_voting_locations"
 organization_name = "Code for Boston"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2013-08-14T02:00:19Z"
 default_branch = "master"

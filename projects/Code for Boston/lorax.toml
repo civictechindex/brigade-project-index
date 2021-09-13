@@ -5,6 +5,7 @@ name = "lorax"
 organization_name = "Code for Boston"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-01-16T14:44:59Z"
 default_branch = "master"

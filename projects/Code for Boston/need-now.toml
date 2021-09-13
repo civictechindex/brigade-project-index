@@ -6,6 +6,7 @@ name = "need-now"
 organization_name = "Code for Boston"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-06-06T14:48:24Z"
 default_branch = "master"

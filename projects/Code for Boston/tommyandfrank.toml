@@ -4,6 +4,7 @@ name = "tommyandfrank"
 organization_name = "Code for Boston"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-03-05T20:33:20Z"
 default_branch = "master"

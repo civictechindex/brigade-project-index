@@ -5,6 +5,7 @@ name = "Snope_API"
 organization_name = "Code for Boston"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-11-21T19:26:32Z"
 default_branch = "master"

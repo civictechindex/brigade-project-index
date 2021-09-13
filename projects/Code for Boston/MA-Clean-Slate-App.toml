@@ -4,6 +4,7 @@ name = "MA-Clean-Slate-App"
 organization_name = "Code for Boston"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2021-08-17T20:28:12Z"
 default_branch = "main"

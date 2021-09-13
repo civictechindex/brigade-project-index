@@ -5,6 +5,7 @@ organization_name = "Code for Boston"
 topics = [ "code-for-america", "code-for-boston", "health-resource" ]
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2018-08-15T00:18:10Z"
 default_branch = "development"

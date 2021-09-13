@@ -5,6 +5,7 @@ name = "jobhopper"
 organization_name = "Code for Boston"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2020-03-16T21:46:59Z"
 default_branch = "develop"

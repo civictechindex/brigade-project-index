@@ -5,6 +5,7 @@ name = "brigade_website"
 organization_name = "Code for Boston"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2013-08-14T19:25:38Z"
 default_branch = "master"

@@ -5,6 +5,7 @@ name = "volunteer-matching"
 organization_name = "Code for Boston"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2020-03-31T15:07:10Z"
 default_branch = "master"

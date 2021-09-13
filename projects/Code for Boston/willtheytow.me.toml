@@ -6,6 +6,7 @@ name = "willtheytow.me"
 organization_name = "Code for Boston"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-02-05T01:49:30Z"
 default_branch = "master"

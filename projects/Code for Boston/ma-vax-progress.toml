@@ -4,6 +4,7 @@ name = "ma-vax-progress"
 organization_name = "Code for Boston"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2021-03-16T19:02:20Z"
 default_branch = "main"

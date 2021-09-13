@@ -4,6 +4,7 @@ name = "cfb-hack-night-form-fill"
 organization_name = "Code for Boston"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2019-08-27T21:39:37Z"
 default_branch = "master"

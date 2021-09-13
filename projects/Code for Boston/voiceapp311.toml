@@ -6,6 +6,7 @@ organization_name = "Code for Boston"
 topics = [ "alexa", "code-for-america", "code-for-boston", "trash" ]
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2017-09-23T15:36:56Z"
 default_branch = "master"

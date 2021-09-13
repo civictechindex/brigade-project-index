@@ -6,6 +6,7 @@ name = "in-person-event-handbook"
 organization_name = "Code for Boston"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-05-06T00:41:56Z"
 default_branch = "master"

@@ -5,6 +5,7 @@ name = "finda_pantry"
 organization_name = "Code for Boston"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-03-23T00:52:40Z"
 default_branch = "gh-pages"

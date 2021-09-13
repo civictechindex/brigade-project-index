@@ -4,6 +4,7 @@ name = "cfb-probation"
 organization_name = "Code for Boston"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-03-05T22:27:22Z"
 default_branch = "master"

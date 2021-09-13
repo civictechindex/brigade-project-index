@@ -5,6 +5,7 @@ name = "cambridge_voting_qr_reader"
 organization_name = "Code for Boston"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-08-31T01:26:23Z"
 default_branch = "master"
