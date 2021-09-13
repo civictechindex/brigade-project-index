@@ -5,6 +5,7 @@ name = "wp-amplify-legislator-database"
 organization_name = "Code for Connecticut"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2019-10-16T00:30:45Z"
 default_branch = "master"

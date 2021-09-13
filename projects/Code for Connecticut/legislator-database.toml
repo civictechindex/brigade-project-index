@@ -4,6 +4,7 @@ name = "legislator-database"
 organization_name = "Code for Connecticut"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2020-03-02T13:37:47Z"
 default_branch = "master"

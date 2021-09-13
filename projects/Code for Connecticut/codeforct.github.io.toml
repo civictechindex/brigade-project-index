@@ -5,6 +5,7 @@ name = "codeforct.github.io"
 organization_name = "Code for Connecticut"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2019-10-10T22:45:58Z"
 default_branch = "master"

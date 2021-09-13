@@ -5,6 +5,7 @@ name = "green-up-app"
 organization_name = "Code for Connecticut"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2019-07-25T16:49:31Z"
 default_branch = "master"
