@@ -4,6 +4,7 @@ name = "foundationtw"
 organization_name = "g0v.tw"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-10-15T17:19:42Z"
 default_branch = "master"

@@ -4,6 +4,7 @@ name = "crowdfunding-ref1-gitbook"
 organization_name = "g0v.tw"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-03-18T10:18:12Z"
 default_branch = "master"

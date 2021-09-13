@@ -4,6 +4,7 @@ name = "twlyreader-prototype"
 organization_name = "g0v.tw"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2012-11-30T18:03:53Z"
 default_branch = "master"

@@ -6,6 +6,7 @@ name = "POPonFire"
 organization_name = "g0v.tw"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-07-01T15:28:20Z"
 default_branch = "master"

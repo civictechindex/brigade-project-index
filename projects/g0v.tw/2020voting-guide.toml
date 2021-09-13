@@ -5,6 +5,7 @@ name = "2020voting-guide"
 organization_name = "g0v.tw"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2019-05-16T16:14:35Z"
 default_branch = "master"

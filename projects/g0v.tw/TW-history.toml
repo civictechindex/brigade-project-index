@@ -5,6 +5,7 @@ name = "TW-history"
 organization_name = "g0v.tw"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2013-07-23T03:18:30Z"
 default_branch = "master"

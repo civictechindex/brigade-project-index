@@ -6,6 +6,7 @@ name = "merityuan"
 organization_name = "g0v.tw"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2018-01-13T02:05:31Z"
 default_branch = "master"

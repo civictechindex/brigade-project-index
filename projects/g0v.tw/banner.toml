@@ -5,6 +5,7 @@ name = "banner"
 organization_name = "g0v.tw"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2018-11-14T12:29:09Z"
 default_branch = "master"

@@ -5,6 +5,7 @@ name = "logbot-logs"
 organization_name = "g0v.tw"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2020-03-22T15:12:56Z"
 default_branch = "master"

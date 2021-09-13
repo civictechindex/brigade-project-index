@@ -6,6 +6,7 @@ name = "BadDriverAPI"
 organization_name = "g0v.tw"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2013-12-20T10:57:36Z"
 default_branch = "master"

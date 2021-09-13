@@ -4,6 +4,7 @@ name = "laweasyread-data"
 organization_name = "g0v.tw"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2013-03-28T14:33:52Z"
 default_branch = "master"

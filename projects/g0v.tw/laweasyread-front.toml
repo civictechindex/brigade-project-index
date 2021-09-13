@@ -6,6 +6,7 @@ name = "laweasyread-front"
 organization_name = "g0v.tw"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2013-08-09T12:27:44Z"
 default_branch = "v1.x"

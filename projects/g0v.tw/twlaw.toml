@@ -5,6 +5,7 @@ name = "twlaw"
 organization_name = "g0v.tw"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2013-02-08T04:39:45Z"
 default_branch = "master"

@@ -6,6 +6,7 @@ name = "conference-map-main"
 organization_name = "g0v.tw"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-03-22T03:54:24Z"
 default_branch = "static"

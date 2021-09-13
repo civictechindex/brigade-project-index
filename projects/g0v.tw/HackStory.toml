@@ -5,6 +5,7 @@ name = "HackStory"
 organization_name = "g0v.tw"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-08-06T05:51:48Z"
 default_branch = "gh-pages"

@@ -5,6 +5,7 @@ name = "naming-gitbook"
 organization_name = "g0v.tw"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-08-31T02:11:19Z"
 default_branch = "master"

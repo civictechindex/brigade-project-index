@@ -5,6 +5,7 @@ name = "potluckmap"
 organization_name = "g0v.tw"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-04-27T08:24:39Z"
 default_branch = "gh-pages"

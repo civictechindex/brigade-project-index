@@ -6,6 +6,7 @@ name = "social-enterprise-gitbook"
 organization_name = "g0v.tw"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-12-14T06:48:40Z"
 default_branch = "master"

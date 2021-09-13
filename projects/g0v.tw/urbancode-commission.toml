@@ -6,6 +6,7 @@ organization_name = "g0v.tw"
 topics = [ "g0v", "urbancode" ]
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-06-26T16:39:41Z"
 default_branch = "master"

@@ -5,6 +5,7 @@ name = "angular-laweasyread"
 organization_name = "g0v.tw"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-02-07T02:07:47Z"
 default_branch = "master"

@@ -5,6 +5,7 @@ name = "ui"
 organization_name = "g0v.tw"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-12-05T01:53:54Z"
 default_branch = "master"

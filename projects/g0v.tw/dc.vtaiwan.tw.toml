@@ -6,6 +6,7 @@ name = "dc.vtaiwan.tw"
 organization_name = "g0v.tw"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-03-19T12:53:34Z"
 default_branch = "master"

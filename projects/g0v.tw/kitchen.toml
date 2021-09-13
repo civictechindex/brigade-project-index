@@ -5,6 +5,7 @@ name = "kitchen"
 organization_name = "g0v.tw"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2013-06-06T12:20:28Z"
 default_branch = "master"

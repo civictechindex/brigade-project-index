@@ -6,6 +6,7 @@ name = "issue-aspect"
 organization_name = "g0v.tw"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2013-06-27T02:42:26Z"
 default_branch = "gh-pages"

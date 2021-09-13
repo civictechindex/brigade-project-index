@@ -5,6 +5,7 @@ name = "projectV"
 organization_name = "g0v.tw"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-08-31T03:44:37Z"
 default_branch = "master"

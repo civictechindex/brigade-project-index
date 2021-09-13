@@ -5,6 +5,7 @@ name = "coc"
 organization_name = "g0v.tw"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2020-01-18T08:17:48Z"
 default_branch = "master"

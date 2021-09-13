@@ -5,6 +5,7 @@ name = "aec-process"
 organization_name = "g0v.tw"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2013-08-10T20:33:22Z"
 default_branch = "master"

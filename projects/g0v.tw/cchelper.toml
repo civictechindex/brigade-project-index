@@ -6,6 +6,7 @@ name = "cchelper"
 organization_name = "g0v.tw"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-07-14T17:18:03Z"
 default_branch = "gh-pages"

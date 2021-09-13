@@ -4,6 +4,7 @@ name = "DipSpace"
 organization_name = "g0v.tw"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2018-06-20T15:00:00Z"
 default_branch = "master"

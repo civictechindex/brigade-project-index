@@ -6,6 +6,7 @@ name = "timemapper"
 organization_name = "g0v.tw"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-05-28T17:32:36Z"
 default_branch = "master"

@@ -5,6 +5,7 @@ name = "research_time"
 organization_name = "g0v.tw"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-10-19T12:41:36Z"
 default_branch = "master"

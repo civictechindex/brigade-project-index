@@ -5,6 +5,7 @@ name = "don-constitute"
 organization_name = "g0v.tw"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-12-23T07:59:43Z"
 default_branch = "master"

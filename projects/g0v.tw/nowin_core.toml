@@ -5,6 +5,7 @@ name = "nowin_core"
 organization_name = "g0v.tw"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-08-03T05:48:33Z"
 default_branch = "master"

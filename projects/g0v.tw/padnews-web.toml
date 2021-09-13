@@ -5,6 +5,7 @@ name = "padnews-web"
 organization_name = "g0v.tw"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-03-23T04:31:35Z"
 default_branch = "master"

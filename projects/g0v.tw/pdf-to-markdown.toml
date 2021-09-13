@@ -5,6 +5,7 @@ name = "pdf-to-markdown"
 organization_name = "g0v.tw"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-05-23T16:43:23Z"
 default_branch = "master"

@@ -6,6 +6,7 @@ name = "DC-cable-gitbook"
 organization_name = "g0v.tw"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-03-15T03:41:05Z"
 default_branch = "master"

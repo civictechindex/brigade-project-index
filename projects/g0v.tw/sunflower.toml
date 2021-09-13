@@ -6,6 +6,7 @@ name = "sunflower"
 organization_name = "g0v.tw"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-04-04T19:32:13Z"
 default_branch = "master"

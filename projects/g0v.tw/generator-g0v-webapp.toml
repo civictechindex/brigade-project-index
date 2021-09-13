@@ -5,6 +5,7 @@ name = "generator-g0v-webapp"
 organization_name = "g0v.tw"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-02-12T14:42:35Z"
 default_branch = "master"

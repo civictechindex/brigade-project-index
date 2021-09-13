@@ -5,6 +5,7 @@ name = "padnews-cli"
 organization_name = "g0v.tw"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-03-22T07:41:11Z"
 default_branch = "master"

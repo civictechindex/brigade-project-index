@@ -5,6 +5,7 @@ name = "moedict-data-terms"
 organization_name = "g0v.tw"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-09-16T08:54:36Z"
 default_branch = "master"

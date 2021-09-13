@@ -4,6 +4,7 @@ name = "referendum"
 organization_name = "g0v.tw"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2018-11-15T16:44:10Z"
 default_branch = "master"

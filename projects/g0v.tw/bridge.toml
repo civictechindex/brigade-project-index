@@ -5,6 +5,7 @@ name = "bridge"
 organization_name = "g0v.tw"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2021-04-01T19:07:10Z"
 default_branch = "fun"

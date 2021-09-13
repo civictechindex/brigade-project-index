@@ -5,6 +5,7 @@ name = "typo-resolver"
 organization_name = "g0v.tw"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2013-08-20T01:02:32Z"
 default_branch = "master"

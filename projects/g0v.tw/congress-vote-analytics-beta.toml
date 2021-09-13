@@ -5,6 +5,7 @@ name = "congress-vote-analytics-beta"
 organization_name = "g0v.tw"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-01-16T04:10:57Z"
 default_branch = "master"

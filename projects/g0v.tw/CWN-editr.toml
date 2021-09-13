@@ -6,6 +6,7 @@ name = "CWN-editr"
 organization_name = "g0v.tw"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-01-18T05:26:55Z"
 default_branch = "master"

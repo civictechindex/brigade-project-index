@@ -5,6 +5,7 @@ name = "api.addressbook"
 organization_name = "g0v.tw"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-03-04T02:13:53Z"
 default_branch = "master"

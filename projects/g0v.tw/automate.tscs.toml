@@ -5,6 +5,7 @@ name = "automate.tscs"
 organization_name = "g0v.tw"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-03-06T06:46:06Z"
 default_branch = "master"

@@ -5,6 +5,7 @@ name = "NoUseBuildingTool"
 organization_name = "g0v.tw"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-08-12T17:12:21Z"
 default_branch = "master"

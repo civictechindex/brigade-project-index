@@ -7,6 +7,7 @@ organization_name = "g0v.tw"
 topics = [ "civic-tech", "g0v", "voting" ]
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-04-03T14:19:10Z"
 default_branch = "master"

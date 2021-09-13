@@ -4,6 +4,7 @@ name = "semantic-ui-experiment"
 organization_name = "g0v.tw"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2013-10-26T12:52:02Z"
 default_branch = "gh-pages"

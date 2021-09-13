@@ -5,6 +5,7 @@ name = "ASR-no-Pangcah"
 organization_name = "g0v.tw"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2019-11-11T14:33:59Z"
 default_branch = "master"

@@ -5,6 +5,7 @@ name = "hakka_elearning"
 organization_name = "g0v.tw"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-07-22T07:13:31Z"
 default_branch = "master"

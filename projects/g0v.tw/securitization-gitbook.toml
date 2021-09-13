@@ -6,6 +6,7 @@ name = "securitization-gitbook"
 organization_name = "g0v.tw"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-11-21T00:57:23Z"
 default_branch = "master"

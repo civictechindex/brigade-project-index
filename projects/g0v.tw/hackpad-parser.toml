@@ -5,6 +5,7 @@ name = "hackpad-parser"
 organization_name = "g0v.tw"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-06-12T17:38:47Z"
 default_branch = "master"

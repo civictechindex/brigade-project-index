@@ -5,6 +5,7 @@ name = "grants-landing-template"
 organization_name = "g0v.tw"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2018-01-19T07:25:13Z"
 default_branch = "master"

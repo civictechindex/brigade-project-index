@@ -4,6 +4,7 @@ name = "ask-sorting-statements"
 organization_name = "g0v.tw"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-03-28T13:01:18Z"
 default_branch = "master"

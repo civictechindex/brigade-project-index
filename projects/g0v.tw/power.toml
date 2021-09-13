@@ -6,6 +6,7 @@ name = "power"
 organization_name = "g0v.tw"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2018-05-14T05:21:10Z"
 default_branch = "master"

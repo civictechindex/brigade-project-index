@@ -5,6 +5,7 @@ name = "bill-nicknames"
 organization_name = "g0v.tw"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2013-12-05T08:44:50Z"
 default_branch = "master"

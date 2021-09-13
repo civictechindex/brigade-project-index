@@ -5,6 +5,7 @@ name = "tw-shift-schedule-ui"
 organization_name = "g0v.tw"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2018-01-17T02:41:48Z"
 default_branch = "master"

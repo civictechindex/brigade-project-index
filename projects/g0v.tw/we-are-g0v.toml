@@ -6,6 +6,7 @@ name = "we-are-g0v"
 organization_name = "g0v.tw"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-03-25T07:58:12Z"
 default_branch = "master"

@@ -6,6 +6,7 @@ name = "grantdash"
 organization_name = "g0v.tw"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-12-26T15:26:29Z"
 default_branch = "master"

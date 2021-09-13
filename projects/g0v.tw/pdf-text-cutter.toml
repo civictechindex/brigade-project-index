@@ -5,6 +5,7 @@ name = "pdf-text-cutter"
 organization_name = "g0v.tw"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2013-09-12T06:59:39Z"
 default_branch = "master"

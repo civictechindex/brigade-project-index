@@ -5,6 +5,7 @@ name = "thedaywefightback"
 organization_name = "g0v.tw"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-01-28T13:14:51Z"
 default_branch = "gh-pages"

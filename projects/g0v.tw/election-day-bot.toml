@@ -5,6 +5,7 @@ name = "election-day-bot"
 organization_name = "g0v.tw"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2019-02-26T15:38:48Z"
 default_branch = "fun"

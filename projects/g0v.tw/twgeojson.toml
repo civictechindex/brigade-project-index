@@ -5,6 +5,7 @@ name = "twgeojson"
 organization_name = "g0v.tw"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2012-11-07T10:52:18Z"
 default_branch = "master"

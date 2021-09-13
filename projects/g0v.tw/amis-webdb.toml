@@ -4,6 +4,7 @@ name = "amis-webdb"
 organization_name = "g0v.tw"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2021-03-13T09:45:35Z"
 default_branch = "main"

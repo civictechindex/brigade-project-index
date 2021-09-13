@@ -5,6 +5,7 @@ name = "moc"
 organization_name = "g0v.tw"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2013-10-13T13:28:37Z"
 default_branch = "master"

@@ -4,6 +4,7 @@ name = "react-native-studio"
 organization_name = "g0v.tw"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2017-07-28T18:39:37Z"
 default_branch = "master"

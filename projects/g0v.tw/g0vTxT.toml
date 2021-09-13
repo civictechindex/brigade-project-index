@@ -6,6 +6,7 @@ name = "g0vTxT"
 organization_name = "g0v.tw"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-02-20T12:19:19Z"
 default_branch = "gh-pages"

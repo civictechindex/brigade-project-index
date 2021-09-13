@@ -6,6 +6,7 @@ name = "g0v-dashboard"
 organization_name = "g0v.tw"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2020-11-09T08:01:21Z"
 default_branch = "master"

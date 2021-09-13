@@ -4,6 +4,7 @@ name = "esmoe"
 organization_name = "g0v.tw"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2013-03-25T22:58:45Z"
 default_branch = "master"

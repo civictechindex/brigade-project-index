@@ -6,6 +6,7 @@ name = "data-design"
 organization_name = "g0v.tw"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-06-19T02:11:01Z"
 default_branch = "master"

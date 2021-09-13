@@ -4,6 +4,7 @@ name = "tv4mobile"
 organization_name = "g0v.tw"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-03-23T08:25:31Z"
 default_branch = "gh-pages"

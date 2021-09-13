@@ -5,6 +5,7 @@ name = "lfapi"
 organization_name = "g0v.tw"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2013-05-15T03:16:48Z"
 default_branch = "master"

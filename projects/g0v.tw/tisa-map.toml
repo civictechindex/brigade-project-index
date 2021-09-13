@@ -6,6 +6,7 @@ name = "tisa-map"
 organization_name = "g0v.tw"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2013-07-11T13:54:48Z"
 default_branch = "master"

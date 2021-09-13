@@ -5,6 +5,7 @@ name = "kuansim-rails"
 organization_name = "g0v.tw"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2013-10-20T01:04:36Z"
 default_branch = "master"

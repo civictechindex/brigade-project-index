@@ -5,6 +5,7 @@ name = "react-native-scanbot"
 organization_name = "g0v.tw"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2017-04-20T15:39:55Z"
 default_branch = "master"

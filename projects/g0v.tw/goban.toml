@@ -7,6 +7,7 @@ organization_name = "g0v.tw"
 topics = [ "goban", "hackfoldr" ]
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-12-08T07:02:13Z"
 default_branch = "master"

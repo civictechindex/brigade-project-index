@@ -5,6 +5,7 @@ name = "urbancodeg0vtw"
 organization_name = "g0v.tw"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-12-29T04:02:23Z"
 default_branch = "master"

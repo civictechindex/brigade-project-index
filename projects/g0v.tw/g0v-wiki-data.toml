@@ -4,6 +4,7 @@ name = "g0v-wiki-data"
 organization_name = "g0v.tw"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2017-12-02T12:45:12Z"
 default_branch = "master"

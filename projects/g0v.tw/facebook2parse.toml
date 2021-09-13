@@ -4,6 +4,7 @@ name = "facebook2parse"
 organization_name = "g0v.tw"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-10-04T03:43:48Z"
 default_branch = "master"

@@ -5,6 +5,7 @@ name = "wiselike.tw"
 organization_name = "g0v.tw"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2017-03-08T11:08:23Z"
 default_branch = "gh-pages"

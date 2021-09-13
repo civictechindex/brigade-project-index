@@ -5,6 +5,7 @@ name = "laweasyread"
 organization_name = "g0v.tw"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2013-03-26T13:44:59Z"
 default_branch = "master"

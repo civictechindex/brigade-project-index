@@ -5,6 +5,7 @@ name = "don-republic"
 organization_name = "g0v.tw"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2013-08-08T09:56:50Z"
 default_branch = "master"

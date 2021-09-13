@@ -5,6 +5,7 @@ name = "kuansim-backend"
 organization_name = "g0v.tw"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2013-07-22T15:31:52Z"
 default_branch = "develop"

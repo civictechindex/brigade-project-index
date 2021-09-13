@@ -5,6 +5,7 @@ name = "3du.tw"
 organization_name = "g0v.tw"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2013-11-16T18:32:18Z"
 default_branch = "gh-pages"

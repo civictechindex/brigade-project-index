@@ -6,6 +6,7 @@ name = "people-in-news"
 organization_name = "g0v.tw"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2018-10-04T00:45:27Z"
 default_branch = "master"

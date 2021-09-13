@@ -5,6 +5,7 @@ name = "data-levy-gitbook"
 organization_name = "g0v.tw"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-02-10T03:22:02Z"
 default_branch = "master"

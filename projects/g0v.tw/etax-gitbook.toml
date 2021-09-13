@@ -5,6 +5,7 @@ name = "etax-gitbook"
 organization_name = "g0v.tw"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-01-29T07:53:13Z"
 default_branch = "master"

@@ -5,6 +5,7 @@ name = "g00gle"
 organization_name = "g0v.tw"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2017-01-23T13:27:25Z"
 default_branch = "master"

@@ -5,6 +5,7 @@ name = "moedict-epub"
 organization_name = "g0v.tw"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2013-01-27T15:52:59Z"
 default_branch = "master"

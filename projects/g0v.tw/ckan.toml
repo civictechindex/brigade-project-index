@@ -6,6 +6,7 @@ name = "ckan"
 organization_name = "g0v.tw"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-04-22T07:44:48Z"
 default_branch = "master"

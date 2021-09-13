@@ -5,6 +5,7 @@ name = "lvr.land.moi"
 organization_name = "g0v.tw"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2012-11-14T16:48:56Z"
 default_branch = "gh-pages"

@@ -5,6 +5,7 @@ name = "ipad-air-case-selector"
 organization_name = "g0v.tw"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-01-19T05:58:21Z"
 default_branch = "master"

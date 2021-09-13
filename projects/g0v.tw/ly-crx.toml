@@ -5,6 +5,7 @@ name = "ly-crx"
 organization_name = "g0v.tw"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2013-04-09T16:12:33Z"
 default_branch = "master"

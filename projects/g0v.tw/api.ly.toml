@@ -5,6 +5,7 @@ name = "api.ly"
 organization_name = "g0v.tw"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2013-07-30T18:11:52Z"
 default_branch = "master"

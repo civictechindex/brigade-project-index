@@ -5,6 +5,7 @@ name = "discourse-watch-category"
 organization_name = "g0v.tw"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2017-03-10T08:38:22Z"
 default_branch = "master"

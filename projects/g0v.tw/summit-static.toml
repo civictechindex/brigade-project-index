@@ -5,6 +5,7 @@ name = "summit-static"
 organization_name = "g0v.tw"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-04-02T06:23:05Z"
 default_branch = "master"

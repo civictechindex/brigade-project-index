@@ -6,6 +6,7 @@ name = "river-watcher"
 organization_name = "g0v.tw"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2020-12-24T02:50:18Z"
 default_branch = "master"

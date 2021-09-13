@@ -6,6 +6,7 @@ name = "react.addressbook"
 organization_name = "g0v.tw"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-08-23T14:32:33Z"
 default_branch = "master"

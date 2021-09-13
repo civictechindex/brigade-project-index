@@ -5,6 +5,7 @@ name = "color"
 organization_name = "g0v.tw"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-06-28T06:20:49Z"
 default_branch = "gh-pages"

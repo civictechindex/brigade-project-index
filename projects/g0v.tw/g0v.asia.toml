@@ -6,6 +6,7 @@ name = "g0v.asia"
 organization_name = "g0v.tw"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-01-10T16:41:06Z"
 default_branch = "gh-pages"

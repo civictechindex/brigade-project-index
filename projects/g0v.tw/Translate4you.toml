@@ -5,6 +5,7 @@ name = "Translate4you"
 organization_name = "g0v.tw"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-10-03T09:05:02Z"
 default_branch = "master"

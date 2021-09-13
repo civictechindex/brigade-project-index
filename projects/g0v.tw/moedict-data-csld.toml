@@ -5,6 +5,7 @@ name = "moedict-data-csld"
 organization_name = "g0v.tw"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2013-10-16T10:07:37Z"
 default_branch = "master"

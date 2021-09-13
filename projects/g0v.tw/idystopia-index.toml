@@ -6,6 +6,7 @@ name = "idystopia-index"
 organization_name = "g0v.tw"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2020-09-13T14:14:46Z"
 default_branch = "master"

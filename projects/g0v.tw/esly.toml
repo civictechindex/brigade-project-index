@@ -5,6 +5,7 @@ name = "esly"
 organization_name = "g0v.tw"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2013-03-30T14:29:22Z"
 default_branch = "master"

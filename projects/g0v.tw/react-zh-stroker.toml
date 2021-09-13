@@ -5,6 +5,7 @@ name = "react-zh-stroker"
 organization_name = "g0v.tw"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-11-22T10:13:06Z"
 default_branch = "gh-pages"

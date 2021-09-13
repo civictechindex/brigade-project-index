@@ -6,6 +6,7 @@ name = "callnow"
 organization_name = "g0v.tw"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2013-07-12T02:27:58Z"
 default_branch = "master"

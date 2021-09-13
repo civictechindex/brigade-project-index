@@ -5,6 +5,7 @@ name = "d3visualization"
 organization_name = "g0v.tw"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-10-07T16:18:28Z"
 default_branch = "gh-pages"

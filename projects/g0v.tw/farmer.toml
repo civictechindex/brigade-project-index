@@ -5,6 +5,7 @@ name = "farmer"
 organization_name = "g0v.tw"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-04-09T01:51:40Z"
 default_branch = "gh-pages"

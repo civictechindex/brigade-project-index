@@ -4,6 +4,7 @@ name = "er-map"
 organization_name = "g0v.tw"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-08-10T19:19:39Z"
 default_branch = "master"

@@ -5,6 +5,7 @@ name = "poll"
 organization_name = "g0v.tw"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-09-20T07:52:29Z"
 default_branch = "develop"

@@ -6,6 +6,7 @@ name = "directors-election-gitbook"
 organization_name = "g0v.tw"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-12-30T04:12:36Z"
 default_branch = "master"

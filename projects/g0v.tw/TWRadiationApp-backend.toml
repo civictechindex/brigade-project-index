@@ -4,6 +4,7 @@ name = "TWRadiationApp-backend"
 organization_name = "g0v.tw"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-11-03T13:25:48Z"
 default_branch = "master"

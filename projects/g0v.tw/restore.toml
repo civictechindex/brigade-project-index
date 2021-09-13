@@ -5,6 +5,7 @@ name = "restore"
 organization_name = "g0v.tw"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-03-26T08:40:40Z"
 default_branch = "master"

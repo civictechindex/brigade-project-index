@@ -5,6 +5,7 @@ name = "ly-vote"
 organization_name = "g0v.tw"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2012-12-15T14:06:32Z"
 default_branch = "master"

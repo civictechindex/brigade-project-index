@@ -5,6 +5,7 @@ name = "liveext"
 organization_name = "g0v.tw"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-04-22T02:41:57Z"
 default_branch = "gh-pages"

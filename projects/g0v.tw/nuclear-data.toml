@@ -5,6 +5,7 @@ name = "nuclear-data"
 organization_name = "g0v.tw"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-02-22T04:06:06Z"
 default_branch = "master"

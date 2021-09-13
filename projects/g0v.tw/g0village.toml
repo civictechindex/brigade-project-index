@@ -5,6 +5,7 @@ name = "g0village"
 organization_name = "g0v.tw"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2013-08-06T14:17:24Z"
 default_branch = "master"

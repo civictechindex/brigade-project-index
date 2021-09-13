@@ -5,6 +5,7 @@ name = "telework-gitbook"
 organization_name = "g0v.tw"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-02-09T09:02:04Z"
 default_branch = "master"

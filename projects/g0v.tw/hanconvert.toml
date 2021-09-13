@@ -5,6 +5,7 @@ name = "hanconvert"
 organization_name = "g0v.tw"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2013-08-10T07:38:31Z"
 default_branch = "master"

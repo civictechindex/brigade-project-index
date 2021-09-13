@@ -5,6 +5,7 @@ name = "aqx-graphite"
 organization_name = "g0v.tw"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-02-10T11:53:41Z"
 default_branch = "master"

@@ -5,6 +5,7 @@ name = "cec"
 organization_name = "g0v.tw"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-09-06T18:24:21Z"
 default_branch = "master"

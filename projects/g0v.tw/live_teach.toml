@@ -4,6 +4,7 @@ name = "live_teach"
 organization_name = "g0v.tw"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-04-24T08:44:28Z"
 default_branch = "master"

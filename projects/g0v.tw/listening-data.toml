@@ -5,6 +5,7 @@ name = "listening-data"
 organization_name = "g0v.tw"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2013-09-16T13:32:54Z"
 default_branch = "master"

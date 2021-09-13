@@ -5,6 +5,7 @@ name = "b0t-hubot"
 organization_name = "g0v.tw"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-03-07T17:24:11Z"
 default_branch = "master"

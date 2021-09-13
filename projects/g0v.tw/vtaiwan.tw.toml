@@ -6,6 +6,7 @@ name = "vtaiwan.tw"
 organization_name = "g0v.tw"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-12-20T07:22:12Z"
 default_branch = "gh-pages"

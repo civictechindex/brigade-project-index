@@ -5,6 +5,7 @@ name = "pads2foldrs"
 organization_name = "g0v.tw"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-10-17T13:08:07Z"
 default_branch = "master"
