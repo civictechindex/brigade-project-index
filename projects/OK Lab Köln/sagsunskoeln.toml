@@ -4,6 +4,7 @@ name = "sagsunskoeln"
 organization_name = "OK Lab Köln"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-02-17T04:55:32Z"
 default_branch = "master"

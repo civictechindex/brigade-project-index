@@ -4,6 +4,7 @@ name = "geburtensterben"
 organization_name = "OK Lab Köln"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-02-27T17:59:21Z"
 default_branch = "gh-pages"

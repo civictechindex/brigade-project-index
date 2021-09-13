@@ -6,6 +6,7 @@ name = "strassenkoeln"
 organization_name = "OK Lab Köln"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-03-07T17:33:26Z"
 default_branch = "master"

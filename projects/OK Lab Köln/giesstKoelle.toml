@@ -5,6 +5,7 @@ name = "giesstKoelle"
 organization_name = "OK Lab Köln"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2020-06-22T19:15:48Z"
 default_branch = "master"
