@@ -4,6 +4,7 @@ name = "ftl-vendor-pay"
 organization_name = "Code for Fort Lauderdale"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-06-06T22:14:38Z"
 default_branch = "master"

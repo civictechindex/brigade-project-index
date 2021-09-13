@@ -5,6 +5,7 @@ name = "Budget-Visualization"
 organization_name = "Code for Fort Lauderdale"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-04-11T21:57:12Z"
 default_branch = "gh-pages"

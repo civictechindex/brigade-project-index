@@ -7,6 +7,7 @@ organization_name = "Code for Fort Lauderdale"
 topics = [ "active" ]
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2013-10-13T23:35:08Z"
 default_branch = "master"

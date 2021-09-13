@@ -4,6 +4,7 @@ name = "GithubPagesDemo"
 organization_name = "Code for Fort Lauderdale"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-02-12T00:21:17Z"
 default_branch = "gh-pages"

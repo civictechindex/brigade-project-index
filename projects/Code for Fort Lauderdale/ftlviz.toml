@@ -6,6 +6,7 @@ name = "ftlviz"
 organization_name = "Code for Fort Lauderdale"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-07-23T00:01:36Z"
 default_branch = "master"
