@@ -6,6 +6,7 @@ name = "business-web"
 organization_name = "Code for Gainesville"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-07-09T23:53:44Z"
 default_branch = "develop"

@@ -5,6 +5,7 @@ name = "things-registry"
 organization_name = "Code for Gainesville"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2017-05-29T21:45:14Z"
 default_branch = "develop"

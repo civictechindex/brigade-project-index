@@ -5,6 +5,7 @@ name = "lens-reactnative"
 organization_name = "Code for Gainesville"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2017-06-08T01:16:32Z"
 default_branch = "dummy"

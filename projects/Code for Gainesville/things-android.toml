@@ -5,6 +5,7 @@ name = "things-android"
 organization_name = "Code for Gainesville"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2017-05-29T18:55:55Z"
 default_branch = "develop"
