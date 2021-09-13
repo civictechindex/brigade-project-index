@@ -6,6 +6,7 @@ name = "HackMichiana.github.io"
 organization_name = "Hack Michiana"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-12-17T03:29:39Z"
 default_branch = "master"

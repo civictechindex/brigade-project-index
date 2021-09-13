@@ -5,6 +5,7 @@ name = "sms-location-bot"
 organization_name = "Hack Michiana"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2019-07-11T22:37:42Z"
 default_branch = "master"
