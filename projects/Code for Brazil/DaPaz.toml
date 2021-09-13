@@ -5,6 +5,7 @@ name = "DaPaz"
 organization_name = "Code for Brazil"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-09-10T12:35:12Z"
 default_branch = "master"

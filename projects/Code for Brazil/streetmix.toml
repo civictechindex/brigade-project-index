@@ -5,6 +5,7 @@ name = "streetmix"
 organization_name = "Code for Brazil"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-10-05T18:42:48Z"
 default_branch = "master"

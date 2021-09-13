@@ -4,6 +4,7 @@ name = "politikei_iOS"
 organization_name = "Code for Brazil"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-11-05T01:43:49Z"
 default_branch = "master"

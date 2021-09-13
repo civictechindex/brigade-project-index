@@ -6,6 +6,7 @@ name = "datapusher"
 organization_name = "Code for Brazil"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-03-06T15:18:47Z"
 default_branch = "master"

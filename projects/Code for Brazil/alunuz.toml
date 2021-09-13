@@ -6,6 +6,7 @@ name = "alunuz"
 organization_name = "Code for Brazil"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-09-04T14:20:36Z"
 default_branch = "master"
