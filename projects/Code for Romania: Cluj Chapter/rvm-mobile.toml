@@ -5,6 +5,7 @@ name = "rvm-mobile"
 organization_name = "Code for Romania: Cluj Chapter"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2019-06-01T04:35:39Z"
 default_branch = "master"
