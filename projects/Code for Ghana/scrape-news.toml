@@ -5,6 +5,7 @@ name = "scrape-news"
 organization_name = "Code for Ghana"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2018-07-30T12:18:17Z"
 default_branch = "master"

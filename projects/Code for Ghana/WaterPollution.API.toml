@@ -5,6 +5,7 @@ name = "WaterPollution.API"
 organization_name = "Code for Ghana"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2018-01-14T19:12:53Z"
 default_branch = "master"

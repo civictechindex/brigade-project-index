@@ -5,6 +5,7 @@ name = "wp-factchecker-claim-review"
 organization_name = "Code for Ghana"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2019-11-06T18:49:38Z"
 default_branch = "master"

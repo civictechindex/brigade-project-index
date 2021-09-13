@@ -5,6 +5,7 @@ name = "WaterPollution.WEB"
 organization_name = "Code for Ghana"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2018-01-14T19:00:22Z"
 default_branch = "master"

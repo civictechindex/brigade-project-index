@@ -5,6 +5,7 @@ name = "ocd-division-ids"
 organization_name = "Code for Ghana"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2021-02-01T09:44:05Z"
 default_branch = "master"

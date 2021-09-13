@@ -5,6 +5,7 @@ name = "DocumentUploadReminders.API"
 organization_name = "Code for Ghana"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2017-10-05T11:12:10Z"
 default_branch = "master"

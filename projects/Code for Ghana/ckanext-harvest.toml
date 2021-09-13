@@ -5,6 +5,7 @@ name = "ckanext-harvest"
 organization_name = "Code for Ghana"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2019-08-17T18:52:59Z"
 default_branch = "master"

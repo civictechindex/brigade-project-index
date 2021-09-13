@@ -6,6 +6,7 @@ name = "AfricanSpending.ComparativeScales"
 organization_name = "Code for Ghana"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-06-11T15:35:37Z"
 default_branch = "master"

@@ -5,6 +5,7 @@ name = "MSDDrugs.API"
 organization_name = "Code for Ghana"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2017-08-31T08:05:55Z"
 default_branch = "master"

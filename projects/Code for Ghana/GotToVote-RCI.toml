@@ -6,6 +6,7 @@ name = "GotToVote-RCI"
 organization_name = "Code for Ghana"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-05-27T08:19:12Z"
 default_branch = "gh-pages"

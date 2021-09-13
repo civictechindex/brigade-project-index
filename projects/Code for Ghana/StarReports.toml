@@ -4,6 +4,7 @@ name = "StarReports"
 organization_name = "Code for Ghana"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-11-17T10:34:52Z"
 default_branch = "StarReportsTemp"

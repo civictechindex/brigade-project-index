@@ -5,6 +5,7 @@ name = "CodeForGhana.org"
 organization_name = "Code for Ghana"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-08-12T08:11:23Z"
 default_branch = "gh-pages"

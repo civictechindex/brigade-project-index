@@ -6,6 +6,7 @@ name = "outbreak.AFRICA"
 organization_name = "Code for Ghana"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2020-03-19T05:11:52Z"
 default_branch = "main"
