@@ -5,6 +5,7 @@ name = "NRV-Park-Finder"
 organization_name = "Code for New River Valley"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-10-15T23:40:47Z"
 default_branch = "master"

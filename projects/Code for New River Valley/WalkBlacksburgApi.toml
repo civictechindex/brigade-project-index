@@ -5,6 +5,7 @@ name = "WalkBlacksburgApi"
 organization_name = "Code for New River Valley"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-09-02T03:05:19Z"
 default_branch = "master"

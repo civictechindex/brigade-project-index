@@ -5,6 +5,7 @@ name = "floyd-solar-home-tour"
 organization_name = "Code for New River Valley"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-10-01T23:48:56Z"
 default_branch = "gh-pages"

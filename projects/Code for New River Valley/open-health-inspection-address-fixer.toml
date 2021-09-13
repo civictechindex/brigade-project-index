@@ -5,6 +5,7 @@ name = "open-health-inspection-address-fixer"
 organization_name = "Code for New River Valley"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-03-14T15:58:50Z"
 default_branch = "gh-pages"

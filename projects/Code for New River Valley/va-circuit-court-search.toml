@@ -6,6 +6,7 @@ name = "va-circuit-court-search"
 organization_name = "Code for New River Valley"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-01-29T03:06:41Z"
 default_branch = "master"

@@ -4,6 +4,7 @@ name = "va-service-mapping"
 organization_name = "Code for New River Valley"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-01-16T21:11:15Z"
 default_branch = "gh-pages"

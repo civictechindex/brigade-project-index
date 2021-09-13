@@ -5,6 +5,7 @@ name = "did-my-district-change"
 organization_name = "Code for New River Valley"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-02-28T18:59:13Z"
 default_branch = "gh-pages"

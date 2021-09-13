@@ -5,6 +5,7 @@ name = "virginia-childcare"
 organization_name = "Code for New River Valley"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2017-03-02T22:03:36Z"
 default_branch = "master"

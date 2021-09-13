@@ -5,6 +5,7 @@ name = "nrv-business-help"
 organization_name = "Code for New River Valley"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-03-31T23:45:59Z"
 default_branch = "master"

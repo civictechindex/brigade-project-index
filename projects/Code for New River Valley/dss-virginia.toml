@@ -6,6 +6,7 @@ name = "dss-virginia"
 organization_name = "Code for New River Valley"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-12-11T17:09:17Z"
 default_branch = "master"

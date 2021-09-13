@@ -5,6 +5,7 @@ name = "click_that_hood"
 organization_name = "Code for New River Valley"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-12-19T16:40:28Z"
 default_branch = "master"

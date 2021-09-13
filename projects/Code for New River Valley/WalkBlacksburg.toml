@@ -6,6 +6,7 @@ name = "WalkBlacksburg"
 organization_name = "Code for New River Valley"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-07-18T23:15:17Z"
 default_branch = "master"

@@ -5,6 +5,7 @@ name = "WIC-Education-Website"
 organization_name = "Code for New River Valley"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-02-01T04:45:02Z"
 default_branch = "master"

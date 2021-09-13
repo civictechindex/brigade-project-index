@@ -4,6 +4,7 @@ name = "food-security-gov-data"
 organization_name = "Code for New River Valley"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-05-14T22:45:19Z"
 default_branch = "master"
