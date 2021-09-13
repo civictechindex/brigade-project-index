@@ -6,6 +6,7 @@ organization_name = "Open Eugene"
 topics = [ "open-eugene" ]
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2019-03-24T00:27:28Z"
 default_branch = "master"

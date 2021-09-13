@@ -6,6 +6,7 @@ organization_name = "Open Eugene"
 topics = [ "blazor" ]
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2020-11-12T23:29:06Z"
 default_branch = "main"

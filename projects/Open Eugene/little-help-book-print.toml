@@ -5,6 +5,7 @@ name = "little-help-book-print"
 organization_name = "Open Eugene"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2021-08-01T17:57:22Z"
 default_branch = "main"

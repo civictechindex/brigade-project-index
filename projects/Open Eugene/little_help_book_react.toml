@@ -5,6 +5,7 @@ name = "little_help_book_react"
 organization_name = "Open Eugene"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2020-12-24T02:22:55Z"
 default_branch = "main"

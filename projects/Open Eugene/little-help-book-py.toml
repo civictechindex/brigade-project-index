@@ -4,6 +4,7 @@ name = "little-help-book-py"
 organization_name = "Open Eugene"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2020-12-31T04:24:36Z"
 default_branch = "develop"
