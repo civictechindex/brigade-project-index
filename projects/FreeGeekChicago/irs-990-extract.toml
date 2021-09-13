@@ -5,6 +5,7 @@ name = "irs-990-extract"
 organization_name = "FreeGeekChicago"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-09-12T20:04:03Z"
 default_branch = "master"

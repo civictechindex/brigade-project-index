@@ -6,6 +6,7 @@ name = "SFD"
 organization_name = "FreeGeekChicago"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-07-14T23:56:19Z"
 default_branch = "master"

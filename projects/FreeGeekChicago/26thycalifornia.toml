@@ -4,6 +4,7 @@ name = "26thycalifornia"
 organization_name = "FreeGeekChicago"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-04-04T22:31:07Z"
 default_branch = "master"

@@ -4,6 +4,7 @@ name = "townsquare-admin"
 organization_name = "FreeGeekChicago"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-03-07T20:48:41Z"
 default_branch = "master"

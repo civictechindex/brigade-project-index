@@ -6,6 +6,7 @@ name = "cookcountyjail"
 organization_name = "FreeGeekChicago"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2012-11-19T03:56:12Z"
 default_branch = "master"

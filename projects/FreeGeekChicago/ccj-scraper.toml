@@ -5,6 +5,7 @@ name = "ccj-scraper"
 organization_name = "FreeGeekChicago"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-06-09T12:25:28Z"
 default_branch = "master"

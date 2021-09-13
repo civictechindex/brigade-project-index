@@ -5,6 +5,7 @@ name = "python-iucr"
 organization_name = "FreeGeekChicago"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-07-07T17:32:23Z"
 default_branch = "master"
