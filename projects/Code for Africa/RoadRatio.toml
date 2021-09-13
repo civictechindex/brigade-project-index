@@ -6,6 +6,7 @@ name = "RoadRatio"
 organization_name = "Code for Africa"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-05-09T05:42:22Z"
 default_branch = "master"

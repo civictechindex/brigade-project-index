@@ -5,6 +5,7 @@ name = "wazimap-ng-ui"
 organization_name = "Code for Africa"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2021-01-11T15:14:13Z"
 default_branch = "staging"

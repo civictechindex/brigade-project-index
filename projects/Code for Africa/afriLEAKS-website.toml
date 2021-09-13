@@ -6,6 +6,7 @@ name = "afriLEAKS-website"
 organization_name = "Code for Africa"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-11-12T08:24:43Z"
 default_branch = "gh-pages"

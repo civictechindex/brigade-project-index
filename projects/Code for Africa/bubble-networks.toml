@@ -4,6 +4,7 @@ name = "bubble-networks"
 organization_name = "Code for Africa"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2017-06-15T17:19:40Z"
 default_branch = "master"

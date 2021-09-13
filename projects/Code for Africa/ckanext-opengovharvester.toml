@@ -4,6 +4,7 @@ name = "ckanext-opengovharvester"
 organization_name = "Code for Africa"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2017-10-23T05:21:41Z"
 default_branch = "master"

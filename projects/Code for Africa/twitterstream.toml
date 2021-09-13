@@ -6,6 +6,7 @@ name = "twitterstream"
 organization_name = "Code for Africa"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-08-15T19:25:38Z"
 default_branch = "master"

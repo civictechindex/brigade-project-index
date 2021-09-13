@@ -5,6 +5,7 @@ name = "extra-judicial-killings"
 organization_name = "Code for Africa"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-07-21T08:55:30Z"
 default_branch = "gh-pages"

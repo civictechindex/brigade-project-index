@@ -5,6 +5,7 @@ name = "cors-anywhere"
 organization_name = "Code for Africa"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2020-01-01T12:58:16Z"
 default_branch = "master"

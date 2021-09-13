@@ -5,6 +5,7 @@ name = "CitizenReporter-REST"
 organization_name = "Code for Africa"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2017-05-03T06:45:11Z"
 default_branch = "master"

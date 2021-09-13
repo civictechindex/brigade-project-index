@@ -5,6 +5,7 @@ name = "wds-headless-wordpress"
 organization_name = "Code for Africa"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2021-05-03T10:55:48Z"
 default_branch = "main"
