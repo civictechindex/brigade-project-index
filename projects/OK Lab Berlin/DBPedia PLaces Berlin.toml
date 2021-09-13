@@ -11,6 +11,7 @@ name = "DBPedia PLaces Berlin"
 organization_name = "OK Lab Berlin"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-07-20T19:21:16Z"
 default_branch = "master"

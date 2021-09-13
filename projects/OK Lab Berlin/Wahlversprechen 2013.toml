@@ -12,6 +12,7 @@ name = "Wahlversprechen 2013"
 organization_name = "OK Lab Berlin"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2013-11-16T20:32:19Z"
 default_branch = "master"

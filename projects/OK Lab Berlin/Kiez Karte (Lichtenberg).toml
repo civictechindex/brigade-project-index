@@ -11,6 +11,7 @@ organization_name = "OK Lab Berlin"
 type = "website"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-04-14T20:20:18Z"
 default_branch = "master"

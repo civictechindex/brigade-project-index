@@ -9,6 +9,7 @@ organization_name = "OK Lab Berlin"
 type = "Code"
 
 [github]
+allow_forking = true
 archived = true
 created_at = "2014-03-14T18:17:39Z"
 default_branch = "master"

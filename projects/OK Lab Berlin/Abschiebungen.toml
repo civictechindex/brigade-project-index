@@ -11,6 +11,7 @@ name = "Abschiebungen"
 organization_name = "OK Lab Berlin"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-08-27T19:04:55Z"
 default_branch = "master"
