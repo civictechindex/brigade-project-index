@@ -6,6 +6,7 @@ name = "Visual-UA-Budget"
 organization_name = "Code for Tuscaloosa"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-10-16T23:18:16Z"
 default_branch = "gh-pages"
