@@ -4,6 +4,7 @@ name = "committee-executive"
 organization_name = "Code for Greensboro"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2017-06-27T00:39:49Z"
 default_branch = "master"
