@@ -5,6 +5,7 @@ name = "udc2014-data"
 organization_name = "Code for Ibaraki"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-02-01T09:44:29Z"
 default_branch = "master"

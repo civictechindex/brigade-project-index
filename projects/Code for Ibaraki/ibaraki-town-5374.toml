@@ -6,6 +6,7 @@ name = "ibaraki-town-5374"
 organization_name = "Code for Ibaraki"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-01-31T08:02:37Z"
 default_branch = "master"
