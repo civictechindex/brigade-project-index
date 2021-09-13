@@ -4,6 +4,7 @@ name = "nidraa"
 organization_name = "Code for Nashville"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2020-09-28T19:36:32Z"
 default_branch = "master"

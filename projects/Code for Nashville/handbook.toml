@@ -6,6 +6,7 @@ organization_name = "Code for Nashville"
 topics = [ "brigade", "civic-tech", "code-for-america", "handbook" ]
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2018-05-05T17:52:16Z"
 default_branch = "master"

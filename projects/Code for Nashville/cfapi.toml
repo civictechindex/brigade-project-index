@@ -6,6 +6,7 @@ name = "cfapi"
 organization_name = "Code for Nashville"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2018-06-23T02:00:42Z"
 default_branch = "master"

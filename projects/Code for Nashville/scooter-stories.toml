@@ -6,6 +6,7 @@ name = "scooter-stories"
 organization_name = "Code for Nashville"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2019-09-18T22:50:46Z"
 default_branch = "master"

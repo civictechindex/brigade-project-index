@@ -5,6 +5,7 @@ name = "nashville-public-library-python"
 organization_name = "Code for Nashville"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2018-05-19T19:00:47Z"
 default_branch = "master"

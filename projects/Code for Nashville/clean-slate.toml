@@ -5,6 +5,7 @@ name = "clean-slate"
 organization_name = "Code for Nashville"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2019-09-21T17:31:01Z"
 default_branch = "master"
