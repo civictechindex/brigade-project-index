@@ -5,6 +5,7 @@ name = "landing-page"
 organization_name = "Open Zagreb"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-04-06T15:51:51Z"
 default_branch = "master"

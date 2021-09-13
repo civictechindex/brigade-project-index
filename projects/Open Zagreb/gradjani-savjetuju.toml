@@ -6,6 +6,7 @@ name = "gradjani-savjetuju"
 organization_name = "Open Zagreb"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-10-11T20:48:46Z"
 default_branch = "gh-pages"

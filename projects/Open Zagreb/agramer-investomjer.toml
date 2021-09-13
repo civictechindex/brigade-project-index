@@ -4,6 +4,7 @@ name = "agramer-investomjer"
 organization_name = "Open Zagreb"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2020-11-13T10:37:05Z"
 default_branch = "master"
