@@ -6,6 +6,7 @@ name = "badges.codeforamerica.org"
 organization_name = "Code for Tulsa"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2013-10-17T01:46:03Z"
 default_branch = "master"

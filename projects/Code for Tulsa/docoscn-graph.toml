@@ -4,6 +4,7 @@ name = "docoscn-graph"
 organization_name = "Code for Tulsa"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2017-12-07T22:53:16Z"
 default_branch = "master"

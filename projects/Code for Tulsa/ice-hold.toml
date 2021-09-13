@@ -4,6 +4,7 @@ name = "ice-hold"
 organization_name = "Code for Tulsa"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2018-11-21T17:40:47Z"
 default_branch = "master"

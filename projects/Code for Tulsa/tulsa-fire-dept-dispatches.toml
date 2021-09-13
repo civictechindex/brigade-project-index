@@ -5,6 +5,7 @@ name = "tulsa-fire-dept-dispatches"
 organization_name = "Code for Tulsa"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2012-10-13T01:53:23Z"
 default_branch = "master"

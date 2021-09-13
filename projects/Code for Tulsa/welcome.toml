@@ -5,6 +5,7 @@ name = "welcome"
 organization_name = "Code for Tulsa"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2017-09-06T00:39:28Z"
 default_branch = "master"

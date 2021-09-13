@@ -6,6 +6,7 @@ name = "water-in-the-river"
 organization_name = "Code for Tulsa"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-06-06T21:13:29Z"
 default_branch = "master"

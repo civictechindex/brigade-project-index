@@ -6,6 +6,7 @@ name = "city-struggle-bus"
 organization_name = "Code for Tulsa"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-03-05T20:56:49Z"
 default_branch = "master"

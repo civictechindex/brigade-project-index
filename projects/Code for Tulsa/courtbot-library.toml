@@ -5,6 +5,7 @@ name = "courtbot-library"
 organization_name = "Code for Tulsa"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2020-09-12T17:04:44Z"
 default_branch = "prod"

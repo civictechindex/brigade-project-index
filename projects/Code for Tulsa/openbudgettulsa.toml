@@ -6,6 +6,7 @@ name = "openbudgettulsa"
 organization_name = "Code for Tulsa"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2017-01-18T01:48:34Z"
 default_branch = "master"

@@ -4,6 +4,7 @@ name = "cares-apartments"
 organization_name = "Code for Tulsa"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2020-06-07T19:56:48Z"
 default_branch = "master"

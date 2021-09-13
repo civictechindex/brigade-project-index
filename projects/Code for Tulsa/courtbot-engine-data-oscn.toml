@@ -5,6 +5,7 @@ name = "courtbot-engine-data-oscn"
 organization_name = "Code for Tulsa"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2017-01-16T18:42:13Z"
 default_branch = "master"

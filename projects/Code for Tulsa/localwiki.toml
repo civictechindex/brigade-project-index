@@ -6,6 +6,7 @@ name = "localwiki"
 organization_name = "Code for Tulsa"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2013-05-01T03:48:44Z"
 default_branch = "master"

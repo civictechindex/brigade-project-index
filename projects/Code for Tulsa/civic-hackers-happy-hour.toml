@@ -5,6 +5,7 @@ name = "civic-hackers-happy-hour"
 organization_name = "Code for Tulsa"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2013-07-19T15:55:27Z"
 default_branch = "master"

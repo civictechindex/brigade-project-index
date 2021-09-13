@@ -5,6 +5,7 @@ name = "tulsa-county-inmate-information-center-api"
 organization_name = "Code for Tulsa"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-11-23T18:29:19Z"
 default_branch = "master"

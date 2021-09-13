@@ -5,6 +5,7 @@ name = "regional-data-portal"
 organization_name = "Code for Tulsa"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-06-04T20:27:14Z"
 default_branch = "master"

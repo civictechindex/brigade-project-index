@@ -6,6 +6,7 @@ organization_name = "Code for Tulsa"
 topics = [ "food-security" ]
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-02-21T16:49:13Z"
 default_branch = "master"

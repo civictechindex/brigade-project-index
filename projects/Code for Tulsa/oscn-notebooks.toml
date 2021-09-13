@@ -5,6 +5,7 @@ name = "oscn-notebooks"
 organization_name = "Code for Tulsa"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2018-08-02T17:50:45Z"
 default_branch = "master"

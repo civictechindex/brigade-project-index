@@ -5,6 +5,7 @@ name = "cfawp2012"
 organization_name = "Code for Tulsa"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2013-11-24T18:59:54Z"
 default_branch = "master"

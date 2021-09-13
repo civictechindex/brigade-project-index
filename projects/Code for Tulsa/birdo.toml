@@ -6,6 +6,7 @@ name = "birdo"
 organization_name = "Code for Tulsa"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-06-06T21:37:12Z"
 default_branch = "master"

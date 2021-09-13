@@ -5,6 +5,7 @@ name = "open-data-questionnaire"
 organization_name = "Code for Tulsa"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2013-09-20T00:14:07Z"
 default_branch = "master"

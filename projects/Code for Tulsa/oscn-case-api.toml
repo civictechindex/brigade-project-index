@@ -5,6 +5,7 @@ name = "oscn-case-api"
 organization_name = "Code for Tulsa"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-12-07T21:04:29Z"
 default_branch = "master"

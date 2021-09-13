@@ -5,6 +5,7 @@ name = "OpenTulsaDataTools"
 organization_name = "Code for Tulsa"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-01-18T16:45:59Z"
 default_branch = "master"

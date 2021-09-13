@@ -5,6 +5,7 @@ name = "oscn"
 organization_name = "Code for Tulsa"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2018-07-09T03:42:54Z"
 default_branch = "main"

@@ -6,6 +6,7 @@ name = "ebt-near-me"
 organization_name = "Code for Tulsa"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-10-26T13:41:28Z"
 default_branch = "master"

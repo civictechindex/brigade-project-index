@@ -5,6 +5,7 @@ name = "odoc-parse"
 organization_name = "Code for Tulsa"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2019-04-04T12:03:17Z"
 default_branch = "master"
