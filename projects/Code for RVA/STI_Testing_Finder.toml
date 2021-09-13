@@ -5,6 +5,7 @@ name = "STI_Testing_Finder"
 organization_name = "Code for RVA"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-02-21T15:48:58Z"
 default_branch = "master"

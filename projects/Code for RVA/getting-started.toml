@@ -5,6 +5,7 @@ name = "getting-started"
 organization_name = "Code for RVA"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-03-25T23:30:52Z"
 default_branch = "master"

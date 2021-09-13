@@ -5,6 +5,7 @@ name = "richmondbusstops"
 organization_name = "Code for RVA"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-05-28T00:24:19Z"
 default_branch = "master"

@@ -5,6 +5,7 @@ name = "board-bard"
 organization_name = "Code for RVA"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-02-21T18:06:41Z"
 default_branch = "master"

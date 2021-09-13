@@ -4,6 +4,7 @@ name = "codeforrva-theme"
 organization_name = "Code for RVA"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-05-20T00:00:36Z"
 default_branch = "master"

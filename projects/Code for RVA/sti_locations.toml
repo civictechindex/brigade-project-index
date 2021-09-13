@@ -5,6 +5,7 @@ name = "sti_locations"
 organization_name = "Code for RVA"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-07-13T02:13:00Z"
 default_branch = "master"

@@ -5,6 +5,7 @@ name = "codeforrva"
 organization_name = "Code for RVA"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-07-01T23:02:02Z"
 default_branch = "master"

@@ -6,6 +6,7 @@ name = "RVAnswers"
 organization_name = "Code for RVA"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-10-28T22:19:46Z"
 default_branch = "master"

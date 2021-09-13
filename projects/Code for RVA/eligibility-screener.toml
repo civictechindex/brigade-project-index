@@ -5,6 +5,7 @@ name = "eligibility-screener"
 organization_name = "Code for RVA"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-04-17T18:20:57Z"
 default_branch = "master"

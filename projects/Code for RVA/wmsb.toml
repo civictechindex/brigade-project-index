@@ -5,6 +5,7 @@ name = "wmsb"
 organization_name = "Code for RVA"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-03-07T13:13:11Z"
 default_branch = "master"
