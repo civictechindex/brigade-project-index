@@ -6,6 +6,7 @@ name = "codefor.de"
 organization_name = "OK Lab Leipzig"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2020-10-18T07:53:03Z"
 default_branch = "main"

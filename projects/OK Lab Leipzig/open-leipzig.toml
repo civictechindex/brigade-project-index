@@ -5,6 +5,7 @@ name = "open-leipzig"
 organization_name = "OK Lab Leipzig"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-07-09T06:09:56Z"
 default_branch = "master"

@@ -4,6 +4,7 @@ name = "mdv-fermata"
 organization_name = "OK Lab Leipzig"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2020-03-11T18:44:39Z"
 default_branch = "master"

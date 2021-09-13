@@ -5,6 +5,7 @@ name = "fog"
 organization_name = "OK Lab Leipzig"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-09-30T16:17:35Z"
 default_branch = "master"

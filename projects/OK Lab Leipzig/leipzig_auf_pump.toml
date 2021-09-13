@@ -6,6 +6,7 @@ name = "leipzig_auf_pump"
 organization_name = "OK Lab Leipzig"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2021-08-21T10:51:06Z"
 default_branch = "main"

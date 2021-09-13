@@ -6,6 +6,7 @@ name = "kieznotiz"
 organization_name = "OK Lab Leipzig"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2021-07-28T16:46:55Z"
 default_branch = "main"

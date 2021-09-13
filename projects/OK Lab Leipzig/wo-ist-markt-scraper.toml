@@ -5,6 +5,7 @@ name = "wo-ist-markt-scraper"
 organization_name = "OK Lab Leipzig"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2019-01-05T00:01:20Z"
 default_branch = "master"

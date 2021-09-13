@@ -5,6 +5,7 @@ name = "matomo"
 organization_name = "OK Lab Leipzig"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2018-04-02T09:08:54Z"
 default_branch = "master"

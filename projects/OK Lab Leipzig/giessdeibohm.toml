@@ -6,6 +6,7 @@ name = "giessdeibohm"
 organization_name = "OK Lab Leipzig"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2020-07-26T23:17:10Z"
 default_branch = "master"
