@@ -5,6 +5,7 @@ name = "docker-attendize"
 organization_name = "Code for Europe"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-12-20T19:36:21Z"
 default_branch = "master"

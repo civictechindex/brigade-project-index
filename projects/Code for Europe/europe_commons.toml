@@ -5,6 +5,7 @@ name = "europe_commons"
 organization_name = "Code for Europe"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2013-02-13T10:01:05Z"
 default_branch = "master"

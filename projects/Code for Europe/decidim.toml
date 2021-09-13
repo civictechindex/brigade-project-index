@@ -6,6 +6,7 @@ name = "decidim"
 organization_name = "Code for Europe"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2017-10-12T15:59:44Z"
 default_branch = "master"

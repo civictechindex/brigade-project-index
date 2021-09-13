@@ -6,6 +6,7 @@ organization_name = "Code for Europe"
 topics = [ "communication", "slack" ]
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2017-04-21T14:59:03Z"
 default_branch = "master"

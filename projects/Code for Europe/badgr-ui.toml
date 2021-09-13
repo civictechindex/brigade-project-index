@@ -4,6 +4,7 @@ name = "badgr-ui"
 organization_name = "Code for Europe"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2019-09-23T15:02:18Z"
 default_branch = "i18n"

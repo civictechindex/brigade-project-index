@@ -5,6 +5,7 @@ name = "water-ui"
 organization_name = "Code for Europe"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2017-03-23T13:01:28Z"
 default_branch = "master"

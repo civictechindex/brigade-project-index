@@ -5,6 +5,7 @@ name = "dailywifi-android"
 organization_name = "Code for Europe"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2013-05-30T14:27:05Z"
 default_branch = "master"

@@ -5,6 +5,7 @@ name = "gohike-android"
 organization_name = "Code for Europe"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2013-06-02T21:02:09Z"
 default_branch = "master"

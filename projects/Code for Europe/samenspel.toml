@@ -5,6 +5,7 @@ name = "samenspel"
 organization_name = "Code for Europe"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-01-22T14:29:01Z"
 default_branch = "master"

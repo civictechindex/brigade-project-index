@@ -6,6 +6,7 @@ name = "Transparent-Water"
 organization_name = "Code for Europe"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2017-03-24T10:14:25Z"
 default_branch = "master"

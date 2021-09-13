@@ -5,6 +5,7 @@ name = "change-by-us-3"
 organization_name = "Code for Europe"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-05-20T13:20:53Z"
 default_branch = "master"

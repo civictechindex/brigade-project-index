@@ -5,6 +5,7 @@ name = "art-explorer-demo"
 organization_name = "Code for Europe"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-07-20T16:45:07Z"
 default_branch = "master"

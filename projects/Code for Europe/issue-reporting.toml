@@ -5,6 +5,7 @@ name = "issue-reporting"
 organization_name = "Code for Europe"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-12-27T10:39:40Z"
 default_branch = "master"
