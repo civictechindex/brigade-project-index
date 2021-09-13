@@ -6,6 +6,7 @@ name = "national-day-2016"
 organization_name = "Code for Hawaii"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-03-14T00:33:29Z"
 default_branch = "master"

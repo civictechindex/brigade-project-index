@@ -6,6 +6,7 @@ name = "django-multi-gtfs"
 organization_name = "Code for Hawaii"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-12-05T18:36:24Z"
 default_branch = "master"

@@ -5,6 +5,7 @@ name = "city-analytics-dashboard"
 organization_name = "Code for Hawaii"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-07-29T08:50:54Z"
 default_branch = "master"

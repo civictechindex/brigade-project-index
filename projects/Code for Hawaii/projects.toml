@@ -6,6 +6,7 @@ name = "projects"
 organization_name = "Code for Hawaii"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-11-17T05:07:15Z"
 default_branch = "master"

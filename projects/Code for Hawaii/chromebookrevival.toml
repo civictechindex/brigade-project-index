@@ -5,6 +5,7 @@ name = "chromebookrevival"
 organization_name = "Code for Hawaii"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2020-11-12T04:38:59Z"
 default_branch = "main"

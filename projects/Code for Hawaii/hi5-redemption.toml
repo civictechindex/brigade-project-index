@@ -5,6 +5,7 @@ name = "hi5-redemption"
 organization_name = "Code for Hawaii"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-01-07T05:45:12Z"
 default_branch = "master"

@@ -6,6 +6,7 @@ name = "projectmonitor"
 organization_name = "Code for Hawaii"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-09-03T16:21:09Z"
 default_branch = "master"

@@ -5,6 +5,7 @@ name = "CutePets"
 organization_name = "Code for Hawaii"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-08-31T08:56:23Z"
 default_branch = "master"

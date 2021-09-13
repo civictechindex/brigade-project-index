@@ -6,6 +6,7 @@ name = "awesome-public-datasets"
 organization_name = "Code for Hawaii"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-01-31T07:04:27Z"
 default_branch = "master"

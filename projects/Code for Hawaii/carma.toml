@@ -5,6 +5,7 @@ name = "carma"
 organization_name = "Code for Hawaii"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-05-23T07:18:01Z"
 default_branch = "master"

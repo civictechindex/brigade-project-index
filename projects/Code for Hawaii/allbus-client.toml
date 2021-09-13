@@ -5,6 +5,7 @@ name = "allbus-client"
 organization_name = "Code for Hawaii"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-09-17T05:04:45Z"
 default_branch = "master"

@@ -5,6 +5,7 @@ name = "realtime-traffic-sign"
 organization_name = "Code for Hawaii"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-06-04T22:29:19Z"
 default_branch = "master"

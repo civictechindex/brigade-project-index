@@ -6,6 +6,7 @@ name = "uipa_org"
 organization_name = "Code for Hawaii"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-09-14T19:53:20Z"
 default_branch = "master"

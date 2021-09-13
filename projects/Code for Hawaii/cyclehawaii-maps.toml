@@ -6,6 +6,7 @@ name = "cyclehawaii-maps"
 organization_name = "Code for Hawaii"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-06-06T21:46:51Z"
 default_branch = "master"

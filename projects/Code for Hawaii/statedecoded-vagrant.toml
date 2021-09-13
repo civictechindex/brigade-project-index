@@ -5,6 +5,7 @@ name = "statedecoded-vagrant"
 organization_name = "Code for Hawaii"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-08-12T03:07:20Z"
 default_branch = "master"

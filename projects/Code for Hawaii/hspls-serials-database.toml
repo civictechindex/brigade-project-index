@@ -6,6 +6,7 @@ name = "hspls-serials-database"
 organization_name = "Code for Hawaii"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-03-12T05:27:01Z"
 default_branch = "master"

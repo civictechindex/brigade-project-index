@@ -5,6 +5,7 @@ name = "event-planning"
 organization_name = "Code for Hawaii"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-12-03T19:48:16Z"
 default_branch = "master"

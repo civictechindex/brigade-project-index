@@ -5,6 +5,7 @@ name = "HawaiiBudgetWorksheets"
 organization_name = "Code for Hawaii"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-03-21T08:20:57Z"
 default_branch = "master"

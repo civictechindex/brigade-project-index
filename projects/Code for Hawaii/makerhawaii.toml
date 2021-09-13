@@ -4,6 +4,7 @@ name = "makerhawaii"
 organization_name = "Code for Hawaii"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-11-01T06:08:40Z"
 default_branch = "master"

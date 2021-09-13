@@ -5,6 +5,7 @@ name = "hack-to-the-future"
 organization_name = "Code for Hawaii"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-05-31T06:22:21Z"
 default_branch = "master"

@@ -5,6 +5,7 @@ name = "campaign_finance_starter_package"
 organization_name = "Code for Hawaii"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-01-26T01:06:02Z"
 default_branch = "master"

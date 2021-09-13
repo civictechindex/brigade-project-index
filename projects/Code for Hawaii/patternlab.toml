@@ -5,6 +5,7 @@ name = "patternlab"
 organization_name = "Code for Hawaii"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-02-04T04:36:55Z"
 default_branch = "master"
