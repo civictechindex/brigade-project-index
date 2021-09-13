@@ -4,6 +4,7 @@ name = "aws-database-automation-scripts"
 organization_name = "Open Twin Cities"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2017-06-28T00:09:50Z"
 default_branch = "master"

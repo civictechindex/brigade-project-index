@@ -4,6 +4,7 @@ name = "communityProfilesData"
 organization_name = "Open Twin Cities"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2018-09-22T20:26:58Z"
 default_branch = "master"

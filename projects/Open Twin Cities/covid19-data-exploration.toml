@@ -5,6 +5,7 @@ name = "covid19-data-exploration"
 organization_name = "Open Twin Cities"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2020-03-26T04:19:09Z"
 default_branch = "master"

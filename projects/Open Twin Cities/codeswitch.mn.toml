@@ -5,6 +5,7 @@ name = "codeswitch.mn"
 organization_name = "Open Twin Cities"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-07-21T18:10:29Z"
 default_branch = "master"

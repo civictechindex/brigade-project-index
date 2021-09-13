@@ -6,6 +6,7 @@ organization_name = "Open Twin Cities"
 topics = [ "hacktoberfest" ]
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-09-28T00:21:11Z"
 default_branch = "main"
