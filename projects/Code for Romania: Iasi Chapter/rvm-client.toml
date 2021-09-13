@@ -5,6 +5,7 @@ name = "rvm-client"
 organization_name = "Code for Romania: Iasi Chapter"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2019-05-31T14:41:27Z"
 default_branch = "master"

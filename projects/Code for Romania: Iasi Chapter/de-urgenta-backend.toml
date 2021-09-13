@@ -6,6 +6,7 @@ name = "de-urgenta-backend"
 organization_name = "Code for Romania: Iasi Chapter"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2021-03-31T10:34:29Z"
 default_branch = "develop"

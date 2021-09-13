@@ -5,6 +5,7 @@ name = "expert-consultation-frontend"
 organization_name = "Code for Romania: Iasi Chapter"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2021-05-25T16:36:42Z"
 default_branch = "main"

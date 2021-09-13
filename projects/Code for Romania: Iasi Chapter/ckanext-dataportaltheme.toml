@@ -6,6 +6,7 @@ organization_name = "Code for Romania: Iasi Chapter"
 topics = [ "ckan", "dataportal", "theme" ]
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2019-01-22T17:16:19Z"
 default_branch = "master"

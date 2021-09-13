@@ -5,6 +5,7 @@ name = "de-urgenta-client"
 organization_name = "Code for Romania: Iasi Chapter"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2021-03-27T12:39:24Z"
 default_branch = "develop"

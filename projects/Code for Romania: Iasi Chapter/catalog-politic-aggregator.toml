@@ -6,6 +6,7 @@ name = "catalog-politic-aggregator"
 organization_name = "Code for Romania: Iasi Chapter"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2019-08-28T10:51:58Z"
 default_branch = "develop"
