@@ -6,6 +6,7 @@ name = "FusionTable-Map-Template"
 organization_name = "BetaNYC"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2013-03-03T16:09:24Z"
 default_branch = "master"

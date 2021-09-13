@@ -6,6 +6,7 @@ name = "batch-geocoder-nyc"
 organization_name = "BetaNYC"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2020-04-20T03:44:28Z"
 default_branch = "master"

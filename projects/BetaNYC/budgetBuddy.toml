@@ -6,6 +6,7 @@ name = "budgetBuddy"
 organization_name = "BetaNYC"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-06-20T13:55:15Z"
 default_branch = "master"

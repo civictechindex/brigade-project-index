@@ -5,6 +5,7 @@ name = "getDataButton"
 organization_name = "BetaNYC"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-11-14T23:49:14Z"
 default_branch = "master"

@@ -6,6 +6,7 @@ name = "nyc-open-government-timeline"
 organization_name = "BetaNYC"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-02-17T18:08:23Z"
 default_branch = "master"

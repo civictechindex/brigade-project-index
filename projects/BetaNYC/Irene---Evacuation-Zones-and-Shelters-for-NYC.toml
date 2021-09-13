@@ -5,6 +5,7 @@ name = "Irene---Evacuation-Zones-and-Shelters-for-NYC"
 organization_name = "BetaNYC"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2013-11-17T19:20:47Z"
 default_branch = "master"

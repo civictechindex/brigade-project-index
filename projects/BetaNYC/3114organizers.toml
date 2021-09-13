@@ -5,6 +5,7 @@ name = "3114organizers"
 organization_name = "BetaNYC"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2013-10-03T03:10:44Z"
 default_branch = "master"

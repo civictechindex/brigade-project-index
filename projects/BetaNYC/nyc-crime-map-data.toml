@@ -4,6 +4,7 @@ name = "nyc-crime-map-data"
 organization_name = "BetaNYC"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-01-10T06:06:24Z"
 default_branch = "master"

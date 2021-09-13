@@ -6,6 +6,7 @@ name = "citygram-services-nyc"
 organization_name = "BetaNYC"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-03-01T19:17:31Z"
 default_branch = "master"

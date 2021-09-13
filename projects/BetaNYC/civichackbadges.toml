@@ -5,6 +5,7 @@ name = "civichackbadges"
 organization_name = "BetaNYC"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-08-19T20:15:29Z"
 default_branch = "master"

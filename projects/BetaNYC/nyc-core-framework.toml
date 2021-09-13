@@ -6,6 +6,7 @@ name = "nyc-core-framework"
 organization_name = "BetaNYC"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2021-02-18T17:45:13Z"
 default_branch = "master"

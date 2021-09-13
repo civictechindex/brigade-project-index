@@ -6,6 +6,7 @@ name = "hackdaymanifesto.github.com"
 organization_name = "BetaNYC"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2013-04-28T20:40:30Z"
 default_branch = "master"

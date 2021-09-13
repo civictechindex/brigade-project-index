@@ -5,6 +5,7 @@ name = "cbdb"
 organization_name = "BetaNYC"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2019-06-25T14:55:56Z"
 default_branch = "master"

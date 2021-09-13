@@ -4,6 +4,7 @@ name = "service-alerts-frontend"
 organization_name = "BetaNYC"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-04-21T18:33:48Z"
 default_branch = "master"

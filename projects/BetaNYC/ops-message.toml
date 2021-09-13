@@ -5,6 +5,7 @@ name = "ops-message"
 organization_name = "BetaNYC"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2017-07-18T14:19:20Z"
 default_branch = "master"

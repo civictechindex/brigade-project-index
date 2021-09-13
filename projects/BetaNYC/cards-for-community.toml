@@ -5,6 +5,7 @@ name = "cards-for-community"
 organization_name = "BetaNYC"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2017-12-07T19:05:59Z"
 default_branch = "master"

@@ -6,6 +6,7 @@ name = "BoardStat"
 organization_name = "BetaNYC"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2017-05-18T18:21:37Z"
 default_branch = "master"

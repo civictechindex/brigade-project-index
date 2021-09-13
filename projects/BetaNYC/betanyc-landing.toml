@@ -6,6 +6,7 @@ name = "betanyc-landing"
 organization_name = "BetaNYC"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2013-11-16T18:46:25Z"
 default_branch = "gh-pages"

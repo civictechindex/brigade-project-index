@@ -4,6 +4,7 @@ name = "open-data-week-theme"
 organization_name = "BetaNYC"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2020-02-03T14:27:26Z"
 default_branch = "master"

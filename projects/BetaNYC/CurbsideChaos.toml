@@ -4,6 +4,7 @@ name = "CurbsideChaos"
 organization_name = "BetaNYC"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2019-09-21T15:36:15Z"
 default_branch = "master"

@@ -5,6 +5,7 @@ name = "open_government"
 organization_name = "BetaNYC"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2013-11-18T15:05:35Z"
 default_branch = "master"

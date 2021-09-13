@@ -5,6 +5,7 @@ name = "talk.beta.nyc"
 organization_name = "BetaNYC"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-07-20T23:34:07Z"
 default_branch = "master"

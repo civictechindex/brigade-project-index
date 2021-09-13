@@ -5,6 +5,7 @@ name = "BoardTrack"
 organization_name = "BetaNYC"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2018-09-10T14:25:49Z"
 default_branch = "master"

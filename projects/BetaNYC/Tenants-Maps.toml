@@ -6,6 +6,7 @@ name = "Tenants-Maps"
 organization_name = "BetaNYC"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2018-08-01T20:52:56Z"
 default_branch = "master"

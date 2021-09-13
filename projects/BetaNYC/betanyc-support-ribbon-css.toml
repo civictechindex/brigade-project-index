@@ -6,6 +6,7 @@ name = "betanyc-support-ribbon-css"
 organization_name = "BetaNYC"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-08-25T22:18:11Z"
 default_branch = "gh-pages"

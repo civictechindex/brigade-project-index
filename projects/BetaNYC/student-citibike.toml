@@ -5,6 +5,7 @@ name = "student-citibike"
 organization_name = "BetaNYC"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2013-06-27T14:38:04Z"
 default_branch = "master"

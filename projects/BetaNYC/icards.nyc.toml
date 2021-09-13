@@ -5,6 +5,7 @@ name = "icards.nyc"
 organization_name = "BetaNYC"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-04-27T20:17:46Z"
 default_branch = "master"

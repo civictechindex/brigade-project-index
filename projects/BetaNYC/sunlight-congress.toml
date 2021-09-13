@@ -6,6 +6,7 @@ name = "sunlight-congress"
 organization_name = "BetaNYC"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2013-04-09T19:42:59Z"
 default_branch = "master"
