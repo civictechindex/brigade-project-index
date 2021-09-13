@@ -5,6 +5,7 @@ name = "politikei"
 organization_name = "Open Brazil"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-10-08T00:46:27Z"
 default_branch = "master"

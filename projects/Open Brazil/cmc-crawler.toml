@@ -5,6 +5,7 @@ name = "cmc-crawler"
 organization_name = "Open Brazil"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-03-15T22:46:16Z"
 default_branch = "master"

@@ -4,6 +4,7 @@ name = "pontodeacesso"
 organization_name = "Open Brazil"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-09-16T23:37:55Z"
 default_branch = "master"

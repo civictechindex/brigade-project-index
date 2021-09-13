@@ -6,6 +6,7 @@ name = "Vizin"
 organization_name = "Open Brazil"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-09-06T00:42:33Z"
 default_branch = "master"
