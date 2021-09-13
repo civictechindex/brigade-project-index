@@ -5,6 +5,7 @@ name = "sawaterlevel"
 organization_name = "Open San Antonio"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-07-11T00:48:53Z"
 default_branch = "master"

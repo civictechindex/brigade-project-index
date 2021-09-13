@@ -5,6 +5,7 @@ name = "ideas"
 organization_name = "Open San Antonio"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-06-07T00:32:46Z"
 default_branch = "master"

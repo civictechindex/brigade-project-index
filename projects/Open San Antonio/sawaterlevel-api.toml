@@ -6,6 +6,7 @@ name = "sawaterlevel-api"
 organization_name = "Open San Antonio"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-07-11T03:18:10Z"
 default_branch = "master"

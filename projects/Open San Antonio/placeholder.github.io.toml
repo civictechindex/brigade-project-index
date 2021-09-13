@@ -4,6 +4,7 @@ name = "placeholder.github.io"
 organization_name = "Open San Antonio"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-04-30T20:42:51Z"
 default_branch = "master"

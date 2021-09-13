@@ -6,6 +6,7 @@ name = "opensatx.github.io"
 organization_name = "Open San Antonio"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-04-30T00:59:26Z"
 default_branch = "master"
