@@ -4,6 +4,7 @@ name = "scrapeTemplate"
 organization_name = "OK Lab Heilbronn"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-11-17T16:45:09Z"
 default_branch = "master"

@@ -5,6 +5,7 @@ name = "rc3-world-map"
 organization_name = "OK Lab Heilbronn"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2020-11-18T19:10:56Z"
 default_branch = "main"

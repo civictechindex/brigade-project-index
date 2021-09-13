@@ -4,6 +4,7 @@ name = "garbage-calendar-converter"
 organization_name = "OK Lab Heilbronn"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-02-22T16:30:59Z"
 default_branch = "master"

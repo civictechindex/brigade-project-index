@@ -4,6 +4,7 @@ name = "kastanien-app-wp"
 organization_name = "OK Lab Heilbronn"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-09-03T17:36:46Z"
 default_branch = "master"

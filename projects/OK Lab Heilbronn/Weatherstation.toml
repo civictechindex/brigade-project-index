@@ -4,6 +4,7 @@ name = "Weatherstation"
 organization_name = "OK Lab Heilbronn"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-08-18T18:36:24Z"
 default_branch = "master"

@@ -5,6 +5,7 @@ name = "shortlink"
 organization_name = "OK Lab Heilbronn"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2018-06-21T15:11:00Z"
 default_branch = "master"

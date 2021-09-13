@@ -5,6 +5,7 @@ name = "Experimenta-Countdown"
 organization_name = "OK Lab Heilbronn"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2017-12-09T16:30:21Z"
 default_branch = "master"

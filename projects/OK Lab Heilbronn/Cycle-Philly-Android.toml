@@ -6,6 +6,7 @@ name = "Cycle-Philly-Android"
 organization_name = "OK Lab Heilbronn"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2017-02-09T12:34:11Z"
 default_branch = "master"

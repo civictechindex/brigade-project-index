@@ -6,6 +6,7 @@ name = "my-cfhn-presence"
 organization_name = "OK Lab Heilbronn"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2018-09-20T15:07:27Z"
 default_branch = "master"

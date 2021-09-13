@@ -5,6 +5,7 @@ name = "heilbronn-ennen"
 organization_name = "OK Lab Heilbronn"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-03-17T18:36:09Z"
 default_branch = "master"

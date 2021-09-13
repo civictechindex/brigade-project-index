@@ -4,6 +4,7 @@ name = "raspberry-dust-GPIO"
 organization_name = "OK Lab Heilbronn"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-03-05T14:58:22Z"
 default_branch = "master"

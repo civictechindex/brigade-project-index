@@ -5,6 +5,7 @@ name = "android-workshop-kastanien"
 organization_name = "OK Lab Heilbronn"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-10-13T09:24:20Z"
 default_branch = "master"

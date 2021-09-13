@@ -4,6 +4,7 @@ name = "Farmbot-communication"
 organization_name = "OK Lab Heilbronn"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2017-12-29T12:20:58Z"
 default_branch = "master"

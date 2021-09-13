@@ -5,6 +5,7 @@ name = "garbage-collection"
 organization_name = "OK Lab Heilbronn"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-11-12T17:55:07Z"
 default_branch = "master"

@@ -4,6 +4,7 @@ name = "cfhn-bot"
 organization_name = "OK Lab Heilbronn"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2018-08-06T15:08:01Z"
 default_branch = "master"

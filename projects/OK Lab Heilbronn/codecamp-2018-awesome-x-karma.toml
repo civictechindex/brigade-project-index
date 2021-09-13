@@ -4,6 +4,7 @@ name = "codecamp-2018-awesome-x-karma"
 organization_name = "OK Lab Heilbronn"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2018-11-04T16:35:54Z"
 default_branch = "master"

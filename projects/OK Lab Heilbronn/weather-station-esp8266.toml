@@ -4,6 +4,7 @@ name = "weather-station-esp8266"
 organization_name = "OK Lab Heilbronn"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-07-14T14:01:51Z"
 default_branch = "master"

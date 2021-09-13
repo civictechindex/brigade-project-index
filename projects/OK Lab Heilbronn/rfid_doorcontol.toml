@@ -4,6 +4,7 @@ name = "rfid_doorcontol"
 organization_name = "OK Lab Heilbronn"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-10-17T17:50:51Z"
 default_branch = "master"

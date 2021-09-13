@@ -4,6 +4,7 @@ name = "pizzabot"
 organization_name = "OK Lab Heilbronn"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-12-01T17:23:46Z"
 default_branch = "master"

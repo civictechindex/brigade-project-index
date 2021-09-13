@@ -4,6 +4,7 @@ name = "city-api-alexa-skill"
 organization_name = "OK Lab Heilbronn"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2018-03-03T16:30:40Z"
 default_branch = "master"

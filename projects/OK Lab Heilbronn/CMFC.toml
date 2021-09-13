@@ -4,6 +4,7 @@ name = "CMFC"
 organization_name = "OK Lab Heilbronn"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2018-07-10T17:43:57Z"
 default_branch = "master"

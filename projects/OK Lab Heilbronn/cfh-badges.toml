@@ -4,6 +4,7 @@ name = "cfh-badges"
 organization_name = "OK Lab Heilbronn"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2017-10-16T21:12:50Z"
 default_branch = "master"

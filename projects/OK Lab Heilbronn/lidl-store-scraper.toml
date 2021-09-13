@@ -4,6 +4,7 @@ name = "lidl-store-scraper"
 organization_name = "OK Lab Heilbronn"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2021-03-06T11:56:16Z"
 default_branch = "main"
