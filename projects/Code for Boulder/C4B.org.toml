@@ -5,6 +5,7 @@ name = "C4B.org"
 organization_name = "Code for Boulder"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2019-07-25T01:17:58Z"
 default_branch = "master"

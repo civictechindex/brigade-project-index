@@ -6,6 +6,7 @@ name = "CfB-Website-New"
 organization_name = "Code for Boulder"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-04-07T02:10:10Z"
 default_branch = "master"
