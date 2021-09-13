@@ -6,6 +6,7 @@ name = "project-open-data.github.io"
 organization_name = "Project Open Data"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2013-05-09T14:07:53Z"
 default_branch = "master"

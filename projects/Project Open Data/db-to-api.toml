@@ -5,6 +5,7 @@ name = "db-to-api"
 organization_name = "Project Open Data"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2012-09-06T21:01:37Z"
 default_branch = "master"

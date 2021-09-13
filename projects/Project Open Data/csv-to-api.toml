@@ -6,6 +6,7 @@ name = "csv-to-api"
 organization_name = "Project Open Data"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2012-08-14T17:39:30Z"
 default_branch = "master"
