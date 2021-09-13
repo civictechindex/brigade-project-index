@@ -5,6 +5,7 @@ name = "oakland-schools-public-services"
 organization_name = "Code for America"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2013-01-18T21:42:01Z"
 default_branch = "master"

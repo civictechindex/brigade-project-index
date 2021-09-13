@@ -5,6 +5,7 @@ name = "housefacts_spec"
 organization_name = "Code for America"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2013-09-26T00:45:01Z"
 default_branch = "master"

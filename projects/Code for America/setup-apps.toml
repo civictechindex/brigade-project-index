@@ -5,6 +5,7 @@ name = "setup-apps"
 organization_name = "Code for America"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-05-13T21:28:03Z"
 default_branch = "master"

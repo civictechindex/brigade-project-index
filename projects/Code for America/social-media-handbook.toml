@@ -6,6 +6,7 @@ name = "social-media-handbook"
 organization_name = "Code for America"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2012-05-31T22:48:18Z"
 default_branch = "gh-pages"

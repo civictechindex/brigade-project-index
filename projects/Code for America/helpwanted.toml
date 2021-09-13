@@ -5,6 +5,7 @@ name = "helpwanted"
 organization_name = "Code for America"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-04-05T18:07:57Z"
 default_branch = "master"

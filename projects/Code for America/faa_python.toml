@@ -5,6 +5,7 @@ name = "faa_python"
 organization_name = "Code for America"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2011-06-22T18:55:37Z"
 default_branch = "master"

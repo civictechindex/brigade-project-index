@@ -5,6 +5,7 @@ name = "vpd-crime-reports"
 organization_name = "Code for America"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-02-15T01:57:28Z"
 default_branch = "gh-pages"

@@ -6,6 +6,7 @@ name = "geodata-checkout"
 organization_name = "Code for America"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2012-10-12T22:59:22Z"
 default_branch = "master"

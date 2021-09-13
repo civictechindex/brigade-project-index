@@ -6,6 +6,7 @@ name = "abq-research"
 organization_name = "Code for America"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-03-20T18:27:12Z"
 default_branch = "gh-pages"

@@ -6,6 +6,7 @@ name = "mdc-step-wizard"
 organization_name = "Code for America"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-06-04T16:08:21Z"
 default_branch = "master"

@@ -5,6 +5,7 @@ name = "clientcommhelp"
 organization_name = "Code for America"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2017-10-26T18:04:10Z"
 default_branch = "master"

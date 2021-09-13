@@ -5,6 +5,7 @@ name = "US-Census-Area-API"
 organization_name = "Code for America"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2013-09-13T19:13:19Z"
 default_branch = "master"

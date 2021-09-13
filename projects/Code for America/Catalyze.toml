@@ -5,6 +5,7 @@ name = "Catalyze"
 organization_name = "Code for America"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2011-04-11T23:33:53Z"
 default_branch = "master"

@@ -6,6 +6,7 @@ name = "somerville-teacher-tool"
 organization_name = "Code for America"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-01-14T01:08:08Z"
 default_branch = "master"

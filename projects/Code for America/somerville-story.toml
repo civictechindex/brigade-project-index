@@ -6,6 +6,7 @@ name = "somerville-story"
 organization_name = "Code for America"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-06-15T03:20:48Z"
 default_branch = "master"

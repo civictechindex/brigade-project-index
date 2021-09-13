@@ -5,6 +5,7 @@ name = "p-ebt-landing"
 organization_name = "Code for America"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2020-06-09T21:13:40Z"
 default_branch = "master"

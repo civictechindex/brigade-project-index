@@ -5,6 +5,7 @@ name = "windygrid"
 organization_name = "Code for America"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2012-04-11T00:23:11Z"
 default_branch = "master"

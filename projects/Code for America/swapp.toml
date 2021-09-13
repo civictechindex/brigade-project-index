@@ -4,6 +4,7 @@ name = "swapp"
 organization_name = "Code for America"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2021-04-21T22:12:52Z"
 default_branch = "main"

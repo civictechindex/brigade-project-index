@@ -6,6 +6,7 @@ name = "golden-ticket"
 organization_name = "Code for America"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-09-16T02:03:57Z"
 default_branch = "master"

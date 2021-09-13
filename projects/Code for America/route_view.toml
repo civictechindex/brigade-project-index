@@ -5,6 +5,7 @@ name = "route_view"
 organization_name = "Code for America"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2012-06-25T04:08:59Z"
 default_branch = "master"

@@ -5,6 +5,7 @@ name = "esri_prototypes"
 organization_name = "Code for America"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2012-05-17T18:03:15Z"
 default_branch = "master"

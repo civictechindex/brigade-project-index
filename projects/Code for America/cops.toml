@@ -5,6 +5,7 @@ name = "cops"
 organization_name = "Code for America"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-04-10T21:41:54Z"
 default_branch = "master"

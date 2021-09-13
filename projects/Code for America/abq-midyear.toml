@@ -6,6 +6,7 @@ name = "abq-midyear"
 organization_name = "Code for America"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-06-11T21:38:29Z"
 default_branch = "gh-pages"

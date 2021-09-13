@@ -4,6 +4,7 @@ name = "hermes-doc"
 organization_name = "Code for America"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2013-03-19T18:27:26Z"
 default_branch = "master"

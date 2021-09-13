@@ -4,6 +4,7 @@ name = "the-mission-is-delivery"
 organization_name = "Code for America"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-10-07T17:18:53Z"
 default_branch = "master"

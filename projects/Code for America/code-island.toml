@@ -5,6 +5,7 @@ name = "code-island"
 organization_name = "Code for America"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-09-15T21:15:10Z"
 default_branch = "master"

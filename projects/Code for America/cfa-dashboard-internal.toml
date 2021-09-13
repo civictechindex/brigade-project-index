@@ -6,6 +6,7 @@ name = "cfa-dashboard-internal"
 organization_name = "Code for America"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2011-08-04T00:38:17Z"
 default_branch = "master"

@@ -5,6 +5,7 @@ name = "nola-2016-fellows"
 organization_name = "Code for America"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-01-27T01:05:34Z"
 default_branch = "master"

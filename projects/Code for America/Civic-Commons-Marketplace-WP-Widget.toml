@@ -4,6 +4,7 @@ name = "Civic-Commons-Marketplace-WP-Widget"
 organization_name = "Code for America"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2012-01-13T17:22:46Z"
 default_branch = "master"

@@ -5,6 +5,7 @@ name = "primerpeso2"
 organization_name = "Code for America"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-01-04T22:58:56Z"
 default_branch = "master"

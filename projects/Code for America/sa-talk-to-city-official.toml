@@ -4,6 +4,7 @@ name = "sa-talk-to-city-official"
 organization_name = "Code for America"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-04-16T00:27:19Z"
 default_branch = "master"

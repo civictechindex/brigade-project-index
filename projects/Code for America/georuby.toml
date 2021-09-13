@@ -5,6 +5,7 @@ name = "georuby"
 organization_name = "Code for America"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2011-03-08T01:04:58Z"
 default_branch = "master"

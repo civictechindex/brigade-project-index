@@ -6,6 +6,7 @@ name = "ohana-api"
 organization_name = "Code for America"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2013-05-14T18:50:32Z"
 default_branch = "master"

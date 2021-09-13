@@ -5,6 +5,7 @@ name = "Welcome-America-WP-Theme"
 organization_name = "Code for America"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2011-05-27T16:38:18Z"
 default_branch = "master"

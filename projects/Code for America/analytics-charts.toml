@@ -5,6 +5,7 @@ name = "analytics-charts"
 organization_name = "Code for America"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-12-02T18:59:53Z"
 default_branch = "master"

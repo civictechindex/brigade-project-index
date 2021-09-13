@@ -6,6 +6,7 @@ name = "abq-seatmap"
 organization_name = "Code for America"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-04-10T23:44:12Z"
 default_branch = "gh-pages"

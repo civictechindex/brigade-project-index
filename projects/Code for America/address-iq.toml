@@ -6,6 +6,7 @@ name = "address-iq"
 organization_name = "Code for America"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-06-09T21:59:46Z"
 default_branch = "master"

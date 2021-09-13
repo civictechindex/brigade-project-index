@@ -5,6 +5,7 @@ name = "atlanta-procurement-wp"
 organization_name = "Code for America"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-10-08T23:09:19Z"
 default_branch = "master"

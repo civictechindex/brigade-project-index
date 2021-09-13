@@ -5,6 +5,7 @@ name = "hermes-be"
 organization_name = "Code for America"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2013-04-09T22:22:17Z"
 default_branch = "master"

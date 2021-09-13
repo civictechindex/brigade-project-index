@@ -6,6 +6,7 @@ name = "geeky_valentines"
 organization_name = "Code for America"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2012-02-14T08:50:24Z"
 default_branch = "master"

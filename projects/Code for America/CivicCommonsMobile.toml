@@ -4,6 +4,7 @@ name = "CivicCommonsMobile"
 organization_name = "Code for America"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2012-01-14T08:27:54Z"
 default_branch = "master"

@@ -5,6 +5,7 @@ name = "pyramidongae"
 organization_name = "Code for America"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2011-05-01T06:22:09Z"
 default_branch = "master"

@@ -5,6 +5,7 @@ name = "ceviche-starter"
 organization_name = "Code for America"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-02-02T22:05:27Z"
 default_branch = "master"

@@ -4,6 +4,7 @@ name = "seattle_demo_issues"
 organization_name = "Code for America"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-02-04T22:22:31Z"
 default_branch = "gh-pages"

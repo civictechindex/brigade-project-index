@@ -5,6 +5,7 @@ name = "IndyGIS"
 organization_name = "Code for America"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-02-21T19:02:51Z"
 default_branch = "master"

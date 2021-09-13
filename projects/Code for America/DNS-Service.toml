@@ -5,6 +5,7 @@ name = "DNS-Service"
 organization_name = "Code for America"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-04-16T05:14:32Z"
 default_branch = "master"

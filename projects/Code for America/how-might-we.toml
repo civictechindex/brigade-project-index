@@ -5,6 +5,7 @@ name = "how-might-we"
 organization_name = "Code for America"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-04-30T23:51:07Z"
 default_branch = "master"

@@ -5,6 +5,7 @@ name = "story-bucket"
 organization_name = "Code for America"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-03-31T20:14:39Z"
 default_branch = "gh-pages"

@@ -5,6 +5,7 @@ name = "sfpark"
 organization_name = "Code for America"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2011-10-27T21:49:34Z"
 default_branch = "master"

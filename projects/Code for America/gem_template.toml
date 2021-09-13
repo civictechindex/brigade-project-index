@@ -6,6 +6,7 @@ name = "gem_template"
 organization_name = "Code for America"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2011-03-19T22:46:19Z"
 default_branch = "master"

@@ -5,6 +5,7 @@ name = "ticket-to-ride"
 organization_name = "Code for America"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-05-01T21:42:38Z"
 default_branch = "master"

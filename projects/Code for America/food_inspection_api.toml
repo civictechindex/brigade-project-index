@@ -5,6 +5,7 @@ name = "food_inspection_api"
 organization_name = "Code for America"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2013-04-29T22:02:50Z"
 default_branch = "master"

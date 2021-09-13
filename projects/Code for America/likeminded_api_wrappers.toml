@@ -5,6 +5,7 @@ name = "likeminded_api_wrappers"
 organization_name = "Code for America"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2011-04-20T17:56:30Z"
 default_branch = "master"

@@ -6,6 +6,7 @@ name = "socrata-python"
 organization_name = "Code for America"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2012-04-13T23:34:58Z"
 default_branch = "master"

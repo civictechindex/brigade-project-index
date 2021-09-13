@@ -5,6 +5,7 @@ name = "rubymine-settings"
 organization_name = "Code for America"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2018-03-29T17:25:27Z"
 default_branch = "master"

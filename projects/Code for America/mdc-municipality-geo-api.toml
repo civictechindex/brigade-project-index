@@ -6,6 +6,7 @@ name = "mdc-municipality-geo-api"
 organization_name = "Code for America"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-03-13T00:17:23Z"
 default_branch = "master"

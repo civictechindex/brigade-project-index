@@ -5,6 +5,7 @@ name = "fellowship-project-dashboard"
 organization_name = "Code for America"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-03-14T23:44:14Z"
 default_branch = "gh-pages"

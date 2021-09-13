@@ -7,6 +7,7 @@ organization_name = "Code for America"
 topics = [ "a11y", "netlify", "performance", "speedlify" ]
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2020-09-25T10:15:52Z"
 default_branch = "live"

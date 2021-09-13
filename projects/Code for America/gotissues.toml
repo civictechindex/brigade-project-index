@@ -6,6 +6,7 @@ name = "gotissues"
 organization_name = "Code for America"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-02-07T05:32:56Z"
 default_branch = "master"

@@ -4,6 +4,7 @@ name = "ohhs_Falcon"
 organization_name = "Code for America"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2013-06-17T21:47:44Z"
 default_branch = "master"

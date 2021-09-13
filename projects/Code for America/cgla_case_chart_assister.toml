@@ -5,6 +5,7 @@ name = "cgla_case_chart_assister"
 organization_name = "Code for America"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2019-09-23T16:42:58Z"
 default_branch = "master"

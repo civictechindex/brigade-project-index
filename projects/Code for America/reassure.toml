@@ -5,6 +5,7 @@ name = "reassure"
 organization_name = "Code for America"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-01-13T18:40:50Z"
 default_branch = "master"

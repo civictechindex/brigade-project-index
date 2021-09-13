@@ -5,6 +5,7 @@ name = "snapr"
 organization_name = "Code for America"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2013-01-12T06:14:44Z"
 default_branch = "master"

@@ -5,6 +5,7 @@ name = "spy_glass"
 organization_name = "Code for America"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-09-09T05:51:30Z"
 default_branch = "master"

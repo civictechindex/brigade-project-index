@@ -6,6 +6,7 @@ name = "denver-schedules"
 organization_name = "Code for America"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-05-05T19:07:52Z"
 default_branch = "master"

@@ -4,6 +4,7 @@ name = "flu-shot-spec"
 organization_name = "Code for America"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2013-10-01T17:02:13Z"
 default_branch = "master"

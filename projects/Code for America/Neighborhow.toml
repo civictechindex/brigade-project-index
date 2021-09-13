@@ -4,6 +4,7 @@ name = "Neighborhow"
 organization_name = "Code for America"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2012-08-16T10:04:19Z"
 default_branch = "master"

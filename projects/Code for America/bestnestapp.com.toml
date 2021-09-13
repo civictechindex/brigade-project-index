@@ -5,6 +5,7 @@ name = "bestnestapp.com"
 organization_name = "Code for America"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-06-17T22:33:35Z"
 default_branch = "gh-pages"

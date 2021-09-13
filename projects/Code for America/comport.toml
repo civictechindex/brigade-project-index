@@ -6,6 +6,7 @@ name = "comport"
 organization_name = "Code for America"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-09-02T21:07:13Z"
 default_branch = "master"

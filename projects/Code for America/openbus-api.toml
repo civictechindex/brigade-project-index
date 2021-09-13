@@ -5,6 +5,7 @@ name = "openbus-api"
 organization_name = "Code for America"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-04-18T06:50:35Z"
 default_branch = "master"

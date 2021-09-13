@@ -5,6 +5,7 @@ name = "heroku-buildpack-lame"
 organization_name = "Code for America"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-07-31T23:32:17Z"
 default_branch = "master"

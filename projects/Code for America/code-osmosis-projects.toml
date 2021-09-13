@@ -5,6 +5,7 @@ name = "code-osmosis-projects"
 organization_name = "Code for America"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-02-26T17:11:22Z"
 default_branch = "master"

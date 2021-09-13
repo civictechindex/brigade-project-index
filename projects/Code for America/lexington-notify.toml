@@ -5,6 +5,7 @@ name = "lexington-notify"
 organization_name = "Code for America"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-03-11T01:06:58Z"
 default_branch = "master"

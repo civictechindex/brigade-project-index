@@ -6,6 +6,7 @@ name = "trymta"
 organization_name = "Code for America"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2012-06-14T18:55:35Z"
 default_branch = "gh-pages"

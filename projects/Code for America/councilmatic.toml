@@ -6,6 +6,7 @@ name = "councilmatic"
 organization_name = "Code for America"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2011-03-24T05:18:10Z"
 default_branch = "master"

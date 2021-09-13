@@ -6,6 +6,7 @@ name = "cityvoice-survey-builder"
 organization_name = "Code for America"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-07-17T06:15:17Z"
 default_branch = "master"

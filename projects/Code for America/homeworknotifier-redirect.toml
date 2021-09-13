@@ -6,6 +6,7 @@ name = "homeworknotifier-redirect"
 organization_name = "Code for America"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2011-05-11T10:34:14Z"
 default_branch = "master"

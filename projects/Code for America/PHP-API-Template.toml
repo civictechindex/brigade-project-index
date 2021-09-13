@@ -6,6 +6,7 @@ name = "PHP-API-Template"
 organization_name = "Code for America"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2011-06-13T17:33:19Z"
 default_branch = "master"

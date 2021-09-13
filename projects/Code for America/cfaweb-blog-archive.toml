@@ -5,6 +5,7 @@ name = "cfaweb-blog-archive"
 organization_name = "Code for America"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-06-07T22:36:25Z"
 default_branch = "master"

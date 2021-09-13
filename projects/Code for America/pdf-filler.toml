@@ -5,6 +5,7 @@ name = "pdf-filler"
 organization_name = "Code for America"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-05-29T20:38:46Z"
 default_branch = "master"

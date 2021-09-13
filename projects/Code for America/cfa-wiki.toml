@@ -5,6 +5,7 @@ name = "cfa-wiki"
 organization_name = "Code for America"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-07-25T20:36:59Z"
 default_branch = "master"

@@ -6,6 +6,7 @@ name = "microsoft_open_data_python"
 organization_name = "Code for America"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2011-06-17T19:42:34Z"
 default_branch = "master"

@@ -6,6 +6,7 @@ name = "super-mayor"
 organization_name = "Code for America"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2012-09-19T01:16:59Z"
 default_branch = "master"

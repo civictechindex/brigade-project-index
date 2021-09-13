@@ -6,6 +6,7 @@ name = "intake"
 organization_name = "Code for America"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-04-28T21:03:55Z"
 default_branch = "master"

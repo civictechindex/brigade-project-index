@@ -6,6 +6,7 @@ name = "citizen-onboard"
 organization_name = "Code for America"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-02-12T05:03:56Z"
 default_branch = "gh-pages"

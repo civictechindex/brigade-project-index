@@ -4,6 +4,7 @@ name = "sortinghat-theme"
 organization_name = "Code for America"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2012-05-27T21:30:50Z"
 default_branch = "master"

@@ -6,6 +6,7 @@ name = "muralmapper"
 organization_name = "Code for America"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2011-06-20T22:33:54Z"
 default_branch = "master"

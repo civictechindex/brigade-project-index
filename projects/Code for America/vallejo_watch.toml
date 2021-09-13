@@ -5,6 +5,7 @@ name = "vallejo_watch"
 organization_name = "Code for America"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-01-15T18:39:53Z"
 default_branch = "master"

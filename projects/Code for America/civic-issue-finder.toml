@@ -6,6 +6,7 @@ name = "civic-issue-finder"
 organization_name = "Code for America"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-07-31T23:04:15Z"
 default_branch = "master"

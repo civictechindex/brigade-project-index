@@ -5,6 +5,7 @@ name = "cfa_coder_sounds"
 organization_name = "Code for America"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2011-04-09T00:19:27Z"
 default_branch = "master"

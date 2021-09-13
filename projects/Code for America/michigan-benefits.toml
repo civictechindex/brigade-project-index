@@ -5,6 +5,7 @@ name = "michigan-benefits"
 organization_name = "Code for America"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2017-03-01T22:24:46Z"
 default_branch = "master"

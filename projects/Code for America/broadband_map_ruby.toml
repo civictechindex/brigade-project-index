@@ -5,6 +5,7 @@ name = "broadband_map_ruby"
 organization_name = "Code for America"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2011-06-14T20:24:04Z"
 default_branch = "master"

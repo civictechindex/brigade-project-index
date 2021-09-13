@@ -4,6 +4,7 @@ name = "san-diego-resources"
 organization_name = "Code for America"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-10-04T19:57:58Z"
 default_branch = "master"

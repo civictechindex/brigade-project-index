@@ -5,6 +5,7 @@ name = "promptly"
 organization_name = "Code for America"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2013-05-06T21:13:31Z"
 default_branch = "master"

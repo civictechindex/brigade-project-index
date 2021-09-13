@@ -5,6 +5,7 @@ name = "denver-eyr"
 organization_name = "Code for America"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-11-05T18:59:38Z"
 default_branch = "master"

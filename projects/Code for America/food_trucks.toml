@@ -5,6 +5,7 @@ name = "food_trucks"
 organization_name = "Code for America"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2013-06-25T00:24:55Z"
 default_branch = "master"

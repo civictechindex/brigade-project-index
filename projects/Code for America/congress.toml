@@ -6,6 +6,7 @@ name = "congress"
 organization_name = "Code for America"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2011-06-19T00:11:10Z"
 default_branch = "master"

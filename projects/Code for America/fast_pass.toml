@@ -5,6 +5,7 @@ name = "fast_pass"
 organization_name = "Code for America"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2013-08-13T19:08:03Z"
 default_branch = "master"

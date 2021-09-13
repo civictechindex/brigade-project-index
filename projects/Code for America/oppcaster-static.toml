@@ -4,6 +4,7 @@ name = "oppcaster-static"
 organization_name = "Code for America"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2013-11-07T03:52:54Z"
 default_branch = "master"

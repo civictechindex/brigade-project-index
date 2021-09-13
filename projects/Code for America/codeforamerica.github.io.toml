@@ -4,6 +4,7 @@ name = "codeforamerica.github.io"
 organization_name = "Code for America"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-03-31T21:58:55Z"
 default_branch = "master"

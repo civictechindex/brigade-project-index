@@ -5,6 +5,7 @@ name = "cfa-design-toolkit"
 organization_name = "Code for America"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-07-08T18:58:46Z"
 default_branch = "master"

@@ -4,6 +4,7 @@ name = "IndyCutePets"
 organization_name = "Code for America"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-02-19T22:54:06Z"
 default_branch = "master"

@@ -6,6 +6,7 @@ name = "lexington-special-events"
 organization_name = "Code for America"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-05-01T17:24:22Z"
 default_branch = "master"

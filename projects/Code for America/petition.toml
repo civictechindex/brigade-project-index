@@ -6,6 +6,7 @@ name = "petition"
 organization_name = "Code for America"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2012-09-20T19:10:14Z"
 default_branch = "7.x-1.x"

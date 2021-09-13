@@ -6,6 +6,7 @@ name = "lbcflushots"
 organization_name = "Code for America"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-10-29T18:39:28Z"
 default_branch = "gh-pages"

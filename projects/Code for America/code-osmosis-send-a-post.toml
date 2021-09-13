@@ -5,6 +5,7 @@ name = "code-osmosis-send-a-post"
 organization_name = "Code for America"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-01-22T22:36:33Z"
 default_branch = "master"

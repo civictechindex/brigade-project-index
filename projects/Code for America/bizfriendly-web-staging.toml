@@ -4,6 +4,7 @@ name = "bizfriendly-web-staging"
 organization_name = "Code for America"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2013-08-29T00:59:20Z"
 default_branch = "gh-pages"

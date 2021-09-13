@@ -5,6 +5,7 @@ name = "readme"
 organization_name = "Code for America"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2013-01-08T18:20:57Z"
 default_branch = "master"

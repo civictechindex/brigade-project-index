@@ -6,6 +6,7 @@ name = "civic-tech-patterns"
 organization_name = "Code for America"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2013-01-03T19:59:16Z"
 default_branch = "master"

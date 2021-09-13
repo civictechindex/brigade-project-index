@@ -5,6 +5,7 @@ name = "longbeach-resources"
 organization_name = "Code for America"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-06-30T21:47:50Z"
 default_branch = "master"

@@ -5,6 +5,7 @@ name = "abq-filmextras"
 organization_name = "Code for America"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-01-13T21:58:28Z"
 default_branch = "gh-pages"

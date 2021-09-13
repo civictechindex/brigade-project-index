@@ -5,6 +5,7 @@ name = "city-analytics-dashboard-setup"
 organization_name = "Code for America"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-09-08T21:40:20Z"
 default_branch = "master"

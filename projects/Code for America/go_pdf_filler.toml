@@ -5,6 +5,7 @@ name = "go_pdf_filler"
 organization_name = "Code for America"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2019-10-08T23:46:48Z"
 default_branch = "master"

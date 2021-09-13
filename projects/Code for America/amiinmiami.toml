@@ -6,6 +6,7 @@ name = "amiinmiami"
 organization_name = "Code for America"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-03-16T18:10:02Z"
 default_branch = "master"

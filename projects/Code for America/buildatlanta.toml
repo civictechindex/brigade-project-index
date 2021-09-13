@@ -6,6 +6,7 @@ name = "buildatlanta"
 organization_name = "Code for America"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-08-03T21:24:07Z"
 default_branch = "demo"

@@ -5,6 +5,7 @@ name = "lexington-psa-twitterbot-couchy"
 organization_name = "Code for America"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-05-09T22:37:32Z"
 default_branch = "master"

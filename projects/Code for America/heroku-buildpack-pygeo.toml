@@ -5,6 +5,7 @@ name = "heroku-buildpack-pygeo"
 organization_name = "Code for America"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2013-08-26T19:13:36Z"
 default_branch = "master"

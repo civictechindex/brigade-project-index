@@ -5,6 +5,7 @@ name = "civipedia"
 organization_name = "Code for America"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2011-05-09T22:11:01Z"
 default_branch = "master"

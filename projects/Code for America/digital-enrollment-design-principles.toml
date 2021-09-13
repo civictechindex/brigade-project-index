@@ -5,6 +5,7 @@ name = "digital-enrollment-design-principles"
 organization_name = "Code for America"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2017-04-18T03:01:37Z"
 default_branch = "gh-pages"

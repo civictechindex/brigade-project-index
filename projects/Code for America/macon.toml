@@ -6,6 +6,7 @@ name = "macon"
 organization_name = "Code for America"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2012-05-23T22:44:27Z"
 default_branch = "master"

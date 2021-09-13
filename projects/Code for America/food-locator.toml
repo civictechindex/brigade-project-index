@@ -5,6 +5,7 @@ name = "food-locator"
 organization_name = "Code for America"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-02-21T19:23:32Z"
 default_branch = "master"

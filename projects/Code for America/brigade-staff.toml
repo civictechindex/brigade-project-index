@@ -6,6 +6,7 @@ name = "brigade-staff"
 organization_name = "Code for America"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-03-17T17:53:17Z"
 default_branch = "master"

@@ -5,6 +5,7 @@ name = "feedback-form"
 organization_name = "Code for America"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2013-07-12T17:58:56Z"
 default_branch = "master"

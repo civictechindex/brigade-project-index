@@ -5,6 +5,7 @@ name = "streetsearch"
 organization_name = "Code for America"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-06-26T02:34:05Z"
 default_branch = "master"

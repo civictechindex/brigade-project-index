@@ -5,6 +5,7 @@ name = "ontrack"
 organization_name = "Code for America"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2017-06-29T22:53:59Z"
 default_branch = "master"

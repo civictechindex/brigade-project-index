@@ -5,6 +5,7 @@ name = "railsbridge-slides"
 organization_name = "Code for America"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2012-07-21T22:45:22Z"
 default_branch = "master"

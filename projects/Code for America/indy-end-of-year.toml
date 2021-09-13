@@ -4,6 +4,7 @@ name = "indy-end-of-year"
 organization_name = "Code for America"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-12-21T17:55:59Z"
 default_branch = "gh-pages"

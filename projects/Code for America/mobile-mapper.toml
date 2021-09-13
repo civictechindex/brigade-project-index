@@ -6,6 +6,7 @@ name = "mobile-mapper"
 organization_name = "Code for America"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2011-07-21T21:01:37Z"
 default_branch = "master"

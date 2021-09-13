@@ -5,6 +5,7 @@ name = "mta_app"
 organization_name = "Code for America"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2012-06-28T23:05:15Z"
 default_branch = "master"

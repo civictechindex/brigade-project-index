@@ -6,6 +6,7 @@ name = "courtbot-reporter"
 organization_name = "Code for America"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-01-26T23:28:52Z"
 default_branch = "master"

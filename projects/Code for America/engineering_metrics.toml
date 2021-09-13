@@ -4,6 +4,7 @@ name = "engineering_metrics"
 organization_name = "Code for America"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2020-09-24T19:24:17Z"
 default_branch = "main"

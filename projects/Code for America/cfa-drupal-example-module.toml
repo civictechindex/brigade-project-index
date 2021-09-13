@@ -6,6 +6,7 @@ name = "cfa-drupal-example-module"
 organization_name = "Code for America"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2011-04-04T22:29:04Z"
 default_branch = "master"

@@ -5,6 +5,7 @@ name = "rva-screening-ui-prototypes"
 organization_name = "Code for America"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-07-08T19:36:19Z"
 default_branch = "master"
