@@ -6,6 +6,7 @@ name = "reentry-hub-demo"
 organization_name = "Open Charlotte Brigade"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2019-11-10T14:53:45Z"
 default_branch = "master"

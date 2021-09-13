@@ -5,6 +5,7 @@ name = "codeforcharlotte.org"
 organization_name = "Open Charlotte Brigade"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-04-28T23:13:26Z"
 default_branch = "master"

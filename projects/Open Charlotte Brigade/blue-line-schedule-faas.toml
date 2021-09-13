@@ -5,6 +5,7 @@ name = "blue-line-schedule-faas"
 organization_name = "Open Charlotte Brigade"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2019-09-24T16:59:19Z"
 default_branch = "master"

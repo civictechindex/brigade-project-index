@@ -5,6 +5,7 @@ name = "blue-line-schedule-sdk-js"
 organization_name = "Open Charlotte Brigade"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2019-09-24T03:43:00Z"
 default_branch = "master"

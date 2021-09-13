@@ -6,6 +6,7 @@ name = "Visual-Town-Budget"
 organization_name = "Open Charlotte Brigade"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-02-21T15:00:04Z"
 default_branch = "master"

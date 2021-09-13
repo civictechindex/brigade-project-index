@@ -5,6 +5,7 @@ name = "adopt-a-street"
 organization_name = "Open Charlotte Brigade"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-10-28T00:30:31Z"
 default_branch = "master"

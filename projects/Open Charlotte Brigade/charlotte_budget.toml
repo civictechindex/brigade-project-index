@@ -5,6 +5,7 @@ name = "charlotte_budget"
 organization_name = "Open Charlotte Brigade"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-08-23T16:08:00Z"
 default_branch = "master"

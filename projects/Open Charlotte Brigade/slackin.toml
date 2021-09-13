@@ -6,6 +6,7 @@ name = "slackin"
 organization_name = "Open Charlotte Brigade"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2017-09-30T17:21:38Z"
 default_branch = "master"

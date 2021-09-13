@@ -4,6 +4,7 @@ name = "thelunchproject"
 organization_name = "Open Charlotte Brigade"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2017-05-31T00:39:58Z"
 default_branch = "master"

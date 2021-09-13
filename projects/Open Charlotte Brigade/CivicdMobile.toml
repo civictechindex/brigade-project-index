@@ -4,6 +4,7 @@ name = "CivicdMobile"
 organization_name = "Open Charlotte Brigade"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2018-03-01T21:22:44Z"
 default_branch = "master"

@@ -6,6 +6,7 @@ name = "cfapi"
 organization_name = "Open Charlotte Brigade"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-11-20T03:12:07Z"
 default_branch = "master"

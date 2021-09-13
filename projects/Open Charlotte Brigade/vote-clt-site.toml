@@ -5,6 +5,7 @@ name = "vote-clt-site"
 organization_name = "Open Charlotte Brigade"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2019-10-24T20:53:50Z"
 default_branch = "develop"

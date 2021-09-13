@@ -5,6 +5,7 @@ name = "cfc_js_modules"
 organization_name = "Open Charlotte Brigade"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2018-04-04T00:36:54Z"
 default_branch = "master"
