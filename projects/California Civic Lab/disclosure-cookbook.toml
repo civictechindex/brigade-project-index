@@ -5,6 +5,7 @@ name = "disclosure-cookbook"
 organization_name = "California Civic Lab"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-09-13T18:47:29Z"
 default_branch = "master"
