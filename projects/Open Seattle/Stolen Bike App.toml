@@ -4,6 +4,7 @@ name = "Stolen Bike App"
 organization_name = "Open Seattle"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-02-22T20:57:10Z"
 default_branch = "master"

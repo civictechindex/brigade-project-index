@@ -4,6 +4,7 @@ name = "Seattle Icons"
 organization_name = "Open Seattle"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-02-19T03:18:03Z"
 default_branch = "gh-pages"

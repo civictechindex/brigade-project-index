@@ -5,6 +5,7 @@ name = "What's My Wage?"
 organization_name = "Open Seattle"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-02-11T07:28:19Z"
 default_branch = "master"
@@ -57,6 +58,7 @@ watchers_within = 10
   type = "Organization"
 
   [github.parent]
+  allow_forking = true
   archived = false
   created_at = "2015-02-06T02:03:55Z"
   default_branch = "master"
@@ -105,6 +107,7 @@ watchers_within = 10
   triage = false
 
   [github.source]
+  allow_forking = true
   archived = false
   created_at = "2015-02-06T02:03:55Z"
   default_branch = "master"

@@ -4,6 +4,7 @@ name = "LocalWiki Ruby client"
 organization_name = "Open Seattle"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2013-01-04T07:03:41Z"
 default_branch = "master"

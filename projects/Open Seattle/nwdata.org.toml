@@ -6,6 +6,7 @@ organization_name = "Open Seattle"
 status = "live"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2013-11-07T23:35:56Z"
 default_branch = "master"
