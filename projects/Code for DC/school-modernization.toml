@@ -6,6 +6,7 @@ name = "school-modernization"
 organization_name = "Code for DC"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-11-17T01:01:13Z"
 default_branch = "master"

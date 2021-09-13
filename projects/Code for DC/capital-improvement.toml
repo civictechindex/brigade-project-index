@@ -6,6 +6,7 @@ name = "capital-improvement"
 organization_name = "Code for DC"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-06-28T03:20:26Z"
 default_branch = "master"

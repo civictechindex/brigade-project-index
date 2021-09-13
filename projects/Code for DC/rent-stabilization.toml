@@ -5,6 +5,7 @@ name = "rent-stabilization"
 organization_name = "Code for DC"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-05-27T00:06:05Z"
 default_branch = "master"

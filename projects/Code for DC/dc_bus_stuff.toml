@@ -5,6 +5,7 @@ name = "dc_bus_stuff"
 organization_name = "Code for DC"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2019-06-05T01:46:21Z"
 default_branch = "master"

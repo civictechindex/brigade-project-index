@@ -5,6 +5,7 @@ name = "codefordc-website-archive"
 organization_name = "Code for DC"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2012-11-16T16:24:19Z"
 default_branch = "master"

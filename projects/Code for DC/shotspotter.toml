@@ -5,6 +5,7 @@ name = "shotspotter"
 organization_name = "Code for DC"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-05-22T02:00:53Z"
 default_branch = "master"

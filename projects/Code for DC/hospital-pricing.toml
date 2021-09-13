@@ -5,6 +5,7 @@ name = "hospital-pricing"
 organization_name = "Code for DC"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2019-01-09T00:40:58Z"
 default_branch = "master"

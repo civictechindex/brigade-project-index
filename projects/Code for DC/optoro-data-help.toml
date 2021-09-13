@@ -5,6 +5,7 @@ name = "optoro-data-help"
 organization_name = "Code for DC"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2018-06-28T15:28:00Z"
 default_branch = "master"
