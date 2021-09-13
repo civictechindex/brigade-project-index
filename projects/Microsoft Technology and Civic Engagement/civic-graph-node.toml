@@ -6,6 +6,7 @@ name = "civic-graph-node"
 organization_name = "Microsoft Technology and Civic Engagement"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-10-29T22:26:46Z"
 default_branch = "master"

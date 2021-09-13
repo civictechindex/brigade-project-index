@@ -5,6 +5,7 @@ name = "tce-fellows"
 organization_name = "Microsoft Technology and Civic Engagement"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2017-03-04T19:08:56Z"
 default_branch = "master"

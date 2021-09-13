@@ -5,6 +5,7 @@ name = "athena"
 organization_name = "Microsoft Technology and Civic Engagement"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-08-25T23:08:10Z"
 default_branch = "master"

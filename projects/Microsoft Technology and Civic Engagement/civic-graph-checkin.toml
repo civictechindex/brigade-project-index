@@ -5,6 +5,7 @@ name = "civic-graph-checkin"
 organization_name = "Microsoft Technology and Civic Engagement"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-08-24T02:55:11Z"
 default_branch = "master"

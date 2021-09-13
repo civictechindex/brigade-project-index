@@ -6,6 +6,7 @@ name = "tech-jobs-academy-logos"
 organization_name = "Microsoft Technology and Civic Engagement"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-12-24T06:06:51Z"
 default_branch = "master"

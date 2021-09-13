@@ -6,6 +6,7 @@ name = "translator-intro"
 organization_name = "Microsoft Technology and Civic Engagement"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-09-10T01:32:56Z"
 default_branch = "master"
