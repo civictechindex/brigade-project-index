@@ -4,6 +4,7 @@ name = "Census 2020 Events"
 organization_name = "Open Oakland"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2019-05-11T18:57:04Z"
 default_branch = "master"

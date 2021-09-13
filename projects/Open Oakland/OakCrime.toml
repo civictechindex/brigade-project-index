@@ -5,6 +5,7 @@ name = "OakCrime"
 organization_name = "Open Oakland"
 
 [github]
+allow_forking = true
 archived = true
 created_at = "2013-06-08T21:50:22Z"
 default_branch = "master"

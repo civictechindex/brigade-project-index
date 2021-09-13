@@ -4,6 +4,7 @@ name = "Art Map"
 organization_name = "Open Oakland"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2019-06-25T23:24:58Z"
 default_branch = "master"

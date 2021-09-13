@@ -5,6 +5,7 @@ name = "CA Water Equity"
 organization_name = "Open Oakland"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2019-07-17T01:52:51Z"
 default_branch = "master"

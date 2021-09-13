@@ -5,6 +5,7 @@ name = "Councilmatic"
 organization_name = "Open Oakland"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2018-03-06T03:15:06Z"
 default_branch = "develop"
