@@ -5,6 +5,7 @@ name = "annual-2015-en"
 organization_name = "Code for Germany"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-02-11T15:45:51Z"
 default_branch = "master"

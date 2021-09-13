@@ -4,6 +4,7 @@ name = "annual-german"
 organization_name = "Code for Germany"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-11-10T14:25:37Z"
 default_branch = "gh-pages"
