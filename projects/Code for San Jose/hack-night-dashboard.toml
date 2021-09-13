@@ -4,6 +4,7 @@ name = "hack-night-dashboard"
 organization_name = "Code for San Jose"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2020-01-30T05:39:05Z"
 default_branch = "master"

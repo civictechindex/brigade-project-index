@@ -4,6 +4,7 @@ name = "migrate-google-drives"
 organization_name = "Code for San Jose"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2021-03-19T21:01:23Z"
 default_branch = "main"

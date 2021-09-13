@@ -5,6 +5,7 @@ name = "pelias-project-scc"
 organization_name = "Code for San Jose"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2020-09-13T01:42:24Z"
 default_branch = "main"

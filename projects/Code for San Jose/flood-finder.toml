@@ -4,6 +4,7 @@ name = "flood-finder"
 organization_name = "Code for San Jose"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2020-11-29T22:07:41Z"
 default_branch = "main"

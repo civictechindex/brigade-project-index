@@ -5,6 +5,7 @@ name = "codeofconduct"
 organization_name = "Code for San Jose"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-05-24T01:25:12Z"
 default_branch = "master"

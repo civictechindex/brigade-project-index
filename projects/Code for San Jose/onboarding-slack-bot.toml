@@ -6,6 +6,7 @@ organization_name = "Code for San Jose"
 topics = [ "onboarding", "slack", "slack-bot" ]
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2020-01-12T03:05:44Z"
 default_branch = "master"

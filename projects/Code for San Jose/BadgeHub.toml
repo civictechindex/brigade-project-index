@@ -6,6 +6,7 @@ organization_name = "Code for San Jose"
 topics = [ "google-sheets", "meta", "printer", "python", "raspberry-pi" ]
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-11-13T04:15:30Z"
 default_branch = "master"

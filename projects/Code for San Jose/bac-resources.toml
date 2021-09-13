@@ -4,6 +4,7 @@ name = "bac-resources"
 organization_name = "Code for San Jose"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2020-11-13T04:01:02Z"
 default_branch = "main"
