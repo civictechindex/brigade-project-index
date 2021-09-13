@@ -5,6 +5,7 @@ name = "birmingham-teamplateful"
 organization_name = "Code for Birmingham"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-06-25T00:07:30Z"
 default_branch = "master"

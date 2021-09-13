@@ -5,6 +5,7 @@ name = "Philly-311-Dashboard"
 organization_name = "Code for Birmingham"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2017-05-13T18:37:26Z"
 default_branch = "master"

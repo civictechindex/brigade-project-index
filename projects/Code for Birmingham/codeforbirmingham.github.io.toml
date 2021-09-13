@@ -6,6 +6,7 @@ name = "codeforbirmingham.github.io"
 organization_name = "Code for Birmingham"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-09-17T21:08:12Z"
 default_branch = "master"

@@ -5,6 +5,7 @@ name = "Birmingham-BlightAintRight"
 organization_name = "Code for Birmingham"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-02-21T17:11:47Z"
 default_branch = "master"

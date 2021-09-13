@@ -5,6 +5,7 @@ name = "OpenReferral"
 organization_name = "Code for Birmingham"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-09-07T21:14:00Z"
 default_branch = "master"
