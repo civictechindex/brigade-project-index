@@ -3,6 +3,7 @@ name = "divvy-munging"
 organization_name = "Chi Hack Night"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-02-13T00:59:49Z"
 default_branch = "master"

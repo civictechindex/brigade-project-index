@@ -3,6 +3,7 @@ name = "StoryMapJS"
 organization_name = "Chi Hack Night"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2013-07-22T16:43:23Z"
 default_branch = "master"

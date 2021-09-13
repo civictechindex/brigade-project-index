@@ -3,6 +3,7 @@ name = "chi-solicitations-feed"
 organization_name = "Chi Hack Night"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2013-12-04T18:07:47Z"
 default_branch = "master"

@@ -3,6 +3,7 @@ name = "kimball"
 organization_name = "Chi Hack Night"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2013-03-28T03:41:02Z"
 default_branch = "development"

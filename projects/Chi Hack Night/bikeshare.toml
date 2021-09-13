@@ -3,6 +3,7 @@ name = "bikeshare"
 organization_name = "Chi Hack Night"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2013-07-08T14:42:12Z"
 default_branch = "master"

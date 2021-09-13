@@ -3,6 +3,7 @@ name = "crimeweatherupdater"
 organization_name = "Chi Hack Night"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2013-05-11T03:06:12Z"
 default_branch = "master"

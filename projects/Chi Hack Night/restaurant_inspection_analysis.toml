@@ -3,6 +3,7 @@ name = "restaurant_inspection_analysis"
 organization_name = "Chi Hack Night"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2012-07-23T01:12:38Z"
 default_branch = "master"

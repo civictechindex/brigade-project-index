@@ -3,6 +3,7 @@ name = "hows-business"
 organization_name = "Chi Hack Night"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2012-07-20T20:20:48Z"
 default_branch = "master"

@@ -3,6 +3,7 @@ name = "ctaalerts"
 organization_name = "Chi Hack Night"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2010-06-05T17:56:57Z"
 default_branch = "master"

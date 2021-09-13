@@ -3,6 +3,7 @@ name = "ushine-learning"
 organization_name = "Chi Hack Night"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2013-07-24T23:04:21Z"
 default_branch = "master"

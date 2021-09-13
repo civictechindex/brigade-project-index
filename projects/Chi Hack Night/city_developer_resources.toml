@@ -3,6 +3,7 @@ name = "city_developer_resources"
 organization_name = "Chi Hack Night"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2012-09-12T14:50:40Z"
 default_branch = "master"
@@ -42,6 +43,7 @@ watchers_within = 0
   type = "User"
 
   [github.parent]
+  allow_forking = true
   archived = false
   created_at = "2012-08-19T15:06:22Z"
   default_branch = "master"
@@ -85,6 +87,7 @@ watchers_within = 0
   triage = false
 
   [github.source]
+  allow_forking = true
   archived = false
   created_at = "2012-08-19T15:06:22Z"
   default_branch = "master"

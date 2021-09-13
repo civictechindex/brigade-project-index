@@ -3,6 +3,7 @@ name = "Fusion-Tables-to-HTML-Table"
 organization_name = "Chi Hack Night"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2011-10-27T00:44:55Z"
 default_branch = "master"

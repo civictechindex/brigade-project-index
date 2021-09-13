@@ -3,6 +3,7 @@ name = "wasmycartowed"
 organization_name = "Chi Hack Night"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2013-04-17T21:52:57Z"
 default_branch = "master"
@@ -50,6 +51,7 @@ watchers_within = 0
   type = "Organization"
 
   [github.parent]
+  allow_forking = true
   archived = false
   created_at = "2013-04-11T20:47:36Z"
   default_branch = "master"
@@ -93,6 +95,7 @@ watchers_within = 0
   triage = false
 
   [github.source]
+  allow_forking = true
   archived = false
   created_at = "2013-04-11T20:47:36Z"
   default_branch = "master"

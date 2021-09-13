@@ -3,6 +3,7 @@ name = "foodborne_classifier"
 organization_name = "Chi Hack Night"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2013-04-23T17:27:51Z"
 default_branch = "master"

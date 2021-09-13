@@ -3,6 +3,7 @@ name = "transitapi"
 organization_name = "Chi Hack Night"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2009-09-03T16:08:49Z"
 default_branch = "master"

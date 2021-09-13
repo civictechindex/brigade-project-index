@@ -3,6 +3,7 @@ name = "Chicago-Crash-Browser"
 organization_name = "Chi Hack Night"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2013-02-16T00:58:59Z"
 default_branch = "master"

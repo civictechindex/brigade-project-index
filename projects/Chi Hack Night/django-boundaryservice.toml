@@ -3,6 +3,7 @@ name = "django-boundaryservice"
 organization_name = "Chi Hack Night"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2011-05-12T01:05:28Z"
 default_branch = "master"

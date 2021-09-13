@@ -3,6 +3,7 @@ name = "clearstreets-processing"
 organization_name = "Chi Hack Night"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2012-02-01T23:34:07Z"
 default_branch = "master"

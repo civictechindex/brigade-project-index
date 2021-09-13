@@ -3,6 +3,7 @@ name = "Redlight"
 organization_name = "Chi Hack Night"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-06-08T17:46:33Z"
 default_branch = "master"

@@ -3,6 +3,7 @@ name = "openblock"
 organization_name = "Chi Hack Night"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2013-02-09T22:08:52Z"
 default_branch = "master"
@@ -42,6 +43,7 @@ watchers_within = 10
   type = "User"
 
   [github.parent]
+  allow_forking = true
   archived = false
   created_at = "2012-09-28T19:55:32Z"
   default_branch = "master"
@@ -85,6 +87,7 @@ watchers_within = 10
   triage = false
 
   [github.source]
+  allow_forking = true
   archived = false
   created_at = "2012-09-28T19:55:32Z"
   default_branch = "master"
