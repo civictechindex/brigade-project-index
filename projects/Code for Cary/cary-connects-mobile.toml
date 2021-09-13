@@ -5,6 +5,7 @@ name = "cary-connects-mobile"
 organization_name = "Code for Cary"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2018-09-29T12:32:46Z"
 default_branch = "master"

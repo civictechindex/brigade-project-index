@@ -5,6 +5,7 @@ name = "wasteline"
 organization_name = "Code for Cary"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-02-23T22:34:12Z"
 default_branch = "master"

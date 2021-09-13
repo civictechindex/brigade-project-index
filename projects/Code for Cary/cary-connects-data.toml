@@ -5,6 +5,7 @@ name = "cary-connects-data"
 organization_name = "Code for Cary"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2018-10-15T22:30:52Z"
 default_branch = "master"

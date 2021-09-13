@@ -5,6 +5,7 @@ name = "GeoJSON"
 organization_name = "Code for Cary"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2013-08-07T17:44:03Z"
 default_branch = "master"

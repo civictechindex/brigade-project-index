@@ -5,6 +5,7 @@ name = "ConstMVO"
 organization_name = "Code for Cary"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-02-12T01:25:40Z"
 default_branch = "master"

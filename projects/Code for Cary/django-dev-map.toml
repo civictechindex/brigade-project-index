@@ -5,6 +5,7 @@ name = "django-dev-map"
 organization_name = "Code for Cary"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-02-24T01:16:41Z"
 default_branch = "master"

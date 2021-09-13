@@ -5,6 +5,7 @@ name = "Hydronium"
 organization_name = "Code for Cary"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-12-02T07:22:04Z"
 default_branch = "master"
