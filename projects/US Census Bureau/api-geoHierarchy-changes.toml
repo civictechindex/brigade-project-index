@@ -4,6 +4,7 @@ name = "api-geoHierarchy-changes"
 organization_name = "US Census Bureau"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2018-09-06T15:15:32Z"
 default_branch = "master"

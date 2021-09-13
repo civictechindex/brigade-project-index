@@ -5,6 +5,7 @@ name = "hack2prepare"
 organization_name = "US Census Bureau"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-11-05T14:49:58Z"
 default_branch = "master"

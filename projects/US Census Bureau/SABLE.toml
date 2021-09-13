@@ -6,6 +6,7 @@ organization_name = "US Census Bureau"
 topics = [ "machine-learning", "text-classification", "web-scraping" ]
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2017-10-04T20:43:53Z"
 default_branch = "master"

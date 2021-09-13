@@ -4,6 +4,7 @@ name = "partnerships"
 organization_name = "US Census Bureau"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2017-09-08T12:45:53Z"
 default_branch = "master"

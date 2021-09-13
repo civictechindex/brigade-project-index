@@ -6,6 +6,7 @@ name = "API-All-the-X"
 organization_name = "US Census Bureau"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-01-29T20:33:34Z"
 default_branch = "gh-pages"

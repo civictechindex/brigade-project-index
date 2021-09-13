@@ -4,6 +4,7 @@ name = "cdfdemoday"
 organization_name = "US Census Bureau"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2017-08-08T12:13:26Z"
 default_branch = "master"

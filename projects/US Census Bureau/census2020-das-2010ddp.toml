@@ -5,6 +5,7 @@ name = "census2020-das-2010ddp"
 organization_name = "US Census Bureau"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2019-11-14T14:12:11Z"
 default_branch = "master"

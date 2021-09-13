@@ -5,6 +5,7 @@ name = "drb_rounder"
 organization_name = "US Census Bureau"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2018-09-05T20:08:57Z"
 default_branch = "master"

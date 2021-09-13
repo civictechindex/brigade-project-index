@@ -5,6 +5,7 @@ name = "run-sas"
 organization_name = "US Census Bureau"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2019-04-11T17:14:45Z"
 default_branch = "master"
