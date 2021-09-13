@@ -5,6 +5,7 @@ name = "hackneo-site"
 organization_name = "Code for Summit County"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2013-04-29T00:33:14Z"
 default_branch = "master"
