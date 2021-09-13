@@ -6,6 +6,7 @@ name = "openbudgets"
 organization_name = "Open Maine"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2020-06-01T01:06:20Z"
 default_branch = "master"

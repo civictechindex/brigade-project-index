@@ -5,6 +5,7 @@ name = "policearchive"
 organization_name = "Open Maine"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2021-02-05T21:56:34Z"
 default_branch = "master"

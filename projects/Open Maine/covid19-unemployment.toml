@@ -5,6 +5,7 @@ name = "covid19-unemployment"
 organization_name = "Open Maine"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2020-03-19T17:53:39Z"
 default_branch = "master"

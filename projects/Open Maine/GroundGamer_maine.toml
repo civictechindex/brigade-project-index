@@ -4,6 +4,7 @@ name = "GroundGamer_maine"
 organization_name = "Open Maine"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2018-11-04T19:08:09Z"
 default_branch = "master"

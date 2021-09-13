@@ -5,6 +5,7 @@ name = "covid19-maine-resources"
 organization_name = "Open Maine"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2020-03-19T18:10:47Z"
 default_branch = "master"

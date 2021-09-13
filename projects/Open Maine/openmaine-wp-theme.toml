@@ -4,6 +4,7 @@ name = "openmaine-wp-theme"
 organization_name = "Open Maine"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2017-08-24T15:45:14Z"
 default_branch = "master"

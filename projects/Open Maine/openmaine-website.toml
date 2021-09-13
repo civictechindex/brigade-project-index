@@ -6,6 +6,7 @@ organization_name = "Open Maine"
 topics = [ "css", "html", "javascript" ]
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2019-04-19T00:12:43Z"
 default_branch = "master"

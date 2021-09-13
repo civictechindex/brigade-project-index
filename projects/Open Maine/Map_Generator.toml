@@ -5,6 +5,7 @@ name = "Map_Generator"
 organization_name = "Open Maine"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2018-09-03T20:30:34Z"
 default_branch = "master"
