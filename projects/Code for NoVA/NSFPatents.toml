@@ -5,6 +5,7 @@ name = "NSFPatents"
 organization_name = "Code for NoVA"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2013-12-14T14:51:10Z"
 default_branch = "master"

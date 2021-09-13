@@ -5,6 +5,7 @@ name = "aqoli"
 organization_name = "Code for NoVA"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2013-01-10T02:04:14Z"
 default_branch = "master"

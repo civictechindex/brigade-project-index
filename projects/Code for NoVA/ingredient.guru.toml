@@ -5,6 +5,7 @@ name = "ingredient.guru"
 organization_name = "Code for NoVA"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2018-11-13T15:26:49Z"
 default_branch = "master"

@@ -5,6 +5,7 @@ name = "codeofconduct"
 organization_name = "Code for NoVA"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-01-31T16:08:12Z"
 default_branch = "master"

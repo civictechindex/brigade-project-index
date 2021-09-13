@@ -6,6 +6,7 @@ name = "Informr.US"
 organization_name = "Code for NoVA"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2017-02-24T00:02:58Z"
 default_branch = "master"

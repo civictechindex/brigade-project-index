@@ -4,6 +4,7 @@ name = "va_voter_data_map"
 organization_name = "Code for NoVA"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2017-05-13T00:56:31Z"
 default_branch = "stable"
