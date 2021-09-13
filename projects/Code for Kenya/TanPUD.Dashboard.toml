@@ -5,6 +5,7 @@ name = "TanPUD.Dashboard"
 organization_name = "Code for Kenya"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2018-03-14T11:41:40Z"
 default_branch = "master"

@@ -4,6 +4,7 @@ name = "sensors.AFRICA-api-Data-AirNow"
 organization_name = "Code for Kenya"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2021-01-27T11:24:25Z"
 default_branch = "main"

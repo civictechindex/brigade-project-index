@@ -6,6 +6,7 @@ name = "iss-ipoc"
 organization_name = "Code for Kenya"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-09-05T13:00:25Z"
 default_branch = "master"

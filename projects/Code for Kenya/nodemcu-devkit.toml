@@ -5,6 +5,7 @@ name = "nodemcu-devkit"
 organization_name = "Code for Kenya"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2020-03-02T18:09:57Z"
 default_branch = "master"

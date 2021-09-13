@@ -6,6 +6,7 @@ name = "StarReports.WP.Theme-v2"
 organization_name = "Code for Kenya"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-05-07T10:56:51Z"
 default_branch = "master"

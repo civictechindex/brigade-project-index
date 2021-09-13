@@ -7,6 +7,7 @@ organization_name = "Code for Kenya"
 topics = [ "air-quality", "sensor" ]
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2020-09-04T05:50:49Z"
 default_branch = "main"

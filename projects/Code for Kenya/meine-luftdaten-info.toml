@@ -4,6 +4,7 @@ name = "meine-luftdaten-info"
 organization_name = "Code for Kenya"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2019-04-20T13:20:33Z"
 default_branch = "develop"

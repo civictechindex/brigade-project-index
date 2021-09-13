@@ -6,6 +6,7 @@ name = "GotToVote-RCI.Zambia"
 organization_name = "Code for Kenya"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-08-26T12:29:52Z"
 default_branch = "gh-pages"

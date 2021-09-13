@@ -5,6 +5,7 @@ name = "Openroad.API"
 organization_name = "Code for Kenya"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2018-06-14T09:20:13Z"
 default_branch = "master"

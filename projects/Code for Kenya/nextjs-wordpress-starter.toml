@@ -6,6 +6,7 @@ name = "nextjs-wordpress-starter"
 organization_name = "Code for Kenya"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2021-04-23T13:25:30Z"
 default_branch = "main"

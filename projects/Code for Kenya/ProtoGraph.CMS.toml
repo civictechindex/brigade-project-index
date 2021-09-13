@@ -4,6 +4,7 @@ name = "ProtoGraph.CMS"
 organization_name = "Code for Kenya"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2019-03-12T13:31:19Z"
 default_branch = "master"

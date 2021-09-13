@@ -5,6 +5,7 @@ name = "HURUmap-PostGraphile-Dokku"
 organization_name = "Code for Kenya"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2021-04-14T10:11:55Z"
 default_branch = "main"
