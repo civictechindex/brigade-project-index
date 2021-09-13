@@ -6,6 +6,7 @@ name = "smsmybus-dev"
 organization_name = "Hacking Madison"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2011-04-17T15:42:50Z"
 default_branch = "master"

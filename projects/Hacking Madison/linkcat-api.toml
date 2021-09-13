@@ -4,6 +4,7 @@ name = "linkcat-api"
 organization_name = "Hacking Madison"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-04-14T01:53:33Z"
 default_branch = "master"
