@@ -6,6 +6,7 @@ name = "expunge.io"
 organization_name = "Smart Chicago Collaborative"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-01-02T19:20:01Z"
 default_branch = "master"

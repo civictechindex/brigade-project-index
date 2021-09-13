@@ -6,6 +6,7 @@ name = "chicago-early-learning"
 organization_name = "Smart Chicago Collaborative"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2012-07-19T23:08:40Z"
 default_branch = "master"

@@ -5,6 +5,7 @@ name = "glossary-bot"
 organization_name = "Smart Chicago Collaborative"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-06-02T00:39:19Z"
 default_branch = "master"

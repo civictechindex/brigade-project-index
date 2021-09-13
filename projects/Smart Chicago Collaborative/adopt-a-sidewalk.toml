@@ -5,6 +5,7 @@ name = "adopt-a-sidewalk"
 organization_name = "Smart Chicago Collaborative"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2013-01-18T21:19:53Z"
 default_branch = "development"

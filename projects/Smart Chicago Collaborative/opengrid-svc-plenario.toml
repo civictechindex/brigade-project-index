@@ -5,6 +5,7 @@ name = "opengrid-svc-plenario"
 organization_name = "Smart Chicago Collaborative"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-11-30T17:31:14Z"
 default_branch = "master"

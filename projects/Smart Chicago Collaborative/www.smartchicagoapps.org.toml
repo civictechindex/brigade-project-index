@@ -6,6 +6,7 @@ name = "www.smartchicagoapps.org"
 organization_name = "Smart Chicago Collaborative"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2013-01-31T21:31:39Z"
 default_branch = "master"

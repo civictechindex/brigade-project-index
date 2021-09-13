@@ -6,6 +6,7 @@ name = "wikichicago"
 organization_name = "Smart Chicago Collaborative"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2013-07-29T21:58:52Z"
 default_branch = "master"

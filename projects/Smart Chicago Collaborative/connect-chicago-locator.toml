@@ -6,6 +6,7 @@ name = "connect-chicago-locator"
 organization_name = "Smart Chicago Collaborative"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2012-08-27T19:55:42Z"
 default_branch = "master"

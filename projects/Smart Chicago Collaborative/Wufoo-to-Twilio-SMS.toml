@@ -5,6 +5,7 @@ name = "Wufoo-to-Twilio-SMS"
 organization_name = "Smart Chicago Collaborative"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-01-08T00:54:31Z"
 default_branch = "master"

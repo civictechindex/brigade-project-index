@@ -5,6 +5,7 @@ name = "cutgroup"
 organization_name = "Smart Chicago Collaborative"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2013-01-30T23:24:46Z"
 default_branch = "master"

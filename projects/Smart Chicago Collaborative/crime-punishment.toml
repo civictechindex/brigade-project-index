@@ -6,6 +6,7 @@ name = "crime-punishment"
 organization_name = "Smart Chicago Collaborative"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-04-02T12:56:33Z"
 default_branch = "master"

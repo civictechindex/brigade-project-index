@@ -5,6 +5,7 @@ name = "wasmycartowed"
 organization_name = "Smart Chicago Collaborative"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2013-04-17T21:52:57Z"
 default_branch = "master"

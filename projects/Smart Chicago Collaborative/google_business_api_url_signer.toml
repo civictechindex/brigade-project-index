@@ -5,6 +5,7 @@ name = "google_business_api_url_signer"
 organization_name = "Smart Chicago Collaborative"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2013-12-04T18:58:22Z"
 default_branch = "master"

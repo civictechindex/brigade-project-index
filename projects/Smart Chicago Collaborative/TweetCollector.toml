@@ -6,6 +6,7 @@ name = "TweetCollector"
 organization_name = "Smart Chicago Collaborative"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2013-05-10T16:05:35Z"
 default_branch = "master"

@@ -5,6 +5,7 @@ name = "chicago-health-atlas"
 organization_name = "Smart Chicago Collaborative"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2012-10-10T20:12:41Z"
 default_branch = "master"

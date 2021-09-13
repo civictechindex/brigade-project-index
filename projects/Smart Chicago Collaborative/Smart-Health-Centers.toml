@@ -4,6 +4,7 @@ name = "Smart-Health-Centers"
 organization_name = "Smart Chicago Collaborative"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-05-01T20:01:14Z"
 default_branch = "master"
