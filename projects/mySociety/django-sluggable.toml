@@ -6,6 +6,7 @@ name = "django-sluggable"
 organization_name = "mySociety"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2013-12-19T19:00:37Z"
 default_branch = "master"

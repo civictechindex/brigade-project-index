@@ -5,6 +5,7 @@ name = "zurich_mobile"
 organization_name = "mySociety"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2013-01-14T12:45:49Z"
 default_branch = "master"

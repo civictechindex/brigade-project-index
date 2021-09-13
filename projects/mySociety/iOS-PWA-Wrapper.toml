@@ -6,6 +6,7 @@ name = "iOS-PWA-Wrapper"
 organization_name = "mySociety"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2020-09-30T08:30:59Z"
 default_branch = "master"

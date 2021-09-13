@@ -5,6 +5,7 @@ name = "django-popolo"
 organization_name = "mySociety"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-06-10T14:16:45Z"
 default_branch = "master"

@@ -6,6 +6,7 @@ name = "pairwise-api"
 organization_name = "mySociety"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2012-08-29T14:36:13Z"
 default_branch = "master"

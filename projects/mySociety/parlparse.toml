@@ -5,6 +5,7 @@ name = "parlparse"
 organization_name = "mySociety"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2013-10-28T15:46:30Z"
 default_branch = "master"

@@ -5,6 +5,7 @@ name = "stateful"
 organization_name = "mySociety"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2021-02-24T19:33:56Z"
 default_branch = "master"

@@ -6,6 +6,7 @@ name = "home-poplus"
 organization_name = "mySociety"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2013-10-22T09:53:50Z"
 default_branch = "gh-pages"

@@ -6,6 +6,7 @@ name = "sayit.mysociety.org"
 organization_name = "mySociety"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-04-14T10:50:03Z"
 default_branch = "master"

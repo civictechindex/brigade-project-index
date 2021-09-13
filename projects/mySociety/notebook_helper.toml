@@ -5,6 +5,7 @@ name = "notebook_helper"
 organization_name = "mySociety"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2021-03-16T11:42:30Z"
 default_branch = "main"

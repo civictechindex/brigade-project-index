@@ -6,6 +6,7 @@ name = "planningalerts-app"
 organization_name = "mySociety"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-09-08T17:04:30Z"
 default_branch = "hampshire"

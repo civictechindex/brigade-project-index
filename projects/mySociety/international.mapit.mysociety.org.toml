@@ -5,6 +5,7 @@ name = "international.mapit.mysociety.org"
 organization_name = "mySociety"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2017-06-16T09:03:12Z"
 default_branch = "master"

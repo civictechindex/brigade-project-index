@@ -5,6 +5,7 @@ name = "fixmystreet-cobrand-viewer"
 organization_name = "mySociety"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2020-09-25T10:01:19Z"
 default_branch = "master"

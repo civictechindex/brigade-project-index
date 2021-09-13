@@ -5,6 +5,7 @@ name = "france-paris-council-wikipedia"
 organization_name = "mySociety"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2017-06-14T14:22:07Z"
 default_branch = "master"

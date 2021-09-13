@@ -5,6 +5,7 @@ name = "hackney-foi-prototype"
 organization_name = "mySociety"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2018-02-09T15:12:06Z"
 default_branch = "master"

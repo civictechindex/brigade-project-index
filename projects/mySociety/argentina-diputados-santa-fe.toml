@@ -5,6 +5,7 @@ name = "argentina-diputados-santa-fe"
 organization_name = "mySociety"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2017-10-18T11:44:56Z"
 default_branch = "master"

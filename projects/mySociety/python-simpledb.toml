@@ -6,6 +6,7 @@ name = "python-simpledb"
 organization_name = "mySociety"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-11-05T10:57:15Z"
 default_branch = "master"

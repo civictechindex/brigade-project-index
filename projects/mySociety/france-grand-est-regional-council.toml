@@ -5,6 +5,7 @@ name = "france-grand-est-regional-council"
 organization_name = "mySociety"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2017-06-13T11:47:18Z"
 default_branch = "master"

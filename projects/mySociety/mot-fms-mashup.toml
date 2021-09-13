@@ -5,6 +5,7 @@ name = "mot-fms-mashup"
 organization_name = "mySociety"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-11-20T10:38:39Z"
 default_branch = "master"

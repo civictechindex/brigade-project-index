@@ -5,6 +5,7 @@ name = "misc-scripts"
 organization_name = "mySociety"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-01-27T11:59:12Z"
 default_branch = "master"

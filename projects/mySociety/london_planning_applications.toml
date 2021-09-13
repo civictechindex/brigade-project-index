@@ -6,6 +6,7 @@ name = "london_planning_applications"
 organization_name = "mySociety"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2019-04-18T07:57:14Z"
 default_branch = "master"

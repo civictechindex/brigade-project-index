@@ -4,6 +4,7 @@ name = "mzalendo-wordpress-theme"
 organization_name = "mySociety"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2019-11-26T10:54:16Z"
 default_branch = "master"

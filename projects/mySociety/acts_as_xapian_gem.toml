@@ -6,6 +6,7 @@ name = "acts_as_xapian_gem"
 organization_name = "mySociety"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2013-01-17T11:58:13Z"
 default_branch = "master"

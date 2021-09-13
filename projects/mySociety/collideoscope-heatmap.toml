@@ -6,6 +6,7 @@ name = "collideoscope-heatmap"
 organization_name = "mySociety"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2018-09-14T15:51:39Z"
 default_branch = "master"

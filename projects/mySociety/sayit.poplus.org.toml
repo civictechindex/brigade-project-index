@@ -5,6 +5,7 @@ name = "sayit.poplus.org"
 organization_name = "mySociety"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-04-30T14:35:39Z"
 default_branch = "gh-pages"

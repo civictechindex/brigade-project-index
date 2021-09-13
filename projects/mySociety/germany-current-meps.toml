@@ -6,6 +6,7 @@ name = "germany-current-meps"
 organization_name = "mySociety"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2017-08-30T09:52:38Z"
 default_branch = "master"

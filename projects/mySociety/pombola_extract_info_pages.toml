@@ -5,6 +5,7 @@ name = "pombola_extract_info_pages"
 organization_name = "mySociety"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-02-22T18:26:22Z"
 default_branch = "master"

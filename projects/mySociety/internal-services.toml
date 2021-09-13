@@ -5,6 +5,7 @@ name = "internal-services"
 organization_name = "mySociety"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-01-27T11:58:17Z"
 default_branch = "master"

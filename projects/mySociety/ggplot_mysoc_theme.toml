@@ -4,6 +4,7 @@ name = "ggplot_mysoc_theme"
 organization_name = "mySociety"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2021-01-08T12:29:03Z"
 default_branch = "master"

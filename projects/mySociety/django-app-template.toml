@@ -5,6 +5,7 @@ name = "django-app-template"
 organization_name = "mySociety"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-05-25T09:55:13Z"
 default_branch = "master"

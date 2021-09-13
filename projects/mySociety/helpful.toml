@@ -5,6 +5,7 @@ name = "helpful"
 organization_name = "mySociety"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2020-09-16T10:53:36Z"
 default_branch = "master"

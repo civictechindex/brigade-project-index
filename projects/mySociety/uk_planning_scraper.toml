@@ -5,6 +5,7 @@ name = "uk_planning_scraper"
 organization_name = "mySociety"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2019-04-12T09:09:12Z"
 default_branch = "master"

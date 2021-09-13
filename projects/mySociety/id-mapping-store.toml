@@ -5,6 +5,7 @@ name = "id-mapping-store"
 organization_name = "mySociety"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2018-01-12T18:29:33Z"
 default_branch = "master"

@@ -4,6 +4,7 @@ name = "pombola-fuzzy-search-prototype"
 organization_name = "mySociety"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2017-03-01T12:53:12Z"
 default_branch = "master"

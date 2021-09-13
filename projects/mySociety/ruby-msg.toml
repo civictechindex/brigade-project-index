@@ -7,6 +7,7 @@ organization_name = "mySociety"
 topics = [ "alaveteli" ]
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-11-06T10:32:07Z"
 default_branch = "master"

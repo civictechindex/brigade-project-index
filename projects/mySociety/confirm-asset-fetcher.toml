@@ -5,6 +5,7 @@ name = "confirm-asset-fetcher"
 organization_name = "mySociety"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2019-03-14T15:39:20Z"
 default_branch = "master"

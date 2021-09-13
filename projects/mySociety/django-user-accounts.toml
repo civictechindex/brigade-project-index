@@ -5,6 +5,7 @@ name = "django-user-accounts"
 organization_name = "mySociety"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-09-28T08:39:35Z"
 default_branch = "master"

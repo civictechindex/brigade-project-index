@@ -6,6 +6,7 @@ name = "collideoscope"
 organization_name = "mySociety"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-08-11T14:26:35Z"
 default_branch = "master"

@@ -5,6 +5,7 @@ name = "django-subdomain-instances"
 organization_name = "mySociety"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2013-07-29T16:38:37Z"
 default_branch = "master"

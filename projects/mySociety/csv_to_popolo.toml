@@ -4,6 +4,7 @@ name = "csv_to_popolo"
 organization_name = "mySociety"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-03-16T10:48:00Z"
 default_branch = "master"

@@ -5,6 +5,7 @@ name = "django-file-archive"
 organization_name = "mySociety"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-04-13T06:59:15Z"
 default_branch = "master"

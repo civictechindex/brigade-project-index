@@ -5,6 +5,7 @@ name = "crispy-forms-gds"
 organization_name = "mySociety"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2021-05-28T08:26:37Z"
 default_branch = "master"

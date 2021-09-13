@@ -6,6 +6,7 @@ name = "annual-report"
 organization_name = "mySociety"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-01-27T17:04:25Z"
 default_branch = "master"

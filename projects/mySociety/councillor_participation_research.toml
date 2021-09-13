@@ -5,6 +5,7 @@ name = "councillor_participation_research"
 organization_name = "mySociety"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2021-01-25T18:16:21Z"
 default_branch = "master"

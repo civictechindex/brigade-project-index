@@ -4,6 +4,7 @@ name = "heroku-buildpack-jekyll"
 organization_name = "mySociety"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2017-04-19T13:53:22Z"
 default_branch = "master"

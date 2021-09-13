@@ -5,6 +5,7 @@ name = "django-failedloginblocker"
 organization_name = "mySociety"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2013-08-15T19:07:02Z"
 default_branch = "master"

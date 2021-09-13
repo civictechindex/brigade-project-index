@@ -5,6 +5,7 @@ name = "france-regional-presidents-wikipedia"
 organization_name = "mySociety"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2017-06-26T15:05:49Z"
 default_branch = "master"

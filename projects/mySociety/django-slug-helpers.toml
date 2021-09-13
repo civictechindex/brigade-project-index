@@ -5,6 +5,7 @@ name = "django-slug-helpers"
 organization_name = "mySociety"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-04-08T13:43:40Z"
 default_branch = "master"

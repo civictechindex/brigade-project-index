@@ -5,6 +5,7 @@ name = "message-manager"
 organization_name = "mySociety"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2012-06-14T14:00:01Z"
 default_branch = "master"

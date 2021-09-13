@@ -5,6 +5,7 @@ name = "wikipedia_list_of_legislatures2"
 organization_name = "mySociety"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-02-16T13:31:23Z"
 default_branch = "master"

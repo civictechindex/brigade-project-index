@@ -5,6 +5,7 @@ name = "logbook"
 organization_name = "mySociety"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-05-06T11:06:31Z"
 default_branch = "master"

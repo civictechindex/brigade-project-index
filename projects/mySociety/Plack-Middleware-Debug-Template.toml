@@ -5,6 +5,7 @@ name = "Plack-Middleware-Debug-Template"
 organization_name = "mySociety"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2017-09-01T15:15:38Z"
 default_branch = "master"

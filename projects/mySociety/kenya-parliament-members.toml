@@ -5,6 +5,7 @@ name = "kenya-parliament-members"
 organization_name = "mySociety"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2018-01-23T15:47:20Z"
 default_branch = "master"

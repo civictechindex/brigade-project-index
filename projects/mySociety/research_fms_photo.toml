@@ -5,6 +5,7 @@ name = "research_fms_photo"
 organization_name = "mySociety"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2020-11-03T17:55:52Z"
 default_branch = "master"

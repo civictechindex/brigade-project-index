@@ -5,6 +5,7 @@ name = "node-jade-amd"
 organization_name = "mySociety"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2012-05-23T15:41:34Z"
 default_branch = "master"

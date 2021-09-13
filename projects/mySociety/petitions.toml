@@ -5,6 +5,7 @@ name = "petitions"
 organization_name = "mySociety"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2010-05-06T13:28:06Z"
 default_branch = "master"

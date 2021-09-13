@@ -5,6 +5,7 @@ name = "survey"
 organization_name = "mySociety"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2013-08-13T14:26:21Z"
 default_branch = "master"

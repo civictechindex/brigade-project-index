@@ -5,6 +5,7 @@ name = "component-library"
 organization_name = "mySociety"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-06-02T09:35:06Z"
 default_branch = "master"

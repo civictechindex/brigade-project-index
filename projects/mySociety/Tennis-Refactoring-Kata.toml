@@ -5,6 +5,7 @@ name = "Tennis-Refactoring-Kata"
 organization_name = "mySociety"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2013-10-22T07:22:04Z"
 default_branch = "master"

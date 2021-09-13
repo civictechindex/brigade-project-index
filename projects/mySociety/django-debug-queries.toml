@@ -5,6 +5,7 @@ name = "django-debug-queries"
 organization_name = "mySociety"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-06-17T12:31:14Z"
 default_branch = "master"

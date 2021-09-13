@@ -5,6 +5,7 @@ name = "demographics_explorer"
 organization_name = "mySociety"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2020-12-14T10:47:49Z"
 default_branch = "master"
