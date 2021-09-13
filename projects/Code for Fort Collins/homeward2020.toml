@@ -4,6 +4,7 @@ name = "homeward2020"
 organization_name = "Code for Fort Collins"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2018-03-16T01:39:31Z"
 default_branch = "master"

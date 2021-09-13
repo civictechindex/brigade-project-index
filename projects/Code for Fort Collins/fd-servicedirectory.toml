@@ -5,6 +5,7 @@ name = "fd-servicedirectory"
 organization_name = "Code for Fort Collins"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2018-08-24T15:35:37Z"
 default_branch = "master"
