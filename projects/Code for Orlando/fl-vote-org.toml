@@ -4,6 +4,7 @@ name = "fl-vote-org"
 organization_name = "Code for Orlando"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-06-04T14:34:03Z"
 default_branch = "master"

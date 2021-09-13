@@ -6,6 +6,7 @@ name = "brigadehub"
 organization_name = "Code for Orlando"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-11-04T20:37:51Z"
 default_branch = "develop"

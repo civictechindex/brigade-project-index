@@ -5,6 +5,7 @@ name = "roadmap"
 organization_name = "Code for Orlando"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2018-03-07T01:51:30Z"
 default_branch = "master"

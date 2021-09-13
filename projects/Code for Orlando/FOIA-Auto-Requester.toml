@@ -5,6 +5,7 @@ name = "FOIA-Auto-Requester"
 organization_name = "Code for Orlando"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2017-01-28T18:31:16Z"
 default_branch = "master"

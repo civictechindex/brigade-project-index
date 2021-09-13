@@ -4,6 +4,7 @@ name = "flag-word-analysis"
 organization_name = "Code for Orlando"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2017-06-30T03:18:30Z"
 default_branch = "master"

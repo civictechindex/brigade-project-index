@@ -5,6 +5,7 @@ name = "CityGram-Intermediary"
 organization_name = "Code for Orlando"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-12-03T18:21:03Z"
 default_branch = "master"

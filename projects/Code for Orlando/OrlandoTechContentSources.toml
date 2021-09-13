@@ -5,6 +5,7 @@ name = "OrlandoTechContentSources"
 organization_name = "Code for Orlando"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2017-09-30T14:10:32Z"
 default_branch = "master"

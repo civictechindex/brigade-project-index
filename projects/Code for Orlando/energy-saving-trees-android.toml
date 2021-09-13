@@ -4,6 +4,7 @@ name = "energy-saving-trees-android"
 organization_name = "Code for Orlando"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-06-04T14:30:41Z"
 default_branch = "master"

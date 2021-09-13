@@ -5,6 +5,7 @@ name = "projects"
 organization_name = "Code for Orlando"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2021-08-15T00:41:31Z"
 default_branch = "main"
