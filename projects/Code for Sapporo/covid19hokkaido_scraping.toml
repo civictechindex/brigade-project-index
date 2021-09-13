@@ -5,6 +5,7 @@ name = "covid19hokkaido_scraping"
 organization_name = "Code for Sapporo"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2020-03-07T14:37:21Z"
 default_branch = "master"

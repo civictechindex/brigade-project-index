@@ -6,6 +6,7 @@ name = "covid19"
 organization_name = "Code for Sapporo"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2020-03-05T08:00:10Z"
 default_branch = "development"

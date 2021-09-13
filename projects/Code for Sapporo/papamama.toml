@@ -6,6 +6,7 @@ name = "papamama"
 organization_name = "Code for Sapporo"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-09-21T14:31:31Z"
 default_branch = "master"

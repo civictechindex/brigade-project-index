@@ -4,6 +4,7 @@ name = "covid19hokkaido_webapi"
 organization_name = "Code for Sapporo"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2020-03-22T07:52:38Z"
 default_branch = "develop"
