@@ -6,6 +6,7 @@ name = "detroit-water-project"
 organization_name = "Code for Asheville"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-09-28T15:19:58Z"
 default_branch = "master"

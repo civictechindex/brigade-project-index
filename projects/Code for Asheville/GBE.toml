@@ -5,6 +5,7 @@ name = "GBE"
 organization_name = "Code for Asheville"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-04-23T00:08:51Z"
 default_branch = "master"

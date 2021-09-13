@@ -5,6 +5,7 @@ name = "ymi_workforce_development"
 organization_name = "Code for Asheville"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2021-05-06T02:52:46Z"
 default_branch = "main"

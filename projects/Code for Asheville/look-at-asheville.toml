@@ -6,6 +6,7 @@ name = "look-at-asheville"
 organization_name = "Code for Asheville"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2013-03-22T15:08:53Z"
 default_branch = "gh-pages"

@@ -4,6 +4,7 @@ name = "court-notifications"
 organization_name = "Code for Asheville"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2021-03-08T15:22:48Z"
 default_branch = "main"

@@ -5,6 +5,7 @@ name = "rjc-aws"
 organization_name = "Code for Asheville"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2020-09-30T04:58:02Z"
 default_branch = "main"

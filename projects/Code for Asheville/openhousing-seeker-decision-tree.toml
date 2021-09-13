@@ -5,6 +5,7 @@ name = "openhousing-seeker-decision-tree"
 organization_name = "Code for Asheville"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-06-04T19:33:21Z"
 default_branch = "master"

@@ -5,6 +5,7 @@ name = "wkttogeojson"
 organization_name = "Code for Asheville"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-03-20T01:01:22Z"
 default_branch = "master"
