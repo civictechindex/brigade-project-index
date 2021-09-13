@@ -5,6 +5,7 @@ name = "DecodeRecipePublic"
 organization_name = "Code for Tomorrow"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-03-22T03:35:21Z"
 default_branch = "master"
