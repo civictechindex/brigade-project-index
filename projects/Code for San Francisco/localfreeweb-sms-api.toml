@@ -6,6 +6,7 @@ name = "localfreeweb-sms-api"
 organization_name = "Code for San Francisco"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-07-24T03:51:02Z"
 default_branch = "master"

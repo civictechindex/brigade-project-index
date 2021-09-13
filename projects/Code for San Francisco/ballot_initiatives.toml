@@ -4,6 +4,7 @@ name = "ballot_initiatives"
 organization_name = "Code for San Francisco"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2013-06-13T02:16:06Z"
 default_branch = "master"

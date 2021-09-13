@@ -4,6 +4,7 @@ name = "sf-election-map"
 organization_name = "Code for San Francisco"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-06-18T03:54:02Z"
 default_branch = "master"

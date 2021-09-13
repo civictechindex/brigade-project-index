@@ -5,6 +5,7 @@ name = "Infrastructure-Team"
 organization_name = "Code for San Francisco"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-09-17T17:54:52Z"
 default_branch = "master"

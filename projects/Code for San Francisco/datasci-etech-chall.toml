@@ -4,6 +4,7 @@ name = "datasci-etech-chall"
 organization_name = "Code for San Francisco"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2017-04-01T17:09:29Z"
 default_branch = "master"

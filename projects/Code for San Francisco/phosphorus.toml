@@ -5,6 +5,7 @@ name = "phosphorus"
 organization_name = "Code for San Francisco"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2013-03-28T01:39:12Z"
 default_branch = "master"

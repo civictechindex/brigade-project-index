@@ -5,6 +5,7 @@ name = "infrastructure"
 organization_name = "Code for San Francisco"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-04-10T04:09:56Z"
 default_branch = "gh-pages"

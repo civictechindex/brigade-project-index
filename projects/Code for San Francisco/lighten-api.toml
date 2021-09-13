@@ -6,6 +6,7 @@ name = "lighten-api"
 organization_name = "Code for San Francisco"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-02-18T16:03:16Z"
 default_branch = "master"

@@ -5,6 +5,7 @@ name = "SlackMultiTeam"
 organization_name = "Code for San Francisco"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-03-08T16:25:07Z"
 default_branch = "master"

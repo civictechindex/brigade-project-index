@@ -5,6 +5,7 @@ name = "datasci-urban-forest"
 organization_name = "Code for San Francisco"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-07-14T03:21:46Z"
 default_branch = "master"

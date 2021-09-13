@@ -4,6 +4,7 @@ name = "disclosure-tools"
 organization_name = "Code for San Francisco"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-11-16T00:29:25Z"
 default_branch = "master"

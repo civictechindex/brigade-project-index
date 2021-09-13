@@ -4,6 +4,7 @@ name = "campaign_finance"
 organization_name = "Code for San Francisco"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-08-14T01:34:57Z"
 default_branch = "master"

@@ -5,6 +5,7 @@ name = "notethevotes-api"
 organization_name = "Code for San Francisco"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-01-08T04:20:23Z"
 default_branch = "development"

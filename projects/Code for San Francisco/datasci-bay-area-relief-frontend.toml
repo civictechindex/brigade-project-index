@@ -5,6 +5,7 @@ name = "datasci-bay-area-relief-frontend"
 organization_name = "Code for San Francisco"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2020-06-18T02:45:51Z"
 default_branch = "master"

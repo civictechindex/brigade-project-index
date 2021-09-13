@@ -6,6 +6,7 @@ name = "browser"
 organization_name = "Code for San Francisco"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2013-07-25T01:49:06Z"
 default_branch = "gh-pages"

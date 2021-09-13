@@ -6,6 +6,7 @@ name = "localfreeweb.org"
 organization_name = "Code for San Francisco"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-07-24T02:58:21Z"
 default_branch = "gh-pages"

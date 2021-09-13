@@ -5,6 +5,7 @@ name = "datasci-home-credit-default"
 organization_name = "Code for San Francisco"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2018-06-14T01:45:37Z"
 default_branch = "master"

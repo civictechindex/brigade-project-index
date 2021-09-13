@@ -5,6 +5,7 @@ name = "clippercard2019api"
 organization_name = "Code for San Francisco"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-12-02T16:16:15Z"
 default_branch = "master"

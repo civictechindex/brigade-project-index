@@ -6,6 +6,7 @@ name = "slackin"
 organization_name = "Code for San Francisco"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-02-20T20:55:17Z"
 default_branch = "master"

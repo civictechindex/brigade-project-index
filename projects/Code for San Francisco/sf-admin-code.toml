@@ -5,6 +5,7 @@ name = "sf-admin-code"
 organization_name = "Code for San Francisco"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2013-07-24T21:05:03Z"
 default_branch = "gh-pages"
