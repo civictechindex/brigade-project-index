@@ -5,6 +5,7 @@ name = "rideshare_matchmaker"
 organization_name = "Code for Dayton"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-03-06T10:29:49Z"
 default_branch = "master"

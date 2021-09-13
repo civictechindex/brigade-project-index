@@ -5,6 +5,7 @@ name = "responders-web"
 organization_name = "Code for Dayton"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-03-05T21:53:36Z"
 default_branch = "master"

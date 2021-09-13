@@ -5,6 +5,7 @@ name = "grocer"
 organization_name = "Code for Dayton"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-02-21T14:41:36Z"
 default_branch = "gh-pages"

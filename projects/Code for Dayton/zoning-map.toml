@@ -5,6 +5,7 @@ name = "zoning-map"
 organization_name = "Code for Dayton"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-03-30T03:02:01Z"
 default_branch = "master"

@@ -6,6 +6,7 @@ organization_name = "Code for Dayton"
 topics = [ "covid-19" ]
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2020-04-10T14:11:26Z"
 default_branch = "master"

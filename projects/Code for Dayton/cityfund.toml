@@ -5,6 +5,7 @@ name = "cityfund"
 organization_name = "Code for Dayton"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2017-06-28T00:47:55Z"
 default_branch = "master"
