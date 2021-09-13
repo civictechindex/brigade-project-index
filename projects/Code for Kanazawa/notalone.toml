@@ -5,6 +5,7 @@ name = "notalone"
 organization_name = "Code for Kanazawa"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-11-30T14:23:34Z"
 default_branch = "master"

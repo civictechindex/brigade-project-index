@@ -5,6 +5,7 @@ name = "stop-panic-buying"
 organization_name = "Code for Kanazawa"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2020-03-28T11:26:32Z"
 default_branch = "master"
