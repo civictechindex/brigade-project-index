@@ -6,6 +6,7 @@ name = "SavMap-submission"
 organization_name = "Open Savannah"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2017-08-21T22:14:30Z"
 default_branch = "master"

@@ -6,6 +6,7 @@ name = "app.drainsavannah.org"
 organization_name = "Open Savannah"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2019-06-21T18:21:21Z"
 default_branch = "develop"

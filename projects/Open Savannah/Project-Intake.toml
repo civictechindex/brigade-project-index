@@ -6,6 +6,7 @@ name = "Project-Intake"
 organization_name = "Open Savannah"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2017-06-03T07:27:26Z"
 default_branch = "master"

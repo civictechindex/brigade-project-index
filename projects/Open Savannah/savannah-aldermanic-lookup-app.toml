@@ -5,6 +5,7 @@ name = "savannah-aldermanic-lookup-app"
 organization_name = "Open Savannah"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2018-05-08T03:51:57Z"
 default_branch = "master"

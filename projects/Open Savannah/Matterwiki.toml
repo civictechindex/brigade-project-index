@@ -6,6 +6,7 @@ name = "Matterwiki"
 organization_name = "Open Savannah"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2017-01-15T20:55:55Z"
 default_branch = "master"

@@ -5,6 +5,7 @@ name = "weave-a-dream-grant"
 organization_name = "Open Savannah"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2018-08-22T14:30:48Z"
 default_branch = "master"

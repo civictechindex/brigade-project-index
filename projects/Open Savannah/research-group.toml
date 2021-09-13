@@ -6,6 +6,7 @@ name = "research-group"
 organization_name = "Open Savannah"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2019-02-15T07:27:47Z"
 default_branch = "master"

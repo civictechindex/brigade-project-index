@@ -5,6 +5,7 @@ name = "response-theme"
 organization_name = "Open Savannah"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2019-06-04T12:19:31Z"
 default_branch = "master"

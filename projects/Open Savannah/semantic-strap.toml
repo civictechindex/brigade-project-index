@@ -6,6 +6,7 @@ name = "semantic-strap"
 organization_name = "Open Savannah"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-12-20T04:36:26Z"
 default_branch = "master"

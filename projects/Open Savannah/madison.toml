@@ -5,6 +5,7 @@ name = "madison"
 organization_name = "Open Savannah"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2017-05-17T15:25:32Z"
 default_branch = "master"

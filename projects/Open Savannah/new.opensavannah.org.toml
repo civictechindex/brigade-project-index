@@ -6,6 +6,7 @@ name = "new.opensavannah.org"
 organization_name = "Open Savannah"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2018-06-08T10:36:01Z"
 default_branch = "master"

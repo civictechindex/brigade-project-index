@@ -5,6 +5,7 @@ name = "ndoch17"
 organization_name = "Open Savannah"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2017-08-16T08:14:40Z"
 default_branch = "master"

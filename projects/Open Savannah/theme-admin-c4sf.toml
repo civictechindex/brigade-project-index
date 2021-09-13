@@ -5,6 +5,7 @@ name = "theme-admin-c4sf"
 organization_name = "Open Savannah"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2017-03-25T05:26:29Z"
 default_branch = "master"

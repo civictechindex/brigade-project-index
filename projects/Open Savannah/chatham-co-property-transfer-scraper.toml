@@ -6,6 +6,7 @@ name = "chatham-co-property-transfer-scraper"
 organization_name = "Open Savannah"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2017-07-27T06:29:12Z"
 default_branch = "master"

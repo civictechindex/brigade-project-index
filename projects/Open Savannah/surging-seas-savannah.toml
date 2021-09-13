@@ -5,6 +5,7 @@ name = "surging-seas-savannah"
 organization_name = "Open Savannah"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2019-06-08T16:56:08Z"
 default_branch = "master"

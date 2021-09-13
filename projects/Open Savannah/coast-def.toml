@@ -5,6 +5,7 @@ name = "coast-def"
 organization_name = "Open Savannah"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2019-03-26T16:58:51Z"
 default_branch = "master"

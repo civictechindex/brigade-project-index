@@ -5,6 +5,7 @@ name = "flood-tiles"
 organization_name = "Open Savannah"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2019-07-13T19:57:58Z"
 default_branch = "master"

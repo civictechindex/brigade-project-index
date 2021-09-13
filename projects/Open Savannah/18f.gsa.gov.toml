@@ -6,6 +6,7 @@ name = "18f.gsa.gov"
 organization_name = "Open Savannah"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2018-08-28T11:06:10Z"
 default_branch = "master"

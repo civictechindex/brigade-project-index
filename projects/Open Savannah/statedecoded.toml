@@ -6,6 +6,7 @@ name = "statedecoded"
 organization_name = "Open Savannah"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2017-04-10T01:58:30Z"
 default_branch = "master"

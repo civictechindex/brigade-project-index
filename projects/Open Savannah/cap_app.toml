@@ -5,6 +5,7 @@ name = "cap_app"
 organization_name = "Open Savannah"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2018-12-11T06:08:52Z"
 default_branch = "master"

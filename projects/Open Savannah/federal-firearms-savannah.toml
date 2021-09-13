@@ -5,6 +5,7 @@ name = "federal-firearms-savannah"
 organization_name = "Open Savannah"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-12-16T02:41:59Z"
 default_branch = "master"

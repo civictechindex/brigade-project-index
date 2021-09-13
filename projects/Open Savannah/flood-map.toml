@@ -6,6 +6,7 @@ name = "flood-map"
 organization_name = "Open Savannah"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2017-12-05T15:37:53Z"
 default_branch = "master"

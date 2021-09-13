@@ -5,6 +5,7 @@ name = "opensav-forum-desktop-app"
 organization_name = "Open Savannah"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2017-04-04T17:49:15Z"
 default_branch = "master"

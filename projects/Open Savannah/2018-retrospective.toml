@@ -6,6 +6,7 @@ organization_name = "Open Savannah"
 topics = [ "civic-tech", "retrospective" ]
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2018-12-03T20:31:31Z"
 default_branch = "master"

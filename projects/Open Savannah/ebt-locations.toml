@@ -6,6 +6,7 @@ name = "ebt-locations"
 organization_name = "Open Savannah"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-12-16T14:46:24Z"
 default_branch = "gh-pages"

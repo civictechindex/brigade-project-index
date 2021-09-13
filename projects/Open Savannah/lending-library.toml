@@ -6,6 +6,7 @@ name = "lending-library"
 organization_name = "Open Savannah"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2019-04-14T08:09:34Z"
 default_branch = "gh-pages"

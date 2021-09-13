@@ -4,6 +4,7 @@ name = "core"
 organization_name = "Open Savannah"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2017-03-07T22:39:24Z"
 default_branch = "master"

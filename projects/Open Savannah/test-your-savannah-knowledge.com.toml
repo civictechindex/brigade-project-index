@@ -6,6 +6,7 @@ name = "test-your-savannah-knowledge.com"
 organization_name = "Open Savannah"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2017-11-13T06:32:12Z"
 default_branch = "master"

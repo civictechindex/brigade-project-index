@@ -5,6 +5,7 @@ name = "liberate-the-pdf"
 organization_name = "Open Savannah"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2017-03-16T23:40:33Z"
 default_branch = "master"
