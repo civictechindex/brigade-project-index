@@ -6,6 +6,7 @@ name = "jkan"
 organization_name = "Open NC Collaborative"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2018-10-21T01:47:19Z"
 default_branch = "gh-pages"

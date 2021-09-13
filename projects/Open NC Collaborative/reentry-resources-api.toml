@@ -5,6 +5,7 @@ name = "reentry-resources-api"
 organization_name = "Open NC Collaborative"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2018-12-01T17:10:32Z"
 default_branch = "master"

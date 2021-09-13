@@ -5,6 +5,7 @@ name = "reentry-open-referral-gql-api"
 organization_name = "Open NC Collaborative"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2018-11-24T16:26:47Z"
 default_branch = "master"
