@@ -5,6 +5,7 @@ name = "codeofconduct"
 organization_name = "Hack Tahoe"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-05-23T23:03:44Z"
 default_branch = "master"
