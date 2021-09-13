@@ -6,6 +6,7 @@ name = "opensgf.org"
 organization_name = "Open SGF"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2020-12-08T00:15:00Z"
 default_branch = "dev"

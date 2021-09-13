@@ -4,6 +4,7 @@ name = "motherhood-reclaimed-website"
 organization_name = "Open SGF"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2021-05-11T00:02:15Z"
 default_branch = "main"
