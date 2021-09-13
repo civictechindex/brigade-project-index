@@ -5,6 +5,7 @@ name = "theater-hub-landing"
 organization_name = "Code for Romania"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2017-05-03T14:18:30Z"
 default_branch = "main"

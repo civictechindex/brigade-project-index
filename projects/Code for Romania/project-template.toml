@@ -5,6 +5,7 @@ name = "project-template"
 organization_name = "Code for Romania"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2018-02-13T15:55:05Z"
 default_branch = "master"

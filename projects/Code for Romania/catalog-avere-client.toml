@@ -6,6 +6,7 @@ name = "catalog-avere-client"
 organization_name = "Code for Romania"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-10-01T14:18:46Z"
 default_branch = "main"
