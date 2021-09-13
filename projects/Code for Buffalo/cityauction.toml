@@ -5,6 +5,7 @@ name = "cityauction"
 organization_name = "Code for Buffalo"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2018-10-14T15:53:12Z"
 default_branch = "master"

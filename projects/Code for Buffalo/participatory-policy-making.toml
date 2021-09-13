@@ -4,6 +4,7 @@ name = "participatory-policy-making"
 organization_name = "Code for Buffalo"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2020-10-28T23:41:30Z"
 default_branch = "main"
