@@ -5,6 +5,7 @@ name = "wikipediatown"
 organization_name = "Code for Kawasaki"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-04-11T07:17:37Z"
 default_branch = "master"
