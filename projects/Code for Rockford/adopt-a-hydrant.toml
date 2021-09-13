@@ -6,6 +6,7 @@ name = "adopt-a-hydrant"
 organization_name = "Code for Rockford"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-01-22T00:41:30Z"
 default_branch = "master"
