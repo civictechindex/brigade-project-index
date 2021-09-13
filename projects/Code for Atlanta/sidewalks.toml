@@ -5,6 +5,7 @@ name = "sidewalks"
 organization_name = "Code for Atlanta"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-09-14T13:27:07Z"
 default_branch = "master"

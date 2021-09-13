@@ -5,6 +5,7 @@ name = "gtfs-sequelize"
 organization_name = "Code for Atlanta"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2017-08-15T00:07:29Z"
 default_branch = "master"

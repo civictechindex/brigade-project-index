@@ -4,6 +4,7 @@ name = "wealth-map-data"
 organization_name = "Code for Atlanta"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2017-10-24T23:39:03Z"
 default_branch = "master"

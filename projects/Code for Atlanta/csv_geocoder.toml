@@ -5,6 +5,7 @@ name = "csv_geocoder"
 organization_name = "Code for Atlanta"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-02-21T21:24:46Z"
 default_branch = "master"

@@ -5,6 +5,7 @@ name = "open-data"
 organization_name = "Code for Atlanta"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2017-01-23T20:31:03Z"
 default_branch = "master"

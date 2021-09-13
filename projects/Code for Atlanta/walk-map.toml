@@ -4,6 +4,7 @@ name = "walk-map"
 organization_name = "Code for Atlanta"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2017-04-25T23:32:30Z"
 default_branch = "master"

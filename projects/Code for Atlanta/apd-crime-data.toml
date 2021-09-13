@@ -5,6 +5,7 @@ name = "apd-crime-data"
 organization_name = "Code for Atlanta"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-08-19T19:06:54Z"
 default_branch = "master"

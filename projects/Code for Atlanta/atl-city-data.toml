@@ -5,6 +5,7 @@ name = "atl-city-data"
 organization_name = "Code for Atlanta"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2017-03-28T23:27:11Z"
 default_branch = "master"

@@ -5,6 +5,7 @@ name = "betteratlanta"
 organization_name = "Code for Atlanta"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2013-12-08T16:58:22Z"
 default_branch = "master"

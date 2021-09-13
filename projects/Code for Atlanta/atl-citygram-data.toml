@@ -5,6 +5,7 @@ name = "atl-citygram-data"
 organization_name = "Code for Atlanta"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-06-04T14:35:45Z"
 default_branch = "master"

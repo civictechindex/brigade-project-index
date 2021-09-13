@@ -6,6 +6,7 @@ name = "democracyos"
 organization_name = "Code for Atlanta"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-11-10T01:10:39Z"
 default_branch = "master"

@@ -5,6 +5,7 @@ name = "LocalFreeWeb"
 organization_name = "Code for Atlanta"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-10-12T23:41:52Z"
 default_branch = "master"

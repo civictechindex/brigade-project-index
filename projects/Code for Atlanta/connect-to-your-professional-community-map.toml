@@ -4,6 +4,7 @@ name = "connect-to-your-professional-community-map"
 organization_name = "Code for Atlanta"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-03-05T18:12:54Z"
 default_branch = "master"

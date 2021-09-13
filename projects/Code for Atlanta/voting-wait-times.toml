@@ -6,6 +6,7 @@ name = "voting-wait-times"
 organization_name = "Code for Atlanta"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-03-05T17:32:46Z"
 default_branch = "master"
