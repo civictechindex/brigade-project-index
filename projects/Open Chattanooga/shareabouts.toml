@@ -5,6 +5,7 @@ name = "shareabouts"
 organization_name = "Open Chattanooga"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2013-07-03T19:32:48Z"
 default_branch = "master"

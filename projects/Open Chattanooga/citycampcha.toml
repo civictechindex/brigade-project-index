@@ -6,6 +6,7 @@ name = "citycampcha"
 organization_name = "Open Chattanooga"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-11-29T03:50:39Z"
 default_branch = "gh-pages"

@@ -6,6 +6,7 @@ name = "chattanooga-bike-parking-locator"
 organization_name = "Open Chattanooga"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-07-03T05:53:00Z"
 default_branch = "master"

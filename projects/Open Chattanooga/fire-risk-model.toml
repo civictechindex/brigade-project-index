@@ -5,6 +5,7 @@ name = "fire-risk-model"
 organization_name = "Open Chattanooga"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2021-01-13T19:11:47Z"
 default_branch = "main"

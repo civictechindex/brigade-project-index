@@ -5,6 +5,7 @@ name = "project-ideas"
 organization_name = "Open Chattanooga"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-06-25T22:03:35Z"
 default_branch = "master"

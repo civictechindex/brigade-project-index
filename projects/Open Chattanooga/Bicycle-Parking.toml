@@ -5,6 +5,7 @@ name = "Bicycle-Parking"
 organization_name = "Open Chattanooga"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-06-30T14:06:32Z"
 default_branch = "master"

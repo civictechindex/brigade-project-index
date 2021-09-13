@@ -5,6 +5,7 @@ name = "enterprise-south-nature-park-webmap"
 organization_name = "Open Chattanooga"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-07-09T01:46:31Z"
 default_branch = "master"

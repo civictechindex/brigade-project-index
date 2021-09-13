@@ -6,6 +6,7 @@ name = "openaddresses"
 organization_name = "Open Chattanooga"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-08-14T21:17:48Z"
 default_branch = "master"

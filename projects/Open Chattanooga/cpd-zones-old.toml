@@ -6,6 +6,7 @@ name = "cpd-zones-old"
 organization_name = "Open Chattanooga"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-01-28T23:09:46Z"
 default_branch = "master"
