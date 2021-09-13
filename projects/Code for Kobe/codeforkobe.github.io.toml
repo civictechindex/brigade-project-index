@@ -5,6 +5,7 @@ name = "codeforkobe.github.io"
 organization_name = "Code for Kobe"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-09-17T14:44:17Z"
 default_branch = "master"

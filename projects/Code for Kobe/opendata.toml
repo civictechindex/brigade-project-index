@@ -5,6 +5,7 @@ name = "opendata"
 organization_name = "Code for Kobe"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-09-17T16:01:44Z"
 default_branch = "master"

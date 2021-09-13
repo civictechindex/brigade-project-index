@@ -5,6 +5,7 @@ name = "hubot"
 organization_name = "Code for Kobe"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-02-11T03:22:44Z"
 default_branch = "master"
