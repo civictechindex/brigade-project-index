@@ -6,6 +6,7 @@ organization_name = "Hack for LA Brigade"
 topics = [ "civic-artworks", "code-for-america", "hack-for-la" ]
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2017-03-08T22:10:57Z"
 default_branch = "master"
