@@ -4,6 +4,7 @@ name = "leadership-brain"
 organization_name = "Code for ABQ"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-11-11T15:04:51Z"
 default_branch = "master"

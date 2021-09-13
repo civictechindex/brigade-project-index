@@ -6,6 +6,7 @@ name = "abqvotes"
 organization_name = "Code for ABQ"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-08-17T21:03:49Z"
 default_branch = "master"

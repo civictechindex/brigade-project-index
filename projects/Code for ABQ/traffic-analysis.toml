@@ -5,6 +5,7 @@ name = "traffic-analysis"
 organization_name = "Code for ABQ"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2017-01-28T00:33:26Z"
 default_branch = "master"

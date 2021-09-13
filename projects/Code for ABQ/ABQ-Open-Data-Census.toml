@@ -5,6 +5,7 @@ name = "ABQ-Open-Data-Census"
 organization_name = "Code for ABQ"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-04-30T20:31:28Z"
 default_branch = "master"
