@@ -5,6 +5,7 @@ name = "Ideas"
 organization_name = "Code for Ponta Grossa"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-02-04T22:16:57Z"
 default_branch = "master"

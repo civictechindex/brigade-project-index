@@ -4,6 +4,7 @@ name = "PostIt"
 organization_name = "Code for Ponta Grossa"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-01-23T17:11:17Z"
 default_branch = "master"
