@@ -4,6 +4,7 @@ name = "traxi_OCR"
 organization_name = "Codigo para la Ciudad de Mexico"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-06-13T18:41:16Z"
 default_branch = "master"

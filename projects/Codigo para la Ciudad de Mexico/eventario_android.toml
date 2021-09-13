@@ -5,6 +5,7 @@ name = "eventario_android"
 organization_name = "Codigo para la Ciudad de Mexico"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-05-25T18:07:24Z"
 default_branch = "master"
