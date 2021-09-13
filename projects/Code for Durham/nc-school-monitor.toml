@@ -5,6 +5,7 @@ name = "nc-school-monitor"
 organization_name = "Code for Durham"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-09-21T13:25:49Z"
 default_branch = "master"

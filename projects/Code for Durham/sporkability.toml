@@ -5,6 +5,7 @@ name = "sporkability"
 organization_name = "Code for Durham"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-05-01T19:06:39Z"
 default_branch = "master"

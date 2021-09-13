@@ -6,6 +6,7 @@ name = "codeforamerica.org"
 organization_name = "Code for Durham"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-07-15T12:47:32Z"
 default_branch = "master"

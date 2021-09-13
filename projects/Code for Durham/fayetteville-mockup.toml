@@ -4,6 +4,7 @@ name = "fayetteville-mockup"
 organization_name = "Code for Durham"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-01-12T23:43:31Z"
 default_branch = "gh-pages"

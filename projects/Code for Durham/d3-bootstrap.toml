@@ -6,6 +6,7 @@ name = "d3-bootstrap"
 organization_name = "Code for Durham"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-09-23T01:31:35Z"
 default_branch = "master"

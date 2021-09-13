@@ -6,6 +6,7 @@ name = "galleria"
 organization_name = "Code for Durham"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-11-22T04:27:45Z"
 default_branch = "master"

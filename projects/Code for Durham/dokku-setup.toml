@@ -5,6 +5,7 @@ name = "dokku-setup"
 organization_name = "Code for Durham"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2017-01-30T22:48:13Z"
 default_branch = "master"

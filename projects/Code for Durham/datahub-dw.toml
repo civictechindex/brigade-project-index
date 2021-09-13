@@ -4,6 +4,7 @@ name = "datahub-dw"
 organization_name = "Code for Durham"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2017-10-16T16:59:52Z"
 default_branch = "master"

@@ -5,6 +5,7 @@ name = "school-navigator-mobile"
 organization_name = "Code for Durham"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-10-09T14:14:35Z"
 default_branch = "master"

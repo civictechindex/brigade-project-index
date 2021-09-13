@@ -6,6 +6,7 @@ name = "food-inspector"
 organization_name = "Code for Durham"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2013-11-16T19:29:46Z"
 default_branch = "develop"
