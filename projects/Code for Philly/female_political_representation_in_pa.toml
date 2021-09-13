@@ -6,6 +6,7 @@ status = "Bootstrapping"
 topics = [ "Equality", "Politics", "Women's Rights" ]
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-11-06T01:49:16Z"
 default_branch = "master"

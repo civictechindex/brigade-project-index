@@ -7,6 +7,7 @@ status = "Bootstrapping"
 topics = [ "help for homes", "repair people", "Seniors" ]
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2018-12-13T20:59:28Z"
 default_branch = "master"

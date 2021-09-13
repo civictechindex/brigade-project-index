@@ -6,6 +6,7 @@ status = "Prototyping"
 topics = [ "bike sharing", "Cycling", "indego" ]
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-06-16T23:57:38Z"
 default_branch = "master"

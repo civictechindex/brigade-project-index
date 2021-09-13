@@ -6,6 +6,7 @@ status = "Hibernating"
 topics = [ "Education" ]
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2013-02-24T20:38:27Z"
 default_branch = "master"

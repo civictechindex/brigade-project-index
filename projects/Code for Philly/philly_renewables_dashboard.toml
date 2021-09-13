@@ -6,6 +6,7 @@ status = "Commenting"
 topics = [ "Data Science", "renewable energy" ]
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-04-28T23:21:42Z"
 default_branch = "master"

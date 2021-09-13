@@ -6,6 +6,7 @@ status = "Commenting"
 topics = [ "Transit" ]
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-06-26T11:27:51Z"
 default_branch = "master"
@@ -53,6 +54,7 @@ watchers_within = 10
   type = "Organization"
 
   [github.parent]
+  allow_forking = true
   archived = false
   created_at = "2014-06-01T13:40:39Z"
   default_branch = "master"
@@ -96,6 +98,7 @@ watchers_within = 10
   triage = false
 
   [github.source]
+  allow_forking = true
   archived = false
   created_at = "2014-06-01T13:40:39Z"
   default_branch = "master"

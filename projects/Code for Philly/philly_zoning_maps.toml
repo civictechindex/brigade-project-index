@@ -6,6 +6,7 @@ status = "Testing"
 topics = [ "data analysis", "Mapping", "Zoning" ]
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2017-06-29T17:05:03Z"
 default_branch = "master"

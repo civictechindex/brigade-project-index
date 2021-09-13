@@ -6,6 +6,7 @@ status = "Commenting"
 topics = [ "Transit" ]
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-05-27T16:29:47Z"
 default_branch = "master"

@@ -7,6 +7,7 @@ status = "Prototyping"
 topics = [ "Education", "Enpowerment" ]
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-10-17T16:43:27Z"
 default_branch = "master"

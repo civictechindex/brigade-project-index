@@ -6,6 +6,7 @@ status = "Maintaining"
 topics = [ "Cancer", "Genomics", "Machine Learning" ]
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-07-05T16:28:15Z"
 default_branch = "master"

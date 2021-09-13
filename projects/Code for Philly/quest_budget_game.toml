@@ -7,6 +7,7 @@ status = "Prototyping"
 topics = [ "CivicEngagement", "Gamification" ]
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2018-11-03T16:32:34Z"
 default_branch = "master"

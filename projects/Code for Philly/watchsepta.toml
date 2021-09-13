@@ -6,6 +6,7 @@ status = "Commenting"
 topics = [ "SEPTA" ]
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-03-31T01:18:45Z"
 default_branch = "master"

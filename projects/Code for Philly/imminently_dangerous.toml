@@ -6,6 +6,7 @@ status = "Hibernating"
 topics = [ "L&I", "Urban housing" ]
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-09-24T20:40:19Z"
 default_branch = "master"

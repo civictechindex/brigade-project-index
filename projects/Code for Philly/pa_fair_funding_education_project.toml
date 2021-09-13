@@ -6,6 +6,7 @@ status = "Hibernating"
 topics = [ "budget", "Education" ]
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-01-28T01:50:06Z"
 default_branch = "master"

@@ -6,6 +6,7 @@ status = "Maintaining"
 topics = [ "CivicEngagement", "Education", "Elections", "Voting" ]
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-04-26T13:27:30Z"
 default_branch = "master"

@@ -13,6 +13,7 @@ topics = [
 ]
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2013-09-21T20:02:39Z"
 default_branch = "master"
@@ -52,6 +53,7 @@ watchers_within = 0
   type = "User"
 
   [github.parent]
+  allow_forking = true
   archived = true
   created_at = "2013-07-09T19:38:36Z"
   default_branch = "master"
@@ -100,6 +102,7 @@ watchers_within = 0
   triage = false
 
   [github.source]
+  allow_forking = true
   archived = true
   created_at = "2013-07-09T19:38:36Z"
   default_branch = "master"

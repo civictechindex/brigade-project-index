@@ -6,6 +6,7 @@ status = "Hibernating"
 topics = [ "taxes" ]
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-08-31T19:02:54Z"
 default_branch = "master"

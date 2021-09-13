@@ -7,6 +7,7 @@ status = "Bootstrapping"
 topics = [ "CivicEngagement" ]
 
 [github]
+allow_forking = true
 archived = true
 created_at = "2015-01-17T03:34:00Z"
 default_branch = "master"

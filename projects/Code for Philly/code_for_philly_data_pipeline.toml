@@ -6,6 +6,7 @@ organization_name = "Code for Philly"
 status = "Bootstrapping"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2021-01-03T19:54:32Z"
 default_branch = "master"

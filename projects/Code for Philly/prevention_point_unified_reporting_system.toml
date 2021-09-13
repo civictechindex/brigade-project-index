@@ -6,6 +6,7 @@ status = "Prototyping"
 topics = [ "Data", "Public Heath", "UI" ]
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2019-03-12T23:33:02Z"
 default_branch = "master"

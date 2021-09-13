@@ -6,6 +6,7 @@ status = "Commenting"
 topics = [ "Education", "foreign language" ]
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-09-05T01:47:29Z"
 default_branch = "master"

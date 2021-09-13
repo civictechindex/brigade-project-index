@@ -6,6 +6,7 @@ status = "Bootstrapping"
 topics = [ "Bike", "Biking", "Crime Mapping", "Mapping", "Parking" ]
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-06-20T23:42:10Z"
 default_branch = "master"
@@ -50,6 +51,7 @@ watchers_within = 0
   type = "User"
 
   [github.parent]
+  allow_forking = true
   archived = true
   created_at = "2013-04-28T02:16:51Z"
   default_branch = "master"
@@ -98,6 +100,7 @@ watchers_within = 0
   triage = false
 
   [github.source]
+  allow_forking = true
   archived = true
   created_at = "2013-04-28T02:16:51Z"
   default_branch = "master"

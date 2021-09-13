@@ -6,6 +6,7 @@ status = "Commenting"
 topics = [ "Crime", "Sales" ]
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2018-03-30T19:17:28Z"
 default_branch = "master"

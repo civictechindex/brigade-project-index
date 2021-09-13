@@ -11,6 +11,7 @@ topics = [
 ]
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-06-04T00:18:05Z"
 default_branch = "master"
@@ -55,6 +56,7 @@ watchers_within = 0
   type = "User"
 
   [github.parent]
+  allow_forking = true
   archived = false
   created_at = "2014-10-20T04:26:53Z"
   default_branch = "develop"
@@ -103,6 +105,7 @@ watchers_within = 0
   triage = false
 
   [github.source]
+  allow_forking = true
   archived = false
   created_at = "2014-10-20T04:26:53Z"
   default_branch = "develop"

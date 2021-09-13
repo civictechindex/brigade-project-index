@@ -6,6 +6,7 @@ status = "Commenting"
 topics = [ "Budgets", "Education", "Philadelphia" ]
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2018-10-28T20:41:49Z"
 default_branch = "master"

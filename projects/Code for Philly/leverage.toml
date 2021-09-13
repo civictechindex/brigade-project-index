@@ -7,6 +7,7 @@ status = "Prototyping"
 topics = [ "Campaign Finance Reform", "Elections", "Voting" ]
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-03-19T16:48:52Z"
 default_branch = "master"

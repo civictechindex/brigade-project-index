@@ -7,6 +7,7 @@ status = "Maintaining"
 topics = [ "bicyc", "Biking", "Cycling", "Transit", "Transport" ]
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2013-12-04T00:53:11Z"
 default_branch = "feature/codeforphilly"
@@ -54,6 +55,7 @@ watchers_within = 10
   type = "Organization"
 
   [github.parent]
+  allow_forking = true
   archived = false
   created_at = "2013-04-30T23:13:32Z"
   default_branch = "master"
@@ -97,6 +99,7 @@ watchers_within = 10
   triage = false
 
   [github.source]
+  allow_forking = true
   archived = false
   created_at = "2011-07-18T16:15:38Z"
   default_branch = "dev-2.x"

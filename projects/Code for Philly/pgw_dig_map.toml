@@ -5,6 +5,7 @@ organization_name = "Code for Philly"
 status = "Drifting"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-06-17T22:25:10Z"
 default_branch = "master"

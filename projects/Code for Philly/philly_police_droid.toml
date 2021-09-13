@@ -6,6 +6,7 @@ status = "Prototyping"
 topics = [ "Crime", "Philly" ]
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2018-01-17T18:57:31Z"
 default_branch = "master"

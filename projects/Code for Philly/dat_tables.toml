@@ -15,6 +15,7 @@ topics = [
 ]
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-09-06T22:43:03Z"
 default_branch = "gh-pages"
