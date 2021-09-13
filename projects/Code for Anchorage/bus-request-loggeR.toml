@@ -5,6 +5,7 @@ name = "bus-request-loggeR"
 organization_name = "Code for Anchorage"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-04-01T06:50:20Z"
 default_branch = "master"

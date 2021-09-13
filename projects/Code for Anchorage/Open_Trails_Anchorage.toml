@@ -5,6 +5,7 @@ name = "Open_Trails_Anchorage"
 organization_name = "Code for Anchorage"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-07-22T22:04:26Z"
 default_branch = "master"

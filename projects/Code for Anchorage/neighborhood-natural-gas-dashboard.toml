@@ -4,6 +4,7 @@ name = "neighborhood-natural-gas-dashboard"
 organization_name = "Code for Anchorage"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2017-09-09T17:18:49Z"
 default_branch = "master"

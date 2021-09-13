@@ -5,6 +5,7 @@ name = "trailsyserver"
 organization_name = "Code for Anchorage"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-09-11T21:44:17Z"
 default_branch = "master"

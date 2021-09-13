@@ -5,6 +5,7 @@ name = "whatworkscities"
 organization_name = "Code for Anchorage"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2018-03-07T03:54:16Z"
 default_branch = "master"

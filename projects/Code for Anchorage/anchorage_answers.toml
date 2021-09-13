@@ -5,6 +5,7 @@ name = "anchorage_answers"
 organization_name = "Code for Anchorage"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-02-13T18:09:28Z"
 default_branch = "master"

@@ -5,6 +5,7 @@ name = "flushots_fusion"
 organization_name = "Code for Anchorage"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-10-18T20:45:52Z"
 default_branch = "gh-pages"

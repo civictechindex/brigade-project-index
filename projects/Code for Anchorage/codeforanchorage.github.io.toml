@@ -5,6 +5,7 @@ name = "codeforanchorage.github.io"
 organization_name = "Code for Anchorage"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2013-09-18T01:27:24Z"
 default_branch = "master"

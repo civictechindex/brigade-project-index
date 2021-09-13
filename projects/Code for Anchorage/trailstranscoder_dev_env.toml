@@ -5,6 +5,7 @@ name = "trailstranscoder_dev_env"
 organization_name = "Code for Anchorage"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-10-03T20:33:20Z"
 default_branch = "master"

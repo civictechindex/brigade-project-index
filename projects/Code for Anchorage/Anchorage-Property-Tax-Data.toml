@@ -5,6 +5,7 @@ name = "Anchorage-Property-Tax-Data"
 organization_name = "Code for Anchorage"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-01-21T04:11:36Z"
 default_branch = "master"

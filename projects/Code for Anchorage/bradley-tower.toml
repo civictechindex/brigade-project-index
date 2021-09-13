@@ -5,6 +5,7 @@ name = "bradley-tower"
 organization_name = "Code for Anchorage"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-07-08T15:50:59Z"
 default_branch = "master"

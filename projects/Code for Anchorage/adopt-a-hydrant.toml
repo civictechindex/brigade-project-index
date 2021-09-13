@@ -6,6 +6,7 @@ name = "adopt-a-hydrant"
 organization_name = "Code for Anchorage"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2012-10-31T18:29:55Z"
 default_branch = "master"

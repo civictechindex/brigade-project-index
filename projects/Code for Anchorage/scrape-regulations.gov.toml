@@ -5,6 +5,7 @@ name = "scrape-regulations.gov"
 organization_name = "Code for Anchorage"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2017-03-22T02:00:19Z"
 default_branch = "master"

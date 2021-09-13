@@ -4,6 +4,7 @@ name = "splash-anc"
 organization_name = "Code for Anchorage"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-10-29T23:44:18Z"
 default_branch = "gh-pages"

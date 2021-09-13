@@ -5,6 +5,7 @@ name = "foodborne_survey"
 organization_name = "Code for Anchorage"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-12-25T20:52:53Z"
 default_branch = "master"

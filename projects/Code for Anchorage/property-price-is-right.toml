@@ -6,6 +6,7 @@ name = "property-price-is-right"
 organization_name = "Code for Anchorage"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2018-03-21T03:16:49Z"
 default_branch = "master"

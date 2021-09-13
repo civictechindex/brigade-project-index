@@ -5,6 +5,7 @@ name = "moa_property_tax_geojson"
 organization_name = "Code for Anchorage"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-05-13T02:59:04Z"
 default_branch = "master"

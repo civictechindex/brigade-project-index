@@ -6,6 +6,7 @@ name = "biostar-central"
 organization_name = "Code for Anchorage"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-07-09T21:21:06Z"
 default_branch = "master"

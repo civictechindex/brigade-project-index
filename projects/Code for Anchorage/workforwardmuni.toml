@@ -5,6 +5,7 @@ name = "workforwardmuni"
 organization_name = "Code for Anchorage"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2017-04-20T14:29:49Z"
 default_branch = "master"

@@ -6,6 +6,7 @@ name = "forget-me-not"
 organization_name = "Code for Anchorage"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-06-22T20:12:28Z"
 default_branch = "master"

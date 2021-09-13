@@ -4,6 +4,7 @@ name = "brewery-bike-tour"
 organization_name = "Code for Anchorage"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2018-07-11T03:00:48Z"
 default_branch = "master"

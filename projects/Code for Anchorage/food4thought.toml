@@ -5,6 +5,7 @@ name = "food4thought"
 organization_name = "Code for Anchorage"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2018-05-19T03:37:44Z"
 default_branch = "master"
