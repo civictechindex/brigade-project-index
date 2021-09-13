@@ -5,6 +5,7 @@ name = "school-finder"
 organization_name = "Code for OKC"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-12-12T03:11:33Z"
 default_branch = "master"
