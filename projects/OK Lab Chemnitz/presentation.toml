@@ -5,6 +5,7 @@ name = "presentation"
 organization_name = "OK Lab Chemnitz"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-07-17T16:18:50Z"
 default_branch = "gh-pages"

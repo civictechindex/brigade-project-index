@@ -6,6 +6,7 @@ name = "CutePetsChemnitz"
 organization_name = "OK Lab Chemnitz"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-07-16T17:59:23Z"
 default_branch = "master"

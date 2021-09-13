@@ -5,6 +5,7 @@ name = "SensorKarte"
 organization_name = "OK Lab Chemnitz"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-06-18T17:57:13Z"
 default_branch = "master"

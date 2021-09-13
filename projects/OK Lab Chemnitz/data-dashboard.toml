@@ -6,6 +6,7 @@ name = "data-dashboard"
 organization_name = "OK Lab Chemnitz"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-04-14T18:05:41Z"
 default_branch = "gh-pages"

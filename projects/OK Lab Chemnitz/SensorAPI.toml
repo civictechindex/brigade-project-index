@@ -5,6 +5,7 @@ name = "SensorAPI"
 organization_name = "OK Lab Chemnitz"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-07-16T19:42:51Z"
 default_branch = "master"

@@ -6,6 +6,7 @@ name = "elixir-overpass"
 organization_name = "OK Lab Chemnitz"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-11-05T19:28:03Z"
 default_branch = "master"

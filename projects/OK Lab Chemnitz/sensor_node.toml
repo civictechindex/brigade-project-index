@@ -6,6 +6,7 @@ name = "sensor_node"
 organization_name = "OK Lab Chemnitz"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-01-22T19:33:00Z"
 default_branch = "master"
