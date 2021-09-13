@@ -5,6 +5,7 @@ name = "fresh-food-connect-api"
 organization_name = "Code for Denver"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-08-18T04:23:33Z"
 default_branch = "master"

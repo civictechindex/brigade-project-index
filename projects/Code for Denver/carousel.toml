@@ -4,6 +4,7 @@ name = "carousel"
 organization_name = "Code for Denver"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2020-04-02T17:57:58Z"
 default_branch = "master"

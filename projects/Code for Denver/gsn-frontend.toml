@@ -5,6 +5,7 @@ name = "gsn-frontend"
 organization_name = "Code for Denver"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2019-05-13T20:26:13Z"
 default_branch = "master"

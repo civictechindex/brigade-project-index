@@ -6,6 +6,7 @@ name = "encorelink"
 organization_name = "Code for Denver"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-05-03T01:24:04Z"
 default_branch = "master"

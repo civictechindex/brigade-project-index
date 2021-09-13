@@ -6,6 +6,7 @@ name = "2017-Annual-Report"
 organization_name = "Code for Denver"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2017-11-21T03:09:53Z"
 default_branch = "master"

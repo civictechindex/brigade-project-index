@@ -6,6 +6,7 @@ name = "exit-plan"
 organization_name = "Code for Denver"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2019-03-05T02:07:23Z"
 default_branch = "master"

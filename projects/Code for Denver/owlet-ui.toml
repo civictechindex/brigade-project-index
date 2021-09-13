@@ -6,6 +6,7 @@ name = "owlet-ui"
 organization_name = "Code for Denver"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-03-25T06:55:51Z"
 default_branch = "master"

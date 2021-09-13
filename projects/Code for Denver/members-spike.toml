@@ -4,6 +4,7 @@ name = "members-spike"
 organization_name = "Code for Denver"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2017-12-02T21:17:52Z"
 default_branch = "master"

@@ -5,6 +5,7 @@ name = "adoptmyapp"
 organization_name = "Code for Denver"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-05-03T05:14:02Z"
 default_branch = "master"

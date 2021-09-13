@@ -5,6 +5,7 @@ name = "flowdock-bot"
 organization_name = "Code for Denver"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-07-21T05:21:41Z"
 default_branch = "master"

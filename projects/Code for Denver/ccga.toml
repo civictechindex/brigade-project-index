@@ -5,6 +5,7 @@ name = "ccga"
 organization_name = "Code for Denver"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2019-04-02T02:30:00Z"
 default_branch = "master"

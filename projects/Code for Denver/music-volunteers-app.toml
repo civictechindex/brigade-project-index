@@ -5,6 +5,7 @@ name = "music-volunteers-app"
 organization_name = "Code for Denver"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-06-22T20:08:34Z"
 default_branch = "master"

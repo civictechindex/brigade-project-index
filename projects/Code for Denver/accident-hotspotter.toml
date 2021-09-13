@@ -5,6 +5,7 @@ name = "accident-hotspotter"
 organization_name = "Code for Denver"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2019-09-24T01:02:55Z"
 default_branch = "master"

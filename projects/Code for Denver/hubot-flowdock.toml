@@ -5,6 +5,7 @@ name = "hubot-flowdock"
 organization_name = "Code for Denver"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-11-07T06:59:41Z"
 default_branch = "master"

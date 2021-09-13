@@ -5,6 +5,7 @@ name = "CodeAcross-2015"
 organization_name = "Code for Denver"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-11-19T03:02:05Z"
 default_branch = "master"

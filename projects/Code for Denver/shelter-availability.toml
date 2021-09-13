@@ -5,6 +5,7 @@ name = "shelter-availability"
 organization_name = "Code for Denver"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-06-28T02:10:03Z"
 default_branch = "master"

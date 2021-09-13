@@ -5,6 +5,7 @@ organization_name = "Code for Denver"
 topics = [ "api", "census", "code-for-america", "code-for-denver" ]
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2018-09-25T02:21:41Z"
 default_branch = "master"

@@ -5,6 +5,7 @@ name = "cdphe-accessible-covid19"
 organization_name = "Code for Denver"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2020-09-21T22:30:47Z"
 default_branch = "master"

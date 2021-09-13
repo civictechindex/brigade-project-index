@@ -5,6 +5,7 @@ name = "all-the-things"
 organization_name = "Code for Denver"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-01-10T22:46:52Z"
 default_branch = "master"

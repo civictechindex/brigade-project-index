@@ -6,6 +6,7 @@ name = "Circular"
 organization_name = "Code for Denver"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-08-30T01:12:02Z"
 default_branch = "master"

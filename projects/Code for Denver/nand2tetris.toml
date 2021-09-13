@@ -5,6 +5,7 @@ name = "nand2tetris"
 organization_name = "Code for Denver"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2020-02-11T16:31:41Z"
 default_branch = "master"

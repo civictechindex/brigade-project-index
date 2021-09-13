@@ -5,6 +5,7 @@ name = "code-for-denver-site"
 organization_name = "Code for Denver"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-10-22T02:40:14Z"
 default_branch = "master"

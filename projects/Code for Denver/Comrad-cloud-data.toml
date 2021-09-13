@@ -5,6 +5,7 @@ name = "Comrad-cloud-data"
 organization_name = "Code for Denver"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2018-10-23T02:17:13Z"
 default_branch = "master"
