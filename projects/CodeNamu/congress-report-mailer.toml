@@ -5,6 +5,7 @@ name = "congress-report-mailer"
 organization_name = "CodeNamu"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-07-09T05:35:32Z"
 default_branch = "master"

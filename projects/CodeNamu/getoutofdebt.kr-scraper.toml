@@ -5,6 +5,7 @@ name = "getoutofdebt.kr-scraper"
 organization_name = "CodeNamu"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-04-11T08:09:36Z"
 default_branch = "master"

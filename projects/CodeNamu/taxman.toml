@@ -6,6 +6,7 @@ name = "taxman"
 organization_name = "CodeNamu"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-07-27T03:30:14Z"
 default_branch = "master"

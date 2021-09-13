@@ -5,6 +5,7 @@ name = "FdAS-iOS"
 organization_name = "CodeNamu"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-01-30T05:35:32Z"
 default_branch = "master"

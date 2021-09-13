@@ -6,6 +6,7 @@ name = "LocalGovIndex"
 organization_name = "CodeNamu"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-03-29T04:05:16Z"
 default_branch = "master"

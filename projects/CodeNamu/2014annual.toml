@@ -6,6 +6,7 @@ name = "2014annual"
 organization_name = "CodeNamu"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-12-05T16:54:39Z"
 default_branch = "gh-pages"

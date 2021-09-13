@@ -4,6 +4,7 @@ name = "how-much-shoveling-data-crawler"
 organization_name = "CodeNamu"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-03-23T01:34:10Z"
 default_branch = "master"

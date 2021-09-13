@@ -4,6 +4,7 @@ name = "hacknight"
 organization_name = "CodeNamu"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-09-22T05:00:13Z"
 default_branch = "master"

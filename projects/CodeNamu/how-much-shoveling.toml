@@ -6,6 +6,7 @@ name = "how-much-shoveling"
 organization_name = "CodeNamu"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-03-02T01:43:38Z"
 default_branch = "master"

@@ -5,6 +5,7 @@ name = "-deprecated-showcase-api"
 organization_name = "CodeNamu"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-08-25T02:56:41Z"
 default_branch = "express-es6"

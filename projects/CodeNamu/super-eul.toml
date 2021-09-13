@@ -4,6 +4,7 @@ name = "super-eul"
 organization_name = "CodeNamu"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-03-09T11:37:56Z"
 default_branch = "master"

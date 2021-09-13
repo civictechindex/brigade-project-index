@@ -6,6 +6,7 @@ name = "hubot"
 organization_name = "CodeNamu"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-03-03T05:58:54Z"
 default_branch = "master"

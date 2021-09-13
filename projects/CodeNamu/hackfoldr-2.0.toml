@@ -6,6 +6,7 @@ name = "hackfoldr-2.0"
 organization_name = "CodeNamu"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-06-01T15:42:28Z"
 default_branch = "master"

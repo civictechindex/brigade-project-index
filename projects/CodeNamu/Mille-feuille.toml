@@ -5,6 +5,7 @@ name = "Mille-feuille"
 organization_name = "CodeNamu"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-12-15T05:37:21Z"
 default_branch = "master"
