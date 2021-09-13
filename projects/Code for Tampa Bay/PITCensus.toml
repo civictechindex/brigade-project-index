@@ -4,6 +4,7 @@ name = "PITCensus"
 organization_name = "Code for Tampa Bay"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-06-25T16:51:26Z"
 default_branch = "master"

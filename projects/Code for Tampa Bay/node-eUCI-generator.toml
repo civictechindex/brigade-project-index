@@ -5,6 +5,7 @@ name = "node-eUCI-generator"
 organization_name = "Code for Tampa Bay"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-05-15T21:07:31Z"
 default_branch = "master"

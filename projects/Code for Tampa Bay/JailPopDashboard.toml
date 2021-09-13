@@ -5,6 +5,7 @@ name = "JailPopDashboard"
 organization_name = "Code for Tampa Bay"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-09-21T23:23:29Z"
 default_branch = "master"
