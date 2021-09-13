@@ -5,6 +5,7 @@ name = "xml2jsonapi"
 organization_name = "Open Denton"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2019-03-02T20:43:45Z"
 default_branch = "master"

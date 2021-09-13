@@ -5,6 +5,7 @@ name = "listendenton"
 organization_name = "Open Denton"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-05-04T16:44:10Z"
 default_branch = "master"

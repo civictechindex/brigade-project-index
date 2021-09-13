@@ -5,6 +5,7 @@ name = "Denton-Dashboard"
 organization_name = "Open Denton"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-03-05T15:24:27Z"
 default_branch = "master"
