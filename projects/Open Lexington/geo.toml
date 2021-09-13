@@ -5,6 +5,7 @@ name = "geo"
 organization_name = "Open Lexington"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2010-12-05T00:56:58Z"
 default_branch = "openlexington"

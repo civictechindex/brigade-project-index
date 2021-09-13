@@ -6,6 +6,7 @@ name = "data-lexingtonky"
 organization_name = "Open Lexington"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-04-08T23:47:07Z"
 default_branch = "master"

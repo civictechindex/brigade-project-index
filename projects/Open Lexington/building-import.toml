@@ -5,6 +5,7 @@ name = "building-import"
 organization_name = "Open Lexington"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-02-21T18:01:27Z"
 default_branch = "master"

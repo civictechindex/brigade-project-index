@@ -5,6 +5,7 @@ name = "ckan-cookbook"
 organization_name = "Open Lexington"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-04-23T20:57:07Z"
 default_branch = "master"

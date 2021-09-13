@@ -6,6 +6,7 @@ name = "ohana-web-search"
 organization_name = "Open Lexington"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-02-11T22:18:32Z"
 default_branch = "master"

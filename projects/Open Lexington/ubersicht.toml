@@ -6,6 +6,7 @@ name = "ubersicht"
 organization_name = "Open Lexington"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-02-24T15:21:07Z"
 default_branch = "gh-pages"

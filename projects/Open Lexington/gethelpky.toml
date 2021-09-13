@@ -6,6 +6,7 @@ name = "gethelpky"
 organization_name = "Open Lexington"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-06-18T16:33:36Z"
 default_branch = "gh-pages"

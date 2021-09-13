@@ -6,6 +6,7 @@ name = "health-department-yelp-data"
 organization_name = "Open Lexington"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-03-05T18:54:20Z"
 default_branch = "gh-pages"

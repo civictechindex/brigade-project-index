@@ -6,6 +6,7 @@ name = "whats_my_district_redux"
 organization_name = "Open Lexington"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-03-06T20:50:55Z"
 default_branch = "master"

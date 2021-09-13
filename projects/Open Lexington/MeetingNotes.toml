@@ -5,6 +5,7 @@ name = "MeetingNotes"
 organization_name = "Open Lexington"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2011-04-14T20:25:53Z"
 default_branch = "master"

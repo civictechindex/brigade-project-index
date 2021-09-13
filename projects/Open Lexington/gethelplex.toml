@@ -6,6 +6,7 @@ name = "gethelplex"
 organization_name = "Open Lexington"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-06-02T15:45:28Z"
 default_branch = "gh-pages"

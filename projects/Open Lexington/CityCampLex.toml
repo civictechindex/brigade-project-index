@@ -6,6 +6,7 @@ name = "CityCampLex"
 organization_name = "Open Lexington"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2010-10-29T03:05:59Z"
 default_branch = "master"

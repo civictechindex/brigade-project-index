@@ -5,6 +5,7 @@ name = "GiveMeCutePets"
 organization_name = "Open Lexington"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-06-15T14:05:52Z"
 default_branch = "master"

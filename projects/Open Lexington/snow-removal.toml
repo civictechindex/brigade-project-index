@@ -6,6 +6,7 @@ name = "snow-removal"
 organization_name = "Open Lexington"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-03-05T22:17:01Z"
 default_branch = "gh-pages"

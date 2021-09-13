@@ -5,6 +5,7 @@ name = "cfa-brigade-template"
 organization_name = "Open Lexington"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-11-04T19:14:14Z"
 default_branch = "master"

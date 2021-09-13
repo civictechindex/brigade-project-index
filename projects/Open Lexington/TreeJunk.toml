@@ -5,6 +5,7 @@ name = "TreeJunk"
 organization_name = "Open Lexington"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-06-06T15:32:00Z"
 default_branch = "master"

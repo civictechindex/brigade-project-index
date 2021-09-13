@@ -6,6 +6,7 @@ name = "awesome-public-datasets"
 organization_name = "Open Lexington"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-02-02T19:11:09Z"
 default_branch = "master"

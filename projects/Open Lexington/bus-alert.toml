@@ -5,6 +5,7 @@ name = "bus-alert"
 organization_name = "Open Lexington"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2013-06-01T22:55:45Z"
 default_branch = "master"
