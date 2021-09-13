@@ -4,6 +4,7 @@ name = "Data-Stories"
 organization_name = "Code for Chapel Hill"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2020-02-25T23:29:21Z"
 default_branch = "master"

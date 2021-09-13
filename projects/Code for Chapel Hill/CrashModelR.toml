@@ -5,6 +5,7 @@ name = "CrashModelR"
 organization_name = "Code for Chapel Hill"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2019-04-01T23:37:23Z"
 default_branch = "master"
