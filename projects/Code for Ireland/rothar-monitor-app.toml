@@ -5,6 +5,7 @@ name = "rothar-monitor-app"
 organization_name = "Code for Ireland"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-11-13T16:37:11Z"
 default_branch = "master"

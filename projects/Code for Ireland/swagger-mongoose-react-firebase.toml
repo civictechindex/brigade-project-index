@@ -4,6 +4,7 @@ name = "swagger-mongoose-react-firebase"
 organization_name = "Code for Ireland"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2019-07-09T07:47:16Z"
 default_branch = "master"

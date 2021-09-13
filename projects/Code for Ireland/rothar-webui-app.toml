@@ -4,6 +4,7 @@ name = "rothar-webui-app"
 organization_name = "Code for Ireland"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-11-02T23:01:49Z"
 default_branch = "master"

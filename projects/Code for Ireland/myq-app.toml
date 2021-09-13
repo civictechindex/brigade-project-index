@@ -6,6 +6,7 @@ name = "myq-app"
 organization_name = "Code for Ireland"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-06-19T21:17:48Z"
 default_branch = "master"
