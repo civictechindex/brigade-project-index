@@ -5,6 +5,7 @@ organization_name = "Code for Hampton Roads"
 topics = [ "maptime", "official" ]
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-08-06T15:25:29Z"
 default_branch = "master"

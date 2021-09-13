@@ -4,6 +4,7 @@ name = "okcandidate-platform-app"
 organization_name = "Code for Hampton Roads"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2017-10-18T23:57:57Z"
 default_branch = "master"

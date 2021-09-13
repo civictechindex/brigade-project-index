@@ -5,6 +5,7 @@ name = "hrva-housing"
 organization_name = "Code for Hampton Roads"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2019-07-09T14:49:48Z"
 default_branch = "master"

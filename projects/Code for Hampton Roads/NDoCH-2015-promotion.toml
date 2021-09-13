@@ -6,6 +6,7 @@ organization_name = "Code for Hampton Roads"
 topics = [ "deprecated", "official" ]
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-05-06T22:05:48Z"
 default_branch = "master"

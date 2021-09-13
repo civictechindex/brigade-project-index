@@ -4,6 +4,7 @@ name = "adopt-a-drain-legacy"
 organization_name = "Code for Hampton Roads"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2017-10-18T23:13:32Z"
 default_branch = "master"

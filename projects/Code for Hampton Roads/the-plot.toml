@@ -6,6 +6,7 @@ name = "the-plot"
 organization_name = "Code for Hampton Roads"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-07-16T06:47:07Z"
 default_branch = "gh-pages"

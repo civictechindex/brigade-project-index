@@ -5,6 +5,7 @@ name = "Alexa_NavO"
 organization_name = "Code for Hampton Roads"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2017-10-24T01:53:10Z"
 default_branch = "master"

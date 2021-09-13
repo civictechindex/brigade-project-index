@@ -5,6 +5,7 @@ name = "hrt-bus-healthcheck"
 organization_name = "Code for Hampton Roads"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2018-03-22T02:52:02Z"
 default_branch = "master"

@@ -5,6 +5,7 @@ name = "open-health-inspection-graphql"
 organization_name = "Code for Hampton Roads"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2017-05-26T23:41:30Z"
 default_branch = "master"

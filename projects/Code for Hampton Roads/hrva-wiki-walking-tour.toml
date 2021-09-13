@@ -5,6 +5,7 @@ name = "hrva-wiki-walking-tour"
 organization_name = "Code for Hampton Roads"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-08-02T22:23:00Z"
 default_branch = "gh-pages"

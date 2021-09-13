@@ -5,6 +5,7 @@ organization_name = "Code for Hampton Roads"
 topics = [ "active" ]
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2017-01-25T16:19:10Z"
 default_branch = "master"
