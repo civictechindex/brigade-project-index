@@ -6,6 +6,7 @@ organization_name = "Open San Diego"
 topics = [ "library-management-system", "open-san-diego" ]
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2019-04-30T18:10:59Z"
 default_branch = "master"

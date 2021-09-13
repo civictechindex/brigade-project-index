@@ -5,6 +5,7 @@ name = "sd-smart-streetlight-tools"
 organization_name = "Open San Diego"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2020-02-11T19:25:53Z"
 default_branch = "master"

@@ -6,6 +6,7 @@ organization_name = "Open San Diego"
 topics = [ "inactive", "open-san-diego" ]
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-06-03T03:55:50Z"
 default_branch = "develop"

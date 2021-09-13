@@ -5,6 +5,7 @@ name = "tree-canopy-ml"
 organization_name = "Open San Diego"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2021-03-31T03:00:07Z"
 default_branch = "main"

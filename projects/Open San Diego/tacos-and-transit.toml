@@ -6,6 +6,7 @@ organization_name = "Open San Diego"
 topics = [ "data-viz", "open-san-diego" ]
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2019-02-23T18:29:37Z"
 default_branch = "master"

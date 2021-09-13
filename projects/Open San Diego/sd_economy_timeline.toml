@@ -5,6 +5,7 @@ name = "sd_economy_timeline"
 organization_name = "Open San Diego"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2020-04-01T02:38:24Z"
 default_branch = "master"
