@@ -5,6 +5,7 @@ name = "mailin-docker"
 organization_name = "Loomio"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-03-10T05:54:18Z"
 default_branch = "master"

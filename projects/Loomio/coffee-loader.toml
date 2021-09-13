@@ -5,6 +5,7 @@ name = "coffee-loader"
 organization_name = "Loomio"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2020-04-08T19:31:49Z"
 default_branch = "master"

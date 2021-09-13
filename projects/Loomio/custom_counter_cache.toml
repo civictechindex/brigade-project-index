@@ -6,6 +6,7 @@ name = "custom_counter_cache"
 organization_name = "Loomio"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2018-01-17T07:26:34Z"
 default_branch = "master"

@@ -4,6 +4,7 @@ name = "loomio_legal_plugin"
 organization_name = "Loomio"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2018-07-10T17:28:15Z"
 default_branch = "master"

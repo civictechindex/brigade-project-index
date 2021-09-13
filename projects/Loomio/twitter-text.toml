@@ -5,6 +5,7 @@ name = "twitter-text"
 organization_name = "Loomio"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2017-08-29T11:54:53Z"
 default_branch = "master"

@@ -5,6 +5,7 @@ name = "loomio_help"
 organization_name = "Loomio"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2018-07-24T07:14:47Z"
 default_branch = "master"

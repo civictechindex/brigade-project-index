@@ -5,6 +5,7 @@ name = "icalendar"
 organization_name = "Loomio"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2017-05-30T15:05:25Z"
 default_branch = "master"

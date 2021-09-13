@@ -6,6 +6,7 @@ name = "loomio-coop-handbook"
 organization_name = "Loomio"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2013-03-02T01:13:56Z"
 default_branch = "master"
