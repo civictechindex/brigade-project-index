@@ -5,6 +5,7 @@ name = "telescope"
 organization_name = "Missoula Civic Hackathon"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-05-31T13:18:04Z"
 default_branch = "master"

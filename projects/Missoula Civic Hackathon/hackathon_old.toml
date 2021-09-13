@@ -6,6 +6,7 @@ name = "hackathon_old"
 organization_name = "Missoula Civic Hackathon"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-02-29T04:34:36Z"
 default_branch = "master"

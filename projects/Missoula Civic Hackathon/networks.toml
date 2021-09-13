@@ -4,6 +4,7 @@ name = "networks"
 organization_name = "Missoula Civic Hackathon"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-06-29T20:55:30Z"
 default_branch = "master"

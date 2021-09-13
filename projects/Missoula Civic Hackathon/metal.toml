@@ -4,6 +4,7 @@ name = "metal"
 organization_name = "Missoula Civic Hackathon"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-06-11T02:36:26Z"
 default_branch = "master"

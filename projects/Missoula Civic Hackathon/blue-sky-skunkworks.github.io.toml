@@ -5,6 +5,7 @@ name = "blue-sky-skunkworks.github.io"
 organization_name = "Missoula Civic Hackathon"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-03-01T06:17:35Z"
 default_branch = "master"
