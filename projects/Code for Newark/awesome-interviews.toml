@@ -5,6 +5,7 @@ name = "awesome-interviews"
 organization_name = "Code for Newark"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-02-05T23:53:55Z"
 default_branch = "master"

@@ -5,6 +5,7 @@ name = "newark-viz"
 organization_name = "Code for Newark"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-02-07T12:00:53Z"
 default_branch = "master"
