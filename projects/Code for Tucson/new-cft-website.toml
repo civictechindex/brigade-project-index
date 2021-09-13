@@ -5,6 +5,7 @@ name = "new-cft-website"
 organization_name = "Code for Tucson"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2018-12-05T01:58:07Z"
 default_branch = "master"

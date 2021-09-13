@@ -5,6 +5,7 @@ name = "govtracker-az"
 organization_name = "Code for Tucson"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-11-01T23:56:11Z"
 default_branch = "master"

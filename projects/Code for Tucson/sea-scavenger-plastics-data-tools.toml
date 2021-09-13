@@ -5,6 +5,7 @@ name = "sea-scavenger-plastics-data-tools"
 organization_name = "Code for Tucson"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2020-10-13T01:56:14Z"
 default_branch = "main"

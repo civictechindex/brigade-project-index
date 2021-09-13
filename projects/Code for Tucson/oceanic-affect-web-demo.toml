@@ -5,6 +5,7 @@ name = "oceanic-affect-web-demo"
 organization_name = "Code for Tucson"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2020-08-19T01:18:35Z"
 default_branch = "master"

@@ -6,6 +6,7 @@ name = "learning-area"
 organization_name = "Code for Tucson"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2021-01-04T05:58:21Z"
 default_branch = "master"

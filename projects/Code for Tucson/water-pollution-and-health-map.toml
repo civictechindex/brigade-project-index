@@ -5,6 +5,7 @@ name = "water-pollution-and-health-map"
 organization_name = "Code for Tucson"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2020-03-07T19:52:48Z"
 default_branch = "master"

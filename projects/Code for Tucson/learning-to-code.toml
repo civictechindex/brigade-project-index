@@ -5,6 +5,7 @@ name = "learning-to-code"
 organization_name = "Code for Tucson"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2018-09-05T02:01:46Z"
 default_branch = "master"

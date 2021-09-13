@@ -6,6 +6,7 @@ organization_name = "Code for Tucson"
 topics = [ "code-for-america", "code-for-tucson", "environment" ]
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2020-09-13T23:36:31Z"
 default_branch = "master"
