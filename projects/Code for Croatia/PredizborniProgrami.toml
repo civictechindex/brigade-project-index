@@ -5,6 +5,7 @@ name = "PredizborniProgrami"
 organization_name = "Code for Croatia"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2021-08-09T14:23:21Z"
 default_branch = "gh-pages"

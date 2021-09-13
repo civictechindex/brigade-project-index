@@ -6,6 +6,7 @@ name = "joblint"
 organization_name = "Code for Croatia"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-05-01T09:12:29Z"
 default_branch = "master"

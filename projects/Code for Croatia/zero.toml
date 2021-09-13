@@ -6,6 +6,7 @@ organization_name = "Code for Croatia"
 topics = [ "jekyll" ]
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2018-06-02T08:00:47Z"
 default_branch = "gh-pages"

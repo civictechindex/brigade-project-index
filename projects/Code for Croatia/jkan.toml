@@ -4,6 +4,7 @@ name = "jkan"
 organization_name = "Code for Croatia"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2020-05-30T11:20:12Z"
 default_branch = "gh-pages"

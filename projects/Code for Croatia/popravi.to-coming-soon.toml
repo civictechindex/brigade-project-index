@@ -5,6 +5,7 @@ name = "popravi.to-coming-soon"
 organization_name = "Code for Croatia"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2021-06-11T10:12:41Z"
 default_branch = "main"

@@ -6,6 +6,7 @@ name = "pov-status-2014-2016"
 organization_name = "Code for Croatia"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-10-13T17:59:13Z"
 default_branch = "gh-pages"

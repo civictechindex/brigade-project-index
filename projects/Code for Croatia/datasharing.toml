@@ -5,6 +5,7 @@ name = "datasharing"
 organization_name = "Code for Croatia"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2017-03-09T07:58:39Z"
 default_branch = "master"

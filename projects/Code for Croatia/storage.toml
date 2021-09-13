@@ -5,6 +5,7 @@ name = "storage"
 organization_name = "Code for Croatia"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-02-22T17:17:12Z"
 default_branch = "master"

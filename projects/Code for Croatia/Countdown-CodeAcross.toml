@@ -5,6 +5,7 @@ name = "Countdown-CodeAcross"
 organization_name = "Code for Croatia"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-01-16T23:37:39Z"
 default_branch = "master"

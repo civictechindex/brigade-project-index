@@ -6,6 +6,7 @@ name = "help-wanted"
 organization_name = "Code for Croatia"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2019-03-01T19:33:04Z"
 default_branch = "master"

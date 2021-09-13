@@ -5,6 +5,7 @@ name = "croatia-parliament"
 organization_name = "Code for Croatia"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-04-03T14:30:07Z"
 default_branch = "master"

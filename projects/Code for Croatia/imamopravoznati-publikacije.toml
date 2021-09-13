@@ -6,6 +6,7 @@ name = "imamopravoznati-publikacije"
 organization_name = "Code for Croatia"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2016-10-02T13:09:37Z"
 default_branch = "gh-pages"

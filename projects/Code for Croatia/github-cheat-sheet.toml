@@ -5,6 +5,7 @@ name = "github-cheat-sheet"
 organization_name = "Code for Croatia"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-09-05T20:14:42Z"
 default_branch = "master"

@@ -5,6 +5,7 @@ name = "civic-tech-patterns"
 organization_name = "Code for Croatia"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-03-02T19:14:41Z"
 default_branch = "master"

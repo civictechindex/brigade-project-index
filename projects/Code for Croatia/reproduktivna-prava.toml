@@ -5,6 +5,7 @@ name = "reproduktivna-prava"
 organization_name = "Code for Croatia"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2019-03-03T14:09:21Z"
 default_branch = "gh-pages"

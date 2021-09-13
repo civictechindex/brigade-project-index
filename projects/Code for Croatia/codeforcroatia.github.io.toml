@@ -6,6 +6,7 @@ name = "codeforcroatia.github.io"
 organization_name = "Code for Croatia"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-03-24T20:36:46Z"
 default_branch = "master"

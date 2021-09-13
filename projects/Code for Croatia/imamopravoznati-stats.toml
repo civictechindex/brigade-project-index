@@ -6,6 +6,7 @@ name = "imamopravoznati-stats"
 organization_name = "Code for Croatia"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2015-12-07T21:34:53Z"
 default_branch = "master"

@@ -6,6 +6,7 @@ name = "sanitarnipodaci"
 organization_name = "Code for Croatia"
 
 [github]
+allow_forking = true
 archived = false
 created_at = "2014-02-19T18:36:14Z"
 default_branch = "master"
