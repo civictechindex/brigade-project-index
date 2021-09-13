@@ -1,0 +1,54 @@
+code_url = "https://github.com/18F/foia-pa-2021"
+description = "Path analysis for the FOIA.gov submission process"
+git_url = "git://github.com/18F/foia-pa-2021.git"
+name = "foia-pa-2021"
+organization_name = "18F"
+
+[github]
+allow_forking = true
+archived = false
+created_at = "2021-09-13T18:34:14Z"
+default_branch = "main"
+description = "Path analysis for the FOIA.gov submission process"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "18F/foia-pa-2021"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 406_087_262
+language = { }
+name = "foia-pa-2021"
+node_id = "MDEwOlJlcG9zaXRvcnk0MDYwODcyNjI="
+open_issues_within = 0
+private = false
+pushed_within = "week"
+stargazers_within = 0
+topics = [ ]
+updated_within = "week"
+watchers_within = 0
+
+  [github.license]
+  key = "other"
+  name = "Other"
+  node_id = "MDc6TGljZW5zZTA="
+  spdx_id = "NOASSERTION"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_233_994
+  login = "18F"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjYyMzM5OTQ="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  maintain = false
+  pull = true
+  push = false
+  triage = false
