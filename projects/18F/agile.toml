@@ -22,7 +22,7 @@ has_projects = true
 has_wiki = false
 homepage = "https://agile.18f.gov"
 id = 30_204_713
-language = "Ruby"
+language = "SCSS"
 name = "agile"
 node_id = "MDEwOlJlcG9zaXRvcnkzMDIwNDcxMw=="
 open_issues_within = 100
@@ -30,7 +30,7 @@ private = false
 pushed_within = "week"
 stargazers_within = 100
 topics = [ ]
-updated_within = "year"
+updated_within = "week"
 watchers_within = 100
 
   [github.license]
