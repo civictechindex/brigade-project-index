@@ -21,15 +21,15 @@ has_projects = true
 has_wiki = true
 homepage = { }
 id = 391_699_916
-language = { }
+language = "HTML"
 name = "little-help-book-print"
 node_id = "MDEwOlJlcG9zaXRvcnkzOTE2OTk5MTY="
 open_issues_within = 10
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 0
 topics = [ ]
-updated_within = "year"
+updated_within = "week"
 watchers_within = 0
 
   [github.license]
