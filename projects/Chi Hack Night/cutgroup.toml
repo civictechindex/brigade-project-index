@@ -1,3 +1,58 @@
 code_url = "https://github.com/smartchicago/cutgroup"
 name = "cutgroup"
 organization_name = "Chi Hack Night"
+
+[github]
+allow_forking = true
+archived = false
+created_at = "2013-01-30T23:24:46Z"
+default_branch = "master"
+description = "http://www.cutgroup.org"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "smartchicago/cutgroup"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 7_926_206
+language = "HTML"
+license = { }
+name = "cutgroup"
+network_count = 7
+node_id = "MDEwOlJlcG9zaXRvcnk3OTI2MjA2"
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+subscribers_count = 4
+temp_clone_token = ""
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.organization]
+  gravatar_id = ""
+  id = 2_008_099
+  login = "smartchicago"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjIwMDgwOTk="
+  site_admin = false
+  type = "Organization"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_008_099
+  login = "smartchicago"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjIwMDgwOTk="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  maintain = false
+  pull = true
+  push = false
+  triage = false
