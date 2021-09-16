@@ -42,7 +42,7 @@ open_issues_within = 100
 private = false
 pushed_within = "year"
 score = 1
-stargazers_within = 0
+stargazers_within = 10
 topics = [
   "civictechindex",
   "code-for-all",
@@ -57,8 +57,8 @@ topics = [
   "youth-diversion",
   "youth-rights"
 ]
-updated_within = "year"
-watchers_within = 0
+updated_within = "week"
+watchers_within = 10
 
   [github.license]
   key = "gpl-2.0"
