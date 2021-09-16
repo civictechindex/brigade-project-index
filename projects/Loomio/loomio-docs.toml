@@ -1,0 +1,49 @@
+code_url = "https://github.com/loomio/loomio-docs"
+description = "Loomio help, guides and policies"
+git_url = "git://github.com/loomio/loomio-docs.git"
+name = "loomio-docs"
+organization_name = "Loomio"
+
+[github]
+allow_forking = true
+archived = false
+created_at = "2021-09-16T06:00:39Z"
+default_branch = "main"
+description = "Loomio help, guides and policies"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "loomio/loomio-docs"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 407_040_409
+language = "JavaScript"
+license = { }
+name = "loomio-docs"
+node_id = "MDEwOlJlcG9zaXRvcnk0MDcwNDA0MDk="
+open_issues_within = 0
+private = false
+pushed_within = "week"
+stargazers_within = 0
+topics = [ ]
+updated_within = "week"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 1_896_739
+  login = "loomio"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE4OTY3Mzk="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  maintain = false
+  pull = true
+  push = false
+  triage = false
