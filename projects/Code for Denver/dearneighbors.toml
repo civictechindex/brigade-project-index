@@ -36,7 +36,7 @@ name = "dearneighbors"
 node_id = "MDEwOlJlcG9zaXRvcnkyNTI1MTA0MjQ="
 open_issues_within = 10
 private = false
-pushed_within = "year"
+pushed_within = "over_a_year"
 stargazers_within = 10
 topics = [
   "code-for-america",
@@ -46,7 +46,7 @@ topics = [
   "pdf",
   "physical"
 ]
-updated_within = "year"
+updated_within = "over_a_year"
 watchers_within = 10
 
   [github.owner]
