@@ -61,7 +61,7 @@ topics = [
   "tanzania",
   "uganda"
 ]
-updated_within = "year"
+updated_within = "over_a_year"
 watchers_within = 100
 
   [github.license]
