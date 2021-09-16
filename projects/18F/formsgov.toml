@@ -35,7 +35,7 @@ node_id = "MDEwOlJlcG9zaXRvcnkyNTM1NzEzODc="
 open_issues_within = 100
 private = false
 pushed_within = "week"
-stargazers_within = 10
+stargazers_within = 100
 topics = [
   "faas",
   "faas-application",
@@ -45,7 +45,7 @@ topics = [
   "webpack"
 ]
 updated_within = "week"
-watchers_within = 10
+watchers_within = 100
 
   [github.owner]
   gravatar_id = ""
