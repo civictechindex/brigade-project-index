@@ -28,10 +28,10 @@ name = "hacking-civico"
 node_id = "MDEwOlJlcG9zaXRvcnkyODAxODk1ODU="
 open_issues_within = 10
 private = false
-pushed_within = "week"
+pushed_within = "month"
 stargazers_within = 1_000
 topics = [ ]
-updated_within = "week"
+updated_within = "month"
 watchers_within = 1_000
 
   [github.owner]
