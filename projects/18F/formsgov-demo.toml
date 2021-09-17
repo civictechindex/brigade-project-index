@@ -1,0 +1,63 @@
+code_url = "https://github.com/18F/formsgov-demo"
+git_url = "git://github.com/18F/formsgov-demo.git"
+name = "formsgov-demo"
+organization_name = "18F"
+topics = [
+  "faas",
+  "faas-application",
+  "jhipster",
+  "oauth",
+  "oidc",
+  "webpack"
+]
+
+[github]
+allow_forking = true
+archived = false
+created_at = "2020-04-06T17:38:36Z"
+default_branch = "develop"
+description = { }
+disabled = false
+fork = false
+forks_within = 10
+full_name = "18F/formsgov-demo"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 253_571_387
+language = "TypeScript"
+license = { }
+name = "formsgov-demo"
+node_id = "MDEwOlJlcG9zaXRvcnkyNTM1NzEzODc="
+open_issues_within = 100
+private = false
+pushed_within = "week"
+stargazers_within = 100
+topics = [
+  "faas",
+  "faas-application",
+  "jhipster",
+  "oauth",
+  "oidc",
+  "webpack"
+]
+updated_within = "week"
+watchers_within = 100
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_233_994
+  login = "18F"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjYyMzM5OTQ="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  maintain = false
+  pull = true
+  push = false
+  triage = false
