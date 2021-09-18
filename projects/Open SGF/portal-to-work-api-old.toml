@@ -1,7 +1,7 @@
-code_url = "https://github.com/Open-SGF/portal-to-work-api"
+code_url = "https://github.com/Open-SGF/portal-to-work-api-old"
 description = "API for portal to work https://github.com/Open-SGF/Portal-To-Work-App"
-git_url = "git://github.com/Open-SGF/portal-to-work-api.git"
-name = "portal-to-work-api"
+git_url = "git://github.com/Open-SGF/portal-to-work-api-old.git"
+name = "portal-to-work-api-old"
 organization_name = "Open SGF"
 
 [github]
@@ -13,7 +13,7 @@ description = "API for portal to work https://github.com/Open-SGF/Portal-To-Work
 disabled = false
 fork = false
 forks_within = 0
-full_name = "Open-SGF/portal-to-work-api"
+full_name = "Open-SGF/portal-to-work-api-old"
 has_downloads = true
 has_issues = true
 has_pages = false
@@ -22,14 +22,14 @@ has_wiki = true
 homepage = { }
 id = 330_822_680
 language = "PHP"
-name = "portal-to-work-api"
+name = "portal-to-work-api-old"
 node_id = "MDEwOlJlcG9zaXRvcnkzMzA4MjI2ODA="
 open_issues_within = 10
 private = false
 pushed_within = "year"
 stargazers_within = 0
 topics = [ ]
-updated_within = "year"
+updated_within = "week"
 watchers_within = 0
 
   [github.license]

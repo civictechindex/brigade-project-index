@@ -1,6 +1,6 @@
-code_url = "https://github.com/Open-SGF/Portal-To-Work-App"
-git_url = "git://github.com/Open-SGF/Portal-To-Work-App.git"
-name = "Portal-To-Work-App"
+code_url = "https://github.com/Open-SGF/Portal-To-Work-App-Old"
+git_url = "git://github.com/Open-SGF/Portal-To-Work-App-Old.git"
+name = "Portal-To-Work-App-Old"
 organization_name = "Open SGF"
 
 [github]
@@ -12,7 +12,7 @@ description = { }
 disabled = false
 fork = false
 forks_within = 10
-full_name = "Open-SGF/Portal-To-Work-App"
+full_name = "Open-SGF/Portal-To-Work-App-Old"
 has_downloads = true
 has_issues = true
 has_pages = false
@@ -22,14 +22,14 @@ homepage = { }
 id = 223_673_425
 language = "Vue"
 license = { }
-name = "Portal-To-Work-App"
+name = "Portal-To-Work-App-Old"
 node_id = "MDEwOlJlcG9zaXRvcnkyMjM2NzM0MjU="
 open_issues_within = 10
 private = false
 pushed_within = "year"
 stargazers_within = 0
 topics = [ ]
-updated_within = "year"
+updated_within = "week"
 watchers_within = 0
 
   [github.owner]
