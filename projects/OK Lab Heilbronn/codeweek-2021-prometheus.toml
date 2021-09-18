@@ -1,0 +1,54 @@
+code_url = "https://github.com/opendata-heilbronn/codeweek-2021-prometheus"
+description = "Demo-Projekt für den CFHN Codeweek 2021 Prometheus Workshop "
+git_url = "git://github.com/opendata-heilbronn/codeweek-2021-prometheus.git"
+name = "codeweek-2021-prometheus"
+organization_name = "OK Lab Heilbronn"
+
+[github]
+allow_forking = true
+archived = false
+created_at = "2021-09-18T18:29:30Z"
+default_branch = "main"
+description = "Demo-Projekt für den CFHN Codeweek 2021 Prometheus Workshop "
+disabled = false
+fork = false
+forks_within = 0
+full_name = "opendata-heilbronn/codeweek-2021-prometheus"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 407_938_075
+language = { }
+name = "codeweek-2021-prometheus"
+node_id = "MDEwOlJlcG9zaXRvcnk0MDc5MzgwNzU="
+open_issues_within = 0
+private = false
+pushed_within = "week"
+stargazers_within = 0
+topics = [ ]
+updated_within = "week"
+watchers_within = 0
+
+  [github.license]
+  key = "apache-2.0"
+  name = "Apache License 2.0"
+  node_id = "MDc6TGljZW5zZTI="
+  spdx_id = "Apache-2.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_741_385
+  login = "opendata-heilbronn"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjY3NDEzODU="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  maintain = false
+  pull = true
+  push = false
+  triage = false
