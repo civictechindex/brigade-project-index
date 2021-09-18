@@ -44,7 +44,7 @@ topics = [
   "mobile",
   "mysociety"
 ]
-updated_within = "year"
+updated_within = "week"
 watchers_within = 100
 
   [github.license]
