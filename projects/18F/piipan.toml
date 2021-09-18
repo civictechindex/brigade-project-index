@@ -1,5 +1,5 @@
 code_url = "https://github.com/18F/piipan"
-description = "A system for storing and matching Personal Identifiable Information (PII) records"
+description = "A privacy-preserving system for storing and matching de-identified Personal Identifiable Information (PII) records."
 git_url = "git://github.com/18F/piipan.git"
 name = "piipan"
 organization_name = "18F"
@@ -9,7 +9,7 @@ allow_forking = true
 archived = false
 created_at = "2020-10-19T15:58:25Z"
 default_branch = "dev"
-description = "A system for storing and matching Personal Identifiable Information (PII) records"
+description = "A privacy-preserving system for storing and matching de-identified Personal Identifiable Information (PII) records."
 disabled = false
 fork = false
 forks_within = 10
