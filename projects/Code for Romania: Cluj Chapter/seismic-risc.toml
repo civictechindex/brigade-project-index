@@ -37,7 +37,7 @@ name = "seismic-risc"
 node_id = "MDEwOlJlcG9zaXRvcnkxOTkwMzE3Njk="
 open_issues_within = 100
 private = false
-pushed_within = "week"
+pushed_within = "month"
 stargazers_within = 100
 topics = [
   "civic-tech",
@@ -49,7 +49,7 @@ topics = [
   "python",
   "react"
 ]
-updated_within = "week"
+updated_within = "month"
 watchers_within = 100
 
   [github.license]
