@@ -41,7 +41,7 @@ topics = [
   "python",
   "sustainability"
 ]
-updated_within = "month"
+updated_within = "week"
 watchers_within = 100
 
   [github.license]
