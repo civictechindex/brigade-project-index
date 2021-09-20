@@ -27,10 +27,10 @@ name = "aflcio_scorecard_2019"
 node_id = "MDEwOlJlcG9zaXRvcnkyMTQ3MDEzNjQ="
 open_issues_within = 100
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 0
 topics = [ ]
-updated_within = "over_a_year"
+updated_within = "week"
 watchers_within = 0
 
   [github.owner]
