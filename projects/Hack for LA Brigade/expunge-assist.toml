@@ -50,7 +50,7 @@ topics = [
   "record-clearance",
   "record-expungement"
 ]
-updated_within = "month"
+updated_within = "year"
 watchers_within = 100
 
   [github.owner]
