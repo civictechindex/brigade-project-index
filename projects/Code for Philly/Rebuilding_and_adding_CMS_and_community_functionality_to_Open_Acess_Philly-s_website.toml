@@ -5,57 +5,5 @@ name = "Rebuilding_and_adding_CMS_and_community_functionality_to_Open_Acess_Phil
 organization_name = "Code for Philly"
 status = "Commenting"
 
-[github]
-allow_forking = true
-archived = false
-created_at = "2014-01-25T00:49:43Z"
-default_branch = "master"
-description = "a slapdash attempt at updating the old Open Access Philly website with current information"
-disabled = false
-fork = false
-forks_within = 10
-full_name = "johnsons531/openaccessphilly-oldsite"
-has_downloads = true
-has_issues = true
-has_pages = false
-has_projects = true
-has_wiki = true
-homepage = { }
-id = 16_221_626
-language = "PHP"
-name = "openaccessphilly-oldsite"
-network_count = 1
-node_id = "MDEwOlJlcG9zaXRvcnkxNjIyMTYyNg=="
-open_issues_within = 10
-private = false
-pushed_within = "over_a_year"
-stargazers_within = 0
-subscribers_count = 1
-temp_clone_token = ""
-topics = [ ]
-updated_within = "over_a_year"
-watchers_within = 0
-
-  [github.license]
-  key = "other"
-  name = "Other"
-  node_id = "MDc6TGljZW5zZTA="
-  spdx_id = "NOASSERTION"
-
-  [github.owner]
-  gravatar_id = ""
-  id = 1_135_886
-  login = "johnsons531"
-  node_id = "MDQ6VXNlcjExMzU4ODY="
-  site_admin = false
-  type = "User"
-
-  [github.permissions]
-  admin = false
-  maintain = false
-  pull = true
-  push = false
-  triage = false
-
 [projects_list_extra]
 title = "Open Access Philly website"
