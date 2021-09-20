@@ -2,3 +2,50 @@ code_url = "https://github.com/licyeus/seattle-homeless-info"
 name = "Seattle One Night Count datasets"
 organization_name = "Open Seattle"
 status = "in progress"
+
+[github]
+allow_forking = true
+archived = false
+created_at = "2014-01-26T00:07:30Z"
+default_branch = "master"
+description = { }
+disabled = false
+fork = false
+forks_within = 0
+full_name = "sllvn/seattle-homeless-info"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 16_243_119
+language = { }
+license = { }
+name = "seattle-homeless-info"
+network_count = 0
+node_id = "MDEwOlJlcG9zaXRvcnkxNjI0MzExOQ=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+subscribers_count = 1
+temp_clone_token = ""
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 451_517
+  login = "sllvn"
+  node_id = "MDQ6VXNlcjQ1MTUxNw=="
+  site_admin = false
+  type = "User"
+
+  [github.permissions]
+  admin = false
+  maintain = false
+  pull = true
+  push = false
+  triage = false
