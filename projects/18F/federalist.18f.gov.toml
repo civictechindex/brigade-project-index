@@ -28,10 +28,10 @@ name = "federalist.18f.gov"
 node_id = "MDEwOlJlcG9zaXRvcnk0ODQ0OTM0Mg=="
 open_issues_within = 10
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 100
 topics = [ "active", "federalist" ]
-updated_within = "year"
+updated_within = "week"
 watchers_within = 100
 
   [github.license]
