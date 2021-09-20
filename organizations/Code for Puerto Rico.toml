@@ -1,4 +1,5 @@
 city = "San Juan, PR"
+events_url = "http://meetup.com/code-for-puerto-rico/"
 latitude = "18.465488"
 longitude = "-66.116781"
 name = "Code for Puerto Rico"
@@ -19,4 +20,7 @@ state = "Puerto Rico"
   longitude = "-66.116781"
 
 [social_profiles]
-facebook = "https://facebook.com/code4puertorico"
+facebook = "https://www.facebook.com/code4puertorico"
+instagram = "@code4puertorico"
+linkedin = "https://www.linkedin.com/company/code-for-puerto-rico/"
+twitter = "@Code4PuertoRico"
