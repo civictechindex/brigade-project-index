@@ -53,7 +53,7 @@ topics = [
   "transparency",
   "uk"
 ]
-updated_within = "month"
+updated_within = "week"
 watchers_within = 1_000
 
   [github.license]
