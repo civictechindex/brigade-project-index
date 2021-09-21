@@ -24,12 +24,12 @@ id = 277_264_390
 language = "Python"
 name = "mynumbercard_statistics"
 node_id = "MDEwOlJlcG9zaXRvcnkyNzcyNjQzOTA="
-open_issues_within = 100
+open_issues_within = 10
 private = false
 pushed_within = "week"
 stargazers_within = 100
 topics = [ ]
-updated_within = "month"
+updated_within = "week"
 watchers_within = 100
 
   [github.license]
