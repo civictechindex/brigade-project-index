@@ -1,3 +1,63 @@
 code_url = "https://github.com/chi-civic-hacking-howto/glossary"
 name = "glossary"
 organization_name = "Chi Hack Night"
+
+[github]
+allow_forking = true
+archived = false
+created_at = "2014-02-05T02:24:06Z"
+default_branch = "master"
+description = "A glossary of common terms thrown around at the Open Gov Hack Night."
+disabled = false
+fork = false
+forks_within = 10
+full_name = "chi-civic-hacking-howto/glossary"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 16_532_827
+language = { }
+name = "glossary"
+network_count = 2
+node_id = "MDEwOlJlcG9zaXRvcnkxNjUzMjgyNw=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+subscribers_count = 1
+temp_clone_token = ""
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.organization]
+  gravatar_id = ""
+  id = 6_590_901
+  login = "chi-civic-hacking-howto"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjY1OTA5MDE="
+  site_admin = false
+  type = "Organization"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_590_901
+  login = "chi-civic-hacking-howto"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjY1OTA5MDE="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  maintain = false
+  pull = true
+  push = false
+  triage = false
