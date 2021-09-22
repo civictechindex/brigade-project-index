@@ -22,8 +22,6 @@ has_projects = true
 has_wiki = true
 homepage = "http://maps.nyc.gov/crime/"
 id = 15_788_233
-language = { }
-license = { }
 name = "nyc-crime-map"
 node_id = "MDEwOlJlcG9zaXRvcnkxNTc4ODIzMw=="
 open_issues_within = 0
