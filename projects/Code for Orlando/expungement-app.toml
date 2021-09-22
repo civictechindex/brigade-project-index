@@ -17,7 +17,6 @@ allow_forking = true
 archived = false
 created_at = "2019-09-21T17:09:15Z"
 default_branch = "master"
-description = { }
 disabled = false
 fork = false
 forks_within = 0
@@ -30,7 +29,6 @@ has_wiki = true
 homepage = ""
 id = 210_023_894
 language = "JavaScript"
-license = { }
 name = "expungement-app"
 node_id = "MDEwOlJlcG9zaXRvcnkyMTAwMjM4OTQ="
 open_issues_within = 0

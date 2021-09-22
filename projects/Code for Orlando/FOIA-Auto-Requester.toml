@@ -19,7 +19,6 @@ has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = true
-homepage = { }
 id = 80_302_250
 language = "Python"
 name = "FOIA-Auto-Requester"

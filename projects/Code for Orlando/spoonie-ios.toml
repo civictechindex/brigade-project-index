@@ -15,7 +15,6 @@ allow_forking = true
 archived = false
 created_at = "2019-11-09T17:58:32Z"
 default_branch = "master"
-description = { }
 disabled = false
 fork = false
 forks_within = 0
@@ -28,7 +27,6 @@ has_wiki = true
 homepage = ""
 id = 220_681_882
 language = "Swift"
-license = { }
 name = "spoonie-ios"
 node_id = "MDEwOlJlcG9zaXRvcnkyMjA2ODE4ODI="
 open_issues_within = 0
