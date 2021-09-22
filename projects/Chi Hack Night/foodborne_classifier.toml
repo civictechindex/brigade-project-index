@@ -1,3 +1,50 @@
 code_url = "https://github.com/corynissen/foodborne_classifier"
 name = "foodborne_classifier"
 organization_name = "Chi Hack Night"
+
+[github]
+allow_forking = true
+archived = false
+created_at = "2013-04-23T17:27:51Z"
+default_branch = "master"
+description = "The classifier used in the http://foodborne.smartchicagoapps.org/ application."
+disabled = false
+fork = false
+forks_within = 1_000
+full_name = "corynissen/foodborne_classifier"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 9_628_942
+language = "R"
+license = { }
+name = "foodborne_classifier"
+network_count = 139
+node_id = "MDEwOlJlcG9zaXRvcnk5NjI4OTQy"
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 1_000
+subscribers_count = 35
+temp_clone_token = ""
+topics = [ ]
+updated_within = "year"
+watchers_within = 1_000
+
+  [github.owner]
+  gravatar_id = ""
+  id = 547_593
+  login = "corynissen"
+  node_id = "MDQ6VXNlcjU0NzU5Mw=="
+  site_admin = false
+  type = "User"
+
+  [github.permissions]
+  admin = false
+  maintain = false
+  pull = true
+  push = false
+  triage = false
