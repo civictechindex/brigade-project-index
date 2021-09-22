@@ -19,10 +19,8 @@ has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = true
-homepage = { }
 id = 107_734_511
 language = "Python"
-license = { }
 name = "spotholes-django"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDc3MzQ1MTE="
 open_issues_within = 0
