@@ -3,6 +3,7 @@ description = "De Urgență mobile app (Android)"
 git_url = "git://github.com/code4romania/de-urgenta-android.git"
 name = "de-urgenta-android"
 organization_name = "Code for Romania"
+topics = [ "android", "hacktoberfest" ]
 
 [github]
 allow_forking = true
@@ -19,7 +20,7 @@ has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = true
-homepage = { }
+homepage = ""
 id = 352_069_273
 language = "Kotlin"
 name = "de-urgenta-android"
@@ -28,8 +29,8 @@ open_issues_within = 100
 private = false
 pushed_within = "month"
 stargazers_within = 10
-topics = [ ]
-updated_within = "month"
+topics = [ "android", "hacktoberfest" ]
+updated_within = "week"
 watchers_within = 10
 
   [github.license]
