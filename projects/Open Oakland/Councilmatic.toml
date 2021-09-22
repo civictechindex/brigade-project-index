@@ -40,7 +40,7 @@ topics = [
   "oakland",
   "openoakland"
 ]
-updated_within = "year"
+updated_within = "week"
 watchers_within = 10
 
   [github.organization]
