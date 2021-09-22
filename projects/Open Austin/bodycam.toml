@@ -9,7 +9,6 @@ allow_forking = true
 archived = false
 created_at = "2016-03-24T02:12:45Z"
 default_branch = "gh-pages"
-description = { }
 disabled = false
 fork = false
 forks_within = 10
@@ -22,7 +21,6 @@ has_wiki = true
 homepage = "http://www.atxbodycam.com/"
 id = 54_607_631
 language = "HTML"
-license = { }
 name = "bodycam"
 node_id = "MDEwOlJlcG9zaXRvcnk1NDYwNzYzMQ=="
 open_issues_within = 10

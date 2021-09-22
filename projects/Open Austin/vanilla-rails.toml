@@ -19,10 +19,8 @@ has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = true
-homepage = { }
 id = 30_333_445
 language = "Ruby"
-license = { }
 name = "vanilla-rails"
 node_id = "MDEwOlJlcG9zaXRvcnkzMDMzMzQ0NQ=="
 open_issues_within = 0
