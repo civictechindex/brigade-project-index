@@ -8,7 +8,6 @@ allow_forking = true
 archived = false
 created_at = "2013-12-04T20:43:02Z"
 default_branch = "master"
-description = { }
 disabled = false
 fork = false
 forks_within = 0
@@ -18,9 +17,7 @@ has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = true
-homepage = { }
 id = 14_935_283
-language = { }
 name = "regional-data-catalog"
 node_id = "MDEwOlJlcG9zaXRvcnkxNDkzNTI4Mw=="
 open_issues_within = 10

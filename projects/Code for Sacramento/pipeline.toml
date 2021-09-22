@@ -19,10 +19,8 @@ has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = true
-homepage = { }
 id = 10_440_027
 language = "PHP"
-license = { }
 name = "pipeline"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDQ0MDAyNw=="
 open_issues_within = 10

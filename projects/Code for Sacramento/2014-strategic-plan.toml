@@ -8,7 +8,6 @@ allow_forking = true
 archived = false
 created_at = "2014-08-19T16:34:59Z"
 default_branch = "master"
-description = { }
 disabled = false
 fork = false
 forks_within = 0
@@ -18,9 +17,7 @@ has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = true
-homepage = { }
 id = 23_117_526
-language = { }
 name = "2014-strategic-plan"
 node_id = "MDEwOlJlcG9zaXRvcnkyMzExNzUyNg=="
 open_issues_within = 0
