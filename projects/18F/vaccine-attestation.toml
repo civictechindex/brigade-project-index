@@ -8,7 +8,7 @@ organization_name = "18F"
 allow_forking = true
 archived = false
 created_at = "2021-09-21T12:36:16Z"
-default_branch = "main"
+default_branch = "master"
 description = "Documenting the work of TTS on the ethics and implementation of vaccine attestation."
 disabled = false
 fork = false
@@ -22,7 +22,6 @@ has_wiki = true
 homepage = { }
 id = 408_813_732
 language = { }
-license = { }
 name = "vaccine-attestation"
 node_id = "R_kgDOGF4ApA"
 open_issues_within = 0
@@ -32,6 +31,12 @@ stargazers_within = 0
 topics = [ ]
 updated_within = "week"
 watchers_within = 0
+
+  [github.license]
+  key = "other"
+  name = "Other"
+  node_id = "MDc6TGljZW5zZTA="
+  spdx_id = "NOASSERTION"
 
   [github.owner]
   gravatar_id = ""
