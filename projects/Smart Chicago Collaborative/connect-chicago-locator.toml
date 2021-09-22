@@ -23,7 +23,6 @@ has_wiki = true
 homepage = "locations.weconnectchicago.org"
 id = 5_576_203
 language = "Ruby"
-license = { }
 name = "connect-chicago-locator"
 node_id = "MDEwOlJlcG9zaXRvcnk1NTc2MjAz"
 open_issues_within = 100
