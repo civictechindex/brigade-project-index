@@ -1,4 +1,4 @@
-name: 'Crawler: Update snapshot/v1'
+name: 'Publish: snapshot/v1'
 
 on:
   schedule:
@@ -8,7 +8,7 @@ on:
 
 jobs:
 
-  crawler:
+  publish-snapshot:
     runs-on: ubuntu-18.04
     steps:
 

@@ -1,4 +1,4 @@
-name: Index Website
+name: 'Publish: Project website'
 
 on:
   push:
@@ -7,9 +7,10 @@ on:
       - master
 
 jobs:
-  holobranch-projections:
+  publish-website:
     runs-on: ubuntu-latest
     steps:
+
     - name: 'Update holobranch: gh-pages'
       uses: JarvusInnovations/hologit@actions/projector/v1
       env:
