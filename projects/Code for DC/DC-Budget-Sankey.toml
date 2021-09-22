@@ -9,7 +9,6 @@ allow_forking = true
 archived = false
 created_at = "2015-10-25T03:22:25Z"
 default_branch = "master"
-description = { }
 disabled = false
 fork = true
 forks_within = 0
@@ -22,7 +21,6 @@ has_wiki = true
 homepage = "http://mkalish.github.io/DC-Budget-Sankey/"
 id = 44_894_770
 language = "JavaScript"
-license = { }
 name = "DC-Budget-Sankey"
 node_id = "MDEwOlJlcG9zaXRvcnk0NDg5NDc3MA=="
 open_issues_within = 0
