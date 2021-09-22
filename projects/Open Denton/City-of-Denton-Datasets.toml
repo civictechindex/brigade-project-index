@@ -19,10 +19,8 @@ has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = true
-homepage = { }
 id = 80_704_214
 language = "PHP"
-license = { }
 name = "City-of-Denton-Datasets"
 node_id = "MDEwOlJlcG9zaXRvcnk4MDcwNDIxNA=="
 open_issues_within = 1_000
