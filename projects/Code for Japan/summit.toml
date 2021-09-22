@@ -8,7 +8,6 @@ allow_forking = true
 archived = false
 created_at = "2015-06-08T04:28:04Z"
 default_branch = "master"
-description = { }
 disabled = false
 fork = false
 forks_within = 0
@@ -18,9 +17,7 @@ has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = true
-homepage = { }
 id = 37_045_873
-language = { }
 name = "summit"
 node_id = "MDEwOlJlcG9zaXRvcnkzNzA0NTg3Mw=="
 open_issues_within = 0

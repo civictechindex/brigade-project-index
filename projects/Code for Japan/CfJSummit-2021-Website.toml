@@ -9,7 +9,6 @@ allow_forking = true
 archived = false
 created_at = "2021-05-30T07:31:46Z"
 default_branch = "main"
-description = { }
 disabled = false
 fork = false
 forks_within = 10
@@ -22,7 +21,6 @@ has_wiki = true
 homepage = "cf-js-ummit-2021-website.vercel.app"
 id = 372_151_612
 language = "TypeScript"
-license = { }
 name = "CfJSummit-2021-Website"
 node_id = "MDEwOlJlcG9zaXRvcnkzNzIxNTE2MTI="
 open_issues_within = 0
