@@ -9,7 +9,6 @@ allow_forking = true
 archived = false
 created_at = "2021-04-07T00:54:26Z"
 default_branch = "main"
-description = { }
 disabled = false
 fork = false
 forks_within = 0
@@ -21,8 +20,6 @@ has_projects = true
 has_wiki = true
 homepage = "https://github.com/codefortulsa/MediumWebsite"
 id = 355_370_281
-language = { }
-license = { }
 name = "Medium-Website"
 node_id = "MDEwOlJlcG9zaXRvcnkzNTUzNzAyODE="
 open_issues_within = 0

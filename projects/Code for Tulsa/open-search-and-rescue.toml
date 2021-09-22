@@ -19,10 +19,8 @@ has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = true
-homepage = { }
 id = 10_427_321
 language = "Python"
-license = { }
 name = "open-search-and-rescue"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDQyNzMyMQ=="
 open_issues_within = 10

@@ -20,10 +20,8 @@ has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = true
-homepage = { }
 id = 80_084_988
 language = "JavaScript"
-license = { }
 name = "courtbot-engine-data-courtbook"
 node_id = "MDEwOlJlcG9zaXRvcnk4MDA4NDk4OA=="
 open_issues_within = 10
