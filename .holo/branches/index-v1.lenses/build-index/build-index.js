@@ -53,7 +53,8 @@ async function build (inputTreeHash) {
 
             flags: project.github === false ? [ 'github_404' ] : null,
             git_branch: project.github && project.github.default_branch || null,
-            last_pushed_within: project.github && project.github.pushed_within || null
+            last_pushed_within: project.github && project.github.pushed_within || null,
+            open_issues_within: project.github && project.github.open_issues_within || null,
         });
 
         // console.error(`indexed ${path}`);
