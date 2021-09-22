@@ -49,7 +49,7 @@ async function build (inputTreeHash) {
 
             code_url: project.code_url,
             git_url: project.git_url,
-            link_url: project.link_url,
+            link_url: project.link_url || (project.github && project.github.homepage) || null,
 
             flags: project.github === false ? [ 'github_404' ] : null,
             git_branch: project.github && project.github.default_branch || null,
