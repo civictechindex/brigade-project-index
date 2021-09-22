@@ -1,41 +1,47 @@
-name: Index Crawler
+name: 'Crawler: Update snapshot/v1'
 
 on:
   schedule:
   - cron: 0 * * * *
   push:
-    branches:
-    - master
+    branches: [ master ]
 
 jobs:
-  load:
 
+  crawler:
     runs-on: ubuntu-18.04
-
     steps:
-    - uses: actions/checkout@master
+
+    - uses: actions/checkout@v2
       with:
         ref: master
+
     - uses: actions/setup-node@master
       with:
         node-version: 14.x
-    - run: |
+
+    - name: Install NPM dependencies
+      run: |
         cd crawler
         npm install
+
     - name: Configure git
       run: |
         git config user.email "github-bot@brigade.cloud"
         git config user.name "Brigade Bot"
         git remote set-url origin https://brigade-bot:${{ secrets.BOT_GITHUB_TOKEN }}@github.com/codeforamerica/brigade-project-index.git
         git fetch origin refs/heads/snapshot/v1:refs/heads/snapshot/v1 refs/heads/cfapi/orgs/v1:refs/heads/cfapi/orgs/v1
-    - run: |
+
+    - name: Crawl projects
+      env:
+        GITHUB_ACTOR: brigade-bot
+        GITHUB_TOKEN: ${{ secrets.BOT_GITHUB_TOKEN }}
+      run: |
         node crawler/run.js \
           --all \
           --commit-to=snapshot/v1 \
           --commit-orgs-to=cfapi/orgs/v1
-      env:
-        GITHUB_ACTOR: brigade-bot
-        GITHUB_TOKEN: ${{ secrets.BOT_GITHUB_TOKEN }}
+
     - name: Push results
       if: ${{ always() }}
       run: |
