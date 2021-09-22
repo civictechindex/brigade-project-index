@@ -19,10 +19,8 @@ has_issues = false
 has_pages = false
 has_projects = true
 has_wiki = true
-homepage = { }
 id = 66_345_675
 language = "Shell"
-license = { }
 name = "puppet-solr"
 node_id = "MDEwOlJlcG9zaXRvcnk2NjM0NTY3NQ=="
 open_issues_within = 0
