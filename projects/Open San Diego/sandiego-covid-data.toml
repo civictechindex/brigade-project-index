@@ -20,10 +20,8 @@ has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = true
-homepage = { }
 id = 250_437_878
 language = "Python"
-license = { }
 name = "sandiego-covid-data"
 node_id = "MDEwOlJlcG9zaXRvcnkyNTA0Mzc4Nzg="
 open_issues_within = 0
