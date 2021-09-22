@@ -19,10 +19,8 @@ has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = true
-homepage = { }
 id = 58_653_166
 language = "Arduino"
-license = { }
 name = "esp8266template"
 node_id = "MDEwOlJlcG9zaXRvcnk1ODY1MzE2Ng=="
 open_issues_within = 0

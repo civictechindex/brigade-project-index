@@ -27,7 +27,6 @@ has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = true
-homepage = { }
 id = 163_764_666
 language = "C#"
 name = "victron-data-adapter"

@@ -8,7 +8,6 @@ allow_forking = true
 archived = false
 created_at = "2019-03-02T16:25:40Z"
 default_branch = "master"
-description = { }
 disabled = false
 fork = false
 forks_within = 0
@@ -18,9 +17,7 @@ has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = true
-homepage = { }
 id = 173_471_148
-language = { }
 name = "mapbox-baumkataster"
 node_id = "MDEwOlJlcG9zaXRvcnkxNzM0NzExNDg="
 open_issues_within = 0
