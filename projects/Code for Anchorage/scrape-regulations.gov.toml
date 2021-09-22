@@ -19,10 +19,8 @@ has_issues = false
 has_pages = false
 has_projects = true
 has_wiki = true
-homepage = { }
 id = 85_773_691
 language = "R"
-license = { }
 name = "scrape-regulations.gov"
 node_id = "MDEwOlJlcG9zaXRvcnk4NTc3MzY5MQ=="
 open_issues_within = 0

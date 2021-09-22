@@ -8,7 +8,6 @@ allow_forking = true
 archived = false
 created_at = "2014-10-18T07:10:21Z"
 default_branch = "master"
-description = { }
 disabled = false
 fork = true
 forks_within = 0
@@ -18,9 +17,7 @@ has_issues = false
 has_pages = false
 has_projects = true
 has_wiki = true
-homepage = { }
 id = 25_390_306
-language = { }
 name = "flushots2013"
 node_id = "MDEwOlJlcG9zaXRvcnkyNTM5MDMwNg=="
 open_issues_within = 0
