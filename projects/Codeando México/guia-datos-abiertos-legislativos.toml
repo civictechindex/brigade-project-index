@@ -8,7 +8,6 @@ allow_forking = true
 archived = false
 created_at = "2021-05-26T02:43:19Z"
 default_branch = "main"
-description = { }
 disabled = false
 fork = false
 forks_within = 10
@@ -18,9 +17,7 @@ has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = true
-homepage = { }
 id = 370_886_377
-language = { }
 name = "guia-datos-abiertos-legislativos"
 node_id = "MDEwOlJlcG9zaXRvcnkzNzA4ODYzNzc="
 open_issues_within = 0
