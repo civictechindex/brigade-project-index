@@ -19,10 +19,8 @@ has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = true
-homepage = { }
 id = 295_762_020
 language = "TypeScript"
-license = { }
 name = "data-fixer"
 node_id = "MDEwOlJlcG9zaXRvcnkyOTU3NjIwMjA="
 open_issues_within = 100

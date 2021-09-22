@@ -19,13 +19,11 @@ has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = true
-homepage = { }
 id = 348_148_921
 language = "Ruby"
-license = { }
 name = "identity-fake-server"
 node_id = "MDEwOlJlcG9zaXRvcnkzNDgxNDg5MjE="
-open_issues_within = 0
+open_issues_within = 10
 private = false
 pushed_within = "week"
 stargazers_within = 10

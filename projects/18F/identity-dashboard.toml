@@ -20,10 +20,8 @@ has_issues = true
 has_pages = false
 has_projects = false
 has_wiki = false
-homepage = { }
 id = 58_409_260
 language = "Ruby"
-license = { }
 name = "identity-dashboard"
 node_id = "MDEwOlJlcG9zaXRvcnk1ODQwOTI2MA=="
 open_issues_within = 10

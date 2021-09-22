@@ -16,7 +16,6 @@ allow_forking = true
 archived = false
 created_at = "2020-04-06T17:38:36Z"
 default_branch = "develop"
-description = { }
 disabled = false
 fork = false
 forks_within = 10
@@ -29,7 +28,6 @@ has_wiki = true
 homepage = ""
 id = 253_571_387
 language = "TypeScript"
-license = { }
 name = "formsgov-demo"
 node_id = "MDEwOlJlcG9zaXRvcnkyNTM1NzEzODc="
 open_issues_within = 100

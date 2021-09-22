@@ -19,10 +19,8 @@ has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = true
-homepage = { }
 id = 338_448_845
 language = "JavaScript"
-license = { }
 name = "nasa-sbir-fake-data"
 node_id = "MDEwOlJlcG9zaXRvcnkzMzg0NDg4NDU="
 open_issues_within = 10

@@ -20,10 +20,8 @@ has_issues = true
 has_pages = false
 has_projects = false
 has_wiki = false
-homepage = { }
 id = 166_274_643
 language = "Ruby"
-license = { }
 name = "identity-lambda-functions"
 node_id = "MDEwOlJlcG9zaXRvcnkxNjYyNzQ2NDM="
 open_issues_within = 10
