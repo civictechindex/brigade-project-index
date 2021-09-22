@@ -19,10 +19,8 @@ has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = true
-homepage = { }
 id = 31_141_613
 language = "Ruby"
-license = { }
 name = "csv_geocoder"
 node_id = "MDEwOlJlcG9zaXRvcnkzMTE0MTYxMw=="
 open_issues_within = 0
