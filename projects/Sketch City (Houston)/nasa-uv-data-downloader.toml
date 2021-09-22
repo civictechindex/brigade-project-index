@@ -19,10 +19,8 @@ has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = true
-homepage = { }
 id = 83_942_810
 language = "Shell"
-license = { }
 name = "nasa-uv-data-downloader"
 node_id = "MDEwOlJlcG9zaXRvcnk4Mzk0MjgxMA=="
 open_issues_within = 0

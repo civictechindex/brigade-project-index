@@ -9,7 +9,6 @@ allow_forking = true
 archived = false
 created_at = "2019-05-18T21:03:45Z"
 default_branch = "master"
-description = { }
 disabled = false
 fork = false
 forks_within = 10
@@ -22,7 +21,6 @@ has_wiki = true
 homepage = "https://sketch-city.github.io/houston-resources/"
 id = 187_405_169
 language = "JavaScript"
-license = { }
 name = "houston-resources"
 node_id = "MDEwOlJlcG9zaXRvcnkxODc0MDUxNjk="
 open_issues_within = 0
