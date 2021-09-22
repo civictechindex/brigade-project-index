@@ -1,4 +1,4 @@
-name: Publish Index
+name: 'Publish: index/v1'
 
 on:
   push:
