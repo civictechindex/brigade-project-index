@@ -19,10 +19,7 @@ has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = true
-homepage = { }
 id = 67_645_181
-language = { }
-license = { }
 name = "ckanext-issues"
 node_id = "MDEwOlJlcG9zaXRvcnk2NzY0NTE4MQ=="
 open_issues_within = 0
