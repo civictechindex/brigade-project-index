@@ -21,7 +21,6 @@ allow_forking = true
 archived = false
 created_at = "2017-08-21T16:22:54Z"
 default_branch = "master"
-description = { }
 disabled = false
 fork = false
 forks_within = 10
@@ -34,7 +33,6 @@ has_wiki = true
 homepage = "http://dev.cityofchicago.org/docs/lead-safe/"
 id = 100_971_462
 language = "HTML"
-license = { }
 name = "lead-safe-api-docs"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDA5NzE0NjI="
 open_issues_within = 10

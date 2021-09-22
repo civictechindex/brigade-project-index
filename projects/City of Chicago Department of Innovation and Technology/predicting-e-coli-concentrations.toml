@@ -19,10 +19,8 @@ has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = true
-homepage = { }
 id = 101_983_999
 language = "TeX"
-license = { }
 name = "predicting-e-coli-concentrations"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDE5ODM5OTk="
 open_issues_within = 10
