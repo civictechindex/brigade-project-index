@@ -19,10 +19,8 @@ has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = true
-homepage = { }
 id = 21_448_809
 language = "Python"
-license = { }
 name = "python-ilcs"
 node_id = "MDEwOlJlcG9zaXRvcnkyMTQ0ODgwOQ=="
 open_issues_within = 10
