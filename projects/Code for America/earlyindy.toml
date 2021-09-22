@@ -9,7 +9,6 @@ allow_forking = true
 archived = false
 created_at = "2015-01-13T01:27:27Z"
 default_branch = "gh-pages"
-description = { }
 disabled = false
 fork = false
 forks_within = 10
@@ -22,7 +21,6 @@ has_wiki = true
 homepage = "http://codeforamerica.github.io/earlyindy/"
 id = 29_166_330
 language = "JavaScript"
-license = { }
 name = "earlyindy"
 node_id = "MDEwOlJlcG9zaXRvcnkyOTE2NjMzMA=="
 open_issues_within = 0

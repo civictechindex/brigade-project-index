@@ -22,8 +22,6 @@ has_projects = true
 has_wiki = true
 homepage = "https://codeforamerica.github.io/nac-sandbox-cluster/"
 id = 375_154_240
-language = { }
-license = { }
 name = "nac-sandbox-cluster"
 node_id = "MDEwOlJlcG9zaXRvcnkzNzUxNTQyNDA="
 open_issues_within = 0

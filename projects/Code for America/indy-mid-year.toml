@@ -9,7 +9,6 @@ allow_forking = true
 archived = false
 created_at = "2015-06-18T18:30:28Z"
 default_branch = "gh-pages"
-description = { }
 disabled = false
 fork = false
 forks_within = 10
@@ -22,7 +21,6 @@ has_wiki = true
 homepage = "https://codeforamerica.github.io/indy-mid-year/"
 id = 37_677_332
 language = "HTML"
-license = { }
 name = "indy-mid-year"
 node_id = "MDEwOlJlcG9zaXRvcnkzNzY3NzMzMg=="
 open_issues_within = 0

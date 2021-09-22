@@ -19,10 +19,8 @@ has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = true
-homepage = { }
 id = 61_050_903
 language = "Python"
-license = { }
 name = "wealthmap"
 node_id = "MDEwOlJlcG9zaXRvcnk2MTA1MDkwMw=="
 open_issues_within = 10

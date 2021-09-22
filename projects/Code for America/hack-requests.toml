@@ -22,8 +22,6 @@ has_projects = true
 has_wiki = true
 homepage = "https://github.com/codeforamerica/hack-requests/issues"
 id = 12_146_010
-language = { }
-license = { }
 name = "hack-requests"
 node_id = "MDEwOlJlcG9zaXRvcnkxMjE0NjAxMA=="
 open_issues_within = 10

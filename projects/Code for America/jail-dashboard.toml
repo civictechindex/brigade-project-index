@@ -19,10 +19,8 @@ has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = true
-homepage = { }
 id = 72_130_706
 language = "JavaScript"
-license = { }
 name = "jail-dashboard"
 node_id = "MDEwOlJlcG9zaXRvcnk3MjEzMDcwNg=="
 open_issues_within = 100

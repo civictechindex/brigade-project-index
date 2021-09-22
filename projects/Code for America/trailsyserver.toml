@@ -19,10 +19,8 @@ has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = true
-homepage = { }
 id = 12_907_948
 language = "Ruby"
-license = { }
 name = "trailsyserver"
 node_id = "MDEwOlJlcG9zaXRvcnkxMjkwNzk0OA=="
 open_issues_within = 10

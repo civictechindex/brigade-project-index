@@ -9,7 +9,6 @@ allow_forking = true
 archived = false
 created_at = "2014-10-08T20:23:21Z"
 default_branch = "master"
-description = { }
 disabled = false
 fork = false
 forks_within = 10
@@ -22,7 +21,6 @@ has_wiki = true
 homepage = "https://codeforamerica.github.io/cha-hcvp-listings"
 id = 24_959_184
 language = "JavaScript"
-license = { }
 name = "cha-hcvp-listings"
 node_id = "MDEwOlJlcG9zaXRvcnkyNDk1OTE4NA=="
 open_issues_within = 0

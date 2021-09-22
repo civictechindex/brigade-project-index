@@ -19,10 +19,8 @@ has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = true
-homepage = { }
 id = 277_577_906
 language = "Jupyter Notebook"
-license = { }
 name = "brigade-playbook"
 node_id = "MDEwOlJlcG9zaXRvcnkyNzc1Nzc5MDY="
 open_issues_within = 100
