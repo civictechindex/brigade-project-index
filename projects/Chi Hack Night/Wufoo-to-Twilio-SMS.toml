@@ -20,7 +20,6 @@ has_wiki = true
 homepage = ""
 id = 15_721_481
 language = "Ruby"
-license = { }
 name = "Wufoo-to-Twilio-SMS"
 network_count = 1
 node_id = "MDEwOlJlcG9zaXRvcnkxNTcyMTQ4MQ=="
@@ -68,7 +67,6 @@ watchers_within = 10
   homepage = ""
   id = 14_815_219
   language = "Ruby"
-  license = { }
   name = "Wufoo-to-Twilio-SMS"
   node_id = "MDEwOlJlcG9zaXRvcnkxNDgxNTIxOQ=="
   open_issues_within = 0
@@ -112,7 +110,6 @@ watchers_within = 10
   homepage = ""
   id = 14_815_219
   language = "Ruby"
-  license = { }
   name = "Wufoo-to-Twilio-SMS"
   node_id = "MDEwOlJlcG9zaXRvcnkxNDgxNTIxOQ=="
   open_issues_within = 0
