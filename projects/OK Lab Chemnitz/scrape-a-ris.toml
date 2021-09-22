@@ -19,10 +19,8 @@ has_issues = false
 has_pages = false
 has_projects = true
 has_wiki = false
-homepage = { }
 id = 20_223_895
 language = "Python"
-license = { }
 name = "scrape-a-ris"
 node_id = "MDEwOlJlcG9zaXRvcnkyMDIyMzg5NQ=="
 open_issues_within = 0

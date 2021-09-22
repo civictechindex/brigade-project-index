@@ -19,10 +19,8 @@ has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = false
-homepage = { }
 id = 43_205_611
 language = "Elixir"
-license = { }
 name = "SensorAPI-phoenix"
 node_id = "MDEwOlJlcG9zaXRvcnk0MzIwNTYxMQ=="
 open_issues_within = 0

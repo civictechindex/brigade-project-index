@@ -8,7 +8,6 @@ allow_forking = true
 archived = false
 created_at = "2014-12-11T21:06:32Z"
 default_branch = "master"
-description = { }
 disabled = false
 fork = false
 forks_within = 0
@@ -18,9 +17,7 @@ has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = false
-homepage = { }
 id = 27_891_654
-language = { }
 name = "geojson"
 node_id = "MDEwOlJlcG9zaXRvcnkyNzg5MTY1NA=="
 open_issues_within = 10
