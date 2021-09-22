@@ -19,10 +19,8 @@ has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = true
-homepage = { }
 id = 60_414_863
 language = "LiveScript"
-license = { }
 name = "awesome-g0v"
 node_id = "MDEwOlJlcG9zaXRvcnk2MDQxNDg2Mw=="
 open_issues_within = 10

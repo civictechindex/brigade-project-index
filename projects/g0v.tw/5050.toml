@@ -9,7 +9,6 @@ allow_forking = true
 archived = false
 created_at = "2014-10-12T14:13:52Z"
 default_branch = "master"
-description = { }
 disabled = false
 fork = false
 forks_within = 0
@@ -22,7 +21,6 @@ has_wiki = true
 homepage = "http://g0v.github.io/5050/"
 id = 25_121_258
 language = "CSS"
-license = { }
 name = "5050"
 node_id = "MDEwOlJlcG9zaXRvcnkyNTEyMTI1OA=="
 open_issues_within = 0

@@ -19,10 +19,8 @@ has_issues = false
 has_pages = false
 has_projects = true
 has_wiki = false
-homepage = { }
 id = 11_584_933
 language = "LiveScript"
-license = { }
 name = "kuansim-backend"
 node_id = "MDEwOlJlcG9zaXRvcnkxMTU4NDkzMw=="
 open_issues_within = 0

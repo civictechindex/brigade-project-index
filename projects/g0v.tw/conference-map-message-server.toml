@@ -19,10 +19,8 @@ has_issues = false
 has_pages = false
 has_projects = true
 has_wiki = true
-homepage = { }
 id = 18_001_594
 language = "LiveScript"
-license = { }
 name = "conference-map-message-server"
 node_id = "MDEwOlJlcG9zaXRvcnkxODAwMTU5NA=="
 open_issues_within = 0

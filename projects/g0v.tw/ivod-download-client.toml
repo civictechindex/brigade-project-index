@@ -19,10 +19,8 @@ has_issues = false
 has_pages = false
 has_projects = true
 has_wiki = true
-homepage = { }
 id = 17_848_560
 language = "PHP"
-license = { }
 name = "ivod-download-client"
 node_id = "MDEwOlJlcG9zaXRvcnkxNzg0ODU2MA=="
 open_issues_within = 10

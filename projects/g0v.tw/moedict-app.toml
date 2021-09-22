@@ -23,7 +23,6 @@ has_wiki = true
 homepage = "http://moedict.org/"
 id = 10_243_453
 language = "Java"
-license = { }
 name = "moedict-app"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDI0MzQ1Mw=="
 open_issues_within = 10

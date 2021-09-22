@@ -19,10 +19,8 @@ has_issues = false
 has_pages = false
 has_projects = true
 has_wiki = false
-homepage = { }
 id = 10_825_460
 language = "Haskell"
-license = { }
 name = "kuansim-mockdata"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDgyNTQ2MA=="
 open_issues_within = 0

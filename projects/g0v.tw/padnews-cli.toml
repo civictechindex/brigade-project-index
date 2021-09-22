@@ -19,10 +19,8 @@ has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = false
-homepage = { }
 id = 18_004_574
 language = "LiveScript"
-license = { }
 name = "padnews-cli"
 node_id = "MDEwOlJlcG9zaXRvcnkxODAwNDU3NA=="
 open_issues_within = 0

@@ -9,7 +9,6 @@ allow_forking = true
 archived = false
 created_at = "2019-02-26T15:38:48Z"
 default_branch = "fun"
-description = { }
 disabled = false
 fork = false
 forks_within = 0
@@ -22,7 +21,6 @@ has_wiki = true
 homepage = "https://twitter.com/ElectionDay_bot/"
 id = 172_739_928
 language = "Perl"
-license = { }
 name = "election-day-bot"
 node_id = "MDEwOlJlcG9zaXRvcnkxNzI3Mzk5Mjg="
 open_issues_within = 0

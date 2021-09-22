@@ -8,7 +8,6 @@ allow_forking = true
 archived = false
 created_at = "2014-10-15T17:19:42Z"
 default_branch = "master"
-description = { }
 disabled = false
 fork = true
 forks_within = 100
@@ -18,9 +17,7 @@ has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = true
-homepage = { }
 id = 25_265_171
-language = { }
 name = "foundationtw"
 node_id = "MDEwOlJlcG9zaXRvcnkyNTI2NTE3MQ=="
 open_issues_within = 10

@@ -8,7 +8,6 @@ allow_forking = true
 archived = false
 created_at = "2019-07-30T03:26:14Z"
 default_branch = "master"
-description = { }
 disabled = false
 fork = false
 forks_within = 0
@@ -20,8 +19,6 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 199_567_322
-language = { }
-license = { }
 name = "papers"
 node_id = "MDEwOlJlcG9zaXRvcnkxOTk1NjczMjI="
 open_issues_within = 0

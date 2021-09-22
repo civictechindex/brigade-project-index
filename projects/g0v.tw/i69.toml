@@ -9,7 +9,6 @@ allow_forking = true
 archived = false
 created_at = "2014-07-19T13:12:59Z"
 default_branch = "master"
-description = { }
 disabled = false
 fork = false
 forks_within = 10
@@ -21,8 +20,6 @@ has_projects = true
 has_wiki = true
 homepage = "http://g0v.github.io/i69/"
 id = 22_010_055
-language = { }
-license = { }
 name = "i69"
 node_id = "MDEwOlJlcG9zaXRvcnkyMjAxMDA1NQ=="
 open_issues_within = 10

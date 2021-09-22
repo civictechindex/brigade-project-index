@@ -9,7 +9,6 @@ allow_forking = true
 archived = false
 created_at = "2018-11-25T11:16:04Z"
 default_branch = "master"
-description = { }
 disabled = false
 fork = false
 forks_within = 100
@@ -22,7 +21,6 @@ has_wiki = true
 homepage = "https://g0v.github.io/referendum_report/"
 id = 159_023_586
 language = "HTML"
-license = { }
 name = "referendum_report"
 node_id = "MDEwOlJlcG9zaXRvcnkxNTkwMjM1ODY="
 open_issues_within = 10
