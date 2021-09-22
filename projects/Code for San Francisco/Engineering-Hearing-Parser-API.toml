@@ -19,10 +19,8 @@ has_issues = false
 has_pages = false
 has_projects = true
 has_wiki = true
-homepage = { }
 id = 101_951_646
 language = "Python"
-license = { }
 name = "Engineering-Hearing-Parser-API"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDE5NTE2NDY="
 open_issues_within = 0

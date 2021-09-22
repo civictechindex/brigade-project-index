@@ -8,7 +8,6 @@ allow_forking = true
 archived = false
 created_at = "2016-08-18T04:23:28Z"
 default_branch = "master"
-description = { }
 disabled = false
 fork = false
 forks_within = 0
@@ -18,9 +17,7 @@ has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = true
-homepage = { }
 id = 65_964_873
-language = { }
 name = "datasci-sf-neighborhood-data"
 node_id = "MDEwOlJlcG9zaXRvcnk2NTk2NDg3Mw=="
 open_issues_within = 0
