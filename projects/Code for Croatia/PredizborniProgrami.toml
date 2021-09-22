@@ -9,7 +9,6 @@ allow_forking = true
 archived = false
 created_at = "2021-08-09T14:23:21Z"
 default_branch = "gh-pages"
-description = { }
 disabled = false
 fork = true
 forks_within = 0
@@ -22,7 +21,6 @@ has_wiki = false
 homepage = "https://codeforcroatia.github.io/PredizborniProgrami"
 id = 394_320_858
 language = "HTML"
-license = { }
 name = "PredizborniProgrami"
 node_id = "MDEwOlJlcG9zaXRvcnkzOTQzMjA4NTg="
 open_issues_within = 10
