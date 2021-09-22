@@ -19,10 +19,8 @@ has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = true
-homepage = { }
 id = 263_190_474
 language = "Jupyter Notebook"
-license = { }
 name = "energy-assistance-dashboard"
 node_id = "MDEwOlJlcG9zaXRvcnkyNjMxOTA0NzQ="
 open_issues_within = 100

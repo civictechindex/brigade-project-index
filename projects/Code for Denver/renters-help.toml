@@ -9,7 +9,6 @@ allow_forking = true
 archived = false
 created_at = "2021-07-16T23:04:55Z"
 default_branch = "master"
-description = { }
 disabled = false
 fork = true
 forks_within = 10
@@ -22,7 +21,6 @@ has_wiki = true
 homepage = "https://codefornebraska.github.io/renters-help/"
 id = 386_784_799
 language = "JavaScript"
-license = { }
 name = "renters-help"
 node_id = "MDEwOlJlcG9zaXRvcnkzODY3ODQ3OTk="
 open_issues_within = 10

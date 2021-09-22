@@ -19,10 +19,8 @@ has_issues = true
 has_pages = true
 has_projects = true
 has_wiki = true
-homepage = { }
 id = 312_415_897
 language = "JavaScript"
-license = { }
 name = "expunge-colorado-screener"
 node_id = "MDEwOlJlcG9zaXRvcnkzMTI0MTU4OTc="
 open_issues_within = 10

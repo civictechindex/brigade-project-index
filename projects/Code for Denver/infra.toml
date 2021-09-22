@@ -19,10 +19,8 @@ has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = true
-homepage = { }
 id = 210_479_084
 language = "Jsonnet"
-license = { }
 name = "infra"
 node_id = "MDEwOlJlcG9zaXRvcnkyMTA0NzkwODQ="
 open_issues_within = 10
