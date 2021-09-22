@@ -19,10 +19,8 @@ has_issues = true
 has_pages = true
 has_projects = true
 has_wiki = true
-homepage = { }
 id = 172_985_757
 language = "PHP"
-license = { }
 name = "transparentwater_backend_php"
 node_id = "MDEwOlJlcG9zaXRvcnkxNzI5ODU3NTc="
 open_issues_within = 10
