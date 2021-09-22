@@ -20,10 +20,8 @@ has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = true
-homepage = { }
 id = 53_004_812
 language = "Python"
-license = { }
 name = "arcFeaturesToSocrata"
 node_id = "MDEwOlJlcG9zaXRvcnk1MzAwNDgxMg=="
 open_issues_within = 0
