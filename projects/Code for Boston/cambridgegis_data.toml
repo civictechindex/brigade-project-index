@@ -19,10 +19,8 @@ has_issues = false
 has_pages = false
 has_projects = true
 has_wiki = true
-homepage = { }
 id = 12_144_196
 language = "Shell"
-license = { }
 name = "cambridgegis_data"
 node_id = "MDEwOlJlcG9zaXRvcnkxMjE0NDE5Ng=="
 open_issues_within = 0

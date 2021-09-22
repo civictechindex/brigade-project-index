@@ -19,10 +19,8 @@ has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = true
-homepage = { }
 id = 10_777_076
 language = "JavaScript"
-license = { }
 name = "mbta-alerts-2"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDc3NzA3Ng=="
 open_issues_within = 10

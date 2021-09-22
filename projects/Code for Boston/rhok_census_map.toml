@@ -9,7 +9,6 @@ allow_forking = true
 archived = false
 created_at = "2013-07-17T00:16:22Z"
 default_branch = "gh-pages"
-description = { }
 disabled = false
 fork = false
 forks_within = 0
@@ -21,8 +20,6 @@ has_projects = true
 has_wiki = true
 homepage = "http://codeforboston.github.io/rhok_census_map"
 id = 11_463_319
-language = { }
-license = { }
 name = "rhok_census_map"
 node_id = "MDEwOlJlcG9zaXRvcnkxMTQ2MzMxOQ=="
 open_issues_within = 0

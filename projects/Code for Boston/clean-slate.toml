@@ -15,7 +15,6 @@ allow_forking = true
 archived = false
 created_at = "2021-01-20T02:07:49Z"
 default_branch = "main"
-description = { }
 disabled = false
 fork = false
 forks_within = 10
@@ -27,8 +26,6 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 331_165_502
-language = { }
-license = { }
 name = "clean-slate"
 node_id = "MDEwOlJlcG9zaXRvcnkzMzExNjU1MDI="
 open_issues_within = 100

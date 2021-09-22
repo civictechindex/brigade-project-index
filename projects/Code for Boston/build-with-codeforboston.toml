@@ -9,7 +9,6 @@ allow_forking = true
 archived = false
 created_at = "2015-02-27T12:04:41Z"
 default_branch = "master"
-description = { }
 disabled = false
 fork = false
 forks_within = 0
@@ -22,7 +21,6 @@ has_wiki = true
 homepage = "http://codeforboston.github.io/build-with-codeforboston"
 id = 31_417_564
 language = "CSS"
-license = { }
 name = "build-with-codeforboston"
 node_id = "MDEwOlJlcG9zaXRvcnkzMTQxNzU2NA=="
 open_issues_within = 0
