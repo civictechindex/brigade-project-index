@@ -8,7 +8,6 @@ allow_forking = true
 archived = false
 created_at = "2019-09-23T15:02:18Z"
 default_branch = "i18n"
-description = { }
 disabled = false
 fork = true
 forks_within = 0
@@ -18,9 +17,7 @@ has_issues = false
 has_pages = false
 has_projects = false
 has_wiki = false
-homepage = { }
 id = 210_384_031
-language = { }
 name = "badgr-ui"
 node_id = "MDEwOlJlcG9zaXRvcnkyMTAzODQwMzE="
 open_issues_within = 0
