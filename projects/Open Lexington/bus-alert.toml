@@ -19,10 +19,8 @@ has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = true
-homepage = { }
 id = 10_429_591
 language = "Ruby"
-license = { }
 name = "bus-alert"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDQyOTU5MQ=="
 open_issues_within = 10
