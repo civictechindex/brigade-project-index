@@ -10,7 +10,6 @@ allow_forking = true
 archived = false
 created_at = "2021-01-03T19:54:32Z"
 default_branch = "master"
-description = { }
 disabled = false
 fork = false
 forks_within = 10
@@ -23,7 +22,6 @@ has_wiki = true
 homepage = ""
 id = 326_489_314
 language = "Python"
-license = { }
 name = "cfp-data-pipeline"
 network_count = 3
 node_id = "MDEwOlJlcG9zaXRvcnkzMjY0ODkzMTQ="

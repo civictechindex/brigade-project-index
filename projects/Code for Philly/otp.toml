@@ -24,7 +24,6 @@ has_wiki = true
 homepage = "http://www.opentripplanner.org"
 id = 14_910_243
 language = "Java"
-license = { }
 name = "OpenTripPlanner"
 network_count = 890
 node_id = "MDEwOlJlcG9zaXRvcnkxNDkxMDI0Mw=="
@@ -72,7 +71,6 @@ watchers_within = 10
   homepage = "http://www.opentripplanner.org"
   id = 9_782_068
   language = "Java"
-  license = { }
   name = "OpenTripPlanner"
   node_id = "MDEwOlJlcG9zaXRvcnk5NzgyMDY4"
   open_issues_within = 0

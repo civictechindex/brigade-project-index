@@ -10,7 +10,6 @@ allow_forking = true
 archived = false
 created_at = "2016-06-07T23:42:00Z"
 default_branch = "master"
-description = { }
 disabled = false
 fork = false
 forks_within = 0
@@ -20,9 +19,7 @@ has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = true
-homepage = { }
 id = 60_654_062
-language = { }
 name = "School-Needs-Board"
 network_count = 0
 node_id = "MDEwOlJlcG9zaXRvcnk2MDY1NDA2Mg=="

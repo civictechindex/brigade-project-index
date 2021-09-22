@@ -11,7 +11,6 @@ allow_forking = true
 archived = false
 created_at = "2014-11-07T17:34:09Z"
 default_branch = "master"
-description = { }
 disabled = false
 fork = false
 forks_within = 0
@@ -24,7 +23,6 @@ has_wiki = true
 homepage = "http://bergey.github.io/school-districts"
 id = 26_330_312
 language = "JavaScript"
-license = { }
 name = "school-districts"
 network_count = 0
 node_id = "MDEwOlJlcG9zaXRvcnkyNjMzMDMxMg=="

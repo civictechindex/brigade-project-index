@@ -19,10 +19,7 @@ has_issues = false
 has_pages = false
 has_projects = true
 has_wiki = true
-homepage = { }
 id = 33_578_334
-language = { }
-license = { }
 name = "hacker-resources"
 network_count = 2
 node_id = "MDEwOlJlcG9zaXRvcnkzMzU3ODMzNA=="
@@ -67,10 +64,8 @@ watchers_within = 10
   has_pages = false
   has_projects = true
   has_wiki = true
-  homepage = { }
   id = 33_578_096
   language = "Shell"
-  license = { }
   name = "hacker-resources"
   node_id = "MDEwOlJlcG9zaXRvcnkzMzU3ODA5Ng=="
   open_issues_within = 0
@@ -111,10 +106,8 @@ watchers_within = 10
   has_pages = false
   has_projects = true
   has_wiki = true
-  homepage = { }
   id = 33_578_096
   language = "Shell"
-  license = { }
   name = "hacker-resources"
   node_id = "MDEwOlJlcG9zaXRvcnkzMzU3ODA5Ng=="
   open_issues_within = 0

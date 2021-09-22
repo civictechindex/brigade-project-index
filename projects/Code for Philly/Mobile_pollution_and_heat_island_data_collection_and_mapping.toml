@@ -20,10 +20,8 @@ has_issues = true
 has_pages = true
 has_projects = true
 has_wiki = true
-homepage = { }
 id = 13_005_907
 language = "Arduino"
-license = { }
 name = "CAC-open-climate-tracker"
 network_count = 5
 node_id = "MDEwOlJlcG9zaXRvcnkxMzAwNTkwNw=="

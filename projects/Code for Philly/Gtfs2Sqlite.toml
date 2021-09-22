@@ -20,10 +20,8 @@ has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = true
-homepage = { }
 id = 20_227_002
 language = "C#"
-license = { }
 name = "gtfs2sqlite"
 network_count = 1
 node_id = "MDEwOlJlcG9zaXRvcnkyMDIyNzAwMg=="
