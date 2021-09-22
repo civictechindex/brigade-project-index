@@ -19,10 +19,8 @@ has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = true
-homepage = { }
 id = 35_950_226
 language = "Ruby"
-license = { }
 name = "learnGithub"
 node_id = "MDEwOlJlcG9zaXRvcnkzNTk1MDIyNg=="
 open_issues_within = 10
