@@ -22,8 +22,6 @@ has_projects = true
 has_wiki = true
 homepage = "https://census.gov/developers"
 id = 262_341_674
-language = { }
-license = { }
 name = "api"
 node_id = "MDEwOlJlcG9zaXRvcnkyNjIzNDE2NzQ="
 open_issues_within = 10
