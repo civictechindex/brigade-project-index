@@ -9,7 +9,6 @@ allow_forking = true
 archived = false
 created_at = "2014-05-31T20:49:55Z"
 default_branch = "master"
-description = { }
 disabled = false
 fork = false
 forks_within = 0
@@ -21,8 +20,6 @@ has_projects = true
 has_wiki = true
 homepage = "http://workforsa.webflow.com/"
 id = 20_364_905
-language = { }
-license = { }
 name = "workforsa"
 node_id = "MDEwOlJlcG9zaXRvcnkyMDM2NDkwNQ=="
 open_issues_within = 0
