@@ -1,0 +1,7 @@
+code_url = "https://github.com/mysociety/libvmod-redis"
+description = "VMOD using the synchronous hiredis library API to access Redis servers from VCL."
+git_branch = "master"
+git_url = "git://github.com/mysociety/libvmod-redis.git"
+last_pushed_within = "month"
+name = "libvmod-redis"
+organization_name = "mySociety"

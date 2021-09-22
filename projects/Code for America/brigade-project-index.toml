@@ -6,3 +6,11 @@ last_pushed_within = "week"
 link_url = "https://brigade.cloud/"
 name = "brigade-project-index"
 organization_name = "Code for America"
+topics = [
+  "civic-tech",
+  "civic-tech-projects-catalog",
+  "civic-tech-projects-index",
+  "civic-tech-projects-map",
+  "civic-tech-projects-volunteers",
+  "code-for-america"
+]

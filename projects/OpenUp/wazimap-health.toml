@@ -1,6 +1,6 @@
 code_url = "https://github.com/OpenUpSA/wazimap-health"
 git_branch = "master"
 git_url = "git://github.com/OpenUpSA/wazimap-health.git"
-last_pushed_within = "year"
+last_pushed_within = "month"
 name = "wazimap-health"
 organization_name = "OpenUp"

@@ -2,14 +2,16 @@ code_url = "https://github.com/hackforla/access-the-data"
 description = "The Access the Data project was created to address the growing gaps between new technology development and decisions impacting our communities with the underlying systems and data that drive those initiatives"
 git_branch = "main"
 git_url = "git://github.com/hackforla/access-the-data.git"
-last_pushed_within = "year"
+last_pushed_within = "week"
 name = "access-the-data"
 organization_name = "Hack for LA Brigade"
 topics = [
+  "citizen-science",
   "city-data",
   "civictechindex",
   "code-for-all",
   "code-for-america",
+  "data-analysis",
   "data-literacy",
   "government-data",
   "hack-for-la"

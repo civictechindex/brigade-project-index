@@ -1,6 +1,6 @@
 code_url = "https://github.com/18F/formservice-iac"
 git_branch = "main"
 git_url = "git://github.com/18F/formservice-iac.git"
-last_pushed_within = "week"
+last_pushed_within = "month"
 name = "formservice-iac"
 organization_name = "18F"

@@ -1,8 +1,8 @@
-code_url = "https://github.com/18F/formservice"
+code_url = "https://github.com/18F/formsgov-demo"
 git_branch = "develop"
-git_url = "git://github.com/18F/formservice.git"
+git_url = "git://github.com/18F/formsgov-demo.git"
 last_pushed_within = "week"
-name = "formservice"
+name = "formsgov-demo"
 organization_name = "18F"
 topics = [
   "faas",

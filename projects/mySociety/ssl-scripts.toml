@@ -1,7 +1,7 @@
 code_url = "https://github.com/mysociety/ssl-scripts"
 git_branch = "master"
 git_url = "git://github.com/mysociety/ssl-scripts.git"
-last_pushed_within = "year"
+last_pushed_within = "week"
 link_url = "https://www.mysociety.org/"
 name = "ssl-scripts"
 organization_name = "mySociety"

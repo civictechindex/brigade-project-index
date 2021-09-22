@@ -1,7 +1,7 @@
 code_url = "https://github.com/hackforla/not-today"
 git_branch = "master"
 git_url = "git://github.com/hackforla/not-today.git"
-last_pushed_within = "month"
+last_pushed_within = "week"
 name = "not-today"
 organization_name = "Hack for LA Brigade"
 topics = [

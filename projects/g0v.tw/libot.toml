@@ -1,6 +1,6 @@
 code_url = "https://github.com/g0v/libot"
 git_branch = "master"
 git_url = "git://github.com/g0v/libot.git"
-last_pushed_within = "year"
+last_pushed_within = "over_a_year"
 name = "libot"
 organization_name = "g0v.tw"

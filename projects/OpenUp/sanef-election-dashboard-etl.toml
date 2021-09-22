@@ -1,6 +1,6 @@
 code_url = "https://github.com/OpenUpSA/sanef-election-dashboard-etl"
 git_branch = "main"
 git_url = "git://github.com/OpenUpSA/sanef-election-dashboard-etl.git"
-last_pushed_within = "month"
+last_pushed_within = "week"
 name = "sanef-election-dashboard-etl"
 organization_name = "OpenUp"

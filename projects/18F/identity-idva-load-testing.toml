@@ -1,6 +1,6 @@
 code_url = "https://github.com/18F/identity-idva-load-testing"
 git_branch = "main"
 git_url = "git://github.com/18F/identity-idva-load-testing.git"
-last_pushed_within = "week"
+last_pushed_within = "month"
 name = "identity-idva-load-testing"
 organization_name = "18F"

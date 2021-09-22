@@ -1,7 +1,7 @@
 code_url = "https://github.com/csskfulton/PhillyPoliceDroid"
 description = "Philly Police Droid (PPD) is a Android mobile app that updates users on local crime activity in the city of Philadelphia. PPD displays data of the city's crime activity, traffic advisories and unsolved crime video by police district. Also, users are able to set news alerts based on districts in which they're concerned about."
 git_branch = "master"
-last_pushed_within = "over_a_year"
+last_pushed_within = "month"
 name = "philly_police_droid"
 organization_name = "Code for Philly"
 status = "Prototyping"

@@ -1,7 +1,7 @@
 code_url = "https://github.com/ncosd/food-pantry-app"
 description = "Food Pantry App is a web app created to make it easier to operate a food pantry or food bank, reduce food insecurity, and help people in need."
 git_branch = "main"
-last_pushed_within = "month"
+last_pushed_within = "year"
 name = "food_pantry_app"
 organization_name = "Code for Philly"
 status = "Prototyping"

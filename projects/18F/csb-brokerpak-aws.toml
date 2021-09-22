@@ -1,6 +1,6 @@
 code_url = "https://github.com/18F/csb-brokerpak-aws"
 git_branch = "main"
 git_url = "git://github.com/18F/csb-brokerpak-aws.git"
-last_pushed_within = "month"
+last_pushed_within = "year"
 name = "csb-brokerpak-aws"
 organization_name = "18F"

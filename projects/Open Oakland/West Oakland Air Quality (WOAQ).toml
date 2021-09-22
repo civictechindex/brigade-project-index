@@ -1,7 +1,7 @@
 code_url = "https://github.com/openoakland/woeip"
 description = "We are creating a digital platform for West Oakland residents to collect, visualize, and act on the air quality data which affect them."
 git_branch = "develop"
-last_pushed_within = "month"
+last_pushed_within = "week"
 name = "West Oakland Air Quality (WOAQ)"
 organization_name = "Open Oakland"
 topics = [

@@ -1,7 +1,7 @@
 code_url = "https://github.com/govmeeting/govmeeting"
 description = "Software to improve involvement in local government."
 git_branch = "master"
-last_pushed_within = "year"
+last_pushed_within = "month"
 name = "govmeeting"
 organization_name = "Code for Philly"
 status = "Prototyping"

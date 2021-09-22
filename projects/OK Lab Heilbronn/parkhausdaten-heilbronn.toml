@@ -1,6 +1,6 @@
 code_url = "https://github.com/opendata-heilbronn/parkhausdaten-heilbronn"
 git_branch = "master"
 git_url = "git://github.com/opendata-heilbronn/parkhausdaten-heilbronn.git"
-last_pushed_within = "year"
+last_pushed_within = "over_a_year"
 name = "parkhausdaten-heilbronn"
 organization_name = "OK Lab Heilbronn"

@@ -5,3 +5,4 @@ git_url = "git://github.com/codeforcroatia/imamopravoznati-updater.git"
 last_pushed_within = "year"
 name = "imamopravoznati-updater"
 organization_name = "Code for Croatia"
+topics = [ "csv", "dataset", "pandas", "python" ]

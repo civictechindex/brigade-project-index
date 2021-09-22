@@ -1,6 +1,6 @@
 code_url = "https://github.com/code4romania/cms-deployment-test"
 git_branch = "main"
 git_url = "git://github.com/code4romania/cms-deployment-test.git"
-last_pushed_within = "month"
+last_pushed_within = "week"
 name = "cms-deployment-test"
 organization_name = "Code for Romania"

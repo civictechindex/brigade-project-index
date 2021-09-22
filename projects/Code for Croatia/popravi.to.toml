@@ -1,8 +1,9 @@
 code_url = "https://github.com/codeforcroatia/popravi.to"
-description = "This is mySociety's popular map-based reporting platform: easy to install in new countries and regions"
+description = 'This is popular map-based reporting platform FixMyStreet for Croatia named "Popravi.to"'
 git_branch = "develop"
 git_url = "git://github.com/codeforcroatia/popravi.to.git"
 last_pushed_within = "week"
-link_url = "http://fixmystreet.org/"
+link_url = "http://popravi.to"
 name = "popravi.to"
 organization_name = "Code for Croatia"
+topics = [ "croatia", "fixmystreet", "map", "open311", "open-source" ]
