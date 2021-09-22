@@ -9,7 +9,6 @@ allow_forking = true
 archived = false
 created_at = "2018-10-03T17:29:14Z"
 default_branch = "gh-pages"
-description = { }
 disabled = false
 fork = false
 forks_within = 10
@@ -22,7 +21,6 @@ has_wiki = true
 homepage = "https://microsofttce.github.io/fellows-guide/"
 id = 151_452_746
 language = "JavaScript"
-license = { }
 name = "fellows-guide"
 node_id = "MDEwOlJlcG9zaXRvcnkxNTE0NTI3NDY="
 open_issues_within = 10
