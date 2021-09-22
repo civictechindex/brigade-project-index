@@ -19,10 +19,8 @@ has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = true
-homepage = { }
 id = 92_473_949
 language = "CoffeeScript"
-license = { }
 name = "cfa-bot"
 node_id = "MDEwOlJlcG9zaXRvcnk5MjQ3Mzk0OQ=="
 open_issues_within = 0
