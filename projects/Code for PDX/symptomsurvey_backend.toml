@@ -19,10 +19,8 @@ has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = true
-homepage = { }
 id = 153_010_241
 language = "Python"
-license = { }
 name = "symptomsurvey_backend"
 node_id = "MDEwOlJlcG9zaXRvcnkxNTMwMTAyNDE="
 open_issues_within = 100
