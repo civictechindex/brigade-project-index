@@ -54,6 +54,10 @@ module.exports = class GitHubRepository {
 
             const value = objectData[key];
 
+            if (value === null || value === undefined) {
+                continue;
+            }
+
             // bucket counters
             if (bucketedCountProperties.hasOwnProperty(key)) {
                 const buckets = bucketedCountProperties[key];
