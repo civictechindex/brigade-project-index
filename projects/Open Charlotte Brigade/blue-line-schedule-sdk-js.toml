@@ -19,10 +19,8 @@ has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = true
-homepage = { }
 id = 210_505_792
 language = "JavaScript"
-license = { }
 name = "blue-line-schedule-sdk-js"
 node_id = "MDEwOlJlcG9zaXRvcnkyMTA1MDU3OTI="
 open_issues_within = 100
