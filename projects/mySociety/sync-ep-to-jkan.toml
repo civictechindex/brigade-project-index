@@ -24,7 +24,6 @@ has_wiki = false
 homepage = "http://data.mysociety.org/sources/everypolitician/"
 id = 128_061_546
 language = "Python"
-license = { }
 name = "sync-ep-to-jkan"
 node_id = "MDEwOlJlcG9zaXRvcnkxMjgwNjE1NDY="
 open_issues_within = 0

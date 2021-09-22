@@ -9,7 +9,6 @@ allow_forking = true
 archived = false
 created_at = "2015-02-16T13:31:23Z"
 default_branch = "master"
-description = { }
 disabled = false
 fork = false
 forks_within = 0
@@ -22,7 +21,6 @@ has_wiki = true
 homepage = "https://morph.io/mysociety/wikipedia_list_of_legislatures2"
 id = 30_869_545
 language = "Python"
-license = { }
 name = "wikipedia_list_of_legislatures2"
 node_id = "MDEwOlJlcG9zaXRvcnkzMDg2OTU0NQ=="
 open_issues_within = 0

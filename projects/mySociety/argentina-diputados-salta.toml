@@ -9,7 +9,6 @@ allow_forking = true
 archived = false
 created_at = "2017-10-18T14:31:27Z"
 default_branch = "master"
-description = { }
 disabled = false
 fork = false
 forks_within = 0
@@ -22,7 +21,6 @@ has_wiki = true
 homepage = "https://morph.io/mysociety/argentina-diputados-salta"
 id = 107_419_869
 language = "Python"
-license = { }
 name = "argentina-diputados-salta"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDc0MTk4Njk="
 open_issues_within = 0

@@ -9,7 +9,6 @@ allow_forking = true
 archived = false
 created_at = "2018-01-29T11:11:23Z"
 default_branch = "master"
-description = { }
 disabled = false
 fork = false
 forks_within = 0
@@ -22,7 +21,6 @@ has_wiki = true
 homepage = "https://morph.io/mysociety/kenya-senate-members"
 id = 119_372_360
 language = "Python"
-license = { }
 name = "kenya-senate-members"
 node_id = "MDEwOlJlcG9zaXRvcnkxMTkzNzIzNjA="
 open_issues_within = 0

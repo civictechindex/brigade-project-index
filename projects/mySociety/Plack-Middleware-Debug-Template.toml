@@ -9,7 +9,6 @@ allow_forking = true
 archived = false
 created_at = "2017-09-01T15:15:38Z"
 default_branch = "master"
-description = { }
 disabled = false
 fork = false
 forks_within = 10
@@ -22,7 +21,6 @@ has_wiki = true
 homepage = "https://www.mysociety.org/"
 id = 102_125_772
 language = "Perl"
-license = { }
 name = "Plack-Middleware-Debug-Template"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDIxMjU3NzI="
 open_issues_within = 0

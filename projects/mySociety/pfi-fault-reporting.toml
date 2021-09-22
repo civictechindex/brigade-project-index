@@ -9,7 +9,6 @@ allow_forking = true
 archived = false
 created_at = "2021-01-28T14:49:47Z"
 default_branch = "master"
-description = { }
 disabled = false
 fork = false
 forks_within = 0
@@ -22,7 +21,6 @@ has_wiki = true
 homepage = "https://mysociety.github.io/pfi-fault-reporting/"
 id = 333_789_449
 language = "HTML"
-license = { }
 name = "pfi-fault-reporting"
 node_id = "MDEwOlJlcG9zaXRvcnkzMzM3ODk0NDk="
 open_issues_within = 10

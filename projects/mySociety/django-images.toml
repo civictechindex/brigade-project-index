@@ -19,10 +19,8 @@ has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = true
-homepage = { }
 id = 45_256_771
 language = "Python"
-license = { }
 name = "django-images"
 node_id = "MDEwOlJlcG9zaXRvcnk0NTI1Njc3MQ=="
 open_issues_within = 10

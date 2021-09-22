@@ -9,7 +9,6 @@ allow_forking = true
 archived = false
 created_at = "2018-01-12T18:29:33Z"
 default_branch = "master"
-description = { }
 disabled = false
 fork = false
 forks_within = 0
@@ -22,7 +21,6 @@ has_wiki = true
 homepage = "https://www.mysociety.org/"
 id = 117_274_888
 language = "Python"
-license = { }
 name = "id-mapping-store"
 node_id = "MDEwOlJlcG9zaXRvcnkxMTcyNzQ4ODg="
 open_issues_within = 10

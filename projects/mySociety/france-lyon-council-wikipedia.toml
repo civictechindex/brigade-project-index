@@ -9,7 +9,6 @@ allow_forking = true
 archived = false
 created_at = "2017-06-14T14:52:51Z"
 default_branch = "master"
-description = { }
 disabled = false
 fork = false
 forks_within = 0
@@ -22,7 +21,6 @@ has_wiki = true
 homepage = "https://www.mysociety.org/"
 id = 94_342_483
 language = "Ruby"
-license = { }
 name = "france-lyon-council-wikipedia"
 node_id = "MDEwOlJlcG9zaXRvcnk5NDM0MjQ4Mw=="
 open_issues_within = 0

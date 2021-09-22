@@ -9,7 +9,6 @@ allow_forking = true
 archived = false
 created_at = "2017-06-13T11:47:18Z"
 default_branch = "master"
-description = { }
 disabled = false
 fork = false
 forks_within = 0
@@ -22,7 +21,6 @@ has_wiki = true
 homepage = "https://www.mysociety.org/"
 id = 94_207_134
 language = "Ruby"
-license = { }
 name = "france-grand-est-regional-council"
 node_id = "MDEwOlJlcG9zaXRvcnk5NDIwNzEzNA=="
 open_issues_within = 0

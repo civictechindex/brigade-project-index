@@ -9,7 +9,6 @@ allow_forking = true
 archived = false
 created_at = "2019-03-14T16:22:37Z"
 default_branch = "master"
-description = { }
 disabled = false
 fork = false
 forks_within = 0
@@ -22,7 +21,6 @@ has_wiki = true
 homepage = "https://www.mysociety.org/"
 id = 175_658_713
 language = "HCL"
-license = { }
 name = "deploy-cts"
 node_id = "MDEwOlJlcG9zaXRvcnkxNzU2NTg3MTM="
 open_issues_within = 0

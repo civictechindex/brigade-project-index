@@ -15,7 +15,6 @@ allow_forking = true
 archived = false
 created_at = "2020-04-08T09:47:18Z"
 default_branch = "master"
-description = { }
 disabled = false
 fork = false
 forks_within = 0
@@ -25,9 +24,7 @@ has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = true
-homepage = { }
 id = 254_047_516
-language = { }
 name = "bods-test"
 node_id = "MDEwOlJlcG9zaXRvcnkyNTQwNDc1MTY="
 open_issues_within = 0

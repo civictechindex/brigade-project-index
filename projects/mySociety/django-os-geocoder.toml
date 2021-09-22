@@ -19,10 +19,8 @@ has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = true
-homepage = { }
 id = 12_241_460
 language = "Python"
-license = { }
 name = "django-os-geocoder"
 node_id = "MDEwOlJlcG9zaXRvcnkxMjI0MTQ2MA=="
 open_issues_within = 0

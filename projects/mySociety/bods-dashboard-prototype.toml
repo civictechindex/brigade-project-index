@@ -9,7 +9,6 @@ allow_forking = true
 archived = false
 created_at = "2020-04-29T16:37:58Z"
 default_branch = "master"
-description = { }
 disabled = false
 fork = false
 forks_within = 0
@@ -22,7 +21,6 @@ has_wiki = true
 homepage = "https://mysociety.github.io/bods-dashboard-prototype/"
 id = 259_982_546
 language = "HTML"
-license = { }
 name = "bods-dashboard-prototype"
 node_id = "MDEwOlJlcG9zaXRvcnkyNTk5ODI1NDY="
 open_issues_within = 10

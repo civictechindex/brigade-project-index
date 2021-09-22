@@ -19,7 +19,6 @@ has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = true
-homepage = { }
 id = 59_750_157
 language = "Python"
 name = "django-pipeline-csscompressor"

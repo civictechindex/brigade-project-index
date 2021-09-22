@@ -9,7 +9,6 @@ allow_forking = true
 archived = false
 created_at = "2017-10-13T11:42:38Z"
 default_branch = "master"
-description = { }
 disabled = false
 fork = false
 forks_within = 0
@@ -22,7 +21,6 @@ has_wiki = true
 homepage = "https://morph.io/mysociety/argentina-diputados-cordoba"
 id = 106_817_321
 language = "Python"
-license = { }
 name = "argentina-diputados-cordoba"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDY4MTczMjE="
 open_issues_within = 0

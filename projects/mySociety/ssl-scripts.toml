@@ -9,7 +9,6 @@ allow_forking = true
 archived = false
 created_at = "2016-09-07T17:27:25Z"
 default_branch = "master"
-description = { }
 disabled = false
 fork = false
 forks_within = 0
@@ -22,7 +21,6 @@ has_wiki = true
 homepage = "https://www.mysociety.org/"
 id = 67_628_863
 language = "Python"
-license = { }
 name = "ssl-scripts"
 node_id = "MDEwOlJlcG9zaXRvcnk2NzYyODg2Mw=="
 open_issues_within = 10

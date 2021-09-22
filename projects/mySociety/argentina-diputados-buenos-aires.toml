@@ -9,7 +9,6 @@ allow_forking = true
 archived = false
 created_at = "2017-10-13T14:12:30Z"
 default_branch = "master"
-description = { }
 disabled = false
 fork = false
 forks_within = 0
@@ -22,7 +21,6 @@ has_wiki = true
 homepage = "https://morph.io/mysociety/argentina-diputados-buenos-aires"
 id = 106_832_804
 language = "Python"
-license = { }
 name = "argentina-diputados-buenos-aires"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDY4MzI4MDQ="
 open_issues_within = 0

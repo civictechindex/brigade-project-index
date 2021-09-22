@@ -19,10 +19,8 @@ has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = true
-homepage = { }
 id = 55_781_960
 language = "Python"
-license = { }
 name = "django-slug-helpers"
 node_id = "MDEwOlJlcG9zaXRvcnk1NTc4MTk2MA=="
 open_issues_within = 0

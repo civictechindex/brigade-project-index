@@ -19,10 +19,8 @@ has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = false
-homepage = { }
 id = 66_359_352
 language = "Perl"
-license = { }
 name = "open311-adapter"
 node_id = "MDEwOlJlcG9zaXRvcnk2NjM1OTM1Mg=="
 open_issues_within = 100
