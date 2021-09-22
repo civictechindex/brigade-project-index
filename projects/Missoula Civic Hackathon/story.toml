@@ -19,10 +19,8 @@ has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = true
-homepage = { }
 id = 56_988_332
 language = "Common Lisp"
-license = { }
 name = "story"
 node_id = "MDEwOlJlcG9zaXRvcnk1Njk4ODMzMg=="
 open_issues_within = 10
