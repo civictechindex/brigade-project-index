@@ -1,9 +1,10 @@
 code_url = "https://github.com/code4romania/de-urgenta-backend"
 description = "De Urgență backend - web & mobile"
 git_url = "git://github.com/code4romania/de-urgenta-backend.git"
-link_url = "de-urgenta-backend-mu.vercel.app"
+link_url = "https://de-urgenta-backend-mu.vercel.app/"
 name = "de-urgenta-backend"
 organization_name = "Code for Romania: Cluj Chapter"
+topics = [ "hacktoberfest" ]
 
 [github]
 allow_forking = true
@@ -20,7 +21,7 @@ has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = true
-homepage = "de-urgenta-backend-mu.vercel.app"
+homepage = "https://de-urgenta-backend-mu.vercel.app/"
 id = 353_318_527
 language = "C#"
 name = "de-urgenta-backend"
@@ -29,8 +30,8 @@ open_issues_within = 100
 private = false
 pushed_within = "week"
 stargazers_within = 10
-topics = [ ]
-updated_within = "month"
+topics = [ "hacktoberfest" ]
+updated_within = "week"
 watchers_within = 10
 
   [github.license]
