@@ -19,7 +19,7 @@ The index is populated by an automated crawler that starts from the [`brigade-in
 * Colin King-Bailey, Open Oakland, ckingbailey@gmail.com, @ckingbailey
 * Greg Boyer, Code for SF, greg@codeforsanfancisco.org, @Gregory Boyer
 * Nikolaj Baer, Open San Diego, nikolaj.baer@gmail.com, @Nikolaj Baer
-* Tom Dooner, Open Oakland, CfA, tdooner@codeforamerical.org, @tdooner
+* Tom Dooner, Open Oakland, CfA, tdooner@codeforamerica.org, @tdooner
 * Chris Alfano, Code for Philly, chris@codeforphilly.org, `@chris (former NAC)`
 
 ## How We Work
