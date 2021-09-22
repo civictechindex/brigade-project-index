@@ -19,10 +19,8 @@ has_issues = false
 has_pages = false
 has_projects = true
 has_wiki = true
-homepage = { }
 id = 23_407_372
 language = "Python"
-license = { }
 name = "open-health-inspection-scraper"
 node_id = "MDEwOlJlcG9zaXRvcnkyMzQwNzM3Mg=="
 open_issues_within = 0
