@@ -19,10 +19,8 @@ has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = true
-homepage = { }
 id = 323_015_376
 language = "PHP"
-license = { }
 name = "NIH-Appointments"
 node_id = "MDEwOlJlcG9zaXRvcnkzMjMwMTUzNzY="
 open_issues_within = 10
