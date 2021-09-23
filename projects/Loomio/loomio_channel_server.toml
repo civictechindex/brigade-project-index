@@ -19,10 +19,8 @@ has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = true
-homepage = { }
 id = 286_359_928
 language = "JavaScript"
-license = { }
 name = "loomio_channel_server"
 node_id = "MDEwOlJlcG9zaXRvcnkyODYzNTk5Mjg="
 open_issues_within = 10

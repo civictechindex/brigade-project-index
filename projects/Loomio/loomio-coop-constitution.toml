@@ -8,7 +8,6 @@ allow_forking = true
 archived = false
 created_at = "2017-05-03T23:15:42Z"
 default_branch = "master"
-description = { }
 disabled = false
 fork = false
 forks_within = 10
@@ -18,9 +17,7 @@ has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = true
-homepage = { }
 id = 90_201_273
-language = { }
 name = "loomio-coop-constitution"
 node_id = "MDEwOlJlcG9zaXRvcnk5MDIwMTI3Mw=="
 open_issues_within = 0
