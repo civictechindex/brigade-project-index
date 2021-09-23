@@ -19,10 +19,8 @@ has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = true
-homepage = { }
 id = 68_150_314
 language = "Python"
-license = { }
 name = "foreclosure_mapping"
 node_id = "MDEwOlJlcG9zaXRvcnk2ODE1MDMxNA=="
 open_issues_within = 10

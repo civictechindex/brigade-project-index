@@ -19,10 +19,8 @@ has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = true
-homepage = { }
 id = 53_208_125
 language = "Python"
-license = { }
 name = "responders-api"
 node_id = "MDEwOlJlcG9zaXRvcnk1MzIwODEyNQ=="
 open_issues_within = 10
