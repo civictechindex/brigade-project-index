@@ -22,8 +22,6 @@ has_projects = true
 has_wiki = true
 homepage = "http://codeforkc.org/tasks/"
 id = 30_445_784
-language = { }
-license = { }
 name = "tasks"
 node_id = "MDEwOlJlcG9zaXRvcnkzMDQ0NTc4NA=="
 open_issues_within = 10

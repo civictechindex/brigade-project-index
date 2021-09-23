@@ -19,10 +19,8 @@ has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = true
-homepage = { }
 id = 106_209_527
 language = "Python"
-license = { }
 name = "tagging_tracker_backend"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDYyMDk1Mjc="
 open_issues_within = 100
