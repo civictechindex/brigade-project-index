@@ -5,4 +5,5 @@ git_url = "git://github.com/open-austin/pull-data-portal-catalog.git"
 last_pushed_within = "over_a_year"
 link_url = "http://data.open-austin.org/data-catalogs/views/by-department.html"
 name = "pull-data-portal-catalog"
+open_issues_within = 10
 organization_name = "Open Austin"

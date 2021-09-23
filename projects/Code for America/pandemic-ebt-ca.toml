@@ -5,5 +5,6 @@ git_url = "git://github.com/codeforamerica/pandemic-ebt-ca.git"
 last_pushed_within = "year"
 link_url = "https://ca.p-ebt.org"
 name = "pandemic-ebt-ca"
+open_issues_within = 10
 organization_name = "Code for America"
 topics = [ "civic-tech", "coronavirus", "covid-19" ]

@@ -5,4 +5,5 @@ git_url = "git://github.com/18F/newrelic-terraform.git"
 last_pushed_within = "year"
 link_url = "https://docs.google.com/document/d/13Cf_3iMBBzmFPYyryKhRgNiC6upayeBvzEOn47Owh_c/edit"
 name = "newrelic-terraform"
+open_issues_within = 10
 organization_name = "18F"

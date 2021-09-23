@@ -3,4 +3,5 @@ git_branch = "master"
 git_url = "git://github.com/codeforpakistan/pakistan-census-api.git"
 last_pushed_within = "over_a_year"
 name = "pakistan-census-api"
+open_issues_within = 10
 organization_name = "Code for Pakistan"

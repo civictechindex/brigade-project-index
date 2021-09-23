@@ -5,4 +5,5 @@ git_url = "git://github.com/codeforsapporo/covid19.git"
 last_pushed_within = "year"
 link_url = "https://stopcovid19.hokkaido.dev/"
 name = "covid19"
+open_issues_within = 100
 organization_name = "Code for Sapporo"

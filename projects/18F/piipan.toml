@@ -4,4 +4,5 @@ git_branch = "dev"
 git_url = "git://github.com/18F/piipan.git"
 last_pushed_within = "week"
 name = "piipan"
+open_issues_within = 1_000
 organization_name = "18F"

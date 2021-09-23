@@ -4,4 +4,5 @@ git_url = "git://github.com/18F/fedramp-dashboard.git"
 last_pushed_within = "week"
 link_url = "https://marketplace.fedramp.gov"
 name = "fedramp-dashboard"
+open_issues_within = 100
 organization_name = "18F"

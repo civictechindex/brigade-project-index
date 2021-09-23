@@ -5,5 +5,6 @@ git_url = "git://github.com/code4romania/terremoto-cdmx.git"
 last_pushed_within = "over_a_year"
 link_url = "https://www.sismomexico.org"
 name = "terremoto-cdmx"
+open_issues_within = 10
 organization_name = "Code for Romania: Iasi Chapter"
 topics = [ "disaster-relief" ]

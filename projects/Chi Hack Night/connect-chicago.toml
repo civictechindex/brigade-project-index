@@ -1,5 +1,7 @@
 code_url = "https://github.com/smartchicago/connect-chicago"
 git_branch = "master"
 last_pushed_within = "over_a_year"
+link_url = "weconnectchicago.org"
 name = "connect-chicago"
+open_issues_within = 10
 organization_name = "Chi Hack Night"

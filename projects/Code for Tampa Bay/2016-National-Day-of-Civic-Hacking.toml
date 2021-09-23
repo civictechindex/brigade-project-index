@@ -3,4 +3,5 @@ git_branch = "master"
 git_url = "git://github.com/code-for-tb/2016-National-Day-of-Civic-Hacking.git"
 last_pushed_within = "over_a_year"
 name = "2016-National-Day-of-Civic-Hacking"
+open_issues_within = 10
 organization_name = "Code for Tampa Bay"

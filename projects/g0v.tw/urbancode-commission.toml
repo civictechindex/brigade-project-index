@@ -4,5 +4,6 @@ git_branch = "master"
 git_url = "git://github.com/g0v/urbancode-commission.git"
 last_pushed_within = "year"
 name = "urbancode-commission"
+open_issues_within = 10
 organization_name = "g0v.tw"
 topics = [ "g0v", "urbancode" ]

@@ -3,4 +3,5 @@ git_branch = "master"
 git_url = "git://github.com/CodeForCuritiba/coronga-tracker.git"
 last_pushed_within = "year"
 name = "coronga-tracker"
+open_issues_within = 10
 organization_name = "Code for Curitiba"

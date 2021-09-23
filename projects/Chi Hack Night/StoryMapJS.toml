@@ -1,5 +1,7 @@
 code_url = "https://github.com/NUKnightLab/StoryMapJS"
 git_branch = "master"
 last_pushed_within = "year"
+link_url = "https://storymap.knightlab.com/"
 name = "StoryMapJS"
+open_issues_within = 1_000
 organization_name = "Chi Hack Night"

@@ -5,4 +5,5 @@ git_url = "git://github.com/openlexington/whats_my_district_redux.git"
 last_pushed_within = "year"
 link_url = "http://whatsmydistrict.org"
 name = "whats_my_district_redux"
+open_issues_within = 10
 organization_name = "Open Lexington"

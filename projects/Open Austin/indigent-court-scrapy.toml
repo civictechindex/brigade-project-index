@@ -4,4 +4,5 @@ git_branch = "main"
 git_url = "git://github.com/open-austin/indigent-court-scrapy.git"
 last_pushed_within = "month"
 name = "indigent-court-scrapy"
+open_issues_within = 10
 organization_name = "Open Austin"

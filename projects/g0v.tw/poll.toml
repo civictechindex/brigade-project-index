@@ -4,4 +4,5 @@ git_branch = "develop"
 git_url = "git://github.com/g0v/poll.git"
 last_pushed_within = "over_a_year"
 name = "poll"
+open_issues_within = 10
 organization_name = "g0v.tw"

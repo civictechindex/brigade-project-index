@@ -5,4 +5,5 @@ git_url = "git://github.com/CodeforHawaii/food-oasis.git"
 last_pushed_within = "year"
 link_url = "https://foodoasis.la"
 name = "food-oasis"
+open_issues_within = 10
 organization_name = "Code for Hawaii"

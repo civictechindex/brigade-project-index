@@ -3,6 +3,7 @@ description = "A platform to explore whether or not your friends, family, and ne
 git_branch = "develop"
 last_pushed_within = "over_a_year"
 name = "socialvote"
+open_issues_within = 10
 organization_name = "Code for Philly"
 status = "Prototyping"
 topics = [ "Voting" ]

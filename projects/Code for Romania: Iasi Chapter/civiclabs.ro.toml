@@ -5,4 +5,5 @@ git_url = "git://github.com/code4romania/civiclabs.ro.git"
 last_pushed_within = "year"
 link_url = "https://civiclabs.ro"
 name = "civiclabs.ro"
+open_issues_within = 100
 organization_name = "Code for Romania: Iasi Chapter"

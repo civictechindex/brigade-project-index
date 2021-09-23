@@ -4,6 +4,7 @@ git_branch = "mixin"
 git_url = "git://github.com/100Automations/true-github-contributors.git"
 last_pushed_within = "year"
 name = "true-github-contributors"
+open_issues_within = 10
 organization_name = "Hack for LA Brigade"
 topics = [
   "civictechindex",

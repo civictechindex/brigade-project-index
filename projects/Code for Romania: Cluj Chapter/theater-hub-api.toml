@@ -5,6 +5,7 @@ git_url = "git://github.com/code4romania/theater-hub-api.git"
 last_pushed_within = "week"
 link_url = "http://theaterhub.ro/"
 name = "theater-hub-api"
+open_issues_within = 100
 organization_name = "Code for Romania: Cluj Chapter"
 topics = [
   "civic-hacking",

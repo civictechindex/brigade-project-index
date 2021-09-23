@@ -5,6 +5,7 @@ git_url = "git://github.com/codefortulsa/design-data.git"
 last_pushed_within = "over_a_year"
 link_url = "https://www.revealnews.org/article/before-you-dive-into-oklahomas-prison-data-read-reveals-tips/"
 name = "design-data"
+open_issues_within = 10
 organization_name = "Code for Tulsa"
 topics = [
   "code-for-america",

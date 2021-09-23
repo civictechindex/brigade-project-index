@@ -4,6 +4,7 @@ git_branch = "master"
 git_url = "git://github.com/codefornola/311.git"
 last_pushed_within = "over_a_year"
 name = "311"
+open_issues_within = 10
 organization_name = "Code for New Orleans"
 topics = [
   "311",

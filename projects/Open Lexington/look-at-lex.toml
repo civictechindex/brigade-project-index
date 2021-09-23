@@ -5,4 +5,5 @@ git_url = "git://github.com/openlexington/look-at-lex.git"
 last_pushed_within = "over_a_year"
 link_url = "http://lookatlex.org"
 name = "look-at-lex"
+open_issues_within = 10
 organization_name = "Open Lexington"

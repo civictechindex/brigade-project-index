@@ -5,4 +5,5 @@ git_url = "git://github.com/CodeForPittsburgh/pabudgetclock.git"
 last_pushed_within = "over_a_year"
 link_url = "http://pabudgetclock.com"
 name = "pabudgetclock"
+open_issues_within = 10
 organization_name = "Code for Pittsburgh"

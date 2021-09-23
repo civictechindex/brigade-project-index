@@ -5,4 +5,5 @@ git_url = "git://github.com/codefortulsa/birdo.git"
 last_pushed_within = "year"
 link_url = "http://birdo.destos.com"
 name = "birdo"
+open_issues_within = 10
 organization_name = "Code for Tulsa"

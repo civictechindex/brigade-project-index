@@ -4,4 +4,5 @@ git_branch = "master"
 git_url = "git://github.com/g0v/g0v.json.git"
 last_pushed_within = "over_a_year"
 name = "g0v.json"
+open_issues_within = 100
 organization_name = "g0v.tw"

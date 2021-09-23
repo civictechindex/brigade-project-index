@@ -4,4 +4,5 @@ git_branch = "development"
 git_url = "git://github.com/codeforbirmingham/spotholes.git"
 last_pushed_within = "over_a_year"
 name = "spotholes"
+open_issues_within = 10
 organization_name = "Code for Birmingham"

@@ -4,6 +4,7 @@ git_branch = "master"
 git_url = "git://github.com/codefordenver/waterbeacon.git"
 last_pushed_within = "week"
 name = "waterbeacon"
+open_issues_within = 10
 organization_name = "Code for Denver"
 topics = [
   "code-for-america",

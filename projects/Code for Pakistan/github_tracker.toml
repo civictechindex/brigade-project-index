@@ -5,4 +5,5 @@ git_url = "git://github.com/codeforpakistan/github_tracker.git"
 last_pushed_within = "month"
 link_url = "stats.codeforamerica.org"
 name = "github_tracker"
+open_issues_within = 10
 organization_name = "Code for Pakistan"

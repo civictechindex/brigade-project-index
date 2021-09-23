@@ -5,6 +5,7 @@ git_url = "git://github.com/hackforla/website.git"
 last_pushed_within = "week"
 link_url = "https://www.hackforla.org"
 name = "website"
+open_issues_within = 1_000
 organization_name = "Hack for LA Brigade"
 topics = [
   "docker",

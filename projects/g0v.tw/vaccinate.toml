@@ -5,4 +5,5 @@ git_url = "git://github.com/g0v/vaccinate.git"
 last_pushed_within = "year"
 link_url = "http://vaxx.tw"
 name = "vaccinate"
+open_issues_within = 100
 organization_name = "g0v.tw"

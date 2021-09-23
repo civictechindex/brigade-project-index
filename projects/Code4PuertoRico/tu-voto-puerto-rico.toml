@@ -2,5 +2,6 @@ code_url = "https://github.com/Code4PuertoRico/tu-voto-puerto-rico"
 git_branch = "master"
 git_url = "git://github.com/Code4PuertoRico/tu-voto-puerto-rico.git"
 last_pushed_within = "year"
+link_url = { }
 name = "tu-voto-puerto-rico"
 organization_name = "Code4PuertoRico"

@@ -5,6 +5,7 @@ git_url = "git://github.com/Code4HR/adopt-a-drain.git"
 last_pushed_within = "year"
 link_url = "http://norfolkdrains.code4hr.org"
 name = "adopt-a-drain"
+open_issues_within = 100
 organization_name = "Code for Hampton Roads"
 topics = [
   "civic",

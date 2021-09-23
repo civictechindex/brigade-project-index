@@ -5,4 +5,5 @@ git_url = "git://github.com/code4romania/vot-diaspora-api.git"
 last_pushed_within = "year"
 link_url = "https://votdiaspora.ro"
 name = "vot-diaspora-api"
+open_issues_within = 10
 organization_name = "Code for Romania: Iasi Chapter"

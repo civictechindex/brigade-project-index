@@ -1,5 +1,7 @@
 code_url = "https://github.com/datamade/where-we-work"
 git_branch = "master"
 last_pushed_within = "over_a_year"
+link_url = "wherewework.org"
 name = "where-we-work"
+open_issues_within = 10
 organization_name = "Chi Hack Night"

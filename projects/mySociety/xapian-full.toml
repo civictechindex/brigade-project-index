@@ -4,5 +4,6 @@ git_branch = "master"
 git_url = "git://github.com/mysociety/xapian-full.git"
 last_pushed_within = "year"
 name = "xapian-full"
+open_issues_within = 10
 organization_name = "mySociety"
 topics = [ "alaveteli" ]

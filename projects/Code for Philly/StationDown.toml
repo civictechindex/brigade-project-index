@@ -3,6 +3,7 @@ description = "Collaborate data on brown outs and fire incidents in Philadelphia
 git_branch = "master"
 last_pushed_within = "over_a_year"
 name = "StationDown"
+open_issues_within = 10
 organization_name = "Code for Philly"
 status = "Commenting"
 topics = [ "CivicEngagement", "Philly" ]

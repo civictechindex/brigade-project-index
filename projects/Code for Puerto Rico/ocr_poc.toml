@@ -4,4 +4,5 @@ git_branch = "master"
 git_url = "git://github.com/Code4PuertoRico/ocr_poc.git"
 last_pushed_within = "month"
 name = "ocr_poc"
+open_issues_within = 10
 organization_name = "Code for Puerto Rico"

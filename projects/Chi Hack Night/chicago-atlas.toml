@@ -1,5 +1,7 @@
 code_url = "https://github.com/smartchicago/chicago-atlas"
 git_branch = "master"
 last_pushed_within = "over_a_year"
+link_url = "http://www.chicagohealthatlas.org/"
 name = "chicago-atlas"
+open_issues_within = 1_000
 organization_name = "Chi Hack Night"

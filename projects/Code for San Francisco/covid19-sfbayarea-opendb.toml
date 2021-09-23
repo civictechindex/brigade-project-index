@@ -3,4 +3,5 @@ git_branch = "main"
 git_url = "git://github.com/sfbrigade/covid19-sfbayarea-opendb.git"
 last_pushed_within = "year"
 name = "covid19-sfbayarea-opendb"
+open_issues_within = 10
 organization_name = "Code for San Francisco"

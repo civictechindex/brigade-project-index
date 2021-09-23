@@ -5,4 +5,5 @@ git_url = "git://github.com/sketch-city/harvey-needs.git"
 last_pushed_within = "over_a_year"
 link_url = "https://sketch-city.github.io/harvey-needs"
 name = "harvey-needs"
+open_issues_within = 10
 organization_name = "Sketch City (Houston)"

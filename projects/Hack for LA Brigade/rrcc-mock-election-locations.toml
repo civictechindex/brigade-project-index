@@ -5,6 +5,7 @@ git_url = "git://github.com/hackforla/rrcc-mock-election-locations.git"
 last_pushed_within = "over_a_year"
 link_url = "https://hackforla.github.io/rrcc-mock-election-locations/"
 name = "rrcc-mock-election-locations"
+open_issues_within = 10
 organization_name = "Hack for LA Brigade"
 topics = [
   "civictechindex",

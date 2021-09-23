@@ -4,4 +4,5 @@ git_branch = "master"
 git_url = "git://github.com/sfbrigade/blog.git"
 last_pushed_within = "over_a_year"
 name = "blog"
+open_issues_within = 10
 organization_name = "Code for San Francisco"

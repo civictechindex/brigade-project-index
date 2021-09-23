@@ -5,4 +5,5 @@ git_url = "git://github.com/mysociety/research_localgov_foi_stats.git"
 last_pushed_within = "year"
 link_url = "https://research.mysociety.org/publications/freedom-information-local-government"
 name = "research_localgov_foi_stats"
+open_issues_within = 10
 organization_name = "mySociety"

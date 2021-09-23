@@ -3,5 +3,7 @@ description = "Repositorio principal para nuestros trabajos de diseño en Civic 
 git_branch = "master"
 git_url = "git://github.com/Code4PuertoRico/code4pr-design.git"
 last_pushed_within = "over_a_year"
+link_url = { }
 name = "code4pr-design"
+open_issues_within = 10
 organization_name = "Code4PuertoRico"

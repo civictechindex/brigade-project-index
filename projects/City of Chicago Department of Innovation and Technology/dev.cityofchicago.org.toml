@@ -5,5 +5,6 @@ git_url = "git://github.com/Chicago/dev.cityofchicago.org.git"
 last_pushed_within = "year"
 link_url = "http://dev.cityofchicago.org"
 name = "dev.cityofchicago.org"
+open_issues_within = 10
 organization_name = "City of Chicago Department of Innovation and Technology"
 topics = [ "chicago", "government", "jekyll", "website" ]

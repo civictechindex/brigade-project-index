@@ -4,5 +4,6 @@ git_branch = "master"
 git_url = "git://github.com/codefordenver/community-planner.git"
 last_pushed_within = "over_a_year"
 name = "community-planner"
+open_issues_within = 100
 organization_name = "Code for Denver"
 topics = [ "calendar", "chat", "profile", "social-network" ]

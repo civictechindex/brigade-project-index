@@ -5,4 +5,5 @@ git_url = "git://github.com/code4romania/next-door.git"
 last_pushed_within = "over_a_year"
 link_url = "https://next-door.now.sh"
 name = "next-door"
+open_issues_within = 100
 organization_name = "Code for Romania: Iasi Chapter"

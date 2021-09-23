@@ -5,6 +5,7 @@ git_url = "git://github.com/BetaNYC/SLAM.git"
 last_pushed_within = "year"
 link_url = "https://slam.beta.nyc"
 name = "SLAM"
+open_issues_within = 100
 organization_name = "BetaNYC"
 topics = [
   "carto",

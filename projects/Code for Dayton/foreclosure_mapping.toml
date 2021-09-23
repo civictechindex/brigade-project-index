@@ -4,4 +4,5 @@ git_branch = "master"
 git_url = "git://github.com/codefordayton/foreclosure_mapping.git"
 last_pushed_within = "over_a_year"
 name = "foreclosure_mapping"
+open_issues_within = 10
 organization_name = "Code for Dayton"

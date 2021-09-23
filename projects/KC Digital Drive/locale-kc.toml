@@ -3,4 +3,5 @@ git_branch = "master"
 git_url = "git://github.com/codeforkansascity/locale-kc.git"
 last_pushed_within = "week"
 name = "locale-kc"
+open_issues_within = 100
 organization_name = "KC Digital Drive"

@@ -4,4 +4,5 @@ git_branch = "master"
 git_url = "git://github.com/codeforamerica/cfawp2012.git"
 last_pushed_within = "over_a_year"
 name = "cfawp2012"
+open_issues_within = 10
 organization_name = "Code for America"

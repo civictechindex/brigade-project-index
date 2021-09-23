@@ -5,4 +5,5 @@ git_url = "git://github.com/OpenUpSA/wazimap-za.git"
 last_pushed_within = "year"
 link_url = "http://wazimap.co.za"
 name = "wazimap-za"
+open_issues_within = 100
 organization_name = "OpenUp"

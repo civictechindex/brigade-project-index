@@ -4,4 +4,5 @@ git_branch = "master"
 git_url = "git://github.com/codeforbtv/C4BTV_Mobile_Stack_Training.git"
 last_pushed_within = "over_a_year"
 name = "C4BTV_Mobile_Stack_Training"
+open_issues_within = 10
 organization_name = "Code for BTV"

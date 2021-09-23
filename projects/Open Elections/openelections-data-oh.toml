@@ -4,5 +4,6 @@ git_branch = "master"
 git_url = "git://github.com/openelections/openelections-data-oh.git"
 last_pushed_within = "month"
 name = "openelections-data-oh"
+open_issues_within = 10
 organization_name = "Open Elections"
 topics = [ "elections", "ohio", "openelections" ]

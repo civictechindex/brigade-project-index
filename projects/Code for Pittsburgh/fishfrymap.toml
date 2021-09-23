@@ -5,6 +5,7 @@ git_url = "git://github.com/CodeForPittsburgh/fishfrymap.git"
 last_pushed_within = "year"
 link_url = "https://fishfry.codeforpgh.com/map"
 name = "fishfrymap"
+open_issues_within = 10
 organization_name = "Code for Pittsburgh"
 topics = [
   "bootleaf",

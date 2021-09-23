@@ -5,4 +5,5 @@ git_url = "git://github.com/codeformuenster/busradar.git"
 last_pushed_within = "month"
 link_url = "https://busradar.codeformuenster.org/"
 name = "busradar"
+open_issues_within = 10
 organization_name = "OK Lab Münster"

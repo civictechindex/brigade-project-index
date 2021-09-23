@@ -4,4 +4,5 @@ git_branch = "main"
 git_url = "git://github.com/CodeForAfrica/sensors.AFRICA-api-Data-PurpleAir.git"
 last_pushed_within = "year"
 name = "sensors.AFRICA-api-Data-PurpleAir"
+open_issues_within = 10
 organization_name = "Code for Africa"

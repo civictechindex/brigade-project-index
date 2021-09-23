@@ -4,4 +4,5 @@ git_branch = "master"
 git_url = "git://github.com/code4sac/peoples-guide.git"
 last_pushed_within = "year"
 name = "peoples-guide"
+open_issues_within = 10
 organization_name = "Code for Sacramento"

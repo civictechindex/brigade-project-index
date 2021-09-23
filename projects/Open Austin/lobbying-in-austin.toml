@@ -4,4 +4,5 @@ git_branch = "master"
 git_url = "git://github.com/open-austin/lobbying-in-austin.git"
 last_pushed_within = "year"
 name = "lobbying-in-austin"
+open_issues_within = 10
 organization_name = "Open Austin"

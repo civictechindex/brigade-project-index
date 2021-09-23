@@ -4,5 +4,6 @@ git_branch = "master"
 git_url = "git://github.com/OpenMaine/openmaine-website.git"
 last_pushed_within = "over_a_year"
 name = "openmaine-website"
+open_issues_within = 10
 organization_name = "Open Maine"
 topics = [ "css", "html", "javascript" ]

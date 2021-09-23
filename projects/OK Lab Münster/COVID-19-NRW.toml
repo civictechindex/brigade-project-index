@@ -4,4 +4,5 @@ git_url = "git://github.com/codeformuenster/COVID-19-NRW.git"
 last_pushed_within = "week"
 link_url = "https://codeformuenster.org/COVID-19-NRW/index.html"
 name = "COVID-19-NRW"
+open_issues_within = 10
 organization_name = "OK Lab Münster"

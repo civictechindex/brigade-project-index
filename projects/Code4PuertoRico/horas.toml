@@ -5,4 +5,5 @@ git_url = "git://github.com/Code4PuertoRico/horas.git"
 last_pushed_within = "month"
 link_url = "1hora.org"
 name = "horas"
+open_issues_within = 10
 organization_name = "Code4PuertoRico"

@@ -4,6 +4,7 @@ git_branch = "develop"
 last_pushed_within = "over_a_year"
 link_url = "http://flibbertigibbet.github.io/opentripplanner-mobile-site/"
 name = "opentripplanner-mobile-site"
+open_issues_within = 10
 organization_name = "Code for Philly"
 status = "Prototyping"
 topics = [ "Mobile", "OpenTripPlanner", "Transit", "Transportation" ]

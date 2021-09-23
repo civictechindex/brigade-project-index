@@ -5,4 +5,5 @@ git_url = "git://github.com/OpenUpSA/wazimap-ng-ui.git"
 last_pushed_within = "week"
 link_url = "https://geo.vulekamali.gov.za/"
 name = "wazimap-ng-ui"
+open_issues_within = 100
 organization_name = "OpenUp"

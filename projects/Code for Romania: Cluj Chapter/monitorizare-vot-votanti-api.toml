@@ -5,6 +5,7 @@ git_url = "git://github.com/code4romania/monitorizare-vot-votanti-api.git"
 last_pushed_within = "over_a_year"
 link_url = "http://monitorizarevot.ro/"
 name = "monitorizare-vot-votanti-api"
+open_issues_within = 100
 organization_name = "Code for Romania: Cluj Chapter"
 topics = [
   "api",

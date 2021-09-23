@@ -4,4 +4,5 @@ git_branch = "master"
 git_url = "git://github.com/opendenton/Denton-Dashboard.git"
 last_pushed_within = "over_a_year"
 name = "Denton-Dashboard"
+open_issues_within = 10
 organization_name = "Open Denton"

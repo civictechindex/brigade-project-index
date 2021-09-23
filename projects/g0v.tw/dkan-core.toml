@@ -5,4 +5,5 @@ git_url = "git://github.com/g0v/dkan-core.git"
 last_pushed_within = "over_a_year"
 link_url = "http://data.g0v.tw"
 name = "dkan-core"
+open_issues_within = 10
 organization_name = "g0v.tw"

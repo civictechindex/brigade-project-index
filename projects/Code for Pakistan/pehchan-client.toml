@@ -3,4 +3,5 @@ git_branch = "master"
 git_url = "git://github.com/codeforpakistan/pehchan-client.git"
 last_pushed_within = "year"
 name = "pehchan-client"
+open_issues_within = 10
 organization_name = "Code for Pakistan"

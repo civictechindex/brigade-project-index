@@ -4,4 +4,5 @@ git_branch = "master"
 git_url = "git://github.com/code4sac/2015-Strategic-Plan.git"
 last_pushed_within = "over_a_year"
 name = "2015-Strategic-Plan"
+open_issues_within = 10
 organization_name = "Code for Sacramento"

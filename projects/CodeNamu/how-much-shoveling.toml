@@ -5,4 +5,5 @@ git_url = "git://github.com/codeforseoul/how-much-shoveling.git"
 last_pushed_within = "over_a_year"
 link_url = "http://codeforseoul.org/how-much-shoveling/"
 name = "how-much-shoveling"
+open_issues_within = 10
 organization_name = "CodeNamu"

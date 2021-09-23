@@ -5,4 +5,5 @@ git_url = "git://github.com/CodeforHawaii/projects.git"
 last_pushed_within = "over_a_year"
 link_url = "https://waffle.io/CodeforHawaii/projects"
 name = "projects"
+open_issues_within = 10
 organization_name = "Code for Hawaii"

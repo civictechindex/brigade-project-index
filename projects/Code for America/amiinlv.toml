@@ -5,4 +5,5 @@ git_url = "git://github.com/codeforamerica/amiinlv.git"
 last_pushed_within = "over_a_year"
 link_url = "http://amiinlasvegas.com/"
 name = "amiinlv"
+open_issues_within = 10
 organization_name = "Code for America"

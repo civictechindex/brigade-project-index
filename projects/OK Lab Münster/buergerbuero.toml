@@ -4,4 +4,5 @@ git_url = "git://github.com/codeformuenster/buergerbuero.git"
 last_pushed_within = "year"
 link_url = "http://buergerbuero.codeformuenster.org/latest"
 name = "buergerbuero"
+open_issues_within = 100
 organization_name = "OK Lab Münster"

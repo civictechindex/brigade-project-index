@@ -5,4 +5,5 @@ git_url = "git://github.com/codefortulsa/know-your-rights.git"
 last_pushed_within = "over_a_year"
 link_url = "https://knowyourrightstulsa.org/"
 name = "know-your-rights"
+open_issues_within = 10
 organization_name = "Code for Tulsa"

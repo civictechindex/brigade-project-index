@@ -5,4 +5,5 @@ git_url = "git://github.com/codeforamerica/flying_chicken.git"
 last_pushed_within = "over_a_year"
 link_url = "http://flyingchicken.herokuapp.com/"
 name = "flying_chicken"
+open_issues_within = 10
 organization_name = "Code for America"

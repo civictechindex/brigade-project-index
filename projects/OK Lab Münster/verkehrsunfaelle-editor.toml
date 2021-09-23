@@ -5,4 +5,5 @@ git_url = "git://github.com/codeformuenster/verkehrsunfaelle-editor.git"
 last_pushed_within = "week"
 link_url = "https://crashes-editor.codeformuenster.org/"
 name = "verkehrsunfaelle-editor"
+open_issues_within = 10
 organization_name = "OK Lab Münster"

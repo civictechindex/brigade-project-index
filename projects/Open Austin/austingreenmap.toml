@@ -5,4 +5,5 @@ git_url = "git://github.com/open-austin/austingreenmap.git"
 last_pushed_within = "over_a_year"
 link_url = "http://open-austin.github.io/austingreenmap/"
 name = "austingreenmap"
+open_issues_within = 10
 organization_name = "Open Austin"

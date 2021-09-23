@@ -3,4 +3,5 @@ git_branch = "master"
 git_url = "git://github.com/CodeandoMexico/ideas.git"
 last_pushed_within = "over_a_year"
 name = "ideas"
+open_issues_within = 10
 organization_name = "Codeando México"

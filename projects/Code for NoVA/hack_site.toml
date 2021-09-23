@@ -3,4 +3,5 @@ git_branch = "master"
 git_url = "git://github.com/sarl-hackerspace/hack_site.git"
 last_pushed_within = "over_a_year"
 name = "hack_site"
+open_issues_within = 10
 organization_name = "Code for NoVA"

@@ -4,4 +4,5 @@ git_branch = "main"
 git_url = "git://github.com/codeforpdx/open-data-streams.git"
 last_pushed_within = "year"
 name = "open-data-streams"
+open_issues_within = 100
 organization_name = "Code for PDX"

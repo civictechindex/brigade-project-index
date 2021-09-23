@@ -1,5 +1,7 @@
 code_url = "https://github.com/newsapps/django-boundaryservice"
 git_branch = "master"
 last_pushed_within = "year"
+link_url = "http://blog.apps.chicagotribune.com/"
 name = "django-boundaryservice"
+open_issues_within = 100
 organization_name = "Chi Hack Night"

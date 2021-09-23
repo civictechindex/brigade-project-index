@@ -4,4 +4,5 @@ git_branch = "master"
 git_url = "git://github.com/CodeForRockford/rockford_answers.v2.git"
 last_pushed_within = "over_a_year"
 name = "rockford_answers.v2"
+open_issues_within = 10
 organization_name = "Code for Rockford"

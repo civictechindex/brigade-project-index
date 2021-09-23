@@ -9,4 +9,5 @@ git_branch = "master"
 last_pushed_within = "over_a_year"
 link_url = "http://codefor.de/projekte/2014-09-03-abschiebungen.html"
 name = "Abschiebungen"
+open_issues_within = 10
 organization_name = "OK Lab Berlin"

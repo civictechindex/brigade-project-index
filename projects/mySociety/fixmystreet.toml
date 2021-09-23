@@ -5,6 +5,7 @@ git_url = "git://github.com/mysociety/fixmystreet.git"
 last_pushed_within = "week"
 link_url = "http://fixmystreet.org/"
 name = "fixmystreet"
+open_issues_within = 1_000
 organization_name = "mySociety"
 topics = [
   "civic-tech",

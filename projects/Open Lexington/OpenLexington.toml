@@ -4,4 +4,5 @@ git_branch = "master"
 git_url = "git://github.com/openlexington/OpenLexington.git"
 last_pushed_within = "over_a_year"
 name = "OpenLexington"
+open_issues_within = 100
 organization_name = "Open Lexington"

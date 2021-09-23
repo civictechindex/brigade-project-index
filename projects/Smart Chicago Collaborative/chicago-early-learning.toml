@@ -5,4 +5,5 @@ git_url = "git://github.com/smartchicago/chicago-early-learning.git"
 last_pushed_within = "over_a_year"
 link_url = "http://chicagoearlylearning.org/"
 name = "chicago-early-learning"
+open_issues_within = 100
 organization_name = "Smart Chicago Collaborative"

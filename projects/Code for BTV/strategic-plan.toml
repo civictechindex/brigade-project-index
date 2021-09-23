@@ -5,5 +5,6 @@ git_url = "git://github.com/codeforbtv/strategic-plan.git"
 last_pushed_within = "over_a_year"
 link_url = "http://codeforbtv.github.com/strategic-plan/"
 name = "strategic-plan"
+open_issues_within = 10
 organization_name = "Code for BTV"
 topics = [ "cfbtv-brigade" ]

@@ -5,6 +5,7 @@ git_url = "git://github.com/hackforla/shared-housing.git"
 last_pushed_within = "year"
 link_url = "https://www.hackforla.org/"
 name = "shared-housing"
+open_issues_within = 100
 organization_name = "Hack for LA Brigade"
 topics = [
   "civictechindex",

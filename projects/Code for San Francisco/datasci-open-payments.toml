@@ -4,4 +4,5 @@ git_branch = "master"
 git_url = "git://github.com/sfbrigade/datasci-open-payments.git"
 last_pushed_within = "over_a_year"
 name = "datasci-open-payments"
+open_issues_within = 10
 organization_name = "Code for San Francisco"

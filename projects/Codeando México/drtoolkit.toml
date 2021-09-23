@@ -5,5 +5,6 @@ git_url = "git://github.com/CodeandoMexico/drtoolkit.git"
 last_pushed_within = "over_a_year"
 link_url = "http://disasterrelief.codeforall.org/"
 name = "drtoolkit"
+open_issues_within = 10
 organization_name = "Codeando México"
 topics = [ "civic-hacking", "civic-tech", "open-source" ]

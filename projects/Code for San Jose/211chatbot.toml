@@ -3,4 +3,5 @@ git_branch = "master"
 git_url = "git://github.com/codeforsanjose/211chatbot.git"
 last_pushed_within = "year"
 name = "211chatbot"
+open_issues_within = 10
 organization_name = "Code for San Jose"

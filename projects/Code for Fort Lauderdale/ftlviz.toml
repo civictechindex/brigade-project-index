@@ -5,4 +5,5 @@ git_url = "git://github.com/CodeForFtL/ftlviz.git"
 last_pushed_within = "year"
 link_url = "http://qtrandev.github.io/ftlviz/"
 name = "ftlviz"
+open_issues_within = 10
 organization_name = "Code for Fort Lauderdale"

@@ -4,4 +4,5 @@ git_branch = "master"
 git_url = "git://github.com/codeforamerica/glossary-bot.git"
 last_pushed_within = "year"
 name = "glossary-bot"
+open_issues_within = 100
 organization_name = "Code for America"

@@ -4,5 +4,6 @@ git_branch = "master"
 git_url = "git://github.com/codeforsanjose/onboarding-slack-bot.git"
 last_pushed_within = "year"
 name = "onboarding-slack-bot"
+open_issues_within = 10
 organization_name = "Code for San Jose"
 topics = [ "onboarding", "slack", "slack-bot" ]

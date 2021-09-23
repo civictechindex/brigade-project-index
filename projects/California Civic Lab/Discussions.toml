@@ -5,4 +5,5 @@ git_url = "git://github.com/caciviclab/Discussions.git"
 last_pushed_within = "over_a_year"
 link_url = "http://104.131.98.144/"
 name = "Discussions"
+open_issues_within = 10
 organization_name = "California Civic Lab"

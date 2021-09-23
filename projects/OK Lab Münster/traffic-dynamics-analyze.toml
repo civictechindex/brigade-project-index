@@ -4,4 +4,5 @@ git_branch = "master"
 git_url = "git://github.com/codeformuenster/traffic-dynamics-analyze.git"
 last_pushed_within = "over_a_year"
 name = "traffic-dynamics-analyze"
+open_issues_within = 10
 organization_name = "OK Lab Münster"

@@ -5,4 +5,5 @@ git_url = "git://github.com/codeforkansascity/kc-covid-response.git"
 last_pushed_within = "year"
 link_url = "https://www.comebackkc.com"
 name = "kc-covid-response"
+open_issues_within = 100
 organization_name = "KC Digital Drive"

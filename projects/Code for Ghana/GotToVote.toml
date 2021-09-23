@@ -5,6 +5,7 @@ git_url = "git://github.com/CodeForAfrica/GotToVote.git"
 last_pushed_within = "over_a_year"
 link_url = "https://kenya.gottovote.cc"
 name = "GotToVote"
+open_issues_within = 10
 organization_name = "Code for Ghana"
 topics = [
   "africa",

@@ -4,4 +4,5 @@ git_branch = "master"
 git_url = "git://github.com/codeforgreenville/upstate_tech_cal_service.git"
 last_pushed_within = "year"
 name = "upstate_tech_cal_service"
+open_issues_within = 100
 organization_name = "Code for Greenville"

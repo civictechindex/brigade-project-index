@@ -3,5 +3,6 @@ git_branch = "master"
 git_url = "git://github.com/codeformuenster/mshack2020-counting-backend.git"
 last_pushed_within = "year"
 name = "mshack2020-counting-backend"
+open_issues_within = 10
 organization_name = "OK Lab Münster"
 topics = [ "mshack20", "mszaehlt" ]

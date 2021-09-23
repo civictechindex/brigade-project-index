@@ -5,6 +5,7 @@ git_url = "git://github.com/CodeForPittsburgh/fishfryform.git"
 last_pushed_within = "year"
 link_url = "http://fishfry.codeforpgh.com"
 name = "fishfryform"
+open_issues_within = 10
 organization_name = "Code for Pittsburgh"
 topics = [
   "bootstrap",

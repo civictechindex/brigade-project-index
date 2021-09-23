@@ -4,4 +4,5 @@ git_branch = "master"
 git_url = "git://github.com/OpenUpSA/biz-portal.git"
 last_pushed_within = "year"
 name = "biz-portal"
+open_issues_within = 100
 organization_name = "OpenUp"

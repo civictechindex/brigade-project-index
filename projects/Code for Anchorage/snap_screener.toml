@@ -5,4 +5,5 @@ git_url = "git://github.com/codeforanchorage/snap_screener.git"
 last_pushed_within = "over_a_year"
 link_url = "http://snap.codeforanchorage.org/"
 name = "snap_screener"
+open_issues_within = 10
 organization_name = "Code for Anchorage"

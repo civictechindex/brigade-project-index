@@ -3,4 +3,5 @@ git_branch = "master"
 git_url = "git://github.com/codefordenver/focus-points.git"
 last_pushed_within = "over_a_year"
 name = "focus-points"
+open_issues_within = 10
 organization_name = "Code for Denver"

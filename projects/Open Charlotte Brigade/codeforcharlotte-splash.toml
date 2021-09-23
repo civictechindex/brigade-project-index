@@ -4,4 +4,5 @@ git_branch = "master"
 git_url = "git://github.com/OpenCLTBrigade/codeforcharlotte-splash.git"
 last_pushed_within = "year"
 name = "codeforcharlotte-splash"
+open_issues_within = 10
 organization_name = "Open Charlotte Brigade"

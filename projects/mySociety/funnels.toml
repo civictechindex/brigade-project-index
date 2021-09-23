@@ -5,4 +5,5 @@ git_url = "git://github.com/mysociety/funnels.git"
 last_pushed_within = "over_a_year"
 link_url = "http://mysociety.org"
 name = "funnels"
+open_issues_within = 10
 organization_name = "mySociety"

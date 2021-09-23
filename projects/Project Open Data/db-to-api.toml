@@ -4,4 +4,5 @@ git_branch = "master"
 git_url = "git://github.com/project-open-data/db-to-api.git"
 last_pushed_within = "over_a_year"
 name = "db-to-api"
+open_issues_within = 100
 organization_name = "Project Open Data"

@@ -5,6 +5,7 @@ git_url = "git://github.com/CodeForAfrica/sensors.AFRICA-StormWatch.git"
 last_pushed_within = "over_a_year"
 link_url = "https://stormwatch.sensors.africa/"
 name = "sensors.AFRICA-StormWatch"
+open_issues_within = 10
 organization_name = "Code for Africa"
 topics = [
   "africa",

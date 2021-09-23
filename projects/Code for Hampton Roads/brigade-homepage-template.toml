@@ -4,5 +4,6 @@ git_branch = "gh-pages"
 git_url = "git://github.com/Code4HR/brigade-homepage-template.git"
 last_pushed_within = "over_a_year"
 name = "brigade-homepage-template"
+open_issues_within = 10
 organization_name = "Code for Hampton Roads"
 topics = [ "deprecated" ]

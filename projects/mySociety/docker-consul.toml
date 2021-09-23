@@ -5,5 +5,6 @@ git_url = "git://github.com/mysociety/docker-consul.git"
 last_pushed_within = "over_a_year"
 link_url = "https://www.mysociety.org/"
 name = "docker-consul"
+open_issues_within = 10
 organization_name = "mySociety"
 topics = [ "deployment", "docker" ]

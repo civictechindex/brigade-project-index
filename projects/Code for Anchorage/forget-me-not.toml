@@ -5,4 +5,5 @@ git_url = "git://github.com/codeforanchorage/forget-me-not.git"
 last_pushed_within = "over_a_year"
 link_url = "https://www.facebook.com/groups/1607335859320104/"
 name = "forget-me-not"
+open_issues_within = 10
 organization_name = "Code for Anchorage"

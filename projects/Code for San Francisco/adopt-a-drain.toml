@@ -5,6 +5,7 @@ git_url = "git://github.com/sfbrigade/adopt-a-drain.git"
 last_pushed_within = "year"
 link_url = "http://adoptadrain.sfwater.org/"
 name = "adopt-a-drain"
+open_issues_within = 100
 organization_name = "Code for San Francisco"
 topics = [
   "civic-infrastructure",

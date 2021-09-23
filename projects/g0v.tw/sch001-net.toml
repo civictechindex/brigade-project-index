@@ -5,4 +5,5 @@ git_url = "git://github.com/g0v/sch001-net.git"
 last_pushed_within = "year"
 link_url = "https://sch001.g0v.tw"
 name = "sch001-net"
+open_issues_within = 10
 organization_name = "g0v.tw"

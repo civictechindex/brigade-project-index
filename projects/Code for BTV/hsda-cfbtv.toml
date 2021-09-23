@@ -4,4 +4,5 @@ git_branch = "master"
 git_url = "git://github.com/codeforbtv/hsda-cfbtv.git"
 last_pushed_within = "year"
 name = "hsda-cfbtv"
+open_issues_within = 10
 organization_name = "Code for BTV"

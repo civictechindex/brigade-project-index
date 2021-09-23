@@ -4,4 +4,5 @@ git_branch = "master"
 git_url = "git://github.com/codeforcroatia/foi-investigation.git"
 last_pushed_within = "over_a_year"
 name = "foi-investigation"
+open_issues_within = 10
 organization_name = "Code for Croatia"

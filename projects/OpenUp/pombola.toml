@@ -5,4 +5,5 @@ git_url = "git://github.com/OpenUpSA/pombola.git"
 last_pushed_within = "week"
 link_url = "http://pa.org.za/"
 name = "pombola"
+open_issues_within = 100
 organization_name = "OpenUp"

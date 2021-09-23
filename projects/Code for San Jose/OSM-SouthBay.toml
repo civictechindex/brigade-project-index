@@ -5,6 +5,7 @@ git_url = "git://github.com/codeforsanjose/OSM-SouthBay.git"
 last_pushed_within = "year"
 link_url = "https://www.openstreetmap.org/#map=12/37.3358/-121.8906"
 name = "OSM-SouthBay"
+open_issues_within = 100
 organization_name = "Code for San Jose"
 topics = [
   "gis",

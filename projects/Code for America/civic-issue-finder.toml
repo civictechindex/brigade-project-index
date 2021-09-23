@@ -5,4 +5,5 @@ git_url = "git://github.com/codeforamerica/civic-issue-finder.git"
 last_pushed_within = "over_a_year"
 link_url = "http://www.codeforamerica.org/geeks/civicissues"
 name = "civic-issue-finder"
+open_issues_within = 100
 organization_name = "Code for America"

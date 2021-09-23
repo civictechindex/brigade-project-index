@@ -4,4 +4,5 @@ git_branch = "master"
 git_url = "git://github.com/g0v/tw-rental-house-data.git"
 last_pushed_within = "week"
 name = "tw-rental-house-data"
+open_issues_within = 100
 organization_name = "g0v.tw"

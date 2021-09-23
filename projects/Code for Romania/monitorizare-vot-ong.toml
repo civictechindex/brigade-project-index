@@ -5,6 +5,7 @@ git_url = "git://github.com/code4romania/monitorizare-vot-ong.git"
 last_pushed_within = "month"
 link_url = "https://votemonitor.org"
 name = "monitorizare-vot-ong"
+open_issues_within = 100
 organization_name = "Code for Romania"
 topics = [
   "civic-hacking",

@@ -4,5 +4,6 @@ git_branch = "master"
 git_url = "git://github.com/CodeForAfrica/covid19-in-africa.git"
 last_pushed_within = "week"
 name = "covid19-in-africa"
+open_issues_within = 10
 organization_name = "Code for Ghana"
 topics = [ "africa", "covid19-data" ]

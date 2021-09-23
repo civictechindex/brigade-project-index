@@ -4,5 +4,6 @@ git_branch = "master"
 git_url = "git://github.com/codefortulsa/mrelief_snap_screeners.git"
 last_pushed_within = "over_a_year"
 name = "mrelief_snap_screeners"
+open_issues_within = 10
 organization_name = "Code for Tulsa"
 topics = [ "food-security" ]

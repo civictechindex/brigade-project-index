@@ -3,4 +3,5 @@ git_branch = "master"
 git_url = "git://github.com/codeforkansascity/Public-Transit-App.git"
 last_pushed_within = "over_a_year"
 name = "Public-Transit-App"
+open_issues_within = 10
 organization_name = "KC Digital Drive"

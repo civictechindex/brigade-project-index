@@ -4,4 +4,5 @@ git_branch = "master"
 git_url = "git://github.com/codefordenver/NDoCH-Website.git"
 last_pushed_within = "year"
 name = "NDoCH-Website"
+open_issues_within = 10
 organization_name = "Code for Denver"

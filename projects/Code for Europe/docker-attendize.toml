@@ -4,4 +4,5 @@ git_branch = "master"
 git_url = "git://github.com/codeforeurope/docker-attendize.git"
 last_pushed_within = "over_a_year"
 name = "docker-attendize"
+open_issues_within = 10
 organization_name = "Code for Europe"

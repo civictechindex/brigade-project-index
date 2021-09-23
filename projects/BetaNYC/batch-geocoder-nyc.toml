@@ -5,4 +5,5 @@ git_url = "git://github.com/BetaNYC/batch-geocoder-nyc.git"
 last_pushed_within = "year"
 link_url = "https://www.geocoder.nyc"
 name = "batch-geocoder-nyc"
+open_issues_within = 10
 organization_name = "BetaNYC"

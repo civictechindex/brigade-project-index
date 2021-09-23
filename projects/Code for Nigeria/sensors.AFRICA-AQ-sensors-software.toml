@@ -4,5 +4,6 @@ git_branch = "recent_luftdaten_master"
 git_url = "git://github.com/CodeForAfrica/sensors.AFRICA-AQ-sensors-software.git"
 last_pushed_within = "year"
 name = "sensors.AFRICA-AQ-sensors-software"
+open_issues_within = 10
 organization_name = "Code for Nigeria"
 topics = [ "air-quality", "sensors", "sensors-africa" ]

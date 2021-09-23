@@ -3,6 +3,7 @@ description = "Some women from Rittenhouse Political stopped by Code for Philly 
 git_branch = "master"
 last_pushed_within = "over_a_year"
 name = "female_political_representation_in_pa"
+open_issues_within = 10
 organization_name = "Code for Philly"
 status = "Bootstrapping"
 topics = [ "Equality", "Politics", "Women's Rights" ]

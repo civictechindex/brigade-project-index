@@ -5,4 +5,5 @@ git_url = "git://github.com/uscensusbureau/citysdk.git"
 last_pushed_within = "year"
 link_url = "https://uscensusbureau.github.io/citysdk"
 name = "citysdk"
+open_issues_within = 10
 organization_name = "US Census Bureau"

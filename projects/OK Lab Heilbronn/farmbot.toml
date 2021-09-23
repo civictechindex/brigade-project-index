@@ -3,4 +3,5 @@ git_branch = "master"
 git_url = "git://github.com/opendata-heilbronn/farmbot.git"
 last_pushed_within = "over_a_year"
 name = "farmbot"
+open_issues_within = 100
 organization_name = "OK Lab Heilbronn"

@@ -5,6 +5,7 @@ git_url = "git://github.com/CodeForAfrica/StoryLab-HuffingtonPostZA.git"
 last_pushed_within = "over_a_year"
 link_url = "http://stories.huffingtonpost.co.za"
 name = "StoryLab-HuffingtonPostZA"
+open_issues_within = 10
 organization_name = "Code for Nigeria"
 topics = [
   "africa",

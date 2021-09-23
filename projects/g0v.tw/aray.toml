@@ -5,4 +5,5 @@ git_url = "git://github.com/g0v/aray.git"
 last_pushed_within = "month"
 link_url = "https://aray.g0v.tw/"
 name = "aray"
+open_issues_within = 100
 organization_name = "g0v.tw"

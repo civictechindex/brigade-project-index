@@ -5,5 +5,6 @@ git_url = "git://github.com/mysociety/research-repository.git"
 last_pushed_within = "month"
 link_url = "http://research.mysociety.org/"
 name = "research-repository"
+open_issues_within = 10
 organization_name = "mySociety"
 topics = [ "django", "mysociety", "python", "repository", "research" ]

@@ -5,6 +5,7 @@ git_url = "git://github.com/codeforanchorage/land_acknowledgement.git"
 last_pushed_within = "year"
 link_url = "https://land.codeforanchorage.org/"
 name = "land_acknowledgement"
+open_issues_within = 10
 organization_name = "Code for Anchorage"
 topics = [
   "heroku",

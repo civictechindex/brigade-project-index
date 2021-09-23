@@ -5,4 +5,5 @@ git_url = "git://github.com/sc3/sc3.git"
 last_pushed_within = "over_a_year"
 link_url = "http://chitowncoders.org"
 name = "sc3"
+open_issues_within = 100
 organization_name = "FreeGeekChicago"

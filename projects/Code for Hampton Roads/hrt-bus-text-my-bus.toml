@@ -4,5 +4,6 @@ git_branch = "master"
 git_url = "git://github.com/Code4HR/hrt-bus-text-my-bus.git"
 last_pushed_within = "over_a_year"
 name = "hrt-bus-text-my-bus"
+open_issues_within = 100
 organization_name = "Code for Hampton Roads"
 topics = [ "deprecated" ]

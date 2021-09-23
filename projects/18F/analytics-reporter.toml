@@ -4,5 +4,6 @@ git_branch = "master"
 git_url = "git://github.com/18F/analytics-reporter.git"
 last_pushed_within = "year"
 name = "analytics-reporter"
+open_issues_within = 100
 organization_name = "18F"
 topics = [ "analytics", "google-analytics" ]

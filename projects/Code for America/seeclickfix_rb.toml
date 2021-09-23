@@ -5,4 +5,5 @@ git_url = "git://github.com/codeforamerica/seeclickfix_rb.git"
 last_pushed_within = "over_a_year"
 link_url = "http://help.seeclickfix.com/kb/api/api-overview"
 name = "seeclickfix_rb"
+open_issues_within = 10
 organization_name = "Code for America"

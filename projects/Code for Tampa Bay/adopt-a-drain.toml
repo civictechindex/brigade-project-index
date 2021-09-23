@@ -5,4 +5,5 @@ git_url = "git://github.com/code-for-tb/adopt-a-drain.git"
 last_pushed_within = "over_a_year"
 link_url = "http://adoptadrain.sfwater.org/"
 name = "adopt-a-drain"
+open_issues_within = 10
 organization_name = "Code for Tampa Bay"

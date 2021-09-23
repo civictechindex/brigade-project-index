@@ -5,4 +5,5 @@ git_url = "git://github.com/OpenUpSA/treasury-fiscal-datapackage-pipelines.git"
 last_pushed_within = "year"
 link_url = "https://openspending.org/viewer/fb2fa9b200eb3e56facc4c287002fc4d:estimates-of-national-expenditure?measure=%22value.sum%22&groups%5B%5D=%22economic_classification_Level_3.Economic_Level_3%22&filters%5Beconomic_classification_Level.Economic_Level_1%5D%5B%5"
 name = "treasury-fiscal-datapackage-pipelines"
+open_issues_within = 10
 organization_name = "OpenUp"

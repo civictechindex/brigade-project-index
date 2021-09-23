@@ -5,4 +5,5 @@ git_url = "git://github.com/codeformuenster/muenster-dashboard_old.git"
 last_pushed_within = "over_a_year"
 link_url = "http://muensterdashboard.gigantic.io/"
 name = "muenster-dashboard_old"
+open_issues_within = 10
 organization_name = "OK Lab Münster"

@@ -3,4 +3,5 @@ git_branch = "master"
 git_url = "git://github.com/CodeforLeipzig/mdv-fermata.git"
 last_pushed_within = "year"
 name = "mdv-fermata"
+open_issues_within = 10
 organization_name = "OK Lab Leipzig"

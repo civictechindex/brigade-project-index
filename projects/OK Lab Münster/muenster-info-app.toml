@@ -5,4 +5,5 @@ git_url = "git://github.com/codeformuenster/muenster-info-app.git"
 last_pushed_within = "week"
 link_url = "https://app.muenster.jetzt"
 name = "muenster-info-app"
+open_issues_within = 100
 organization_name = "OK Lab Münster"

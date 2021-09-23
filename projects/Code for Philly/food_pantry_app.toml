@@ -3,6 +3,7 @@ description = "Food Pantry App is a web app created to make it easier to operate
 git_branch = "main"
 last_pushed_within = "year"
 name = "food_pantry_app"
+open_issues_within = 100
 organization_name = "Code for Philly"
 status = "Prototyping"
 topics = [

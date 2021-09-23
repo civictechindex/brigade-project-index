@@ -5,4 +5,5 @@ git_url = "git://github.com/codeforkanazawa-org/5374.git"
 last_pushed_within = "year"
 link_url = "http://kanazawa.5374.jp"
 name = "5374"
+open_issues_within = 10
 organization_name = "Code for Kanazawa"

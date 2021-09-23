@@ -5,4 +5,5 @@ git_url = "git://github.com/BetaNYC/What-is-BetaNYC.git"
 last_pushed_within = "year"
 link_url = "http://beta.nyc"
 name = "What-is-BetaNYC"
+open_issues_within = 10
 organization_name = "BetaNYC"

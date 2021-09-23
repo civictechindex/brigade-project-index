@@ -5,4 +5,5 @@ git_url = "git://github.com/g0v/moedict-app.git"
 last_pushed_within = "year"
 link_url = "http://moedict.org/"
 name = "moedict-app"
+open_issues_within = 10
 organization_name = "g0v.tw"

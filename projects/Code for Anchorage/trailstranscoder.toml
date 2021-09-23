@@ -4,4 +4,5 @@ git_branch = "master"
 git_url = "git://github.com/codeforanchorage/trailstranscoder.git"
 last_pushed_within = "over_a_year"
 name = "trailstranscoder"
+open_issues_within = 10
 organization_name = "Code for Anchorage"

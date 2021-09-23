@@ -4,5 +4,6 @@ git_branch = "main"
 git_url = "git://github.com/OpenTwinCities/policing-and-public-safety-data-toolkit.git"
 last_pushed_within = "year"
 name = "policing-and-public-safety-data-toolkit"
+open_issues_within = 10
 organization_name = "Open Twin Cities"
 topics = [ "data-analysis", "policing", "public", "public-safety" ]

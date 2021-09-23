@@ -5,4 +5,5 @@ git_url = "git://github.com/c4gnv/c4gnv.github.io.git"
 last_pushed_within = "over_a_year"
 link_url = "http://c4gnv.github.io"
 name = "c4gnv.github.io"
+open_issues_within = 10
 organization_name = "Code for Gainesville"

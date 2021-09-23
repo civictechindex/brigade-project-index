@@ -5,4 +5,5 @@ git_url = "git://github.com/codeforamerica/cfa_banner.git"
 last_pushed_within = "over_a_year"
 link_url = "http://codeforamerica.github.com/cfa_banner"
 name = "cfa_banner"
+open_issues_within = 10
 organization_name = "Code for America"

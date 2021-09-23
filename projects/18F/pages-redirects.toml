@@ -4,4 +4,5 @@ git_branch = "main"
 git_url = "git://github.com/18F/pages-redirects.git"
 last_pushed_within = "month"
 name = "pages-redirects"
+open_issues_within = 10
 organization_name = "18F"

@@ -5,4 +5,5 @@ git_url = "git://github.com/code4romania/tfsg.code4.ro.git"
 last_pushed_within = "month"
 link_url = "https://tfsg.code4.ro/"
 name = "tfsg.code4.ro"
+open_issues_within = 10
 organization_name = "Code for Romania: Iasi Chapter"

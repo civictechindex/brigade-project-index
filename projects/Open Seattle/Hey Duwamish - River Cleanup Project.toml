@@ -4,6 +4,7 @@ git_branch = "master"
 last_pushed_within = "week"
 link_url = "http://heyduwamish.org"
 name = "Hey Duwamish - River Cleanup Project"
+open_issues_within = 100
 organization_name = "Open Seattle"
 status = "live/ongoing"
 topics = [

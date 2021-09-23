@@ -3,5 +3,6 @@ description = "The central repository for all COVID-19 efforts"
 git_branch = "master"
 git_url = "git://github.com/Code4PuertoRico/covid19-response.git"
 last_pushed_within = "over_a_year"
+link_url = { }
 name = "covid19-response"
 organization_name = "Code4PuertoRico"

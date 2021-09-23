@@ -4,5 +4,6 @@ git_branch = "master"
 git_url = "git://github.com/g0v/OneButton.git"
 last_pushed_within = "over_a_year"
 name = "OneButton"
+open_issues_within = 100
 organization_name = "g0v.tw"
 topics = [ "g0v", "jothon", "onebutton" ]

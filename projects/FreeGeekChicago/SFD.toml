@@ -5,4 +5,5 @@ git_url = "git://github.com/sc3/SFD.git"
 last_pushed_within = "over_a_year"
 link_url = "http://sfd.freegeekchicago.org/"
 name = "SFD"
+open_issues_within = 100
 organization_name = "FreeGeekChicago"

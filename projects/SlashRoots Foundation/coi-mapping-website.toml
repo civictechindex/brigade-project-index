@@ -5,4 +5,5 @@ git_url = "git://github.com/slashroots/coi-mapping-website.git"
 last_pushed_within = "over_a_year"
 link_url = "http://coi-mapping-website.herokuapp.com/map"
 name = "coi-mapping-website"
+open_issues_within = 10
 organization_name = "SlashRoots Foundation"

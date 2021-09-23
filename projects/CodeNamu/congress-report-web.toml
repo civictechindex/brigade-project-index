@@ -4,4 +4,5 @@ git_branch = "develop"
 git_url = "git://github.com/codeforseoul/congress-report-web.git"
 last_pushed_within = "over_a_year"
 name = "congress-report-web"
+open_issues_within = 10
 organization_name = "CodeNamu"

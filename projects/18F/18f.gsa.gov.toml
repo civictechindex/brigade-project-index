@@ -5,5 +5,6 @@ git_url = "git://github.com/18F/18f.gsa.gov.git"
 last_pushed_within = "week"
 link_url = "https://18f.gsa.gov"
 name = "18f.gsa.gov"
+open_issues_within = 100
 organization_name = "18F"
 topics = [ "active", "federalist" ]

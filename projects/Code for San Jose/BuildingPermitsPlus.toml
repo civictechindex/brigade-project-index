@@ -4,4 +4,5 @@ git_branch = "master"
 git_url = "git://github.com/codeforsanjose/BuildingPermitsPlus.git"
 last_pushed_within = "over_a_year"
 name = "BuildingPermitsPlus"
+open_issues_within = 10
 organization_name = "Code for San Jose"

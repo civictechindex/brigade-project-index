@@ -4,4 +4,5 @@ git_branch = "master"
 git_url = "git://github.com/CodeforNRV/WalkBlacksburg-Scripts.git"
 last_pushed_within = "over_a_year"
 name = "WalkBlacksburg-Scripts"
+open_issues_within = 10
 organization_name = "Code for New River Valley"

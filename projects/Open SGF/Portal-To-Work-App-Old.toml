@@ -3,4 +3,5 @@ git_branch = "master"
 git_url = "git://github.com/Open-SGF/Portal-To-Work-App-Old.git"
 last_pushed_within = "year"
 name = "Portal-To-Work-App-Old"
+open_issues_within = 10
 organization_name = "Open SGF"

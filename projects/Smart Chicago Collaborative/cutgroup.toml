@@ -4,4 +4,5 @@ git_branch = "master"
 git_url = "git://github.com/smartchicago/cutgroup.git"
 last_pushed_within = "over_a_year"
 name = "cutgroup"
+open_issues_within = 10
 organization_name = "Smart Chicago Collaborative"

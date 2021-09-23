@@ -4,4 +4,5 @@ git_branch = "master"
 git_url = "git://github.com/codeforgreenville/trolley-tracker.git"
 last_pushed_within = "year"
 name = "trolley-tracker"
+open_issues_within = 1_000
 organization_name = "Code for Greenville"

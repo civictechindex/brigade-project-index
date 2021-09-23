@@ -4,4 +4,5 @@ git_branch = "main"
 git_url = "git://github.com/codefordenver/partner-finder.git"
 last_pushed_within = "week"
 name = "partner-finder"
+open_issues_within = 100
 organization_name = "Code for Denver"

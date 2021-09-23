@@ -5,6 +5,7 @@ git_url = "git://github.com/opensavannah/savannahbudget.party.git"
 last_pushed_within = "over_a_year"
 link_url = "http://savannahbudget.party"
 name = "savannahbudget.party"
+open_issues_within = 10
 organization_name = "Open Savannah"
 topics = [
   "budget-simulation",

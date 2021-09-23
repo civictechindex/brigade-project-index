@@ -4,4 +4,5 @@ git_url = "git://github.com/openchattanooga/cpd-zones.git"
 last_pushed_within = "over_a_year"
 link_url = "http://openchattanooga.github.io/cpd-zones/"
 name = "cpd-zones"
+open_issues_within = 10
 organization_name = "Open Chattanooga"

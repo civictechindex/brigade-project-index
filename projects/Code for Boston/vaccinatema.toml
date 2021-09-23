@@ -4,4 +4,5 @@ git_url = "git://github.com/codeforboston/vaccinatema.git"
 last_pushed_within = "year"
 link_url = "https://vaccinatema.com"
 name = "vaccinatema"
+open_issues_within = 10
 organization_name = "Code for Boston"

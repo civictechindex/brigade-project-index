@@ -3,4 +3,5 @@ git_branch = "master"
 git_url = "git://github.com/sfbrigade/bats-server.git"
 last_pushed_within = "week"
 name = "bats-server"
+open_issues_within = 10
 organization_name = "Code for San Francisco"

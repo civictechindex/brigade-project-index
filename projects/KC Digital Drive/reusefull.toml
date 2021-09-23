@@ -4,5 +4,6 @@ git_branch = "master"
 git_url = "git://github.com/codeforkansascity/reusefull.git"
 last_pushed_within = "year"
 name = "reusefull"
+open_issues_within = 100
 organization_name = "KC Digital Drive"
 topics = [ "code-for-america", "code-for-kc", "nonprofit-organizations" ]

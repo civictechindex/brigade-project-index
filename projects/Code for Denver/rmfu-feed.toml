@@ -4,4 +4,5 @@ git_url = "git://github.com/codefordenver/rmfu-feed.git"
 last_pushed_within = "over_a_year"
 link_url = "https://feed.rmfu.org"
 name = "rmfu-feed"
+open_issues_within = 100
 organization_name = "Code for Denver"

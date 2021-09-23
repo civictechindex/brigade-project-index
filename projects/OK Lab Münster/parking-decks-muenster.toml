@@ -5,4 +5,5 @@ git_url = "git://github.com/codeformuenster/parking-decks-muenster.git"
 last_pushed_within = "week"
 link_url = "https://github.com/codeformuenster/parking-decks-muenster"
 name = "parking-decks-muenster"
+open_issues_within = 10
 organization_name = "OK Lab Münster"

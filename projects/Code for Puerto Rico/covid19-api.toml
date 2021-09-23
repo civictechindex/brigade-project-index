@@ -5,6 +5,7 @@ git_url = "git://github.com/Code4PuertoRico/covid19-api.git"
 last_pushed_within = "year"
 link_url = "https://covid19-server.chrismichael.now.sh/api/v1"
 name = "covid19-api"
+open_issues_within = 100
 organization_name = "Code for Puerto Rico"
 topics = [
   "api",

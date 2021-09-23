@@ -4,4 +4,5 @@ git_branch = "master"
 git_url = "git://github.com/codeforseoul/seoul_serenity--deprecated.git"
 last_pushed_within = "over_a_year"
 name = "seoul_serenity--deprecated"
+open_issues_within = 100
 organization_name = "CodeNamu"

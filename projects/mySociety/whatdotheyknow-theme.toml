@@ -5,5 +5,6 @@ git_url = "git://github.com/mysociety/whatdotheyknow-theme.git"
 last_pushed_within = "month"
 link_url = "http://www.whatdotheyknow.com/"
 name = "whatdotheyknow-theme"
+open_issues_within = 1_000
 organization_name = "mySociety"
 topics = [ "alaveteli", "alaveteli-theme", "whatdotheyknow" ]

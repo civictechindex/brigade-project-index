@@ -4,4 +4,5 @@ git_branch = "master"
 git_url = "git://github.com/OpenUpSA/protest-guide.git"
 last_pushed_within = "over_a_year"
 name = "protest-guide"
+open_issues_within = 10
 organization_name = "OpenUp"

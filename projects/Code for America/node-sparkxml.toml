@@ -4,4 +4,5 @@ git_branch = "master"
 git_url = "git://github.com/codeforamerica/node-sparkxml.git"
 last_pushed_within = "over_a_year"
 name = "node-sparkxml"
+open_issues_within = 10
 organization_name = "Code for America"

@@ -4,4 +4,5 @@ git_branch = "master"
 git_url = "git://github.com/slashroots/jas-mis-app.git"
 last_pushed_within = "over_a_year"
 name = "jas-mis-app"
+open_issues_within = 100
 organization_name = "SlashRoots Foundation"

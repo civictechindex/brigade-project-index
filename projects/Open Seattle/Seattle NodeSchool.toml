@@ -4,5 +4,6 @@ git_branch = "master"
 last_pushed_within = "over_a_year"
 link_url = "http://nodeschool.io/seattle/"
 name = "Seattle NodeSchool"
+open_issues_within = 10
 organization_name = "Open Seattle"
 status = "live/ongoing"

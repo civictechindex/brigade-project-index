@@ -5,4 +5,5 @@ git_url = "git://github.com/code4romania/catalog-politic-form.git"
 last_pushed_within = "week"
 link_url = "http://catalogpolitic.ro"
 name = "catalog-politic-form"
+open_issues_within = 100
 organization_name = "Code for Romania: Cluj Chapter"

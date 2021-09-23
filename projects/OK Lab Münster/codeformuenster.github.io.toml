@@ -5,4 +5,5 @@ git_url = "git://github.com/codeformuenster/codeformuenster.github.io.git"
 last_pushed_within = "year"
 link_url = "http://codeformuenster.org"
 name = "codeformuenster.github.io"
+open_issues_within = 10
 organization_name = "OK Lab Münster"

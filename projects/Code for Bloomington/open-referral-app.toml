@@ -4,4 +4,5 @@ git_branch = "master"
 git_url = "git://github.com/BMGhack/open-referral-app.git"
 last_pushed_within = "over_a_year"
 name = "open-referral-app"
+open_issues_within = 10
 organization_name = "Code for Bloomington"

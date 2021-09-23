@@ -5,5 +5,6 @@ git_url = "git://github.com/Code4HR/brigade.git"
 last_pushed_within = "over_a_year"
 link_url = "brigade.codeforamerica.org"
 name = "brigade"
+open_issues_within = 10
 organization_name = "Code for Hampton Roads"
 topics = [ "deprecated" ]

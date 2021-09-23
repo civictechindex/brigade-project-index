@@ -5,4 +5,5 @@ git_url = "git://github.com/sfbrigade/citygram-sf-registries.git"
 last_pushed_within = "over_a_year"
 link_url = "https://citygram-sf-registries.herokuapp.com/"
 name = "citygram-sf-registries"
+open_issues_within = 10
 organization_name = "Code for San Francisco"

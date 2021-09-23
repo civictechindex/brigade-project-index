@@ -3,4 +3,5 @@ git_branch = "master"
 git_url = "git://github.com/g0v/listening_api.git"
 last_pushed_within = "over_a_year"
 name = "listening_api"
+open_issues_within = 10
 organization_name = "g0v.tw"

@@ -5,6 +5,7 @@ git_url = "git://github.com/CodeForBuffalo/affordable_water.git"
 last_pushed_within = "year"
 link_url = "https://getwaterwisebuffalo.org/"
 name = "affordable_water"
+open_issues_within = 10
 organization_name = "Code for Buffalo"
 topics = [
   "affordability",

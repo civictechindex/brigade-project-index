@@ -4,4 +4,5 @@ git_branch = "master"
 git_url = "git://github.com/codeforkyana/swap.git"
 last_pushed_within = "month"
 name = "swap"
+open_issues_within = 10
 organization_name = "Code for Kentuckiana"

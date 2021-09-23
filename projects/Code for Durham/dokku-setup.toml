@@ -4,4 +4,5 @@ git_branch = "master"
 git_url = "git://github.com/codefordurham/dokku-setup.git"
 last_pushed_within = "over_a_year"
 name = "dokku-setup"
+open_issues_within = 10
 organization_name = "Code for Durham"

@@ -3,5 +3,6 @@ git_branch = "master"
 git_url = "git://github.com/codeformuenster/traffic-cam.git"
 last_pushed_within = "year"
 name = "traffic-cam"
+open_issues_within = 10
 organization_name = "OK Lab Münster"
 topics = [ "mshack20", "mshack2020", "mszaehlt" ]

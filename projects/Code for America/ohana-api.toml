@@ -5,4 +5,5 @@ git_url = "git://github.com/codeforamerica/ohana-api.git"
 last_pushed_within = "year"
 link_url = "http://ohana-api-demo.herokuapp.com/api"
 name = "ohana-api"
+open_issues_within = 100
 organization_name = "Code for America"

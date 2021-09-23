@@ -5,5 +5,6 @@ git_url = "git://github.com/Code4HR/okcandidate-platform.git"
 last_pushed_within = "month"
 link_url = "https://okcandidate-dev.herokuapp.com/"
 name = "okcandidate-platform"
+open_issues_within = 100
 organization_name = "Code for Hampton Roads"
 topics = [ "active", "official", "okcandidate" ]

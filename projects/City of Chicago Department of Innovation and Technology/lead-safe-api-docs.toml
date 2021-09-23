@@ -4,6 +4,7 @@ git_url = "git://github.com/Chicago/lead-safe-api-docs.git"
 last_pushed_within = "over_a_year"
 link_url = "http://dev.cityofchicago.org/docs/lead-safe/"
 name = "lead-safe-api-docs"
+open_issues_within = 10
 organization_name = "City of Chicago Department of Innovation and Technology"
 topics = [
   "api",

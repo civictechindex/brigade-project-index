@@ -3,4 +3,5 @@ git_branch = "master"
 git_url = "git://github.com/sfbrigade/datasci-caltrain2040.git"
 last_pushed_within = "over_a_year"
 name = "datasci-caltrain2040"
+open_issues_within = 10
 organization_name = "Code for San Francisco"

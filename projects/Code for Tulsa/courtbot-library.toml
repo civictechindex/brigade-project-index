@@ -4,4 +4,5 @@ git_branch = "prod"
 git_url = "git://github.com/codefortulsa/courtbot-library.git"
 last_pushed_within = "week"
 name = "courtbot-library"
+open_issues_within = 10
 organization_name = "Code for Tulsa"

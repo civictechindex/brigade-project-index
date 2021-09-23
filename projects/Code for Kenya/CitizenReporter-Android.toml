@@ -5,4 +5,5 @@ git_url = "git://github.com/CodeForAfrica/CitizenReporter-Android.git"
 last_pushed_within = "over_a_year"
 link_url = "http://citizenreporter.codeforafrica.net/"
 name = "CitizenReporter-Android"
+open_issues_within = 10
 organization_name = "Code for Kenya"

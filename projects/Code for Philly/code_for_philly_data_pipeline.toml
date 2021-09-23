@@ -4,6 +4,7 @@ git_branch = "master"
 last_pushed_within = "year"
 link_url = "https://github.com/CodeForPhilly/cfp-data-pipeline"
 name = "code_for_philly_data_pipeline"
+open_issues_within = 10
 organization_name = "Code for Philly"
 status = "Bootstrapping"
 topics = [ "civic-tech-template" ]

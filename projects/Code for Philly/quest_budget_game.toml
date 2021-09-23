@@ -4,6 +4,7 @@ git_branch = "master"
 last_pushed_within = "over_a_year"
 link_url = "https://codeforphilly.github.io/quest-budget-game/"
 name = "quest_budget_game"
+open_issues_within = 10
 organization_name = "Code for Philly"
 status = "Prototyping"
 topics = [ "CivicEngagement", "Gamification" ]

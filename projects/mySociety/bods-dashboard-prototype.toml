@@ -4,4 +4,5 @@ git_url = "git://github.com/mysociety/bods-dashboard-prototype.git"
 last_pushed_within = "year"
 link_url = "https://mysociety.github.io/bods-dashboard-prototype/"
 name = "bods-dashboard-prototype"
+open_issues_within = 10
 organization_name = "mySociety"

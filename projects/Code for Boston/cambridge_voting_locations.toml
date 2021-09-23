@@ -5,4 +5,5 @@ git_url = "git://github.com/codeforboston/cambridge_voting_locations.git"
 last_pushed_within = "over_a_year"
 link_url = "https://votecambridge.com"
 name = "cambridge_voting_locations"
+open_issues_within = 100
 organization_name = "Code for Boston"

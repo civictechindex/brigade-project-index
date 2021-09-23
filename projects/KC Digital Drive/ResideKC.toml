@@ -5,5 +5,6 @@ git_url = "git://github.com/codeforkansascity/ResideKC.git"
 last_pushed_within = "year"
 link_url = "http://codeforkc.org/ResideKC/"
 name = "ResideKC"
+open_issues_within = 10
 organization_name = "KC Digital Drive"
 topics = [ "code-for-america", "code-for-kc", "neighborhood" ]

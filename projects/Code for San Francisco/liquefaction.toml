@@ -5,4 +5,5 @@ git_url = "git://github.com/sfbrigade/liquefaction.git"
 last_pushed_within = "over_a_year"
 link_url = "http://www.sfgsa.org/index.aspx?page=6048"
 name = "liquefaction"
+open_issues_within = 10
 organization_name = "Code for San Francisco"

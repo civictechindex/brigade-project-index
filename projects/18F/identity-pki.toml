@@ -4,5 +4,6 @@ git_branch = "main"
 git_url = "git://github.com/18F/identity-pki.git"
 last_pushed_within = "week"
 name = "identity-pki"
+open_issues_within = 10
 organization_name = "18F"
 topics = [ "login-gov" ]

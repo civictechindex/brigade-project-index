@@ -5,4 +5,5 @@ git_url = "git://github.com/Code4PuertoRico/slackin-extended.git"
 last_pushed_within = "year"
 link_url = "https://slackin-extended.emedvedev.now.sh"
 name = "slackin-extended"
+open_issues_within = 100
 organization_name = "Code for Puerto Rico"

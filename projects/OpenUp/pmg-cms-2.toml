@@ -5,6 +5,7 @@ git_url = "git://github.com/OpenUpSA/pmg-cms-2.git"
 last_pushed_within = "year"
 link_url = "https://pmg.org.za/"
 name = "pmg-cms-2"
+open_issues_within = 100
 organization_name = "OpenUp"
 topics = [
   "open-data",

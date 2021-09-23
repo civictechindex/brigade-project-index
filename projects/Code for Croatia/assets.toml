@@ -5,4 +5,5 @@ git_url = "git://github.com/codeforcroatia/assets.git"
 last_pushed_within = "year"
 link_url = "https://a.codeforcroatia.org"
 name = "assets"
+open_issues_within = 10
 organization_name = "Code for Croatia"

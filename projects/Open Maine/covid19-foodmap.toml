@@ -5,6 +5,7 @@ git_url = "git://github.com/OpenMaine/covid19-foodmap.git"
 last_pushed_within = "year"
 link_url = "https://pantries.openmaine.org"
 name = "covid19-foodmap"
+open_issues_within = 100
 organization_name = "Open Maine"
 topics = [
   "codeforamerica",

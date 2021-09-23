@@ -4,4 +4,5 @@ git_branch = "master"
 git_url = "git://github.com/OpenUpSA/react-webapp-starters.git"
 last_pushed_within = "over_a_year"
 name = "react-webapp-starters"
+open_issues_within = 10
 organization_name = "OpenUp"

@@ -4,4 +4,5 @@ git_branch = "next"
 git_url = "git://github.com/codeforatlanta/mobilize.git"
 last_pushed_within = "over_a_year"
 name = "mobilize"
+open_issues_within = 10
 organization_name = "Code for Atlanta"

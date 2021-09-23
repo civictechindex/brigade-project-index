@@ -4,6 +4,7 @@ git_branch = "master"
 last_pushed_within = "year"
 link_url = "https://hackadashery.github.io/"
 name = "philly_311_dashboard"
+open_issues_within = 10
 organization_name = "Code for Philly"
 status = "Prototyping"
 topics = [ "311 data", "dashboard" ]

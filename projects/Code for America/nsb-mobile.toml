@@ -4,4 +4,5 @@ git_branch = "gh-pages"
 git_url = "git://github.com/codeforamerica/nsb-mobile.git"
 last_pushed_within = "over_a_year"
 name = "nsb-mobile"
+open_issues_within = 10
 organization_name = "Code for America"

@@ -5,6 +5,7 @@ git_url = "git://github.com/codeformunich/radlquartier.git"
 last_pushed_within = "over_a_year"
 link_url = "http://mvg.manuel.red/"
 name = "radlquartier"
+open_issues_within = 10
 organization_name = "OK Lab München"
 topics = [
   "data-science",

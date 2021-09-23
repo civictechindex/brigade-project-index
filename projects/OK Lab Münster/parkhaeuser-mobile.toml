@@ -5,4 +5,5 @@ git_url = "git://github.com/codeformuenster/parkhaeuser-mobile.git"
 last_pushed_within = "year"
 link_url = "http://codeformuenster.org/parkhaeuser-mobile/"
 name = "parkhaeuser-mobile"
+open_issues_within = 100
 organization_name = "OK Lab Münster"

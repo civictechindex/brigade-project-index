@@ -3,6 +3,7 @@ description = "Philadelphia is among the cities hit hardest by the opioid crisis
 git_branch = "master"
 last_pushed_within = "week"
 name = "matchmapper"
+open_issues_within = 100
 organization_name = "Code for Philly"
 status = "Prototyping"
 topics = [

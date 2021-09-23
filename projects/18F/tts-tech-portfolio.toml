@@ -5,4 +5,5 @@ git_url = "git://github.com/18F/tts-tech-portfolio.git"
 last_pushed_within = "week"
 link_url = "https://handbook.tts.gsa.gov/office-of-solutions/tech-portfolio/"
 name = "tts-tech-portfolio"
+open_issues_within = 1_000
 organization_name = "18F"

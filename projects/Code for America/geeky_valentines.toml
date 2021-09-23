@@ -5,4 +5,5 @@ git_url = "git://github.com/codeforamerica/geeky_valentines.git"
 last_pushed_within = "over_a_year"
 link_url = "http://cfavalentines.herokuapp.com/"
 name = "geeky_valentines"
+open_issues_within = 10
 organization_name = "Code for America"

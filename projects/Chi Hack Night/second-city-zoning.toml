@@ -1,6 +1,7 @@
 code_url = "https://github.com/open-city/second-city-zoning"
 git_branch = "master"
 last_pushed_within = "year"
+link_url = "https://secondcityzoning.org"
 name = "second-city-zoning"
 organization_name = "Chi Hack Night"
 topics = [ "chicago", "city-zoning", "javascript" ]

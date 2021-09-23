@@ -5,4 +5,5 @@ git_url = "git://github.com/CodeandoMexico/tu-plataforma-abierta.git"
 last_pushed_within = "over_a_year"
 link_url = "http://tu-plataforma-abierta.herokuapp.com"
 name = "tu-plataforma-abierta"
+open_issues_within = 10
 organization_name = "Codeando México"

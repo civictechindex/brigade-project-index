@@ -4,4 +4,5 @@ git_url = "git://github.com/codefordenver/renters-help.git"
 last_pushed_within = "year"
 link_url = "https://codefornebraska.github.io/renters-help/"
 name = "renters-help"
+open_issues_within = 10
 organization_name = "Code for Denver"

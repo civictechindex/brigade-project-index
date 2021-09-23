@@ -3,4 +3,5 @@ git_branch = "gh-pages"
 git_url = "git://github.com/codeforcroatia/jkan.git"
 last_pushed_within = "year"
 name = "jkan"
+open_issues_within = 100
 organization_name = "Code for Croatia"

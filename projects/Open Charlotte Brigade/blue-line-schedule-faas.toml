@@ -4,4 +4,5 @@ git_branch = "master"
 git_url = "git://github.com/OpenCLTBrigade/blue-line-schedule-faas.git"
 last_pushed_within = "month"
 name = "blue-line-schedule-faas"
+open_issues_within = 100
 organization_name = "Open Charlotte Brigade"

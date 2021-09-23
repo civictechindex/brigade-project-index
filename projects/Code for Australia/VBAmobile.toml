@@ -4,4 +4,5 @@ git_branch = "master"
 git_url = "git://github.com/CodeforAustralia/VBAmobile.git"
 last_pushed_within = "over_a_year"
 name = "VBAmobile"
+open_issues_within = 10
 organization_name = "Code for Australia"

@@ -4,5 +4,6 @@ git_branch = "master"
 last_pushed_within = "over_a_year"
 link_url = "http://lucasw.github.io/gmap/census.html"
 name = "Seattle Miscellaneous Maps"
+open_issues_within = 10
 organization_name = "Open Seattle"
 status = "in progress"

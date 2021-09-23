@@ -3,6 +3,7 @@ description = "Prevention Point collects data via handwritten forms. This projec
 git_branch = "master"
 last_pushed_within = "over_a_year"
 name = "computer_vision_for_prevention_point_forms"
+open_issues_within = 10
 organization_name = "Code for Philly"
 status = "Prototyping"
 topics = [ "Computer Vision" ]

@@ -3,6 +3,7 @@ description = "Repositorio base para todo proyecto en Code 4 Puerto Rico"
 git_branch = "master"
 git_url = "git://github.com/Code4PuertoRico/base-repo.git"
 last_pushed_within = "over_a_year"
+link_url = { }
 name = "base-repo"
 organization_name = "Code4PuertoRico"
 topics = [

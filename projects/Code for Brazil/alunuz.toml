@@ -5,4 +5,5 @@ git_url = "git://github.com/CodeForBrazil/alunuz.git"
 last_pushed_within = "over_a_year"
 link_url = "http://codeforbrazil.github.io/alunuz/frontend"
 name = "alunuz"
+open_issues_within = 10
 organization_name = "Code for Brazil"

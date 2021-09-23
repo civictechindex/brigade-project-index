@@ -5,6 +5,7 @@ git_url = "git://github.com/hackforla/covid19-help.git"
 last_pushed_within = "over_a_year"
 link_url = "https://sites.google.com/view/lacommunityresources/population-groups"
 name = "covid19-help"
+open_issues_within = 10
 organization_name = "Hack for LA Brigade"
 topics = [
   "civictechindex",

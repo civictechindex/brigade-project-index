@@ -3,4 +3,5 @@ git_branch = "master"
 git_url = "git://github.com/codeforamerica/Mission-Vision-and-Operating-Principles.git"
 last_pushed_within = "over_a_year"
 name = "Mission-Vision-and-Operating-Principles"
+open_issues_within = 10
 organization_name = "Code for America"

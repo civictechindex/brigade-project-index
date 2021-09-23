@@ -5,4 +5,5 @@ git_url = "git://github.com/opendenton/opendenton.github.io.git"
 last_pushed_within = "over_a_year"
 link_url = "https://www.opendenton.com"
 name = "opendenton.github.io"
+open_issues_within = 10
 organization_name = "Open Denton"

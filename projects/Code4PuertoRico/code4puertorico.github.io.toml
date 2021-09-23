@@ -5,6 +5,7 @@ git_url = "git://github.com/Code4PuertoRico/code4puertorico.github.io.git"
 last_pushed_within = "year"
 link_url = "http://code4puertorico.org"
 name = "code4puertorico.github.io"
+open_issues_within = 10
 organization_name = "Code4PuertoRico"
 topics = [
   "code-for-all",

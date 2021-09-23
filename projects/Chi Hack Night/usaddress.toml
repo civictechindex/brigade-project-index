@@ -1,7 +1,9 @@
 code_url = "https://github.com/datamade/usaddress"
 git_branch = "master"
 last_pushed_within = "year"
+link_url = "https://parserator.datamade.us/usaddress"
 name = "usaddress"
+open_issues_within = 1_000
 organization_name = "Chi Hack Night"
 topics = [
   "address",

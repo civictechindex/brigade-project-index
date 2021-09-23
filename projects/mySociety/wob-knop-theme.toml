@@ -4,5 +4,6 @@ git_branch = "master"
 git_url = "git://github.com/mysociety/wob-knop-theme.git"
 last_pushed_within = "year"
 name = "wob-knop-theme"
+open_issues_within = 10
 organization_name = "mySociety"
 topics = [ "alaveteli", "alaveteli-theme" ]

@@ -3,4 +3,5 @@ git_branch = "main"
 git_url = "git://github.com/18F/content-governance-playbook.git"
 last_pushed_within = "year"
 name = "content-governance-playbook"
+open_issues_within = 10
 organization_name = "18F"

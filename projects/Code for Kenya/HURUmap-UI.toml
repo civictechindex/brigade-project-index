@@ -5,6 +5,7 @@ git_url = "git://github.com/CodeForAfrica/HURUmap-UI.git"
 last_pushed_within = "month"
 link_url = "https://codeforafrica.github.io/HURUmap-UI/"
 name = "HURUmap-UI"
+open_issues_within = 10
 organization_name = "Code for Kenya"
 topics = [
   "charts",

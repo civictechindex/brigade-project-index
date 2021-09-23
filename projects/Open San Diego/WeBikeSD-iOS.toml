@@ -4,5 +4,6 @@ git_branch = "develop"
 git_url = "git://github.com/opensandiego/WeBikeSD-iOS.git"
 last_pushed_within = "over_a_year"
 name = "WeBikeSD-iOS"
+open_issues_within = 10
 organization_name = "Open San Diego"
 topics = [ "inactive", "open-san-diego" ]

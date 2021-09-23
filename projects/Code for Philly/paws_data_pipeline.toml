@@ -3,6 +3,7 @@ description = "WHO IS PAWS - As the city's largest animal rescue partner and no-
 git_branch = "master"
 last_pushed_within = "week"
 name = "paws_data_pipeline"
+open_issues_within = 100
 organization_name = "Code for Philly"
 status = "Prototyping"
 topics = [ "Animal Shelters/Pet Adoption", "data management" ]

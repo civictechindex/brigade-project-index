@@ -5,6 +5,7 @@ git_url = "git://github.com/mysociety/alaveteli.git"
 last_pushed_within = "week"
 link_url = "https://alaveteli.org"
 name = "alaveteli"
+open_issues_within = "over_1000"
 organization_name = "mySociety"
 topics = [
   "access-to-information",

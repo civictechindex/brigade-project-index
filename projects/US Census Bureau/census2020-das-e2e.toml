@@ -4,4 +4,5 @@ git_branch = "master"
 git_url = "git://github.com/uscensusbureau/census2020-das-e2e.git"
 last_pushed_within = "over_a_year"
 name = "census2020-das-e2e"
+open_issues_within = 10
 organization_name = "US Census Bureau"

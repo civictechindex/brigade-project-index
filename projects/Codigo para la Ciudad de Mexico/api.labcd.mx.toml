@@ -5,4 +5,5 @@ git_url = "git://github.com/LabPLC/api.labcd.mx.git"
 last_pushed_within = "over_a_year"
 link_url = "http://api.labcd.mx"
 name = "api.labcd.mx"
+open_issues_within = 10
 organization_name = "Codigo para la Ciudad de Mexico"

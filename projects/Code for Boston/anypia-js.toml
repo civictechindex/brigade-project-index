@@ -5,6 +5,7 @@ git_url = "git://github.com/codeforboston/anypia-js.git"
 last_pushed_within = "year"
 link_url = "https://ssacalculator.org/"
 name = "anypia-js"
+open_issues_within = 10
 organization_name = "Code for Boston"
 topics = [
   "code-for-america",

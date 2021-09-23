@@ -4,4 +4,5 @@ git_branch = "master"
 git_url = "git://github.com/codefordenver/cdphe-accessible-covid19.git"
 last_pushed_within = "year"
 name = "cdphe-accessible-covid19"
+open_issues_within = 10
 organization_name = "Code for Denver"

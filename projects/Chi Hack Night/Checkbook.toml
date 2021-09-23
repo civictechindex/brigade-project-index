@@ -1,6 +1,8 @@
 code_url = "https://github.com/NYCComptroller/Checkbook"
 git_branch = "nycha"
 last_pushed_within = "week"
+link_url = "https://checkbooknyc.com/"
 name = "Checkbook"
+open_issues_within = 100
 organization_name = "Chi Hack Night"
 topics = [ "checkbook-nyc", "comptroller-nyc-gov" ]

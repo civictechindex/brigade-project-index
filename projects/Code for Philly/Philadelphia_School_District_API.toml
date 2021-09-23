@@ -3,6 +3,7 @@ description = "A simple LAMP-based REST API for Philadelphia School District dat
 git_branch = "master"
 last_pushed_within = "over_a_year"
 name = "Philadelphia_School_District_API"
+open_issues_within = 10
 organization_name = "Code for Philly"
 status = "Hibernating"
 topics = [ "Education" ]

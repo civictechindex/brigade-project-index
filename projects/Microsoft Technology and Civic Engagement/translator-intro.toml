@@ -5,4 +5,5 @@ git_url = "git://github.com/MicrosoftTCE/translator-intro.git"
 last_pushed_within = "over_a_year"
 link_url = "https://microsofttce.github.io/translator-intro/"
 name = "translator-intro"
+open_issues_within = 10
 organization_name = "Microsoft Technology and Civic Engagement"

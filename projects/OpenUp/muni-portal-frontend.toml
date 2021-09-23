@@ -5,4 +5,5 @@ git_url = "git://github.com/OpenUpSA/muni-portal-frontend.git"
 last_pushed_within = "week"
 link_url = "https://app.capeagulhas.org.za"
 name = "muni-portal-frontend"
+open_issues_within = 100
 organization_name = "OpenUp"

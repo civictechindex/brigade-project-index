@@ -4,4 +4,5 @@ git_branch = "master"
 git_url = "git://github.com/codeforanchorage/realtime-bus-sms.git"
 last_pushed_within = "year"
 name = "realtime-bus-sms"
+open_issues_within = 100
 organization_name = "Code for Anchorage"

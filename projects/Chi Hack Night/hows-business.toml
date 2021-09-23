@@ -1,5 +1,7 @@
 code_url = "https://github.com/open-city/hows-business"
 git_branch = "master"
 last_pushed_within = "over_a_year"
+link_url = "http://howsbusiness.opencityapps.org/"
 name = "hows-business"
+open_issues_within = 10
 organization_name = "Chi Hack Night"

@@ -5,6 +5,7 @@ git_url = "git://github.com/codeforamerica/brigade-project-index-statusboard.git
 last_pushed_within = "week"
 link_url = "https://projects.brigade.network"
 name = "brigade-project-index-statusboard"
+open_issues_within = 100
 organization_name = "Code for America"
 topics = [
   "brigade",

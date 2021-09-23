@@ -4,4 +4,5 @@ git_branch = "main"
 git_url = "git://github.com/OpenEugene/little-help-book-print.git"
 last_pushed_within = "week"
 name = "little-help-book-print"
+open_issues_within = 10
 organization_name = "Open Eugene"

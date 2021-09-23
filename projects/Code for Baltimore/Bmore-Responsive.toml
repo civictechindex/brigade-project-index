@@ -4,6 +4,7 @@ git_branch = "master"
 git_url = "git://github.com/CodeForBaltimore/Bmore-Responsive.git"
 last_pushed_within = "month"
 name = "Bmore-Responsive"
+open_issues_within = 100
 organization_name = "Code for Baltimore"
 topics = [
   "api",

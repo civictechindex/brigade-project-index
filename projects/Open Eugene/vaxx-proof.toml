@@ -4,4 +4,5 @@ git_branch = "main"
 git_url = "git://github.com/OpenEugene/vaxx-proof.git"
 last_pushed_within = "year"
 name = "vaxx-proof"
+open_issues_within = 10
 organization_name = "Open Eugene"

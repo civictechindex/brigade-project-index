@@ -4,4 +4,5 @@ git_branch = "master"
 git_url = "git://github.com/codefordenver/music-volunteers-app.git"
 last_pushed_within = "over_a_year"
 name = "music-volunteers-app"
+open_issues_within = 10
 organization_name = "Code for Denver"

@@ -4,4 +4,5 @@ git_branch = "master"
 git_url = "git://github.com/codeisland/RI-Budget-Sankey-2.0-Source-Function-Agency.git"
 last_pushed_within = "over_a_year"
 name = "RI-Budget-Sankey-2.0-Source-Function-Agency"
+open_issues_within = 10
 organization_name = "Code Island"

@@ -4,5 +4,6 @@ git_branch = "master"
 git_url = "git://github.com/opensavannah/2018-retrospective.git"
 last_pushed_within = "over_a_year"
 name = "2018-retrospective"
+open_issues_within = 10
 organization_name = "Open Savannah"
 topics = [ "civic-tech", "retrospective" ]

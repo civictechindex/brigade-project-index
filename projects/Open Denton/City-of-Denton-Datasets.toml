@@ -4,4 +4,5 @@ git_branch = "master"
 git_url = "git://github.com/opendenton/City-of-Denton-Datasets.git"
 last_pushed_within = "over_a_year"
 name = "City-of-Denton-Datasets"
+open_issues_within = 1_000
 organization_name = "Open Denton"

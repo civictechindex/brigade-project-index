@@ -5,4 +5,5 @@ git_url = "git://github.com/Chicago/census2020_ward_rpt.git"
 last_pushed_within = "year"
 link_url = "https://www.chicago.gov/city/en/sites/census2020/home/ward-reports.html"
 name = "census2020_ward_rpt"
+open_issues_within = 10
 organization_name = "City of Chicago Department of Innovation and Technology"

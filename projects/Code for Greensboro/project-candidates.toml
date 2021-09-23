@@ -4,4 +4,5 @@ git_branch = "master"
 git_url = "git://github.com/codeforgso/project-candidates.git"
 last_pushed_within = "over_a_year"
 name = "project-candidates"
+open_issues_within = 10
 organization_name = "Code for Greensboro"

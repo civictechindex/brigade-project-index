@@ -5,6 +5,7 @@ git_url = "git://github.com/codeforkansascity/Neighborhood-Dashboard.git"
 last_pushed_within = "year"
 link_url = "https://neighborhood-dashboard.codeforkc.org/"
 name = "Neighborhood-Dashboard"
+open_issues_within = 100
 organization_name = "KC Digital Drive"
 topics = [
   "code-for-america",

@@ -5,4 +5,5 @@ git_url = "git://github.com/codeforamerica/open311_php.git"
 last_pushed_within = "over_a_year"
 link_url = "http://wiki.open311.org/API"
 name = "open311_php"
+open_issues_within = 10
 organization_name = "Code for America"

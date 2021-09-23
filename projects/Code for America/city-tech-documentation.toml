@@ -4,4 +4,5 @@ git_branch = "master"
 git_url = "git://github.com/codeforamerica/city-tech-documentation.git"
 last_pushed_within = "over_a_year"
 name = "city-tech-documentation"
+open_issues_within = 10
 organization_name = "Code for America"

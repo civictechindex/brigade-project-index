@@ -4,4 +4,5 @@ git_branch = "main"
 git_url = "git://github.com/18F/tts-common-controls.git"
 last_pushed_within = "year"
 name = "tts-common-controls"
+open_issues_within = 10
 organization_name = "18F"

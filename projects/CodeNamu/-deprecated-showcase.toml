@@ -4,4 +4,5 @@ git_branch = "parse"
 git_url = "git://github.com/codeforseoul/-deprecated-showcase.git"
 last_pushed_within = "over_a_year"
 name = "-deprecated-showcase"
+open_issues_within = 10
 organization_name = "CodeNamu"

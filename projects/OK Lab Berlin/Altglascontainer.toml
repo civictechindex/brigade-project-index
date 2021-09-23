@@ -9,4 +9,5 @@ git_branch = "gh-pages"
 last_pushed_within = "over_a_year"
 link_url = "https://k-nut.github.io/altglas/"
 name = "Altglascontainer"
+open_issues_within = 10
 organization_name = "OK Lab Berlin"

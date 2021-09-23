@@ -3,4 +3,5 @@ git_branch = "master"
 git_url = "git://github.com/sketch-city/reportyourhours-dot-com.git"
 last_pushed_within = "over_a_year"
 name = "reportyourhours-dot-com"
+open_issues_within = 10
 organization_name = "Sketch City (Houston)"

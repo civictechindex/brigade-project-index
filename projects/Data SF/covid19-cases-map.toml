@@ -5,4 +5,5 @@ git_url = "git://github.com/DataSF/covid19-cases-map.git"
 last_pushed_within = "year"
 link_url = "https://data.sfgov.org/stories/s/adm5-wq8i"
 name = "covid19-cases-map"
+open_issues_within = 10
 organization_name = "Data SF"

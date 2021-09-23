@@ -4,4 +4,5 @@ git_url = "git://github.com/codeforamerica/lunch-club.git"
 last_pushed_within = "over_a_year"
 link_url = "http://radiant-atoll-7475.herokuapp.com/"
 name = "lunch-club"
+open_issues_within = 10
 organization_name = "Code for America"

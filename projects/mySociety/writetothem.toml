@@ -5,6 +5,7 @@ git_url = "git://github.com/mysociety/writetothem.git"
 last_pushed_within = "year"
 link_url = "https://www.writetothem.com"
 name = "writetothem"
+open_issues_within = 1_000
 organization_name = "mySociety"
 topics = [
   "civic-tech",

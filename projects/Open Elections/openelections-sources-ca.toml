@@ -4,4 +4,5 @@ git_branch = "master"
 git_url = "git://github.com/openelections/openelections-sources-ca.git"
 last_pushed_within = "year"
 name = "openelections-sources-ca"
+open_issues_within = 10
 organization_name = "Open Elections"

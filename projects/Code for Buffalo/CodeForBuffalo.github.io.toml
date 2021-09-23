@@ -4,4 +4,5 @@ git_branch = "master"
 git_url = "git://github.com/CodeForBuffalo/CodeForBuffalo.github.io.git"
 last_pushed_within = "year"
 name = "CodeForBuffalo.github.io"
+open_issues_within = 10
 organization_name = "Code for Buffalo"

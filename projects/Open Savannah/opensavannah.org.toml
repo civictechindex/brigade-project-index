@@ -5,6 +5,7 @@ git_url = "git://github.com/opensavannah/opensavannah.org.git"
 last_pushed_within = "year"
 link_url = "https://opensavannah.org"
 name = "opensavannah.org"
+open_issues_within = 10
 organization_name = "Open Savannah"
 topics = [
   "bootstrap3",

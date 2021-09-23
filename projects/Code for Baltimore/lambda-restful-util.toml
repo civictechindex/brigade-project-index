@@ -4,5 +4,6 @@ git_branch = "main"
 git_url = "git://github.com/CodeForBaltimore/lambda-restful-util.git"
 last_pushed_within = "year"
 name = "lambda-restful-util"
+open_issues_within = 10
 organization_name = "Code for Baltimore"
 topics = [ "api-rest", "lambda", "typescript", "utility" ]

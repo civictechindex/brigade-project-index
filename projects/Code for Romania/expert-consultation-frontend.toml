@@ -4,4 +4,5 @@ git_url = "git://github.com/code4romania/expert-consultation-frontend.git"
 last_pushed_within = "year"
 link_url = "expert-consultation-frontend.vercel.app"
 name = "expert-consultation-frontend"
+open_issues_within = 10
 organization_name = "Code for Romania"

@@ -5,6 +5,7 @@ git_url = "git://github.com/CodeForAfrica/sourceAFRICA.app-Briefcase.git"
 last_pushed_within = "over_a_year"
 link_url = "https://sourceafrica.net/"
 name = "sourceAFRICA.app-Briefcase"
+open_issues_within = 10
 organization_name = "Code for Nigeria"
 topics = [
   "africa",

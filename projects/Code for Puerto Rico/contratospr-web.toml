@@ -5,6 +5,7 @@ git_url = "git://github.com/Code4PuertoRico/contratospr-web.git"
 last_pushed_within = "week"
 link_url = "https://contratospr.com"
 name = "contratospr-web"
+open_issues_within = 100
 organization_name = "Code for Puerto Rico"
 topics = [
   "civic-tech",

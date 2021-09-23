@@ -4,4 +4,5 @@ git_branch = "master"
 git_url = "git://github.com/slashroots/slashroots-static-website.git"
 last_pushed_within = "over_a_year"
 name = "slashroots-static-website"
+open_issues_within = 10
 organization_name = "SlashRoots Foundation"

@@ -3,4 +3,5 @@ git_branch = "master"
 git_url = "git://github.com/opendata-heilbronn/cowo-infotainment.git"
 last_pushed_within = "over_a_year"
 name = "cowo-infotainment"
+open_issues_within = 10
 organization_name = "OK Lab Heilbronn"

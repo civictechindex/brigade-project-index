@@ -4,5 +4,6 @@ git_branch = "master"
 git_url = "git://github.com/codeforokc/open-data-policy.git"
 last_pushed_within = "over_a_year"
 name = "open-data-policy"
+open_issues_within = 10
 organization_name = "Code for OKC"
 topics = [ "civic-tech", "open-data" ]

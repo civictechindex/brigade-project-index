@@ -3,4 +3,5 @@ git_branch = "master"
 git_url = "git://github.com/codeforcologne/PublicDepartCologne-Backend.git"
 last_pushed_within = "over_a_year"
 name = "PublicDepartCologne-Backend"
+open_issues_within = 10
 organization_name = "OK Lab Köln"

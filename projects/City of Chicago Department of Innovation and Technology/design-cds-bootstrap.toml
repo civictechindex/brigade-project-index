@@ -5,4 +5,5 @@ git_url = "git://github.com/Chicago/design-cds-bootstrap.git"
 last_pushed_within = "year"
 link_url = "https://chicago.github.io/design-cds-bootstrap/"
 name = "design-cds-bootstrap"
+open_issues_within = 100
 organization_name = "City of Chicago Department of Innovation and Technology"

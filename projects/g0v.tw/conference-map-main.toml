@@ -5,4 +5,5 @@ git_url = "git://github.com/g0v/conference-map-main.git"
 last_pushed_within = "year"
 link_url = "g0v.github.io/conference-map-main"
 name = "conference-map-main"
+open_issues_within = 10
 organization_name = "g0v.tw"

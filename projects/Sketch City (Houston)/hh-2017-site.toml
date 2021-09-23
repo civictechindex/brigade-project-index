@@ -5,4 +5,5 @@ git_url = "git://github.com/sketch-city/hh-2017-site.git"
 last_pushed_within = "month"
 link_url = "http://houstonhackathon.com/"
 name = "hh-2017-site"
+open_issues_within = 10
 organization_name = "Sketch City (Houston)"

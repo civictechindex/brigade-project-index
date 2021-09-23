@@ -5,4 +5,5 @@ git_url = "git://github.com/codeforamerica/search-rvahealth.git"
 last_pushed_within = "over_a_year"
 link_url = "http://search.rvahealth.org"
 name = "search-rvahealth"
+open_issues_within = 10
 organization_name = "Code for America"

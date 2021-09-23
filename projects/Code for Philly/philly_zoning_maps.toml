@@ -3,6 +3,7 @@ description = "The goal of this project is to map and analyze Philadelphia zonin
 git_branch = "master"
 last_pushed_within = "over_a_year"
 name = "philly_zoning_maps"
+open_issues_within = 10
 organization_name = "Code for Philly"
 status = "Testing"
 topics = [ "data analysis", "Mapping", "Zoning" ]

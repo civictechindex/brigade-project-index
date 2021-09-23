@@ -4,4 +4,5 @@ git_branch = "master"
 git_url = "git://github.com/codefortulsa/tulsa-county-inmate-information-center-api.git"
 last_pushed_within = "over_a_year"
 name = "tulsa-county-inmate-information-center-api"
+open_issues_within = 10
 organization_name = "Code for Tulsa"

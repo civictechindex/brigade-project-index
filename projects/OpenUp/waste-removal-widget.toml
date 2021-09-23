@@ -5,4 +5,5 @@ git_url = "git://github.com/OpenUpSA/waste-removal-widget.git"
 last_pushed_within = "over_a_year"
 link_url = "https://action-takers-waste-removal.netlify.com/"
 name = "waste-removal-widget"
+open_issues_within = 10
 organization_name = "OpenUp"

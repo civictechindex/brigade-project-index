@@ -4,4 +4,5 @@ git_url = "git://github.com/mysociety/confirm-asset-fetcher.git"
 last_pushed_within = "year"
 link_url = "https://www.mysociety.org/"
 name = "confirm-asset-fetcher"
+open_issues_within = 10
 organization_name = "mySociety"

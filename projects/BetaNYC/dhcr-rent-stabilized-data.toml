@@ -3,4 +3,5 @@ git_branch = "master"
 git_url = "git://github.com/BetaNYC/dhcr-rent-stabilized-data.git"
 last_pushed_within = "over_a_year"
 name = "dhcr-rent-stabilized-data"
+open_issues_within = 10
 organization_name = "BetaNYC"

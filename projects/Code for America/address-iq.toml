@@ -5,4 +5,5 @@ git_url = "git://github.com/codeforamerica/address-iq.git"
 last_pushed_within = "over_a_year"
 link_url = "http://www.bit.ly/lbcvid"
 name = "address-iq"
+open_issues_within = 10
 organization_name = "Code for America"

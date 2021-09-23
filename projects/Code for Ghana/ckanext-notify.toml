@@ -4,6 +4,7 @@ git_branch = "master"
 git_url = "git://github.com/CodeForAfrica/ckanext-notify.git"
 last_pushed_within = "over_a_year"
 name = "ckanext-notify"
+open_issues_within = 10
 organization_name = "Code for Ghana"
 topics = [
   "ckan",

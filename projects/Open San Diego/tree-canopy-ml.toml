@@ -4,4 +4,5 @@ git_branch = "main"
 git_url = "git://github.com/opensandiego/tree-canopy-ml.git"
 last_pushed_within = "year"
 name = "tree-canopy-ml"
+open_issues_within = 10
 organization_name = "Open San Diego"

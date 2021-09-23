@@ -3,4 +3,5 @@ git_branch = "master"
 git_url = "git://github.com/codeforireland/transparentwater_backend_old.git"
 last_pushed_within = "year"
 name = "transparentwater_backend_old"
+open_issues_within = 10
 organization_name = "Code for Ireland"

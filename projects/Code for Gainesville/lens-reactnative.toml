@@ -4,4 +4,5 @@ git_branch = "dummy"
 git_url = "git://github.com/c4gnv/lens-reactnative.git"
 last_pushed_within = "over_a_year"
 name = "lens-reactnative"
+open_issues_within = 10
 organization_name = "Code for Gainesville"

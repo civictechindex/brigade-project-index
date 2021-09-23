@@ -5,6 +5,7 @@ git_url = "git://github.com/open-austin/budgetparty.git"
 last_pushed_within = "year"
 link_url = "https://austinbudget.party"
 name = "budgetparty"
+open_issues_within = 100
 organization_name = "Open Austin"
 topics = [
   "austin",

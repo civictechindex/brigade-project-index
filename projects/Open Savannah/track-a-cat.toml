@@ -5,6 +5,7 @@ git_url = "git://github.com/opensavannah/track-a-cat.git"
 last_pushed_within = "over_a_year"
 link_url = "https://opensavannah.github.io/track-a-cat"
 name = "track-a-cat"
+open_issues_within = 10
 organization_name = "Open Savannah"
 topics = [
   "bus",

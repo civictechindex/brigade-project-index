@@ -4,4 +4,5 @@ git_branch = "master"
 git_url = "git://github.com/codeforamerica/food_trucks.git"
 last_pushed_within = "over_a_year"
 name = "food_trucks"
+open_issues_within = 10
 organization_name = "Code for America"

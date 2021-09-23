@@ -4,4 +4,5 @@ git_branch = "main"
 git_url = "git://github.com/codefortulsa/oscn.git"
 last_pushed_within = "year"
 name = "oscn"
+open_issues_within = 10
 organization_name = "Code for Tulsa"

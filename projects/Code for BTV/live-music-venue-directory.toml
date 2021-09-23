@@ -4,5 +4,6 @@ git_branch = "master"
 git_url = "git://github.com/codeforbtv/live-music-venue-directory.git"
 last_pushed_within = "over_a_year"
 name = "live-music-venue-directory"
+open_issues_within = 100
 organization_name = "Code for BTV"
 topics = [ "big-heavy-world" ]

@@ -5,4 +5,5 @@ git_url = "git://github.com/sfbrigade/localfreeweb-sms-api.git"
 last_pushed_within = "over_a_year"
 link_url = "http://localfreeweb.org/"
 name = "localfreeweb-sms-api"
+open_issues_within = 10
 organization_name = "Code for San Francisco"

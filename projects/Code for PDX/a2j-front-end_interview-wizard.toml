@@ -4,6 +4,7 @@ git_branch = "master"
 git_url = "git://github.com/codeforpdx/a2j-front-end_interview-wizard.git"
 last_pushed_within = "over_a_year"
 name = "a2j-front-end_interview-wizard"
+open_issues_within = 10
 organization_name = "Code for PDX"
 topics = [
   "a2j",

@@ -4,4 +4,5 @@ git_branch = "master"
 git_url = "git://github.com/codeforamerica/US-Census-Area-API.git"
 last_pushed_within = "over_a_year"
 name = "US-Census-Area-API"
+open_issues_within = 10
 organization_name = "Code for America"

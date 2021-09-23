@@ -4,4 +4,5 @@ git_branch = "master"
 git_url = "git://github.com/CodeforHawaii/NationalDayOfCivicHacking2016.git"
 last_pushed_within = "over_a_year"
 name = "NationalDayOfCivicHacking2016"
+open_issues_within = 10
 organization_name = "Code for Hawaii"

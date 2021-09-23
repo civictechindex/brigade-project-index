@@ -4,4 +4,5 @@ git_branch = "master"
 git_url = "git://github.com/Chicago/census2020.git"
 last_pushed_within = "year"
 name = "census2020"
+open_issues_within = 10
 organization_name = "City of Chicago Department of Innovation and Technology"

@@ -4,4 +4,5 @@ git_url = "git://github.com/open-austin/harris-county-bookings.git"
 last_pushed_within = "over_a_year"
 link_url = "https://github.com/open-austin/project-ideas/issues/73"
 name = "harris-county-bookings"
+open_issues_within = 10
 organization_name = "Open Austin"

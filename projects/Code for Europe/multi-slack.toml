@@ -4,5 +4,6 @@ git_branch = "master"
 git_url = "git://github.com/codeforeurope/multi-slack.git"
 last_pushed_within = "over_a_year"
 name = "multi-slack"
+open_issues_within = 10
 organization_name = "Code for Europe"
 topics = [ "communication", "slack" ]

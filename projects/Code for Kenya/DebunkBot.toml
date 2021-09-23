@@ -5,6 +5,7 @@ git_url = "git://github.com/CodeForAfrica/DebunkBot.git"
 last_pushed_within = "week"
 link_url = "https://twitter.com/DebunkBotAfrica"
 name = "DebunkBot"
+open_issues_within = 10
 organization_name = "Code for Kenya"
 topics = [
   "africa",

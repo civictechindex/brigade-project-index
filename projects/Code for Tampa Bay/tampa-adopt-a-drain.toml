@@ -4,6 +4,7 @@ git_branch = "master"
 git_url = "git://github.com/code-for-tb/tampa-adopt-a-drain.git"
 last_pushed_within = "over_a_year"
 name = "tampa-adopt-a-drain"
+open_issues_within = 10
 organization_name = "Code for Tampa Bay"
 topics = [
   "brigade",

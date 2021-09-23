@@ -5,5 +5,6 @@ git_url = "git://github.com/OpenMaine/portlandschoolsmap.git"
 last_pushed_within = "over_a_year"
 link_url = "https://www.portlandschools.org/c_o_v_i_d-19/food_distribution_sites"
 name = "portlandschoolsmap"
+open_issues_within = 10
 organization_name = "Open Maine"
 topics = [ "covid-19" ]

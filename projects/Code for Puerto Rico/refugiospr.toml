@@ -3,4 +3,5 @@ git_branch = "master"
 git_url = "git://github.com/Code4PuertoRico/refugiospr.git"
 last_pushed_within = "year"
 name = "refugiospr"
+open_issues_within = 10
 organization_name = "Code for Puerto Rico"

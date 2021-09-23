@@ -5,6 +5,7 @@ git_url = "git://github.com/CodeForFoco/codeforfoco.github.io.git"
 last_pushed_within = "year"
 link_url = "http://codeforfoco.org"
 name = "codeforfoco.github.io"
+open_issues_within = 100
 organization_name = "Code for Fort Collins"
 topics = [
   "civic-hacking",

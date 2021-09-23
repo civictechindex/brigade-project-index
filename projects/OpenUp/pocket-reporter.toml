@@ -5,4 +5,5 @@ git_url = "git://github.com/OpenUpSA/pocket-reporter.git"
 last_pushed_within = "month"
 link_url = "https://app.pocketreporter.co.za"
 name = "pocket-reporter"
+open_issues_within = 100
 organization_name = "OpenUp"

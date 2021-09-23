@@ -1,5 +1,7 @@
 code_url = "https://github.com/vivelohoy/foodinspections"
 git_branch = "master"
 last_pushed_within = "over_a_year"
+link_url = "http://www.eatsafe.co"
 name = "foodinspections"
+open_issues_within = 100
 organization_name = "Chi Hack Night"

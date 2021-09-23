@@ -5,5 +5,6 @@ git_url = "git://github.com/g0v/councilor-voter-guide.git"
 last_pushed_within = "over_a_year"
 link_url = "http://councils.g0v.tw/"
 name = "councilor-voter-guide"
+open_issues_within = 100
 organization_name = "g0v.tw"
 topics = [ "civic-tech", "g0v", "voting" ]

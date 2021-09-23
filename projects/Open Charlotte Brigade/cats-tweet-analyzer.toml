@@ -4,5 +4,6 @@ git_branch = "master"
 git_url = "git://github.com/OpenCLTBrigade/cats-tweet-analyzer.git"
 last_pushed_within = "week"
 name = "cats-tweet-analyzer"
+open_issues_within = 10
 organization_name = "Open Charlotte Brigade"
 topics = [ "clt", "opendata", "transit" ]

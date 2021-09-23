@@ -4,5 +4,6 @@ git_branch = "develop"
 last_pushed_within = "week"
 link_url = "http://cypherphil.ly/"
 name = "cypher_philly"
+open_issues_within = 100
 organization_name = "Code for Philly"
 status = "Prototyping"

@@ -3,4 +3,5 @@ git_branch = "master"
 git_url = "git://github.com/CodeForBuffalo/courtwatch_wp.git"
 last_pushed_within = "year"
 name = "courtwatch_wp"
+open_issues_within = 100
 organization_name = "Code for Buffalo"

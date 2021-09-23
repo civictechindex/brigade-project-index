@@ -4,4 +4,5 @@ git_branch = "master"
 git_url = "git://github.com/CodeForTucson/tech-exchange-for-civic-hackers.git"
 last_pushed_within = "over_a_year"
 name = "tech-exchange-for-civic-hackers"
+open_issues_within = 10
 organization_name = "Code for Tucson"

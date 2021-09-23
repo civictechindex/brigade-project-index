@@ -5,4 +5,5 @@ git_url = "git://github.com/Chicago/design.chicago.gov.git"
 last_pushed_within = "month"
 link_url = "https://design.chicago.gov"
 name = "design.chicago.gov"
+open_issues_within = 10
 organization_name = "City of Chicago Department of Innovation and Technology"

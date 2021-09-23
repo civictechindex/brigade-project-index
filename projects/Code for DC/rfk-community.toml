@@ -5,4 +5,5 @@ git_url = "git://github.com/codefordc/rfk-community.git"
 last_pushed_within = "year"
 link_url = "https://trello.com/b/q5qBa7gj/rfk-project-tracking"
 name = "rfk-community"
+open_issues_within = 10
 organization_name = "Code for DC"

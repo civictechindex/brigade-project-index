@@ -4,4 +4,5 @@ git_branch = "master"
 git_url = "git://github.com/CodeForTucson/oceanic-affect-web-demo.git"
 last_pushed_within = "over_a_year"
 name = "oceanic-affect-web-demo"
+open_issues_within = 10
 organization_name = "Code for Tucson"

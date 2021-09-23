@@ -3,7 +3,9 @@ description = "Objetivo: establecer propuesta de producto que ayude al pueblo de
 git_branch = "master"
 git_url = "git://github.com/Code4PuertoRico/democracia-transparente-pr.git"
 last_pushed_within = "over_a_year"
+link_url = { }
 name = "democracia-transparente-pr"
+open_issues_within = 10
 organization_name = "Code4PuertoRico"
 topics = [
   "citizen-action",

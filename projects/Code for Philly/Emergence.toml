@@ -4,6 +4,7 @@ git_branch = "develop"
 last_pushed_within = "year"
 link_url = "http://emr.ge"
 name = "Emergence"
+open_issues_within = 100
 organization_name = "Code for Philly"
 status = "Maintaining"
 topics = [ "Development" ]

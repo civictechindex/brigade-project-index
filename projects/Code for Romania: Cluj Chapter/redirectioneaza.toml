@@ -5,6 +5,7 @@ git_url = "git://github.com/code4romania/redirectioneaza.git"
 last_pushed_within = "year"
 link_url = "https://redirectioneaza.ro/"
 name = "redirectioneaza"
+open_issues_within = 100
 organization_name = "Code for Romania: Cluj Chapter"
 topics = [
   "civic-hacking",

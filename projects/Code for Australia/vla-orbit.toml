@@ -4,4 +4,5 @@ git_branch = "master"
 git_url = "git://github.com/CodeforAustralia/vla-orbit.git"
 last_pushed_within = "week"
 name = "vla-orbit"
+open_issues_within = 100
 organization_name = "Code for Australia"

@@ -5,4 +5,5 @@ git_url = "git://github.com/codeforamerica/pdfhook.git"
 last_pushed_within = "year"
 link_url = "https://pdfhook.herokuapp.com"
 name = "pdfhook"
+open_issues_within = 100
 organization_name = "Code for America"

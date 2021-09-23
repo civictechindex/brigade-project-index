@@ -5,6 +5,7 @@ git_url = "git://github.com/helloGov/webapp.git"
 last_pushed_within = "over_a_year"
 link_url = "https://hellogov.app"
 name = "webapp"
+open_issues_within = 100
 organization_name = "Hack for LA Brigade"
 topics = [
   "angular",

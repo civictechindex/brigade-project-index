@@ -3,6 +3,7 @@ description = "Philly Police Droid (PPD) is a Android mobile app that updates us
 git_branch = "master"
 last_pushed_within = "month"
 name = "philly_police_droid"
+open_issues_within = 10
 organization_name = "Code for Philly"
 status = "Prototyping"
 topics = [ "Crime", "Philly" ]

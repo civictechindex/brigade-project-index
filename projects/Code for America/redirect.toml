@@ -5,4 +5,5 @@ git_url = "git://github.com/codeforamerica/redirect.git"
 last_pushed_within = "month"
 link_url = "http://c4a.me"
 name = "redirect"
+open_issues_within = 10
 organization_name = "Code for America"

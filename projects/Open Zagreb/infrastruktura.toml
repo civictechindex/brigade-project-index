@@ -5,4 +5,5 @@ git_url = "git://github.com/openzagreb/infrastruktura.git"
 last_pushed_within = "over_a_year"
 link_url = "https://schlos.github.io/buildatlanta"
 name = "infrastruktura"
+open_issues_within = 10
 organization_name = "Open Zagreb"

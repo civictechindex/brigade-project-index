@@ -3,5 +3,6 @@ description = "Data about Code for America brigades and other civic tech organiz
 git_branch = "master"
 git_url = "git://github.com/Code4PuertoRico/brigade-information.git"
 last_pushed_within = "month"
+link_url = { }
 name = "brigade-information"
 organization_name = "Code4PuertoRico"

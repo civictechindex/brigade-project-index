@@ -3,6 +3,7 @@ description = "A tool to help physicians prescribe less-expensive drugs for pati
 git_branch = "master"
 last_pushed_within = "over_a_year"
 name = "affordable_prescription_drug_guide"
+open_issues_within = 10
 organization_name = "Code for Philly"
 status = "Commenting"
 topics = [ "Health" ]

@@ -5,5 +5,6 @@ git_url = "git://github.com/Code4HR/okcandidate-v1.git"
 last_pushed_within = "over_a_year"
 link_url = "http://okcandidate.code4hr.org"
 name = "okcandidate-v1"
+open_issues_within = 100
 organization_name = "Code for Hampton Roads"
 topics = [ "official", "okcandidate" ]

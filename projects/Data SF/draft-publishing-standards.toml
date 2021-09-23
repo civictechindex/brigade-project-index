@@ -5,4 +5,5 @@ git_url = "git://github.com/DataSF/draft-publishing-standards.git"
 last_pushed_within = "over_a_year"
 link_url = "https://www.gitbook.com/book/datasf/draft-publishing-standards/details"
 name = "draft-publishing-standards"
+open_issues_within = 10
 organization_name = "Data SF"

@@ -3,4 +3,5 @@ git_branch = "master"
 git_url = "git://github.com/openwichita/tornado-shelter-locator.git"
 last_pushed_within = "over_a_year"
 name = "tornado-shelter-locator"
+open_issues_within = 10
 organization_name = "Open Wichita"

@@ -5,6 +5,7 @@ git_url = "git://github.com/hackforla/311-data.git"
 last_pushed_within = "year"
 link_url = "https://www.311-data.org"
 name = "311-data"
+open_issues_within = 1_000
 organization_name = "Hack for LA Brigade"
 topics = [
   "311-data",

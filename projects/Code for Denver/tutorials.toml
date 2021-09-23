@@ -4,4 +4,5 @@ git_url = "git://github.com/codefordenver/tutorials.git"
 last_pushed_within = "over_a_year"
 link_url = "https://codefordenver.github.io/tutorials/"
 name = "tutorials"
+open_issues_within = 10
 organization_name = "Code for Denver"

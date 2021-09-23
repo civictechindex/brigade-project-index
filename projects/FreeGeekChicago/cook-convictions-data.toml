@@ -4,4 +4,5 @@ git_branch = "master"
 git_url = "git://github.com/sc3/cook-convictions-data.git"
 last_pushed_within = "over_a_year"
 name = "cook-convictions-data"
+open_issues_within = 10
 organization_name = "FreeGeekChicago"

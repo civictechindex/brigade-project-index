@@ -5,4 +5,5 @@ git_url = "git://github.com/codeforamerica/cfapi.git"
 last_pushed_within = "year"
 link_url = "http://codeforamerica.org/api"
 name = "cfapi"
+open_issues_within = 100
 organization_name = "Code for America"

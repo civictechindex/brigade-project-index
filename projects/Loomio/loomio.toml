@@ -5,4 +5,5 @@ git_url = "git://github.com/loomio/loomio.git"
 last_pushed_within = "week"
 link_url = "https://www.loomio.org"
 name = "loomio"
+open_issues_within = 1_000
 organization_name = "Loomio"

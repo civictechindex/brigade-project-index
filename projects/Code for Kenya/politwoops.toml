@@ -5,6 +5,7 @@ git_url = "git://github.com/CodeForAfrica/politwoops.git"
 last_pushed_within = "over_a_year"
 link_url = "https://politwoops.codeforkenya.org"
 name = "politwoops"
+open_issues_within = 10
 organization_name = "Code for Kenya"
 topics = [
   "africa",

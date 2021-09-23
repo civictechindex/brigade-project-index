@@ -4,6 +4,7 @@ git_branch = "master"
 git_url = "git://github.com/Code4PuertoRico/covid19-pr-api.git"
 last_pushed_within = "year"
 name = "covid19-pr-api"
+open_issues_within = 100
 organization_name = "Code4PuertoRico"
 topics = [
   "callforcode",

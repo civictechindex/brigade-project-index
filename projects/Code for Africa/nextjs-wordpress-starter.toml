@@ -5,4 +5,5 @@ git_url = "git://github.com/CodeForAfrica/nextjs-wordpress-starter.git"
 last_pushed_within = "year"
 link_url = "https://nextjs-wordpress-starter.vercel.app/"
 name = "nextjs-wordpress-starter"
+open_issues_within = 10
 organization_name = "Code for Africa"

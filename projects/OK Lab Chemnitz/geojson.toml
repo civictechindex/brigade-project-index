@@ -3,4 +3,5 @@ git_branch = "master"
 git_url = "git://github.com/CodeforChemnitz/geojson.git"
 last_pushed_within = "over_a_year"
 name = "geojson"
+open_issues_within = 10
 organization_name = "OK Lab Chemnitz"

@@ -5,4 +5,5 @@ git_url = "git://github.com/g0v/sunshine.cy.git"
 last_pushed_within = "over_a_year"
 link_url = "http://sunshine.cy.g0v.tw/"
 name = "sunshine.cy"
+open_issues_within = 10
 organization_name = "g0v.tw"

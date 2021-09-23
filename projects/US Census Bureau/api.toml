@@ -5,4 +5,5 @@ git_url = "git://github.com/uscensusbureau/api.git"
 last_pushed_within = "over_a_year"
 link_url = "https://census.gov/developers"
 name = "api"
+open_issues_within = 10
 organization_name = "US Census Bureau"

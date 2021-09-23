@@ -4,4 +4,5 @@ git_branch = "master"
 git_url = "git://github.com/BetaNYC/civic.json.git"
 last_pushed_within = "year"
 name = "civic.json"
+open_issues_within = 100
 organization_name = "BetaNYC"

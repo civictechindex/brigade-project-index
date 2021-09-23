@@ -4,4 +4,5 @@ git_branch = "master"
 git_url = "git://github.com/DataSF/sync-socrata-airtable.git"
 last_pushed_within = "over_a_year"
 name = "sync-socrata-airtable"
+open_issues_within = 10
 organization_name = "Data SF"

@@ -5,6 +5,7 @@ git_url = "git://github.com/CodeForAfrica/Dominion.AFRICA.git"
 last_pushed_within = "month"
 link_url = "https://dominion.africa"
 name = "Dominion.AFRICA"
+open_issues_within = 10
 organization_name = "Code for Nigeria"
 topics = [
   "africa",

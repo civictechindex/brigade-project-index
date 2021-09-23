@@ -5,6 +5,7 @@ git_url = "git://github.com/uscensusbureau/data-course-ideas.git"
 last_pushed_within = "over_a_year"
 link_url = "https://uscensusbureau.github.io/data-course-ideas/"
 name = "data-course-ideas"
+open_issues_within = 10
 organization_name = "US Census Bureau"
 topics = [
   "census",

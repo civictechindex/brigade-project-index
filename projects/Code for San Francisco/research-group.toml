@@ -5,4 +5,5 @@ git_url = "git://github.com/sfbrigade/research-group.git"
 last_pushed_within = "over_a_year"
 link_url = "http://old.codeforsanfrancisco.org/research-group/projects/NewMemberEngagement/"
 name = "research-group"
+open_issues_within = 10
 organization_name = "Code for San Francisco"

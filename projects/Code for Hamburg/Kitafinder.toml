@@ -4,4 +4,5 @@ git_branch = "master"
 last_pushed_within = "over_a_year"
 link_url = "hamburg.codefor.de/kitas/"
 name = "Kitafinder"
+open_issues_within = 10
 organization_name = "Code for Hamburg"

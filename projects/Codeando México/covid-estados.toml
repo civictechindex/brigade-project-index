@@ -5,5 +5,6 @@ git_url = "git://github.com/CodeandoMexico/covid-estados.git"
 last_pushed_within = "year"
 link_url = "https://directoriocovidmx.org/"
 name = "covid-estados"
+open_issues_within = 10
 organization_name = "Codeando México"
 topics = [ "covid-19", "directory", "mexico", "open-data" ]

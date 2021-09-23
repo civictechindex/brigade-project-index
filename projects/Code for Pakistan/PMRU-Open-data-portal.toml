@@ -4,4 +4,5 @@ git_branch = "master"
 git_url = "git://github.com/codeforpakistan/PMRU-Open-data-portal.git"
 last_pushed_within = "over_a_year"
 name = "PMRU-Open-data-portal"
+open_issues_within = 100
 organization_name = "Code for Pakistan"

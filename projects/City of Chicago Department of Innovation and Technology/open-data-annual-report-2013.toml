@@ -5,4 +5,5 @@ git_url = "git://github.com/Chicago/open-data-annual-report-2013.git"
 last_pushed_within = "over_a_year"
 link_url = "report.cityofchicago.org/open-data-2013"
 name = "open-data-annual-report-2013"
+open_issues_within = 10
 organization_name = "City of Chicago Department of Innovation and Technology"

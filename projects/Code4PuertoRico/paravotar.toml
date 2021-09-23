@@ -5,5 +5,6 @@ git_url = "git://github.com/Code4PuertoRico/paravotar.git"
 last_pushed_within = "year"
 link_url = "https://paravotar.org"
 name = "paravotar"
+open_issues_within = 10
 organization_name = "Code4PuertoRico"
 topics = [ "civic-tech", "code4pr", "gatsby", "puerto-rico", "voting" ]

@@ -3,4 +3,5 @@ git_branch = "master"
 git_url = "git://github.com/smartchicago/zone-parking.git"
 last_pushed_within = "over_a_year"
 name = "zone-parking"
+open_issues_within = 10
 organization_name = "Smart Chicago Collaborative"

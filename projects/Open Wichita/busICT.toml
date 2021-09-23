@@ -4,4 +4,5 @@ git_branch = "master"
 git_url = "git://github.com/openwichita/busICT.git"
 last_pushed_within = "over_a_year"
 name = "busICT"
+open_issues_within = 10
 organization_name = "Open Wichita"

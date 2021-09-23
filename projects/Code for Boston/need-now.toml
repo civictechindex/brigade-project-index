@@ -5,4 +5,5 @@ git_url = "git://github.com/codeforboston/need-now.git"
 last_pushed_within = "over_a_year"
 link_url = "http://need-now.herokuapp.com"
 name = "need-now"
+open_issues_within = 100
 organization_name = "Code for Boston"

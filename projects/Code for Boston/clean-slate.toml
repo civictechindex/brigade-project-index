@@ -3,6 +3,7 @@ git_branch = "main"
 git_url = "git://github.com/codeforboston/clean-slate.git"
 last_pushed_within = "year"
 name = "clean-slate"
+open_issues_within = 100
 organization_name = "Code for Boston"
 topics = [
   "code-for-america",

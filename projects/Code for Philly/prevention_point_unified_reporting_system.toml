@@ -3,6 +3,7 @@ description = "[Prevention Point](http://ppponline.org/) is a private nonprofit 
 git_branch = "master"
 last_pushed_within = "week"
 name = "prevention_point_unified_reporting_system"
+open_issues_within = 100
 organization_name = "Code for Philly"
 status = "Prototyping"
 topics = [ "Data", "Public Heath", "UI" ]

@@ -3,4 +3,5 @@ git_branch = "master"
 git_url = "git://github.com/uscensusbureau/granicus.git"
 last_pushed_within = "over_a_year"
 name = "granicus"
+open_issues_within = 100
 organization_name = "US Census Bureau"

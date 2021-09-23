@@ -3,4 +3,5 @@ git_branch = "gh-pages"
 git_url = "git://github.com/sfbrigade/sfmta-board-resolutions.git"
 last_pushed_within = "over_a_year"
 name = "sfmta-board-resolutions"
+open_issues_within = 10
 organization_name = "Code for San Francisco"

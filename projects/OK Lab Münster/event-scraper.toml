@@ -4,4 +4,5 @@ git_url = "git://github.com/codeformuenster/event-scraper.git"
 last_pushed_within = "over_a_year"
 link_url = "https://hub.docker.com/r/codeformuenster/event-scraper/"
 name = "event-scraper"
+open_issues_within = 10
 organization_name = "OK Lab Münster"

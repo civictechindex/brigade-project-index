@@ -5,6 +5,7 @@ git_url = "git://github.com/codefortulsa/snap-screener.git"
 last_pushed_within = "year"
 link_url = "https://snap-screener-ok.web.app/"
 name = "snap-screener"
+open_issues_within = 10
 organization_name = "Code for Tulsa"
 topics = [
   "civictechindex",

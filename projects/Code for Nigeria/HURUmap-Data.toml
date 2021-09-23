@@ -3,4 +3,5 @@ git_branch = "master"
 git_url = "git://github.com/CodeForAfrica/HURUmap-Data.git"
 last_pushed_within = "year"
 name = "HURUmap-Data"
+open_issues_within = 10
 organization_name = "Code for Nigeria"

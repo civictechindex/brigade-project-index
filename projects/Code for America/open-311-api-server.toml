@@ -4,4 +4,5 @@ git_branch = "master"
 git_url = "git://github.com/codeforamerica/open-311-api-server.git"
 last_pushed_within = "over_a_year"
 name = "open-311-api-server"
+open_issues_within = 10
 organization_name = "Code for America"

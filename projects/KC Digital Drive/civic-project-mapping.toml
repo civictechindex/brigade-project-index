@@ -5,4 +5,5 @@ git_url = "git://github.com/codeforkansascity/civic-project-mapping.git"
 last_pushed_within = "over_a_year"
 link_url = "http://codeforkansascity.github.io/civic-project-mapping"
 name = "civic-project-mapping"
+open_issues_within = 100
 organization_name = "KC Digital Drive"

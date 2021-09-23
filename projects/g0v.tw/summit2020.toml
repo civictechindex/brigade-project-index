@@ -3,4 +3,5 @@ git_branch = "master"
 git_url = "git://github.com/g0v/summit2020.git"
 last_pushed_within = "week"
 name = "summit2020"
+open_issues_within = 100
 organization_name = "g0v.tw"

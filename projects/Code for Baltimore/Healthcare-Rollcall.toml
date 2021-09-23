@@ -5,6 +5,7 @@ git_url = "git://github.com/CodeForBaltimore/Healthcare-Rollcall.git"
 last_pushed_within = "month"
 link_url = "https://healthcare-rollcall.netlify.com/"
 name = "Healthcare-Rollcall"
+open_issues_within = 100
 organization_name = "Code for Baltimore"
 topics = [
   "baltimore-city",

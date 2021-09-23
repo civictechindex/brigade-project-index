@@ -4,4 +4,5 @@ git_branch = "develop"
 git_url = "git://github.com/codeforjapan/bad-opendata-temple.git"
 last_pushed_within = "year"
 name = "bad-opendata-temple"
+open_issues_within = 10
 organization_name = "Code for Japan"

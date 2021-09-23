@@ -5,4 +5,5 @@ git_url = "git://github.com/opendata-heilbronn/my-cfhn-presence.git"
 last_pushed_within = "year"
 link_url = "https://git.cfhn.it/mycfhn/presence-ms"
 name = "my-cfhn-presence"
+open_issues_within = 10
 organization_name = "OK Lab Heilbronn"

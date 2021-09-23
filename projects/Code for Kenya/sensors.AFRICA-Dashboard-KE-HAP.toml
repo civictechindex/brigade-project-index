@@ -4,4 +4,5 @@ git_url = "git://github.com/CodeForAfrica/sensors.AFRICA-Dashboard-KE-HAP.git"
 last_pushed_within = "month"
 link_url = "https://hap.ke.sensors.africa/"
 name = "sensors.AFRICA-Dashboard-KE-HAP"
+open_issues_within = 10
 organization_name = "Code for Kenya"

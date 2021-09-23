@@ -5,4 +5,5 @@ git_url = "git://github.com/codeforamerica/court.atlantaga.gov.git"
 last_pushed_within = "year"
 link_url = "http://court.atlantaga.gov/"
 name = "court.atlantaga.gov"
+open_issues_within = 10
 organization_name = "Code for America"

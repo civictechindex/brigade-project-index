@@ -4,6 +4,7 @@ git_branch = "main"
 git_url = "git://github.com/hackforla/civic-tech-structure.git"
 last_pushed_within = "year"
 name = "civic-tech-structure"
+open_issues_within = 10
 organization_name = "Hack for LA Brigade"
 topics = [
   "civic-tech",

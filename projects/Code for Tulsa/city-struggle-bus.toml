@@ -5,4 +5,5 @@ git_url = "git://github.com/codefortulsa/city-struggle-bus.git"
 last_pushed_within = "year"
 link_url = "https://city-struggle-bus.herokuapp.com/"
 name = "city-struggle-bus"
+open_issues_within = 10
 organization_name = "Code for Tulsa"

@@ -5,4 +5,5 @@ git_url = "git://github.com/CodeforLeipzig/wo-ist-testzentrum-scraper.git"
 last_pushed_within = "year"
 link_url = "https://codeforleipzig.github.io/wo-ist-testzentrum/"
 name = "wo-ist-testzentrum-scraper"
+open_issues_within = 10
 organization_name = "OK Lab Leipzig"

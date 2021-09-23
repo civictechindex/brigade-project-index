@@ -5,6 +5,7 @@ git_url = "git://github.com/codeforsanjose/free-food-lookup.git"
 last_pushed_within = "over_a_year"
 link_url = "https://www.codeforsanjose.com/free-food-lookup/"
 name = "free-food-lookup"
+open_issues_within = 10
 organization_name = "Code for San Jose"
 topics = [
   "css",

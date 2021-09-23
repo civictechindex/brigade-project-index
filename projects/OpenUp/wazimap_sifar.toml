@@ -4,4 +4,5 @@ git_branch = "master"
 git_url = "git://github.com/OpenUpSA/wazimap_sifar.git"
 last_pushed_within = "month"
 name = "wazimap_sifar"
+open_issues_within = 10
 organization_name = "OpenUp"

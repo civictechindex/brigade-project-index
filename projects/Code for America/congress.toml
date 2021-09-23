@@ -5,4 +5,5 @@ git_url = "git://github.com/codeforamerica/congress.git"
 last_pushed_within = "over_a_year"
 link_url = "http://sunlightlabs.github.io/congress/"
 name = "congress"
+open_issues_within = 10
 organization_name = "Code for America"

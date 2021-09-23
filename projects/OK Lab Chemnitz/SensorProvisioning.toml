@@ -4,4 +4,5 @@ git_branch = "master"
 git_url = "git://github.com/CodeforChemnitz/SensorProvisioning.git"
 last_pushed_within = "over_a_year"
 name = "SensorProvisioning"
+open_issues_within = 10
 organization_name = "OK Lab Chemnitz"

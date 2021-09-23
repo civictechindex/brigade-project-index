@@ -5,4 +5,5 @@ git_url = "git://github.com/open-austin/voteatx-svc.git"
 last_pushed_within = "over_a_year"
 link_url = "http://voteatx.us/"
 name = "voteatx-svc"
+open_issues_within = 10
 organization_name = "Open Austin"

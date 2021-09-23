@@ -5,4 +5,5 @@ git_url = "git://github.com/mysociety/popit.poplus.org.git"
 last_pushed_within = "over_a_year"
 link_url = "https://goo.gl/Vvej4Q"
 name = "popit.poplus.org"
+open_issues_within = 10
 organization_name = "mySociety"

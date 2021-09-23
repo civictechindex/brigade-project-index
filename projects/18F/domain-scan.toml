@@ -4,4 +4,5 @@ git_branch = "master"
 git_url = "git://github.com/18F/domain-scan.git"
 last_pushed_within = "year"
 name = "domain-scan"
+open_issues_within = 100
 organization_name = "18F"

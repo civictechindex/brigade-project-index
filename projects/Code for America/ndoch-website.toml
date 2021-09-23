@@ -5,4 +5,5 @@ git_url = "git://github.com/codeforamerica/ndoch-website.git"
 last_pushed_within = "over_a_year"
 link_url = "http://ndoch.org/"
 name = "ndoch-website"
+open_issues_within = 10
 organization_name = "Code for America"

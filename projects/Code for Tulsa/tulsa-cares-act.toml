@@ -5,4 +5,5 @@ git_url = "git://github.com/codefortulsa/tulsa-cares-act.git"
 last_pushed_within = "week"
 link_url = "https://tulsacaresact.com"
 name = "tulsa-cares-act"
+open_issues_within = 10
 organization_name = "Code for Tulsa"

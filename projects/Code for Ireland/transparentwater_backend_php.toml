@@ -4,4 +4,5 @@ git_branch = "master"
 git_url = "git://github.com/codeforireland/transparentwater_backend_php.git"
 last_pushed_within = "over_a_year"
 name = "transparentwater_backend_php"
+open_issues_within = 10
 organization_name = "Code for Ireland"

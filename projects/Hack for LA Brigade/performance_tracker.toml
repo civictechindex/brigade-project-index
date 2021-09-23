@@ -4,5 +4,6 @@ git_branch = "master"
 git_url = "git://github.com/metro-ontime/performance_tracker.git"
 last_pushed_within = "over_a_year"
 name = "performance_tracker"
+open_issues_within = 10
 organization_name = "Hack for LA Brigade"
 topics = [ "code-for-america", "hack-for-la" ]

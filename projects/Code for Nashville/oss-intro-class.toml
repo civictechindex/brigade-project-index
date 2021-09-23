@@ -4,5 +4,6 @@ git_branch = "master"
 git_url = "git://github.com/code-for-nashville/oss-intro-class.git"
 last_pushed_within = "over_a_year"
 name = "oss-intro-class"
+open_issues_within = 10
 organization_name = "Code for Nashville"
 topics = [ "learning-by-doing", "opensource" ]

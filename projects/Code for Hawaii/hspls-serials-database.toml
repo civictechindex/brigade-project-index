@@ -5,4 +5,5 @@ git_url = "git://github.com/CodeforHawaii/hspls-serials-database.git"
 last_pushed_within = "over_a_year"
 link_url = "http://mixxen.github.io/hspls-serials-database/"
 name = "hspls-serials-database"
+open_issues_within = 10
 organization_name = "Code for Hawaii"

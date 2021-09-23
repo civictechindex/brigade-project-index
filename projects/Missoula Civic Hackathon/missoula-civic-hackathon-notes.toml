@@ -4,4 +4,5 @@ git_branch = "master"
 git_url = "git://github.com/Blue-Sky-Skunkworks/missoula-civic-hackathon-notes.git"
 last_pushed_within = "over_a_year"
 name = "missoula-civic-hackathon-notes"
+open_issues_within = 10
 organization_name = "Missoula Civic Hackathon"

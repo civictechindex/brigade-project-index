@@ -3,4 +3,5 @@ git_branch = "master"
 git_url = "git://github.com/codeforkansascity/wyco-housing-help.git"
 last_pushed_within = "week"
 name = "wyco-housing-help"
+open_issues_within = 10
 organization_name = "KC Digital Drive"

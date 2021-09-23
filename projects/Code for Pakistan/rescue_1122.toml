@@ -3,4 +3,5 @@ git_branch = "master"
 git_url = "git://github.com/codeforpakistan/rescue_1122.git"
 last_pushed_within = "month"
 name = "rescue_1122"
+open_issues_within = 10
 organization_name = "Code for Pakistan"

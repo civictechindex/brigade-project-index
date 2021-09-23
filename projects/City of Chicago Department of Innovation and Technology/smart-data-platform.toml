@@ -5,4 +5,5 @@ git_url = "git://github.com/Chicago/smart-data-platform.git"
 last_pushed_within = "over_a_year"
 link_url = "https://chicago.github.io/smart-data-platform"
 name = "smart-data-platform"
+open_issues_within = 10
 organization_name = "City of Chicago Department of Innovation and Technology"

@@ -4,5 +4,6 @@ git_branch = "master"
 git_url = "git://github.com/code4romania/hgathering-api.git"
 last_pushed_within = "over_a_year"
 name = "hgathering-api"
+open_issues_within = 10
 organization_name = "Code for Romania: Cluj Chapter"
 topics = [ "disaster-relief" ]

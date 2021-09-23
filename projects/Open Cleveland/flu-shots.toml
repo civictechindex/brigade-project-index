@@ -5,4 +5,5 @@ git_url = "git://github.com/opencleveland/flu-shots.git"
 last_pushed_within = "over_a_year"
 link_url = "http://opencleveland.github.io/flu-shots/"
 name = "flu-shots"
+open_issues_within = 10
 organization_name = "Open Cleveland"

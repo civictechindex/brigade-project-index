@@ -3,6 +3,7 @@ description = "My Brother's Keeper was conceived in response to the problem of l
 git_branch = "master"
 last_pushed_within = "over_a_year"
 name = "my_brother-s_keeper"
+open_issues_within = 10
 organization_name = "Code for Philly"
 status = "Prototyping"
 topics = [ "Donation", "Homelessness", "Mapping" ]

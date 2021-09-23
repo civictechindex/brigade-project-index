@@ -5,4 +5,5 @@ git_url = "git://github.com/codeforamerica/311-fm-data.git"
 last_pushed_within = "over_a_year"
 link_url = "http://chicagoworks-api.herokuapp.com/"
 name = "311-fm-data"
+open_issues_within = 10
 organization_name = "Code for America"

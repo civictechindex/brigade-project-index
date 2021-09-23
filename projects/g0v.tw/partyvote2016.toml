@@ -3,4 +3,5 @@ git_branch = "gh-pages"
 git_url = "git://github.com/g0v/partyvote2016.git"
 last_pushed_within = "over_a_year"
 name = "partyvote2016"
+open_issues_within = 10
 organization_name = "g0v.tw"

@@ -4,5 +4,6 @@ git_branch = "main"
 git_url = "git://github.com/OpenEugene/little-help-book-api.git"
 last_pushed_within = "year"
 name = "little-help-book-api"
+open_issues_within = 10
 organization_name = "Open Eugene"
 topics = [ "blazor" ]

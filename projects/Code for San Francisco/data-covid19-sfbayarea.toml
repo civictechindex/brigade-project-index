@@ -4,5 +4,6 @@ git_branch = "master"
 git_url = "git://github.com/sfbrigade/data-covid19-sfbayarea.git"
 last_pushed_within = "year"
 name = "data-covid19-sfbayarea"
+open_issues_within = 100
 organization_name = "Code for San Francisco"
 topics = [ "covid-19", "data", "python", "web-scraping" ]

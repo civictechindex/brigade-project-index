@@ -3,6 +3,7 @@ description = "Let's create a site to help Philly schools ask the community for 
 git_branch = "master"
 last_pushed_within = "over_a_year"
 name = "school_needs_resource"
+open_issues_within = 10
 organization_name = "Code for Philly"
 status = "Commenting"
 topics = [ "Education" ]

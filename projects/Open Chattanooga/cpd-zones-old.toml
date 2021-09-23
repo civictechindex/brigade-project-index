@@ -5,4 +5,5 @@ git_url = "git://github.com/openchattanooga/cpd-zones-old.git"
 last_pushed_within = "over_a_year"
 link_url = "http://cpd-zones.herokuapp.com/"
 name = "cpd-zones-old"
+open_issues_within = 10
 organization_name = "Open Chattanooga"

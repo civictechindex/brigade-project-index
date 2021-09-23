@@ -5,4 +5,5 @@ git_url = "git://github.com/Open-NC/jkan.git"
 last_pushed_within = "over_a_year"
 link_url = "https://opennc-collaborative.org/jkan/"
 name = "jkan"
+open_issues_within = 10
 organization_name = "Open NC Collaborative"

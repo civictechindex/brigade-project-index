@@ -4,6 +4,7 @@ git_branch = "master"
 git_url = "git://github.com/sfbrigade/data-science-wg.git"
 last_pushed_within = "week"
 name = "data-science-wg"
+open_issues_within = 10
 organization_name = "Code for San Francisco"
 topics = [
   "code-for-america",

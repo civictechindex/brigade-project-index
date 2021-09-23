@@ -5,4 +5,5 @@ git_url = "git://github.com/codeforgermany/click_that_hood.git"
 last_pushed_within = "week"
 link_url = "http://click-that-hood.com/"
 name = "click_that_hood"
+open_issues_within = 100
 organization_name = "Code for Germany"

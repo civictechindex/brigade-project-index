@@ -5,4 +5,5 @@ git_url = "git://github.com/openkawasaki/website.git"
 last_pushed_within = "year"
 link_url = "http://openkawasaki.org/"
 name = "website"
+open_issues_within = 10
 organization_name = "Code for Kawasaki"

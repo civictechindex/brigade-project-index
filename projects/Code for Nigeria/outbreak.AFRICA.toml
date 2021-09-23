@@ -5,4 +5,5 @@ git_url = "git://github.com/CodeForAfrica/outbreak.AFRICA.git"
 last_pushed_within = "month"
 link_url = "https://covid19.dev.hurumap.org/"
 name = "outbreak.AFRICA"
+open_issues_within = 10
 organization_name = "Code for Nigeria"

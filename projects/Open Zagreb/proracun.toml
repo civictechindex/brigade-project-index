@@ -5,4 +5,5 @@ git_url = "git://github.com/openzagreb/proracun.git"
 last_pushed_within = "over_a_year"
 link_url = "http://proracun.org"
 name = "proracun"
+open_issues_within = 10
 organization_name = "Open Zagreb"

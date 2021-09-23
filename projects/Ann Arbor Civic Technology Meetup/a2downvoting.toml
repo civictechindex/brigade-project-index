@@ -4,4 +4,5 @@ git_branch = "master"
 git_url = "git://github.com/a2civictech/a2downvoting.git"
 last_pushed_within = "year"
 name = "a2downvoting"
+open_issues_within = 10
 organization_name = "Ann Arbor Civic Technology Meetup"

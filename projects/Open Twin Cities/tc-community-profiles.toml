@@ -5,5 +5,6 @@ git_url = "git://github.com/OpenTwinCities/tc-community-profiles.git"
 last_pushed_within = "over_a_year"
 link_url = "https://tc-community-profiles.herokuapp.com/"
 name = "tc-community-profiles"
+open_issues_within = 10
 organization_name = "Open Twin Cities"
 topics = [ "codeswitch", "minnesota" ]

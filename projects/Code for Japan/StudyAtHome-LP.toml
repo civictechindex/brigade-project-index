@@ -3,4 +3,5 @@ git_branch = "development"
 git_url = "git://github.com/codeforjapan/StudyAtHome-LP.git"
 last_pushed_within = "year"
 name = "StudyAtHome-LP"
+open_issues_within = 100
 organization_name = "Code for Japan"

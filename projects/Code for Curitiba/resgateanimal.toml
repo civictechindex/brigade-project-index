@@ -4,4 +4,5 @@ git_branch = "master"
 git_url = "git://github.com/CodeForCuritiba/resgateanimal.git"
 last_pushed_within = "over_a_year"
 name = "resgateanimal"
+open_issues_within = 10
 organization_name = "Code for Curitiba"

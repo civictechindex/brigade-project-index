@@ -5,4 +5,5 @@ git_url = "git://github.com/g0v/grantdash.git"
 last_pushed_within = "year"
 link_url = "https://hackathon.ogpsummit.org"
 name = "grantdash"
+open_issues_within = 100
 organization_name = "g0v.tw"

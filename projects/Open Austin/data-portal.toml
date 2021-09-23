@@ -5,4 +5,5 @@ git_url = "git://github.com/open-austin/data-portal.git"
 last_pushed_within = "over_a_year"
 link_url = "http://www.open-austin.org/data-portal"
 name = "data-portal"
+open_issues_within = 100
 organization_name = "Open Austin"

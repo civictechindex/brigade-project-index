@@ -4,4 +4,5 @@ git_branch = "master"
 git_url = "git://github.com/code4sac/sac-hash-landing.git"
 last_pushed_within = "over_a_year"
 name = "sac-hash-landing"
+open_issues_within = 10
 organization_name = "Code for Sacramento"

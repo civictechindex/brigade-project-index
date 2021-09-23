@@ -5,4 +5,5 @@ git_url = "git://github.com/codeforamerica/hack-requests.git"
 last_pushed_within = "over_a_year"
 link_url = "https://github.com/codeforamerica/hack-requests/issues"
 name = "hack-requests"
+open_issues_within = 10
 organization_name = "Code for America"

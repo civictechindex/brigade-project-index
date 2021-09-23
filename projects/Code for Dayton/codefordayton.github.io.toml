@@ -5,4 +5,5 @@ git_url = "git://github.com/codefordayton/codefordayton.github.io.git"
 last_pushed_within = "over_a_year"
 link_url = "http://codefordayton.org"
 name = "codefordayton.github.io"
+open_issues_within = 10
 organization_name = "Code for Dayton"

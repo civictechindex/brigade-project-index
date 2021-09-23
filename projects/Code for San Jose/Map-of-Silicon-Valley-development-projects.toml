@@ -5,4 +5,5 @@ git_url = "git://github.com/codeforsanjose/Map-of-Silicon-Valley-development-pro
 last_pushed_within = "year"
 link_url = "https://www.catalyzesv.org/map"
 name = "Map-of-Silicon-Valley-development-projects"
+open_issues_within = 10
 organization_name = "Code for San Jose"

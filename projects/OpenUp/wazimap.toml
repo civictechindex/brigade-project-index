@@ -5,4 +5,5 @@ git_url = "git://github.com/OpenUpSA/wazimap.git"
 last_pushed_within = "year"
 link_url = "http://wazimap.readthedocs.org/en/latest/"
 name = "wazimap"
+open_issues_within = 100
 organization_name = "OpenUp"

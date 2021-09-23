@@ -3,4 +3,5 @@ git_branch = "master"
 git_url = "git://github.com/g0v/libot.git"
 last_pushed_within = "over_a_year"
 name = "libot"
+open_issues_within = 10
 organization_name = "g0v.tw"

@@ -5,4 +5,5 @@ git_url = "git://github.com/codeforkansascity/kc_311dailybrief.git"
 last_pushed_within = "over_a_year"
 link_url = "http://311.codeforkc.org/"
 name = "kc_311dailybrief"
+open_issues_within = 10
 organization_name = "KC Digital Drive"

@@ -5,4 +5,5 @@ git_url = "git://github.com/18F/open-source-policy.git"
 last_pushed_within = "year"
 link_url = "https://18f.gsa.gov"
 name = "open-source-policy"
+open_issues_within = 10
 organization_name = "18F"

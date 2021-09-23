@@ -5,4 +5,5 @@ git_url = "git://github.com/CodeForGiessen/badeseen.git"
 last_pushed_within = "over_a_year"
 link_url = "http://codeforgiessen.github.io/badeseen/"
 name = "badeseen"
+open_issues_within = 10
 organization_name = "OK Lab Gießen"

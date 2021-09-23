@@ -4,4 +4,5 @@ git_branch = "master"
 git_url = "git://github.com/sfbrigade/LocalFreeWeb.git"
 last_pushed_within = "year"
 name = "LocalFreeWeb"
+open_issues_within = 10
 organization_name = "Code for San Francisco"

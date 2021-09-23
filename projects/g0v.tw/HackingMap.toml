@@ -5,5 +5,6 @@ git_url = "git://github.com/g0v/HackingMap.git"
 last_pushed_within = "over_a_year"
 link_url = "https://g0v.github.io/HackingMap"
 name = "HackingMap"
+open_issues_within = 10
 organization_name = "g0v.tw"
 topics = [ "firebase", "g0v", "hackathon", "vue" ]

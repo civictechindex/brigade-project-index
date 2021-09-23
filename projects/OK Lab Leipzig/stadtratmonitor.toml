@@ -5,4 +5,5 @@ git_url = "git://github.com/CodeforLeipzig/stadtratmonitor.git"
 last_pushed_within = "year"
 link_url = "https://stadtratmonitor.leipzig.codefor.de/"
 name = "stadtratmonitor"
+open_issues_within = 100
 organization_name = "OK Lab Leipzig"

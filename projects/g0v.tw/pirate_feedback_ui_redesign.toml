@@ -3,4 +3,5 @@ git_branch = "master"
 git_url = "git://github.com/g0v/pirate_feedback_ui_redesign.git"
 last_pushed_within = "over_a_year"
 name = "pirate_feedback_ui_redesign"
+open_issues_within = 10
 organization_name = "g0v.tw"

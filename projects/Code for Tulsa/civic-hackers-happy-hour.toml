@@ -4,4 +4,5 @@ git_branch = "master"
 git_url = "git://github.com/codefortulsa/civic-hackers-happy-hour.git"
 last_pushed_within = "over_a_year"
 name = "civic-hackers-happy-hour"
+open_issues_within = 10
 organization_name = "Code for Tulsa"

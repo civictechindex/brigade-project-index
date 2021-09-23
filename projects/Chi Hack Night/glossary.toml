@@ -2,4 +2,5 @@ code_url = "https://github.com/chi-civic-hacking-howto/glossary"
 git_branch = "master"
 last_pushed_within = "over_a_year"
 name = "glossary"
+open_issues_within = 10
 organization_name = "Chi Hack Night"

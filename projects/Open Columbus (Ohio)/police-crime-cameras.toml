@@ -4,4 +4,5 @@ git_branch = "master"
 git_url = "git://github.com/SCODEMeetup/police-crime-cameras.git"
 last_pushed_within = "over_a_year"
 name = "police-crime-cameras"
+open_issues_within = 10
 organization_name = "Open Columbus (Ohio)"

@@ -4,5 +4,6 @@ git_branch = "master"
 git_url = "git://github.com/CodeforAustralia/standards.git"
 last_pushed_within = "over_a_year"
 name = "standards"
+open_issues_within = 10
 organization_name = "Code for Australia"
 topics = [ "civictech", "guidelines", "oss" ]

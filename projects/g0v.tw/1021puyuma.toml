@@ -3,4 +3,5 @@ git_branch = "gh-pages"
 git_url = "git://github.com/g0v/1021puyuma.git"
 last_pushed_within = "over_a_year"
 name = "1021puyuma"
+open_issues_within = 10
 organization_name = "g0v.tw"

@@ -4,5 +4,6 @@ git_branch = "master"
 git_url = "git://github.com/OpenTwinCities/mn_candidate_scraper.git"
 last_pushed_within = "year"
 name = "mn_candidate_scraper"
+open_issues_within = 10
 organization_name = "Open Twin Cities"
 topics = [ "election-data", "elections", "minnesota" ]

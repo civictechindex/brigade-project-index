@@ -4,4 +4,5 @@ git_branch = "master"
 git_url = "git://github.com/codeforrva/food-access-finder.git"
 last_pushed_within = "over_a_year"
 name = "food-access-finder"
+open_issues_within = 100
 organization_name = "Code for RVA"

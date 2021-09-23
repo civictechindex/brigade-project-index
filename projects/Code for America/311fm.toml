@@ -5,4 +5,5 @@ git_url = "git://github.com/codeforamerica/311fm.git"
 last_pushed_within = "over_a_year"
 link_url = "http://311.fm"
 name = "311fm"
+open_issues_within = 10
 organization_name = "Code for America"

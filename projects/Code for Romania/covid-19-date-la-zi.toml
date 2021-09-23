@@ -5,5 +5,6 @@ git_url = "git://github.com/code4romania/covid-19-date-la-zi.git"
 last_pushed_within = "week"
 link_url = "https://datelazi.ro"
 name = "covid-19-date-la-zi"
+open_issues_within = 10
 organization_name = "Code for Romania"
 topics = [ "civic-tech", "covid-19" ]

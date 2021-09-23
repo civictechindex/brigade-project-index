@@ -4,6 +4,7 @@ git_branch = "development"
 git_url = "git://github.com/codefordenver/Comrad.git"
 last_pushed_within = "week"
 name = "Comrad"
+open_issues_within = 100
 organization_name = "Code for Denver"
 topics = [
   "code-for-america",

@@ -5,4 +5,5 @@ git_url = "git://github.com/codeforamerica/brigade.git"
 last_pushed_within = "year"
 link_url = "https://brigade.codeforamerica.org"
 name = "brigade"
+open_issues_within = 100
 organization_name = "Code for America"

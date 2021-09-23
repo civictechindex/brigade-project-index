@@ -4,4 +4,5 @@ git_branch = "main"
 git_url = "git://github.com/18F/snap-js-api-prototype.git"
 last_pushed_within = "year"
 name = "snap-js-api-prototype"
+open_issues_within = 100
 organization_name = "18F"

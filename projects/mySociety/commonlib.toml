@@ -4,4 +4,5 @@ git_branch = "master"
 git_url = "git://github.com/mysociety/commonlib.git"
 last_pushed_within = "year"
 name = "commonlib"
+open_issues_within = 10
 organization_name = "mySociety"

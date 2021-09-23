@@ -5,6 +5,7 @@ git_url = "git://github.com/Public-Tree-Map/public-tree-map.git"
 last_pushed_within = "over_a_year"
 link_url = "https://publictreemap.org"
 name = "public-tree-map"
+open_issues_within = 100
 organization_name = "Hack for LA Brigade"
 topics = [
   "code-for-america",

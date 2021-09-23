@@ -4,4 +4,5 @@ git_branch = "master"
 git_url = "git://github.com/codeforpakistan/Chasham-Deed.git"
 last_pushed_within = "over_a_year"
 name = "Chasham-Deed"
+open_issues_within = 10
 organization_name = "Code for Pakistan"

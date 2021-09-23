@@ -3,4 +3,5 @@ git_branch = "gh-pages"
 git_url = "git://github.com/g0v/g0v-grant-landing.git"
 last_pushed_within = "over_a_year"
 name = "g0v-grant-landing"
+open_issues_within = 10
 organization_name = "g0v.tw"

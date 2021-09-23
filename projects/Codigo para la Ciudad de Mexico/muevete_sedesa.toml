@@ -4,4 +4,5 @@ git_branch = "master"
 git_url = "git://github.com/LabPLC/muevete_sedesa.git"
 last_pushed_within = "over_a_year"
 name = "muevete_sedesa"
+open_issues_within = 100
 organization_name = "Codigo para la Ciudad de Mexico"

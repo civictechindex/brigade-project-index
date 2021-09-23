@@ -4,4 +4,5 @@ git_branch = "master"
 git_url = "git://github.com/BMGhack/Lets-Get-Visual.git"
 last_pushed_within = "year"
 name = "Lets-Get-Visual"
+open_issues_within = 10
 organization_name = "Code for Bloomington"

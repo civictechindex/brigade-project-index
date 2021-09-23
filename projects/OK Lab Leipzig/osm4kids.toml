@@ -3,4 +3,5 @@ git_branch = "master"
 git_url = "git://github.com/CodeforLeipzig/osm4kids.git"
 last_pushed_within = "over_a_year"
 name = "osm4kids"
+open_issues_within = 10
 organization_name = "OK Lab Leipzig"

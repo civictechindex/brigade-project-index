@@ -4,6 +4,7 @@ git_branch = "master"
 last_pushed_within = "over_a_year"
 link_url = "http://www.myphillyrising.com/"
 name = "myPhillyRising"
+open_issues_within = 100
 organization_name = "Code for Philly"
 status = "Commenting"
 topics = [ "Knowledge" ]

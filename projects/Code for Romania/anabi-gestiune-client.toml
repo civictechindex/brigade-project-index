@@ -5,6 +5,7 @@ git_url = "git://github.com/code4romania/anabi-gestiune-client.git"
 last_pushed_within = "year"
 link_url = "https://code4.ro/ro/apps/anabi/"
 name = "anabi-gestiune-client"
+open_issues_within = 100
 organization_name = "Code for Romania"
 topics = [
   "anabi",

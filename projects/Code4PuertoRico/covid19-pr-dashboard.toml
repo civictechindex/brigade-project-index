@@ -5,6 +5,7 @@ git_url = "git://github.com/Code4PuertoRico/covid19-pr-dashboard.git"
 last_pushed_within = "year"
 link_url = "http://covid19prdata.org/"
 name = "covid19-pr-dashboard"
+open_issues_within = 100
 organization_name = "Code4PuertoRico"
 topics = [
   "civic-tech",

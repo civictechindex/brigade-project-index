@@ -5,4 +5,5 @@ git_url = "git://github.com/codeforpakistan/covid19.git"
 last_pushed_within = "week"
 link_url = "http://157.230.33.6/"
 name = "covid19"
+open_issues_within = 10
 organization_name = "Code for Pakistan"

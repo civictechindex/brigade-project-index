@@ -4,6 +4,7 @@ git_branch = "main"
 git_url = "git://github.com/18F/federalist-uswds-gatsby.git"
 last_pushed_within = "week"
 name = "federalist-uswds-gatsby"
+open_issues_within = 100
 organization_name = "18F"
 topics = [
   "federalist",

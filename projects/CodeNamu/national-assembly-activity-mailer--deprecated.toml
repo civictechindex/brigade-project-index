@@ -4,4 +4,5 @@ git_branch = "master"
 git_url = "git://github.com/codeforseoul/national-assembly-activity-mailer--deprecated.git"
 last_pushed_within = "over_a_year"
 name = "national-assembly-activity-mailer--deprecated"
+open_issues_within = 10
 organization_name = "CodeNamu"

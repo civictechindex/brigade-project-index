@@ -4,6 +4,7 @@ git_branch = "master"
 git_url = "git://github.com/mysociety/fixmystreet-mobile.git"
 last_pushed_within = "year"
 name = "fixmystreet-mobile"
+open_issues_within = 100
 organization_name = "mySociety"
 topics = [
   "civic-tech",

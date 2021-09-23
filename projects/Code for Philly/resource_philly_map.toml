@@ -4,6 +4,7 @@ git_branch = "develop"
 last_pushed_within = "month"
 link_url = "https://dev-link-love.pantheonsite.io"
 name = "resource_philly_map"
+open_issues_within = 100
 organization_name = "Code for Philly"
 status = "Prototyping"
 topics = [

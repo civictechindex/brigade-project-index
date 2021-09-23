@@ -4,4 +4,5 @@ git_url = "git://github.com/MicrosoftTCE/fellows-guide.git"
 last_pushed_within = "over_a_year"
 link_url = "https://microsofttce.github.io/fellows-guide/"
 name = "fellows-guide"
+open_issues_within = 10
 organization_name = "Microsoft Technology and Civic Engagement"

@@ -5,5 +5,6 @@ git_url = "git://github.com/BetaNYC/Boundaries-Map.git"
 last_pushed_within = "year"
 link_url = "https://Boundaries.beta.nyc"
 name = "Boundaries-Map"
+open_issues_within = 100
 organization_name = "BetaNYC"
 topics = [ "community-districts" ]

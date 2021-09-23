@@ -4,4 +4,5 @@ git_branch = "gh-pages"
 git_url = "git://github.com/sketch-city/hou-literacy.git"
 last_pushed_within = "over_a_year"
 name = "hou-literacy"
+open_issues_within = 10
 organization_name = "Sketch City (Houston)"

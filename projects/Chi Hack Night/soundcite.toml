@@ -1,5 +1,7 @@
 code_url = "https://github.com/NUKnightLab/soundcite"
 git_branch = "master"
 last_pushed_within = "year"
+link_url = "http://soundcite.knightlab.com"
 name = "soundcite"
+open_issues_within = 100
 organization_name = "Chi Hack Night"

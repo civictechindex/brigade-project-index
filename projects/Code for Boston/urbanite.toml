@@ -4,4 +4,5 @@ git_branch = "dev_urbanite"
 git_url = "git://github.com/codeforboston/urbanite.git"
 last_pushed_within = "over_a_year"
 name = "urbanite"
+open_issues_within = 10
 organization_name = "Code for Boston"

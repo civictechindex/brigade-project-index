@@ -4,4 +4,5 @@ git_branch = "main"
 git_url = "git://github.com/18F/nasa-sbir-fake-data.git"
 last_pushed_within = "year"
 name = "nasa-sbir-fake-data"
+open_issues_within = 10
 organization_name = "18F"

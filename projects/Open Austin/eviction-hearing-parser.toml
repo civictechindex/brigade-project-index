@@ -5,5 +5,6 @@ git_url = "git://github.com/open-austin/eviction-hearing-parser.git"
 last_pushed_within = "year"
 link_url = "https://tx-eviction-hearing-parser.readthedocs.io/en/latest/"
 name = "eviction-hearing-parser"
+open_issues_within = 100
 organization_name = "Open Austin"
 topics = [ "eviction-hearings" ]

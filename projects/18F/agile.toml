@@ -5,4 +5,5 @@ git_url = "git://github.com/18F/agile.git"
 last_pushed_within = "month"
 link_url = "https://agile.18f.gov"
 name = "agile"
+open_issues_within = 100
 organization_name = "18F"

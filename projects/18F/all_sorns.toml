@@ -5,5 +5,6 @@ git_url = "git://github.com/18F/all_sorns.git"
 last_pushed_within = "week"
 link_url = "https://all-sorns.app.cloud.gov"
 name = "all_sorns"
+open_issues_within = 100
 organization_name = "18F"
 topics = [ "18f", "government", "government-data", "privacy", "rails" ]

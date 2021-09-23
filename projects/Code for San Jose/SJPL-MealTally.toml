@@ -4,6 +4,7 @@ git_branch = "master"
 git_url = "git://github.com/codeforsanjose/SJPL-MealTally.git"
 last_pushed_within = "year"
 name = "SJPL-MealTally"
+open_issues_within = 100
 organization_name = "Code for San Jose"
 topics = [
   "food",

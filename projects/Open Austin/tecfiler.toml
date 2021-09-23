@@ -4,4 +4,5 @@ git_branch = "master"
 git_url = "git://github.com/open-austin/tecfiler.git"
 last_pushed_within = "year"
 name = "tecfiler"
+open_issues_within = 100
 organization_name = "Open Austin"

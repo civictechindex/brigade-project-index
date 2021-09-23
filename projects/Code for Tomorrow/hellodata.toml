@@ -5,4 +5,5 @@ git_url = "git://github.com/codefortomorrow/hellodata.git"
 last_pushed_within = "over_a_year"
 link_url = "http://hellodata.org"
 name = "hellodata"
+open_issues_within = 1_000
 organization_name = "Code for Tomorrow"

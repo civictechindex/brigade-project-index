@@ -5,4 +5,5 @@ git_url = "git://github.com/codefornh/codefornh.org.git"
 last_pushed_within = "year"
 link_url = "http://www.codefornh.org/"
 name = "codefornh.org"
+open_issues_within = 10
 organization_name = "Code for New Hampshire"

@@ -4,6 +4,7 @@ git_branch = "main"
 git_url = "git://github.com/hackforla/access-the-data.git"
 last_pushed_within = "week"
 name = "access-the-data"
+open_issues_within = 100
 organization_name = "Hack for LA Brigade"
 topics = [
   "citizen-science",

@@ -5,4 +5,5 @@ git_url = "git://github.com/open-austin/hack-task-aggregator.git"
 last_pushed_within = "over_a_year"
 link_url = "http://open-austin.github.io/hack-task-aggregator/public/index.html"
 name = "hack-task-aggregator"
+open_issues_within = 10
 organization_name = "Open Austin"

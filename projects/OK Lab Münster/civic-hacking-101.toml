@@ -5,4 +5,5 @@ git_url = "git://github.com/codeformuenster/civic-hacking-101.git"
 last_pushed_within = "over_a_year"
 link_url = "http://codeformuenster.org/civic-hacking-101"
 name = "civic-hacking-101"
+open_issues_within = 10
 organization_name = "OK Lab Münster"

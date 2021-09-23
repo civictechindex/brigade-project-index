@@ -5,5 +5,6 @@ git_url = "git://github.com/mysociety/ruby-msg.git"
 last_pushed_within = "over_a_year"
 link_url = "http://ruby-msg.googlecode.com"
 name = "ruby-msg"
+open_issues_within = 10
 organization_name = "mySociety"
 topics = [ "alaveteli" ]

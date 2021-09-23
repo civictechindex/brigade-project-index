@@ -5,5 +5,6 @@ git_url = "git://github.com/codeforcroatia/imamopravoznati-staff.git"
 last_pushed_within = "year"
 link_url = "http://staff.imamopravoznati.org"
 name = "imamopravoznati-staff"
+open_issues_within = 10
 organization_name = "Code for Croatia"
 topics = [ "documentation", "github-pages", "jekyll" ]

@@ -5,4 +5,5 @@ git_url = "git://github.com/mysociety/sayit.mysociety.org.git"
 last_pushed_within = "year"
 link_url = "http://sayit.mysociety.org/"
 name = "sayit.mysociety.org"
+open_issues_within = 100
 organization_name = "mySociety"

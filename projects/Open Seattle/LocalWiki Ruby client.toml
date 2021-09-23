@@ -3,4 +3,5 @@ description = "Use the data from LocalWiki in your Ruby projects!"
 git_branch = "master"
 last_pushed_within = "over_a_year"
 name = "LocalWiki Ruby client"
+open_issues_within = 10
 organization_name = "Open Seattle"

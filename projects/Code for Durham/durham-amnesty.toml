@@ -3,4 +3,5 @@ git_branch = "master"
 git_url = "git://github.com/codefordurham/durham-amnesty.git"
 last_pushed_within = "over_a_year"
 name = "durham-amnesty"
+open_issues_within = 10
 organization_name = "Code for Durham"

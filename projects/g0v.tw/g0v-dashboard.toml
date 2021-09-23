@@ -5,4 +5,5 @@ git_url = "git://github.com/g0v/g0v-dashboard.git"
 last_pushed_within = "month"
 link_url = "http://g0v.github.io/g0v-dashboard"
 name = "g0v-dashboard"
+open_issues_within = 10
 organization_name = "g0v.tw"

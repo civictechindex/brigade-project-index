@@ -4,5 +4,6 @@ git_url = "git://github.com/code4romania/rezultate-vot-client.git"
 last_pushed_within = "year"
 link_url = "rezultate-vot-client-git-master.code4romania.vercel.app"
 name = "rezultate-vot-client"
+open_issues_within = 10
 organization_name = "Code for Romania"
 topics = [ "hacktoberfest" ]

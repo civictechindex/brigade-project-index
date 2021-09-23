@@ -5,6 +5,7 @@ git_url = "git://github.com/CodeForAfrica/wazimap.git"
 last_pushed_within = "over_a_year"
 link_url = "http://wazimap.readthedocs.org/en/latest/"
 name = "wazimap"
+open_issues_within = 10
 organization_name = "Code for Ghana"
 topics = [
   "africa",

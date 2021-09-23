@@ -3,4 +3,5 @@ git_branch = "master"
 git_url = "git://github.com/sfbrigade/first-aid.git"
 last_pushed_within = "over_a_year"
 name = "first-aid"
+open_issues_within = 10
 organization_name = "Code for San Francisco"

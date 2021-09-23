@@ -3,4 +3,5 @@ git_branch = "master"
 git_url = "git://github.com/mysociety/mzalendo-wordpress-theme.git"
 last_pushed_within = "over_a_year"
 name = "mzalendo-wordpress-theme"
+open_issues_within = 10
 organization_name = "mySociety"

@@ -2,4 +2,5 @@ code_url = "https://github.com/danxoneil/openblock"
 git_branch = "master"
 last_pushed_within = "over_a_year"
 name = "openblock"
+open_issues_within = 100
 organization_name = "Chi Hack Night"

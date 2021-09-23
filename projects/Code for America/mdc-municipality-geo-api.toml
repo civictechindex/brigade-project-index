@@ -5,4 +5,5 @@ git_url = "git://github.com/codeforamerica/mdc-municipality-geo-api.git"
 last_pushed_within = "over_a_year"
 link_url = "https://still-eyrie-4551.herokuapp.com/"
 name = "mdc-municipality-geo-api"
+open_issues_within = 10
 organization_name = "Code for America"

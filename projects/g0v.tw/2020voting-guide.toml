@@ -4,4 +4,5 @@ git_branch = "master"
 git_url = "git://github.com/g0v/2020voting-guide.git"
 last_pushed_within = "week"
 name = "2020voting-guide"
+open_issues_within = 100
 organization_name = "g0v.tw"

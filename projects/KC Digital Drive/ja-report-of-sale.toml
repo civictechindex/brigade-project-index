@@ -4,4 +4,5 @@ git_branch = "master"
 git_url = "git://github.com/codeforkansascity/ja-report-of-sale.git"
 last_pushed_within = "over_a_year"
 name = "ja-report-of-sale"
+open_issues_within = 10
 organization_name = "KC Digital Drive"

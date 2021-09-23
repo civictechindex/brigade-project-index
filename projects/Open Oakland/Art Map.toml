@@ -3,6 +3,7 @@ description = "Mapping art galleries and murals for the Art Murmur, Oakland's mo
 git_branch = "master"
 last_pushed_within = "year"
 name = "Art Map"
+open_issues_within = 10
 organization_name = "Open Oakland"
 topics = [
   "beauty",

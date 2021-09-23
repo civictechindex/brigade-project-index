@@ -4,4 +4,5 @@ git_branch = "master"
 git_url = "git://github.com/SCODEMeetup/community-services-locator-ui.git"
 last_pushed_within = "year"
 name = "community-services-locator-ui"
+open_issues_within = 100
 organization_name = "Open Columbus (Ohio)"

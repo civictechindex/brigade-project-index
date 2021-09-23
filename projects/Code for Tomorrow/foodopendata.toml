@@ -5,4 +5,5 @@ git_url = "git://github.com/codefortomorrow/foodopendata.git"
 last_pushed_within = "year"
 link_url = "http://food.codefortomorrow.org"
 name = "foodopendata"
+open_issues_within = 10
 organization_name = "Code for Tomorrow"

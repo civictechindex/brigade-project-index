@@ -4,4 +4,5 @@ git_url = "git://github.com/g0v/glyph.git"
 last_pushed_within = "over_a_year"
 link_url = "https://g0v.github.com/glyph"
 name = "glyph"
+open_issues_within = 10
 organization_name = "g0v.tw"

@@ -3,4 +3,5 @@ git_branch = "master"
 git_url = "git://github.com/codeforamerica/cross-brigade-collab.git"
 last_pushed_within = "over_a_year"
 name = "cross-brigade-collab"
+open_issues_within = 10
 organization_name = "Code for America"

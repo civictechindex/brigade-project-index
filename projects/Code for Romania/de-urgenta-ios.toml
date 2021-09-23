@@ -4,4 +4,5 @@ git_branch = "develop"
 git_url = "git://github.com/code4romania/de-urgenta-ios.git"
 last_pushed_within = "year"
 name = "de-urgenta-ios"
+open_issues_within = 10
 organization_name = "Code for Romania"

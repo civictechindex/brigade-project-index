@@ -4,6 +4,7 @@ git_branch = "development"
 git_url = "git://github.com/hackforla/VRMS.git"
 last_pushed_within = "week"
 name = "VRMS"
+open_issues_within = 1_000
 organization_name = "Hack for LA Brigade"
 topics = [
   "civictechindex",

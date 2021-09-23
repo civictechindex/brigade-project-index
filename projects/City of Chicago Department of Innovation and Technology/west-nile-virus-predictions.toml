@@ -4,6 +4,7 @@ git_branch = "master"
 git_url = "git://github.com/Chicago/west-nile-virus-predictions.git"
 last_pushed_within = "over_a_year"
 name = "west-nile-virus-predictions"
+open_issues_within = 10
 organization_name = "City of Chicago Department of Innovation and Technology"
 topics = [
   "cdph",

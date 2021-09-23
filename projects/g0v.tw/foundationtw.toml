@@ -3,4 +3,5 @@ git_branch = "master"
 git_url = "git://github.com/g0v/foundationtw.git"
 last_pushed_within = "over_a_year"
 name = "foundationtw"
+open_issues_within = 10
 organization_name = "g0v.tw"

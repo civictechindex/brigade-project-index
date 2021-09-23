@@ -4,5 +4,6 @@ git_branch = "master"
 git_url = "git://github.com/mysociety/alaveteli-experiments.git"
 last_pushed_within = "over_a_year"
 name = "alaveteli-experiments"
+open_issues_within = 100
 organization_name = "mySociety"
 topics = [ "alaveteli" ]

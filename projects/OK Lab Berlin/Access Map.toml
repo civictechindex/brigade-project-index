@@ -7,4 +7,5 @@ git_branch = "gh-pages"
 last_pushed_within = "over_a_year"
 link_url = "https://arduina.github.io/access_map/"
 name = "Access Map"
+open_issues_within = 10
 organization_name = "OK Lab Berlin"

@@ -4,5 +4,6 @@ git_branch = "master"
 git_url = "git://github.com/codefordayton/floswhistle-pandemic.git"
 last_pushed_within = "over_a_year"
 name = "floswhistle-pandemic"
+open_issues_within = 10
 organization_name = "Code for Dayton"
 topics = [ "covid-19" ]

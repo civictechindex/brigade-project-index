@@ -4,4 +4,5 @@ git_url = "git://github.com/codeforkyana/codeforkyana.github.io.git"
 last_pushed_within = "year"
 link_url = "https://codeforkentuckiana.org"
 name = "codeforkyana.github.io"
+open_issues_within = 10
 organization_name = "Code for Kentuckiana"

@@ -4,5 +4,6 @@ git_branch = "master"
 git_url = "git://github.com/Chicago/opengrid-svc-template.git"
 last_pushed_within = "over_a_year"
 name = "opengrid-svc-template"
+open_issues_within = 10
 organization_name = "City of Chicago Department of Innovation and Technology"
 topics = [ "chicago", "government", "java", "mongodb", "opengrid" ]

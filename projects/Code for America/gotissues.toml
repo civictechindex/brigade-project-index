@@ -5,4 +5,5 @@ git_url = "git://github.com/codeforamerica/gotissues.git"
 last_pushed_within = "over_a_year"
 link_url = "https://got-issues.herokuapp.com/"
 name = "gotissues"
+open_issues_within = 10
 organization_name = "Code for America"

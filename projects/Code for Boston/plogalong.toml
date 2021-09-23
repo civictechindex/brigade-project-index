@@ -3,4 +3,5 @@ git_branch = "develop"
 git_url = "git://github.com/codeforboston/plogalong.git"
 last_pushed_within = "week"
 name = "plogalong"
+open_issues_within = 100
 organization_name = "Code for Boston"

@@ -4,4 +4,5 @@ git_branch = "master"
 git_url = "git://github.com/OpenMaine/covid19-website.git"
 last_pushed_within = "over_a_year"
 name = "covid19-website"
+open_issues_within = 10
 organization_name = "Open Maine"

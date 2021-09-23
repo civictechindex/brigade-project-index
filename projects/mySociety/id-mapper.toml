@@ -5,4 +5,5 @@ git_url = "git://github.com/mysociety/id-mapper.git"
 last_pushed_within = "over_a_year"
 link_url = "https://www.mysociety.org/"
 name = "id-mapper"
+open_issues_within = 10
 organization_name = "mySociety"

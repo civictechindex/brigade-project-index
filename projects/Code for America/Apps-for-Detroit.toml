@@ -3,4 +3,5 @@ git_branch = "gh-pages"
 git_url = "git://github.com/codeforamerica/Apps-for-Detroit.git"
 last_pushed_within = "over_a_year"
 name = "Apps-for-Detroit"
+open_issues_within = 10
 organization_name = "Code for America"

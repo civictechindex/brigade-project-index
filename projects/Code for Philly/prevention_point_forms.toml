@@ -3,5 +3,6 @@ description = "Whoops--this project is a duplicate. See [Computer Vision for Pre
 git_branch = "master"
 last_pushed_within = "over_a_year"
 name = "prevention_point_forms"
+open_issues_within = 10
 organization_name = "Code for Philly"
 status = "Hibernating"

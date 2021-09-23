@@ -8,4 +8,5 @@ git_branch = "master"
 last_pushed_within = "over_a_year"
 link_url = "http://kiez-karte.berlin/"
 name = "Kiez Karte (Lichtenberg)"
+open_issues_within = 10
 organization_name = "OK Lab Berlin"

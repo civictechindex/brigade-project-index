@@ -5,6 +5,7 @@ git_url = "git://github.com/codeforboston/windfall-elimination.git"
 last_pushed_within = "month"
 link_url = "https://ssacalculator.org"
 name = "windfall-elimination"
+open_issues_within = 100
 organization_name = "Code for Boston"
 topics = [
   "code-for-america",

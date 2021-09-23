@@ -1,5 +1,7 @@
 code_url = "https://github.com/codeforamerica/super-mayor"
 git_branch = "master"
 last_pushed_within = "over_a_year"
+link_url = "http://supermayor.io"
 name = "super-mayor"
+open_issues_within = 10
 organization_name = "Chi Hack Night"

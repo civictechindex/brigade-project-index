@@ -5,4 +5,5 @@ git_url = "git://github.com/codefordc/dc-campaign-finance-watch.git"
 last_pushed_within = "year"
 link_url = "https://campaign-finance.codefordc.org"
 name = "dc-campaign-finance-watch"
+open_issues_within = 100
 organization_name = "Code for DC"

@@ -5,5 +5,6 @@ git_url = "git://github.com/18F/handbook.git"
 last_pushed_within = "week"
 link_url = "https://handbook.tts.gsa.gov/"
 name = "handbook"
+open_issues_within = 100
 organization_name = "18F"
 topics = [ "tts-handbook" ]

@@ -5,4 +5,5 @@ git_url = "git://github.com/codeformuenster/abfuhrkarte.git"
 last_pushed_within = "year"
 link_url = "https://abfuhrkarte.codeformuenster.org/"
 name = "abfuhrkarte"
+open_issues_within = 10
 organization_name = "OK Lab Münster"

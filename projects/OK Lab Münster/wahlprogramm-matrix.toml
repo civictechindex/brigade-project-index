@@ -5,4 +5,5 @@ git_url = "git://github.com/codeformuenster/wahlprogramm-matrix.git"
 last_pushed_within = "year"
 link_url = "http://codeformuenster.github.io/wahlprogramm-matrix"
 name = "wahlprogramm-matrix"
+open_issues_within = 100
 organization_name = "OK Lab Münster"

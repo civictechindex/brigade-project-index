@@ -3,4 +3,5 @@ git_branch = "master"
 git_url = "git://github.com/Chicago/risk-based-model-to-predict-food-inspection-critical-violations.git"
 last_pushed_within = "over_a_year"
 name = "risk-based-model-to-predict-food-inspection-critical-violations"
+open_issues_within = 10
 organization_name = "City of Chicago Department of Innovation and Technology"

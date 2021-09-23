@@ -3,4 +3,5 @@ git_branch = "main"
 git_url = "git://github.com/Code-For-Chicago/ceic_design_system.git"
 last_pushed_within = "year"
 name = "ceic_design_system"
+open_issues_within = 10
 organization_name = "Code for Chicago"

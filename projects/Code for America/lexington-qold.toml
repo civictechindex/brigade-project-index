@@ -5,4 +5,5 @@ git_url = "git://github.com/codeforamerica/lexington-qold.git"
 last_pushed_within = "over_a_year"
 link_url = "http://codeforamerica.github.io/lexington-qold"
 name = "lexington-qold"
+open_issues_within = 10
 organization_name = "Code for America"

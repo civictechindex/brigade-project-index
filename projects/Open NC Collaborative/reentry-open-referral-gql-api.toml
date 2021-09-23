@@ -4,4 +4,5 @@ git_branch = "master"
 git_url = "git://github.com/Open-NC/reentry-open-referral-gql-api.git"
 last_pushed_within = "over_a_year"
 name = "reentry-open-referral-gql-api"
+open_issues_within = 10
 organization_name = "Open NC Collaborative"

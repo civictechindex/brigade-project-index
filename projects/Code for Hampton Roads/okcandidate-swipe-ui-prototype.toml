@@ -3,5 +3,6 @@ git_branch = "master"
 git_url = "git://github.com/Code4HR/okcandidate-swipe-ui-prototype.git"
 last_pushed_within = "over_a_year"
 name = "okcandidate-swipe-ui-prototype"
+open_issues_within = 10
 organization_name = "Code for Hampton Roads"
 topics = [ "active" ]

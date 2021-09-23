@@ -5,4 +5,5 @@ git_url = "git://github.com/sfbrigade/lighten-ui.git"
 last_pushed_within = "over_a_year"
 link_url = "https://github.com/sfbrigade/lighten/wiki"
 name = "lighten-ui"
+open_issues_within = 10
 organization_name = "Code for San Francisco"

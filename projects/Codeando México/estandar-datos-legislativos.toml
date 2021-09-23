@@ -4,4 +4,5 @@ git_branch = "master"
 git_url = "git://github.com/CodeandoMexico/estandar-datos-legislativos.git"
 last_pushed_within = "year"
 name = "estandar-datos-legislativos"
+open_issues_within = 100
 organization_name = "Codeando México"

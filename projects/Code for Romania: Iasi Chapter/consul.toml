@@ -5,4 +5,5 @@ git_url = "git://github.com/code4romania/consul.git"
 last_pushed_within = "week"
 link_url = "https://consulproject.org"
 name = "consul"
+open_issues_within = 10
 organization_name = "Code for Romania: Iasi Chapter"

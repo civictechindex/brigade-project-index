@@ -3,4 +3,5 @@ git_branch = "master"
 git_url = "git://github.com/CodeForCuritiba/hacking-lab.git"
 last_pushed_within = "over_a_year"
 name = "hacking-lab"
+open_issues_within = 10
 organization_name = "Code for Curitiba"

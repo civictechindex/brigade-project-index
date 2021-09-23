@@ -5,5 +5,6 @@ git_url = "git://github.com/mysociety/bilmehakki-theme.git"
 last_pushed_within = "over_a_year"
 link_url = "http://bilmehakki.org"
 name = "bilmehakki-theme"
+open_issues_within = 10
 organization_name = "mySociety"
 topics = [ "alaveteli", "alaveteli-theme" ]

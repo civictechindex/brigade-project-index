@@ -5,4 +5,5 @@ git_url = "git://github.com/codefordenver/Circular.git"
 last_pushed_within = "over_a_year"
 link_url = "https://re-imagine-dev.firebaseapp.com/"
 name = "Circular"
+open_issues_within = 100
 organization_name = "Code for Denver"

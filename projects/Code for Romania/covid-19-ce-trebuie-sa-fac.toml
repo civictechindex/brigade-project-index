@@ -5,5 +5,6 @@ git_url = "git://github.com/code4romania/covid-19-ce-trebuie-sa-fac.git"
 last_pushed_within = "week"
 link_url = "https://cetrebuiesafac.ro"
 name = "covid-19-ce-trebuie-sa-fac"
+open_issues_within = 10
 organization_name = "Code for Romania"
 topics = [ "civic-tech", "covid-19" ]

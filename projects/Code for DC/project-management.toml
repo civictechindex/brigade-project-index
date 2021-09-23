@@ -3,4 +3,5 @@ git_branch = "master"
 git_url = "git://github.com/codefordc/project-management.git"
 last_pushed_within = "over_a_year"
 name = "project-management"
+open_issues_within = 100
 organization_name = "Code for DC"

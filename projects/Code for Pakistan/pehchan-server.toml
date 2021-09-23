@@ -3,4 +3,5 @@ git_branch = "master"
 git_url = "git://github.com/codeforpakistan/pehchan-server.git"
 last_pushed_within = "year"
 name = "pehchan-server"
+open_issues_within = 10
 organization_name = "Code for Pakistan"

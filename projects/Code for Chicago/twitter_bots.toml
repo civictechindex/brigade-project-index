@@ -3,4 +3,5 @@ git_branch = "master"
 git_url = "git://github.com/Code-For-Chicago/twitter_bots.git"
 last_pushed_within = "year"
 name = "twitter_bots"
+open_issues_within = 10
 organization_name = "Code for Chicago"

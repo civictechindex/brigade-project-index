@@ -5,4 +5,5 @@ git_url = "git://github.com/CodeForGiessen/badeseenservice.git"
 last_pushed_within = "over_a_year"
 link_url = "http://ci.andinfinity.de/codeforgiessen/badeseenservice/"
 name = "badeseenservice"
+open_issues_within = 10
 organization_name = "OK Lab Gießen"

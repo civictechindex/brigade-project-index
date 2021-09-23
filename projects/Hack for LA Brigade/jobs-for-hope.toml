@@ -5,6 +5,7 @@ git_url = "git://github.com/hackforla/jobs-for-hope.git"
 last_pushed_within = "month"
 link_url = "https://jobs-for-hope.herokuapp.com/"
 name = "jobs-for-hope"
+open_issues_within = 100
 organization_name = "Hack for LA Brigade"
 topics = [
   "civictechindex",

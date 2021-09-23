@@ -4,6 +4,7 @@ git_branch = "develop"
 last_pushed_within = "over_a_year"
 link_url = "http://www.cyclephilly.org"
 name = "Bike_Route_Tracker"
+open_issues_within = 10
 organization_name = "Code for Philly"
 status = "Drifting"
 topics = [ "Biking", "Cycling", "Transit", "Transportation" ]

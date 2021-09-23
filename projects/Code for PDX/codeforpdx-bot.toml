@@ -4,4 +4,5 @@ git_branch = "master"
 git_url = "git://github.com/codeforpdx/codeforpdx-bot.git"
 last_pushed_within = "over_a_year"
 name = "codeforpdx-bot"
+open_issues_within = 10
 organization_name = "Code for PDX"

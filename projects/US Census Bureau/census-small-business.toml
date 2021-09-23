@@ -5,5 +5,6 @@ git_url = "git://github.com/uscensusbureau/census-small-business.git"
 last_pushed_within = "over_a_year"
 link_url = "https://uscensusbureau.github.io/census-small-business/"
 name = "census-small-business"
+open_issues_within = 10
 organization_name = "US Census Bureau"
 topics = [ "census-bureau", "census-data", "small-business" ]

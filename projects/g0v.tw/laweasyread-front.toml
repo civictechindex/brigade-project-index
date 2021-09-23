@@ -5,4 +5,5 @@ git_url = "git://github.com/g0v/laweasyread-front.git"
 last_pushed_within = "week"
 link_url = "http://hack.g0v.tw/laweasyread"
 name = "laweasyread-front"
+open_issues_within = 100
 organization_name = "g0v.tw"

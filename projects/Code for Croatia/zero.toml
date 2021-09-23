@@ -4,5 +4,6 @@ git_branch = "gh-pages"
 git_url = "git://github.com/codeforcroatia/zero.git"
 last_pushed_within = "year"
 name = "zero"
+open_issues_within = 10
 organization_name = "Code for Croatia"
 topics = [ "jekyll" ]

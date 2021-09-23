@@ -4,4 +4,5 @@ git_branch = "master"
 git_url = "git://github.com/loomio/loomio_help.git"
 last_pushed_within = "week"
 name = "loomio_help"
+open_issues_within = 100
 organization_name = "Loomio"

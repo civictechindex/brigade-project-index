@@ -4,6 +4,7 @@ git_branch = "master"
 git_url = "git://github.com/EnCiv/undebate.git"
 last_pushed_within = "month"
 name = "undebate"
+open_issues_within = 1_000
 organization_name = "Hack for LA Brigade"
 topics = [
   "civictechindex",

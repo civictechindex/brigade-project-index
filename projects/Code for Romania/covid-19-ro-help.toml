@@ -4,5 +4,6 @@ git_branch = "develop"
 git_url = "git://github.com/code4romania/covid-19-ro-help.git"
 last_pushed_within = "week"
 name = "covid-19-ro-help"
+open_issues_within = 100
 organization_name = "Code for Romania"
 topics = [ "civic-tech" ]

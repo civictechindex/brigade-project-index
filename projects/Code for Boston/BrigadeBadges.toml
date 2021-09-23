@@ -5,4 +5,5 @@ git_url = "git://github.com/codeforboston/BrigadeBadges.git"
 last_pushed_within = "over_a_year"
 link_url = "http://j.mp/brigadebadges"
 name = "BrigadeBadges"
+open_issues_within = 10
 organization_name = "Code for Boston"

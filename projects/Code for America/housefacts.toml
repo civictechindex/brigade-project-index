@@ -5,4 +5,5 @@ git_url = "git://github.com/codeforamerica/housefacts.git"
 last_pushed_within = "over_a_year"
 link_url = "http://housefacts.me"
 name = "housefacts"
+open_issues_within = 10
 organization_name = "Code for America"

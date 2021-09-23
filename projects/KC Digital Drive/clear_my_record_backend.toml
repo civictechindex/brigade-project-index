@@ -4,4 +4,5 @@ git_branch = "master"
 git_url = "git://github.com/codeforkansascity/clear_my_record_backend.git"
 last_pushed_within = "year"
 name = "clear_my_record_backend"
+open_issues_within = 100
 organization_name = "KC Digital Drive"

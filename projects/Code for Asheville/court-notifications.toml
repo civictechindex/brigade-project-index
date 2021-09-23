@@ -3,4 +3,5 @@ git_branch = "main"
 git_url = "git://github.com/CodeForAsheville/court-notifications.git"
 last_pushed_within = "month"
 name = "court-notifications"
+open_issues_within = 10
 organization_name = "Code for Asheville"

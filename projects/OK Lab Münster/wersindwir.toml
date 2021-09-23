@@ -5,4 +5,5 @@ git_url = "git://github.com/codeformuenster/wersindwir.git"
 last_pushed_within = "over_a_year"
 link_url = "https://github.com/codeformuenster/wersindwir/blob/master/README.md"
 name = "wersindwir"
+open_issues_within = 10
 organization_name = "OK Lab Münster"

@@ -4,4 +4,5 @@ git_branch = "gh-pages"
 git_url = "git://github.com/codeforcroatia/reproduktivna-prava.git"
 last_pushed_within = "over_a_year"
 name = "reproduktivna-prava"
+open_issues_within = 10
 organization_name = "Code for Croatia"

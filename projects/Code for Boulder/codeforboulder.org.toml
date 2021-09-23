@@ -5,4 +5,5 @@ git_url = "git://github.com/CodeForBoulder/codeforboulder.org.git"
 last_pushed_within = "over_a_year"
 link_url = "http://codeforboulder.org"
 name = "codeforboulder.org"
+open_issues_within = 10
 organization_name = "Code for Boulder"

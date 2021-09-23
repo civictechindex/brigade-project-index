@@ -5,4 +5,5 @@ git_url = "git://github.com/code4romania/teacher-workout-client.git"
 last_pushed_within = "month"
 link_url = "https://teacher-workout-staging.vercel.app/"
 name = "teacher-workout-client"
+open_issues_within = 10
 organization_name = "Code for Romania: Cluj Chapter"

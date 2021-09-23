@@ -4,4 +4,5 @@ git_branch = "master"
 git_url = "git://github.com/code4romania/covid-19-stiri-oficiale-browser-addon.git"
 last_pushed_within = "year"
 name = "covid-19-stiri-oficiale-browser-addon"
+open_issues_within = 10
 organization_name = "Code for Romania"

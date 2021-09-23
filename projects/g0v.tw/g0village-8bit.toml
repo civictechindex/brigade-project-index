@@ -5,4 +5,5 @@ git_url = "git://github.com/g0v/g0village-8bit.git"
 last_pushed_within = "over_a_year"
 link_url = "http://8bit.g0v.tw/"
 name = "g0village-8bit"
+open_issues_within = 10
 organization_name = "g0v.tw"

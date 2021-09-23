@@ -4,4 +4,5 @@ git_branch = "development"
 git_url = "git://github.com/codeforjapan/mynumbercard_statistics.git"
 last_pushed_within = "week"
 name = "mynumbercard_statistics"
+open_issues_within = 10
 organization_name = "Code for Japan"

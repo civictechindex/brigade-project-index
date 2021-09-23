@@ -5,4 +5,5 @@ git_url = "git://github.com/CodeForAfrica/sensors.AFRICA-SeaSensors-Map.git"
 last_pushed_within = "week"
 link_url = "https://map.seasensors.africa/"
 name = "sensors.AFRICA-SeaSensors-Map"
+open_issues_within = 100
 organization_name = "Code for Kenya"

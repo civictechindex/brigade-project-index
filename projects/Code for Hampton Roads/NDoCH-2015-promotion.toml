@@ -4,5 +4,6 @@ git_branch = "master"
 git_url = "git://github.com/Code4HR/NDoCH-2015-promotion.git"
 last_pushed_within = "over_a_year"
 name = "NDoCH-2015-promotion"
+open_issues_within = 10
 organization_name = "Code for Hampton Roads"
 topics = [ "deprecated", "official" ]

@@ -4,4 +4,5 @@ git_branch = "master"
 git_url = "git://github.com/codefortulsa/courtbot-engine-facebook.git"
 last_pushed_within = "over_a_year"
 name = "courtbot-engine-facebook"
+open_issues_within = 10
 organization_name = "Code for Tulsa"

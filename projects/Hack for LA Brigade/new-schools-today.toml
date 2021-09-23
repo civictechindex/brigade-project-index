@@ -4,6 +4,7 @@ git_branch = "master"
 git_url = "git://github.com/hackforla/new-schools-today.git"
 last_pushed_within = "week"
 name = "new-schools-today"
+open_issues_within = 100
 organization_name = "Hack for LA Brigade"
 topics = [
   "civictechindex",

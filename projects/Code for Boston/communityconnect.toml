@@ -3,5 +3,6 @@ git_branch = "development"
 git_url = "git://github.com/codeforboston/communityconnect.git"
 last_pushed_within = "week"
 name = "communityconnect"
+open_issues_within = 100
 organization_name = "Code for Boston"
 topics = [ "code-for-america", "code-for-boston", "health-resource" ]

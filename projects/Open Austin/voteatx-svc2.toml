@@ -4,4 +4,5 @@ git_branch = "master"
 git_url = "git://github.com/open-austin/voteatx-svc2.git"
 last_pushed_within = "over_a_year"
 name = "voteatx-svc2"
+open_issues_within = 10
 organization_name = "Open Austin"

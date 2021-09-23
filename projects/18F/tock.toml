@@ -5,4 +5,5 @@ git_url = "git://github.com/18F/tock.git"
 last_pushed_within = "week"
 link_url = "https://18f.gsa.gov/2015/05/21/TockingTime/"
 name = "tock"
+open_issues_within = 100
 organization_name = "18F"

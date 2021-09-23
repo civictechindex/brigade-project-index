@@ -4,4 +4,5 @@ git_branch = "master"
 git_url = "git://github.com/opensandiego/Treepedia_Public_SanDiego.git"
 last_pushed_within = "over_a_year"
 name = "Treepedia_Public_SanDiego"
+open_issues_within = 10
 organization_name = "Open San Diego"

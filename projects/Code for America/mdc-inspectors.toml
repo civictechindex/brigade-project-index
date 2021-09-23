@@ -5,4 +5,5 @@ git_url = "git://github.com/codeforamerica/mdc-inspectors.git"
 last_pushed_within = "over_a_year"
 link_url = "https://mdc-inspectors-stage.herokuapp.com"
 name = "mdc-inspectors"
+open_issues_within = 10
 organization_name = "Code for America"

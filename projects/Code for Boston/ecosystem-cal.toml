@@ -5,4 +5,5 @@ git_url = "git://github.com/codeforboston/ecosystem-cal.git"
 last_pushed_within = "over_a_year"
 link_url = "http://codeforboston.github.io/ecosystem-cal/"
 name = "ecosystem-cal"
+open_issues_within = 10
 organization_name = "Code for Boston"

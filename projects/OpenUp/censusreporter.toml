@@ -4,4 +4,5 @@ git_branch = "master"
 git_url = "git://github.com/OpenUpSA/censusreporter.git"
 last_pushed_within = "over_a_year"
 name = "censusreporter"
+open_issues_within = 100
 organization_name = "OpenUp"

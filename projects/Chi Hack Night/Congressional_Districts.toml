@@ -2,4 +2,5 @@ code_url = "https://github.com/hunterowens/Congressional_Districts"
 git_branch = "master"
 last_pushed_within = "over_a_year"
 name = "Congressional_Districts"
+open_issues_within = 10
 organization_name = "Chi Hack Night"

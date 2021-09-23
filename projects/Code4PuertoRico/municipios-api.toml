@@ -5,6 +5,7 @@ git_url = "git://github.com/Code4PuertoRico/municipios-api.git"
 last_pushed_within = "year"
 link_url = "https://municipios.rauln.com"
 name = "municipios-api"
+open_issues_within = 10
 organization_name = "Code4PuertoRico"
 topics = [
   "flask-api",

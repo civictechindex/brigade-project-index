@@ -5,5 +5,6 @@ git_url = "git://github.com/code4romania/covid-19-jurnal-medical.git"
 last_pushed_within = "month"
 link_url = "https://dev.stamacasa.ro"
 name = "covid-19-jurnal-medical"
+open_issues_within = 100
 organization_name = "Code for Romania: Cluj Chapter"
 topics = [ "civic-tech", "covid-19", "hacktoberfest" ]

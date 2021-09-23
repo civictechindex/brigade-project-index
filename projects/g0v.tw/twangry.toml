@@ -5,4 +5,5 @@ git_url = "git://github.com/g0v/twangry.git"
 last_pushed_within = "year"
 link_url = "http://fact.g0v.tw"
 name = "twangry"
+open_issues_within = 100
 organization_name = "g0v.tw"

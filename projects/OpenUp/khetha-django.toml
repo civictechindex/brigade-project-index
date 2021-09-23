@@ -5,4 +5,5 @@ git_url = "git://github.com/OpenUpSA/khetha-django.git"
 last_pushed_within = "year"
 link_url = "https://khetha.org.za/"
 name = "khetha-django"
+open_issues_within = 10
 organization_name = "OpenUp"

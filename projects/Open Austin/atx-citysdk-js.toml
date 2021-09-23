@@ -5,4 +5,5 @@ git_url = "git://github.com/open-austin/atx-citysdk-js.git"
 last_pushed_within = "over_a_year"
 link_url = "http://open-austin.github.io/atx-citysdk-js/"
 name = "atx-citysdk-js"
+open_issues_within = 10
 organization_name = "Open Austin"

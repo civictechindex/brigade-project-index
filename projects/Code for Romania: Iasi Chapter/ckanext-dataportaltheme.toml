@@ -4,5 +4,6 @@ git_branch = "master"
 git_url = "git://github.com/code4romania/ckanext-dataportaltheme.git"
 last_pushed_within = "year"
 name = "ckanext-dataportaltheme"
+open_issues_within = 100
 organization_name = "Code for Romania: Iasi Chapter"
 topics = [ "ckan", "dataportal", "theme" ]

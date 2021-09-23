@@ -3,4 +3,5 @@ git_branch = "main"
 git_url = "git://github.com/OpenUpSA/adh-wazimap-uploaders.git"
 last_pushed_within = "year"
 name = "adh-wazimap-uploaders"
+open_issues_within = 10
 organization_name = "OpenUp"

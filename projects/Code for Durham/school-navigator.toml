@@ -5,6 +5,7 @@ git_url = "git://github.com/codefordurham/school-navigator.git"
 last_pushed_within = "month"
 link_url = "https://durhamschoolnavigator.org"
 name = "school-navigator"
+open_issues_within = 100
 organization_name = "Code for Durham"
 topics = [
   "angular",

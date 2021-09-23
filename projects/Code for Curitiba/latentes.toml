@@ -4,4 +4,5 @@ git_branch = "master"
 git_url = "git://github.com/CodeForCuritiba/latentes.git"
 last_pushed_within = "week"
 name = "latentes"
+open_issues_within = 100
 organization_name = "Code for Curitiba"

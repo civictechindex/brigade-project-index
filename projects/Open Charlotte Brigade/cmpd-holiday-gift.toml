@@ -4,6 +4,7 @@ git_branch = "develop"
 git_url = "git://github.com/OpenCLTBrigade/cmpd-holiday-gift.git"
 last_pushed_within = "year"
 name = "cmpd-holiday-gift"
+open_issues_within = 100
 organization_name = "Open Charlotte Brigade"
 topics = [
   "charlotte",

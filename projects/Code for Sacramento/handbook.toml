@@ -5,4 +5,5 @@ git_url = "git://github.com/code4sac/handbook.git"
 last_pushed_within = "over_a_year"
 link_url = "http://handbook.codeforsacramento.org"
 name = "handbook"
+open_issues_within = 10
 organization_name = "Code for Sacramento"

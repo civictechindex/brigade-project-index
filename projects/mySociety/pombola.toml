@@ -3,4 +3,5 @@ git_branch = "master"
 git_url = "git://github.com/mysociety/pombola.git"
 last_pushed_within = "over_a_year"
 name = "pombola"
+open_issues_within = 1_000
 organization_name = "mySociety"

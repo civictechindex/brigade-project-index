@@ -4,4 +4,5 @@ git_branch = "master"
 git_url = "git://github.com/Chicago/vision-zero-dashboard.git"
 last_pushed_within = "over_a_year"
 name = "vision-zero-dashboard"
+open_issues_within = 100
 organization_name = "City of Chicago Department of Innovation and Technology"

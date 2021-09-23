@@ -3,4 +3,5 @@ git_branch = "master"
 git_url = "git://github.com/g0v/twlyreader-prototype.git"
 last_pushed_within = "over_a_year"
 name = "twlyreader-prototype"
+open_issues_within = 10
 organization_name = "g0v.tw"

@@ -4,4 +4,5 @@ git_branch = "master"
 git_url = "git://github.com/OpenCLTBrigade/pull-request-practice.git"
 last_pushed_within = "over_a_year"
 name = "pull-request-practice"
+open_issues_within = 10
 organization_name = "Open Charlotte Brigade"

@@ -4,4 +4,5 @@ git_branch = "master"
 git_url = "git://github.com/OpenDataDE/State-zip-code-GeoJSON.git"
 last_pushed_within = "year"
 name = "State-zip-code-GeoJSON"
+open_issues_within = 10
 organization_name = "Open Data Delaware"

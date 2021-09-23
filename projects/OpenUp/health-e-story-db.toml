@@ -4,4 +4,5 @@ git_branch = "master"
 git_url = "git://github.com/OpenUpSA/health-e-story-db.git"
 last_pushed_within = "over_a_year"
 name = "health-e-story-db"
+open_issues_within = 10
 organization_name = "OpenUp"

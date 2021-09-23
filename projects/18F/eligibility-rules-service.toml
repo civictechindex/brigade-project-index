@@ -4,4 +4,5 @@ git_branch = "master"
 git_url = "git://github.com/18F/eligibility-rules-service.git"
 last_pushed_within = "year"
 name = "eligibility-rules-service"
+open_issues_within = 100
 organization_name = "18F"

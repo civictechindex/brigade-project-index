@@ -4,5 +4,6 @@ git_branch = "master"
 git_url = "git://github.com/CodeForFoco/org.git"
 last_pushed_within = "over_a_year"
 name = "org"
+open_issues_within = 10
 organization_name = "Code for Fort Collins"
 topics = [ "civic-hacking", "code-for-america", "foco", "fort-collins" ]

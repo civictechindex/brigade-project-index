@@ -4,6 +4,7 @@ git_branch = "master"
 git_url = "git://github.com/codefornola/big-easy-budget-game.git"
 last_pushed_within = "year"
 name = "big-easy-budget-game"
+open_issues_within = 10
 organization_name = "Code for New Orleans"
 topics = [
   "city",

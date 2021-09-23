@@ -4,4 +4,5 @@ git_branch = "master"
 git_url = "git://github.com/codeforjapan/summit2019.git"
 last_pushed_within = "month"
 name = "summit2019"
+open_issues_within = 100
 organization_name = "Code for Japan"

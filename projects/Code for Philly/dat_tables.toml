@@ -4,6 +4,7 @@ git_branch = "gh-pages"
 last_pushed_within = "over_a_year"
 link_url = "https://codeforphilly.github.io/decentralized-data/"
 name = "dat_tables"
+open_issues_within = 10
 organization_name = "Code for Philly"
 status = "Bootstrapping"
 topics = [

@@ -3,4 +3,5 @@ git_branch = "master"
 last_pushed_within = "over_a_year"
 link_url = "openseattle.org/metrocuts"
 name = "Seattle Metro Cuts"
+open_issues_within = 10
 organization_name = "Open Seattle"

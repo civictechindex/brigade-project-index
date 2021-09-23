@@ -5,4 +5,5 @@ git_url = "git://github.com/codeforamerica/national_holidays.git"
 last_pushed_within = "over_a_year"
 link_url = "http://national-holidays.herokuapp.com/"
 name = "national_holidays"
+open_issues_within = 10
 organization_name = "Code for America"

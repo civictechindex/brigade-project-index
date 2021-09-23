@@ -5,4 +5,5 @@ git_url = "git://github.com/opencleveland/large-lots.git"
 last_pushed_within = "year"
 link_url = "https://www.clevelandlots.org"
 name = "large-lots"
+open_issues_within = 100
 organization_name = "Open Cleveland"

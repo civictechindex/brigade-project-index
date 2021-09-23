@@ -4,4 +4,5 @@ git_branch = "master"
 git_url = "git://github.com/codeforatlanta/atlanta-candidate-ui.git"
 last_pushed_within = "over_a_year"
 name = "atlanta-candidate-ui"
+open_issues_within = 10
 organization_name = "Code for Atlanta"

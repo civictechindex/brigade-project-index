@@ -2,6 +2,7 @@ code_url = "https://github.com/Chicago/open-data-etl-utility-kit"
 git_branch = "master"
 last_pushed_within = "over_a_year"
 name = "open-data-etl-utility-kit"
+open_issues_within = 100
 organization_name = "Chi Hack Night"
 topics = [
   "chicago",

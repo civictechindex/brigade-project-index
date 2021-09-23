@@ -5,6 +5,7 @@ git_url = "git://github.com/hackforla/ballotnav.git"
 last_pushed_within = "month"
 link_url = "https://BallotNav.org"
 name = "ballotnav"
+open_issues_within = 1_000
 organization_name = "Hack for LA Brigade"
 topics = [
   "ballot",

@@ -4,4 +4,5 @@ git_branch = "master"
 git_url = "git://github.com/codeforkobe/cfjs2017_bof.git"
 last_pushed_within = "over_a_year"
 name = "cfjs2017_bof"
+open_issues_within = 10
 organization_name = "Code for Kobe"

@@ -4,4 +4,5 @@ git_branch = "main"
 git_url = "git://github.com/codefordenver/expunge-colorado-screener.git"
 last_pushed_within = "year"
 name = "expunge-colorado-screener"
+open_issues_within = 10
 organization_name = "Code for Denver"

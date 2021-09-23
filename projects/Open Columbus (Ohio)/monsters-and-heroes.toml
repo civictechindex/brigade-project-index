@@ -3,4 +3,5 @@ git_branch = "master"
 git_url = "git://github.com/SCODEMeetup/monsters-and-heroes.git"
 last_pushed_within = "year"
 name = "monsters-and-heroes"
+open_issues_within = 10
 organization_name = "Open Columbus (Ohio)"

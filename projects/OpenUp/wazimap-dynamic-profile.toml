@@ -4,4 +4,5 @@ git_branch = "master"
 git_url = "git://github.com/OpenUpSA/wazimap-dynamic-profile.git"
 last_pushed_within = "year"
 name = "wazimap-dynamic-profile"
+open_issues_within = 10
 organization_name = "OpenUp"

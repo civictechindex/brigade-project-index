@@ -5,4 +5,5 @@ git_url = "git://github.com/codefortulsa/food-for-thought-ok.git"
 last_pushed_within = "week"
 link_url = "https://meals4kidsok.org"
 name = "food-for-thought-ok"
+open_issues_within = 10
 organization_name = "Code for Tulsa"

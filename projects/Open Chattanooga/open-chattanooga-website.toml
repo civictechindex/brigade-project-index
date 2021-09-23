@@ -5,4 +5,5 @@ git_url = "git://github.com/openchattanooga/open-chattanooga-website.git"
 last_pushed_within = "year"
 link_url = "http://openchattanooga.com"
 name = "open-chattanooga-website"
+open_issues_within = 10
 organization_name = "Open Chattanooga"

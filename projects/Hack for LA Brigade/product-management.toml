@@ -5,6 +5,7 @@ git_url = "git://github.com/hackforla/product-management.git"
 last_pushed_within = "month"
 link_url = "https://hackforla.org/communities-of-practice"
 name = "product-management"
+open_issues_within = 1_000
 organization_name = "Hack for LA Brigade"
 topics = [
   "civictechindex",

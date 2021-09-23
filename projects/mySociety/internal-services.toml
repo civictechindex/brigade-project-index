@@ -4,4 +4,5 @@ git_branch = "master"
 git_url = "git://github.com/mysociety/internal-services.git"
 last_pushed_within = "over_a_year"
 name = "internal-services"
+open_issues_within = 10
 organization_name = "mySociety"

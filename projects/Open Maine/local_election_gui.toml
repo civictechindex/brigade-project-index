@@ -3,4 +3,5 @@ git_branch = "master"
 git_url = "git://github.com/OpenMaine/local_election_gui.git"
 last_pushed_within = "over_a_year"
 name = "local_election_gui"
+open_issues_within = 10
 organization_name = "Open Maine"

@@ -5,4 +5,5 @@ git_url = "git://github.com/codeforboston/child-care-finder.git"
 last_pushed_within = "over_a_year"
 link_url = "http://codeforboston.github.io/child-care-finder/"
 name = "child-care-finder"
+open_issues_within = 10
 organization_name = "Code for Boston"

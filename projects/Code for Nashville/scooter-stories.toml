@@ -5,4 +5,5 @@ git_url = "git://github.com/code-for-nashville/scooter-stories.git"
 last_pushed_within = "year"
 link_url = "https://www.codefornashville.org/scooter-stories/scooter-report-card/"
 name = "scooter-stories"
+open_issues_within = 10
 organization_name = "Code for Nashville"

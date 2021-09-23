@@ -3,4 +3,5 @@ git_branch = "master"
 git_url = "git://github.com/code4sac/SacSOS-Ohana-api.git"
 last_pushed_within = "over_a_year"
 name = "SacSOS-Ohana-api"
+open_issues_within = 10
 organization_name = "Code for Sacramento"

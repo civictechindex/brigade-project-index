@@ -4,4 +4,5 @@ git_branch = "master"
 git_url = "git://github.com/Open-NC/reentry-admin-ui.git"
 last_pushed_within = "over_a_year"
 name = "reentry-admin-ui"
+open_issues_within = 10
 organization_name = "Open NC Collaborative"

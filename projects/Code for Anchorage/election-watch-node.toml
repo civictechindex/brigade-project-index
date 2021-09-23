@@ -3,4 +3,5 @@ git_branch = "master"
 git_url = "git://github.com/codeforanchorage/election-watch-node.git"
 last_pushed_within = "year"
 name = "election-watch-node"
+open_issues_within = 10
 organization_name = "Code for Anchorage"

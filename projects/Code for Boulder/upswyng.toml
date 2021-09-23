@@ -5,6 +5,7 @@ git_url = "git://github.com/CodeForBoulder/upswyng.git"
 last_pushed_within = "month"
 link_url = "https://beta.upswyng.org"
 name = "upswyng"
+open_issues_within = 100
 organization_name = "Code for Boulder"
 topics = [
   "civic-hacking",

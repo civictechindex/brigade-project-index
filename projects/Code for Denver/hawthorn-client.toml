@@ -5,6 +5,7 @@ git_url = "git://github.com/codefordenver/hawthorn-client.git"
 last_pushed_within = "over_a_year"
 link_url = "http://hawth.org"
 name = "hawthorn-client"
+open_issues_within = 100
 organization_name = "Code for Denver"
 topics = [
   "affinity-groups",

@@ -4,4 +4,5 @@ git_branch = "master"
 git_url = "git://github.com/codeforkansascity/adventures-in-biking.git"
 last_pushed_within = "over_a_year"
 name = "adventures-in-biking"
+open_issues_within = 10
 organization_name = "KC Digital Drive"

@@ -5,4 +5,5 @@ git_url = "git://github.com/18F/10x-MLaaS.git"
 last_pushed_within = "month"
 link_url = "https://10x.gsa.gov"
 name = "10x-MLaaS"
+open_issues_within = 100
 organization_name = "18F"

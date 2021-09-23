@@ -4,6 +4,7 @@ git_branch = "master"
 git_url = "git://github.com/cforlando/how-to-vote-swift.git"
 last_pushed_within = "over_a_year"
 name = "how-to-vote-swift"
+open_issues_within = 10
 organization_name = "Code for Orlando"
 topics = [
   "code-for-america",

@@ -5,4 +5,5 @@ git_url = "git://github.com/CodeforNRV/dss-virginia.git"
 last_pushed_within = "over_a_year"
 link_url = "https://codefornrv.github.io/dss-virginia"
 name = "dss-virginia"
+open_issues_within = 10
 organization_name = "Code for New River Valley"

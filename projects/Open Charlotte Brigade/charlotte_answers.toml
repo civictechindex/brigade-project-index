@@ -5,4 +5,5 @@ git_url = "git://github.com/OpenCLTBrigade/charlotte_answers.git"
 last_pushed_within = "over_a_year"
 link_url = "http://cltanswers.itsbspoke.com/"
 name = "charlotte_answers"
+open_issues_within = 10
 organization_name = "Open Charlotte Brigade"

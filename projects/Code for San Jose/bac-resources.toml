@@ -3,4 +3,5 @@ git_branch = "main"
 git_url = "git://github.com/codeforsanjose/bac-resources.git"
 last_pushed_within = "year"
 name = "bac-resources"
+open_issues_within = 10
 organization_name = "Code for San Jose"

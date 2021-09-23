@@ -4,4 +4,5 @@ git_branch = "master"
 git_url = "git://github.com/codeforboston/brigade_backend.git"
 last_pushed_within = "over_a_year"
 name = "brigade_backend"
+open_issues_within = 10
 organization_name = "Code for Boston"

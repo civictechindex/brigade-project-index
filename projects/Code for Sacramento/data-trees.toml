@@ -3,4 +3,5 @@ git_branch = "master"
 git_url = "git://github.com/code4sac/data-trees.git"
 last_pushed_within = "over_a_year"
 name = "data-trees"
+open_issues_within = 10
 organization_name = "Code for Sacramento"

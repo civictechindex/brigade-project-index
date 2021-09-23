@@ -5,4 +5,5 @@ git_url = "git://github.com/CodeforChemnitz/codeforchemnitz.github.io.git"
 last_pushed_within = "year"
 link_url = "http://codeforchemnitz.de"
 name = "codeforchemnitz.github.io"
+open_issues_within = 10
 organization_name = "OK Lab Chemnitz"

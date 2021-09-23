@@ -5,4 +5,5 @@ git_url = "git://github.com/codeforkansascity/address-api-previewer.git"
 last_pushed_within = "over_a_year"
 link_url = "http://codeforkc.org/address-api-previewer/"
 name = "address-api-previewer"
+open_issues_within = 10
 organization_name = "KC Digital Drive"

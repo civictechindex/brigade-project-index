@@ -5,4 +5,5 @@ git_url = "git://github.com/codeforjapan/vs-covid19.git"
 last_pushed_within = "year"
 link_url = "https://vscovid19.code4japan.org/"
 name = "vs-covid19"
+open_issues_within = 10
 organization_name = "Code for Japan"

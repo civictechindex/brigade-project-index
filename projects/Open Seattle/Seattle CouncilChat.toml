@@ -4,5 +4,6 @@ git_branch = "gh-pages"
 last_pushed_within = "over_a_year"
 link_url = "http://councilchat.seattle.io"
 name = "Seattle CouncilChat"
+open_issues_within = 10
 organization_name = "Open Seattle"
 status = "live/ongoing"

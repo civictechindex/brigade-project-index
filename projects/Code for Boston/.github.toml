@@ -3,4 +3,5 @@ git_branch = "master"
 git_url = "git://github.com/codeforboston/.github.git"
 last_pushed_within = "year"
 name = ".github"
+open_issues_within = 10
 organization_name = "Code for Boston"
