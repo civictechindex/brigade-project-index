@@ -9,7 +9,6 @@ allow_forking = true
 archived = false
 created_at = "2014-04-17T00:08:28Z"
 default_branch = "master"
-description = { }
 disabled = false
 fork = false
 forks_within = 0
@@ -19,9 +18,7 @@ has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = true
-homepage = { }
 id = 18_861_006
-language = { }
 name = "beaconTheNation"
 node_id = "MDEwOlJlcG9zaXRvcnkxODg2MTAwNg=="
 open_issues_within = 0

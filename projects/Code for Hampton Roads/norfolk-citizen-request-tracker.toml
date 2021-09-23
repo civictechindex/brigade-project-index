@@ -23,8 +23,6 @@ has_projects = true
 has_wiki = true
 homepage = "http://www.norfolk.gov/requesttracker.aspx"
 id = 21_968_042
-language = { }
-license = { }
 name = "norfolk-citizen-request-tracker"
 node_id = "MDEwOlJlcG9zaXRvcnkyMTk2ODA0Mg=="
 open_issues_within = 10
