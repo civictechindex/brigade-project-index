@@ -9,7 +9,6 @@ allow_forking = true
 archived = false
 created_at = "2016-03-05T04:38:14Z"
 default_branch = "static"
-description = { }
 disabled = false
 fork = false
 forks_within = 10
@@ -22,7 +21,6 @@ has_wiki = true
 homepage = "http://codeforseoul.org/jonmat/"
 id = 53_183_616
 language = "JavaScript"
-license = { }
 name = "jonmat"
 node_id = "MDEwOlJlcG9zaXRvcnk1MzE4MzYxNg=="
 open_issues_within = 10

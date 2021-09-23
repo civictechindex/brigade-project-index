@@ -23,7 +23,6 @@ has_wiki = true
 homepage = "http://taxman.openspending.org"
 id = 22_302_231
 language = "CoffeeScript"
-license = { }
 name = "taxman"
 node_id = "MDEwOlJlcG9zaXRvcnkyMjMwMjIzMQ=="
 open_issues_within = 10

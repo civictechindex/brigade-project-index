@@ -19,10 +19,8 @@ has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = true
-homepage = { }
 id = 30_409_019
 language = "Python"
-license = { }
 name = "FdAs_Crawler"
 node_id = "MDEwOlJlcG9zaXRvcnkzMDQwOTAxOQ=="
 open_issues_within = 0

@@ -9,7 +9,6 @@ allow_forking = true
 archived = false
 created_at = "2015-03-03T04:02:27Z"
 default_branch = "master"
-description = { }
 disabled = false
 fork = false
 forks_within = 10
@@ -22,7 +21,6 @@ has_wiki = true
 homepage = "http://codeforseoul.org/xwMOOC/"
 id = 31_578_557
 language = "HTML"
-license = { }
 name = "xwMOOC"
 node_id = "MDEwOlJlcG9zaXRvcnkzMTU3ODU1Nw=="
 open_issues_within = 0
