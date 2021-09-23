@@ -23,10 +23,10 @@ name = "publiccode-pusher"
 node_id = "MDEwOlJlcG9zaXRvcnkzNjc0ODQwODY="
 open_issues_within = 100
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 0
 topics = [ ]
-updated_within = "year"
+updated_within = "week"
 watchers_within = 0
 
   [github.license]
