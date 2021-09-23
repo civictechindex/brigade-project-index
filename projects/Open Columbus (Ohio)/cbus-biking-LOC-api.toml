@@ -19,10 +19,8 @@ has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = true
-homepage = { }
 id = 310_405_842
 language = "Ruby"
-license = { }
 name = "cbus-biking-LOC-api"
 node_id = "MDEwOlJlcG9zaXRvcnkzMTA0MDU4NDI="
 open_issues_within = 0
