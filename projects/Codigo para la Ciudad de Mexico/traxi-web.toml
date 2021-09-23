@@ -19,10 +19,8 @@ has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = true
-homepage = { }
 id = 20_572_168
 language = "Ruby"
-license = { }
 name = "traxi-web"
 node_id = "MDEwOlJlcG9zaXRvcnkyMDU3MjE2OA=="
 open_issues_within = 10

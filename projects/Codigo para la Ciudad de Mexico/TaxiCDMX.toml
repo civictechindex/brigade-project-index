@@ -19,10 +19,8 @@ has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = true
-homepage = { }
 id = 16_748_180
 language = "C++"
-license = { }
 name = "TaxiCDMX"
 node_id = "MDEwOlJlcG9zaXRvcnkxNjc0ODE4MA=="
 open_issues_within = 10
