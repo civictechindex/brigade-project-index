@@ -19,10 +19,8 @@ has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = true
-homepage = { }
 id = 46_006_120
 language = "PHP"
-license = { }
 name = "politikei_api"
 node_id = "MDEwOlJlcG9zaXRvcnk0NjAwNjEyMA=="
 open_issues_within = 10
