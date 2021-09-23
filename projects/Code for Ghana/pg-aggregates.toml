@@ -19,10 +19,8 @@ has_issues = false
 has_pages = false
 has_projects = true
 has_wiki = true
-homepage = { }
 id = 202_093_938
 language = "TypeScript"
-license = { }
 name = "pg-aggregates"
 node_id = "MDEwOlJlcG9zaXRvcnkyMDIwOTM5Mzg="
 open_issues_within = 0

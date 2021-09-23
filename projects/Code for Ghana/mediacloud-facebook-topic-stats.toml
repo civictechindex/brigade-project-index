@@ -19,10 +19,8 @@ has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = true
-homepage = { }
 id = 401_232_007
 language = "Python"
-license = { }
 name = "mediacloud-facebook-topic-stats"
 node_id = "MDEwOlJlcG9zaXRvcnk0MDEyMzIwMDc="
 open_issues_within = 0
