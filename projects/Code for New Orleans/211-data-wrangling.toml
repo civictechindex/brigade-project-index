@@ -29,10 +29,8 @@ has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = true
-homepage = { }
 id = 255_755_273
 language = "Python"
-license = { }
 name = "211-data-wrangling"
 node_id = "MDEwOlJlcG9zaXRvcnkyNTU3NTUyNzM="
 open_issues_within = 10
