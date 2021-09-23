@@ -19,10 +19,8 @@ has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = true
-homepage = { }
 id = 320_807_453
 language = "Python"
-license = { }
 name = "sensors.AFRICA-api-Data-PurpleAir"
 node_id = "MDEwOlJlcG9zaXRvcnkzMjA4MDc0NTM="
 open_issues_within = 10
