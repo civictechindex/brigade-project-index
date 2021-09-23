@@ -25,12 +25,12 @@ network_count = 80
 node_id = "MDEwOlJlcG9zaXRvcnkxMjg3ODc2NQ=="
 open_issues_within = 100
 private = false
-pushed_within = "week"
+pushed_within = "month"
 stargazers_within = 1_000
 subscribers_count = 23
 temp_clone_token = ""
 topics = [ "chicago", "government", "open-data", "r", "socrata", "soda" ]
-updated_within = "week"
+updated_within = "month"
 watchers_within = 1_000
 
   [github.license]
