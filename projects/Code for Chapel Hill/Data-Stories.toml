@@ -8,7 +8,6 @@ allow_forking = true
 archived = false
 created_at = "2020-02-25T23:29:21Z"
 default_branch = "master"
-description = { }
 disabled = false
 fork = false
 forks_within = 10
@@ -20,8 +19,6 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 243_124_883
-language = { }
-license = { }
 name = "Data-Stories"
 node_id = "MDEwOlJlcG9zaXRvcnkyNDMxMjQ4ODM="
 open_issues_within = 0
