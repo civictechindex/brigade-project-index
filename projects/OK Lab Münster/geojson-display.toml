@@ -19,10 +19,8 @@ has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = true
-homepage = { }
 id = 61_233_311
 language = "JavaScript"
-license = { }
 name = "geojson-display"
 node_id = "MDEwOlJlcG9zaXRvcnk2MTIzMzMxMQ=="
 open_issues_within = 10

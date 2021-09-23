@@ -8,7 +8,6 @@ allow_forking = true
 archived = false
 created_at = "2020-01-21T20:27:06Z"
 default_branch = "master"
-description = { }
 disabled = false
 fork = true
 forks_within = 0
@@ -18,9 +17,7 @@ has_issues = false
 has_pages = true
 has_projects = true
 has_wiki = true
-homepage = { }
 id = 235_435_007
-language = { }
 name = "display.muenster.jetzt"
 node_id = "MDEwOlJlcG9zaXRvcnkyMzU0MzUwMDc="
 open_issues_within = 0

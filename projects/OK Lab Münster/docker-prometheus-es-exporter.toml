@@ -8,7 +8,6 @@ allow_forking = true
 archived = false
 created_at = "2016-12-25T14:25:33Z"
 default_branch = "master"
-description = { }
 disabled = false
 fork = false
 forks_within = 0
@@ -18,9 +17,7 @@ has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = true
-homepage = { }
 id = 77_329_329
-language = { }
 name = "docker-prometheus-es-exporter"
 node_id = "MDEwOlJlcG9zaXRvcnk3NzMyOTMyOQ=="
 open_issues_within = 0
