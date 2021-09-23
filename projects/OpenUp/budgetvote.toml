@@ -9,7 +9,6 @@ allow_forking = true
 archived = false
 created_at = "2016-02-22T08:26:12Z"
 default_branch = "gh-pages"
-description = { }
 disabled = false
 fork = false
 forks_within = 10
@@ -22,7 +21,6 @@ has_wiki = false
 homepage = "http://vote4thebudget.org"
 id = 52_258_417
 language = "CSS"
-license = { }
 name = "budgetvote"
 node_id = "MDEwOlJlcG9zaXRvcnk1MjI1ODQxNw=="
 open_issues_within = 0

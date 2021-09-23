@@ -19,10 +19,8 @@ has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = true
-homepage = { }
 id = 64_226_594
 language = "Python"
-license = { }
 name = "gazettes-aleph-dokku"
 node_id = "MDEwOlJlcG9zaXRvcnk2NDIyNjU5NA=="
 open_issues_within = 10

@@ -19,10 +19,8 @@ has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = true
-homepage = { }
 id = 107_664_651
 language = "Shell"
-license = { }
 name = "scrape-cron"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDc2NjQ2NTE="
 open_issues_within = 0

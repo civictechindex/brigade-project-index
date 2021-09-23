@@ -19,10 +19,8 @@ has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = true
-homepage = { }
 id = 189_218_838
 language = "Python"
-license = { }
 name = "open-data-portal-migration"
 node_id = "MDEwOlJlcG9zaXRvcnkxODkyMTg4Mzg="
 open_issues_within = 10

@@ -19,7 +19,6 @@ has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = true
-homepage = { }
 id = 275_440_671
 language = "Python"
 name = "scrapy-feed-storage-internetarchive"

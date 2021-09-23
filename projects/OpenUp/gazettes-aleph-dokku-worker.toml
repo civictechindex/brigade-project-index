@@ -19,10 +19,8 @@ has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = true
-homepage = { }
 id = 64_226_665
 language = "Dockerfile"
-license = { }
 name = "gazettes-aleph-dokku-worker"
 node_id = "MDEwOlJlcG9zaXRvcnk2NDIyNjY2NQ=="
 open_issues_within = 10
