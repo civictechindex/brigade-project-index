@@ -19,10 +19,8 @@ has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = true
-homepage = { }
 id = 51_720_846
 language = "Python"
-license = { }
 name = "openelections-data-tx"
 node_id = "MDEwOlJlcG9zaXRvcnk1MTcyMDg0Ng=="
 open_issues_within = 100

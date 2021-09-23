@@ -19,10 +19,8 @@ has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = true
-homepage = { }
 id = 32_458_224
 language = "R"
-license = { }
 name = "openelections-data-ne"
 node_id = "MDEwOlJlcG9zaXRvcnkzMjQ1ODIyNA=="
 open_issues_within = 10

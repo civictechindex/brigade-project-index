@@ -8,7 +8,6 @@ allow_forking = true
 archived = false
 created_at = "2020-11-22T02:07:39Z"
 default_branch = "main"
-description = { }
 disabled = false
 fork = true
 forks_within = 0
@@ -18,9 +17,7 @@ has_issues = false
 has_pages = false
 has_projects = true
 has_wiki = true
-homepage = { }
 id = 314_941_407
-language = { }
 name = "electionware"
 node_id = "MDEwOlJlcG9zaXRvcnkzMTQ5NDE0MDc="
 open_issues_within = 0

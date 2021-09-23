@@ -19,10 +19,8 @@ has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = true
-homepage = { }
 id = 40_539_329
 language = "Python"
-license = { }
 name = "openelections-data-az"
 node_id = "MDEwOlJlcG9zaXRvcnk0MDUzOTMyOQ=="
 open_issues_within = 100
