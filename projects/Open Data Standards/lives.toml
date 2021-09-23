@@ -9,7 +9,6 @@ allow_forking = true
 archived = false
 created_at = "2015-06-11T21:39:21Z"
 default_branch = "gh-pages"
-description = { }
 disabled = false
 fork = false
 forks_within = 10
@@ -22,7 +21,6 @@ has_wiki = true
 homepage = "http://open-data-standards.github.io/lives/"
 id = 37_287_558
 language = "CSS"
-license = { }
 name = "lives"
 node_id = "MDEwOlJlcG9zaXRvcnkzNzI4NzU1OA=="
 open_issues_within = 10

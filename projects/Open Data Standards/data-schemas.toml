@@ -19,10 +19,8 @@ has_issues = true
 has_pages = true
 has_projects = true
 has_wiki = true
-homepage = { }
 id = 21_920_023
 language = "Ruby"
-license = { }
 name = "data-schemas"
 node_id = "MDEwOlJlcG9zaXRvcnkyMTkyMDAyMw=="
 open_issues_within = 10
