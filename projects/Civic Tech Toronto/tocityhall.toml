@@ -24,7 +24,6 @@ has_wiki = true
 homepage = "https://tocityhall-webapp-staging.herokuapp.com/browser/www"
 id = 35_777_679
 language = "JavaScript"
-license = { }
 name = "tocityhall-app"
 network_count = 4
 node_id = "MDEwOlJlcG9zaXRvcnkzNTc3NzY3OQ=="
@@ -72,7 +71,6 @@ watchers_within = 0
   homepage = ""
   id = 31_681_868
   language = "JavaScript"
-  license = { }
   name = "toronto-city-hall"
   node_id = "MDEwOlJlcG9zaXRvcnkzMTY4MTg2OA=="
   open_issues_within = 10
@@ -116,7 +114,6 @@ watchers_within = 0
   homepage = ""
   id = 31_681_868
   language = "JavaScript"
-  license = { }
   name = "toronto-city-hall"
   node_id = "MDEwOlJlcG9zaXRvcnkzMTY4MTg2OA=="
   open_issues_within = 10
