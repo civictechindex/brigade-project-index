@@ -35,7 +35,7 @@ name = "product-management"
 node_id = "MDEwOlJlcG9zaXRvcnkyNzUwNDI2MzM="
 open_issues_within = 1_000
 private = false
-pushed_within = "month"
+pushed_within = "week"
 score = 1
 stargazers_within = 100
 topics = [
@@ -47,7 +47,7 @@ topics = [
   "product",
   "product-managment"
 ]
-updated_within = "month"
+updated_within = "week"
 watchers_within = 100
 
   [github.owner]
