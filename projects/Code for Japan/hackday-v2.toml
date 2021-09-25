@@ -1,0 +1,44 @@
+code_url = "https://github.com/codeforjapan/hackday-v2"
+git_url = "git://github.com/codeforjapan/hackday-v2.git"
+name = "hackday-v2"
+organization_name = "Code for Japan"
+
+[github]
+allow_forking = true
+archived = false
+created_at = "2021-09-25T07:58:03Z"
+default_branch = "main"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "codeforjapan/hackday-v2"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+id = 410_212_069
+name = "hackday-v2"
+node_id = "R_kgDOGHNW5Q"
+open_issues_within = 0
+private = false
+pushed_within = "week"
+stargazers_within = 0
+topics = [ ]
+updated_within = "week"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 5_137_738
+  login = "codeforjapan"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjUxMzc3Mzg="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  maintain = false
+  pull = true
+  push = false
+  triage = false
