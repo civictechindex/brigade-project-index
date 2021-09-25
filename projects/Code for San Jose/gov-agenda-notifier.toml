@@ -27,7 +27,7 @@ name = "gov-agenda-notifier"
 node_id = "MDEwOlJlcG9zaXRvcnkyOTYyMDM1NTM="
 open_issues_within = 100
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
 updated_within = "year"
