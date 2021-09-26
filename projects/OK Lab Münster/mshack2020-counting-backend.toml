@@ -25,10 +25,10 @@ name = "mshack2020-counting-backend"
 node_id = "MDEwOlJlcG9zaXRvcnkyOTg1MjkyOTQ="
 open_issues_within = 10
 private = false
-pushed_within = "year"
+pushed_within = "over_a_year"
 stargazers_within = 10
 topics = [ "mshack20", "mszaehlt" ]
-updated_within = "year"
+updated_within = "over_a_year"
 watchers_within = 10
 
   [github.owner]
