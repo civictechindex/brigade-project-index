@@ -21,7 +21,7 @@ homepage = ""
 id = 11_343_900
 language = "Python"
 name = "csvdedupe"
-network_count = 74
+network_count = 75
 node_id = "MDEwOlJlcG9zaXRvcnkxMTM0MzkwMA=="
 open_issues_within = 100
 private = false
@@ -36,7 +36,7 @@ topics = [
   "entity-resolution",
   "record-linkage"
 ]
-updated_within = "year"
+updated_within = "week"
 watchers_within = 1_000
 
   [github.license]
