@@ -1,7 +1,7 @@
 code_url = "https://github.com/codeformuenster/traffic-cam"
 git_branch = "master"
 git_url = "git://github.com/codeformuenster/traffic-cam.git"
-last_pushed_within = "year"
+last_pushed_within = "over_a_year"
 name = "traffic-cam"
 open_issues_within = 10
 organization_name = "OK Lab Münster"

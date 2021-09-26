@@ -1,7 +1,7 @@
 code_url = "https://github.com/codeformuenster/mshack2020-frontend"
 git_branch = "master"
 git_url = "git://github.com/codeformuenster/mshack2020-frontend.git"
-last_pushed_within = "year"
+last_pushed_within = "over_a_year"
 name = "mshack2020-frontend"
 organization_name = "OK Lab Münster"
 topics = [ "mshack20", "mszaehlt" ]
