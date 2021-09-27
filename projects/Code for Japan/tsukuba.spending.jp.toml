@@ -1,7 +1,7 @@
 code_url = "https://github.com/codeforjapan/tsukuba.spending.jp"
 git_branch = "master"
 git_url = "git://github.com/codeforjapan/tsukuba.spending.jp.git"
-last_pushed_within = "month"
+last_pushed_within = "year"
 name = "tsukuba.spending.jp"
 open_issues_within = 10
 organization_name = "Code for Japan"
