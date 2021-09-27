@@ -1,13 +1,16 @@
 code_url = "https://github.com/codeforamerica/publiccode-pusher"
+description = "PublicCode editor customized for Code for America. The tool facilitate creating a publiccode yaml file and push it to a Github repository."
 git_url = "git://github.com/codeforamerica/publiccode-pusher.git"
 name = "publiccode-pusher"
 organization_name = "Code for America"
+topics = [ "codeforamerica", "publiccode", "publiccode-editor" ]
 
 [github]
 allow_forking = true
 archived = false
 created_at = "2021-05-14T21:33:19Z"
 default_branch = "master"
+description = "PublicCode editor customized for Code for America. The tool facilitate creating a publiccode yaml file and push it to a Github repository."
 disabled = false
 fork = false
 forks_within = 10
@@ -17,6 +20,7 @@ has_issues = true
 has_pages = true
 has_projects = true
 has_wiki = true
+homepage = ""
 id = 367_484_086
 language = "SCSS"
 name = "publiccode-pusher"
@@ -25,7 +29,7 @@ open_issues_within = 100
 private = false
 pushed_within = "week"
 stargazers_within = 0
-topics = [ ]
+topics = [ "codeforamerica", "publiccode", "publiccode-editor" ]
 updated_within = "week"
 watchers_within = 0
 
