@@ -1,0 +1,7 @@
+code_url = "https://github.com/18F/formsgov-formdeployer"
+description = "Java Tool to deploy form.io forms from one stage to another"
+git_branch = "main"
+git_url = "git://github.com/18F/formsgov-formdeployer.git"
+last_pushed_within = "week"
+name = "formsgov-formdeployer"
+organization_name = "18F"
