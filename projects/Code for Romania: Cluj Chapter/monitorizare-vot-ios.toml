@@ -11,7 +11,6 @@ topics = [
   "election-data",
   "election-monitoring",
   "elections",
-  "hacktoberfest",
   "ios",
   "monitoring"
 ]
@@ -47,11 +46,10 @@ topics = [
   "election-data",
   "election-monitoring",
   "elections",
-  "hacktoberfest",
   "ios",
   "monitoring"
 ]
-updated_within = "year"
+updated_within = "week"
 watchers_within = 100
 
   [github.license]
