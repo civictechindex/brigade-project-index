@@ -51,7 +51,7 @@ topics = [
   "monitoring",
   "monitoring-elections"
 ]
-updated_within = "year"
+updated_within = "week"
 watchers_within = 100
 
   [github.license]
