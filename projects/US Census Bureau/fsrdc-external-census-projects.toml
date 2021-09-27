@@ -1,0 +1,7 @@
+code_url = "https://github.com/uscensusbureau/fsrdc-external-census-projects"
+description = "Information about active and completed projects, including project title, abstract, FSRDC location, principal investigator, year project started, researchers, and datasets requested in project proposals"
+git_branch = "main"
+git_url = "git://github.com/uscensusbureau/fsrdc-external-census-projects.git"
+last_pushed_within = "week"
+name = "fsrdc-external-census-projects"
+organization_name = "US Census Bureau"
