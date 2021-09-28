@@ -22,9 +22,9 @@ has_wiki = true
 id = 266_935_420
 name = "manual"
 node_id = "MDEwOlJlcG9zaXRvcnkyNjY5MzU0MjA="
-open_issues_within = 0
+open_issues_within = 10
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
 updated_within = "year"
