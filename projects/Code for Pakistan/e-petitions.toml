@@ -24,9 +24,9 @@ homepage = "https://petition.parliament.uk"
 id = 377_173_801
 name = "e-petitions"
 node_id = "MDEwOlJlcG9zaXRvcnkzNzcxNzM4MDE="
-open_issues_within = 0
+open_issues_within = 10
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 0
 topics = [ ]
 updated_within = "year"
