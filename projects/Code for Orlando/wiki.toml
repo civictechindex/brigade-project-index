@@ -26,10 +26,10 @@ name = "wiki"
 node_id = "MDEwOlJlcG9zaXRvcnkxMjc4MjI0MTA="
 open_issues_within = 0
 private = false
-pushed_within = "week"
+pushed_within = "month"
 stargazers_within = 10
 topics = [ "meeting-minutes", "project-management" ]
-updated_within = "week"
+updated_within = "month"
 watchers_within = 10
 
   [github.owner]
