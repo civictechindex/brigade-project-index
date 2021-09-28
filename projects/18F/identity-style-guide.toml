@@ -5,5 +5,6 @@ git_url = "git://github.com/18F/identity-style-guide.git"
 last_pushed_within = "week"
 link_url = "https://design.login.gov"
 name = "identity-style-guide"
+open_issues_within = 10
 organization_name = "18F"
 topics = [ "design-system", "gov", "login-gov" ]
