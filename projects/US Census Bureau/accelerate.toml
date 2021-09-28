@@ -1,6 +1,7 @@
 code_url = "https://github.com/uscensusbureau/accelerate"
 git_branch = "main"
 git_url = "git://github.com/uscensusbureau/accelerate.git"
-last_pushed_within = "month"
+last_pushed_within = "week"
 name = "accelerate"
+open_issues_within = 10
 organization_name = "US Census Bureau"
