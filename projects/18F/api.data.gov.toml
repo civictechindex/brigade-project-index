@@ -1,6 +1,6 @@
 code_url = "https://github.com/18F/api.data.gov"
 description = "A hosted, shared-service that provides an API key, analytics, and proxy solution for government web services."
-git_branch = "master"
+git_branch = "main"
 git_url = "git://github.com/18F/api.data.gov.git"
 last_pushed_within = "week"
 link_url = "https://api.data.gov"
