@@ -1,7 +1,7 @@
 code_url = "https://github.com/codeformuenster/corona-testungen"
 git_branch = "main"
 git_url = "git://github.com/codeformuenster/corona-testungen.git"
-last_pushed_within = "week"
+last_pushed_within = "month"
 link_url = "https://codeformuenster.org/corona-testungen/"
 name = "corona-testungen"
 organization_name = "OK Lab Münster"
