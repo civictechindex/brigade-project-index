@@ -4,4 +4,5 @@ git_branch = "main"
 git_url = "git://github.com/CodeForAfrica/politwoops-tweet-collector.git"
 last_pushed_within = "week"
 name = "politwoops-tweet-collector"
+open_issues_within = 10
 organization_name = "Code for Africa"
