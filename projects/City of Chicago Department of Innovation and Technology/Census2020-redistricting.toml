@@ -1,6 +1,6 @@
 code_url = "https://github.com/Chicago/Census2020-redistricting"
 git_branch = "main"
 git_url = "git://github.com/Chicago/Census2020-redistricting.git"
-last_pushed_within = "month"
+last_pushed_within = "week"
 name = "Census2020-redistricting"
 organization_name = "City of Chicago Department of Innovation and Technology"
