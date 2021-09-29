@@ -1,0 +1,45 @@
+code_url = "https://github.com/codeformuenster/schueler-geschichtswettbewerb-muenster"
+git_url = "git://github.com/codeformuenster/schueler-geschichtswettbewerb-muenster.git"
+name = "schueler-geschichtswettbewerb-muenster"
+organization_name = "OK Lab Münster"
+
+[github]
+allow_forking = true
+archived = false
+created_at = "2021-09-29T15:14:21Z"
+default_branch = "master"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "codeformuenster/schueler-geschichtswettbewerb-muenster"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+id = 411_724_182
+language = "Python"
+name = "schueler-geschichtswettbewerb-muenster"
+node_id = "R_kgDOGIpplg"
+open_issues_within = 0
+private = false
+pushed_within = "week"
+stargazers_within = 0
+topics = [ ]
+updated_within = "week"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_464_842
+  login = "codeformuenster"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjY0NjQ4NDI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  maintain = false
+  pull = true
+  push = false
+  triage = false
