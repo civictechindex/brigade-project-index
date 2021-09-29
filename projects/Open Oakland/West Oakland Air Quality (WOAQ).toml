@@ -38,7 +38,7 @@ topics = [
   "openoakland",
   "west-oakland"
 ]
-updated_within = "month"
+updated_within = "year"
 watchers_within = 100
 
   [github.license]
