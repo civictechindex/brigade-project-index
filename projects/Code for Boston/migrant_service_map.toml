@@ -38,7 +38,7 @@ name = "migrant_service_map"
 node_id = "MDEwOlJlcG9zaXRvcnkxNTAzNDU0MDQ="
 open_issues_within = 100
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 100
 topics = [
   "boston",
@@ -51,7 +51,7 @@ topics = [
   "refugees-welcome",
   "service-providers"
 ]
-updated_within = "year"
+updated_within = "week"
 watchers_within = 100
 
   [github.license]
