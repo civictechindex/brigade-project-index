@@ -18,15 +18,15 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 223_439_818
-language = "CSS"
+language = "SCSS"
 name = "xd.gov"
 node_id = "MDEwOlJlcG9zaXRvcnkyMjM0Mzk4MTg="
 open_issues_within = 0
 private = false
-pushed_within = "over_a_year"
+pushed_within = "week"
 stargazers_within = 0
 topics = [ ]
-updated_within = "over_a_year"
+updated_within = "week"
 watchers_within = 0
 
   [github.owner]
