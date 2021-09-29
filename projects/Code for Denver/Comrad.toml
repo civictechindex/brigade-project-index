@@ -32,7 +32,7 @@ name = "Comrad"
 node_id = "MDEwOlJlcG9zaXRvcnkxMzcwMDg1MjI="
 open_issues_within = 100
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 100
 topics = [
   "code-for-america",
@@ -40,7 +40,7 @@ topics = [
   "community-radio",
   "process-improvement"
 ]
-updated_within = "month"
+updated_within = "week"
 watchers_within = 100
 
   [github.license]
