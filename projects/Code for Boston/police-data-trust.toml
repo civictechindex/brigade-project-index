@@ -33,7 +33,7 @@ node_id = "MDEwOlJlcG9zaXRvcnkzNDI1NzA5Nzc="
 open_issues_within = 100
 private = false
 pushed_within = "week"
-stargazers_within = 10
+stargazers_within = 100
 topics = [
   "accountability",
   "open-government",
@@ -41,7 +41,7 @@ topics = [
   "transparency"
 ]
 updated_within = "week"
-watchers_within = 10
+watchers_within = 100
 
   [github.license]
   key = "mit"
