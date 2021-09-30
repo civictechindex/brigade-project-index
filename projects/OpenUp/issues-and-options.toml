@@ -1,8 +1,16 @@
 code_url = "https://github.com/OpenUpSA/issues-and-options"
 description = "Help users discover the standard public service options available to address their needs"
 git_url = "git://github.com/OpenUpSA/issues-and-options.git"
+link_url = "https://issues-and-options.pa.org.za/"
 name = "issues-and-options"
 organization_name = "OpenUp"
+topics = [
+  "participation",
+  "politics",
+  "public",
+  "public-participation",
+  "south-africa"
+]
 
 [github]
 allow_forking = true
@@ -19,6 +27,7 @@ has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = true
+homepage = "https://issues-and-options.pa.org.za/"
 id = 404_267_043
 language = "JavaScript"
 name = "issues-and-options"
@@ -27,7 +36,13 @@ open_issues_within = 10
 private = false
 pushed_within = "week"
 stargazers_within = 0
-topics = [ ]
+topics = [
+  "participation",
+  "politics",
+  "public",
+  "public-participation",
+  "south-africa"
+]
 updated_within = "week"
 watchers_within = 0
 
