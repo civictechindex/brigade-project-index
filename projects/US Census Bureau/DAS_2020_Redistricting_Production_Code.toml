@@ -1,0 +1,47 @@
+code_url = "https://github.com/uscensusbureau/DAS_2020_Redistricting_Production_Code"
+description = "Official release of source code for the Disclosure Avoidance System (DAS) used to protect against the disclosure of individual information based on published statistical summaries."
+git_url = "git://github.com/uscensusbureau/DAS_2020_Redistricting_Production_Code.git"
+name = "DAS_2020_Redistricting_Production_Code"
+organization_name = "US Census Bureau"
+
+[github]
+allow_forking = true
+archived = false
+created_at = "2021-09-10T19:01:09Z"
+default_branch = "master"
+description = "Official release of source code for the Disclosure Avoidance System (DAS) used to protect against the disclosure of individual information based on published statistical summaries."
+disabled = false
+fork = false
+forks_within = 0
+full_name = "uscensusbureau/DAS_2020_Redistricting_Production_Code"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+id = 405_185_243
+language = "Python"
+name = "DAS_2020_Redistricting_Production_Code"
+node_id = "MDEwOlJlcG9zaXRvcnk0MDUxODUyNDM="
+open_issues_within = 0
+private = false
+pushed_within = "week"
+stargazers_within = 0
+topics = [ ]
+updated_within = "week"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 10_234_353
+  login = "uscensusbureau"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjEwMjM0MzUz"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  maintain = false
+  pull = true
+  push = false
+  triage = false
