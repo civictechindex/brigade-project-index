@@ -6,6 +6,58 @@ organization_name = "Code for Philly"
 status = "Testing"
 topics = [ "Parcel", "permits", "Property", "violations" ]
 
+[github]
+allow_forking = true
+archived = false
+created_at = "2016-09-24T20:30:42Z"
+default_branch = "master"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "CodeForPhilly/DeputyDashboard"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+id = 69_126_028
+language = "JavaScript"
+name = "DeputyDashboard"
+network_count = 0
+node_id = "MDEwOlJlcG9zaXRvcnk2OTEyNjAyOA=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+subscribers_count = 7
+temp_clone_token = ""
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.organization]
+  gravatar_id = ""
+  id = 1_451_716
+  login = "CodeForPhilly"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE0NTE3MTY="
+  site_admin = false
+  type = "Organization"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 1_451_716
+  login = "CodeForPhilly"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE0NTE3MTY="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  maintain = false
+  pull = true
+  push = false
+  triage = false
+
 [projects_list_extra]
 chat_channel = "deputies"
 title = "DeputyDashboard"
