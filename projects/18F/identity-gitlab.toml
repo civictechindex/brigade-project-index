@@ -1,7 +1,7 @@
 code_url = "https://github.com/18F/identity-gitlab"
 git_branch = "main"
 git_url = "git://github.com/18F/identity-gitlab.git"
-last_pushed_within = "week"
+last_pushed_within = "month"
 name = "identity-gitlab"
 open_issues_within = 10
 organization_name = "18F"
