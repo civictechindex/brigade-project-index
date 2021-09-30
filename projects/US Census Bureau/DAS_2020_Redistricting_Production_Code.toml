@@ -1,0 +1,7 @@
+code_url = "https://github.com/uscensusbureau/DAS_2020_Redistricting_Production_Code"
+description = "Official release of source code for the Disclosure Avoidance System (DAS) used to protect against the disclosure of individual information based on published statistical summaries."
+git_branch = "master"
+git_url = "git://github.com/uscensusbureau/DAS_2020_Redistricting_Production_Code.git"
+last_pushed_within = "week"
+name = "DAS_2020_Redistricting_Production_Code"
+organization_name = "US Census Bureau"
