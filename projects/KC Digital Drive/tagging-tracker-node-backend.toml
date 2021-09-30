@@ -1,7 +1,7 @@
 code_url = "https://github.com/codeforkansascity/tagging-tracker-node-backend"
 git_branch = "master"
 git_url = "git://github.com/codeforkansascity/tagging-tracker-node-backend.git"
-last_pushed_within = "month"
+last_pushed_within = "year"
 name = "tagging-tracker-node-backend"
 open_issues_within = 10
 organization_name = "KC Digital Drive"
