@@ -30,6 +30,7 @@ pushed_within = "week"
 stargazers_within = 10
 topics = [ "mshack", "muensterhack" ]
 updated_within = "week"
+visibility = "public"
 watchers_within = 10
 
   [github.license]

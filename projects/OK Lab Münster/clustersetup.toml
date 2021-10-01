@@ -43,6 +43,7 @@ topics = [
   "kubernetes"
 ]
 updated_within = "year"
+visibility = "public"
 watchers_within = 0
 
   [github.license]
