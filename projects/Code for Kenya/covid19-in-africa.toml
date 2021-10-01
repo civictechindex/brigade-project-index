@@ -31,6 +31,7 @@ pushed_within = "week"
 stargazers_within = 10
 topics = [ "africa", "covid19-data" ]
 updated_within = "week"
+visibility = "public"
 watchers_within = 10
 
   [github.license]
