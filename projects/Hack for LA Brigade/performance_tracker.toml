@@ -31,6 +31,7 @@ score = 1
 stargazers_within = 100
 topics = [ "code-for-america", "hack-for-la" ]
 updated_within = "year"
+visibility = "public"
 watchers_within = 100
 
   [github.license]

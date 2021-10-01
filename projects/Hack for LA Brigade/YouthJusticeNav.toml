@@ -58,6 +58,7 @@ topics = [
   "youth-rights"
 ]
 updated_within = "month"
+visibility = "public"
 watchers_within = 10
 
   [github.license]
