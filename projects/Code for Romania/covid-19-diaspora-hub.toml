@@ -4,7 +4,7 @@ git_url = "git://github.com/code4romania/covid-19-diaspora-hub.git"
 link_url = "https://diasporahub.ro"
 name = "covid-19-diaspora-hub"
 organization_name = "Code for Romania"
-topics = [ "civic-tech", "covid-19" ]
+topics = [ "civic-tech", "covid-19", "hacktoberfest" ]
 
 [github]
 allow_forking = true
@@ -28,10 +28,10 @@ name = "covid-19-diaspora-hub"
 node_id = "MDEwOlJlcG9zaXRvcnkyNDcyNzIwNjk="
 open_issues_within = 0
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 10
-topics = [ "civic-tech", "covid-19" ]
-updated_within = "year"
+topics = [ "civic-tech", "covid-19", "hacktoberfest" ]
+updated_within = "week"
 watchers_within = 10
 
   [github.license]
