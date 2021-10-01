@@ -4,7 +4,14 @@ git_url = "git://github.com/code4romania/covid-19-stiri-oficiale.git"
 link_url = "https://stirioficiale.ro"
 name = "covid-19-stiri-oficiale"
 organization_name = "Code for Romania"
-topics = [ "alpinejs", "covid-19", "laravel", "php", "tailwindcss" ]
+topics = [
+  "alpinejs",
+  "covid-19",
+  "hacktoberfest",
+  "laravel",
+  "php",
+  "tailwindcss"
+]
 
 [github]
 allow_forking = true
@@ -28,10 +35,17 @@ name = "covid-19-stiri-oficiale"
 node_id = "MDEwOlJlcG9zaXRvcnkyNDY5MTg4NDc="
 open_issues_within = 0
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 100
-topics = [ "alpinejs", "covid-19", "laravel", "php", "tailwindcss" ]
-updated_within = "year"
+topics = [
+  "alpinejs",
+  "covid-19",
+  "hacktoberfest",
+  "laravel",
+  "php",
+  "tailwindcss"
+]
+updated_within = "week"
 watchers_within = 100
 
   [github.license]
