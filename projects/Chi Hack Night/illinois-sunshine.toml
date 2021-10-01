@@ -31,6 +31,7 @@ subscribers_count = 4
 temp_clone_token = ""
 topics = [ ]
 updated_within = "over_a_year"
+visibility = "public"
 watchers_within = 10
 
   [github.license]
@@ -81,6 +82,7 @@ watchers_within = 10
   stargazers_within = 10
   topics = [ ]
   updated_within = "over_a_year"
+  visibility = "public"
   watchers_within = 10
 
     [github.parent.license]
@@ -130,6 +132,7 @@ watchers_within = 10
   stargazers_within = 10
   topics = [ ]
   updated_within = "over_a_year"
+  visibility = "public"
   watchers_within = 10
 
     [github.source.license]

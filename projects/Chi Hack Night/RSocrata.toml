@@ -31,6 +31,7 @@ subscribers_count = 23
 temp_clone_token = ""
 topics = [ "chicago", "government", "open-data", "r", "socrata", "soda" ]
 updated_within = "month"
+visibility = "public"
 watchers_within = 1_000
 
   [github.license]

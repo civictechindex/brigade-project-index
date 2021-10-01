@@ -42,6 +42,7 @@ topics = [
   "python-library"
 ]
 updated_within = "week"
+visibility = "public"
 watchers_within = "over_1000"
 
   [github.license]
