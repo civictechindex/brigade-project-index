@@ -31,6 +31,7 @@ subscribers_count = 2
 temp_clone_token = ""
 topics = [ ]
 updated_within = "over_a_year"
+visibility = "public"
 watchers_within = 0
 
   [github.organization]
