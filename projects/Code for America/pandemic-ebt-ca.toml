@@ -32,6 +32,7 @@ pushed_within = "week"
 stargazers_within = 10
 topics = [ "civic-tech", "coronavirus", "covid-19" ]
 updated_within = "year"
+visibility = "public"
 watchers_within = 10
 
   [github.license]
