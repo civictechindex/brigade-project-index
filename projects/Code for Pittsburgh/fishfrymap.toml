@@ -64,6 +64,7 @@ topics = [
   "stamen"
 ]
 updated_within = "year"
+visibility = "public"
 watchers_within = 100
 
   [github.license]
