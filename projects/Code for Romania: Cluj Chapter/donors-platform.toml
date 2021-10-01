@@ -2,6 +2,7 @@ code_url = "https://github.com/code4romania/donors-platform"
 git_url = "git://github.com/code4romania/donors-platform.git"
 name = "donors-platform"
 organization_name = "Code for Romania: Cluj Chapter"
+topics = [ "hacktoberfest" ]
 
 [github]
 allow_forking = true
@@ -24,10 +25,11 @@ name = "donors-platform"
 node_id = "MDEwOlJlcG9zaXRvcnkyODIzMTcwMTI="
 open_issues_within = 0
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 10
-topics = [ ]
-updated_within = "year"
+topics = [ "hacktoberfest" ]
+updated_within = "week"
+visibility = "public"
 watchers_within = 10
 
   [github.license]
