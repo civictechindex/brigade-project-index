@@ -35,6 +35,7 @@ subscribers_count = 6
 temp_clone_token = ""
 topics = [ "community-gardens", "django", "food", "vegan" ]
 updated_within = "year"
+visibility = "public"
 watchers_within = 100
 
   [github.license]
