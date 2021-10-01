@@ -25,12 +25,12 @@ network_count = 40
 node_id = "MDEwOlJlcG9zaXRvcnk5ODc5OTUz"
 open_issues_within = 10
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 1_000
 subscribers_count = 12
 temp_clone_token = ""
 topics = [ "census", "data" ]
-updated_within = "year"
+updated_within = "week"
 visibility = "public"
 watchers_within = 1_000
 
