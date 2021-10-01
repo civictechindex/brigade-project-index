@@ -44,6 +44,7 @@ topics = [
   "tecnologia-civica"
 ]
 updated_within = "week"
+visibility = "public"
 watchers_within = 100
 
   [github.owner]
