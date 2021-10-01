@@ -41,6 +41,7 @@ topics = [
   "infinitecampus"
 ]
 updated_within = "over_a_year"
+visibility = "public"
 watchers_within = 100
 
   [github.owner]
