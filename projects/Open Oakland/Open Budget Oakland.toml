@@ -41,6 +41,7 @@ topics = [
   "openoakland"
 ]
 updated_within = "month"
+visibility = "public"
 watchers_within = 100
 
   [github.license]
