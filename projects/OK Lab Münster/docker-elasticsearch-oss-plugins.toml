@@ -28,6 +28,7 @@ pushed_within = "over_a_year"
 stargazers_within = 0
 topics = [ "dockerfile", "elasticsearch" ]
 updated_within = "over_a_year"
+visibility = "public"
 watchers_within = 0
 
   [github.license]
