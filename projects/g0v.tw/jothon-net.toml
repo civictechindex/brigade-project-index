@@ -32,6 +32,7 @@ pushed_within = "week"
 stargazers_within = 10
 topics = [ "activity", "g0v", "hackathon", "jothon", "landing-page" ]
 updated_within = "week"
+visibility = "public"
 watchers_within = 10
 
   [github.license]
