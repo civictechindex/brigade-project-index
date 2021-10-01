@@ -32,6 +32,7 @@ pushed_within = "week"
 stargazers_within = 100
 topics = [ "design-system", "gov", "login-gov" ]
 updated_within = "week"
+visibility = "public"
 watchers_within = 100
 
   [github.license]
