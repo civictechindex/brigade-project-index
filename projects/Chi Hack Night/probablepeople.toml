@@ -31,6 +31,7 @@ subscribers_count = 28
 temp_clone_token = ""
 topics = [ "names", "parse", "python" ]
 updated_within = "year"
+visibility = "public"
 watchers_within = 1_000
 
   [github.license]

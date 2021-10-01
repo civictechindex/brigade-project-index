@@ -41,6 +41,7 @@ topics = [
   "record-linkage"
 ]
 updated_within = "week"
+visibility = "public"
 watchers_within = "over_1000"
 
   [github.license]

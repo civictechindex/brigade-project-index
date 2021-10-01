@@ -39,6 +39,7 @@ topics = [
   "public-health"
 ]
 updated_within = "month"
+visibility = "public"
 watchers_within = 1_000
 
   [github.license]

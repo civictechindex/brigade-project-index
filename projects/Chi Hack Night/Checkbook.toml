@@ -31,6 +31,7 @@ subscribers_count = 19
 temp_clone_token = ""
 topics = [ "checkbook-nyc", "comptroller-nyc-gov" ]
 updated_within = "year"
+visibility = "public"
 watchers_within = 100
 
   [github.license]

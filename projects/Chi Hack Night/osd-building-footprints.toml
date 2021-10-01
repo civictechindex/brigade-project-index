@@ -30,6 +30,7 @@ subscribers_count = 19
 temp_clone_token = ""
 topics = [ "chicago", "geojson-data", "government", "open-data" ]
 updated_within = "over_a_year"
+visibility = "public"
 watchers_within = 100
 
   [github.license]

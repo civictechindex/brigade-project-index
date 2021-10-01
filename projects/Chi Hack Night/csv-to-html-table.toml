@@ -31,6 +31,7 @@ subscribers_count = 38
 temp_clone_token = ""
 topics = [ ]
 updated_within = "month"
+visibility = "public"
 watchers_within = 1_000
 
   [github.license]
