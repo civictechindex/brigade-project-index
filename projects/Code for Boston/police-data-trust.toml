@@ -41,6 +41,7 @@ topics = [
   "transparency"
 ]
 updated_within = "week"
+visibility = "public"
 watchers_within = 100
 
   [github.license]

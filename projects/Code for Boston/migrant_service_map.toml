@@ -52,6 +52,7 @@ topics = [
   "service-providers"
 ]
 updated_within = "week"
+visibility = "public"
 watchers_within = 100
 
   [github.license]

@@ -29,6 +29,7 @@ pushed_within = "month"
 stargazers_within = 100
 topics = [ "code-for-america", "code-for-boston", "health-resource" ]
 updated_within = "year"
+visibility = "public"
 watchers_within = 100
 
   [github.license]

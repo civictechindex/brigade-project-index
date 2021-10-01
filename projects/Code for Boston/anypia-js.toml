@@ -44,6 +44,7 @@ topics = [
   "social-security"
 ]
 updated_within = "year"
+visibility = "public"
 watchers_within = 10
 
   [github.license]
