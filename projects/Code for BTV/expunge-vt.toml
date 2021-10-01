@@ -32,7 +32,7 @@ name = "expunge-vt"
 node_id = "MDEwOlJlcG9zaXRvcnkxNTE4NDY2Nzc="
 open_issues_within = 100
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 100
 topics = [
   "chrome-extension",
