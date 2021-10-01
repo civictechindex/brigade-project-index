@@ -35,7 +35,7 @@ name = "VRMS"
 node_id = "MDEwOlJlcG9zaXRvcnkyMjYxNTc4NzA="
 open_issues_within = 1_000
 private = false
-pushed_within = "week"
+pushed_within = "month"
 score = 1
 stargazers_within = 100
 topics = [
@@ -47,7 +47,7 @@ topics = [
   "meetup-api",
   "sign-in"
 ]
-updated_within = "week"
+updated_within = "month"
 watchers_within = 100
 
   [github.license]
