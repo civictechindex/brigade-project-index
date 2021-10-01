@@ -46,6 +46,7 @@ topics = [
   "code-for-america"
 ]
 updated_within = "month"
+visibility = "public"
 watchers_within = 10
 
   [github.owner]
