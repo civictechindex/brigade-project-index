@@ -30,6 +30,7 @@ pushed_within = "year"
 stargazers_within = 10
 topics = [ "covid-19", "data", "python", "web-scraping" ]
 updated_within = "year"
+visibility = "public"
 watchers_within = 10
 
   [github.license]

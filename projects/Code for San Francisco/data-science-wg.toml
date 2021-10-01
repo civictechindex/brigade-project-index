@@ -47,6 +47,7 @@ topics = [
   "san-francisco"
 ]
 updated_within = "month"
+visibility = "public"
 watchers_within = 1_000
 
   [github.owner]
