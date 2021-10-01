@@ -3,6 +3,7 @@ description = "Petition form generation app to streamline expunction process in 
 git_url = "git://github.com/CodeForAsheville/wext.git"
 name = "wext"
 organization_name = "Code for Asheville"
+topics = [ "hacktoberfest", "hacktoberfest2021" ]
 
 [github]
 allow_forking = true
@@ -28,8 +29,9 @@ open_issues_within = 10
 private = false
 pushed_within = "week"
 stargazers_within = 0
-topics = [ ]
+topics = [ "hacktoberfest", "hacktoberfest2021" ]
 updated_within = "week"
+visibility = "public"
 watchers_within = 0
 
   [github.license]
