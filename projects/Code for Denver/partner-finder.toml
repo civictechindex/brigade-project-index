@@ -3,6 +3,14 @@ description = "Using an open dataset with registered colorado business to build 
 git_url = "git://github.com/codefordenver/partner-finder.git"
 name = "partner-finder"
 organization_name = "Code for Denver"
+topics = [
+  "civic-tech",
+  "flask",
+  "hacktoberfest",
+  "python",
+  "react",
+  "rest-api"
+]
 
 [github]
 allow_forking = true
@@ -28,7 +36,14 @@ open_issues_within = 100
 private = false
 pushed_within = "week"
 stargazers_within = 10
-topics = [ ]
+topics = [
+  "civic-tech",
+  "flask",
+  "hacktoberfest",
+  "python",
+  "react",
+  "rest-api"
+]
 updated_within = "week"
 watchers_within = 10
 
