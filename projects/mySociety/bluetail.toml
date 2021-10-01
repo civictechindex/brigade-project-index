@@ -47,6 +47,7 @@ topics = [
   "prototype"
 ]
 updated_within = "week"
+visibility = "public"
 watchers_within = 10
 
   [github.license]

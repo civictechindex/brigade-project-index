@@ -42,6 +42,7 @@ topics = [
   "right-to-know"
 ]
 updated_within = "week"
+visibility = "public"
 watchers_within = 1_000
 
   [github.license]

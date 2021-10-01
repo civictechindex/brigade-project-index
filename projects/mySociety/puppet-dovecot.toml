@@ -32,6 +32,7 @@ pushed_within = "year"
 stargazers_within = 0
 topics = [ "dovecot", "puppet" ]
 updated_within = "year"
+visibility = "public"
 watchers_within = 0
 
   [github.license]
