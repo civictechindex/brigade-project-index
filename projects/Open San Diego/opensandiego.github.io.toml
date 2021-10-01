@@ -32,6 +32,7 @@ pushed_within = "week"
 stargazers_within = 10
 topics = [ "open-san-diego" ]
 updated_within = "year"
+visibility = "public"
 watchers_within = 10
 
   [github.license]
