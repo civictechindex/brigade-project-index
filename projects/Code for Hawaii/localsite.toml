@@ -1,0 +1,48 @@
+code_url = "https://github.com/CodeforHawaii/localsite"
+description = "Sustainable Community Web Challenge - maps and widgets"
+git_url = "git://github.com/CodeforHawaii/localsite.git"
+name = "localsite"
+organization_name = "Code for Hawaii"
+
+[github]
+allow_forking = true
+archived = false
+created_at = "2021-10-01T22:02:14Z"
+default_branch = "main"
+description = "Sustainable Community Web Challenge - maps and widgets"
+disabled = false
+fork = true
+forks_within = 0
+full_name = "CodeforHawaii/localsite"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 412_628_087
+name = "localsite"
+node_id = "R_kgDOGJg0dw"
+open_issues_within = 0
+private = false
+pushed_within = "week"
+stargazers_within = 0
+topics = [ ]
+updated_within = "week"
+visibility = "public"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_244_195
+  login = "CodeforHawaii"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjYyNDQxOTU="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  maintain = false
+  pull = true
+  push = false
+  triage = false
