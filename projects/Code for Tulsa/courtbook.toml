@@ -45,6 +45,7 @@ topics = [
   "tulsa"
 ]
 updated_within = "over_a_year"
+visibility = "public"
 watchers_within = 10
 
   [github.license]
