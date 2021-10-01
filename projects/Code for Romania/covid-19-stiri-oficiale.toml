@@ -2,8 +2,15 @@ code_url = "https://github.com/code4romania/covid-19-stiri-oficiale"
 description = "Platform which centralizes all the official press releases, press conferences and decisions of the Committee for Special Emergency Situations"
 git_branch = "main"
 git_url = "git://github.com/code4romania/covid-19-stiri-oficiale.git"
-last_pushed_within = "year"
+last_pushed_within = "week"
 link_url = "https://stirioficiale.ro"
 name = "covid-19-stiri-oficiale"
 organization_name = "Code for Romania"
-topics = [ "alpinejs", "covid-19", "laravel", "php", "tailwindcss" ]
+topics = [
+  "alpinejs",
+  "covid-19",
+  "hacktoberfest",
+  "laravel",
+  "php",
+  "tailwindcss"
+]
