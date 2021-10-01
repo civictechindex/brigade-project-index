@@ -32,6 +32,7 @@ pushed_within = "year"
 stargazers_within = 100
 topics = [ "chicago", "government", "jekyll", "website" ]
 updated_within = "year"
+visibility = "public"
 watchers_within = 100
 
   [github.owner]
