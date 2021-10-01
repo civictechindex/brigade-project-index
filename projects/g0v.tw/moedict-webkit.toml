@@ -32,6 +32,7 @@ pushed_within = "year"
 stargazers_within = 1_000
 topics = [ "cordova", "g0v", "moedict", "nodejs" ]
 updated_within = "month"
+visibility = "public"
 watchers_within = 1_000
 
   [github.owner]
