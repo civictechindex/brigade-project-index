@@ -32,6 +32,7 @@ pushed_within = "year"
 stargazers_within = 100
 topics = [ "civic-tech", "code4pr", "gatsby", "puerto-rico", "voting" ]
 updated_within = "year"
+visibility = "public"
 watchers_within = 100
 
   [github.license]

@@ -31,6 +31,7 @@ pushed_within = "year"
 stargazers_within = 10
 topics = [ "lunrjs", "nextjs", "reactjs", "search" ]
 updated_within = "month"
+visibility = "public"
 watchers_within = 10
 
   [github.license]
