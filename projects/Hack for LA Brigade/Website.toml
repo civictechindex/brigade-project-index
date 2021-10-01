@@ -3,6 +3,6 @@ git_branch = "gh-pages"
 git_url = "git://github.com/100Automations/Website.git"
 last_pushed_within = "month"
 name = "Website"
-open_issues_within = 1_000
+open_issues_within = 100
 organization_name = "Hack for LA Brigade"
 topics = [ "civictechindex", "hack-for-la" ]
