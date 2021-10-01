@@ -46,6 +46,7 @@ topics = [
   "static-site"
 ]
 updated_within = "week"
+visibility = "public"
 watchers_within = 10
 
   [github.owner]
