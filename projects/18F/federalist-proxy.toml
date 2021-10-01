@@ -30,6 +30,7 @@ pushed_within = "week"
 stargazers_within = 10
 topics = [ "federalist", "federalistapp" ]
 updated_within = "month"
+visibility = "public"
 watchers_within = 10
 
   [github.license]

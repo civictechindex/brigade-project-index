@@ -32,6 +32,7 @@ pushed_within = "month"
 stargazers_within = 1_000
 topics = [ "a11y", "accessibility", "best-practices" ]
 updated_within = "month"
+visibility = "public"
 watchers_within = 1_000
 
   [github.license]
