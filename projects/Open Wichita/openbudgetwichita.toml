@@ -32,6 +32,7 @@ pushed_within = "over_a_year"
 stargazers_within = 10
 topics = [ "budget", "d3", "openbudgets", "open-data" ]
 updated_within = "over_a_year"
+visibility = "public"
 watchers_within = 10
 
   [github.owner]
