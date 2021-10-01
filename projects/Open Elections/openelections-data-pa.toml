@@ -29,6 +29,7 @@ pushed_within = "month"
 stargazers_within = 100
 topics = [ ]
 updated_within = "month"
+visibility = "public"
 watchers_within = 100
 
   [github.owner]

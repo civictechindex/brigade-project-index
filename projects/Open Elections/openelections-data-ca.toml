@@ -30,6 +30,7 @@ pushed_within = "week"
 stargazers_within = 100
 topics = [ "california-elections", "openelections-data" ]
 updated_within = "week"
+visibility = "public"
 watchers_within = 100
 
   [github.license]
