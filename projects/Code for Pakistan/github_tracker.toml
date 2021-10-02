@@ -27,7 +27,7 @@ name = "github_tracker"
 node_id = "MDEwOlJlcG9zaXRvcnkxOTgyNTg4NQ=="
 open_issues_within = 10
 private = false
-pushed_within = "month"
+pushed_within = "year"
 stargazers_within = 0
 topics = [ ]
 updated_within = "over_a_year"
