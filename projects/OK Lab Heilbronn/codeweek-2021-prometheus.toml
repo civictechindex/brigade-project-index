@@ -5,3 +5,4 @@ git_url = "git://github.com/opendata-heilbronn/codeweek-2021-prometheus.git"
 last_pushed_within = "month"
 name = "codeweek-2021-prometheus"
 organization_name = "OK Lab Heilbronn"
+topics = [ "hacktoberfest" ]
