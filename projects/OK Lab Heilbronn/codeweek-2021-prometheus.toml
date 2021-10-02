@@ -3,6 +3,7 @@ description = "Demo-Projekt für den CFHN Codeweek 2021 Prometheus Workshop "
 git_url = "git://github.com/opendata-heilbronn/codeweek-2021-prometheus.git"
 name = "codeweek-2021-prometheus"
 organization_name = "OK Lab Heilbronn"
+topics = [ "hacktoberfest" ]
 
 [github]
 allow_forking = true
@@ -19,6 +20,7 @@ has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = true
+homepage = ""
 id = 407_938_075
 name = "codeweek-2021-prometheus"
 node_id = "MDEwOlJlcG9zaXRvcnk0MDc5MzgwNzU="
@@ -26,8 +28,8 @@ open_issues_within = 0
 private = false
 pushed_within = "month"
 stargazers_within = 0
-topics = [ ]
-updated_within = "month"
+topics = [ "hacktoberfest" ]
+updated_within = "week"
 visibility = "public"
 watchers_within = 0
 
