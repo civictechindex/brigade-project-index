@@ -22,16 +22,23 @@ has_projects = true
 has_wiki = true
 homepage = "https://codefor.de"
 id = 305_050_386
+language = "HTML"
 name = "codefor.de"
 node_id = "MDEwOlJlcG9zaXRvcnkzMDUwNTAzODY="
 open_issues_within = 0
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 0
 topics = [ ]
-updated_within = "year"
+updated_within = "week"
 visibility = "public"
 watchers_within = 0
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
 
   [github.owner]
   gravatar_id = ""
