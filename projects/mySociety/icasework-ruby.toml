@@ -1,7 +1,7 @@
 code_url = "https://github.com/mysociety/icasework-ruby"
 git_branch = "master"
 git_url = "git://github.com/mysociety/icasework-ruby.git"
-last_pushed_within = "month"
+last_pushed_within = "week"
 link_url = "https://www.mysociety.org/"
 name = "icasework-ruby"
 open_issues_within = 100
