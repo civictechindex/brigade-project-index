@@ -1,0 +1,53 @@
+code_url = "https://github.com/CodeforHawaii/learning_transform911_hawaiii"
+description = "A Code for Hawaii Learning Repo around 911 and related data, processes, and transformation"
+git_url = "git://github.com/CodeforHawaii/learning_transform911_hawaiii.git"
+name = "learning_transform911_hawaiii"
+organization_name = "Code for Hawaii"
+
+[github]
+allow_forking = true
+archived = false
+created_at = "2021-10-05T04:53:56Z"
+default_branch = "main"
+description = "A Code for Hawaii Learning Repo around 911 and related data, processes, and transformation"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "CodeforHawaii/learning_transform911_hawaiii"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+id = 413_678_246
+name = "learning_transform911_hawaiii"
+node_id = "R_kgDOGKg6pg"
+open_issues_within = 0
+private = false
+pushed_within = "week"
+stargazers_within = 10
+topics = [ ]
+updated_within = "week"
+visibility = "public"
+watchers_within = 10
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_244_195
+  login = "CodeforHawaii"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjYyNDQxOTU="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  maintain = false
+  pull = true
+  push = false
+  triage = false
