@@ -1,7 +1,7 @@
-code_url = "https://github.com/CodeforHawaii/learning_transform911_hawaiii"
+code_url = "https://github.com/CodeforHawaii/learning_transform911_hawaii"
 description = "A Code for Hawaii Learning Repo around 911 and related data, processes, and transformation"
-git_url = "git://github.com/CodeforHawaii/learning_transform911_hawaiii.git"
-name = "learning_transform911_hawaiii"
+git_url = "git://github.com/CodeforHawaii/learning_transform911_hawaii.git"
+name = "learning_transform911_hawaii"
 organization_name = "Code for Hawaii"
 
 [github]
@@ -13,16 +13,16 @@ description = "A Code for Hawaii Learning Repo around 911 and related data, proc
 disabled = false
 fork = false
 forks_within = 0
-full_name = "CodeforHawaii/learning_transform911_hawaiii"
+full_name = "CodeforHawaii/learning_transform911_hawaii"
 has_downloads = true
 has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = true
 id = 413_678_246
-name = "learning_transform911_hawaiii"
+name = "learning_transform911_hawaii"
 node_id = "R_kgDOGKg6pg"
-open_issues_within = 0
+open_issues_within = 10
 private = false
 pushed_within = "week"
 stargazers_within = 10
