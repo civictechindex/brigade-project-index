@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 43_180_103
+is_template = false
 language = "HTML"
 name = "slashroots-static-website"
 node_id = "MDEwOlJlcG9zaXRvcnk0MzE4MDEwMw=="

@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://coi-mapping-website.herokuapp.com/map"
 id = 46_147_421
+is_template = false
 language = "JavaScript"
 name = "coi-mapping-website"
 node_id = "MDEwOlJlcG9zaXRvcnk0NjE0NzQyMQ=="

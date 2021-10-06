@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 34_673_946
+is_template = false
 language = "JavaScript"
 name = "jas-mis-app"
 node_id = "MDEwOlJlcG9zaXRvcnkzNDY3Mzk0Ng=="

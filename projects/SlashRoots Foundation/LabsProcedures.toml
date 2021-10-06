@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 30_041_740
+is_template = false
 name = "LabsProcedures"
 node_id = "MDEwOlJlcG9zaXRvcnkzMDA0MTc0MA=="
 open_issues_within = 0

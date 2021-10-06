@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 98_132_582
+is_template = false
 language = "JavaScript"
 name = "undp-ghg-v2"
 node_id = "MDEwOlJlcG9zaXRvcnk5ODEzMjU4Mg=="

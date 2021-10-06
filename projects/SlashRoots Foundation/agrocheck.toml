@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 78_669_250
+is_template = false
 language = "JavaScript"
 name = "agrocheck"
 node_id = "MDEwOlJlcG9zaXRvcnk3ODY2OTI1MA=="
