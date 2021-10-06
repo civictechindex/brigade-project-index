@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 14_333_040
+is_template = false
 language = "Python"
 name = "get-json-convert-to-csv"
 node_id = "MDEwOlJlcG9zaXRvcnkxNDMzMzA0MA=="

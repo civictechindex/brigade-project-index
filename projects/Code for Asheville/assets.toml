@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 8_954_471
+is_template = false
 name = "assets"
 node_id = "MDEwOlJlcG9zaXRvcnk4OTU0NDcx"
 open_issues_within = 10

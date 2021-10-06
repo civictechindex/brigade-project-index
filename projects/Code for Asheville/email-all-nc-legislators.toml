@@ -23,6 +23,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://www.ncmegaphone.com"
 id = 38_763_642
+is_template = false
 language = "HTML"
 name = "email-all-nc-legislators"
 node_id = "MDEwOlJlcG9zaXRvcnkzODc2MzY0Mg=="

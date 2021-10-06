@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://CodeForAsheville.github.com/look-at-asheville"
 id = 8_954_465
+is_template = false
 language = "JavaScript"
 name = "look-at-asheville"
 node_id = "MDEwOlJlcG9zaXRvcnk4OTU0NDY1"

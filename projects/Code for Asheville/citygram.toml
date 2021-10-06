@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 24_516_924
+is_template = false
 language = "Ruby"
 name = "citygram"
 node_id = "MDEwOlJlcG9zaXRvcnkyNDUxNjkyNA=="

@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 36_891_145
+is_template = false
 name = "openhousing-seeker-decision-tree"
 node_id = "MDEwOlJlcG9zaXRvcnkzNjg5MTE0NQ=="
 open_issues_within = 0

@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 36_622_659
+is_template = false
 name = "openhousing-cost-estimator"
 node_id = "MDEwOlJlcG9zaXRvcnkzNjYyMjY1OQ=="
 open_issues_within = 0

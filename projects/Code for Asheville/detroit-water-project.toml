@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://detroitwaterproject.org"
 id = 24_562_556
+is_template = false
 language = "JavaScript"
 name = "detroit-water-project"
 node_id = "MDEwOlJlcG9zaXRvcnkyNDU2MjU1Ng=="

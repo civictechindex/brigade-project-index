@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 345_700_715
+is_template = false
 language = "JavaScript"
 name = "court-notifications"
 node_id = "MDEwOlJlcG9zaXRvcnkzNDU3MDA3MTU="

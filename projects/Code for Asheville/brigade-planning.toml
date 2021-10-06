@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 63_769_964
+is_template = false
 language = "GCC Machine Description"
 name = "brigade-planning"
 node_id = "MDEwOlJlcG9zaXRvcnk2Mzc2OTk2NA=="

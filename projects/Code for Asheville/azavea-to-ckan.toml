@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 38_079_997
+is_template = false
 language = "JavaScript"
 name = "azavea-to-ckan"
 node_id = "MDEwOlJlcG9zaXRvcnkzODA3OTk5Nw=="
