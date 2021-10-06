@@ -38,6 +38,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://www.the-star.co.ke/health/"
 id = 69_363_885
+is_template = false
 language = "JavaScript"
 name = "HealthTools.KE-theStarHealth"
 node_id = "MDEwOlJlcG9zaXRvcnk2OTM2Mzg4NQ=="

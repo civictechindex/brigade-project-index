@@ -31,6 +31,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://pesayetu.dev.codeforafrica.org"
 id = 207_737_714
+is_template = false
 language = "JavaScript"
 name = "PesaYetu"
 node_id = "MDEwOlJlcG9zaXRvcnkyMDc3Mzc3MTQ="

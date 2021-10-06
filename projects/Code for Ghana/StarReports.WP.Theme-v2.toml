@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://starreports.codeforafrica.net/"
 id = 35_215_012
+is_template = false
 language = "JavaScript"
 name = "StarReports.WP.Theme-v2"
 node_id = "MDEwOlJlcG9zaXRvcnkzNTIxNTAxMg=="

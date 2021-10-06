@@ -32,6 +32,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://propertyvalues-za.codeforafrica.org/"
 id = 86_999_532
+is_template = false
 language = "HTML"
 name = "PropertyValues.ZA"
 node_id = "MDEwOlJlcG9zaXRvcnk4Njk5OTUzMg=="

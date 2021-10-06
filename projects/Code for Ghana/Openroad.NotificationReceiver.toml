@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 97_096_697
+is_template = false
 language = "Java"
 name = "Openroad.NotificationReceiver"
 node_id = "MDEwOlJlcG9zaXRvcnk5NzA5NjY5Nw=="

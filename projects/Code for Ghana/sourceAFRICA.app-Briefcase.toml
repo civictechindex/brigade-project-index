@@ -31,6 +31,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://sourceafrica.net/"
 id = 57_355_861
+is_template = false
 language = "HTML"
 name = "sourceAFRICA.app-Briefcase"
 node_id = "MDEwOlJlcG9zaXRvcnk1NzM1NTg2MQ=="

@@ -38,6 +38,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://livingwage.pd.co.ke/"
 id = 170_100_604
+is_template = false
 language = "HTML"
 name = "LivingWage.KE"
 node_id = "MDEwOlJlcG9zaXRvcnkxNzAxMDA2MDQ="

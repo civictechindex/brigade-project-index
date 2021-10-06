@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://ghana.gottovote.cc/"
 id = 22_698_255
+is_template = false
 language = "CSS"
 name = "GotToVote-RCI.Ghana"
 node_id = "MDEwOlJlcG9zaXRvcnkyMjY5ODI1NQ=="

@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = false
 homepage = "https://getoutline.org/"
 id = 154_696_618
+is_template = false
 language = "TypeScript"
 name = "outline-server"
 node_id = "MDEwOlJlcG9zaXRvcnkxNTQ2OTY2MTg="

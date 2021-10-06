@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = false
 id = 334_900_656
+is_template = false
 language = "Ruby"
 name = "ocd-division-ids"
 node_id = "MDEwOlJlcG9zaXRvcnkzMzQ5MDA2NTY="

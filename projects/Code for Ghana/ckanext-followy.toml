@@ -30,6 +30,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 103_513_509
+is_template = false
 language = "Python"
 name = "ckanext-followy"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDM1MTM1MDk="

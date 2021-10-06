@@ -36,6 +36,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://biscuitindex.codeforkenya.org"
 id = 58_351_256
+is_template = false
 language = "HTML"
 name = "BiscuitIndex"
 node_id = "MDEwOlJlcG9zaXRvcnk1ODM1MTI1Ng=="

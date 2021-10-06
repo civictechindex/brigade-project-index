@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 331_972_587
+is_template = false
 language = "Python"
 name = "sensors.AFRICA-api-Data-SmartCitizen"
 node_id = "MDEwOlJlcG9zaXRvcnkzMzE5NzI1ODc="

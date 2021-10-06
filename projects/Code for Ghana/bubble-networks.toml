@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 94_462_401
+is_template = false
 language = "JavaScript"
 name = "bubble-networks"
 node_id = "MDEwOlJlcG9zaXRvcnk5NDQ2MjQwMQ=="

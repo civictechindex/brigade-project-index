@@ -20,6 +20,7 @@ has_pages = true
 has_projects = true
 has_wiki = true
 id = 98_725_916
+is_template = false
 language = "JavaScript"
 name = "fgm-microsite"
 node_id = "MDEwOlJlcG9zaXRvcnk5ODcyNTkxNg=="

@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 117_458_899
+is_template = false
 language = "CSS"
 name = "WaterPollution.API"
 node_id = "MDEwOlJlcG9zaXRvcnkxMTc0NTg4OTk="

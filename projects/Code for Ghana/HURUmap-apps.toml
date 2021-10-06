@@ -34,6 +34,7 @@ has_projects = false
 has_wiki = false
 homepage = "https://hurumap.org"
 id = 51_447_449
+is_template = false
 language = "TSQL"
 name = "HURUmap-apps"
 node_id = "MDEwOlJlcG9zaXRvcnk1MTQ0NzQ0OQ=="

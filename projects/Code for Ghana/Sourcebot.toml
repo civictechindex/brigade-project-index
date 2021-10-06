@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 143_013_763
+is_template = false
 language = "PHP"
 name = "Sourcebot"
 node_id = "MDEwOlJlcG9zaXRvcnkxNDMwMTM3NjM="
