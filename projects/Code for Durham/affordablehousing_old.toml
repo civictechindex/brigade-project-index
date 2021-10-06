@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://affordablehousing.pythonanywhere.com/"
 id = 54_516_783
+is_template = false
 language = "HTML"
 name = "affordablehousing_old"
 node_id = "MDEwOlJlcG9zaXRvcnk1NDUxNjc4Mw=="

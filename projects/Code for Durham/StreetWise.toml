@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://streetwise-dev1.herokuapp.com/"
 id = 153_370_717
+is_template = false
 language = "Python"
 name = "StreetWise"
 node_id = "MDEwOlJlcG9zaXRvcnkxNTMzNzA3MTc="

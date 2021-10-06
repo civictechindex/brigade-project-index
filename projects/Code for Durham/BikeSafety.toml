@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://bikesafety.codefordurham.com/"
 id = 33_561_075
+is_template = false
 language = "JavaScript"
 name = "BikeSafety"
 node_id = "MDEwOlJlcG9zaXRvcnkzMzU2MTA3NQ=="

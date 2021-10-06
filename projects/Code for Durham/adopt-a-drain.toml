@@ -23,6 +23,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://adoptadraindurham-staging.herokuapp.com/"
 id = 72_585_815
+is_template = false
 language = "Ruby"
 name = "adopt-a-drain"
 node_id = "MDEwOlJlcG9zaXRvcnk3MjU4NTgxNQ=="

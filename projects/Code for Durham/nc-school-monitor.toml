@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 68_819_356
+is_template = false
 language = "Jupyter Notebook"
 name = "nc-school-monitor"
 node_id = "MDEwOlJlcG9zaXRvcnk2ODgxOTM1Ng=="

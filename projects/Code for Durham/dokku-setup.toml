@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = false
 homepage = ""
 id = 80_471_726
+is_template = false
 language = "Python"
 name = "dokku-setup"
 node_id = "MDEwOlJlcG9zaXRvcnk4MDQ3MTcyNg=="

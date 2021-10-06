@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 79_967_222
+is_template = false
 language = "TypeScript"
 name = "datahub-fe"
 node_id = "MDEwOlJlcG9zaXRvcnk3OTk2NzIyMg=="

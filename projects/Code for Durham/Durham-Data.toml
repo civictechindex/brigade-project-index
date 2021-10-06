@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 14_347_876
+is_template = false
 language = "Python"
 name = "Durham-Data"
 node_id = "MDEwOlJlcG9zaXRvcnkxNDM0Nzg3Ng=="

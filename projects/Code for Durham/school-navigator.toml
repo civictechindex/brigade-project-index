@@ -36,6 +36,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://durhamschoolnavigator.org"
 id = 22_040_975
+is_template = false
 language = "Shell"
 name = "school-navigator"
 node_id = "MDEwOlJlcG9zaXRvcnkyMjA0MDk3NQ=="

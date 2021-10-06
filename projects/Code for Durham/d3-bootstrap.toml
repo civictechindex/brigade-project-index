@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://prag.ma/code/d3-bootstrap/"
 id = 42_971_093
+is_template = false
 language = "Makefile"
 name = "d3-bootstrap"
 node_id = "MDEwOlJlcG9zaXRvcnk0Mjk3MTA5Mw=="

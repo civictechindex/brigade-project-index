@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 51_409_247
+is_template = false
 language = "R"
 name = "ShinySafety"
 node_id = "MDEwOlJlcG9zaXRvcnk1MTQwOTI0Nw=="
