@@ -20,6 +20,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://workforsa.webflow.com/"
 id = 20_364_905
+is_template = false
 name = "workforsa"
 node_id = "MDEwOlJlcG9zaXRvcnkyMDM2NDkwNQ=="
 open_issues_within = 0

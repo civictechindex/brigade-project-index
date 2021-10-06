@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = false
 homepage = "http://opensatx.org"
 id = 19_296_547
+is_template = false
 language = "JavaScript"
 name = "opensatx.github.io"
 node_id = "MDEwOlJlcG9zaXRvcnkxOTI5NjU0Nw=="

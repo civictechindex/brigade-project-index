@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "sawaterlevels-api.herokuapp.com"
 id = 21_719_991
+is_template = false
 language = "Ruby"
 name = "sawaterlevel-api"
 node_id = "MDEwOlJlcG9zaXRvcnkyMTcxOTk5MQ=="
