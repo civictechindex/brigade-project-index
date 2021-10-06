@@ -23,9 +23,9 @@ id = 66_359_352
 language = "Perl"
 name = "open311-adapter"
 node_id = "MDEwOlJlcG9zaXRvcnk2NjM1OTM1Mg=="
-open_issues_within = 10
+open_issues_within = 100
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
 updated_within = "month"
