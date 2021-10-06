@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 83_689_893
+is_template = false
 language = "Python"
 name = "daten-stadt-heilbronn"
 node_id = "MDEwOlJlcG9zaXRvcnk4MzY4OTg5Mw=="

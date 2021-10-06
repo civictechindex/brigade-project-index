@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 107_183_610
+is_template = false
 language = "Shell"
 name = "cfh-badges"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDcxODM2MTA="

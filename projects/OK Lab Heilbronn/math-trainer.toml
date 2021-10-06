@@ -18,6 +18,7 @@ has_pages = true
 has_projects = true
 has_wiki = true
 id = 86_723_259
+is_template = false
 language = "JavaScript"
 name = "math-trainer"
 node_id = "MDEwOlJlcG9zaXRvcnk4NjcyMzI1OQ=="

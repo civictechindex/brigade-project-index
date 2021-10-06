@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 147_515_986
+is_template = false
 language = "C"
 name = "modLED"
 node_id = "MDEwOlJlcG9zaXRvcnkxNDc1MTU5ODY="

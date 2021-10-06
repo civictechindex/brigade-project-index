@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 60_804_775
+is_template = false
 language = "Java"
 name = "multi-snake"
 node_id = "MDEwOlJlcG9zaXRvcnk2MDgwNDc3NQ=="

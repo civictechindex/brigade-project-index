@@ -28,6 +28,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 163_764_666
+is_template = false
 language = "C#"
 name = "victron-data-adapter"
 node_id = "MDEwOlJlcG9zaXRvcnkxNjM3NjQ2NjY="

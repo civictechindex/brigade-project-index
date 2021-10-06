@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 44_314_795
+is_template = false
 language = "Swift"
 name = "ios-workshop-kastanien"
 node_id = "MDEwOlJlcG9zaXRvcnk0NDMxNDc5NQ=="

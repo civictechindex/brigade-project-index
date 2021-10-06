@@ -18,6 +18,7 @@ has_pages = true
 has_projects = true
 has_wiki = true
 id = 20_776_807
+is_template = false
 language = "JavaScript"
 name = "feld"
 node_id = "MDEwOlJlcG9zaXRvcnkyMDc3NjgwNw=="

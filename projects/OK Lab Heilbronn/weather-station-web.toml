@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://opendata-heilbronn.github.io/weather-station-web/"
 id = 54_649_759
+is_template = false
 language = "JavaScript"
 name = "weather-station-web"
 node_id = "MDEwOlJlcG9zaXRvcnk1NDY0OTc1OQ=="

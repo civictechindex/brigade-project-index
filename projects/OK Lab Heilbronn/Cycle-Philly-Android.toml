@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://www.cyclephilly.org"
 id = 81_448_455
+is_template = false
 language = "Java"
 name = "Cycle-Philly-Android"
 node_id = "MDEwOlJlcG9zaXRvcnk4MTQ0ODQ1NQ=="

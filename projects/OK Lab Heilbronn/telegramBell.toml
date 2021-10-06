@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 129_573_976
+is_template = false
 language = "C++"
 name = "telegramBell"
 node_id = "MDEwOlJlcG9zaXRvcnkxMjk1NzM5NzY="

@@ -18,6 +18,7 @@ has_pages = true
 has_projects = true
 has_wiki = true
 id = 80_735_611
+is_template = false
 language = "Vue"
 name = "cowo-infotainment"
 node_id = "MDEwOlJlcG9zaXRvcnk4MDczNTYxMQ=="

@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 63_352_362
+is_template = false
 language = "Arduino"
 name = "dust-esp8266"
 node_id = "MDEwOlJlcG9zaXRvcnk2MzM1MjM2Mg=="

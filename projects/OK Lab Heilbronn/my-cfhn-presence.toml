@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://git.cfhn.it/mycfhn/presence-ms"
 id = 149_628_067
+is_template = false
 language = "Java"
 name = "my-cfhn-presence"
 node_id = "MDEwOlJlcG9zaXRvcnkxNDk2MjgwNjc="

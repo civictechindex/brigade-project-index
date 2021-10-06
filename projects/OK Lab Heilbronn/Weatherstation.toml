@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 66_021_703
+is_template = false
 language = "Arduino"
 name = "Weatherstation"
 node_id = "MDEwOlJlcG9zaXRvcnk2NjAyMTcwMw=="

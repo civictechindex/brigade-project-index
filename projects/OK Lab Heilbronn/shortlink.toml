@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 138_186_938
+is_template = false
 language = "TypeScript"
 name = "shortlink"
 node_id = "MDEwOlJlcG9zaXRvcnkxMzgxODY5Mzg="

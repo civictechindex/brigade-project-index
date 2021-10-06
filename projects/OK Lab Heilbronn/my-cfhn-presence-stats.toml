@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://git.cfhn.it/mycfhn/my-cfhn-presence-stats"
 id = 150_634_333
+is_template = false
 language = "Go"
 name = "my-cfhn-presence-stats"
 node_id = "MDEwOlJlcG9zaXRvcnkxNTA2MzQzMzM="

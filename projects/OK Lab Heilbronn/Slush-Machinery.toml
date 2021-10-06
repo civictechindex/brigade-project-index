@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 142_677_381
+is_template = false
 language = "C++"
 name = "Slush-Machinery"
 node_id = "MDEwOlJlcG9zaXRvcnkxNDI2NzczODE="

@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 137_509_004
+is_template = false
 language = "TypeScript"
 name = "KaufKnecht"
 node_id = "MDEwOlJlcG9zaXRvcnkxMzc1MDkwMDQ="

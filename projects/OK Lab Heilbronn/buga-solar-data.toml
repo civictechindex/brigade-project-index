@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 233_303_465
+is_template = false
 name = "buga-solar-data"
 node_id = "MDEwOlJlcG9zaXRvcnkyMzMzMDM0NjU="
 open_issues_within = 0

@@ -20,6 +20,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://slamware.de"
 id = 240_960_948
+is_template = false
 language = "CSS"
 name = "slamware-de"
 node_id = "MDEwOlJlcG9zaXRvcnkyNDA5NjA5NDg="

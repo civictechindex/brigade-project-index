@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 63_341_411
+is_template = false
 language = "Arduino"
 name = "weather-station-esp8266"
 node_id = "MDEwOlJlcG9zaXRvcnk2MzM0MTQxMQ=="

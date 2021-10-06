@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 44_165_700
+is_template = false
 language = "Java"
 name = "android-workshop-kastanien"
 node_id = "MDEwOlJlcG9zaXRvcnk0NDE2NTcwMA=="

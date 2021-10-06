@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 125_726_596
+is_template = false
 language = "C++"
 name = "wlanvisual"
 node_id = "MDEwOlJlcG9zaXRvcnkxMjU3MjY1OTY="

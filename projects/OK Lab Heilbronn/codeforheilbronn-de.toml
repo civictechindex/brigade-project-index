@@ -23,6 +23,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://codeforheilbronn.de"
 id = 109_735_923
+is_template = false
 language = "SCSS"
 name = "codeforheilbronn-de"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDk3MzU5MjM="

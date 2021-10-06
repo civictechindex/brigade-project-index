@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://git.cfhn.it/mycfhn/frontend"
 id = 156_544_511
+is_template = false
 language = "TypeScript"
 name = "my-cfhn-frontend"
 node_id = "MDEwOlJlcG9zaXRvcnkxNTY1NDQ1MTE="

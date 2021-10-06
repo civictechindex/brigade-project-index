@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 140_467_997
+is_template = false
 language = "TypeScript"
 name = "CMFC"
 node_id = "MDEwOlJlcG9zaXRvcnkxNDA0Njc5OTc="

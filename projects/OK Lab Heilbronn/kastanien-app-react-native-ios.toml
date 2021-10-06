@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 41_083_592
+is_template = false
 language = "JavaScript"
 name = "kastanien-app-react-native-ios"
 node_id = "MDEwOlJlcG9zaXRvcnk0MTA4MzU5Mg=="

@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 126_474_721
+is_template = false
 language = "JavaScript"
 name = "pi-js-led-demo"
 node_id = "MDEwOlJlcG9zaXRvcnkxMjY0NzQ3MjE="

@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 412_157_327
+is_template = false
 language = "Shell"
 name = "codeweek-2021-go"
 node_id = "R_kgDOGJEFjw"

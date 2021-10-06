@@ -20,6 +20,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://opendata-heilbronn.github.io/zeitspruenge/"
 id = 83_908_122
+is_template = false
 language = "HTML"
 name = "zeitspruenge"
 node_id = "MDEwOlJlcG9zaXRvcnk4MzkwODEyMg=="

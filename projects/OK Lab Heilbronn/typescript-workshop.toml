@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 113_502_935
+is_template = false
 name = "typescript-workshop"
 node_id = "MDEwOlJlcG9zaXRvcnkxMTM1MDI5MzU="
 open_issues_within = 0

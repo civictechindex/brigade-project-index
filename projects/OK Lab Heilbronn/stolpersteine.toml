@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://stolpersteine-heilbronn.de/"
 id = 77_677_154
+is_template = false
 language = "HTML"
 name = "stolpersteine"
 node_id = "MDEwOlJlcG9zaXRvcnk3NzY3NzE1NA=="

@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 71_165_531
+is_template = false
 language = "C++"
 name = "rfid_doorcontol"
 node_id = "MDEwOlJlcG9zaXRvcnk3MTE2NTUzMQ=="

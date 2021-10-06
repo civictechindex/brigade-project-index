@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 61_835_467
+is_template = false
 name = "projectIdeas"
 node_id = "MDEwOlJlcG9zaXRvcnk2MTgzNTQ2Nw=="
 open_issues_within = 10

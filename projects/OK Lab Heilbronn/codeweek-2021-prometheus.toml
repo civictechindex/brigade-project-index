@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 407_938_075
+is_template = false
 name = "codeweek-2021-prometheus"
 node_id = "MDEwOlJlcG9zaXRvcnk0MDc5MzgwNzU="
 open_issues_within = 0

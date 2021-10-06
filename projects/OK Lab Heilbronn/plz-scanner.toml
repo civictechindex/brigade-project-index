@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 93_084_853
+is_template = false
 language = "JavaScript"
 name = "plz-scanner"
 node_id = "MDEwOlJlcG9zaXRvcnk5MzA4NDg1Mw=="

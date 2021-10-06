@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://opendata-heilbronn.github.io/trees/"
 id = 83_888_138
+is_template = false
 language = "HTML"
 name = "trees"
 node_id = "MDEwOlJlcG9zaXRvcnk4Mzg4ODEzOA=="

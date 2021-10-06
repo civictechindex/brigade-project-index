@@ -18,6 +18,7 @@ has_pages = true
 has_projects = true
 has_wiki = true
 id = 125_627_018
+is_template = false
 language = "HTML"
 name = "opendata-weather"
 node_id = "MDEwOlJlcG9zaXRvcnkxMjU2MjcwMTg="

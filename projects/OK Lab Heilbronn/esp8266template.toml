@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 58_653_166
+is_template = false
 language = "Arduino"
 name = "esp8266template"
 node_id = "MDEwOlJlcG9zaXRvcnk1ODY1MzE2Ng=="

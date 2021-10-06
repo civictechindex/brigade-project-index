@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://git.cfhn.it/mycfhn/login-ms"
 id = 151_578_752
+is_template = false
 language = "Java"
 name = "my-cfhn-login"
 node_id = "MDEwOlJlcG9zaXRvcnkxNTE1Nzg3NTI="

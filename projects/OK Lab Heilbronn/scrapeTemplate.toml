@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 74_047_216
+is_template = false
 language = "JavaScript"
 name = "scrapeTemplate"
 node_id = "MDEwOlJlcG9zaXRvcnk3NDA0NzIxNg=="

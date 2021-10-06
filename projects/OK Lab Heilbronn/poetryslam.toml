@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://poetryslam.opendatalab.de/admin.html"
 id = 55_707_477
+is_template = false
 language = "JavaScript"
 name = "poetryslam"
 node_id = "MDEwOlJlcG9zaXRvcnk1NTcwNzQ3Nw=="

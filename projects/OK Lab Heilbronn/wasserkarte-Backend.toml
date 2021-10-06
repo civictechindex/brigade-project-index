@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 17_083_487
+is_template = false
 language = "Java"
 name = "wasserkarte-Backend"
 node_id = "MDEwOlJlcG9zaXRvcnkxNzA4MzQ4Nw=="

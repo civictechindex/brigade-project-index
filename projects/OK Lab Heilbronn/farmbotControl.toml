@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 94_466_812
+is_template = false
 language = "Python"
 name = "farmbotControl"
 node_id = "MDEwOlJlcG9zaXRvcnk5NDQ2NjgxMg=="

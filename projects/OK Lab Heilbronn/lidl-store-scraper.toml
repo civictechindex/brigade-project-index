@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 345_082_121
+is_template = false
 language = "Go"
 name = "lidl-store-scraper"
 node_id = "MDEwOlJlcG9zaXRvcnkzNDUwODIxMjE="

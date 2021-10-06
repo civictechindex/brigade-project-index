@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 97_963_070
+is_template = false
 language = "JavaScript"
 name = "FoodSupply_bot"
 node_id = "MDEwOlJlcG9zaXRvcnk5Nzk2MzA3MA=="

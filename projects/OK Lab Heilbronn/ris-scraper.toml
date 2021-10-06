@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 123_683_688
+is_template = false
 language = "Python"
 name = "ris-scraper"
 node_id = "MDEwOlJlcG9zaXRvcnkxMjM2ODM2ODg="
