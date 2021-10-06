@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 9_651_603
+is_template = false
 name = "foodborne_classifier"
 node_id = "MDEwOlJlcG9zaXRvcnk5NjUxNjAz"
 open_issues_within = 0

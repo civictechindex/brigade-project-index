@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 6_673_152
+is_template = false
 language = "Ruby"
 name = "connect-chicago-scripts"
 node_id = "MDEwOlJlcG9zaXRvcnk2NjczMTUy"

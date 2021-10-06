@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://www.expunge.io/"
 id = 15_591_576
+is_template = false
 language = "HTML"
 name = "expunge.io"
 node_id = "MDEwOlJlcG9zaXRvcnkxNTU5MTU3Ng=="

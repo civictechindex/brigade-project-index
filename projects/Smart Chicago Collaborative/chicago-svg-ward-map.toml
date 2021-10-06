@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = false
 id = 8_171_140
+is_template = false
 language = "JavaScript"
 name = "chicago-svg-ward-map"
 node_id = "MDEwOlJlcG9zaXRvcnk4MTcxMTQw"

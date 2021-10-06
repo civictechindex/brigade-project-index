@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://chicagoearlylearning.org/"
 id = 5_116_751
+is_template = false
 language = "JavaScript"
 name = "chicago-early-learning"
 node_id = "MDEwOlJlcG9zaXRvcnk1MTE2NzUx"

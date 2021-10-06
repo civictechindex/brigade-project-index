@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://www.chicagohealthatlas.org/"
 id = 132_809_479
+is_template = false
 language = "JavaScript"
 name = "chicago-atlas-frontend"
 node_id = "MDEwOlJlcG9zaXRvcnkxMzI4MDk0Nzk="

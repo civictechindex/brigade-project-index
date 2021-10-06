@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://thinkup.com"
 id = 7_764_185
+is_template = false
 language = "PHP"
 name = "ThinkUp"
 node_id = "MDEwOlJlcG9zaXRvcnk3NzY0MTg1"

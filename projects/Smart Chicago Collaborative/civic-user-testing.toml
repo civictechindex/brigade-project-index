@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 8_207_814
+is_template = false
 name = "civic-user-testing"
 node_id = "MDEwOlJlcG9zaXRvcnk4MjA3ODE0"
 open_issues_within = 10

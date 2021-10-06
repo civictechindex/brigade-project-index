@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 15_721_481
+is_template = false
 language = "Ruby"
 name = "Wufoo-to-Twilio-SMS"
 node_id = "MDEwOlJlcG9zaXRvcnkxNTcyMTQ4MQ=="

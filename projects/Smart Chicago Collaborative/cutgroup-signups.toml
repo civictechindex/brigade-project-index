@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 8_211_738
+is_template = false
 language = "Ruby"
 name = "cutgroup-signups"
 node_id = "MDEwOlJlcG9zaXRvcnk4MjExNzM4"

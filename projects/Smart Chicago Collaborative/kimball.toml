@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://patterns.smartchicagoapps.org"
 id = 9_069_484
+is_template = false
 language = "Ruby"
 name = "kimball"
 node_id = "MDEwOlJlcG9zaXRvcnk5MDY5NDg0"

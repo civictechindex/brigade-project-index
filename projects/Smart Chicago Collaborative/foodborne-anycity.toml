@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 41_513_329
+is_template = false
 language = "Ruby"
 name = "foodborne-anycity"
 node_id = "MDEwOlJlcG9zaXRvcnk0MTUxMzMyOQ=="

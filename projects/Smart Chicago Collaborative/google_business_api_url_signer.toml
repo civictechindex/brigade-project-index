@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 14_932_822
+is_template = false
 language = "Ruby"
 name = "google_business_api_url_signer"
 node_id = "MDEwOlJlcG9zaXRvcnkxNDkzMjgyMg=="

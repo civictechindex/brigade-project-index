@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://chicagoworks-api.herokuapp.com/"
 id = 8_339_712
+is_template = false
 language = "JavaScript"
 name = "311-fm-data"
 node_id = "MDEwOlJlcG9zaXRvcnk4MzM5NzEy"

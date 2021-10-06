@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://chicago-justice.smartchicagoapps.org/"
 id = 18_366_360
+is_template = false
 language = "CSS"
 name = "crime-punishment"
 node_id = "MDEwOlJlcG9zaXRvcnkxODM2NjM2MA=="

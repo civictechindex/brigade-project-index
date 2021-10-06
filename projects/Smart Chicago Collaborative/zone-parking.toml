@@ -18,6 +18,7 @@ has_pages = true
 has_projects = true
 has_wiki = true
 id = 28_058_858
+is_template = false
 language = "Python"
 name = "zone-parking"
 node_id = "MDEwOlJlcG9zaXRvcnkyODA1ODg1OA=="

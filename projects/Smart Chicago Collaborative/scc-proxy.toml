@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 14_961_397
+is_template = false
 language = "Ruby"
 name = "scc-proxy"
 node_id = "MDEwOlJlcG9zaXRvcnkxNDk2MTM5Nw=="
