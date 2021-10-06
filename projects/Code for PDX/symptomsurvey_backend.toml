@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 153_010_241
+is_template = false
 language = "Python"
 name = "symptomsurvey_backend"
 node_id = "MDEwOlJlcG9zaXRvcnkxNTMwMTAyNDE="

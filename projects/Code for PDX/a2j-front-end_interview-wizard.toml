@@ -27,6 +27,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 154_917_996
+is_template = false
 language = "TypeScript"
 name = "a2j-front-end_interview-wizard"
 node_id = "MDEwOlJlcG9zaXRvcnkxNTQ5MTc5OTY="

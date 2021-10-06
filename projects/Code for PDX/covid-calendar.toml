@@ -23,6 +23,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://covidcalc.org"
 id = 291_141_268
+is_template = false
 language = "TypeScript"
 name = "covid-calendar"
 node_id = "MDEwOlJlcG9zaXRvcnkyOTExNDEyNjg="

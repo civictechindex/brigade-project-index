@@ -34,6 +34,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 180_703_673
+is_template = false
 language = "JavaScript"
 name = "dwellingly-app"
 node_id = "MDEwOlJlcG9zaXRvcnkxODA3MDM2NzM="

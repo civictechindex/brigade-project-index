@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 202_652_479
+is_template = false
 language = "JavaScript"
 name = "codeforpdx-bot"
 node_id = "MDEwOlJlcG9zaXRvcnkyMDI2NTI0Nzk="

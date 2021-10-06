@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 153_010_164
+is_template = false
 language = "JavaScript"
 name = "symptomsurvey_frontend"
 node_id = "MDEwOlJlcG9zaXRvcnkxNTMwMTAxNjQ="

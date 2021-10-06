@@ -32,6 +32,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 243_431_090
+is_template = false
 language = "Python"
 name = "dwellinglybackend"
 node_id = "MDEwOlJlcG9zaXRvcnkyNDM0MzEwOTA="

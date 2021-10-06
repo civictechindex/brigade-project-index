@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://muni.opentransit.city"
 id = 243_687_188
+is_template = false
 language = "Python"
 name = "opentransit-metrics"
 node_id = "MDEwOlJlcG9zaXRvcnkyNDM2ODcxODg="

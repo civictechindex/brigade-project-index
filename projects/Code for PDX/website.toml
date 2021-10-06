@@ -23,6 +23,7 @@ has_projects = true
 has_wiki = false
 homepage = "https://www.codeforpdx.org"
 id = 266_664_942
+is_template = false
 language = "HTML"
 name = "website"
 node_id = "MDEwOlJlcG9zaXRvcnkyNjY2NjQ5NDI="

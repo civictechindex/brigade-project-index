@@ -22,6 +22,7 @@ has_projects = false
 has_wiki = true
 homepage = "https://recordsponge.com"
 id = 152_712_960
+is_template = false
 language = "Python"
 name = "recordexpungPDX"
 node_id = "MDEwOlJlcG9zaXRvcnkxNTI3MTI5NjA="
