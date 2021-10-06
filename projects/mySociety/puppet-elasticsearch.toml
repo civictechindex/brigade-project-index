@@ -23,6 +23,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://www.mysociety.org/"
 id = 190_404_468
+is_template = false
 language = "HTML"
 name = "puppet-elasticsearch"
 node_id = "MDEwOlJlcG9zaXRvcnkxOTA0MDQ0Njg="

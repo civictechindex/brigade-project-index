@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 394_359_648
+is_template = false
 language = "Jupyter Notebook"
 name = "la_distance"
 node_id = "MDEwOlJlcG9zaXRvcnkzOTQzNTk2NDg="

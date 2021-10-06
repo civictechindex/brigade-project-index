@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://github.com/digitalplaywright/mongoid-slug"
 id = 42_665_108
+is_template = false
 language = "Ruby"
 name = "mongoid-slug"
 node_id = "MDEwOlJlcG9zaXRvcnk0MjY2NTEwOA=="

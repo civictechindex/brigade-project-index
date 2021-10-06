@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = false
 homepage = "http://metacpan.org/release/String-Ediff"
 id = 187_990_963
+is_template = false
 language = "C"
 name = "String-Ediff"
 node_id = "MDEwOlJlcG9zaXRvcnkxODc5OTA5NjM="

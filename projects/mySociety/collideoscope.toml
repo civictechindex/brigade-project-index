@@ -22,6 +22,7 @@ has_projects = false
 has_wiki = false
 homepage = "https://www.collideoscope.org.uk/"
 id = 40_546_350
+is_template = false
 language = "HTML"
 name = "collideoscope"
 node_id = "MDEwOlJlcG9zaXRvcnk0MDU0NjM1MA=="

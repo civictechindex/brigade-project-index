@@ -23,6 +23,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://www.queremosdatos.co/"
 id = 49_436_169
+is_template = false
 language = "HTML"
 name = "colombia-theme"
 node_id = "MDEwOlJlcG9zaXRvcnk0OTQzNjE2OQ=="

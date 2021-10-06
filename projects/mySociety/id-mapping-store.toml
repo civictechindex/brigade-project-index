@@ -20,6 +20,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://www.mysociety.org/"
 id = 117_274_888
+is_template = false
 language = "Python"
 name = "id-mapping-store"
 node_id = "MDEwOlJlcG9zaXRvcnkxMTcyNzQ4ODg="

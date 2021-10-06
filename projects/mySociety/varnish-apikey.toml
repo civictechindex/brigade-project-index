@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 31_663_092
+is_template = false
 language = "VCL"
 name = "varnish-apikey"
 node_id = "MDEwOlJlcG9zaXRvcnkzMTY2MzA5Mg=="

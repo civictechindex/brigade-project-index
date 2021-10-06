@@ -20,6 +20,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://www.mysociety.org/"
 id = 175_651_416
+is_template = false
 language = "Python"
 name = "confirm-asset-fetcher"
 node_id = "MDEwOlJlcG9zaXRvcnkxNzU2NTE0MTY="

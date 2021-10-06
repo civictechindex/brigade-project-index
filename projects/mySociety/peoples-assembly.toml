@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 190_364_761
+is_template = false
 language = "Python"
 name = "peoples-assembly"
 node_id = "MDEwOlJlcG9zaXRvcnkxOTAzNjQ3NjE="

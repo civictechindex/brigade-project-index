@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = false
 id = 24_452_241
+is_template = false
 language = "JavaScript"
 name = "image-proxy"
 node_id = "MDEwOlJlcG9zaXRvcnkyNDQ1MjI0MQ=="

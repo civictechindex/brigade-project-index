@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 305_978_453
+is_template = false
 language = "JavaScript"
 name = "foi_monitor"
 node_id = "MDEwOlJlcG9zaXRvcnkzMDU5Nzg0NTM="

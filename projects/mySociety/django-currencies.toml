@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://pypi.python.org/pypi/django-currencies"
 id = 14_494_386
+is_template = false
 language = "Python"
 name = "django-currencies"
 node_id = "MDEwOlJlcG9zaXRvcnkxNDQ5NDM4Ng=="

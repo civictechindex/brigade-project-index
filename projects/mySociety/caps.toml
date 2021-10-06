@@ -31,6 +31,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://data.climateemergency.uk"
 id = 289_357_345
+is_template = false
 language = "Python"
 name = "caps"
 node_id = "MDEwOlJlcG9zaXRvcnkyODkzNTczNDU="

@@ -20,6 +20,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://morph.io/mysociety/argentina-diputados-mendoza"
 id = 107_282_280
+is_template = false
 language = "Python"
 name = "argentina-diputados-mendoza"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDcyODIyODA="

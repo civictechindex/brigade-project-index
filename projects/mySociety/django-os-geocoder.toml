@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 12_241_460
+is_template = false
 language = "Python"
 name = "django-os-geocoder"
 node_id = "MDEwOlJlcG9zaXRvcnkxMjI0MTQ2MA=="

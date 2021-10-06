@@ -23,6 +23,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://askyourgov.ug"
 id = 14_584_725
+is_template = false
 language = "HTML"
 name = "askyourgovug-theme"
 node_id = "MDEwOlJlcG9zaXRvcnkxNDU4NDcyNQ=="

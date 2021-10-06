@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://www.mysociety.org/"
 id = 69_561_528
+is_template = false
 language = "JavaScript"
 name = "jquery-multi-select"
 node_id = "MDEwOlJlcG9zaXRvcnk2OTU2MTUyOA=="

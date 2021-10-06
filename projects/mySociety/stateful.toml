@@ -20,6 +20,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://www.mysociety.org/"
 id = 342_013_327
+is_template = false
 language = "JavaScript"
 name = "stateful"
 node_id = "MDEwOlJlcG9zaXRvcnkzNDIwMTMzMjc="

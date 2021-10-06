@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = false
 homepage = "https://mysociety.github.io/"
 id = 12_561_902
+is_template = false
 language = "HTML"
 name = "mysociety.github.io"
 node_id = "MDEwOlJlcG9zaXRvcnkxMjU2MTkwMg=="

@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://pypi.python.org/pypi/uk-postcode-utils"
 id = 7_940_349
+is_template = false
 language = "Python"
 name = "uk-postcode-utils"
 node_id = "MDEwOlJlcG9zaXRvcnk3OTQwMzQ5"

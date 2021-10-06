@@ -23,6 +23,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://alaveteli.org"
 id = 5_601_729
+is_template = false
 language = "HTML"
 name = "alavetelitheme"
 node_id = "MDEwOlJlcG9zaXRvcnk1NjAxNzI5"

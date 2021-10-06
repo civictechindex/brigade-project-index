@@ -20,6 +20,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://morph.io/mysociety/argentina-diputados-tucuman"
 id = 107_404_740
+is_template = false
 language = "Python"
 name = "argentina-diputados-tucuman"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDc0MDQ3NDA="

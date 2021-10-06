@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://global.mapit.mysociety.org/"
 id = 87_167_121
+is_template = false
 language = "Python"
 name = "global.mapit.mysociety.org"
 node_id = "MDEwOlJlcG9zaXRvcnk4NzE2NzEyMQ=="

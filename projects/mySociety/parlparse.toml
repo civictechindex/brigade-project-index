@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = false
 homepage = ""
 id = 13_930_305
+is_template = false
 language = "Python"
 name = "parlparse"
 node_id = "MDEwOlJlcG9zaXRvcnkxMzkzMDMwNQ=="

@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 14_520_137
+is_template = false
 language = "Ruby"
 name = "globalize"
 node_id = "MDEwOlJlcG9zaXRvcnkxNDUyMDEzNw=="

@@ -20,6 +20,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://www.mysociety.org/"
 id = 67_628_863
+is_template = false
 language = "Python"
 name = "ssl-scripts"
 node_id = "MDEwOlJlcG9zaXRvcnk2NzYyODg2Mw=="

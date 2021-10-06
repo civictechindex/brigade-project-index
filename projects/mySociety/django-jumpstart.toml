@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = false
 homepage = ""
 id = 2_481_356
+is_template = false
 language = "Python"
 name = "django-jumpstart"
 node_id = "MDEwOlJlcG9zaXRvcnkyNDgxMzU2"

@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = false
 homepage = "http://rubyonrails.org"
 id = 7_500_387
+is_template = false
 language = "Ruby"
 name = "rails"
 node_id = "MDEwOlJlcG9zaXRvcnk3NTAwMzg3"

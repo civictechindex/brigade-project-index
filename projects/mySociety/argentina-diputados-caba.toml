@@ -20,6 +20,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://morph.io/mysociety/argentina-diputados-caba"
 id = 107_385_731
+is_template = false
 language = "Python"
 name = "argentina-diputados-caba"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDczODU3MzE="

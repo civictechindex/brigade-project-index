@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 54_023_727
+is_template = false
 language = "Ruby"
 name = "csv_to_popolo"
 node_id = "MDEwOlJlcG9zaXRvcnk1NDAyMzcyNw=="

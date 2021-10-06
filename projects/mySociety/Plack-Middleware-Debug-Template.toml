@@ -20,6 +20,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://www.mysociety.org/"
 id = 102_125_772
+is_template = false
 language = "Perl"
 name = "Plack-Middleware-Debug-Template"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDIxMjU3NzI="

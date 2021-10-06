@@ -23,6 +23,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://www.mysociety.org/"
 id = 333_453_200
+is_template = false
 language = "Dockerfile"
 name = "action-pdk"
 node_id = "MDEwOlJlcG9zaXRvcnkzMzM0NTMyMDA="

@@ -20,6 +20,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://www.mysociety.org/"
 id = 95_469_892
+is_template = false
 language = "Ruby"
 name = "france-departmental-presidents-wikipedia"
 node_id = "MDEwOlJlcG9zaXRvcnk5NTQ2OTg5Mg=="

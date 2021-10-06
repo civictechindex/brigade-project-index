@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://www.mysociety.org/"
 id = 117_976_954
+is_template = false
 language = "JavaScript"
 name = "analytics"
 node_id = "MDEwOlJlcG9zaXRvcnkxMTc5NzY5NTQ="

@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://www.mysociety.org/"
 id = 68_619_762
+is_template = false
 language = "Python"
 name = "multiple-django-popolo-sources"
 node_id = "MDEwOlJlcG9zaXRvcnk2ODYxOTc2Mg=="

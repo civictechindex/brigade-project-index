@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://code.shutterstock.com/rickshaw/"
 id = 11_001_277
+is_template = false
 language = "JavaScript"
 name = "rickshaw"
 node_id = "MDEwOlJlcG9zaXRvcnkxMTAwMTI3Nw=="

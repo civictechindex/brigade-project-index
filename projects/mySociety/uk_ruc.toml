@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 341_612_879
+is_template = false
 language = "Python"
 name = "uk_ruc"
 node_id = "MDEwOlJlcG9zaXRvcnkzNDE2MTI4Nzk="

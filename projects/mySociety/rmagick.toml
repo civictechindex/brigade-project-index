@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://rubygems.org/gems/rmagick"
 id = 37_589_367
+is_template = false
 language = "C"
 name = "rmagick"
 node_id = "MDEwOlJlcG9zaXRvcnkzNzU4OTM2Nw=="

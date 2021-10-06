@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 10_405_610
+is_template = false
 name = "kenya-TJRC-final-report"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDQwNTYxMA=="
 open_issues_within = 10

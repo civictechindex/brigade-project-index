@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 62_148_212
+is_template = false
 language = "HTML"
 name = "maintenance"
 node_id = "MDEwOlJlcG9zaXRvcnk2MjE0ODIxMg=="

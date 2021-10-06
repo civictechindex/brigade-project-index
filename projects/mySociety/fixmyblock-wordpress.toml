@@ -19,6 +19,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 246_866_734
+is_template = false
 language = "PHP"
 name = "fixmyblock-wordpress"
 node_id = "MDEwOlJlcG9zaXRvcnkyNDY4NjY3MzQ="

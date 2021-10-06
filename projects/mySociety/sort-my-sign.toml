@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 233_070_449
+is_template = false
 language = "HTML"
 name = "sort-my-sign"
 node_id = "MDEwOlJlcG9zaXRvcnkyMzMwNzA0NDk="

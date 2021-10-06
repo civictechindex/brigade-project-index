@@ -34,6 +34,7 @@ has_projects = true
 has_wiki = false
 homepage = "http://www.theyworkforyou.com/"
 id = 500_795
+is_template = false
 language = "PHP"
 name = "theyworkforyou"
 node_id = "MDEwOlJlcG9zaXRvcnk1MDA3OTU="

@@ -20,6 +20,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://www.mysociety.org/"
 id = 180_407_994
+is_template = false
 language = "Python"
 name = "mediawiki"
 node_id = "MDEwOlJlcG9zaXRvcnkxODA0MDc5OTQ="

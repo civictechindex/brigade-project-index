@@ -20,6 +20,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://www.mysociety.org/"
 id = 298_535_326
+is_template = false
 language = "HTML"
 name = "fixmystreet-cobrand-viewer"
 node_id = "MDEwOlJlcG9zaXRvcnkyOTg1MzUzMjY="

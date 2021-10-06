@@ -23,6 +23,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://transparencia.be/"
 id = 65_017_327
+is_template = false
 language = "HTML"
 name = "belgium-theme"
 node_id = "MDEwOlJlcG9zaXRvcnk2NTAxNzMyNw=="

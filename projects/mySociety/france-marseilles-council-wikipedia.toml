@@ -20,6 +20,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://www.mysociety.org/"
 id = 94_343_896
+is_template = false
 language = "Ruby"
 name = "france-marseilles-council-wikipedia"
 node_id = "MDEwOlJlcG9zaXRvcnk5NDM0Mzg5Ng=="

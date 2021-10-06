@@ -20,6 +20,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://www.mysociety.org/"
 id = 94_318_257
+is_template = false
 language = "Ruby"
 name = "france-departementales-election-results"
 node_id = "MDEwOlJlcG9zaXRvcnk5NDMxODI1Nw=="

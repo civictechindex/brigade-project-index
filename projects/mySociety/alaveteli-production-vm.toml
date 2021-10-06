@@ -21,6 +21,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 36_446_990
+is_template = false
 name = "alaveteli-production-vm"
 node_id = "MDEwOlJlcG9zaXRvcnkzNjQ0Njk5MA=="
 open_issues_within = 0

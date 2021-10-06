@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = false
 id = 6_668_597
+is_template = false
 language = "JavaScript"
 name = "node-underscore-template-additions"
 node_id = "MDEwOlJlcG9zaXRvcnk2NjY4NTk3"

@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://www.mysociety.org/"
 id = 70_265_190
+is_template = false
 language = "JavaScript"
 name = "ga-screen-res"
 node_id = "MDEwOlJlcG9zaXRvcnk3MDI2NTE5MA=="

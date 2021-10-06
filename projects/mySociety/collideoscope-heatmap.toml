@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://www.collideoscope.org.uk/"
 id = 148_810_790
+is_template = false
 language = "Python"
 name = "collideoscope-heatmap"
 node_id = "MDEwOlJlcG9zaXRvcnkxNDg4MTA3OTA="

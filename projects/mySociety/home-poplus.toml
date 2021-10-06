@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "poplus.org"
 id = 13_769_155
+is_template = false
 language = "CSS"
 name = "home-poplus"
 node_id = "MDEwOlJlcG9zaXRvcnkxMzc2OTE1NQ=="

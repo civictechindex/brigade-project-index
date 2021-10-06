@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://research.mysociety.org/publications/freedom-information-local-government"
 id = 184_103_117
+is_template = false
 name = "research_localgov_foi_stats"
 node_id = "MDEwOlJlcG9zaXRvcnkxODQxMDMxMTc="
 open_issues_within = 10

@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = false
 id = 20_999_542
+is_template = false
 language = "Python"
 name = "za-parliament-image-scraper"
 node_id = "MDEwOlJlcG9zaXRvcnkyMDk5OTU0Mg=="

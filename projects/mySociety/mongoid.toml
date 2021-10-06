@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = false
 homepage = "http://mongoid.org"
 id = 42_859_968
+is_template = false
 language = "Ruby"
 name = "mongoid"
 node_id = "MDEwOlJlcG9zaXRvcnk0Mjg1OTk2OA=="

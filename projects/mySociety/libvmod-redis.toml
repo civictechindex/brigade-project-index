@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 403_892_650
+is_template = false
 name = "libvmod-redis"
 node_id = "MDEwOlJlcG9zaXRvcnk0MDM4OTI2NTA="
 open_issues_within = 0

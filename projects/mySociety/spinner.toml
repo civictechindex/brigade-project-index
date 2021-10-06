@@ -22,6 +22,7 @@ has_projects = false
 has_wiki = false
 homepage = "https://www.mysociety.org/"
 id = 202_327_358
+is_template = false
 language = "CSS"
 name = "spinner"
 node_id = "MDEwOlJlcG9zaXRvcnkyMDIzMjczNTg="

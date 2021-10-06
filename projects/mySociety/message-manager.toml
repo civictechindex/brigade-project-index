@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 4_663_918
+is_template = false
 language = "PHP"
 name = "message-manager"
 node_id = "MDEwOlJlcG9zaXRvcnk0NjYzOTE4"

@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 13_765_782
+is_template = false
 language = "Python"
 name = "Tennis-Refactoring-Kata"
 node_id = "MDEwOlJlcG9zaXRvcnkxMzc2NTc4Mg=="

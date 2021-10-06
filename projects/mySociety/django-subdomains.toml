@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://django-subdomains.readthedocs.org/"
 id = 32_977_258
+is_template = false
 language = "Python"
 name = "django-subdomains"
 node_id = "MDEwOlJlcG9zaXRvcnkzMjk3NzI1OA=="

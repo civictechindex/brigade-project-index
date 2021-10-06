@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://www.fixmystreet.com/"
 id = 130_368_845
+is_template = false
 language = "Python"
 name = "fixmystreet.com"
 node_id = "MDEwOlJlcG9zaXRvcnkxMzAzNjg4NDU="

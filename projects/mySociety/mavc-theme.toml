@@ -23,6 +23,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://infolib.org.lr/"
 id = 34_674_827
+is_template = false
 language = "HTML"
 name = "mavc-theme"
 node_id = "MDEwOlJlcG9zaXRvcnkzNDY3NDgyNw=="

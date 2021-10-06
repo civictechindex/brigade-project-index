@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://morph.io/mysociety/wikipedia_list_of_legislatures"
 id = 30_703_317
+is_template = false
 language = "Python"
 name = "wikipedia_list_of_legislatures"
 node_id = "MDEwOlJlcG9zaXRvcnkzMDcwMzMxNw=="

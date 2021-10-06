@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 56_128_683
+is_template = false
 language = "Python"
 name = "django-file-archive"
 node_id = "MDEwOlJlcG9zaXRvcnk1NjEyODY4Mw=="

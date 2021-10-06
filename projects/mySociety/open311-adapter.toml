@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = false
 id = 66_359_352
+is_template = false
 language = "Perl"
 name = "open311-adapter"
 node_id = "MDEwOlJlcG9zaXRvcnk2NjM1OTM1Mg=="

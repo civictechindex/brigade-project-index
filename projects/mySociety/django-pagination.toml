@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://pypi.org/project/mysociety-django-pagination/"
 id = 180_763_912
+is_template = false
 language = "Python"
 name = "django-pagination"
 node_id = "MDEwOlJlcG9zaXRvcnkxODA3NjM5MTI="

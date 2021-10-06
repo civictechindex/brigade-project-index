@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 52_295_242
+is_template = false
 language = "Ruby"
 name = "pombola_extract_info_pages"
 node_id = "MDEwOlJlcG9zaXRvcnk1MjI5NTI0Mg=="

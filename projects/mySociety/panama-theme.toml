@@ -21,6 +21,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 22_220_387
+is_template = false
 language = "HTML"
 name = "panama-theme"
 node_id = "MDEwOlJlcG9zaXRvcnkyMjIyMDM4Nw=="

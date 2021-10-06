@@ -25,6 +25,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 254_047_516
+is_template = false
 name = "bods-test"
 node_id = "MDEwOlJlcG9zaXRvcnkyNTQwNDc1MTY="
 open_issues_within = 0

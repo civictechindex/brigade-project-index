@@ -20,6 +20,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://www.mysociety.org/transparency/foi-for-councils/"
 id = 130_343_646
+is_template = false
 language = "Ruby"
 name = "infreemation-ruby"
 node_id = "MDEwOlJlcG9zaXRvcnkxMzAzNDM2NDY="

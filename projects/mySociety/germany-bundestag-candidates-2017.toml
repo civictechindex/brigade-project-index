@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://morph.io/mysociety/germany-bundestag-candidates-2017"
 id = 101_754_164
+is_template = false
 language = "Python"
 name = "germany-bundestag-candidates-2017"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDE3NTQxNjQ="

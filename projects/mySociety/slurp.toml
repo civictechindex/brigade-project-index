@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = false
 id = 40_981_142
+is_template = false
 language = "PHP"
 name = "slurp"
 node_id = "MDEwOlJlcG9zaXRvcnk0MDk4MTE0Mg=="

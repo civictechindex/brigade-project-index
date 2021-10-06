@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 59_651_996
+is_template = false
 language = "Python"
 name = "django-app-template"
 node_id = "MDEwOlJlcG9zaXRvcnk1OTY1MTk5Ng=="

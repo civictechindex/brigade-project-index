@@ -20,6 +20,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://www.mysociety.org/"
 id = 343_713_130
+is_template = false
 language = "Ruby"
 name = "icasework-ruby"
 node_id = "MDEwOlJlcG9zaXRvcnkzNDM3MTMxMzA="

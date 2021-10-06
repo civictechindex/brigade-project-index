@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 180_972_769
+is_template = false
 language = "Ruby"
 name = "uk_planning_scraper"
 node_id = "MDEwOlJlcG9zaXRvcnkxODA5NzI3Njk="

@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 9_215_949
+is_template = false
 language = "Python"
 name = "django-mptt"
 node_id = "MDEwOlJlcG9zaXRvcnk5MjE1OTQ5"

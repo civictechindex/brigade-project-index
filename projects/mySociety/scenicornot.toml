@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://scenic.mysociety.org"
 id = 1_478_905
+is_template = false
 language = "PHP"
 name = "scenicornot"
 node_id = "MDEwOlJlcG9zaXRvcnkxNDc4OTA1"

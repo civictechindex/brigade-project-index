@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 170_829_568
+is_template = false
 language = "Ruby"
 name = "consul"
 node_id = "MDEwOlJlcG9zaXRvcnkxNzA4Mjk1Njg="

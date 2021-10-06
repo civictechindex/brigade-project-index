@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://sayit.mysociety.org/"
 id = 18_757_388
+is_template = false
 language = "HTML"
 name = "sayit.mysociety.org"
 node_id = "MDEwOlJlcG9zaXRvcnkxODc1NzM4OA=="

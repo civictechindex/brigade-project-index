@@ -20,6 +20,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://mysociety.github.io/playbook"
 id = 192_901_595
+is_template = false
 language = "HTML"
 name = "playbook"
 node_id = "MDEwOlJlcG9zaXRvcnkxOTI5MDE1OTU="

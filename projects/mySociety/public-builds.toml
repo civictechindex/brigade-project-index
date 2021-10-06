@@ -23,6 +23,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://www.mysociety.org/"
 id = 150_231_945
+is_template = false
 language = "Shell"
 name = "public-builds"
 node_id = "MDEwOlJlcG9zaXRvcnkxNTAyMzE5NDU="

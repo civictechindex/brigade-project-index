@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = false
 homepage = "https://theyvoteforyou.org.au/"
 id = 27_131_653
+is_template = false
 language = "Ruby"
 name = "publicwhip"
 node_id = "MDEwOlJlcG9zaXRvcnkyNzEzMTY1Mw=="

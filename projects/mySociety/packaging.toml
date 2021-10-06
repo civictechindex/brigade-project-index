@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://www.mysociety.org/"
 id = 342_279_587
+is_template = false
 language = "Jinja"
 name = "packaging"
 node_id = "MDEwOlJlcG9zaXRvcnkzNDIyNzk1ODc="

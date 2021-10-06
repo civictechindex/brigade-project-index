@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://www.mysociety.org/"
 id = 123_956_611
+is_template = false
 language = "Ruby"
 name = "id-mapper"
 node_id = "MDEwOlJlcG9zaXRvcnkxMjM5NTY2MTE="

@@ -23,6 +23,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://derechoapreguntar.org/"
 id = 23_218_246
+is_template = false
 language = "HTML"
 name = "derechoapreguntar-theme"
 node_id = "MDEwOlJlcG9zaXRvcnkyMzIxODI0Ng=="

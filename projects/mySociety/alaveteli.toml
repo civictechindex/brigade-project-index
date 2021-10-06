@@ -28,6 +28,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://alaveteli.org"
 id = 1_125_389
+is_template = false
 language = "Ruby"
 name = "alaveteli"
 node_id = "MDEwOlJlcG9zaXRvcnkxMTI1Mzg5"

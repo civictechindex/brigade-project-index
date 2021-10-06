@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://mysociety.github.io/foi-refusals-prototype"
 id = 304_655_585
+is_template = false
 language = "HTML"
 name = "foi-refusals-prototype"
 node_id = "MDEwOlJlcG9zaXRvcnkzMDQ2NTU1ODU="

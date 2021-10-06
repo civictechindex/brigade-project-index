@@ -20,6 +20,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://mysociety.github.io/pfi-fault-reporting/"
 id = 333_789_449
+is_template = false
 language = "HTML"
 name = "pfi-fault-reporting"
 node_id = "MDEwOlJlcG9zaXRvcnkzMzM3ODk0NDk="

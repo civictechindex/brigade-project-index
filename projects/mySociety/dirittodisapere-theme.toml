@@ -23,6 +23,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://chiedi.dirittodisapere.it/"
 id = 12_760_170
+is_template = false
 language = "HTML"
 name = "dirittodisapere-theme"
 node_id = "MDEwOlJlcG9zaXRvcnkxMjc2MDE3MA=="

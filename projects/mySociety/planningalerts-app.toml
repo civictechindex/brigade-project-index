@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = false
 homepage = "www.planningalerts.org.au"
 id = 23_799_806
+is_template = false
 language = "Ruby"
 name = "planningalerts-app"
 node_id = "MDEwOlJlcG9zaXRvcnkyMzc5OTgwNg=="

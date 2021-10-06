@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://www.mysociety.org/transparency/foi-works/"
 id = 126_822_970
+is_template = false
 language = "HTML"
 name = "foi-for-councils"
 node_id = "MDEwOlJlcG9zaXRvcnkxMjY4MjI5NzA="

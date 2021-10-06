@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = false
 homepage = ""
 id = 12_141_524
+is_template = false
 language = "Python"
 name = "django-failedloginblocker"
 node_id = "MDEwOlJlcG9zaXRvcnkxMjE0MTUyNA=="

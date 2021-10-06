@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 98_867_557
+is_template = false
 language = "CSS"
 name = "twfy-profile-spike"
 node_id = "MDEwOlJlcG9zaXRvcnk5ODg2NzU1Nw=="

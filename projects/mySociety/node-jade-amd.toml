@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 4_421_959
+is_template = false
 language = "JavaScript"
 name = "node-jade-amd"
 node_id = "MDEwOlJlcG9zaXRvcnk0NDIxOTU5"

@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 175_580_595
+is_template = false
 language = "Ruby"
 name = "correspondence_tool_staff"
 node_id = "MDEwOlJlcG9zaXRvcnkxNzU1ODA1OTU="

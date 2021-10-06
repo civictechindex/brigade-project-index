@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://mysociety.org"
 id = 29_924_544
+is_template = false
 language = "HTML"
 name = "annual-report"
 node_id = "MDEwOlJlcG9zaXRvcnkyOTkyNDU0NA=="

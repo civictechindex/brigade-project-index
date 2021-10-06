@@ -23,6 +23,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://www.mysociety.org/"
 id = 346_411_638
+is_template = false
 language = "Shell"
 name = "action-git-pusher"
 node_id = "MDEwOlJlcG9zaXRvcnkzNDY0MTE2Mzg="

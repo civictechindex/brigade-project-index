@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 338_115_693
+is_template = false
 language = "Python"
 name = "vegalite-server"
 node_id = "MDEwOlJlcG9zaXRvcnkzMzgxMTU2OTM="

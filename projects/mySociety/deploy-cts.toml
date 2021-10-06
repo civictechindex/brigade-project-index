@@ -20,6 +20,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://www.mysociety.org/"
 id = 175_658_713
+is_template = false
 language = "HCL"
 name = "deploy-cts"
 node_id = "MDEwOlJlcG9zaXRvcnkxNzU2NTg3MTM="

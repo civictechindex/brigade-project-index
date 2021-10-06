@@ -31,6 +31,7 @@ has_projects = true
 has_wiki = false
 homepage = "https://www.writetothem.com"
 id = 478_804
+is_template = false
 language = "PHP"
 name = "writetothem"
 node_id = "MDEwOlJlcG9zaXRvcnk0Nzg4MDQ="

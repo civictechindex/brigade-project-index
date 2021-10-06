@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 20_398_987
+is_template = false
 language = "CSS"
 name = "component-library"
 node_id = "MDEwOlJlcG9zaXRvcnkyMDM5ODk4Nw=="

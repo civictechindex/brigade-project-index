@@ -23,6 +23,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://www.mysociety.org/"
 id = 191_929_620
+is_template = false
 language = "Ruby"
 name = "puppet-bootstrap"
 node_id = "MDEwOlJlcG9zaXRvcnkxOTE5Mjk2MjA="

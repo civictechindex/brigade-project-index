@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 7_604_108
+is_template = false
 language = "JavaScript"
 name = "zurich_mobile"
 node_id = "MDEwOlJlcG9zaXRvcnk3NjA0MTA4"

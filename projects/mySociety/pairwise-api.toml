@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "api.allourideas.org"
 id = 5_601_784
+is_template = false
 language = "Ruby"
 name = "pairwise-api"
 node_id = "MDEwOlJlcG9zaXRvcnk1NjAxNzg0"

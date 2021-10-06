@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 45_264_399
+is_template = false
 language = "Ruby"
 name = "active_model_otp"
 node_id = "MDEwOlJlcG9zaXRvcnk0NTI2NDM5OQ=="

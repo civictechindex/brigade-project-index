@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://www.mysociety.org/"
 id = 116_151_916
+is_template = false
 language = "HTML"
 name = "puppet-mariadb"
 node_id = "MDEwOlJlcG9zaXRvcnkxMTYxNTE5MTY="

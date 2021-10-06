@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 16_277_804
+is_template = false
 language = "Perl"
 name = "internal-services"
 node_id = "MDEwOlJlcG9zaXRvcnkxNjI3NzgwNA=="

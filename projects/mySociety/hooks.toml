@@ -22,6 +22,7 @@ has_projects = false
 has_wiki = false
 homepage = "https://hooks.mysociety.org/"
 id = 149_442_338
+is_template = false
 language = "PHP"
 name = "hooks"
 node_id = "MDEwOlJlcG9zaXRvcnkxNDk0NDIzMzg="

@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 371_632_544
+is_template = false
 name = "crispy-forms-gds"
 node_id = "MDEwOlJlcG9zaXRvcnkzNzE2MzI1NDQ="
 open_issues_within = 0

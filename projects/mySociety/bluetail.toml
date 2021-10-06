@@ -30,6 +30,7 @@ has_projects = false
 has_wiki = false
 homepage = ""
 id = 265_618_958
+is_template = false
 language = "Python"
 name = "bluetail"
 node_id = "MDEwOlJlcG9zaXRvcnkyNjU2MTg5NTg="

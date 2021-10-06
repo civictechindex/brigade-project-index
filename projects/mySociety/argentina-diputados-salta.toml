@@ -20,6 +20,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://morph.io/mysociety/argentina-diputados-salta"
 id = 107_419_869
+is_template = false
 language = "Python"
 name = "argentina-diputados-salta"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDc0MTk4Njk="

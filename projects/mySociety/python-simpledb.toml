@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://sixapart.com"
 id = 26_215_575
+is_template = false
 language = "Python"
 name = "python-simpledb"
 node_id = "MDEwOlJlcG9zaXRvcnkyNjIxNTU3NQ=="

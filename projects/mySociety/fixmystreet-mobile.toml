@@ -29,6 +29,7 @@ has_projects = true
 has_wiki = false
 homepage = ""
 id = 11_131_493
+is_template = false
 language = "JavaScript"
 name = "fixmystreet-mobile"
 node_id = "MDEwOlJlcG9zaXRvcnkxMTEzMTQ5Mw=="

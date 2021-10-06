@@ -20,6 +20,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://morph.io/mysociety/argentina-senadores-mendoza"
 id = 107_655_380
+is_template = false
 language = "Python"
 name = "argentina-senadores-mendoza"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDc2NTUzODA="

@@ -20,6 +20,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://morph.io/mysociety/argentina-diputados-santa-fe"
 id = 107_400_459
+is_template = false
 language = "Python"
 name = "argentina-diputados-santa-fe"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDc0MDA0NTk="

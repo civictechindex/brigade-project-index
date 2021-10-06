@@ -23,6 +23,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://www.mysociety.org/"
 id = 172_074_160
+is_template = false
 language = "Shell"
 name = "docker-consul"
 node_id = "MDEwOlJlcG9zaXRvcnkxNzIwNzQxNjA="

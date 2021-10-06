@@ -20,6 +20,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://morph.io/mysociety/kenya-senate-members"
 id = 119_372_360
+is_template = false
 language = "Python"
 name = "kenya-senate-members"
 node_id = "MDEwOlJlcG9zaXRvcnkxMTkzNzIzNjA="

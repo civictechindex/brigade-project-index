@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 41_537_232
+is_template = false
 language = "Python"
 name = "oxfam-lookup"
 node_id = "MDEwOlJlcG9zaXRvcnk0MTUzNzIzMg=="

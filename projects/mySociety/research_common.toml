@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 305_970_930
+is_template = false
 language = "Python"
 name = "research_common"
 node_id = "MDEwOlJlcG9zaXRvcnkzMDU5NzA5MzA="

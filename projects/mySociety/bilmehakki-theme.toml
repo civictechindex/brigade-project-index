@@ -23,6 +23,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://bilmehakki.org"
 id = 50_042_727
+is_template = false
 language = "HTML"
 name = "bilmehakki-theme"
 node_id = "MDEwOlJlcG9zaXRvcnk1MDA0MjcyNw=="

@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 341_630_633
+is_template = false
 language = "Python"
 name = "survey_helper"
 node_id = "MDEwOlJlcG9zaXRvcnkzNDE2MzA2MzM="

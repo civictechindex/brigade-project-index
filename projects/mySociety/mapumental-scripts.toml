@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = false
 homepage = "https://mapumental.com/api/"
 id = 34_463_464
+is_template = false
 language = "Python"
 name = "mapumental-scripts"
 node_id = "MDEwOlJlcG9zaXRvcnkzNDQ2MzQ2NA=="

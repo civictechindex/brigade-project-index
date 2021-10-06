@@ -23,6 +23,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://github.com/rmm5t/strip_attributes"
 id = 40_654_381
+is_template = false
 language = "Ruby"
 name = "strip_attributes"
 node_id = "MDEwOlJlcG9zaXRvcnk0MDY1NDM4MQ=="

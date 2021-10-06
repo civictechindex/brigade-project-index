@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = false
 homepage = "http://metacpan.org/release/Geography-NationalGrid"
 id = 184_815_439
+is_template = false
 language = "Perl"
 name = "Geography-NationalGrid"
 node_id = "MDEwOlJlcG9zaXRvcnkxODQ4MTU0Mzk="

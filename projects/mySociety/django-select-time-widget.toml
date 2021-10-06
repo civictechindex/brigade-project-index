@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 5_884_903
+is_template = false
 language = "Python"
 name = "django-select-time-widget"
 node_id = "MDEwOlJlcG9zaXRvcnk1ODg0OTAz"

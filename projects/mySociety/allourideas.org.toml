@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "www.allourideas.org"
 id = 5_598_678
+is_template = false
 language = "JavaScript"
 name = "allourideas.org"
 node_id = "MDEwOlJlcG9zaXRvcnk1NTk4Njc4"

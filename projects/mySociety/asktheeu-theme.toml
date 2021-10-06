@@ -23,6 +23,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://www.asktheeu.org"
 id = 26_489_053
+is_template = false
 language = "HTML"
 name = "asktheeu-theme"
 node_id = "MDEwOlJlcG9zaXRvcnkyNjQ4OTA1Mw=="

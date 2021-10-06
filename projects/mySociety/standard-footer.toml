@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 57_227_905
+is_template = false
 language = "SCSS"
 name = "standard-footer"
 node_id = "MDEwOlJlcG9zaXRvcnk1NzIyNzkwNQ=="

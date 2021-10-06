@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 311_407_242
+is_template = false
 language = "Python"
 name = "gender-detect"
 node_id = "MDEwOlJlcG9zaXRvcnkzMTE0MDcyNDI="

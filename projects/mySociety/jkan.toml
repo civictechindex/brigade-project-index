@@ -23,6 +23,7 @@ has_projects = true
 has_wiki = false
 homepage = "https://jkan.io"
 id = 83_421_439
+is_template = false
 language = "HTML"
 name = "jkan"
 node_id = "MDEwOlJlcG9zaXRvcnk4MzQyMTQzOQ=="

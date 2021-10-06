@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 222_681_400
+is_template = false
 language = "Perl"
 name = "check_lsi_raid"
 node_id = "MDEwOlJlcG9zaXRvcnkyMjI2ODE0MDA="

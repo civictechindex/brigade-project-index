@@ -20,6 +20,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://www.mysociety.org/"
 id = 94_339_248
+is_template = false
 language = "Ruby"
 name = "france-paris-council-wikipedia"
 node_id = "MDEwOlJlcG9zaXRvcnk5NDMzOTI0OA=="

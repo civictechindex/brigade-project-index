@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = false
 homepage = "http://sass-lang.com"
 id = 26_271_904
+is_template = false
 name = "sass"
 node_id = "MDEwOlJlcG9zaXRvcnkyNjI3MTkwNA=="
 open_issues_within = 0

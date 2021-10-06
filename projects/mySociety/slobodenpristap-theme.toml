@@ -23,6 +23,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://www.slobodenpristap.mk/"
 id = 17_141_592
+is_template = false
 language = "CSS"
 name = "slobodenpristap-theme"
 node_id = "MDEwOlJlcG9zaXRvcnkxNzE0MTU5Mg=="

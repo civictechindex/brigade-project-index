@@ -23,6 +23,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://www.mysociety.org/"
 id = 170_724_595
+is_template = false
 language = "Shell"
 name = "docker-puppetboard"
 node_id = "MDEwOlJlcG9zaXRvcnkxNzA3MjQ1OTU="

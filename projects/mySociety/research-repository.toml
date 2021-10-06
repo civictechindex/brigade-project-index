@@ -23,6 +23,7 @@ has_projects = true
 has_wiki = false
 homepage = "http://research.mysociety.org/"
 id = 82_924_236
+is_template = false
 language = "Python"
 name = "research-repository"
 node_id = "MDEwOlJlcG9zaXRvcnk4MjkyNDIzNg=="

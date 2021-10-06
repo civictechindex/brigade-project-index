@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://gaze.mysociety.org/"
 id = 2_077_155
+is_template = false
 language = "Perl"
 name = "gaze"
 node_id = "MDEwOlJlcG9zaXRvcnkyMDc3MTU1"

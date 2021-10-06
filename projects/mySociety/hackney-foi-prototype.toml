@@ -20,6 +20,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://mysociety.github.io/hackney-foi-prototype/"
 id = 120_920_244
+is_template = false
 language = "HTML"
 name = "hackney-foi-prototype"
 node_id = "MDEwOlJlcG9zaXRvcnkxMjA5MjAyNDQ="

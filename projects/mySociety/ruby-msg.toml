@@ -23,6 +23,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://ruby-msg.googlecode.com"
 id = 26_265_182
+is_template = false
 language = "Ruby"
 name = "ruby-msg"
 node_id = "MDEwOlJlcG9zaXRvcnkyNjI2NTE4Mg=="

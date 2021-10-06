@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://www.mikenelsons.com/projects"
 id = 7_665_417
+is_template = false
 language = "Ruby"
 name = "acts_as_xapian_gem"
 node_id = "MDEwOlJlcG9zaXRvcnk3NjY1NDE3"

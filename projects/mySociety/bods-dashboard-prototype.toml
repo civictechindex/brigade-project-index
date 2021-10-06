@@ -20,6 +20,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://mysociety.github.io/bods-dashboard-prototype/"
 id = 259_982_546
+is_template = false
 language = "HTML"
 name = "bods-dashboard-prototype"
 node_id = "MDEwOlJlcG9zaXRvcnkyNTk5ODI1NDY="

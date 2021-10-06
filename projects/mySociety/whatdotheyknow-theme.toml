@@ -23,6 +23,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://www.whatdotheyknow.com/"
 id = 1_893_173
+is_template = false
 language = "HTML"
 name = "whatdotheyknow-theme"
 node_id = "MDEwOlJlcG9zaXRvcnkxODkzMTcz"

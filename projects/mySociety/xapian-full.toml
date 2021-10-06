@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 33_194_849
+is_template = false
 language = "Ruby"
 name = "xapian-full"
 node_id = "MDEwOlJlcG9zaXRvcnkzMzE5NDg0OQ=="

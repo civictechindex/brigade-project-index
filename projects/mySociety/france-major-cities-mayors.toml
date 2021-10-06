@@ -20,6 +20,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://www.mysociety.org/"
 id = 94_458_385
+is_template = false
 language = "Ruby"
 name = "france-major-cities-mayors"
 node_id = "MDEwOlJlcG9zaXRvcnk5NDQ1ODM4NQ=="

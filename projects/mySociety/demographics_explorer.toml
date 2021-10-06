@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 321_317_191
+is_template = false
 language = "JavaScript"
 name = "demographics_explorer"
 node_id = "MDEwOlJlcG9zaXRvcnkzMjEzMTcxOTE="

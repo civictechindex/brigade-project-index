@@ -20,6 +20,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://morph.io/mysociety/argentina-diputados-buenos-aires"
 id = 106_832_804
+is_template = false
 language = "Python"
 name = "argentina-diputados-buenos-aires"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDY4MzI4MDQ="

@@ -23,6 +23,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://asknepal.info/"
 id = 41_150_247
+is_template = false
 language = "HTML"
 name = "asknepal-theme"
 node_id = "MDEwOlJlcG9zaXRvcnk0MTE1MDI0Nw=="

@@ -19,6 +19,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 19_072_978
+is_template = false
 language = "Python"
 name = "writeinpublic"
 node_id = "MDEwOlJlcG9zaXRvcnkxOTA3Mjk3OA=="

@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = false
 homepage = "https://www.gov.uk/design-system"
 id = 192_929_811
+is_template = false
 language = "JavaScript"
 name = "govuk-frontend"
 node_id = "MDEwOlJlcG9zaXRvcnkxOTI5Mjk4MTE="

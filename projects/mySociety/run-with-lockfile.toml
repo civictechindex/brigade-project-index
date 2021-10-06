@@ -20,6 +20,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://www.mysociety.org/"
 id = 333_797_158
+is_template = false
 language = "C"
 name = "run-with-lockfile"
 node_id = "MDEwOlJlcG9zaXRvcnkzMzM3OTcxNTg="

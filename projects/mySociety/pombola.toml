@@ -19,6 +19,7 @@ has_projects = true
 has_wiki = false
 homepage = ""
 id = 1_994_469
+is_template = false
 language = "Python"
 name = "pombola"
 node_id = "MDEwOlJlcG9zaXRvcnkxOTk0NDY5"

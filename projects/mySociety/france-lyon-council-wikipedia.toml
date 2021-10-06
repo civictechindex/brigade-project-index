@@ -20,6 +20,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://www.mysociety.org/"
 id = 94_342_483
+is_template = false
 language = "Ruby"
 name = "france-lyon-council-wikipedia"
 node_id = "MDEwOlJlcG9zaXRvcnk5NDM0MjQ4Mw=="

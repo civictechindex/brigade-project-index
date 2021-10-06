@@ -23,6 +23,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://github.com/mysociety/puppet-dovecot"
 id = 86_692_161
+is_template = false
 language = "Puppet"
 name = "puppet-dovecot"
 node_id = "MDEwOlJlcG9zaXRvcnk4NjY5MjE2MQ=="
