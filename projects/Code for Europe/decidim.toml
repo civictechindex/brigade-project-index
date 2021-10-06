@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = false
 homepage = "http://www.decidim.org"
 id = 106_714_903
+is_template = false
 language = "Ruby"
 name = "decidim"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDY3MTQ5MDM="

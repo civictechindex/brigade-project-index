@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = false
 homepage = "https://git.io/countries"
 id = 85_342_106
+is_template = false
 language = "PHP"
 name = "countries"
 node_id = "MDEwOlJlcG9zaXRvcnk4NTM0MjEwNg=="

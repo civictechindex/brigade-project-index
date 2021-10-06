@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 23_107_891
+is_template = false
 language = "CSS"
 name = "art-explorer-docs"
 node_id = "MDEwOlJlcG9zaXRvcnkyMzEwNzg5MQ=="

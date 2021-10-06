@@ -20,6 +20,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://www.democracylab.org"
 id = 291_243_681
+is_template = false
 name = "CivicTechExchange"
 node_id = "MDEwOlJlcG9zaXRvcnkyOTEyNDM2ODE="
 open_issues_within = 0

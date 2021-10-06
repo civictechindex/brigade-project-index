@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://shopify.github.com/dashing/"
 id = 24_786_289
+is_template = false
 name = "dashing"
 node_id = "MDEwOlJlcG9zaXRvcnkyNDc4NjI4OQ=="
 open_issues_within = 0

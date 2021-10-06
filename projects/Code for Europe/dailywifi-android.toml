@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 10_384_533
+is_template = false
 language = "Java"
 name = "dailywifi-android"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDM4NDUzMw=="

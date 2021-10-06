@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 13_385_218
+is_template = false
 language = "Ruby"
 name = "art-explorer"
 node_id = "MDEwOlJlcG9zaXRvcnkxMzM4NTIxOA=="

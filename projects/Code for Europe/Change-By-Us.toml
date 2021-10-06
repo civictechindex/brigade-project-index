@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "changeby.us"
 id = 19_578_162
+is_template = false
 language = "Python"
 name = "Change-By-Us"
 node_id = "MDEwOlJlcG9zaXRvcnkxOTU3ODE2Mg=="

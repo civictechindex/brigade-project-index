@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://codeforeurope.github.io"
 id = 76_635_179
+is_template = false
 language = "HTML"
 name = "codeforeurope.github.io"
 node_id = "MDEwOlJlcG9zaXRvcnk3NjYzNTE3OQ=="

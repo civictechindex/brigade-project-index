@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 10_196_647
+is_template = false
 language = "Objective-C"
 name = "gohike-ios"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDE5NjY0Nw=="

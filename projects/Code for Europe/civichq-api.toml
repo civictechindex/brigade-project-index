@@ -23,6 +23,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://codeforeu.github.io/portfolio"
 id = 80_602_550
+is_template = false
 language = "JavaScript"
 name = "civichq-api"
 node_id = "MDEwOlJlcG9zaXRvcnk4MDYwMjU1MA=="

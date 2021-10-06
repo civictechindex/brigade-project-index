@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 10_442_198
+is_template = false
 language = "Java"
 name = "gohike-android"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDQ0MjE5OA=="

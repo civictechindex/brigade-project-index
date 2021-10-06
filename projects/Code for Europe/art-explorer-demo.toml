@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 22_037_820
+is_template = false
 language = "JavaScript"
 name = "art-explorer-demo"
 node_id = "MDEwOlJlcG9zaXRvcnkyMjAzNzgyMA=="

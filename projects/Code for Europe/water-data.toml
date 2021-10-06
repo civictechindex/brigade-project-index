@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = false
 id = 85_933_305
+is_template = false
 language = "JavaScript"
 name = "water-data"
 node_id = "MDEwOlJlcG9zaXRvcnk4NTkzMzMwNQ=="

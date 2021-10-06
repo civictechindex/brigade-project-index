@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://buurtsms.herokuapp.com"
 id = 9_658_545
+is_template = false
 language = "Ruby"
 name = "buurtsms"
 node_id = "MDEwOlJlcG9zaXRvcnk5NjU4NTQ1"

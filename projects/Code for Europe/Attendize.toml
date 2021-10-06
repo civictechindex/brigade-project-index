@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://www.attendize.com"
 id = 80_063_265
+is_template = false
 language = "CSS"
 name = "Attendize"
 node_id = "MDEwOlJlcG9zaXRvcnk4MDA2MzI2NQ=="

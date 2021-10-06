@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "europecommons.org"
 id = 10_474_598
+is_template = false
 language = "PHP"
 name = "europecommons.org"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDQ3NDU5OA=="
