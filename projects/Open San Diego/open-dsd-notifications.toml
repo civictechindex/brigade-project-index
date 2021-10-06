@@ -23,6 +23,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://www.OpenSanDiego.com"
 id = 35_633_080
+is_template = false
 language = "JavaScript"
 name = "open-dsd-notifications"
 node_id = "MDEwOlJlcG9zaXRvcnkzNTYzMzA4MA=="

@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://followthemoneysandiego.org/"
 id = 238_632_538
+is_template = false
 language = "TypeScript"
 name = "sdvv-frontend"
 node_id = "MDEwOlJlcG9zaXRvcnkyMzg2MzI1Mzg="

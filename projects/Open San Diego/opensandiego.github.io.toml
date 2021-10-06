@@ -23,6 +23,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://opensandiego.org/"
 id = 7_710_467
+is_template = false
 language = "CSS"
 name = "opensandiego.github.io"
 node_id = "MDEwOlJlcG9zaXRvcnk3NzEwNDY3"

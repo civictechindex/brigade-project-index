@@ -21,6 +21,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 250_437_878
+is_template = false
 language = "Python"
 name = "sandiego-covid-data"
 node_id = "MDEwOlJlcG9zaXRvcnkyNTA0Mzc4Nzg="

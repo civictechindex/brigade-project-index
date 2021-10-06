@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 353_207_218
+is_template = false
 name = "tree-canopy-ml"
 node_id = "MDEwOlJlcG9zaXRvcnkzNTMyMDcyMTg="
 open_issues_within = 10

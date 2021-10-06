@@ -21,6 +21,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 184_309_751
+is_template = false
 language = "JavaScript"
 name = "p2p-lending"
 node_id = "MDEwOlJlcG9zaXRvcnkxODQzMDk3NTE="

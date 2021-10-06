@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 252_052_844
+is_template = false
 language = "JavaScript"
 name = "sd_economy_timeline"
 node_id = "MDEwOlJlcG9zaXRvcnkyNTIwNTI4NDQ="

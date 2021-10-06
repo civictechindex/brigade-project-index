@@ -23,6 +23,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://opensandiego.org"
 id = 35_136_663
+is_template = false
 language = "HTML"
 name = "sd-sweepaware"
 node_id = "MDEwOlJlcG9zaXRvcnkzNTEzNjY2Mw=="

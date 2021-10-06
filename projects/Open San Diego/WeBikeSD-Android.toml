@@ -23,6 +23,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://www.cyclephilly.org"
 id = 41_839_029
+is_template = false
 language = "Java"
 name = "WeBikeSD-Android"
 node_id = "MDEwOlJlcG9zaXRvcnk0MTgzOTAyOQ=="

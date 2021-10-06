@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 47_234_169
+is_template = false
 language = "PHP"
 name = "WeBikeSD"
 node_id = "MDEwOlJlcG9zaXRvcnk0NzIzNDE2OQ=="

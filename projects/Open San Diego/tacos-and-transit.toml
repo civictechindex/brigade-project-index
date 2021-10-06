@@ -21,6 +21,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 172_249_127
+is_template = false
 language = "Python"
 name = "tacos-and-transit"
 node_id = "MDEwOlJlcG9zaXRvcnkxNzIyNDkxMjc="

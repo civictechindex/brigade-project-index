@@ -21,6 +21,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 36_778_782
+is_template = false
 language = "Objective-C"
 name = "WeBikeSD-iOS"
 node_id = "MDEwOlJlcG9zaXRvcnkzNjc3ODc4Mg=="

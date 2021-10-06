@@ -27,6 +27,7 @@ has_pages = true
 has_projects = true
 has_wiki = true
 id = 120_137_256
+is_template = false
 language = "Jupyter Notebook"
 name = "mealscount-backend"
 node_id = "MDEwOlJlcG9zaXRvcnkxMjAxMzcyNTY="

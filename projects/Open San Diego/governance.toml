@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 221_749_268
+is_template = false
 name = "governance"
 node_id = "MDEwOlJlcG9zaXRvcnkyMjE3NDkyNjg="
 open_issues_within = 10

@@ -23,6 +23,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://caciviclab.org/odca-jekyll/"
 id = 188_129_436
+is_template = false
 language = "Ruby"
 name = "disclosure-backend-static"
 node_id = "MDEwOlJlcG9zaXRvcnkxODgxMjk0MzY="

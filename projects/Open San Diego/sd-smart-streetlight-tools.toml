@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 239_846_016
+is_template = false
 language = "JavaScript"
 name = "sd-smart-streetlight-tools"
 node_id = "MDEwOlJlcG9zaXRvcnkyMzk4NDYwMTY="

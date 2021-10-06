@@ -23,6 +23,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://www.opendisclosure.io"
 id = 188_129_406
+is_template = false
 language = "HTML"
 name = "odca-jekyll"
 node_id = "MDEwOlJlcG9zaXRvcnkxODgxMjk0MDY="
