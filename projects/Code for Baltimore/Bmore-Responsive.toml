@@ -32,6 +32,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 231_136_024
+is_template = false
 language = "JavaScript"
 name = "Bmore-Responsive"
 node_id = "MDEwOlJlcG9zaXRvcnkyMzExMzYwMjQ="

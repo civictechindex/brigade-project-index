@@ -33,6 +33,7 @@ has_projects = true
 has_wiki = false
 homepage = "https://healthcare-rollcall.netlify.com/"
 id = 220_722_071
+is_template = false
 language = "Vue"
 name = "Healthcare-Rollcall"
 node_id = "MDEwOlJlcG9zaXRvcnkyMjA3MjIwNzE="

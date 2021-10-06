@@ -28,6 +28,7 @@ has_pages = false
 has_projects = true
 has_wiki = false
 id = 234_944_837
+is_template = false
 language = "Python"
 name = "CitySync"
 node_id = "MDEwOlJlcG9zaXRvcnkyMzQ5NDQ4Mzc="

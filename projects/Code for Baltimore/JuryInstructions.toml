@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 202_434_999
+is_template = false
 language = "HTML"
 name = "JuryInstructions"
 node_id = "MDEwOlJlcG9zaXRvcnkyMDI0MzQ5OTk="

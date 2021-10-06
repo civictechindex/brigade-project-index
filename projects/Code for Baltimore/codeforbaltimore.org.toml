@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 229_127_136
+is_template = false
 language = "Vue"
 name = "codeforbaltimore.org"
 node_id = "MDEwOlJlcG9zaXRvcnkyMjkxMjcxMzY="
