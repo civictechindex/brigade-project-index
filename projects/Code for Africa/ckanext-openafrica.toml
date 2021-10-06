@@ -30,6 +30,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://openafrica.net"
 id = 9_172_848
+is_template = false
 language = "HTML"
 name = "ckanext-openafrica"
 node_id = "MDEwOlJlcG9zaXRvcnk5MTcyODQ4"

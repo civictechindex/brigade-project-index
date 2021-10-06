@@ -23,6 +23,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://app.gmmp.ngo"
 id = 221_116_593
+is_template = false
 language = "Python"
 name = "gmmp"
 node_id = "MDEwOlJlcG9zaXRvcnkyMjExMTY1OTM="

@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 104_327_755
+is_template = false
 language = "CSS"
 name = "ckanext-kyelatheme"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDQzMjc3NTU="

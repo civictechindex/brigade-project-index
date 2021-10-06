@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 202_093_938
+is_template = false
 language = "TypeScript"
 name = "pg-aggregates"
 node_id = "MDEwOlJlcG9zaXRvcnkyMDIwOTM5Mzg="

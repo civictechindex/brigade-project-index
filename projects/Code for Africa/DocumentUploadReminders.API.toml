@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 105_880_442
+is_template = false
 language = "PHP"
 name = "DocumentUploadReminders.API"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDU4ODA0NDI="

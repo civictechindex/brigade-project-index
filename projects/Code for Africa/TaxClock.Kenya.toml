@@ -36,6 +36,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://taxclock.pesacheck.org/"
 id = 142_681_276
+is_template = false
 language = "CSS"
 name = "TaxClock.Kenya"
 node_id = "MDEwOlJlcG9zaXRvcnkxNDI2ODEyNzY="

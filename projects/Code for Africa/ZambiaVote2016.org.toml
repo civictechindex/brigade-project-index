@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://www.zambiavote2016.org/"
 id = 42_666_255
+is_template = false
 language = "CSS"
 name = "ZambiaVote2016.org"
 node_id = "MDEwOlJlcG9zaXRvcnk0MjY2NjI1NQ=="

@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://wefddjtoolkit.wpengine.com/"
 id = 33_682_819
+is_template = false
 language = "PHP"
 name = "WEF-DDJ-Toolkit.WP.Theme"
 node_id = "MDEwOlJlcG9zaXRvcnkzMzY4MjgxOQ=="

@@ -34,6 +34,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://gendergap.africa/"
 id = 85_714_325
+is_template = false
 language = "JavaScript"
 name = "GenderGap.AFRICA"
 node_id = "MDEwOlJlcG9zaXRvcnk4NTcxNDMyNQ=="

@@ -30,6 +30,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://sourceafrica.net"
 id = 25_643_851
+is_template = false
 language = "Ruby"
 name = "sourceAFRICA"
 node_id = "MDEwOlJlcG9zaXRvcnkyNTY0Mzg1MQ=="

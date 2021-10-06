@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 63_160_542
+is_template = false
 language = "Python"
 name = "geomancer"
 node_id = "MDEwOlJlcG9zaXRvcnk2MzE2MDU0Mg=="

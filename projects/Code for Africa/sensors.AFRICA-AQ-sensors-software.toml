@@ -21,6 +21,7 @@ has_pages = false
 has_projects = false
 has_wiki = true
 id = 94_403_542
+is_template = true
 language = "C++"
 name = "sensors.AFRICA-AQ-sensors-software"
 node_id = "MDEwOlJlcG9zaXRvcnk5NDQwMzU0Mg=="

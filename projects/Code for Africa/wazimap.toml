@@ -32,6 +32,7 @@ has_projects = false
 has_wiki = false
 homepage = "http://wazimap.readthedocs.org/en/latest/"
 id = 106_001_990
+is_template = false
 language = "HTML"
 name = "wazimap"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDYwMDE5OTA="

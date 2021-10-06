@@ -37,6 +37,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://kenya.gottovote.cc"
 id = 6_776_335
+is_template = false
 language = "JavaScript"
 name = "GotToVote"
 node_id = "MDEwOlJlcG9zaXRvcnk2Nzc2MzM1"

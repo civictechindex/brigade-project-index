@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://gottovote.cc/"
 id = 18_637_466
+is_template = false
 language = "CSS"
 name = "GotToVote.cc"
 node_id = "MDEwOlJlcG9zaXRvcnkxODYzNzQ2Ng=="

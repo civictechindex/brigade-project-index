@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 152_561_549
+is_template = false
 language = "JavaScript"
 name = "flourish-c4a-bubbles"
 node_id = "MDEwOlJlcG9zaXRvcnkxNTI1NjE1NDk="

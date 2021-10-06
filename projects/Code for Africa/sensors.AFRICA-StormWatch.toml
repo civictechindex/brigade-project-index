@@ -44,6 +44,7 @@ has_projects = false
 has_wiki = true
 homepage = "https://stormwatch.sensors.africa/"
 id = 133_612_948
+is_template = false
 name = "sensors.AFRICA-StormWatch"
 node_id = "MDEwOlJlcG9zaXRvcnkxMzM2MTI5NDg="
 open_issues_within = 10

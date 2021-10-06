@@ -34,6 +34,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://v2.map.aq.sensors.africa/"
 id = 182_408_536
+is_template = false
 language = "JavaScript"
 name = "sensors.AFRICA-AQ-map-v2"
 node_id = "MDEwOlJlcG9zaXRvcnkxODI0MDg1MzY="

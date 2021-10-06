@@ -38,6 +38,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://codeforafrica.org/"
 id = 6_669_597
+is_template = false
 language = "HTML"
 name = "CodeForAfrica.org"
 node_id = "MDEwOlJlcG9zaXRvcnk2NjY5NTk3"

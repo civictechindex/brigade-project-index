@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 139_131_501
+is_template = false
 language = "CSS"
 name = "django-fontawesome"
 node_id = "MDEwOlJlcG9zaXRvcnkxMzkxMzE1MDE="

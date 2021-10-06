@@ -36,6 +36,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://politwoops.codeforkenya.org"
 id = 90_967_528
+is_template = false
 language = "CSS"
 name = "politwoops"
 node_id = "MDEwOlJlcG9zaXRvcnk5MDk2NzUyOA=="

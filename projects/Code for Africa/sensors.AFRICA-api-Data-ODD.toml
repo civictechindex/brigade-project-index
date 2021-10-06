@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 333_782_941
+is_template = false
 language = "Python"
 name = "sensors.AFRICA-api-Data-ODD"
 node_id = "MDEwOlJlcG9zaXRvcnkzMzM3ODI5NDE="

@@ -40,6 +40,7 @@ has_projects = false
 has_wiki = true
 homepage = "https://sensors.africa"
 id = 133_686_020
+is_template = false
 language = "JavaScript"
 name = "sensors.AFRICA"
 node_id = "MDEwOlJlcG9zaXRvcnkxMzM2ODYwMjA="
