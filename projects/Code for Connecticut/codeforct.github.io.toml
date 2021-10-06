@@ -20,6 +20,7 @@ has_pages = true
 has_projects = true
 has_wiki = true
 id = 214_298_732
+is_template = false
 language = "HTML"
 name = "codeforct.github.io"
 node_id = "MDEwOlJlcG9zaXRvcnkyMTQyOTg3MzI="
