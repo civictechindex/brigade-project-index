@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = false
 homepage = "http://proracun.org"
 id = 23_479_378
+is_template = false
 language = "JavaScript"
 name = "proracun"
 node_id = "MDEwOlJlcG9zaXRvcnkyMzQ3OTM3OA=="

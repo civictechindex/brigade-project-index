@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = false
 homepage = "http://codeforcroatia.github.io/open-register-status"
 id = 39_260_824
+is_template = false
 language = "CSS"
 name = "open-register-status"
 node_id = "MDEwOlJlcG9zaXRvcnkzOTI2MDgyNA=="

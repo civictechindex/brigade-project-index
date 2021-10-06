@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = false
 homepage = "http://openzagreb.github.io"
 id = 70_928_153
+is_template = false
 language = "CSS"
 name = "openzagreb.github.io"
 node_id = "MDEwOlJlcG9zaXRvcnk3MDkyODE1Mw=="

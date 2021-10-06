@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 40_832_447
+is_template = false
 name = "zagreb-datasets"
 node_id = "MDEwOlJlcG9zaXRvcnk0MDgzMjQ0Nw=="
 open_issues_within = 0
