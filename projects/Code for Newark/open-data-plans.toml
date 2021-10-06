@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://data.ci.newark.nj.us/"
 id = 51_075_888
+is_template = false
 name = "open-data-plans"
 node_id = "MDEwOlJlcG9zaXRvcnk1MTA3NTg4OA=="
 open_issues_within = 0

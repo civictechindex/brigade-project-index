@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 51_181_639
+is_template = false
 name = "awesome-interviews"
 node_id = "MDEwOlJlcG9zaXRvcnk1MTE4MTYzOQ=="
 open_issues_within = 0

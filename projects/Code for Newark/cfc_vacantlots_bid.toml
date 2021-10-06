@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 112_114_506
+is_template = false
 language = "JavaScript"
 name = "cfc_vacantlots_bid"
 node_id = "MDEwOlJlcG9zaXRvcnkxMTIxMTQ1MDY="
