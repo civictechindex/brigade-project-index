@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = false
 homepage = ""
 id = 53_657_130
+is_template = false
 language = "Shell"
 name = "loomio-deploy"
 node_id = "MDEwOlJlcG9zaXRvcnk1MzY1NzEzMA=="

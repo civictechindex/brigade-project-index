@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = false
 homepage = "http://griddler.io/"
 id = 64_887_392
+is_template = false
 language = "Ruby"
 name = "griddler"
 node_id = "MDEwOlJlcG9zaXRvcnk2NDg4NzM5Mg=="

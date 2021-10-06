@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 92_845_252
+is_template = false
 language = "Ruby"
 name = "icalendar"
 node_id = "MDEwOlJlcG9zaXRvcnk5Mjg0NTI1Mg=="

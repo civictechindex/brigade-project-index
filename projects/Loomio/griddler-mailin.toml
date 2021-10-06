@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 21_587_009
+is_template = false
 language = "Ruby"
 name = "griddler-mailin"
 node_id = "MDEwOlJlcG9zaXRvcnkyMTU4NzAwOQ=="

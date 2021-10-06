@@ -20,6 +20,7 @@ has_pages = true
 has_projects = false
 has_wiki = false
 id = 407_040_409
+is_template = false
 language = "JavaScript"
 name = "loomio-docs"
 node_id = "MDEwOlJlcG9zaXRvcnk0MDcwNDA0MDk="

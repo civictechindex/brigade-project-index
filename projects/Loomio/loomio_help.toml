@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 142_119_717
+is_template = false
 language = "HTML"
 name = "loomio_help"
 node_id = "MDEwOlJlcG9zaXRvcnkxNDIxMTk3MTc="

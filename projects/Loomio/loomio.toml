@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = false
 homepage = "https://www.loomio.org"
 id = 2_731_301
+is_template = false
 language = "Ruby"
 name = "loomio"
 node_id = "MDEwOlJlcG9zaXRvcnkyNzMxMzAx"

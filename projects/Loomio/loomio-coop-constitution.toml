@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 90_201_273
+is_template = false
 name = "loomio-coop-constitution"
 node_id = "MDEwOlJlcG9zaXRvcnk5MDIwMTI3Mw=="
 open_issues_within = 0

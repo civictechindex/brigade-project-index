@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = false
 id = 101_755_834
+is_template = false
 language = "JavaScript"
 name = "twitter-text"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDE3NTU4MzQ="
