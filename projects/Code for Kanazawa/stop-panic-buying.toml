@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 250_777_137
+is_template = false
 name = "stop-panic-buying"
 node_id = "MDEwOlJlcG9zaXRvcnkyNTA3NzcxMzc="
 open_issues_within = 0

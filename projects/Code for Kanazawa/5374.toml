@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://kanazawa.5374.jp"
 id = 11_997_855
+is_template = false
 language = "JavaScript"
 name = "5374"
 node_id = "MDEwOlJlcG9zaXRvcnkxMTk5Nzg1NQ=="

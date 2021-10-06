@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 47_123_621
+is_template = false
 language = "JavaScript"
 name = "notalone"
 node_id = "MDEwOlJlcG9zaXRvcnk0NzEyMzYyMQ=="

@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://codeforkanazawa-org.github.io/5374site/"
 id = 30_185_031
+is_template = false
 language = "Ruby"
 name = "http-codeforkanazawa-org.github.io-"
 node_id = "MDEwOlJlcG9zaXRvcnkzMDE4NTAzMQ=="

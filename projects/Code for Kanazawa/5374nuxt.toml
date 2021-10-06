@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 256_382_232
+is_template = false
 language = "Vue"
 name = "5374nuxt"
 node_id = "MDEwOlJlcG9zaXRvcnkyNTYzODIyMzI="

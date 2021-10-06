@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 250_740_529
+is_template = false
 name = "vs-covid-19"
 node_id = "MDEwOlJlcG9zaXRvcnkyNTA3NDA1Mjk="
 open_issues_within = 10
