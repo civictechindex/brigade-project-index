@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 202_411_481
+is_template = false
 language = "R"
 name = "parking-data"
 node_id = "MDEwOlJlcG9zaXRvcnkyMDI0MTE0ODE="

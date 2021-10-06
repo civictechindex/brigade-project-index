@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://askbot.com"
 id = 36_905_416
+is_template = false
 language = "Python"
 name = "askpgh"
 node_id = "MDEwOlJlcG9zaXRvcnkzNjkwNTQxNg=="

@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 88_900_118
+is_template = false
 language = "JavaScript"
 name = "CodeForPittsburgh.github.io-master"
 node_id = "MDEwOlJlcG9zaXRvcnk4ODkwMDExOA=="

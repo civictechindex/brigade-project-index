@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 30_151_083
+is_template = false
 name = "jsonIncidents2014"
 node_id = "MDEwOlJlcG9zaXRvcnkzMDE1MTA4Mw=="
 open_issues_within = 0

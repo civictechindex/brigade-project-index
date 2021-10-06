@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 32_636_512
+is_template = false
 name = "snowplowdata"
 node_id = "MDEwOlJlcG9zaXRvcnkzMjYzNjUxMg=="
 open_issues_within = 0

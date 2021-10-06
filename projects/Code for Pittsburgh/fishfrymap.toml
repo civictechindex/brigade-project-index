@@ -39,6 +39,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://fishfry.codeforpgh.com/map"
 id = 77_644_387
+is_template = false
 language = "JavaScript"
 name = "fishfrymap"
 node_id = "MDEwOlJlcG9zaXRvcnk3NzY0NDM4Nw=="

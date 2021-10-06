@@ -20,6 +20,7 @@ has_pages = true
 has_projects = true
 has_wiki = true
 id = 80_473_668
+is_template = false
 language = "JavaScript"
 name = "dayswithoutdata"
 node_id = "MDEwOlJlcG9zaXRvcnk4MDQ3MzY2OA=="

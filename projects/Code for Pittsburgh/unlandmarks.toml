@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 100_893_836
+is_template = false
 name = "unlandmarks"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDA4OTM4MzY="
 open_issues_within = 100

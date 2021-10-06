@@ -31,6 +31,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://fishfry.codeforpgh.com"
 id = 80_393_272
+is_template = false
 language = "JavaScript"
 name = "fishfryform"
 node_id = "MDEwOlJlcG9zaXRvcnk4MDM5MzI3Mg=="

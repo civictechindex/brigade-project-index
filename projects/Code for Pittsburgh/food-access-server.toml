@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 190_485_076
+is_template = false
 language = "Python"
 name = "food-access-server"
 node_id = "MDEwOlJlcG9zaXRvcnkxOTA0ODUwNzY="

@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 35_424_666
+is_template = false
 language = "JavaScript"
 name = "NationalDayofCivicHacking"
 node_id = "MDEwOlJlcG9zaXRvcnkzNTQyNDY2Ng=="

@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 24_573_465
+is_template = false
 name = "pa-candidate-email-scraper"
 node_id = "MDEwOlJlcG9zaXRvcnkyNDU3MzQ2NQ=="
 open_issues_within = 0

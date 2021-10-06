@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://CodeForPittsburgh.github.io"
 id = 51_551_380
+is_template = false
 language = "CSS"
 name = "CodeForPittsburgh.github.io"
 node_id = "MDEwOlJlcG9zaXRvcnk1MTU1MTM4MA=="

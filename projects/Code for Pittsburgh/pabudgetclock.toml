@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://pabudgetclock.com"
 id = 52_303_930
+is_template = false
 language = "JavaScript"
 name = "pabudgetclock"
 node_id = "MDEwOlJlcG9zaXRvcnk1MjMwMzkzMA=="

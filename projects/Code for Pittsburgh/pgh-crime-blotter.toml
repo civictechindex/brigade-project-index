@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 24_573_457
+is_template = false
 language = "Python"
 name = "pgh-crime-blotter"
 node_id = "MDEwOlJlcG9zaXRvcnkyNDU3MzQ1Nw=="

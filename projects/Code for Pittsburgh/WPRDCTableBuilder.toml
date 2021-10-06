@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 108_870_874
+is_template = false
 language = "PHP"
 name = "WPRDCTableBuilder"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDg4NzA4NzQ="

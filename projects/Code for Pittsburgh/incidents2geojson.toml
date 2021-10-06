@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 37_464_372
+is_template = false
 language = "Python"
 name = "incidents2geojson"
 node_id = "MDEwOlJlcG9zaXRvcnkzNzQ2NDM3Mg=="

@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 58_483_122
+is_template = false
 name = "citytwitter"
 node_id = "MDEwOlJlcG9zaXRvcnk1ODQ4MzEyMg=="
 open_issues_within = 10
