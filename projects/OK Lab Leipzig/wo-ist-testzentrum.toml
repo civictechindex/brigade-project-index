@@ -20,6 +20,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://wo-ist-testzentrum.de/#leipzig"
 id = 357_000_607
+is_template = false
 language = "JavaScript"
 name = "wo-ist-testzentrum"
 node_id = "MDEwOlJlcG9zaXRvcnkzNTcwMDA2MDc="

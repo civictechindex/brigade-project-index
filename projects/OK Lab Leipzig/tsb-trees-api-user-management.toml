@@ -20,6 +20,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://tsb-trees-api-user-management.now.sh"
 id = 284_281_688
+is_template = false
 language = "TypeScript"
 name = "tsb-trees-api-user-management"
 node_id = "MDEwOlJlcG9zaXRvcnkyODQyODE2ODg="

@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://codeforleipzig.github.io/wo-ist-testzentrum/"
 id = 356_083_392
+is_template = false
 language = "JavaScript"
 name = "wo-ist-testzentrum-scraper"
 node_id = "MDEwOlJlcG9zaXRvcnkzNTYwODMzOTI="

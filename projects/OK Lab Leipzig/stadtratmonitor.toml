@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = false
 homepage = "https://stadtratmonitor.leipzig.codefor.de/"
 id = 50_372_388
+is_template = false
 language = "Ruby"
 name = "stadtratmonitor"
 node_id = "MDEwOlJlcG9zaXRvcnk1MDM3MjM4OA=="

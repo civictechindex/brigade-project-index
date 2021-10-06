@@ -23,6 +23,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://trinkwasser.codefor.de/"
 id = 83_891_419
+is_template = false
 language = "JavaScript"
 name = "trinkwasser"
 node_id = "MDEwOlJlcG9zaXRvcnk4Mzg5MTQxOQ=="

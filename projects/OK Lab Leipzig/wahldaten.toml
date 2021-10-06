@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://codeforleipzig.github.io/wahldaten"
 id = 202_985_628
+is_template = false
 language = "Java"
 name = "wahldaten"
 node_id = "MDEwOlJlcG9zaXRvcnkyMDI5ODU2Mjg="

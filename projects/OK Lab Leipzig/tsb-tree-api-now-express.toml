@@ -20,6 +20,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://tsb-tree-api-now-express.now.sh"
 id = 284_281_655
+is_template = false
 language = "TypeScript"
 name = "tsb-tree-api-now-express"
 node_id = "MDEwOlJlcG9zaXRvcnkyODQyODE2NTU="

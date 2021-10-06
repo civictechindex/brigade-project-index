@@ -20,6 +20,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://giessdeinviertel.codeforleipzig.de/"
 id = 265_856_245
+is_template = false
 language = "TypeScript"
 name = "tsb-trees-frontend"
 node_id = "MDEwOlJlcG9zaXRvcnkyNjU4NTYyNDU="
