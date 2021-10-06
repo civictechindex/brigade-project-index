@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 47_351_246
+is_template = false
 language = "Python"
 name = "CityGram-Intermediary"
 node_id = "MDEwOlJlcG9zaXRvcnk0NzM1MTI0Ng=="

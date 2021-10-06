@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 38_851_885
+is_template = false
 language = "Swift"
 name = "PetAdoption-iOS"
 node_id = "MDEwOlJlcG9zaXRvcnkzODg1MTg4NQ=="

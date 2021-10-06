@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 210_024_233
+is_template = false
 name = "expungement-backend"
 node_id = "MDEwOlJlcG9zaXRvcnkyMTAwMjQyMzM="
 open_issues_within = 0

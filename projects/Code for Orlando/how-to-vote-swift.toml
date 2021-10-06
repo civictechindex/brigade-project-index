@@ -28,6 +28,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 144_739_163
+is_template = false
 language = "Swift"
 name = "how-to-vote-swift"
 node_id = "MDEwOlJlcG9zaXRvcnkxNDQ3MzkxNjM="

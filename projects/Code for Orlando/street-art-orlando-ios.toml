@@ -30,6 +30,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://streetartorlando.com"
 id = 60_415_383
+is_template = false
 language = "Swift"
 name = "street-art-orlando-ios"
 node_id = "MDEwOlJlcG9zaXRvcnk2MDQxNTM4Mw=="

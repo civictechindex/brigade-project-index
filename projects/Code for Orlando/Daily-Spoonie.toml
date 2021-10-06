@@ -27,6 +27,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 164_071_433
+is_template = false
 language = "Vue"
 name = "Daily-Spoonie"
 node_id = "MDEwOlJlcG9zaXRvcnkxNjQwNzE0MzM="

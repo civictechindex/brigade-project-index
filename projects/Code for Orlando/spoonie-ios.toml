@@ -26,6 +26,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 220_681_882
+is_template = false
 language = "Swift"
 name = "spoonie-ios"
 node_id = "MDEwOlJlcG9zaXRvcnkyMjA2ODE4ODI="

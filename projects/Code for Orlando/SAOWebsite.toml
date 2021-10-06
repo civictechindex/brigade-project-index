@@ -27,6 +27,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 238_344_507
+is_template = false
 language = "JavaScript"
 name = "SAOWebsite"
 node_id = "MDEwOlJlcG9zaXRvcnkyMzgzNDQ1MDc="

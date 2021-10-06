@@ -28,6 +28,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 210_023_894
+is_template = false
 language = "JavaScript"
 name = "expungement-app"
 node_id = "MDEwOlJlcG9zaXRvcnkyMTAwMjM4OTQ="

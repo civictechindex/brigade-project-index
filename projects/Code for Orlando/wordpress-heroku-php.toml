@@ -19,6 +19,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 190_299_951
+is_template = false
 language = "PHP"
 name = "wordpress-heroku-php"
 node_id = "MDEwOlJlcG9zaXRvcnkxOTAyOTk5NTE="

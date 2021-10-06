@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 101_106_531
+is_template = false
 name = "orlando-walking-tours-web"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDExMDY1MzE="
 open_issues_within = 0

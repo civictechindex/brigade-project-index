@@ -23,6 +23,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://cl.ly/1n1s1w1O3X1Z"
 id = 61_141_359
+is_template = false
 language = "JavaScript"
 name = "volunteer-coordination"
 node_id = "MDEwOlJlcG9zaXRvcnk2MTE0MTM1OQ=="

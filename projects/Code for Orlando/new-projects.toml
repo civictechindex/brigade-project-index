@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 229_306_765
+is_template = false
 name = "new-projects"
 node_id = "MDEwOlJlcG9zaXRvcnkyMjkzMDY3NjU="
 open_issues_within = 0

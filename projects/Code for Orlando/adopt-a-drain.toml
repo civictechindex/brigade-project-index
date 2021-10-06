@@ -21,6 +21,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 147_434_822
+is_template = false
 name = "adopt-a-drain"
 node_id = "MDEwOlJlcG9zaXRvcnkxNDc0MzQ4MjI="
 open_issues_within = 0

@@ -28,6 +28,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 93_001_689
+is_template = false
 language = "Python"
 name = "Fox-Dono"
 node_id = "MDEwOlJlcG9zaXRvcnk5MzAwMTY4OQ=="

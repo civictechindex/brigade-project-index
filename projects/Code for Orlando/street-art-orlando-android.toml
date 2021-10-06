@@ -28,6 +28,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 60_415_847
+is_template = false
 language = "Java"
 name = "street-art-orlando-android"
 node_id = "MDEwOlJlcG9zaXRvcnk2MDQxNTg0Nw=="

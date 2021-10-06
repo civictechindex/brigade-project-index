@@ -21,6 +21,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 43_756_656
+is_template = false
 language = "CoffeeScript"
 name = "lynx-info"
 node_id = "MDEwOlJlcG9zaXRvcnk0Mzc1NjY1Ng=="

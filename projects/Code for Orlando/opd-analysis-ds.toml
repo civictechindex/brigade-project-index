@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 79_500_123
+is_template = false
 name = "opd-analysis-ds"
 node_id = "MDEwOlJlcG9zaXRvcnk3OTUwMDEyMw=="
 open_issues_within = 0

@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://brigadehub.herokuapp.com/"
 id = 72_883_568
+is_template = false
 language = "JavaScript"
 name = "brigadehub"
 node_id = "MDEwOlJlcG9zaXRvcnk3Mjg4MzU2OA=="

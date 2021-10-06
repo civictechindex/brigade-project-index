@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 91_471_857
+is_template = false
 language = "Swift"
 name = "orlando-walking-tours-ios-prototype"
 node_id = "MDEwOlJlcG9zaXRvcnk5MTQ3MTg1Nw=="

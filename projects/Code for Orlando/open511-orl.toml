@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 99_110_647
+is_template = false
 language = "Python"
 name = "open511-orl"
 node_id = "MDEwOlJlcG9zaXRvcnk5OTExMDY0Nw=="

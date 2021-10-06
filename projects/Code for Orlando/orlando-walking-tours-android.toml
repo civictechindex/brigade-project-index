@@ -24,6 +24,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 39_479_973
+is_template = false
 language = "Kotlin"
 name = "orlando-walking-tours-android"
 node_id = "MDEwOlJlcG9zaXRvcnkzOTQ3OTk3Mw=="

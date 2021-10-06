@@ -25,6 +25,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 105_373_835
+is_template = false
 language = "JavaScript"
 name = "EventParking-Web"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDUzNzM4MzU="

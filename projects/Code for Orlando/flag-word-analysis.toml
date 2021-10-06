@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 95_843_595
+is_template = false
 language = "Python"
 name = "flag-word-analysis"
 node_id = "MDEwOlJlcG9zaXRvcnk5NTg0MzU5NQ=="

@@ -19,6 +19,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 220_681_756
+is_template = false
 language = "Kotlin"
 name = "spoonie-droid"
 node_id = "MDEwOlJlcG9zaXRvcnkyMjA2ODE3NTY="

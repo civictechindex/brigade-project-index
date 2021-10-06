@@ -20,6 +20,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 104_835_366
+is_template = false
 language = "JavaScript"
 name = "alexa-orlando"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDQ4MzUzNjY="

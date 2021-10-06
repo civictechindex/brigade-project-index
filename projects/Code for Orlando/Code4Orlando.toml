@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 282_483_332
+is_template = false
 name = "Code4Orlando"
 node_id = "MDEwOlJlcG9zaXRvcnkyODI0ODMzMzI="
 open_issues_within = 10

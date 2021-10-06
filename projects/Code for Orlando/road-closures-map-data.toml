@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 91_391_769
+is_template = false
 language = "HTML"
 name = "road-closures-map-data"
 node_id = "MDEwOlJlcG9zaXRvcnk5MTM5MTc2OQ=="

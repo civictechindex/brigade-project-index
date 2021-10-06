@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://opportunity.census.gov"
 id = 72_688_240
+is_template = false
 language = "CSS"
 name = "opportunity"
 node_id = "MDEwOlJlcG9zaXRvcnk3MjY4ODI0MA=="

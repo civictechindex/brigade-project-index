@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 58_233_676
+is_template = false
 name = "NDoCH-Planning"
 node_id = "MDEwOlJlcG9zaXRvcnk1ODIzMzY3Ng=="
 open_issues_within = 10

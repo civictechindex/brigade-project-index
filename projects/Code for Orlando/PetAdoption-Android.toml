@@ -28,6 +28,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 40_514_092
+is_template = false
 language = "Java"
 name = "PetAdoption-Android"
 node_id = "MDEwOlJlcG9zaXRvcnk0MDUxNDA5Mg=="
