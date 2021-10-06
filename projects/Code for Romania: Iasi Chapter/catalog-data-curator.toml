@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://code4.ro/proiect/catalog-politic/"
 id = 89_616_978
+is_template = false
 language = "Java"
 name = "catalog-data-curator"
 node_id = "MDEwOlJlcG9zaXRvcnk4OTYxNjk3OA=="

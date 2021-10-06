@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://catalogpolitic.ro"
 id = 204_909_980
+is_template = false
 language = "Java"
 name = "catalog-politic-aggregator"
 node_id = "MDEwOlJlcG9zaXRvcnkyMDQ5MDk5ODA="

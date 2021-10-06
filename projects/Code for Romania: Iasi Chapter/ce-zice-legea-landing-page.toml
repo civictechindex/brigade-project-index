@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 100_980_896
+is_template = false
 language = "HTML"
 name = "ce-zice-legea-landing-page"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDA5ODA4OTY="

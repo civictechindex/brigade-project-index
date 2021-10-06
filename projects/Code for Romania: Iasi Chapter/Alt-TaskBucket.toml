@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 247_349_013
+is_template = false
 name = "Alt-TaskBucket"
 node_id = "MDEwOlJlcG9zaXRvcnkyNDczNDkwMTM="
 open_issues_within = 10

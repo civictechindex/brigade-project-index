@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 378_893_685
+is_template = false
 language = "C#"
 name = "teacher-workout-backend"
 node_id = "MDEwOlJlcG9zaXRvcnkzNzg4OTM2ODU="

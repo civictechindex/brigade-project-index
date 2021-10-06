@@ -20,6 +20,7 @@ has_projects = true
 has_wiki = true
 homepage = "c4ro-coming-soon.code4romania.vercel.app"
 id = 329_048_773
+is_template = false
 language = "HTML"
 name = "c4ro_coming_soon"
 node_id = "MDEwOlJlcG9zaXRvcnkzMjkwNDg3NzM="

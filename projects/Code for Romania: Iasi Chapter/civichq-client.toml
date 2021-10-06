@@ -30,6 +30,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://centrucivic.ro/"
 id = 67_695_935
+is_template = false
 language = "TypeScript"
 name = "civichq-client"
 node_id = "MDEwOlJlcG9zaXRvcnk2NzY5NTkzNQ=="

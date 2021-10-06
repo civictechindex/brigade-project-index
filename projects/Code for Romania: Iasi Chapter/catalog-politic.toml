@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 204_916_915
+is_template = false
 language = "TypeScript"
 name = "catalog-politic"
 node_id = "MDEwOlJlcG9zaXRvcnkyMDQ5MTY5MTU="

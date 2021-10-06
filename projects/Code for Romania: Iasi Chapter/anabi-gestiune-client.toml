@@ -29,6 +29,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://code4.ro/ro/apps/anabi/"
 id = 89_482_855
+is_template = false
 language = "TypeScript"
 name = "anabi-gestiune-client"
 node_id = "MDEwOlJlcG9zaXRvcnk4OTQ4Mjg1NQ=="

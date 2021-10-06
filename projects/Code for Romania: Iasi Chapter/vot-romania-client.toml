@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://votromania.ro/"
 id = 292_342_620
+is_template = false
 language = "Vue"
 name = "vot-romania-client"
 node_id = "MDEwOlJlcG9zaXRvcnkyOTIzNDI2MjA="
