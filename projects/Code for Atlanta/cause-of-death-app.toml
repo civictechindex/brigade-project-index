@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 36_983_694
+is_template = false
 language = "JavaScript"
 name = "cause-of-death-app"
 node_id = "MDEwOlJlcG9zaXRvcnkzNjk4MzY5NA=="

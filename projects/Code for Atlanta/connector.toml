@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 21_181_476
+is_template = false
 language = "Ruby"
 name = "connector"
 node_id = "MDEwOlJlcG9zaXRvcnkyMTE4MTQ3Ng=="

@@ -18,6 +18,7 @@ has_pages = true
 has_projects = true
 has_wiki = true
 id = 53_215_798
+is_template = false
 language = "JavaScript"
 name = "connect-to-your-professional-community-map"
 node_id = "MDEwOlJlcG9zaXRvcnk1MzIxNTc5OA=="

@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://hackshop.waffle.io"
 id = 49_219_680
+is_template = false
 name = "code-across-2016"
 node_id = "MDEwOlJlcG9zaXRvcnk0OTIxOTY4MA=="
 open_issues_within = 100

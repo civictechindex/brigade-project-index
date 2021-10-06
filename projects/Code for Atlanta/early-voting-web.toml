@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 39_043_612
+is_template = false
 language = "JavaScript"
 name = "early-voting-web"
 node_id = "MDEwOlJlcG9zaXRvcnkzOTA0MzYxMg=="

@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 399_483_988
+is_template = false
 language = "JavaScript"
 name = "community"
 node_id = "MDEwOlJlcG9zaXRvcnkzOTk0ODM5ODg="

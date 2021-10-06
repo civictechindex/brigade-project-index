@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 31_141_613
+is_template = false
 language = "Ruby"
 name = "csv_geocoder"
 node_id = "MDEwOlJlcG9zaXRvcnkzMTE0MTYxMw=="

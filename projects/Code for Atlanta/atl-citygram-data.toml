@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 60_414_482
+is_template = false
 language = "Ruby"
 name = "atl-citygram-data"
 node_id = "MDEwOlJlcG9zaXRvcnk2MDQxNDQ4Mg=="

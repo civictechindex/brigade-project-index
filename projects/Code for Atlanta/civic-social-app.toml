@@ -20,6 +20,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://codeforatlanta.github.io/civic-social-app/"
 id = 76_308_317
+is_template = false
 language = "JavaScript"
 name = "civic-social-app"
 node_id = "MDEwOlJlcG9zaXRvcnk3NjMwODMxNw=="

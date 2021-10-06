@@ -20,6 +20,7 @@ has_pages = true
 has_projects = true
 has_wiki = true
 id = 93_772_189
+is_template = false
 language = "Vue"
 name = "atlanta-candidate-ui"
 node_id = "MDEwOlJlcG9zaXRvcnk5Mzc3MjE4OQ=="

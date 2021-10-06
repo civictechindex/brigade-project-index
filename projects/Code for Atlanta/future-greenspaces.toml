@@ -28,6 +28,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 124_310_346
+is_template = false
 language = "Jupyter Notebook"
 name = "future-greenspaces"
 node_id = "MDEwOlJlcG9zaXRvcnkxMjQzMTAzNDY="

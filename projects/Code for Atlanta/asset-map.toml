@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 31_139_435
+is_template = false
 language = "Python"
 name = "asset-map"
 node_id = "MDEwOlJlcG9zaXRvcnkzMTEzOTQzNQ=="
