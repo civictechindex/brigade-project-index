@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://codefordc.github.io/github-101"
 id = 17_068_274
+is_template = false
 language = "CSS"
 name = "github-101"
 node_id = "MDEwOlJlcG9zaXRvcnkxNzA2ODI3NA=="

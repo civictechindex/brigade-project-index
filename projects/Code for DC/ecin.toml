@@ -20,6 +20,7 @@ has_pages = true
 has_projects = true
 has_wiki = true
 id = 81_211_830
+is_template = false
 name = "ecin"
 node_id = "MDEwOlJlcG9zaXRvcnk4MTIxMTgzMA=="
 open_issues_within = 0

@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 203_892_600
+is_template = false
 language = "JavaScript"
 name = "rfj_expungement"
 node_id = "MDEwOlJlcG9zaXRvcnkyMDM4OTI2MDA="

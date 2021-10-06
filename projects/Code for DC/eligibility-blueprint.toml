@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 114_187_595
+is_template = false
 language = "JavaScript"
 name = "eligibility-blueprint"
 node_id = "MDEwOlJlcG9zaXRvcnkxMTQxODc1OTU="

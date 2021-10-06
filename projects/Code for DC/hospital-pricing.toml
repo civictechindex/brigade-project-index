@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 164_756_990
+is_template = false
 name = "hospital-pricing"
 node_id = "MDEwOlJlcG9zaXRvcnkxNjQ3NTY5OTA="
 open_issues_within = 10

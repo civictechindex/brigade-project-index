@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://forgenerationstocome.org"
 id = 46_313_726
+is_template = false
 language = "HTML"
 name = "school-modernization"
 node_id = "MDEwOlJlcG9zaXRvcnk0NjMxMzcyNg=="

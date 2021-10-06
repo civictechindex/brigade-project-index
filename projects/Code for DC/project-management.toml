@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 80_357_694
+is_template = false
 language = "Python"
 name = "project-management"
 node_id = "MDEwOlJlcG9zaXRvcnk4MDM1NzY5NA=="

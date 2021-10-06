@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://openreferral.org/pilots/dc-open211/"
 id = 10_441_030
+is_template = false
 language = "CSS"
 name = "open211"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDQ0MTAzMA=="

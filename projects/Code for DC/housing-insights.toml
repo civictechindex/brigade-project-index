@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://housinginsights.org"
 id = 67_749_425
+is_template = false
 language = "Python"
 name = "housing-insights"
 node_id = "MDEwOlJlcG9zaXRvcnk2Nzc0OTQyNQ=="

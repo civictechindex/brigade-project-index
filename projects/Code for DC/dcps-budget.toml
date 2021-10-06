@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://fy16budget.ourdcschools.org/"
 id = 32_831_162
+is_template = false
 language = "HTML"
 name = "dcps-budget"
 node_id = "MDEwOlJlcG9zaXRvcnkzMjgzMTE2Mg=="

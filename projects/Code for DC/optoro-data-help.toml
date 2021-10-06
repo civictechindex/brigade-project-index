@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 139_036_824
+is_template = false
 language = "Jupyter Notebook"
 name = "optoro-data-help"
 node_id = "MDEwOlJlcG9zaXRvcnkxMzkwMzY4MjQ="

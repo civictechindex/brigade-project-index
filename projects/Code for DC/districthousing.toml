@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://codefordc.github.io/districthousing/"
 id = 10_896_437
+is_template = false
 language = "Java"
 name = "districthousing"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDg5NjQzNw=="

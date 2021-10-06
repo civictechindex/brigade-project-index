@@ -20,6 +20,7 @@ has_pages = true
 has_projects = true
 has_wiki = true
 id = 111_041_530
+is_template = false
 language = "R"
 name = "the-rat-hack"
 node_id = "MDEwOlJlcG9zaXRvcnkxMTEwNDE1MzA="

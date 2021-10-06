@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 190_307_187
+is_template = false
 language = "Jupyter Notebook"
 name = "dc_bus_stuff"
 node_id = "MDEwOlJlcG9zaXRvcnkxOTAzMDcxODc="

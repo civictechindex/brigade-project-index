@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 34_758_820
+is_template = false
 language = "JavaScript"
 name = "finda"
 node_id = "MDEwOlJlcG9zaXRvcnkzNDc1ODgyMA=="

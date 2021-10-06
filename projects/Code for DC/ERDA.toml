@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://codefordc.github.io/ERDA/"
 id = 19_296_315
+is_template = false
 language = "Python"
 name = "ERDA"
 node_id = "MDEwOlJlcG9zaXRvcnkxOTI5NjMxNQ=="

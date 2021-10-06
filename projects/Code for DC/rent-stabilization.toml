@@ -20,6 +20,7 @@ has_pages = true
 has_projects = true
 has_wiki = true
 id = 59_790_985
+is_template = false
 language = "R"
 name = "rent-stabilization"
 node_id = "MDEwOlJlcG9zaXRvcnk1OTc5MDk4NQ=="
