@@ -19,6 +19,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 44_877_853
+is_template = false
 language = "C#"
 name = "InSeasonWebAPI"
 node_id = "MDEwOlJlcG9zaXRvcnk0NDg3Nzg1Mw=="

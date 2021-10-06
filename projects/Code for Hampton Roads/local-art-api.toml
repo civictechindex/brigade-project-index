@@ -23,6 +23,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://localartapi-code4hr.rhcloud.com/"
 id = 20_949_706
+is_template = false
 language = "JavaScript"
 name = "local-art-api"
 node_id = "MDEwOlJlcG9zaXRvcnkyMDk0OTcwNg=="

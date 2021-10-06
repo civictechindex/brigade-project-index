@@ -23,6 +23,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://github.com/c4hrva/norfolkart"
 id = 4_341_896
+is_template = false
 language = "JavaScript"
 name = "iArtNorfolk"
 node_id = "MDEwOlJlcG9zaXRvcnk0MzQxODk2"

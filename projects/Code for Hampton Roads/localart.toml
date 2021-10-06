@@ -23,6 +23,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://iartnorfolk.com"
 id = 20_774_437
+is_template = false
 language = "JavaScript"
 name = "localart"
 node_id = "MDEwOlJlcG9zaXRvcnkyMDc3NDQzNw=="

@@ -23,6 +23,7 @@ has_projects = true
 has_wiki = true
 homepage = "hrtb.us"
 id = 10_423_858
+is_template = false
 language = "JavaScript"
 name = "hrt-bus-finder"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDQyMzg1OA=="

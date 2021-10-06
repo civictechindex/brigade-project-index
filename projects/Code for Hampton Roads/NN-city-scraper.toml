@@ -19,6 +19,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 48_827_267
+is_template = false
 language = "Python"
 name = "NN-city-scraper"
 node_id = "MDEwOlJlcG9zaXRvcnk0ODgyNzI2Nw=="

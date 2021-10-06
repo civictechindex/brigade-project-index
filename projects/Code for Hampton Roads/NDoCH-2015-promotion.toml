@@ -21,6 +21,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 35_185_260
+is_template = false
 language = "JavaScript"
 name = "NDoCH-2015-promotion"
 node_id = "MDEwOlJlcG9zaXRvcnkzNTE4NTI2MA=="

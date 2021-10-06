@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 3_770_483
+is_template = false
 name = "HRT-OnTime"
 node_id = "MDEwOlJlcG9zaXRvcnkzNzcwNDgz"
 open_issues_within = 10

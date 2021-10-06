@@ -21,6 +21,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 25_974_484
+is_template = false
 language = "JavaScript"
 name = "hrt-bus-text-my-bus"
 node_id = "MDEwOlJlcG9zaXRvcnkyNTk3NDQ4NA=="

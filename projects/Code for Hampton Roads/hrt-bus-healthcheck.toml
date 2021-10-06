@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 126_270_670
+is_template = false
 language = "Python"
 name = "hrt-bus-healthcheck"
 node_id = "MDEwOlJlcG9zaXRvcnkxMjYyNzA2NzA="

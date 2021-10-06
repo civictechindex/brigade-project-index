@@ -21,6 +21,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 49_963_727
+is_template = false
 name = "hercules-dockerfile-base"
 node_id = "MDEwOlJlcG9zaXRvcnk0OTk2MzcyNw=="
 open_issues_within = 0

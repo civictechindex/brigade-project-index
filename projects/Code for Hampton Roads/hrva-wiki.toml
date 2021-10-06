@@ -21,6 +21,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 8_763_351
+is_template = false
 language = "Python"
 name = "hrva-wiki"
 node_id = "MDEwOlJlcG9zaXRvcnk4NzYzMzUx"

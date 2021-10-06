@@ -19,6 +19,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 78_063_853
+is_template = false
 language = "JavaScript"
 name = "hrt-bus-finder-ssr"
 node_id = "MDEwOlJlcG9zaXRvcnk3ODA2Mzg1Mw=="

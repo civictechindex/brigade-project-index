@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 3_598_212
+is_template = false
 language = "PHP"
 name = "hr-transit-api"
 node_id = "MDEwOlJlcG9zaXRvcnkzNTk4MjEy"
