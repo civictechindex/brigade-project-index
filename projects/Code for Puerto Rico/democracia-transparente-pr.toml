@@ -26,6 +26,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 99_168_047
+is_template = false
 name = "democracia-transparente-pr"
 node_id = "MDEwOlJlcG9zaXRvcnk5OTE2ODA0Nw=="
 open_issues_within = 10

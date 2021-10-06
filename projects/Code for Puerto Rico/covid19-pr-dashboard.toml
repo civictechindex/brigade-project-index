@@ -29,6 +29,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://covid19prdata.org/"
 id = 257_032_655
+is_template = false
 language = "CSS"
 name = "covid19-pr-dashboard"
 node_id = "MDEwOlJlcG9zaXRvcnkyNTcwMzI2NTU="

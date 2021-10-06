@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "1hora.org"
 id = 17_191_123
+is_template = false
 language = "Python"
 name = "horas"
 node_id = "MDEwOlJlcG9zaXRvcnkxNzE5MTEyMw=="

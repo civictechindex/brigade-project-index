@@ -35,6 +35,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 252_212_985
+is_template = false
 language = "HTML"
 name = "covid19-pr-api"
 node_id = "MDEwOlJlcG9zaXRvcnkyNTIyMTI5ODU="
