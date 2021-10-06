@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 39_113_081
+is_template = false
 name = "People-Hub"
 node_id = "MDEwOlJlcG9zaXRvcnkzOTExMzA4MQ=="
 open_issues_within = 10

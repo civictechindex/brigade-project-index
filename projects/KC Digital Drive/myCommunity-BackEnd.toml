@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 104_583_394
+is_template = false
 language = "Java"
 name = "myCommunity-BackEnd"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDQ1ODMzOTQ="

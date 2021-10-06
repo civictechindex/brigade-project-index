@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 142_321_268
+is_template = false
 language = "Python"
 name = "Fair-Foreclosures"
 node_id = "MDEwOlJlcG9zaXRvcnkxNDIzMjEyNjg="

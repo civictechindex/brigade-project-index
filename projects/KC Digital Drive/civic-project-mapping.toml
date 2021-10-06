@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://codeforkansascity.github.io/civic-project-mapping"
 id = 27_277_866
+is_template = false
 language = "JavaScript"
 name = "civic-project-mapping"
 node_id = "MDEwOlJlcG9zaXRvcnkyNzI3Nzg2Ng=="

@@ -21,6 +21,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 150_638_214
+is_template = false
 language = "JavaScript"
 name = "meep"
 node_id = "MDEwOlJlcG9zaXRvcnkxNTA2MzgyMTQ="

@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 66_727_087
+is_template = false
 name = "addressapi-data"
 node_id = "MDEwOlJlcG9zaXRvcnk2NjcyNzA4Nw=="
 open_issues_within = 10

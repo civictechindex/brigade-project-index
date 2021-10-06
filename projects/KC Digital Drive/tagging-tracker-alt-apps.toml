@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 241_233_014
+is_template = false
 language = "JavaScript"
 name = "tagging-tracker-alt-apps"
 node_id = "MDEwOlJlcG9zaXRvcnkyNDEyMzMwMTQ="

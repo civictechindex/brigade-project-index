@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = false
 homepage = "http://codeforkc.org"
 id = 30_577_387
+is_template = false
 language = "HTML"
 name = "codeforkansascity.github.io"
 node_id = "MDEwOlJlcG9zaXRvcnkzMDU3NzM4Nw=="

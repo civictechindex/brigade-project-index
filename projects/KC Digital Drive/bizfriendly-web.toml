@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://codeforkansascity.github.io/bizfriendly-web/"
 id = 19_829_994
+is_template = false
 language = "JavaScript"
 name = "bizfriendly-web"
 node_id = "MDEwOlJlcG9zaXRvcnkxOTgyOTk5NA=="

@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://codeforkc.org/address-api-previewer/"
 id = 45_434_573
+is_template = false
 language = "JavaScript"
 name = "address-api-previewer"
 node_id = "MDEwOlJlcG9zaXRvcnk0NTQzNDU3Mw=="

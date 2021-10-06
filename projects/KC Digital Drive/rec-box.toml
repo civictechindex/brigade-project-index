@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 150_636_462
+is_template = false
 name = "rec-box"
 node_id = "MDEwOlJlcG9zaXRvcnkxNTA2MzY0NjI="
 open_issues_within = 0

@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 172_596_270
+is_template = false
 language = "Python"
 name = "clear_my_record_backend"
 node_id = "MDEwOlJlcG9zaXRvcnkxNzI1OTYyNzA="

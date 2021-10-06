@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 35_456_279
+is_template = false
 name = "KC-STEM-Map"
 node_id = "MDEwOlJlcG9zaXRvcnkzNTQ1NjI3OQ=="
 open_issues_within = 0

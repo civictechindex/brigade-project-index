@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://codeforkc.org/"
 id = 17_735_975
+is_template = false
 language = "CSS"
 name = "kcmo311"
 node_id = "MDEwOlJlcG9zaXRvcnkxNzczNTk3NQ=="

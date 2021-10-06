@@ -28,6 +28,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://neighborhood-dashboard.codeforkc.org/"
 id = 35_455_874
+is_template = false
 language = "Ruby"
 name = "Neighborhood-Dashboard"
 node_id = "MDEwOlJlcG9zaXRvcnkzNTQ1NTg3NA=="

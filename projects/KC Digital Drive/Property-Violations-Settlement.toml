@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 51_348_031
+is_template = false
 language = "Jupyter Notebook"
 name = "Property-Violations-Settlement"
 node_id = "MDEwOlJlcG9zaXRvcnk1MTM0ODAzMQ=="

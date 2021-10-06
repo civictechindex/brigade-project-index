@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://codeforkc.org/api-examples/"
 id = 32_774_900
+is_template = false
 language = "JavaScript"
 name = "api-examples"
 node_id = "MDEwOlJlcG9zaXRvcnkzMjc3NDkwMA=="

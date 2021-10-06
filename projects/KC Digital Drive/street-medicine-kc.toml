@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://homelesskc.com/"
 id = 61_837_714
+is_template = false
 language = "PHP"
 name = "street-medicine-kc"
 node_id = "MDEwOlJlcG9zaXRvcnk2MTgzNzcxNA=="

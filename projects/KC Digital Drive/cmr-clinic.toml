@@ -19,6 +19,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 194_751_741
+is_template = false
 language = "JavaScript"
 name = "cmr-clinic"
 node_id = "MDEwOlJlcG9zaXRvcnkxOTQ3NTE3NDE="

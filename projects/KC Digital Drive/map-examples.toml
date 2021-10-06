@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://codeforkc.org/map-examples/"
 id = 41_173_597
+is_template = false
 language = "HTML"
 name = "map-examples"
 node_id = "MDEwOlJlcG9zaXRvcnk0MTE3MzU5Nw=="

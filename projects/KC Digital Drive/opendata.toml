@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 61_536_865
+is_template = false
 name = "opendata"
 node_id = "MDEwOlJlcG9zaXRvcnk2MTUzNjg2NQ=="
 open_issues_within = 0

@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://www.comebackkc.com"
 id = 257_891_631
+is_template = false
 language = "Vue"
 name = "kc-covid-response"
 node_id = "MDEwOlJlcG9zaXRvcnkyNTc4OTE2MzE="

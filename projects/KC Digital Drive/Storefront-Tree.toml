@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 36_678_321
+is_template = false
 language = "CSS"
 name = "Storefront-Tree"
 node_id = "MDEwOlJlcG9zaXRvcnkzNjY3ODMyMQ=="

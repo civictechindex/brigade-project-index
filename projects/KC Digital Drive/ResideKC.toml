@@ -23,6 +23,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://codeforkc.org/ResideKC/"
 id = 104_302_472
+is_template = false
 language = "JavaScript"
 name = "ResideKC"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDQzMDI0NzI="

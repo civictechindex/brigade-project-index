@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 35_457_524
+is_template = false
 name = "Public-Transit-App"
 node_id = "MDEwOlJlcG9zaXRvcnkzNTQ1NzUyNA=="
 open_issues_within = 10

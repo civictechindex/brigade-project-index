@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 280_472_884
+is_template = false
 name = "kc-covid-violations"
 node_id = "MDEwOlJlcG9zaXRvcnkyODA0NzI4ODQ="
 open_issues_within = 0

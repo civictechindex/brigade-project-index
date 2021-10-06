@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://hackshop.waffle.io"
 id = 98_942_295
+is_template = false
 name = "NDoCH2017"
 node_id = "MDEwOlJlcG9zaXRvcnk5ODk0MjI5NQ=="
 open_issues_within = 100

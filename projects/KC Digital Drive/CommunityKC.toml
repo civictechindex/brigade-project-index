@@ -29,6 +29,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://communitykc.org"
 id = 39_800_923
+is_template = false
 language = "HTML"
 name = "CommunityKC"
 node_id = "MDEwOlJlcG9zaXRvcnkzOTgwMDkyMw=="

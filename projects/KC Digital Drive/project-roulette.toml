@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 30_569_490
+is_template = false
 name = "project-roulette"
 node_id = "MDEwOlJlcG9zaXRvcnkzMDU2OTQ5MA=="
 open_issues_within = 10

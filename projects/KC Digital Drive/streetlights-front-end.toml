@@ -18,6 +18,7 @@ has_pages = true
 has_projects = true
 has_wiki = true
 id = 236_635_967
+is_template = false
 language = "HTML"
 name = "streetlights-front-end"
 node_id = "MDEwOlJlcG9zaXRvcnkyMzY2MzU5Njc="

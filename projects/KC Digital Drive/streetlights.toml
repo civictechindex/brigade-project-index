@@ -27,6 +27,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 104_300_535
+is_template = false
 language = "TypeScript"
 name = "streetlights"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDQzMDA1MzU="

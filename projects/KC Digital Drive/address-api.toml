@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://address-api.codeforkc.org"
 id = 38_453_840
+is_template = false
 language = "JavaScript"
 name = "address-api"
 node_id = "MDEwOlJlcG9zaXRvcnkzODQ1Mzg0MA=="

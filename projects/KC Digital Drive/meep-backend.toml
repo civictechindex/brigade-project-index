@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 173_853_470
+is_template = false
 language = "Python"
 name = "meep-backend"
 node_id = "MDEwOlJlcG9zaXRvcnkxNzM4NTM0NzA="

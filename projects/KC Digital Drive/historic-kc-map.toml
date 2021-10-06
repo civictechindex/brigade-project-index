@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 35_456_162
+is_template = false
 language = "CSS"
 name = "historic-kc-map"
 node_id = "MDEwOlJlcG9zaXRvcnkzNTQ1NjE2Mg=="

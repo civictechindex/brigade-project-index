@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 30_929_965
+is_template = false
 name = "kc-open-data-library"
 node_id = "MDEwOlJlcG9zaXRvcnkzMDkyOTk2NQ=="
 open_issues_within = 100

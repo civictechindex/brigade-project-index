@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 33_700_597
+is_template = false
 name = "legal-hack-oidc"
 node_id = "MDEwOlJlcG9zaXRvcnkzMzcwMDU5Nw=="
 open_issues_within = 0

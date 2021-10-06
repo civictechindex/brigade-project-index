@@ -26,6 +26,7 @@ has_pages = true
 has_projects = true
 has_wiki = true
 id = 254_693_033
+is_template = false
 language = "TypeScript"
 name = "local-govt-reporter"
 node_id = "MDEwOlJlcG9zaXRvcnkyNTQ2OTMwMzM="

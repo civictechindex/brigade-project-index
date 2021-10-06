@@ -23,6 +23,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://creative-city-spaces.github.io/"
 id = 208_925_456
+is_template = false
 language = "TypeScript"
 name = "creative-city-spaces"
 node_id = "MDEwOlJlcG9zaXRvcnkyMDg5MjU0NTY="

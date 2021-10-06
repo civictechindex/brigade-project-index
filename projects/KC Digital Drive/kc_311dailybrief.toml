@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://311.codeforkc.org/"
 id = 26_102_475
+is_template = false
 language = "JavaScript"
 name = "kc_311dailybrief"
 node_id = "MDEwOlJlcG9zaXRvcnkyNjEwMjQ3NQ=="

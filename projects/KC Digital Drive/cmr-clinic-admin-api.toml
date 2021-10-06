@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 195_736_012
+is_template = false
 language = "PHP"
 name = "cmr-clinic-admin-api"
 node_id = "MDEwOlJlcG9zaXRvcnkxOTU3MzYwMTI="

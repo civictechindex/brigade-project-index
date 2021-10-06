@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 145_585_826
+is_template = false
 name = "clear-my-record"
 node_id = "MDEwOlJlcG9zaXRvcnkxNDU1ODU4MjY="
 open_issues_within = 100

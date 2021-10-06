@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://hackshop.waffle.io"
 id = 100_876_650
+is_template = false
 name = "Example-Project"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDA4NzY2NTA="
 open_issues_within = 100

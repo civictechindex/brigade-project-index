@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 104_303_028
+is_template = false
 name = "bikeroutes"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDQzMDMwMjg="
 open_issues_within = 0

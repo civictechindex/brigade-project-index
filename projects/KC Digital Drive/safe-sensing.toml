@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://hackshop.waffle.io"
 id = 60_388_438
+is_template = false
 name = "safe-sensing"
 node_id = "MDEwOlJlcG9zaXRvcnk2MDM4ODQzOA=="
 open_issues_within = 100

@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://zmon.github.io/legal-git-hub"
 id = 56_019_321
+is_template = false
 language = "HTML"
 name = "legal-git-hub"
 node_id = "MDEwOlJlcG9zaXRvcnk1NjAxOTMyMQ=="

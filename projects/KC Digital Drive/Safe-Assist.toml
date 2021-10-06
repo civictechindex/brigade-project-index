@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 36_678_647
+is_template = false
 language = "PHP"
 name = "Safe-Assist"
 node_id = "MDEwOlJlcG9zaXRvcnkzNjY3ODY0Nw=="

@@ -28,6 +28,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://codeforkc.org/nra_calc/"
 id = 203_268_781
+is_template = false
 language = "JavaScript"
 name = "nra_calc"
 node_id = "MDEwOlJlcG9zaXRvcnkyMDMyNjg3ODE="

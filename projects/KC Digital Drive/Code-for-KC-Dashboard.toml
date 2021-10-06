@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 108_923_625
+is_template = false
 name = "Code-for-KC-Dashboard"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDg5MjM2MjU="
 open_issues_within = 100

@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 60_427_716
+is_template = false
 language = "C#"
 name = "fortify"
 node_id = "MDEwOlJlcG9zaXRvcnk2MDQyNzcxNg=="
