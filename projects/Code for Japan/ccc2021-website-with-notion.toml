@@ -1,5 +1,6 @@
 code_url = "https://github.com/codeforjapan/ccc2021-website-with-notion"
 git_url = "git://github.com/codeforjapan/ccc2021-website-with-notion.git"
+link_url = "ccc2021-website-with-notion.vercel.app"
 name = "ccc2021-website-with-notion"
 organization_name = "Code for Japan"
 
@@ -17,6 +18,7 @@ has_issues = true
 has_pages = false
 has_projects = false
 has_wiki = false
+homepage = "ccc2021-website-with-notion.vercel.app"
 id = 359_074_836
 language = "TypeScript"
 name = "ccc2021-website-with-notion"
