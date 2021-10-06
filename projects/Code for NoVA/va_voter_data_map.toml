@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 91_139_993
+is_template = false
 language = "Python"
 name = "va_voter_data_map"
 node_id = "MDEwOlJlcG9zaXRvcnk5MTEzOTk5Mw=="

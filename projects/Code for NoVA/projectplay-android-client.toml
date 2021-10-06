@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 5_892_104
+is_template = false
 language = "JavaScript"
 name = "projectplay-android-client"
 node_id = "MDEwOlJlcG9zaXRvcnk1ODkyMTA0"

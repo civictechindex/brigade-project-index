@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 64_976_341
+is_template = false
 language = "Python"
 name = "apartmentsonline"
 node_id = "MDEwOlJlcG9zaXRvcnk2NDk3NjM0MQ=="

@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 15_187_205
+is_template = false
 language = "Ruby"
 name = "NSFPatents"
 node_id = "MDEwOlJlcG9zaXRvcnkxNTE4NzIwNQ=="

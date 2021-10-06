@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 140_775_053
+is_template = false
 language = "JavaScript"
 name = "projectplay-front-end"
 node_id = "MDEwOlJlcG9zaXRvcnkxNDA3NzUwNTM="

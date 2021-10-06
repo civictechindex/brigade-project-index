@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://www.informr.us"
 id = 82_983_443
+is_template = false
 language = "JavaScript"
 name = "Informr.US"
 node_id = "MDEwOlJlcG9zaXRvcnk4Mjk4MzQ0Mw=="

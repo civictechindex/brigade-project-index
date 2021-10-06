@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 157_401_978
+is_template = false
 language = "Perl 6"
 name = "ingredient.guru"
 node_id = "MDEwOlJlcG9zaXRvcnkxNTc0MDE5Nzg="
