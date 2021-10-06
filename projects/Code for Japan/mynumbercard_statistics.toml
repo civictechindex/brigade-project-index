@@ -20,6 +20,7 @@ has_pages = true
 has_projects = true
 has_wiki = true
 id = 277_264_390
+is_template = false
 language = "Python"
 name = "mynumbercard_statistics"
 node_id = "MDEwOlJlcG9zaXRvcnkyNzcyNjQzOTA="

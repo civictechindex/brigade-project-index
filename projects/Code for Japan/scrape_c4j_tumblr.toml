@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 113_810_129
+is_template = false
 language = "Python"
 name = "scrape_c4j_tumblr"
 node_id = "MDEwOlJlcG9zaXRvcnkxMTM4MTAxMjk="

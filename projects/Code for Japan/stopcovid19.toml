@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://stopcovid19.code4japan.org/"
 id = 247_593_216
+is_template = false
 language = "Vue"
 name = "stopcovid19"
 node_id = "MDEwOlJlcG9zaXRvcnkyNDc1OTMyMTY="

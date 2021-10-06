@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 41_788_730
+is_template = false
 name = "steering-committe"
 node_id = "MDEwOlJlcG9zaXRvcnk0MTc4ODczMA=="
 open_issues_within = 10

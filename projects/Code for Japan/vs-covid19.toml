@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://vscovid19.code4japan.org/"
 id = 245_392_337
+is_template = false
 language = "HTML"
 name = "vs-covid19"
 node_id = "MDEwOlJlcG9zaXRvcnkyNDUzOTIzMzc="

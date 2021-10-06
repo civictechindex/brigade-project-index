@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://simpleopendata.com/"
 id = 16_884_355
+is_template = false
 language = "CSS"
 name = "simpleopendata"
 node_id = "MDEwOlJlcG9zaXRvcnkxNjg4NDM1NQ=="

@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 58_182_315
+is_template = false
 language = "Ruby"
 name = "tumblrExporter"
 node_id = "MDEwOlJlcG9zaXRvcnk1ODE4MjMxNQ=="

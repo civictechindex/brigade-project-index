@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 324_682_012
+is_template = false
 language = "HTML"
 name = "github-hands-on"
 node_id = "MDEwOlJlcG9zaXRvcnkzMjQ2ODIwMTI="

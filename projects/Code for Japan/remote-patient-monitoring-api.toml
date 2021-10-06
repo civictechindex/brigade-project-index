@@ -18,6 +18,7 @@ has_pages = true
 has_projects = true
 has_wiki = true
 id = 324_507_295
+is_template = false
 language = "TypeScript"
 name = "remote-patient-monitoring-api"
 node_id = "MDEwOlJlcG9zaXRvcnkzMjQ1MDcyOTU="

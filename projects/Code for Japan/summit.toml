@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 37_045_873
+is_template = false
 name = "summit"
 node_id = "MDEwOlJlcG9zaXRvcnkzNzA0NTg3Mw=="
 open_issues_within = 0

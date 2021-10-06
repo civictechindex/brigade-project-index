@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://kanban-app.herokuapp.com"
 id = 19_818_265
+is_template = false
 language = "Ruby"
 name = "kanban-1"
 node_id = "MDEwOlJlcG9zaXRvcnkxOTgxODI2NQ=="

@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 128_494_821
+is_template = false
 language = "Nunjucks"
 name = "socialhackday"
 node_id = "MDEwOlJlcG9zaXRvcnkxMjg0OTQ4MjE="

@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://remote-patient-monitoring-dashboard.nekoya.vercel.app/"
 id = 325_290_532
+is_template = false
 language = "Vue"
 name = "remote-patient-monitoring-dashboard"
 node_id = "MDEwOlJlcG9zaXRvcnkzMjUyOTA1MzI="

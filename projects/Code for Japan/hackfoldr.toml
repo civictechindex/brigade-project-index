@@ -20,6 +20,7 @@ has_pages = true
 has_projects = true
 has_wiki = true
 id = 104_304_998
+is_template = false
 language = "LiveScript"
 name = "hackfoldr"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDQzMDQ5OTg="

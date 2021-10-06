@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://osem.io"
 id = 126_906_580
+is_template = false
 language = "Ruby"
 name = "osem"
 node_id = "MDEwOlJlcG9zaXRvcnkxMjY5MDY1ODA="

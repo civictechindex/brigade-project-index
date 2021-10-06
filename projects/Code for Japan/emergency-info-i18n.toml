@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 255_039_254
+is_template = false
 name = "emergency-info-i18n"
 node_id = "MDEwOlJlcG9zaXRvcnkyNTUwMzkyNTQ="
 open_issues_within = 0

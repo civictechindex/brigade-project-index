@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 313_780_032
+is_template = false
 language = "JavaScript"
 name = "miyamoto"
 node_id = "MDEwOlJlcG9zaXRvcnkzMTM3ODAwMzI="

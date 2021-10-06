@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 278_982_338
+is_template = false
 language = "TypeScript"
 name = "gspreadsheet-importer"
 node_id = "MDEwOlJlcG9zaXRvcnkyNzg5ODIzMzg="
