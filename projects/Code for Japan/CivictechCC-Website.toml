@@ -23,6 +23,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://ccc2020.code4japan.org/"
 id = 277_487_643
+is_template = false
 language = "Vue"
 name = "CivictechCC-Website"
 node_id = "MDEwOlJlcG9zaXRvcnkyNzc0ODc2NDM="

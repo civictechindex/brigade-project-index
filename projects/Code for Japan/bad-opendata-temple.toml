@@ -20,6 +20,7 @@ has_pages = true
 has_projects = true
 has_wiki = true
 id = 282_578_786
+is_template = false
 language = "TypeScript"
 name = "bad-opendata-temple"
 node_id = "MDEwOlJlcG9zaXRvcnkyODI1Nzg3ODY="

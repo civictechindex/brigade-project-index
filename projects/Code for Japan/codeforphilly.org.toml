@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 13_636_924
+is_template = false
 language = "JavaScript"
 name = "codeforphilly.org"
 node_id = "MDEwOlJlcG9zaXRvcnkxMzYzNjkyNA=="

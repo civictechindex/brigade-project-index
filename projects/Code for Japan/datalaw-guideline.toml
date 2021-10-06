@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 114_970_052
+is_template = false
 name = "datalaw-guideline"
 node_id = "MDEwOlJlcG9zaXRvcnkxMTQ5NzAwNTI="
 open_issues_within = 100

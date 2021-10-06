@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 287_689_572
+is_template = false
 language = "Ruby"
 name = "decidim-cfj"
 node_id = "MDEwOlJlcG9zaXRvcnkyODc2ODk1NzI="

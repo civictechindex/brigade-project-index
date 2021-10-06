@@ -20,6 +20,7 @@ has_pages = true
 has_projects = true
 has_wiki = true
 id = 263_878_091
+is_template = false
 language = "CSS"
 name = "avoid-stamping"
 node_id = "MDEwOlJlcG9zaXRvcnkyNjM4NzgwOTE="

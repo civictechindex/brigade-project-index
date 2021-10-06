@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 105_247_076
+is_template = false
 language = "JavaScript"
 name = "codeforelection"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDUyNDcwNzY="

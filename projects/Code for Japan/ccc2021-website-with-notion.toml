@@ -20,6 +20,7 @@ has_projects = false
 has_wiki = false
 homepage = "ccc2021-website-with-notion.vercel.app"
 id = 359_074_836
+is_template = false
 language = "TypeScript"
 name = "ccc2021-website-with-notion"
 node_id = "MDEwOlJlcG9zaXRvcnkzNTkwNzQ4MzY="

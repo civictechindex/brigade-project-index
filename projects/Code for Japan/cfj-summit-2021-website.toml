@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 330_137_458
+is_template = false
 language = "Vue"
 name = "cfj-summit-2021-website"
 node_id = "MDEwOlJlcG9zaXRvcnkzMzAxMzc0NTg="

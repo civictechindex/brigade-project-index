@@ -20,6 +20,7 @@ has_projects = true
 has_wiki = true
 homepage = "decidim-manual.vercel.app"
 id = 361_074_481
+is_template = false
 language = "TypeScript"
 name = "decidim-manual"
 node_id = "MDEwOlJlcG9zaXRvcnkzNjEwNzQ0ODE="

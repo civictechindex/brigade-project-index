@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 13_005_311
+is_template = false
 language = "PHP"
 name = "e-community-platform"
 node_id = "MDEwOlJlcG9zaXRvcnkxMzAwNTMxMQ=="

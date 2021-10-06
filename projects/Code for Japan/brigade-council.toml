@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 37_255_698
+is_template = false
 name = "brigade-council"
 node_id = "MDEwOlJlcG9zaXRvcnkzNzI1NTY5OA=="
 open_issues_within = 10
