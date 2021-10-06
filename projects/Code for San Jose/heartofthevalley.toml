@@ -44,6 +44,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://www.codeforsanjose.org/heartofthevalley/"
 id = 106_234_699
+is_template = false
 language = "JavaScript"
 name = "heartofthevalley"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDYyMzQ2OTk="

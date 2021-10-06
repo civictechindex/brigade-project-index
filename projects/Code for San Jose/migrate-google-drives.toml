@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 349_554_231
+is_template = false
 name = "migrate-google-drives"
 node_id = "MDEwOlJlcG9zaXRvcnkzNDk1NTQyMzE="
 open_issues_within = 0

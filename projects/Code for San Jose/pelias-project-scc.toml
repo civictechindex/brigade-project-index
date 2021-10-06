@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 295_057_816
+is_template = false
 language = "Python"
 name = "pelias-project-scc"
 node_id = "MDEwOlJlcG9zaXRvcnkyOTUwNTc4MTY="

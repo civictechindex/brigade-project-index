@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 395_170_231
+is_template = false
 name = "courtbot"
 node_id = "MDEwOlJlcG9zaXRvcnkzOTUxNzAyMzE="
 open_issues_within = 10

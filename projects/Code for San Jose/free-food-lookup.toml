@@ -35,6 +35,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://www.codeforsanjose.com/free-food-lookup/"
 id = 259_400_694
+is_template = false
 language = "CSS"
 name = "free-food-lookup"
 node_id = "MDEwOlJlcG9zaXRvcnkyNTk0MDA2OTQ="

@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://gov-agenda-notifier.herokuapp.com/"
 id = 296_203_553
+is_template = false
 language = "JavaScript"
 name = "gov-agenda-notifier"
 node_id = "MDEwOlJlcG9zaXRvcnkyOTYyMDM1NTM="

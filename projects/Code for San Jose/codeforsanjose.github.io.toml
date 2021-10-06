@@ -32,6 +32,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://www.codeforsanjose.org"
 id = 24_835_606
+is_template = false
 language = "HTML"
 name = "codeforsanjose.github.io"
 node_id = "MDEwOlJlcG9zaXRvcnkyNDgzNTYwNg=="

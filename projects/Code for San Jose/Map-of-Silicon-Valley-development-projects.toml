@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://www.catalyzesv.org/map"
 id = 187_524_555
+is_template = false
 language = "HTML"
 name = "Map-of-Silicon-Valley-development-projects"
 node_id = "MDEwOlJlcG9zaXRvcnkxODc1MjQ1NTU="

@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 310_708_705
+is_template = false
 language = "HTML"
 name = "development-resources"
 node_id = "MDEwOlJlcG9zaXRvcnkzMTA3MDg3MDU="

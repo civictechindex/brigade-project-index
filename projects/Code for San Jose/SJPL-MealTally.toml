@@ -30,6 +30,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 83_826_875
+is_template = false
 language = "JavaScript"
 name = "SJPL-MealTally"
 node_id = "MDEwOlJlcG9zaXRvcnk4MzgyNjg3NQ=="

@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 261_638_196
+is_template = true
 language = "Makefile"
 name = "template-repo"
 node_id = "MDEwOlJlcG9zaXRvcnkyNjE2MzgxOTY="

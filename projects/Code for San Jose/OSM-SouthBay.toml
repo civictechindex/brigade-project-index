@@ -31,6 +31,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://www.openstreetmap.org/#map=12/37.3358/-121.8906"
 id = 97_183_808
+is_template = false
 language = "Jupyter Notebook"
 name = "OSM-SouthBay"
 node_id = "MDEwOlJlcG9zaXRvcnk5NzE4MzgwOA=="

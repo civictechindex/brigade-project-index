@@ -21,6 +21,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 104_426_019
+is_template = false
 language = "JavaScript"
 name = "disaster-response-sj"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDQ0MjYwMTk="

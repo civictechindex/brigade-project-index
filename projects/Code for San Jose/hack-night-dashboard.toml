@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 237_146_910
+is_template = false
 language = "JavaScript"
 name = "hack-night-dashboard"
 node_id = "MDEwOlJlcG9zaXRvcnkyMzcxNDY5MTA="
