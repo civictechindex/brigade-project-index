@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 54_072_965
+is_template = false
 language = "JavaScript"
 name = "trolley-tracker"
 node_id = "MDEwOlJlcG9zaXRvcnk1NDA3Mjk2NQ=="

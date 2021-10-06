@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://qtrandev.github.io/BrowardElectedOfficials/"
 id = 44_336_688
+is_template = false
 language = "HTML"
 name = "BrowardElectedOfficials"
 node_id = "MDEwOlJlcG9zaXRvcnk0NDMzNjY4OA=="

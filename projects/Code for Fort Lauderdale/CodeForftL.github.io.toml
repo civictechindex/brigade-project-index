@@ -23,6 +23,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://codeforftl.org"
 id = 13_548_623
+is_template = false
 language = "HTML"
 name = "CodeForftL.github.io"
 node_id = "MDEwOlJlcG9zaXRvcnkxMzU0ODYyMw=="

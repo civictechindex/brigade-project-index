@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://codeforftl.org/rep-ftl"
 id = 21_875_518
+is_template = false
 language = "HTML"
 name = "rep-ftl"
 node_id = "MDEwOlJlcG9zaXRvcnkyMTg3NTUxOA=="

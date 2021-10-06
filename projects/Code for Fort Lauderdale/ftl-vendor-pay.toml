@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 36_996_803
+is_template = false
 language = "Ruby"
 name = "ftl-vendor-pay"
 node_id = "MDEwOlJlcG9zaXRvcnkzNjk5NjgwMw=="

@@ -20,6 +20,7 @@ has_pages = true
 has_projects = true
 has_wiki = true
 id = 22_238_867
+is_template = false
 language = "JavaScript"
 name = "munifix-frontend"
 node_id = "MDEwOlJlcG9zaXRvcnkyMjIzODg2Nw=="

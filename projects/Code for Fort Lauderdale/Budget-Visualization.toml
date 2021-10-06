@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 18_690_002
+is_template = false
 language = "JavaScript"
 name = "Budget-Visualization"
 node_id = "MDEwOlJlcG9zaXRvcnkxODY5MDAwMg=="
