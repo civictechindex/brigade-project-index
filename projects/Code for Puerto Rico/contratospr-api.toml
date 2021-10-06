@@ -23,6 +23,7 @@ has_projects = true
 has_wiki = false
 homepage = "https://contratospr.com"
 id = 151_480_417
+is_template = false
 language = "Python"
 name = "contratospr-api"
 node_id = "MDEwOlJlcG9zaXRvcnkxNTE0ODA0MTc="

@@ -32,6 +32,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://covid19-server.chrismichael.now.sh/api/v1"
 id = 256_346_250
+is_template = false
 language = "JavaScript"
 name = "covid19-api"
 node_id = "MDEwOlJlcG9zaXRvcnkyNTYzNDYyNTA="

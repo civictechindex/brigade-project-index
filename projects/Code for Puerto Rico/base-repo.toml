@@ -27,6 +27,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 247_354_771
+is_template = true
 name = "base-repo"
 node_id = "MDEwOlJlcG9zaXRvcnkyNDczNTQ3NzE="
 open_issues_within = 0

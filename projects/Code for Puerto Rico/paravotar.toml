@@ -23,6 +23,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://paravotar.org"
 id = 229_126_566
+is_template = false
 language = "TypeScript"
 name = "paravotar"
 node_id = "MDEwOlJlcG9zaXRvcnkyMjkxMjY1NjY="

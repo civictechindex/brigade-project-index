@@ -21,6 +21,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 230_802_035
+is_template = false
 name = "Code4PR"
 node_id = "MDEwOlJlcG9zaXRvcnkyMzA4MDIwMzU="
 open_issues_within = 10

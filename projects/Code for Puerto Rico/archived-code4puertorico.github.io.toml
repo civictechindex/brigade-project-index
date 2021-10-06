@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = false
 homepage = "http://code4puertorico.org"
 id = 16_706_876
+is_template = false
 language = "JavaScript"
 name = "archived-code4puertorico.github.io"
 node_id = "MDEwOlJlcG9zaXRvcnkxNjcwNjg3Ng=="

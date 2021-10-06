@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 293_918_465
+is_template = false
 name = "ballot-validator"
 node_id = "MDEwOlJlcG9zaXRvcnkyOTM5MTg0NjU="
 open_issues_within = 0

@@ -23,6 +23,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://contratospr.com"
 id = 235_133_159
+is_template = false
 name = "contratospr"
 node_id = "MDEwOlJlcG9zaXRvcnkyMzUxMzMxNTk="
 open_issues_within = 10

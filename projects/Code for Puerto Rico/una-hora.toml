@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = false
 id = 400_301_928
+is_template = false
 language = "Python"
 name = "una-hora"
 node_id = "MDEwOlJlcG9zaXRvcnk0MDAzMDE5Mjg="

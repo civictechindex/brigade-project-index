@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = false
 homepage = ""
 id = 201_561_102
+is_template = true
 language = "JavaScript"
 name = "yatse"
 node_id = "MDEwOlJlcG9zaXRvcnkyMDE1NjExMDI="

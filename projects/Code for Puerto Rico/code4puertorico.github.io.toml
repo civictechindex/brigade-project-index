@@ -28,6 +28,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://code4puertorico.org"
 id = 337_529_779
+is_template = false
 name = "code4puertorico.github.io"
 node_id = "MDEwOlJlcG9zaXRvcnkzMzc1Mjk3Nzk="
 open_issues_within = 10

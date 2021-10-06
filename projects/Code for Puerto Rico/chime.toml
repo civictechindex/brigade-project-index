@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 247_792_383
+is_template = false
 name = "chime"
 node_id = "MDEwOlJlcG9zaXRvcnkyNDc3OTIzODM="
 open_issues_within = 10

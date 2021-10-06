@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 254_268_656
+is_template = false
 language = "Python"
 name = "ocr_poc"
 node_id = "MDEwOlJlcG9zaXRvcnkyNTQyNjg2NTY="

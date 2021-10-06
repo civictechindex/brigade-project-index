@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 248_609_068
+is_template = false
 language = "TypeScript"
 name = "paravotar-api"
 node_id = "MDEwOlJlcG9zaXRvcnkyNDg2MDkwNjg="

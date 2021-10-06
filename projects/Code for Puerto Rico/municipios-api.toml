@@ -31,6 +31,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://municipios.rauln.com"
 id = 200_432_540
+is_template = false
 language = "Python"
 name = "municipios-api"
 node_id = "MDEwOlJlcG9zaXRvcnkyMDA0MzI1NDA="

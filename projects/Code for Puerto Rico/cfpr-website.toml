@@ -20,6 +20,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://peaceful-ardinghelli-f8d784.netlify.app/"
 id = 357_708_481
+is_template = false
 language = "JavaScript"
 name = "cfpr-website"
 node_id = "MDEwOlJlcG9zaXRvcnkzNTc3MDg0ODE="

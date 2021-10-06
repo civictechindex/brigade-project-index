@@ -29,6 +29,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://contratospr.com"
 id = 170_435_496
+is_template = false
 language = "JavaScript"
 name = "contratospr-web"
 node_id = "MDEwOlJlcG9zaXRvcnkxNzA0MzU0OTY="
