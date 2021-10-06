@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 141_518_814
+is_template = false
 language = "JavaScript"
 name = "dog-registration"
 node_id = "MDEwOlJlcG9zaXRvcnkxNDE1MTg4MTQ="

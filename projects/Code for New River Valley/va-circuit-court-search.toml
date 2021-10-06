@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://vacircuitcourtsearch.com/"
 id = 30_001_031
+is_template = false
 language = "Python"
 name = "va-circuit-court-search"
 node_id = "MDEwOlJlcG9zaXRvcnkzMDAwMTAzMQ=="

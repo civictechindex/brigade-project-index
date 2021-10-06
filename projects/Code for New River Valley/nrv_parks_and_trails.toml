@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 32_551_127
+is_template = false
 language = "Python"
 name = "nrv_parks_and_trails"
 node_id = "MDEwOlJlcG9zaXRvcnkzMjU1MTEyNw=="

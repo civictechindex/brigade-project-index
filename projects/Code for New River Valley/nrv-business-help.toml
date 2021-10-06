@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 55_190_386
+is_template = false
 language = "JavaScript"
 name = "nrv-business-help"
 node_id = "MDEwOlJlcG9zaXRvcnk1NTE5MDM4Ng=="

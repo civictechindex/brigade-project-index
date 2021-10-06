@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://walk.codefornrv.org"
 id = 39_315_687
+is_template = false
 language = "JavaScript"
 name = "WalkBlacksburg"
 node_id = "MDEwOlJlcG9zaXRvcnkzOTMxNTY4Nw=="

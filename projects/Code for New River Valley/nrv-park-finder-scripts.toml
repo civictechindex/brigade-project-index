@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 92_458_137
+is_template = false
 language = "Python"
 name = "nrv-park-finder-scripts"
 node_id = "MDEwOlJlcG9zaXRvcnk5MjQ1ODEzNw=="

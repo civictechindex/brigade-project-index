@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 41_776_587
+is_template = false
 language = "JavaScript"
 name = "WalkBlacksburgApi"
 node_id = "MDEwOlJlcG9zaXRvcnk0MTc3NjU4Nw=="

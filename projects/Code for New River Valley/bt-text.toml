@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 43_526_334
+is_template = false
 language = "Python"
 name = "bt-text"
 node_id = "MDEwOlJlcG9zaXRvcnk0MzUyNjMzNA=="

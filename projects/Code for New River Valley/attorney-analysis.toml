@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 31_695_173
+is_template = false
 language = "Python"
 name = "attorney-analysis"
 node_id = "MDEwOlJlcG9zaXRvcnkzMTY5NTE3Mw=="
