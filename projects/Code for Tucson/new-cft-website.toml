@@ -20,6 +20,7 @@ has_pages = true
 has_projects = true
 has_wiki = true
 id = 160_444_952
+is_template = false
 language = "HTML"
 name = "new-cft-website"
 node_id = "MDEwOlJlcG9zaXRvcnkxNjA0NDQ5NTI="

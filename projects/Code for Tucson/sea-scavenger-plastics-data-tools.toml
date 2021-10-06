@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 303_560_178
+is_template = false
 language = "Python"
 name = "sea-scavenger-plastics-data-tools"
 node_id = "MDEwOlJlcG9zaXRvcnkzMDM1NjAxNzg="

@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 123_736_561
+is_template = false
 language = "JavaScript"
 name = "flow-monitor"
 node_id = "MDEwOlJlcG9zaXRvcnkxMjM3MzY1NjE="

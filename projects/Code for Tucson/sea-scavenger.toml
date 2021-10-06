@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 295_257_054
+is_template = false
 language = "JavaScript"
 name = "sea-scavenger"
 node_id = "MDEwOlJlcG9zaXRvcnkyOTUyNTcwNTQ="

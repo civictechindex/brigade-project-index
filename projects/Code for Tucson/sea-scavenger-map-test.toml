@@ -20,6 +20,7 @@ has_pages = true
 has_projects = false
 has_wiki = true
 id = 315_789_192
+is_template = false
 language = "JavaScript"
 name = "sea-scavenger-map-test"
 node_id = "MDEwOlJlcG9zaXRvcnkzMTU3ODkxOTI="
