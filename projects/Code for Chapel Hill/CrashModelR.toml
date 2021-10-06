@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 178_963_472
+is_template = false
 language = "R"
 name = "CrashModelR"
 node_id = "MDEwOlJlcG9zaXRvcnkxNzg5NjM0NzI="

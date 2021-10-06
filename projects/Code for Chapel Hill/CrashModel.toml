@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 170_386_294
+is_template = false
 language = "JavaScript"
 name = "CrashModel"
 node_id = "MDEwOlJlcG9zaXRvcnkxNzAzODYyOTQ="

@@ -21,6 +21,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 257_912_355
+is_template = false
 language = "Python"
 name = "NC-COVID-SMS-Messaging"
 node_id = "MDEwOlJlcG9zaXRvcnkyNTc5MTIzNTU="

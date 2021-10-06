@@ -36,6 +36,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://nccovidsupport.org"
 id = 248_320_946
+is_template = false
 language = "Vue"
 name = "NC-COVID-Support"
 node_id = "MDEwOlJlcG9zaXRvcnkyNDgzMjA5NDY="

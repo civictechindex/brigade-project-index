@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 243_402_879
+is_template = false
 language = "R"
 name = "qol"
 node_id = "MDEwOlJlcG9zaXRvcnkyNDM0MDI4Nzk="
