@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://codeforberkeley.github.io/gethelpberk"
 id = 108_363_298
+is_template = false
 language = "JavaScript"
 name = "gethelpberk"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDgzNjMyOTg="

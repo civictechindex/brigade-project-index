@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://codeforberkeley.github.io/Homelessness-Project/"
 id = 123_835_150
+is_template = false
 language = "HTML"
 name = "Homelessness-Project"
 node_id = "MDEwOlJlcG9zaXRvcnkxMjM4MzUxNTA="
