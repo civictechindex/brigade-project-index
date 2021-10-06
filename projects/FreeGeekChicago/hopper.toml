@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 6_362_163
+is_template = false
 language = "JavaScript"
 name = "hopper"
 node_id = "MDEwOlJlcG9zaXRvcnk2MzYyMTYz"

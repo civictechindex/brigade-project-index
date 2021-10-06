@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 6_362_171
+is_template = false
 language = "PHP"
 name = "townsquare"
 node_id = "MDEwOlJlcG9zaXRvcnk2MzYyMTcx"

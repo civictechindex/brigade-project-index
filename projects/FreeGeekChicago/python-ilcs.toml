@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 21_448_809
+is_template = false
 language = "Python"
 name = "python-ilcs"
 node_id = "MDEwOlJlcG9zaXRvcnkyMTQ0ODgwOQ=="

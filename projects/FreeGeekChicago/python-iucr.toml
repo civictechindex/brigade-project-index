@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 21_579_930
+is_template = false
 language = "Python"
 name = "python-iucr"
 node_id = "MDEwOlJlcG9zaXRvcnkyMTU3OTkzMA=="

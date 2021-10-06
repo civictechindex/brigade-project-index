@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://migrahack.readthedocs.org/en/latest/"
 id = 18_246_083
+is_template = false
 language = "Python"
 name = "simple-news-apps"
 node_id = "MDEwOlJlcG9zaXRvcnkxODI0NjA4Mw=="

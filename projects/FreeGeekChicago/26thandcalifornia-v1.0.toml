@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://26thandcalifornia.recoveredfactory.net/"
 id = 7_288_588
+is_template = false
 language = "JavaScript"
 name = "26thandcalifornia-v1.0"
 node_id = "MDEwOlJlcG9zaXRvcnk3Mjg4NTg4"

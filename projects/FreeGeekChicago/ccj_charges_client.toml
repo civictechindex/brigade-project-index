@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 18_953_969
+is_template = false
 language = "Python"
 name = "ccj_charges_client"
 node_id = "MDEwOlJlcG9zaXRvcnkxODk1Mzk2OQ=="

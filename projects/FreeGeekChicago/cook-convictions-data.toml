@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 21_179_529
+is_template = false
 language = "Python"
 name = "cook-convictions-data"
 node_id = "MDEwOlJlcG9zaXRvcnkyMTE3OTUyOQ=="

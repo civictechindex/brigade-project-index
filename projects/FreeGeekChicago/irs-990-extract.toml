@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = false
 homepage = ""
 id = 42_371_221
+is_template = false
 language = "JavaScript"
 name = "irs-990-extract"
 node_id = "MDEwOlJlcG9zaXRvcnk0MjM3MTIyMQ=="

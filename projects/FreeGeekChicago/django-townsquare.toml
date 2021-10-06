@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 11_932_146
+is_template = false
 language = "Python"
 name = "django-townsquare"
 node_id = "MDEwOlJlcG9zaXRvcnkxMTkzMjE0Ng=="

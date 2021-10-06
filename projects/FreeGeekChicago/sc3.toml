@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://chitowncoders.org"
 id = 6_362_070
+is_template = false
 language = "JavaScript"
 name = "sc3"
 node_id = "MDEwOlJlcG9zaXRvcnk2MzYyMDcw"

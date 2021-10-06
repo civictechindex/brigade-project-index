@@ -20,6 +20,7 @@ has_pages = true
 has_projects = true
 has_wiki = true
 id = 42_779_295
+is_template = false
 language = "HTML"
 name = "freegeekchicagopanel"
 node_id = "MDEwOlJlcG9zaXRvcnk0Mjc3OTI5NQ=="
