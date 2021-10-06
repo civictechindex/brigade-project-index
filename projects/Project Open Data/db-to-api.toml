@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = false
 id = 5_708_479
+is_template = false
 language = "PHP"
 name = "db-to-api"
 node_id = "MDEwOlJlcG9zaXRvcnk1NzA4NDc5"

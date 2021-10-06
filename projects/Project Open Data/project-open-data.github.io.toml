@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = false
 homepage = "https://project-open-data.cio.gov/"
 id = 9_960_426
+is_template = false
 language = "HTML"
 name = "project-open-data.github.io"
 node_id = "MDEwOlJlcG9zaXRvcnk5OTYwNDI2"
