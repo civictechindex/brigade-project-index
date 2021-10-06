@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://codeforsummitcounty.org"
 id = 8_744_293
+is_template = false
 name = "codeforsummitcounty.org"
 node_id = "MDEwOlJlcG9zaXRvcnk4NzQ0Mjkz"
 open_issues_within = 0

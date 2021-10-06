@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 10_983_894
+is_template = false
 name = "charitylocator"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDk4Mzg5NA=="
 open_issues_within = 0

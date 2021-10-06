@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 10_438_880
+is_template = false
 name = "census_base_layout"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDQzODg4MA=="
 open_issues_within = 0
