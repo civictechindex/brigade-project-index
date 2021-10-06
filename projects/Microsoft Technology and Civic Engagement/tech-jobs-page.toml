@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = false
 homepage = "http://techjobsacademy.com/"
 id = 66_588_123
+is_template = false
 language = "CSS"
 name = "tech-jobs-page"
 node_id = "MDEwOlJlcG9zaXRvcnk2NjU4ODEyMw=="

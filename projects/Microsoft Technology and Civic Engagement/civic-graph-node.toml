@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://civicgraph.io"
 id = 25_944_237
+is_template = false
 language = "JavaScript"
 name = "civic-graph-node"
 node_id = "MDEwOlJlcG9zaXRvcnkyNTk0NDIzNw=="

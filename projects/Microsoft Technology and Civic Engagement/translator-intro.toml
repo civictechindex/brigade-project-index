@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://microsofttce.github.io/translator-intro/"
 id = 67_843_651
+is_template = false
 language = "HTML"
 name = "translator-intro"
 node_id = "MDEwOlJlcG9zaXRvcnk2Nzg0MzY1MQ=="

@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 65_037_755
+is_template = false
 language = "Python"
 name = "data-collection-civic-graph"
 node_id = "MDEwOlJlcG9zaXRvcnk2NTAzNzc1NQ=="

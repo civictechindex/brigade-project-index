@@ -20,6 +20,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://microsofttce.github.io/fellows-guide/"
 id = 151_452_746
+is_template = false
 language = "JavaScript"
 name = "fellows-guide"
 node_id = "MDEwOlJlcG9zaXRvcnkxNTE0NTI3NDY="

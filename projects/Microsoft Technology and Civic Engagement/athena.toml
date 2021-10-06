@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 23_331_697
+is_template = false
 language = "JavaScript"
 name = "athena"
 node_id = "MDEwOlJlcG9zaXRvcnkyMzMzMTY5Nw=="
