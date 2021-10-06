@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://maps.raleighnc.gov/parklocator"
 id = 102_212_293
+is_template = false
 language = "JavaScript"
 name = "park-locator"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDIyMTIyOTM="

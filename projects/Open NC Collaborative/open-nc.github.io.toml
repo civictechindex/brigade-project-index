@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://open-nc.github.io"
 id = 126_598_463
+is_template = false
 language = "CSS"
 name = "open-nc.github.io"
 node_id = "MDEwOlJlcG9zaXRvcnkxMjY1OTg0NjM="

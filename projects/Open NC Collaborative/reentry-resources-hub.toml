@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 77_745_539
+is_template = false
 language = "JavaScript"
 name = "reentry-resources-hub"
 node_id = "MDEwOlJlcG9zaXRvcnk3Nzc0NTUzOQ=="
