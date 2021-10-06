@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 103_473_313
+is_template = false
 language = "Ruby"
 name = "citygram-sacramento-api"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDM0NzMzMTM="

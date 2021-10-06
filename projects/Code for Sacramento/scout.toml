@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 17_076_234
+is_template = false
 name = "scout"
 node_id = "MDEwOlJlcG9zaXRvcnkxNzA3NjIzNA=="
 open_issues_within = 0

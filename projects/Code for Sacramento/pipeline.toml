@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 10_440_027
+is_template = false
 language = "PHP"
 name = "pipeline"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDQ0MDAyNw=="

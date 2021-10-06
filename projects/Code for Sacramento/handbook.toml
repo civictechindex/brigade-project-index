@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = false
 homepage = "http://handbook.codeforsacramento.org"
 id = 41_930_701
+is_template = false
 language = "CSS"
 name = "handbook"
 node_id = "MDEwOlJlcG9zaXRvcnk0MTkzMDcwMQ=="

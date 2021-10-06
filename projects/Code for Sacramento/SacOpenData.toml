@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://sac-open-data-map.herokuapp.com/"
 id = 260_095_540
+is_template = false
 language = "R"
 name = "SacOpenData"
 node_id = "MDEwOlJlcG9zaXRvcnkyNjAwOTU1NDA="

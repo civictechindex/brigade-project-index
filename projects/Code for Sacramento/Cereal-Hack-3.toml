@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 11_709_648
+is_template = false
 language = "Ruby"
 name = "Cereal-Hack-3"
 node_id = "MDEwOlJlcG9zaXRvcnkxMTcwOTY0OA=="

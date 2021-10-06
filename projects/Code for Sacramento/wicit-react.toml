@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 207_939_250
+is_template = false
 language = "JavaScript"
 name = "wicit-react"
 node_id = "MDEwOlJlcG9zaXRvcnkyMDc5MzkyNTA="

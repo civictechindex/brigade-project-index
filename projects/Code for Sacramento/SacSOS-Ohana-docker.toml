@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 83_926_725
+is_template = false
 name = "SacSOS-Ohana-docker"
 node_id = "MDEwOlJlcG9zaXRvcnk4MzkyNjcyNQ=="
 open_issues_within = 0

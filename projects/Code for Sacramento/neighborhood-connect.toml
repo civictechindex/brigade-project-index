@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://neighborhoodconnect.netlify.app/"
 id = 195_145_548
+is_template = false
 language = "JavaScript"
 name = "neighborhood-connect"
 node_id = "MDEwOlJlcG9zaXRvcnkxOTUxNDU1NDg="

@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 104_591_588
+is_template = false
 language = "Python"
 name = "sacramento-councilmatic"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDQ1OTE1ODg="

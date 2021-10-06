@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 197_961_741
+is_template = false
 language = "JavaScript"
 name = "neighborhood-connect-api"
 node_id = "MDEwOlJlcG9zaXRvcnkxOTc5NjE3NDE="

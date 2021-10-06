@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 13_825_675
+is_template = false
 name = "hack-the-map"
 node_id = "MDEwOlJlcG9zaXRvcnkxMzgyNTY3NQ=="
 open_issues_within = 0

@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://sachousingdata.org"
 id = 82_202_738
+is_template = false
 language = "CSS"
 name = "housing-data-hub"
 node_id = "MDEwOlJlcG9zaXRvcnk4MjIwMjczOA=="

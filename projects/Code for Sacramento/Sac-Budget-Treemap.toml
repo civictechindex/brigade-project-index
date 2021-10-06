@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 37_998_800
+is_template = false
 language = "HTML"
 name = "Sac-Budget-Treemap"
 node_id = "MDEwOlJlcG9zaXRvcnkzNzk5ODgwMA=="

@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://hmis-dashboard.herokuapp.com/"
 id = 244_251_097
+is_template = false
 language = "Jupyter Notebook"
 name = "sacramento-county-homeless-hmis-dashboard"
 node_id = "MDEwOlJlcG9zaXRvcnkyNDQyNTEwOTc="

@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://sac-72.herokuapp.com/"
 id = 23_408_163
+is_template = false
 language = "CSS"
 name = "sac-72"
 node_id = "MDEwOlJlcG9zaXRvcnkyMzQwODE2Mw=="

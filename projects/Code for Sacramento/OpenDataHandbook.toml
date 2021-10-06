@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://chhsopendata.github.io"
 id = 30_500_792
+is_template = false
 language = "CSS"
 name = "OpenDataHandbook"
 node_id = "MDEwOlJlcG9zaXRvcnkzMDUwMDc5Mg=="

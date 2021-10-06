@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://asthmastoryca.org/"
 id = 68_403_170
+is_template = false
 language = "CSS"
 name = "asthmastoryca.org"
 node_id = "MDEwOlJlcG9zaXRvcnk2ODQwMzE3MA=="

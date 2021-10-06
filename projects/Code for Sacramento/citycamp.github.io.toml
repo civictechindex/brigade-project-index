@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://citycamp.com"
 id = 28_163_352
+is_template = false
 language = "CSS"
 name = "citycamp.github.io"
 node_id = "MDEwOlJlcG9zaXRvcnkyODE2MzM1Mg=="

@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 81_525_239
+is_template = false
 name = "white-house-salaries"
 node_id = "MDEwOlJlcG9zaXRvcnk4MTUyNTIzOQ=="
 open_issues_within = 10

@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 83_926_580
+is_template = false
 language = "Ruby"
 name = "SacSOS-Ohana-client"
 node_id = "MDEwOlJlcG9zaXRvcnk4MzkyNjU4MA=="

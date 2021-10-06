@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://citx.herokuapp.com"
 id = 31_137_305
+is_template = false
 language = "Ruby"
 name = "citx-api"
 node_id = "MDEwOlJlcG9zaXRvcnkzMTEzNzMwNQ=="

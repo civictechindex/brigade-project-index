@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 15_968_993
+is_template = false
 language = "Python"
 name = "city-data-portal-conversion"
 node_id = "MDEwOlJlcG9zaXRvcnkxNTk2ODk5Mw=="

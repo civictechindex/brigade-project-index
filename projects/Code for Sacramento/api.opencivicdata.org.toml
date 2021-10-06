@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = false
 homepage = ""
 id = 375_543_912
+is_template = false
 language = "CartoCSS"
 name = "api.opencivicdata.org"
 node_id = "MDEwOlJlcG9zaXRvcnkzNzU1NDM5MTI="

@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 14_677_156
+is_template = false
 name = "c4s-brigade-operating-system"
 node_id = "MDEwOlJlcG9zaXRvcnkxNDY3NzE1Ng=="
 open_issues_within = 10

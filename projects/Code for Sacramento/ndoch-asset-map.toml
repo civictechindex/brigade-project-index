@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://sac-ndoch-asset-map.herokuapp.com/"
 id = 290_649_091
+is_template = false
 language = "HTML"
 name = "ndoch-asset-map"
 node_id = "MDEwOlJlcG9zaXRvcnkyOTA2NDkwOTE="

@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://sac2050.org"
 id = 45_489_229
+is_template = false
 language = "CSS"
 name = "sac2050"
 node_id = "MDEwOlJlcG9zaXRvcnk0NTQ4OTIyOQ=="

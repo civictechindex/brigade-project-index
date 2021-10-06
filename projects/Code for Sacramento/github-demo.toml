@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 147_520_083
+is_template = false
 name = "github-demo"
 node_id = "MDEwOlJlcG9zaXRvcnkxNDc1MjAwODM="
 open_issues_within = 10

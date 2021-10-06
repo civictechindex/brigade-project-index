@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://councilmatic.org"
 id = 102_560_765
+is_template = false
 language = "JavaScript"
 name = "django-councilmatic"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDI1NjA3NjU="

@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://twitter.com/CutePetsSac"
 id = 29_284_694
+is_template = false
 language = "Ruby"
 name = "CutePetsSac"
 node_id = "MDEwOlJlcG9zaXRvcnkyOTI4NDY5NA=="

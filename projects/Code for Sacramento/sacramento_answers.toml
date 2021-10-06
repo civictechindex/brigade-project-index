@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://answers.code4sac.org"
 id = 19_518_221
+is_template = false
 language = "JavaScript"
 name = "sacramento_answers"
 node_id = "MDEwOlJlcG9zaXRvcnkxOTUxODIyMQ=="

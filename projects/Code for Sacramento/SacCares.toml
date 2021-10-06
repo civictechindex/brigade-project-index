@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 66_751_208
+is_template = false
 language = "Ruby"
 name = "SacCares"
 node_id = "MDEwOlJlcG9zaXRvcnk2Njc1MTIwOA=="

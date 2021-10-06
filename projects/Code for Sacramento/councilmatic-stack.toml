@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 192_834_581
+is_template = false
 language = "Dockerfile"
 name = "councilmatic-stack"
 node_id = "MDEwOlJlcG9zaXRvcnkxOTI4MzQ1ODE="

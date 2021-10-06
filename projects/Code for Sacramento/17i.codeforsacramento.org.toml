@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://17i.codeforsacramento.org"
 id = 71_075_420
+is_template = false
 language = "CSS"
 name = "17i.codeforsacramento.org"
 node_id = "MDEwOlJlcG9zaXRvcnk3MTA3NTQyMA=="

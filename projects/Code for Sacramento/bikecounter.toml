@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 40_639_174
+is_template = false
 language = "JavaScript"
 name = "bikecounter"
 node_id = "MDEwOlJlcG9zaXRvcnk0MDYzOTE3NA=="

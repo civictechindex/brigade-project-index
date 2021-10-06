@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://explorer.openbudgetsac.org"
 id = 37_998_096
+is_template = false
 language = "R"
 name = "SacCityBudget"
 node_id = "MDEwOlJlcG9zaXRvcnkzNzk5ODA5Ng=="

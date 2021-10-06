@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 11_070_527
+is_template = false
 language = "Ruby"
 name = "adopt-a-light"
 node_id = "MDEwOlJlcG9zaXRvcnkxMTA3MDUyNw=="

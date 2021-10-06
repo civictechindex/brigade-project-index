@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 290_652_848
+is_template = false
 language = "HTML"
 name = "ndoch-asset-map-python"
 node_id = "MDEwOlJlcG9zaXRvcnkyOTA2NTI4NDg="

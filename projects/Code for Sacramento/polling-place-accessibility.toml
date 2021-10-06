@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://abustamam.github.io/polling-place-accessibility"
 id = 57_265_417
+is_template = false
 language = "CSS"
 name = "polling-place-accessibility"
 node_id = "MDEwOlJlcG9zaXRvcnk1NzI2NTQxNw=="

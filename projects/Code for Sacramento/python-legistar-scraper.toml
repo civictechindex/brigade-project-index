@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = false
 id = 104_591_268
+is_template = false
 language = "Python"
 name = "python-legistar-scraper"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDQ1OTEyNjg="

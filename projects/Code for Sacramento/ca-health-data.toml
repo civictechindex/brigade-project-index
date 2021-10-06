@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://health.codeforsacramento.org"
 id = 32_396_175
+is_template = false
 language = "CSS"
 name = "ca-health-data"
 node_id = "MDEwOlJlcG9zaXRvcnkzMjM5NjE3NQ=="

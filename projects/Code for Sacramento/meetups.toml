@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://waffle.io/code4sac/meetups"
 id = 50_253_332
+is_template = false
 name = "meetups"
 node_id = "MDEwOlJlcG9zaXRvcnk1MDI1MzMzMg=="
 open_issues_within = 100
