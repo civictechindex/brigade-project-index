@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 16_795_721
+is_template = false
 language = "Python"
 name = "civic-json-worker"
 node_id = "MDEwOlJlcG9zaXRvcnkxNjc5NTcyMQ=="

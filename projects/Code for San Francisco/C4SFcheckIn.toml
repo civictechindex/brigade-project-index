@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = false
 homepage = "https://sfbrigade.github.io/C4SFcheckIn"
 id = 60_745_083
+is_template = false
 language = "HTML"
 name = "C4SFcheckIn"
 node_id = "MDEwOlJlcG9zaXRvcnk2MDc0NTA4Mw=="

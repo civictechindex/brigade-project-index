@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 22_937_263
+is_template = false
 name = "campaign_finance"
 node_id = "MDEwOlJlcG9zaXRvcnkyMjkzNzI2Mw=="
 open_issues_within = 0

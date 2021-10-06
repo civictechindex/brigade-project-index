@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 49_797_942
+is_template = false
 name = "core-team"
 node_id = "MDEwOlJlcG9zaXRvcnk0OTc5Nzk0Mg=="
 open_issues_within = 0

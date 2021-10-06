@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 55_712_602
+is_template = false
 name = "cfa-slack-checkin"
 node_id = "MDEwOlJlcG9zaXRvcnk1NTcxMjYwMg=="
 open_issues_within = 0

@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://dccode.org/browser/"
 id = 11_649_501
+is_template = false
 language = "JavaScript"
 name = "browser"
 node_id = "MDEwOlJlcG9zaXRvcnkxMTY0OTUwMQ=="

@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://citygram-sf-registries.herokuapp.com/"
 id = 25_285_160
+is_template = false
 language = "Ruby"
 name = "citygram-sf-registries"
 node_id = "MDEwOlJlcG9zaXRvcnkyNTI4NTE2MA=="

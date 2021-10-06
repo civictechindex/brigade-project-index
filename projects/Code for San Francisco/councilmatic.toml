@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 10_469_050
+is_template = false
 language = "Python"
 name = "councilmatic"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDQ2OTA1MA=="

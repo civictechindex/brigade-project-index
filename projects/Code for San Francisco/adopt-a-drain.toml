@@ -32,6 +32,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://adoptadrain.sfwater.org/"
 id = 44_717_341
+is_template = false
 language = "Ruby"
 name = "adopt-a-drain"
 node_id = "MDEwOlJlcG9zaXRvcnk0NDcxNzM0MQ=="

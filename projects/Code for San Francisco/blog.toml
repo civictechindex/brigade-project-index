@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 51_336_686
+is_template = false
 name = "blog"
 node_id = "MDEwOlJlcG9zaXRvcnk1MTMzNjY4Ng=="
 open_issues_within = 10
