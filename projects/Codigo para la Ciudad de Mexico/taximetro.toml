@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 13_816_565
+is_template = false
 language = "Java"
 name = "taximetro"
 node_id = "MDEwOlJlcG9zaXRvcnkxMzgxNjU2NQ=="

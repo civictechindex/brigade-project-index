@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://certs.media.mit.edu"
 id = 49_600_285
+is_template = false
 language = "HTML"
 name = "certs.media.mit.edu"
 node_id = "MDEwOlJlcG9zaXRvcnk0OTYwMDI4NQ=="

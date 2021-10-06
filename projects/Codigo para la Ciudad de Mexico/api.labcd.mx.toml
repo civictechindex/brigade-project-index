@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://api.labcd.mx"
 id = 31_396_193
+is_template = false
 language = "Ruby"
 name = "api.labcd.mx"
 node_id = "MDEwOlJlcG9zaXRvcnkzMTM5NjE5Mw=="

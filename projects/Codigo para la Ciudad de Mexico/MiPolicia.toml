@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 31_750_431
+is_template = false
 language = "JavaScript"
 name = "MiPolicia"
 node_id = "MDEwOlJlcG9zaXRvcnkzMTc1MDQzMQ=="

@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 16_710_503
+is_template = false
 language = "Ruby"
 name = "muevete_sedesa"
 node_id = "MDEwOlJlcG9zaXRvcnkxNjcxMDUwMw=="

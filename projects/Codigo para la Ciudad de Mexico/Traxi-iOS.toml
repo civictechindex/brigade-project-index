@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 20_024_880
+is_template = false
 language = "Objective-C"
 name = "Traxi-iOS"
 node_id = "MDEwOlJlcG9zaXRvcnkyMDAyNDg4MA=="

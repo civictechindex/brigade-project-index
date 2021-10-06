@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 20_161_625
+is_template = false
 language = "Java"
 name = "eventario_android"
 node_id = "MDEwOlJlcG9zaXRvcnkyMDE2MTYyNQ=="

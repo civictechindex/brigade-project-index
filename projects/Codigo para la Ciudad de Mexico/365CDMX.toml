@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 17_230_254
+is_template = false
 language = "PHP"
 name = "365CDMX"
 node_id = "MDEwOlJlcG9zaXRvcnkxNzIzMDI1NA=="

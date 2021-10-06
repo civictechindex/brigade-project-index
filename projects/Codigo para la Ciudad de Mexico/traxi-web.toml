@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 20_572_168
+is_template = false
 language = "Ruby"
 name = "traxi-web"
 node_id = "MDEwOlJlcG9zaXRvcnkyMDU3MjE2OA=="

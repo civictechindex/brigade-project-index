@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = false
 homepage = ""
 id = 13_731_430
+is_template = false
 language = "Emacs Lisp"
 name = "centos-6"
 node_id = "MDEwOlJlcG9zaXRvcnkxMzczMTQzMA=="

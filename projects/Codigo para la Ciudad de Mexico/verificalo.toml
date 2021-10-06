@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = false
 homepage = "http://verificalo.mx"
 id = 16_710_365
+is_template = false
 language = "Ruby"
 name = "verificalo"
 node_id = "MDEwOlJlcG9zaXRvcnkxNjcxMDM2NQ=="

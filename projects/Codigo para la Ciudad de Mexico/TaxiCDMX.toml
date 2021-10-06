@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 16_748_180
+is_template = false
 language = "C++"
 name = "TaxiCDMX"
 node_id = "MDEwOlJlcG9zaXRvcnkxNjc0ODE4MA=="

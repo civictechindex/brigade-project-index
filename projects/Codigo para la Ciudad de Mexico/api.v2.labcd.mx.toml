@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 65_940_109
+is_template = false
 name = "api.v2.labcd.mx"
 node_id = "MDEwOlJlcG9zaXRvcnk2NTk0MDEwOQ=="
 open_issues_within = 0
