@@ -19,6 +19,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 2_053_511
+is_template = false
 name = "windy-python"
 node_id = "MDEwOlJlcG9zaXRvcnkyMDUzNTEx"
 open_issues_within = 0

@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://foodborne.smartchicagoapps.org/"
 id = 49_752_165
+is_template = false
 language = "JavaScript"
 name = "TweetCollector"
 node_id = "MDEwOlJlcG9zaXRvcnk0OTc1MjE2NQ=="

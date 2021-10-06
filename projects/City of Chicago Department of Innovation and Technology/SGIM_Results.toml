@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 94_364_092
+is_template = false
 language = "Shell"
 name = "SGIM_Results"
 node_id = "MDEwOlJlcG9zaXRvcnk5NDM2NDA5Mg=="

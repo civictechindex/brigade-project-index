@@ -19,6 +19,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 2_053_513
+is_template = false
 name = "windy-php"
 node_id = "MDEwOlJlcG9zaXRvcnkyMDUzNTEz"
 open_issues_within = 0

@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 4_114_532
+is_template = false
 language = "Python"
 name = "tweetstreamwrapper"
 node_id = "MDEwOlJlcG9zaXRvcnk0MTE0NTMy"

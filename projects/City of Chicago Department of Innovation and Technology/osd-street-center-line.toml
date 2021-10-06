@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 7_844_516
+is_template = false
 language = "R"
 name = "osd-street-center-line"
 node_id = "MDEwOlJlcG9zaXRvcnk3ODQ0NTE2"

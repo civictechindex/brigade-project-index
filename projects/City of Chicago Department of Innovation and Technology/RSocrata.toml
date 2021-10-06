@@ -23,6 +23,7 @@ has_projects = false
 has_wiki = true
 homepage = "https://CRAN.R-project.org/package=RSocrata"
 id = 12_878_765
+is_template = false
 language = "R"
 name = "RSocrata"
 node_id = "MDEwOlJlcG9zaXRvcnkxMjg3ODc2NQ=="

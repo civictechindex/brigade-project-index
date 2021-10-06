@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://scikit-learn.org"
 id = 107_292_016
+is_template = false
 language = "Python"
 name = "scikit-learn"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDcyOTIwMTY="

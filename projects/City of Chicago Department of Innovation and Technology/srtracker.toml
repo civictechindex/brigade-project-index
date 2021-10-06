@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 6_229_180
+is_template = false
 language = "Python"
 name = "srtracker"
 node_id = "MDEwOlJlcG9zaXRvcnk2MjI5MTgw"

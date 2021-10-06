@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 111_850_115
+is_template = false
 language = "TeX"
 name = "risk-based-model-to-predict-food-inspection-critical-violations"
 node_id = "MDEwOlJlcG9zaXRvcnkxMTE4NTAxMTU="

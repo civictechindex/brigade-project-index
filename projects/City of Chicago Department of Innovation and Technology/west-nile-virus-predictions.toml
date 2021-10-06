@@ -30,6 +30,7 @@ has_projects = false
 has_wiki = true
 homepage = ""
 id = 63_337_116
+is_template = false
 language = "R"
 name = "west-nile-virus-predictions"
 node_id = "MDEwOlJlcG9zaXRvcnk2MzMzNzExNg=="

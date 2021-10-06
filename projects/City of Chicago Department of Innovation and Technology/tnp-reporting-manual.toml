@@ -22,6 +22,7 @@ has_projects = false
 has_wiki = false
 homepage = "https://chicago.github.io/tnp-reporting-manual"
 id = 70_831_273
+is_template = false
 language = "SCSS"
 name = "tnp-reporting-manual"
 node_id = "MDEwOlJlcG9zaXRvcnk3MDgzMTI3Mw=="

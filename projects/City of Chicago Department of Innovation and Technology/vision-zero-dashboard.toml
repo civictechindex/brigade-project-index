@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 219_061_796
+is_template = false
 language = "R"
 name = "vision-zero-dashboard"
 node_id = "MDEwOlJlcG9zaXRvcnkyMTkwNjE3OTY="

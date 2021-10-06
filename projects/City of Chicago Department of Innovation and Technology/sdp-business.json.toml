@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 77_487_236
+is_template = false
 name = "sdp-business.json"
 node_id = "MDEwOlJlcG9zaXRvcnk3NzQ4NzIzNg=="
 open_issues_within = 0

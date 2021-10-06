@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 83_452_964
+is_template = false
 language = "R"
 name = "sdp-feature-fetcher"
 node_id = "MDEwOlJlcG9zaXRvcnk4MzQ1Mjk2NA=="
