@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 35_565_724
+is_template = false
 language = "Python"
 name = "luftqualitaet_sachsen"
 node_id = "MDEwOlJlcG9zaXRvcnkzNTU2NTcyNA=="

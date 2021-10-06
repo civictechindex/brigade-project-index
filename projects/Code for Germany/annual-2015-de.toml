@@ -20,6 +20,7 @@ has_pages = true
 has_projects = true
 has_wiki = true
 id = 50_520_452
+is_template = false
 language = "CSS"
 name = "annual-2015-de"
 node_id = "MDEwOlJlcG9zaXRvcnk1MDUyMDQ1Mg=="

@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://annual.codeforamerica.org"
 id = 24_943_134
+is_template = false
 language = "CSS"
 name = "annual-2014-de"
 node_id = "MDEwOlJlcG9zaXRvcnkyNDk0MzEzNA=="
