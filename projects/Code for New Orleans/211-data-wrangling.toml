@@ -30,6 +30,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 255_755_273
+is_template = false
 language = "Python"
 name = "211-data-wrangling"
 node_id = "MDEwOlJlcG9zaXRvcnkyNTU3NTUyNzM="

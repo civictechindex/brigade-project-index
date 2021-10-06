@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 99_977_905
+is_template = false
 language = "JavaScript"
 name = "address-autocomplete"
 node_id = "MDEwOlJlcG9zaXRvcnk5OTk3NzkwNQ=="

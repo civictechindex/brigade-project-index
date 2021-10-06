@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 58_268_001
+is_template = false
 name = "codeofconduct"
 node_id = "MDEwOlJlcG9zaXRvcnk1ODI2ODAwMQ=="
 open_issues_within = 0

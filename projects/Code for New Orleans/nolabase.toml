@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = false
 id = 330_766_055
+is_template = false
 language = "Go"
 name = "nolabase"
 node_id = "MDEwOlJlcG9zaXRvcnkzMzA3NjYwNTU="

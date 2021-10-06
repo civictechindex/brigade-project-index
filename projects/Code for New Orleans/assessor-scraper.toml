@@ -33,6 +33,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 97_175_357
+is_template = false
 language = "Python"
 name = "assessor-scraper"
 node_id = "MDEwOlJlcG9zaXRvcnk5NzE3NTM1Nw=="

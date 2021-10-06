@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://codefornola.github.io/style_guide/"
 id = 99_972_192
+is_template = false
 language = "HTML"
 name = "style_guide"
 node_id = "MDEwOlJlcG9zaXRvcnk5OTk3MjE5Mg=="

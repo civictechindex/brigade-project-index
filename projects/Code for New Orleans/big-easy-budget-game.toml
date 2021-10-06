@@ -31,6 +31,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 246_953_046
+is_template = false
 language = "JavaScript"
 name = "big-easy-budget-game"
 node_id = "MDEwOlJlcG9zaXRvcnkyNDY5NTMwNDY="

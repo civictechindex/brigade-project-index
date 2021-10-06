@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 63_381_791
+is_template = false
 language = "Elixir"
 name = "norta-data"
 node_id = "MDEwOlJlcG9zaXRvcnk2MzM4MTc5MQ=="

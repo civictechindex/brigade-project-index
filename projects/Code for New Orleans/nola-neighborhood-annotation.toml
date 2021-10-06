@@ -30,6 +30,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 65_508_997
+is_template = false
 language = "Python"
 name = "nola-neighborhood-annotation"
 node_id = "MDEwOlJlcG9zaXRvcnk2NTUwODk5Nw=="
