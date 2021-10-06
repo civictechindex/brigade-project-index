@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 10_199_612
+is_template = false
 language = "JavaScript"
 name = "nodeshot"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDE5OTYxMg=="

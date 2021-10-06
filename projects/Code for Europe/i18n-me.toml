@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 77_225_428
+is_template = false
 name = "i18n-me"
 node_id = "MDEwOlJlcG9zaXRvcnk3NzIyNTQyOA=="
 open_issues_within = 0

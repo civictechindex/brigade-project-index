@@ -21,6 +21,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 48_227_438
+is_template = false
 language = "Java"
 name = "open311-android"
 node_id = "MDEwOlJlcG9zaXRvcnk0ODIyNzQzOA=="

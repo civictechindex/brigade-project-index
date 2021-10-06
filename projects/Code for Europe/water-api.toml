@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = false
 homepage = "http://www.transparentwater.io/docs/"
 id = 85_725_876
+is_template = false
 language = "JavaScript"
 name = "water-api"
 node_id = "MDEwOlJlcG9zaXRvcnk4NTcyNTg3Ng=="

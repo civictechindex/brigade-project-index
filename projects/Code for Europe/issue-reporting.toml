@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 77_447_839
+is_template = false
 language = "Python"
 name = "issue-reporting"
 node_id = "MDEwOlJlcG9zaXRvcnk3NzQ0NzgzOQ=="

@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 78_285_408
+is_template = false
 name = "issue-reporting-manual"
 node_id = "MDEwOlJlcG9zaXRvcnk3ODI4NTQwOA=="
 open_issues_within = 0

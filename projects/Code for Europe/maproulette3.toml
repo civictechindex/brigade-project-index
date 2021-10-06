@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://maproulette.org"
 id = 206_944_537
+is_template = false
 language = "JavaScript"
 name = "maproulette3"
 node_id = "MDEwOlJlcG9zaXRvcnkyMDY5NDQ1Mzc="

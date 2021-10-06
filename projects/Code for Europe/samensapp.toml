@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 8_458_073
+is_template = false
 language = "Ruby"
 name = "samensapp"
 node_id = "MDEwOlJlcG9zaXRvcnk4NDU4MDcz"

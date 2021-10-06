@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = false
 homepage = "http://www.transparentwater.io"
 id = 84_539_719
+is_template = false
 language = "CSS"
 name = "trinkwasser"
 node_id = "MDEwOlJlcG9zaXRvcnk4NDUzOTcxOQ=="

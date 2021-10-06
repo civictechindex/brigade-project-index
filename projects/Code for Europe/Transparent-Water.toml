@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://www.transparentwater.io"
 id = 86_054_928
+is_template = false
 name = "Transparent-Water"
 node_id = "MDEwOlJlcG9zaXRvcnk4NjA1NDkyOA=="
 open_issues_within = 10

@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = false
 homepage = "https://ogptoolbox.org/"
 id = 80_816_257
+is_template = false
 language = "Elm"
 name = "ogptoolbox-ui"
 node_id = "MDEwOlJlcG9zaXRvcnk4MDgxNjI1Nw=="

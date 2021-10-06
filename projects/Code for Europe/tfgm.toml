@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 8_095_838
+is_template = false
 language = "Ruby"
 name = "tfgm"
 node_id = "MDEwOlJlcG9zaXRvcnk4MDk1ODM4"

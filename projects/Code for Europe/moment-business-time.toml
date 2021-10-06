@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 90_878_372
+is_template = false
 language = "JavaScript"
 name = "moment-business-time"
 node_id = "MDEwOlJlcG9zaXRvcnk5MDg3ODM3Mg=="

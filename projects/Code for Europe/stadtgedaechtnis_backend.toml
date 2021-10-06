@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 20_021_181
+is_template = false
 language = "Python"
 name = "stadtgedaechtnis_backend"
 node_id = "MDEwOlJlcG9zaXRvcnkyMDAyMTE4MQ=="

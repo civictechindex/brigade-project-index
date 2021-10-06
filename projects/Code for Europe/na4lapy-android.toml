@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 110_101_404
+is_template = false
 language = "Java"
 name = "na4lapy-android"
 node_id = "MDEwOlJlcG9zaXRvcnkxMTAxMDE0MDQ="

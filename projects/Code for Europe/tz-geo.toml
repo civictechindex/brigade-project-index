@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 90_053_596
+is_template = false
 language = "JavaScript"
 name = "tz-geo"
 node_id = "MDEwOlJlcG9zaXRvcnk5MDA1MzU5Ng=="
