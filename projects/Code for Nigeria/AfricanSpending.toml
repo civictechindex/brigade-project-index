@@ -32,6 +32,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://africanspending.org/"
 id = 8_035_586
+is_template = false
 language = "JavaScript"
 name = "AfricanSpending"
 node_id = "MDEwOlJlcG9zaXRvcnk4MDM1NTg2"

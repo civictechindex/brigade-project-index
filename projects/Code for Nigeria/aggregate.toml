@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = false
 homepage = "https://docs.opendatakit.org/aggregate-intro/"
 id = 205_137_312
+is_template = false
 language = "Java"
 name = "aggregate"
 node_id = "MDEwOlJlcG9zaXRvcnkyMDUxMzczMTI="

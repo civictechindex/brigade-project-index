@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 103_811_962
+is_template = false
 language = "Java"
 name = "CitizenReporter-Camera"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDM4MTE5NjI="

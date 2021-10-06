@@ -34,6 +34,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://greenalert.oxpeckers.org/"
 id = 24_479_769
+is_template = false
 language = "PHP"
 name = "AlertME"
 node_id = "MDEwOlJlcG9zaXRvcnkyNDQ3OTc2OQ=="

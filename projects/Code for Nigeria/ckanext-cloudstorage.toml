@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = false
 homepage = ""
 id = 224_855_332
+is_template = false
 name = "ckanext-cloudstorage"
 node_id = "MDEwOlJlcG9zaXRvcnkyMjQ4NTUzMzI="
 open_issues_within = 0
