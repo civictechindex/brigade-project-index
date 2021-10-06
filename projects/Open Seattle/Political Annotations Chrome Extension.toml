@@ -19,6 +19,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 15_000_232
+is_template = false
 language = "JavaScript"
 name = "political-annotations"
 network_count = 3

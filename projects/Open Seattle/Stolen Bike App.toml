@@ -20,6 +20,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://bike.jumis.com/index.html"
 id = 17_094_524
+is_template = false
 language = "JavaScript"
 name = "stolenbikesSEA"
 network_count = 3

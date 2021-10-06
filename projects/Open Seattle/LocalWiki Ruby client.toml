@@ -20,6 +20,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 7_436_557
+is_template = false
 language = "Ruby"
 name = "localwiki_client"
 network_count = 8

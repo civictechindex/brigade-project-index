@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://tsibley.net/trees/seattle"
 id = 10_847_923
+is_template = false
 language = "JavaScript"
 name = "seattle-trees"
 network_count = 1

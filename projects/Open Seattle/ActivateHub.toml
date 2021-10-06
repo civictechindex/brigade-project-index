@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://activatehub.org/"
 id = 11_043_403
+is_template = false
 language = "Ruby"
 name = "ActivateHub"
 network_count = 27

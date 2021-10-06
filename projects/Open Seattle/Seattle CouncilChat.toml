@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://councilchat.seattle.io"
 id = 35_511_204
+is_template = false
 language = "CSS"
 name = "councilchat"
 network_count = 0

@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 16_243_119
+is_template = false
 name = "seattle-homeless-info"
 network_count = 0
 node_id = "MDEwOlJlcG9zaXRvcnkxNjI0MzExOQ=="

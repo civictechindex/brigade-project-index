@@ -21,6 +21,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 15_013_743
+is_template = false
 language = "Ruby"
 name = "deglassified"
 network_count = 0

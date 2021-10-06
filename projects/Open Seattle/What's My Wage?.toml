@@ -20,6 +20,7 @@ has_pages = true
 has_projects = true
 has_wiki = true
 id = 30_635_943
+is_template = false
 language = "Java"
 name = "whats-my-wage-app"
 network_count = 4
@@ -73,6 +74,7 @@ watchers_within = 10
   has_projects = true
   has_wiki = true
   id = 30_389_728
+  is_template = false
   language = "Java"
   name = "MinWageCalc"
   node_id = "MDEwOlJlcG9zaXRvcnkzMDM4OTcyOA=="
@@ -122,6 +124,7 @@ watchers_within = 10
   has_projects = true
   has_wiki = true
   id = 30_389_728
+  is_template = false
   language = "Java"
   name = "MinWageCalc"
   node_id = "MDEwOlJlcG9zaXRvcnkzMDM4OTcyOA=="

@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = false
 homepage = "http://localwiki.org"
 id = 1_423_812
+is_template = false
 name = "localwiki"
 network_count = 83
 node_id = "MDEwOlJlcG9zaXRvcnkxNDIzODEy"

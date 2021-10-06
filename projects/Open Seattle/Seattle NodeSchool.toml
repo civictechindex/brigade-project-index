@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://nodeschool.io/seattle"
 id = 25_626_326
+is_template = false
 language = "HTML"
 name = "seattle"
 network_count = 9

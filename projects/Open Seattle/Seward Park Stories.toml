@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://sewardparkstories.org"
 id = 24_160_180
+is_template = false
 language = "JavaScript"
 name = "sewardparkstories.org"
 network_count = 3

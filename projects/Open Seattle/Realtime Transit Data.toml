@@ -20,6 +20,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://domoritz.github.io/live-bus-seattle"
 id = 17_093_680
+is_template = false
 language = "JavaScript"
 name = "live-bus-seattle"
 network_count = 1

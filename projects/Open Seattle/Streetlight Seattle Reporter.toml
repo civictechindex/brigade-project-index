@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 15_756_326
+is_template = false
 language = "Java"
 name = "StreetlightSeattleReporter"
 network_count = 1
