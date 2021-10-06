@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 46_203_061
+is_template = false
 language = "Processing"
 name = "traffic_counter"
 node_id = "MDEwOlJlcG9zaXRvcnk0NjIwMzA2MQ=="

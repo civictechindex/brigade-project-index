@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://ancfinder.org/"
 id = 8_715_969
+is_template = false
 language = "Python"
 name = "ancfinder"
 node_id = "MDEwOlJlcG9zaXRvcnk4NzE1OTY5"

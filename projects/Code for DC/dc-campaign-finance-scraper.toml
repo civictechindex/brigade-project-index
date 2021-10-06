@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 21_773_177
+is_template = false
 language = "Python"
 name = "dc-campaign-finance-scraper"
 node_id = "MDEwOlJlcG9zaXRvcnkyMTc3MzE3Nw=="

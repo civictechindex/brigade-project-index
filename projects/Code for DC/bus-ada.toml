@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://codefordc.github.io/bus-ada/"
 id = 35_340_280
+is_template = false
 language = "HTML"
 name = "bus-ada"
 node_id = "MDEwOlJlcG9zaXRvcnkzNTM0MDI4MA=="

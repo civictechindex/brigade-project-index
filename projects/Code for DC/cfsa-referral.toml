@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://sailor-environment-53620.netlify.com"
 id = 104_532_641
+is_template = false
 language = "JavaScript"
 name = "cfsa-referral"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDQ1MzI2NDE="

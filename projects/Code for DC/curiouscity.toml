@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 31_474_358
+is_template = false
 language = "Ruby"
 name = "curiouscity"
 node_id = "MDEwOlJlcG9zaXRvcnkzMTQ3NDM1OA=="

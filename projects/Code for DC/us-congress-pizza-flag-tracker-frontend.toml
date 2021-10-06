@@ -21,6 +21,7 @@ has_projects = false
 has_wiki = false
 homepage = ""
 id = 360_739_354
+is_template = false
 language = "JavaScript"
 name = "us-congress-pizza-flag-tracker-frontend"
 node_id = "MDEwOlJlcG9zaXRvcnkzNjA3MzkzNTQ="

@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://hydrants.codefordc.org"
 id = 6_640_408
+is_template = false
 language = "Ruby"
 name = "adopt-a-hydrant"
 node_id = "MDEwOlJlcG9zaXRvcnk2NjQwNDA4"

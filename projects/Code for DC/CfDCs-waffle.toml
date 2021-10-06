@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 60_609_860
+is_template = false
 name = "CfDCs-waffle"
 node_id = "MDEwOlJlcG9zaXRvcnk2MDYwOTg2MA=="
 open_issues_within = 0

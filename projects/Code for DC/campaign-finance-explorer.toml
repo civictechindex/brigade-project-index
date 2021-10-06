@@ -18,6 +18,7 @@ has_pages = true
 has_projects = true
 has_wiki = true
 id = 70_108_087
+is_template = false
 language = "JavaScript"
 name = "campaign-finance-explorer"
 node_id = "MDEwOlJlcG9zaXRvcnk3MDEwODA4Nw=="

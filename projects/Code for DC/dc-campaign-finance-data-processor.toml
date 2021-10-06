@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 41_450_847
+is_template = false
 language = "Python"
 name = "dc-campaign-finance-data-processor"
 node_id = "MDEwOlJlcG9zaXRvcnk0MTQ1MDg0Nw=="

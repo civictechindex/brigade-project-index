@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 19_871_589
+is_template = false
 language = "CSS"
 name = "bikeshare-odds"
 node_id = "MDEwOlJlcG9zaXRvcnkxOTg3MTU4OQ=="

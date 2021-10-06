@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 120_221_752
+is_template = false
 name = "user-research"
 node_id = "MDEwOlJlcG9zaXRvcnkxMjAyMjE3NTI="
 open_issues_within = 10

@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 19_926_261
+is_template = false
 name = "code-of-conduct"
 node_id = "MDEwOlJlcG9zaXRvcnkxOTkyNjI2MQ=="
 open_issues_within = 10

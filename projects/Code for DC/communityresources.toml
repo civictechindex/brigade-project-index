@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://communityresourcedata.codefordc.org/"
 id = 11_062_071
+is_template = false
 language = "CSS"
 name = "communityresources"
 node_id = "MDEwOlJlcG9zaXRvcnkxMTA2MjA3MQ=="

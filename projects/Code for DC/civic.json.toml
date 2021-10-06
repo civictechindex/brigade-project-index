@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://open.dc.gov/civic.json/"
 id = 51_123_915
+is_template = false
 name = "civic.json"
 node_id = "MDEwOlJlcG9zaXRvcnk1MTEyMzkxNQ=="
 open_issues_within = 0

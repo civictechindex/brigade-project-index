@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 6_724_357
+is_template = false
 language = "Ruby"
 name = "codefordc-website-archive"
 node_id = "MDEwOlJlcG9zaXRvcnk2NzI0MzU3"

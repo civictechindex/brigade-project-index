@@ -23,6 +23,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://www.codefordc.org"
 id = 11_922_700
+is_template = false
 language = "HTML"
 name = "codefordc.github.com"
 node_id = "MDEwOlJlcG9zaXRvcnkxMTkyMjcwMA=="

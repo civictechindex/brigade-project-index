@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://campaign-finance.codefordc.org"
 id = 21_773_181
+is_template = false
 language = "JavaScript"
 name = "dc-campaign-finance-watch"
 node_id = "MDEwOlJlcG9zaXRvcnkyMTc3MzE4MQ=="

@@ -20,6 +20,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://mkalish.github.io/DC-Budget-Sankey/"
 id = 44_894_770
+is_template = false
 language = "JavaScript"
 name = "DC-Budget-Sankey"
 node_id = "MDEwOlJlcG9zaXRvcnk0NDg5NDc3MA=="

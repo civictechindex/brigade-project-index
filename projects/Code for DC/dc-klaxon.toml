@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://newsklaxon.org"
 id = 88_562_115
+is_template = false
 language = "Ruby"
 name = "dc-klaxon"
 node_id = "MDEwOlJlcG9zaXRvcnk4ODU2MjExNQ=="

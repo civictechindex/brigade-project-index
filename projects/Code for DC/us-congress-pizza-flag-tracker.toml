@@ -20,6 +20,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://codefordc-flag.netlify.app/"
 id = 319_492_802
+is_template = false
 language = "Python"
 name = "us-congress-pizza-flag-tracker"
 node_id = "MDEwOlJlcG9zaXRvcnkzMTk0OTI4MDI="

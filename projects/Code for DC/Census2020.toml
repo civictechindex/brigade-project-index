@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 228_438_143
+is_template = false
 name = "Census2020"
 node_id = "MDEwOlJlcG9zaXRvcnkyMjg0MzgxNDM="
 open_issues_within = 10

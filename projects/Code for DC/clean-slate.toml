@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://codefordc.github.io/clean-slate"
 id = 28_992_747
+is_template = false
 language = "HTML"
 name = "clean-slate"
 node_id = "MDEwOlJlcG9zaXRvcnkyODk5Mjc0Nw=="
