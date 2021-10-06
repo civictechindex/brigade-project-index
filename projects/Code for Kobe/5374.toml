@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://codeforkobe.github.io/5374/"
 id = 31_302_864
+is_template = false
 language = "JavaScript"
 name = "5374"
 node_id = "MDEwOlJlcG9zaXRvcnkzMTMwMjg2NA=="

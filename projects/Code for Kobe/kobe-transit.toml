@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 56_636_027
+is_template = false
 language = "Python"
 name = "kobe-transit"
 node_id = "MDEwOlJlcG9zaXRvcnk1NjYzNjAyNw=="

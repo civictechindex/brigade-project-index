@@ -20,6 +20,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://sakura360.jp/"
 id = 32_625_017
+is_template = false
 language = "CoffeeScript"
 name = "sakura360"
 node_id = "MDEwOlJlcG9zaXRvcnkzMjYyNTAxNw=="

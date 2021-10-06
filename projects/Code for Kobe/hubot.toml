@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 30_628_442
+is_template = false
 name = "hubot"
 node_id = "MDEwOlJlcG9zaXRvcnkzMDYyODQ0Mg=="
 open_issues_within = 0

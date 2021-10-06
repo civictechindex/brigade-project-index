@@ -20,6 +20,7 @@ has_pages = true
 has_projects = true
 has_wiki = true
 id = 42_661_863
+is_template = false
 language = "HTML"
 name = "codeforkobe.github.io"
 node_id = "MDEwOlJlcG9zaXRvcnk0MjY2MTg2Mw=="
