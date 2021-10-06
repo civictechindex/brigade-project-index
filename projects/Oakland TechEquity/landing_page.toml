@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 46_158_418
+is_template = false
 language = "CSS"
 name = "landing_page"
 node_id = "MDEwOlJlcG9zaXRvcnk0NjE1ODQxOA=="
