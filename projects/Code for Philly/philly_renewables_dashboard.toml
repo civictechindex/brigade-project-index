@@ -21,6 +21,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 34_761_128
+is_template = false
 language = "R"
 name = "PhillyRenewablesDashboard"
 network_count = 0

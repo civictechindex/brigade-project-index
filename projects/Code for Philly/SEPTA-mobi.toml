@@ -21,6 +21,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 12_907_467
+is_template = false
 language = "JavaScript"
 name = "SeptaMobi"
 network_count = 1

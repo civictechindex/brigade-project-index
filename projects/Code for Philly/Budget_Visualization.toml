@@ -22,6 +22,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 8_379_592
+is_template = false
 language = "JavaScript"
 name = "philasdbudget"
 network_count = 4

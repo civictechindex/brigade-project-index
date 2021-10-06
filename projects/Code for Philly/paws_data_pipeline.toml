@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 216_936_227
+is_template = false
 language = "Python"
 name = "paws-data-pipeline"
 network_count = 1

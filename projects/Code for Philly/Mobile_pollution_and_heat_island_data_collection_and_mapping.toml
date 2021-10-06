@@ -21,6 +21,7 @@ has_pages = true
 has_projects = true
 has_wiki = true
 id = 13_005_907
+is_template = false
 language = "Arduino"
 name = "CAC-open-climate-tracker"
 network_count = 5

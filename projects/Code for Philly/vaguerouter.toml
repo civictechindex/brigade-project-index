@@ -22,6 +22,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 5_299_388
+is_template = false
 language = "JavaScript"
 name = "VagueRouter"
 network_count = 0

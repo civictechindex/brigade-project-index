@@ -22,6 +22,7 @@ has_pages = false
 has_projects = true
 has_wiki = false
 id = 13_002_089
+is_template = false
 language = "Python"
 name = "phl-bike-thefts"
 network_count = 2

@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 53_592_331
+is_template = false
 language = "HTML"
 name = "govmeeting"
 network_count = 5

@@ -22,6 +22,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 10_459_830
+is_template = false
 language = "CSS"
 name = "WhatsGoingOn"
 network_count = 0

@@ -19,6 +19,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 21_069_384
+is_template = false
 language = "Python"
 name = "EcocampHackathon2014"
 network_count = 5

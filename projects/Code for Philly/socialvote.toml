@@ -21,6 +21,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 33_039_645
+is_template = false
 language = "Shell"
 name = "social-vote"
 network_count = 1

@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://mjumbewu.github.io/phillytranspo_art"
 id = 36_989_837
+is_template = false
 language = "JavaScript"
 name = "phillytranspo_art"
 network_count = 3

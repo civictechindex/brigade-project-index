@@ -22,6 +22,7 @@ has_pages = true
 has_projects = true
 has_wiki = true
 id = 9_019_271
+is_template = false
 language = "JavaScript"
 name = "arc-console"
 network_count = 4

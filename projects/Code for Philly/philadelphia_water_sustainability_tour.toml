@@ -19,6 +19,7 @@ has_pages = true
 has_projects = true
 has_wiki = true
 id = 44_445_577
+is_template = false
 language = "HTML"
 name = "sustainability-tour"
 network_count = 1

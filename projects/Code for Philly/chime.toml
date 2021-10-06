@@ -23,6 +23,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://codeforphilly.github.io/chime/"
 id = 248_011_509
+is_template = false
 language = "Python"
 name = "chime"
 network_count = 156

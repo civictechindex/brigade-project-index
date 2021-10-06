@@ -21,6 +21,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 246_921_745
+is_template = false
 language = "Jupyter Notebook"
 name = "prevpoint-forms"
 network_count = 2

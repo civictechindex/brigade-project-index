@@ -29,6 +29,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://phillywardleaders.com"
 id = 33_057_625
+is_template = false
 language = "JavaScript"
 name = "philly-ward-leaders"
 network_count = 10

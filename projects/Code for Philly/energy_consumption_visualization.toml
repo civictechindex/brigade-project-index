@@ -26,6 +26,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 36_837_909
+is_template = false
 language = "Python"
 name = "energy_viz"
 network_count = 53
@@ -72,6 +73,7 @@ watchers_within = 0
   has_wiki = true
   homepage = ""
   id = 25_450_714
+  is_template = false
   language = "Python"
   name = "seed"
   node_id = "MDEwOlJlcG9zaXRvcnkyNTQ1MDcxNA=="
@@ -122,6 +124,7 @@ watchers_within = 0
   has_wiki = true
   homepage = ""
   id = 25_450_714
+  is_template = false
   language = "Python"
   name = "seed"
   node_id = "MDEwOlJlcG9zaXRvcnkyNTQ1MDcxNA=="

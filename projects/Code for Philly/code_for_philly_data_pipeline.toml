@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 326_489_314
+is_template = false
 language = "Python"
 name = "cfp-data-pipeline"
 network_count = 3

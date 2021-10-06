@@ -22,6 +22,7 @@ has_pages = true
 has_projects = true
 has_wiki = true
 id = 69_130_587
+is_template = false
 language = "HTML"
 name = "neargreen"
 network_count = 8

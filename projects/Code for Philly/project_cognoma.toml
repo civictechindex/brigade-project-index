@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://cognoma.org/"
 id = 62_652_458
+is_template = false
 language = "Jupyter Notebook"
 name = "cognoma"
 network_count = 32

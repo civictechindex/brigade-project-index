@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 369_027_859
+is_template = false
 language = "JavaScript"
 name = "pa-wildflower-selector"
 network_count = 3

@@ -23,6 +23,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://codeforphilly.github.io/philly-urban-agriculture/"
 id = 21_072_786
+is_template = false
 name = "philly-urban-agriculture"
 network_count = 3
 node_id = "MDEwOlJlcG9zaXRvcnkyMTA3Mjc4Ng=="
