@@ -24,6 +24,7 @@ has_pages = true
 has_projects = true
 has_wiki = true
 id = 19_512_030
+is_template = false
 language = "JavaScript"
 name = "feld"
 network_count = 3

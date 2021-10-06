@@ -28,6 +28,7 @@ has_projects = true
 has_wiki = false
 homepage = ""
 id = 14_454_269
+is_template = false
 language = "JavaScript"
 name = "wahlversprechen"
 network_count = 11

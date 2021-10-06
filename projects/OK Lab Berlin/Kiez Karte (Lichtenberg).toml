@@ -27,6 +27,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://www.kiez-karte.berlin"
 id = 18_775_241
+is_template = false
 language = "JavaScript"
 name = "kiez-karte"
 network_count = 2

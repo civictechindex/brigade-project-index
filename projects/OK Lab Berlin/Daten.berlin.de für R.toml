@@ -25,6 +25,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 17_755_699
+is_template = false
 language = "R"
 name = "RBerlinData"
 network_count = 0

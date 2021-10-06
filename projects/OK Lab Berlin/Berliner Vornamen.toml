@@ -25,6 +25,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 17_337_848
+is_template = false
 language = "JavaScript"
 name = "berlin-names"
 network_count = 1

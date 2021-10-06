@@ -26,6 +26,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://netaction.github.io/disabled-railway/"
 id = 18_435_595
+is_template = false
 language = "CSS"
 name = "disabled-railway"
 network_count = 0

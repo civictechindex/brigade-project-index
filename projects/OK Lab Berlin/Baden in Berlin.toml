@@ -21,6 +21,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 21_137_946
+is_template = false
 language = "CSS"
 name = "berliner-badestellen"
 network_count = 5
