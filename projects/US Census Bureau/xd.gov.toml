@@ -1,6 +1,6 @@
 code_url = "https://github.com/uscensusbureau/xd.gov"
 git_branch = "master"
 git_url = "git://github.com/uscensusbureau/xd.gov.git"
-last_pushed_within = "week"
+last_pushed_within = "month"
 name = "xd.gov"
 organization_name = "US Census Bureau"
