@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 12_450_656
+is_template = false
 name = "madison-metro-gtfs"
 node_id = "MDEwOlJlcG9zaXRvcnkxMjQ1MDY1Ng=="
 open_issues_within = 0

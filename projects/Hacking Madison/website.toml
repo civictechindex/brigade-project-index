@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://hackingmadison.org"
 id = 3_989_900
+is_template = false
 language = "JavaScript"
 name = "website"
 node_id = "MDEwOlJlcG9zaXRvcnkzOTg5OTAw"

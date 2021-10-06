@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 33_904_772
+is_template = false
 language = "JavaScript"
 name = "linkcat-api"
 node_id = "MDEwOlJlcG9zaXRvcnkzMzkwNDc3Mg=="
