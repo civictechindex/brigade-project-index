@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 218_033_579
+is_template = false
 language = "TSQL"
 name = "youthexplorer"
 node_id = "MDEwOlJlcG9zaXRvcnkyMTgwMzM1Nzk="

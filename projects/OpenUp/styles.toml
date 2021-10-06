@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = false
 homepage = "http://code4sa.org/styles/"
 id = 35_666_706
+is_template = false
 language = "CSS"
 name = "styles"
 node_id = "MDEwOlJlcG9zaXRvcnkzNTY2NjcwNg=="

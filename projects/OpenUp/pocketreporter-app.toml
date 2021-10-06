@@ -20,6 +20,7 @@ has_pages = true
 has_projects = true
 has_wiki = true
 id = 131_850_014
+is_template = false
 language = "JavaScript"
 name = "pocketreporter-app"
 node_id = "MDEwOlJlcG9zaXRvcnkxMzE4NTAwMTQ="

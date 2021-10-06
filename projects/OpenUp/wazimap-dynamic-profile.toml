@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 199_457_626
+is_template = false
 language = "Python"
 name = "wazimap-dynamic-profile"
 node_id = "MDEwOlJlcG9zaXRvcnkxOTk0NTc2MjY="

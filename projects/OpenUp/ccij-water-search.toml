@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 288_974_840
+is_template = false
 language = "Jupyter Notebook"
 name = "ccij-water-search"
 node_id = "MDEwOlJlcG9zaXRvcnkyODg5NzQ4NDA="

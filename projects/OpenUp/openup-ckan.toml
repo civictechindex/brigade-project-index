@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 260_521_335
+is_template = false
 language = "Dockerfile"
 name = "openup-ckan"
 node_id = "MDEwOlJlcG9zaXRvcnkyNjA1MjEzMzU="

@@ -20,6 +20,7 @@ has_projects = true
 has_wiki = false
 homepage = "http://vote4thebudget.org"
 id = 52_258_417
+is_template = false
 language = "CSS"
 name = "budgetvote"
 node_id = "MDEwOlJlcG9zaXRvcnk1MjI1ODQxNw=="

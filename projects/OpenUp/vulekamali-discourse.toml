@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 125_016_443
+is_template = false
 name = "vulekamali-discourse"
 node_id = "MDEwOlJlcG9zaXRvcnkxMjUwMTY0NDM="
 open_issues_within = 0

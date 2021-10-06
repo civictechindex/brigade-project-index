@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://pypi.org/project/django-info-pages/"
 id = 315_129_514
+is_template = false
 name = "django-info-pages"
 node_id = "MDEwOlJlcG9zaXRvcnkzMTUxMjk1MTQ="
 open_issues_within = 0

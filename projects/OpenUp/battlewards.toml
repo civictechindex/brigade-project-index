@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = false
 id = 9_032_912
+is_template = false
 language = "Python"
 name = "battlewards"
 node_id = "MDEwOlJlcG9zaXRvcnk5MDMyOTEy"

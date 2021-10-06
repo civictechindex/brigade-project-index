@@ -18,6 +18,7 @@ has_pages = true
 has_projects = true
 has_wiki = true
 id = 205_853_642
+is_template = false
 language = "JavaScript"
 name = "mpr-webflow-update"
 node_id = "MDEwOlJlcG9zaXRvcnkyMDU4NTM2NDI="

@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://app.capeagulhas.gov.za"
 id = 287_331_349
+is_template = false
 language = "JavaScript"
 name = "muni-portal-frontend"
 node_id = "MDEwOlJlcG9zaXRvcnkyODczMzEzNDk="

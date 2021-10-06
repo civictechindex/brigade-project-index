@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 108_414_233
+is_template = false
 name = "piwik-dokku"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDg0MTQyMzM="
 open_issues_within = 0

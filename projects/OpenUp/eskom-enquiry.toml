@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = false
 homepage = "https://eskom.openup.org.za"
 id = 137_739_474
+is_template = false
 language = "Python"
 name = "eskom-enquiry"
 node_id = "MDEwOlJlcG9zaXRvcnkxMzc3Mzk0NzQ="

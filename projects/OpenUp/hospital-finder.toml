@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://hospitals.code4sa.org"
 id = 24_735_122
+is_template = false
 language = "JavaScript"
 name = "hospital-finder"
 node_id = "MDEwOlJlcG9zaXRvcnkyNDczNTEyMg=="

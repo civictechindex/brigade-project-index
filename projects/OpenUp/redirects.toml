@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://redirects.code4sa.org"
 id = 33_547_426
+is_template = false
 language = "Python"
 name = "redirects"
 node_id = "MDEwOlJlcG9zaXRvcnkzMzU0NzQyNg=="

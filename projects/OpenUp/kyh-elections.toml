@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://hood.code4sa.org"
 id = 15_014_043
+is_template = false
 language = "HTML"
 name = "kyh-elections"
 node_id = "MDEwOlJlcG9zaXRvcnkxNTAxNDA0Mw=="

@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 190_709_011
+is_template = false
 language = "HCL"
 name = "terraform-spike"
 node_id = "MDEwOlJlcG9zaXRvcnkxOTA3MDkwMTE="

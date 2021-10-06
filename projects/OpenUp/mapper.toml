@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://capesean.co.za/mapper/"
 id = 64_854_411
+is_template = false
 language = "JavaScript"
 name = "mapper"
 node_id = "MDEwOlJlcG9zaXRvcnk2NDg1NDQxMQ=="

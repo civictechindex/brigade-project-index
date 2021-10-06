@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 12_376_567
+is_template = false
 language = "PHP"
 name = "opencivic"
 node_id = "MDEwOlJlcG9zaXRvcnkxMjM3NjU2Nw=="

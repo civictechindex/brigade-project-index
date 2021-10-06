@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://app.pocketreporter.co.za"
 id = 163_145_421
+is_template = false
 language = "TypeScript"
 name = "pocket-reporter"
 node_id = "MDEwOlJlcG9zaXRvcnkxNjMxNDU0MjE="

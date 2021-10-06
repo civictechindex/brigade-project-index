@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 260_681_039
+is_template = false
 language = "Dockerfile"
 name = "openup-ckan-solr-dokku"
 node_id = "MDEwOlJlcG9zaXRvcnkyNjA2ODEwMzk="

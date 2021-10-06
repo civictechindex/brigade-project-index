@@ -20,6 +20,7 @@ has_pages = false
 has_projects = false
 has_wiki = false
 id = 233_432_629
+is_template = false
 language = "Python"
 name = "cookiecutter-django-dokku"
 node_id = "MDEwOlJlcG9zaXRvcnkyMzM0MzI2Mjk="

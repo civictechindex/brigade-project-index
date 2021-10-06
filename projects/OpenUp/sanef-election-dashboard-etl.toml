@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 390_303_535
+is_template = false
 name = "sanef-election-dashboard-etl"
 node_id = "MDEwOlJlcG9zaXRvcnkzOTAzMDM1MzU="
 open_issues_within = 0

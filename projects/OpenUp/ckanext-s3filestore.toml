@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 103_452_731
+is_template = false
 language = "Python"
 name = "ckanext-s3filestore"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDM0NTI3MzE="

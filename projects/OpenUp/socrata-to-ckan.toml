@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 260_713_820
+is_template = false
 language = "Python"
 name = "socrata-to-ckan"
 node_id = "MDEwOlJlcG9zaXRvcnkyNjA3MTM4MjA="

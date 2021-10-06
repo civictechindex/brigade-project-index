@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://cbm.code4sa.org"
 id = 47_106_932
+is_template = false
 language = "Python"
 name = "umibukela"
 node_id = "MDEwOlJlcG9zaXRvcnk0NzEwNjkzMg=="

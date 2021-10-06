@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 177_211_347
+is_template = false
 language = "JavaScript"
 name = "react-webapp-starters"
 node_id = "MDEwOlJlcG9zaXRvcnkxNzcyMTEzNDc="

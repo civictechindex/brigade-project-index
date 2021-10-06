@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://openup.org.za/african-scholarly-publishers"
 id = 124_043_121
+is_template = false
 language = "JavaScript"
 name = "african-scholarly-publishers"
 node_id = "MDEwOlJlcG9zaXRvcnkxMjQwNDMxMjE="

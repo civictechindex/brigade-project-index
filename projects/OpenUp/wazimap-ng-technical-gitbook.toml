@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 407_167_520
+is_template = false
 name = "wazimap-ng-technical-gitbook"
 node_id = "MDEwOlJlcG9zaXRvcnk0MDcxNjc1MjA="
 open_issues_within = 0

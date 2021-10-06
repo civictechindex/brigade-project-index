@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 92_394_192
+is_template = false
 name = "cross-project-banner"
 node_id = "MDEwOlJlcG9zaXRvcnk5MjM5NDE5Mg=="
 open_issues_within = 0

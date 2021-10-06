@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://geo.vulekamali.gov.za/"
 id = 228_632_544
+is_template = false
 language = "HTML"
 name = "wazimap-ng-ui"
 node_id = "MDEwOlJlcG9zaXRvcnkyMjg2MzI1NDQ="

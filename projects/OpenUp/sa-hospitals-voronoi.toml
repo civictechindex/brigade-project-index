@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 135_562_465
+is_template = false
 language = "JavaScript"
 name = "sa-hospitals-voronoi"
 node_id = "MDEwOlJlcG9zaXRvcnkxMzU1NjI0NjU="

@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = false
 homepage = ""
 id = 236_300_966
+is_template = false
 name = "docker-python-nodejs"
 node_id = "MDEwOlJlcG9zaXRvcnkyMzYzMDA5NjY="
 open_issues_within = 0

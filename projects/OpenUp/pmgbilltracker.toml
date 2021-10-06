@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 13_282_028
+is_template = false
 language = "Python"
 name = "pmgbilltracker"
 node_id = "MDEwOlJlcG9zaXRvcnkxMzI4MjAyOA=="

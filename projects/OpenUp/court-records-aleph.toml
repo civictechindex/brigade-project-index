@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 220_467_187
+is_template = false
 name = "court-records-aleph"
 node_id = "MDEwOlJlcG9zaXRvcnkyMjA0NjcxODc="
 open_issues_within = 0

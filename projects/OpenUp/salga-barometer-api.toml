@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 122_985_033
+is_template = false
 language = "Python"
 name = "salga-barometer-api"
 node_id = "MDEwOlJlcG9zaXRvcnkxMjI5ODUwMzM="

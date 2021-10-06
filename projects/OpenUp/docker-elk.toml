@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 142_863_948
+is_template = false
 language = "Dockerfile"
 name = "docker-elk"
 node_id = "MDEwOlJlcG9zaXRvcnkxNDI4NjM5NDg="

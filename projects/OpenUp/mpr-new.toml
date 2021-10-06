@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 202_543_910
+is_template = false
 language = "CSS"
 name = "mpr-new"
 node_id = "MDEwOlJlcG9zaXRvcnkyMDI1NDM5MTA="

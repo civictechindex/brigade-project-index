@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 29_305_197
+is_template = false
 name = "AgendaSetter"
 node_id = "MDEwOlJlcG9zaXRvcnkyOTMwNTE5Nw=="
 open_issues_within = 0

@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 147_177_818
+is_template = false
 language = "Python"
 name = "wazimap-health"
 node_id = "MDEwOlJlcG9zaXRvcnkxNDcxNzc4MTg="

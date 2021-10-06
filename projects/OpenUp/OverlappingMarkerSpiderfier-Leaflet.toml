@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://www.npmjs.com/package/overlapping-marker-spiderfier-leaflet"
 id = 389_898_765
+is_template = false
 language = "JavaScript"
 name = "OverlappingMarkerSpiderfier-Leaflet"
 node_id = "MDEwOlJlcG9zaXRvcnkzODk4OTg3NjU="

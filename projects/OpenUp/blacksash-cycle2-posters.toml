@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 40_926_115
+is_template = false
 language = "JavaScript"
 name = "blacksash-cycle2-posters"
 node_id = "MDEwOlJlcG9zaXRvcnk0MDkyNjExNQ=="

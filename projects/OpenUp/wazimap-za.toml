@@ -22,6 +22,7 @@ has_projects = false
 has_wiki = false
 homepage = "http://wazimap.co.za"
 id = 52_872_393
+is_template = false
 language = "Python"
 name = "wazimap-za"
 node_id = "MDEwOlJlcG9zaXRvcnk1Mjg3MjM5Mw=="

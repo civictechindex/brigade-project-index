@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 395_640_066
+is_template = false
 language = "Python"
 name = "municipal-structures-compliance"
 node_id = "MDEwOlJlcG9zaXRvcnkzOTU2NDAwNjY="

@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 299_561_797
+is_template = false
 language = "JavaScript"
 name = "import-webflow-export"
 node_id = "MDEwOlJlcG9zaXRvcnkyOTk1NjE3OTc="

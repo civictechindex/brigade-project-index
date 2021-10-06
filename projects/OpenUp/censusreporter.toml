@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 18_552_242
+is_template = false
 language = "SQLPL"
 name = "censusreporter"
 node_id = "MDEwOlJlcG9zaXRvcnkxODU1MjI0Mg=="

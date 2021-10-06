@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 168_175_342
+is_template = false
 language = "JavaScript"
 name = "explorer"
 node_id = "MDEwOlJlcG9zaXRvcnkxNjgxNzUzNDI="

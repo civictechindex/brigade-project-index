@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 282_193_415
+is_template = false
 language = "Python"
 name = "idp-data"
 node_id = "MDEwOlJlcG9zaXRvcnkyODIxOTM0MTU="

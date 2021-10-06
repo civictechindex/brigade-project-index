@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 341_160_612
+is_template = false
 language = "HTML"
 name = "sona-shell"
 node_id = "MDEwOlJlcG9zaXRvcnkzNDExNjA2MTI="

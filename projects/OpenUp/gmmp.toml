@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 31_223_006
+is_template = false
 language = "Python"
 name = "gmmp"
 node_id = "MDEwOlJlcG9zaXRvcnkzMTIyMzAwNg=="

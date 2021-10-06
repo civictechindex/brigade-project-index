@@ -18,6 +18,7 @@ has_pages = true
 has_projects = true
 has_wiki = true
 id = 253_514_575
+is_template = false
 language = "HTML"
 name = "osf-creative-storytelling"
 node_id = "MDEwOlJlcG9zaXRvcnkyNTM1MTQ1NzU="

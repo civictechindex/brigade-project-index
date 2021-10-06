@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 19_067_069
+is_template = false
 language = "JavaScript"
 name = "IEC-API-reader"
 node_id = "MDEwOlJlcG9zaXRvcnkxOTA2NzA2OQ=="

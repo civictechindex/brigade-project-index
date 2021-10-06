@@ -20,6 +20,7 @@ has_pages = true
 has_projects = true
 has_wiki = true
 id = 367_358_517
+is_template = false
 language = "HTML"
 name = "browser-device-info-collector"
 node_id = "MDEwOlJlcG9zaXRvcnkzNjczNTg1MTc="

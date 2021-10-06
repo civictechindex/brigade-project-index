@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 341_168_998
+is_template = false
 language = "Jupyter Notebook"
 name = "presidential-employment-stimulus"
 node_id = "MDEwOlJlcG9zaXRvcnkzNDExNjg5OTg="

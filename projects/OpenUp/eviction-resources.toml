@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://evictions.openup.org.za"
 id = 147_472_707
+is_template = false
 language = "JavaScript"
 name = "eviction-resources"
 node_id = "MDEwOlJlcG9zaXRvcnkxNDc0NzI3MDc="

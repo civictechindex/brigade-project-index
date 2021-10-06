@@ -20,6 +20,7 @@ has_pages = true
 has_projects = true
 has_wiki = false
 id = 56_606_788
+is_template = false
 language = "CSS"
 name = "babbage.ui"
 node_id = "MDEwOlJlcG9zaXRvcnk1NjYwNjc4OA=="

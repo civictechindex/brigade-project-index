@@ -23,6 +23,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://municipalmoney.gov.za/"
 id = 55_236_579
+is_template = false
 language = "JavaScript"
 name = "municipal-data"
 node_id = "MDEwOlJlcG9zaXRvcnk1NTIzNjU3OQ=="

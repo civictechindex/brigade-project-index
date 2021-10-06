@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://brand-assets.openup.org.za/"
 id = 53_413_556
+is_template = false
 name = "brand-assets"
 node_id = "MDEwOlJlcG9zaXRvcnk1MzQxMzU1Ng=="
 open_issues_within = 0

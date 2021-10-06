@@ -20,6 +20,7 @@ has_pages = true
 has_projects = true
 has_wiki = true
 id = 100_004_836
+is_template = false
 name = "minimum-wage"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDAwMDQ4MzY="
 open_issues_within = 0

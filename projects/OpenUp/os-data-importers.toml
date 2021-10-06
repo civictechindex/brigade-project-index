@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 135_409_989
+is_template = false
 language = "Python"
 name = "os-data-importers"
 node_id = "MDEwOlJlcG9zaXRvcnkxMzU0MDk5ODk="

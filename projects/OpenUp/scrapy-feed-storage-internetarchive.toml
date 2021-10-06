@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 275_440_671
+is_template = false
 language = "Python"
 name = "scrapy-feed-storage-internetarchive"
 node_id = "MDEwOlJlcG9zaXRvcnkyNzU0NDA2NzE="

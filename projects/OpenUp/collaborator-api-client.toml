@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 309_959_042
+is_template = false
 language = "Python"
 name = "collaborator-api-client"
 node_id = "MDEwOlJlcG9zaXRvcnkzMDk5NTkwNDI="

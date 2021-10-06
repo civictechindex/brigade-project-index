@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://hackdash.org"
 id = 341_249_473
+is_template = false
 language = "JavaScript"
 name = "hackdash"
 node_id = "MDEwOlJlcG9zaXRvcnkzNDEyNDk0NzM="

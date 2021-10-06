@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 107_664_651
+is_template = false
 language = "Shell"
 name = "scrape-cron"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDc2NjQ2NTE="

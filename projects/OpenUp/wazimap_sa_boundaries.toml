@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 218_030_153
+is_template = false
 language = "Python"
 name = "wazimap_sa_boundaries"
 node_id = "MDEwOlJlcG9zaXRvcnkyMTgwMzAxNTM="

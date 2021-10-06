@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 17_945_401
+is_template = false
 language = "JavaScript"
 name = "election-web"
 node_id = "MDEwOlJlcG9zaXRvcnkxNzk0NTQwMQ=="

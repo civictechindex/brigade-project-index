@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 93_042_651
+is_template = false
 language = "JavaScript"
 name = "contact-mps"
 node_id = "MDEwOlJlcG9zaXRvcnk5MzA0MjY1MQ=="

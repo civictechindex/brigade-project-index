@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://herana.code4sa.org"
 id = 37_849_245
+is_template = false
 language = "Python"
 name = "herana"
 node_id = "MDEwOlJlcG9zaXRvcnkzNzg0OTI0NQ=="

@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://ndp.code4sa.org"
 id = 43_944_472
+is_template = false
 language = "Python"
 name = "ndp"
 node_id = "MDEwOlJlcG9zaXRvcnk0Mzk0NDQ3Mg=="

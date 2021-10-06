@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 341_908_884
+is_template = false
 language = "Jupyter Notebook"
 name = "wazimap-adh-data"
 node_id = "MDEwOlJlcG9zaXRvcnkzNDE5MDg4ODQ="

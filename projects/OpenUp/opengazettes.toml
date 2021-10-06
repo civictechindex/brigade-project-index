@@ -22,6 +22,7 @@ has_projects = false
 has_wiki = false
 homepage = "http://opengazettes.org.za"
 id = 65_151_792
+is_template = false
 language = "HTML"
 name = "opengazettes"
 node_id = "MDEwOlJlcG9zaXRvcnk2NTE1MTc5Mg=="

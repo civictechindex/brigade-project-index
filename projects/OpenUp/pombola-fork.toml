@@ -22,6 +22,7 @@ has_projects = false
 has_wiki = false
 homepage = ""
 id = 50_497_158
+is_template = false
 language = "Python"
 name = "pombola-fork"
 node_id = "MDEwOlJlcG9zaXRvcnk1MDQ5NzE1OA=="

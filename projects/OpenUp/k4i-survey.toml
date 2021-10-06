@@ -20,6 +20,7 @@ has_pages = true
 has_projects = true
 has_wiki = true
 id = 274_056_885
+is_template = false
 language = "JavaScript"
 name = "k4i-survey"
 node_id = "MDEwOlJlcG9zaXRvcnkyNzQwNTY4ODU="

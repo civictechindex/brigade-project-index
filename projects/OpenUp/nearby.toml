@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://nearby.code4sa.org"
 id = 38_619_442
+is_template = false
 language = "Python"
 name = "nearby"
 node_id = "MDEwOlJlcG9zaXRvcnkzODYxOTQ0Mg=="

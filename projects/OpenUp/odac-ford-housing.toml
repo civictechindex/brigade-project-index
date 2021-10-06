@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 16_063_210
+is_template = false
 language = "Python"
 name = "odac-ford-housing"
 node_id = "MDEwOlJlcG9zaXRvcnkxNjA2MzIxMA=="

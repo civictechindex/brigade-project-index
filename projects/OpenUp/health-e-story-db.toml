@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 53_486_946
+is_template = false
 language = "PHP"
 name = "health-e-story-db"
 node_id = "MDEwOlJlcG9zaXRvcnk1MzQ4Njk0Ng=="

@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 221_944_138
+is_template = false
 language = "JavaScript"
 name = "d3-template"
 node_id = "MDEwOlJlcG9zaXRvcnkyMjE5NDQxMzg="

@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = false
 homepage = "http://blacksashposters.code4sa.org/"
 id = 33_714_942
+is_template = false
 language = "HTML"
 name = "blacksash-poster-website"
 node_id = "MDEwOlJlcG9zaXRvcnkzMzcxNDk0Mg=="

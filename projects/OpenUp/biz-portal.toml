@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 192_906_698
+is_template = false
 language = "Python"
 name = "biz-portal"
 node_id = "MDEwOlJlcG9zaXRvcnkxOTI5MDY2OTg="

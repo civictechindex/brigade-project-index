@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 125_191_611
+is_template = false
 language = "Python"
 name = "ckanext-discourse-sso"
 node_id = "MDEwOlJlcG9zaXRvcnkxMjUxOTE2MTE="

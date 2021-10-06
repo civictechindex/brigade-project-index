@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://idp.code4sa.org"
 id = 16_063_180
+is_template = false
 language = "JavaScript"
 name = "odac-idp"
 node_id = "MDEwOlJlcG9zaXRvcnkxNjA2MzE4MA=="

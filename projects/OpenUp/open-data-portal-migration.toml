@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 189_218_838
+is_template = false
 language = "Python"
 name = "open-data-portal-migration"
 node_id = "MDEwOlJlcG9zaXRvcnkxODkyMTg4Mzg="

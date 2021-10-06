@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 154_006_183
+is_template = false
 language = "JavaScript"
 name = "protest-guide"
 node_id = "MDEwOlJlcG9zaXRvcnkxNTQwMDYxODM="

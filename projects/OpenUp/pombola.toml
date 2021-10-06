@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://pa.org.za/"
 id = 237_227_445
+is_template = false
 language = "HTML"
 name = "pombola"
 node_id = "MDEwOlJlcG9zaXRvcnkyMzcyMjc0NDU="

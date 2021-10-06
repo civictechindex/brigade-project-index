@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 125_499_433
+is_template = false
 language = "Python"
 name = "ckanext-socialite"
 node_id = "MDEwOlJlcG9zaXRvcnkxMjU0OTk0MzM="

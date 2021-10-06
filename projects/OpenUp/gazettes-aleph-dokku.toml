@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 64_226_594
+is_template = false
 language = "Python"
 name = "gazettes-aleph-dokku"
 node_id = "MDEwOlJlcG9zaXRvcnk2NDIyNjU5NA=="

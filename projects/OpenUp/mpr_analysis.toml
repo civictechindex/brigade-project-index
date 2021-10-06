@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 91_677_559
+is_template = false
 language = "Jupyter Notebook"
 name = "mpr_analysis"
 node_id = "MDEwOlJlcG9zaXRvcnk5MTY3NzU1OQ=="

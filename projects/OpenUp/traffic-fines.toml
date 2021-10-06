@@ -20,6 +20,7 @@ has_pages = true
 has_projects = true
 has_wiki = true
 id = 136_345_153
+is_template = false
 language = "JavaScript"
 name = "traffic-fines"
 node_id = "MDEwOlJlcG9zaXRvcnkxMzYzNDUxNTM="

@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://viz.openup.org.za/"
 id = 351_343_273
+is_template = false
 language = "CSS"
 name = "OpenUp-data-viz"
 node_id = "MDEwOlJlcG9zaXRvcnkzNTEzNDMyNzM="

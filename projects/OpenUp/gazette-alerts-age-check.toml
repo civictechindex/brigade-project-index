@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 202_988_374
+is_template = false
 language = "Python"
 name = "gazette-alerts-age-check"
 node_id = "MDEwOlJlcG9zaXRvcnkyMDI5ODgzNzQ="

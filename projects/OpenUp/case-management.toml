@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 383_742_653
+is_template = false
 language = "TypeScript"
 name = "case-management"
 node_id = "MDEwOlJlcG9zaXRvcnkzODM3NDI2NTM="

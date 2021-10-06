@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 64_226_665
+is_template = false
 language = "Dockerfile"
 name = "gazettes-aleph-dokku-worker"
 node_id = "MDEwOlJlcG9zaXRvcnk2NDIyNjY2NQ=="

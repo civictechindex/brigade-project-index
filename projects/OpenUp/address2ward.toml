@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 14_919_958
+is_template = false
 language = "Python"
 name = "address2ward"
 node_id = "MDEwOlJlcG9zaXRvcnkxNDkxOTk1OA=="

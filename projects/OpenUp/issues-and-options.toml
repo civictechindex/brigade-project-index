@@ -29,6 +29,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://issues-and-options.pa.org.za/"
 id = 404_267_043
+is_template = false
 language = "JavaScript"
 name = "issues-and-options"
 node_id = "MDEwOlJlcG9zaXRvcnk0MDQyNjcwNDM="

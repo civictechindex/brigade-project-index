@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 85_988_223
+is_template = false
 language = "Python"
 name = "damlevels"
 node_id = "MDEwOlJlcG9zaXRvcnk4NTk4ODIyMw=="

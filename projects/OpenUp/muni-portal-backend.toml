@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 287_328_827
+is_template = false
 language = "Python"
 name = "muni-portal-backend"
 node_id = "MDEwOlJlcG9zaXRvcnkyODczMjg4Mjc="
