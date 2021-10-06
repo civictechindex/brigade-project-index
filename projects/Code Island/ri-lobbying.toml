@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 112_790_588
+is_template = false
 name = "ri-lobbying"
 node_id = "MDEwOlJlcG9zaXRvcnkxMTI3OTA1ODg="
 open_issues_within = 10

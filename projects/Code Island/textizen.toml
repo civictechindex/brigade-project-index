@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://www.textizen.com"
 id = 22_524_653
+is_template = false
 name = "textizen"
 node_id = "MDEwOlJlcG9zaXRvcnkyMjUyNDY1Mw=="
 open_issues_within = 0

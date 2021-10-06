@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 33_486_531
+is_template = false
 language = "JavaScript"
 name = "neighborhoods"
 node_id = "MDEwOlJlcG9zaXRvcnkzMzQ4NjUzMQ=="

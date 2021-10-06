@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 28_115_092
+is_template = false
 name = "ReclaimRI"
 node_id = "MDEwOlJlcG9zaXRvcnkyODExNTA5Mg=="
 open_issues_within = 10

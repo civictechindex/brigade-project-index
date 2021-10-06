@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 26_839_699
+is_template = false
 language = "Ruby"
 name = "Google-Trekker"
 node_id = "MDEwOlJlcG9zaXRvcnkyNjgzOTY5OQ=="

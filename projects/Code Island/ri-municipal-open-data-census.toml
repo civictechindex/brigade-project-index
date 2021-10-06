@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 54_483_669
+is_template = false
 name = "ri-municipal-open-data-census"
 node_id = "MDEwOlJlcG9zaXRvcnk1NDQ4MzY2OQ=="
 open_issues_within = 10

@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://codeforamerica.org/apps/balance"
 id = 29_554_775
+is_template = false
 language = "Ruby"
 name = "balance"
 node_id = "MDEwOlJlcG9zaXRvcnkyOTU1NDc3NQ=="

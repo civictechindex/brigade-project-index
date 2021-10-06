@@ -20,6 +20,7 @@ has_pages = true
 has_projects = true
 has_wiki = true
 id = 24_600_373
+is_template = false
 language = "HTML"
 name = "codeisland.github.io"
 node_id = "MDEwOlJlcG9zaXRvcnkyNDYwMDM3Mw=="

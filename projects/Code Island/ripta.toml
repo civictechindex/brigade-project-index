@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 24_997_594
+is_template = false
 name = "ripta"
 node_id = "MDEwOlJlcG9zaXRvcnkyNDk5NzU5NA=="
 open_issues_within = 10

@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://codeforamerica.org/apps/recordtrac/"
 id = 33_514_540
+is_template = false
 language = "JavaScript"
 name = "recordtrac"
 node_id = "MDEwOlJlcG9zaXRvcnkzMzUxNDU0MA=="

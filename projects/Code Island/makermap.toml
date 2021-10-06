@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 37_019_194
+is_template = false
 language = "JavaScript"
 name = "makermap"
 node_id = "MDEwOlJlcG9zaXRvcnkzNzAxOTE5NA=="

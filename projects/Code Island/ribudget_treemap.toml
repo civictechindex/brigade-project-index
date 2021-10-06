@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 24_073_541
+is_template = false
 name = "ribudget_treemap"
 node_id = "MDEwOlJlcG9zaXRvcnkyNDA3MzU0MQ=="
 open_issues_within = 10
