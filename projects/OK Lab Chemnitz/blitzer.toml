@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = false
 id = 34_078_386
+is_template = false
 language = "Python"
 name = "blitzer"
 node_id = "MDEwOlJlcG9zaXRvcnkzNDA3ODM4Ng=="

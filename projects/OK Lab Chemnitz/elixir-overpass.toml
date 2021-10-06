@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://codeforchemnitz.de/elixir-overpass/doc/"
 id = 45_634_212
+is_template = false
 language = "Elixir"
 name = "elixir-overpass"
 node_id = "MDEwOlJlcG9zaXRvcnk0NTYzNDIxMg=="

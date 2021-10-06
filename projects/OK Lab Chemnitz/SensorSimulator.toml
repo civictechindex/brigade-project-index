@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 45_641_586
+is_template = false
 language = "JavaScript"
 name = "SensorSimulator"
 node_id = "MDEwOlJlcG9zaXRvcnk0NTY0MTU4Ng=="

@@ -23,6 +23,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://spiele.codeforchemnitz.de"
 id = 96_261_926
+is_template = false
 language = "TypeScript"
 name = "chemnitzgeek-react"
 node_id = "MDEwOlJlcG9zaXRvcnk5NjI2MTkyNg=="

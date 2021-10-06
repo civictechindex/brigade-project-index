@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://theaterwecker.de"
 id = 111_122_344
+is_template = false
 language = "JavaScript"
 name = "TheaterWecker-App"
 node_id = "MDEwOlJlcG9zaXRvcnkxMTExMjIzNDQ="

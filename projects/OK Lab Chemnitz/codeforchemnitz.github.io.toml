@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://codeforchemnitz.de"
 id = 18_649_334
+is_template = false
 language = "HTML"
 name = "codeforchemnitz.github.io"
 node_id = "MDEwOlJlcG9zaXRvcnkxODY0OTMzNA=="

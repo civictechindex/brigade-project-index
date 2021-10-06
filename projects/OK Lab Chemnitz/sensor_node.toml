@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://codeforchemnitz.de/projects/sensor/"
 id = 50_203_090
+is_template = false
 language = "C++"
 name = "sensor_node"
 node_id = "MDEwOlJlcG9zaXRvcnk1MDIwMzA5MA=="

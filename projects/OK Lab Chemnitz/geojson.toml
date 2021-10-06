@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = false
 id = 27_891_654
+is_template = false
 name = "geojson"
 node_id = "MDEwOlJlcG9zaXRvcnkyNzg5MTY1NA=="
 open_issues_within = 10

@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = false
 id = 20_223_895
+is_template = false
 language = "Python"
 name = "scrape-a-ris"
 node_id = "MDEwOlJlcG9zaXRvcnkyMDIyMzg5NQ=="

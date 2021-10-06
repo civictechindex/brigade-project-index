@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 50_202_734
+is_template = false
 language = "C++"
 name = "sensor_node-module-esp8266"
 node_id = "MDEwOlJlcG9zaXRvcnk1MDIwMjczNA=="

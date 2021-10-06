@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 39_216_802
+is_template = false
 language = "Python"
 name = "SensorAPI"
 node_id = "MDEwOlJlcG9zaXRvcnkzOTIxNjgwMg=="
