@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 108_063_528
+is_template = false
 language = "JavaScript"
 name = "Alexa_NavO"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDgwNjM1Mjg="

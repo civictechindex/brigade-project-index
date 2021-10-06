@@ -23,6 +23,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://kaineemails.code4hr.org/"
 id = 64_889_798
+is_template = false
 language = "PHP"
 name = "Governors-Emails"
 node_id = "MDEwOlJlcG9zaXRvcnk2NDg4OTc5OA=="

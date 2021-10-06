@@ -19,6 +19,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 25_375_092
+is_template = false
 name = "vb-incidents-app"
 node_id = "MDEwOlJlcG9zaXRvcnkyNTM3NTA5Mg=="
 open_issues_within = 0

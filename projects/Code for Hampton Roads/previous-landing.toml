@@ -23,6 +23,7 @@ has_projects = true
 has_wiki = false
 homepage = "http://previous.code4hr.org"
 id = 7_142_548
+is_template = false
 language = "JavaScript"
 name = "previous-landing"
 node_id = "MDEwOlJlcG9zaXRvcnk3MTQyNTQ4"

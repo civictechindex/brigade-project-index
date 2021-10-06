@@ -21,6 +21,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 21_221_579
+is_template = false
 name = "open-inspection-legal-code"
 node_id = "MDEwOlJlcG9zaXRvcnkyMTIyMTU3OQ=="
 open_issues_within = 0

@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 105_372_461
+is_template = false
 language = "JavaScript"
 name = "NN-Police-Socrata"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDUzNzI0NjE="

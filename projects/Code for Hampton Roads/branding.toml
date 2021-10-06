@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 30_514_226
+is_template = false
 name = "branding"
 node_id = "MDEwOlJlcG9zaXRvcnkzMDUxNDIyNg=="
 open_issues_within = 10

@@ -21,6 +21,7 @@ has_pages = true
 has_projects = true
 has_wiki = false
 id = 10_852_338
+is_template = false
 name = "ctbd-landing-page"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDg1MjMzOA=="
 open_issues_within = 0

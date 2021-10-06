@@ -23,6 +23,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://c4hrva.github.io/CutiesInHamptonRoads/"
 id = 21_713_320
+is_template = false
 language = "Ruby"
 name = "CutiesInHamptonRoads"
 node_id = "MDEwOlJlcG9zaXRvcnkyMTcxMzMyMA=="

@@ -19,6 +19,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 82_121_748
+is_template = false
 language = "Java"
 name = "okcandidate-android"
 node_id = "MDEwOlJlcG9zaXRvcnk4MjEyMTc0OA=="

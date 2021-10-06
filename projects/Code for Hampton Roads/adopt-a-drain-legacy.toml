@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 107_473_268
+is_template = false
 language = "Ruby"
 name = "adopt-a-drain-legacy"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDc0NzMyNjg="

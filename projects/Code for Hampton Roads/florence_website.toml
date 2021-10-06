@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://florenceresponse.org"
 id = 149_528_860
+is_template = false
 language = "CSS"
 name = "florence_website"
 node_id = "MDEwOlJlcG9zaXRvcnkxNDk1Mjg4NjA="

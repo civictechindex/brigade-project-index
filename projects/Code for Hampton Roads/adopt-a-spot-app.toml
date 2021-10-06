@@ -19,6 +19,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 44_878_647
+is_template = false
 language = "Objective-C"
 name = "adopt-a-spot-app"
 node_id = "MDEwOlJlcG9zaXRvcnk0NDg3ODY0Nw=="

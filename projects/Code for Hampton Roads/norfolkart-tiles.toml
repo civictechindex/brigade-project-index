@@ -21,6 +21,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 22_701_466
+is_template = false
 name = "norfolkart-tiles"
 node_id = "MDEwOlJlcG9zaXRvcnkyMjcwMTQ2Ng=="
 open_issues_within = 10

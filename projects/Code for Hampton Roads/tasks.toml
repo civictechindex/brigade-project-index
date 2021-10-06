@@ -23,6 +23,7 @@ has_projects = true
 has_wiki = false
 homepage = "http://tasks.code4hr.org"
 id = 10_552_146
+is_template = false
 name = "tasks"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDU1MjE0Ng=="
 open_issues_within = 10

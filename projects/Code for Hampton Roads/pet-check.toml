@@ -23,6 +23,7 @@ has_projects = true
 has_wiki = false
 homepage = "http://pets.c4hrva.us"
 id = 11_963_185
+is_template = false
 language = "JavaScript"
 name = "pet-check"
 node_id = "MDEwOlJlcG9zaXRvcnkxMTk2MzE4NQ=="

@@ -23,6 +23,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://code4hr.github.io/norfolk-flood-maps/"
 id = 19_330_160
+is_template = false
 language = "JavaScript"
 name = "norfolk-flood-maps"
 node_id = "MDEwOlJlcG9zaXRvcnkxOTMzMDE2MA=="

@@ -21,6 +21,7 @@ has_pages = true
 has_projects = true
 has_wiki = true
 id = 12_349_403
+is_template = false
 name = "brigade-homepage-template"
 node_id = "MDEwOlJlcG9zaXRvcnkxMjM0OTQwMw=="
 open_issues_within = 10

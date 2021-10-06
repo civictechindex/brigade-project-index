@@ -21,6 +21,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 20_840_315
+is_template = false
 name = "data-driven-landing-page"
 node_id = "MDEwOlJlcG9zaXRvcnkyMDg0MDMxNQ=="
 open_issues_within = 0

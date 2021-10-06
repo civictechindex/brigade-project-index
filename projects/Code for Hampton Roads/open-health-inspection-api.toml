@@ -23,6 +23,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://ohi-api.code4hr.org"
 id = 17_920_903
+is_template = false
 language = "Python"
 name = "open-health-inspection-api"
 node_id = "MDEwOlJlcG9zaXRvcnkxNzkyMDkwMw=="

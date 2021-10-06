@@ -19,6 +19,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 83_615_076
+is_template = false
 language = "Jupyter Notebook"
 name = "open-health-inspection-analysis"
 node_id = "MDEwOlJlcG9zaXRvcnk4MzYxNTA3Ng=="

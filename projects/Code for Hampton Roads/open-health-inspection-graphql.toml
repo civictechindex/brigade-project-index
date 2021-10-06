@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 92_556_153
+is_template = false
 language = "TypeScript"
 name = "open-health-inspection-graphql"
 node_id = "MDEwOlJlcG9zaXRvcnk5MjU1NjE1Mw=="

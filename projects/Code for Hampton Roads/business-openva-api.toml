@@ -23,6 +23,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://api.vabusinesses.org/"
 id = 25_788_253
+is_template = false
 language = "HTML"
 name = "business-openva-api"
 node_id = "MDEwOlJlcG9zaXRvcnkyNTc4ODI1Mw=="

@@ -23,6 +23,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://okcandidate-dev.herokuapp.com/"
 id = 73_110_480
+is_template = false
 language = "JavaScript"
 name = "okcandidate-platform"
 node_id = "MDEwOlJlcG9zaXRvcnk3MzExMDQ4MA=="

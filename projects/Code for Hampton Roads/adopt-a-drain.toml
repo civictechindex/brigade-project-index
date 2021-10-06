@@ -31,6 +31,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://norfolkdrains.code4hr.org"
 id = 107_474_328
+is_template = false
 language = "Ruby"
 name = "adopt-a-drain"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDc0NzQzMjg="

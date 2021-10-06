@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 24_772_065
+is_template = false
 language = "JavaScript"
 name = "open-health-inspection-tweet-collector"
 node_id = "MDEwOlJlcG9zaXRvcnkyNDc3MjA2NQ=="

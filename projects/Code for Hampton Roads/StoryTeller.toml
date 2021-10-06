@@ -21,6 +21,7 @@ has_pages = true
 has_projects = true
 has_wiki = true
 id = 23_029_081
+is_template = false
 language = "CSS"
 name = "StoryTeller"
 node_id = "MDEwOlJlcG9zaXRvcnkyMzAyOTA4MQ=="

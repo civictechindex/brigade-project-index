@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://code4hr.github.io/proposed-voting-districts"
 id = 43_092_675
+is_template = false
 language = "HTML"
 name = "proposed-voting-districts"
 node_id = "MDEwOlJlcG9zaXRvcnk0MzA5MjY3NQ=="

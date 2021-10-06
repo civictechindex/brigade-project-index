@@ -23,6 +23,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://okcandidate.code4hr.org"
 id = 51_038_900
+is_template = false
 language = "JavaScript"
 name = "okcandidate-v1"
 node_id = "MDEwOlJlcG9zaXRvcnk1MTAzODkwMA=="

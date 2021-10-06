@@ -23,6 +23,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://gisapp1.norfolk.gov/TidalFLUX/home.aspx"
 id = 20_356_794
+is_template = false
 language = "Visual Basic"
 name = "titan"
 node_id = "MDEwOlJlcG9zaXRvcnkyMDM1Njc5NA=="

@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "theplotnfk.com"
 id = 21_889_955
+is_template = false
 language = "JavaScript"
 name = "the-plot"
 node_id = "MDEwOlJlcG9zaXRvcnkyMTg4OTk1NQ=="
