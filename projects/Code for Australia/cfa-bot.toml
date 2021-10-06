@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 92_473_949
+is_template = false
 language = "CoffeeScript"
 name = "cfa-bot"
 node_id = "MDEwOlJlcG9zaXRvcnk5MjQ3Mzk0OQ=="

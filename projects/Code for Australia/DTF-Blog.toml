@@ -20,6 +20,7 @@ has_pages = true
 has_projects = true
 has_wiki = true
 id = 65_183_587
+is_template = false
 name = "DTF-Blog"
 node_id = "MDEwOlJlcG9zaXRvcnk2NTE4MzU4Nw=="
 open_issues_within = 0

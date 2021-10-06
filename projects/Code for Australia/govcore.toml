@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 159_279_317
+is_template = false
 language = "Vue"
 name = "govcore"
 node_id = "MDEwOlJlcG9zaXRvcnkxNTkyNzkzMTc="

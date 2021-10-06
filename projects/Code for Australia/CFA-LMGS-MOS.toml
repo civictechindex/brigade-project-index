@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://codeforaustralia.github.io/CFA-LMGS-MOS/index.html"
 id = 159_110_274
+is_template = false
 language = "JavaScript"
 name = "CFA-LMGS-MOS"
 node_id = "MDEwOlJlcG9zaXRvcnkxNTkxMTAyNzQ="

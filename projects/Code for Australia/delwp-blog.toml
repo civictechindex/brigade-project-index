@@ -20,6 +20,7 @@ has_pages = true
 has_projects = true
 has_wiki = true
 id = 58_909_648
+is_template = false
 name = "delwp-blog"
 node_id = "MDEwOlJlcG9zaXRvcnk1ODkwOTY0OA=="
 open_issues_within = 0

@@ -31,6 +31,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://youshare.net.au"
 id = 122_409_728
+is_template = false
 language = "JavaScript"
 name = "brimbank-youth"
 node_id = "MDEwOlJlcG9zaXRvcnkxMjI0MDk3Mjg="

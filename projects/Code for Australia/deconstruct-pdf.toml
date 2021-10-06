@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 99_767_046
+is_template = false
 language = "Shell"
 name = "deconstruct-pdf"
 node_id = "MDEwOlJlcG9zaXRvcnk5OTc2NzA0Ng=="

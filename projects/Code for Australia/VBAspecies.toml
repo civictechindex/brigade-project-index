@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://vba.dse.vic.gov.au/"
 id = 70_875_272
+is_template = false
 language = "JavaScript"
 name = "VBAspecies"
 node_id = "MDEwOlJlcG9zaXRvcnk3MDg3NTI3Mg=="

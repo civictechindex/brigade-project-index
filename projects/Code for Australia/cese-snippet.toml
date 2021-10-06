@@ -23,6 +23,7 @@ has_projects = true
 has_wiki = false
 homepage = "https://nsw-education-snippet.firebaseapp.com/"
 id = 121_188_738
+is_template = false
 language = "JavaScript"
 name = "cese-snippet"
 node_id = "MDEwOlJlcG9zaXRvcnkxMjExODg3Mzg="

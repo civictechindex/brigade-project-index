@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = false
 homepage = "http://codeforhamptonroads.org"
 id = 17_940_579
+is_template = false
 language = "JavaScript"
 name = "Brigade-Bootstrap-2"
 node_id = "MDEwOlJlcG9zaXRvcnkxNzk0MDU3OQ=="

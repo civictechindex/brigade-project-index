@@ -20,6 +20,7 @@ has_pages = true
 has_projects = true
 has_wiki = true
 id = 67_554_846
+is_template = false
 language = "JavaScript"
 name = "CSR-Genesis"
 node_id = "MDEwOlJlcG9zaXRvcnk2NzU1NDg0Ng=="

@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 114_698_583
+is_template = false
 name = "fellowship_brain"
 node_id = "MDEwOlJlcG9zaXRvcnkxMTQ2OTg1ODM="
 open_issues_within = 10

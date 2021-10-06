@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 119_775_646
+is_template = false
 language = "C#"
 name = "Vrec-be"
 node_id = "MDEwOlJlcG9zaXRvcnkxMTk3NzU2NDY="

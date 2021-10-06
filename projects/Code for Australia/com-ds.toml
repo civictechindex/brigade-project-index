@@ -18,6 +18,7 @@ has_pages = true
 has_projects = true
 has_wiki = true
 id = 147_444_227
+is_template = false
 language = "CSS"
 name = "com-ds"
 node_id = "MDEwOlJlcG9zaXRvcnkxNDc0NDQyMjc="

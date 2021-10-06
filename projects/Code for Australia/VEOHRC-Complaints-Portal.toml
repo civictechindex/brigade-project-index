@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 154_415_121
+is_template = false
 language = "JavaScript"
 name = "VEOHRC-Complaints-Portal"
 node_id = "MDEwOlJlcG9zaXRvcnkxNTQ0MTUxMjE="

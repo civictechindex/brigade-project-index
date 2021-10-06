@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 68_556_406
+is_template = false
 language = "JavaScript"
 name = "dtf-genesis"
 node_id = "MDEwOlJlcG9zaXRvcnk2ODU1NjQwNg=="

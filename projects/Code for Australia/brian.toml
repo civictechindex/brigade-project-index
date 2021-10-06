@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 104_440_572
+is_template = false
 language = "PHP"
 name = "brian"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDQ0NDA1NzI="

@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 101_956_523
+is_template = false
 language = "PHP"
 name = "vhs"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDE5NTY1MjM="

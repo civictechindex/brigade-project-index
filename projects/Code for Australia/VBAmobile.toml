@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 68_784_680
+is_template = false
 language = "JavaScript"
 name = "VBAmobile"
 node_id = "MDEwOlJlcG9zaXRvcnk2ODc4NDY4MA=="
