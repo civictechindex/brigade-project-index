@@ -23,6 +23,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://tocityhall-webapp-staging.herokuapp.com/browser/www"
 id = 35_777_679
+is_template = false
 language = "JavaScript"
 name = "tocityhall-app"
 network_count = 4
@@ -71,6 +72,7 @@ watchers_within = 0
   has_wiki = true
   homepage = ""
   id = 31_681_868
+  is_template = false
   language = "JavaScript"
   name = "toronto-city-hall"
   node_id = "MDEwOlJlcG9zaXRvcnkzMTY4MTg2OA=="
@@ -115,6 +117,7 @@ watchers_within = 0
   has_wiki = true
   homepage = ""
   id = 31_681_868
+  is_template = false
   language = "JavaScript"
   name = "toronto-city-hall"
   node_id = "MDEwOlJlcG9zaXRvcnkzMTY4MTg2OA=="

@@ -23,6 +23,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://civictechto.herokuapp.com"
 id = 50_342_108
+is_template = false
 language = "CSS"
 name = "civictechto-jekyll"
 network_count = 0

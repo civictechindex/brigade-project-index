@@ -21,6 +21,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 47_660_451
+is_template = false
 language = "Python"
 name = "open-cabinet"
 network_count = 2
