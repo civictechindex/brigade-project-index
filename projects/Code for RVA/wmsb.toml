@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 17_514_412
+is_template = false
 language = "Ruby"
 name = "wmsb"
 node_id = "MDEwOlJlcG9zaXRvcnkxNzUxNDQxMg=="

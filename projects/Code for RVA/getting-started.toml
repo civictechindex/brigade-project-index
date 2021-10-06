@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 18_120_326
+is_template = false
 name = "getting-started"
 node_id = "MDEwOlJlcG9zaXRvcnkxODEyMDMyNg=="
 open_issues_within = 0

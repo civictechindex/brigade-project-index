@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 33_730_871
+is_template = false
 name = "publicspeaker"
 node_id = "MDEwOlJlcG9zaXRvcnkzMzczMDg3MQ=="
 open_issues_within = 0

@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 37_732_224
+is_template = false
 language = "PowerShell"
 name = "sti_sms"
 node_id = "MDEwOlJlcG9zaXRvcnkzNzczMjIyNA=="

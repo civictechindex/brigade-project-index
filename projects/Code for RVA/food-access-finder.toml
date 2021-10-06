@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 45_874_677
+is_template = false
 language = "CSS"
 name = "food-access-finder"
 node_id = "MDEwOlJlcG9zaXRvcnk0NTg3NDY3Nw=="

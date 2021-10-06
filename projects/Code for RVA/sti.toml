@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 31_130_145
+is_template = false
 language = "HTML"
 name = "sti"
 node_id = "MDEwOlJlcG9zaXRvcnkzMTEzMDE0NQ=="

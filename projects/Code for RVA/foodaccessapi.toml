@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 56_401_407
+is_template = false
 language = "CoffeeScript"
 name = "foodaccessapi"
 node_id = "MDEwOlJlcG9zaXRvcnk1NjQwMTQwNw=="

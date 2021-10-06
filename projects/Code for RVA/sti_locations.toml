@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 38_986_649
+is_template = false
 language = "JavaScript"
 name = "sti_locations"
 node_id = "MDEwOlJlcG9zaXRvcnkzODk4NjY0OQ=="

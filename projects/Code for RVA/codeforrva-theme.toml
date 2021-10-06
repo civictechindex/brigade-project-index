@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 35_915_226
+is_template = false
 language = "PHP"
 name = "codeforrva-theme"
 node_id = "MDEwOlJlcG9zaXRvcnkzNTkxNTIyNg=="

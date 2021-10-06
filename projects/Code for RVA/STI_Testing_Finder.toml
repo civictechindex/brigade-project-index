@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 31_130_331
+is_template = false
 language = "Objective-C"
 name = "STI_Testing_Finder"
 node_id = "MDEwOlJlcG9zaXRvcnkzMTEzMDMzMQ=="

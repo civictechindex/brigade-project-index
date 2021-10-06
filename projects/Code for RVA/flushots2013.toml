@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 28_250_197
+is_template = false
 language = "JavaScript"
 name = "flushots2013"
 node_id = "MDEwOlJlcG9zaXRvcnkyODI1MDE5Nw=="
