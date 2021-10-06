@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://github.com/codeforamerica/awesome-civic"
 id = 41_691_320
+is_template = false
 name = "awesome-civic"
 node_id = "MDEwOlJlcG9zaXRvcnk0MTY5MTMyMA=="
 open_issues_within = 10

@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 54_371_266
+is_template = false
 language = "Python"
 name = "HawaiiBudgetWorksheets"
 node_id = "MDEwOlJlcG9zaXRvcnk1NDM3MTI2Ng=="

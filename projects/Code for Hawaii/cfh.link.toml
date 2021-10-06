@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://cfh.link"
 id = 46_086_097
+is_template = false
 language = "PHP"
 name = "cfh.link"
 node_id = "MDEwOlJlcG9zaXRvcnk0NjA4NjA5Nw=="

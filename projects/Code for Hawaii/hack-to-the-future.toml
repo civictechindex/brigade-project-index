@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 20_350_415
+is_template = false
 name = "hack-to-the-future"
 node_id = "MDEwOlJlcG9zaXRvcnkyMDM1MDQxNQ=="
 open_issues_within = 0

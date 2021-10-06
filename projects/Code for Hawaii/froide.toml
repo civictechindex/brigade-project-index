@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 41_870_340
+is_template = false
 language = "Python"
 name = "froide"
 node_id = "MDEwOlJlcG9zaXRvcnk0MTg3MDM0MA=="

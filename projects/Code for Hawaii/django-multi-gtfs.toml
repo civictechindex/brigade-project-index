@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://tulsawebdevs.org/"
 id = 75_654_961
+is_template = false
 language = "Python"
 name = "django-multi-gtfs"
 node_id = "MDEwOlJlcG9zaXRvcnk3NTY1NDk2MQ=="

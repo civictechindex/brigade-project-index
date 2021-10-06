@@ -18,6 +18,7 @@ has_pages = true
 has_projects = true
 has_wiki = true
 id = 54_078_025
+is_template = false
 language = "CSS"
 name = "HawaiiBudgetExpenditures"
 node_id = "MDEwOlJlcG9zaXRvcnk1NDA3ODAyNQ=="

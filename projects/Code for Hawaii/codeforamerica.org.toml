@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://www.codeforamerica.org"
 id = 39_101_991
+is_template = false
 language = "HTML"
 name = "codeforamerica.org"
 node_id = "MDEwOlJlcG9zaXRvcnkzOTEwMTk5MQ=="

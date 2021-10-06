@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 36_111_752
+is_template = false
 language = "C++"
 name = "carma"
 node_id = "MDEwOlJlcG9zaXRvcnkzNjExMTc1Mg=="

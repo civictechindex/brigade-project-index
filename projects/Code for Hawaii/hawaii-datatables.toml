@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://data.codeforhawaii.org"
 id = 42_606_633
+is_template = false
 language = "HTML"
 name = "hawaii-datatables"
 node_id = "MDEwOlJlcG9zaXRvcnk0MjYwNjYzMw=="

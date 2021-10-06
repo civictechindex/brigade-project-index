@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://cfabrigadephiladelphia.github.io/cyclephilly-maps/"
 id = 36_996_173
+is_template = false
 language = "HTML"
 name = "cyclehawaii-maps"
 node_id = "MDEwOlJlcG9zaXRvcnkzNjk5NjE3Mw=="

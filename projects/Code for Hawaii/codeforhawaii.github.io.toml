@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://codeforhawaii.org"
 id = 34_282_837
+is_template = false
 language = "HTML"
 name = "codeforhawaii.github.io"
 node_id = "MDEwOlJlcG9zaXRvcnkzNDI4MjgzNw=="
