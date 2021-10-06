@@ -22,6 +22,7 @@ has_projects = false
 has_wiki = true
 homepage = "http://c4gnv.github.io"
 id = 57_006_937
+is_template = false
 language = "HTML"
 name = "c4gnv.github.io"
 node_id = "MDEwOlJlcG9zaXRvcnk1NzAwNjkzNw=="

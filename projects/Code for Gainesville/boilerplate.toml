@@ -20,6 +20,7 @@ has_pages = false
 has_projects = false
 has_wiki = true
 id = 78_063_878
+is_template = false
 name = "boilerplate"
 node_id = "MDEwOlJlcG9zaXRvcnk3ODA2Mzg3OA=="
 open_issues_within = 0

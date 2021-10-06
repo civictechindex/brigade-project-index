@@ -21,6 +21,7 @@ has_projects = false
 has_wiki = false
 homepage = ""
 id = 92_767_136
+is_template = false
 language = "Kotlin"
 name = "things-android"
 node_id = "MDEwOlJlcG9zaXRvcnk5Mjc2NzEzNg=="

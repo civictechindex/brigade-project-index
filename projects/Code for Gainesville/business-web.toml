@@ -22,6 +22,7 @@ has_projects = false
 has_wiki = true
 homepage = "http://bdev.c4gnv.com.s3-website-us-east-1.amazonaws.com/"
 id = 62_973_851
+is_template = false
 language = "HTML"
 name = "business-web"
 node_id = "MDEwOlJlcG9zaXRvcnk2Mjk3Mzg1MQ=="

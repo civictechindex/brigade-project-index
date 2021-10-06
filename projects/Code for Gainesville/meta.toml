@@ -20,6 +20,7 @@ has_pages = false
 has_projects = false
 has_wiki = true
 id = 104_590_470
+is_template = false
 name = "meta"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDQ1OTA0NzA="
 open_issues_within = 100
