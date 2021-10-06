@@ -23,6 +23,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://cerp-code-foco.herokuapp.com/"
 id = 88_220_962
+is_template = false
 language = "Python"
 name = "CERP-backend"
 node_id = "MDEwOlJlcG9zaXRvcnk4ODIyMDk2Mg=="

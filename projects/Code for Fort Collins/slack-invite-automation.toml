@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 57_396_561
+is_template = false
 language = "JavaScript"
 name = "slack-invite-automation"
 node_id = "MDEwOlJlcG9zaXRvcnk1NzM5NjU2MQ=="

@@ -23,6 +23,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://cerp-code-foco.herokuapp.com/"
 id = 108_481_604
+is_template = false
 language = "JavaScript"
 name = "CERP-webview"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDg0ODE2MDQ="

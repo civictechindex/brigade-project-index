@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 67_175_448
+is_template = false
 language = "PHP"
 name = "bike-coop-plugin"
 node_id = "MDEwOlJlcG9zaXRvcnk2NzE3NTQ0OA=="

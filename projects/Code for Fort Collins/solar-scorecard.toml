@@ -23,6 +23,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://solar-scorecard.org/"
 id = 91_040_189
+is_template = false
 language = "JavaScript"
 name = "solar-scorecard"
 node_id = "MDEwOlJlcG9zaXRvcnk5MTA0MDE4OQ=="

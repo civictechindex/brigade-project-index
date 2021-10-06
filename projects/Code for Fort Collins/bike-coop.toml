@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 65_509_745
+is_template = false
 language = "Nginx"
 name = "bike-coop"
 node_id = "MDEwOlJlcG9zaXRvcnk2NTUwOTc0NQ=="

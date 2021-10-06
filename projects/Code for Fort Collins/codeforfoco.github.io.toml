@@ -29,6 +29,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://codeforfoco.org"
 id = 56_078_845
+is_template = false
 language = "HTML"
 name = "codeforfoco.github.io"
 node_id = "MDEwOlJlcG9zaXRvcnk1NjA3ODg0NQ=="
