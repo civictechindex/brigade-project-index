@@ -18,6 +18,7 @@ has_pages = false
 has_projects = false
 has_wiki = false
 id = 240_043_893
+is_template = false
 language = "JavaScript"
 name = "federalist-proxy-edge"
 node_id = "MDEwOlJlcG9zaXRvcnkyNDAwNDM4OTM="

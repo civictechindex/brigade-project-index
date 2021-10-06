@@ -29,6 +29,7 @@ has_projects = true
 has_wiki = false
 homepage = "https://analytics.usa.gov"
 id = 28_643_936
+is_template = false
 language = "SCSS"
 name = "analytics.usa.gov"
 node_id = "MDEwOlJlcG9zaXRvcnkyODY0MzkzNg=="

@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 267_115_204
+is_template = false
 language = "CSS"
 name = "federalist-jekyll-uswds-18f-port"
 node_id = "MDEwOlJlcG9zaXRvcnkyNjcxMTUyMDQ="

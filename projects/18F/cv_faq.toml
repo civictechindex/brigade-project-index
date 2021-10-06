@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://faq.coronavirus.gov"
 id = 247_704_958
+is_template = false
 language = "Python"
 name = "cv_faq"
 node_id = "MDEwOlJlcG9zaXRvcnkyNDc3MDQ5NTg="

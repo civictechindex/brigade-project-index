@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 305_438_071
+is_template = false
 language = "JavaScript"
 name = "piipan"
 node_id = "MDEwOlJlcG9zaXRvcnkzMDU0MzgwNzE="

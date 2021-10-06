@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 344_609_570
+is_template = true
 language = "JavaScript"
 name = "federalist-uswds-11ty"
 node_id = "MDEwOlJlcG9zaXRvcnkzNDQ2MDk1NzA="

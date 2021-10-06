@@ -22,6 +22,7 @@ has_projects = false
 has_wiki = false
 homepage = "https://handbook.tts.gsa.gov/office-of-solutions/tech-portfolio/"
 id = 196_464_495
+is_template = false
 language = "JavaScript"
 name = "tts-tech-portfolio"
 node_id = "MDEwOlJlcG9zaXRvcnkxOTY0NjQ0OTU="

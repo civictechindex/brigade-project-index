@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://github.com/18F/API-All-the-X/tree/master/pages"
 id = 17_753_136
+is_template = false
 language = "CSS"
 name = "API-All-the-X"
 node_id = "MDEwOlJlcG9zaXRvcnkxNzc1MzEzNg=="

@@ -20,6 +20,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://derisking-guide.18f.gov/"
 id = 265_308_572
+is_template = false
 language = "SCSS"
 name = "derisking-gov-tech"
 node_id = "MDEwOlJlcG9zaXRvcnkyNjUzMDg1NzI="

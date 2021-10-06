@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = false
 homepage = "https://10x.gsa.gov"
 id = 137_523_991
+is_template = false
 language = "Jupyter Notebook"
 name = "10x-MLaaS"
 node_id = "MDEwOlJlcG9zaXRvcnkxMzc1MjM5OTE="

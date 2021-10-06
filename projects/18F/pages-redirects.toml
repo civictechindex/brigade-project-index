@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 85_883_038
+is_template = false
 language = "Nunjucks"
 name = "pages-redirects"
 node_id = "MDEwOlJlcG9zaXRvcnk4NTg4MzAzOA=="

@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 338_448_845
+is_template = false
 language = "JavaScript"
 name = "nasa-sbir-fake-data"
 node_id = "MDEwOlJlcG9zaXRvcnkzMzg0NDg4NDU="

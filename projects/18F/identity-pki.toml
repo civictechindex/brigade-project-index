@@ -21,6 +21,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 128_810_214
+is_template = false
 language = "Ruby"
 name = "identity-pki"
 node_id = "MDEwOlJlcG9zaXRvcnkxMjg4MTAyMTQ="

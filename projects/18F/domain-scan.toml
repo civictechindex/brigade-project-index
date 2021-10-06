@@ -21,6 +21,7 @@ has_projects = false
 has_wiki = false
 homepage = ""
 id = 27_473_797
+is_template = false
 language = "Python"
 name = "domain-scan"
 node_id = "MDEwOlJlcG9zaXRvcnkyNzQ3Mzc5Nw=="

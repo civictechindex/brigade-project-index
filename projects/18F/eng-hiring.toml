@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://eng-hiring.18f.gov/"
 id = 68_395_561
+is_template = false
 language = "HTML"
 name = "eng-hiring"
 node_id = "MDEwOlJlcG9zaXRvcnk2ODM5NTU2MQ=="

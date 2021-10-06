@@ -23,6 +23,7 @@ has_projects = false
 has_wiki = false
 homepage = "https://federalist.18f.gov/"
 id = 36_463_352
+is_template = false
 language = "JavaScript"
 name = "federalist"
 node_id = "MDEwOlJlcG9zaXRvcnkzNjQ2MzM1Mg=="

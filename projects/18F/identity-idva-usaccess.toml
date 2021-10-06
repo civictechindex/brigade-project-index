@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 370_922_998
+is_template = false
 language = "Python"
 name = "identity-idva-usaccess"
 node_id = "MDEwOlJlcG9zaXRvcnkzNzA5MjI5OTg="

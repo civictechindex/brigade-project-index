@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = false
 homepage = "https://agile.18f.gov"
 id = 30_204_713
+is_template = false
 language = "SCSS"
 name = "agile"
 node_id = "MDEwOlJlcG9zaXRvcnkzMDIwNDcxMw=="

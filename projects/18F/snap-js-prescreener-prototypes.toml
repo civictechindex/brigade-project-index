@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://federalist-1c734efa-8e7a-40ed-9b1e-432001a347e9.app.cloud.gov/site/18f/snap-js-prescreener-prototypes/prescreeners/va.html"
 id = 271_601_261
+is_template = false
 language = "CSS"
 name = "snap-js-prescreener-prototypes"
 node_id = "MDEwOlJlcG9zaXRvcnkyNzE2MDEyNjE="

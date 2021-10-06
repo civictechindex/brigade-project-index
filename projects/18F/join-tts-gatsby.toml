@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 409_722_890
+is_template = false
 language = "JavaScript"
 name = "join-tts-gatsby"
 node_id = "R_kgDOGGvgCg"

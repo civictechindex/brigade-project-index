@@ -22,6 +22,7 @@ has_projects = false
 has_wiki = false
 homepage = ""
 id = 43_935_410
+is_template = false
 language = "Python"
 name = "federalist-garden-build"
 node_id = "MDEwOlJlcG9zaXRvcnk0MzkzNTQxMA=="

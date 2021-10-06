@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 265_668_243
+is_template = false
 language = "SCSS"
 name = "portfolios"
 node_id = "MDEwOlJlcG9zaXRvcnkyNjU2NjgyNDM="

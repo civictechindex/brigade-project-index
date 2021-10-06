@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 354_895_972
+is_template = false
 language = "Ruby"
 name = "tts-common-controls"
 node_id = "MDEwOlJlcG9zaXRvcnkzNTQ4OTU5NzI="

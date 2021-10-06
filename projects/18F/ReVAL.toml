@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 129_012_973
+is_template = false
 language = "Python"
 name = "ReVAL"
 node_id = "MDEwOlJlcG9zaXRvcnkxMjkwMTI5NzM="

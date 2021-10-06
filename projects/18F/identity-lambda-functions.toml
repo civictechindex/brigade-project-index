@@ -21,6 +21,7 @@ has_pages = false
 has_projects = false
 has_wiki = false
 id = 166_274_643
+is_template = false
 language = "Ruby"
 name = "identity-lambda-functions"
 node_id = "MDEwOlJlcG9zaXRvcnkxNjYyNzQ2NDM="

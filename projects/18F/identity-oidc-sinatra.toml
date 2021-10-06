@@ -21,6 +21,7 @@ has_pages = false
 has_projects = false
 has_wiki = false
 id = 81_472_081
+is_template = false
 language = "Ruby"
 name = "identity-oidc-sinatra"
 node_id = "MDEwOlJlcG9zaXRvcnk4MTQ3MjA4MQ=="

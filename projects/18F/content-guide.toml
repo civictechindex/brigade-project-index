@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://content-guide.18f.gov/"
 id = 38_387_697
+is_template = false
 language = "HTML"
 name = "content-guide"
 node_id = "MDEwOlJlcG9zaXRvcnkzODM4NzY5Nw=="

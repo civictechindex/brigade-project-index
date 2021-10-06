@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 391_110_513
+is_template = false
 language = "JavaScript"
 name = "ao-courts-ei-frontend"
 node_id = "MDEwOlJlcG9zaXRvcnkzOTExMTA1MTM="

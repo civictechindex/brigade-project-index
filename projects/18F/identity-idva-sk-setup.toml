@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 393_781_060
+is_template = false
 language = "Shell"
 name = "identity-idva-sk-setup"
 node_id = "MDEwOlJlcG9zaXRvcnkzOTM3ODEwNjA="

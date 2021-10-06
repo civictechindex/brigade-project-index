@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://www.fedramp.gov/using-the-fedramp-oscal-resources-and-templates/"
 id = 306_702_633
+is_template = false
 language = "TypeScript"
 name = "fedramp-automation"
 node_id = "MDEwOlJlcG9zaXRvcnkzMDY3MDI2MzM="

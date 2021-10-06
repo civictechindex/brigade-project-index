@@ -22,12 +22,13 @@ has_projects = true
 has_wiki = true
 homepage = "https://api.data.gov"
 id = 11_467_840
+is_template = false
 language = "HTML"
 name = "api.data.gov"
 node_id = "MDEwOlJlcG9zaXRvcnkxMTQ2Nzg0MA=="
 open_issues_within = 100
 private = false
-pushed_within = "week"
+pushed_within = "month"
 stargazers_within = 100
 topics = [ ]
 updated_within = "month"

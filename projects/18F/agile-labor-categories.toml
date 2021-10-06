@@ -20,6 +20,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://pages.18f.gov/agile-labor-categories/"
 id = 30_974_820
+is_template = false
 language = "CSS"
 name = "agile-labor-categories"
 node_id = "MDEwOlJlcG9zaXRvcnkzMDk3NDgyMA=="

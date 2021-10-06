@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://cg-9341b8ea-025c-4fe2-aa6c-850edbebc499.app.cloud.gov/site/18f/privacy-dashboard/"
 id = 240_135_486
+is_template = false
 language = "HTML"
 name = "privacy-dashboard"
 node_id = "MDEwOlJlcG9zaXRvcnkyNDAxMzU0ODY="

@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = false
 homepage = "https://findtreatment.gov/"
 id = 221_744_604
+is_template = false
 language = "JavaScript"
 name = "samhsa-prototype"
 node_id = "MDEwOlJlcG9zaXRvcnkyMjE3NDQ2MDQ="

@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://engineering.18f.gov"
 id = 42_334_632
+is_template = false
 language = "HTML"
 name = "development-guide"
 node_id = "MDEwOlJlcG9zaXRvcnk0MjMzNDYzMg=="

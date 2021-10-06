@@ -23,6 +23,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://18f.gsa.gov"
 id = 17_324_120
+is_template = false
 language = "HTML"
 name = "18f.gsa.gov"
 node_id = "MDEwOlJlcG9zaXRvcnkxNzMyNDEyMA=="

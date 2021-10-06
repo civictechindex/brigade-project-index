@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 398_401_357
+is_template = false
 language = "JavaScript"
 name = "cg-nodejs-elasticsearch-demo"
 node_id = "MDEwOlJlcG9zaXRvcnkzOTg0MDEzNTc="

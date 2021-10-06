@@ -23,6 +23,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://all-sorns.app.cloud.gov"
 id = 296_403_774
+is_template = false
 language = "Ruby"
 name = "all_sorns"
 node_id = "MDEwOlJlcG9zaXRvcnkyOTY0MDM3NzQ="

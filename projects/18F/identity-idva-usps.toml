@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 290_600_481
+is_template = false
 language = "Python"
 name = "identity-idva-usps"
 node_id = "MDEwOlJlcG9zaXRvcnkyOTA2MDA0ODE="

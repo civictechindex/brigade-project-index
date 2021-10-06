@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = false
 homepage = "https://pages.nist.gov/OSCAL/"
 id = 295_872_234
+is_template = false
 name = "OSCAL"
 node_id = "MDEwOlJlcG9zaXRvcnkyOTU4NzIyMzQ="
 open_issues_within = 10

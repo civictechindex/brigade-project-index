@@ -20,6 +20,7 @@ has_projects = true
 has_wiki = false
 homepage = "https://marketplace.fedramp.gov"
 id = 61_122_109
+is_template = false
 language = "JavaScript"
 name = "fedramp-dashboard"
 node_id = "MDEwOlJlcG9zaXRvcnk2MTEyMjEwOQ=="

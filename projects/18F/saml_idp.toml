@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 66_032_570
+is_template = false
 language = "Ruby"
 name = "saml_idp"
 node_id = "MDEwOlJlcG9zaXRvcnk2NjAzMjU3MA=="

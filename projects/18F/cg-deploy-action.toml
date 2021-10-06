@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 394_740_651
+is_template = false
 language = "HTML"
 name = "cg-deploy-action"
 node_id = "MDEwOlJlcG9zaXRvcnkzOTQ3NDA2NTE="

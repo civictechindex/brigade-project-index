@@ -21,6 +21,7 @@ has_pages = false
 has_projects = false
 has_wiki = false
 id = 80_066_355
+is_template = false
 language = "JavaScript"
 name = "federalist-proxy"
 node_id = "MDEwOlJlcG9zaXRvcnk4MDA2NjM1NQ=="

@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 388_597_709
+is_template = false
 language = "Python"
 name = "aocourts-api"
 node_id = "MDEwOlJlcG9zaXRvcnkzODg1OTc3MDk="

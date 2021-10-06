@@ -23,6 +23,7 @@ has_projects = false
 has_wiki = false
 homepage = "https://federalist-ce810add-9092-4627-8246-9b65cf94623c.app.cloud.gov/site/18f/federalist-uswds-jekyll/"
 id = 166_146_615
+is_template = true
 language = "HTML"
 name = "federalist-uswds-jekyll"
 node_id = "MDEwOlJlcG9zaXRvcnkxNjYxNDY2MTU="

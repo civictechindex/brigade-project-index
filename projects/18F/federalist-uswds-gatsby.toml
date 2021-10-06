@@ -27,6 +27,7 @@ has_pages = false
 has_projects = false
 has_wiki = false
 id = 159_738_755
+is_template = true
 language = "JavaScript"
 name = "federalist-uswds-gatsby"
 node_id = "MDEwOlJlcG9zaXRvcnkxNTk3Mzg3NTU="

@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://product-guide.18f.gov"
 id = 48_387_359
+is_template = false
 language = "HTML"
 name = "product-guide"
 node_id = "MDEwOlJlcG9zaXRvcnk0ODM4NzM1OQ=="

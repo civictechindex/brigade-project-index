@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = false
 homepage = "https://github.com/18F/dns/blob/master/doc/architecture.md"
 id = 62_665_500
+is_template = false
 language = "HCL"
 name = "dns"
 node_id = "MDEwOlJlcG9zaXRvcnk2MjY2NTUwMA=="

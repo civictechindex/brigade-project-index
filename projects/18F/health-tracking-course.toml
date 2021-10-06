@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 349_427_233
+is_template = false
 language = "JavaScript"
 name = "health-tracking-course"
 node_id = "MDEwOlJlcG9zaXRvcnkzNDk0MjcyMzM="

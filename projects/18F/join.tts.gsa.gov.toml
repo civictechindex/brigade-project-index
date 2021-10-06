@@ -20,6 +20,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://join.tts.gsa.gov/"
 id = 115_044_125
+is_template = false
 language = "HTML"
 name = "join.tts.gsa.gov"
 node_id = "MDEwOlJlcG9zaXRvcnkxMTUwNDQxMjU="

@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 223_063_012
+is_template = true
 name = ".github"
 node_id = "MDEwOlJlcG9zaXRvcnkyMjMwNjMwMTI="
 open_issues_within = 0

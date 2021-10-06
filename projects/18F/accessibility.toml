@@ -23,6 +23,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://accessibility.18f.gov/"
 id = 30_027_650
+is_template = false
 language = "HTML"
 name = "accessibility"
 node_id = "MDEwOlJlcG9zaXRvcnkzMDAyNzY1MA=="

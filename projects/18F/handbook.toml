@@ -23,6 +23,7 @@ has_projects = false
 has_wiki = false
 homepage = "https://handbook.tts.gsa.gov/"
 id = 69_692_928
+is_template = false
 language = "JavaScript"
 name = "handbook"
 node_id = "MDEwOlJlcG9zaXRvcnk2OTY5MjkyOA=="

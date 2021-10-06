@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = false
 homepage = "https://chat.18f.gov"
 id = 56_112_456
+is_template = false
 language = "HTML"
 name = "chat"
 node_id = "MDEwOlJlcG9zaXRvcnk1NjExMjQ1Ng=="

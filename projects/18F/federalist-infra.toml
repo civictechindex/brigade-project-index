@@ -20,6 +20,7 @@ has_pages = false
 has_projects = false
 has_wiki = false
 id = 263_440_832
+is_template = false
 language = "HCL"
 name = "federalist-infra"
 node_id = "MDEwOlJlcG9zaXRvcnkyNjM0NDA4MzI="

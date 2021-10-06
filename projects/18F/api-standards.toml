@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = false
 homepage = ""
 id = 17_753_439
+is_template = false
 name = "api-standards"
 node_id = "MDEwOlJlcG9zaXRvcnkxNzc1MzQzOQ=="
 open_issues_within = 100

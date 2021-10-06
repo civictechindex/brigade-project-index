@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 341_603_878
+is_template = false
 language = "JavaScript"
 name = "nasa-sbir-prototype"
 node_id = "MDEwOlJlcG9zaXRvcnkzNDE2MDM4Nzg="

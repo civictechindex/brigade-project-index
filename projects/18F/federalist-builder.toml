@@ -21,6 +21,7 @@ has_pages = false
 has_projects = false
 has_wiki = false
 id = 44_828_292
+is_template = false
 language = "JavaScript"
 name = "federalist-builder"
 node_id = "MDEwOlJlcG9zaXRvcnk0NDgyODI5Mg=="

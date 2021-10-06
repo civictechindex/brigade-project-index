@@ -20,6 +20,7 @@ has_pages = false
 has_projects = false
 has_wiki = false
 id = 204_623_041
+is_template = false
 language = "JavaScript"
 name = "ghad"
 node_id = "MDEwOlJlcG9zaXRvcnkyMDQ2MjMwNDE="

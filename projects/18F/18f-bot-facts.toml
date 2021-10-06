@@ -22,6 +22,7 @@ has_projects = false
 has_wiki = false
 homepage = ""
 id = 163_341_988
+is_template = false
 language = "JavaScript"
 name = "18f-bot-facts"
 node_id = "MDEwOlJlcG9zaXRvcnkxNjMzNDE5ODg="

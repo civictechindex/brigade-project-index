@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = false
 id = 84_472_607
+is_template = false
 language = "JavaScript"
 name = "analytics-reporter-api"
 node_id = "MDEwOlJlcG9zaXRvcnk4NDQ3MjYwNw=="
