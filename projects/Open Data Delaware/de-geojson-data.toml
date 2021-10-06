@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 71_368_549
+is_template = false
 name = "de-geojson-data"
 node_id = "MDEwOlJlcG9zaXRvcnk3MTM2ODU0OQ=="
 open_issues_within = 0

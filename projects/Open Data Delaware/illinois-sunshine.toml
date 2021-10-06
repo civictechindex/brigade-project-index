@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://www.illinoissunshine.org/"
 id = 79_273_836
+is_template = false
 language = "HTML"
 name = "illinois-sunshine"
 node_id = "MDEwOlJlcG9zaXRvcnk3OTI3MzgzNg=="

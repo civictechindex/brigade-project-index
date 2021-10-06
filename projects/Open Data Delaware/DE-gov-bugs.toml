@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 68_344_794
+is_template = false
 name = "DE-gov-bugs"
 node_id = "MDEwOlJlcG9zaXRvcnk2ODM0NDc5NA=="
 open_issues_within = 10

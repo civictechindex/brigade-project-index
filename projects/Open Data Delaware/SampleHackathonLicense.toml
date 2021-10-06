@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 93_324_763
+is_template = false
 name = "SampleHackathonLicense"
 node_id = "MDEwOlJlcG9zaXRvcnk5MzMyNDc2Mw=="
 open_issues_within = 10

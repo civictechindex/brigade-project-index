@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 42_952_868
+is_template = false
 name = "WilmingtonCensus"
 node_id = "MDEwOlJlcG9zaXRvcnk0Mjk1Mjg2OA=="
 open_issues_within = 10

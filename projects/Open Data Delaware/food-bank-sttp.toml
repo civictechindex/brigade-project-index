@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 93_408_697
+is_template = false
 language = "Java"
 name = "food-bank-sttp"
 node_id = "MDEwOlJlcG9zaXRvcnk5MzQwODY5Nw=="

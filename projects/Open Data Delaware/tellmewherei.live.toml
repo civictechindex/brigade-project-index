@@ -20,6 +20,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://www.opendatadelaware.com/tellmewherei.live/"
 id = 134_974_393
+is_template = false
 language = "HTML"
 name = "tellmewherei.live"
 node_id = "MDEwOlJlcG9zaXRvcnkxMzQ5NzQzOTM="

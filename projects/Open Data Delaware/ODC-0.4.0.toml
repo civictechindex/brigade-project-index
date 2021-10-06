@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 93_407_554
+is_template = false
 language = "HTML"
 name = "ODC-0.4.0"
 node_id = "MDEwOlJlcG9zaXRvcnk5MzQwNzU1NA=="

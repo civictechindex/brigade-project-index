@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 157_758_537
+is_template = false
 language = "Python"
 name = "html2csv"
 node_id = "MDEwOlJlcG9zaXRvcnkxNTc3NTg1Mzc="

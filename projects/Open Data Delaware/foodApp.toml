@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 93_406_915
+is_template = false
 language = "HTML"
 name = "foodApp"
 node_id = "MDEwOlJlcG9zaXRvcnk5MzQwNjkxNQ=="

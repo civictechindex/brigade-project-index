@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 80_295_227
+is_template = false
 language = "JavaScript"
 name = "educationsherpa"
 node_id = "MDEwOlJlcG9zaXRvcnk4MDI5NTIyNw=="

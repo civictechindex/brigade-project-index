@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 72_301_595
+is_template = false
 name = "State-zip-code-GeoJSON"
 node_id = "MDEwOlJlcG9zaXRvcnk3MjMwMTU5NQ=="
 open_issues_within = 10
