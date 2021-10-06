@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://fakenews.open-austin.org"
 id = 83_237_201
+is_template = false
 name = "fake-the-news"
 node_id = "MDEwOlJlcG9zaXRvcnk4MzIzNzIwMQ=="
 open_issues_within = 0

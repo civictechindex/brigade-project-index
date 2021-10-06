@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 21_522_923
+is_template = false
 language = "Ruby"
 name = "pet-finder"
 node_id = "MDEwOlJlcG9zaXRvcnkyMTUyMjkyMw=="

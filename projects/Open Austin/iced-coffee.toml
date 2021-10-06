@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 45_080_057
+is_template = false
 name = "iced-coffee"
 node_id = "MDEwOlJlcG9zaXRvcnk0NTA4MDA1Nw=="
 open_issues_within = 100

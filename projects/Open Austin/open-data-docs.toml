@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://cityofaustin.github.io/open-data-docs/"
 id = 47_306_820
+is_template = false
 language = "HTML"
 name = "open-data-docs"
 node_id = "MDEwOlJlcG9zaXRvcnk0NzMwNjgyMA=="

@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://open-austin.github.io/recycling-bin/"
 id = 41_457_888
+is_template = false
 language = "JavaScript"
 name = "recycling-bin"
 node_id = "MDEwOlJlcG9zaXRvcnk0MTQ1Nzg4OA=="

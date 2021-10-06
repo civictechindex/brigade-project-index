@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = false
 homepage = "http://voteatx.us/"
 id = 22_958_997
+is_template = false
 language = "JavaScript"
 name = "voteatx-app"
 node_id = "MDEwOlJlcG9zaXRvcnkyMjk1ODk5Nw=="

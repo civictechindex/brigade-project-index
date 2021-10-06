@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 43_715_834
+is_template = false
 language = "Python"
 name = "construction-permits"
 node_id = "MDEwOlJlcG9zaXRvcnk0MzcxNTgzNA=="

@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 29_074_443
+is_template = false
 language = "JavaScript"
 name = "OARK-back-end"
 node_id = "MDEwOlJlcG9zaXRvcnkyOTA3NDQ0Mw=="

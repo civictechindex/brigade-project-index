@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 60_314_762
+is_template = false
 name = "cheatsheet-basedef"
 node_id = "MDEwOlJlcG9zaXRvcnk2MDMxNDc2Mg=="
 open_issues_within = 0

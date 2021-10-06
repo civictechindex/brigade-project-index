@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://open-austin.github.io/hack-task-aggregator/public/index.html"
 id = 10_953_031
+is_template = false
 language = "JavaScript"
 name = "hack-task-aggregator"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDk1MzAzMQ=="

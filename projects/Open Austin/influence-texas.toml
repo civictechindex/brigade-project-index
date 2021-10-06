@@ -31,6 +31,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://www.influencetexas.com/"
 id = 93_272_025
+is_template = false
 language = "Jinja"
 name = "influence-texas"
 node_id = "MDEwOlJlcG9zaXRvcnk5MzI3MjAyNQ=="

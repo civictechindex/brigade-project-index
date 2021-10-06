@@ -23,6 +23,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://tx-eviction-hearing-parser.readthedocs.io/en/latest/"
 id = 263_779_212
+is_template = false
 language = "HTML"
 name = "eviction-hearing-parser"
 node_id = "MDEwOlJlcG9zaXRvcnkyNjM3NzkyMTI="

@@ -32,6 +32,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://austinbudget.party"
 id = 62_455_728
+is_template = false
 language = "JavaScript"
 name = "budgetparty"
 node_id = "MDEwOlJlcG9zaXRvcnk2MjQ1NTcyOA=="

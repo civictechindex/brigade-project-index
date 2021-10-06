@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://www.open-austin.org/consumer-protection/"
 id = 103_335_088
+is_template = false
 language = "HTML"
 name = "consumer-protection"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDMzMzUwODg="

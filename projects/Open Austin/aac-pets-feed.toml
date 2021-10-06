@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 40_921_158
+is_template = false
 language = "Ruby"
 name = "aac-pets-feed"
 node_id = "MDEwOlJlcG9zaXRvcnk0MDkyMTE1OA=="

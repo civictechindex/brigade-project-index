@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 43_790_373
+is_template = false
 name = "onebusaway-docker"
 node_id = "MDEwOlJlcG9zaXRvcnk0Mzc5MDM3Mw=="
 open_issues_within = 0

@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://www.open-austin.org/permit-prereq-check"
 id = 67_299_762
+is_template = false
 language = "JavaScript"
 name = "permit-prereq-check"
 node_id = "MDEwOlJlcG9zaXRvcnk2NzI5OTc2Mg=="

@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://data.open-austin.org/Civic_Project/"
 id = 21_448_081
+is_template = false
 language = "Ruby"
 name = "Civic_Project"
 node_id = "MDEwOlJlcG9zaXRvcnkyMTQ0ODA4MQ=="

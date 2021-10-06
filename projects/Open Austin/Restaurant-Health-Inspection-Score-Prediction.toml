@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 101_301_663
+is_template = false
 name = "Restaurant-Health-Inspection-Score-Prediction"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDEzMDE2NjM="
 open_issues_within = 0

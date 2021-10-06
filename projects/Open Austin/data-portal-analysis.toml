@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = false
 id = 45_513_257
+is_template = false
 language = "Python"
 name = "data-portal-analysis"
 node_id = "MDEwOlJlcG9zaXRvcnk0NTUxMzI1Nw=="

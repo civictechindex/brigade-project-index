@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 233_717_876
+is_template = false
 language = "JavaScript"
 name = "purge-alert"
 node_id = "MDEwOlJlcG9zaXRvcnkyMzM3MTc4NzY="

@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 42_816_021
+is_template = false
 language = "Shell"
 name = "transitime-docker"
 node_id = "MDEwOlJlcG9zaXRvcnk0MjgxNjAyMQ=="

@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://austin-recycles.open-austin.org/"
 id = 8_442_001
+is_template = false
 language = "JavaScript"
 name = "austin-recycles"
 node_id = "MDEwOlJlcG9zaXRvcnk4NDQyMDAx"

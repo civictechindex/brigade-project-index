@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://open-austin.github.io/austingreenmap/"
 id = 37_023_156
+is_template = false
 language = "JavaScript"
 name = "austingreenmap"
 node_id = "MDEwOlJlcG9zaXRvcnkzNzAyMzE1Ng=="

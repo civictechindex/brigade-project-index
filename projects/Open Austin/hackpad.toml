@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 89_663_717
+is_template = false
 name = "hackpad"
 node_id = "MDEwOlJlcG9zaXRvcnk4OTY2MzcxNw=="
 open_issues_within = 0

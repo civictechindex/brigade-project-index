@@ -20,6 +20,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://github.com/open-austin/project-ideas/issues/73"
 id = 63_964_364
+is_template = false
 language = "Python"
 name = "harris-county-bookings"
 node_id = "MDEwOlJlcG9zaXRvcnk2Mzk2NDM2NA=="

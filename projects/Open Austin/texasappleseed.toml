@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://open-austin.github.io/texasappleseed"
 id = 39_813_033
+is_template = false
 language = "Python"
 name = "texasappleseed"
 node_id = "MDEwOlJlcG9zaXRvcnkzOTgxMzAzMw=="

@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://github.com/open-austin/austingreenmap"
 id = 38_990_350
+is_template = false
 language = "Shell"
 name = "austingreenmap-cordova"
 node_id = "MDEwOlJlcG9zaXRvcnkzODk5MDM1MA=="

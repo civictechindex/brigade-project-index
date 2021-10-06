@@ -20,6 +20,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://open-austin.github.io/leaflet-talk"
 id = 49_392_299
+is_template = false
 language = "JavaScript"
 name = "leaflet-talk"
 node_id = "MDEwOlJlcG9zaXRvcnk0OTM5MjI5OQ=="

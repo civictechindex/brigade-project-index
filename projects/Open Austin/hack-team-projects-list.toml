@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 19_762_459
+is_template = false
 name = "hack-team-projects-list"
 node_id = "MDEwOlJlcG9zaXRvcnkxOTc2MjQ1OQ=="
 open_issues_within = 10

@@ -19,6 +19,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 66_990_251
+is_template = false
 name = "transpo-game-night"
 node_id = "MDEwOlJlcG9zaXRvcnk2Njk5MDI1MQ=="
 open_issues_within = 10

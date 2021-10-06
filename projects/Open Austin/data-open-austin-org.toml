@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://data.open-austin.org"
 id = 7_718_581
+is_template = false
 language = "Ruby"
 name = "data-open-austin-org"
 node_id = "MDEwOlJlcG9zaXRvcnk3NzE4NTgx"

@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 56_541_608
+is_template = false
 language = "PureBasic"
 name = "node-gtfs-realtime"
 node_id = "MDEwOlJlcG9zaXRvcnk1NjU0MTYwOA=="

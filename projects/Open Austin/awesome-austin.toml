@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 45_470_099
+is_template = false
 name = "awesome-austin"
 node_id = "MDEwOlJlcG9zaXRvcnk0NTQ3MDA5OQ=="
 open_issues_within = 0

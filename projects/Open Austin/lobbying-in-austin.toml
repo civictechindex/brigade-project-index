@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 52_926_658
+is_template = false
 language = "Jupyter Notebook"
 name = "lobbying-in-austin"
 node_id = "MDEwOlJlcG9zaXRvcnk1MjkyNjY1OA=="

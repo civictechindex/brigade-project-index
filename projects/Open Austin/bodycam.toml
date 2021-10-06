@@ -20,6 +20,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://www.atxbodycam.com/"
 id = 54_607_631
+is_template = false
 language = "HTML"
 name = "bodycam"
 node_id = "MDEwOlJlcG9zaXRvcnk1NDYwNzYzMQ=="

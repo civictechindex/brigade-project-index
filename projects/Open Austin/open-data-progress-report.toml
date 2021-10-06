@@ -20,6 +20,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://open-austin.github.io/open-data-progress-report/"
 id = 41_013_299
+is_template = false
 language = "HTML"
 name = "open-data-progress-report"
 node_id = "MDEwOlJlcG9zaXRvcnk0MTAxMzI5OQ=="

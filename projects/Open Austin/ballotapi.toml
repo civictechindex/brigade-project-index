@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 26_097_670
+is_template = false
 language = "Python"
 name = "ballotapi"
 node_id = "MDEwOlJlcG9zaXRvcnkyNjA5NzY3MA=="

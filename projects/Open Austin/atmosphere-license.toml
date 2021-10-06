@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://open-austin.org/atmosphere-license/"
 id = 219_382_168
+is_template = false
 language = "HTML"
 name = "atmosphere-license"
 node_id = "MDEwOlJlcG9zaXRvcnkyMTkzODIxNjg="

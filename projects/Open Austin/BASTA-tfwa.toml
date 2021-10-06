@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 234_433_524
+is_template = false
 language = "C#"
 name = "BASTA-tfwa"
 node_id = "MDEwOlJlcG9zaXRvcnkyMzQ0MzM1MjQ="

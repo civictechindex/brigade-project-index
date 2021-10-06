@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://www.open-austin.org/austin-park-equity/"
 id = 34_286_275
+is_template = false
 language = "JavaScript"
 name = "austin-park-equity"
 node_id = "MDEwOlJlcG9zaXRvcnkzNDI4NjI3NQ=="

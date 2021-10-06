@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 40_573_079
+is_template = false
 language = "JavaScript"
 name = "mybuildingdoesntrecycle"
 node_id = "MDEwOlJlcG9zaXRvcnk0MDU3MzA3OQ=="

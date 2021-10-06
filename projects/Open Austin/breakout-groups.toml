@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://github.com/open-austin/breakout-groups/projects/1"
 id = 75_243_243
+is_template = false
 name = "breakout-groups"
 node_id = "MDEwOlJlcG9zaXRvcnk3NTI0MzI0Mw=="
 open_issues_within = 10

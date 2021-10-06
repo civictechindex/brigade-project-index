@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 400_033_937
+is_template = false
 language = "HTML"
 name = "indigent-court-scrapy"
 node_id = "MDEwOlJlcG9zaXRvcnk0MDAwMzM5Mzc="

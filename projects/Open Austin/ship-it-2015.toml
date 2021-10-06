@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 46_288_105
+is_template = false
 name = "ship-it-2015"
 node_id = "MDEwOlJlcG9zaXRvcnk0NjI4ODEwNQ=="
 open_issues_within = 10

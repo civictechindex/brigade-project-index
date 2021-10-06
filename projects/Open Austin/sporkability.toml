@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 43_330_254
+is_template = false
 name = "sporkability"
 node_id = "MDEwOlJlcG9zaXRvcnk0MzMzMDI1NA=="
 open_issues_within = 0

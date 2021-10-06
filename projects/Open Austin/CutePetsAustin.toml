@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://twitter.com/CutePetsAustin"
 id = 22_703_984
+is_template = false
 language = "HTML"
 name = "CutePetsAustin"
 node_id = "MDEwOlJlcG9zaXRvcnkyMjcwMzk4NA=="

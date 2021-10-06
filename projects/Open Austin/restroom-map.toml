@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://45.55.80.26/demos/restroom-map/www/#/map"
 id = 93_270_853
+is_template = false
 language = "JavaScript"
 name = "restroom-map"
 node_id = "MDEwOlJlcG9zaXRvcnk5MzI3MDg1Mw=="

@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://www.open-austin.org/data-portal"
 id = 58_817_363
+is_template = false
 language = "HTML"
 name = "data-portal"
 node_id = "MDEwOlJlcG9zaXRvcnk1ODgxNzM2Mw=="

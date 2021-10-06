@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 5_505_162
+is_template = false
 language = "Ruby"
 name = "tecfiler"
 node_id = "MDEwOlJlcG9zaXRvcnk1NTA1MTYy"

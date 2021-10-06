@@ -20,6 +20,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://permit-wiz.herokuapp.com"
 id = 60_430_589
+is_template = false
 language = "JavaScript"
 name = "permit-server"
 node_id = "MDEwOlJlcG9zaXRvcnk2MDQzMDU4OQ=="

@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 81_290_606
+is_template = false
 name = "water-quality"
 node_id = "MDEwOlJlcG9zaXRvcnk4MTI5MDYwNg=="
 open_issues_within = 10

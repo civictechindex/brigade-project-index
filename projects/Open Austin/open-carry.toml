@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 52_927_942
+is_template = false
 language = "Ruby"
 name = "open-carry"
 node_id = "MDEwOlJlcG9zaXRvcnk1MjkyNzk0Mg=="

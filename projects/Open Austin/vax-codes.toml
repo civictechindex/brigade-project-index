@@ -20,6 +20,7 @@ has_pages = true
 has_projects = true
 has_wiki = true
 id = 333_352_053
+is_template = false
 name = "vax-codes"
 node_id = "MDEwOlJlcG9zaXRvcnkzMzMzNTIwNTM="
 open_issues_within = 100
