@@ -22,6 +22,7 @@ has_projects = false
 has_wiki = false
 homepage = "http://digi-bridge.org"
 id = 90_088_865
+is_template = false
 name = "digi-bridge"
 node_id = "MDEwOlJlcG9zaXRvcnk5MDA4ODg2NQ=="
 open_issues_within = 10

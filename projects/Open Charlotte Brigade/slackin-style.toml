@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 105_718_941
+is_template = false
 language = "HTML"
 name = "slackin-style"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDU3MTg5NDE="

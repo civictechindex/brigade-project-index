@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 173_407_164
+is_template = false
 language = "Smarty"
 name = "brigade-laddr"
 node_id = "MDEwOlJlcG9zaXRvcnkxNzM0MDcxNjQ="

@@ -22,6 +22,7 @@ has_projects = false
 has_wiki = false
 homepage = "https://OpenCharlotte.org"
 id = 161_103_978
+is_template = false
 language = "HTML"
 name = "opencltbrigade.github.io"
 node_id = "MDEwOlJlcG9zaXRvcnkxNjExMDM5Nzg="

@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = false
 homepage = ""
 id = 25_845_833
+is_template = false
 language = "JavaScript"
 name = "adopt-a-street"
 node_id = "MDEwOlJlcG9zaXRvcnkyNTg0NTgzMw=="

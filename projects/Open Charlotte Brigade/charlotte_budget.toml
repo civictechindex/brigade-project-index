@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = false
 id = 41_256_581
+is_template = false
 language = "Ruby"
 name = "charlotte_budget"
 node_id = "MDEwOlJlcG9zaXRvcnk0MTI1NjU4MQ=="

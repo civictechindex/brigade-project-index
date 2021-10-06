@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 123_493_925
+is_template = false
 language = "TypeScript"
 name = "CivicdMobile"
 node_id = "MDEwOlJlcG9zaXRvcnkxMjM0OTM5MjU="

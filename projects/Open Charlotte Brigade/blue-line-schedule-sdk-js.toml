@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 210_505_792
+is_template = false
 language = "JavaScript"
 name = "blue-line-schedule-sdk-js"
 node_id = "MDEwOlJlcG9zaXRvcnkyMTA1MDU3OTI="

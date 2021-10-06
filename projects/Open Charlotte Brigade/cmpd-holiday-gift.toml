@@ -32,6 +32,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 45_954_810
+is_template = false
 language = "JavaScript"
 name = "cmpd-holiday-gift"
 node_id = "MDEwOlJlcG9zaXRvcnk0NTk1NDgxMA=="

@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://opencharlotte.org/re-entry-hub/"
 id = 192_765_073
+is_template = false
 language = "JavaScript"
 name = "re-entry-hub"
 node_id = "MDEwOlJlcG9zaXRvcnkxOTI3NjUwNzM="

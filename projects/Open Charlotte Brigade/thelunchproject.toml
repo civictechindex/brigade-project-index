@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 92_888_475
+is_template = false
 language = "TypeScript"
 name = "thelunchproject"
 node_id = "MDEwOlJlcG9zaXRvcnk5Mjg4ODQ3NQ=="

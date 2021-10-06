@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 208_494_327
+is_template = false
 language = "TypeScript"
 name = "blue-line-schedule-json"
 node_id = "MDEwOlJlcG9zaXRvcnkyMDg0OTQzMjc="

@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 127_985_170
+is_template = false
 name = "cfc_js_modules"
 node_id = "MDEwOlJlcG9zaXRvcnkxMjc5ODUxNzA="
 open_issues_within = 0

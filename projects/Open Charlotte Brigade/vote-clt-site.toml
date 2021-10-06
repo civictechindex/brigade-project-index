@@ -20,6 +20,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://voteclt.com"
 id = 217_393_607
+is_template = false
 language = "JavaScript"
 name = "vote-clt-site"
 node_id = "MDEwOlJlcG9zaXRvcnkyMTczOTM2MDc="

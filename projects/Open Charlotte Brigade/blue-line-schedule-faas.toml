@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 210_654_770
+is_template = false
 language = "TypeScript"
 name = "blue-line-schedule-faas"
 node_id = "MDEwOlJlcG9zaXRvcnkyMTA2NTQ3NzA="

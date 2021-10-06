@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 101_823_086
+is_template = false
 name = "pull-request-practice"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDE4MjMwODY="
 open_issues_within = 10

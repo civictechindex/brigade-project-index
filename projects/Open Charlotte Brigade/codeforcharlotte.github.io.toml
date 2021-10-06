@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://codeforcharlotte.github.io/"
 id = 120_120_797
+is_template = false
 language = "JavaScript"
 name = "codeforcharlotte.github.io"
 node_id = "MDEwOlJlcG9zaXRvcnkxMjAxMjA3OTc="
