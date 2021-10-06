@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://www.oqtane.org"
 id = 407_949_035
+is_template = false
 language = "C#"
 name = "oqtane.framework"
 node_id = "MDEwOlJlcG9zaXRvcnk0MDc5NDkwMzU="

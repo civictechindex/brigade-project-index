@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 213_786_483
+is_template = false
 name = "mural-tour-2021-plan"
 node_id = "MDEwOlJlcG9zaXRvcnkyMTM3ODY0ODM="
 open_issues_within = 10

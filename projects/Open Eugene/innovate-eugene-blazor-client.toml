@@ -20,6 +20,7 @@ has_pages = true
 has_projects = true
 has_wiki = true
 id = 205_626_183
+is_template = false
 language = "HTML"
 name = "innovate-eugene-blazor-client"
 node_id = "MDEwOlJlcG9zaXRvcnkyMDU2MjYxODM="

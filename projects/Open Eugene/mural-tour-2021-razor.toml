@@ -21,6 +21,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 213_787_250
+is_template = false
 language = "C#"
 name = "mural-tour-2021-razor"
 node_id = "MDEwOlJlcG9zaXRvcnkyMTM3ODcyNTA="

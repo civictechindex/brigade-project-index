@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 324_661_677
+is_template = false
 language = "HTML"
 name = "little-help-app"
 node_id = "MDEwOlJlcG9zaXRvcnkzMjQ2NjE2Nzc="

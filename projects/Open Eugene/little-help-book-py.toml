@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 325_712_821
+is_template = false
 language = "Python"
 name = "little-help-book-py"
 node_id = "MDEwOlJlcG9zaXRvcnkzMjU3MTI4MjE="

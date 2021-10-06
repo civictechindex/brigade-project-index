@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 324_045_518
+is_template = false
 language = "JavaScript"
 name = "little_help_book_react"
 node_id = "MDEwOlJlcG9zaXRvcnkzMjQwNDU1MTg="

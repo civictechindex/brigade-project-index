@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 393_790_780
+is_template = false
 name = "vaxx-proof"
 node_id = "MDEwOlJlcG9zaXRvcnkzOTM3OTA3ODA="
 open_issues_within = 10

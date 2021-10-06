@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 229_189_242
+is_template = false
 name = "zero-lunch-debt"
 node_id = "MDEwOlJlcG9zaXRvcnkyMjkxODkyNDI="
 open_issues_within = 10

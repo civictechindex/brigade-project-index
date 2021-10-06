@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 218_188_296
+is_template = false
 language = "C#"
 name = "KingPongGame"
 node_id = "MDEwOlJlcG9zaXRvcnkyMTgxODgyOTY="

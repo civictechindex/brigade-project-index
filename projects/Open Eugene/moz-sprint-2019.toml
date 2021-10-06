@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 184_118_553
+is_template = false
 name = "moz-sprint-2019"
 node_id = "MDEwOlJlcG9zaXRvcnkxODQxMTg1NTM="
 open_issues_within = 10

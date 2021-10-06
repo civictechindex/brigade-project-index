@@ -21,6 +21,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 165_452_670
+is_template = false
 language = "Go"
 name = "openboard"
 node_id = "MDEwOlJlcG9zaXRvcnkxNjU0NTI2NzA="

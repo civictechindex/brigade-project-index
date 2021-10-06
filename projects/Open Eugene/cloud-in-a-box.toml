@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 357_329_710
+is_template = false
 name = "cloud-in-a-box"
 node_id = "MDEwOlJlcG9zaXRvcnkzNTczMjk3MTA="
 open_issues_within = 10

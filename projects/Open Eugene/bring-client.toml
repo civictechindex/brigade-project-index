@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 319_170_031
+is_template = false
 name = "bring-client"
 node_id = "MDEwOlJlcG9zaXRvcnkzMTkxNzAwMzE="
 open_issues_within = 0

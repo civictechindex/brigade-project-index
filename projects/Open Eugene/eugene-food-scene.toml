@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 258_926_114
+is_template = false
 language = "C#"
 name = "eugene-food-scene"
 node_id = "MDEwOlJlcG9zaXRvcnkyNTg5MjYxMTQ="

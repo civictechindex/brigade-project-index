@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 208_173_855
+is_template = false
 language = "C#"
 name = "innovate-eugene-blazor-server"
 node_id = "MDEwOlJlcG9zaXRvcnkyMDgxNzM4NTU="

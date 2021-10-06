@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 245_568_460
+is_template = false
 language = "C#"
 name = "EugCal"
 node_id = "MDEwOlJlcG9zaXRvcnkyNDU1Njg0NjA="

@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 313_758_235
+is_template = false
 language = "Vue"
 name = "little-help-book-vue"
 node_id = "MDEwOlJlcG9zaXRvcnkzMTM3NTgyMzU="

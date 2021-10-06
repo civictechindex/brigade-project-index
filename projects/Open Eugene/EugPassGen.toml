@@ -21,6 +21,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 219_582_086
+is_template = false
 language = "C#"
 name = "EugPassGen"
 node_id = "MDEwOlJlcG9zaXRvcnkyMTk1ODIwODY="

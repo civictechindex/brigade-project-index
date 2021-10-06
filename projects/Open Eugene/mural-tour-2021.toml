@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 209_189_502
+is_template = false
 language = "C#"
 name = "mural-tour-2021"
 node_id = "MDEwOlJlcG9zaXRvcnkyMDkxODk1MDI="

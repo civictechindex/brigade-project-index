@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 319_170_888
+is_template = false
 language = "C#"
 name = "public-data-utility"
 node_id = "MDEwOlJlcG9zaXRvcnkzMTkxNzA4ODg="

@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 198_491_847
+is_template = false
 name = "open-eugene-plan"
 node_id = "MDEwOlJlcG9zaXRvcnkxOTg0OTE4NDc="
 open_issues_within = 100

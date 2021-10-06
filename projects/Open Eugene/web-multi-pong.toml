@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 231_699_664
+is_template = false
 language = "HTML"
 name = "web-multi-pong"
 node_id = "MDEwOlJlcG9zaXRvcnkyMzE2OTk2NjQ="

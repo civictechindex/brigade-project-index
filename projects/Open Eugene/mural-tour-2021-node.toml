@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 221_349_176
+is_template = false
 language = "TypeScript"
 name = "mural-tour-2021-node"
 node_id = "MDEwOlJlcG9zaXRvcnkyMjEzNDkxNzY="

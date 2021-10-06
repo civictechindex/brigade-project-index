@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = false
 homepage = "https://mozilla.github.io/open-leadership-training-series/"
 id = 191_238_406
+is_template = false
 language = "CSS"
 name = "open-leadership-training-series"
 node_id = "MDEwOlJlcG9zaXRvcnkxOTEyMzg0MDY="

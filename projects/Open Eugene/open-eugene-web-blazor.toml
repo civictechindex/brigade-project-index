@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 226_565_730
+is_template = false
 language = "HTML"
 name = "open-eugene-web-blazor"
 node_id = "MDEwOlJlcG9zaXRvcnkyMjY1NjU3MzA="

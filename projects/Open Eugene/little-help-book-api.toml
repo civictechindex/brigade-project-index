@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 312_420_849
+is_template = false
 language = "C#"
 name = "little-help-book-api"
 node_id = "MDEwOlJlcG9zaXRvcnkzMTI0MjA4NDk="
