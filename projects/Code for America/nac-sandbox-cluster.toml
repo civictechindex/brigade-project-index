@@ -25,12 +25,12 @@ id = 375_154_240
 is_template = false
 name = "nac-sandbox-cluster"
 node_id = "MDEwOlJlcG9zaXRvcnkzNzUxNTQyNDA="
-open_issues_within = 0
+open_issues_within = 10
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 0
 topics = [ ]
-updated_within = "month"
+updated_within = "week"
 visibility = "public"
 watchers_within = 0
 
