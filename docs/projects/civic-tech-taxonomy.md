@@ -8,8 +8,8 @@ A comprehensive and intuitive projects categorization is critical in order to av
 - Status: Conceptual
 - Project needs: Civic Tech and Classification/Taxonomy competency, front-end developers
 - How to collaborate: [Join Us](../join-us.md#how-to-participate)
-- Draft UI: [https://codeforamerica.github.io/civic-tech-taxonomy/editor-ui/](https://codeforamerica.github.io/civic-tech-taxonomy/editor-ui/) https://codeforamerica.github.io/civic-tech-taxonomy/editor-ui/
-- Draft API Swagger [https://codeforamerica.github.io/civic-tech-taxonomy/editor-ui/swagger.html] (https://codeforamerica.github.io/civic-tech-taxonomy/editor-ui/swagger.html)
+- Draft UI: [https://codeforamerica.github.io/civic-tech-taxonomy/editor-ui/](https://codeforamerica.github.io/civic-tech-taxonomy/editor-ui/)
+- Draft API Swagger [https://codeforamerica.github.io/civic-tech-taxonomy/editor-ui/swagger.html](https://codeforamerica.github.io/civic-tech-taxonomy/editor-ui/swagger.html)
 
 There are some significant challenges to achieve such a good taxonomy
 
