@@ -30,6 +30,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://beta.upswyng.org"
 id = 172_246_870
+is_template = false
 language = "TypeScript"
 name = "upswyng"
 node_id = "MDEwOlJlcG9zaXRvcnkxNzIyNDY4NzA="
