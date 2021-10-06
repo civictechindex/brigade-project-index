@@ -19,6 +19,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 13_875_925
+is_template = false
 language = "Ruby"
 name = "chi-text"
 network_count = 0

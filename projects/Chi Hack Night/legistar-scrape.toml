@@ -19,6 +19,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 5_489_749
+is_template = false
 language = "Python"
 name = "legistar-scrape"
 network_count = 15

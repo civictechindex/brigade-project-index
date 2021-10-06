@@ -19,6 +19,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 6_708_042
+is_template = false
 language = "Python"
 name = "chicago-card-crawler"
 network_count = 1

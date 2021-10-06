@@ -19,6 +19,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://istheresewageinthechicagoriver.com"
 id = 14_914_455
+is_template = false
 language = "HTML"
 name = "chicago-river-sewage"
 network_count = 13

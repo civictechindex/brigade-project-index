@@ -17,6 +17,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 12_395_333
+is_template = false
 name = "food-deserts"
 network_count = 4
 node_id = "MDEwOlJlcG9zaXRvcnkxMjM5NTMzMw=="

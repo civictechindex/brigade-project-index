@@ -19,6 +19,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://convictions.smartchicagoapps.org/"
 id = 21_105_414
+is_template = false
 language = "JavaScript"
 name = "cook-convictions"
 network_count = 1

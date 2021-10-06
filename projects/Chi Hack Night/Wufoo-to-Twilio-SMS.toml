@@ -19,6 +19,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 15_721_481
+is_template = false
 language = "Ruby"
 name = "Wufoo-to-Twilio-SMS"
 network_count = 1
@@ -67,6 +68,7 @@ watchers_within = 10
   has_wiki = true
   homepage = ""
   id = 14_815_219
+  is_template = false
   language = "Ruby"
   name = "Wufoo-to-Twilio-SMS"
   node_id = "MDEwOlJlcG9zaXRvcnkxNDgxNTIxOQ=="
@@ -111,6 +113,7 @@ watchers_within = 10
   has_wiki = true
   homepage = ""
   id = 14_815_219
+  is_template = false
   language = "Ruby"
   name = "Wufoo-to-Twilio-SMS"
   node_id = "MDEwOlJlcG9zaXRvcnkxNDgxNTIxOQ=="

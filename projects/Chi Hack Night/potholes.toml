@@ -19,6 +19,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://potholes.311services.org/"
 id = 3_634_345
+is_template = false
 language = "JavaScript"
 name = "potholes"
 network_count = 1

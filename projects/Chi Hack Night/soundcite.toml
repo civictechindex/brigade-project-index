@@ -19,6 +19,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://soundcite.knightlab.com"
 id = 8_456_235
+is_template = false
 language = "HTML"
 name = "soundcite"
 network_count = 41

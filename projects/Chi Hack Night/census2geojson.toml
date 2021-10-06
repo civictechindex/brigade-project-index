@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 12_358_748
+is_template = false
 language = "Python"
 name = "census2geojson"
 network_count = 2

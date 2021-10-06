@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 9_628_942
+is_template = false
 language = "R"
 name = "foodborne_classifier"
 network_count = 139

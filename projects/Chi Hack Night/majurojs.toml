@@ -19,6 +19,7 @@ has_projects = false
 has_wiki = false
 homepage = "www.majurojs.org"
 id = 7_265_914
+is_template = false
 language = "HTML"
 name = "majurojs"
 network_count = 7

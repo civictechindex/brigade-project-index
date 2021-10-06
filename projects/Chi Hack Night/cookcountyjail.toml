@@ -19,6 +19,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://cookcountyjail.recoveredfactory.net/api/1.0/?format=json"
 id = 6_754_695
+is_template = false
 language = "Python"
 name = "cookcountyjail"
 network_count = 23

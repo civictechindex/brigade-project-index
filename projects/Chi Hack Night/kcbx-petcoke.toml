@@ -19,6 +19,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 32_842_791
+is_template = false
 language = "JavaScript"
 name = "kcbx-petcoke"
 network_count = 4

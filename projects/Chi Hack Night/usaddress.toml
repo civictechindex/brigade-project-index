@@ -19,6 +19,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://parserator.datamade.us/usaddress"
 id = 21_954_559
+is_template = false
 language = "Python"
 name = "usaddress"
 network_count = 251

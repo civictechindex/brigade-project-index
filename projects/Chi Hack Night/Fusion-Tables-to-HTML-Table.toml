@@ -19,6 +19,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://derekeder.com/fusion-tables-to-html-table/"
 id = 2_654_999
+is_template = false
 language = "PHP"
 name = "Fusion-Tables-to-HTML-Table"
 network_count = 11

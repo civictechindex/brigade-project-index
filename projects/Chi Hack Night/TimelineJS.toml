@@ -19,6 +19,7 @@ has_projects = true
 has_wiki = false
 homepage = "http://timeline.knightlab.com"
 id = 3_633_690
+is_template = false
 language = "JavaScript"
 name = "TimelineJS"
 network_count = 1_607

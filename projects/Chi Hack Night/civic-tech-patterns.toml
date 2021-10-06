@@ -19,6 +19,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://codeforamerica.github.io/civic-tech-patterns"
 id = 7_429_339
+is_template = false
 language = "Ruby"
 name = "civic-tech-patterns"
 network_count = 22

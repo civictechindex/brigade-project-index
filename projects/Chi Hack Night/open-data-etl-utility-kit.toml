@@ -19,6 +19,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 23_943_874
+is_template = false
 language = "Shell"
 name = "open-data-etl-utility-kit"
 network_count = 29

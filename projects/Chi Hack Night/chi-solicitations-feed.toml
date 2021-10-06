@@ -18,6 +18,7 @@ has_pages = true
 has_projects = true
 has_wiki = true
 id = 14_931_634
+is_template = false
 language = "Python"
 name = "chi-solicitations-feed"
 network_count = 2

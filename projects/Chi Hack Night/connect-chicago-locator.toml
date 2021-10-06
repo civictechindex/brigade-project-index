@@ -19,6 +19,7 @@ has_projects = true
 has_wiki = true
 homepage = "locations.weconnectchicago.org"
 id = 5_576_203
+is_template = false
 language = "Ruby"
 name = "connect-chicago-locator"
 network_count = 13

@@ -17,6 +17,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 8_743_302
+is_template = false
 language = "Python"
 name = "benefice"
 network_count = 2

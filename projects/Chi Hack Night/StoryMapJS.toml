@@ -19,6 +19,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://storymap.knightlab.com/"
 id = 11_586_630
+is_template = false
 language = "JavaScript"
 name = "StoryMapJS"
 network_count = 15

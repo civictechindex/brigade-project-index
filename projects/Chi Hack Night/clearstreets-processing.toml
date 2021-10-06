@@ -19,6 +19,7 @@ has_projects = true
 has_wiki = true
 homepage = "clearstreets.org"
 id = 3_330_188
+is_template = false
 language = "Python"
 name = "clearstreets-processing"
 network_count = 2

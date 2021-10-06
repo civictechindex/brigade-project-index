@@ -19,6 +19,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://www.smartchicagoapps.org/"
 id = 7_946_028
+is_template = false
 language = "CSS"
 name = "www.smartchicagoapps.org"
 network_count = 2

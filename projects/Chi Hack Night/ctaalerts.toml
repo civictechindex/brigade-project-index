@@ -19,6 +19,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 705_070
+is_template = false
 language = "Python"
 name = "ctaalerts"
 network_count = 0

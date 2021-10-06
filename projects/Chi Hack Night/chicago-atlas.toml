@@ -19,6 +19,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://www.chicagohealthatlas.org/"
 id = 8_077_146
+is_template = false
 language = "PLpgSQL"
 name = "chicago-atlas"
 network_count = 238

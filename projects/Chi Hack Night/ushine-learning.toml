@@ -19,6 +19,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://dssg.io/projects#ushahidi"
 id = 11_647_344
+is_template = false
 language = "Python"
 name = "ushine-learning"
 network_count = 6

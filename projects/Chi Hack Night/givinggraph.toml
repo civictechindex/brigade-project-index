@@ -19,6 +19,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://github.com/dssg/givinggraph/wiki/API"
 id = 10_605_933
+is_template = false
 language = "Python"
 name = "givinggraph"
 network_count = 15

@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 5_687_895
+is_template = false
 language = "Ruby"
 name = "open311-api-tests"
 network_count = 1

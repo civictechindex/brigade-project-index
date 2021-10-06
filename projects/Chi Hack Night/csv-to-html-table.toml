@@ -19,6 +19,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://derekeder.github.io/csv-to-html-table/"
 id = 37_384_762
+is_template = false
 language = "CSS"
 name = "csv-to-html-table"
 network_count = 246
