@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://snap.codeforanchorage.org/"
 id = 35_740_368
+is_template = false
 language = "Ruby"
 name = "snap_screener"
 node_id = "MDEwOlJlcG9zaXRvcnkzNTc0MDM2OA=="

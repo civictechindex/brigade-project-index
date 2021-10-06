@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 53_223_657
+is_template = false
 language = "JavaScript"
 name = "907bot"
 node_id = "MDEwOlJlcG9zaXRvcnk1MzIyMzY1Nw=="

@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 259_750_965
+is_template = false
 language = "Vue"
 name = "shelter-caller-front-end"
 node_id = "MDEwOlJlcG9zaXRvcnkyNTk3NTA5NjU="

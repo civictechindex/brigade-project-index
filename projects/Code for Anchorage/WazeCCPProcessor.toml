@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 112_506_443
+is_template = false
 language = "HCL"
 name = "WazeCCPProcessor"
 node_id = "MDEwOlJlcG9zaXRvcnkxMTI1MDY0NDM="

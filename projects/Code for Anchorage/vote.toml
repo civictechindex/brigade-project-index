@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 26_027_350
+is_template = false
 name = "vote"
 node_id = "MDEwOlJlcG9zaXRvcnkyNjAyNzM1MA=="
 open_issues_within = 0

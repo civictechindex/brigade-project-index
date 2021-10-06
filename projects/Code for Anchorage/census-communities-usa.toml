@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 112_411_851
+is_template = false
 language = "Python"
 name = "census-communities-usa"
 node_id = "MDEwOlJlcG9zaXRvcnkxMTI0MTE4NTE="

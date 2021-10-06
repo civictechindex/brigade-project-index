@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 147_455_191
+is_template = false
 language = "TypeScript"
 name = "restaurant-picker"
 node_id = "MDEwOlJlcG9zaXRvcnkxNDc0NTUxOTE="

@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 51_484_979
+is_template = false
 language = "R"
 name = "anchorage_crime_map"
 node_id = "MDEwOlJlcG9zaXRvcnk1MTQ4NDk3OQ=="

@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 31_184_732
+is_template = false
 language = "R"
 name = "Anchorage-Vote-Leverage"
 node_id = "MDEwOlJlcG9zaXRvcnkzMTE4NDczMg=="

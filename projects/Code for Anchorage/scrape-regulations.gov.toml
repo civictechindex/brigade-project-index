@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 85_773_691
+is_template = false
 language = "R"
 name = "scrape-regulations.gov"
 node_id = "MDEwOlJlcG9zaXRvcnk4NTc3MzY5MQ=="

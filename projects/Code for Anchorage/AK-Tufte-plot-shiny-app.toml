@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 29_939_244
+is_template = false
 language = "R"
 name = "AK-Tufte-plot-shiny-app"
 node_id = "MDEwOlJlcG9zaXRvcnkyOTkzOTI0NA=="

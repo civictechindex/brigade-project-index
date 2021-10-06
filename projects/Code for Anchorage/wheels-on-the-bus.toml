@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 9_336_030
+is_template = false
 language = "Python"
 name = "wheels-on-the-bus"
 node_id = "MDEwOlJlcG9zaXRvcnk5MzM2MDMw"

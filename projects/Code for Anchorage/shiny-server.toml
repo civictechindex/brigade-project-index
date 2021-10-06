@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 44_632_987
+is_template = false
 language = "R"
 name = "shiny-server"
 node_id = "MDEwOlJlcG9zaXRvcnk0NDYzMjk4Nw=="

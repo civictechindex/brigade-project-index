@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 24_772_784
+is_template = false
 name = "trailstranscoder_dev_env"
 node_id = "MDEwOlJlcG9zaXRvcnkyNDc3Mjc4NA=="
 open_issues_within = 0

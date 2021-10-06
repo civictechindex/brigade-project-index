@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 11_623_331
+is_template = false
 name = "ancbkn"
 node_id = "MDEwOlJlcG9zaXRvcnkxMTYyMzMzMQ=="
 open_issues_within = 10

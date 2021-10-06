@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://codeforanchorage.org/property-price-is-right/"
 id = 126_116_774
+is_template = false
 language = "JavaScript"
 name = "property-price-is-right"
 node_id = "MDEwOlJlcG9zaXRvcnkxMjYxMTY3NzQ="

@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 259_748_539
+is_template = false
 language = "Python"
 name = "shelter-caller-back-end"
 node_id = "MDEwOlJlcG9zaXRvcnkyNTk3NDg1Mzk="

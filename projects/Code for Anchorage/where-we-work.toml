@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "wherewework.org"
 id = 112_412_256
+is_template = false
 language = "JavaScript"
 name = "where-we-work"
 node_id = "MDEwOlJlcG9zaXRvcnkxMTI0MTIyNTY="
