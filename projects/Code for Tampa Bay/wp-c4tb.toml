@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 128_872_559
+is_template = false
 language = "PHP"
 name = "wp-c4tb"
 node_id = "MDEwOlJlcG9zaXRvcnkxMjg4NzI1NTk="

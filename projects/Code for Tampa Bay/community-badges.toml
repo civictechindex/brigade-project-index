@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 379_409_422
+is_template = false
 name = "community-badges"
 node_id = "MDEwOlJlcG9zaXRvcnkzNzk0MDk0MjI="
 open_issues_within = 0

@@ -29,6 +29,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 229_460_204
+is_template = false
 language = "JavaScript"
 name = "tampa-adopt-a-drain"
 node_id = "MDEwOlJlcG9zaXRvcnkyMjk0NjAyMDQ="

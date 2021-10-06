@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 42_899_128
+is_template = false
 name = "JailPopDashboard"
 node_id = "MDEwOlJlcG9zaXRvcnk0Mjg5OTEyOA=="
 open_issues_within = 10

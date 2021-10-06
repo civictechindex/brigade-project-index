@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 60_472_458
+is_template = false
 language = "Ruby"
 name = "StPeteFamilySupport"
 node_id = "MDEwOlJlcG9zaXRvcnk2MDQ3MjQ1OA=="

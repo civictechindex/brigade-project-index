@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 61_952_706
+is_template = false
 language = "JavaScript"
 name = "PITCensus"
 node_id = "MDEwOlJlcG9zaXRvcnk2MTk1MjcwNg=="

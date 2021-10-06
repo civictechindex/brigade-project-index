@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 103_176_186
+is_template = false
 language = "Python"
 name = "irma-scrapers"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDMxNzYxODY="

@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 60_416_161
+is_template = false
 language = "CSS"
 name = "mapjam"
 node_id = "MDEwOlJlcG9zaXRvcnk2MDQxNjE2MQ=="

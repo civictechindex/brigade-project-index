@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 90_781_612
+is_template = false
 name = "hackzika"
 node_id = "MDEwOlJlcG9zaXRvcnk5MDc4MTYxMg=="
 open_issues_within = 0

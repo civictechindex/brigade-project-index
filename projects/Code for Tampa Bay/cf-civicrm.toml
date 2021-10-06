@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 290_907_368
+is_template = false
 language = "PHP"
 name = "cf-civicrm"
 node_id = "MDEwOlJlcG9zaXRvcnkyOTA5MDczNjg="

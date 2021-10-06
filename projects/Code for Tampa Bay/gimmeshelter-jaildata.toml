@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 64_022_991
+is_template = false
 name = "gimmeshelter-jaildata"
 node_id = "MDEwOlJlcG9zaXRvcnk2NDAyMjk5MQ=="
 open_issues_within = 0

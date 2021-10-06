@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 103_231_149
+is_template = false
 name = "irma-scraped-data"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDMyMzExNDk="
 open_issues_within = 0
