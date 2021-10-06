@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 375_502_532
+is_template = false
 language = "Jupyter Notebook"
 name = "Air-Quality"
 node_id = "MDEwOlJlcG9zaXRvcnkzNzU1MDI1MzI="

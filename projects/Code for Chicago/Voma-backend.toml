@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 381_174_590
+is_template = false
 language = "Ruby"
 name = "Voma-backend"
 node_id = "MDEwOlJlcG9zaXRvcnkzODExNzQ1OTA="

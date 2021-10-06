@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 370_498_606
+is_template = false
 language = "PHP"
 name = "between_friends"
 node_id = "MDEwOlJlcG9zaXRvcnkzNzA0OTg2MDY="

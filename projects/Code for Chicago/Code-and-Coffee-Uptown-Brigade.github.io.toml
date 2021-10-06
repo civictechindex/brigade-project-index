@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://uptown.codes"
 id = 103_148_803
+is_template = false
 language = "HTML"
 name = "Code-and-Coffee-Uptown-Brigade.github.io"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDMxNDg4MDM="

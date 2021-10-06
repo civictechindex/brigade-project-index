@@ -20,6 +20,7 @@ has_pages = true
 has_projects = true
 has_wiki = true
 id = 343_588_529
+is_template = false
 language = "SCSS"
 name = "design-system"
 node_id = "MDEwOlJlcG9zaXRvcnkzNDM1ODg1Mjk="

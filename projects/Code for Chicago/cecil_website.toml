@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 225_920_621
+is_template = false
 language = "JavaScript"
 name = "cecil_website"
 node_id = "MDEwOlJlcG9zaXRvcnkyMjU5MjA2MjE="

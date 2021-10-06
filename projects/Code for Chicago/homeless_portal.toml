@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 104_590_861
+is_template = false
 language = "CSS"
 name = "homeless_portal"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDQ1OTA4NjE="

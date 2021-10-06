@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 381_174_702
+is_template = false
 language = "JavaScript"
 name = "Voma-frontend"
 node_id = "MDEwOlJlcG9zaXRvcnkzODExNzQ3MDI="
