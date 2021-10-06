@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 28_464_077
+is_template = false
 language = "Ruby"
 name = "spotholes"
 node_id = "MDEwOlJlcG9zaXRvcnkyODQ2NDA3Nw=="

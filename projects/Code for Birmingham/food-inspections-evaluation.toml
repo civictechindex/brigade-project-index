@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://chicago.github.io/food-inspections-evaluation/"
 id = 40_629_916
+is_template = false
 language = "HTML"
 name = "food-inspections-evaluation"
 node_id = "MDEwOlJlcG9zaXRvcnk0MDYyOTkxNg=="

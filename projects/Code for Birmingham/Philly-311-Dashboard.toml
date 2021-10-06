@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 91_195_417
+is_template = false
 language = "Jupyter Notebook"
 name = "Philly-311-Dashboard"
 node_id = "MDEwOlJlcG9zaXRvcnk5MTE5NTQxNw=="

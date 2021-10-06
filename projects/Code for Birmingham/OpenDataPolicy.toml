@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://www.birminghamopendata.org"
 id = 35_515_786
+is_template = false
 language = "HTML"
 name = "OpenDataPolicy"
 node_id = "MDEwOlJlcG9zaXRvcnkzNTUxNTc4Ng=="

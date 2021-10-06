@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://www.codeforbirmingham.org/traffic-accident-reports/"
 id = 31_131_190
+is_template = false
 language = "JavaScript"
 name = "traffic-accident-reports"
 node_id = "MDEwOlJlcG9zaXRvcnkzMTEzMTE5MA=="

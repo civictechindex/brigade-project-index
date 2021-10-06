@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://twitter.com/CutePetsBham"
 id = 39_161_889
+is_template = false
 language = "Ruby"
 name = "CutePets"
 node_id = "MDEwOlJlcG9zaXRvcnkzOTE2MTg4OQ=="

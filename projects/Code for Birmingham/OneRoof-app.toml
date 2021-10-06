@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 23_358_265
+is_template = false
 name = "OneRoof-app"
 node_id = "MDEwOlJlcG9zaXRvcnkyMzM1ODI2NQ=="
 open_issues_within = 10

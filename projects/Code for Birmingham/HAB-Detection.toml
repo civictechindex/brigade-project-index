@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 20_360_169
+is_template = false
 language = "JavaScript"
 name = "HAB-Detection"
 node_id = "MDEwOlJlcG9zaXRvcnkyMDM2MDE2OQ=="

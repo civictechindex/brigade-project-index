@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 45_402_132
+is_template = false
 language = "JavaScript"
 name = "network"
 node_id = "MDEwOlJlcG9zaXRvcnk0NTQwMjEzMg=="

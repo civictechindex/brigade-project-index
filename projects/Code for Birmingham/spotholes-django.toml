@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 107_734_511
+is_template = false
 language = "Python"
 name = "spotholes-django"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDc3MzQ1MTE="

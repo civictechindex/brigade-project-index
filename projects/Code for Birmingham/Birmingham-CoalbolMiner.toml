@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 31_137_319
+is_template = false
 language = "Python"
 name = "Birmingham-CoalbolMiner"
 node_id = "MDEwOlJlcG9zaXRvcnkzMTEzNzMxOQ=="

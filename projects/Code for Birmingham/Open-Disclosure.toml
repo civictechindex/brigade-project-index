@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://www.codeforbirmingham.org/Open-Disclosure/"
 id = 23_894_978
+is_template = false
 language = "Python"
 name = "Open-Disclosure"
 node_id = "MDEwOlJlcG9zaXRvcnkyMzg5NDk3OA=="
