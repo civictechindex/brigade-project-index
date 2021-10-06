@@ -23,6 +23,7 @@ has_projects = true
 has_wiki = false
 homepage = "http://codeforbtv.github.com/strategic-plan/"
 id = 8_842_467
+is_template = false
 name = "strategic-plan"
 node_id = "MDEwOlJlcG9zaXRvcnk4ODQyNDY3"
 open_issues_within = 10

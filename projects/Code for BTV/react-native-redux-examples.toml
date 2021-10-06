@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 168_351_228
+is_template = false
 language = "JavaScript"
 name = "react-native-redux-examples"
 node_id = "MDEwOlJlcG9zaXRvcnkxNjgzNTEyMjg="

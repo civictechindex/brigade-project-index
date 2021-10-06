@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 129_007_608
+is_template = false
 language = "PHP"
 name = "StreamOnly"
 node_id = "MDEwOlJlcG9zaXRvcnkxMjkwMDc2MDg="

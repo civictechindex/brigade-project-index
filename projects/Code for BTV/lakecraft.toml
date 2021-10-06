@@ -21,6 +21,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 10_387_165
+is_template = false
 name = "lakecraft"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDM4NzE2NQ=="
 open_issues_within = 0

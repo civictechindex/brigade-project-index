@@ -21,6 +21,7 @@ has_pages = true
 has_projects = true
 has_wiki = true
 id = 17_093_274
+is_template = false
 language = "JavaScript"
 name = "vt-map-maker"
 node_id = "MDEwOlJlcG9zaXRvcnkxNzA5MzI3NA=="

@@ -21,6 +21,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 10_305_098
+is_template = false
 language = "PHP"
 name = "live-music-venue-directory"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDMwNTA5OA=="

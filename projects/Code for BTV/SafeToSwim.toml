@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 130_707_643
+is_template = false
 language = "JavaScript"
 name = "SafeToSwim"
 node_id = "MDEwOlJlcG9zaXRvcnkxMzA3MDc2NDM="
