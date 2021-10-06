@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://codeforamerica.github.com/honolulu-writeathon/"
 id = 4_981_700
+is_template = false
 name = "honolulu-writeathon"
 node_id = "MDEwOlJlcG9zaXRvcnk0OTgxNzAw"
 open_issues_within = 10

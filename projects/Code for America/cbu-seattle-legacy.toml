@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://seattle.changeby.us"
 id = 2_784_312
+is_template = false
 name = "cbu-seattle-legacy"
 node_id = "MDEwOlJlcG9zaXRvcnkyNzg0MzEy"
 open_issues_within = 0

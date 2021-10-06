@@ -28,6 +28,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://portable-profile-v2.herokuapp.com/"
 id = 155_609_495
+is_template = false
 language = "PHP"
 name = "qr-portable-profile-wechat-style"
 node_id = "MDEwOlJlcG9zaXRvcnkxNTU2MDk0OTU="

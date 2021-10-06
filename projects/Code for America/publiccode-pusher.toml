@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 367_484_086
+is_template = false
 language = "SCSS"
 name = "publiccode-pusher"
 node_id = "MDEwOlJlcG9zaXRvcnkzNjc0ODQwODY="

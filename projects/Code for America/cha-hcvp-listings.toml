@@ -20,6 +20,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://codeforamerica.github.io/cha-hcvp-listings"
 id = 24_959_184
+is_template = false
 language = "JavaScript"
 name = "cha-hcvp-listings"
 node_id = "MDEwOlJlcG9zaXRvcnkyNDk1OTE4NA=="

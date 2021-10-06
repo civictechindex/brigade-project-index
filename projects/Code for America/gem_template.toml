@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://codeforamerica.org/"
 id = 1_501_475
+is_template = false
 language = "Ruby"
 name = "gem_template"
 node_id = "MDEwOlJlcG9zaXRvcnkxNTAxNDc1"

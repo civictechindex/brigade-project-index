@@ -20,6 +20,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://codeforamerica.github.io/fellowship-project-dashboard/"
 id = 53_900_124
+is_template = false
 language = "HTML"
 name = "fellowship-project-dashboard"
 node_id = "MDEwOlJlcG9zaXRvcnk1MzkwMDEyNA=="

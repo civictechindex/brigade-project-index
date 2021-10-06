@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://datacouch.com/newurbanmechs"
 id = 2_615_339
+is_template = false
 language = "JavaScript"
 name = "boston-scrapers"
 node_id = "MDEwOlJlcG9zaXRvcnkyNjE1MzM5"

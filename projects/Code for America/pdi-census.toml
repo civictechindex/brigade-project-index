@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://codeforamerica.github.io/pdi-census"
 id = 63_889_138
+is_template = false
 language = "JavaScript"
 name = "pdi-census"
 node_id = "MDEwOlJlcG9zaXRvcnk2Mzg4OTEzOA=="

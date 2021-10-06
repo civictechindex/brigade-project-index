@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 5_724_295
+is_template = false
 language = "Objective-C"
 name = "flying-rhino"
 node_id = "MDEwOlJlcG9zaXRvcnk1NzI0Mjk1"

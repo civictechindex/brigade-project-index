@@ -20,6 +20,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://codeforamerica.github.io/PoliceOpenDataCensus"
 id = 35_172_393
+is_template = false
 language = "HTML"
 name = "PoliceOpenDataCensus"
 node_id = "MDEwOlJlcG9zaXRvcnkzNTE3MjM5Mw=="

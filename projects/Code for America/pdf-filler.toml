@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 59_962_862
+is_template = false
 language = "Python"
 name = "pdf-filler"
 node_id = "MDEwOlJlcG9zaXRvcnk1OTk2Mjg2Mg=="

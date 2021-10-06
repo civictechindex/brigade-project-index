@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 81_370_233
+is_template = false
 name = "brigadesandpoliticalaction"
 node_id = "MDEwOlJlcG9zaXRvcnk4MTM3MDIzMw=="
 open_issues_within = 10

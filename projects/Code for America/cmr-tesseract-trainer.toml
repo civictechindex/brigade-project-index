@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 129_321_960
+is_template = false
 language = "Ruby"
 name = "cmr-tesseract-trainer"
 node_id = "MDEwOlJlcG9zaXRvcnkxMjkzMjE5NjA="

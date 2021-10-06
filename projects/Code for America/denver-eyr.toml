@@ -20,6 +20,7 @@ has_pages = true
 has_projects = true
 has_wiki = true
 id = 26_234_547
+is_template = false
 language = "JavaScript"
 name = "denver-eyr"
 node_id = "MDEwOlJlcG9zaXRvcnkyNjIzNDU0Nw=="

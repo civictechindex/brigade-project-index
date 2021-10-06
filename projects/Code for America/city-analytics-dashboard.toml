@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 17_421_095
+is_template = false
 language = "JavaScript"
 name = "city-analytics-dashboard"
 node_id = "MDEwOlJlcG9zaXRvcnkxNzQyMTA5NQ=="

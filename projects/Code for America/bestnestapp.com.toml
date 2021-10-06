@@ -20,6 +20,7 @@ has_pages = true
 has_projects = true
 has_wiki = true
 id = 20_941_724
+is_template = false
 name = "bestnestapp.com"
 node_id = "MDEwOlJlcG9zaXRvcnkyMDk0MTcyNA=="
 open_issues_within = 0

@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 30_211_203
+is_template = false
 language = "CSS"
 name = "ceviche-starter"
 node_id = "MDEwOlJlcG9zaXRvcnkzMDIxMTIwMw=="

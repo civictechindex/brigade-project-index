@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "maconapps.com"
 id = 4_426_255
+is_template = false
 name = "macon"
 node_id = "MDEwOlJlcG9zaXRvcnk0NDI2MjU1"
 open_issues_within = 10

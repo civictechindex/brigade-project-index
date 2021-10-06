@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 34_680_127
+is_template = false
 language = "CSS"
 name = "chime-starter"
 node_id = "MDEwOlJlcG9zaXRvcnkzNDY4MDEyNw=="

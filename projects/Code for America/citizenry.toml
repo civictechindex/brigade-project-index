@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://geeks.codeforamerica.org"
 id = 1_996_181
+is_template = false
 language = "JavaScript"
 name = "citizenry"
 node_id = "MDEwOlJlcG9zaXRvcnkxOTk2MTgx"

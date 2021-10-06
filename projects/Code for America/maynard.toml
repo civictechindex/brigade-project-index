@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://atlantaga.gov"
 id = 18_049_902
+is_template = false
 language = "Ruby"
 name = "maynard"
 node_id = "MDEwOlJlcG9zaXRvcnkxODA0OTkwMg=="

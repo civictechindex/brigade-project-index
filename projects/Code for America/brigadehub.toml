@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://brigadehub.github.io/"
 id = 93_168_094
+is_template = false
 language = "JavaScript"
 name = "brigadehub"
 node_id = "MDEwOlJlcG9zaXRvcnk5MzE2ODA5NA=="

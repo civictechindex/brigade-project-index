@@ -29,6 +29,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://projects.brigade.network"
 id = 232_008_053
+is_template = false
 language = "JavaScript"
 name = "brigade-project-index-statusboard"
 node_id = "MDEwOlJlcG9zaXRvcnkyMzIwMDgwNTM="

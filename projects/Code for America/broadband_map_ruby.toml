@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 1_896_543
+is_template = false
 language = "Ruby"
 name = "broadband_map_ruby"
 node_id = "MDEwOlJlcG9zaXRvcnkxODk2NTQz"

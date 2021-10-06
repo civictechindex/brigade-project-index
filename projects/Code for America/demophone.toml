@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 18_528_499
+is_template = false
 language = "JavaScript"
 name = "demophone"
 node_id = "MDEwOlJlcG9zaXRvcnkxODUyODQ5OQ=="

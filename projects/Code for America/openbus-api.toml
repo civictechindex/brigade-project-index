@@ -20,6 +20,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://api.chab.us"
 id = 18_905_274
+is_template = false
 language = "JavaScript"
 name = "openbus-api"
 node_id = "MDEwOlJlcG9zaXRvcnkxODkwNTI3NA=="

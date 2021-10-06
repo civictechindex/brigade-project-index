@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 1_725_021
+is_template = false
 language = "Python"
 name = "civipedia"
 node_id = "MDEwOlJlcG9zaXRvcnkxNzI1MDIx"

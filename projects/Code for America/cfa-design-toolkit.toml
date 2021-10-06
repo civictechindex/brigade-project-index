@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 62_910_811
+is_template = false
 name = "cfa-design-toolkit"
 node_id = "MDEwOlJlcG9zaXRvcnk2MjkxMDgxMQ=="
 open_issues_within = 10

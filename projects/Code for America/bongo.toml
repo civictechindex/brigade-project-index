@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://ebongo.org/api/"
 id = 3_589_630
+is_template = false
 language = "Python"
 name = "bongo"
 node_id = "MDEwOlJlcG9zaXRvcnkzNTg5NjMw"

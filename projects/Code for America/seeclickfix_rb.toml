@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://help.seeclickfix.com/kb/api/api-overview"
 id = 1_937_992
+is_template = false
 language = "Ruby"
 name = "seeclickfix_rb"
 node_id = "MDEwOlJlcG9zaXRvcnkxOTM3OTky"

@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 18_821_061
+is_template = false
 language = "Ruby"
 name = "sa-talk-to-city-official"
 node_id = "MDEwOlJlcG9zaXRvcnkxODgyMTA2MQ=="

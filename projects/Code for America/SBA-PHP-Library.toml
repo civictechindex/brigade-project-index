@@ -19,6 +19,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 1_625_281
+is_template = false
 name = "SBA-PHP-Library"
 node_id = "MDEwOlJlcG9zaXRvcnkxNjI1Mjgx"
 open_issues_within = 0

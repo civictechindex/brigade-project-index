@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://bizfriend.ly"
 id = 11_137_392
+is_template = false
 language = "CSS"
 name = "bizfriendly-web"
 node_id = "MDEwOlJlcG9zaXRvcnkxMTEzNzM5Mg=="

@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = false
 homepage = "http://honeycrisp.herokuapp.com"
 id = 142_500_516
+is_template = false
 language = "Ruby"
 name = "honeycrisp-gem"
 node_id = "MDEwOlJlcG9zaXRvcnkxNDI1MDA1MTY="

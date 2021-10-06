@@ -19,6 +19,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 4_058_193
+is_template = false
 language = "JavaScript"
 name = "cbu_philly_styling"
 node_id = "MDEwOlJlcG9zaXRvcnk0MDU4MTkz"

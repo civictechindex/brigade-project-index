@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "citizenonboard.com"
 id = 16_756_583
+is_template = false
 language = "HTML"
 name = "citizen-onboard"
 node_id = "MDEwOlJlcG9zaXRvcnkxNjc1NjU4Mw=="

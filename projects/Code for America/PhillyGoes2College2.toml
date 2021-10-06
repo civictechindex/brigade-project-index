@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://www.phillygoes2college.org/"
 id = 1_925_015
+is_template = false
 language = "PHP"
 name = "PhillyGoes2College2"
 node_id = "MDEwOlJlcG9zaXRvcnkxOTI1MDE1"

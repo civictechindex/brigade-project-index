@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 285_076_106
+is_template = false
 language = "Ruby"
 name = "shortener"
 node_id = "MDEwOlJlcG9zaXRvcnkyODUwNzYxMDY="

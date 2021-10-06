@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 114_204_273
+is_template = false
 name = "brigade-action-teams"
 node_id = "MDEwOlJlcG9zaXRvcnkxMTQyMDQyNzM="
 open_issues_within = 0

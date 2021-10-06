@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 85_227_092
+is_template = false
 language = "Python"
 name = "boto_rsync3"
 node_id = "MDEwOlJlcG9zaXRvcnk4NTIyNzA5Mg=="

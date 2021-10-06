@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://iconathon.org"
 id = 2_220_197
+is_template = false
 language = "PHP"
 name = "iconathon"
 node_id = "MDEwOlJlcG9zaXRvcnkyMjIwMTk3"

@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 31_136_905
+is_template = false
 name = "IndyGIS"
 node_id = "MDEwOlJlcG9zaXRvcnkzMTEzNjkwNQ=="
 open_issues_within = 0

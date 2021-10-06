@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 1_973_035
+is_template = false
 language = "Python"
 name = "broadband_map_python"
 node_id = "MDEwOlJlcG9zaXRvcnkxOTczMDM1"

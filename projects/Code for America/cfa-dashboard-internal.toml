@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://codeforamerica.org"
 id = 2_151_933
+is_template = false
 name = "cfa-dashboard-internal"
 node_id = "MDEwOlJlcG9zaXRvcnkyMTUxOTMz"
 open_issues_within = 0

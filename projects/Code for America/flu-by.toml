@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 1_683_096
+is_template = false
 language = "JavaScript"
 name = "flu-by"
 node_id = "MDEwOlJlcG9zaXRvcnkxNjgzMDk2"

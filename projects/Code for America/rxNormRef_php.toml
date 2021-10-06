@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 2_176_252
+is_template = false
 language = "PHP"
 name = "rxNormRef_php"
 node_id = "MDEwOlJlcG9zaXRvcnkyMTc2MjUy"

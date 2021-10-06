@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 11_374_746
+is_template = false
 language = "JavaScript"
 name = "feedback-form"
 node_id = "MDEwOlJlcG9zaXRvcnkxMTM3NDc0Ng=="

@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = false
 homepage = "https://gcf-microsite.herokuapp.com/"
 id = 163_641_516
+is_template = false
 language = "HTML"
 name = "gcf-microsite"
 node_id = "MDEwOlJlcG9zaXRvcnkxNjM2NDE1MTY="

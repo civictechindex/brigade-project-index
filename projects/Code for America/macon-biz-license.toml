@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 4_809_728
+is_template = false
 name = "macon-biz-license"
 node_id = "MDEwOlJlcG9zaXRvcnk0ODA5NzI4"
 open_issues_within = 10

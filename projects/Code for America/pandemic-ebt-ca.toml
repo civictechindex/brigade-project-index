@@ -23,6 +23,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://ca.p-ebt.org"
 id = 252_531_703
+is_template = false
 language = "Ruby"
 name = "pandemic-ebt-ca"
 node_id = "MDEwOlJlcG9zaXRvcnkyNTI1MzE3MDM="

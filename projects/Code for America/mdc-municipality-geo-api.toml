@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://still-eyrie-4551.herokuapp.com/"
 id = 32_110_807
+is_template = false
 language = "Python"
 name = "mdc-municipality-geo-api"
 node_id = "MDEwOlJlcG9zaXRvcnkzMjExMDgwNw=="

@@ -22,6 +22,7 @@ has_projects = false
 has_wiki = false
 homepage = "https://www.mnbenefits.org"
 id = 261_803_317
+is_template = false
 language = "Java"
 name = "shiba"
 node_id = "MDEwOlJlcG9zaXRvcnkyNjE4MDMzMTc="

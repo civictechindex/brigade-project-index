@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 185_854_308
+is_template = false
 language = "CSS"
 name = "cfa-styleguide-npm"
 node_id = "MDEwOlJlcG9zaXRvcnkxODU4NTQzMDg="

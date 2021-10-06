@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 2_183_359
+is_template = false
 language = "PHP"
 name = "citygories"
 node_id = "MDEwOlJlcG9zaXRvcnkyMTgzMzU5"

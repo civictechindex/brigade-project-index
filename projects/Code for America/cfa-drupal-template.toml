@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://codeforamerica.org"
 id = 1_544_120
+is_template = false
 name = "cfa-drupal-template"
 node_id = "MDEwOlJlcG9zaXRvcnkxNTQ0MTIw"
 open_issues_within = 0

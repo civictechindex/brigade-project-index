@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 263_214_179
+is_template = false
 name = "brigade-infrastructure"
 node_id = "MDEwOlJlcG9zaXRvcnkyNjMyMTQxNzk="
 open_issues_within = 100

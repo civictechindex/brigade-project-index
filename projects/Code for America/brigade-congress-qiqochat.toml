@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 302_191_623
+is_template = false
 language = "HTML"
 name = "brigade-congress-qiqochat"
 node_id = "MDEwOlJlcG9zaXRvcnkzMDIxOTE2MjM="

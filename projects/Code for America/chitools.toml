@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 3_881_131
+is_template = false
 language = "Python"
 name = "chitools"
 node_id = "MDEwOlJlcG9zaXRvcnkzODgxMTMx"

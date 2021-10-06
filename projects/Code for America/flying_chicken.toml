@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://flyingchicken.herokuapp.com/"
 id = 3_228_931
+is_template = false
 language = "JavaScript"
 name = "flying_chicken"
 node_id = "MDEwOlJlcG9zaXRvcnkzMjI4OTMx"

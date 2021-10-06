@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 19_330_819
+is_template = false
 language = "Ruby"
 name = "how-might-we"
 node_id = "MDEwOlJlcG9zaXRvcnkxOTMzMDgxOQ=="

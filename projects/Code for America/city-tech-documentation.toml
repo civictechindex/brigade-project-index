@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 13_746_275
+is_template = false
 name = "city-tech-documentation"
 node_id = "MDEwOlJlcG9zaXRvcnkxMzc0NjI3NQ=="
 open_issues_within = 10

@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://ogdisdk.cloudapp.net/"
 id = 1_912_907
+is_template = false
 language = "Python"
 name = "microsoft_open_data_python"
 node_id = "MDEwOlJlcG9zaXRvcnkxOTEyOTA3"

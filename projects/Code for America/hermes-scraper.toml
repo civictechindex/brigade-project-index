@@ -19,6 +19,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 9_096_002
+is_template = false
 language = "Python"
 name = "hermes-scraper"
 node_id = "MDEwOlJlcG9zaXRvcnk5MDk2MDAy"

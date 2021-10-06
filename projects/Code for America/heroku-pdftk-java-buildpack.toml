@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 238_043_607
+is_template = false
 language = "Shell"
 name = "heroku-pdftk-java-buildpack"
 node_id = "MDEwOlJlcG9zaXRvcnkyMzgwNDM2MDc="

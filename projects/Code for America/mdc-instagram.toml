@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 32_350_314
+is_template = false
 language = "CSS"
 name = "mdc-instagram"
 node_id = "MDEwOlJlcG9zaXRvcnkzMjM1MDMxNA=="

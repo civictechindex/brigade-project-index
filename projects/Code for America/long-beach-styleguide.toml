@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://lisaratner.github.io/long-beach-styleguide/"
 id = 62_183_781
+is_template = false
 language = "CSS"
 name = "long-beach-styleguide"
 node_id = "MDEwOlJlcG9zaXRvcnk2MjE4Mzc4MQ=="

@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 1_451_969
+is_template = false
 language = "Ruby"
 name = "designforamerica"
 node_id = "MDEwOlJlcG9zaXRvcnkxNDUxOTY5"

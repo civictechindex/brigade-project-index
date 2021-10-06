@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 1_762_661
+is_template = false
 name = "CityWho"
 node_id = "MDEwOlJlcG9zaXRvcnkxNzYyNjYx"
 open_issues_within = 0

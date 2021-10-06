@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 17_152_679
+is_template = false
 name = "howto"
 node_id = "MDEwOlJlcG9zaXRvcnkxNzE1MjY3OQ=="
 open_issues_within = 100

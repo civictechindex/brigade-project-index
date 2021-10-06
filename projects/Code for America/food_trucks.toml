@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 10_923_977
+is_template = false
 language = "Ruby"
 name = "food_trucks"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDkyMzk3Nw=="

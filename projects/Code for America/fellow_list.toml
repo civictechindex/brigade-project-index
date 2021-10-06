@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 4_094_355
+is_template = false
 language = "Objective-C"
 name = "fellow_list"
 node_id = "MDEwOlJlcG9zaXRvcnk0MDk0MzU1"

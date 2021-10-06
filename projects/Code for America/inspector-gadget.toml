@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://www.longbeach.gov/lbds/building/inspection/schedule/"
 id = 52_103_742
+is_template = false
 language = "Ruby"
 name = "inspector-gadget"
 node_id = "MDEwOlJlcG9zaXRvcnk1MjEwMzc0Mg=="

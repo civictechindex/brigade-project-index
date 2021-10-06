@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://rxnav.nlm.nih.gov/"
 id = 1_968_155
+is_template = false
 language = "PHP"
 name = "rxNorm_php"
 node_id = "MDEwOlJlcG9zaXRvcnkxOTY4MTU1"

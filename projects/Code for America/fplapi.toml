@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://fplapi.herokuapp.com/"
 id = 35_382_799
+is_template = false
 language = "Python"
 name = "fplapi"
 node_id = "MDEwOlJlcG9zaXRvcnkzNTM4Mjc5OQ=="

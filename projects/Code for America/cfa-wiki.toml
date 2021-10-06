@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = false
 id = 64_166_263
+is_template = false
 name = "cfa-wiki"
 node_id = "MDEwOlJlcG9zaXRvcnk2NDE2NjI2Mw=="
 open_issues_within = 0

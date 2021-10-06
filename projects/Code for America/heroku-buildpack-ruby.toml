@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 4_826_286
+is_template = false
 language = "Ruby"
 name = "heroku-buildpack-ruby"
 node_id = "MDEwOlJlcG9zaXRvcnk0ODI2Mjg2"

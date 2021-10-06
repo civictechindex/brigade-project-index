@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://blightstatus.com"
 id = 6_263_099
+is_template = false
 language = "JavaScript"
 name = "blightstatus-homepage"
 node_id = "MDEwOlJlcG9zaXRvcnk2MjYzMDk5"

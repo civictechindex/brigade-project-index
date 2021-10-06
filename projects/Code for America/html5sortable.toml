@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://farhadi.ir/projects/html5sortable"
 id = 21_112_541
+is_template = false
 language = "JavaScript"
 name = "html5sortable"
 node_id = "MDEwOlJlcG9zaXRvcnkyMTExMjU0MQ=="

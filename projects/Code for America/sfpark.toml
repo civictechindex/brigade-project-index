@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 2_661_489
+is_template = false
 language = "Ruby"
 name = "sfpark"
 node_id = "MDEwOlJlcG9zaXRvcnkyNjYxNDg5"

@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://codeforamerica.github.io/infrastructure-hub/"
 id = 18_533_037
+is_template = false
 language = "JavaScript"
 name = "infrastructure-hub"
 node_id = "MDEwOlJlcG9zaXRvcnkxODUzMzAzNw=="

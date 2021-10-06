@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = false
 homepage = ""
 id = 12_387_482
+is_template = false
 language = "Python"
 name = "heroku-buildpack-pygeo"
 node_id = "MDEwOlJlcG9zaXRvcnkxMjM4NzQ4Mg=="

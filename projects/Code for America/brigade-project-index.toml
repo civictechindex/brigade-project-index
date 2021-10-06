@@ -30,6 +30,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://brigade.cloud/"
 id = 193_432_663
+is_template = false
 language = "JavaScript"
 name = "brigade-project-index"
 node_id = "MDEwOlJlcG9zaXRvcnkxOTM0MzI2NjM="

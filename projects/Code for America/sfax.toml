@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 92_681_975
+is_template = false
 language = "Ruby"
 name = "sfax"
 node_id = "MDEwOlJlcG9zaXRvcnk5MjY4MTk3NQ=="

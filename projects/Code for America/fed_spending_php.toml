@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://www.fedspending.org/apidoc.php"
 id = 1_961_895
+is_template = false
 language = "PHP"
 name = "fed_spending_php"
 node_id = "MDEwOlJlcG9zaXRvcnkxOTYxODk1"

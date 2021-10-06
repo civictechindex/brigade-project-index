@@ -20,6 +20,7 @@ has_pages = true
 has_projects = true
 has_wiki = true
 id = 78_234_092
+is_template = false
 name = "civic-cloud"
 node_id = "MDEwOlJlcG9zaXRvcnk3ODIzNDA5Mg=="
 open_issues_within = 0

@@ -19,6 +19,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 3_547_569
+is_template = false
 language = "JavaScript"
 name = "santa-cruz-businesses"
 node_id = "MDEwOlJlcG9zaXRvcnkzNTQ3NTY5"

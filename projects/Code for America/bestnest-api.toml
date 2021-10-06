@@ -20,6 +20,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://bestnest-api-dev.herokuapp.com/"
 id = 18_531_350
+is_template = false
 language = "JavaScript"
 name = "bestnest-api"
 node_id = "MDEwOlJlcG9zaXRvcnkxODUzMTM1MA=="

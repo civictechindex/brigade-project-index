@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 1_624_516
+is_template = false
 language = "Ruby"
 name = "fcc_reboot"
 node_id = "MDEwOlJlcG9zaXRvcnkxNjI0NTE2"

@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 31_041_298
+is_template = false
 language = "Ruby"
 name = "IndyCutePets"
 node_id = "MDEwOlJlcG9zaXRvcnkzMTA0MTI5OA=="

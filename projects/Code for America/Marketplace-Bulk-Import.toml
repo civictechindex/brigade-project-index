@@ -19,6 +19,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 3_180_545
+is_template = false
 name = "Marketplace-Bulk-Import"
 node_id = "MDEwOlJlcG9zaXRvcnkzMTgwNTQ1"
 open_issues_within = 0

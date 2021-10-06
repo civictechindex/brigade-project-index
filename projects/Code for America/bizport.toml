@@ -20,6 +20,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://bizport.longbeach.gov"
 id = 52_642_581
+is_template = false
 language = "HTML"
 name = "bizport"
 node_id = "MDEwOlJlcG9zaXRvcnk1MjY0MjU4MQ=="

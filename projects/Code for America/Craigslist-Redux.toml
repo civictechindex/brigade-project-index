@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 2_446_830
+is_template = false
 language = "JavaScript"
 name = "Craigslist-Redux"
 node_id = "MDEwOlJlcG9zaXRvcnkyNDQ2ODMw"

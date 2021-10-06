@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = false
 id = 12_303_596
+is_template = false
 language = "JavaScript"
 name = "lv-trucks-notifier"
 node_id = "MDEwOlJlcG9zaXRvcnkxMjMwMzU5Ng=="

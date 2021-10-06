@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "sa-zone.herokuapp.com"
 id = 18_127_607
+is_template = false
 language = "Ruby"
 name = "sa-zone"
 node_id = "MDEwOlJlcG9zaXRvcnkxODEyNzYwNw=="

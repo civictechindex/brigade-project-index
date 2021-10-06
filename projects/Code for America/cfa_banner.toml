@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = false
 homepage = "http://codeforamerica.github.com/cfa_banner"
 id = 4_153_846
+is_template = false
 language = "JavaScript"
 name = "cfa_banner"
 node_id = "MDEwOlJlcG9zaXRvcnk0MTUzODQ2"

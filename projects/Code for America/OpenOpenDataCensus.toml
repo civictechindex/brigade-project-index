@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 48_190_202
+is_template = false
 language = "HTML"
 name = "OpenOpenDataCensus"
 node_id = "MDEwOlJlcG9zaXRvcnk0ODE5MDIwMg=="

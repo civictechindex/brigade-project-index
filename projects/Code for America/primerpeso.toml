@@ -20,6 +20,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://www.primerpeso.com/"
 id = 19_078_596
+is_template = false
 language = "CSS"
 name = "primerpeso"
 node_id = "MDEwOlJlcG9zaXRvcnkxOTA3ODU5Ng=="

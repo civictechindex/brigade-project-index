@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 19_873_287
+is_template = false
 language = "JavaScript"
 name = "chat-mux"
 node_id = "MDEwOlJlcG9zaXRvcnkxOTg3MzI4Nw=="

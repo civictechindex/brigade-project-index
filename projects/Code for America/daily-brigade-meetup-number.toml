@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 42_542_445
+is_template = false
 name = "daily-brigade-meetup-number"
 node_id = "MDEwOlJlcG9zaXRvcnk0MjU0MjQ0NQ=="
 open_issues_within = 0

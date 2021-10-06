@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://courtbot-reporter.herokuapp.com/"
 id = 50_466_794
+is_template = false
 language = "Ruby"
 name = "courtbot-reporter"
 node_id = "MDEwOlJlcG9zaXRvcnk1MDQ2Njc5NA=="

@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 56_660_674
+is_template = false
 language = "Java"
 name = "pdfparser"
 node_id = "MDEwOlJlcG9zaXRvcnk1NjY2MDY3NA=="

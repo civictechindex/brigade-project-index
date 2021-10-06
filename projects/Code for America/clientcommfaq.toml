@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 111_611_810
+is_template = false
 language = "CSS"
 name = "clientcommfaq"
 node_id = "MDEwOlJlcG9zaXRvcnkxMTE2MTE4MTA="

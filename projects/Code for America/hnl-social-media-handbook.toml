@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://codeforamerica.github.com/hnl-social-media-handbook"
 id = 5_695_193
+is_template = false
 language = "JavaScript"
 name = "hnl-social-media-handbook"
 node_id = "MDEwOlJlcG9zaXRvcnk1Njk1MTkz"

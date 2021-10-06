@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://brigade.codeforamerica.org"
 id = 3_237_840
+is_template = false
 language = "PHP"
 name = "cfa-brigade-sandbox-drupal"
 node_id = "MDEwOlJlcG9zaXRvcnkzMjM3ODQw"

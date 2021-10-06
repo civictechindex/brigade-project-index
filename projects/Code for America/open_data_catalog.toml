@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 2_260_119
+is_template = false
 language = "JavaScript"
 name = "open_data_catalog"
 node_id = "MDEwOlJlcG9zaXRvcnkyMjYwMTE5"

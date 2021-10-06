@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 2_223_802
+is_template = false
 language = "JavaScript"
 name = "public_art_finder"
 node_id = "MDEwOlJlcG9zaXRvcnkyMjIzODAy"

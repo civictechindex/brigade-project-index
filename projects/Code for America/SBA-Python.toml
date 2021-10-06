@@ -19,6 +19,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 1_879_058
+is_template = false
 language = "Python"
 name = "SBA-Python"
 node_id = "MDEwOlJlcG9zaXRvcnkxODc5MDU4"

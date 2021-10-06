@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 83_607_937
+is_template = false
 language = "Ruby"
 name = "michigan-benefits"
 node_id = "MDEwOlJlcG9zaXRvcnk4MzYwNzkzNw=="

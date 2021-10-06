@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 1_749_105
+is_template = false
 language = "PHP"
 name = "Data-Wiki"
 node_id = "MDEwOlJlcG9zaXRvcnkxNzQ5MTA1"

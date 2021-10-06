@@ -19,6 +19,7 @@ has_projects = true
 has_wiki = false
 homepage = ""
 id = 1_944_948
+is_template = false
 name = "homework_notifier"
 node_id = "MDEwOlJlcG9zaXRvcnkxOTQ0OTQ4"
 open_issues_within = 0

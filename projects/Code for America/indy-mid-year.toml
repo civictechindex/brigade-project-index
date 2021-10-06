@@ -20,6 +20,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://codeforamerica.github.io/indy-mid-year/"
 id = 37_677_332
+is_template = false
 language = "HTML"
 name = "indy-mid-year"
 node_id = "MDEwOlJlcG9zaXRvcnkzNzY3NzMzMg=="

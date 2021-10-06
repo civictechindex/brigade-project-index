@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 32_943_853
+is_template = false
 language = "CoffeeScript"
 name = "bors-hubot-for-slack"
 node_id = "MDEwOlJlcG9zaXRvcnkzMjk0Mzg1Mw=="

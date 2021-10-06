@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 3_223_005
+is_template = false
 name = "cfa_laptop"
 node_id = "MDEwOlJlcG9zaXRvcnkzMjIzMDA1"
 open_issues_within = 10

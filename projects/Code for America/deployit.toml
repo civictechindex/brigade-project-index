@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 10_696_249
+is_template = false
 language = "Python"
 name = "deployit"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDY5NjI0OQ=="

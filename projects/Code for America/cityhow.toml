@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 6_025_319
+is_template = false
 language = "PHP"
 name = "cityhow"
 node_id = "MDEwOlJlcG9zaXRvcnk2MDI1MzE5"

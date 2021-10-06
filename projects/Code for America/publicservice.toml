@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 1_641_781
+is_template = false
 language = "Python"
 name = "publicservice"
 node_id = "MDEwOlJlcG9zaXRvcnkxNjQxNzgx"

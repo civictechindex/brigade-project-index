@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://atxfloods.com/"
 id = 5_359_221
+is_template = false
 language = "JavaScript"
 name = "floodwatch"
 node_id = "MDEwOlJlcG9zaXRvcnk1MzU5MjIx"

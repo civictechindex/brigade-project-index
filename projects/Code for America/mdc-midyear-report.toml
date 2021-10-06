@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://codeforamerica.github.io/mdc-midyear-report/"
 id = 35_451_499
+is_template = false
 language = "HTML"
 name = "mdc-midyear-report"
 node_id = "MDEwOlJlcG9zaXRvcnkzNTQ1MTQ5OQ=="

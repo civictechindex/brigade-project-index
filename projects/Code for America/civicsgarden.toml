@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://civicsgarden.herokuapp.com"
 id = 4_374_928
+is_template = false
 language = "JavaScript"
 name = "civicsgarden"
 node_id = "MDEwOlJlcG9zaXRvcnk0Mzc0OTI4"

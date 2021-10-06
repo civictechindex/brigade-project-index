@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 32_042_162
+is_template = false
 name = "meeting-etiquette"
 node_id = "MDEwOlJlcG9zaXRvcnkzMjA0MjE2Mg=="
 open_issues_within = 10

@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 17_727_255
+is_template = false
 language = "JavaScript"
 name = "shadowbird"
 node_id = "MDEwOlJlcG9zaXRvcnkxNzcyNzI1NQ=="

@@ -20,6 +20,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://radiant-atoll-7475.herokuapp.com/"
 id = 36_825_377
+is_template = false
 language = "Python"
 name = "lunch-club"
 node_id = "MDEwOlJlcG9zaXRvcnkzNjgyNTM3Nw=="

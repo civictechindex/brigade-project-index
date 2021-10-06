@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://cityvoice-setup.codeforamerica.org"
 id = 21_930_820
+is_template = false
 language = "Ruby"
 name = "cityvoice-survey-builder"
 node_id = "MDEwOlJlcG9zaXRvcnkyMTkzMDgyMA=="

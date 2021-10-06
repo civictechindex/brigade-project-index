@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 35_575_070
+is_template = false
 name = "setup-apps"
 node_id = "MDEwOlJlcG9zaXRvcnkzNTU3NTA3MA=="
 open_issues_within = 0

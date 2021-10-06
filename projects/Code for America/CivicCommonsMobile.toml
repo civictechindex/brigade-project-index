@@ -19,6 +19,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 3_177_063
+is_template = false
 language = "JavaScript"
 name = "CivicCommonsMobile"
 node_id = "MDEwOlJlcG9zaXRvcnkzMTc3MDYz"

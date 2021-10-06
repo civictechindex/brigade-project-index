@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://mn.p-ebt.org/"
 id = 267_440_109
+is_template = false
 language = "Ruby"
 name = "pandemic-ebt-mn"
 node_id = "MDEwOlJlcG9zaXRvcnkyNjc0NDAxMDk="

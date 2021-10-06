@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "messagemacon.com"
 id = 3_633_342
+is_template = false
 language = "Python"
 name = "message_macon"
 node_id = "MDEwOlJlcG9zaXRvcnkzNjMzMzQy"

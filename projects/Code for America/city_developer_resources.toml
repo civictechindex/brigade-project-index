@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 5_471_727
+is_template = false
 language = "JavaScript"
 name = "city_developer_resources"
 node_id = "MDEwOlJlcG9zaXRvcnk1NDcxNzI3"

@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://app.homebasefix.com"
 id = 19_392_236
+is_template = false
 language = "Ruby"
 name = "homebase"
 node_id = "MDEwOlJlcG9zaXRvcnkxOTM5MjIzNg=="

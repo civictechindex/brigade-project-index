@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://max.couchone.com/mapper/_design/app/index.html"
 id = 1_807_307
+is_template = false
 language = "JavaScript"
 name = "mapper"
 node_id = "MDEwOlJlcG9zaXRvcnkxODA3MzA3"

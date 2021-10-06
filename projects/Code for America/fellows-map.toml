@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://codeforamerica.github.io/fellows-map"
 id = 32_883_539
+is_template = false
 language = "JavaScript"
 name = "fellows-map"
 node_id = "MDEwOlJlcG9zaXRvcnkzMjg4MzUzOQ=="

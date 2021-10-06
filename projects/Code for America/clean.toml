@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://demo.cleanassist.org"
 id = 19_191_689
+is_template = false
 language = "Ruby"
 name = "clean"
 node_id = "MDEwOlJlcG9zaXRvcnkxOTE5MTY4OQ=="

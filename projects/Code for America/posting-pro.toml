@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://posting-pro.herokuapp.com"
 id = 54_517_227
+is_template = false
 language = "JavaScript"
 name = "posting-pro"
 node_id = "MDEwOlJlcG9zaXRvcnk1NDUxNzIyNw=="

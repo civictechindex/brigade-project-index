@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 32_109_687
+is_template = false
 name = "civictech"
 node_id = "MDEwOlJlcG9zaXRvcnkzMjEwOTY4Nw=="
 open_issues_within = 10

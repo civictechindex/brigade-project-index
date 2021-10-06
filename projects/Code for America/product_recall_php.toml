@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://search.usa.gov/api/recalls"
 id = 1_961_789
+is_template = false
 language = "PHP"
 name = "product_recall_php"
 node_id = "MDEwOlJlcG9zaXRvcnkxOTYxNzg5"

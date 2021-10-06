@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "www.citygram.org"
 id = 24_240_697
+is_template = false
 language = "CSS"
 name = "citygram-landing"
 node_id = "MDEwOlJlcG9zaXRvcnkyNDI0MDY5Nw=="

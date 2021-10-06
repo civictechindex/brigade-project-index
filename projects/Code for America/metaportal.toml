@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 11_515_507
+is_template = false
 name = "metaportal"
 node_id = "MDEwOlJlcG9zaXRvcnkxMTUxNTUwNw=="
 open_issues_within = 0

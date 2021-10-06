@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 40_028_839
+is_template = false
 language = "Shell"
 name = "heroku-buildpack-lame"
 node_id = "MDEwOlJlcG9zaXRvcnk0MDAyODgzOQ=="

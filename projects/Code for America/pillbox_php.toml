@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://wiki.citizen.apps.gov/pillbox/Main/APIdocumentation"
 id = 1_969_139
+is_template = false
 language = "PHP"
 name = "pillbox_php"
 node_id = "MDEwOlJlcG9zaXRvcnkxOTY5MTM5"

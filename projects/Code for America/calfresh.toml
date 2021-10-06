@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = false
 homepage = "lippytak.github.io/calfresh/"
 id = 306_464_821
+is_template = false
 language = "HTML"
 name = "calfresh"
 node_id = "MDEwOlJlcG9zaXRvcnkzMDY0NjQ4MjE="

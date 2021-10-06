@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 2_068_959
+is_template = false
 language = "Python"
 name = "Python-API-Module"
 node_id = "MDEwOlJlcG9zaXRvcnkyMDY4OTU5"

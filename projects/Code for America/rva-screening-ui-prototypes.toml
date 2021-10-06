@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 38_775_588
+is_template = false
 language = "HTML"
 name = "rva-screening-ui-prototypes"
 node_id = "MDEwOlJlcG9zaXRvcnkzODc3NTU4OA=="

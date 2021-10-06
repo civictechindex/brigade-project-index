@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://deepdish.herokuapp.com/"
 id = 3_947_598
+is_template = false
 language = "JavaScript"
 name = "deepdish"
 node_id = "MDEwOlJlcG9zaXRvcnkzOTQ3NTk4"

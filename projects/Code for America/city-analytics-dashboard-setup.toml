@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 23_809_472
+is_template = false
 language = "Python"
 name = "city-analytics-dashboard-setup"
 node_id = "MDEwOlJlcG9zaXRvcnkyMzgwOTQ3Mg=="

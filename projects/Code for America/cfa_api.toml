@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 7_583_085
+is_template = false
 language = "Ruby"
 name = "cfa_api"
 node_id = "MDEwOlJlcG9zaXRvcnk3NTgzMDg1"

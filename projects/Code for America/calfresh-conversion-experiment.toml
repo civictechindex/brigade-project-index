@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 53_962_482
+is_template = false
 language = "Ruby"
 name = "calfresh-conversion-experiment"
 node_id = "MDEwOlJlcG9zaXRvcnk1Mzk2MjQ4Mg=="

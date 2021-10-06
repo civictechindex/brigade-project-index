@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://www.infrastructuremap.org/"
 id = 22_583_941
+is_template = false
 language = "JavaScript"
 name = "buildatlanta"
 node_id = "MDEwOlJlcG9zaXRvcnkyMjU4Mzk0MQ=="

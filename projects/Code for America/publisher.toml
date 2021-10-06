@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 6_124_347
+is_template = false
 language = "Ruby"
 name = "publisher"
 node_id = "MDEwOlJlcG9zaXRvcnk2MTI0MzQ3"

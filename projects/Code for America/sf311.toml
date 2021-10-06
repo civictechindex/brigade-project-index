@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "sf311.me"
 id = 3_164_223
+is_template = false
 language = "JavaScript"
 name = "sf311"
 node_id = "MDEwOlJlcG9zaXRvcnkzMTY0MjIz"

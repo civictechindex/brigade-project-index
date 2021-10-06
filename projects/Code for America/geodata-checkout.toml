@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://historicchicago.heroku.com/"
 id = 6_197_546
+is_template = false
 language = "CSS"
 name = "geodata-checkout"
 node_id = "MDEwOlJlcG9zaXRvcnk2MTk3NTQ2"

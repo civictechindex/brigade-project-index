@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 194_689_061
+is_template = false
 name = "cross-brigade-collab"
 node_id = "MDEwOlJlcG9zaXRvcnkxOTQ2ODkwNjE="
 open_issues_within = 10

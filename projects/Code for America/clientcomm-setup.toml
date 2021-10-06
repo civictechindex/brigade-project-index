@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 104_512_037
+is_template = false
 language = "Shell"
 name = "clientcomm-setup"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDQ1MTIwMzc="

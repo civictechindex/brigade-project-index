@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://open-trails.herokuapp.com/"
 id = 19_167_514
+is_template = false
 language = "Python"
 name = "OpenTrails"
 node_id = "MDEwOlJlcG9zaXRvcnkxOTE2NzUxNA=="

@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 1_812_011
+is_template = false
 language = "PHP"
 name = "Philly-SOC"
 node_id = "MDEwOlJlcG9zaXRvcnkxODEyMDEx"
