@@ -21,6 +21,7 @@ has_pages = false
 has_projects = false
 has_wiki = false
 id = 30_946_242
+is_template = false
 name = "contributor-license-agreement"
 node_id = "MDEwOlJlcG9zaXRvcnkzMDk0NjI0Mg=="
 open_issues_within = 0

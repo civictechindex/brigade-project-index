@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://www.chicago.gov/city/en/sites/census2020/home/ward-reports.html"
 id = 241_420_345
+is_template = false
 language = "HTML"
 name = "census2020_ward_rpt"
 node_id = "MDEwOlJlcG9zaXRvcnkyNDE0MjAzNDU="

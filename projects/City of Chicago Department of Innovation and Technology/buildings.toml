@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://github.com/Chicago/buildings/wiki"
 id = 84_872_055
+is_template = false
 language = "R"
 name = "buildings"
 node_id = "MDEwOlJlcG9zaXRvcnk4NDg3MjA1NQ=="

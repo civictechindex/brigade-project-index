@@ -23,6 +23,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://dev.cityofchicago.org/projects"
 id = 48_857_547
+is_template = false
 language = "HTML"
 name = "chicago.github.com"
 node_id = "MDEwOlJlcG9zaXRvcnk0ODg1NzU0Nw=="

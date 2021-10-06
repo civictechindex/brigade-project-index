@@ -20,6 +20,7 @@ has_pages = true
 has_projects = true
 has_wiki = true
 id = 185_216_388
+is_template = false
 language = "SCSS"
 name = "alpha.chicago.gov"
 node_id = "MDEwOlJlcG9zaXRvcnkxODUyMTYzODg="

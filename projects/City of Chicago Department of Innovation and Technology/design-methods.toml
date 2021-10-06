@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://methods.chicagodesignsystem.org/"
 id = 141_506_466
+is_template = false
 language = "CSS"
 name = "design-methods"
 node_id = "MDEwOlJlcG9zaXRvcnkxNDE1MDY0NjY="

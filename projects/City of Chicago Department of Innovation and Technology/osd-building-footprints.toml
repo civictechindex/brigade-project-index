@@ -21,6 +21,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 8_066_746
+is_template = false
 language = "R"
 name = "osd-building-footprints"
 node_id = "MDEwOlJlcG9zaXRvcnk4MDY2NzQ2"

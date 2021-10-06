@@ -23,6 +23,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://www.kaggle.com/c/predict-west-nile-virus"
 id = 51_170_692
+is_template = false
 language = "Matlab"
 name = "Kaggle_WestNileVirus"
 node_id = "MDEwOlJlcG9zaXRvcnk1MTE3MDY5Mg=="

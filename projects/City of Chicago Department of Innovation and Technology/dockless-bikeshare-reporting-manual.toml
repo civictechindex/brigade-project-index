@@ -20,6 +20,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://chicago.github.io/dockless-bikeshare-reporting-manual/"
 id = 131_739_846
+is_template = false
 language = "CSS"
 name = "dockless-bikeshare-reporting-manual"
 node_id = "MDEwOlJlcG9zaXRvcnkxMzE3Mzk4NDY="

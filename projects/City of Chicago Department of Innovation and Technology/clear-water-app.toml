@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 94_257_800
+is_template = false
 language = "R"
 name = "clear-water-app"
 node_id = "MDEwOlJlcG9zaXRvcnk5NDI1NzgwMA=="

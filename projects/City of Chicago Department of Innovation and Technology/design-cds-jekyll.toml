@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://chicagodesignsystem.org/"
 id = 142_308_492
+is_template = false
 language = "CSS"
 name = "design-cds-jekyll"
 node_id = "MDEwOlJlcG9zaXRvcnkxNDIzMDg0OTI="

@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 10_232_763
+is_template = false
 language = "OpenEdge ABL"
 name = "ChicagoEnergy"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDIzMjc2Mw=="

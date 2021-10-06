@@ -20,6 +20,7 @@ has_pages = true
 has_projects = true
 has_wiki = true
 id = 162_302_969
+is_template = false
 language = "TeX"
 name = "copa-forms"
 node_id = "MDEwOlJlcG9zaXRvcnkxNjIzMDI5Njk="

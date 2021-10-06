@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 49_752_141
+is_template = false
 language = "Java"
 name = "FoodBorne-2.0-classifier"
 node_id = "MDEwOlJlcG9zaXRvcnk0OTc1MjE0MQ=="

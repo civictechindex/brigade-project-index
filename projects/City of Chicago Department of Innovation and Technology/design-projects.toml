@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = false
 id = 137_408_305
+is_template = false
 name = "design-projects"
 node_id = "MDEwOlJlcG9zaXRvcnkxMzc0MDgzMDU="
 open_issues_within = 100

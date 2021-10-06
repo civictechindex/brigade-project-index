@@ -20,6 +20,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://adopt.chicagoshovels.org/"
 id = 2_828_253
+is_template = false
 language = "Ruby"
 name = "adopt-a-sidewalk"
 node_id = "MDEwOlJlcG9zaXRvcnkyODI4MjUz"

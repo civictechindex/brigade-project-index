@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 37_213_521
+is_template = false
 language = "Java"
 name = "opengrid-svc-template"
 node_id = "MDEwOlJlcG9zaXRvcnkzNzIxMzUyMQ=="

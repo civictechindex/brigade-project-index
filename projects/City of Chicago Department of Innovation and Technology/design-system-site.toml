@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://chicago.github.io/design-system-site/"
 id = 241_416_090
+is_template = false
 language = "HTML"
 name = "design-system-site"
 node_id = "MDEwOlJlcG9zaXRvcnkyNDE0MTYwOTA="

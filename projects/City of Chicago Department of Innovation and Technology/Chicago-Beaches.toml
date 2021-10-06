@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 99_366_846
+is_template = false
 language = "R"
 name = "Chicago-Beaches"
 node_id = "MDEwOlJlcG9zaXRvcnk5OTM2Njg0Ng=="

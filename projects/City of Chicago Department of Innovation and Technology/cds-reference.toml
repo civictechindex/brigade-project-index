@@ -20,6 +20,7 @@ has_pages = true
 has_projects = true
 has_wiki = true
 id = 225_643_959
+is_template = false
 language = "HTML"
 name = "cds-reference"
 node_id = "MDEwOlJlcG9zaXRvcnkyMjU2NDM5NTk="

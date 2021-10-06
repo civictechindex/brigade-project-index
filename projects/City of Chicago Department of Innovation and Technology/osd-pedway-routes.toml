@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 8_065_841
+is_template = false
 language = "R"
 name = "osd-pedway-routes"
 node_id = "MDEwOlJlcG9zaXRvcnk4MDY1ODQx"

@@ -23,6 +23,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://www.flavoredtobaccosearchengine.org/"
 id = 49_098_084
+is_template = false
 language = "HTML"
 name = "flavored-tobacco-search-engine"
 node_id = "MDEwOlJlcG9zaXRvcnk0OTA5ODA4NA=="

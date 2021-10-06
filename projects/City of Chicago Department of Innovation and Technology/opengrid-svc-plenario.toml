@@ -26,6 +26,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 49_972_705
+is_template = false
 language = "Java"
 name = "opengrid-svc-plenario"
 node_id = "MDEwOlJlcG9zaXRvcnk0OTk3MjcwNQ=="

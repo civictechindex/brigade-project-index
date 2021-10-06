@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://design.chicago.gov"
 id = 118_152_710
+is_template = false
 language = "HTML"
 name = "design.chicago.gov"
 node_id = "MDEwOlJlcG9zaXRvcnkxMTgxNTI3MTA="

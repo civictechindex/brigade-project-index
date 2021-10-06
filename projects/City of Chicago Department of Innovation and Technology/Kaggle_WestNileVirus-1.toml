@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://www.kaggle.com/c/predict-west-nile-virus"
 id = 51_170_706
+is_template = false
 language = "Python"
 name = "Kaggle_WestNileVirus-1"
 node_id = "MDEwOlJlcG9zaXRvcnk1MTE3MDcwNg=="

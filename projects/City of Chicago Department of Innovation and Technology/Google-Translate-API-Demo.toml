@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 202_421_668
+is_template = false
 language = "HTML"
 name = "Google-Translate-API-Demo"
 node_id = "MDEwOlJlcG9zaXRvcnkyMDI0MjE2Njg="

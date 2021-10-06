@@ -32,6 +32,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://dev.cityofchicago.org/docs/lead-safe/"
 id = 100_971_462
+is_template = false
 language = "HTML"
 name = "lead-safe-api-docs"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDA5NzE0NjI="

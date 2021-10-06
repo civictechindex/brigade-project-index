@@ -21,6 +21,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 49_752_184
+is_template = false
 language = "R"
 name = "foodborne_classifier"
 node_id = "MDEwOlJlcG9zaXRvcnk0OTc1MjE4NA=="

@@ -27,6 +27,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 104_483_059
+is_template = false
 language = "Python"
 name = "lead-model"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDQ0ODMwNTk="

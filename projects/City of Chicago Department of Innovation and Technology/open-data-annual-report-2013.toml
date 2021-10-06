@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = false
 homepage = "report.cityofchicago.org/open-data-2013"
 id = 14_367_102
+is_template = false
 language = "CSS"
 name = "open-data-annual-report-2013"
 node_id = "MDEwOlJlcG9zaXRvcnkxNDM2NzEwMg=="
