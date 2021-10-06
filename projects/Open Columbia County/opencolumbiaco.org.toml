@@ -23,6 +23,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://opencolumbiaco.org"
 id = 326_498_332
+is_template = false
 language = "JavaScript"
 name = "opencolumbiaco.org"
 node_id = "MDEwOlJlcG9zaXRvcnkzMjY0OTgzMzI="

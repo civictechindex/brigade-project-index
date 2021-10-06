@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 381_998_600
+is_template = false
 name = "occ-django"
 node_id = "MDEwOlJlcG9zaXRvcnkzODE5OTg2MDA="
 open_issues_within = 0
