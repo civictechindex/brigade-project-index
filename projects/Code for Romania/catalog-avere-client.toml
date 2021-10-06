@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://code4.ro/proiect/catalog-politic/"
 id = 69_742_714
+is_template = false
 language = "Elm"
 name = "catalog-avere-client"
 node_id = "MDEwOlJlcG9zaXRvcnk2OTc0MjcxNA=="

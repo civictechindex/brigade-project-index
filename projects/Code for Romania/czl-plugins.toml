@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://cezicelegea.ro/"
 id = 87_649_866
+is_template = false
 name = "czl-plugins"
 node_id = "MDEwOlJlcG9zaXRvcnk4NzY0OTg2Ng=="
 open_issues_within = 0

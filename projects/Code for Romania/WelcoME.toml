@@ -23,6 +23,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://code4.ro/en/apps/welcome/"
 id = 69_789_585
+is_template = false
 language = "JavaScript"
 name = "WelcoME"
 node_id = "MDEwOlJlcG9zaXRvcnk2OTc4OTU4NQ=="

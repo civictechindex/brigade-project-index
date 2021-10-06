@@ -20,6 +20,7 @@ has_projects = true
 has_wiki = false
 homepage = ""
 id = 282_317_012
+is_template = false
 language = "PHP"
 name = "donors-platform"
 node_id = "MDEwOlJlcG9zaXRvcnkyODIzMTcwMTI="

@@ -33,6 +33,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://monitorizarevot.ro/"
 id = 72_014_852
+is_template = false
 language = "PHP"
 name = "monitorizare-vot-votanti-api"
 node_id = "MDEwOlJlcG9zaXRvcnk3MjAxNDg1Mg=="

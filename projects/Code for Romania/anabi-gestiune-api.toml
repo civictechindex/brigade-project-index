@@ -29,6 +29,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://code4.ro/ro/apps/anabi/"
 id = 89_482_628
+is_template = false
 language = "C#"
 name = "anabi-gestiune-api"
 node_id = "MDEwOlJlcG9zaXRvcnk4OTQ4MjYyOA=="

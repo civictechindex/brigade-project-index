@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = "rezultate-vot-client-git-master.code4romania.vercel.app"
 id = 295_689_908
+is_template = false
 language = "TypeScript"
 name = "rezultate-vot-client"
 node_id = "MDEwOlJlcG9zaXRvcnkyOTU2ODk5MDg="

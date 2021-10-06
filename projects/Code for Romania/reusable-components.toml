@@ -23,6 +23,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://reusable-components-peach.vercel.app"
 id = 281_380_939
+is_template = false
 language = "TypeScript"
 name = "reusable-components"
 node_id = "MDEwOlJlcG9zaXRvcnkyODEzODA5Mzk="

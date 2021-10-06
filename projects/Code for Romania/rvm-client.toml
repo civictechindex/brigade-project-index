@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 189_609_660
+is_template = false
 language = "TypeScript"
 name = "rvm-client"
 node_id = "MDEwOlJlcG9zaXRvcnkxODk2MDk2NjA="

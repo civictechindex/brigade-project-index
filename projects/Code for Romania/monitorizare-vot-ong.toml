@@ -33,6 +33,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://votemonitor.org"
 id = 71_236_113
+is_template = false
 language = "TypeScript"
 name = "monitorizare-vot-ong"
 node_id = "MDEwOlJlcG9zaXRvcnk3MTIzNjExMw=="

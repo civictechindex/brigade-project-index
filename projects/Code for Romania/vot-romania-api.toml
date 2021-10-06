@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://vot-romania.now.sh"
 id = 242_173_925
+is_template = false
 language = "C#"
 name = "vot-romania-api"
 node_id = "MDEwOlJlcG9zaXRvcnkyNDIxNzM5MjU="

@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://votdiaspora.ro"
 id = 293_447_136
+is_template = false
 language = "C#"
 name = "vot-diaspora-api"
 node_id = "MDEwOlJlcG9zaXRvcnkyOTM0NDcxMzY="

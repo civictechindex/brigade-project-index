@@ -20,6 +20,7 @@ has_projects = true
 has_wiki = true
 homepage = "expert-consultation-frontend.vercel.app"
 id = 370_761_560
+is_template = false
 language = "TypeScript"
 name = "expert-consultation-frontend"
 node_id = "MDEwOlJlcG9zaXRvcnkzNzA3NjE1NjA="

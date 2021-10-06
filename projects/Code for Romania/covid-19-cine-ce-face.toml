@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://whos-who.now.sh"
 id = 250_521_517
+is_template = false
 language = "JavaScript"
 name = "covid-19-cine-ce-face"
 node_id = "MDEwOlJlcG9zaXRvcnkyNTA1MjE1MTc="

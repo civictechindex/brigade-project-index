@@ -32,6 +32,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://votemonitor.org/"
 id = 69_239_755
+is_template = false
 language = "Swift"
 name = "monitorizare-vot-ios"
 node_id = "MDEwOlJlcG9zaXRvcnk2OTIzOTc1NQ=="

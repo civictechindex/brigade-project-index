@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 379_271_640
+is_template = false
 language = "Kotlin"
 name = "teacher-workout-android"
 node_id = "MDEwOlJlcG9zaXRvcnkzNzkyNzE2NDA="

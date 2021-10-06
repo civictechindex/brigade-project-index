@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = false
 homepage = "https://civiclabs.ro"
 id = 194_634_323
+is_template = false
 language = "PHP"
 name = "civiclabs.ro"
 node_id = "MDEwOlJlcG9zaXRvcnkxOTQ2MzQzMjM="

@@ -33,6 +33,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://monitorizarevot.ro/"
 id = 72_847_935
+is_template = false
 language = "JavaScript"
 name = "monitorizare-vot-votanti-client"
 node_id = "MDEwOlJlcG9zaXRvcnk3Mjg0NzkzNQ=="

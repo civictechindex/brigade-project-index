@@ -35,6 +35,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://votemonitor.org/"
 id = 60_837_546
+is_template = false
 language = "C#"
 name = "monitorizare-vot"
 node_id = "MDEwOlJlcG9zaXRvcnk2MDgzNzU0Ng=="

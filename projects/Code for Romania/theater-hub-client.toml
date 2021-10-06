@@ -30,6 +30,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://theaterhub.ro/"
 id = 113_743_665
+is_template = false
 language = "Vue"
 name = "theater-hub-client"
 node_id = "MDEwOlJlcG9zaXRvcnkxMTM3NDM2NjU="

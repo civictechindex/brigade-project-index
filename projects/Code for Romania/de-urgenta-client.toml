@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 352_069_537
+is_template = false
 language = "Vue"
 name = "de-urgenta-client"
 node_id = "MDEwOlJlcG9zaXRvcnkzNTIwNjk1Mzc="

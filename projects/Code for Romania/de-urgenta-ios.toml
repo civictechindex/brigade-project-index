@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 352_069_412
+is_template = false
 language = "Swift"
 name = "de-urgenta-ios"
 node_id = "MDEwOlJlcG9zaXRvcnkzNTIwNjk0MTI="

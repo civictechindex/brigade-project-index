@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 263_368_160
+is_template = false
 language = "PHP"
 name = "cms-deployment-test"
 node_id = "MDEwOlJlcG9zaXRvcnkyNjMzNjgxNjA="

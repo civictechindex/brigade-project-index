@@ -23,6 +23,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://dev.stamacasa.ro"
 id = 247_271_849
+is_template = false
 language = "C#"
 name = "covid-19-jurnal-medical"
 node_id = "MDEwOlJlcG9zaXRvcnkyNDcyNzE4NDk="

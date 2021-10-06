@@ -23,6 +23,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://comoayudar.mx"
 id = 137_458_166
+is_template = false
 language = "HTML"
 name = "comoayudarmx"
 node_id = "MDEwOlJlcG9zaXRvcnkxMzc0NTgxNjY="

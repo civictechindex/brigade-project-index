@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://code4romania.github.io/knowledge/"
 id = 70_003_407
+is_template = false
 name = "knowledge"
 node_id = "MDEwOlJlcG9zaXRvcnk3MDAwMzQwNw=="
 open_issues_within = 0
