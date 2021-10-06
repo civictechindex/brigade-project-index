@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = false
 homepage = "http://www.codefortuscaloosa.org"
 id = 39_709_994
+is_template = false
 language = "HTML"
 name = "codefortuscaloosa.github.io"
 node_id = "MDEwOlJlcG9zaXRvcnkzOTcwOTk5NA=="
