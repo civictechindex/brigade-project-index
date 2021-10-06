@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 79_463_190
+is_template = false
 language = "JavaScript"
 name = "DopplerMaps"
 node_id = "MDEwOlJlcG9zaXRvcnk3OTQ2MzE5MA=="

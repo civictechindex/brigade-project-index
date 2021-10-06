@@ -23,6 +23,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://map.data4sdgs.sensors.africa"
 id = 292_239_129
+is_template = false
 language = "JavaScript"
 name = "Data4SDGs-AQ-Map"
 node_id = "MDEwOlJlcG9zaXRvcnkyOTIyMzkxMjk="

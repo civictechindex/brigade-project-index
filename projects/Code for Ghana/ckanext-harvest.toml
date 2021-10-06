@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 202_920_455
+is_template = false
 language = "Python"
 name = "ckanext-harvest"
 node_id = "MDEwOlJlcG9zaXRvcnkyMDI5MjA0NTU="

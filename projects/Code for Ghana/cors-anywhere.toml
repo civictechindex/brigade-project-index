@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 231_216_741
+is_template = false
 name = "cors-anywhere"
 node_id = "MDEwOlJlcG9zaXRvcnkyMzEyMTY3NDE="
 open_issues_within = 0

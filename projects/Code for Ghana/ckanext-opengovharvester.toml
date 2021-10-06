@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 107_935_461
+is_template = false
 language = "Python"
 name = "ckanext-opengovharvester"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDc5MzU0NjE="
