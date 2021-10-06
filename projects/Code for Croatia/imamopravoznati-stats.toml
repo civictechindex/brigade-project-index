@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = false
 homepage = "http://stats.imamopravoznati.org"
 id = 47_580_625
+is_template = false
 language = "JavaScript"
 name = "imamopravoznati-stats"
 node_id = "MDEwOlJlcG9zaXRvcnk0NzU4MDYyNQ=="

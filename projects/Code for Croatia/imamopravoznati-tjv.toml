@@ -23,6 +23,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://morph.io/codeforcroatia/imamopravoznati-tjv"
 id = 222_166_788
+is_template = false
 language = "Python"
 name = "imamopravoznati-tjv"
 node_id = "MDEwOlJlcG9zaXRvcnkyMjIxNjY3ODg="

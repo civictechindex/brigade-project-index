@@ -21,6 +21,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 302_710_870
+is_template = false
 language = "Python"
 name = "imamopravoznati-updater"
 node_id = "MDEwOlJlcG9zaXRvcnkzMDI3MTA4NzA="

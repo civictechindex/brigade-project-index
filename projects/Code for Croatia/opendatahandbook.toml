@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = false
 homepage = "http://opendatahandbook.org/"
 id = 29_316_838
+is_template = false
 language = "HTML"
 name = "opendatahandbook"
 node_id = "MDEwOlJlcG9zaXRvcnkyOTMxNjgzOA=="

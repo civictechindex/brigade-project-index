@@ -23,6 +23,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://codeforcroatia.org"
 id = 196_863_464
+is_template = false
 language = "Smarty"
 name = "codeforcroatia.org"
 node_id = "MDEwOlJlcG9zaXRvcnkxOTY4NjM0NjQ="

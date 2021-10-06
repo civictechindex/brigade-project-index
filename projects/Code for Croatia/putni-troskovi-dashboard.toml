@@ -20,6 +20,7 @@ has_pages = true
 has_projects = true
 has_wiki = true
 id = 123_707_506
+is_template = false
 language = "JavaScript"
 name = "putni-troskovi-dashboard"
 node_id = "MDEwOlJlcG9zaXRvcnkxMjM3MDc1MDY="

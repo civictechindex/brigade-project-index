@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 56_379_929
+is_template = false
 language = "JavaScript"
 name = "slack-chat"
 node_id = "MDEwOlJlcG9zaXRvcnk1NjM3OTkyOQ=="

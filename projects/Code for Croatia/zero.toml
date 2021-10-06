@@ -21,6 +21,7 @@ has_pages = true
 has_projects = true
 has_wiki = true
 id = 135_799_146
+is_template = false
 language = "HTML"
 name = "zero"
 node_id = "MDEwOlJlcG9zaXRvcnkxMzU3OTkxNDY="

@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = false
 homepage = "http://simpleopendata.com/"
 id = 18_509_602
+is_template = false
 language = "CSS"
 name = "vodic-otvoreni-podaci"
 node_id = "MDEwOlJlcG9zaXRvcnkxODUwOTYwMg=="

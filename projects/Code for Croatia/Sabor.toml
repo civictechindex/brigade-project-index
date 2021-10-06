@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 123_798_048
+is_template = false
 language = "R"
 name = "Sabor"
 node_id = "MDEwOlJlcG9zaXRvcnkxMjM3OTgwNDg="

@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://alaveteli.org"
 id = 31_081_198
+is_template = false
 language = "Ruby"
 name = "imamopravoznati"
 node_id = "MDEwOlJlcG9zaXRvcnkzMTA4MTE5OA=="

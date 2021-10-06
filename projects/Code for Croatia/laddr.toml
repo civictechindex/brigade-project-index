@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://laddr.us/"
 id = 18_490_318
+is_template = false
 language = "Smarty"
 name = "laddr"
 node_id = "MDEwOlJlcG9zaXRvcnkxODQ5MDMxOA=="

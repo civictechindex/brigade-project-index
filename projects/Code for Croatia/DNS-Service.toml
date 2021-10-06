@@ -22,6 +22,7 @@ has_projects = false
 has_wiki = false
 homepage = "https://gist.github.com/schlos/f0ce623631ed5979a087c382eb66345e"
 id = 39_918_491
+is_template = false
 name = "DNS-Service"
 node_id = "MDEwOlJlcG9zaXRvcnkzOTkxODQ5MQ=="
 open_issues_within = 10

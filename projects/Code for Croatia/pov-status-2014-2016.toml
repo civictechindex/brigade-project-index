@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = false
 homepage = "http://codeforcroatia.github.io/pov-status-2014-2016"
 id = 25_170_620
+is_template = false
 language = "JavaScript"
 name = "pov-status-2014-2016"
 node_id = "MDEwOlJlcG9zaXRvcnkyNTE3MDYyMA=="

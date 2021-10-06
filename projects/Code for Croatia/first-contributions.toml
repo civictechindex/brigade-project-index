@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://firstcontributions.github.io"
 id = 410_784_443
+is_template = false
 name = "first-contributions"
 node_id = "R_kgDOGHwSuw"
 open_issues_within = 0

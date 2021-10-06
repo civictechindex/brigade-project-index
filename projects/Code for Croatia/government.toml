@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = false
 homepage = "http://government.github.com/"
 id = 18_453_225
+is_template = false
 language = "CSS"
 name = "government"
 node_id = "MDEwOlJlcG9zaXRvcnkxODQ1MzIyNQ=="

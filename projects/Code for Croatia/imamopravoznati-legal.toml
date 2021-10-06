@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = false
 homepage = "http://legal.imamopravoznati.org"
 id = 45_866_084
+is_template = false
 language = "HTML"
 name = "imamopravoznati-legal"
 node_id = "MDEwOlJlcG9zaXRvcnk0NTg2NjA4NA=="

@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = false
 homepage = "http://okfnlabs.org/bad-data/"
 id = 18_616_640
+is_template = false
 name = "bad-data"
 node_id = "MDEwOlJlcG9zaXRvcnkxODYxNjY0MA=="
 open_issues_within = 0

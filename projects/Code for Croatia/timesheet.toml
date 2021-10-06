@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://timesheet.codeforcroatia.org"
 id = 71_012_436
+is_template = false
 language = "PHP"
 name = "timesheet"
 node_id = "MDEwOlJlcG9zaXRvcnk3MTAxMjQzNg=="

@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://a.codeforcroatia.org"
 id = 224_732_896
+is_template = false
 language = "HTML"
 name = "assets"
 node_id = "MDEwOlJlcG9zaXRvcnkyMjQ3MzI4OTY="

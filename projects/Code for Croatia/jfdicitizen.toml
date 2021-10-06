@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://codeforamerica.github.com/jfdicitizen/"
 id = 58_771_376
+is_template = false
 language = "ApacheConf"
 name = "jfdicitizen"
 node_id = "MDEwOlJlcG9zaXRvcnk1ODc3MTM3Ng=="

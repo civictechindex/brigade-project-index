@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = false
 homepage = ""
 id = 23_716_962
+is_template = false
 name = "github-cheat-sheet"
 node_id = "MDEwOlJlcG9zaXRvcnkyMzcxNjk2Mg=="
 open_issues_within = 0

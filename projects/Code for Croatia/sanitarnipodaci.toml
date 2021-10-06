@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://codeforcroatia.github.io/sanitarnipodaci/"
 id = 16_994_393
+is_template = false
 language = "CSS"
 name = "sanitarnipodaci"
 node_id = "MDEwOlJlcG9zaXRvcnkxNjk5NDM5Mw=="

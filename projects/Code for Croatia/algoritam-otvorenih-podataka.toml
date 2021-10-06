@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://codeforcroatia.github.io/algoritam-otvorenih-podataka"
 id = 18_520_088
+is_template = false
 language = "CSS"
 name = "algoritam-otvorenih-podataka"
 node_id = "MDEwOlJlcG9zaXRvcnkxODUyMDA4OA=="

@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 27_682_342
+is_template = false
 name = "try_git"
 node_id = "MDEwOlJlcG9zaXRvcnkyNzY4MjM0Mg=="
 open_issues_within = 0

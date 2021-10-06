@@ -23,6 +23,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://staff.imamopravoznati.org"
 id = 114_574_385
+is_template = false
 language = "SCSS"
 name = "imamopravoznati-staff"
 node_id = "MDEwOlJlcG9zaXRvcnkxMTQ1NzQzODU="

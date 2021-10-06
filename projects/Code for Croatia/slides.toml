@@ -22,6 +22,7 @@ has_projects = false
 has_wiki = false
 homepage = "http://webjeda.com/slides/"
 id = 135_795_585
+is_template = false
 language = "CSS"
 name = "slides"
 node_id = "MDEwOlJlcG9zaXRvcnkxMzU3OTU1ODU="

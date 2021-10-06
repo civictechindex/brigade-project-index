@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://admin.reklamacije.net"
 id = 103_743_352
+is_template = false
 language = "HTML"
 name = "reklamacijenet-admin"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDM3NDMzNTI="

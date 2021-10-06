@@ -20,6 +20,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://codeforcroatia.github.io/popravi.to-coming-soon"
 id = 375_984_164
+is_template = false
 language = "HTML"
 name = "popravi.to-coming-soon"
 node_id = "MDEwOlJlcG9zaXRvcnkzNzU5ODQxNjQ="

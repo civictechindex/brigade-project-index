@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = false
 homepage = "http://help.imamopravoznati.org/"
 id = 49_789_759
+is_template = false
 language = "CSS"
 name = "imamopravoznati-help"
 node_id = "MDEwOlJlcG9zaXRvcnk0OTc4OTc1OQ=="

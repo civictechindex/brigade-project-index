@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 31_868_598
+is_template = false
 language = "Python"
 name = "mingoparser"
 node_id = "MDEwOlJlcG9zaXRvcnkzMTg2ODU5OA=="

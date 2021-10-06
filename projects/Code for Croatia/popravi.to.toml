@@ -23,6 +23,7 @@ has_projects = true
 has_wiki = false
 homepage = "http://popravi.to"
 id = 326_231_377
+is_template = false
 language = "Perl"
 name = "popravi.to"
 node_id = "MDEwOlJlcG9zaXRvcnkzMjYyMzEzNzc="

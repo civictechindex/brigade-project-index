@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = false
 homepage = "http://boilerplate.codeforcroatia.org"
 id = 56_717_083
+is_template = false
 language = "CSS"
 name = "legal-boilerplate"
 node_id = "MDEwOlJlcG9zaXRvcnk1NjcxNzA4Mw=="
