@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 47_851_120
+is_template = false
 name = "opendata-nh"
 node_id = "MDEwOlJlcG9zaXRvcnk0Nzg1MTEyMA=="
 open_issues_within = 10

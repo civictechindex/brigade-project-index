@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = false
 homepage = "http://www.codefornh.org/"
 id = 48_468_979
+is_template = false
 language = "Ruby"
 name = "codefornh.org"
 node_id = "MDEwOlJlcG9zaXRvcnk0ODQ2ODk3OQ=="
