@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 42_408_253
+is_template = false
 language = "Ruby"
 name = "disclosure-cookbook"
 node_id = "MDEwOlJlcG9zaXRvcnk0MjQwODI1Mw=="

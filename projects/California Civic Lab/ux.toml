@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 35_357_213
+is_template = false
 name = "ux"
 node_id = "MDEwOlJlcG9zaXRvcnkzNTM1NzIxMw=="
 open_issues_within = 10

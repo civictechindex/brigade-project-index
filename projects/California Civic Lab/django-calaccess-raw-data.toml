@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = false
 homepage = "http://django-calaccess-raw-data.californiacivicdata.org"
 id = 44_453_852
+is_template = false
 language = "Python"
 name = "django-calaccess-raw-data"
 node_id = "MDEwOlJlcG9zaXRvcnk0NDQ1Mzg1Mg=="

@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://104.131.98.144/"
 id = 27_143_562
+is_template = false
 name = "Discussions"
 node_id = "MDEwOlJlcG9zaXRvcnkyNzE0MzU2Mg=="
 open_issues_within = 10

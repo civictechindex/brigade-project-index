@@ -30,12 +30,13 @@ has_projects = true
 has_wiki = true
 homepage = "https://caciviclab.org/odca-jekyll/"
 id = 67_457_672
+is_template = false
 language = "Ruby"
 name = "disclosure-backend-static"
 node_id = "MDEwOlJlcG9zaXRvcnk2NzQ1NzY3Mg=="
 open_issues_within = 100
 private = false
-pushed_within = "week"
+pushed_within = "month"
 stargazers_within = 10
 topics = [
   "california",
@@ -45,7 +46,7 @@ topics = [
   "ruby",
   "static-site"
 ]
-updated_within = "week"
+updated_within = "month"
 visibility = "public"
 watchers_within = 10
 
