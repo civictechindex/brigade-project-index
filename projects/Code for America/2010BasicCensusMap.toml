@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://censusmap.apphb.com/"
 id = 1_527_884
+is_template = false
 language = "C#"
 name = "2010BasicCensusMap"
 node_id = "MDEwOlJlcG9zaXRvcnkxNTI3ODg0"

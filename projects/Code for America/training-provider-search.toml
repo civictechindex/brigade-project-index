@@ -24,6 +24,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 155_653_160
+is_template = false
 language = "PHP"
 name = "training-provider-search"
 node_id = "MDEwOlJlcG9zaXRvcnkxNTU2NTMxNjA="

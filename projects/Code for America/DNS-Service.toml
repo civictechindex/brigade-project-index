@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 34_035_764
+is_template = false
 language = "Python"
 name = "DNS-Service"
 node_id = "MDEwOlJlcG9zaXRvcnkzNDAzNTc2NA=="

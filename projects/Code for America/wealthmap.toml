@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 61_050_903
+is_template = false
 language = "Python"
 name = "wealthmap"
 node_id = "MDEwOlJlcG9zaXRvcnk2MTA1MDkwMw=="

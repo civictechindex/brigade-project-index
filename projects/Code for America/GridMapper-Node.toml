@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://gridmapauth.heroku.com/auth"
 id = 5_665_772
+is_template = false
 language = "JavaScript"
 name = "GridMapper-Node"
 node_id = "MDEwOlJlcG9zaXRvcnk1NjY1Nzcy"

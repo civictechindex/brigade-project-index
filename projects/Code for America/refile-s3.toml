@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 68_234_856
+is_template = false
 language = "Ruby"
 name = "refile-s3"
 node_id = "MDEwOlJlcG9zaXRvcnk2ODIzNDg1Ng=="

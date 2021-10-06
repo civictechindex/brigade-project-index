@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 37_743_972
+is_template = false
 language = "Python"
 name = "vallejo-css-toolkit"
 node_id = "MDEwOlJlcG9zaXRvcnkzNzc0Mzk3Mg=="

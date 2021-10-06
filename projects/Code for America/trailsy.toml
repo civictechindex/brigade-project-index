@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://trailsy.herokuapp.com/"
 id = 10_978_923
+is_template = false
 language = "CSS"
 name = "trailsy"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDk3ODkyMw=="

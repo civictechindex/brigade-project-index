@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://marketplace.civiccommons.org/api"
 id = 3_158_971
+is_template = false
 language = "Ruby"
 name = "commons"
 node_id = "MDEwOlJlcG9zaXRvcnkzMTU4OTcx"

@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://open311.org/"
 id = 1_255_325
+is_template = false
 language = "Ruby"
 name = "open311"
 node_id = "MDEwOlJlcG9zaXRvcnkxMjU1MzI1"

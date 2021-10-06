@@ -20,6 +20,7 @@ has_pages = true
 has_projects = true
 has_wiki = true
 id = 7_572_340
+is_template = false
 language = "JavaScript"
 name = "snapr"
 node_id = "MDEwOlJlcG9zaXRvcnk3NTcyMzQw"

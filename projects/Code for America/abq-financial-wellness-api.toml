@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://production-abq-financial-api.herokuapp.com/"
 id = 41_323_272
+is_template = false
 language = "Python"
 name = "abq-financial-wellness-api"
 node_id = "MDEwOlJlcG9zaXRvcnk0MTMyMzI3Mg=="

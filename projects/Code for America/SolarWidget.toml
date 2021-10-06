@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://solar-1.apphb.com"
 id = 1_812_385
+is_template = false
 name = "SolarWidget"
 node_id = "MDEwOlJlcG9zaXRvcnkxODEyMzg1"
 open_issues_within = 0

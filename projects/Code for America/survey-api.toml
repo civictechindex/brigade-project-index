@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 3_985_121
+is_template = false
 language = "JavaScript"
 name = "survey-api"
 node_id = "MDEwOlJlcG9zaXRvcnkzOTg1MTIx"

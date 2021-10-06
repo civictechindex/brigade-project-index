@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 33_143_119
+is_template = false
 name = "code-osmosis"
 node_id = "MDEwOlJlcG9zaXRvcnkzMzE0MzExOQ=="
 open_issues_within = 10

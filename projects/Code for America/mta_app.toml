@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 4_826_733
+is_template = false
 language = "Objective-C"
 name = "mta_app"
 node_id = "MDEwOlJlcG9zaXRvcnk0ODI2NzMz"

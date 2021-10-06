@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://www.codeforamerica.org"
 id = 1_253_100
+is_template = false
 language = "JavaScript"
 name = "Open311-Visualization"
 node_id = "MDEwOlJlcG9zaXRvcnkxMjUzMTAw"

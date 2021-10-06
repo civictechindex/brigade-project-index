@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 189_078_297
+is_template = false
 language = "Shell"
 name = "cmr-workstation-setup"
 node_id = "MDEwOlJlcG9zaXRvcnkxODkwNzgyOTc="

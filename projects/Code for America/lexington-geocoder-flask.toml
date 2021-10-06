@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://github.com/codeforamerica/streetscope"
 id = 25_573_880
+is_template = false
 name = "lexington-geocoder-flask"
 node_id = "MDEwOlJlcG9zaXRvcnkyNTU3Mzg4MA=="
 open_issues_within = 0

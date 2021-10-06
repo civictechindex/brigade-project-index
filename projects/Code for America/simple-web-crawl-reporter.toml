@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 32_945_013
+is_template = false
 language = "Python"
 name = "simple-web-crawl-reporter"
 node_id = "MDEwOlJlcG9zaXRvcnkzMjk0NTAxMw=="

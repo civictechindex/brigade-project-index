@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = false
 homepage = "trymta.com"
 id = 4_667_175
+is_template = false
 language = "JavaScript"
 name = "trymta"
 node_id = "MDEwOlJlcG9zaXRvcnk0NjY3MTc1"

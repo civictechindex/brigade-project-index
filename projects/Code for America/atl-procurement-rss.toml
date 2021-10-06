@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 21_365_782
+is_template = false
 language = "Ruby"
 name = "atl-procurement-rss"
 node_id = "MDEwOlJlcG9zaXRvcnkyMTM2NTc4Mg=="

@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 1_512_726
+is_template = false
 language = "PHP"
 name = "Twitter-Collage"
 node_id = "MDEwOlJlcG9zaXRvcnkxNTEyNzI2"

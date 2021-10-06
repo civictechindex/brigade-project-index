@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 4_802_205
+is_template = false
 language = "PHP"
 name = "smartPDF"
 node_id = "MDEwOlJlcG9zaXRvcnk0ODAyMjA1"

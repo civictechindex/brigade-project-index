@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 1_931_964
+is_template = false
 language = "Python"
 name = "aids_info_python"
 node_id = "MDEwOlJlcG9zaXRvcnkxOTMxOTY0"

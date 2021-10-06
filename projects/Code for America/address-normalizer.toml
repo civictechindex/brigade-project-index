@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 8_810_609
+is_template = false
 language = "Ruby"
 name = "address-normalizer"
 node_id = "MDEwOlJlcG9zaXRvcnk4ODEwNjA5"

@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 10_204_892
+is_template = false
 language = "Python"
 name = "naics-api"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDIwNDg5Mg=="

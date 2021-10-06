@@ -19,6 +19,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 2_615_443
+is_template = false
 language = "Java"
 name = "esri_track_to_couch"
 node_id = "MDEwOlJlcG9zaXRvcnkyNjE1NDQz"

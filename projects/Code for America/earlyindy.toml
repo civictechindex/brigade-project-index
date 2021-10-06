@@ -20,6 +20,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://codeforamerica.github.io/earlyindy/"
 id = 29_166_330
+is_template = false
 language = "JavaScript"
 name = "earlyindy"
 node_id = "MDEwOlJlcG9zaXRvcnkyOTE2NjMzMA=="

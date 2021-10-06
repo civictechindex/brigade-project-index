@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://sunlightlabs.github.io/congress/"
 id = 1_917_704
+is_template = false
 language = "Ruby"
 name = "congress"
 node_id = "MDEwOlJlcG9zaXRvcnkxOTE3NzA0"

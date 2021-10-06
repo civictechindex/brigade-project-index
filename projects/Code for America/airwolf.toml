@@ -20,6 +20,7 @@ has_pages = true
 has_projects = true
 has_wiki = true
 id = 9_151_719
+is_template = false
 language = "Ruby"
 name = "airwolf"
 node_id = "MDEwOlJlcG9zaXRvcnk5MTUxNzE5"

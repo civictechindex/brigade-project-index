@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 4_552_803
+is_template = false
 name = "intern-game"
 node_id = "MDEwOlJlcG9zaXRvcnk0NTUyODAz"
 open_issues_within = 10

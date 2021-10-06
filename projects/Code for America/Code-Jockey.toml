@@ -19,6 +19,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 1_954_105
+is_template = false
 name = "Code-Jockey"
 node_id = "MDEwOlJlcG9zaXRvcnkxOTU0MTA1"
 open_issues_within = 0

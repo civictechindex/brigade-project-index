@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = false
 homepage = ""
 id = 43_397_653
+is_template = false
 name = "awesome-civic"
 node_id = "MDEwOlJlcG9zaXRvcnk0MzM5NzY1Mw=="
 open_issues_within = 10

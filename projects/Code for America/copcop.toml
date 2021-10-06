@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 33_752_251
+is_template = false
 name = "copcop"
 node_id = "MDEwOlJlcG9zaXRvcnkzMzc1MjI1MQ=="
 open_issues_within = 10

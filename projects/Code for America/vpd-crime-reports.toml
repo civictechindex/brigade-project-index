@@ -20,6 +20,7 @@ has_pages = true
 has_projects = true
 has_wiki = true
 id = 30_814_968
+is_template = false
 language = "CSS"
 name = "vpd-crime-reports"
 node_id = "MDEwOlJlcG9zaXRvcnkzMDgxNDk2OA=="

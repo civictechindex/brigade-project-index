@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 10_533_979
+is_template = false
 language = "Ruby"
 name = "ohanakapa-ruby"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDUzMzk3OQ=="

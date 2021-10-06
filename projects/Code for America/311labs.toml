@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 4_802_534
+is_template = false
 language = "JavaScript"
 name = "311labs"
 node_id = "MDEwOlJlcG9zaXRvcnk0ODAyNTM0"

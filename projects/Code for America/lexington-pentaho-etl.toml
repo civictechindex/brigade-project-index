@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 26_178_252
+is_template = false
 name = "lexington-pentaho-etl"
 node_id = "MDEwOlJlcG9zaXRvcnkyNjE3ODI1Mg=="
 open_issues_within = 0

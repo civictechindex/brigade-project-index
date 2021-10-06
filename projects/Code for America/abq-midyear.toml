@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://codeforamerica.github.io/abq-midyear/"
 id = 37_287_526
+is_template = false
 language = "HTML"
 name = "abq-midyear"
 node_id = "MDEwOlJlcG9zaXRvcnkzNzI4NzUyNg=="

@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 2_646_244
+is_template = false
 language = "CoffeeScript"
 name = "hello-dog"
 node_id = "MDEwOlJlcG9zaXRvcnkyNjQ2MjQ0"

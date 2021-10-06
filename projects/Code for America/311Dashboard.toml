@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 6_303_481
+is_template = false
 language = "Python"
 name = "311Dashboard"
 node_id = "MDEwOlJlcG9zaXRvcnk2MzAzNDgx"

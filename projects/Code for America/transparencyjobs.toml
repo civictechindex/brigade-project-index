@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://transparencyjobs.com"
 id = 2_231_042
+is_template = false
 language = "Python"
 name = "transparencyjobs"
 node_id = "MDEwOlJlcG9zaXRvcnkyMjMxMDQy"

@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 31_164_249
+is_template = false
 language = "Ruby"
 name = "early-childhood-finder-sms"
 node_id = "MDEwOlJlcG9zaXRvcnkzMTE2NDI0OQ=="

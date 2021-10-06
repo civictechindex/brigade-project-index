@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://stanfordrosenthal.com/open311"
 id = 2_054_438
+is_template = false
 language = "PHP"
 name = "open311_facebook"
 node_id = "MDEwOlJlcG9zaXRvcnkyMDU0NDM4"

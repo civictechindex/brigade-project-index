@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 213_778_321
+is_template = false
 language = "Go"
 name = "go_pdf_filler"
 node_id = "MDEwOlJlcG9zaXRvcnkyMTM3NzgzMjE="

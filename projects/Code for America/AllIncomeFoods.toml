@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 1_726_335
+is_template = false
 language = "Ruby"
 name = "AllIncomeFoods"
 node_id = "MDEwOlJlcG9zaXRvcnkxNzI2MzM1"

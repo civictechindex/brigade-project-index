@@ -20,6 +20,7 @@ has_pages = true
 has_projects = true
 has_wiki = true
 id = 25_410_225
+is_template = false
 name = "health"
 node_id = "MDEwOlJlcG9zaXRvcnkyNTQxMDIyNQ=="
 open_issues_within = 100

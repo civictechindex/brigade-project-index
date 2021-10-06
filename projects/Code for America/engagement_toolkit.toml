@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 1_600_285
+is_template = false
 language = "PHP"
 name = "engagement_toolkit"
 node_id = "MDEwOlJlcG9zaXRvcnkxNjAwMjg1"

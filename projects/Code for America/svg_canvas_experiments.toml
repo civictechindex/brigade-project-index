@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 1_276_305
+is_template = false
 language = "JavaScript"
 name = "svg_canvas_experiments"
 node_id = "MDEwOlJlcG9zaXRvcnkxMjc2MzA1"

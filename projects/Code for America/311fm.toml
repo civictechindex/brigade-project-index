@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://311.fm"
 id = 5_198_295
+is_template = false
 language = "JavaScript"
 name = "311fm"
 node_id = "MDEwOlJlcG9zaXRvcnk1MTk4Mjk1"

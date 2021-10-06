@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 19_996_054
+is_template = false
 name = "summitbeta"
 node_id = "MDEwOlJlcG9zaXRvcnkxOTk5NjA1NA=="
 open_issues_within = 10

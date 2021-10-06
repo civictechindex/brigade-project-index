@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://toxnet.nlm.nih.gov/toxnetapi/TOXNETWebService.html"
 id = 1_967_058
+is_template = false
 language = "PHP"
 name = "toxnet_php"
 node_id = "MDEwOlJlcG9zaXRvcnkxOTY3MDU4"

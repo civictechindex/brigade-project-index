@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 10_748_128
+is_template = false
 language = "JavaScript"
 name = "ohhs_Falcon"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDc0ODEyOA=="

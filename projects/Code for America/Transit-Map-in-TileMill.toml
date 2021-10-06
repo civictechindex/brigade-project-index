@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = false
 homepage = "http://codeforamerica.github.com/Transit-Map-in-TileMill/"
 id = 3_744_208
+is_template = false
 language = "CartoCSS"
 name = "Transit-Map-in-TileMill"
 node_id = "MDEwOlJlcG9zaXRvcnkzNzQ0MjA4"

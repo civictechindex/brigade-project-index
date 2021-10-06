@@ -20,6 +20,7 @@ has_pages = true
 has_projects = true
 has_wiki = true
 id = 18_306_849
+is_template = false
 language = "HTML"
 name = "attendance"
 node_id = "MDEwOlJlcG9zaXRvcnkxODMwNjg0OQ=="

@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://amiinlasvegas.com/"
 id = 8_891_351
+is_template = false
 language = "JavaScript"
 name = "amiinlv"
 node_id = "MDEwOlJlcG9zaXRvcnk4ODkxMzUx"

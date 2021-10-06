@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://transit2me.heroku.com/nextmap"
 id = 5_210_875
+is_template = false
 language = "Ruby"
 name = "Transit2Me"
 node_id = "MDEwOlJlcG9zaXRvcnk1MjEwODc1"

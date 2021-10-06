@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 27_200_918
+is_template = false
 name = "contracts"
 node_id = "MDEwOlJlcG9zaXRvcnkyNzIwMDkxOA=="
 open_issues_within = 0

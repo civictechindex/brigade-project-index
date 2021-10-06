@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://codeforamerica.github.io/somerville-parks-cartodb/"
 id = 37_559_691
+is_template = false
 language = "HTML"
 name = "somerville-parks-cartodb"
 node_id = "MDEwOlJlcG9zaXRvcnkzNzU1OTY5MQ=="

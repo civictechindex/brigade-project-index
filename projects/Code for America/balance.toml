@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 22_667_712
+is_template = false
 language = "Ruby"
 name = "balance"
 node_id = "MDEwOlJlcG9zaXRvcnkyMjY2NzcxMg=="

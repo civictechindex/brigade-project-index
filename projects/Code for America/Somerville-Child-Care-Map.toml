@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://codeforamerica.github.io/Somerville-Child-Care-Map/"
 id = 31_138_457
+is_template = false
 language = "CSS"
 name = "Somerville-Child-Care-Map"
 node_id = "MDEwOlJlcG9zaXRvcnkzMTEzODQ1Nw=="

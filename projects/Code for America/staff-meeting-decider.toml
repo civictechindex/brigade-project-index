@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://staff-meeting-decider.herokuapp.com/"
 id = 36_903_234
+is_template = false
 language = "HTML"
 name = "staff-meeting-decider"
 node_id = "MDEwOlJlcG9zaXRvcnkzNjkwMzIzNA=="

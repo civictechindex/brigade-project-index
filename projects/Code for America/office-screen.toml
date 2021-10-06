@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://codeforamerica.github.io/office-screen/"
 id = 17_554_278
+is_template = false
 language = "HTML"
 name = "office-screen"
 node_id = "MDEwOlJlcG9zaXRvcnkxNzU1NDI3OA=="

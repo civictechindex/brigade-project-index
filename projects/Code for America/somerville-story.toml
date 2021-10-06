@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://codeforamerica.github.io/somerville-story/"
 id = 37_441_071
+is_template = false
 language = "HTML"
 name = "somerville-story"
 node_id = "MDEwOlJlcG9zaXRvcnkzNzQ0MTA3MQ=="

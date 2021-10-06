@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 1_936_773
+is_template = false
 language = "Python"
 name = "faa_python"
 node_id = "MDEwOlJlcG9zaXRvcnkxOTM2Nzcz"

@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 9_653_830
+is_template = false
 language = "Ruby"
 name = "open-311-api-server"
 node_id = "MDEwOlJlcG9zaXRvcnk5NjUzODMw"

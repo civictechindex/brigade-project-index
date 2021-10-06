@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 19_009_271
+is_template = false
 language = "Shell"
 name = "ohana-api-dev-box"
 node_id = "MDEwOlJlcG9zaXRvcnkxOTAwOTI3MQ=="

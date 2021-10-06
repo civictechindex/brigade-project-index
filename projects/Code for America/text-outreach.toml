@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 63_642_656
+is_template = false
 name = "text-outreach"
 node_id = "MDEwOlJlcG9zaXRvcnk2MzY0MjY1Ng=="
 open_issues_within = 100

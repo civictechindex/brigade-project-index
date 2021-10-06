@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://usaspending.gov"
 id = 1_925_550
+is_template = false
 language = "PHP"
 name = "usa_spending_php"
 node_id = "MDEwOlJlcG9zaXRvcnkxOTI1NTUw"

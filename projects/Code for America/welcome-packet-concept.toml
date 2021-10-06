@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 35_130_652
+is_template = false
 name = "welcome-packet-concept"
 node_id = "MDEwOlJlcG9zaXRvcnkzNTEzMDY1Mg=="
 open_issues_within = 10

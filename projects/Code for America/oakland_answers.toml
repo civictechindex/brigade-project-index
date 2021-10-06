@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 19_622_080
+is_template = false
 language = "JavaScript"
 name = "oakland_answers"
 node_id = "MDEwOlJlcG9zaXRvcnkxOTYyMjA4MA=="

@@ -20,6 +20,7 @@ has_pages = true
 has_projects = true
 has_wiki = true
 id = 5_137_440
+is_template = false
 name = "railsbridge-slides"
 node_id = "MDEwOlJlcG9zaXRvcnk1MTM3NDQw"
 open_issues_within = 10

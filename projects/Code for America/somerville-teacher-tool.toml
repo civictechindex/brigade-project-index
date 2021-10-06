@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://github.com/studentinsights/studentinsights/"
 id = 29_220_290
+is_template = false
 language = "Ruby"
 name = "somerville-teacher-tool"
 node_id = "MDEwOlJlcG9zaXRvcnkyOTIyMDI5MA=="

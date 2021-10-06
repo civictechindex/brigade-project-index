@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 83_648_722
+is_template = false
 language = "Ruby"
 name = "job_bot"
 node_id = "MDEwOlJlcG9zaXRvcnk4MzY0ODcyMg=="

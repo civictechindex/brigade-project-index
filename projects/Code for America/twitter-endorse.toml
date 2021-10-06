@@ -19,6 +19,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 2_684_343
+is_template = false
 language = "JavaScript"
 name = "twitter-endorse"
 node_id = "MDEwOlJlcG9zaXRvcnkyNjg0MzQz"

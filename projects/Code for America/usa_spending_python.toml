@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://usaspending.gov/data?carryfilters=on"
 id = 1_902_374
+is_template = false
 language = "Python"
 name = "usa_spending_python"
 node_id = "MDEwOlJlcG9zaXRvcnkxOTAyMzc0"

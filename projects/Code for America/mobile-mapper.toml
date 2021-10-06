@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://max.couchone.com/test/401935f5806735e03a93d025b1047ba9/dynamic-map-loading.mov"
 id = 2_085_688
+is_template = false
 language = "JavaScript"
 name = "mobile-mapper"
 node_id = "MDEwOlJlcG9zaXRvcnkyMDg1Njg4"

@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 127_324_724
+is_template = false
 name = "rubymine-settings"
 node_id = "MDEwOlJlcG9zaXRvcnkxMjczMjQ3MjQ="
 open_issues_within = 0

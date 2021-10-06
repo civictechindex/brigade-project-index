@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 72_130_706
+is_template = false
 language = "JavaScript"
 name = "jail-dashboard"
 node_id = "MDEwOlJlcG9zaXRvcnk3MjEzMDcwNg=="

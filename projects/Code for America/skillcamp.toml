@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://skill.camp/"
 id = 19_252_124
+is_template = false
 language = "Python"
 name = "skillcamp"
 node_id = "MDEwOlJlcG9zaXRvcnkxOTI1MjEyNA=="

@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 1_725_187
+is_template = false
 language = "JavaScript"
 name = "node-lessons"
 node_id = "MDEwOlJlcG9zaXRvcnkxNzI1MTg3"

@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 29_204_819
+is_template = false
 language = "Ruby"
 name = "reassure"
 node_id = "MDEwOlJlcG9zaXRvcnkyOTIwNDgxOQ=="

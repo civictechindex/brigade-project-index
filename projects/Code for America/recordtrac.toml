@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 9_082_142
+is_template = false
 language = "CSS"
 name = "recordtrac"
 node_id = "MDEwOlJlcG9zaXRvcnk5MDgyMTQy"

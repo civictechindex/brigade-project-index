@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://ebtnearme.org"
 id = 22_696_834
+is_template = false
 language = "JavaScript"
 name = "ebt-near-me"
 node_id = "MDEwOlJlcG9zaXRvcnkyMjY5NjgzNA=="

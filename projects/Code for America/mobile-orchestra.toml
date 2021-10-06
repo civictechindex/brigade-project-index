@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 18_303_122
+is_template = false
 language = "JavaScript"
 name = "mobile-orchestra"
 node_id = "MDEwOlJlcG9zaXRvcnkxODMwMzEyMg=="

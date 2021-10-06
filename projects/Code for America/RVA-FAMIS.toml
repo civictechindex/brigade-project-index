@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 29_268_167
+is_template = false
 language = "JavaScript"
 name = "RVA-FAMIS"
 node_id = "MDEwOlJlcG9zaXRvcnkyOTI2ODE2Nw=="

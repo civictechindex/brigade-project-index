@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 1_580_689
+is_template = false
 language = "PHP"
 name = "Wufoopress"
 node_id = "MDEwOlJlcG9zaXRvcnkxNTgwNjg5"

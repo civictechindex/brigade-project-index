@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 12_907_628
+is_template = false
 language = "Ruby"
 name = "engine-light"
 node_id = "MDEwOlJlcG9zaXRvcnkxMjkwNzYyOA=="

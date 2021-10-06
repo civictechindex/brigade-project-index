@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "codeforamerica.github.com/social-media-handbook/"
 id = 4_513_871
+is_template = false
 language = "HTML"
 name = "social-media-handbook"
 node_id = "MDEwOlJlcG9zaXRvcnk0NTEzODcx"

@@ -20,6 +20,7 @@ has_pages = true
 has_projects = true
 has_wiki = true
 id = 20_782_101
+is_template = false
 language = "CSS"
 name = "ri-2014-mid-year-report"
 node_id = "MDEwOlJlcG9zaXRvcnkyMDc4MjEwMQ=="

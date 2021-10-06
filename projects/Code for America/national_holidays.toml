@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://national-holidays.herokuapp.com/"
 id = 9_108_540
+is_template = false
 language = "Ruby"
 name = "national_holidays"
 node_id = "MDEwOlJlcG9zaXRvcnk5MTA4NTQw"

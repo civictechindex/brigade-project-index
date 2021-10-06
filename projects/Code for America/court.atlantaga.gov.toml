@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://court.atlantaga.gov/"
 id = 16_969_900
+is_template = false
 language = "HTML"
 name = "court.atlantaga.gov"
 node_id = "MDEwOlJlcG9zaXRvcnkxNjk2OTkwMA=="

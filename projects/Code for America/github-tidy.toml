@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://codeforamerica.github.com/github-tidy"
 id = 5_310_682
+is_template = false
 language = "JavaScript"
 name = "github-tidy"
 node_id = "MDEwOlJlcG9zaXRvcnk1MzEwNjgy"

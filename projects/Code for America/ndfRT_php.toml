@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://rxnav.nlm.nih.gov/NdfrtAPI.html"
 id = 1_969_328
+is_template = false
 language = "PHP"
 name = "ndfRT_php"
 node_id = "MDEwOlJlcG9zaXRvcnkxOTY5MzI4"

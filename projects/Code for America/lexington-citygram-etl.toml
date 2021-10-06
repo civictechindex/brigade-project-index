@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 23_089_404
+is_template = false
 language = "Ruby"
 name = "lexington-citygram-etl"
 node_id = "MDEwOlJlcG9zaXRvcnkyMzA4OTQwNA=="

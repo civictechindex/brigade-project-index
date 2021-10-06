@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 22_592_360
+is_template = false
 language = "C#"
 name = "golden-ticket-splitter"
 node_id = "MDEwOlJlcG9zaXRvcnkyMjU5MjM2MA=="

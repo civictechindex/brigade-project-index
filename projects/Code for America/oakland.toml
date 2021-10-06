@@ -20,6 +20,7 @@ has_pages = true
 has_projects = true
 has_wiki = true
 id = 8_507_901
+is_template = false
 name = "oakland"
 node_id = "MDEwOlJlcG9zaXRvcnk4NTA3OTAx"
 open_issues_within = 0

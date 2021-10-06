@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = false
 homepage = ""
 id = 4_348_859
+is_template = false
 language = "Python"
 name = "skillshares"
 node_id = "MDEwOlJlcG9zaXRvcnk0MzQ4ODU5"

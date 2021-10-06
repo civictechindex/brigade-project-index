@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 1_452_735
+is_template = false
 language = "Ruby"
 name = "georuby"
 node_id = "MDEwOlJlcG9zaXRvcnkxNDUyNzM1"

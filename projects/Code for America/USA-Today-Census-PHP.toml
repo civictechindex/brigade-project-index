@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://codeforamerica.org"
 id = 1_890_907
+is_template = false
 name = "USA-Today-Census-PHP"
 node_id = "MDEwOlJlcG9zaXRvcnkxODkwOTA3"
 open_issues_within = 0

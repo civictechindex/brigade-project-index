@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 32_748_602
+is_template = false
 language = "JavaScript"
 name = "resident-web-use-research"
 node_id = "MDEwOlJlcG9zaXRvcnkzMjc0ODYwMg=="

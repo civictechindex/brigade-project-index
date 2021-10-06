@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 12_817_406
+is_template = false
 language = "Python"
 name = "US-Census-Area-API"
 node_id = "MDEwOlJlcG9zaXRvcnkxMjgxNzQwNg=="

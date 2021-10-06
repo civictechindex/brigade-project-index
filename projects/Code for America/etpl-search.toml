@@ -28,6 +28,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://findtraining.org"
 id = 154_867_095
+is_template = false
 language = "PHP"
 name = "etpl-search"
 node_id = "MDEwOlJlcG9zaXRvcnkxNTQ4NjcwOTU="

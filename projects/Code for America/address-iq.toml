@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://www.bit.ly/lbcvid"
 id = 20_663_735
+is_template = false
 language = "Python"
 name = "address-iq"
 node_id = "MDEwOlJlcG9zaXRvcnkyMDY2MzczNQ=="

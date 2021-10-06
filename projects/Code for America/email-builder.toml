@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 35_849_828
+is_template = false
 language = "CSS"
 name = "email-builder"
 node_id = "MDEwOlJlcG9zaXRvcnkzNTg0OTgyOA=="

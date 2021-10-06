@@ -20,6 +20,7 @@ has_pages = true
 has_projects = true
 has_wiki = true
 id = 27_408_601
+is_template = false
 name = "SNAP-lobbies"
 node_id = "MDEwOlJlcG9zaXRvcnkyNzQwODYwMQ=="
 open_issues_within = 0

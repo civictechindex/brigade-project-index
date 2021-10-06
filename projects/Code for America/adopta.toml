@@ -20,6 +20,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://github.com/codeforamerica/adopt-a-hydrant"
 id = 9_199_484
+is_template = false
 name = "adopta"
 node_id = "MDEwOlJlcG9zaXRvcnk5MTk5NDg0"
 open_issues_within = 0

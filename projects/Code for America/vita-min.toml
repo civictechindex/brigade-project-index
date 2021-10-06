@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 219_626_796
+is_template = false
 language = "Ruby"
 name = "vita-min"
 node_id = "MDEwOlJlcG9zaXRvcnkyMTk2MjY3OTY="

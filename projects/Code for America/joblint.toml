@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = false
 homepage = "http://codeforamerica.github.io/joblint/"
 id = 50_470_524
+is_template = false
 language = "JavaScript"
 name = "joblint"
 node_id = "MDEwOlJlcG9zaXRvcnk1MDQ3MDUyNA=="

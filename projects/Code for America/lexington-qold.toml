@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://codeforamerica.github.io/lexington-qold"
 id = 20_904_843
+is_template = false
 language = "JavaScript"
 name = "lexington-qold"
 node_id = "MDEwOlJlcG9zaXRvcnkyMDkwNDg0Mw=="

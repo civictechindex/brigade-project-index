@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 111_034_951
+is_template = false
 language = "Ruby"
 name = "tracker-git"
 node_id = "MDEwOlJlcG9zaXRvcnkxMTEwMzQ5NTE="

@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 22_700_181
+is_template = false
 language = "HTML"
 name = "recordtrac-setup"
 node_id = "MDEwOlJlcG9zaXRvcnkyMjcwMDE4MQ=="

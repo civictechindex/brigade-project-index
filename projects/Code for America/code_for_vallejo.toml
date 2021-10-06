@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://codeforvallejo.org"
 id = 31_675_089
+is_template = false
 language = "CSS"
 name = "code_for_vallejo"
 node_id = "MDEwOlJlcG9zaXRvcnkzMTY3NTA4OQ=="

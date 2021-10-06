@@ -23,6 +23,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://speedlify.codeforamerica.org/"
 id = 298_538_497
+is_template = false
 language = "JavaScript"
 name = "speedlify-cfa"
 node_id = "MDEwOlJlcG9zaXRvcnkyOTg1Mzg0OTc="

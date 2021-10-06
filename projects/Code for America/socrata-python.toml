@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://www.socrata.com"
 id = 4_021_236
+is_template = false
 language = "Python"
 name = "socrata-python"
 node_id = "MDEwOlJlcG9zaXRvcnk0MDIxMjM2"

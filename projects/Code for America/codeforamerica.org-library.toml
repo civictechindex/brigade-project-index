@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 16_531_337
+is_template = false
 language = "PHP"
 name = "codeforamerica.org-library"
 node_id = "MDEwOlJlcG9zaXRvcnkxNjUzMTMzNw=="

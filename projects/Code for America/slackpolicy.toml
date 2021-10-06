@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 79_390_261
+is_template = false
 name = "slackpolicy"
 node_id = "MDEwOlJlcG9zaXRvcnk3OTM5MDI2MQ=="
 open_issues_within = 10

@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 20_499_208
+is_template = false
 name = "transitjson"
 node_id = "MDEwOlJlcG9zaXRvcnkyMDQ5OTIwOA=="
 open_issues_within = 10

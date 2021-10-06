@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 1_624_504
+is_template = false
 language = "Python"
 name = "FCC-Python-Egg"
 node_id = "MDEwOlJlcG9zaXRvcnkxNjI0NTA0"

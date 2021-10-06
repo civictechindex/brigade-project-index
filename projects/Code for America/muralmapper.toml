@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://artmapper.org"
 id = 1_926_293
+is_template = false
 language = "JavaScript"
 name = "muralmapper"
 node_id = "MDEwOlJlcG9zaXRvcnkxOTI2Mjkz"

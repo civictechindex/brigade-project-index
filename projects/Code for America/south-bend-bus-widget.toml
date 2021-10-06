@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 7_693_330
+is_template = false
 language = "Ruby"
 name = "south-bend-bus-widget"
 node_id = "MDEwOlJlcG9zaXRvcnk3NjkzMzMw"

@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 18_151_728
+is_template = false
 name = "values"
 node_id = "MDEwOlJlcG9zaXRvcnkxODE1MTcyOA=="
 open_issues_within = 10

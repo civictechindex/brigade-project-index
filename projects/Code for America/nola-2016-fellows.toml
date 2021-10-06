@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 50_471_232
+is_template = false
 language = "PLpgSQL"
 name = "nola-2016-fellows"
 node_id = "MDEwOlJlcG9zaXRvcnk1MDQ3MTIzMg=="

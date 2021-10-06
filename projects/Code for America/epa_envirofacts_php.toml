@@ -20,6 +20,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://www.epa.gov/enviro/facts/services.html"
 id = 1_962_491
+is_template = false
 language = "PHP"
 name = "epa_envirofacts_php"
 node_id = "MDEwOlJlcG9zaXRvcnkxOTYyNDkx"

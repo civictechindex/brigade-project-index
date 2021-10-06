@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://github.com/codeforamerica/golden-ticket/blob/master/README.md"
 id = 24_081_634
+is_template = false
 language = "C#"
 name = "golden-ticket"
 node_id = "MDEwOlJlcG9zaXRvcnkyNDA4MTYzNA=="

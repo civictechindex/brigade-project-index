@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://codeforamerica.github.io/abq-tiasabia"
 id = 35_183_059
+is_template = false
 language = "HTML"
 name = "abq-tiasabia"
 node_id = "MDEwOlJlcG9zaXRvcnkzNTE4MzA1OQ=="

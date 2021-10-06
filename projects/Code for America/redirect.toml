@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://c4a.me"
 id = 36_530_195
+is_template = false
 language = "JavaScript"
 name = "redirect"
 node_id = "MDEwOlJlcG9zaXRvcnkzNjUzMDE5NQ=="

@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 19_253_424
+is_template = false
 language = "Ruby"
 name = "hack2-classy-task"
 node_id = "MDEwOlJlcG9zaXRvcnkxOTI1MzQyNA=="

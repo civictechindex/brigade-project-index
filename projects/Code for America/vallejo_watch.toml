@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 29_312_073
+is_template = false
 language = "JavaScript"
 name = "vallejo_watch"
 node_id = "MDEwOlJlcG9zaXRvcnkyOTMxMjA3Mw=="

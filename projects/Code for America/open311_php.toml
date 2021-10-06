@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://wiki.open311.org/API"
 id = 1_954_594
+is_template = false
 language = "PHP"
 name = "open311_php"
 node_id = "MDEwOlJlcG9zaXRvcnkxOTU0NTk0"

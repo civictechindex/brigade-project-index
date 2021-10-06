@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 23_821_062
+is_template = false
 language = "Ruby"
 name = "spy_glass"
 node_id = "MDEwOlJlcG9zaXRvcnkyMzgyMTA2Mg=="

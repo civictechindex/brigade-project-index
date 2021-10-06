@@ -28,6 +28,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://job-commute-search.herokuapp.com"
 id = 155_610_369
+is_template = false
 language = "PHP"
 name = "job-commute-search"
 node_id = "MDEwOlJlcG9zaXRvcnkxNTU2MTAzNjk="

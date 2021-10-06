@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "sinkthevote.com"
 id = 19_251_785
+is_template = false
 language = "JavaScript"
 name = "sink-the-vote"
 node_id = "MDEwOlJlcG9zaXRvcnkxOTI1MTc4NQ=="

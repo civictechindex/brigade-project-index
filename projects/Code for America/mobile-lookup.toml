@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 197_479_980
+is_template = false
 language = "Ruby"
 name = "mobile-lookup"
 node_id = "MDEwOlJlcG9zaXRvcnkxOTc0Nzk5ODA="

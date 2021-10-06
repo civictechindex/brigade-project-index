@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 28_457_943
+is_template = false
 language = "Ruby"
 name = "stay-connected"
 node_id = "MDEwOlJlcG9zaXRvcnkyODQ1Nzk0Mw=="

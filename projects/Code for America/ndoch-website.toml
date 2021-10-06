@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://ndoch.org/"
 id = 90_876_044
+is_template = false
 language = "CSS"
 name = "ndoch-website"
 node_id = "MDEwOlJlcG9zaXRvcnk5MDg3NjA0NA=="

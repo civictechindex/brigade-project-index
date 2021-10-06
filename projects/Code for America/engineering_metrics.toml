@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 298_375_340
+is_template = false
 language = "Ruby"
 name = "engineering_metrics"
 node_id = "MDEwOlJlcG9zaXRvcnkyOTgzNzUzNDA="

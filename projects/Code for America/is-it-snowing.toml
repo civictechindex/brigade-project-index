@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://isitsnowingincharlotte.com/"
 id = 16_751_710
+is_template = false
 language = "Ruby"
 name = "is-it-snowing"
 node_id = "MDEwOlJlcG9zaXRvcnkxNjc1MTcxMA=="

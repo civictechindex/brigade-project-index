@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 114_065_133
+is_template = false
 name = "bat-META"
 node_id = "MDEwOlJlcG9zaXRvcnkxMTQwNjUxMzM="
 open_issues_within = 10

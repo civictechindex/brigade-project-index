@@ -19,6 +19,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 1_624_525
+is_template = false
 language = "PHP"
 name = "FCC-PHP-Library"
 node_id = "MDEwOlJlcG9zaXRvcnkxNjI0NTI1"

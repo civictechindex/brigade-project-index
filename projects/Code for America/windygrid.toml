@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 3_988_594
+is_template = false
 language = "JavaScript"
 name = "windygrid"
 node_id = "MDEwOlJlcG9zaXRvcnkzOTg4NTk0"

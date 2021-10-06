@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://notify-the-msc-staging.herokuapp.com"
 id = 18_454_492
+is_template = false
 language = "Python"
 name = "notify-the-msc"
 node_id = "MDEwOlJlcG9zaXRvcnkxODQ1NDQ5Mg=="

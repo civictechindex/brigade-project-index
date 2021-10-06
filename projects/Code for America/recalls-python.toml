@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://search.usa.gov/api/recalls"
 id = 1_930_526
+is_template = false
 language = "Python"
 name = "recalls-python"
 node_id = "MDEwOlJlcG9zaXRvcnkxOTMwNTI2"

@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 3_481_296
+is_template = false
 language = "Python"
 name = "sms_mta"
 node_id = "MDEwOlJlcG9zaXRvcnkzNDgxMjk2"

@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 19_358_748
+is_template = false
 language = "HTML"
 name = "ticket-to-ride"
 node_id = "MDEwOlJlcG9zaXRvcnkxOTM1ODc0OA=="

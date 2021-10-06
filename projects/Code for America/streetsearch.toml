@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 21_225_517
+is_template = false
 language = "Python"
 name = "streetsearch"
 node_id = "MDEwOlJlcG9zaXRvcnkyMTIyNTUxNw=="

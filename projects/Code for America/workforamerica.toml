@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://codeforamerica.github.io/workforamerica"
 id = 19_253_923
+is_template = false
 language = "CSS"
 name = "workforamerica"
 node_id = "MDEwOlJlcG9zaXRvcnkxOTI1MzkyMw=="

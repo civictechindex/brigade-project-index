@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = false
 id = 10_371_468
+is_template = false
 language = "Ruby"
 name = "nyc-compstat-api"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDM3MTQ2OA=="

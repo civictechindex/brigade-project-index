@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://abq.codeforamerica.org/"
 id = 32_600_272
+is_template = false
 language = "CSS"
 name = "abq-research"
 node_id = "MDEwOlJlcG9zaXRvcnkzMjYwMDI3Mg=="

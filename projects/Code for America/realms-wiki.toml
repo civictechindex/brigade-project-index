@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://realms.io"
 id = 64_173_023
+is_template = false
 language = "Python"
 name = "realms-wiki"
 node_id = "MDEwOlJlcG9zaXRvcnk2NDE3MzAyMw=="

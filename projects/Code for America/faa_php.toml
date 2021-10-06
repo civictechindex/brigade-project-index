@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://services.faa.gov/"
 id = 1_963_592
+is_template = false
 language = "PHP"
 name = "faa_php"
 node_id = "MDEwOlJlcG9zaXRvcnkxOTYzNTky"

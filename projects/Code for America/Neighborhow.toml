@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 5_437_438
+is_template = false
 language = "PHP"
 name = "Neighborhow"
 node_id = "MDEwOlJlcG9zaXRvcnk1NDM3NDM4"

@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = false
 homepage = "http://codeforamerica.github.io/abq-quotewall/"
 id = 33_212_899
+is_template = false
 language = "JavaScript"
 name = "abq-quotewall"
 node_id = "MDEwOlJlcG9zaXRvcnkzMzIxMjg5OQ=="

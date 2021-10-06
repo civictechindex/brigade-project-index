@@ -20,6 +20,7 @@ has_pages = true
 has_projects = true
 has_wiki = true
 id = 24_074_172
+is_template = false
 language = "CSS"
 name = "code-island"
 node_id = "MDEwOlJlcG9zaXRvcnkyNDA3NDE3Mg=="

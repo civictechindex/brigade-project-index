@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 35_783_249
+is_template = false
 language = "Python"
 name = "vpd-data-tools"
 node_id = "MDEwOlJlcG9zaXRvcnkzNTc4MzI0OQ=="

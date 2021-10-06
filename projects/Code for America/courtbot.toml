@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 18_385_247
+is_template = false
 language = "JavaScript"
 name = "courtbot"
 node_id = "MDEwOlJlcG9zaXRvcnkxODM4NTI0Nw=="

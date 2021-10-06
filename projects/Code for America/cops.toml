@@ -20,6 +20,7 @@ has_pages = true
 has_projects = true
 has_wiki = true
 id = 33_752_069
+is_template = false
 name = "cops"
 node_id = "MDEwOlJlcG9zaXRvcnkzMzc1MjA2OQ=="
 open_issues_within = 0

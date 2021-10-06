@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 54_595_702
+is_template = false
 language = "JavaScript"
 name = "hackshop"
 node_id = "MDEwOlJlcG9zaXRvcnk1NDU5NTcwMg=="

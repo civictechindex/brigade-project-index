@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://reqcheck.healthkc.org"
 id = 59_224_889
+is_template = false
 language = "Ruby"
 name = "ReqCheck"
 node_id = "MDEwOlJlcG9zaXRvcnk1OTIyNDg4OQ=="

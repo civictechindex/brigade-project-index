@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = false
 homepage = ""
 id = 152_648_733
+is_template = false
 language = "Ruby"
 name = "jquery-ui-rails"
 node_id = "MDEwOlJlcG9zaXRvcnkxNTI2NDg3MzM="
