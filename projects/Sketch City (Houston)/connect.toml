@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 57_963_132
+is_template = false
 language = "HTML"
 name = "connect"
 node_id = "MDEwOlJlcG9zaXRvcnk1Nzk2MzEzMg=="

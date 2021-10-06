@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 187_405_232
+is_template = false
 language = "JavaScript"
 name = "need-hou-data-cleaner"
 node_id = "MDEwOlJlcG9zaXRvcnkxODc0MDUyMzI="

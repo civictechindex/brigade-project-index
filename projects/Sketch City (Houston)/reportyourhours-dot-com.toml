@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 102_793_165
+is_template = false
 language = "JavaScript"
 name = "reportyourhours-dot-com"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDI3OTMxNjU="

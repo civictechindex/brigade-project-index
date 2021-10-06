@@ -20,6 +20,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://sketch-city.github.io/houston-resources/"
 id = 187_405_169
+is_template = false
 language = "JavaScript"
 name = "houston-resources"
 node_id = "MDEwOlJlcG9zaXRvcnkxODc0MDUxNjk="

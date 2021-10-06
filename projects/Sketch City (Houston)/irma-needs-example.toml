@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://sketch-city.github.io/irma-needs-example/"
 id = 102_623_800
+is_template = false
 language = "JavaScript"
 name = "irma-needs-example"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDI2MjM4MDA="

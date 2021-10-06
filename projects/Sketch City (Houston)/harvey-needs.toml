@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://sketch-city.github.io/harvey-needs"
 id = 101_795_678
+is_template = false
 language = "JavaScript"
 name = "harvey-needs"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDE3OTU2Nzg="

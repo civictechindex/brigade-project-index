@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://github.com/sketch-city/harvey-api"
 id = 102_221_921
+is_template = false
 language = "JavaScript"
 name = "harvey-admin"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDIyMjE5MjE="

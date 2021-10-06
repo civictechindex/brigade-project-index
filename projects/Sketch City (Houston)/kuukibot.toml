@@ -20,6 +20,7 @@ has_pages = true
 has_projects = true
 has_wiki = true
 id = 71_810_311
+is_template = false
 language = "Python"
 name = "kuukibot"
 node_id = "MDEwOlJlcG9zaXRvcnk3MTgxMDMxMQ=="

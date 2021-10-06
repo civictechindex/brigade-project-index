@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://github.com/datamade/dedupe"
 id = 63_429_769
+is_template = false
 language = "Python"
 name = "dedupe"
 node_id = "MDEwOlJlcG9zaXRvcnk2MzQyOTc2OQ=="

@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 62_567_747
+is_template = false
 language = "JavaScript"
 name = "voter-purge-tracker"
 node_id = "MDEwOlJlcG9zaXRvcnk2MjU2Nzc0Nw=="

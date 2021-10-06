@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 58_825_106
+is_template = false
 language = "CSS"
 name = "district-finder"
 node_id = "MDEwOlJlcG9zaXRvcnk1ODgyNTEwNg=="

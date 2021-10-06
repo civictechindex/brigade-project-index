@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://harveyneeds.org"
 id = 102_036_519
+is_template = false
 language = "Ruby"
 name = "harvey-api"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDIwMzY1MTk="

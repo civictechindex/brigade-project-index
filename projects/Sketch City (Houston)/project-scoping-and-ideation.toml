@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 86_623_433
+is_template = false
 name = "project-scoping-and-ideation"
 node_id = "MDEwOlJlcG9zaXRvcnk4NjYyMzQzMw=="
 open_issues_within = 0

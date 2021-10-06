@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://bvseven.byethost18.com/"
 id = 58_974_587
+is_template = false
 language = "HTML"
 name = "connect-restyle"
 node_id = "MDEwOlJlcG9zaXRvcnk1ODk3NDU4Nw=="

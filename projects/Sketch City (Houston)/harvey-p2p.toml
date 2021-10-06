@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://harvey-p2p.herokuapp.com/"
 id = 102_158_265
+is_template = false
 language = "CSS"
 name = "harvey-p2p"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDIxNTgyNjU="

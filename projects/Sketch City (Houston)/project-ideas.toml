@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://sketch-city.github.io/project-ideas/"
 id = 58_103_796
+is_template = false
 name = "project-ideas"
 node_id = "MDEwOlJlcG9zaXRvcnk1ODEwMzc5Ng=="
 open_issues_within = 1_000

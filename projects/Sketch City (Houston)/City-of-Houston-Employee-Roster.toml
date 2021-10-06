@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 180_000_099
+is_template = false
 name = "City-of-Houston-Employee-Roster"
 node_id = "MDEwOlJlcG9zaXRvcnkxODAwMDAwOTk="
 open_issues_within = 0

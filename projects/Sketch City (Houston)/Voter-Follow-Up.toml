@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 83_746_114
+is_template = false
 language = "TypeScript"
 name = "Voter-Follow-Up"
 node_id = "MDEwOlJlcG9zaXRvcnk4Mzc0NjExNA=="

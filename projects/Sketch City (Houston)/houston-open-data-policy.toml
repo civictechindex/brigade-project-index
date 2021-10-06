@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 24_725_740
+is_template = false
 name = "houston-open-data-policy"
 node_id = "MDEwOlJlcG9zaXRvcnkyNDcyNTc0MA=="
 open_issues_within = 0

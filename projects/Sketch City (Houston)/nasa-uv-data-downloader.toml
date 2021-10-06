@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 83_942_810
+is_template = false
 language = "Shell"
 name = "nasa-uv-data-downloader"
 node_id = "MDEwOlJlcG9zaXRvcnk4Mzk0MjgxMA=="

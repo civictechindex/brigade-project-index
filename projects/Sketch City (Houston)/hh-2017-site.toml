@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://houstonhackathon.com/"
 id = 82_762_691
+is_template = false
 language = "CSS"
 name = "hh-2017-site"
 node_id = "MDEwOlJlcG9zaXRvcnk4Mjc2MjY5MQ=="
