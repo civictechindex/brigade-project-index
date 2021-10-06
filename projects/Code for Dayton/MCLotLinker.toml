@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 44_212_906
+is_template = false
 language = "Augeas"
 name = "MCLotLinker"
 node_id = "MDEwOlJlcG9zaXRvcnk0NDIxMjkwNg=="

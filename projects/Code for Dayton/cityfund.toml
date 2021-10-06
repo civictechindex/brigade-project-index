@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 95_613_234
+is_template = false
 language = "JavaScript"
 name = "cityfund"
 node_id = "MDEwOlJlcG9zaXRvcnk5NTYxMzIzNA=="

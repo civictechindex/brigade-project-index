@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://clearmyrecord.codeforamerica.org"
 id = 92_113_879
+is_template = false
 language = "Python"
 name = "intake"
 node_id = "MDEwOlJlcG9zaXRvcnk5MjExMzg3OQ=="

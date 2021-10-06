@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 68_150_314
+is_template = false
 language = "Python"
 name = "foreclosure_mapping"
 node_id = "MDEwOlJlcG9zaXRvcnk2ODE1MDMxNA=="

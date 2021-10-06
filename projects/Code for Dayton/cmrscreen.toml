@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 116_070_648
+is_template = false
 language = "Jupyter Notebook"
 name = "cmrscreen"
 node_id = "MDEwOlJlcG9zaXRvcnkxMTYwNzA2NDg="

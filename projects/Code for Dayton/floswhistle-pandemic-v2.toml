@@ -27,6 +27,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 257_732_421
+is_template = false
 language = "JavaScript"
 name = "floswhistle-pandemic-v2"
 node_id = "MDEwOlJlcG9zaXRvcnkyNTc3MzI0MjE="

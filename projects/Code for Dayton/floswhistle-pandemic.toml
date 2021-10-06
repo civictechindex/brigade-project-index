@@ -21,6 +21,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 254_650_905
+is_template = false
 language = "JavaScript"
 name = "floswhistle-pandemic"
 node_id = "MDEwOlJlcG9zaXRvcnkyNTQ2NTA5MDU="

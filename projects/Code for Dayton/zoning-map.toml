@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 55_027_916
+is_template = false
 language = "CSS"
 name = "zoning-map"
 node_id = "MDEwOlJlcG9zaXRvcnk1NTAyNzkxNg=="

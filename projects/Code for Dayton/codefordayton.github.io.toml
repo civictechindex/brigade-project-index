@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = false
 homepage = "http://codefordayton.org"
 id = 14_672_166
+is_template = false
 language = "HTML"
 name = "codefordayton.github.io"
 node_id = "MDEwOlJlcG9zaXRvcnkxNDY3MjE2Ng=="

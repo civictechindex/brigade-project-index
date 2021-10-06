@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 53_249_303
+is_template = false
 language = "SQLPL"
 name = "rideshare_matchmaker"
 node_id = "MDEwOlJlcG9zaXRvcnk1MzI0OTMwMw=="

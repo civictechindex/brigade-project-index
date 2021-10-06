@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 15_554_279
+is_template = false
 language = "Python"
 name = "scrapers"
 node_id = "MDEwOlJlcG9zaXRvcnkxNTU1NDI3OQ=="

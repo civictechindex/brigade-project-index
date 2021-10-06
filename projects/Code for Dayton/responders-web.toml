@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 53_225_178
+is_template = false
 language = "HTML"
 name = "responders-web"
 node_id = "MDEwOlJlcG9zaXRvcnk1MzIyNTE3OA=="

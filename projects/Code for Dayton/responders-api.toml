@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 53_208_125
+is_template = false
 language = "Python"
 name = "responders-api"
 node_id = "MDEwOlJlcG9zaXRvcnk1MzIwODEyNQ=="

@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 81_777_874
+is_template = false
 language = "PHP"
 name = "cfd-laddr"
 node_id = "MDEwOlJlcG9zaXRvcnk4MTc3Nzg3NA=="
