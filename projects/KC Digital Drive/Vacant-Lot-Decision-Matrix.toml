@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://cfkc.burtson.com/"
 id = 81_146_410
+is_template = false
 language = "C#"
 name = "Vacant-Lot-Decision-Matrix"
 node_id = "MDEwOlJlcG9zaXRvcnk4MTE0NjQxMA=="

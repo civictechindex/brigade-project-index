@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://github.com/UMKC-Law/Vacant2Vibrant"
 id = 57_058_370
+is_template = false
 language = "JavaScript"
 name = "Vacant2Vibrant"
 node_id = "MDEwOlJlcG9zaXRvcnk1NzA1ODM3MA=="

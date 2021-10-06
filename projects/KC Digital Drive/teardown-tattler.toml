@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 30_890_238
+is_template = false
 name = "teardown-tattler"
 node_id = "MDEwOlJlcG9zaXRvcnkzMDg5MDIzOA=="
 open_issues_within = 100

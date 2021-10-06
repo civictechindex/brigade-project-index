@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 115_687_016
+is_template = false
 name = "tagging_tracker_haproxy"
 node_id = "MDEwOlJlcG9zaXRvcnkxMTU2ODcwMTY="
 open_issues_within = 0

@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 106_209_527
+is_template = false
 language = "Python"
 name = "tagging_tracker_backend"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDYyMDk1Mjc="

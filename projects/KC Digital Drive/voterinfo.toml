@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 132_534_345
+is_template = false
 language = "Python"
 name = "voterinfo"
 node_id = "MDEwOlJlcG9zaXRvcnkxMzI1MzQzNDU="
