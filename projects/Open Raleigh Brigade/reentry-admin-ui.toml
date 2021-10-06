@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 97_331_475
+is_template = false
 language = "JavaScript"
 name = "reentry-admin-ui"
 node_id = "MDEwOlJlcG9zaXRvcnk5NzMzMTQ3NQ=="

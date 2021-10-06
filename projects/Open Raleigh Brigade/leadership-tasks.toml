@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 113_714_581
+is_template = false
 name = "leadership-tasks"
 node_id = "MDEwOlJlcG9zaXRvcnkxMTM3MTQ1ODE="
 open_issues_within = 100

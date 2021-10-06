@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 158_953_933
+is_template = false
 language = "JavaScript"
 name = "reentry-open-referral-gql-api"
 node_id = "MDEwOlJlcG9zaXRvcnkxNTg5NTM5MzM="
