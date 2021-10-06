@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 196_473_299
+is_template = false
 language = "JavaScript"
 name = "sms-location-bot"
 node_id = "MDEwOlJlcG9zaXRvcnkxOTY0NzMyOTk="

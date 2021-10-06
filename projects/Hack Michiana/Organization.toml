@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 16_840_033
+is_template = false
 name = "Organization"
 node_id = "MDEwOlJlcG9zaXRvcnkxNjg0MDAzMw=="
 open_issues_within = 0
