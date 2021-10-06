@@ -3,4 +3,5 @@ git_branch = "master"
 git_url = "git://github.com/codeformuenster/schueler-geschichtswettbewerb-muenster.git"
 last_pushed_within = "week"
 name = "schueler-geschichtswettbewerb-muenster"
+open_issues_within = 10
 organization_name = "OK Lab Münster"
