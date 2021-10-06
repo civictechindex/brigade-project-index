@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 35_950_226
+is_template = false
 language = "Ruby"
 name = "learnGithub"
 node_id = "MDEwOlJlcG9zaXRvcnkzNTk1MDIyNg=="

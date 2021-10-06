@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 35_250_678
+is_template = false
 language = "Python"
 name = "code"
 node_id = "MDEwOlJlcG9zaXRvcnkzNTI1MDY3OA=="

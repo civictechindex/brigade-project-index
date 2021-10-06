@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 52_678_879
+is_template = false
 name = "RadioCommunication-BusTransport"
 node_id = "MDEwOlJlcG9zaXRvcnk1MjY3ODg3OQ=="
 open_issues_within = 10

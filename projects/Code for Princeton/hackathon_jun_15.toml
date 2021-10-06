@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://codeforprinceton.org/"
 id = 34_811_863
+is_template = false
 name = "hackathon_jun_15"
 node_id = "MDEwOlJlcG9zaXRvcnkzNDgxMTg2Mw=="
 open_issues_within = 10

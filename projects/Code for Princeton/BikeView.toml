@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 86_115_713
+is_template = false
 language = "HTML"
 name = "BikeView"
 node_id = "MDEwOlJlcG9zaXRvcnk4NjExNTcxMw=="

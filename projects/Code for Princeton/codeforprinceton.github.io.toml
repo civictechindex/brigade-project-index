@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://codeforprinceton.github.io/"
 id = 34_883_757
+is_template = false
 language = "CSS"
 name = "codeforprinceton.github.io"
 node_id = "MDEwOlJlcG9zaXRvcnkzNDg4Mzc1Nw=="

@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = false
 homepage = "http://projects.beta.nyc"
 id = 41_545_152
+is_template = false
 language = "JavaScript"
 name = "codeforprinceton-projects-list"
 node_id = "MDEwOlJlcG9zaXRvcnk0MTU0NTE1Mg=="

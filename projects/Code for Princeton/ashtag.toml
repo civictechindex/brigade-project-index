@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 131_199_207
+is_template = false
 language = "Vue"
 name = "ashtag"
 node_id = "MDEwOlJlcG9zaXRvcnkxMzExOTkyMDc="

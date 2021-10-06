@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 65_590_350
+is_template = false
 language = "Java"
 name = "nitwit"
 node_id = "MDEwOlJlcG9zaXRvcnk2NTU5MDM1MA=="

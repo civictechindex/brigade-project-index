@@ -20,6 +20,7 @@ has_pages = true
 has_projects = true
 has_wiki = true
 id = 43_100_506
+is_template = false
 language = "HTML"
 name = "projects-data-portal"
 node_id = "MDEwOlJlcG9zaXRvcnk0MzEwMDUwNg=="

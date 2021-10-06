@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 71_647_050
+is_template = false
 language = "Jupyter Notebook"
 name = "airquality"
 node_id = "MDEwOlJlcG9zaXRvcnk3MTY0NzA1MA=="

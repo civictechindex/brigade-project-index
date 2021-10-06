@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 35_618_383
+is_template = false
 language = "PHP"
 name = "ptonElections"
 node_id = "MDEwOlJlcG9zaXRvcnkzNTYxODM4Mw=="

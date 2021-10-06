@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 103_972_657
+is_template = false
 language = "JavaScript"
 name = "laddr"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDM5NzI2NTc="

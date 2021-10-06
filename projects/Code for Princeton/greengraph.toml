@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 35_401_974
+is_template = false
 language = "JavaScript"
 name = "greengraph"
 node_id = "MDEwOlJlcG9zaXRvcnkzNTQwMTk3NA=="

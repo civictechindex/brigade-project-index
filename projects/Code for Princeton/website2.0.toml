@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 103_974_067
+is_template = false
 name = "website2.0"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDM5NzQwNjc="
 open_issues_within = 10

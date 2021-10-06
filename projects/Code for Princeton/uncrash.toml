@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 52_668_912
+is_template = false
 language = "JavaScript"
 name = "uncrash"
 node_id = "MDEwOlJlcG9zaXRvcnk1MjY2ODkxMg=="
