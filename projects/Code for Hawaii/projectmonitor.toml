@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "cfa-project-monitor.herokuapp.com"
 id = 41_870_322
+is_template = false
 language = "Ruby"
 name = "projectmonitor"
 node_id = "MDEwOlJlcG9zaXRvcnk0MTg3MDMyMg=="

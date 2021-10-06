@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 285_471_007
+is_template = false
 language = "Java"
 name = "kuka"
 node_id = "MDEwOlJlcG9zaXRvcnkyODU0NzEwMDc="

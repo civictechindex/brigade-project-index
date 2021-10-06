@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 66_345_675
+is_template = false
 language = "Shell"
 name = "puppet-solr"
 node_id = "MDEwOlJlcG9zaXRvcnk2NjM0NTY3NQ=="

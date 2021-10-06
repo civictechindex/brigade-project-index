@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 40_732_152
+is_template = false
 language = "PHP"
 name = "metalicious"
 node_id = "MDEwOlJlcG9zaXRvcnk0MDczMjE1Mg=="

@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 51_052_330
+is_template = false
 language = "HTML"
 name = "patternlab"
 node_id = "MDEwOlJlcG9zaXRvcnk1MTA1MjMzMA=="

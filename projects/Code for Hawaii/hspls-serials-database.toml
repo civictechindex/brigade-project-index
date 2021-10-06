@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://mixxen.github.io/hspls-serials-database/"
 id = 53_715_167
+is_template = false
 language = "R"
 name = "hspls-serials-database"
 node_id = "MDEwOlJlcG9zaXRvcnk1MzcxNTE2Nw=="

@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 46_808_930
+is_template = false
 name = "issues"
 node_id = "MDEwOlJlcG9zaXRvcnk0NjgwODkzMA=="
 open_issues_within = 10

@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 65_519_070
+is_template = false
 language = "Puppet"
 name = "statedecoded-vagrant"
 node_id = "MDEwOlJlcG9zaXRvcnk2NTUxOTA3MA=="

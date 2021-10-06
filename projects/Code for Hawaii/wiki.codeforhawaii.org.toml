@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 37_435_802
+is_template = false
 name = "wiki.codeforhawaii.org"
 node_id = "MDEwOlJlcG9zaXRvcnkzNzQzNTgwMg=="
 open_issues_within = 0

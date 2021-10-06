@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 36_898_735
+is_template = false
 language = "JavaScript"
 name = "realtime-traffic-sign"
 node_id = "MDEwOlJlcG9zaXRvcnkzNjg5ODczNQ=="
