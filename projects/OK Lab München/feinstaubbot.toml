@@ -19,6 +19,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 53_197_943
+is_template = false
 language = "Python"
 name = "feinstaubbot"
 node_id = "MDEwOlJlcG9zaXRvcnk1MzE5Nzk0Mw=="

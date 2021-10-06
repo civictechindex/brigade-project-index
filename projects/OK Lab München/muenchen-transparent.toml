@@ -23,6 +23,7 @@ has_projects = false
 has_wiki = false
 homepage = "https://www.muenchen-transparent.de"
 id = 8_992_160
+is_template = false
 language = "PHP"
 name = "muenchen-transparent"
 node_id = "MDEwOlJlcG9zaXRvcnk4OTkyMTYw"

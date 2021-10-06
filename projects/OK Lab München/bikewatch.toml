@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 74_981_307
+is_template = false
 language = "Python"
 name = "bikewatch"
 node_id = "MDEwOlJlcG9zaXRvcnk3NDk4MTMwNw=="

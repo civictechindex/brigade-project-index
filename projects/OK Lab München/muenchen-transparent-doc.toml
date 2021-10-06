@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 60_198_943
+is_template = false
 name = "muenchen-transparent-doc"
 node_id = "MDEwOlJlcG9zaXRvcnk2MDE5ODk0Mw=="
 open_issues_within = 0
