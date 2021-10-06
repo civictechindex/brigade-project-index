@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://uscensusbureau.github.io/citysdk"
 id = 30_190_284
+is_template = false
 language = "Clojure"
 name = "citysdk"
 node_id = "MDEwOlJlcG9zaXRvcnkzMDE5MDI4NA=="

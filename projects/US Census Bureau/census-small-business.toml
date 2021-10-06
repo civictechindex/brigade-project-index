@@ -23,6 +23,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://uscensusbureau.github.io/census-small-business/"
 id = 99_157_597
+is_template = false
 language = "HTML"
 name = "census-small-business"
 node_id = "MDEwOlJlcG9zaXRvcnk5OTE1NzU5Nw=="

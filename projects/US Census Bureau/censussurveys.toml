@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://uscensusbureau.github.io/censussurveys/"
 id = 338_084_788
+is_template = false
 language = "HTML"
 name = "censussurveys"
 node_id = "MDEwOlJlcG9zaXRvcnkzMzgwODQ3ODg="

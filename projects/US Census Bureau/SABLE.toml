@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 105_816_427
+is_template = false
 language = "Python"
 name = "SABLE"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDU4MTY0Mjc="

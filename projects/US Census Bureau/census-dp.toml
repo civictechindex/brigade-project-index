@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 204_878_543
+is_template = false
 language = "Jupyter Notebook"
 name = "census-dp"
 node_id = "MDEwOlJlcG9zaXRvcnkyMDQ4Nzg1NDM="

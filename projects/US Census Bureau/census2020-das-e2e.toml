@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 181_751_628
+is_template = false
 language = "Python"
 name = "census2020-das-e2e"
 node_id = "MDEwOlJlcG9zaXRvcnkxODE3NTE2Mjg="

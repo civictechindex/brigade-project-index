@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 413_962_344
+is_template = false
 language = "Fortran"
 name = "cvam"
 node_id = "R_kgDOGKyQaA"

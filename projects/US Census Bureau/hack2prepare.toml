@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 45_617_701
+is_template = false
 name = "hack2prepare"
 node_id = "MDEwOlJlcG9zaXRvcnk0NTYxNzcwMQ=="
 open_issues_within = 0

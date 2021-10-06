@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 223_439_818
+is_template = false
 language = "SCSS"
 name = "xd.gov"
 node_id = "MDEwOlJlcG9zaXRvcnkyMjM0Mzk4MTg="

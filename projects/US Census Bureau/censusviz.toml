@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 346_823_217
+is_template = false
 name = "censusviz"
 node_id = "MDEwOlJlcG9zaXRvcnkzNDY4MjMyMTc="
 open_issues_within = 0

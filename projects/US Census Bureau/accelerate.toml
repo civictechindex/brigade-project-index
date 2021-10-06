@@ -18,6 +18,7 @@ has_pages = true
 has_projects = true
 has_wiki = true
 id = 223_472_840
+is_template = false
 language = "CSS"
 name = "accelerate"
 node_id = "MDEwOlJlcG9zaXRvcnkyMjM0NzI4NDA="

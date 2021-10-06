@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 188_098_231
+is_template = false
 language = "Python"
 name = "census-wikidata-bot"
 node_id = "MDEwOlJlcG9zaXRvcnkxODgwOTgyMzE="

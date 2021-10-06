@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 180_841_720
+is_template = false
 language = "Shell"
 name = "run-sas"
 node_id = "MDEwOlJlcG9zaXRvcnkxODA4NDE3MjA="

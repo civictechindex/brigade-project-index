@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 147_573_770
+is_template = false
 language = "Python"
 name = "drb_rounder"
 node_id = "MDEwOlJlcG9zaXRvcnkxNDc1NzM3NzA="

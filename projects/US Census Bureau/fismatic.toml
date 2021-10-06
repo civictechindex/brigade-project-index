@@ -20,6 +20,7 @@ has_projects = true
 has_wiki = false
 homepage = "https://github.com/uscensusbureau/fismatic/projects/1"
 id = 183_088_004
+is_template = false
 language = "Python"
 name = "fismatic"
 node_id = "MDEwOlJlcG9zaXRvcnkxODMwODgwMDQ="

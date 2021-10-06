@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 99_688_941
+is_template = false
 name = "cdfdemoday"
 node_id = "MDEwOlJlcG9zaXRvcnk5OTY4ODk0MQ=="
 open_issues_within = 10

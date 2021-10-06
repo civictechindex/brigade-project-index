@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 413_961_880
+is_template = false
 language = "Fortran"
 name = "norm2"
 node_id = "R_kgDOGKyOmA"
