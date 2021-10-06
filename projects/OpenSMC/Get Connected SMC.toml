@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 85_776_650
+is_template = false
 language = "JavaScript"
 name = "get-connected-smc"
 network_count = 3

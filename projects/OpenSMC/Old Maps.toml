@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 77_016_776
+is_template = false
 name = "old-maps"
 network_count = 0
 node_id = "MDEwOlJlcG9zaXRvcnk3NzAxNjc3Ng=="

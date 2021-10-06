@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 52_480_602
+is_template = false
 language = "PHP"
 name = "cyclesmc"
 network_count = 9
@@ -75,6 +76,7 @@ watchers_within = 10
   has_wiki = true
   homepage = ""
   id = 35_578_748
+  is_template = false
   language = "PHP"
   name = "cyclephilly"
   node_id = "MDEwOlJlcG9zaXRvcnkzNTU3ODc0OA=="
@@ -125,6 +127,7 @@ watchers_within = 10
   has_wiki = true
   homepage = ""
   id = 35_578_748
+  is_template = false
   language = "PHP"
   name = "cyclephilly"
   node_id = "MDEwOlJlcG9zaXRvcnkzNTU3ODc0OA=="
