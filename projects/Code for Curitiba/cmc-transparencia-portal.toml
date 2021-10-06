@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://cmc-transparencia.herokuapp.com/"
 id = 97_768_314
+is_template = false
 language = "JavaScript"
 name = "cmc-transparencia-portal"
 node_id = "MDEwOlJlcG9zaXRvcnk5Nzc2ODMxNA=="

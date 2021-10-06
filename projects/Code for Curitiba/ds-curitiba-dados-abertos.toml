@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 208_944_143
+is_template = false
 language = "Jupyter Notebook"
 name = "ds-curitiba-dados-abertos"
 node_id = "MDEwOlJlcG9zaXRvcnkyMDg5NDQxNDM="

@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 178_927_851
+is_template = false
 language = "Jupyter Notebook"
 name = "Analises-Jupyter-Notebook"
 node_id = "MDEwOlJlcG9zaXRvcnkxNzg5Mjc4NTE="

@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://curitibaio.azurewebsites.net/"
 id = 170_721_763
+is_template = false
 language = "HTML"
 name = "CuritibaIO"
 node_id = "MDEwOlJlcG9zaXRvcnkxNzA3MjE3NjM="

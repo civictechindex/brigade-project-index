@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://adote-um-bueiro.herokuapps.com"
 id = 71_317_384
+is_template = false
 language = "CSS"
 name = "adote-um-bueiro"
 node_id = "MDEwOlJlcG9zaXRvcnk3MTMxNzM4NA=="

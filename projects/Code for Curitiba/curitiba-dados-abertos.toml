@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 239_233_304
+is_template = false
 language = "Python"
 name = "curitiba-dados-abertos"
 node_id = "MDEwOlJlcG9zaXRvcnkyMzkyMzMzMDQ="

@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 92_342_432
+is_template = false
 name = "c4c-guia-mra"
 node_id = "MDEwOlJlcG9zaXRvcnk5MjM0MjQzMg=="
 open_issues_within = 10

@@ -28,6 +28,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 86_853_484
+is_template = false
 language = "Python"
 name = "c4c-gestao-br-scrapers"
 node_id = "MDEwOlJlcG9zaXRvcnk4Njg1MzQ4NA=="

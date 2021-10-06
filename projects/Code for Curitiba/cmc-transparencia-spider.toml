@@ -23,6 +23,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://cmc-transparencia.herokuapp.com/"
 id = 95_694_775
+is_template = false
 language = "Python"
 name = "cmc-transparencia-spider"
 node_id = "MDEwOlJlcG9zaXRvcnk5NTY5NDc3NQ=="

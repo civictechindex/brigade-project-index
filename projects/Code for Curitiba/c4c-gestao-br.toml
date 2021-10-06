@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 85_430_504
+is_template = false
 language = "Python"
 name = "c4c-gestao-br"
 node_id = "MDEwOlJlcG9zaXRvcnk4NTQzMDUwNA=="

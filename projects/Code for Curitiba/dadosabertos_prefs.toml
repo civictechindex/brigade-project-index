@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 47_273_197
+is_template = false
 name = "dadosabertos_prefs"
 node_id = "MDEwOlJlcG9zaXRvcnk0NzI3MzE5Nw=="
 open_issues_within = 10

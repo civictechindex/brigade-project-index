@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 339_925_371
+is_template = false
 language = "Python"
 name = "EventBriteHandler"
 node_id = "MDEwOlJlcG9zaXRvcnkzMzk5MjUzNzE="

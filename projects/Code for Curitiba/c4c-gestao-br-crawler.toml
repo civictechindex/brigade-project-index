@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 85_071_633
+is_template = false
 language = "Scala"
 name = "c4c-gestao-br-crawler"
 node_id = "MDEwOlJlcG9zaXRvcnk4NTA3MTYzMw=="

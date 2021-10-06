@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://csvapi.herokuapp.com"
 id = 73_331_397
+is_template = false
 language = "JavaScript"
 name = "csv_api"
 node_id = "MDEwOlJlcG9zaXRvcnk3MzMzMTM5Nw=="
