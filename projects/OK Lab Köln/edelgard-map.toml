@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://edelgard.koeln/"
 id = 225_884_539
+is_template = false
 language = "TypeScript"
 name = "edelgard-map"
 node_id = "MDEwOlJlcG9zaXRvcnkyMjU4ODQ1Mzk="

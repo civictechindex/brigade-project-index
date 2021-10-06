@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 44_768_117
+is_template = false
 name = "FAQ"
 node_id = "MDEwOlJlcG9zaXRvcnk0NDc2ODExNw=="
 open_issues_within = 10

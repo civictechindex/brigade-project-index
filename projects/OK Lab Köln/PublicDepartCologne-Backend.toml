@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 83_968_093
+is_template = false
 language = "Python"
 name = "PublicDepartCologne-Backend"
 node_id = "MDEwOlJlcG9zaXRvcnk4Mzk2ODA5Mw=="

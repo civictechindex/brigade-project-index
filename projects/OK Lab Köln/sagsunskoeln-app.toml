@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 52_342_655
+is_template = false
 language = "TypeScript"
 name = "sagsunskoeln-app"
 node_id = "MDEwOlJlcG9zaXRvcnk1MjM0MjY1NQ=="

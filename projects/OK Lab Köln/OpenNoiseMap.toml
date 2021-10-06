@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 251_624_353
+is_template = false
 language = "JavaScript"
 name = "OpenNoiseMap"
 node_id = "MDEwOlJlcG9zaXRvcnkyNTE2MjQzNTM="

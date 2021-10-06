@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://twitter.com/CutePetsCologne"
 id = 42_072_029
+is_template = false
 language = "CoffeeScript"
 name = "CutePetsCologne"
 node_id = "MDEwOlJlcG9zaXRvcnk0MjA3MjAyOQ=="

@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://codeforcologne.github.io/strassenkoeln/"
 id = 53_345_135
+is_template = false
 language = "HTML"
 name = "strassenkoeln"
 node_id = "MDEwOlJlcG9zaXRvcnk1MzM0NTEzNQ=="

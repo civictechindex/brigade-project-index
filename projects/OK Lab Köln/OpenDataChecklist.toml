@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 350_826_048
+is_template = false
 language = "HTML"
 name = "OpenDataChecklist"
 node_id = "MDEwOlJlcG9zaXRvcnkzNTA4MjYwNDg="

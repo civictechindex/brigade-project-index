@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 284_404_064
+is_template = false
 language = "JavaScript"
 name = "baumkataster"
 node_id = "MDEwOlJlcG9zaXRvcnkyODQ0MDQwNjQ="

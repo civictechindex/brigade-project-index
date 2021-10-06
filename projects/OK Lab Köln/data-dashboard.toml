@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://codeforcologne.github.io/data-dashboard/app/index.html"
 id = 55_843_745
+is_template = false
 language = "JavaScript"
 name = "data-dashboard"
 node_id = "MDEwOlJlcG9zaXRvcnk1NTg0Mzc0NQ=="

@@ -20,6 +20,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://codeforcologne.github.io/koelner-veranstaltungskalender/"
 id = 35_899_826
+is_template = false
 language = "JavaScript"
 name = "koelner-veranstaltungskalender"
 node_id = "MDEwOlJlcG9zaXRvcnkzNTg5OTgyNg=="

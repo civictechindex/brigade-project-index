@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = false
 homepage = "http://wo-ist-markt.de"
 id = 55_430_575
+is_template = false
 language = "JavaScript"
 name = "wo-ist-markt.github.io"
 node_id = "MDEwOlJlcG9zaXRvcnk1NTQzMDU3NQ=="
