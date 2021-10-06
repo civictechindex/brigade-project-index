@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 45_988_645
+is_template = false
 name = "leadership-brain"
 node_id = "MDEwOlJlcG9zaXRvcnk0NTk4ODY0NQ=="
 open_issues_within = 10

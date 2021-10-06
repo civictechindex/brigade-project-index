@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 36_906_571
+is_template = false
 language = "JavaScript"
 name = "Open-Budget-ABQ"
 node_id = "MDEwOlJlcG9zaXRvcnkzNjkwNjU3MQ=="

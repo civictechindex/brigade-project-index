@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://abqvotes.org/"
 id = 40_928_739
+is_template = false
 language = "CSS"
 name = "abqvotes"
 node_id = "MDEwOlJlcG9zaXRvcnk0MDkyODczOQ=="

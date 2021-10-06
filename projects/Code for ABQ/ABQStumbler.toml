@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 45_078_392
+is_template = false
 name = "ABQStumbler"
 node_id = "MDEwOlJlcG9zaXRvcnk0NTA3ODM5Mg=="
 open_issues_within = 10

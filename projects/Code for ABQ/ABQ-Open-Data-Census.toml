@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 34_875_306
+is_template = false
 name = "ABQ-Open-Data-Census"
 node_id = "MDEwOlJlcG9zaXRvcnkzNDg3NTMwNg=="
 open_issues_within = 10

@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://imagineabq.org"
 id = 41_394_538
+is_template = false
 name = "imagine-abq"
 node_id = "MDEwOlJlcG9zaXRvcnk0MTM5NDUzOA=="
 open_issues_within = 100
