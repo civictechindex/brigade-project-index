@@ -30,6 +30,12 @@ updated_within = "week"
 visibility = "public"
 watchers_within = 10
 
+  [github.license]
+  key = "other"
+  name = "Other"
+  node_id = "MDc6TGljZW5zZTA="
+  spdx_id = "NOASSERTION"
+
   [github.owner]
   gravatar_id = ""
   id = 6_464_842
