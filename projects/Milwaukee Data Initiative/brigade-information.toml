@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 64_242_365
+is_template = false
 name = "brigade-information"
 node_id = "MDEwOlJlcG9zaXRvcnk2NDI0MjM2NQ=="
 open_issues_within = 0

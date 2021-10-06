@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 71_936_988
+is_template = false
 language = "JavaScript"
 name = "mpd-call-log-gscript"
 node_id = "MDEwOlJlcG9zaXRvcnk3MTkzNjk4OA=="

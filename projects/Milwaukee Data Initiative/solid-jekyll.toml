@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://ojs.xyz/solid-jekyll/"
 id = 79_014_078
+is_template = false
 language = "CSS"
 name = "solid-jekyll"
 node_id = "MDEwOlJlcG9zaXRvcnk3OTAxNDA3OA=="

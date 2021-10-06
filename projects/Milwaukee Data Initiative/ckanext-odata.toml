@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 68_222_023
+is_template = false
 language = "JavaScript"
 name = "ckanext-odata"
 node_id = "MDEwOlJlcG9zaXRvcnk2ODIyMjAyMw=="

@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 67_645_051
+is_template = false
 name = "ckanext-premiumdatasets"
 node_id = "MDEwOlJlcG9zaXRvcnk2NzY0NTA1MQ=="
 open_issues_within = 0

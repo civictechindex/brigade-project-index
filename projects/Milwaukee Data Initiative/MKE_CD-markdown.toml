@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://mkecommunitydata.org"
 id = 79_511_119
+is_template = false
 name = "MKE_CD-markdown"
 node_id = "MDEwOlJlcG9zaXRvcnk3OTUxMTExOQ=="
 open_issues_within = 0

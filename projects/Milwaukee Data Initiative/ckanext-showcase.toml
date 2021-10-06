@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 67_644_981
+is_template = false
 language = "Python"
 name = "ckanext-showcase"
 node_id = "MDEwOlJlcG9zaXRvcnk2NzY0NDk4MQ=="

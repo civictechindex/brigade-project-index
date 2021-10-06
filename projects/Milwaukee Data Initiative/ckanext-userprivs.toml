@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 67_645_230
+is_template = false
 name = "ckanext-userprivs"
 node_id = "MDEwOlJlcG9zaXRvcnk2NzY0NTIzMA=="
 open_issues_within = 0

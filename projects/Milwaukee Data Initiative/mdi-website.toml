@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 65_264_298
+is_template = false
 name = "mdi-website"
 node_id = "MDEwOlJlcG9zaXRvcnk2NTI2NDI5OA=="
 open_issues_within = 0

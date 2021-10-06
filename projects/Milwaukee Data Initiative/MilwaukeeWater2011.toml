@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 10_530_117
+is_template = false
 name = "MilwaukeeWater2011"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDUzMDExNw=="
 open_issues_within = 0

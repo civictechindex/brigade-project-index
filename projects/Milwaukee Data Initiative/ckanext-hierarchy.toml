@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 67_645_004
+is_template = false
 language = "Python"
 name = "ckanext-hierarchy"
 node_id = "MDEwOlJlcG9zaXRvcnk2NzY0NTAwNA=="

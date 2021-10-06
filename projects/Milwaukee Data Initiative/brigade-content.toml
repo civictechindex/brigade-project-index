@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 65_348_747
+is_template = false
 language = "HTML"
 name = "brigade-content"
 node_id = "MDEwOlJlcG9zaXRvcnk2NTM0ODc0Nw=="

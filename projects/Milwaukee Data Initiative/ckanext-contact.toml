@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 67_644_997
+is_template = false
 language = "Python"
 name = "ckanext-contact"
 node_id = "MDEwOlJlcG9zaXRvcnk2NzY0NDk5Nw=="

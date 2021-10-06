@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 11_123_396
+is_template = false
 language = "PHP"
 name = "MDI-DKAN-Data-Catalog"
 node_id = "MDEwOlJlcG9zaXRvcnkxMTEyMzM5Ng=="
