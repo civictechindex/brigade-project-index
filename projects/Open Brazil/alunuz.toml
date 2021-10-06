@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://codeforbrazil.github.io/alunuz/frontend"
 id = 41_919_790
+is_template = false
 language = "JavaScript"
 name = "alunuz"
 node_id = "MDEwOlJlcG9zaXRvcnk0MTkxOTc5MA=="

@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 53_984_017
+is_template = false
 language = "JavaScript"
 name = "cmc-crawler"
 node_id = "MDEwOlJlcG9zaXRvcnk1Mzk4NDAxNw=="

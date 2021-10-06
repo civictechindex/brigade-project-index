@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 42_243_374
+is_template = false
 language = "PHP"
 name = "DaPaz"
 node_id = "MDEwOlJlcG9zaXRvcnk0MjI0MzM3NA=="
