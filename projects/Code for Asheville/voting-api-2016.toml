@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 70_422_231
+is_template = false
 language = "JavaScript"
 name = "voting-api-2016"
 node_id = "MDEwOlJlcG9zaXRvcnk3MDQyMjIzMQ=="

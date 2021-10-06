@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 380_582_958
+is_template = false
 language = "Python"
 name = "tramcar"
 node_id = "MDEwOlJlcG9zaXRvcnkzODA1ODI5NTg="

@@ -20,6 +20,7 @@ has_pages = true
 has_projects = true
 has_wiki = true
 id = 12_405_379
+is_template = false
 language = "CSS"
 name = "taxday"
 node_id = "MDEwOlJlcG9zaXRvcnkxMjQwNTM3OQ=="

@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 299_812_957
+is_template = false
 language = "Ruby"
 name = "rjc-aws"
 node_id = "MDEwOlJlcG9zaXRvcnkyOTk4MTI5NTc="
