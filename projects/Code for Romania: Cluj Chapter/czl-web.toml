@@ -33,6 +33,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://cezicelegea.ro/"
 id = 130_458_929
+is_template = false
 language = "JavaScript"
 name = "czl-web"
 node_id = "MDEwOlJlcG9zaXRvcnkxMzA0NTg5Mjk="

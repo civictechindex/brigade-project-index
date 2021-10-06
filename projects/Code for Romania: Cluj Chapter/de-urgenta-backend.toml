@@ -23,6 +23,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://de-urgenta-backend-mu.vercel.app/"
 id = 353_318_527
+is_template = false
 language = "C#"
 name = "de-urgenta-backend"
 node_id = "MDEwOlJlcG9zaXRvcnkzNTMzMTg1Mjc="

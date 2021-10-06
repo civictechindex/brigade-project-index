@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 189_609_509
+is_template = false
 language = "PHP"
 name = "rvm-api"
 node_id = "MDEwOlJlcG9zaXRvcnkxODk2MDk1MDk="

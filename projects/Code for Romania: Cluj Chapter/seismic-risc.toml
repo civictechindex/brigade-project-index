@@ -32,6 +32,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://seismic-risc.vercel.app/"
 id = 199_031_769
+is_template = false
 language = "JavaScript"
 name = "seismic-risc"
 node_id = "MDEwOlJlcG9zaXRvcnkxOTkwMzE3Njk="

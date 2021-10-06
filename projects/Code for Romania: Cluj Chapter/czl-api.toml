@@ -33,6 +33,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://cezicelegea.ro/"
 id = 84_227_657
+is_template = false
 language = "Python"
 name = "czl-api"
 node_id = "MDEwOlJlcG9zaXRvcnk4NDIyNzY1Nw=="

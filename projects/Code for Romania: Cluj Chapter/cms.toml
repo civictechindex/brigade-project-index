@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = false
 homepage = ""
 id = 229_072_442
+is_template = false
 language = "PHP"
 name = "cms"
 node_id = "MDEwOlJlcG9zaXRvcnkyMjkwNzI0NDI="

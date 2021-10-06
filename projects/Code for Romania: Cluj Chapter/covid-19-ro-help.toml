@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 246_852_699
+is_template = false
 language = "Python"
 name = "covid-19-ro-help"
 node_id = "MDEwOlJlcG9zaXRvcnkyNDY4NTI2OTk="

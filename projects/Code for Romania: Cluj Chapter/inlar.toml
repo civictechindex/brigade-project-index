@@ -31,6 +31,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://inlar.org"
 id = 80_517_067
+is_template = false
 language = "JavaScript"
 name = "inlar"
 node_id = "MDEwOlJlcG9zaXRvcnk4MDUxNzA2Nw=="

@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://teacher-workout-staging.vercel.app/"
 id = 378_893_786
+is_template = false
 language = "JavaScript"
 name = "teacher-workout-client"
 node_id = "MDEwOlJlcG9zaXRvcnkzNzg4OTM3ODY="

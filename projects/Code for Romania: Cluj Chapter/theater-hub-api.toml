@@ -30,6 +30,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://theaterhub.ro/"
 id = 113_743_686
+is_template = false
 language = "TypeScript"
 name = "theater-hub-api"
 node_id = "MDEwOlJlcG9zaXRvcnkxMTM3NDM2ODY="

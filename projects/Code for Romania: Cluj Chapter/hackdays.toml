@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://tfsg.code4.ro/ro/hackday/"
 id = 171_702_115
+is_template = false
 name = "hackdays"
 node_id = "MDEwOlJlcG9zaXRvcnkxNzE3MDIxMTU="
 open_issues_within = 0

@@ -23,6 +23,7 @@ has_projects = true
 has_wiki = false
 homepage = "https://diasporahub.ro"
 id = 247_272_069
+is_template = false
 language = "PHP"
 name = "covid-19-diaspora-hub"
 node_id = "MDEwOlJlcG9zaXRvcnkyNDcyNzIwNjk="

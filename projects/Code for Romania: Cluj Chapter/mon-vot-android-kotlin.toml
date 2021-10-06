@@ -33,6 +33,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://votemonitor.org"
 id = 203_836_678
+is_template = false
 language = "Kotlin"
 name = "mon-vot-android-kotlin"
 node_id = "MDEwOlJlcG9zaXRvcnkyMDM4MzY2Nzg="
