@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 35_190_045
+is_template = false
 name = "lightning-talks"
 node_id = "MDEwOlJlcG9zaXRvcnkzNTE5MDA0NQ=="
 open_issues_within = 100

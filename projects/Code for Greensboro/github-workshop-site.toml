@@ -20,6 +20,7 @@ has_projects = false
 has_wiki = false
 homepage = "https://codeforgso.github.io/github-workshop-site"
 id = 170_025_148
+is_template = false
 language = "CSS"
 name = "github-workshop-site"
 node_id = "MDEwOlJlcG9zaXRvcnkxNzAwMjUxNDg="

@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 95_501_787
+is_template = false
 name = "committee-executive"
 node_id = "MDEwOlJlcG9zaXRvcnk5NTUwMTc4Nw=="
 open_issues_within = 100

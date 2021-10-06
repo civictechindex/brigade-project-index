@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://govotegso.org/"
 id = 98_736_940
+is_template = false
 language = "JavaScript"
 name = "GoVote"
 node_id = "MDEwOlJlcG9zaXRvcnk5ODczNjk0MA=="

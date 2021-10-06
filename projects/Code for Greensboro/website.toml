@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://codeforgreensboro.org"
 id = 265_705_552
+is_template = false
 language = "HTML"
 name = "website"
 node_id = "MDEwOlJlcG9zaXRvcnkyNjU3MDU1NTI="

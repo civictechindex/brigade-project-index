@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://codeforgso.github.io/github-workshop/#/"
 id = 173_345_739
+is_template = false
 language = "JavaScript"
 name = "github-workshop"
 node_id = "MDEwOlJlcG9zaXRvcnkxNzMzNDU3Mzk="
