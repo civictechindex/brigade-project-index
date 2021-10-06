@@ -21,6 +21,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 10_305_223
+is_template = false
 name = "events-calendar"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDMwNTIyMw=="
 open_issues_within = 0

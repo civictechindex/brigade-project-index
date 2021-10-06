@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 291_342_485
+is_template = false
 name = "courtbot"
 node_id = "MDEwOlJlcG9zaXRvcnkyOTEzNDI0ODU="
 open_issues_within = 0

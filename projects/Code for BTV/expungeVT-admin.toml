@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 262_367_804
+is_template = false
 name = "expungeVT-admin"
 node_id = "MDEwOlJlcG9zaXRvcnkyNjIzNjc4MDQ="
 open_issues_within = 0

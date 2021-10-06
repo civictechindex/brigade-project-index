@@ -19,6 +19,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 20_970_750
+is_template = false
 language = "Python"
 name = "green-rental"
 node_id = "MDEwOlJlcG9zaXRvcnkyMDk3MDc1MA=="

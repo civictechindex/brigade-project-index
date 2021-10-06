@@ -23,6 +23,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://codeforbtv.org/docs/"
 id = 11_551_358
+is_template = false
 language = "CSS"
 name = "docs"
 node_id = "MDEwOlJlcG9zaXRvcnkxMTU1MTM1OA=="

@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 99_626_181
+is_template = false
 name = "btv-datasets"
 node_id = "MDEwOlJlcG9zaXRvcnk5OTYyNjE4MQ=="
 open_issues_within = 10

@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 138_631_201
+is_template = false
 language = "JavaScript"
 name = "cvoeo-app"
 node_id = "MDEwOlJlcG9zaXRvcnkxMzg2MzEyMDE="

@@ -21,6 +21,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 10_305_149
+is_template = false
 name = "artist-directory"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDMwNTE0OQ=="
 open_issues_within = 0

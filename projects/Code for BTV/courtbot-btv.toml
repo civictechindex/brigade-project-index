@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 390_162_560
+is_template = false
 language = "TypeScript"
 name = "courtbot-btv"
 node_id = "MDEwOlJlcG9zaXRvcnkzOTAxNjI1NjA="

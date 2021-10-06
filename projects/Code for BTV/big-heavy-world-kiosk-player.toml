@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 179_301_822
+is_template = false
 language = "JavaScript"
 name = "big-heavy-world-kiosk-player"
 node_id = "MDEwOlJlcG9zaXRvcnkxNzkzMDE4MjI="

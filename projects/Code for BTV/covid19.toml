@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 288_910_279
+is_template = false
 language = "JavaScript"
 name = "covid19"
 node_id = "MDEwOlJlcG9zaXRvcnkyODg5MTAyNzk="

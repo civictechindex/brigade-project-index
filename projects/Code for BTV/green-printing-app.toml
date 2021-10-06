@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 13_904_509
+is_template = false
 name = "green-printing-app"
 node_id = "MDEwOlJlcG9zaXRvcnkxMzkwNDUwOQ=="
 open_issues_within = 0
