@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 10_525_767
+is_template = false
 language = "Ruby"
 name = "kitchen"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDUyNTc2Nw=="

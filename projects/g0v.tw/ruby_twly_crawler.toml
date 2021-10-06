@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 174_141_255
+is_template = false
 language = "Ruby"
 name = "ruby_twly_crawler"
 node_id = "MDEwOlJlcG9zaXRvcnkxNzQxNDEyNTU="

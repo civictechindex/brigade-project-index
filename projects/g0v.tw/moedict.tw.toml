@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 8_055_680
+is_template = false
 language = "Perl"
 name = "moedict.tw"
 node_id = "MDEwOlJlcG9zaXRvcnk4MDU1Njgw"

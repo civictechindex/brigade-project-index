@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://g0v.github.io/distant-education-spec-gitbook/"
 id = 34_744_143
+is_template = false
 language = "JavaScript"
 name = "distant-education-spec-gitbook"
 node_id = "MDEwOlJlcG9zaXRvcnkzNDc0NDE0Mw=="

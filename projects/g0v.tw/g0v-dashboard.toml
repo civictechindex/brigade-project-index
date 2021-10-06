@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://g0v.github.io/g0v-dashboard"
 id = 311_264_334
+is_template = false
 language = "JavaScript"
 name = "g0v-dashboard"
 node_id = "MDEwOlJlcG9zaXRvcnkzMTEyNjQzMzQ="

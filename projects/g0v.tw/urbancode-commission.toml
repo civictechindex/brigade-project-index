@@ -21,6 +21,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 38_122_009
+is_template = false
 language = "PHP"
 name = "urbancode-commission"
 node_id = "MDEwOlJlcG9zaXRvcnkzODEyMjAwOQ=="

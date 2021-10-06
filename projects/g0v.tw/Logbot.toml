@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://logbot.g0v.tw/"
 id = 10_896_010
+is_template = false
 language = "JavaScript"
 name = "Logbot"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDg5NjAxMA=="

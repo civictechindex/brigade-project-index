@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://g0v.github.io/DC-wireless-gitbook/"
 id = 53_912_986
+is_template = false
 language = "JavaScript"
 name = "DC-wireless-gitbook"
 node_id = "MDEwOlJlcG9zaXRvcnk1MzkxMjk4Ng=="

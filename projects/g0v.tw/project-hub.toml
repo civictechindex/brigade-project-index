@@ -20,6 +20,7 @@ has_pages = true
 has_projects = true
 has_wiki = true
 id = 27_815_960
+is_template = false
 name = "project-hub"
 node_id = "MDEwOlJlcG9zaXRvcnkyNzgxNTk2MA=="
 open_issues_within = 0

@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 62_480_282
+is_template = false
 language = "JavaScript"
 name = "mapbox-gl-styles"
 node_id = "MDEwOlJlcG9zaXRvcnk2MjQ4MDI4Mg=="

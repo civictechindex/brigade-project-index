@@ -20,6 +20,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://g0v.github.io/Idystopia"
 id = 285_314_610
+is_template = false
 language = "JavaScript"
 name = "IDystopia"
 node_id = "MDEwOlJlcG9zaXRvcnkyODUzMTQ2MTA="

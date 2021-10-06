@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://g0v.hackpad.tw/iTaigi--EwF2PoiHFU4"
 id = 160_896_455
+is_template = false
 language = "Python"
 name = "itaigi-mia-senn"
 node_id = "MDEwOlJlcG9zaXRvcnkxNjA4OTY0NTU="

@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 17_501_075
+is_template = false
 language = "PLSQL"
 name = "addressbook-data-converter"
 node_id = "MDEwOlJlcG9zaXRvcnkxNzUwMTA3NQ=="

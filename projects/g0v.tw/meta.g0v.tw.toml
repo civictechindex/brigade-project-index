@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 15_527_724
+is_template = false
 language = "Ruby"
 name = "meta.g0v.tw"
 node_id = "MDEwOlJlcG9zaXRvcnkxNTUyNzcyNA=="

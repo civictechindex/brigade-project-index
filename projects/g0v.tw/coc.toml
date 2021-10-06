@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 234_703_238
+is_template = false
 name = "coc"
 node_id = "MDEwOlJlcG9zaXRvcnkyMzQ3MDMyMzg="
 open_issues_within = 0

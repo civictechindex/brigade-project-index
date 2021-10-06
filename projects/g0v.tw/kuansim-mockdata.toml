@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = false
 id = 10_825_460
+is_template = false
 language = "Haskell"
 name = "kuansim-mockdata"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDgyNTQ2MA=="

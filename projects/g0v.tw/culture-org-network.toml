@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 161_068_130
+is_template = false
 language = "JavaScript"
 name = "culture-org-network"
 node_id = "MDEwOlJlcG9zaXRvcnkxNjEwNjgxMzA="

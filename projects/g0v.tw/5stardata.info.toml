@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://5stardata.info/"
 id = 22_949_536
+is_template = false
 language = "JavaScript"
 name = "5stardata.info"
 node_id = "MDEwOlJlcG9zaXRvcnkyMjk0OTUzNg=="

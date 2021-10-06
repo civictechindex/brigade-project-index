@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 117_418_735
+is_template = false
 language = "JavaScript"
 name = "tw-shift-schedule"
 node_id = "MDEwOlJlcG9zaXRvcnkxMTc0MTg3MzU="

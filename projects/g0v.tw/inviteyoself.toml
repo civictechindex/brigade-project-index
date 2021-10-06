@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://join.g0v.today"
 id = 28_381_779
+is_template = false
 language = "Clojure"
 name = "inviteyoself"
 node_id = "MDEwOlJlcG9zaXRvcnkyODM4MTc3OQ=="

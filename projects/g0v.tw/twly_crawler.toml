@@ -20,6 +20,7 @@ has_pages = true
 has_projects = true
 has_wiki = true
 id = 14_517_392
+is_template = false
 language = "Python"
 name = "twly_crawler"
 node_id = "MDEwOlJlcG9zaXRvcnkxNDUxNzM5Mg=="

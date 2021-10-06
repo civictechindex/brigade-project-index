@@ -20,6 +20,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://g0v.github.io/5050/"
 id = 25_121_258
+is_template = false
 language = "CSS"
 name = "5050"
 node_id = "MDEwOlJlcG9zaXRvcnkyNTEyMTI1OA=="

@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 112_841_390
+is_template = false
 name = "g0v-wiki-data"
 node_id = "MDEwOlJlcG9zaXRvcnkxMTI4NDEzOTA="
 open_issues_within = 0

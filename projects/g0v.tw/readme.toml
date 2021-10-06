@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 11_982_106
+is_template = false
 name = "readme"
 node_id = "MDEwOlJlcG9zaXRvcnkxMTk4MjEwNg=="
 open_issues_within = 0

@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://itaigi.tw/"
 id = 29_418_863
+is_template = false
 language = "JavaScript"
 name = "itaigi"
 node_id = "MDEwOlJlcG9zaXRvcnkyOTQxODg2Mw=="

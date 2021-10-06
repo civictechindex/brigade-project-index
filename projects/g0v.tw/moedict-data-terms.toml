@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 24_092_370
+is_template = false
 language = "Python"
 name = "moedict-data-terms"
 node_id = "MDEwOlJlcG9zaXRvcnkyNDA5MjM3MA=="

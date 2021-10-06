@@ -20,6 +20,7 @@ has_pages = true
 has_projects = true
 has_wiki = true
 id = 22_760_317
+is_template = false
 language = "Python"
 name = "er.mohw"
 node_id = "MDEwOlJlcG9zaXRvcnkyMjc2MDMxNw=="

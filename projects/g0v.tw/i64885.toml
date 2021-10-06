@@ -20,6 +20,7 @@ has_pages = true
 has_projects = true
 has_wiki = true
 id = 12_035_642
+is_template = false
 name = "i64885"
 node_id = "MDEwOlJlcG9zaXRvcnkxMjAzNTY0Mg=="
 open_issues_within = 10

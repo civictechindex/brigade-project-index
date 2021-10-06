@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 13_500_917
+is_template = false
 language = "JavaScript"
 name = "grabejs"
 node_id = "MDEwOlJlcG9zaXRvcnkxMzUwMDkxNw=="

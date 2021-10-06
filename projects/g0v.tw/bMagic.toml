@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 41_193_258
+is_template = false
 language = "JavaScript"
 name = "bMagic"
 node_id = "MDEwOlJlcG9zaXRvcnk0MTE5MzI1OA=="

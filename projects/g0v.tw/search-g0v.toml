@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 61_533_829
+is_template = false
 language = "Python"
 name = "search-g0v"
 node_id = "MDEwOlJlcG9zaXRvcnk2MTUzMzgyOQ=="

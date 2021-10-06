@@ -23,6 +23,7 @@ has_projects = true
 has_wiki = false
 homepage = "https://g0v.github.io/HackingMap"
 id = 117_330_180
+is_template = false
 language = "Vue"
 name = "HackingMap"
 node_id = "MDEwOlJlcG9zaXRvcnkxMTczMzAxODA="

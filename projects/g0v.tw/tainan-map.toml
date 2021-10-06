@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = false
 homepage = ""
 id = 17_568_892
+is_template = false
 language = "JavaScript"
 name = "tainan-map"
 node_id = "MDEwOlJlcG9zaXRvcnkxNzU2ODg5Mg=="

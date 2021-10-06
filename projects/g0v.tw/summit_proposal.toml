@@ -20,12 +20,13 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 266_809_121
+is_template = false
 language = "Vue"
 name = "summit_proposal"
 node_id = "MDEwOlJlcG9zaXRvcnkyNjY4MDkxMjE="
 open_issues_within = 100
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 0
 topics = [ ]
 updated_within = "year"

@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 377_053_339
+is_template = false
 name = "covid19-data-list"
 node_id = "MDEwOlJlcG9zaXRvcnkzNzcwNTMzMzk="
 open_issues_within = 100

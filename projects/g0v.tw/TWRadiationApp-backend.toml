@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 26_119_582
+is_template = false
 language = "PHP"
 name = "TWRadiationApp-backend"
 node_id = "MDEwOlJlcG9zaXRvcnkyNjExOTU4Mg=="

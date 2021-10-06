@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 12_443_732
+is_template = false
 language = "Perl"
 name = "urlshot"
 node_id = "MDEwOlJlcG9zaXRvcnkxMjQ0MzczMg=="

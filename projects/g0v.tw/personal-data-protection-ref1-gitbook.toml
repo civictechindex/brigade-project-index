@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://g0v.github.io/personal-data-protection-ref1-gitbook"
 id = 50_163_729
+is_template = false
 language = "JavaScript"
 name = "personal-data-protection-ref1-gitbook"
 node_id = "MDEwOlJlcG9zaXRvcnk1MDE2MzcyOQ=="

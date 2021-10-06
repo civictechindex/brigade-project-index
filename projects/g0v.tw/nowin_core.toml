@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 40_107_186
+is_template = false
 language = "Python"
 name = "nowin_core"
 node_id = "MDEwOlJlcG9zaXRvcnk0MDEwNzE4Ng=="

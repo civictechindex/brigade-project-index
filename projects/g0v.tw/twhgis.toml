@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 9_715_128
+is_template = false
 language = "LiveScript"
 name = "twhgis"
 node_id = "MDEwOlJlcG9zaXRvcnk5NzE1MTI4"

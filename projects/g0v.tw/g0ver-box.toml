@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 70_068_314
+is_template = false
 language = "JavaScript"
 name = "g0ver-box"
 node_id = "MDEwOlJlcG9zaXRvcnk3MDA2ODMxNA=="

@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 27_013_113
+is_template = false
 name = "slap"
 node_id = "MDEwOlJlcG9zaXRvcnkyNzAxMzExMw=="
 open_issues_within = 0

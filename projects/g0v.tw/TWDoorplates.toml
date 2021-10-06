@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://ris.g0v.tw"
 id = 20_655_244
+is_template = false
 language = "Ruby"
 name = "TWDoorplates"
 node_id = "MDEwOlJlcG9zaXRvcnkyMDY1NTI0NA=="

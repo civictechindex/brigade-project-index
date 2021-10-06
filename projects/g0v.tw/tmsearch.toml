@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 24_993_856
+is_template = false
 language = "LiveScript"
 name = "tmsearch"
 node_id = "MDEwOlJlcG9zaXRvcnkyNDk5Mzg1Ng=="

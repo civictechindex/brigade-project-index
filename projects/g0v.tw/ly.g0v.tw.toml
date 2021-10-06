@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://ly.g0v.tw/"
 id = 6_748_174
+is_template = false
 language = "HTML"
 name = "ly.g0v.tw"
 node_id = "MDEwOlJlcG9zaXRvcnk2NzQ4MTc0"

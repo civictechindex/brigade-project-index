@@ -18,6 +18,7 @@ has_pages = true
 has_projects = true
 has_wiki = true
 id = 49_253_379
+is_template = false
 language = "JavaScript"
 name = "partyvote2016"
 node_id = "MDEwOlJlcG9zaXRvcnk0OTI1MzM3OQ=="

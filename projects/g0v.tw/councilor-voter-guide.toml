@@ -23,6 +23,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://councils.g0v.tw/"
 id = 18_405_649
+is_template = false
 language = "HTML"
 name = "councilor-voter-guide"
 node_id = "MDEwOlJlcG9zaXRvcnkxODQwNTY0OQ=="

@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 98_677_450
+is_template = false
 name = "react-native-studio"
 node_id = "MDEwOlJlcG9zaXRvcnk5ODY3NzQ1MA=="
 open_issues_within = 0

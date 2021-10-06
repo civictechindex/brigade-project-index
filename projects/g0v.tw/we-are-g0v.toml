@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "g0v.github.io/we-are-g0v"
 id = 18_092_772
+is_template = false
 language = "JavaScript"
 name = "we-are-g0v"
 node_id = "MDEwOlJlcG9zaXRvcnkxODA5Mjc3Mg=="

@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "g0v.github.io/conference-map-main"
 id = 18_001_588
+is_template = false
 language = "CSS"
 name = "conference-map-main"
 node_id = "MDEwOlJlcG9zaXRvcnkxODAwMTU4OA=="

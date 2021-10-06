@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 12_868_094
+is_template = false
 language = "Ruby"
 name = "listening-data"
 node_id = "MDEwOlJlcG9zaXRvcnkxMjg2ODA5NA=="

@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 28_624_291
+is_template = false
 language = "JavaScript"
 name = "gitbook-plugin-discourse"
 node_id = "MDEwOlJlcG9zaXRvcnkyODYyNDI5MQ=="

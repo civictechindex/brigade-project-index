@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 17_521_567
+is_template = false
 language = "Shell"
 name = "b0t-hubot"
 node_id = "MDEwOlJlcG9zaXRvcnkxNzUyMTU2Nw=="

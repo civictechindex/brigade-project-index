@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 30_009_689
+is_template = false
 language = "Shell"
 name = "etax-gitbook"
 node_id = "MDEwOlJlcG9zaXRvcnkzMDAwOTY4OQ=="

@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 30_527_865
+is_template = false
 language = "JavaScript"
 name = "personal-data-protection-gitbook"
 node_id = "MDEwOlJlcG9zaXRvcnkzMDUyNzg2NQ=="

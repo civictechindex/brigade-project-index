@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 46_039_712
+is_template = false
 name = "bopomofo-standard-gitbook"
 node_id = "MDEwOlJlcG9zaXRvcnk0NjAzOTcxMg=="
 open_issues_within = 0

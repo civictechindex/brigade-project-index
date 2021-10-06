@@ -20,6 +20,7 @@ has_pages = true
 has_projects = true
 has_wiki = true
 id = 9_145_150
+is_template = false
 language = "HTML"
 name = "hack.g0v.tw"
 node_id = "MDEwOlJlcG9zaXRvcnk5MTQ1MTUw"

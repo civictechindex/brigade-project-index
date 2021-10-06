@@ -20,6 +20,7 @@ has_pages = true
 has_projects = true
 has_wiki = false
 id = 12_015_425
+is_template = false
 language = "Python"
 name = "kuansim-devops"
 node_id = "MDEwOlJlcG9zaXRvcnkxMjAxNTQyNQ=="

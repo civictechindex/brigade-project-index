@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 28_802_976
+is_template = false
 language = "Shell"
 name = "closelyheld-gitbook"
 node_id = "MDEwOlJlcG9zaXRvcnkyODgwMjk3Ng=="

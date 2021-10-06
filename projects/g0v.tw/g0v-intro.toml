@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 244_536_138
+is_template = false
 language = "PHP"
 name = "g0v-intro"
 node_id = "MDEwOlJlcG9zaXRvcnkyNDQ1MzYxMzg="

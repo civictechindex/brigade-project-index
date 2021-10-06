@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 210_270_660
+is_template = false
 language = "JavaScript"
 name = "libot"
 node_id = "MDEwOlJlcG9zaXRvcnkyMTAyNzA2NjA="

@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 12_777_146
+is_template = false
 language = "Perl"
 name = "pdf-text-cutter"
 node_id = "MDEwOlJlcG9zaXRvcnkxMjc3NzE0Ng=="

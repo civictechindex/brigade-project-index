@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://tisa.g0v.tw/"
 id = 11_343_183
+is_template = false
 language = "JavaScript"
 name = "tisa-map"
 node_id = "MDEwOlJlcG9zaXRvcnkxMTM0MzE4Mw=="

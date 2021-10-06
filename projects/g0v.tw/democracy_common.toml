@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 121_852_722
+is_template = false
 language = "Python"
 name = "democracy_common"
 node_id = "MDEwOlJlcG9zaXRvcnkxMjE4NTI3MjI="

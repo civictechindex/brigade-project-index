@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = false
 homepage = ""
 id = 11_761_133
+is_template = false
 language = "CSS"
 name = "kuansim-frontend"
 node_id = "MDEwOlJlcG9zaXRvcnkxMTc2MTEzMw=="

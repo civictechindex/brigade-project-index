@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://g0v.github.io/idystopia-index"
 id = 295_165_793
+is_template = false
 language = "HTML"
 name = "idystopia-index"
 node_id = "MDEwOlJlcG9zaXRvcnkyOTUxNjU3OTM="

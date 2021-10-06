@@ -23,6 +23,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://summit.g0v.tw/2018/"
 id = 118_460_576
+is_template = false
 language = "Vue"
 name = "summit2018"
 node_id = "MDEwOlJlcG9zaXRvcnkxMTg0NjA1NzY="

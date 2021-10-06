@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 8_182_906
+is_template = false
 language = "C"
 name = "liquid_feedback_core"
 node_id = "MDEwOlJlcG9zaXRvcnk4MTgyOTA2"

@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://summit.g0v.tw/"
 id = 53_051_131
+is_template = false
 name = "taipei"
 node_id = "MDEwOlJlcG9zaXRvcnk1MzA1MTEzMQ=="
 open_issues_within = 10

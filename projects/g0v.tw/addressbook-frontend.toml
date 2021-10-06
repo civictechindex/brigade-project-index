@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 18_428_586
+is_template = false
 language = "JavaScript"
 name = "addressbook-frontend"
 node_id = "MDEwOlJlcG9zaXRvcnkxODQyODU4Ng=="

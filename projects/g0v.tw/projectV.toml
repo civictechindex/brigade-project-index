@@ -20,6 +20,7 @@ has_pages = true
 has_projects = true
 has_wiki = true
 id = 23_505_850
+is_template = false
 language = "HTML"
 name = "projectV"
 node_id = "MDEwOlJlcG9zaXRvcnkyMzUwNTg1MA=="

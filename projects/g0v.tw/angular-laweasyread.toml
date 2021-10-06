@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 16_601_620
+is_template = false
 language = "JavaScript"
 name = "angular-laweasyread"
 node_id = "MDEwOlJlcG9zaXRvcnkxNjYwMTYyMA=="

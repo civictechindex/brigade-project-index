@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 34_125_878
+is_template = false
 language = "LiveScript"
 name = "kage.json"
 node_id = "MDEwOlJlcG9zaXRvcnkzNDEyNTg3OA=="

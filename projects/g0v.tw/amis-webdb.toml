@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 347_330_850
+is_template = false
 language = "Ruby"
 name = "amis-webdb"
 node_id = "MDEwOlJlcG9zaXRvcnkzNDczMzA4NTA="

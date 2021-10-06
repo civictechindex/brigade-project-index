@@ -20,6 +20,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://g0v.github.com/glyph"
 id = 63_488_817
+is_template = false
 language = "CSS"
 name = "glyph"
 node_id = "MDEwOlJlcG9zaXRvcnk2MzQ4ODgxNw=="

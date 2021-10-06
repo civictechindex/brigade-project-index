@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://g0v.github.io/projectPool/"
 id = 20_968_260
+is_template = false
 language = "HTML"
 name = "projectPool"
 node_id = "MDEwOlJlcG9zaXRvcnkyMDk2ODI2MA=="

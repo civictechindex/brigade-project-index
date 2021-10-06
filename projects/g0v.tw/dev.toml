@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://dev.g0v.tw/Home.html"
 id = 6_996_215
+is_template = false
 language = "HTML"
 name = "dev"
 node_id = "MDEwOlJlcG9zaXRvcnk2OTk2MjE1"

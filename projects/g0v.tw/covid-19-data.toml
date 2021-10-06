@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = false
 homepage = "https://ourworldindata.org/coronavirus"
 id = 375_975_755
+is_template = false
 language = "Python"
 name = "covid-19-data"
 node_id = "MDEwOlJlcG9zaXRvcnkzNzU5NzU3NTU="

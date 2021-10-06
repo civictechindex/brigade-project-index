@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 43_593_610
+is_template = false
 language = "Python"
 name = "Translate4you"
 node_id = "MDEwOlJlcG9zaXRvcnk0MzU5MzYxMA=="

@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 11_771_862
+is_template = false
 language = "LiveScript"
 name = "api.ly"
 node_id = "MDEwOlJlcG9zaXRvcnkxMTc3MTg2Mg=="

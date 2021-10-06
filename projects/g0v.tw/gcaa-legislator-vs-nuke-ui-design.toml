@@ -20,6 +20,7 @@ has_pages = true
 has_projects = true
 has_wiki = true
 id = 10_151_377
+is_template = false
 language = "JavaScript"
 name = "gcaa-legislator-vs-nuke-ui-design"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDE1MTM3Nw=="

@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 46_159_755
+is_template = false
 name = "punctuation-standard-gitbook"
 node_id = "MDEwOlJlcG9zaXRvcnk0NjE1OTc1NQ=="
 open_issues_within = 0

@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 7_854_062
+is_template = false
 language = "HTML"
 name = "moedict-epub"
 node_id = "MDEwOlJlcG9zaXRvcnk3ODU0MDYy"

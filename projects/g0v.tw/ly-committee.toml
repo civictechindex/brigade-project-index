@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 6_969_591
+is_template = false
 name = "ly-committee"
 node_id = "MDEwOlJlcG9zaXRvcnk2OTY5NTkx"
 open_issues_within = 0

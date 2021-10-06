@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://g0v.github.io/cchelper/"
 id = 39_089_484
+is_template = false
 language = "HTML"
 name = "cchelper"
 node_id = "MDEwOlJlcG9zaXRvcnkzOTA4OTQ4NA=="

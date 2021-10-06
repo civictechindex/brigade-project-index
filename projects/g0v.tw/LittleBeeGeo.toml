@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://g0v.hackpad.com/KOsFaCMi6u0"
 id = 18_932_590
+is_template = false
 language = "LiveScript"
 name = "LittleBeeGeo"
 node_id = "MDEwOlJlcG9zaXRvcnkxODkzMjU5MA=="

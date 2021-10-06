@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://sch001.g0v.tw"
 id = 263_228_170
+is_template = false
 language = "HTML"
 name = "sch001-net"
 node_id = "MDEwOlJlcG9zaXRvcnkyNjMyMjgxNzA="

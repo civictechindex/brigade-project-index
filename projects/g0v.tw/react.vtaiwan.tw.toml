@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://g0v.hackpad.com/vTaiwan-2.0-5Rpzv7bxLlw"
 id = 34_505_595
+is_template = false
 language = "JavaScript"
 name = "react.vtaiwan.tw"
 node_id = "MDEwOlJlcG9zaXRvcnkzNDUwNTU5NQ=="

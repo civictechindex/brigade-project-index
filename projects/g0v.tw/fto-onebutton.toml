@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 229_510_216
+is_template = false
 language = "JavaScript"
 name = "fto-onebutton"
 node_id = "MDEwOlJlcG9zaXRvcnkyMjk1MTAyMTY="

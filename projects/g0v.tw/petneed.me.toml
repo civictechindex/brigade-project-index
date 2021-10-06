@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "petneed.me"
 id = 12_100_672
+is_template = false
 language = "CSS"
 name = "petneed.me"
 node_id = "MDEwOlJlcG9zaXRvcnkxMjEwMDY3Mg=="

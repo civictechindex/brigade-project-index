@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://g0v.asia/"
 id = 15_803_500
+is_template = false
 language = "HTML"
 name = "g0v.asia"
 node_id = "MDEwOlJlcG9zaXRvcnkxNTgwMzUwMA=="

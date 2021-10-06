@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 380_470_664
+is_template = false
 language = "JavaScript"
 name = "vaxx-crawler"
 node_id = "MDEwOlJlcG9zaXRvcnkzODA0NzA2NjQ="

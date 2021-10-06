@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://g0v.github.io/workweek/"
 id = 62_819_862
+is_template = false
 language = "JavaScript"
 name = "workweek"
 node_id = "MDEwOlJlcG9zaXRvcnk2MjgxOTg2Mg=="

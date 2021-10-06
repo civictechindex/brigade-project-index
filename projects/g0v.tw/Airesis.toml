@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "www.airesis.eu"
 id = 13_298_159
+is_template = false
 language = "JavaScript"
 name = "Airesis"
 node_id = "MDEwOlJlcG9zaXRvcnkxMzI5ODE1OQ=="

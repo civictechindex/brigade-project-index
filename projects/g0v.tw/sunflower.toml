@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://g0v.github.io/sunflower/"
 id = 18_450_142
+is_template = false
 language = "HTML"
 name = "sunflower"
 node_id = "MDEwOlJlcG9zaXRvcnkxODQ1MDE0Mg=="

@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://140.112.147.131/editr/"
 id = 29_416_796
+is_template = false
 language = "JavaScript"
 name = "CWN-editr"
 node_id = "MDEwOlJlcG9zaXRvcnkyOTQxNjc5Ng=="

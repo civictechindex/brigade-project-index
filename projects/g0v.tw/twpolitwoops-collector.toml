@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 22_416_034
+is_template = false
 language = "Python"
 name = "twpolitwoops-collector"
 node_id = "MDEwOlJlcG9zaXRvcnkyMjQxNjAzNA=="

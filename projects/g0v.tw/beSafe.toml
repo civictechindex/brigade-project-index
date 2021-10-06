@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://g0v.github.io/beSafe/"
 id = 70_126_394
+is_template = false
 language = "JavaScript"
 name = "beSafe"
 node_id = "MDEwOlJlcG9zaXRvcnk3MDEyNjM5NA=="

@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://info.vtaiwan.tw"
 id = 123_861_137
+is_template = false
 language = "CSS"
 name = "info.vtaiwan.tw"
 node_id = "MDEwOlJlcG9zaXRvcnkxMjM4NjExMzc="

@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 10_070_112
+is_template = false
 language = "JavaScript"
 name = "lfapi"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDA3MDExMg=="

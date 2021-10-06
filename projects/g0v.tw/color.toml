@@ -20,6 +20,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://g0v.github.io/color"
 id = 38_188_936
+is_template = false
 language = "HTML"
 name = "color"
 node_id = "MDEwOlJlcG9zaXRvcnkzODE4ODkzNg=="

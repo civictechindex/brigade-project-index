@@ -23,6 +23,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://www.moedict.tw/"
 id = 7_942_186
+is_template = false
 language = "Objective-C"
 name = "moedict-webkit"
 node_id = "MDEwOlJlcG9zaXRvcnk3OTQyMTg2"

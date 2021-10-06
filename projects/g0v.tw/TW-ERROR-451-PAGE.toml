@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 10_350_920
+is_template = false
 name = "TW-ERROR-451-PAGE"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDM1MDkyMA=="
 open_issues_within = 0

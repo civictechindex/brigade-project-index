@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 28_382_069
+is_template = false
 language = "JavaScript"
 name = "slack-irc-plugin"
 node_id = "MDEwOlJlcG9zaXRvcnkyODM4MjA2OQ=="

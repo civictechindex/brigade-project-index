@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 68_897_282
+is_template = false
 language = "Python"
 name = "repo-info"
 node_id = "MDEwOlJlcG9zaXRvcnk2ODg5NzI4Mg=="

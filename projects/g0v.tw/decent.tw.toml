@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://decent.tw"
 id = 25_174_968
+is_template = false
 language = "LiveScript"
 name = "decent.tw"
 node_id = "MDEwOlJlcG9zaXRvcnkyNTE3NDk2OA=="

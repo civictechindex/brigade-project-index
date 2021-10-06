@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 30_572_703
+is_template = false
 language = "JavaScript"
 name = "data-levy-gitbook"
 node_id = "MDEwOlJlcG9zaXRvcnkzMDU3MjcwMw=="

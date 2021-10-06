@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://g0v.github.io/tibet/"
 id = 15_432_994
+is_template = false
 language = "JavaScript"
 name = "tibet"
 node_id = "MDEwOlJlcG9zaXRvcnkxNTQzMjk5NA=="

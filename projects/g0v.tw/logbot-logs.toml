@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 249_209_693
+is_template = false
 language = "PHP"
 name = "logbot-logs"
 node_id = "MDEwOlJlcG9zaXRvcnkyNDkyMDk2OTM="

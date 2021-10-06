@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 6_690_718
+is_template = false
 language = "LiveScript"
 name = "twlyparser"
 node_id = "MDEwOlJlcG9zaXRvcnk2NjkwNzE4"

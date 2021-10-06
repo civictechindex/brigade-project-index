@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 18_081_255
+is_template = false
 language = "Perl"
 name = "tweet-html-diff"
 node_id = "MDEwOlJlcG9zaXRvcnkxODA4MTI1NQ=="

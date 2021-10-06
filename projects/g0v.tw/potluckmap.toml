@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = false
 homepage = ""
 id = 57_196_864
+is_template = false
 language = "JavaScript"
 name = "potluckmap"
 node_id = "MDEwOlJlcG9zaXRvcnk1NzE5Njg2NA=="

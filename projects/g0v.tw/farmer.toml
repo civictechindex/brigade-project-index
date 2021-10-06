@@ -20,6 +20,7 @@ has_pages = true
 has_projects = true
 has_wiki = true
 id = 18_581_610
+is_template = false
 language = "JavaScript"
 name = "farmer"
 node_id = "MDEwOlJlcG9zaXRvcnkxODU4MTYxMA=="

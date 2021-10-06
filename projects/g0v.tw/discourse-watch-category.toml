@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 84_538_287
+is_template = false
 language = "Ruby"
 name = "discourse-watch-category"
 node_id = "MDEwOlJlcG9zaXRvcnk4NDUzODI4Nw=="

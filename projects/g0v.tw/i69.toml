@@ -20,6 +20,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://g0v.github.io/i69/"
 id = 22_010_055
+is_template = false
 name = "i69"
 node_id = "MDEwOlJlcG9zaXRvcnkyMjAxMDA1NQ=="
 open_issues_within = 10

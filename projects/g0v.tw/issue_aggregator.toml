@@ -20,6 +20,7 @@ has_pages = true
 has_projects = true
 has_wiki = true
 id = 61_604_246
+is_template = false
 language = "Python"
 name = "issue_aggregator"
 node_id = "MDEwOlJlcG9zaXRvcnk2MTYwNDI0Ng=="

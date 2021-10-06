@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 28_260_762
+is_template = false
 language = "CSS"
 name = "react-ask-app"
 node_id = "MDEwOlJlcG9zaXRvcnkyODI2MDc2Mg=="

@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://hack.g0v.tw/laweasyread"
 id = 12_000_416
+is_template = false
 language = "JavaScript"
 name = "laweasyread-front"
 node_id = "MDEwOlJlcG9zaXRvcnkxMjAwMDQxNg=="

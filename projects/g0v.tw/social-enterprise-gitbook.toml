@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://g0v.github.io/social-enterprise-gitbook/"
 id = 76_432_828
+is_template = false
 language = "JavaScript"
 name = "social-enterprise-gitbook"
 node_id = "MDEwOlJlcG9zaXRvcnk3NjQzMjgyOA=="

@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://submit.g0v.tw"
 id = 64_321_107
+is_template = false
 language = "LiveScript"
 name = "submit"
 node_id = "MDEwOlJlcG9zaXRvcnk2NDMyMTEwNw=="

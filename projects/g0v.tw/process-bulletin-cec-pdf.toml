@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 27_013_880
+is_template = false
 language = "Perl"
 name = "process-bulletin-cec-pdf"
 node_id = "MDEwOlJlcG9zaXRvcnkyNzAxMzg4MA=="

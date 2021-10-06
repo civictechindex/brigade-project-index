@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://g0v.github.io/data-levy-act1-gitbook/1"
 id = 50_301_469
+is_template = false
 language = "JavaScript"
 name = "data-levy-act1-gitbook"
 node_id = "MDEwOlJlcG9zaXRvcnk1MDMwMTQ2OQ=="

@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 18_935_089
+is_template = false
 language = "Objective-C"
 name = "TWRadiationApp"
 node_id = "MDEwOlJlcG9zaXRvcnkxODkzNTA4OQ=="

@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://g0v.github.io/directors-election-gitbook"
 id = 77_659_669
+is_template = false
 language = "JavaScript"
 name = "directors-election-gitbook"
 node_id = "MDEwOlJlcG9zaXRvcnk3NzY1OTY2OQ=="

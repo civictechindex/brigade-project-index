@@ -29,6 +29,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 87_950_066
+is_template = false
 language = "TypeScript"
 name = "labor-standards-tw"
 node_id = "MDEwOlJlcG9zaXRvcnk4Nzk1MDA2Ng=="

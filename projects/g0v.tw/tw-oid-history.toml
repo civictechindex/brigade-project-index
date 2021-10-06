@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 119_268_102
+is_template = false
 name = "tw-oid-history"
 node_id = "MDEwOlJlcG9zaXRvcnkxMTkyNjgxMDI="
 open_issues_within = 0

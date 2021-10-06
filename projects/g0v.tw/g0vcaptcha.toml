@@ -20,6 +20,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://g0v.hackpad.com/g0vcaptcha-Lyk6kEGWSNH?r=0"
 id = 19_969_709
+is_template = false
 language = "Perl"
 name = "g0vcaptcha"
 node_id = "MDEwOlJlcG9zaXRvcnkxOTk2OTcwOQ=="

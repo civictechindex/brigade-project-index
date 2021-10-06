@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://g0v.github.io/DC-telecommunication-gitbook/"
 id = 53_515_822
+is_template = false
 language = "JavaScript"
 name = "DC-telecommunication-gitbook"
 node_id = "MDEwOlJlcG9zaXRvcnk1MzUxNTgyMg=="

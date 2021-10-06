@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://vtaiwan.tw/"
 id = 70_311_137
+is_template = false
 language = "Vue"
 name = "vue.vtaiwan.tw"
 node_id = "MDEwOlJlcG9zaXRvcnk3MDMxMTEzNw=="

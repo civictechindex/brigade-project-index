@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 15_381_747
+is_template = false
 language = "LiveScript"
 name = "posland"
 node_id = "MDEwOlJlcG9zaXRvcnkxNTM4MTc0Nw=="

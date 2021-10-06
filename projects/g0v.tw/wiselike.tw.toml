@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 84_311_517
+is_template = false
 language = "Vue"
 name = "wiselike.tw"
 node_id = "MDEwOlJlcG9zaXRvcnk4NDMxMTUxNw=="

@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://vaxx.tw"
 id = 359_431_426
+is_template = false
 language = "HTML"
 name = "vaccinate"
 node_id = "MDEwOlJlcG9zaXRvcnkzNTk0MzE0MjY="

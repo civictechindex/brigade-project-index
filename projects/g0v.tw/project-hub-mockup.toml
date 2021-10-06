@@ -20,6 +20,7 @@ has_pages = true
 has_projects = true
 has_wiki = true
 id = 25_021_307
+is_template = false
 language = "JavaScript"
 name = "project-hub-mockup"
 node_id = "MDEwOlJlcG9zaXRvcnkyNTAyMTMwNw=="

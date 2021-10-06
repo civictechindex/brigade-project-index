@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = false
 homepage = "https://github.com/g0v/moedict-process"
 id = 8_056_156
+is_template = false
 name = "moedict-data"
 node_id = "MDEwOlJlcG9zaXRvcnk4MDU2MTU2"
 open_issues_within = 0

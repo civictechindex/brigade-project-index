@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 202_707_236
+is_template = false
 language = "Dockerfile"
 name = "docker-tor"
 node_id = "MDEwOlJlcG9zaXRvcnkyMDI3MDcyMzY="

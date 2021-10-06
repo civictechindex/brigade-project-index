@@ -18,6 +18,7 @@ has_pages = true
 has_projects = true
 has_wiki = true
 id = 238_404_956
+is_template = false
 language = "JavaScript"
 name = "contribar"
 node_id = "MDEwOlJlcG9zaXRvcnkyMzg0MDQ5NTY="

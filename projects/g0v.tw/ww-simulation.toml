@@ -20,6 +20,7 @@ has_pages = true
 has_projects = true
 has_wiki = true
 id = 10_564_069
+is_template = false
 language = "JavaScript"
 name = "ww-simulation"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDU2NDA2OQ=="

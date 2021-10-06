@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 117_606_934
+is_template = false
 language = "HTML"
 name = "cec-stats"
 node_id = "MDEwOlJlcG9zaXRvcnkxMTc2MDY5MzQ="

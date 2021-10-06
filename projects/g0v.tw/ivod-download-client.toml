@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 17_848_560
+is_template = false
 language = "PHP"
 name = "ivod-download-client"
 node_id = "MDEwOlJlcG9zaXRvcnkxNzg0ODU2MA=="

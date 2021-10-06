@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 111_985_277
+is_template = false
 language = "HTML"
 name = "api.ly-php"
 node_id = "MDEwOlJlcG9zaXRvcnkxMTE5ODUyNzc="

@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 61_417_046
+is_template = false
 language = "Python"
 name = "g0vHackpads2PadagraphIO"
 node_id = "MDEwOlJlcG9zaXRvcnk2MTQxNzA0Ng=="

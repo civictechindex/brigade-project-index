@@ -20,6 +20,7 @@ has_pages = true
 has_projects = true
 has_wiki = true
 id = 61_999_010
+is_template = false
 language = "HTML"
 name = "summit-assets"
 node_id = "MDEwOlJlcG9zaXRvcnk2MTk5OTAxMA=="

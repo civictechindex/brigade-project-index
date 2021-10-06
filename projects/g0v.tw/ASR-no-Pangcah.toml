@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 221_000_456
+is_template = false
 name = "ASR-no-Pangcah"
 node_id = "MDEwOlJlcG9zaXRvcnkyMjEwMDA0NTY="
 open_issues_within = 10

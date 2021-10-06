@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://fact.g0v.tw"
 id = 11_390_948
+is_template = false
 language = "JavaScript"
 name = "twangry"
 node_id = "MDEwOlJlcG9zaXRvcnkxMTM5MDk0OA=="

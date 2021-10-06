@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 6_949_053
+is_template = false
 language = "LiveScript"
 name = "govfeeds"
 node_id = "MDEwOlJlcG9zaXRvcnk2OTQ5MDUz"

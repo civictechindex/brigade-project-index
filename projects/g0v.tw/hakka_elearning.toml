@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 39_491_397
+is_template = false
 language = "Python"
 name = "hakka_elearning"
 node_id = "MDEwOlJlcG9zaXRvcnkzOTQ5MTM5Nw=="

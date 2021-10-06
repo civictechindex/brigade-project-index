@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 15_957_589
+is_template = false
 language = "PHP"
 name = "congress-vote-analytics-beta"
 node_id = "MDEwOlJlcG9zaXRvcnkxNTk1NzU4OQ=="

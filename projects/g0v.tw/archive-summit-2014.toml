@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://summit.g0v.tw/2014"
 id = 121_411_783
+is_template = false
 language = "HTML"
 name = "archive-summit-2014"
 node_id = "MDEwOlJlcG9zaXRvcnkxMjE0MTE3ODM="

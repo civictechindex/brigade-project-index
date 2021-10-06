@@ -20,6 +20,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://g0v.github.io/referendum_report/"
 id = 159_023_586
+is_template = false
 language = "HTML"
 name = "referendum_report"
 node_id = "MDEwOlJlcG9zaXRvcnkxNTkwMjM1ODY="

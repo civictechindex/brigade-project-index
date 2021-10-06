@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://opendataday.org/"
 id = 81_537_722
+is_template = false
 language = "CSS"
 name = "opendataday"
 node_id = "MDEwOlJlcG9zaXRvcnk4MTUzNzcyMg=="

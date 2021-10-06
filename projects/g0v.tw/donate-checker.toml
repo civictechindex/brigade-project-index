@@ -20,6 +20,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://g0v.github.io/donate-checker/"
 id = 265_732_362
+is_template = false
 language = "HTML"
 name = "donate-checker"
 node_id = "MDEwOlJlcG9zaXRvcnkyNjU3MzIzNjI="

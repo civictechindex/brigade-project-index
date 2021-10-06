@@ -20,6 +20,7 @@ has_pages = true
 has_projects = true
 has_wiki = true
 id = 33_028_353
+is_template = false
 language = "JavaScript"
 name = "idskage"
 node_id = "MDEwOlJlcG9zaXRvcnkzMzAyODM1Mw=="

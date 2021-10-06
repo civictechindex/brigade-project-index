@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 6_949_448
+is_template = false
 name = "ly-gazette"
 node_id = "MDEwOlJlcG9zaXRvcnk2OTQ5NDQ4"
 open_issues_within = 1_000

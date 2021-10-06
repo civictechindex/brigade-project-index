@@ -20,6 +20,7 @@ has_pages = true
 has_projects = true
 has_wiki = true
 id = 11_158_074
+is_template = false
 language = "Ruby"
 name = "realprice"
 node_id = "MDEwOlJlcG9zaXRvcnkxMTE1ODA3NA=="

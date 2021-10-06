@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 66_240_699
+is_template = false
 language = "Objective-C"
 name = "react-native-sample"
 node_id = "MDEwOlJlcG9zaXRvcnk2NjI0MDY5OQ=="

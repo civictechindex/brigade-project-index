@@ -18,6 +18,7 @@ has_pages = true
 has_projects = true
 has_wiki = true
 id = 262_261_283
+is_template = false
 language = "Vue"
 name = "summit2020"
 node_id = "MDEwOlJlcG9zaXRvcnkyNjIyNjEyODM="

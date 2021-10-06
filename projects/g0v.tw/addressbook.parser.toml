@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 10_672_082
+is_template = false
 language = "Python"
 name = "addressbook.parser"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDY3MjA4Mg=="

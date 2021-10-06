@@ -18,6 +18,7 @@ has_pages = true
 has_projects = true
 has_wiki = true
 id = 12_490_312
+is_template = false
 name = "newsplanet"
 node_id = "MDEwOlJlcG9zaXRvcnkxMjQ5MDMxMg=="
 open_issues_within = 0

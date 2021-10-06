@@ -20,6 +20,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://twitter.com/ElectionDay_bot/"
 id = 172_739_928
+is_template = false
 language = "Perl"
 name = "election-day-bot"
 node_id = "MDEwOlJlcG9zaXRvcnkxNzI3Mzk5Mjg="

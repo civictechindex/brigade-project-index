@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 382_523_174
+is_template = false
 language = "JavaScript"
 name = "plaaf-intrusion"
 node_id = "MDEwOlJlcG9zaXRvcnkzODI1MjMxNzQ="

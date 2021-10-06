@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "timemap.kuansim.com"
 id = 21_282_246
+is_template = false
 language = "JavaScript"
 name = "timemap"
 node_id = "MDEwOlJlcG9zaXRvcnkyMTI4MjI0Ng=="

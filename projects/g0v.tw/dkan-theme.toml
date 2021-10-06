@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 19_911_160
+is_template = false
 language = "CSS"
 name = "dkan-theme"
 node_id = "MDEwOlJlcG9zaXRvcnkxOTkxMTE2MA=="

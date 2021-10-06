@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 69_248_551
+is_template = false
 language = "JavaScript"
 name = "OneButton-server-js"
 node_id = "MDEwOlJlcG9zaXRvcnk2OTI0ODU1MQ=="

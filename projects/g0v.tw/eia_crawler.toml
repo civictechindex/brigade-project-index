@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = false
 id = 19_745_105
+is_template = false
 language = "Python"
 name = "eia_crawler"
 node_id = "MDEwOlJlcG9zaXRvcnkxOTc0NTEwNQ=="

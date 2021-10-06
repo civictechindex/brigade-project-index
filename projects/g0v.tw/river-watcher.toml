@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://river-watcher.bambooculture.tw"
 id = 324_049_893
+is_template = false
 name = "river-watcher"
 node_id = "MDEwOlJlcG9zaXRvcnkzMjQwNDk4OTM="
 open_issues_within = 0

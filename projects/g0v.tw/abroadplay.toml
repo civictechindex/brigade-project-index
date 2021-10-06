@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://report.nat.g0v.tw/"
 id = 12_260_391
+is_template = false
 language = "PHP"
 name = "abroadplay"
 node_id = "MDEwOlJlcG9zaXRvcnkxMjI2MDM5MQ=="

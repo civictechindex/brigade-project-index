@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = false
 id = 18_004_574
+is_template = false
 language = "LiveScript"
 name = "padnews-cli"
 node_id = "MDEwOlJlcG9zaXRvcnkxODAwNDU3NA=="

@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = false
 homepage = "http://g0v.github.io/agriculture"
 id = 18_236_836
+is_template = false
 language = "JavaScript"
 name = "agriculture"
 node_id = "MDEwOlJlcG9zaXRvcnkxODIzNjgzNg=="

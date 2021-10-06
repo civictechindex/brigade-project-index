@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 333_408_853
+is_template = false
 language = "Vue"
 name = "mnd.g0v.tw"
 node_id = "MDEwOlJlcG9zaXRvcnkzMzM0MDg4NTM="

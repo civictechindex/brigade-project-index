@@ -23,6 +23,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://goban.tw"
 id = 27_702_247
+is_template = false
 language = "JavaScript"
 name = "goban"
 node_id = "MDEwOlJlcG9zaXRvcnkyNzcwMjI0Nw=="

@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 17_436_179
+is_template = false
 language = "C++"
 name = "CMDXMoldTesting"
 node_id = "MDEwOlJlcG9zaXRvcnkxNzQzNjE3OQ=="

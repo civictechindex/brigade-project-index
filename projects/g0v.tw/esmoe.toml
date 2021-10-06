@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 9_018_074
+is_template = false
 language = "Perl"
 name = "esmoe"
 node_id = "MDEwOlJlcG9zaXRvcnk5MDE4MDc0"

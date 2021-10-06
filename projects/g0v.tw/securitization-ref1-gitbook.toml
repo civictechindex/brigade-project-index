@@ -23,6 +23,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://g0v.github.io/securitization-ref1-gitbook/"
 id = 75_467_090
+is_template = false
 language = "JavaScript"
 name = "securitization-ref1-gitbook"
 node_id = "MDEwOlJlcG9zaXRvcnk3NTQ2NzA5MA=="

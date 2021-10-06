@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 96_022_380
+is_template = false
 name = "hyob"
 node_id = "MDEwOlJlcG9zaXRvcnk5NjAyMjM4MA=="
 open_issues_within = 0

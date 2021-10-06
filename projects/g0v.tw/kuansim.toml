@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = false
 homepage = "http://hack.g0v.tw/kuansim/mynkDCEAXgc"
 id = 10_164_897
+is_template = false
 language = "Ruby"
 name = "kuansim"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDE2NDg5Nw=="

@@ -20,6 +20,7 @@ has_pages = true
 has_projects = true
 has_wiki = false
 id = 24_899_363
+is_template = false
 language = "CSS"
 name = "d3visualization"
 node_id = "MDEwOlJlcG9zaXRvcnkyNDg5OTM2Mw=="

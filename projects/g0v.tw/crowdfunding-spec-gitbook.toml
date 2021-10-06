@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://g0v.github.io/crowdfunding-spec-gitbook/1"
 id = 32_277_605
+is_template = false
 language = "JavaScript"
 name = "crowdfunding-spec-gitbook"
 node_id = "MDEwOlJlcG9zaXRvcnkzMjI3NzYwNQ=="

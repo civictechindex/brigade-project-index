@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 16_770_190
+is_template = false
 language = "JavaScript"
 name = "generator-g0v-webapp"
 node_id = "MDEwOlJlcG9zaXRvcnkxNjc3MDE5MA=="

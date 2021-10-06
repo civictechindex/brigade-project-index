@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://g0v.github.io/infosecurity-gitbook"
 id = 35_009_525
+is_template = false
 language = "JavaScript"
 name = "infosecurity-gitbook"
 node_id = "MDEwOlJlcG9zaXRvcnkzNTAwOTUyNQ=="

@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://g0v.github.io/koktai/"
 id = 32_028_319
+is_template = false
 language = "HTML"
 name = "koktai"
 node_id = "MDEwOlJlcG9zaXRvcnkzMjAyODMxOQ=="

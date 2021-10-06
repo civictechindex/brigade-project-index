@@ -23,6 +23,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://amis.moedict.tw"
 id = 111_328_887
+is_template = false
 language = "JavaScript"
 name = "amis-moedict"
 node_id = "MDEwOlJlcG9zaXRvcnkxMTEzMjg4ODc="

@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 17_387_400
+is_template = false
 language = "Ruby"
 name = "api.addressbook"
 node_id = "MDEwOlJlcG9zaXRvcnkxNzM4NzQwMA=="

@@ -20,6 +20,7 @@ has_pages = true
 has_projects = true
 has_wiki = true
 id = 13_173_286
+is_template = false
 language = "Perl"
 name = "moedict-dodo"
 node_id = "MDEwOlJlcG9zaXRvcnkxMzE3MzI4Ng=="

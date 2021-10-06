@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://g0v.github.io/POPonFire/"
 id = 21_392_890
+is_template = false
 language = "CSS"
 name = "POPonFire"
 node_id = "MDEwOlJlcG9zaXRvcnkyMTM5Mjg5MA=="

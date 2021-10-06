@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://sunshine.cy.g0v.tw/"
 id = 21_975_899
+is_template = false
 language = "HTML"
 name = "sunshine.cy"
 node_id = "MDEwOlJlcG9zaXRvcnkyMTk3NTg5OQ=="

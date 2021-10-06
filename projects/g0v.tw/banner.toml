@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 157_545_641
+is_template = false
 language = "TypeScript"
 name = "banner"
 node_id = "MDEwOlJlcG9zaXRvcnkxNTc1NDU2NDE="

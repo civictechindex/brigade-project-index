@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 71_139_712
+is_template = false
 language = "Python"
 name = "pads2foldrs"
 node_id = "MDEwOlJlcG9zaXRvcnk3MTEzOTcxMg=="

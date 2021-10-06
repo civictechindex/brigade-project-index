@@ -20,6 +20,7 @@ has_pages = true
 has_projects = true
 has_wiki = true
 id = 16_774_598
+is_template = false
 language = "JavaScript"
 name = "don-press"
 node_id = "MDEwOlJlcG9zaXRvcnkxNjc3NDU5OA=="

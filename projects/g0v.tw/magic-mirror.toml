@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://g0v-data-mirror.gugod.org/"
 id = 12_040_202
+is_template = false
 language = "Perl"
 name = "magic-mirror"
 node_id = "MDEwOlJlcG9zaXRvcnkxMjA0MDIwMg=="

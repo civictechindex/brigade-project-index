@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 117_773_213
+is_template = false
 language = "CSS"
 name = "tw-shift-schedule-ui"
 node_id = "MDEwOlJlcG9zaXRvcnkxMTc3NzMyMTM="

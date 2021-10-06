@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 18_844_954
+is_template = false
 language = "Objective-C"
 name = "addressbook-iOS"
 node_id = "MDEwOlJlcG9zaXRvcnkxODg0NDk1NA=="

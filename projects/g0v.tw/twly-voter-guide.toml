@@ -23,6 +23,7 @@ has_projects = true
 has_wiki = false
 homepage = "http://vote.ly.g0v.tw/"
 id = 12_620_854
+is_template = false
 language = "HTML"
 name = "twly-voter-guide"
 node_id = "MDEwOlJlcG9zaXRvcnkxMjYyMDg1NA=="

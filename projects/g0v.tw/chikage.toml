@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 35_174_806
+is_template = false
 language = "LiveScript"
 name = "chikage"
 node_id = "MDEwOlJlcG9zaXRvcnkzNTE3NDgwNg=="

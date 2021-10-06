@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://g0v-data.gugod.org/people-in-news/"
 id = 151_499_888
+is_template = false
 language = "Perl"
 name = "people-in-news"
 node_id = "MDEwOlJlcG9zaXRvcnkxNTE0OTk4ODg="

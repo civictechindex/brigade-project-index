@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://closelyheld-ref1.vtaiwan.tw"
 id = 30_574_855
+is_template = false
 language = "LiveScript"
 name = "closelyheld-ref1.vtaiwan.tw"
 node_id = "MDEwOlJlcG9zaXRvcnkzMDU3NDg1NQ=="

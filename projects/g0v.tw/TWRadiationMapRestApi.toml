@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 19_666_452
+is_template = false
 name = "TWRadiationMapRestApi"
 node_id = "MDEwOlJlcG9zaXRvcnkxOTY2NjQ1Mg=="
 open_issues_within = 0

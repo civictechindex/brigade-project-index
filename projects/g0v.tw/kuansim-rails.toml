@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = false
 id = 13_711_563
+is_template = false
 language = "CSS"
 name = "kuansim-rails"
 node_id = "MDEwOlJlcG9zaXRvcnkxMzcxMTU2Mw=="

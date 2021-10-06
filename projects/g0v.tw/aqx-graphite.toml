@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 16_693_837
+is_template = false
 language = "Perl"
 name = "aqx-graphite"
 node_id = "MDEwOlJlcG9zaXRvcnkxNjY5MzgzNw=="

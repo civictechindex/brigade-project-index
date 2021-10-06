@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 111_893_665
+is_template = false
 language = "LiveScript"
 name = "hackathon-questionnaire"
 node_id = "MDEwOlJlcG9zaXRvcnkxMTE4OTM2NjU="

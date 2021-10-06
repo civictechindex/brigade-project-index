@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 33_033_550
+is_template = false
 language = "JavaScript"
 name = "ask-sorting-statements"
 node_id = "MDEwOlJlcG9zaXRvcnkzMzAzMzU1MA=="

@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = false
 homepage = "http://g0v.io"
 id = 18_366_095
+is_template = false
 language = "CSS"
 name = "g0v.io"
 node_id = "MDEwOlJlcG9zaXRvcnkxODM2NjA5NQ=="

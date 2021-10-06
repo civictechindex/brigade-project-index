@@ -20,6 +20,7 @@ has_pages = true
 has_projects = true
 has_wiki = true
 id = 77_817_242
+is_template = false
 language = "JavaScript"
 name = "mydaka"
 node_id = "MDEwOlJlcG9zaXRvcnk3NzgxNzI0Mg=="

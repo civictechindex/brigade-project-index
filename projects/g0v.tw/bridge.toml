@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 353_800_746
+is_template = false
 language = "Perl"
 name = "bridge"
 node_id = "MDEwOlJlcG9zaXRvcnkzNTM4MDA3NDY="

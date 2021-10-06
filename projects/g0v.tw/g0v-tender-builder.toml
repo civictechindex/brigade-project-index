@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 62_486_359
+is_template = false
 name = "g0v-tender-builder"
 node_id = "MDEwOlJlcG9zaXRvcnk2MjQ4NjM1OQ=="
 open_issues_within = 0

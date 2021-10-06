@@ -18,6 +18,7 @@ has_pages = true
 has_projects = true
 has_wiki = true
 id = 249_607_086
+is_template = false
 language = "JavaScript"
 name = "2d-online-chat"
 node_id = "MDEwOlJlcG9zaXRvcnkyNDk2MDcwODY="

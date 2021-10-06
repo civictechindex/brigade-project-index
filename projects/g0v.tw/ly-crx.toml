@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 9_325_553
+is_template = false
 language = "LiveScript"
 name = "ly-crx"
 node_id = "MDEwOlJlcG9zaXRvcnk5MzI1NTUz"

@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 23_741_762
+is_template = false
 language = "LiveScript"
 name = "cec"
 node_id = "MDEwOlJlcG9zaXRvcnkyMzc0MTc2Mg=="

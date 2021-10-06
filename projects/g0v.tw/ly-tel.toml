@@ -20,6 +20,7 @@ has_pages = true
 has_projects = true
 has_wiki = true
 id = 14_939_647
+is_template = false
 language = "JavaScript"
 name = "ly-tel"
 node_id = "MDEwOlJlcG9zaXRvcnkxNDkzOTY0Nw=="

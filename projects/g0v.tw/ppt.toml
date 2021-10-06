@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://promisetw.herokuapp.com/"
 id = 27_337_663
+is_template = false
 language = "JavaScript"
 name = "ppt"
 node_id = "MDEwOlJlcG9zaXRvcnkyNzMzNzY2Mw=="

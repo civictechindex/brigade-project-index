@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 36_132_407
+is_template = false
 language = "Python"
 name = "pdf-to-markdown"
 node_id = "MDEwOlJlcG9zaXRvcnkzNjEzMjQwNw=="

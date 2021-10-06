@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 8_967_254
+is_template = false
 language = "Ruby"
 name = "listening_api"
 node_id = "MDEwOlJlcG9zaXRvcnk4OTY3MjU0"

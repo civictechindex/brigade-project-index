@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 25_265_171
+is_template = false
 name = "foundationtw"
 node_id = "MDEwOlJlcG9zaXRvcnkyNTI2NTE3MQ=="
 open_issues_within = 10

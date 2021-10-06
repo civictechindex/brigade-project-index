@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 13_615_822
+is_template = false
 language = "Perl"
 name = "moedict-data-csld"
 node_id = "MDEwOlJlcG9zaXRvcnkxMzYxNTgyMg=="

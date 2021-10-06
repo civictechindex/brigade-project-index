@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 61_422_013
+is_template = false
 language = "JavaScript"
 name = "g0v.json"
 node_id = "MDEwOlJlcG9zaXRvcnk2MTQyMjAxMw=="

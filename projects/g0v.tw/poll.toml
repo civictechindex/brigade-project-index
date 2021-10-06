@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 24_257_175
+is_template = false
 language = "JavaScript"
 name = "poll"
 node_id = "MDEwOlJlcG9zaXRvcnkyNDI1NzE3NQ=="
