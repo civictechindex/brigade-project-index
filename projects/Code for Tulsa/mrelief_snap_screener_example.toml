@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 31_131_928
+is_template = false
 language = "Ruby"
 name = "mrelief_snap_screener_example"
 node_id = "MDEwOlJlcG9zaXRvcnkzMTEzMTkyOA=="

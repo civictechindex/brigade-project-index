@@ -29,6 +29,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 76_914_853
+is_template = false
 language = "JavaScript"
 name = "courtbook"
 node_id = "MDEwOlJlcG9zaXRvcnk3NjkxNDg1Mw=="

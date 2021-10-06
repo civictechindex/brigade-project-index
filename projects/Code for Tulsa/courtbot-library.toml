@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 294_988_809
+is_template = false
 language = "Python"
 name = "courtbot-library"
 node_id = "MDEwOlJlcG9zaXRvcnkyOTQ5ODg4MDk="

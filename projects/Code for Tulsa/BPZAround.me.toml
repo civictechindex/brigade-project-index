@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 21_265_027
+is_template = false
 language = "Python"
 name = "BPZAround.me"
 node_id = "MDEwOlJlcG9zaXRvcnkyMTI2NTAyNw=="

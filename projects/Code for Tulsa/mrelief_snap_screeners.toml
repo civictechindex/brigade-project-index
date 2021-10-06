@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 31_132_315
+is_template = false
 language = "JavaScript"
 name = "mrelief_snap_screeners"
 node_id = "MDEwOlJlcG9zaXRvcnkzMTEzMjMxNQ=="

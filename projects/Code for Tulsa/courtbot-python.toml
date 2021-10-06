@@ -32,6 +32,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://court.bot/"
 id = 170_063_568
+is_template = false
 language = "Python"
 name = "courtbot-python"
 node_id = "MDEwOlJlcG9zaXRvcnkxNzAwNjM1Njg="

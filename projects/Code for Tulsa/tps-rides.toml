@@ -20,6 +20,7 @@ has_pages = true
 has_projects = true
 has_wiki = true
 id = 81_141_834
+is_template = false
 language = "HTML"
 name = "tps-rides"
 node_id = "MDEwOlJlcG9zaXRvcnk4MTE0MTgzNA=="

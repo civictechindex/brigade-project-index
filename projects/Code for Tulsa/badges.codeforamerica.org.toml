@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "badges.mozilla.org"
 id = 13_636_270
+is_template = false
 language = "Python"
 name = "badges.codeforamerica.org"
 node_id = "MDEwOlJlcG9zaXRvcnkxMzYzNjI3MA=="

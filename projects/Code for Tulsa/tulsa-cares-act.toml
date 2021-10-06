@@ -22,12 +22,13 @@ has_projects = true
 has_wiki = true
 homepage = "https://tulsacaresact.com"
 id = 273_548_784
+is_template = false
 language = "TypeScript"
 name = "tulsa-cares-act"
 node_id = "MDEwOlJlcG9zaXRvcnkyNzM1NDg3ODQ="
 open_issues_within = 10
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 0
 topics = [ ]
 updated_within = "over_a_year"

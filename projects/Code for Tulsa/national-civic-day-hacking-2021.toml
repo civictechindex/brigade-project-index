@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 404_158_455
+is_template = false
 language = "Jupyter Notebook"
 name = "national-civic-day-hacking-2021"
 node_id = "MDEwOlJlcG9zaXRvcnk0MDQxNTg0NTU="

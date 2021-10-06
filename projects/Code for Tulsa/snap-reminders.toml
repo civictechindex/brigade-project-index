@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 31_816_182
+is_template = false
 language = "PHP"
 name = "snap-reminders"
 node_id = "MDEwOlJlcG9zaXRvcnkzMTgxNjE4Mg=="

@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 140_227_962
+is_template = false
 language = "Python"
 name = "oscn"
 node_id = "MDEwOlJlcG9zaXRvcnkxNDAyMjc5NjI="

@@ -20,6 +20,7 @@ has_pages = true
 has_projects = true
 has_wiki = true
 id = 12_962_395
+is_template = false
 name = "open-data-questionnaire"
 node_id = "MDEwOlJlcG9zaXRvcnkxMjk2MjM5NQ=="
 open_issues_within = 0

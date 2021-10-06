@@ -20,6 +20,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://tfdd.co"
 id = 6_198_791
+is_template = false
 language = "Python"
 name = "tulsa-fire-dept-dispatches"
 node_id = "MDEwOlJlcG9zaXRvcnk2MTk4Nzkx"

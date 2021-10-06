@@ -23,6 +23,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://codefortulsa.github.io/landuse/map"
 id = 84_649_985
+is_template = false
 language = "JavaScript"
 name = "landuse"
 node_id = "MDEwOlJlcG9zaXRvcnk4NDY0OTk4NQ=="

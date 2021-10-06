@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 105_385_564
+is_template = false
 name = "courtbot-branding"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDUzODU1NjQ="
 open_issues_within = 0

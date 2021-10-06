@@ -30,6 +30,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://snap-screener-ok.web.app/"
 id = 241_996_290
+is_template = false
 language = "TypeScript"
 name = "snap-screener"
 node_id = "MDEwOlJlcG9zaXRvcnkyNDE5OTYyOTA="

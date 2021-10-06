@@ -19,6 +19,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 76_884_337
+is_template = false
 language = "JavaScript"
 name = "courtbot-engine"
 node_id = "MDEwOlJlcG9zaXRvcnk3Njg4NDMzNw=="

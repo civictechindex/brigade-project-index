@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://tulsaopenwireless.org/"
 id = 16_366_784
+is_template = false
 language = "CSS"
 name = "tulsaopenwireless.org"
 node_id = "MDEwOlJlcG9zaXRvcnkxNjM2Njc4NA=="

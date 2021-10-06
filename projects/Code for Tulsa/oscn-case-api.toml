@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 75_875_494
+is_template = false
 language = "JavaScript"
 name = "oscn-case-api"
 node_id = "MDEwOlJlcG9zaXRvcnk3NTg3NTQ5NA=="

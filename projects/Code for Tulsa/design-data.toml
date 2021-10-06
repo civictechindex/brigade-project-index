@@ -30,6 +30,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://www.revealnews.org/article/before-you-dive-into-oklahomas-prison-data-read-reveals-tips/"
 id = 111_548_488
+is_template = false
 language = "Python"
 name = "design-data"
 node_id = "MDEwOlJlcG9zaXRvcnkxMTE1NDg0ODg="

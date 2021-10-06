@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://tulsa-openbudget.herokuapp.com"
 id = 79_292_145
+is_template = false
 language = "JavaScript"
 name = "openbudgettulsa"
 node_id = "MDEwOlJlcG9zaXRvcnk3OTI5MjE0NQ=="

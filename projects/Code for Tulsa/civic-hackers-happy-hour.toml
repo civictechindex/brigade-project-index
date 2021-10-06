@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 11_531_465
+is_template = false
 name = "civic-hackers-happy-hour"
 node_id = "MDEwOlJlcG9zaXRvcnkxMTUzMTQ2NQ=="
 open_issues_within = 10

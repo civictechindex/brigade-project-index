@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://citygram-services.herokuapp.com/"
 id = 43_462_462
+is_template = false
 language = "Ruby"
 name = "citygram-services"
 node_id = "MDEwOlJlcG9zaXRvcnk0MzQ2MjQ2Mg=="

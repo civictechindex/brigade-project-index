@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 12_962_796
+is_template = false
 name = "policies"
 node_id = "MDEwOlJlcG9zaXRvcnkxMjk2Mjc5Ng=="
 open_issues_within = 0

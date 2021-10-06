@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://knowyourrightstulsa.org/"
 id = 205_044_736
+is_template = false
 language = "HTML"
 name = "know-your-rights"
 node_id = "MDEwOlJlcG9zaXRvcnkyMDUwNDQ3MzY="

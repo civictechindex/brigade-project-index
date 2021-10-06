@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 113_506_660
+is_template = false
 language = "Python"
 name = "docoscn-graph"
 node_id = "MDEwOlJlcG9zaXRvcnkxMTM1MDY2NjA="

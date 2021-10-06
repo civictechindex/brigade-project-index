@@ -21,6 +21,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 80_084_988
+is_template = false
 language = "JavaScript"
 name = "courtbot-engine-data-courtbook"
 node_id = "MDEwOlJlcG9zaXRvcnk4MDA4NDk4OA=="

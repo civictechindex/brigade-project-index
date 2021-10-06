@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 10_590_611
+is_template = false
 language = "JavaScript"
 name = "open-search-map"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDU5MDYxMQ=="
