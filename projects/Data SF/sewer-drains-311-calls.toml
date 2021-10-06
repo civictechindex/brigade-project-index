@@ -21,6 +21,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 98_232_298
+is_template = false
 language = "Python"
 name = "sewer-drains-311-calls"
 node_id = "MDEwOlJlcG9zaXRvcnk5ODIzMjI5OA=="

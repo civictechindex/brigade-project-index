@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 88_538_660
+is_template = false
 language = "JavaScript"
 name = "muni-satori"
 node_id = "MDEwOlJlcG9zaXRvcnk4ODUzODY2MA=="

@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 70_287_017
+is_template = false
 language = "Python"
 name = "metadata-management-tool"
 node_id = "MDEwOlJlcG9zaXRvcnk3MDI4NzAxNw=="

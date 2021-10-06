@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 97_878_062
+is_template = false
 language = "Python"
 name = "sharepoint-data-to-open-data-portal"
 node_id = "MDEwOlJlcG9zaXRvcnk5Nzg3ODA2Mg=="

@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://data.sfgov.org/stories/s/adm5-wq8i"
 id = 262_983_617
+is_template = false
 language = "HTML"
 name = "covid19-cases-map"
 node_id = "MDEwOlJlcG9zaXRvcnkyNjI5ODM2MTc="

@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 106_721_890
+is_template = false
 language = "HTML"
 name = "mbo-perf"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDY3MjE4OTA="

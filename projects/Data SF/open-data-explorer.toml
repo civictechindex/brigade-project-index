@@ -23,6 +23,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://edge.explore.datasf.org"
 id = 53_460_374
+is_template = false
 language = "JavaScript"
 name = "open-data-explorer"
 node_id = "MDEwOlJlcG9zaXRvcnk1MzQ2MDM3NA=="

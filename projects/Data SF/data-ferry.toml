@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 236_836_399
+is_template = false
 language = "Python"
 name = "data-ferry"
 node_id = "MDEwOlJlcG9zaXRvcnkyMzY4MzYzOTk="

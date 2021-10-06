@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 258_090_491
+is_template = false
 language = "JavaScript"
 name = "gatsby-covid"
 node_id = "MDEwOlJlcG9zaXRvcnkyNTgwOTA0OTE="

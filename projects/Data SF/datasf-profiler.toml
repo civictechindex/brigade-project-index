@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 85_640_012
+is_template = false
 language = "Python"
 name = "datasf-profiler"
 node_id = "MDEwOlJlcG9zaXRvcnk4NTY0MDAxMg=="

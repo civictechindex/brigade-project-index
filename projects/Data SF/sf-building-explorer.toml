@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://datasf.org/sf-building-explorer"
 id = 91_025_211
+is_template = false
 language = "HTML"
 name = "sf-building-explorer"
 node_id = "MDEwOlJlcG9zaXRvcnk5MTAyNTIxMQ=="

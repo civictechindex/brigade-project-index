@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://datasf.org/SF-Halloween-Movie-Map"
 id = 106_885_130
+is_template = false
 language = "JavaScript"
 name = "SF-Halloween-Movie-Map"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDY4ODUxMzA="

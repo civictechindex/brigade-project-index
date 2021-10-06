@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 99_283_463
+is_template = false
 language = "JavaScript"
 name = "webtask-open-data-algolia"
 node_id = "MDEwOlJlcG9zaXRvcnk5OTI4MzQ2Mw=="

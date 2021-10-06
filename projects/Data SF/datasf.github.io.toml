@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://datasf.org"
 id = 28_252_538
+is_template = false
 language = "HTML"
 name = "datasf.github.io"
 node_id = "MDEwOlJlcG9zaXRvcnkyODI1MjUzOA=="

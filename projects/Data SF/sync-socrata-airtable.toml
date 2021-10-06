@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 119_477_727
+is_template = false
 language = "JavaScript"
 name = "sync-socrata-airtable"
 node_id = "MDEwOlJlcG9zaXRvcnkxMTk0Nzc3Mjc="

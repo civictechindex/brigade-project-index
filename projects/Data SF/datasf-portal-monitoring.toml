@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 108_362_386
+is_template = false
 language = "Python"
 name = "datasf-portal-monitoring"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDgzNjIzODY="

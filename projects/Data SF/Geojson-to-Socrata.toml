@@ -21,6 +21,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 60_305_457
+is_template = false
 language = "Python"
 name = "Geojson-to-Socrata"
 node_id = "MDEwOlJlcG9zaXRvcnk2MDMwNTQ1Nw=="
