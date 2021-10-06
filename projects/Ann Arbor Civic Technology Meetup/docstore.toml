@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://a2docs.aadl.org/"
 id = 128_631_515
+is_template = false
 language = "Python"
 name = "docstore"
 node_id = "MDEwOlJlcG9zaXRvcnkxMjg2MzE1MTU="
