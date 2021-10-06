@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 99_063_843
+is_template = false
 name = "openelections-data-us"
 node_id = "MDEwOlJlcG9zaXRvcnk5OTA2Mzg0Mw=="
 open_issues_within = 10

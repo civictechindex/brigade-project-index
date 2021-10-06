@@ -21,6 +21,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 34_945_885
+is_template = false
 language = "Python"
 name = "openelections-data-oh"
 node_id = "MDEwOlJlcG9zaXRvcnkzNDk0NTg4NQ=="

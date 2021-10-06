@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 45_318_648
+is_template = false
 language = "Rich Text Format"
 name = "openelections-data-mo"
 node_id = "MDEwOlJlcG9zaXRvcnk0NTMxODY0OA=="

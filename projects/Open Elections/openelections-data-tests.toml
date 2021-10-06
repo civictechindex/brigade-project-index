@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 397_361_824
+is_template = false
 language = "Python"
 name = "openelections-data-tests"
 node_id = "MDEwOlJlcG9zaXRvcnkzOTczNjE4MjQ="

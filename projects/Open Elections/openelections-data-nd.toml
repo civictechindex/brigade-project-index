@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 71_062_313
+is_template = false
 language = "R"
 name = "openelections-data-nd"
 node_id = "MDEwOlJlcG9zaXRvcnk3MTA2MjMxMw=="
