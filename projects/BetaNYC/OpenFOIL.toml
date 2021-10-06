@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = false
 homepage = "http://openfoil.nyc"
 id = 41_009_641
+is_template = false
 language = "HTML"
 name = "OpenFOIL"
 node_id = "MDEwOlJlcG9zaXRvcnk0MTAwOTY0MQ=="

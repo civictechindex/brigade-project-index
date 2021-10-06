@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 237_984_395
+is_template = false
 name = "open-data-week-theme"
 node_id = "MDEwOlJlcG9zaXRvcnkyMzc5ODQzOTU="
 open_issues_within = 10

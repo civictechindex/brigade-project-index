@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 29_364_335
+is_template = false
 name = "nyctaxitrips"
 node_id = "MDEwOlJlcG9zaXRvcnkyOTM2NDMzNQ=="
 open_issues_within = 0

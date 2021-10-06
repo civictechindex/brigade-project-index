@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = false
 homepage = "https://boardstat.beta.nyc/"
 id = 91_724_979
+is_template = false
 language = "HTML"
 name = "BoardStat"
 node_id = "MDEwOlJlcG9zaXRvcnk5MTcyNDk3OQ=="

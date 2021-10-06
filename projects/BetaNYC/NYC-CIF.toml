@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = false
 homepage = "https://beta.nyc/programs/nyc-civic-innovation-fellows/"
 id = 40_504_892
+is_template = false
 name = "NYC-CIF"
 node_id = "MDEwOlJlcG9zaXRvcnk0MDUwNDg5Mg=="
 open_issues_within = 0

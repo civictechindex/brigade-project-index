@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://betanyc.github.io/betanyc-support-ribbon-css/"
 id = 23_330_656
+is_template = false
 language = "CSS"
 name = "betanyc-support-ribbon-css"
 node_id = "MDEwOlJlcG9zaXRvcnkyMzMzMDY1Ng=="

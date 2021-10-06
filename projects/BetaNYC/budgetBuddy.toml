@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://budgetbuddy.herokuapp.com"
 id = 21_039_608
+is_template = false
 language = "JavaScript"
 name = "budgetBuddy"
 node_id = "MDEwOlJlcG9zaXRvcnkyMTAzOTYwOA=="

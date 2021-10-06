@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = false
 id = 30_427_471
+is_template = false
 name = "discourse"
 node_id = "MDEwOlJlcG9zaXRvcnkzMDQyNzQ3MQ=="
 open_issues_within = 10

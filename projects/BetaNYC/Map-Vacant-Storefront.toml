@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = false
 id = 130_870_172
+is_template = false
 language = "Python"
 name = "Map-Vacant-Storefront"
 node_id = "MDEwOlJlcG9zaXRvcnkxMzA4NzAxNzI="

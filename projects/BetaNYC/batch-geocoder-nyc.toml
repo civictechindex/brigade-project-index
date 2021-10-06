@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://www.geocoder.nyc"
 id = 257_164_168
+is_template = false
 language = "Svelte"
 name = "batch-geocoder-nyc"
 node_id = "MDEwOlJlcG9zaXRvcnkyNTcxNjQxNjg="

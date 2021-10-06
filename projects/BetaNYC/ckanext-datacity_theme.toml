@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 150_995_293
+is_template = false
 language = "HTML"
 name = "ckanext-datacity_theme"
 node_id = "MDEwOlJlcG9zaXRvcnkxNTA5OTUyOTM="

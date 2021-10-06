@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 246_965_185
+is_template = false
 name = "biketrain.nyc"
 node_id = "MDEwOlJlcG9zaXRvcnkyNDY5NjUxODU="
 open_issues_within = 10

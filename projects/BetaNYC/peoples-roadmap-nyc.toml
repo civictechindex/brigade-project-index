@@ -22,6 +22,7 @@ has_projects = false
 has_wiki = false
 homepage = "http://NYCroadmap.us"
 id = 15_053_964
+is_template = false
 language = "HTML"
 name = "peoples-roadmap-nyc"
 node_id = "MDEwOlJlcG9zaXRvcnkxNTA1Mzk2NA=="

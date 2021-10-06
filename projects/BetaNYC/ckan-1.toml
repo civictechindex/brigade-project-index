@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://ckan.org/"
 id = 151_013_427
+is_template = false
 language = "Python"
 name = "ckan-1"
 node_id = "MDEwOlJlcG9zaXRvcnkxNTEwMTM0Mjc="

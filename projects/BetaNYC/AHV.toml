@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://beta.nyc/ahv/"
 id = 139_477_237
+is_template = false
 language = "HTML"
 name = "AHV"
 node_id = "MDEwOlJlcG9zaXRvcnkxMzk0NzcyMzc="

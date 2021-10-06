@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 149_509_131
+is_template = false
 name = "betabagels"
 node_id = "MDEwOlJlcG9zaXRvcnkxNDk1MDkxMzE="
 open_issues_within = 10

@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 10_655_371
+is_template = false
 name = "nyc-code-browser"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDY1NTM3MQ=="
 open_issues_within = 0

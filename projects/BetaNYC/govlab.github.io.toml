@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "govlab.github.io"
 id = 12_765_492
+is_template = false
 language = "CSS"
 name = "govlab.github.io"
 node_id = "MDEwOlJlcG9zaXRvcnkxMjc2NTQ5Mg=="

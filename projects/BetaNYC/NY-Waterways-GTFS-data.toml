@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 15_890_556
+is_template = false
 name = "NY-Waterways-GTFS-data"
 node_id = "MDEwOlJlcG9zaXRvcnkxNTg5MDU1Ng=="
 open_issues_within = 10

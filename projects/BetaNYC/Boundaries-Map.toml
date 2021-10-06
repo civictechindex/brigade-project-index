@@ -23,6 +23,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://Boundaries.beta.nyc"
 id = 145_469_968
+is_template = false
 language = "JavaScript"
 name = "Boundaries-Map"
 node_id = "MDEwOlJlcG9zaXRvcnkxNDU0Njk5Njg="

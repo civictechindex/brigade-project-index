@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 252_033_449
+is_template = false
 name = "coronavirus-data"
 node_id = "MDEwOlJlcG9zaXRvcnkyNTIwMzM0NDk="
 open_issues_within = 0

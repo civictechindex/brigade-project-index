@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 23_124_341
+is_template = false
 name = "civichackbadges"
 node_id = "MDEwOlJlcG9zaXRvcnkyMzEyNDM0MQ=="
 open_issues_within = 0

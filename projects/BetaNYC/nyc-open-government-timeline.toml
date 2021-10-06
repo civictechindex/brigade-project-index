@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://www.opengovtimeline.com/"
 id = 16_921_763
+is_template = false
 language = "JavaScript"
 name = "nyc-open-government-timeline"
 node_id = "MDEwOlJlcG9zaXRvcnkxNjkyMTc2Mw=="

@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 26_662_729
+is_template = false
 name = "getDataButton"
 node_id = "MDEwOlJlcG9zaXRvcnkyNjY2MjcyOQ=="
 open_issues_within = 10

@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = false
 homepage = "https://www.citygram.nyc"
 id = 24_679_474
+is_template = false
 language = "Ruby"
 name = "citygram-nyc"
 node_id = "MDEwOlJlcG9zaXRvcnkyNDY3OTQ3NA=="

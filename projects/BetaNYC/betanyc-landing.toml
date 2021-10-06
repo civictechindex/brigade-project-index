@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = false
 homepage = "http://beta.nyc"
 id = 14_452_594
+is_template = false
 language = "HTML"
 name = "betanyc-landing"
 node_id = "MDEwOlJlcG9zaXRvcnkxNDQ1MjU5NA=="

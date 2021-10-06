@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = false
 id = 97_607_139
+is_template = false
 name = "ops-message"
 node_id = "MDEwOlJlcG9zaXRvcnk5NzYwNzEzOQ=="
 open_issues_within = 0

@@ -31,6 +31,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://northbrooklyn.essentiallyopen.nyc/"
 id = 265_444_600
+is_template = true
 language = "Svelte"
 name = "open-business-directory"
 node_id = "MDEwOlJlcG9zaXRvcnkyNjU0NDQ2MDA="
