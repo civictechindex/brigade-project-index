@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://www.data.gov"
 id = 83_928_642
+is_template = false
 language = "PHP"
 name = "data.gov"
 node_id = "MDEwOlJlcG9zaXRvcnk4MzkyODY0Mg=="

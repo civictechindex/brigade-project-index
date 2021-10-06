@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://www.projectcomport.org"
 id = 101_248_062
+is_template = false
 language = "Python"
 name = "comport"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDEyNDgwNjI="

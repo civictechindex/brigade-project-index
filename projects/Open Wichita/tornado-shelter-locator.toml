@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 70_184_614
+is_template = false
 name = "tornado-shelter-locator"
 node_id = "MDEwOlJlcG9zaXRvcnk3MDE4NDYxNA=="
 open_issues_within = 10

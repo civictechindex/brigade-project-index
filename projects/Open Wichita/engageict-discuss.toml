@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 61_133_537
+is_template = false
 language = "JavaScript"
 name = "engageict-discuss"
 node_id = "MDEwOlJlcG9zaXRvcnk2MTEzMzUzNw=="

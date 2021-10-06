@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 50_971_215
+is_template = false
 language = "JavaScript"
 name = "help-a-panhandler"
 node_id = "MDEwOlJlcG9zaXRvcnk1MDk3MTIxNQ=="

@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 62_844_541
+is_template = false
 language = "Ruby"
 name = "ohana-sms"
 node_id = "MDEwOlJlcG9zaXRvcnk2Mjg0NDU0MQ=="

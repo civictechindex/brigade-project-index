@@ -21,6 +21,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 89_010_387
+is_template = false
 language = "HTML"
 name = "help-wichita"
 node_id = "MDEwOlJlcG9zaXRvcnk4OTAxMDM4Nw=="

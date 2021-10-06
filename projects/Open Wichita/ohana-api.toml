@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://ohana-api-demo.herokuapp.com/api"
 id = 61_250_668
+is_template = false
 language = "Ruby"
 name = "ohana-api"
 node_id = "MDEwOlJlcG9zaXRvcnk2MTI1MDY2OA=="

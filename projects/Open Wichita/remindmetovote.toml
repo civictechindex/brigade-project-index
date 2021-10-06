@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 53_431_848
+is_template = false
 language = "Go"
 name = "remindmetovote"
 node_id = "MDEwOlJlcG9zaXRvcnk1MzQzMTg0OA=="

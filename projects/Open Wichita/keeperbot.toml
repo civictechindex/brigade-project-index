@@ -21,6 +21,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 96_592_781
+is_template = false
 language = "CoffeeScript"
 name = "keeperbot"
 node_id = "MDEwOlJlcG9zaXRvcnk5NjU5Mjc4MQ=="
