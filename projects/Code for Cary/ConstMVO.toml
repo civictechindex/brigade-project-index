@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 16_751_900
+is_template = false
 language = "JavaScript"
 name = "ConstMVO"
 node_id = "MDEwOlJlcG9zaXRvcnkxNjc1MTkwMA=="

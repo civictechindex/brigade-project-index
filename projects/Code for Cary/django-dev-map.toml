@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 31_239_176
+is_template = false
 language = "Diff"
 name = "django-dev-map"
 node_id = "MDEwOlJlcG9zaXRvcnkzMTIzOTE3Ng=="

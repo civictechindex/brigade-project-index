@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 150_973_696
+is_template = false
 language = "JavaScript"
 name = "cary-connects-web"
 node_id = "MDEwOlJlcG9zaXRvcnkxNTA5NzM2OTY="

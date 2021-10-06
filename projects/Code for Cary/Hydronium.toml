@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 27_420_336
+is_template = false
 language = "JavaScript"
 name = "Hydronium"
 node_id = "MDEwOlJlcG9zaXRvcnkyNzQyMDMzNg=="

@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 153_189_838
+is_template = false
 name = "cary-connects-data"
 node_id = "MDEwOlJlcG9zaXRvcnkxNTMxODk4Mzg="
 open_issues_within = 10
