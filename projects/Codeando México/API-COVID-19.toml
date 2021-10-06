@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 248_632_351
+is_template = false
 language = "HTML"
 name = "API-COVID-19"
 node_id = "MDEwOlJlcG9zaXRvcnkyNDg2MzIzNTE="

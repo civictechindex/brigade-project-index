@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://morph.io"
 id = 21_525_454
+is_template = false
 name = "morph"
 node_id = "MDEwOlJlcG9zaXRvcnkyMTUyNTQ1NA=="
 open_issues_within = 0

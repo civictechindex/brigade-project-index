@@ -30,6 +30,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://odd17.codeandomexico.org"
 id = 83_599_427
+is_template = false
 language = "CSS"
 name = "odd17"
 node_id = "MDEwOlJlcG9zaXRvcnk4MzU5OTQyNw=="

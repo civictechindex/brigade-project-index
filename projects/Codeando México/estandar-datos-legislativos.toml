@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 198_673_672
+is_template = false
 name = "estandar-datos-legislativos"
 node_id = "MDEwOlJlcG9zaXRvcnkxOTg2NzM2NzI="
 open_issues_within = 10

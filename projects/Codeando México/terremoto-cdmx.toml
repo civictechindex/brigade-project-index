@@ -23,6 +23,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://sismomexico.com.mx"
 id = 104_132_849
+is_template = false
 language = "CSS"
 name = "terremoto-cdmx"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDQxMzI4NDk="

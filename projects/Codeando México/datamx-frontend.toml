@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 30_318_748
+is_template = false
 language = "HTML"
 name = "datamx-frontend"
 node_id = "MDEwOlJlcG9zaXRvcnkzMDMxODc0OA=="

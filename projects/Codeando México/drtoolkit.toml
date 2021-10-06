@@ -23,6 +23,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://disasterrelief.codeforall.org/"
 id = 142_886_406
+is_template = false
 language = "CSS"
 name = "drtoolkit"
 node_id = "MDEwOlJlcG9zaXRvcnkxNDI4ODY0MDY="

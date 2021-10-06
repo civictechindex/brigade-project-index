@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://aprende.codeandomexico.org"
 id = 280_189_585
+is_template = false
 language = "Jupyter Notebook"
 name = "hacking-civico"
 node_id = "MDEwOlJlcG9zaXRvcnkyODAxODk1ODU="

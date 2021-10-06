@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = false
 homepage = "http://civicpatterns.org"
 id = 23_476_242
+is_template = false
 name = "civicpatterns.org"
 node_id = "MDEwOlJlcG9zaXRvcnkyMzQ3NjI0Mg=="
 open_issues_within = 0

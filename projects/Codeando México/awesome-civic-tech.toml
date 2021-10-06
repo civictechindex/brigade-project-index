@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://awesome-civic-tech.codeandomexico.org/"
 id = 61_754_791
+is_template = false
 language = "CSS"
 name = "awesome-civic-tech"
 node_id = "MDEwOlJlcG9zaXRvcnk2MTc1NDc5MQ=="

@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 45_725_122
+is_template = false
 name = "codigo-de-conducta"
 node_id = "MDEwOlJlcG9zaXRvcnk0NTcyNTEyMg=="
 open_issues_within = 10

@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://mexico.frenalacurva.net/"
 id = 248_044_671
+is_template = false
 language = "JavaScript"
 name = "frenalacurvamx"
 node_id = "MDEwOlJlcG9zaXRvcnkyNDgwNDQ2NzE="

@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 7_981_028
+is_template = false
 language = "Ruby"
 name = "reporte-ciudadano"
 node_id = "MDEwOlJlcG9zaXRvcnk3OTgxMDI4"

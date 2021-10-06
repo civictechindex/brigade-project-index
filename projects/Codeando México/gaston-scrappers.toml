@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 78_314_578
+is_template = false
 language = "Jupyter Notebook"
 name = "gaston-scrappers"
 node_id = "MDEwOlJlcG9zaXRvcnk3ODMxNDU3OA=="

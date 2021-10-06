@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://tu-plataforma-abierta.herokuapp.com"
 id = 60_558_640
+is_template = false
 language = "Ruby"
 name = "tu-plataforma-abierta"
 node_id = "MDEwOlJlcG9zaXRvcnk2MDU1ODY0MA=="

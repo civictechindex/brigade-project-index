@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://codeandomexico.github.io/curso-python-zapopan"
 id = 244_021_219
+is_template = false
 language = "HTML"
 name = "curso-python-zapopan"
 node_id = "MDEwOlJlcG9zaXRvcnkyNDQwMjEyMTk="

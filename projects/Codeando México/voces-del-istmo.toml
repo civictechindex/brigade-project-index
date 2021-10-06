@@ -20,6 +20,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://vocesdelistmo.org"
 id = 308_433_690
+is_template = false
 language = "Vue"
 name = "voces-del-istmo"
 node_id = "MDEwOlJlcG9zaXRvcnkzMDg0MzM2OTA="

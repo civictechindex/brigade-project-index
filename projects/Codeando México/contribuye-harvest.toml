@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 104_511_639
+is_template = false
 language = "JavaScript"
 name = "contribuye-harvest"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDQ1MTE2Mzk="

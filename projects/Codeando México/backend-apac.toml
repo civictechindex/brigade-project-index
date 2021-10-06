@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 155_439_712
+is_template = false
 language = "Java"
 name = "backend-apac"
 node_id = "MDEwOlJlcG9zaXRvcnkxNTU0Mzk3MTI="

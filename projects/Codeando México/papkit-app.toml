@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 213_435_750
+is_template = false
 name = "papkit-app"
 node_id = "MDEwOlJlcG9zaXRvcnkyMTM0MzU3NTA="
 open_issues_within = 10

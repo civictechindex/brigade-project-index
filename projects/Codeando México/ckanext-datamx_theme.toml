@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 14_595_388
+is_template = false
 language = "HTML"
 name = "ckanext-datamx_theme"
 node_id = "MDEwOlJlcG9zaXRvcnkxNDU5NTM4OA=="

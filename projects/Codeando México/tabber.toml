@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 78_874_587
+is_template = false
 language = "HTML"
 name = "tabber"
 node_id = "MDEwOlJlcG9zaXRvcnk3ODg3NDU4Nw=="

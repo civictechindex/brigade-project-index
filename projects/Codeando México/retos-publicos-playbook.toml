@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = false
 homepage = "http://codeandomexico.github.io/playbook/"
 id = 49_513_861
+is_template = false
 language = "CSS"
 name = "retos-publicos-playbook"
 node_id = "MDEwOlJlcG9zaXRvcnk0OTUxMzg2MQ=="

@@ -29,6 +29,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://codeandomexico.github.io/eventos-globales/"
 id = 235_538_385
+is_template = false
 language = "HTML"
 name = "eventos-globales"
 node_id = "MDEwOlJlcG9zaXRvcnkyMzU1MzgzODU="

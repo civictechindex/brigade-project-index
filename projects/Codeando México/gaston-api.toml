@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 78_298_629
+is_template = false
 name = "gaston-api"
 node_id = "MDEwOlJlcG9zaXRvcnk3ODI5ODYyOQ=="
 open_issues_within = 10

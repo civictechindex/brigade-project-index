@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 153_330_738
+is_template = false
 language = "TypeScript"
 name = "APAC"
 node_id = "MDEwOlJlcG9zaXRvcnkxNTMzMzA3Mzg="

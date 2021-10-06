@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 265_893_608
+is_template = false
 name = "FLC-Mapa"
 node_id = "MDEwOlJlcG9zaXRvcnkyNjU4OTM2MDg="
 open_issues_within = 10
