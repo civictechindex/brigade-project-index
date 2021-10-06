@@ -18,6 +18,7 @@ has_pages = true
 has_projects = true
 has_wiki = true
 id = 249_137_336
+is_template = false
 language = "HTML"
 name = "covid19hokkaido_webapi"
 node_id = "MDEwOlJlcG9zaXRvcnkyNDkxMzczMzY="

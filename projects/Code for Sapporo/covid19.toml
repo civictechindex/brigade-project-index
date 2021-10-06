@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://stopcovid19.hokkaido.dev/"
 id = 245_102_453
+is_template = false
 language = "Vue"
 name = "covid19"
 node_id = "MDEwOlJlcG9zaXRvcnkyNDUxMDI0NTM="
