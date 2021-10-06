@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 10_358_051
+is_template = false
 language = "PHP"
 name = "cfawp2012"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDM1ODA1MQ=="

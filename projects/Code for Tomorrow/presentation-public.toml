@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 12_830_491
+is_template = false
 language = "Shell"
 name = "presentation-public"
 node_id = "MDEwOlJlcG9zaXRvcnkxMjgzMDQ5MQ=="

@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://food.codefortomorrow.org"
 id = 12_665_971
+is_template = false
 name = "food-data"
 node_id = "MDEwOlJlcG9zaXRvcnkxMjY2NTk3MQ=="
 open_issues_within = 10

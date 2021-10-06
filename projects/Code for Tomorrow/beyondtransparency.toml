@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://beyondtransparency.org"
 id = 13_695_286
+is_template = false
 language = "CSS"
 name = "beyondtransparency"
 node_id = "MDEwOlJlcG9zaXRvcnkxMzY5NTI4Ng=="

@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://odd2013.codefortomorrow.org"
 id = 8_281_760
+is_template = false
 language = "JavaScript"
 name = "odd2013"
 node_id = "MDEwOlJlcG9zaXRvcnk4MjgxNzYw"

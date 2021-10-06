@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 13_951_812
+is_template = false
 language = "Ruby"
 name = "food-api"
 node_id = "MDEwOlJlcG9zaXRvcnkxMzk1MTgxMg=="

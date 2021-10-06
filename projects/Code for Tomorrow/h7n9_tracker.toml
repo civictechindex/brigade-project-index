@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://youtu.be/YKAfyuA4Hqw"
 id = 10_081_533
+is_template = false
 name = "h7n9_tracker"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDA4MTUzMw=="
 open_issues_within = 10

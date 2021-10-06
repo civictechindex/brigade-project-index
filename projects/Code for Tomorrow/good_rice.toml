@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 10_081_302
+is_template = false
 name = "good_rice"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDA4MTMwMg=="
 open_issues_within = 0

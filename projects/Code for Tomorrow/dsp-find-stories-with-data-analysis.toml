@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 22_727_649
+is_template = false
 name = "dsp-find-stories-with-data-analysis"
 node_id = "MDEwOlJlcG9zaXRvcnkyMjcyNzY0OQ=="
 open_issues_within = 0

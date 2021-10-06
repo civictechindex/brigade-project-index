@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 9_110_168
+is_template = false
 name = "visual"
 node_id = "MDEwOlJlcG9zaXRvcnk5MTEwMTY4"
 open_issues_within = 10

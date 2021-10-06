@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 12_336_784
+is_template = false
 name = "cft-newsletter"
 node_id = "MDEwOlJlcG9zaXRvcnkxMjMzNjc4NA=="
 open_issues_within = 10
