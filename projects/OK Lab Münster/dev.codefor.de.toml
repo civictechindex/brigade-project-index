@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 235_421_173
+is_template = false
 name = "dev.codefor.de"
 node_id = "MDEwOlJlcG9zaXRvcnkyMzU0MjExNzM="
 open_issues_within = 0

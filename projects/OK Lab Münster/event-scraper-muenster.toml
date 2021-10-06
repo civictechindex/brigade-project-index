@@ -21,6 +21,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 107_580_010
+is_template = false
 language = "Python"
 name = "event-scraper-muenster"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDc1ODAwMTA="

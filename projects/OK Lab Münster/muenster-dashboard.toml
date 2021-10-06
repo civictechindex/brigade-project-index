@@ -23,6 +23,7 @@ has_projects = true
 has_wiki = false
 homepage = "https://mein-ms.de/"
 id = 110_239_760
+is_template = false
 language = "JavaScript"
 name = "muenster-dashboard"
 node_id = "MDEwOlJlcG9zaXRvcnkxMTAyMzk3NjA="

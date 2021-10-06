@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://github.com/codeformuenster/wahlprogramme2014"
 id = 18_605_386
+is_template = false
 language = "Ruby"
 name = "wahlprogramme2014"
 node_id = "MDEwOlJlcG9zaXRvcnkxODYwNTM4Ng=="

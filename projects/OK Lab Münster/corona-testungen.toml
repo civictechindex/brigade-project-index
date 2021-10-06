@@ -20,6 +20,7 @@ has_projects = true
 has_wiki = false
 homepage = "https://codeformuenster.org/corona-testungen/"
 id = 346_159_665
+is_template = false
 language = "JavaScript"
 name = "corona-testungen"
 node_id = "MDEwOlJlcG9zaXRvcnkzNDYxNTk2NjU="

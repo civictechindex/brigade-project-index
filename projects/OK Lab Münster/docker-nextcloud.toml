@@ -20,6 +20,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://hub.docker.com/r/codeformuenster/nextcloud/builds"
 id = 161_039_016
+is_template = false
 language = "Dockerfile"
 name = "docker-nextcloud"
 node_id = "MDEwOlJlcG9zaXRvcnkxNjEwMzkwMTY="

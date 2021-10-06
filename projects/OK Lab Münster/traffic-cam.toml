@@ -20,6 +20,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 298_542_690
+is_template = false
 language = "Jupyter Notebook"
 name = "traffic-cam"
 node_id = "MDEwOlJlcG9zaXRvcnkyOTg1NDI2OTA="

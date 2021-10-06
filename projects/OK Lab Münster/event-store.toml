@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 97_638_151
+is_template = false
 name = "event-store"
 node_id = "MDEwOlJlcG9zaXRvcnk5NzYzODE1MQ=="
 open_issues_within = 0

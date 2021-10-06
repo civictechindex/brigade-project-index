@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = false
 id = 142_322_480
+is_template = false
 language = "Python"
 name = "MS-Event-Scrapy"
 node_id = "MDEwOlJlcG9zaXRvcnkxNDIzMjI0ODA="

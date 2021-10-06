@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://crashes.codeformuenster.org/"
 id = 143_052_116
+is_template = false
 language = "R"
 name = "crashes-shiny"
 node_id = "MDEwOlJlcG9zaXRvcnkxNDMwNTIxMTY="

@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://berlinermorgenpost.github.io/mietkarte"
 id = 26_881_271
+is_template = false
 language = "JavaScript"
 name = "mietkarte"
 node_id = "MDEwOlJlcG9zaXRvcnkyNjg4MTI3MQ=="

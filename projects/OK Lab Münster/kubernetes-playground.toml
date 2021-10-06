@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 382_871_869
+is_template = false
 name = "kubernetes-playground"
 node_id = "MDEwOlJlcG9zaXRvcnkzODI4NzE4Njk="
 open_issues_within = 0

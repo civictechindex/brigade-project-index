@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://app.muenster.jetzt"
 id = 217_608_218
+is_template = false
 language = "JavaScript"
 name = "muenster-info-app"
 node_id = "MDEwOlJlcG9zaXRvcnkyMTc2MDgyMTg="

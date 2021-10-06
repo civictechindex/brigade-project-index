@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = false
 homepage = "https://github.com/codeformuenster/civic-json-worker"
 id = 17_204_111
+is_template = false
 language = "Python"
 name = "civic-json-worker"
 node_id = "MDEwOlJlcG9zaXRvcnkxNzIwNDExMQ=="

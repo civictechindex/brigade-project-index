@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 222_792_868
+is_template = false
 language = "Dockerfile"
 name = "opentripplanner-cfm-docker"
 node_id = "MDEwOlJlcG9zaXRvcnkyMjI3OTI4Njg="

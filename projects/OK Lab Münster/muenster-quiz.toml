@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 34_404_020
+is_template = false
 name = "muenster-quiz"
 node_id = "MDEwOlJlcG9zaXRvcnkzNDQwNDAyMA=="
 open_issues_within = 10

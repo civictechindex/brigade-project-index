@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 221_569_750
+is_template = false
 language = "JavaScript"
 name = "digitransit-graphiql"
 node_id = "MDEwOlJlcG9zaXRvcnkyMjE1Njk3NTA="

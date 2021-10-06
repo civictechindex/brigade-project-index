@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 72_356_211
+is_template = false
 language = "Jupyter Notebook"
 name = "datadive-on-time-series"
 node_id = "MDEwOlJlcG9zaXRvcnk3MjM1NjIxMQ=="

@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://codeformuenster.org/codeforgermany-presentation/"
 id = 18_181_383
+is_template = false
 language = "JavaScript"
 name = "codeforgermany-presentation"
 node_id = "MDEwOlJlcG9zaXRvcnkxODE4MTM4Mw=="

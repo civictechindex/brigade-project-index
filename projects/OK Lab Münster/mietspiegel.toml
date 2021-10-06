@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://github.com/codeformuenster/mietspiegel"
 id = 24_955_764
+is_template = false
 name = "mietspiegel"
 node_id = "MDEwOlJlcG9zaXRvcnkyNDk1NTc2NA=="
 open_issues_within = 10

@@ -23,6 +23,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://traffics.codeformuenster.org"
 id = 118_739_834
+is_template = false
 language = "R"
 name = "traffic-dynamics-shiny"
 node_id = "MDEwOlJlcG9zaXRvcnkxMTg3Mzk4MzQ="

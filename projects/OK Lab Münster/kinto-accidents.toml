@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 144_753_853
+is_template = false
 language = "Dockerfile"
 name = "kinto-accidents"
 node_id = "MDEwOlJlcG9zaXRvcnkxNDQ3NTM4NTM="

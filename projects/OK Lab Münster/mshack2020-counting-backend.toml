@@ -20,6 +20,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 298_529_294
+is_template = false
 language = "Python"
 name = "mshack2020-counting-backend"
 node_id = "MDEwOlJlcG9zaXRvcnkyOTg1MjkyOTQ="

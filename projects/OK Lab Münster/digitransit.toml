@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://digitransit.codeformuenster.org/"
 id = 222_117_069
+is_template = false
 name = "digitransit"
 node_id = "MDEwOlJlcG9zaXRvcnkyMjIxMTcwNjk="
 open_issues_within = 10

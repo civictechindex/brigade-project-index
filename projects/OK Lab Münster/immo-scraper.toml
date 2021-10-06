@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 189_090_710
+is_template = false
 language = "Python"
 name = "immo-scraper"
 node_id = "MDEwOlJlcG9zaXRvcnkxODkwOTA3MTA="

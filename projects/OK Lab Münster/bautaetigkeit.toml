@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://codeformuenster.cartodb.com/viz/4c1a2b20-a315-11e4-92b6-0e853d047bba/public_map"
 id = 29_777_256
+is_template = false
 language = "R"
 name = "bautaetigkeit"
 node_id = "MDEwOlJlcG9zaXRvcnkyOTc3NzI1Ng=="

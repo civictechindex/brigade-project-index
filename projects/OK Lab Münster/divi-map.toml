@@ -20,6 +20,7 @@ has_pages = true
 has_projects = true
 has_wiki = true
 id = 253_909_067
+is_template = false
 language = "Python"
 name = "divi-map"
 node_id = "MDEwOlJlcG9zaXRvcnkyNTM5MDkwNjc="

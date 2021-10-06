@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 127_956_591
+is_template = false
 language = "Go"
 name = "mosmix-api"
 node_id = "MDEwOlJlcG9zaXRvcnkxMjc5NTY1OTE="

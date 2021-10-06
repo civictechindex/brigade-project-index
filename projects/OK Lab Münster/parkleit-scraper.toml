@@ -23,6 +23,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://hub.docker.com/r/codeformuenster/parkleit-scraper/"
 id = 71_830_846
+is_template = false
 language = "Python"
 name = "parkleit-scraper"
 node_id = "MDEwOlJlcG9zaXRvcnk3MTgzMDg0Ng=="

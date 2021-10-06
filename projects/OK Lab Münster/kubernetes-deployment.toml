@@ -26,6 +26,7 @@ has_pages = false
 has_projects = false
 has_wiki = false
 id = 69_484_614
+is_template = false
 language = "Mustache"
 name = "kubernetes-deployment"
 node_id = "MDEwOlJlcG9zaXRvcnk2OTQ4NDYxNA=="

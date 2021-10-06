@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 34_810_411
+is_template = false
 language = "PLpgSQL"
 name = "ms-aufgrabungen-geojson"
 node_id = "MDEwOlJlcG9zaXRvcnkzNDgxMDQxMQ=="

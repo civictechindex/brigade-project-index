@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 131_639_712
+is_template = false
 language = "Python"
 name = "kjob"
 node_id = "MDEwOlJlcG9zaXRvcnkxMzE2Mzk3MTI="

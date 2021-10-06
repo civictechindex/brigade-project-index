@@ -20,6 +20,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://hub.docker.com/r/codeformuenster/event-scraper/"
 id = 79_946_604
+is_template = false
 language = "Python"
 name = "event-scraper"
 node_id = "MDEwOlJlcG9zaXRvcnk3OTk0NjYwNA=="

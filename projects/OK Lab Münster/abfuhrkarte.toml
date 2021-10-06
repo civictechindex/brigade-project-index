@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://abfuhrkarte.codeformuenster.org/"
 id = 271_086_243
+is_template = false
 language = "Python"
 name = "abfuhrkarte"
 node_id = "MDEwOlJlcG9zaXRvcnkyNzEwODYyNDM="

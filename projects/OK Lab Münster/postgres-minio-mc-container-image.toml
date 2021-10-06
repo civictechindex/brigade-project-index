@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 193_764_045
+is_template = false
 language = "Dockerfile"
 name = "postgres-minio-mc-container-image"
 node_id = "MDEwOlJlcG9zaXRvcnkxOTM3NjQwNDU="

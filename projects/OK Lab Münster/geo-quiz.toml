@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://codeformuenster.org/geo-quiz"
 id = 67_054_151
+is_template = false
 language = "HTML"
 name = "geo-quiz"
 node_id = "MDEwOlJlcG9zaXRvcnk2NzA1NDE1MQ=="

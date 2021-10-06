@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 126_069_475
+is_template = false
 language = "R"
 name = "traffic-dynamics-analyze"
 node_id = "MDEwOlJlcG9zaXRvcnkxMjYwNjk0NzU="

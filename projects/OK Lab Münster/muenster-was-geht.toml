@@ -23,6 +23,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://demo.muenster-was-geht.de/"
 id = 298_584_859
+is_template = false
 language = "HTML"
 name = "muenster-was-geht"
 node_id = "MDEwOlJlcG9zaXRvcnkyOTg1ODQ4NTk="

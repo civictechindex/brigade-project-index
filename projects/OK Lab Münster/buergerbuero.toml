@@ -20,6 +20,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://buergerbuero.codeformuenster.org/latest"
 id = 29_986_456
+is_template = false
 language = "Ruby"
 name = "buergerbuero"
 node_id = "MDEwOlJlcG9zaXRvcnkyOTk4NjQ1Ng=="

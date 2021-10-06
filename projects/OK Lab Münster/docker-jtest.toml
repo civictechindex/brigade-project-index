@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 72_369_730
+is_template = false
 name = "docker-jtest"
 node_id = "MDEwOlJlcG9zaXRvcnk3MjM2OTczMA=="
 open_issues_within = 0

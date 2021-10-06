@@ -18,6 +18,7 @@ has_pages = true
 has_projects = true
 has_wiki = true
 id = 235_435_007
+is_template = false
 name = "display.muenster.jetzt"
 node_id = "MDEwOlJlcG9zaXRvcnkyMzU0MzUwMDc="
 open_issues_within = 0

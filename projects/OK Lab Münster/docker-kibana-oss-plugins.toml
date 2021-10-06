@@ -19,6 +19,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 216_958_083
+is_template = false
 language = "Dockerfile"
 name = "docker-kibana-oss-plugins"
 node_id = "MDEwOlJlcG9zaXRvcnkyMTY5NTgwODM="

@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 221_505_953
+is_template = false
 language = "Dockerfile"
 name = "OpenTripPlanner-graph"
 node_id = "MDEwOlJlcG9zaXRvcnkyMjE1MDU5NTM="

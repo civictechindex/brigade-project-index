@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://klimawatch.de/"
 id = 218_806_885
+is_template = false
 language = "HTML"
 name = "klimawatch"
 node_id = "MDEwOlJlcG9zaXRvcnkyMTg4MDY4ODU="

@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 40_025_645
+is_template = false
 language = "Ruby"
 name = "logstash-filter-geocoder"
 node_id = "MDEwOlJlcG9zaXRvcnk0MDAyNTY0NQ=="

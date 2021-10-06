@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://codeformuenster.org/codeforosna-opendata-slides/"
 id = 210_002_479
+is_template = false
 language = "HTML"
 name = "codeforosna-opendata-slides"
 node_id = "MDEwOlJlcG9zaXRvcnkyMTAwMDI0Nzk="

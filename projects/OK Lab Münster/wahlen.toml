@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://codeformuenster.org/wahlen/"
 id = 20_096_101
+is_template = false
 language = "Ruby"
 name = "wahlen"
 node_id = "MDEwOlJlcG9zaXRvcnkyMDA5NjEwMQ=="

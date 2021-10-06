@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://github.com/codeformuenster/codeformuenster/issues"
 id = 49_155_499
+is_template = false
 name = "codeformuenster"
 node_id = "MDEwOlJlcG9zaXRvcnk0OTE1NTQ5OQ=="
 open_issues_within = 100

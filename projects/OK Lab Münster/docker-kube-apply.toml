@@ -20,6 +20,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://hub.docker.com/r/codeformuenster/kube-apply/builds/"
 id = 76_985_319
+is_template = false
 language = "Shell"
 name = "docker-kube-apply"
 node_id = "MDEwOlJlcG9zaXRvcnk3Njk4NTMxOQ=="

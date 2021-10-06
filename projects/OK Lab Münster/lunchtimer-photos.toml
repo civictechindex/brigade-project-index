@@ -20,6 +20,7 @@ has_pages = true
 has_projects = true
 has_wiki = true
 id = 118_654_432
+is_template = false
 language = "Shell"
 name = "lunchtimer-photos"
 node_id = "MDEwOlJlcG9zaXRvcnkxMTg2NTQ0MzI="

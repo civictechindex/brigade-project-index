@@ -20,6 +20,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 298_773_988
+is_template = false
 language = "Python"
 name = "mshack2020-hardware"
 node_id = "MDEwOlJlcG9zaXRvcnkyOTg3NzM5ODg="

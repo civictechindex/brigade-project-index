@@ -21,6 +21,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 98_336_298
+is_template = false
 language = "Python"
 name = "event-scraper-unims"
 node_id = "MDEwOlJlcG9zaXRvcnk5ODMzNjI5OA=="

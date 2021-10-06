@@ -23,6 +23,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://hub.docker.com/r/codeformuenster/event-api/"
 id = 81_258_318
+is_template = false
 language = "Shell"
 name = "event-api"
 node_id = "MDEwOlJlcG9zaXRvcnk4MTI1ODMxOA=="

@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = false
 homepage = "http://codeformuenster.org"
 id = 29_388_839
+is_template = false
 language = "HTML"
 name = "codeformuenster.github.io"
 node_id = "MDEwOlJlcG9zaXRvcnkyOTM4ODgzOQ=="

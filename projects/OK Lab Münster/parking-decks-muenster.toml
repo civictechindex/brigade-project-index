@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://github.com/codeformuenster/parking-decks-muenster"
 id = 203_040_849
+is_template = false
 language = "Python"
 name = "parking-decks-muenster"
 node_id = "MDEwOlJlcG9zaXRvcnkyMDMwNDA4NDk="

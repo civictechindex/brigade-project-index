@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 127_940_532
+is_template = false
 language = "Go"
 name = "mosmix-processor"
 node_id = "MDEwOlJlcG9zaXRvcnkxMjc5NDA1MzI="

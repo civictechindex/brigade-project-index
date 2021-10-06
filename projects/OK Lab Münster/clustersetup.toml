@@ -28,6 +28,7 @@ has_projects = false
 has_wiki = false
 homepage = ""
 id = 304_448_636
+is_template = false
 language = "Jinja"
 name = "clustersetup"
 node_id = "MDEwOlJlcG9zaXRvcnkzMDQ0NDg2MzY="

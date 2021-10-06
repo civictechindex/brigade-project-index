@@ -20,6 +20,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://codeformuenster.org/COVID-19-NRW/index.html"
 id = 248_782_963
+is_template = false
 language = "HTML"
 name = "COVID-19-NRW"
 node_id = "MDEwOlJlcG9zaXRvcnkyNDg3ODI5NjM="

@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 77_329_329
+is_template = false
 name = "docker-prometheus-es-exporter"
 node_id = "MDEwOlJlcG9zaXRvcnk3NzMyOTMyOQ=="
 open_issues_within = 0

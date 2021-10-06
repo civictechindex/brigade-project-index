@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 221_752_443
+is_template = false
 name = "digitransit-ui-docker"
 node_id = "MDEwOlJlcG9zaXRvcnkyMjE3NTI0NDM="
 open_issues_within = 0

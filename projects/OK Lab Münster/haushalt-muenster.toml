@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://codeformuenster.org/haushalt-muenster/"
 id = 25_268_863
+is_template = false
 language = "Python"
 name = "haushalt-muenster"
 node_id = "MDEwOlJlcG9zaXRvcnkyNTI2ODg2Mw=="

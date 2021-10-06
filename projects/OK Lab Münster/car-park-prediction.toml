@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 92_211_564
+is_template = false
 language = "Python"
 name = "car-park-prediction"
 node_id = "MDEwOlJlcG9zaXRvcnk5MjIxMTU2NA=="

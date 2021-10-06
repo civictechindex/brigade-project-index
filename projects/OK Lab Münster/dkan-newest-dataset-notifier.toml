@@ -23,6 +23,7 @@ has_projects = true
 has_wiki = false
 homepage = "https://twitter.com/OpenData_MS"
 id = 254_400_807
+is_template = false
 language = "Go"
 name = "dkan-newest-dataset-notifier"
 node_id = "MDEwOlJlcG9zaXRvcnkyNTQ0MDA4MDc="

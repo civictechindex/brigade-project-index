@@ -19,6 +19,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 215_561_190
+is_template = false
 language = "Dockerfile"
 name = "docker-elasticsearch-oss-plugins"
 node_id = "MDEwOlJlcG9zaXRvcnkyMTU1NjExOTA="

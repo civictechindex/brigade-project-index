@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 29_984_380
+is_template = false
 language = "Go"
 name = "gum"
 node_id = "MDEwOlJlcG9zaXRvcnkyOTk4NDM4MA=="

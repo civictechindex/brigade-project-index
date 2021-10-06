@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 29_522_029
+is_template = false
 name = "newsletter"
 node_id = "MDEwOlJlcG9zaXRvcnkyOTUyMjAyOQ=="
 open_issues_within = 0

@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 61_233_311
+is_template = false
 language = "JavaScript"
 name = "geojson-display"
 node_id = "MDEwOlJlcG9zaXRvcnk2MTIzMzMxMQ=="

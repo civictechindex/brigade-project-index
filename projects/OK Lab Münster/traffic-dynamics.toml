@@ -23,6 +23,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://traffics.codeformuenster.org"
 id = 98_345_904
+is_template = false
 language = "R"
 name = "traffic-dynamics"
 node_id = "MDEwOlJlcG9zaXRvcnk5ODM0NTkwNA=="

@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 261_036_198
+is_template = false
 language = "Python"
 name = "kustomize-helmtemplate"
 node_id = "MDEwOlJlcG9zaXRvcnkyNjEwMzYxOTg="

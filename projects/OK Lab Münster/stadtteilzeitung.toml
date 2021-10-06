@@ -20,6 +20,7 @@ has_pages = true
 has_projects = true
 has_wiki = true
 id = 151_700_916
+is_template = false
 language = "CSS"
 name = "stadtteilzeitung"
 node_id = "MDEwOlJlcG9zaXRvcnkxNTE3MDA5MTY="

@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = false
 homepage = "https://meine-stadt-transparent.de"
 id = 222_491_844
+is_template = false
 language = "Python"
 name = "meine-stadt-transparent"
 node_id = "MDEwOlJlcG9zaXRvcnkyMjI0OTE4NDQ="

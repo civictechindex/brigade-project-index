@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://github.com/codeformuenster/traffic-dynamics"
 id = 108_169_974
+is_template = false
 language = "R"
 name = "kfzData"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDgxNjk5NzQ="

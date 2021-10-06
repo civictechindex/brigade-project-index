@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://muensterdashboard.gigantic.io/"
 id = 31_129_485
+is_template = false
 language = "JavaScript"
 name = "muenster-dashboard_old"
 node_id = "MDEwOlJlcG9zaXRvcnkzMTEyOTQ4NQ=="

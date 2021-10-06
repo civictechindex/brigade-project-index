@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 21_662_410
+is_template = false
 language = "Ruby"
 name = "sportstaetten"
 node_id = "MDEwOlJlcG9zaXRvcnkyMTY2MjQxMA=="

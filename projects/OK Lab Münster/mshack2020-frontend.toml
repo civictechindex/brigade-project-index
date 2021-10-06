@@ -20,6 +20,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 298_782_210
+is_template = false
 language = "TypeScript"
 name = "mshack2020-frontend"
 node_id = "MDEwOlJlcG9zaXRvcnkyOTg3ODIyMTA="

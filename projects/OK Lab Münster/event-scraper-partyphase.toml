@@ -21,6 +21,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 98_331_375
+is_template = false
 language = "Ruby"
 name = "event-scraper-partyphase"
 node_id = "MDEwOlJlcG9zaXRvcnk5ODMzMTM3NQ=="

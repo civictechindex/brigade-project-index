@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://codeformuenster.org/alternative-skulptur-projekte/"
 id = 57_244_689
+is_template = false
 language = "JavaScript"
 name = "alternative-skulptur-projekte"
 node_id = "MDEwOlJlcG9zaXRvcnk1NzI0NDY4OQ=="

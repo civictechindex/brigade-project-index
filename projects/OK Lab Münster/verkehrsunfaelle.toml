@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 61_237_048
+is_template = false
 language = "Python"
 name = "verkehrsunfaelle"
 node_id = "MDEwOlJlcG9zaXRvcnk2MTIzNzA0OA=="

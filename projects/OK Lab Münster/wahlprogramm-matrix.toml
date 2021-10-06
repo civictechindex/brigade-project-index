@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://codeformuenster.github.io/wahlprogramm-matrix"
 id = 19_993_325
+is_template = false
 language = "JavaScript"
 name = "wahlprogramm-matrix"
 node_id = "MDEwOlJlcG9zaXRvcnkxOTk5MzMyNQ=="

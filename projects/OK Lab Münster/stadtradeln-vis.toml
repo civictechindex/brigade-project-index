@@ -20,6 +20,7 @@ has_projects = false
 has_wiki = false
 homepage = "https://codeformuenster.org/stadtradeln-vis"
 id = 335_428_649
+is_template = false
 language = "JavaScript"
 name = "stadtradeln-vis"
 node_id = "MDEwOlJlcG9zaXRvcnkzMzU0Mjg2NDk="

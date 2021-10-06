@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 42_394_973
+is_template = false
 language = "Python"
 name = "microscale"
 node_id = "MDEwOlJlcG9zaXRvcnk0MjM5NDk3Mw=="

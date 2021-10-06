@@ -20,6 +20,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 298_595_308
+is_template = false
 language = "Dart"
 name = "mshack2020-counting-mobileapp"
 node_id = "MDEwOlJlcG9zaXRvcnkyOTg1OTUzMDg="

@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 200_534_161
+is_template = false
 language = "Makefile"
 name = "kustomized"
 node_id = "MDEwOlJlcG9zaXRvcnkyMDA1MzQxNjE="

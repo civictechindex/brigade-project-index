@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 23_891_528
+is_template = false
 language = "JavaScript"
 name = "oparl-viz"
 node_id = "MDEwOlJlcG9zaXRvcnkyMzg5MTUyOA=="

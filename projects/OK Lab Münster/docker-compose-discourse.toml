@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 33_769_795
+is_template = false
 name = "docker-compose-discourse"
 node_id = "MDEwOlJlcG9zaXRvcnkzMzc2OTc5NQ=="
 open_issues_within = 0

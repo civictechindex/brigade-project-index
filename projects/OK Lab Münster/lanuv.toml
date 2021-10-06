@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 60_716_989
+is_template = false
 name = "lanuv"
 node_id = "MDEwOlJlcG9zaXRvcnk2MDcxNjk4OQ=="
 open_issues_within = 10

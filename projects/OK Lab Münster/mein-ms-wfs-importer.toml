@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 134_465_086
+is_template = false
 language = "JavaScript"
 name = "mein-ms-wfs-importer"
 node_id = "MDEwOlJlcG9zaXRvcnkxMzQ0NjUwODY="

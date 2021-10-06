@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://codeformuenster.org/parkhaeuser-mobile/"
 id = 30_960_149
+is_template = false
 language = "Ruby"
 name = "parkhaeuser-mobile"
 node_id = "MDEwOlJlcG9zaXRvcnkzMDk2MDE0OQ=="

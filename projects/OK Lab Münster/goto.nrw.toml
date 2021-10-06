@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://goto.nrw"
 id = 67_287_714
+is_template = false
 language = "CSS"
 name = "goto.nrw"
 node_id = "MDEwOlJlcG9zaXRvcnk2NzI4NzcxNA=="

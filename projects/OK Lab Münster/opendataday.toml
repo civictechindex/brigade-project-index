@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://codeformuenster.github.io/opendataday/"
 id = 16_119_464
+is_template = false
 language = "HTML"
 name = "opendataday"
 node_id = "MDEwOlJlcG9zaXRvcnkxNjExOTQ2NA=="

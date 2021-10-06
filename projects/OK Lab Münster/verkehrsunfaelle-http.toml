@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 202_220_011
+is_template = false
 language = "Python"
 name = "verkehrsunfaelle-http"
 node_id = "MDEwOlJlcG9zaXRvcnkyMDIyMjAwMTE="
