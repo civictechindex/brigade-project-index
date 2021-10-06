@@ -23,6 +23,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://smart.columbus.gov/projects/#project--the-smart-columbus-operating-system"
 id = 144_030_558
+is_template = false
 name = "linden"
 node_id = "MDEwOlJlcG9zaXRvcnkxNDQwMzA1NTg="
 open_issues_within = 10

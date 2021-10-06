@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://www.accessmap.io"
 id = 198_079_425
+is_template = false
 language = "Python"
 name = "accessmap"
 node_id = "MDEwOlJlcG9zaXRvcnkxOTgwNzk0MjU="

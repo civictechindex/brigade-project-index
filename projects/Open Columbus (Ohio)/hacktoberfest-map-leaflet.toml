@@ -21,6 +21,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 151_599_453
+is_template = false
 language = "HTML"
 name = "hacktoberfest-map-leaflet"
 node_id = "MDEwOlJlcG9zaXRvcnkxNTE1OTk0NTM="

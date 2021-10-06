@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 168_912_400
+is_template = false
 language = "JavaScript"
 name = "community-services-locator-ui-2"
 node_id = "MDEwOlJlcG9zaXRvcnkxNjg5MTI0MDA="

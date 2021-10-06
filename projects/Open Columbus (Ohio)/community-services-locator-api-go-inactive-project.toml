@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 156_490_926
+is_template = false
 language = "Go"
 name = "community-services-locator-api-go-inactive-project"
 node_id = "MDEwOlJlcG9zaXRvcnkxNTY0OTA5MjY="

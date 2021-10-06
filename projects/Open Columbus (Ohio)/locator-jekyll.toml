@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 169_938_702
+is_template = false
 name = "locator-jekyll"
 node_id = "MDEwOlJlcG9zaXRvcnkxNjk5Mzg3MDI="
 open_issues_within = 10

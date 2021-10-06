@@ -21,6 +21,7 @@ has_projects = false
 has_wiki = false
 homepage = ""
 id = 143_947_068
+is_template = false
 language = "TypeScript"
 name = "mofb-api"
 node_id = "MDEwOlJlcG9zaXRvcnkxNDM5NDcwNjg="

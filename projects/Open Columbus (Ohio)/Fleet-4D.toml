@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 157_305_711
+is_template = false
 language = "C#"
 name = "Fleet-4D"
 node_id = "MDEwOlJlcG9zaXRvcnkxNTczMDU3MTE="

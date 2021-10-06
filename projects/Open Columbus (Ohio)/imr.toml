@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 156_769_655
+is_template = false
 name = "imr"
 node_id = "MDEwOlJlcG9zaXRvcnkxNTY3Njk2NTU="
 open_issues_within = 10

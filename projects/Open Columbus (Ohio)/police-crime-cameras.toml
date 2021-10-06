@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 198_097_569
+is_template = false
 name = "police-crime-cameras"
 node_id = "MDEwOlJlcG9zaXRvcnkxOTgwOTc1Njk="
 open_issues_within = 10

@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 180_263_837
+is_template = false
 language = "JavaScript"
 name = "twitter_stream"
 node_id = "MDEwOlJlcG9zaXRvcnkxODAyNjM4Mzc="

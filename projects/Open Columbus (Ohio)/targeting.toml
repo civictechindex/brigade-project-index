@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://www.hello-startup.net/resources/idea-validation/"
 id = 179_769_486
+is_template = false
 name = "targeting"
 node_id = "MDEwOlJlcG9zaXRvcnkxNzk3Njk0ODY="
 open_issues_within = 0

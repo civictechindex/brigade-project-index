@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 241_198_723
+is_template = false
 language = "JavaScript"
 name = "cbus_fair_chrome_extension"
 node_id = "MDEwOlJlcG9zaXRvcnkyNDExOTg3MjM="

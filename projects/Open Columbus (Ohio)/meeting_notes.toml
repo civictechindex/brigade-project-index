@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 136_381_932
+is_template = false
 name = "meeting_notes"
 node_id = "MDEwOlJlcG9zaXRvcnkxMzYzODE5MzI="
 open_issues_within = 0

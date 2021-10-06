@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 198_080_503
+is_template = false
 language = "Java"
 name = "StreetComplete"
 node_id = "MDEwOlJlcG9zaXRvcnkxOTgwODA1MDM="

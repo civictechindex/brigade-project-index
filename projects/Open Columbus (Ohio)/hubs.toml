@@ -23,6 +23,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://scodemeetup.github.io/hubs/"
 id = 152_784_558
+is_template = false
 language = "HTML"
 name = "hubs"
 node_id = "MDEwOlJlcG9zaXRvcnkxNTI3ODQ1NTg="
