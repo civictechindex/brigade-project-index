@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://codeforleipzig.github.io/Gentrification/buildings.html"
 id = 199_220_456
+is_template = false
 language = "Kotlin"
 name = "Gentrification"
 node_id = "MDEwOlJlcG9zaXRvcnkxOTkyMjA0NTY="

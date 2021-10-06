@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://codeforleipzig.github.io/kieznotiz/"
 id = 390_428_207
+is_template = false
 language = "Kotlin"
 name = "kieznotiz"
 node_id = "MDEwOlJlcG9zaXRvcnkzOTA0MjgyMDc="

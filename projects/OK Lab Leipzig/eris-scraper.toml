@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 19_777_058
+is_template = false
 language = "Ruby"
 name = "eris-scraper"
 node_id = "MDEwOlJlcG9zaXRvcnkxOTc3NzA1OA=="

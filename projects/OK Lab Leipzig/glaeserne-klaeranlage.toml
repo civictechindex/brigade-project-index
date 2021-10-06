@@ -20,6 +20,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://codeforleipzig.github.io/glaeserne-klaeranlage/"
 id = 84_646_867
+is_template = false
 language = "JavaScript"
 name = "glaeserne-klaeranlage"
 node_id = "MDEwOlJlcG9zaXRvcnk4NDY0Njg2Nw=="

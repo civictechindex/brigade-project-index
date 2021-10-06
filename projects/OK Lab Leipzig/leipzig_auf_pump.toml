@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://codeforleipzig.github.io/leipzig_auf_pump/"
 id = 398_533_315
+is_template = false
 language = "Kotlin"
 name = "leipzig_auf_pump"
 node_id = "MDEwOlJlcG9zaXRvcnkzOTg1MzMzMTU="

@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 127_732_522
+is_template = false
 language = "Shell"
 name = "matomo"
 node_id = "MDEwOlJlcG9zaXRvcnkxMjc3MzI1MjI="

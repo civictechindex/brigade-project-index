@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://github.com/CodeforLeipzig/jupyter-notebooks/blob/master/stadtratmonitor/stadtratmonitor.ipynb"
 id = 93_987_312
+is_template = false
 language = "Jupyter Notebook"
 name = "jupyter-notebooks"
 node_id = "MDEwOlJlcG9zaXRvcnk5Mzk4NzMxMg=="

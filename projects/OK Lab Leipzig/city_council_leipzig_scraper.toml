@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 90_517_579
+is_template = false
 language = "Ruby"
 name = "city_council_leipzig_scraper"
 node_id = "MDEwOlJlcG9zaXRvcnk5MDUxNzU3OQ=="

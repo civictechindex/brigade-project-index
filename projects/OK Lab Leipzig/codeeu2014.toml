@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://codeweek.eu/"
 id = 24_894_782
+is_template = false
 language = "JavaScript"
 name = "codeeu2014"
 node_id = "MDEwOlJlcG9zaXRvcnkyNDg5NDc4Mg=="

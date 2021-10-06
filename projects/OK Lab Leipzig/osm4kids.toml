@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = false
 id = 65_406_575
+is_template = false
 language = "TypeScript"
 name = "osm4kids"
 node_id = "MDEwOlJlcG9zaXRvcnk2NTQwNjU3NQ=="

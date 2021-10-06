@@ -20,6 +20,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://codeforLeipzig.github.io/"
 id = 240_866_111
+is_template = false
 language = "CSS"
 name = "CodeforLeipzig.github.io"
 node_id = "MDEwOlJlcG9zaXRvcnkyNDA4NjYxMTE="

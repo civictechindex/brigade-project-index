@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://codefor.de"
 id = 305_050_386
+is_template = false
 language = "HTML"
 name = "codefor.de"
 node_id = "MDEwOlJlcG9zaXRvcnkzMDUwNTAzODY="

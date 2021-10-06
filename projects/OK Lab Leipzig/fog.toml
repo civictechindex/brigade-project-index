@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 43_443_880
+is_template = false
 language = "Python"
 name = "fog"
 node_id = "MDEwOlJlcG9zaXRvcnk0MzQ0Mzg4MA=="

@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 25_825_985
+is_template = false
 language = "Python"
 name = "allris-scraper"
 node_id = "MDEwOlJlcG9zaXRvcnkyNTgyNTk4NQ=="

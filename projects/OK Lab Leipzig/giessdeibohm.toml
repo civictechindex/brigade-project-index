@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://codeforleipzig.github.io/giessdeibohm/"
 id = 282_749_417
+is_template = false
 language = "Kotlin"
 name = "giessdeibohm"
 node_id = "MDEwOlJlcG9zaXRvcnkyODI3NDk0MTc="
