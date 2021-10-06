@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 200_923_689
+is_template = false
 language = "Ruby"
 name = "identity-telephony"
 node_id = "MDEwOlJlcG9zaXRvcnkyMDA5MjM2ODk="

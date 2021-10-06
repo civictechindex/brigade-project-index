@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://18f.gsa.gov/2015/05/21/TockingTime/"
 id = 30_162_008
+is_template = false
 language = "Python"
 name = "tock"
 node_id = "MDEwOlJlcG9zaXRvcnkzMDE2MjAwOA=="

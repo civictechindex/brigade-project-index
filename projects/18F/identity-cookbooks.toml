@@ -20,6 +20,7 @@ has_pages = false
 has_projects = false
 has_wiki = false
 id = 129_455_384
+is_template = false
 language = "Ruby"
 name = "identity-cookbooks"
 node_id = "MDEwOlJlcG9zaXRvcnkxMjk0NTUzODQ="

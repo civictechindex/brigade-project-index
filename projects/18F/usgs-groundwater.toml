@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 412_204_615
+is_template = false
 name = "usgs-groundwater"
 node_id = "R_kgDOGJG-Rw"
 open_issues_within = 10

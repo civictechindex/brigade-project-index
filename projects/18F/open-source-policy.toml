@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = false
 homepage = "https://18f.gsa.gov"
 id = 19_837_412
+is_template = true
 name = "open-source-policy"
 node_id = "MDEwOlJlcG9zaXRvcnkxOTgzNzQxMg=="
 open_issues_within = 10

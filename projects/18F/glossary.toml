@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = false
 homepage = ""
 id = 44_635_595
+is_template = false
 language = "JavaScript"
 name = "glossary"
 node_id = "MDEwOlJlcG9zaXRvcnk0NDYzNTU5NQ=="

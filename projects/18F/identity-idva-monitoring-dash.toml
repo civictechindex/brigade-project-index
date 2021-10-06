@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 372_899_498
+is_template = false
 language = "Shell"
 name = "identity-idva-monitoring-dash"
 node_id = "MDEwOlJlcG9zaXRvcnkzNzI4OTk0OTg="

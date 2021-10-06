@@ -23,6 +23,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://github.com/18F/tts-tech-portfolio/issues/49"
 id = 58_231_823
+is_template = false
 name = "bug-bounty"
 node_id = "MDEwOlJlcG9zaXRvcnk1ODIzMTgyMw=="
 open_issues_within = 0

@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 325_644_348
+is_template = false
 language = "JavaScript"
 name = "formservice-hud903"
 node_id = "MDEwOlJlcG9zaXRvcnkzMjU2NDQzNDg="

@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 138_092_801
+is_template = false
 language = "HTML"
 name = "ux-guide"
 node_id = "MDEwOlJlcG9zaXRvcnkxMzgwOTI4MDE="

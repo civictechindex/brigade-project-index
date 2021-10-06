@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://docs.google.com/document/d/13Cf_3iMBBzmFPYyryKhRgNiC6upayeBvzEOn47Owh_c/edit"
 id = 246_607_929
+is_template = false
 language = "HCL"
 name = "newrelic-terraform"
 node_id = "MDEwOlJlcG9zaXRvcnkyNDY2MDc5Mjk="

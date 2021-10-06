@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 371_748_946
+is_template = false
 language = "Go"
 name = "identity-idva-cf-metrics"
 node_id = "MDEwOlJlcG9zaXRvcnkzNzE3NDg5NDY="

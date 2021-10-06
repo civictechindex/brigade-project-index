@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 290_600_351
+is_template = false
 language = "Shell"
 name = "identity-idva-api-gateway"
 node_id = "MDEwOlJlcG9zaXRvcnkyOTA2MDAzNTE="

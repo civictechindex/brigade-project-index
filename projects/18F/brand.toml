@@ -23,6 +23,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://brand.18f.gov"
 id = 43_780_613
+is_template = false
 language = "SCSS"
 name = "brand"
 node_id = "MDEwOlJlcG9zaXRvcnk0Mzc4MDYxMw=="

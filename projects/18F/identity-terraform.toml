@@ -20,6 +20,7 @@ has_pages = false
 has_projects = false
 has_wiki = false
 id = 134_623_590
+is_template = false
 language = "HCL"
 name = "identity-terraform"
 node_id = "MDEwOlJlcG9zaXRvcnkxMzQ2MjM1OTA="

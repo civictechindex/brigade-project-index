@@ -23,6 +23,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://federalist-proxy.app.cloud.gov/site/18f/uswds-jekyll/"
 id = 82_982_183
+is_template = false
 language = "JavaScript"
 name = "uswds-jekyll"
 node_id = "MDEwOlJlcG9zaXRvcnk4Mjk4MjE4Mw=="

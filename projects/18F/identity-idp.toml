@@ -23,6 +23,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://secure.login.gov/"
 id = 50_386_243
+is_template = false
 language = "Ruby"
 name = "identity-idp"
 node_id = "MDEwOlJlcG9zaXRvcnk1MDM4NjI0Mw=="

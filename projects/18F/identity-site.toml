@@ -23,6 +23,7 @@ has_projects = true
 has_wiki = false
 homepage = "https://login.gov"
 id = 84_340_535
+is_template = false
 language = "HTML"
 name = "identity-site"
 node_id = "MDEwOlJlcG9zaXRvcnk4NDM0MDUzNQ=="

@@ -21,6 +21,7 @@ has_pages = false
 has_projects = false
 has_wiki = false
 id = 56_879_790
+is_template = false
 language = "CSS"
 name = "identity-saml-sinatra"
 node_id = "MDEwOlJlcG9zaXRvcnk1Njg3OTc5MA=="

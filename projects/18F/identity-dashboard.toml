@@ -21,6 +21,7 @@ has_pages = false
 has_projects = false
 has_wiki = false
 id = 58_409_260
+is_template = false
 language = "Ruby"
 name = "identity-dashboard"
 node_id = "MDEwOlJlcG9zaXRvcnk1ODQwOTI2MA=="
@@ -29,7 +30,7 @@ private = false
 pushed_within = "week"
 stargazers_within = 100
 topics = [ "login-gov" ]
-updated_within = "month"
+updated_within = "week"
 visibility = "public"
 watchers_within = 100
 

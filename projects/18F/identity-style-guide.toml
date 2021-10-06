@@ -23,6 +23,7 @@ has_projects = true
 has_wiki = false
 homepage = "https://design.login.gov"
 id = 72_238_179
+is_template = false
 language = "SCSS"
 name = "identity-style-guide"
 node_id = "MDEwOlJlcG9zaXRvcnk3MjIzODE3OQ=="

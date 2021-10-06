@@ -22,6 +22,7 @@ has_projects = false
 has_wiki = false
 homepage = "http://developers.login.gov"
 id = 160_764_950
+is_template = false
 language = "Ruby"
 name = "omniauth_login_dot_gov"
 node_id = "MDEwOlJlcG9zaXRvcnkxNjA3NjQ5NTA="

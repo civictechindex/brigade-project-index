@@ -23,6 +23,7 @@ has_projects = false
 has_wiki = false
 homepage = "https://developers.login.gov"
 id = 59_050_512
+is_template = false
 language = "HTML"
 name = "identity-dev-docs"
 node_id = "MDEwOlJlcG9zaXRvcnk1OTA1MDUxMg=="

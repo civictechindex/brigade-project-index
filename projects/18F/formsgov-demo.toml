@@ -27,6 +27,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 253_571_387
+is_template = false
 language = "TypeScript"
 name = "formsgov-demo"
 node_id = "MDEwOlJlcG9zaXRvcnkyNTM1NzEzODc="

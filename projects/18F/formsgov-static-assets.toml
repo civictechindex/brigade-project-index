@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 385_957_887
+is_template = false
 language = "HTML"
 name = "formsgov-static-assets"
 node_id = "MDEwOlJlcG9zaXRvcnkzODU5NTc4ODc="

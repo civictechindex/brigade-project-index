@@ -23,6 +23,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://methods.18f.gov/"
 id = 34_354_859
+is_template = false
 language = "SCSS"
 name = "methods"
 node_id = "MDEwOlJlcG9zaXRvcnkzNDM1NDg1OQ=="

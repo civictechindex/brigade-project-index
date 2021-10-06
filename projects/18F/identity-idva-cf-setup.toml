@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 393_420_470
+is_template = false
 name = "identity-idva-cf-setup"
 node_id = "MDEwOlJlcG9zaXRvcnkzOTM0MjA0NzA="
 open_issues_within = 0

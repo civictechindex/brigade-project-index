@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 342_328_636
+is_template = false
 language = "Python"
 name = "identity-idva-load-testing"
 node_id = "MDEwOlJlcG9zaXRvcnkzNDIzMjg2MzY="

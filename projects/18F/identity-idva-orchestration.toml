@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 365_034_009
+is_template = false
 language = "Shell"
 name = "identity-idva-orchestration"
 node_id = "MDEwOlJlcG9zaXRvcnkzNjUwMzQwMDk="
