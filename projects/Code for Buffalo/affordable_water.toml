@@ -35,6 +35,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://getwaterwisebuffalo.org/"
 id = 205_218_628
+is_template = false
 language = "HTML"
 name = "affordable_water"
 node_id = "MDEwOlJlcG9zaXRvcnkyMDUyMTg2Mjg="

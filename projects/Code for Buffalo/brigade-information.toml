@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 143_360_432
+is_template = false
 language = "Shell"
 name = "brigade-information"
 node_id = "MDEwOlJlcG9zaXRvcnkxNDMzNjA0MzI="

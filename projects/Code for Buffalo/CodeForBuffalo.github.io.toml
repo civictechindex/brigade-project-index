@@ -21,6 +21,7 @@ has_projects = false
 has_wiki = true
 homepage = ""
 id = 140_032_848
+is_template = false
 language = "HTML"
 name = "CodeForBuffalo.github.io"
 node_id = "MDEwOlJlcG9zaXRvcnkxNDAwMzI4NDg="

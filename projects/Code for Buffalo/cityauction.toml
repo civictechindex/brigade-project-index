@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 152_991_358
+is_template = false
 language = "Jupyter Notebook"
 name = "cityauction"
 node_id = "MDEwOlJlcG9zaXRvcnkxNTI5OTEzNTg="

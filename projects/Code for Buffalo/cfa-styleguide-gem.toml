@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = false
 homepage = "http://cfa-styleguide.herokuapp.com"
 id = 217_293_093
+is_template = false
 language = "CSS"
 name = "cfa-styleguide-gem"
 node_id = "MDEwOlJlcG9zaXRvcnkyMTcyOTMwOTM="

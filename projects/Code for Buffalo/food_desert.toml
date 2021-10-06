@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 158_108_051
+is_template = false
 language = "Python"
 name = "food_desert"
 node_id = "MDEwOlJlcG9zaXRvcnkxNTgxMDgwNTE="
