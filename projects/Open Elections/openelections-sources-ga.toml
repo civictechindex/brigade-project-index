@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 100_496_751
+is_template = false
 name = "openelections-sources-ga"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDA0OTY3NTE="
 open_issues_within = 0

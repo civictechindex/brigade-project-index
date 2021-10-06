@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 14_351_177
+is_template = false
 language = "Ruby"
 name = "fec_results_generator"
 node_id = "MDEwOlJlcG9zaXRvcnkxNDM1MTE3Nw=="

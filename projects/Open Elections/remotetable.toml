@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 64_955_696
+is_template = false
 language = "Python"
 name = "remotetable"
 node_id = "MDEwOlJlcG9zaXRvcnk2NDk1NTY5Ng=="

@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://docs.openelections.net/"
 id = 10_699_067
+is_template = false
 language = "HTML"
 name = "docs"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDY5OTA2Nw=="

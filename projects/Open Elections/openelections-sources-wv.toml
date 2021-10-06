@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 54_794_646
+is_template = false
 language = "HTML"
 name = "openelections-sources-wv"
 node_id = "MDEwOlJlcG9zaXRvcnk1NDc5NDY0Ng=="

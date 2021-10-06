@@ -20,6 +20,7 @@ has_pages = true
 has_projects = true
 has_wiki = true
 id = 27_349_350
+is_template = false
 name = "openelections-results-nc"
 node_id = "MDEwOlJlcG9zaXRvcnkyNzM0OTM1MA=="
 open_issues_within = 10

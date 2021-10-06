@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 77_094_898
+is_template = false
 language = "HTML"
 name = "openelections-sources-ca"
 node_id = "MDEwOlJlcG9zaXRvcnk3NzA5NDg5OA=="

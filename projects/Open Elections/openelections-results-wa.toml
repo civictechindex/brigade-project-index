@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 34_749_256
+is_template = false
 name = "openelections-results-wa"
 node_id = "MDEwOlJlcG9zaXRvcnkzNDc0OTI1Ng=="
 open_issues_within = 0

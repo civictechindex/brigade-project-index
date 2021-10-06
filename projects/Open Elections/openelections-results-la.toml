@@ -20,6 +20,7 @@ has_pages = true
 has_projects = true
 has_wiki = true
 id = 43_882_330
+is_template = false
 name = "openelections-results-la"
 node_id = "MDEwOlJlcG9zaXRvcnk0Mzg4MjMzMA=="
 open_issues_within = 0

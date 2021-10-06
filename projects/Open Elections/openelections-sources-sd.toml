@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 88_975_364
+is_template = false
 name = "openelections-sources-sd"
 node_id = "MDEwOlJlcG9zaXRvcnk4ODk3NTM2NA=="
 open_issues_within = 10

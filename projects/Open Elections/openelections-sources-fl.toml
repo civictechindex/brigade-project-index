@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 104_938_471
+is_template = false
 name = "openelections-sources-fl"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDQ5Mzg0NzE="
 open_issues_within = 10

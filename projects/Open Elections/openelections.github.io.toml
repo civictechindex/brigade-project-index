@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 17_341_045
+is_template = false
 language = "HTML"
 name = "openelections.github.io"
 node_id = "MDEwOlJlcG9zaXRvcnkxNzM0MTA0NQ=="

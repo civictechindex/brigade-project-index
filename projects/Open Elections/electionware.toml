@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 314_941_407
+is_template = false
 name = "electionware"
 node_id = "MDEwOlJlcG9zaXRvcnkzMTQ5NDE0MDc="
 open_issues_within = 0

@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 116_616_360
+is_template = false
 name = "openelections-sources-nv"
 node_id = "MDEwOlJlcG9zaXRvcnkxMTY2MTYzNjA="
 open_issues_within = 0

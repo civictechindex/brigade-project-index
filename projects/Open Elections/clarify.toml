@@ -21,6 +21,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 26_590_129
+is_template = false
 language = "Python"
 name = "clarify"
 node_id = "MDEwOlJlcG9zaXRvcnkyNjU5MDEyOQ=="

@@ -20,6 +20,7 @@ has_pages = true
 has_projects = true
 has_wiki = false
 id = 5_635_710
+is_template = false
 name = "openelections.net"
 node_id = "MDEwOlJlcG9zaXRvcnk1NjM1NzEw"
 open_issues_within = 0

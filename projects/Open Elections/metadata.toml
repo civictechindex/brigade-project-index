@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 43_333_862
+is_template = false
 language = "Python"
 name = "metadata"
 node_id = "MDEwOlJlcG9zaXRvcnk0MzMzMzg2Mg=="

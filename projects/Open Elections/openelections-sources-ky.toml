@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 92_886_914
+is_template = false
 name = "openelections-sources-ky"
 node_id = "MDEwOlJlcG9zaXRvcnk5Mjg4NjkxNA=="
 open_issues_within = 10

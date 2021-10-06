@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://openelections.github.io/fec_results/"
 id = 13_786_064
+is_template = false
 language = "Ruby"
 name = "fec_results"
 node_id = "MDEwOlJlcG9zaXRvcnkxMzc4NjA2NA=="

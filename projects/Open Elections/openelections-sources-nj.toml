@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 82_625_452
+is_template = false
 language = "HTML"
 name = "openelections-sources-nj"
 node_id = "MDEwOlJlcG9zaXRvcnk4MjYyNTQ1Mg=="

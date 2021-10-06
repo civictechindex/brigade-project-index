@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 37_463_839
+is_template = false
 name = "openelections-data-ct"
 node_id = "MDEwOlJlcG9zaXRvcnkzNzQ2MzgzOQ=="
 open_issues_within = 10

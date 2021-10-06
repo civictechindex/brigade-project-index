@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 78_108_581
+is_template = false
 language = "HTML"
 name = "openelections-sources-pa"
 node_id = "MDEwOlJlcG9zaXRvcnk3ODEwODU4MQ=="

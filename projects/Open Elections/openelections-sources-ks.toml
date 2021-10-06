@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 41_756_162
+is_template = false
 language = "HTML"
 name = "openelections-sources-ks"
 node_id = "MDEwOlJlcG9zaXRvcnk0MTc1NjE2Mg=="

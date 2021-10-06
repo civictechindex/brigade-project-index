@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 37_426_192
+is_template = false
 language = "HTML"
 name = "openelections-sources-mi"
 node_id = "MDEwOlJlcG9zaXRvcnkzNzQyNjE5Mg=="

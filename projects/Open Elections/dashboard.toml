@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 5_832_996
+is_template = false
 language = "JavaScript"
 name = "dashboard"
 node_id = "MDEwOlJlcG9zaXRvcnk1ODMyOTk2"

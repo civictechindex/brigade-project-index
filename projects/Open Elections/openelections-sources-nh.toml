@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 140_959_457
+is_template = false
 name = "openelections-sources-nh"
 node_id = "MDEwOlJlcG9zaXRvcnkxNDA5NTk0NTc="
 open_issues_within = 0

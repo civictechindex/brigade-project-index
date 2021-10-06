@@ -20,6 +20,7 @@ has_pages = true
 has_projects = true
 has_wiki = true
 id = 21_475_642
+is_template = false
 name = "openelections-results-md"
 node_id = "MDEwOlJlcG9zaXRvcnkyMTQ3NTY0Mg=="
 open_issues_within = 10
