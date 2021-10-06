@@ -1,6 +1,6 @@
 code_url = "https://github.com/CodeForPhilly/pa-wildflower-selector"
 git_branch = "main"
-last_pushed_within = "week"
+last_pushed_within = "month"
 link_url = "https://public.tableau.com/views/PAWildflowerLookup/PANativePlantView"
 name = "pa_wildflower_selector"
 open_issues_within = 100
