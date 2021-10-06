@@ -29,6 +29,7 @@ has_projects = false
 has_wiki = false
 homepage = "http://www.opendenton.com/gshee.ts/"
 id = 253_640_224
+is_template = false
 language = "TypeScript"
 name = "gshee.ts"
 node_id = "MDEwOlJlcG9zaXRvcnkyNTM2NDAyMjQ="

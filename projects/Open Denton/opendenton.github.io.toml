@@ -22,6 +22,7 @@ has_projects = false
 has_wiki = false
 homepage = "https://www.opendenton.com"
 id = 47_890_098
+is_template = false
 language = "CSS"
 name = "opendenton.github.io"
 node_id = "MDEwOlJlcG9zaXRvcnk0Nzg5MDA5OA=="

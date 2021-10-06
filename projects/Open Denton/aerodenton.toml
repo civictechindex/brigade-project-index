@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 183_366_392
+is_template = false
 language = "Python"
 name = "aerodenton"
 node_id = "MDEwOlJlcG9zaXRvcnkxODMzNjYzOTI="

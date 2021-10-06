@@ -20,6 +20,7 @@ has_pages = true
 has_projects = true
 has_wiki = true
 id = 53_207_917
+is_template = false
 name = "Denton-Dashboard"
 node_id = "MDEwOlJlcG9zaXRvcnk1MzIwNzkxNw=="
 open_issues_within = 10

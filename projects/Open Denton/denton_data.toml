@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://www.opendenton.com/denton_data"
 id = 81_043_841
+is_template = false
 language = "Ruby"
 name = "denton_data"
 node_id = "MDEwOlJlcG9zaXRvcnk4MTA0Mzg0MQ=="

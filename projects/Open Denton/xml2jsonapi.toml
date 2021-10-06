@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 173_496_959
+is_template = false
 language = "JavaScript"
 name = "xml2jsonapi"
 node_id = "MDEwOlJlcG9zaXRvcnkxNzM0OTY5NTk="

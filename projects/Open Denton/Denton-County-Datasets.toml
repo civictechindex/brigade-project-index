@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 80_936_323
+is_template = false
 name = "Denton-County-Datasets"
 node_id = "MDEwOlJlcG9zaXRvcnk4MDkzNjMyMw=="
 open_issues_within = 100

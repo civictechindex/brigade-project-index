@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 80_704_214
+is_template = false
 language = "PHP"
 name = "City-of-Denton-Datasets"
 node_id = "MDEwOlJlcG9zaXRvcnk4MDcwNDIxNA=="

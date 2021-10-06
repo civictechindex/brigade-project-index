@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = false
 homepage = "http://mark-a-spot.com"
 id = 165_002_417
+is_template = false
 language = "PHP"
 name = "mark-a-spot"
 node_id = "MDEwOlJlcG9zaXRvcnkxNjUwMDI0MTc="

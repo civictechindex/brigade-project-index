@@ -20,6 +20,7 @@ has_pages = true
 has_projects = false
 has_wiki = false
 id = 119_315_049
+is_template = false
 language = "JavaScript"
 name = "opendenton.labs"
 node_id = "MDEwOlJlcG9zaXRvcnkxMTkzMTUwNDk="
