@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 21_443_168
+is_template = false
 language = "ApacheConf"
 name = "kitaHamburg"
 network_count = 3

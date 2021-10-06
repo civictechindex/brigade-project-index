@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://codeforhamburg.org"
 id = 55_602_246
+is_template = false
 language = "HTML"
 name = "codeforhamburg.github.io"
 network_count = 79
@@ -69,6 +70,7 @@ watchers_within = 10
   has_wiki = false
   homepage = ""
   id = 20_783_164
+  is_template = false
   language = "HTML"
   name = "sfbrigade.github.io"
   node_id = "MDEwOlJlcG9zaXRvcnkyMDc4MzE2NA=="
@@ -113,6 +115,7 @@ watchers_within = 10
   has_wiki = false
   homepage = ""
   id = 20_783_164
+  is_template = false
   language = "HTML"
   name = "sfbrigade.github.io"
   node_id = "MDEwOlJlcG9zaXRvcnkyMDc4MzE2NA=="

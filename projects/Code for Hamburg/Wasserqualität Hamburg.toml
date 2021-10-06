@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://codeforhamburg.org/trinkwasser"
 id = 65_224_700
+is_template = false
 language = "HTML"
 name = "trinkwasser"
 network_count = 32
@@ -75,6 +76,7 @@ watchers_within = 0
   has_wiki = true
   homepage = "http://codeformuenster.org/trinkwasser/"
   id = 36_113_894
+  is_template = false
   language = "JavaScript"
   name = "trinkwasser"
   node_id = "MDEwOlJlcG9zaXRvcnkzNjExMzg5NA=="
@@ -124,6 +126,7 @@ watchers_within = 0
   has_wiki = true
   homepage = "http://opendatalab.de/projects/trinkwasser/"
   id = 17_595_898
+  is_template = false
   language = "JavaScript"
   name = "trinkwasser"
   node_id = "MDEwOlJlcG9zaXRvcnkxNzU5NTg5OA=="

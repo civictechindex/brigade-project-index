@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 58_310_323
+is_template = false
 name = "cfhh-wikidata"
 network_count = 1
 node_id = "MDEwOlJlcG9zaXRvcnk1ODMxMDMyMw=="
