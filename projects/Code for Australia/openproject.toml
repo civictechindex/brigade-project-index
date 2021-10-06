@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = false
 homepage = "https://openproject.org"
 id = 19_426_633
+is_template = false
 language = "Ruby"
 name = "openproject"
 node_id = "MDEwOlJlcG9zaXRvcnkxOTQyNjYzMw=="

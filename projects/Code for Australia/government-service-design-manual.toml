@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://www.gov.uk/service-manual"
 id = 58_101_732
+is_template = false
 language = "CSS"
 name = "government-service-design-manual"
 node_id = "MDEwOlJlcG9zaXRvcnk1ODEwMTczMg=="

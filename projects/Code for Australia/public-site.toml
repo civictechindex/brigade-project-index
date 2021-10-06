@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 15_860_783
+is_template = false
 language = "JavaScript"
 name = "public-site"
 node_id = "MDEwOlJlcG9zaXRvcnkxNTg2MDc4Mw=="

@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 55_476_887
+is_template = false
 language = "JavaScript"
 name = "njc-intranet"
 node_id = "MDEwOlJlcG9zaXRvcnk1NTQ3Njg4Nw=="

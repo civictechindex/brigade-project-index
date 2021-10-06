@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 49_839_445
+is_template = false
 language = "PLpgSQL"
 name = "heritage-near-me"
 node_id = "MDEwOlJlcG9zaXRvcnk0OTgzOTQ0NQ=="

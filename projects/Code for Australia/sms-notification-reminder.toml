@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://bit.ly/sms-ns"
 id = 69_833_090
+is_template = false
 language = "PHP"
 name = "sms-notification-reminder"
 node_id = "MDEwOlJlcG9zaXRvcnk2OTgzMzA5MA=="

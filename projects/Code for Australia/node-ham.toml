@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 77_179_582
+is_template = false
 language = "JavaScript"
 name = "node-ham"
 node_id = "MDEwOlJlcG9zaXRvcnk3NzE3OTU4Mg=="

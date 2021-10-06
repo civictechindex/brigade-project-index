@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 52_569_551
+is_template = false
 language = "JavaScript"
 name = "online-pleas"
 node_id = "MDEwOlJlcG9zaXRvcnk1MjU2OTU1MQ=="

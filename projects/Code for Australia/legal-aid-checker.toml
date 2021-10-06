@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://bit.ly/la-checker"
 id = 69_835_521
+is_template = false
 language = "PHP"
 name = "legal-aid-checker"
 node_id = "MDEwOlJlcG9zaXRvcnk2OTgzNTUyMQ=="

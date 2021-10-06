@@ -34,6 +34,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://education.nsw.gov.au/school-finder"
 id = 31_583_584
+is_template = false
 language = "JavaScript"
 name = "school-finder"
 node_id = "MDEwOlJlcG9zaXRvcnkzMTU4MzU4NA=="

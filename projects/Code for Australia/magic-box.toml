@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 100_430_378
+is_template = false
 language = "PHP"
 name = "magic-box"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDA0MzAzNzg="

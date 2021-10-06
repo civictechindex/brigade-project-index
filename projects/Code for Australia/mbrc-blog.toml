@@ -20,6 +20,7 @@ has_pages = true
 has_projects = true
 has_wiki = true
 id = 57_275_490
+is_template = false
 name = "mbrc-blog"
 node_id = "MDEwOlJlcG9zaXRvcnk1NzI3NTQ5MA=="
 open_issues_within = 0

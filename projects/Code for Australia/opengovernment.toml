@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 47_944_265
+is_template = false
 language = "PHP"
 name = "opengovernment"
 node_id = "MDEwOlJlcG9zaXRvcnk0Nzk0NDI2NQ=="
