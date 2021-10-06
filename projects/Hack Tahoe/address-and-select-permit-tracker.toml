@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 60_474_526
+is_template = false
 language = "HTML"
 name = "address-and-select-permit-tracker"
 node_id = "MDEwOlJlcG9zaXRvcnk2MDQ3NDUyNg=="

@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 60_492_609
+is_template = false
 language = "Ruby"
 name = "tahoe-dot-gov"
 node_id = "MDEwOlJlcG9zaXRvcnk2MDQ5MjYwOQ=="

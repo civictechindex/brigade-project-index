@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 72_868_950
+is_template = false
 language = "PHP"
 name = "madison"
 node_id = "MDEwOlJlcG9zaXRvcnk3Mjg2ODk1MA=="
