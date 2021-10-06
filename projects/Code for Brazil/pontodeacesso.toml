@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 42_619_123
+is_template = false
 language = "JavaScript"
 name = "pontodeacesso"
 node_id = "MDEwOlJlcG9zaXRvcnk0MjYxOTEyMw=="

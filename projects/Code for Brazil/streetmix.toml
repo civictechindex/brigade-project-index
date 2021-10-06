@@ -20,6 +20,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://minharua.herokuapp.com/"
 id = 24_823_103
+is_template = false
 language = "JavaScript"
 name = "streetmix"
 node_id = "MDEwOlJlcG9zaXRvcnkyNDgyMzEwMw=="

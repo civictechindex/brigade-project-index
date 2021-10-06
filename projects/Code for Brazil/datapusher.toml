@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://docs.ckan.org/projects/datapusher"
 id = 53_261_191
+is_template = false
 language = "Python"
 name = "datapusher"
 node_id = "MDEwOlJlcG9zaXRvcnk1MzI2MTE5MQ=="

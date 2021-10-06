@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 40_276_279
+is_template = false
 name = "sandbox"
 node_id = "MDEwOlJlcG9zaXRvcnk0MDI3NjI3OQ=="
 open_issues_within = 0
