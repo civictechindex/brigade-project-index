@@ -20,6 +20,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://codeforseoul.org/xwMOOC/"
 id = 31_578_557
+is_template = false
 language = "HTML"
 name = "xwMOOC"
 node_id = "MDEwOlJlcG9zaXRvcnkzMTU3ODU1Nw=="

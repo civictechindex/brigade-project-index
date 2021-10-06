@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://wheredoesmymoneygo.kr"
 id = 22_386_055
+is_template = false
 language = "JavaScript"
 name = "wheredoesmymoneygo.kr"
 node_id = "MDEwOlJlcG9zaXRvcnkyMjM4NjA1NQ=="

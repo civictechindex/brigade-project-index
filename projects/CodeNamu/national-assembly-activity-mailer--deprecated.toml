@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 22_155_119
+is_template = false
 language = "Python"
 name = "national-assembly-activity-mailer--deprecated"
 node_id = "MDEwOlJlcG9zaXRvcnkyMjE1NTExOQ=="

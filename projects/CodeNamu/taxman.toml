@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://taxman.openspending.org"
 id = 22_302_231
+is_template = false
 language = "CoffeeScript"
 name = "taxman"
 node_id = "MDEwOlJlcG9zaXRvcnkyMjMwMjIzMQ=="

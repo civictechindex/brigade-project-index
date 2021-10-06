@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 48_021_901
+is_template = false
 name = "Mille-feuille"
 node_id = "MDEwOlJlcG9zaXRvcnk0ODAyMTkwMQ=="
 open_issues_within = 0
