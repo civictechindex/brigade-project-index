@@ -20,6 +20,7 @@ has_pages = true
 has_projects = true
 has_wiki = true
 id = 35_222_002
+is_template = false
 language = "Handlebars"
 name = "CoventryTownshipFireDeptHydrants"
 node_id = "MDEwOlJlcG9zaXRvcnkzNTIyMjAwMg=="

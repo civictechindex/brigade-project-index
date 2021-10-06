@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 37_681_247
+is_template = false
 name = "CoventryTownshipChecklistManagement"
 node_id = "MDEwOlJlcG9zaXRvcnkzNzY4MTI0Nw=="
 open_issues_within = 0
