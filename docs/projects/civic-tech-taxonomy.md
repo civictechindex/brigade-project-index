@@ -8,8 +8,8 @@ A comprehensive and intuitive projects categorization is critical in order to av
 - Status: Conceptual
 - Project needs: Civic Tech and Classification/Taxonomy competency, front-end developers
 - How to collaborate: [Join Us](../join-us.md#how-to-participate)
-- Draft UI: [https://github.com/codeforamerica/civic-tech-taxonomy/taxonomy.html](https://github.com/codeforamerica/civic-tech-taxonomy/taxonomy.html)
-- Draft API sample https://api.taxonomy.sandbox.k8s.brigade.cloud/taxonomy
+- Draft UI: [https://codeforamerica.github.io/civic-tech-taxonomy/editor-ui/](https://codeforamerica.github.io/civic-tech-taxonomy/editor-ui/)https://codeforamerica.github.io/civic-tech-taxonomy/editor-ui/
+- Draft API Swagger https://codeforamerica.github.io/civic-tech-taxonomy/editor-ui/swagger.html
 
 There are some significant challenges to achieve such a good taxonomy
 
@@ -35,5 +35,4 @@ We are discussing some enhancements focused on the Taxonomy
 - Decide how to keep this list up to date (integrate the taxonomy with the [crawler](crawler/README.md)
 - Decided whether to separate items that are not "topics" from the large list extracted by the crawler
 - Provide a proper UI to the taxonomy
-- Build API endpoints to retrieve the Taxonomy data in json format
-- Integrate the taxonomy in the [Statusboard](statusboard.md) and [PublicCode Editor](../publiccode-helper)
+- Integrate the taxonomy in the [Statusboard](../statusboard.md) and [PublicCode Editor](../publiccode-helper)
