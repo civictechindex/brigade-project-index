@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 19_348_074
+is_template = false
 language = "Ruby"
 name = "okinawa-public-office-address"
 node_id = "MDEwOlJlcG9zaXRvcnkxOTM0ODA3NA=="
