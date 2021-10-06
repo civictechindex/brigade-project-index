@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 139_010_758
+is_template = false
 name = "public-art"
 node_id = "MDEwOlJlcG9zaXRvcnkxMzkwMTA3NTg="
 open_issues_within = 10

@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 26_837_412
+is_template = false
 language = "Swift"
 name = "trolley-tracker-ios-client"
 node_id = "MDEwOlJlcG9zaXRvcnkyNjgzNzQxMg=="

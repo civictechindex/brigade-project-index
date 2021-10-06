@@ -20,6 +20,7 @@ has_pages = true
 has_projects = true
 has_wiki = true
 id = 22_146_807
+is_template = false
 name = "trolley-tracker"
 node_id = "MDEwOlJlcG9zaXRvcnkyMjE0NjgwNw=="
 open_issues_within = 1_000

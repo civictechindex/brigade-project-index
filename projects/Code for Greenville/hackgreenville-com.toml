@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://hackgreenville.com"
 id = 140_340_567
+is_template = false
 language = "PHP"
 name = "hackgreenville-com"
 node_id = "MDEwOlJlcG9zaXRvcnkxNDAzNDA1Njc="

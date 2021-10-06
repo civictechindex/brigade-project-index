@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 36_026_279
+is_template = false
 language = "Java"
 name = "trolley-tracker-agent"
 node_id = "MDEwOlJlcG9zaXRvcnkzNjAyNjI3OQ=="

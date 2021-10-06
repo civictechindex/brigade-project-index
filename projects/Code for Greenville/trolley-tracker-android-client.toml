@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 41_272_809
+is_template = false
 language = "Java"
 name = "trolley-tracker-android-client"
 node_id = "MDEwOlJlcG9zaXRvcnk0MTI3MjgwOQ=="

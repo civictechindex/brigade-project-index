@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 66_784_778
+is_template = false
 language = "HTML"
 name = "leaflet-google-sheets-template"
 node_id = "MDEwOlJlcG9zaXRvcnk2Njc4NDc3OA=="

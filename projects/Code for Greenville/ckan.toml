@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://ckan.org/"
 id = 21_469_110
+is_template = false
 name = "ckan"
 node_id = "MDEwOlJlcG9zaXRvcnkyMTQ2OTExMA=="
 open_issues_within = 0

@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 243_184_095
+is_template = false
 name = "open-map-data-multi-layers-demo"
 node_id = "MDEwOlJlcG9zaXRvcnkyNDMxODQwOTU="
 open_issues_within = 10

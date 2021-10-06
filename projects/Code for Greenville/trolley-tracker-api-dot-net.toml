@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 40_241_006
+is_template = false
 language = "JavaScript"
 name = "trolley-tracker-api-dot-net"
 node_id = "MDEwOlJlcG9zaXRvcnk0MDI0MTAwNg=="

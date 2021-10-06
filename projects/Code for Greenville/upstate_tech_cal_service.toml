@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = false
 homepage = ""
 id = 112_966_457
+is_template = false
 language = "Python"
 name = "upstate_tech_cal_service"
 node_id = "MDEwOlJlcG9zaXRvcnkxMTI5NjY0NTc="
