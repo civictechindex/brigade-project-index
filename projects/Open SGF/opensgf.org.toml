@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://www.opensgf.org/"
 id = 319_478_228
+is_template = false
 language = "Nunjucks"
 name = "opensgf.org"
 node_id = "MDEwOlJlcG9zaXRvcnkzMTk0NzgyMjg="

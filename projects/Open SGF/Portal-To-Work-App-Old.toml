@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 223_673_425
+is_template = false
 language = "Vue"
 name = "Portal-To-Work-App-Old"
 node_id = "MDEwOlJlcG9zaXRvcnkyMjM2NzM0MjU="

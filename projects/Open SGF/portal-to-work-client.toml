@@ -20,6 +20,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 407_752_612
+is_template = false
 language = "Vue"
 name = "portal-to-work-client"
 node_id = "MDEwOlJlcG9zaXRvcnk0MDc3NTI2MTI="
