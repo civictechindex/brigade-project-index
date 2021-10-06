@@ -1,7 +1,7 @@
 code_url = "https://github.com/codeforgermany/click_that_hood"
 description = "A game where users must identify a city's neighborhoods as fast as possible"
 git_url = "git://github.com/codeforgermany/click_that_hood.git"
-link_url = "http://click-that-hood.com/"
+link_url = "http://click-that-hood.com"
 name = "click_that_hood"
 organization_name = "Code for Germany"
 
@@ -20,7 +20,7 @@ has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = true
-homepage = "http://click-that-hood.com/"
+homepage = "http://click-that-hood.com"
 id = 7_968_253
 is_template = false
 language = "JavaScript"
