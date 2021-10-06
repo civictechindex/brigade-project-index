@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 30_142_131
+is_template = false
 name = "udc2014-data"
 node_id = "MDEwOlJlcG9zaXRvcnkzMDE0MjEzMQ=="
 open_issues_within = 0

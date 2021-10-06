@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://ibaraki-town.5374.jp"
 id = 16_402_757
+is_template = false
 language = "JavaScript"
 name = "ibaraki-town-5374"
 node_id = "MDEwOlJlcG9zaXRvcnkxNjQwMjc1Nw=="
