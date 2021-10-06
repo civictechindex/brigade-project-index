@@ -2,6 +2,7 @@ code_url = "https://github.com/codeforjapan/ccc2021-website-with-notion"
 git_branch = "main"
 git_url = "git://github.com/codeforjapan/ccc2021-website-with-notion.git"
 last_pushed_within = "week"
+link_url = "ccc2021-website-with-notion.vercel.app"
 name = "ccc2021-website-with-notion"
 open_issues_within = 10
 organization_name = "Code for Japan"
