@@ -23,6 +23,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://permitdata.org"
 id = 32_079_977
+is_template = false
 language = "HTML"
 name = "permitdata.org"
 node_id = "MDEwOlJlcG9zaXRvcnkzMjA3OTk3Nw=="

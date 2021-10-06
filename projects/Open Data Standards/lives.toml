@@ -20,6 +20,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://open-data-standards.github.io/lives/"
 id = 37_287_558
+is_template = false
 language = "CSS"
 name = "lives"
 node_id = "MDEwOlJlcG9zaXRvcnkzNzI4NzU1OA=="

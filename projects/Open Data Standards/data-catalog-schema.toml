@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 6_271_176
+is_template = false
 name = "data-catalog-schema"
 node_id = "MDEwOlJlcG9zaXRvcnk2MjcxMTc2"
 open_issues_within = 10
