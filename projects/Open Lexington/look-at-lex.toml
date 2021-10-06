@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://lookatlex.org"
 id = 17_088_822
+is_template = false
 language = "CoffeeScript"
 name = "look-at-lex"
 node_id = "MDEwOlJlcG9zaXRvcnkxNzA4ODgyMg=="

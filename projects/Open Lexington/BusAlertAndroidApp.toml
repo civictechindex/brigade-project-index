@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://ukopenlexingtonseniordesign.github.io/"
 id = 28_238_217
+is_template = false
 language = "Java"
 name = "BusAlertAndroidApp"
 node_id = "MDEwOlJlcG9zaXRvcnkyODIzODIxNw=="

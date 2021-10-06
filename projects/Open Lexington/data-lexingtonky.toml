@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://data.lexingtonky.gov"
 id = 18_578_892
+is_template = false
 language = "CSS"
 name = "data-lexingtonky"
 node_id = "MDEwOlJlcG9zaXRvcnkxODU3ODg5Mg=="

@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://lfucg.github.io/snow-removal"
 id = 31_739_676
+is_template = false
 language = "HTML"
 name = "snow-removal"
 node_id = "MDEwOlJlcG9zaXRvcnkzMTczOTY3Ng=="

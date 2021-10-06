@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 52_219_747
+is_template = false
 name = "building-import"
 node_id = "MDEwOlJlcG9zaXRvcnk1MjIxOTc0Nw=="
 open_issues_within = 10

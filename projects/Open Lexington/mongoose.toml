@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 20_391_769
+is_template = false
 name = "mongoose"
 node_id = "MDEwOlJlcG9zaXRvcnkyMDM5MTc2OQ=="
 open_issues_within = 10

@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = false
 homepage = ""
 id = 31_133_152
+is_template = false
 language = "JavaScript"
 name = "grocer"
 node_id = "MDEwOlJlcG9zaXRvcnkzMTEzMzE1Mg=="

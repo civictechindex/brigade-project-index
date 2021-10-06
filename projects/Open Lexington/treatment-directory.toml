@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 36_987_199
+is_template = false
 name = "treatment-directory"
 node_id = "MDEwOlJlcG9zaXRvcnkzNjk4NzE5OQ=="
 open_issues_within = 0

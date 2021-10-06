@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "opengovernment"
 id = 1_236_314
+is_template = false
 language = "Ruby"
 name = "opengovernment"
 node_id = "MDEwOlJlcG9zaXRvcnkxMjM2MzE0"

@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 4_104_876
+is_template = false
 language = "JavaScript"
 name = "ODC-overlay"
 node_id = "MDEwOlJlcG9zaXRvcnk0MTA0ODc2"

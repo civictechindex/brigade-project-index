@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 19_085_333
+is_template = false
 language = "Ruby"
 name = "ckan-cookbook"
 node_id = "MDEwOlJlcG9zaXRvcnkxOTA4NTMzMw=="

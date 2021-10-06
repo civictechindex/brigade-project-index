@@ -19,6 +19,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 1_637_824
+is_template = false
 name = "open_data_resolution"
 node_id = "MDEwOlJlcG9zaXRvcnkxNjM3ODI0"
 open_issues_within = 0

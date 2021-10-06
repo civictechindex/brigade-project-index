@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://github.com/openlexington/whats_my_district_redux"
 id = 10_428_886
+is_template = false
 language = "Ruby"
 name = "WhatsMyDistrict"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDQyODg4Ng=="

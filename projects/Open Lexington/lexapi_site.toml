@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://lexapi.org"
 id = 1_605_578
+is_template = false
 language = "JavaScript"
 name = "lexapi_site"
 node_id = "MDEwOlJlcG9zaXRvcnkxNjA1NTc4"

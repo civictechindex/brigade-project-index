@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 1_616_089
+is_template = false
 name = "MeetingNotes"
 node_id = "MDEwOlJlcG9zaXRvcnkxNjE2MDg5"
 open_issues_within = 0

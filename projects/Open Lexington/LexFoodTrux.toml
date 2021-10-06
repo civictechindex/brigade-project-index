@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 37_951_774
+is_template = false
 language = "Ruby"
 name = "LexFoodTrux"
 node_id = "MDEwOlJlcG9zaXRvcnkzNzk1MTc3NA=="

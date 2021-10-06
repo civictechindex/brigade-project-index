@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 52_749_973
+is_template = false
 language = "Python"
 name = "lexington-buildings"
 node_id = "MDEwOlJlcG9zaXRvcnk1Mjc0OTk3Mw=="

@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 6_630_466
+is_template = false
 language = "Ruby"
 name = "opencounter_lex"
 node_id = "MDEwOlJlcG9zaXRvcnk2NjMwNDY2"

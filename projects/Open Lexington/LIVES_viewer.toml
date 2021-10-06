@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 8_520_922
+is_template = false
 language = "Ruby"
 name = "LIVES_viewer"
 node_id = "MDEwOlJlcG9zaXRvcnk4NTIwOTIy"

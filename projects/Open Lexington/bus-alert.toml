@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 10_429_591
+is_template = false
 language = "Ruby"
 name = "bus-alert"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDQyOTU5MQ=="

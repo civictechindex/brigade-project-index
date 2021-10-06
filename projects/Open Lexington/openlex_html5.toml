@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://openlexington.org"
 id = 955_922
+is_template = false
 language = "JavaScript"
 name = "openlex_html5"
 node_id = "MDEwOlJlcG9zaXRvcnk5NTU5MjI="
