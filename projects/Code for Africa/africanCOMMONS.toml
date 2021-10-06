@@ -35,6 +35,7 @@ has_projects = true
 has_wiki = false
 homepage = "https://commons.africa/"
 id = 80_604_271
+is_template = false
 language = "JavaScript"
 name = "africanCOMMONS"
 node_id = "MDEwOlJlcG9zaXRvcnk4MDYwNDI3MQ=="

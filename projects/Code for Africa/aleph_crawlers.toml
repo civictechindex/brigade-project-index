@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 51_300_287
+is_template = false
 language = "Python"
 name = "aleph_crawlers"
 node_id = "MDEwOlJlcG9zaXRvcnk1MTMwMDI4Nw=="

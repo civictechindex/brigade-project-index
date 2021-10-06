@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://citizenreporter.codeforafrica.net/"
 id = 37_066_822
+is_template = false
 language = "Java"
 name = "CitizenReporter-Android"
 node_id = "MDEwOlJlcG9zaXRvcnkzNzA2NjgyMg=="

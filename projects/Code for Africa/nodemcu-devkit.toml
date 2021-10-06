@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 244_440_848
+is_template = false
 name = "nodemcu-devkit"
 node_id = "MDEwOlJlcG9zaXRvcnkyNDQ0NDA4NDg="
 open_issues_within = 0

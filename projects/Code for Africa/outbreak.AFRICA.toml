@@ -22,6 +22,7 @@ has_projects = false
 has_wiki = false
 homepage = "https://covid19.dev.hurumap.org/"
 id = 248_416_042
+is_template = false
 language = "JavaScript"
 name = "outbreak.AFRICA"
 node_id = "MDEwOlJlcG9zaXRvcnkyNDg0MTYwNDI="

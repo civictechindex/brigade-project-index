@@ -32,6 +32,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://commons.africa/"
 id = 70_694_066
+is_template = false
 language = "Python"
 name = "africanCOMMONS-GitHub"
 node_id = "MDEwOlJlcG9zaXRvcnk3MDY5NDA2Ng=="

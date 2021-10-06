@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 357_860_475
+is_template = false
 language = "Dockerfile"
 name = "HURUmap-PostGraphile-Dokku"
 node_id = "MDEwOlJlcG9zaXRvcnkzNTc4NjA0NzU="

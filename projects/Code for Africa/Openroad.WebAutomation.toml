@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 97_099_679
+is_template = false
 language = "Python"
 name = "Openroad.WebAutomation"
 node_id = "MDEwOlJlcG9zaXRvcnk5NzA5OTY3OQ=="
