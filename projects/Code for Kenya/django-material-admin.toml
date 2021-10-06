@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 233_629_201
+is_template = false
 name = "django-material-admin"
 node_id = "MDEwOlJlcG9zaXRvcnkyMzM2MjkyMDE="
 open_issues_within = 0

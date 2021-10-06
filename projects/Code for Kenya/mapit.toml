@@ -21,6 +21,7 @@ has_projects = false
 has_wiki = true
 homepage = ""
 id = 167_157_353
+is_template = false
 language = "Python"
 name = "mapit"
 node_id = "MDEwOlJlcG9zaXRvcnkxNjcxNTczNTM="

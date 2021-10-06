@@ -44,6 +44,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://academy.africa/"
 id = 92_071_103
+is_template = false
 language = "CSS"
 name = "academy.AFRICA"
 node_id = "MDEwOlJlcG9zaXRvcnk5MjA3MTEwMw=="

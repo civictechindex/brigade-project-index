@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 320_807_453
+is_template = false
 language = "Python"
 name = "sensors.AFRICA-api-Data-PurpleAir"
 node_id = "MDEwOlJlcG9zaXRvcnkzMjA4MDc0NTM="

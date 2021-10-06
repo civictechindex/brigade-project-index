@@ -35,6 +35,7 @@ has_projects = false
 has_wiki = true
 homepage = "https://api.sensors.africa/"
 id = 165_050_062
+is_template = false
 language = "Python"
 name = "sensors.AFRICA-api"
 node_id = "MDEwOlJlcG9zaXRvcnkxNjUwNTAwNjI="

@@ -31,6 +31,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://stories.huffingtonpost.co.za"
 id = 86_467_161
+is_template = false
 language = "HTML"
 name = "StoryLab-HuffingtonPostZA"
 node_id = "MDEwOlJlcG9zaXRvcnk4NjQ2NzE2MQ=="

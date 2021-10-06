@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://www.adafruit.com/products/1946"
 id = 114_005_197
+is_template = false
 language = "C++"
 name = "sensors.AFRICA-Adafruit_FONA"
 node_id = "MDEwOlJlcG9zaXRvcnkxMTQwMDUxOTc="

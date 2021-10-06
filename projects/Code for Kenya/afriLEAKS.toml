@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://secure.afrileaks.org"
 id = 46_510_506
+is_template = false
 language = "HTML"
 name = "afriLEAKS"
 node_id = "MDEwOlJlcG9zaXRvcnk0NjUxMDUwNg=="

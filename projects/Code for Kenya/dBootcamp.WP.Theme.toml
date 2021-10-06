@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://nairobi.dbootcamp.org"
 id = 23_752_654
+is_template = false
 language = "CSS"
 name = "dBootcamp.WP.Theme"
 node_id = "MDEwOlJlcG9zaXRvcnkyMzc1MjY1NA=="

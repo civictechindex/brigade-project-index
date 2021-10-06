@@ -23,6 +23,7 @@ has_projects = false
 has_wiki = true
 homepage = "http://api.sensors.africa"
 id = 321_349_673
+is_template = false
 language = "Python"
 name = "sensors.AFRICA-api-Data-OpenAQ"
 node_id = "MDEwOlJlcG9zaXRvcnkzMjEzNDk2NzM="

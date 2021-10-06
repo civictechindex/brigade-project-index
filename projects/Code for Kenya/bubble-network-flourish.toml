@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 174_329_399
+is_template = false
 language = "JavaScript"
 name = "bubble-network-flourish"
 node_id = "MDEwOlJlcG9zaXRvcnkxNzQzMjkzOTk="

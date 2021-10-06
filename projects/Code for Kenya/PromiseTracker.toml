@@ -43,6 +43,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://promisetracker.dev.codeforafrica.org/"
 id = 207_508_871
+is_template = false
 language = "JavaScript"
 name = "PromiseTracker"
 node_id = "MDEwOlJlcG9zaXRvcnkyMDc1MDg4NzE="

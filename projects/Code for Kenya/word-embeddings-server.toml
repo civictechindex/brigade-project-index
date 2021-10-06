@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 338_146_474
+is_template = false
 language = "Python"
 name = "word-embeddings-server"
 node_id = "MDEwOlJlcG9zaXRvcnkzMzgxNDY0NzQ="

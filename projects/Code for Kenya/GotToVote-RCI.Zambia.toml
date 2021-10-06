@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://zambia.gottovote.cc"
 id = 41_424_334
+is_template = false
 language = "JavaScript"
 name = "GotToVote-RCI.Zambia"
 node_id = "MDEwOlJlcG9zaXRvcnk0MTQyNDMzNA=="

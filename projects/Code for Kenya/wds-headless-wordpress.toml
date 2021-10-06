@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = false
 homepage = ""
 id = 363_899_485
+is_template = false
 language = "PHP"
 name = "wds-headless-wordpress"
 node_id = "MDEwOlJlcG9zaXRvcnkzNjM4OTk0ODU="

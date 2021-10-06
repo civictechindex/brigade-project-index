@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://codeforafrica.github.io/DownRightNow"
 id = 36_117_930
+is_template = false
 language = "HTML"
 name = "DownRightNow"
 node_id = "MDEwOlJlcG9zaXRvcnkzNjExNzkzMA=="

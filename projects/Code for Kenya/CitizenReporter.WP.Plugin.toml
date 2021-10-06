@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://citizenreporter.codeforafrica.net/"
 id = 41_483_376
+is_template = false
 language = "PHP"
 name = "CitizenReporter.WP.Plugin"
 node_id = "MDEwOlJlcG9zaXRvcnk0MTQ4MzM3Ng=="

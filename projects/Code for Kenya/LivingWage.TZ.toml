@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://livingwage.codefortanzania.org"
 id = 96_856_195
+is_template = false
 language = "HTML"
 name = "LivingWage.TZ"
 node_id = "MDEwOlJlcG9zaXRvcnk5Njg1NjE5NQ=="

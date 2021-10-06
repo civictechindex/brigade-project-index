@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 321_291_709
+is_template = false
 language = "Python"
 name = "sensors.AFRICA-api-Data-AirQO"
 node_id = "MDEwOlJlcG9zaXRvcnkzMjEyOTE3MDk="

@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://htools-tz-pharmacy-reporting-tool-api.dokku-1.codefortanzania.org"
 id = 100_353_180
+is_template = false
 language = "PHP"
 name = "PharmacyCouncilTool.API"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDAzNTMxODA="

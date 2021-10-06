@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://nimeregister.co.ke"
 id = 64_372_982
+is_template = false
 language = "HTML"
 name = "nimeregister"
 node_id = "MDEwOlJlcG9zaXRvcnk2NDM3Mjk4Mg=="

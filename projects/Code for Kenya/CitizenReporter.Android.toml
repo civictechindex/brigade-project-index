@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 98_190_996
+is_template = false
 language = "Java"
 name = "CitizenReporter.Android"
 node_id = "MDEwOlJlcG9zaXRvcnk5ODE5MDk5Ng=="

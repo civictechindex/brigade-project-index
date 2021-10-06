@@ -34,6 +34,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://codeforafrica.github.io/HURUmap-UI/"
 id = 194_053_887
+is_template = false
 language = "JavaScript"
 name = "HURUmap-UI"
 node_id = "MDEwOlJlcG9zaXRvcnkxOTQwNTM4ODc="

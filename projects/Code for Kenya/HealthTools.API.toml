@@ -33,6 +33,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://api.healthtools.codeforafrica.org/"
 id = 87_415_918
+is_template = false
 language = "Python"
 name = "HealthTools.API"
 node_id = "MDEwOlJlcG9zaXRvcnk4NzQxNTkxOA=="

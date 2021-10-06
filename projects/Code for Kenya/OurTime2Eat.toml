@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://ourtime2eat.codeforkenya.org"
 id = 58_351_383
+is_template = false
 language = "HTML"
 name = "OurTime2Eat"
 node_id = "MDEwOlJlcG9zaXRvcnk1ODM1MTM4Mw=="

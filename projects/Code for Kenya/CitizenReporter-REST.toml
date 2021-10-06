@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 90_117_082
+is_template = false
 language = "PHP"
 name = "CitizenReporter-REST"
 node_id = "MDEwOlJlcG9zaXRvcnk5MDExNzA4Mg=="

@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = false
 id = 335_894_876
+is_template = false
 language = "Python"
 name = "feinstaub-api"
 node_id = "MDEwOlJlcG9zaXRvcnkzMzU4OTQ4NzY="

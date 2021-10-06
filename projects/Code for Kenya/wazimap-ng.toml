@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 328_703_561
+is_template = false
 language = "Python"
 name = "wazimap-ng"
 node_id = "MDEwOlJlcG9zaXRvcnkzMjg3MDM1NjE="

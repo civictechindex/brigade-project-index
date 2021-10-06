@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://roadratio.codeforkenya.org"
 id = 58_351_288
+is_template = false
 language = "HTML"
 name = "RoadRatio"
 node_id = "MDEwOlJlcG9zaXRvcnk1ODM1MTI4OA=="

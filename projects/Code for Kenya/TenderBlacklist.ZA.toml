@@ -31,6 +31,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://tenderblacklist-za.codeforafrica.org/"
 id = 86_901_022
+is_template = false
 language = "HTML"
 name = "TenderBlacklist.ZA"
 node_id = "MDEwOlJlcG9zaXRvcnk4NjkwMTAyMg=="
