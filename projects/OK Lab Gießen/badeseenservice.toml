@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://ci.andinfinity.de/codeforgiessen/badeseenservice/"
 id = 30_861_452
+is_template = false
 language = "JavaScript"
 name = "badeseenservice"
 node_id = "MDEwOlJlcG9zaXRvcnkzMDg2MTQ1Mg=="

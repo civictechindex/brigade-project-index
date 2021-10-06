@@ -19,6 +19,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 59_960_115
+is_template = false
 language = "JavaScript"
 name = "refugeeApp"
 node_id = "MDEwOlJlcG9zaXRvcnk1OTk2MDExNQ=="

@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 55_341_344
+is_template = false
 language = "JavaScript"
 name = "refugeeService"
 node_id = "MDEwOlJlcG9zaXRvcnk1NTM0MTM0NA=="

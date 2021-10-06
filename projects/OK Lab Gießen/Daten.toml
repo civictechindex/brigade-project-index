@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 24_066_189
+is_template = false
 language = "JavaScript"
 name = "Daten"
 node_id = "MDEwOlJlcG9zaXRvcnkyNDA2NjE4OQ=="

@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://codeforgiessen.github.io/stats/"
 id = 23_731_870
+is_template = false
 language = "HTML"
 name = "stats"
 node_id = "MDEwOlJlcG9zaXRvcnkyMzczMTg3MA=="
