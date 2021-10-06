@@ -23,6 +23,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://openbudgetokc.com"
 id = 37_885_599
+is_template = false
 language = "JavaScript"
 name = "openbudgetokc"
 node_id = "MDEwOlJlcG9zaXRvcnkzNzg4NTU5OQ=="

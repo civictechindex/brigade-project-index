@@ -23,6 +23,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://codeforokc.org"
 id = 24_870_992
+is_template = false
 language = "CSS"
 name = "codeforokc"
 node_id = "MDEwOlJlcG9zaXRvcnkyNDg3MDk5Mg=="

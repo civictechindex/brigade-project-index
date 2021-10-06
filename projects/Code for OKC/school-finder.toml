@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 27_903_115
+is_template = false
 language = "JavaScript"
 name = "school-finder"
 node_id = "MDEwOlJlcG9zaXRvcnkyNzkwMzExNQ=="

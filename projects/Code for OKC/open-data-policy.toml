@@ -21,6 +21,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 51_798_845
+is_template = false
 name = "open-data-policy"
 node_id = "MDEwOlJlcG9zaXRvcnk1MTc5ODg0NQ=="
 open_issues_within = 10
