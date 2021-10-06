@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://myq.ie"
 id = 21_015_922
+is_template = false
 language = "JavaScript"
 name = "myq-app"
 node_id = "MDEwOlJlcG9zaXRvcnkyMTAxNTkyMg=="

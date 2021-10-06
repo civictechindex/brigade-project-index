@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 195_959_137
+is_template = false
 language = "CSS"
 name = "swagger-mongoose-react-firebase"
 node_id = "MDEwOlJlcG9zaXRvcnkxOTU5NTkxMzc="

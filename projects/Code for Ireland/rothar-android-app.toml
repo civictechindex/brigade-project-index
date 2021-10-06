@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 22_016_497
+is_template = false
 language = "Java"
 name = "rothar-android-app"
 node_id = "MDEwOlJlcG9zaXRvcnkyMjAxNjQ5Nw=="

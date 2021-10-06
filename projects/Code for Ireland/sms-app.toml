@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 21_218_572
+is_template = false
 language = "Java"
 name = "sms-app"
 node_id = "MDEwOlJlcG9zaXRvcnkyMTIxODU3Mg=="

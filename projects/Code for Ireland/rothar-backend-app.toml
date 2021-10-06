@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 22_016_600
+is_template = false
 language = "Java"
 name = "rothar-backend-app"
 node_id = "MDEwOlJlcG9zaXRvcnkyMjAxNjYwMA=="

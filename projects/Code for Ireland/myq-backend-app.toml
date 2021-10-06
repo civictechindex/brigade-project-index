@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 24_817_357
+is_template = false
 language = "Java"
 name = "myq-backend-app"
 node_id = "MDEwOlJlcG9zaXRvcnkyNDgxNzM1Nw=="

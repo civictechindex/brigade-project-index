@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 22_016_581
+is_template = false
 name = "rothar-ios-app"
 node_id = "MDEwOlJlcG9zaXRvcnkyMjAxNjU4MQ=="
 open_issues_within = 0

@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 26_095_915
+is_template = false
 language = "JavaScript"
 name = "rothar-webui-app"
 node_id = "MDEwOlJlcG9zaXRvcnkyNjA5NTkxNQ=="

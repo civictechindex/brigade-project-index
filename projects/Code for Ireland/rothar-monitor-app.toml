@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 26_597_106
+is_template = false
 language = "Java"
 name = "rothar-monitor-app"
 node_id = "MDEwOlJlcG9zaXRvcnkyNjU5NzEwNg=="

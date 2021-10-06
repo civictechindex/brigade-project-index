@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 195_956_961
+is_template = false
 language = "PHP"
 name = "vacanthomes_backend"
 node_id = "MDEwOlJlcG9zaXRvcnkxOTU5NTY5NjE="
