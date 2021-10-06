@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://missoulacivichackathon.org"
 id = 52_764_240
+is_template = false
 language = "Common Lisp"
 name = "hackathon_old"
 node_id = "MDEwOlJlcG9zaXRvcnk1Mjc2NDI0MA=="

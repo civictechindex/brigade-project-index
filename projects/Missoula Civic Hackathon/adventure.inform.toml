@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 56_950_633
+is_template = false
 language = "Inform 7"
 name = "adventure.inform"
 node_id = "MDEwOlJlcG9zaXRvcnk1Njk1MDYzMw=="

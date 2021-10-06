@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 58_668_145
+is_template = false
 language = "Common Lisp"
 name = "hackathon"
 node_id = "MDEwOlJlcG9zaXRvcnk1ODY2ODE0NQ=="

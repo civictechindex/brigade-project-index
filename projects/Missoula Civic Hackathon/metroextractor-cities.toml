@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://mapzen.com/metro-extracts"
 id = 56_867_707
+is_template = false
 language = "Ruby"
 name = "metroextractor-cities"
 node_id = "MDEwOlJlcG9zaXRvcnk1Njg2NzcwNw=="

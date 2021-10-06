@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 60_091_059
+is_template = false
 language = "Common Lisp"
 name = "telescope"
 node_id = "MDEwOlJlcG9zaXRvcnk2MDA5MTA1OQ=="

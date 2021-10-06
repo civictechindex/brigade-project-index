@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 60_887_591
+is_template = false
 name = "metal"
 node_id = "MDEwOlJlcG9zaXRvcnk2MDg4NzU5MQ=="
 open_issues_within = 0

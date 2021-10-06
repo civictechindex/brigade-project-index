@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 60_629_062
+is_template = false
 language = "Assembly"
 name = "newsletter"
 node_id = "MDEwOlJlcG9zaXRvcnk2MDYyOTA2Mg=="

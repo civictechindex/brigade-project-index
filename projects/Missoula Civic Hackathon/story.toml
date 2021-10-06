@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 56_988_332
+is_template = false
 language = "Common Lisp"
 name = "story"
 node_id = "MDEwOlJlcG9zaXRvcnk1Njk4ODMzMg=="

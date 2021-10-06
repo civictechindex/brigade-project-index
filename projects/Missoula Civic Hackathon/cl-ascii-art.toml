@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 59_117_991
+is_template = false
 language = "Common Lisp"
 name = "cl-ascii-art"
 node_id = "MDEwOlJlcG9zaXRvcnk1OTExNzk5MQ=="
