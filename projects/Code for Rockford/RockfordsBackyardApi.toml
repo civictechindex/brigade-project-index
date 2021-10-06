@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 17_549_476
+is_template = false
 language = "JavaScript"
 name = "RockfordsBackyardApi"
 node_id = "MDEwOlJlcG9zaXRvcnkxNzU0OTQ3Ng=="

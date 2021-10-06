@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://adopt-a-hydrant.herokuapp.com/"
 id = 29_634_292
+is_template = false
 language = "Ruby"
 name = "adopt-a-hydrant"
 node_id = "MDEwOlJlcG9zaXRvcnkyOTYzNDI5Mg=="

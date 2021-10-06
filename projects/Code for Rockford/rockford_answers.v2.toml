@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 24_200_163
+is_template = false
 language = "JavaScript"
 name = "rockford_answers.v2"
 node_id = "MDEwOlJlcG9zaXRvcnkyNDIwMDE2Mw=="

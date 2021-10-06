@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 17_549_161
+is_template = false
 language = "CSS"
 name = "events-client"
 node_id = "MDEwOlJlcG9zaXRvcnkxNzU0OTE2MQ=="
