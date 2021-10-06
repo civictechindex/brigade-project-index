@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://openchattanooga.com"
 id = 21_142_193
+is_template = false
 language = "HTML"
 name = "open-chattanooga-website"
 node_id = "MDEwOlJlcG9zaXRvcnkyMTE0MjE5Mw=="

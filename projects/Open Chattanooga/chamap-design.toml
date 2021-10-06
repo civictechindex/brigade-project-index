@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 54_256_992
+is_template = false
 name = "chamap-design"
 node_id = "MDEwOlJlcG9zaXRvcnk1NDI1Njk5Mg=="
 open_issues_within = 10

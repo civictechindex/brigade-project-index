@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 54_561_226
+is_template = false
 language = "Objective-C"
 name = "chamap-iphone-app"
 node_id = "MDEwOlJlcG9zaXRvcnk1NDU2MTIyNg=="

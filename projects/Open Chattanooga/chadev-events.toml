@@ -20,6 +20,7 @@ has_projects = true
 has_wiki = false
 homepage = "http://openchattanooga.github.io/chadev-events"
 id = 17_566_513
+is_template = false
 language = "CSS"
 name = "chadev-events"
 node_id = "MDEwOlJlcG9zaXRvcnkxNzU2NjUxMw=="

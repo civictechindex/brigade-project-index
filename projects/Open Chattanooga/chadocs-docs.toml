@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://chadocs.herokuapp.com/"
 id = 23_560_937
+is_template = false
 name = "chadocs-docs"
 node_id = "MDEwOlJlcG9zaXRvcnkyMzU2MDkzNw=="
 open_issues_within = 0

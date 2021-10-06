@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 11_159_513
+is_template = false
 language = "JavaScript"
 name = "shareabouts"
 node_id = "MDEwOlJlcG9zaXRvcnkxMTE1OTUxMw=="

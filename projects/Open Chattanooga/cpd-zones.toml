@@ -20,6 +20,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://openchattanooga.github.io/cpd-zones/"
 id = 37_551_219
+is_template = false
 language = "CSS"
 name = "cpd-zones"
 node_id = "MDEwOlJlcG9zaXRvcnkzNzU1MTIxOQ=="

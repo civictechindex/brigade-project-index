@@ -20,6 +20,7 @@ has_pages = true
 has_projects = true
 has_wiki = true
 id = 20_271_670
+is_template = false
 language = "HTML"
 name = "cut-site"
 node_id = "MDEwOlJlcG9zaXRvcnkyMDI3MTY3MA=="

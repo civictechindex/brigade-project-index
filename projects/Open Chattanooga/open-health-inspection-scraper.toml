@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 23_407_372
+is_template = false
 language = "Python"
 name = "open-health-inspection-scraper"
 node_id = "MDEwOlJlcG9zaXRvcnkyMzQwNzM3Mg=="

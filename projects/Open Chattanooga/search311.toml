@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 10_424_931
+is_template = false
 language = "JavaScript"
 name = "search311"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDQyNDkzMQ=="

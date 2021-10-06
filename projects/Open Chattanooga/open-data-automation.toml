@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://open-data-automation.readthedocs.org/"
 id = 39_035_359
+is_template = false
 language = "Makefile"
 name = "open-data-automation"
 node_id = "MDEwOlJlcG9zaXRvcnkzOTAzNTM1OQ=="

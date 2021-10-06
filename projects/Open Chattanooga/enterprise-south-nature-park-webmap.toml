@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 21_635_365
+is_template = false
 language = "JavaScript"
 name = "enterprise-south-nature-park-webmap"
 node_id = "MDEwOlJlcG9zaXRvcnkyMTYzNTM2NQ=="

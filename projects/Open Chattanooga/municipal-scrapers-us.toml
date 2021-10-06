@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 17_085_909
+is_template = false
 language = "Python"
 name = "municipal-scrapers-us"
 node_id = "MDEwOlJlcG9zaXRvcnkxNzA4NTkwOQ=="

@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://openhealthinspection.com"
 id = 23_407_154
+is_template = false
 name = "open-health-inspection-app"
 node_id = "MDEwOlJlcG9zaXRvcnkyMzQwNzE1NA=="
 open_issues_within = 0

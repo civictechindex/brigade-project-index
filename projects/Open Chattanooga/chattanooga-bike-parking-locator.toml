@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://openchattanooga.github.io/chattanooga-bike-parking-locator"
 id = 21_451_334
+is_template = false
 language = "JavaScript"
 name = "chattanooga-bike-parking-locator"
 node_id = "MDEwOlJlcG9zaXRvcnkyMTQ1MTMzNA=="

@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 329_407_031
+is_template = false
 language = "Jupyter Notebook"
 name = "fire-risk-model"
 node_id = "MDEwOlJlcG9zaXRvcnkzMjk0MDcwMzE="

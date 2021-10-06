@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://dangrover.github.io/sf-transit-inequality"
 id = 9_943_015
+is_template = false
 language = "Python"
 name = "sf-transit-inequality"
 node_id = "MDEwOlJlcG9zaXRvcnk5OTQzMDE1"

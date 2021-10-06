@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://openchattanooga.github.io/chamap"
 id = 47_605_118
+is_template = false
 language = "CSS"
 name = "chamap"
 node_id = "MDEwOlJlcG9zaXRvcnk0NzYwNTExOA=="
