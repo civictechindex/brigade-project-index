@@ -24,6 +24,7 @@ has_pages = true
 has_projects = true
 has_wiki = true
 id = 172_986_776
+is_template = false
 language = "Jupyter Notebook"
 name = "clean-slate-data"
 node_id = "MDEwOlJlcG9zaXRvcnkxNzI5ODY3NzY="

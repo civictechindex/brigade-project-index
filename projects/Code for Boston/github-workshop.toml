@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 53_207_195
+is_template = false
 language = "HTML"
 name = "github-workshop"
 node_id = "MDEwOlJlcG9zaXRvcnk1MzIwNzE5NQ=="

@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 127_983_599
+is_template = false
 language = "JavaScript"
 name = "conversations"
 node_id = "MDEwOlJlcG9zaXRvcnkxMjc5ODM1OTk="

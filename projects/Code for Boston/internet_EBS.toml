@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://groups.google.com/a/codeforamerica.org/forum/#!topic/code-for-boston/-LFP0_RrPZA"
 id = 9_485_547
+is_template = false
 language = "JavaScript"
 name = "internet_EBS"
 node_id = "MDEwOlJlcG9zaXRvcnk5NDg1NTQ3"

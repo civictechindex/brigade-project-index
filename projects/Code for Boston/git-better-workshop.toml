@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 179_789_417
+is_template = false
 language = "JavaScript"
 name = "git-better-workshop"
 node_id = "MDEwOlJlcG9zaXRvcnkxNzk3ODk0MTc="

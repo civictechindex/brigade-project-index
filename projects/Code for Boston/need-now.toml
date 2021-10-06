@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://need-now.herokuapp.com"
 id = 36_983_589
+is_template = false
 language = "JavaScript"
 name = "need-now"
 node_id = "MDEwOlJlcG9zaXRvcnkzNjk4MzU4OQ=="

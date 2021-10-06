@@ -20,6 +20,7 @@ has_projects = false
 has_wiki = true
 homepage = "https://vaccinatema.com"
 id = 334_731_087
+is_template = false
 language = "JavaScript"
 name = "vaccinatema"
 node_id = "MDEwOlJlcG9zaXRvcnkzMzQ3MzEwODc="

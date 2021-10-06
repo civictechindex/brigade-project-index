@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 11_934_893
+is_template = false
 language = "JavaScript"
 name = "rta"
 node_id = "MDEwOlJlcG9zaXRvcnkxMTkzNDg5Mw=="

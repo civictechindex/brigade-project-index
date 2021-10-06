@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 10_425_053
+is_template = false
 language = "Ruby"
 name = "adopt-a-hydrant"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDQyNTA1Mw=="

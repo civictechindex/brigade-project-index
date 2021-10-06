@@ -20,6 +20,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://codeforboston.github.io/finda_pantry"
 id = 54_519_396
+is_template = false
 language = "JavaScript"
 name = "finda_pantry"
 node_id = "MDEwOlJlcG9zaXRvcnk1NDUxOTM5Ng=="

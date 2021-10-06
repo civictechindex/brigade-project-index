@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 28_114_211
+is_template = false
 language = "Python"
 name = "child-care-finder-data"
 node_id = "MDEwOlJlcG9zaXRvcnkyODExNDIxMQ=="

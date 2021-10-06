@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://codeforboston.github.io/mattapan-mapping"
 id = 357_734_112
+is_template = false
 language = "JavaScript"
 name = "mattapan-mapping"
 node_id = "MDEwOlJlcG9zaXRvcnkzNTc3MzQxMTI="

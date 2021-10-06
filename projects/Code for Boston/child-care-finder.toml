@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://codeforboston.github.io/child-care-finder/"
 id = 27_876_675
+is_template = false
 language = "JavaScript"
 name = "child-care-finder"
 node_id = "MDEwOlJlcG9zaXRvcnkyNzg3NjY3NQ=="

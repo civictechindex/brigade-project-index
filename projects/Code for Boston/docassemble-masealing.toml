@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 272_845_914
+is_template = false
 name = "docassemble-masealing"
 node_id = "MDEwOlJlcG9zaXRvcnkyNzI4NDU5MTQ="
 open_issues_within = 10

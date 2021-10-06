@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://opensource-events.com/"
 id = 19_475_966
+is_template = false
 language = "Python"
 name = "in-person-event-handbook"
 node_id = "MDEwOlJlcG9zaXRvcnkxOTQ3NTk2Ng=="

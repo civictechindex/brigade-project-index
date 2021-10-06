@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://app.paulswartz.net/property-dash/"
 id = 32_583_080
+is_template = false
 language = "JavaScript"
 name = "property_dashboard"
 node_id = "MDEwOlJlcG9zaXRvcnkzMjU4MzA4MA=="

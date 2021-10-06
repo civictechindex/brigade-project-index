@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 261_620_297
+is_template = false
 language = "Python"
 name = "flagging"
 node_id = "MDEwOlJlcG9zaXRvcnkyNjE2MjAyOTc="

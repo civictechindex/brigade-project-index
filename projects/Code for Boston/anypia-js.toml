@@ -29,6 +29,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://ssacalculator.org/"
 id = 255_206_340
+is_template = false
 language = "C++"
 name = "anypia-js"
 node_id = "MDEwOlJlcG9zaXRvcnkyNTUyMDYzNDA="

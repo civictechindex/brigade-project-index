@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 46_630_114
+is_template = false
 language = "JavaScript"
 name = "Snope_API"
 node_id = "MDEwOlJlcG9zaXRvcnk0NjYzMDExNA=="

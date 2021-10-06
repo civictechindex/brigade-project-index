@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 247_822_717
+is_template = false
 language = "TypeScript"
 name = "jobhopper"
 node_id = "MDEwOlJlcG9zaXRvcnkyNDc4MjI3MTc="

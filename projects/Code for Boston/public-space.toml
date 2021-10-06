@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 17_650_500
+is_template = false
 name = "public-space"
 node_id = "MDEwOlJlcG9zaXRvcnkxNzY1MDUwMA=="
 open_issues_within = 0

@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 35_649_459
+is_template = false
 language = "JavaScript"
 name = "calendar_api"
 node_id = "MDEwOlJlcG9zaXRvcnkzNTY0OTQ1OQ=="

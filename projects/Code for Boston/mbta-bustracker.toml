@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 131_094_519
+is_template = false
 language = "JavaScript"
 name = "mbta-bustracker"
 node_id = "MDEwOlJlcG9zaXRvcnkxMzEwOTQ1MTk="

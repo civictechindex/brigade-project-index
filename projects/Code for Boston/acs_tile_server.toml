@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 35_519_033
+is_template = false
 language = "JavaScript"
 name = "acs_tile_server"
 node_id = "MDEwOlJlcG9zaXRvcnkzNTUxOTAzMw=="

@@ -20,6 +20,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://codeforboston.github.io/build-with-codeforboston"
 id = 31_417_564
+is_template = false
 language = "CSS"
 name = "build-with-codeforboston"
 node_id = "MDEwOlJlcG9zaXRvcnkzMTQxNzU2NA=="

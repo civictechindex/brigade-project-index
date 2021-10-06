@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://www.enersaveapp.org/"
 id = 46_829_972
+is_template = false
 language = "Ruby"
 name = "cambridge_energy_app"
 node_id = "MDEwOlJlcG9zaXRvcnk0NjgyOTk3Mg=="

@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 30_275_412
+is_template = false
 name = "text-the-T"
 node_id = "MDEwOlJlcG9zaXRvcnkzMDI3NTQxMg=="
 open_issues_within = 10

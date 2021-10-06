@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 251_639_895
+is_template = false
 language = "JavaScript"
 name = "volunteer-matching"
 node_id = "MDEwOlJlcG9zaXRvcnkyNTE2Mzk4OTU="

@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://codeforboston.github.io/calendar_front_end"
 id = 35_913_323
+is_template = false
 language = "HTML"
 name = "calendar_front_end"
 node_id = "MDEwOlJlcG9zaXRvcnkzNTkxMzMyMw=="

@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 10_777_076
+is_template = false
 language = "JavaScript"
 name = "mbta-alerts-2"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDc3NzA3Ng=="

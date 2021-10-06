@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://codeforboston.github.io/brigade_frontend"
 id = 13_430_046
+is_template = false
 language = "JavaScript"
 name = "brigade_frontend"
 node_id = "MDEwOlJlcG9zaXRvcnkxMzQzMDA0Ng=="

@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 80_591_647
+is_template = false
 language = "Python"
 name = "travel-hotline"
 node_id = "MDEwOlJlcG9zaXRvcnk4MDU5MTY0Nw=="

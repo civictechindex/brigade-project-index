@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 13_608_318
+is_template = false
 language = "Ruby"
 name = "brigade_backend"
 node_id = "MDEwOlJlcG9zaXRvcnkxMzYwODMxOA=="

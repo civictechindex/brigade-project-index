@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://codeforboston.org"
 id = 35_163_517
+is_template = false
 language = "HTML"
 name = "codeforboston.org"
 node_id = "MDEwOlJlcG9zaXRvcnkzNTE2MzUxNw=="

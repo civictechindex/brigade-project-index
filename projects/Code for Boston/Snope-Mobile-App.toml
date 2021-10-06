@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 46_630_156
+is_template = false
 language = "JavaScript"
 name = "Snope-Mobile-App"
 node_id = "MDEwOlJlcG9zaXRvcnk0NjYzMDE1Ng=="

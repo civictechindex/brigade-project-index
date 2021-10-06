@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 295_879_380
+is_template = false
 language = "TypeScript"
 name = "refunder"
 node_id = "MDEwOlJlcG9zaXRvcnkyOTU4NzkzODA="

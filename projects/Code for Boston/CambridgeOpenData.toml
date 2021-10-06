@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 11_510_140
+is_template = false
 name = "CambridgeOpenData"
 node_id = "MDEwOlJlcG9zaXRvcnkxMTUxMDE0MA=="
 open_issues_within = 0

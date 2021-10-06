@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 34_677_973
+is_template = false
 name = "civic_tech_resources"
 node_id = "MDEwOlJlcG9zaXRvcnkzNDY3Nzk3Mw=="
 open_issues_within = 10

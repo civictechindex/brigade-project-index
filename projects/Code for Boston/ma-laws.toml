@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://macode.org"
 id = 11_713_980
+is_template = false
 language = "JavaScript"
 name = "ma-laws"
 node_id = "MDEwOlJlcG9zaXRvcnkxMTcxMzk4MA=="

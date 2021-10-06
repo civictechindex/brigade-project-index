@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://votecambridge.com"
 id = 12_097_612
+is_template = false
 language = "JavaScript"
 name = "cambridge_voting_locations"
 node_id = "MDEwOlJlcG9zaXRvcnkxMjA5NzYxMg=="

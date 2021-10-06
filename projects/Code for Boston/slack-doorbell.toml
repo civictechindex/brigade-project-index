@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 27_464_454
+is_template = false
 language = "JavaScript"
 name = "slack-doorbell"
 node_id = "MDEwOlJlcG9zaXRvcnkyNzQ2NDQ1NA=="

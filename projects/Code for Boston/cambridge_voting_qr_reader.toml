@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 66_991_161
+is_template = false
 name = "cambridge_voting_qr_reader"
 node_id = "MDEwOlJlcG9zaXRvcnk2Njk5MTE2MQ=="
 open_issues_within = 0

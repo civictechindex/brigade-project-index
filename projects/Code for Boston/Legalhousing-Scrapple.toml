@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 109_909_587
+is_template = false
 language = "Python"
 name = "Legalhousing-Scrapple"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDk5MDk1ODc="

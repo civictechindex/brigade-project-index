@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 94_271_323
+is_template = false
 language = "Jupyter Notebook"
 name = "cambridge-open-data"
 node_id = "MDEwOlJlcG9zaXRvcnk5NDI3MTMyMw=="

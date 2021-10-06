@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://github.com/cambridgegis/cambridgegis_data"
 id = 11_462_817
+is_template = false
 name = "open_data_cambridge"
 node_id = "MDEwOlJlcG9zaXRvcnkxMTQ2MjgxNw=="
 open_issues_within = 0

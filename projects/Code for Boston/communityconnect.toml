@@ -20,6 +20,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 144_785_135
+is_template = false
 language = "JavaScript"
 name = "communityconnect"
 node_id = "MDEwOlJlcG9zaXRvcnkxNDQ3ODUxMzU="

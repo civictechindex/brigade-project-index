@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://twitter.com/mbta_alerts"
 id = 10_541_926
+is_template = false
 language = "JavaScript"
 name = "mbta-alerts"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDU0MTkyNg=="

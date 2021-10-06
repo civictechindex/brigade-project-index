@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 44_639_853
+is_template = false
 name = "github-practice"
 node_id = "MDEwOlJlcG9zaXRvcnk0NDYzOTg1Mw=="
 open_issues_within = 10

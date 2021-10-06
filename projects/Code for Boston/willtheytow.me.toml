@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "willtheytow.me"
 id = 16_532_185
+is_template = false
 language = "JavaScript"
 name = "willtheytow.me"
 node_id = "MDEwOlJlcG9zaXRvcnkxNjUzMjE4NQ=="

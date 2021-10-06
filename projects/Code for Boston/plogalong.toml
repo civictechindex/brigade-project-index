@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 172_821_607
+is_template = false
 language = "JavaScript"
 name = "plogalong"
 node_id = "MDEwOlJlcG9zaXRvcnkxNzI4MjE2MDc="

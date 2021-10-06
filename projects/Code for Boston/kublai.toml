@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://codeforboston.github.io/kublai"
 id = 12_038_087
+is_template = false
 language = "JavaScript"
 name = "kublai"
 node_id = "MDEwOlJlcG9zaXRvcnkxMjAzODA4Nw=="

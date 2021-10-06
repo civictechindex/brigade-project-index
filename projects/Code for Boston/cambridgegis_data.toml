@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 12_144_196
+is_template = false
 language = "Shell"
 name = "cambridgegis_data"
 node_id = "MDEwOlJlcG9zaXRvcnkxMjE0NDE5Ng=="

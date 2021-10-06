@@ -20,6 +20,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://codeforboston.github.io/rhok_census_map"
 id = 11_463_319
+is_template = false
 name = "rhok_census_map"
 node_id = "MDEwOlJlcG9zaXRvcnkxMTQ2MzMxOQ=="
 open_issues_within = 0

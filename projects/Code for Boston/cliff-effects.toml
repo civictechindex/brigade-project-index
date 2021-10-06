@@ -23,6 +23,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://codeforboston.github.io/cliff-effects/#/"
 id = 101_820_184
+is_template = false
 language = "JavaScript"
 name = "cliff-effects"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDE4MjAxODQ="

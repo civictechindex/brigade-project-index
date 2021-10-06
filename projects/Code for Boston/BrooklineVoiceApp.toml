@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 157_477_127
+is_template = false
 language = "Python"
 name = "BrooklineVoiceApp"
 node_id = "MDEwOlJlcG9zaXRvcnkxNTc0NzcxMjc="

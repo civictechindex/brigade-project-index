@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 60_466_166
+is_template = false
 language = "Python"
 name = "housing-pro-se"
 node_id = "MDEwOlJlcG9zaXRvcnk2MDQ2NjE2Ng=="

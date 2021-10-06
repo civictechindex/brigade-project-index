@@ -33,6 +33,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://migrantservicemap.com"
 id = 150_345_404
+is_template = false
 language = "JavaScript"
 name = "migrant_service_map"
 node_id = "MDEwOlJlcG9zaXRvcnkxNTAzNDU0MDQ="

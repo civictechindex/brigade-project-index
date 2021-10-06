@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://codeforboston.github.io/ungentry/"
 id = 17_888_836
+is_template = false
 language = "Java"
 name = "ungentry"
 node_id = "MDEwOlJlcG9zaXRvcnkxNzg4ODgzNg=="

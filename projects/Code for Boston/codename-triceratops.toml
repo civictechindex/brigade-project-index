@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 53_221_936
+is_template = false
 name = "codename-triceratops"
 node_id = "MDEwOlJlcG9zaXRvcnk1MzIyMTkzNg=="
 open_issues_within = 10

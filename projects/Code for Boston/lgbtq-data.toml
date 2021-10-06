@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 13_080_860
+is_template = false
 language = "Python"
 name = "lgbtq-data"
 node_id = "MDEwOlJlcG9zaXRvcnkxMzA4MDg2MA=="

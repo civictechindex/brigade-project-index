@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 11_883_493
+is_template = false
 language = "JavaScript"
 name = "MBTA-API-API"
 node_id = "MDEwOlJlcG9zaXRvcnkxMTg4MzQ5Mw=="

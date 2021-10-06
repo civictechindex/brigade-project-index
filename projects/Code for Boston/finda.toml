@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://codeforboston.github.io/finda/"
 id = 13_428_942
+is_template = false
 language = "JavaScript"
 name = "finda"
 node_id = "MDEwOlJlcG9zaXRvcnkxMzQyODk0Mg=="

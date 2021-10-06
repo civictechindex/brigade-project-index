@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 7_340_718
+is_template = false
 name = "admin"
 node_id = "MDEwOlJlcG9zaXRvcnk3MzQwNzE4"
 open_issues_within = 0
