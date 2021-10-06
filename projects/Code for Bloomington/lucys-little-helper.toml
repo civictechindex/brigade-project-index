@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 192_974_247
+is_template = false
 language = "PHP"
 name = "lucys-little-helper"
 node_id = "MDEwOlJlcG9zaXRvcnkxOTI5NzQyNDc="

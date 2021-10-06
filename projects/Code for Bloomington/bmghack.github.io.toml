@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 91_508_060
+is_template = false
 name = "bmghack.github.io"
 node_id = "MDEwOlJlcG9zaXRvcnk5MTUwODA2MA=="
 open_issues_within = 0
