@@ -23,6 +23,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://cetrebuiesafac.ro"
 id = 247_060_256
+is_template = false
 language = "JavaScript"
 name = "covid-19-ce-trebuie-sa-fac"
 node_id = "MDEwOlJlcG9zaXRvcnkyNDcwNjAyNTY="

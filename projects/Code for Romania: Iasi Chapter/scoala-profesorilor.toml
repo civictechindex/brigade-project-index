@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 242_119_207
+is_template = false
 language = "PHP"
 name = "scoala-profesorilor"
 node_id = "MDEwOlJlcG9zaXRvcnkyNDIxMTkyMDc="

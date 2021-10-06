@@ -29,6 +29,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://code4.ro/en/project/portalul-strategiei-nationale-anticoruptie/"
 id = 79_569_391
+is_template = false
 language = "JavaScript"
 name = "sna-api"
 node_id = "MDEwOlJlcG9zaXRvcnk3OTU2OTM5MQ=="

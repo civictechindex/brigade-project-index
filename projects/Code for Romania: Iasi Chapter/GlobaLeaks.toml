@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://www.globaleaks.org"
 id = 101_072_384
+is_template = false
 language = "Python"
 name = "GlobaLeaks"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDEwNzIzODQ="

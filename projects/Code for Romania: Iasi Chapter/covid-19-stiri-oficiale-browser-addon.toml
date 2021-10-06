@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 247_016_061
+is_template = false
 language = "JavaScript"
 name = "covid-19-stiri-oficiale-browser-addon"
 node_id = "MDEwOlJlcG9zaXRvcnkyNDcwMTYwNjE="

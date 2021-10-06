@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 283_152_347
+is_template = false
 language = "C#"
 name = "dosarul-digital-api"
 node_id = "MDEwOlJlcG9zaXRvcnkyODMxNTIzNDc="

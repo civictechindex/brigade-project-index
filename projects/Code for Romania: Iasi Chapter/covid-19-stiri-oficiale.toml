@@ -30,6 +30,7 @@ has_projects = true
 has_wiki = false
 homepage = "https://stirioficiale.ro"
 id = 246_918_847
+is_template = false
 language = "PHP"
 name = "covid-19-stiri-oficiale"
 node_id = "MDEwOlJlcG9zaXRvcnkyNDY5MTg4NDc="

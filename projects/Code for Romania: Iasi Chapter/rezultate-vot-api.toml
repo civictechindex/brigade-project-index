@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 295_978_595
+is_template = false
 language = "C#"
 name = "rezultate-vot-api"
 node_id = "MDEwOlJlcG9zaXRvcnkyOTU5Nzg1OTU="

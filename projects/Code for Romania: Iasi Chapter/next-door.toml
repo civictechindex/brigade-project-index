@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://next-door.now.sh"
 id = 250_520_749
+is_template = false
 language = "Java"
 name = "next-door"
 node_id = "MDEwOlJlcG9zaXRvcnkyNTA1MjA3NDk="
