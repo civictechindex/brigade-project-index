@@ -20,6 +20,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://codeforcanada.org"
 id = 7_563_136
+is_template = false
 language = "HTML"
 name = "codeforcanada.org"
 node_id = "MDEwOlJlcG9zaXRvcnk3NTYzMTM2"

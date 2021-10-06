@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://hexb.in"
 id = 32_870_204
+is_template = false
 language = "HTML"
 name = "hexbin"
 node_id = "MDEwOlJlcG9zaXRvcnkzMjg3MDIwNA=="
