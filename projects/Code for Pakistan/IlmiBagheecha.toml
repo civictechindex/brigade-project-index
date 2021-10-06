@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 100_858_739
+is_template = false
 language = "Java"
 name = "IlmiBagheecha"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDA4NTg3Mzk="

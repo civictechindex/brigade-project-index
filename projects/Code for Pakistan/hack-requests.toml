@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 18_129_825
+is_template = false
 name = "hack-requests"
 node_id = "MDEwOlJlcG9zaXRvcnkxODEyOTgyNQ=="
 open_issues_within = 0

@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 100_858_788
+is_template = false
 language = "Java"
 name = "Kisan"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDA4NTg3ODg="

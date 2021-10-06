@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://rehnuma.herokuapp.com/"
 id = 18_130_630
+is_template = false
 language = "JavaScript"
 name = "Rehnuma"
 node_id = "MDEwOlJlcG9zaXRvcnkxODEzMDYzMA=="

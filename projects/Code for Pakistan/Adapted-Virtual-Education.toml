@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 100_853_925
+is_template = false
 language = "Java"
 name = "Adapted-Virtual-Education"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDA4NTM5MjU="

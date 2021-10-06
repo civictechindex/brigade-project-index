@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 199_378_217
+is_template = false
 language = "C#"
 name = "AR-NAvigation"
 node_id = "MDEwOlJlcG9zaXRvcnkxOTkzNzgyMTc="

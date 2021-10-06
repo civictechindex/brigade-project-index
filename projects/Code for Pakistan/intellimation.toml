@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 31_144_059
+is_template = false
 language = "JavaScript"
 name = "intellimation"
 node_id = "MDEwOlJlcG9zaXRvcnkzMTE0NDA1OQ=="

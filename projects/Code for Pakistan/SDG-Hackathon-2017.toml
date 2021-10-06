@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 100_857_783
+is_template = false
 name = "SDG-Hackathon-2017"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDA4NTc3ODM="
 open_issues_within = 0

@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 222_849_674
+is_template = false
 language = "JavaScript"
 name = "ToiletFinderWeb"
 node_id = "MDEwOlJlcG9zaXRvcnkyMjI4NDk2NzQ="

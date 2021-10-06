@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 100_856_388
+is_template = false
 language = "TypeScript"
 name = "GoOrganic"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDA4NTYzODg="

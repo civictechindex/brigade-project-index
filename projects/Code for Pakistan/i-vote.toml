@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 63_538_280
+is_template = false
 language = "JavaScript"
 name = "i-vote"
 node_id = "MDEwOlJlcG9zaXRvcnk2MzUzODI4MA=="

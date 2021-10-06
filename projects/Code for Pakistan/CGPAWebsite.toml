@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 76_468_615
+is_template = false
 language = "PHP"
 name = "CGPAWebsite"
 node_id = "MDEwOlJlcG9zaXRvcnk3NjQ2ODYxNQ=="

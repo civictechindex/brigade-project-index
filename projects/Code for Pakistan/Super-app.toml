@@ -20,6 +20,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://play.google.com/apps/internaltest/4700180691063195913"
 id = 331_251_087
+is_template = false
 language = "Vue"
 name = "Super-app"
 node_id = "MDEwOlJlcG9zaXRvcnkzMzEyNTEwODc="

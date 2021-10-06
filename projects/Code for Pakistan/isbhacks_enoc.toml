@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 100_857_579
+is_template = false
 language = "Swift"
 name = "isbhacks_enoc"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDA4NTc1Nzk="

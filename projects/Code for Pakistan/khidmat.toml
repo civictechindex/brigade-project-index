@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 100_858_504
+is_template = false
 language = "HTML"
 name = "khidmat"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDA4NTg1MDQ="

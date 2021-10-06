@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = false
 homepage = "https://kpgov.tech"
 id = 331_265_204
+is_template = false
 language = "JavaScript"
 name = "kpitb-framework"
 node_id = "MDEwOlJlcG9zaXRvcnkzMzEyNjUyMDQ="

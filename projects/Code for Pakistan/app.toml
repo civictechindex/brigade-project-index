@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://democracyos.org"
 id = 27_390_896
+is_template = false
 language = "JavaScript"
 name = "app"
 node_id = "MDEwOlJlcG9zaXRvcnkyNzM5MDg5Ng=="

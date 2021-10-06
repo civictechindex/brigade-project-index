@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 321_586_696
+is_template = false
 name = "SolutionSeekers"
 node_id = "MDEwOlJlcG9zaXRvcnkzMjE1ODY2OTY="
 open_issues_within = 0

@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://bit.ly/bloodforlifepk"
 id = 16_225_510
+is_template = false
 language = "CSS"
 name = "BloodForLife"
 node_id = "MDEwOlJlcG9zaXRvcnkxNjIyNTUxMA=="

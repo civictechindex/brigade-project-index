@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 100_853_912
+is_template = false
 name = "taizkam"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDA4NTM5MTI="
 open_issues_within = 0

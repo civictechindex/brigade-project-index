@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 285_502_178
+is_template = false
 language = "Dart"
 name = "airpak"
 node_id = "MDEwOlJlcG9zaXRvcnkyODU1MDIxNzg="

@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "stats.codeforamerica.org"
 id = 19_825_885
+is_template = false
 language = "Ruby"
 name = "github_tracker"
 node_id = "MDEwOlJlcG9zaXRvcnkxOTgyNTg4NQ=="
