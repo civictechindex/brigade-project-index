@@ -28,6 +28,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 75_407_323
+is_template = false
 name = "datasci_justice-by-public-defender"
 node_id = "MDEwOlJlcG9zaXRvcnk3NTQwNzMyMw=="
 open_issues_within = 0

@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://earlysanfrancisco.com"
 id = 8_918_881
+is_template = false
 language = "JavaScript"
 name = "EarlySanFrancisco"
 node_id = "MDEwOlJlcG9zaXRvcnk4OTE4ODgx"

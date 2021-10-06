@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 61_220_475
+is_template = false
 language = "JavaScript"
 name = "slides"
 node_id = "MDEwOlJlcG9zaXRvcnk2MTIyMDQ3NQ=="

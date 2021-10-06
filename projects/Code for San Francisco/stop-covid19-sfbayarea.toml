@@ -23,6 +23,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://panda.baybrigades.org/"
 id = 248_644_451
+is_template = false
 language = "Vue"
 name = "stop-covid19-sfbayarea"
 node_id = "MDEwOlJlcG9zaXRvcnkyNDg2NDQ0NTE="

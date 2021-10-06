@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 78_568_377
+is_template = false
 language = "Jupyter Notebook"
 name = "dojr"
 node_id = "MDEwOlJlcG9zaXRvcnk3ODU2ODM3Nw=="

@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 31_139_656
+is_template = false
 language = "JavaScript"
 name = "San-Francisco-in-Progress"
 node_id = "MDEwOlJlcG9zaXRvcnkzMTEzOTY1Ng=="

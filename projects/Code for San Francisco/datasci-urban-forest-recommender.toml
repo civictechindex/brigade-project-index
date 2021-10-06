@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://sf-urban-forest-recommender.herokuapp.com/"
 id = 78_076_913
+is_template = false
 language = "Jupyter Notebook"
 name = "datasci-urban-forest-recommender"
 node_id = "MDEwOlJlcG9zaXRvcnk3ODA3NjkxMw=="

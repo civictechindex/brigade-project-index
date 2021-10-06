@@ -20,6 +20,7 @@ has_pages = true
 has_projects = true
 has_wiki = false
 id = 9_210_527
+is_template = false
 language = "JavaScript"
 name = "SFOFE-BankOn"
 node_id = "MDEwOlJlcG9zaXRvcnk5MjEwNTI3"

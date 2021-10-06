@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://www.codeforsanfrancisco.org/look-at-sf/SFBudgetGoogle.html"
 id = 17_092_824
+is_template = false
 language = "CSS"
 name = "look-at-sf"
 node_id = "MDEwOlJlcG9zaXRvcnkxNzA5MjgyNA=="

@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 9_209_863
+is_template = false
 language = "C"
 name = "dedupe"
 node_id = "MDEwOlJlcG9zaXRvcnk5MjA5ODYz"

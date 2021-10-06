@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 176_317_593
+is_template = false
 language = "Jupyter Notebook"
 name = "datasci-open-payments"
 node_id = "MDEwOlJlcG9zaXRvcnkxNzYzMTc1OTM="

@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 64_898_246
+is_template = false
 language = "Jupyter Notebook"
 name = "datasci-housing-pipeline"
 node_id = "MDEwOlJlcG9zaXRvcnk2NDg5ODI0Ng=="

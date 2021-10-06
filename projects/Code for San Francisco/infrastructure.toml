@@ -20,6 +20,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://c4sf.me/infrastructure"
 id = 55_880_189
+is_template = false
 language = "CSS"
 name = "infrastructure"
 node_id = "MDEwOlJlcG9zaXRvcnk1NTg4MDE4OQ=="

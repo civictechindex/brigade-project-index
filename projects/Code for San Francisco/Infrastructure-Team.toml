@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 42_672_333
+is_template = false
 name = "Infrastructure-Team"
 node_id = "MDEwOlJlcG9zaXRvcnk0MjY3MjMzMw=="
 open_issues_within = 100

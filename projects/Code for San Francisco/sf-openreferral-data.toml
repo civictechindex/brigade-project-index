@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://github.com/sfbrigade/sf-openreferral"
 id = 18_249_254
+is_template = false
 language = "Python"
 name = "sf-openreferral-data"
 node_id = "MDEwOlJlcG9zaXRvcnkxODI0OTI1NA=="

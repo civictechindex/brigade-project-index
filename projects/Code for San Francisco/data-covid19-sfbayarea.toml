@@ -21,6 +21,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 248_893_035
+is_template = false
 language = "Python"
 name = "data-covid19-sfbayarea"
 node_id = "MDEwOlJlcG9zaXRvcnkyNDg4OTMwMzU="

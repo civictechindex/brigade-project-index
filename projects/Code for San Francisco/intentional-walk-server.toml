@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 242_254_457
+is_template = false
 language = "Python"
 name = "intentional-walk-server"
 node_id = "MDEwOlJlcG9zaXRvcnkyNDIyNTQ0NTc="

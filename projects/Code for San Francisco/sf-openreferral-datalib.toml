@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 36_994_234
+is_template = false
 language = "Python"
 name = "sf-openreferral-datalib"
 node_id = "MDEwOlJlcG9zaXRvcnkzNjk5NDIzNA=="

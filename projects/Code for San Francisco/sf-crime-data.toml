@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://sfcrimedata.org"
 id = 55_668_652
+is_template = false
 language = "JavaScript"
 name = "sf-crime-data"
 node_id = "MDEwOlJlcG9zaXRvcnk1NTY2ODY1Mg=="

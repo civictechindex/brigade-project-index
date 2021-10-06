@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 55_249_556
+is_template = false
 language = "JavaScript"
 name = "github-auto-label"
 node_id = "MDEwOlJlcG9zaXRvcnk1NTI0OTU1Ng=="

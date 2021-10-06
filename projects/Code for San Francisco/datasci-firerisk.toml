@@ -29,6 +29,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://codeforsanfrancisco.org/projects/SF-Fire-Risk-Project"
 id = 92_355_828
+is_template = false
 language = "Jupyter Notebook"
 name = "datasci-firerisk"
 node_id = "MDEwOlJlcG9zaXRvcnk5MjM1NTgyOA=="

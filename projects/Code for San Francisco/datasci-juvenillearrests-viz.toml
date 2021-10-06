@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 83_922_335
+is_template = false
 language = "HTML"
 name = "datasci-juvenillearrests-viz"
 node_id = "MDEwOlJlcG9zaXRvcnk4MzkyMjMzNQ=="

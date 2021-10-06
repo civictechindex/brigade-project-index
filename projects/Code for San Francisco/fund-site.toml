@@ -20,6 +20,7 @@ has_pages = true
 has_projects = true
 has_wiki = true
 id = 58_103_479
+is_template = false
 language = "CSS"
 name = "fund-site"
 node_id = "MDEwOlJlcG9zaXRvcnk1ODEwMzQ3OQ=="

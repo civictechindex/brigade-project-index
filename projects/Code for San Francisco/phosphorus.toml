@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 9_067_720
+is_template = false
 language = "Python"
 name = "phosphorus"
 node_id = "MDEwOlJlcG9zaXRvcnk5MDY3NzIw"

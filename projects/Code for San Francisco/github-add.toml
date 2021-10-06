@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://c4sf.me/joingithub"
 id = 53_363_749
+is_template = false
 language = "JavaScript"
 name = "github-add"
 node_id = "MDEwOlJlcG9zaXRvcnk1MzM2Mzc0OQ=="

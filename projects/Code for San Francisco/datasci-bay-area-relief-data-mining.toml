@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 314_135_078
+is_template = false
 language = "Python"
 name = "datasci-bay-area-relief-data-mining"
 node_id = "MDEwOlJlcG9zaXRvcnkzMTQxMzUwNzg="

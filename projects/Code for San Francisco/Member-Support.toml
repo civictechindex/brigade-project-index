@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 55_658_026
+is_template = false
 name = "Member-Support"
 node_id = "MDEwOlJlcG9zaXRvcnk1NTY1ODAyNg=="
 open_issues_within = 10

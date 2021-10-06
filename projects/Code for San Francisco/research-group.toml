@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://old.codeforsanfrancisco.org/research-group/projects/NewMemberEngagement/"
 id = 58_151_682
+is_template = false
 language = "HTML"
 name = "research-group"
 node_id = "MDEwOlJlcG9zaXRvcnk1ODE1MTY4Mg=="

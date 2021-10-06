@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 26_698_843
+is_template = false
 language = "Python"
 name = "disclosure-tools"
 node_id = "MDEwOlJlcG9zaXRvcnkyNjY5ODg0Mw=="

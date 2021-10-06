@@ -30,6 +30,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 50_940_056
+is_template = false
 language = "Jupyter Notebook"
 name = "data-science-wg"
 node_id = "MDEwOlJlcG9zaXRvcnk1MDk0MDA1Ng=="

@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 137_291_872
+is_template = false
 language = "Jupyter Notebook"
 name = "datasci-home-credit-default"
 node_id = "MDEwOlJlcG9zaXRvcnkxMzcyOTE4NzI="

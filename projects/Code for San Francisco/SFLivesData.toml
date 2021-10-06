@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 10_233_950
+is_template = false
 name = "SFLivesData"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDIzMzk1MA=="
 open_issues_within = 0

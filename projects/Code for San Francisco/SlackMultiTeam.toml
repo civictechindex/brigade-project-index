@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 53_427_199
+is_template = false
 language = "Python"
 name = "SlackMultiTeam"
 node_id = "MDEwOlJlcG9zaXRvcnk1MzQyNzE5OQ=="

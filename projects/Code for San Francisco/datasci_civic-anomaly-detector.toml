@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 71_867_227
+is_template = false
 language = "JavaScript"
 name = "datasci_civic-anomaly-detector"
 node_id = "MDEwOlJlcG9zaXRvcnk3MTg2NzIyNw=="

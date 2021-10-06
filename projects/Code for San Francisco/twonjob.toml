@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 178_121_504
+is_template = false
 language = "Python"
 name = "twonjob"
 node_id = "MDEwOlJlcG9zaXRvcnkxNzgxMjE1MDQ="

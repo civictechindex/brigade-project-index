@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 38_580_556
+is_template = false
 language = "Python"
 name = "glossary-bot"
 node_id = "MDEwOlJlcG9zaXRvcnkzODU4MDU1Ng=="

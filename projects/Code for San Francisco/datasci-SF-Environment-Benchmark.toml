@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://old.codeforsanfrancisco.org/datasci-SF-Environment-Benchmark/"
 id = 65_587_017
+is_template = false
 language = "JavaScript"
 name = "datasci-SF-Environment-Benchmark"
 node_id = "MDEwOlJlcG9zaXRvcnk2NTU4NzAxNw=="

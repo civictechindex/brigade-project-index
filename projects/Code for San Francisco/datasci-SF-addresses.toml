@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 93_703_324
+is_template = false
 language = "Python"
 name = "datasci-SF-addresses"
 node_id = "MDEwOlJlcG9zaXRvcnk5MzcwMzMyNA=="

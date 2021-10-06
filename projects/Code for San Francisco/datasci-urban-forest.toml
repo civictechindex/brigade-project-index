@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 63_298_588
+is_template = false
 language = "Jupyter Notebook"
 name = "datasci-urban-forest"
 node_id = "MDEwOlJlcG9zaXRvcnk2MzI5ODU4OA=="

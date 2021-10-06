@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = false
 homepage = "https://github.com/sfbrigade/lighten/wiki"
 id = 52_019_530
+is_template = false
 language = "Python"
 name = "lighten-api"
 node_id = "MDEwOlJlcG9zaXRvcnk1MjAxOTUzMA=="

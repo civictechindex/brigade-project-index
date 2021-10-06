@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 10_373_677
+is_template = false
 language = "JavaScript"
 name = "SFParking-Mobile"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDM3MzY3Nw=="

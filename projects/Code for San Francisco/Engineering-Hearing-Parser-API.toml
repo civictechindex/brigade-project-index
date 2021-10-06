@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 101_951_646
+is_template = false
 language = "Python"
 name = "Engineering-Hearing-Parser-API"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDE5NTE2NDY="

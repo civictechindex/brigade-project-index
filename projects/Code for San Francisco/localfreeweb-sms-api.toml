@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://localfreeweb.org/"
 id = 22_198_083
+is_template = false
 language = "Python"
 name = "localfreeweb-sms-api"
 node_id = "MDEwOlJlcG9zaXRvcnkyMjE5ODA4Mw=="

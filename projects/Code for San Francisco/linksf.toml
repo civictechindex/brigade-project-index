@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 20_362_324
+is_template = false
 language = "JavaScript"
 name = "linksf"
 node_id = "MDEwOlJlcG9zaXRvcnkyMDM2MjMyNA=="

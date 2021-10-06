@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 18_885_866
+is_template = false
 language = "Ruby"
 name = "ohana-api"
 node_id = "MDEwOlJlcG9zaXRvcnkxODg4NTg2Ng=="

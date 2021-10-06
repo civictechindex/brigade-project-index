@@ -28,6 +28,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 179_406_839
+is_template = false
 language = "Swift"
 name = "twabler"
 node_id = "MDEwOlJlcG9zaXRvcnkxNzk0MDY4Mzk="

@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://ndoch2017.codeforsanfrancisco.org"
 id = 100_532_117
+is_template = false
 language = "HTML"
 name = "ndoch2017"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDA1MzIxMTc="

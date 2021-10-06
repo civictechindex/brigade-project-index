@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 11_059_820
+is_template = false
 language = "Java"
 name = "FusionTable-MapApp-CordovaDroid"
 node_id = "MDEwOlJlcG9zaXRvcnkxMTA1OTgyMA=="

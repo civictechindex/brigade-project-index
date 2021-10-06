@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 273_130_949
+is_template = false
 language = "Jupyter Notebook"
 name = "datasci-police-budget"
 node_id = "MDEwOlJlcG9zaXRvcnkyNzMxMzA5NDk="

@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 33_703_747
+is_template = false
 name = "personas"
 node_id = "MDEwOlJlcG9zaXRvcnkzMzcwMzc0Nw=="
 open_issues_within = 10

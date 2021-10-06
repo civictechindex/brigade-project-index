@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 78_715_542
+is_template = false
 language = "Jupyter Notebook"
 name = "datasci-sba"
 node_id = "MDEwOlJlcG9zaXRvcnk3ODcxNTU0Mg=="

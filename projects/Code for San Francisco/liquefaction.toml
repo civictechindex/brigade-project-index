@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://www.sfgsa.org/index.aspx?page=6048"
 id = 11_331_177
+is_template = false
 language = "JavaScript"
 name = "liquefaction"
 node_id = "MDEwOlJlcG9zaXRvcnkxMTMzMTE3Nw=="

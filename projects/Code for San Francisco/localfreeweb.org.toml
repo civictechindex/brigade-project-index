@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://localfreeweb.org/"
 id = 22_195_766
+is_template = false
 language = "CSS"
 name = "localfreeweb.org"
 node_id = "MDEwOlJlcG9zaXRvcnkyMjE5NTc2Ng=="

@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 13_112_452
+is_template = false
 language = "SQL"
 name = "open_ballot"
 node_id = "MDEwOlJlcG9zaXRvcnkxMzExMjQ1Mg=="

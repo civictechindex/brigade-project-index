@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 20_363_783
+is_template = false
 language = "Ruby"
 name = "ohana-api-admin"
 node_id = "MDEwOlJlcG9zaXRvcnkyMDM2Mzc4Mw=="
