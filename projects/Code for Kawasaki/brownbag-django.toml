@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = " https://brownbag.openkawasaki.org/"
 id = 254_361_798
+is_template = false
 language = "JavaScript"
 name = "brownbag-django"
 node_id = "MDEwOlJlcG9zaXRvcnkyNTQzNjE3OTg="

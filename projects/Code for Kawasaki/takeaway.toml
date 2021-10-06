@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://openkawasaki.github.io/takeaway/"
 id = 261_130_683
+is_template = false
 language = "JavaScript"
 name = "takeaway"
 node_id = "MDEwOlJlcG9zaXRvcnkyNjExMzA2ODM="

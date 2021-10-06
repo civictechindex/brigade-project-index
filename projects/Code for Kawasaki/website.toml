@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://openkawasaki.org/"
 id = 170_234_435
+is_template = false
 language = "JavaScript"
 name = "website"
 node_id = "MDEwOlJlcG9zaXRvcnkxNzAyMzQ0MzU="

@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://stopcovid19.kanagawa.work/"
 id = 245_284_835
+is_template = false
 language = "Vue"
 name = "covid19"
 node_id = "MDEwOlJlcG9zaXRvcnkyNDUyODQ4MzU="

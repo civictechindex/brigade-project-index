@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 29_716_650
+is_template = false
 name = "hub"
 node_id = "MDEwOlJlcG9zaXRvcnkyOTcxNjY1MA=="
 open_issues_within = 10

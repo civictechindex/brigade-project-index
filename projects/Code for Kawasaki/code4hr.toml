@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = false
 homepage = "http://code4hr.org"
 id = 61_419_489
+is_template = false
 language = "HTML"
 name = "code4hr"
 node_id = "MDEwOlJlcG9zaXRvcnk2MTQxOTQ4OQ=="

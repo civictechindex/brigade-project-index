@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://cpb.openkawasaki.org/"
 id = 170_114_401
+is_template = false
 language = "CSS"
 name = "kcbp"
 node_id = "MDEwOlJlcG9zaXRvcnkxNzAxMTQ0MDE="
