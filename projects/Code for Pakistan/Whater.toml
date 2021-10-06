@@ -20,6 +20,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://codeforpakistan.github.io/Whater/"
 id = 127_149_478
+is_template = false
 language = "HTML"
 name = "Whater"
 node_id = "MDEwOlJlcG9zaXRvcnkxMjcxNDk0Nzg="

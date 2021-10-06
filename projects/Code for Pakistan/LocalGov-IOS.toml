@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 162_084_281
+is_template = false
 language = "Objective-C"
 name = "LocalGov-IOS"
 node_id = "MDEwOlJlcG9zaXRvcnkxNjIwODQyODE="

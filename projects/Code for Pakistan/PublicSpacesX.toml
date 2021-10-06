@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://gm.meteor.com"
 id = 31_128_011
+is_template = false
 language = "HTML"
 name = "PublicSpacesX"
 node_id = "MDEwOlJlcG9zaXRvcnkzMTEyODAxMQ=="

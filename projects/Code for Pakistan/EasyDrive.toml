@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 31_118_976
+is_template = false
 language = "JavaScript"
 name = "EasyDrive"
 node_id = "MDEwOlJlcG9zaXRvcnkzMTExODk3Ng=="

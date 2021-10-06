@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://157.230.33.6/"
 id = 247_709_423
+is_template = false
 language = "HTML"
 name = "covid19"
 node_id = "MDEwOlJlcG9zaXRvcnkyNDc3MDk0MjM="

@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 38_474_266
+is_template = false
 language = "Java"
 name = "Doctor-Finder"
 node_id = "MDEwOlJlcG9zaXRvcnkzODQ3NDI2Ng=="

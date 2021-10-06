@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 162_075_347
+is_template = false
 language = "JavaScript"
 name = "KPRA-GIMS"
 node_id = "MDEwOlJlcG9zaXRvcnkxNjIwNzUzNDc="

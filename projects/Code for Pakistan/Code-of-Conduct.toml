@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://codeforpakistan.github.io/codeofconduct/"
 id = 29_747_571
+is_template = false
 language = "HTML"
 name = "Code-of-Conduct"
 node_id = "MDEwOlJlcG9zaXRvcnkyOTc0NzU3MQ=="

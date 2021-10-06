@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 63_535_754
+is_template = false
 language = "Jupyter Notebook"
 name = "unioncouncils_netwrk_graph"
 node_id = "MDEwOlJlcG9zaXRvcnk2MzUzNTc1NA=="

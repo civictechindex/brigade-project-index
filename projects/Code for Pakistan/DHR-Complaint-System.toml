@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 162_075_506
+is_template = false
 language = "Java"
 name = "DHR-Complaint-System"
 node_id = "MDEwOlJlcG9zaXRvcnkxNjIwNzU1MDY="

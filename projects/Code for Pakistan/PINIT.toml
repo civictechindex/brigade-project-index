@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 100_854_753
+is_template = false
 name = "PINIT"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDA4NTQ3NTM="
 open_issues_within = 0

@@ -20,6 +20,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://115.186.130.3:19080/"
 id = 360_114_748
+is_template = false
 language = "PHP"
 name = "Disability-Certificate---One-Window-Operation"
 node_id = "MDEwOlJlcG9zaXRvcnkzNjAxMTQ3NDg="

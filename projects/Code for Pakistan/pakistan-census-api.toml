@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 108_739_648
+is_template = false
 language = "JavaScript"
 name = "pakistan-census-api"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDg3Mzk2NDg="

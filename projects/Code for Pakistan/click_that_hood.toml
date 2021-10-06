@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 24_422_151
+is_template = false
 language = "JavaScript"
 name = "click_that_hood"
 node_id = "MDEwOlJlcG9zaXRvcnkyNDQyMjE1MQ=="

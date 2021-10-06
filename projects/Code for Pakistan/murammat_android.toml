@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 63_532_664
+is_template = false
 language = "Java"
 name = "murammat_android"
 node_id = "MDEwOlJlcG9zaXRvcnk2MzUzMjY2NA=="

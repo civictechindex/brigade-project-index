@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 100_856_315
+is_template = false
 language = "Java"
 name = "Medloc"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDA4NTYzMTU="

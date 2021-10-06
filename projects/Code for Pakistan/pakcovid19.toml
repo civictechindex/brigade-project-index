@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 247_082_566
+is_template = false
 language = "TypeScript"
 name = "pakcovid19"
 node_id = "MDEwOlJlcG9zaXRvcnkyNDcwODI1NjY="

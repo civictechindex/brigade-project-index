@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 50_976_646
+is_template = false
 language = "PHP"
 name = "PDMA-Emergency"
 node_id = "MDEwOlJlcG9zaXRvcnk1MDk3NjY0Ng=="

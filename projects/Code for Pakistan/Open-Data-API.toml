@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 30_841_582
+is_template = false
 language = "Python"
 name = "Open-Data-API"
 node_id = "MDEwOlJlcG9zaXRvcnkzMDg0MTU4Mg=="

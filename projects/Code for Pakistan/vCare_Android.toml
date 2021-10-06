@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 100_858_593
+is_template = false
 language = "Java"
 name = "vCare_Android"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDA4NTg1OTM="

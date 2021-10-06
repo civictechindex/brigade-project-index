@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 323_876_918
+is_template = false
 name = "pehchan-example-client"
 node_id = "MDEwOlJlcG9zaXRvcnkzMjM4NzY5MTg="
 open_issues_within = 0

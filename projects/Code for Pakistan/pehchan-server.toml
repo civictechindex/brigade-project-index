@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 323_876_693
+is_template = false
 language = "Go"
 name = "pehchan-server"
 node_id = "MDEwOlJlcG9zaXRvcnkzMjM4NzY2OTM="

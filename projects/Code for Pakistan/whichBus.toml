@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 16_229_653
+is_template = false
 language = "JavaScript"
 name = "whichBus"
 node_id = "MDEwOlJlcG9zaXRvcnkxNjIyOTY1Mw=="

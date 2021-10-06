@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 121_349_924
+is_template = false
 language = "C#"
 name = "WSSA-BillingApp"
 node_id = "MDEwOlJlcG9zaXRvcnkxMjEzNDk5MjQ="

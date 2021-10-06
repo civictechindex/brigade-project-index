@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 16_250_466
+is_template = false
 language = "Java"
 name = "PakSaaf"
 node_id = "MDEwOlJlcG9zaXRvcnkxNjI1MDQ2Ng=="

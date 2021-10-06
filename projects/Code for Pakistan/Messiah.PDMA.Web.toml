@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://messiah-pdma.herokuapp.com/"
 id = 20_957_041
+is_template = false
 language = "JavaScript"
 name = "Messiah.PDMA.Web"
 node_id = "MDEwOlJlcG9zaXRvcnkyMDk1NzA0MQ=="

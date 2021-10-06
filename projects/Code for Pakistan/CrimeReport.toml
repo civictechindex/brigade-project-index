@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 31_160_145
+is_template = false
 language = "CSS"
 name = "CrimeReport"
 node_id = "MDEwOlJlcG9zaXRvcnkzMTE2MDE0NQ=="

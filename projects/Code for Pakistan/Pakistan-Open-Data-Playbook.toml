@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://codeforpakistan.github.io/Pakistan-Open-Data-Playbook/"
 id = 283_162_647
+is_template = false
 language = "HTML"
 name = "Pakistan-Open-Data-Playbook"
 node_id = "MDEwOlJlcG9zaXRvcnkyODMxNjI2NDc="

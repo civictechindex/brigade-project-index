@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 345_582_967
+is_template = false
 language = "JavaScript"
 name = "Open-Data-Day-2021"
 node_id = "MDEwOlJlcG9zaXRvcnkzNDU1ODI5Njc="

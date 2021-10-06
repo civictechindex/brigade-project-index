@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 323_015_376
+is_template = false
 language = "PHP"
 name = "NIH-Appointments"
 node_id = "MDEwOlJlcG9zaXRvcnkzMjMwMTUzNzY="

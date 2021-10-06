@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 31_128_597
+is_template = false
 language = "C#"
 name = "LightHouse2.0"
 node_id = "MDEwOlJlcG9zaXRvcnkzMTEyODU5Nw=="

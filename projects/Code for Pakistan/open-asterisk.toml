@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://openasterisk.net"
 id = 177_253_171
+is_template = false
 language = "HTML"
 name = "open-asterisk"
 node_id = "MDEwOlJlcG9zaXRvcnkxNzcyNTMxNzE="

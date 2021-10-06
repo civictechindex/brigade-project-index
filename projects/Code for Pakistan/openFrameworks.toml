@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://openframeworks.cc"
 id = 31_090_868
+is_template = false
 language = "C++"
 name = "openFrameworks"
 node_id = "MDEwOlJlcG9zaXRvcnkzMTA5MDg2OA=="

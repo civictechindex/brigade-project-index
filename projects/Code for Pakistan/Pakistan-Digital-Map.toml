@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://codeforpakistan.github.io/Pakistan-Digital-Map/"
 id = 111_994_671
+is_template = false
 language = "HTML"
 name = "Pakistan-Digital-Map"
 node_id = "MDEwOlJlcG9zaXRvcnkxMTE5OTQ2NzE="

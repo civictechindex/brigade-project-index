@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 16_450_052
+is_template = false
 language = "PHP"
 name = "CRIME-REPORTING-MAP"
 node_id = "MDEwOlJlcG9zaXRvcnkxNjQ1MDA1Mg=="

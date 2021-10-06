@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 22_807_882
+is_template = false
 language = "CSS"
 name = "DocSeek-web-admin"
 node_id = "MDEwOlJlcG9zaXRvcnkyMjgwNzg4Mg=="
