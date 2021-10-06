@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 25_814_031
+is_template = false
 language = "Python"
 name = "web-scraping"
 node_id = "MDEwOlJlcG9zaXRvcnkyNTgxNDAzMQ=="

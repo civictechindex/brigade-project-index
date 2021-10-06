@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 188_715_582
+is_template = false
 language = "Python"
 name = "historical_aerial_downloader"
 node_id = "MDEwOlJlcG9zaXRvcnkxODg3MTU1ODI="

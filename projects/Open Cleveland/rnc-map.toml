@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = false
 homepage = ""
 id = 63_244_749
+is_template = false
 language = "JavaScript"
 name = "rnc-map"
 node_id = "MDEwOlJlcG9zaXRvcnk2MzI0NDc0OQ=="

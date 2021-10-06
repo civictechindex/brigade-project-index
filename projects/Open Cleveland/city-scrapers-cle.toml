@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://cityscrapers.org/"
 id = 220_122_265
+is_template = false
 language = "Python"
 name = "city-scrapers-cle"
 node_id = "MDEwOlJlcG9zaXRvcnkyMjAxMjIyNjU="

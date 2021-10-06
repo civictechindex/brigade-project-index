@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = false
 homepage = ""
 id = 43_621_229
+is_template = false
 language = "CoffeeScript"
 name = "tacofancy"
 node_id = "MDEwOlJlcG9zaXRvcnk0MzYyMTIyOQ=="

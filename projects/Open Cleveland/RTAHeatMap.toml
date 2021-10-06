@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 43_398_627
+is_template = false
 language = "Python"
 name = "RTAHeatMap"
 node_id = "MDEwOlJlcG9zaXRvcnk0MzM5ODYyNw=="

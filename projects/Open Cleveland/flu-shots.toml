@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://opencleveland.github.io/flu-shots/"
 id = 26_563_576
+is_template = false
 language = "JavaScript"
 name = "flu-shots"
 node_id = "MDEwOlJlcG9zaXRvcnkyNjU2MzU3Ng=="

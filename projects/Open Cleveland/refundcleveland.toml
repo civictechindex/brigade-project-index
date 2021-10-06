@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 300_083_238
+is_template = false
 language = "JavaScript"
 name = "refundcleveland"
 node_id = "MDEwOlJlcG9zaXRvcnkzMDAwODMyMzg="

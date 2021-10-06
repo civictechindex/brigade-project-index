@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://opencleveland.github.io/snowban"
 id = 49_884_159
+is_template = false
 language = "HTML"
 name = "snowban"
 node_id = "MDEwOlJlcG9zaXRvcnk0OTg4NDE1OQ=="

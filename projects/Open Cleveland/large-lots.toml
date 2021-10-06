@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://www.clevelandlots.org"
 id = 26_566_942
+is_template = false
 language = "HTML"
 name = "large-lots"
 node_id = "MDEwOlJlcG9zaXRvcnkyNjU2Njk0Mg=="

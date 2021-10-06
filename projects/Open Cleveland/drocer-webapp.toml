@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 67_635_075
+is_template = false
 language = "Python"
 name = "drocer-webapp"
 node_id = "MDEwOlJlcG9zaXRvcnk2NzYzNTA3NQ=="

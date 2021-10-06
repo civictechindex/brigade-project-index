@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://opencleveland.github.io/collins"
 id = 33_339_223
+is_template = false
 language = "HTML"
 name = "collins"
 node_id = "MDEwOlJlcG9zaXRvcnkzMzMzOTIyMw=="

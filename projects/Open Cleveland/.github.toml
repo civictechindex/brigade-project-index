@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://help.github.com/en/github/building-a-strong-community/creating-a-default-community-health-file-for-your-organization"
 id = 216_904_408
+is_template = false
 name = ".github"
 node_id = "MDEwOlJlcG9zaXRvcnkyMTY5MDQ0MDg="
 open_issues_within = 0
