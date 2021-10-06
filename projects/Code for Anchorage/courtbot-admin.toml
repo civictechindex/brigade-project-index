@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 122_288_102
+is_template = false
 language = "Vue"
 name = "courtbot-admin"
 node_id = "MDEwOlJlcG9zaXRvcnkxMjIyODgxMDI="

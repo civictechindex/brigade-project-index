@@ -23,6 +23,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://codeforanchorage.org/pfd-names/"
 id = 274_567_484
+is_template = false
 language = "HTML"
 name = "pfd-names"
 node_id = "MDEwOlJlcG9zaXRvcnkyNzQ1Njc0ODQ="

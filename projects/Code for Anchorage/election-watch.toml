@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 27_999_519
+is_template = false
 language = "Perl"
 name = "election-watch"
 node_id = "MDEwOlJlcG9zaXRvcnkyNzk5OTUxOQ=="

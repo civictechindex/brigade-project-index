@@ -18,6 +18,7 @@ has_pages = true
 has_projects = true
 has_wiki = true
 id = 143_951_443
+is_template = false
 language = "JavaScript"
 name = "election-watch-node"
 node_id = "MDEwOlJlcG9zaXRvcnkxNDM5NTE0NDM="

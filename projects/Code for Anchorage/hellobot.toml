@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 37_930_672
+is_template = false
 name = "hellobot"
 node_id = "MDEwOlJlcG9zaXRvcnkzNzkzMDY3Mg=="
 open_issues_within = 0

@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 35_525_078
+is_template = false
 language = "Python"
 name = "moa_property_tax_geojson"
 node_id = "MDEwOlJlcG9zaXRvcnkzNTUyNTA3OA=="

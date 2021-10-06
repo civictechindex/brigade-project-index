@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://www.facebook.com/groups/1607335859320104/"
 id = 37_878_239
+is_template = false
 name = "forget-me-not"
 node_id = "MDEwOlJlcG9zaXRvcnkzNzg3ODIzOQ=="
 open_issues_within = 10

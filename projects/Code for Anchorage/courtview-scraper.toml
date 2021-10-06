@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 31_353_491
+is_template = false
 language = "Perl"
 name = "courtview-scraper"
 node_id = "MDEwOlJlcG9zaXRvcnkzMTM1MzQ5MQ=="

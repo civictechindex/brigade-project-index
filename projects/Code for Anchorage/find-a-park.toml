@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://codeforanchorage.org/find-a-park/"
 id = 46_838_010
+is_template = false
 language = "JavaScript"
 name = "find-a-park"
 node_id = "MDEwOlJlcG9zaXRvcnk0NjgzODAxMA=="

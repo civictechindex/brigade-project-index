@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 25_386_325
+is_template = false
 language = "Ruby"
 name = "CutePets"
 node_id = "MDEwOlJlcG9zaXRvcnkyNTM4NjMyNQ=="

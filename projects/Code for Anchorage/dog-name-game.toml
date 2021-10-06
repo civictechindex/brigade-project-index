@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = false
 homepage = "http://codeforanchorage.org/dog-name-game/"
 id = 93_560_945
+is_template = false
 language = "JavaScript"
 name = "dog-name-game"
 node_id = "MDEwOlJlcG9zaXRvcnk5MzU2MDk0NQ=="

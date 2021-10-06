@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 21_637_897
+is_template = false
 language = "R"
 name = "dipnet_app"
 node_id = "MDEwOlJlcG9zaXRvcnkyMTYzNzg5Nw=="

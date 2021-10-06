@@ -29,6 +29,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://land.codeforanchorage.org/"
 id = 271_167_118
+is_template = false
 language = "Python"
 name = "land_acknowledgement"
 node_id = "MDEwOlJlcG9zaXRvcnkyNzExNjcxMTg="

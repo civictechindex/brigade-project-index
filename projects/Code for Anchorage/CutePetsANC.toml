@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 46_842_483
+is_template = false
 language = "Ruby"
 name = "CutePetsANC"
 node_id = "MDEwOlJlcG9zaXRvcnk0Njg0MjQ4Mw=="
