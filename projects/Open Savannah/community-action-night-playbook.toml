@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://opensavannah.github.io/community-action-night-playbook/"
 id = 137_783_603
+is_template = false
 name = "community-action-night-playbook"
 node_id = "MDEwOlJlcG9zaXRvcnkxMzc3ODM2MDM="
 open_issues_within = 0

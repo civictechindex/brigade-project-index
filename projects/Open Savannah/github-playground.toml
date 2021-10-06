@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 141_727_758
+is_template = false
 language = "Jupyter Notebook"
 name = "github-playground"
 node_id = "MDEwOlJlcG9zaXRvcnkxNDE3Mjc3NTg="

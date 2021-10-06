@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = false
 homepage = "http://www.cityvoiceapp.com/"
 id = 83_941_499
+is_template = false
 language = "Ruby"
 name = "cityvoice"
 node_id = "MDEwOlJlcG9zaXRvcnk4Mzk0MTQ5OQ=="

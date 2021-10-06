@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 195_655_531
+is_template = false
 language = "Python"
 name = "rasa-savfloodchat"
 node_id = "MDEwOlJlcG9zaXRvcnkxOTU2NTU1MzE="

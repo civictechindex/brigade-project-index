@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://opensavannah.github.io/resilience-guidebook"
 id = 83_318_435
+is_template = false
 language = "JavaScript"
 name = "leaflet-maps-with-google-sheets"
 node_id = "MDEwOlJlcG9zaXRvcnk4MzMxODQzNQ=="

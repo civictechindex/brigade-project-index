@@ -30,6 +30,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://opensavannah.github.io/track-a-cat"
 id = 86_278_315
+is_template = false
 name = "track-a-cat"
 node_id = "MDEwOlJlcG9zaXRvcnk4NjI3ODMxNQ=="
 open_issues_within = 10

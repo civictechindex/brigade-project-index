@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 76_230_186
+is_template = false
 language = "R"
 name = "georgia-restaurant-inspections"
 node_id = "MDEwOlJlcG9zaXRvcnk3NjIzMDE4Ng=="

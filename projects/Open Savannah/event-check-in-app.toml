@@ -27,6 +27,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 169_902_438
+is_template = false
 language = "PHP"
 name = "event-check-in-app"
 node_id = "MDEwOlJlcG9zaXRvcnkxNjk5MDI0Mzg="

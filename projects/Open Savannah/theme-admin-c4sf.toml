@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 86_134_838
+is_template = false
 language = "JavaScript"
 name = "theme-admin-c4sf"
 node_id = "MDEwOlJlcG9zaXRvcnk4NjEzNDgzOA=="

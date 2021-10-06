@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 132_550_954
+is_template = false
 language = "JavaScript"
 name = "savannah-aldermanic-lookup-app"
 node_id = "MDEwOlJlcG9zaXRvcnkxMzI1NTA5NTQ="

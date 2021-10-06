@@ -20,6 +20,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://www.globalresiliencepartnership.org/"
 id = 182_493_361
+is_template = false
 language = "JavaScript"
 name = "globalresiliencepartnership.github.io"
 node_id = "MDEwOlJlcG9zaXRvcnkxODI0OTMzNjE="

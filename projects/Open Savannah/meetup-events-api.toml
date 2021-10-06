@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://meetup-events-api.herokuapp.com/meetup_events/nldm.html"
 id = 158_528_041
+is_template = false
 language = "CSS"
 name = "meetup-events-api"
 node_id = "MDEwOlJlcG9zaXRvcnkxNTg1MjgwNDE="

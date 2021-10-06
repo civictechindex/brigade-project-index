@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 177_832_134
+is_template = false
 language = "JavaScript"
 name = "ctxfloods"
 node_id = "MDEwOlJlcG9zaXRvcnkxNzc4MzIxMzQ="

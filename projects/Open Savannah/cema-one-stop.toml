@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 132_163_356
+is_template = false
 language = "JavaScript"
 name = "cema-one-stop"
 node_id = "MDEwOlJlcG9zaXRvcnkxMzIxNjMzNTY="

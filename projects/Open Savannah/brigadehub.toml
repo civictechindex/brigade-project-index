@@ -30,6 +30,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://opensavannah.org"
 id = 84_253_302
+is_template = false
 language = "JavaScript"
 name = "brigadehub"
 node_id = "MDEwOlJlcG9zaXRvcnk4NDI1MzMwMg=="

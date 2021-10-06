@@ -28,6 +28,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://opensavannah.github.io/human-services-link"
 id = 102_988_121
+is_template = false
 language = "HTML"
 name = "human-services-link"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDI5ODgxMjE="

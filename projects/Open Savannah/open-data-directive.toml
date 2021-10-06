@@ -27,6 +27,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 84_412_091
+is_template = false
 name = "open-data-directive"
 node_id = "MDEwOlJlcG9zaXRvcnk4NDQxMjA5MQ=="
 open_issues_within = 0

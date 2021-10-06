@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = false
 homepage = "http://openlexington.org"
 id = 83_653_994
+is_template = false
 language = "CSS"
 name = "openlexington.org"
 node_id = "MDEwOlJlcG9zaXRvcnk4MzY1Mzk5NA=="

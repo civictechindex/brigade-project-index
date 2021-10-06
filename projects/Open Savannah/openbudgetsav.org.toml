@@ -35,6 +35,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://openbudgetsav.org"
 id = 98_285_862
+is_template = false
 language = "HTML"
 name = "openbudgetsav.org"
 node_id = "MDEwOlJlcG9zaXRvcnk5ODI4NTg2Mg=="

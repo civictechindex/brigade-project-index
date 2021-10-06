@@ -30,6 +30,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://savbook.io"
 id = 86_938_554
+is_template = false
 language = "JavaScript"
 name = "savbook"
 node_id = "MDEwOlJlcG9zaXRvcnk4NjkzODU1NA=="

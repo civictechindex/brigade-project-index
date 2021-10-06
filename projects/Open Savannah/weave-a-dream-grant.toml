@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 145_720_889
+is_template = false
 name = "weave-a-dream-grant"
 node_id = "MDEwOlJlcG9zaXRvcnkxNDU3MjA4ODk="
 open_issues_within = 0

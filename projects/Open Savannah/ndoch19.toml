@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "github.com"
 id = 210_128_430
+is_template = false
 name = "ndoch19"
 node_id = "MDEwOlJlcG9zaXRvcnkyMTAxMjg0MzA="
 open_issues_within = 0

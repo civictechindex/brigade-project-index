@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 190_615_951
+is_template = false
 language = "Python"
 name = "Flood-Tracker-App"
 node_id = "MDEwOlJlcG9zaXRvcnkxOTA2MTU5NTE="

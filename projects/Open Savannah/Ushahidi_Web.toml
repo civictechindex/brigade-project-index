@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = false
 homepage = "http://www.ushahidi.com"
 id = 96_408_871
+is_template = false
 language = "PHP"
 name = "Ushahidi_Web"
 node_id = "MDEwOlJlcG9zaXRvcnk5NjQwODg3MQ=="

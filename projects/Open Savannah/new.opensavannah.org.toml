@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://new.opensavannah.org"
 id = 136_605_246
+is_template = false
 language = "JavaScript"
 name = "new.opensavannah.org"
 node_id = "MDEwOlJlcG9zaXRvcnkxMzY2MDUyNDY="

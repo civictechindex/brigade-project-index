@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://codeforftl.org/OpenDataPolicy"
 id = 180_903_743
+is_template = false
 language = "HTML"
 name = "OpenDataPolicy"
 node_id = "MDEwOlJlcG9zaXRvcnkxODA5MDM3NDM="

@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 112_429_140
+is_template = false
 name = "data-jargon"
 node_id = "MDEwOlJlcG9zaXRvcnkxMTI0MjkxNDA="
 open_issues_within = 0

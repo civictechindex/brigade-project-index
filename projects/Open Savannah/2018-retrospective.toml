@@ -21,6 +21,7 @@ has_pages = true
 has_projects = true
 has_wiki = true
 id = 160_249_976
+is_template = false
 name = "2018-retrospective"
 node_id = "MDEwOlJlcG9zaXRvcnkxNjAyNDk5NzY="
 open_issues_within = 10

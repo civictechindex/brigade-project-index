@@ -27,6 +27,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 159_201_346
+is_template = false
 name = "open-data-day-2019"
 node_id = "MDEwOlJlcG9zaXRvcnkxNTkyMDEzNDY="
 open_issues_within = 10

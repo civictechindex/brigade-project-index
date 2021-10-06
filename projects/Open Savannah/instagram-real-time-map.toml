@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 81_961_561
+is_template = false
 language = "JavaScript"
 name = "instagram-real-time-map"
 node_id = "MDEwOlJlcG9zaXRvcnk4MTk2MTU2MQ=="

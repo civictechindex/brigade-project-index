@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://opensavannah.github.io/18f.gsa.gov"
 id = 146_435_248
+is_template = false
 language = "CSS"
 name = "18f.gsa.gov"
 node_id = "MDEwOlJlcG9zaXRvcnkxNDY0MzUyNDg="

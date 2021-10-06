@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 188_896_162
+is_template = false
 language = "JavaScript"
 name = "ctxfloods-backend"
 node_id = "MDEwOlJlcG9zaXRvcnkxODg4OTYxNjI="

@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://openmaps.raleighnc.gov/budgetvisualization/"
 id = 82_643_742
+is_template = false
 language = "JavaScript"
 name = "Visual-Town-Budget"
 node_id = "MDEwOlJlcG9zaXRvcnk4MjY0Mzc0Mg=="

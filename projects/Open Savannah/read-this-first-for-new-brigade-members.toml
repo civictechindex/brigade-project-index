@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://opensavannah.org"
 id = 81_639_096
+is_template = false
 name = "read-this-first-for-new-brigade-members"
 node_id = "MDEwOlJlcG9zaXRvcnk4MTYzOTA5Ng=="
 open_issues_within = 0

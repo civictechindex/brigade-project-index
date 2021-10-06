@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://lgrow-staging.herokuapp.com"
 id = 190_967_817
+is_template = false
 language = "Python"
 name = "adopt-a-drain"
 node_id = "MDEwOlJlcG9zaXRvcnkxOTA5Njc4MTc="

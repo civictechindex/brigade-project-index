@@ -28,6 +28,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 147_800_434
+is_template = false
 language = "JavaScript"
 name = "citycampsav.org"
 node_id = "MDEwOlJlcG9zaXRvcnkxNDc4MDA0MzQ="

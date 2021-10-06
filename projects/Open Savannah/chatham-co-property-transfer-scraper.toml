@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://morph.io/opensavannah/chatham-co-property-transfer-scraper"
 id = 98_501_554
+is_template = false
 language = "Ruby"
 name = "chatham-co-property-transfer-scraper"
 node_id = "MDEwOlJlcG9zaXRvcnk5ODUwMTU1NA=="

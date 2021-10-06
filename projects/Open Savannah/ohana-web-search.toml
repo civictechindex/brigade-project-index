@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://ohana-web-search-demo.herokuapp.com"
 id = 100_308_101
+is_template = false
 language = "CSS"
 name = "ohana-web-search"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDAzMDgxMDE="

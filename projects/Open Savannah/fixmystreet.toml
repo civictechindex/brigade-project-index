@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://fixmystreet.org/"
 id = 85_534_260
+is_template = false
 language = "Perl"
 name = "fixmystreet"
 node_id = "MDEwOlJlcG9zaXRvcnk4NTUzNDI2MA=="

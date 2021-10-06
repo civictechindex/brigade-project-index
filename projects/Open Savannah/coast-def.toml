@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = false
 id = 177_832_745
+is_template = false
 language = "Python"
 name = "coast-def"
 node_id = "MDEwOlJlcG9zaXRvcnkxNzc4MzI3NDU="

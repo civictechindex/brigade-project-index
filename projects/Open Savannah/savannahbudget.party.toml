@@ -30,6 +30,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://savannahbudget.party"
 id = 140_520_050
+is_template = false
 language = "JavaScript"
 name = "savannahbudget.party"
 node_id = "MDEwOlJlcG9zaXRvcnkxNDA1MjAwNTA="

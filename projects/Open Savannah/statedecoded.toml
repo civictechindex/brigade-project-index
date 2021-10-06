@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://www.statedecoded.com/"
 id = 87_755_272
+is_template = false
 language = "PHP"
 name = "statedecoded"
 node_id = "MDEwOlJlcG9zaXRvcnk4Nzc1NTI3Mg=="

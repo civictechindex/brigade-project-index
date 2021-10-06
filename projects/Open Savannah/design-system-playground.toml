@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://johnpolacek.github.io/design-system-playground/"
 id = 174_918_657
+is_template = false
 language = "JavaScript"
 name = "design-system-playground"
 node_id = "MDEwOlJlcG9zaXRvcnkxNzQ5MTg2NTc="

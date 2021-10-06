@@ -36,6 +36,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://hackforsavannah.org"
 id = 103_353_537
+is_template = false
 language = "JavaScript"
 name = "hackforsavannah.org"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDMzNTM1Mzc="

@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = false
 homepage = "http://wiki.opensavannah.org"
 id = 96_968_663
+is_template = false
 language = "CSS"
 name = "wiki"
 node_id = "MDEwOlJlcG9zaXRvcnk5Njk2ODY2Mw=="

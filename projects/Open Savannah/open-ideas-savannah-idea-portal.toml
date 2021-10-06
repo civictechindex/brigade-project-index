@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://ideas.opensavannah.org"
 id = 82_939_996
+is_template = false
 language = "JavaScript"
 name = "open-ideas-savannah-idea-portal"
 node_id = "MDEwOlJlcG9zaXRvcnk4MjkzOTk5Ng=="

@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://clvfoodtrucks.com"
 id = 84_260_261
+is_template = false
 language = "CSS"
 name = "lv-trucks-map"
 node_id = "MDEwOlJlcG9zaXRvcnk4NDI2MDI2MQ=="

@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 100_465_162
+is_template = false
 name = "ndoch17"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDA0NjUxNjI="
 open_issues_within = 10

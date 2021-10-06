@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://drainsavannah.org"
 id = 193_142_651
+is_template = false
 language = "Ruby"
 name = "app.drainsavannah.org"
 node_id = "MDEwOlJlcG9zaXRvcnkxOTMxNDI2NTE="

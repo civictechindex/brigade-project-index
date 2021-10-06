@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://whereshj.github.io/finda"
 id = 83_605_422
+is_template = false
 language = "JavaScript"
 name = "finda"
 node_id = "MDEwOlJlcG9zaXRvcnk4MzYwNTQyMg=="

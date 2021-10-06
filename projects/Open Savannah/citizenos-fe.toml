@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 147_046_560
+is_template = false
 language = "JavaScript"
 name = "citizenos-fe"
 node_id = "MDEwOlJlcG9zaXRvcnkxNDcwNDY1NjA="

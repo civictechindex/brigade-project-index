@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://opensavannah.github.io/projects"
 id = 93_231_541
+is_template = false
 name = "Project-Intake"
 node_id = "MDEwOlJlcG9zaXRvcnk5MzIzMTU0MQ=="
 open_issues_within = 0

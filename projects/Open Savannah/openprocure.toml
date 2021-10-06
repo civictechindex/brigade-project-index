@@ -30,6 +30,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://openprocure.us"
 id = 85_272_167
+is_template = false
 language = "CSS"
 name = "openprocure"
 node_id = "MDEwOlJlcG9zaXRvcnk4NTI3MjE2Nw=="

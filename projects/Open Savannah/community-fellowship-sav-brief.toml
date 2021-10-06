@@ -30,6 +30,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://opensavannah.github.io/community-fellowship-sav-brief"
 id = 132_698_252
+is_template = false
 name = "community-fellowship-sav-brief"
 node_id = "MDEwOlJlcG9zaXRvcnkxMzI2OTgyNTI="
 open_issues_within = 0

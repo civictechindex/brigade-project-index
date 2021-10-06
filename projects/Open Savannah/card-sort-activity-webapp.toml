@@ -27,6 +27,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 170_080_917
+is_template = false
 language = "Vue"
 name = "card-sort-activity-webapp"
 node_id = "MDEwOlJlcG9zaXRvcnkxNzAwODA5MTc="

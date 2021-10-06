@@ -32,6 +32,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://opensavannah.github.io/savmaps"
 id = 92_604_766
+is_template = false
 language = "JavaScript"
 name = "savmaps"
 node_id = "MDEwOlJlcG9zaXRvcnk5MjYwNDc2Ng=="

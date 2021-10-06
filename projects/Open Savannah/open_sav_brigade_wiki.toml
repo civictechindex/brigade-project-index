@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://wikisav.herokuapp.com"
 id = 80_954_529
+is_template = false
 language = "Python"
 name = "open_sav_brigade_wiki"
 node_id = "MDEwOlJlcG9zaXRvcnk4MDk1NDUyOQ=="

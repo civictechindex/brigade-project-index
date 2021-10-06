@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://github.com/OneBusAway/onebusaway-application-modules/wiki"
 id = 101_237_294
+is_template = false
 language = "Java"
 name = "onebusaway-application-modules"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDEyMzcyOTQ="

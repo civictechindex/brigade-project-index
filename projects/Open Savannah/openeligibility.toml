@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 100_271_178
+is_template = false
 name = "openeligibility"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDAyNzExNzg="
 open_issues_within = 0

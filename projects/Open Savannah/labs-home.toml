@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://planninglabs.nyc/"
 id = 181_195_252
+is_template = false
 language = "JavaScript"
 name = "labs-home"
 node_id = "MDEwOlJlcG9zaXRvcnkxODExOTUyNTI="

@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://opensavannah.github.io/courtbot"
 id = 137_327_382
+is_template = false
 language = "JavaScript"
 name = "courtbot"
 node_id = "MDEwOlJlcG9zaXRvcnkxMzczMjczODI="

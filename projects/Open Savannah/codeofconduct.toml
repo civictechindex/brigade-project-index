@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://opensavannah.github.io/codeofconduct"
 id = 76_090_075
+is_template = false
 name = "codeofconduct"
 node_id = "MDEwOlJlcG9zaXRvcnk3NjA5MDA3NQ=="
 open_issues_within = 0
