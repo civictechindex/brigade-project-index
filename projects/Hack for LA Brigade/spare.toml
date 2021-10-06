@@ -37,6 +37,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://whatcanyouspare.org/"
 id = 127_079_094
+is_template = false
 language = "Python"
 name = "spare"
 node_id = "MDEwOlJlcG9zaXRvcnkxMjcwNzkwOTQ="

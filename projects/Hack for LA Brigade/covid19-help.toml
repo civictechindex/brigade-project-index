@@ -32,6 +32,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://sites.google.com/view/lacommunityresources/population-groups"
 id = 248_011_031
+is_template = false
 name = "covid19-help"
 node_id = "MDEwOlJlcG9zaXRvcnkyNDgwMTEwMzE="
 open_issues_within = 10

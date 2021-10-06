@@ -21,6 +21,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 155_295_655
+is_template = false
 language = "Python"
 name = "performance_tracker"
 node_id = "MDEwOlJlcG9zaXRvcnkxNTUyOTU2NTU="

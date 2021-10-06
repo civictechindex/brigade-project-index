@@ -27,6 +27,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 222_602_391
+is_template = false
 language = "Dart"
 name = "new-schools-today"
 node_id = "MDEwOlJlcG9zaXRvcnkyMjI2MDIzOTE="

@@ -31,6 +31,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://hellogov.app"
 id = 76_137_532
+is_template = false
 language = "JavaScript"
 name = "webapp"
 node_id = "MDEwOlJlcG9zaXRvcnk3NjEzNzUzMg=="

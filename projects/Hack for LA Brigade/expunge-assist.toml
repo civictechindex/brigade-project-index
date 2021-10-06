@@ -31,6 +31,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 218_391_110
+is_template = false
 language = "TypeScript"
 name = "expunge-assist"
 node_id = "MDEwOlJlcG9zaXRvcnkyMTgzOTExMTA="

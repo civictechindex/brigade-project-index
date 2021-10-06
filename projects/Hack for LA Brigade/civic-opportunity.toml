@@ -31,6 +31,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 273_746_448
+is_template = false
 name = "civic-opportunity"
 node_id = "MDEwOlJlcG9zaXRvcnkyNzM3NDY0NDg="
 open_issues_within = 100

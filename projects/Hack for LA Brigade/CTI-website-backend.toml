@@ -29,6 +29,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 275_296_439
+is_template = false
 language = "Python"
 name = "CTI-website-backend"
 node_id = "MDEwOlJlcG9zaXRvcnkyNzUyOTY0Mzk="

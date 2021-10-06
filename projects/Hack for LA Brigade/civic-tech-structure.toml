@@ -29,6 +29,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 293_907_049
+is_template = false
 name = "civic-tech-structure"
 node_id = "MDEwOlJlcG9zaXRvcnkyOTM5MDcwNDk="
 open_issues_within = 10

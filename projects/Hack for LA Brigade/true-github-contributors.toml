@@ -30,6 +30,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 293_636_694
+is_template = false
 language = "JavaScript"
 name = "true-github-contributors"
 node_id = "MDEwOlJlcG9zaXRvcnkyOTM2MzY2OTQ="

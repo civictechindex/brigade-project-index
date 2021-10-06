@@ -32,6 +32,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://www.311-data.org"
 id = 190_321_758
+is_template = false
 language = "JavaScript"
 name = "311-data"
 node_id = "MDEwOlJlcG9zaXRvcnkxOTAzMjE3NTg="

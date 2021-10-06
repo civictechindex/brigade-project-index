@@ -30,6 +30,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://www.hackforla.org"
 id = 130_000_551
+is_template = false
 language = "HTML"
 name = "website"
 node_id = "MDEwOlJlcG9zaXRvcnkxMzAwMDA1NTE="

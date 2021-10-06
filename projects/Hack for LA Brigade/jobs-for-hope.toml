@@ -30,6 +30,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://jobs-for-hope.herokuapp.com/"
 id = 140_512_203
+is_template = false
 language = "JavaScript"
 name = "jobs-for-hope"
 node_id = "MDEwOlJlcG9zaXRvcnkxNDA1MTIyMDM="

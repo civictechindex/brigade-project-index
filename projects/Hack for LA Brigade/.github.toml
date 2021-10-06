@@ -28,6 +28,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 192_279_828
+is_template = true
 name = ".github"
 node_id = "MDEwOlJlcG9zaXRvcnkxOTIyNzk4Mjg="
 open_issues_within = 10

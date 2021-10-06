@@ -31,6 +31,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 221_070_186
+is_template = false
 language = "JavaScript"
 name = "undebate"
 node_id = "MDEwOlJlcG9zaXRvcnkyMjEwNzAxODY="

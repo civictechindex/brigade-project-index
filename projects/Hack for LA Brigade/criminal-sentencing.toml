@@ -19,6 +19,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 157_484_926
+is_template = false
 language = "Jupyter Notebook"
 name = "criminal-sentencing"
 node_id = "MDEwOlJlcG9zaXRvcnkxNTc0ODQ5MjY="

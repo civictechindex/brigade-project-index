@@ -31,6 +31,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://civictechindex.org"
 id = 241_519_642
+is_template = false
 language = "JavaScript"
 name = "CTI-website-frontend"
 node_id = "MDEwOlJlcG9zaXRvcnkyNDE1MTk2NDI="

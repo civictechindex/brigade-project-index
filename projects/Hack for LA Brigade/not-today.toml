@@ -25,6 +25,7 @@ has_pages = true
 has_projects = true
 has_wiki = true
 id = 202_051_333
+is_template = false
 language = "TypeScript"
 name = "not-today"
 node_id = "MDEwOlJlcG9zaXRvcnkyMDIwNTEzMzM="

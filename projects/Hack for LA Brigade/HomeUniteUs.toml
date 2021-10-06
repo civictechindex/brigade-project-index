@@ -34,6 +34,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://homeunite.us/"
 id = 228_981_080
+is_template = false
 language = "TypeScript"
 name = "HomeUniteUs"
 node_id = "MDEwOlJlcG9zaXRvcnkyMjg5ODEwODA="

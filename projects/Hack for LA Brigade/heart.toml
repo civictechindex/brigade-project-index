@@ -32,6 +32,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://www.lacityattorney.org/community-justice"
 id = 159_286_729
+is_template = false
 language = "JavaScript"
 name = "heart"
 node_id = "MDEwOlJlcG9zaXRvcnkxNTkyODY3Mjk="

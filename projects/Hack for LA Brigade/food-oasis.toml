@@ -36,6 +36,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://foodoasis.la"
 id = 215_666_884
+is_template = false
 language = "JavaScript"
 name = "food-oasis"
 node_id = "MDEwOlJlcG9zaXRvcnkyMTU2NjY4ODQ="

@@ -28,6 +28,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 212_485_601
+is_template = false
 name = "super-duper-easy-map-template"
 node_id = "MDEwOlJlcG9zaXRvcnkyMTI0ODU2MDE="
 open_issues_within = 0
