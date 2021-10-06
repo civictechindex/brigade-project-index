@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 117_457_950
+is_template = false
 language = "PHP"
 name = "WaterPollution.WEB"
 node_id = "MDEwOlJlcG9zaXRvcnkxMTc0NTc5NTA="

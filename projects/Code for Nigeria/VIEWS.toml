@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 130_994_622
+is_template = false
 language = "Matlab"
 name = "VIEWS"
 node_id = "MDEwOlJlcG9zaXRvcnkxMzA5OTQ2MjI="

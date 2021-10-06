@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 92_723_309
+is_template = false
 language = "PHP"
 name = "HealthFacilitiesLocator.TZ"
 node_id = "MDEwOlJlcG9zaXRvcnk5MjcyMzMwOQ=="

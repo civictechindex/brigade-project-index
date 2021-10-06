@@ -20,6 +20,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://hap.ke.sensors.africa/"
 id = 321_619_427
+is_template = false
 language = "JavaScript"
 name = "sensors.AFRICA-Dashboard-KE-HAP"
 node_id = "MDEwOlJlcG9zaXRvcnkzMjE2MTk0Mjc="

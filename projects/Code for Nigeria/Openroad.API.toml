@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 137_335_711
+is_template = false
 language = "Python"
 name = "Openroad.API"
 node_id = "MDEwOlJlcG9zaXRvcnkxMzczMzU3MTE="

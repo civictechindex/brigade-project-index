@@ -38,6 +38,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://ezolwaluko.org.za/en"
 id = 137_753_766
+is_template = false
 language = "HTML"
 name = "HealthTools.ZA-Ezolwaluko"
 node_id = "MDEwOlJlcG9zaXRvcnkxMzc3NTM3NjY="

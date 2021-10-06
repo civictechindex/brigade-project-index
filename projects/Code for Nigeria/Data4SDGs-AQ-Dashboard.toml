@@ -23,6 +23,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://data4sdgs.sensors.africa"
 id = 292_761_259
+is_template = false
 language = "JavaScript"
 name = "Data4SDGs-AQ-Dashboard"
 node_id = "MDEwOlJlcG9zaXRvcnkyOTI3NjEyNTk="

@@ -23,6 +23,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://codeforafrica.github.io/COMMONS-UI"
 id = 252_171_327
+is_template = false
 language = "JavaScript"
 name = "COMMONS-UI"
 node_id = "MDEwOlJlcG9zaXRvcnkyNTIxNzEzMjc="

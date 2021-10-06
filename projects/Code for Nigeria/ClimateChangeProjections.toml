@@ -34,6 +34,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://climatechange.codeforafrica.org"
 id = 76_840_887
+is_template = false
 language = "JavaScript"
 name = "ClimateChangeProjections"
 node_id = "MDEwOlJlcG9zaXRvcnk3Njg0MDg4Nw=="

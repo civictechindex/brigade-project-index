@@ -27,6 +27,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 103_719_371
+is_template = false
 language = "Python"
 name = "ckanext-notify"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDM3MTkzNzE="

@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://mikelmaron.github.io/hhnbo-mbx-2019/"
 id = 202_572_098
+is_template = false
 language = "JavaScript"
 name = "hhnbo-mbx-2019"
 node_id = "MDEwOlJlcG9zaXRvcnkyMDI1NzIwOTg="

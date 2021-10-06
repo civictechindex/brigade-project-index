@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://sourceafrica.net"
 id = 35_208_152
+is_template = false
 language = "PHP"
 name = "sourceAFRICA.WP-Plugin"
 node_id = "MDEwOlJlcG9zaXRvcnkzNTIwODE1Mg=="

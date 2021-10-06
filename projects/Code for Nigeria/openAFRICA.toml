@@ -43,6 +43,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://openafrica.net/"
 id = 101_888_981
+is_template = false
 language = "Dockerfile"
 name = "openAFRICA"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDE4ODg5ODE="

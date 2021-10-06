@@ -42,6 +42,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://hurumap.org"
 id = 134_069_925
+is_template = false
 language = "HTML"
 name = "HURUmap"
 node_id = "MDEwOlJlcG9zaXRvcnkxMzQwNjk5MjU="

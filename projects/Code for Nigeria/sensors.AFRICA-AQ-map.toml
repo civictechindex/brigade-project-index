@@ -41,6 +41,7 @@ has_projects = true
 has_wiki = false
 homepage = "https://map.aq.sensors.africa/"
 id = 95_649_394
+is_template = false
 language = "HTML"
 name = "sensors.AFRICA-AQ-map"
 node_id = "MDEwOlJlcG9zaXRvcnk5NTY0OTM5NA=="
