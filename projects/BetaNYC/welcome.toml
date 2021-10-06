@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = false
 homepage = "welcome.c4hrva.us"
 id = 12_850_427
+is_template = false
 language = "CSS"
 name = "welcome"
 node_id = "MDEwOlJlcG9zaXRvcnkxMjg1MDQyNw=="

@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = false
 homepage = "http://rauchg.com/slackin/"
 id = 46_503_208
+is_template = false
 language = "JavaScript"
 name = "slackin"
 node_id = "MDEwOlJlcG9zaXRvcnk0NjUwMzIwOA=="

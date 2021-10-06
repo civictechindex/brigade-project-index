@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = false
 id = 160_712_336
+is_template = false
 name = "wordpress"
 node_id = "MDEwOlJlcG9zaXRvcnkxNjA3MTIzMzY="
 open_issues_within = 100

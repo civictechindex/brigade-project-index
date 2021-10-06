@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = false
 homepage = "http://projects.beta.nyc"
 id = 15_855_011
+is_template = false
 language = "JavaScript"
 name = "projects-list"
 node_id = "MDEwOlJlcG9zaXRvcnkxNTg1NTAxMQ=="

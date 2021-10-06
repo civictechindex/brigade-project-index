@@ -35,6 +35,7 @@ has_projects = true
 has_wiki = false
 homepage = "https://slam.beta.nyc"
 id = 139_191_915
+is_template = false
 language = "Svelte"
 name = "SLAM"
 node_id = "MDEwOlJlcG9zaXRvcnkxMzkxOTE5MTU="

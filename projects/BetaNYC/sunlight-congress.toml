@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://github.com/steveklabnik/sunlight-congress"
 id = 9_329_990
+is_template = false
 language = "Ruby"
 name = "sunlight-congress"
 node_id = "MDEwOlJlcG9zaXRvcnk5MzI5OTkw"

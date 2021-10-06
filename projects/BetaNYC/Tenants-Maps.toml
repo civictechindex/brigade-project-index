@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = false
 homepage = "https://tenants.beta.nyc"
 id = 143_207_594
+is_template = false
 language = "HTML"
 name = "Tenants-Maps"
 node_id = "MDEwOlJlcG9zaXRvcnkxNDMyMDc1OTQ="

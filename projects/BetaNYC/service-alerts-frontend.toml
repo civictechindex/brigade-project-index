@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 34_345_008
+is_template = false
 name = "service-alerts-frontend"
 node_id = "MDEwOlJlcG9zaXRvcnkzNDM0NTAwOA=="
 open_issues_within = 0

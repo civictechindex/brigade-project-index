@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = false
 homepage = "schoolofdata.nyc"
 id = 40_222_600
+is_template = false
 language = "CSS"
 name = "School-of-data-www"
 node_id = "MDEwOlJlcG9zaXRvcnk0MDIyMjYwMA=="

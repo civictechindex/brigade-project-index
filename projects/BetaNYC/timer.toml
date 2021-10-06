@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = false
 homepage = "https://betanyc.github.io/timer/"
 id = 261_280_998
+is_template = false
 language = "JavaScript"
 name = "timer"
 node_id = "MDEwOlJlcG9zaXRvcnkyNjEyODA5OTg="
