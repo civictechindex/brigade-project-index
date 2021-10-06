@@ -17,6 +17,7 @@ has_pages = true
 has_projects = true
 has_wiki = true
 id = 12_976_410
+is_template = false
 language = "Shell"
 name = "prf"
 network_count = 3

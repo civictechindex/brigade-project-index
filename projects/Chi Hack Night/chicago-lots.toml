@@ -19,6 +19,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://chicagolots.org"
 id = 19_113_163
+is_template = false
 language = "JavaScript"
 name = "chicago-lots"
 network_count = 3

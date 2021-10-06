@@ -19,6 +19,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://bl.ocks.org/PMeinshausen/5806106"
 id = 10_765_289
+is_template = false
 language = "Python"
 name = "data-portal-treemap"
 network_count = 10

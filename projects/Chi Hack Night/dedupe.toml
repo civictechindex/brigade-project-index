@@ -19,6 +19,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://docs.dedupe.io"
 id = 4_087_724
+is_template = false
 language = "Python"
 name = "dedupe"
 network_count = 443

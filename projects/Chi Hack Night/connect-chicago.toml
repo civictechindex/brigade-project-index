@@ -19,6 +19,7 @@ has_projects = true
 has_wiki = true
 homepage = "weconnectchicago.org"
 id = 5_721_958
+is_template = false
 language = "PHP"
 name = "connect-chicago"
 network_count = 2

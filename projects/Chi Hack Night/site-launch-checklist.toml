@@ -19,6 +19,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 40_607_757
+is_template = false
 name = "site-launch-checklist"
 network_count = 29
 node_id = "MDEwOlJlcG9zaXRvcnk0MDYwNzc1Nw=="

@@ -19,6 +19,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://plenar.io"
 id = 14_935_974
+is_template = false
 language = "Python"
 name = "plenario"
 network_count = 42

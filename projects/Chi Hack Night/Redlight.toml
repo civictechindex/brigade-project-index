@@ -19,6 +19,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://miningchi2.shinyapps.io/redlight/"
 id = 20_622_530
+is_template = false
 language = "R"
 name = "Redlight"
 network_count = 4

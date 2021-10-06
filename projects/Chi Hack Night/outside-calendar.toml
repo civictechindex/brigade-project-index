@@ -19,6 +19,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://potash.github.io/outside-calendar"
 id = 15_778_440
+is_template = false
 language = "JavaScript"
 name = "outside-calendar"
 network_count = 0

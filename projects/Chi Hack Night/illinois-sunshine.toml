@@ -19,6 +19,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://illinoissunshine.org/"
 id = 58_764_797
+is_template = false
 language = "HTML"
 name = "illinois-sunshine"
 network_count = 8
@@ -73,6 +74,7 @@ watchers_within = 10
   has_wiki = true
   homepage = ""
   id = 39_074_478
+  is_template = false
   language = "Python"
   name = "illinois-sunshine"
   node_id = "MDEwOlJlcG9zaXRvcnkzOTA3NDQ3OA=="
@@ -123,6 +125,7 @@ watchers_within = 10
   has_wiki = true
   homepage = ""
   id = 39_074_478
+  is_template = false
   language = "Python"
   name = "illinois-sunshine"
   node_id = "MDEwOlJlcG9zaXRvcnkzOTA3NDQ3OA=="

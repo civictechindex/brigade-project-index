@@ -18,6 +18,7 @@ has_pages = true
 has_projects = true
 has_wiki = true
 id = 10_056_720
+is_template = false
 language = "PHP"
 name = "metalicious"
 network_count = 22

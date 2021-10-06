@@ -18,6 +18,7 @@ has_projects = true
 has_wiki = true
 homepage = "schoolcuts.org"
 id = 8_548_078
+is_template = false
 language = "Ruby"
 name = "schoolcuts"
 network_count = 7

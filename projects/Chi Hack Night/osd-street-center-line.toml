@@ -19,6 +19,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 7_844_516
+is_template = false
 language = "R"
 name = "osd-street-center-line"
 network_count = 28

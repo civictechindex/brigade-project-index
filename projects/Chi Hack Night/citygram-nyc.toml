@@ -19,6 +19,7 @@ has_projects = true
 has_wiki = false
 homepage = "https://www.citygram.nyc"
 id = 24_679_474
+is_template = false
 language = "Ruby"
 name = "citygram-nyc"
 network_count = 92
@@ -73,6 +74,7 @@ watchers_within = 100
   has_wiki = true
   homepage = ""
   id = 19_750_851
+  is_template = false
   language = "Ruby"
   name = "citygram"
   node_id = "MDEwOlJlcG9zaXRvcnkxOTc1MDg1MQ=="
@@ -123,6 +125,7 @@ watchers_within = 100
   has_wiki = true
   homepage = ""
   id = 19_750_851
+  is_template = false
   language = "Ruby"
   name = "citygram"
   node_id = "MDEwOlJlcG9zaXRvcnkxOTc1MDg1MQ=="

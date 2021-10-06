@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 11_100_018
+is_template = false
 language = "HTML"
 name = "divvyapiapi"
 network_count = 11

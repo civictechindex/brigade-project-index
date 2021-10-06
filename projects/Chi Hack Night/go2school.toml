@@ -19,6 +19,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://cps.go2school.org/"
 id = 7_105_724
+is_template = false
 language = "JavaScript"
 name = "go2school"
 network_count = 0

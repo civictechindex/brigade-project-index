@@ -19,6 +19,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://www.eatsafe.co"
 id = 10_592_561
+is_template = false
 language = "CSS"
 name = "foodinspections"
 network_count = 2

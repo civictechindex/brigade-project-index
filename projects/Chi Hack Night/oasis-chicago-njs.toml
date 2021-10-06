@@ -19,6 +19,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://chicago-oasis.org"
 id = 30_433_646
+is_template = false
 language = "JavaScript"
 name = "chicago-oasis"
 network_count = 2

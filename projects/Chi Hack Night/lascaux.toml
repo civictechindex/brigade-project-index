@@ -19,6 +19,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://lascaux.datamade.us/"
 id = 21_143_779
+is_template = false
 language = "Python"
 name = "lascaux"
 network_count = 4

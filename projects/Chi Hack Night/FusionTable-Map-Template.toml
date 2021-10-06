@@ -19,6 +19,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://derekeder.com/searchable_map_template/"
 id = 2_461_660
+is_template = false
 language = "CSS"
 name = "FusionTable-Map-Template"
 network_count = 414

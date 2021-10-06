@@ -19,6 +19,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://bikechi.com/divvystations/"
 id = 15_096_687
+is_template = false
 language = "PHP"
 name = "Divvy-Suggestions"
 network_count = 0

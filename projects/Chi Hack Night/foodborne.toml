@@ -19,6 +19,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://foodborne.smartchicagoapps.org/"
 id = 7_804_066
+is_template = false
 language = "Ruby"
 name = "foodborne"
 network_count = 11

@@ -19,6 +19,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://howsbusiness.opencityapps.org/"
 id = 5_127_908
+is_template = false
 language = "HTML"
 name = "hows-business"
 network_count = 16

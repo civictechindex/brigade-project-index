@@ -19,6 +19,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://blog.apps.chicagotribune.com/"
 id = 2_055_733
+is_template = false
 language = "Python"
 name = "englewood"
 network_count = 8

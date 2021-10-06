@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 16_874_060
+is_template = false
 language = "Python"
 name = "school-boundary-merge"
 network_count = 2

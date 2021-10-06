@@ -19,6 +19,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://chicagobuildings.org"
 id = 2_469_127
+is_template = false
 language = "JavaScript"
 name = "vacant-building-finder"
 network_count = 19

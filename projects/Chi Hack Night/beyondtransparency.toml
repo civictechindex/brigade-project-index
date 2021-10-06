@@ -19,6 +19,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://beyondtransparency.org"
 id = 12_120_917
+is_template = false
 language = "HTML"
 name = "beyondtransparency"
 network_count = 43

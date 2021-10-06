@@ -19,6 +19,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://parserator.datamade.us/probablepeople"
 id = 26_278_969
+is_template = false
 language = "Python"
 name = "probablepeople"
 network_count = 61

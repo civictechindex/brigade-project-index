@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 13_787_867
+is_template = false
 language = "JavaScript"
 name = "geo-neighborhood"
 network_count = 0

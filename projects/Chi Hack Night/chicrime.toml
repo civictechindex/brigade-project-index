@@ -19,6 +19,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://miningchi2.shinyapps.io/chicrime/"
 id = 17_270_875
+is_template = false
 language = "R"
 name = "chicrime"
 network_count = 2

@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = false
 id = 4_106_151
+is_template = false
 language = "JavaScript"
 name = "TimelineJS-Wordpress-Plugin"
 network_count = 49

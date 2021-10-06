@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 26_130_355
+is_template = false
 language = "JavaScript"
 name = "generator-plenario"
 network_count = 0

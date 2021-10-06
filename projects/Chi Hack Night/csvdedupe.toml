@@ -19,6 +19,7 @@ has_projects = true
 has_wiki = false
 homepage = ""
 id = 11_343_900
+is_template = false
 language = "Python"
 name = "csvdedupe"
 network_count = 75

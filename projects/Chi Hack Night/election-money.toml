@@ -19,6 +19,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://electionmoney.org"
 id = 20_548_409
+is_template = false
 language = "HTML"
 name = "election-money"
 network_count = 3

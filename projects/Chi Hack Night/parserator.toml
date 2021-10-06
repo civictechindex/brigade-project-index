@@ -19,6 +19,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://parserator.datamade.us"
 id = 25_285_581
+is_template = false
 language = "Python"
 name = "parserator"
 network_count = 76

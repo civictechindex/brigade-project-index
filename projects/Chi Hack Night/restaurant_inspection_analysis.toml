@@ -19,6 +19,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 5_146_250
+is_template = false
 language = "Python"
 name = "restaurant_inspection_analysis"
 network_count = 3

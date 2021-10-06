@@ -19,6 +19,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://blog.apps.chicagotribune.com/"
 id = 1_736_163
+is_template = false
 language = "Python"
 name = "django-boundaryservice"
 network_count = 45

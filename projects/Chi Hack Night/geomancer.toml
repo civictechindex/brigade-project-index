@@ -19,6 +19,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://geomancer.io/"
 id = 22_737_870
+is_template = false
 language = "Python"
 name = "geomancer"
 network_count = 11
@@ -73,6 +74,7 @@ watchers_within = 10
   has_wiki = true
   homepage = ""
   id = 21_957_737
+  is_template = false
   language = "Python"
   name = "geomancer"
   node_id = "MDEwOlJlcG9zaXRvcnkyMTk1NzczNw=="
@@ -123,6 +125,7 @@ watchers_within = 10
   has_wiki = true
   homepage = ""
   id = 21_957_737
+  is_template = false
   language = "Python"
   name = "geomancer"
   node_id = "MDEwOlJlcG9zaXRvcnkyMTk1NzczNw=="

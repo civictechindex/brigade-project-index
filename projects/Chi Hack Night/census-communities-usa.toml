@@ -19,6 +19,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 11_456_727
+is_template = false
 language = "Python"
 name = "census-communities-usa"
 network_count = 15

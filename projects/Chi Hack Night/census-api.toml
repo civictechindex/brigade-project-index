@@ -19,6 +19,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 9_879_953
+is_template = false
 language = "Python"
 name = "census-api"
 network_count = 40

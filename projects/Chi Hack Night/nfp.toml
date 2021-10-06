@@ -19,6 +19,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://dssg.io/projects#nfp"
 id = 10_607_174
+is_template = false
 language = "R"
 name = "nfp"
 network_count = 5

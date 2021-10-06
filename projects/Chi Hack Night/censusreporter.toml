@@ -19,6 +19,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://censusreporter.org"
 id = 10_183_514
+is_template = false
 language = "HTML"
 name = "censusreporter"
 network_count = 126

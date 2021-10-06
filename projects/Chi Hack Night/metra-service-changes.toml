@@ -19,6 +19,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://c82.net/metra"
 id = 3_275_636
+is_template = false
 name = "metra-service-changes"
 network_count = 3
 node_id = "MDEwOlJlcG9zaXRvcnkzMjc1NjM2"

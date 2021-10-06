@@ -19,6 +19,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 8_065_965
+is_template = false
 name = "osd-bike-routes"
 network_count = 28
 node_id = "MDEwOlJlcG9zaXRvcnk4MDY1OTY1"

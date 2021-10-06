@@ -19,6 +19,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://lookatcook.org"
 id = 2_582_943
+is_template = false
 language = "JavaScript"
 name = "look-at-cook"
 network_count = 37

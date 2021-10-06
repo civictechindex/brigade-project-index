@@ -19,6 +19,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://cpstiers.opencityapps.org/"
 id = 3_606_806
+is_template = false
 language = "HTML"
 name = "cps-tiers"
 network_count = 18

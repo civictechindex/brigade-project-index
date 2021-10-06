@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 5_942_265
+is_template = false
 language = "JavaScript"
 name = "chicagoflushots"
 network_count = 11

@@ -19,6 +19,7 @@ has_projects = true
 has_wiki = true
 homepage = "sharemyshare.org"
 id = 4_331_130
+is_template = false
 language = "JavaScript"
 name = "share-the-share"
 network_count = 0

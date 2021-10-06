@@ -19,6 +19,7 @@ has_projects = true
 has_wiki = false
 homepage = "http://healthnear.me"
 id = 14_461_422
+is_template = false
 language = "Go"
 name = "health-near-me"
 network_count = 1

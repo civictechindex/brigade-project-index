@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 16_925_188
+is_template = false
 language = "Python"
 name = "address-matching"
 network_count = 19

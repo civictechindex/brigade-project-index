@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 8_913_808
+is_template = false
 language = "JavaScript"
 name = "chicagocrime"
 network_count = 16

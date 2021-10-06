@@ -19,6 +19,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://crimeinchicago.org"
 id = 3_123_166
+is_template = false
 language = "JavaScript"
 name = "crime-in-chicago"
 network_count = 20

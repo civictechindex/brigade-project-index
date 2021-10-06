@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 4_709_433
+is_template = false
 language = "JavaScript"
 name = "velociped.es"
 network_count = 0

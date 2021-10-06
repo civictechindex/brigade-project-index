@@ -19,6 +19,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://capsure.opencityapps.org"
 id = 9_801_365
+is_template = false
 language = "Ruby"
 name = "capsure"
 network_count = 6

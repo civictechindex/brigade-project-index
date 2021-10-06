@@ -19,6 +19,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://stevevance.net/c4pat  "
 id = 12_260_376
+is_template = false
 language = "JavaScript"
 name = "C4PAT-App"
 network_count = 0

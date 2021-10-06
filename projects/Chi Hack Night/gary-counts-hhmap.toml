@@ -19,6 +19,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://datamade.github.io/gary-counts-hhmap/"
 id = 19_078_741
+is_template = false
 language = "CSS"
 name = "gary-counts-hhmap"
 network_count = 0

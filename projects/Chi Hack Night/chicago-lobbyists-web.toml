@@ -19,6 +19,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://chicagolobbyists.org/"
 id = 3_236_348
+is_template = false
 language = "Ruby"
 name = "chicago-lobbyists-web"
 network_count = 11

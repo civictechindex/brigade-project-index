@@ -19,6 +19,7 @@ has_projects = true
 has_wiki = false
 homepage = ""
 id = 10_107_567
+is_template = false
 name = "civicneeds"
 network_count = 1
 node_id = "MDEwOlJlcG9zaXRvcnkxMDEwNzU2Nw=="

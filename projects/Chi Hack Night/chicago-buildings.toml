@@ -19,6 +19,7 @@ has_projects = true
 has_wiki = false
 homepage = "http://trevorpowell.com/chicago-buildings/"
 id = 13_086_158
+is_template = false
 language = "CSS"
 name = "chicago-buildings"
 network_count = 0

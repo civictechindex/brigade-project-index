@@ -19,6 +19,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://www.chicagoworksforyou.com"
 id = 8_340_602
+is_template = false
 language = "JavaScript"
 name = "chicagoworksforyou"
 network_count = 6

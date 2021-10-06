@@ -19,6 +19,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://edifice.opencityapps.org/"
 id = 6_150_163
+is_template = false
 language = "JavaScript"
 name = "edifice-maps"
 network_count = 2

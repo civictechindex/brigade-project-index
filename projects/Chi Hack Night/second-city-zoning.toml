@@ -19,6 +19,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://secondcityzoning.org"
 id = 5_419_447
+is_template = false
 language = "HTML"
 name = "second-city-zoning"
 network_count = 19

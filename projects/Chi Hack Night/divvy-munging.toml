@@ -19,6 +19,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 16_787_544
+is_template = false
 name = "divvy-munging"
 network_count = 5
 node_id = "MDEwOlJlcG9zaXRvcnkxNjc4NzU0NA=="

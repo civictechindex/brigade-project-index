@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 8_066_441
+is_template = false
 language = "R"
 name = "osd-bike-racks"
 network_count = 9
