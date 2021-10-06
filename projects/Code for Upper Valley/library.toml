@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 234_791_757
+is_template = false
 name = "library"
 node_id = "MDEwOlJlcG9zaXRvcnkyMzQ3OTE3NTc="
 open_issues_within = 0

@@ -32,6 +32,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://food-resources.herokuapp.com"
 id = 267_700_370
+is_template = false
 language = "Ruby"
 name = "food_resources"
 node_id = "MDEwOlJlcG9zaXRvcnkyNjc3MDAzNzA="

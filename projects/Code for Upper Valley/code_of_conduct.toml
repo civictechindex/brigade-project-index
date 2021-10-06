@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 212_625_632
+is_template = false
 name = "code_of_conduct"
 node_id = "MDEwOlJlcG9zaXRvcnkyMTI2MjU2MzI="
 open_issues_within = 0
