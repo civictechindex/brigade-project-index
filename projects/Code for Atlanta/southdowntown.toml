@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://ericrav.github.io/southdowntown/"
 id = 33_335_188
+is_template = false
 language = "HTML"
 name = "southdowntown"
 node_id = "MDEwOlJlcG9zaXRvcnkzMzMzNTE4OA=="

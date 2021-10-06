@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 108_195_709
+is_template = false
 language = "Python"
 name = "wealth-map-data"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDgxOTU3MDk="

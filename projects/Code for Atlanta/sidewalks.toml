@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 24_022_504
+is_template = false
 language = "Ruby"
 name = "sidewalks"
 node_id = "MDEwOlJlcG9zaXRvcnkyNDAyMjUwNA=="

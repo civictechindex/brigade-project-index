@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 53_208_867
+is_template = false
 language = "JavaScript"
 name = "mycommunity"
 node_id = "MDEwOlJlcG9zaXRvcnk1MzIwODg2Nw=="

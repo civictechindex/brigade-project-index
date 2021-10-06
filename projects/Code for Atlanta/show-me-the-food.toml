@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 25_553_735
+is_template = false
 language = "Ruby"
 name = "show-me-the-food"
 node_id = "MDEwOlJlcG9zaXRvcnkyNTU1MzczNQ=="

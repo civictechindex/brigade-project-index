@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 110_609_617
+is_template = false
 language = "Java"
 name = "nature-events-calendar"
 node_id = "MDEwOlJlcG9zaXRvcnkxMTA2MDk2MTc="

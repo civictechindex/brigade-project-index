@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 53_178_372
+is_template = false
 language = "Ruby"
 name = "Vote-Local"
 node_id = "MDEwOlJlcG9zaXRvcnk1MzE3ODM3Mg=="

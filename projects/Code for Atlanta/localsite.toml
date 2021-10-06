@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 375_721_081
+is_template = false
 language = "JavaScript"
 name = "localsite"
 node_id = "MDEwOlJlcG9zaXRvcnkzNzU3MjEwODE="

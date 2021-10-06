@@ -20,6 +20,7 @@ has_pages = true
 has_projects = true
 has_wiki = true
 id = 53_540_041
+is_template = false
 language = "CSS"
 name = "mapsforus-website"
 node_id = "MDEwOlJlcG9zaXRvcnk1MzU0MDA0MQ=="

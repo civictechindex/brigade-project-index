@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 98_362_471
+is_template = false
 language = "JavaScript"
 name = "marta-js"
 node_id = "MDEwOlJlcG9zaXRvcnk5ODM2MjQ3MQ=="

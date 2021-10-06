@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 44_140_208
+is_template = false
 language = "Python"
 name = "LocalFreeWeb"
 node_id = "MDEwOlJlcG9zaXRvcnk0NDE0MDIwOA=="

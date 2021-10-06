@@ -20,6 +20,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://marta-autopay.herokuapp.com/"
 id = 72_254_542
+is_template = false
 language = "JavaScript"
 name = "marta-autopay"
 node_id = "MDEwOlJlcG9zaXRvcnk3MjI1NDU0Mg=="
