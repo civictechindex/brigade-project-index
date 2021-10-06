@@ -23,6 +23,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://www.codefornashville.org/inclucivics/"
 id = 27_054_103
+is_template = false
 language = "JavaScript"
 name = "inclucivics"
 node_id = "MDEwOlJlcG9zaXRvcnkyNzA1NDEwMw=="

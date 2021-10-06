@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://www.codefornashville.org/scooter-stories/scooter-report-card/"
 id = 209_417_256
+is_template = false
 language = "HTML"
 name = "scooter-stories"
 node_id = "MDEwOlJlcG9zaXRvcnkyMDk0MTcyNTY="

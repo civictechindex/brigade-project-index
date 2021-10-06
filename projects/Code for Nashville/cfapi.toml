@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://codeforamerica.org/api"
 id = 138_363_485
+is_template = false
 language = "Python"
 name = "cfapi"
 node_id = "MDEwOlJlcG9zaXRvcnkxMzgzNjM0ODU="

@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 98_914_879
+is_template = false
 language = "JavaScript"
 name = "mnhrc.github.io"
 node_id = "MDEwOlJlcG9zaXRvcnk5ODkxNDg3OQ=="

@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 82_688_429
+is_template = false
 language = "Python"
 name = "oss-intro-class"
 node_id = "MDEwOlJlcG9zaXRvcnk4MjY4ODQyOQ=="

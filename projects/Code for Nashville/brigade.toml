@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://www.codeforamerica.org/brigade/"
 id = 138_362_563
+is_template = false
 language = "HTML"
 name = "brigade"
 node_id = "MDEwOlJlcG9zaXRvcnkxMzgzNjI1NjM="

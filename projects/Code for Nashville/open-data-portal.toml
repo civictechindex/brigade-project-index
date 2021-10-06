@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 190_480_950
+is_template = false
 language = "Python"
 name = "open-data-portal"
 node_id = "MDEwOlJlcG9zaXRvcnkxOTA0ODA5NTA="

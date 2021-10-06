@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 210_026_977
+is_template = false
 language = "HTML"
 name = "clean-slate"
 node_id = "MDEwOlJlcG9zaXRvcnkyMTAwMjY5Nzc="

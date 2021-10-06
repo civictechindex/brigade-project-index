@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 134_090_150
+is_template = false
 name = "nashville-public-library-python"
 node_id = "MDEwOlJlcG9zaXRvcnkxMzQwOTAxNTA="
 open_issues_within = 0

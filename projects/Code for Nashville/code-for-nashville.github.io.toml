@@ -23,6 +23,7 @@ has_projects = true
 has_wiki = false
 homepage = "http://www.codefornashville.org"
 id = 23_367_954
+is_template = false
 language = "CSS"
 name = "code-for-nashville.github.io"
 node_id = "MDEwOlJlcG9zaXRvcnkyMzM2Nzk1NA=="

@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 132_271_641
+is_template = false
 language = "Python"
 name = "handbook"
 node_id = "MDEwOlJlcG9zaXRvcnkxMzIyNzE2NDE="
