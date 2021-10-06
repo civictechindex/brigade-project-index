@@ -21,6 +21,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 17_268_515
+is_template = false
 language = "Python"
 name = "StationDown"
 network_count = 2

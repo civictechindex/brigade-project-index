@@ -21,6 +21,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 23_520_771
+is_template = false
 language = "JavaScript"
 name = "civic-responsibility-api"
 network_count = 0

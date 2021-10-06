@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 18_278_282
+is_template = false
 language = "C"
 name = "watchSEPTA"
 network_count = 0

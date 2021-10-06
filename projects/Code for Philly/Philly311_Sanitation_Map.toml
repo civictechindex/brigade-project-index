@@ -23,6 +23,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://flibbertigibbet.github.io/philly-sanitation/"
 id = 10_273_863
+is_template = false
 language = "JavaScript"
 name = "philly-sanitation"
 network_count = 0

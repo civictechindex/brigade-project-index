@@ -21,6 +21,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 8_396_357
+is_template = false
 language = "PHP"
 name = "schooldata-api"
 network_count = 4

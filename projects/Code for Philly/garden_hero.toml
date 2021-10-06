@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 131_440_221
+is_template = false
 language = "Python"
 name = "garden_hero"
 network_count = 0

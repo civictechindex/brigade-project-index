@@ -21,6 +21,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 23_686_448
+is_template = false
 language = "PHP"
 name = "foreign-language-learn"
 network_count = 0

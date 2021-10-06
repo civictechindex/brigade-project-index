@@ -23,6 +23,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://emr.ge"
 id = 2_060_306
+is_template = false
 language = "PHP"
 name = "emergence"
 network_count = 9

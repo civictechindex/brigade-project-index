@@ -22,6 +22,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 24_208_621
+is_template = false
 name = "SEPTA-RT"
 network_count = 0
 node_id = "MDEwOlJlcG9zaXRvcnkyNDIwODYyMQ=="

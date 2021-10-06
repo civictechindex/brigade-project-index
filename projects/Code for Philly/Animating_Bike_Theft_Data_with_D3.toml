@@ -21,6 +21,7 @@ has_pages = true
 has_projects = true
 has_wiki = true
 id = 13_001_379
+is_template = false
 language = "CSS"
 name = "phillyBikeThefts"
 network_count = 9

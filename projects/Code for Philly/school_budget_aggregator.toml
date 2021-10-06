@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://hackersandslackers.com/liberating-data-from-pdfs-with-tabula-and-pandas/"
 id = 155_113_685
+is_template = false
 language = "Jupyter Notebook"
 name = "school_budget_aggregator"
 network_count = 2

@@ -23,6 +23,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 29_378_616
+is_template = false
 language = "Python"
 name = "philadelphia-traffic-court-rtk"
 network_count = 6

@@ -22,6 +22,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 4_260_260
+is_template = false
 language = "CSS"
 name = "tokenFinder"
 network_count = 0

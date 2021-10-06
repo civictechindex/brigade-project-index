@@ -23,6 +23,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 34_487_363
+is_template = false
 language = "JavaScript"
 name = "indego-usage"
 network_count = 1

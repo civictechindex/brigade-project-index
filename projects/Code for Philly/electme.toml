@@ -32,6 +32,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://elect-me-1255.appspot.com/index.html"
 id = 54_274_631
+is_template = false
 language = "HTML"
 name = "elect-me"
 network_count = 3

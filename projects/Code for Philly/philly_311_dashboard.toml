@@ -22,6 +22,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 69_121_274
+is_template = false
 language = "Jupyter Notebook"
 name = "Philly-311-Dashboard"
 network_count = 1

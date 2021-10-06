@@ -21,6 +21,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 18_719_432
+is_template = false
 language = "Python"
 name = "electronic_intern"
 network_count = 0

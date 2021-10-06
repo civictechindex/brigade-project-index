@@ -27,6 +27,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 94_910_371
+is_template = false
 name = "firecloud"
 network_count = 0
 node_id = "MDEwOlJlcG9zaXRvcnk5NDkxMDM3MQ=="

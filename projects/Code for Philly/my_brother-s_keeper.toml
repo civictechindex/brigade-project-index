@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 131_430_452
+is_template = false
 language = "Ruby"
 name = "my-brothers-keeper"
 network_count = 0

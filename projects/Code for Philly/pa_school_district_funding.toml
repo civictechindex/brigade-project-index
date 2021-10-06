@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://bergey.github.io/school-districts"
 id = 26_330_312
+is_template = false
 language = "JavaScript"
 name = "school-districts"
 network_count = 0

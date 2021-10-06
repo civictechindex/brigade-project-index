@@ -21,6 +21,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 14_057_619
+is_template = false
 language = "PHP"
 name = "gatekeeper"
 network_count = 6

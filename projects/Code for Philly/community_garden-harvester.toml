@@ -23,6 +23,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://gardenhub.io"
 id = 104_588_370
+is_template = false
 language = "Python"
 name = "GardenHub"
 network_count = 1

@@ -23,6 +23,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://flibbertigibbet.github.io/opentripplanner-mobile-site/"
 id = 36_981_836
+is_template = false
 language = "JavaScript"
 name = "opentripplanner-mobile-site"
 network_count = 0

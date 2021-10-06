@@ -21,6 +21,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 127_464_568
+is_template = false
 name = "VibeDetector"
 network_count = 0
 node_id = "MDEwOlJlcG9zaXRvcnkxMjc0NjQ1Njg="

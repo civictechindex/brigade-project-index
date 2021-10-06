@@ -21,6 +21,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 47_665_484
+is_template = false
 language = "CSS"
 name = "asap-mobile"
 network_count = 0

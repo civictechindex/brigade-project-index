@@ -23,6 +23,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://myphillyrising.com"
 id = 10_459_797
+is_template = false
 language = "JavaScript"
 name = "myphillyrising"
 network_count = 2

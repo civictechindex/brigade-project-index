@@ -22,6 +22,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 8_593_711
+is_template = false
 language = "Python"
 name = "v2v"
 network_count = 3

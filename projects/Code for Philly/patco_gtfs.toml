@@ -23,6 +23,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 23_207_202
+is_template = false
 language = "Python"
 name = "patco-gtfs"
 network_count = 3
@@ -77,6 +78,7 @@ watchers_within = 10
   has_wiki = true
   homepage = ""
   id = 14_080_451
+  is_template = false
   language = "Python"
   name = "patco-gtfs"
   node_id = "MDEwOlJlcG9zaXRvcnkxNDA4MDQ1MQ=="
@@ -127,6 +129,7 @@ watchers_within = 10
   has_wiki = true
   homepage = ""
   id = 14_080_451
+  is_template = false
   language = "Python"
   name = "patco-gtfs"
   node_id = "MDEwOlJlcG9zaXRvcnkxNDA4MDQ1MQ=="

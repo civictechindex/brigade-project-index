@@ -31,6 +31,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://codeforphilly.github.io/decentralized-data/"
 id = 67_552_175
+is_template = false
 language = "CSS"
 name = "decentralized-data"
 network_count = 2

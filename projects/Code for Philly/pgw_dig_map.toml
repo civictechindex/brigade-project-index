@@ -19,6 +19,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 20_941_510
+is_template = false
 name = "PGW-digs"
 network_count = 1
 node_id = "MDEwOlJlcG9zaXRvcnkyMDk0MTUxMA=="

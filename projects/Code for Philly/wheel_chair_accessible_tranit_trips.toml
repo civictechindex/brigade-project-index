@@ -21,6 +21,7 @@ has_pages = true
 has_projects = true
 has_wiki = true
 id = 21_238_391
+is_template = false
 language = "JavaScript"
 name = "wheel-chair-accessible-google-maps"
 network_count = 4
@@ -68,6 +69,7 @@ watchers_within = 10
   has_projects = true
   has_wiki = true
   id = 20_378_055
+  is_template = false
   language = "JavaScript"
   name = "wheel-chair-accessible-transit-directions"
   node_id = "MDEwOlJlcG9zaXRvcnkyMDM3ODA1NQ=="
@@ -111,6 +113,7 @@ watchers_within = 10
   has_projects = true
   has_wiki = true
   id = 20_378_055
+  is_template = false
   language = "JavaScript"
   name = "wheel-chair-accessible-transit-directions"
   node_id = "MDEwOlJlcG9zaXRvcnkyMDM3ODA1NQ=="

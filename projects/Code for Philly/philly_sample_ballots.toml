@@ -23,6 +23,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://philly-sample-ballots.surge.sh"
 id = 86_198_296
+is_template = false
 language = "JavaScript"
 name = "philly-sample-ballots"
 network_count = 0

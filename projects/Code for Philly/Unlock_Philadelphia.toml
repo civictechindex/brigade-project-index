@@ -23,6 +23,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://www.unlockphilly.com"
 id = 18_269_244
+is_template = false
 language = "JavaScript"
 name = "unlockphilly"
 network_count = 12

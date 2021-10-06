@@ -22,6 +22,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 24_156_380
+is_template = false
 language = "Objective-C"
 name = "CyclePhilly-iOS-app"
 network_count = 25

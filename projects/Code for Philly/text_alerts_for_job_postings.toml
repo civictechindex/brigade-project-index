@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 24_534_217
+is_template = false
 language = "Python"
 name = "comphonemploy"
 network_count = 1

@@ -32,6 +32,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://mheadd.github.io/philly-jazz-app/"
 id = 10_150_297
+is_template = false
 language = "JavaScript"
 name = "philly-jazz-app"
 network_count = 3

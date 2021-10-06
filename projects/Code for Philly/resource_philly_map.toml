@@ -28,6 +28,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 178_630_583
+is_template = false
 language = "PHP"
 name = "phillyresourcemap"
 network_count = 1

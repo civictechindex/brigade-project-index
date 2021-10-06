@@ -21,6 +21,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 21_220_792
+is_template = false
 language = "Python"
 name = "Stormfighter"
 network_count = 0

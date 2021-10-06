@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 105_396_902
+is_template = false
 language = "Python"
 name = "11Corners"
 network_count = 1

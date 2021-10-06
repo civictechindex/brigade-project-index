@@ -23,6 +23,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://leveragecampaignfinance.org/"
 id = 54_276_519
+is_template = false
 name = "leverage"
 network_count = 11
 node_id = "MDEwOlJlcG9zaXRvcnk1NDI3NjUxOQ=="

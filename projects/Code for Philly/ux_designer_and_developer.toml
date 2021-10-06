@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://crsmyz.github.io/pa-hospital-finder/"
 id = 193_394_219
+is_template = false
 language = "TypeScript"
 name = "hospital-finder"
 network_count = 0

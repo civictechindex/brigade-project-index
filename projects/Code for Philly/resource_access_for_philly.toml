@@ -27,6 +27,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 44_445_939
+is_template = false
 language = "CSS"
 name = "homeless-services"
 network_count = 6

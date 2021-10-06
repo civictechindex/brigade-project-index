@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 83_379_854
+is_template = false
 language = "Python"
 name = "volunteer-generator"
 network_count = 0

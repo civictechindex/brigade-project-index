@@ -28,6 +28,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 13_001_476
+is_template = false
 language = "JavaScript"
 name = "geotrellis-transit"
 network_count = 20
@@ -67,6 +68,7 @@ watchers_within = 0
   has_projects = true
   has_wiki = true
   id = 11_292_106
+  is_template = false
   language = "JavaScript"
   name = "geotrellis-transit"
   node_id = "MDEwOlJlcG9zaXRvcnkxMTI5MjEwNg=="
@@ -116,6 +118,7 @@ watchers_within = 0
   has_projects = true
   has_wiki = true
   id = 11_292_106
+  is_template = false
   language = "JavaScript"
   name = "geotrellis-transit"
   node_id = "MDEwOlJlcG9zaXRvcnkxMTI5MjEwNg=="

@@ -23,6 +23,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://septa.ninja"
 id = 36_985_963
+is_template = false
 language = "JavaScript"
 name = "septa-ninja"
 network_count = 46
@@ -69,6 +70,7 @@ watchers_within = 10
   has_wiki = true
   homepage = "http://mbta.ninja"
   id = 31_138_203
+  is_template = false
   language = "JavaScript"
   name = "mbta-ninja"
   node_id = "MDEwOlJlcG9zaXRvcnkzMTEzODIwMw=="
@@ -119,6 +121,7 @@ watchers_within = 10
   has_wiki = true
   homepage = "http://mbta.ninja"
   id = 31_138_203
+  is_template = false
   language = "JavaScript"
   name = "mbta-ninja"
   node_id = "MDEwOlJlcG9zaXRvcnkzMTEzODIwMw=="

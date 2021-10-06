@@ -26,6 +26,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 281_986_680
+is_template = false
 language = "Python"
 name = "MATchMapper"
 network_count = 5

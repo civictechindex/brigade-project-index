@@ -23,6 +23,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://play.google.com/store/apps/details?id=name.jugglerdave.minimalindego"
 id = 39_709_957
+is_template = false
 language = "Java"
 name = "MinimalBlueBikesPhilly"
 network_count = 0

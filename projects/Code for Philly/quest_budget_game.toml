@@ -21,6 +21,7 @@ has_pages = true
 has_projects = true
 has_wiki = true
 id = 156_002_118
+is_template = false
 language = "JavaScript"
 name = "quest-budget-game"
 network_count = 5
