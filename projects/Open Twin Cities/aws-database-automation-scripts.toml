@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 95_611_266
+is_template = false
 name = "aws-database-automation-scripts"
 node_id = "MDEwOlJlcG9zaXRvcnk5NTYxMTI2Ng=="
 open_issues_within = 0

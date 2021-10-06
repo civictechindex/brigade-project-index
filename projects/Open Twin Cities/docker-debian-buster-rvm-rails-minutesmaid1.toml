@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 194_183_323
+is_template = false
 language = "Shell"
 name = "docker-debian-buster-rvm-rails-minutesmaid1"
 node_id = "MDEwOlJlcG9zaXRvcnkxOTQxODMzMjM="

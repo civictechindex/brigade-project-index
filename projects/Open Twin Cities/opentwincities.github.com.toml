@@ -23,6 +23,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://www.opentwincities.org/"
 id = 6_616_824
+is_template = false
 language = "JavaScript"
 name = "opentwincities.github.com"
 node_id = "MDEwOlJlcG9zaXRvcnk2NjE2ODI0"

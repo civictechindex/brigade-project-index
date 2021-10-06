@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 235_912_580
+is_template = false
 name = "otc-getting-started"
 node_id = "MDEwOlJlcG9zaXRvcnkyMzU5MTI1ODA="
 open_issues_within = 0

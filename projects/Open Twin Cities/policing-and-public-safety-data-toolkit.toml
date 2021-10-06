@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 312_652_657
+is_template = false
 name = "policing-and-public-safety-data-toolkit"
 node_id = "MDEwOlJlcG9zaXRvcnkzMTI2NTI2NTc="
 open_issues_within = 10

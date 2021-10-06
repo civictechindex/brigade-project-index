@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 183_726_932
+is_template = false
 language = "Shell"
 name = "docker-debian-buster-use"
 node_id = "MDEwOlJlcG9zaXRvcnkxODM3MjY5MzI="

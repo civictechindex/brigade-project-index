@@ -23,6 +23,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://www.mnpay.org/"
 id = 71_738_379
+is_template = false
 language = "Python"
 name = "mnpay"
 node_id = "MDEwOlJlcG9zaXRvcnk3MTczODM3OQ=="

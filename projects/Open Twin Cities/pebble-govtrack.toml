@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 32_557_402
+is_template = false
 language = "JavaScript"
 name = "pebble-govtrack"
 node_id = "MDEwOlJlcG9zaXRvcnkzMjU1NzQwMg=="

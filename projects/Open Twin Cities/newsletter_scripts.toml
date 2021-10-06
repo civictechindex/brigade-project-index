@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 66_802_341
+is_template = false
 language = "Python"
 name = "newsletter_scripts"
 node_id = "MDEwOlJlcG9zaXRvcnk2NjgwMjM0MQ=="

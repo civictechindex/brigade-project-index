@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 78_982_240
+is_template = false
 language = "Python"
 name = "site_bot"
 node_id = "MDEwOlJlcG9zaXRvcnk3ODk4MjI0MA=="

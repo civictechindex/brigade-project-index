@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 188_319_483
+is_template = false
 language = "Shell"
 name = "docker-debian-stretch-use"
 node_id = "MDEwOlJlcG9zaXRvcnkxODgzMTk0ODM="

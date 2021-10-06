@@ -20,6 +20,7 @@ has_pages = true
 has_projects = true
 has_wiki = true
 id = 250_159_740
+is_template = false
 name = "covid19-data-exploration"
 node_id = "MDEwOlJlcG9zaXRvcnkyNTAxNTk3NDA="
 open_issues_within = 0

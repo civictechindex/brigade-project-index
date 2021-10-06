@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 188_267_857
+is_template = false
 language = "Shell"
 name = "docker-debian-stretch-rvm-rails-adoptatree"
 node_id = "MDEwOlJlcG9zaXRvcnkxODgyNjc4NTc="

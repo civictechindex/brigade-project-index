@@ -21,6 +21,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 141_857_107
+is_template = false
 language = "Python"
 name = "mn_candidate_scraper"
 node_id = "MDEwOlJlcG9zaXRvcnkxNDE4NTcxMDc="
