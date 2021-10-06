@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://openbudgetoakland.org"
 id = 7_845_579
+is_template = false
 language = "JavaScript"
 name = "openbudgetoakland"
 network_count = 135

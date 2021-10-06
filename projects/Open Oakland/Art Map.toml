@@ -19,6 +19,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 193_796_430
+is_template = false
 language = "Jupyter Notebook"
 name = "oo_oam"
 network_count = 0

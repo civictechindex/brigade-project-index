@@ -19,6 +19,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 186_171_020
+is_template = false
 language = "CSS"
 name = "dos-census-events"
 network_count = 5

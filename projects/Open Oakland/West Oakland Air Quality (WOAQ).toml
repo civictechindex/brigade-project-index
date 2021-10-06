@@ -20,6 +20,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://woaq.org"
 id = 159_446_287
+is_template = false
 language = "Jupyter Notebook"
 name = "woeip"
 network_count = 15

@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://water.openoakland.org/"
 id = 197_295_299
+is_template = false
 language = "JavaScript"
 name = "clean-water"
 network_count = 1
