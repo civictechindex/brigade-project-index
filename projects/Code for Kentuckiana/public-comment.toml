@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://www.govcommenter.com"
 id = 314_903_208
+is_template = false
 language = "Python"
 name = "public-comment"
 node_id = "MDEwOlJlcG9zaXRvcnkzMTQ5MDMyMDg="

@@ -23,6 +23,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://govbook.codeforkentuckiana.org"
 id = 208_463_544
+is_template = false
 language = "JavaScript"
 name = "govbook"
 node_id = "MDEwOlJlcG9zaXRvcnkyMDg0NjM1NDQ="

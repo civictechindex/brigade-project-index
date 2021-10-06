@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 242_586_146
+is_template = false
 language = "Java"
 name = "career-navigator-backend"
 node_id = "MDEwOlJlcG9zaXRvcnkyNDI1ODYxNDY="

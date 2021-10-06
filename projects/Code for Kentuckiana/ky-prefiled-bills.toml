@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 210_972_749
+is_template = false
 language = "Python"
 name = "ky-prefiled-bills"
 node_id = "MDEwOlJlcG9zaXRvcnkyMTA5NzI3NDk="

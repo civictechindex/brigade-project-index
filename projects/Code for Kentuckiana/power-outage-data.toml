@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://poweroutages.codeforkentuckiana.org"
 id = 225_097_720
+is_template = false
 language = "Python"
 name = "power-outage-data"
 node_id = "MDEwOlJlcG9zaXRvcnkyMjUwOTc3MjA="

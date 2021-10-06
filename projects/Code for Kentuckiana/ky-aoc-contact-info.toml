@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 267_467_271
+is_template = false
 language = "Python"
 name = "ky-aoc-contact-info"
 node_id = "MDEwOlJlcG9zaXRvcnkyNjc0NjcyNzE="

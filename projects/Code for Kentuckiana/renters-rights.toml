@@ -23,6 +23,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://test.renterhaven.com"
 id = 203_850_243
+is_template = false
 language = "Python"
 name = "renters-rights"
 node_id = "MDEwOlJlcG9zaXRvcnkyMDM4NTAyNDM="

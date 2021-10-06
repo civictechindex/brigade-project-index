@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 148_053_139
+is_template = false
 language = "Python"
 name = "swap"
 node_id = "MDEwOlJlcG9zaXRvcnkxNDgwNTMxMzk="

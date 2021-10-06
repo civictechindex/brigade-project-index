@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 161_921_374
+is_template = false
 name = "meeting_agendas"
 node_id = "MDEwOlJlcG9zaXRvcnkxNjE5MjEzNzQ="
 open_issues_within = 0

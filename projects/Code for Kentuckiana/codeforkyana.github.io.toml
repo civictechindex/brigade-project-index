@@ -20,6 +20,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://codeforkentuckiana.org"
 id = 170_369_702
+is_template = false
 language = "HTML"
 name = "codeforkyana.github.io"
 node_id = "MDEwOlJlcG9zaXRvcnkxNzAzNjk3MDI="

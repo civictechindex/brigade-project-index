@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 225_101_990
+is_template = false
 language = "Python"
 name = "kubra-scraper"
 node_id = "MDEwOlJlcG9zaXRvcnkyMjUxMDE5OTA="
