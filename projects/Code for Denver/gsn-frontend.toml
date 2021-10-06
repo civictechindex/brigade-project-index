@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 186_490_476
+is_template = false
 language = "JavaScript"
 name = "gsn-frontend"
 node_id = "MDEwOlJlcG9zaXRvcnkxODY0OTA0NzY="

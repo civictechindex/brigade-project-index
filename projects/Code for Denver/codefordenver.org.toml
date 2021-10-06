@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://codefordenver.org/#/"
 id = 101_709_252
+is_template = false
 language = "TypeScript"
 name = "codefordenver.org"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDE3MDkyNTI="

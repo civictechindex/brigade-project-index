@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 232_236_965
+is_template = false
 name = "newsletter"
 node_id = "MDEwOlJlcG9zaXRvcnkyMzIyMzY5NjU="
 open_issues_within = 10

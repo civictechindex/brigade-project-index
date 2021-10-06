@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://owlet.codefordenver.org"
 id = 54_700_882
+is_template = false
 language = "Clojure"
 name = "owlet-ui"
 node_id = "MDEwOlJlcG9zaXRvcnk1NDcwMDg4Mg=="

@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://jwexitplan.org/"
 id = 173_854_964
+is_template = false
 language = "HTML"
 name = "exit-plan"
 node_id = "MDEwOlJlcG9zaXRvcnkxNzM4NTQ5NjQ="

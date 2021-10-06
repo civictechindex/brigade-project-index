@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 63_121_405
+is_template = false
 language = "JavaScript"
 name = "di_geocoding"
 node_id = "MDEwOlJlcG9zaXRvcnk2MzEyMTQwNQ=="

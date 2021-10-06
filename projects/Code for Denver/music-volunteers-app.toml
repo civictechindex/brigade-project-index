@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 61_748_151
+is_template = false
 language = "Ruby"
 name = "music-volunteers-app"
 node_id = "MDEwOlJlcG9zaXRvcnk2MTc0ODE1MQ=="

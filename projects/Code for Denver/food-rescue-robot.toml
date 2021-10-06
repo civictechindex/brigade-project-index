@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 40_158_418
+is_template = false
 language = "JavaScript"
 name = "food-rescue-robot"
 node_id = "MDEwOlJlcG9zaXRvcnk0MDE1ODQxOA=="

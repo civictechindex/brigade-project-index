@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 53_224_699
+is_template = false
 language = "JavaScript"
 name = "viz-template"
 node_id = "MDEwOlJlcG9zaXRvcnk1MzIyNDY5OQ=="

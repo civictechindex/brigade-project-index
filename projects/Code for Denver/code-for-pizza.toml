@@ -24,6 +24,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 113_530_292
+is_template = false
 language = "Clojure"
 name = "code-for-pizza"
 node_id = "MDEwOlJlcG9zaXRvcnkxMTM1MzAyOTI="

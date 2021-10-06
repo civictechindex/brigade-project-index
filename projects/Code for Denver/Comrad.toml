@@ -27,6 +27,7 @@ has_projects = true
 has_wiki = false
 homepage = ""
 id = 137_008_522
+is_template = false
 language = "JavaScript"
 name = "Comrad"
 node_id = "MDEwOlJlcG9zaXRvcnkxMzcwMDg1MjI="

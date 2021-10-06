@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 49_389_137
+is_template = false
 name = "all-the-things"
 node_id = "MDEwOlJlcG9zaXRvcnk0OTM4OTEzNw=="
 open_issues_within = 10

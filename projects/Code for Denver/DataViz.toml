@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 61_081_977
+is_template = false
 name = "DataViz"
 node_id = "MDEwOlJlcG9zaXRvcnk2MTA4MTk3Nw=="
 open_issues_within = 100

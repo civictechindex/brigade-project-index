@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 58_980_909
+is_template = false
 language = "JavaScript"
 name = "wildlandsDefense_FrontEnd"
 node_id = "MDEwOlJlcG9zaXRvcnk1ODk4MDkwOQ=="

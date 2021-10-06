@@ -19,6 +19,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 150_195_742
+is_template = false
 language = "Go"
 name = "shift-api"
 node_id = "MDEwOlJlcG9zaXRvcnkxNTAxOTU3NDI="

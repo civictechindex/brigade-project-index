@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 39_425_633
+is_template = false
 language = "CoffeeScript"
 name = "flowdock-bot"
 node_id = "MDEwOlJlcG9zaXRvcnkzOTQyNTYzMw=="

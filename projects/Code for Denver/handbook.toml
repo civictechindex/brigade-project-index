@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 246_174_100
+is_template = false
 name = "handbook"
 node_id = "MDEwOlJlcG9zaXRvcnkyNDYxNzQxMDA="
 open_issues_within = 0

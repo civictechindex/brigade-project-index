@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 198_456_214
+is_template = false
 name = "Comrad-logger"
 node_id = "MDEwOlJlcG9zaXRvcnkxOTg0NTYyMTQ="
 open_issues_within = 0

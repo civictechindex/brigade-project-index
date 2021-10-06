@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 210_479_084
+is_template = false
 language = "Jsonnet"
 name = "infra"
 node_id = "MDEwOlJlcG9zaXRvcnkyMTA0NzkwODQ="

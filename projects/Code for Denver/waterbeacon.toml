@@ -27,6 +27,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 69_771_797
+is_template = false
 language = "Python"
 name = "waterbeacon"
 node_id = "MDEwOlJlcG9zaXRvcnk2OTc3MTc5Nw=="

@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 19_396_207
+is_template = false
 language = "Go"
 name = "denver"
 node_id = "MDEwOlJlcG9zaXRvcnkxOTM5NjIwNw=="

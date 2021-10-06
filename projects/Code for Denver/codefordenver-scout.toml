@@ -28,6 +28,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 184_176_976
+is_template = false
 language = "Go"
 name = "codefordenver-scout"
 node_id = "MDEwOlJlcG9zaXRvcnkxODQxNzY5NzY="

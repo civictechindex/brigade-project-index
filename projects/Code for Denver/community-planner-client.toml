@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 270_872_468
+is_template = false
 name = "community-planner-client"
 node_id = "MDEwOlJlcG9zaXRvcnkyNzA4NzI0Njg="
 open_issues_within = 0

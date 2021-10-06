@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 54_241_576
+is_template = false
 language = "Clojure"
 name = "owlet-api"
 node_id = "MDEwOlJlcG9zaXRvcnk1NDI0MTU3Ng=="

@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 210_481_123
+is_template = false
 name = "accident-hotspotter"
 node_id = "MDEwOlJlcG9zaXRvcnkyMTA0ODExMjM="
 open_issues_within = 0

@@ -30,6 +30,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://www.dearneighbors.org"
 id = 252_510_424
+is_template = false
 language = "HTML"
 name = "dearneighbors"
 node_id = "MDEwOlJlcG9zaXRvcnkyNTI1MTA0MjQ="

@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://waffle.io/codefordenver/projects"
 id = 46_697_197
+is_template = false
 name = "projects"
 node_id = "MDEwOlJlcG9zaXRvcnk0NjY5NzE5Nw=="
 open_issues_within = 100

@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 62_102_391
+is_template = false
 language = "C#"
 name = "shelter-availability"
 node_id = "MDEwOlJlcG9zaXRvcnk2MjEwMjM5MQ=="

@@ -20,6 +20,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://codefornebraska.github.io/renters-help/"
 id = 386_784_799
+is_template = false
 language = "JavaScript"
 name = "renters-help"
 node_id = "MDEwOlJlcG9zaXRvcnkzODY3ODQ3OTk="

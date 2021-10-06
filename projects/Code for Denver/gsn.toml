@@ -27,6 +27,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 148_246_500
+is_template = false
 language = "JavaScript"
 name = "gsn"
 node_id = "MDEwOlJlcG9zaXRvcnkxNDgyNDY1MDA="

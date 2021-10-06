@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 239_810_531
+is_template = false
 name = "nand2tetris"
 node_id = "MDEwOlJlcG9zaXRvcnkyMzk4MTA1MzE="
 open_issues_within = 0

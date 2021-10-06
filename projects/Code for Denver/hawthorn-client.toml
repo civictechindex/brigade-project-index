@@ -36,6 +36,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://hawth.org"
 id = 211_447_161
+is_template = false
 language = "JavaScript"
 name = "hawthorn-client"
 node_id = "MDEwOlJlcG9zaXRvcnkyMTE0NDcxNjE="

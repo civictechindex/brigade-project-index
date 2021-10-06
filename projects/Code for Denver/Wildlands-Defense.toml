@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://hackshop.waffle.io"
 id = 53_899_522
+is_template = false
 name = "Wildlands-Defense"
 node_id = "MDEwOlJlcG9zaXRvcnk1Mzg5OTUyMg=="
 open_issues_within = 100

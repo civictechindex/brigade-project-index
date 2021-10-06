@@ -20,6 +20,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://feed.rmfu.org"
 id = 44_578_404
+is_template = false
 language = "Clojure"
 name = "rmfu-feed"
 node_id = "MDEwOlJlcG9zaXRvcnk0NDU3ODQwNA=="

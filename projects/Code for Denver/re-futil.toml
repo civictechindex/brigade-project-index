@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 143_570_599
+is_template = false
 language = "Clojure"
 name = "re-futil"
 node_id = "MDEwOlJlcG9zaXRvcnkxNDM1NzA1OTk="

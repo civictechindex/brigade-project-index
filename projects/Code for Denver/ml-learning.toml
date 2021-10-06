@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 172_621_639
+is_template = false
 name = "ml-learning"
 node_id = "MDEwOlJlcG9zaXRvcnkxNzI2MjE2Mzk="
 open_issues_within = 0

@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 73_050_837
+is_template = false
 language = "CoffeeScript"
 name = "hubot-flowdock"
 node_id = "MDEwOlJlcG9zaXRvcnk3MzA1MDgzNw=="

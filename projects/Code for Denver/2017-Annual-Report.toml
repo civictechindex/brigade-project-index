@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://2017.codefordenver.org/"
 id = 111_492_334
+is_template = false
 language = "CSS"
 name = "2017-Annual-Report"
 node_id = "MDEwOlJlcG9zaXRvcnkxMTE0OTIzMzQ="

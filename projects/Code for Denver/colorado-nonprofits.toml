@@ -20,6 +20,7 @@ has_pages = true
 has_projects = true
 has_wiki = true
 id = 93_460_170
+is_template = false
 language = "JavaScript"
 name = "colorado-nonprofits"
 node_id = "MDEwOlJlcG9zaXRvcnk5MzQ2MDE3MA=="

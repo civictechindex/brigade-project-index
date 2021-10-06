@@ -30,6 +30,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 200_539_506
+is_template = false
 language = "Java"
 name = "ideaLab"
 node_id = "MDEwOlJlcG9zaXRvcnkyMDA1Mzk1MDY="

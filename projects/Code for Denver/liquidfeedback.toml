@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 70_964_892
+is_template = false
 language = "Shell"
 name = "liquidfeedback"
 node_id = "MDEwOlJlcG9zaXRvcnk3MDk2NDg5Mg=="

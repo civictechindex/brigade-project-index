@@ -20,6 +20,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://codefordenver.github.io/tutorials/"
 id = 84_897_239
+is_template = false
 language = "CSS"
 name = "tutorials"
 node_id = "MDEwOlJlcG9zaXRvcnk4NDg5NzIzOQ=="

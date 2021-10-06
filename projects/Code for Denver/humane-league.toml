@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 125_945_042
+is_template = false
 language = "JavaScript"
 name = "humane-league"
 node_id = "MDEwOlJlcG9zaXRvcnkxMjU5NDUwNDI="

@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 216_078_221
+is_template = false
 name = "DataVisualization"
 node_id = "MDEwOlJlcG9zaXRvcnkyMTYwNzgyMjE="
 open_issues_within = 10

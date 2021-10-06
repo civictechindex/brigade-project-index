@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 215_174_674
+is_template = false
 language = "Python"
 name = "denverpovertymap"
 node_id = "MDEwOlJlcG9zaXRvcnkyMTUxNzQ2NzQ="

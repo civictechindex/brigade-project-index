@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 25_557_823
+is_template = false
 language = "JavaScript"
 name = "code-for-denver-site"
 node_id = "MDEwOlJlcG9zaXRvcnkyNTU1NzgyMw=="

@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://re-imagine-dev.firebaseapp.com/"
 id = 66_893_880
+is_template = false
 language = "JavaScript"
 name = "Circular"
 node_id = "MDEwOlJlcG9zaXRvcnk2Njg5Mzg4MA=="

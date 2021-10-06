@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://blog.klipse.tech/"
 id = 112_271_165
+is_template = false
 language = "Clojure"
 name = "klipse"
 node_id = "MDEwOlJlcG9zaXRvcnkxMTIyNzExNjU="

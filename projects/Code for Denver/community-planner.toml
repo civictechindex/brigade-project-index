@@ -21,6 +21,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 230_507_110
+is_template = false
 name = "community-planner"
 node_id = "MDEwOlJlcG9zaXRvcnkyMzA1MDcxMTA="
 open_issues_within = 100

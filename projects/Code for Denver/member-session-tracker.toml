@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 149_208_100
+is_template = false
 name = "member-session-tracker"
 node_id = "MDEwOlJlcG9zaXRvcnkxNDkyMDgxMDA="
 open_issues_within = 0

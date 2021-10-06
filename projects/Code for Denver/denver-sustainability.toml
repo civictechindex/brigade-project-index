@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://denver-sustainability.herokuapp.com/"
 id = 36_772_248
+is_template = false
 language = "HTML"
 name = "denver-sustainability"
 node_id = "MDEwOlJlcG9zaXRvcnkzNjc3MjI0OA=="
