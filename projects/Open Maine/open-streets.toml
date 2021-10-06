@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 263_719_104
+is_template = false
 name = "open-streets"
 node_id = "MDEwOlJlcG9zaXRvcnkyNjM3MTkxMDQ="
 open_issues_within = 0

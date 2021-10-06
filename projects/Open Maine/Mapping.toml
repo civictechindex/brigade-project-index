@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 229_452_068
+is_template = false
 language = "JavaScript"
 name = "Mapping"
 node_id = "MDEwOlJlcG9zaXRvcnkyMjk0NTIwNjg="

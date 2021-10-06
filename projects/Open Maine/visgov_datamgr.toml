@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 100_297_086
+is_template = false
 language = "HTML"
 name = "visgov_datamgr"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDAyOTcwODY="

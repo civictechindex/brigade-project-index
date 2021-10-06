@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 147_250_844
+is_template = false
 language = "JavaScript"
 name = "Map_Generator"
 node_id = "MDEwOlJlcG9zaXRvcnkxNDcyNTA4NDQ="

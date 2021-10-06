@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 239_380_254
+is_template = true
 name = "library-assistance"
 node_id = "MDEwOlJlcG9zaXRvcnkyMzkzODAyNTQ="
 open_issues_within = 10

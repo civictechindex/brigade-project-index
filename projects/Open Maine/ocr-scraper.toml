@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 209_670_035
+is_template = false
 name = "ocr-scraper"
 node_id = "MDEwOlJlcG9zaXRvcnkyMDk2NzAwMzU="
 open_issues_within = 0

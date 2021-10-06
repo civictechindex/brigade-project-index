@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 209_667_340
+is_template = false
 language = "JavaScript"
 name = "legislative_scorecard"
 node_id = "MDEwOlJlcG9zaXRvcnkyMDk2NjczNDA="

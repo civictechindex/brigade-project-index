@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 248_573_993
+is_template = false
 name = "covid19-coding"
 node_id = "MDEwOlJlcG9zaXRvcnkyNDg1NzM5OTM="
 open_issues_within = 10

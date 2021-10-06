@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 315_164_568
+is_template = false
 language = "Dockerfile"
 name = "decidim-example"
 node_id = "MDEwOlJlcG9zaXRvcnkzMTUxNjQ1Njg="

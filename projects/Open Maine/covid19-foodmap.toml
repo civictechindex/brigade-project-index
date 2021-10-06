@@ -29,6 +29,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://pantries.openmaine.org"
 id = 248_567_349
+is_template = false
 language = "JavaScript"
 name = "covid19-foodmap"
 node_id = "MDEwOlJlcG9zaXRvcnkyNDg1NjczNDk="

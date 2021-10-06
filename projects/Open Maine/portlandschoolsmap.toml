@@ -23,6 +23,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://www.portlandschools.org/c_o_v_i_d-19/food_distribution_sites"
 id = 260_730_398
+is_template = false
 name = "portlandschoolsmap"
 node_id = "MDEwOlJlcG9zaXRvcnkyNjA3MzAzOTg="
 open_issues_within = 10

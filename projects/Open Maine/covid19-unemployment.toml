@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 248_569_694
+is_template = false
 name = "covid19-unemployment"
 node_id = "MDEwOlJlcG9zaXRvcnkyNDg1Njk2OTQ="
 open_issues_within = 10

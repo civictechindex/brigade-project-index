@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 101_311_977
+is_template = false
 language = "PHP"
 name = "openmaine-wp-theme"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDEzMTE5Nzc="

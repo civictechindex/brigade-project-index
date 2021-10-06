@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 289_142_714
+is_template = false
 name = "ballot-tracking"
 node_id = "MDEwOlJlcG9zaXRvcnkyODkxNDI3MTQ="
 open_issues_within = 10

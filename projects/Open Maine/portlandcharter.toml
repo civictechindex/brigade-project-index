@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 280_001_272
+is_template = false
 name = "portlandcharter"
 node_id = "MDEwOlJlcG9zaXRvcnkyODAwMDEyNzI="
 open_issues_within = 0

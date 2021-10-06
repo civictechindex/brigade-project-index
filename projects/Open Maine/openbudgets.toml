@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://github.com/OpenMaine/openbudgets/wiki"
 id = 268_393_794
+is_template = false
 name = "openbudgets"
 node_id = "MDEwOlJlcG9zaXRvcnkyNjgzOTM3OTQ="
 open_issues_within = 10

@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 332_532_141
+is_template = false
 language = "HTML"
 name = "rent-calculator"
 node_id = "MDEwOlJlcG9zaXRvcnkzMzI1MzIxNDE="

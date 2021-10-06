@@ -23,6 +23,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://maineballot.org"
 id = 165_910_544
+is_template = false
 language = "HTML"
 name = "maineballot"
 node_id = "MDEwOlJlcG9zaXRvcnkxNjU5MTA1NDQ="

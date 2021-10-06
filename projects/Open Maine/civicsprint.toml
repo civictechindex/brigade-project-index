@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 225_484_444
+is_template = false
 name = "civicsprint"
 node_id = "MDEwOlJlcG9zaXRvcnkyMjU0ODQ0NDQ="
 open_issues_within = 0

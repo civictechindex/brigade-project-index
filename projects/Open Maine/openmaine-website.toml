@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 182_173_957
+is_template = false
 language = "HTML"
 name = "openmaine-website"
 node_id = "MDEwOlJlcG9zaXRvcnkxODIxNzM5NTc="

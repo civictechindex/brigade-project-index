@@ -20,6 +20,7 @@ has_pages = true
 has_projects = true
 has_wiki = true
 id = 197_431_602
+is_template = false
 language = "HTML"
 name = "openmaine.github.io"
 node_id = "MDEwOlJlcG9zaXRvcnkxOTc0MzE2MDI="

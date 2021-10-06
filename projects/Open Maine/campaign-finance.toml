@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 198_262_646
+is_template = false
 language = "Rich Text Format"
 name = "campaign-finance"
 node_id = "MDEwOlJlcG9zaXRvcnkxOTgyNjI2NDY="

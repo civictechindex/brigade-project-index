@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 248_531_591
+is_template = false
 language = "CSS"
 name = "ghost-handlebars-theme"
 node_id = "MDEwOlJlcG9zaXRvcnkyNDg1MzE1OTE="
