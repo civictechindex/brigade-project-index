@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://scikit-learn.org"
 id = 410_422_898
+is_template = false
 name = "scikit-learn"
 node_id = "R_kgDOGHaOcg"
 open_issues_within = 0

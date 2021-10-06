@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 45_146_719
+is_template = false
 language = "PHP"
 name = "politikei_admin"
 node_id = "MDEwOlJlcG9zaXRvcnk0NTE0NjcxOQ=="

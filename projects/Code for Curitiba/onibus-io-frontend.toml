@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 221_766_368
+is_template = false
 language = "Vue"
 name = "onibus-io-frontend"
 node_id = "MDEwOlJlcG9zaXRvcnkyMjE3NjYzNjg="

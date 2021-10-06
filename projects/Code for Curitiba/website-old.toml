@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = false
 homepage = "http://openbrazil.org/curitiba"
 id = 33_276_735
+is_template = false
 language = "HTML"
 name = "website-old"
 node_id = "MDEwOlJlcG9zaXRvcnkzMzI3NjczNQ=="

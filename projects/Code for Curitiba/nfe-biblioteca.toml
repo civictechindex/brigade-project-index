@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 65_925_251
+is_template = false
 language = "JavaScript"
 name = "nfe-biblioteca"
 node_id = "MDEwOlJlcG9zaXRvcnk2NTkyNTI1MQ=="

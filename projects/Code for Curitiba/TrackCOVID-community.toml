@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "https://demo.trackcovid.net/"
 id = 278_209_844
+is_template = false
 name = "TrackCOVID-community"
 node_id = "MDEwOlJlcG9zaXRvcnkyNzgyMDk4NDQ="
 open_issues_within = 0

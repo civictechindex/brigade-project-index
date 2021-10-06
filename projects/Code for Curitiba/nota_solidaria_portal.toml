@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 60_745_810
+is_template = false
 language = "JavaScript"
 name = "nota_solidaria_portal"
 node_id = "MDEwOlJlcG9zaXRvcnk2MDc0NTgxMA=="

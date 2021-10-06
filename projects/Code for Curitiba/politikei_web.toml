@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 50_540_005
+is_template = false
 language = "CSS"
 name = "politikei_web"
 node_id = "MDEwOlJlcG9zaXRvcnk1MDU0MDAwNQ=="

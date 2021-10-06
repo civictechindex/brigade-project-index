@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 82_722_487
+is_template = false
 language = "PHP"
 name = "projetos-code"
 node_id = "MDEwOlJlcG9zaXRvcnk4MjcyMjQ4Nw=="

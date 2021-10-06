@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 65_630_850
+is_template = false
 name = "politikei_api_eleicoes"
 node_id = "MDEwOlJlcG9zaXRvcnk2NTYzMDg1MA=="
 open_issues_within = 0
