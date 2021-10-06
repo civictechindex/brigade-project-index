@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 27_935_930
+is_template = false
 name = "how-to-contribute"
 node_id = "MDEwOlJlcG9zaXRvcnkyNzkzNTkzMA=="
 open_issues_within = 10

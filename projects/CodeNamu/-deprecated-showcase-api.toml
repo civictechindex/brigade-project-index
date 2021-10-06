@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 41_339_509
+is_template = false
 language = "JavaScript"
 name = "-deprecated-showcase-api"
 node_id = "MDEwOlJlcG9zaXRvcnk0MTMzOTUwOQ=="

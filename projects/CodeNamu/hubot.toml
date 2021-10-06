@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://hubot.github.com"
 id = 31_582_063
+is_template = false
 language = "CoffeeScript"
 name = "hubot"
 node_id = "MDEwOlJlcG9zaXRvcnkzMTU4MjA2Mw=="

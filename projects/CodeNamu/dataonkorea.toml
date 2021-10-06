@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = false
 homepage = "http://codeforseoul.github.io/dataonkorea"
 id = 48_318_963
+is_template = false
 language = "JavaScript"
 name = "dataonkorea"
 node_id = "MDEwOlJlcG9zaXRvcnk0ODMxODk2Mw=="

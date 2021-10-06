@@ -20,6 +20,7 @@ has_pages = false
 has_projects = true
 has_wiki = false
 id = 33_768_069
+is_template = false
 language = "HTML"
 name = "getoutofdebt.kr-scraper"
 node_id = "MDEwOlJlcG9zaXRvcnkzMzc2ODA2OQ=="

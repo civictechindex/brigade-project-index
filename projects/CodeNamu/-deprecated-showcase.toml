@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 27_752_170
+is_template = false
 language = "JavaScript"
 name = "-deprecated-showcase"
 node_id = "MDEwOlJlcG9zaXRvcnkyNzc1MjE3MA=="

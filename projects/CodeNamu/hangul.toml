@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 28_815_904
+is_template = false
 language = "Perl"
 name = "hangul"
 node_id = "MDEwOlJlcG9zaXRvcnkyODgxNTkwNA=="

@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 40_122_020
+is_template = false
 language = "Python"
 name = "congress-report"
 node_id = "MDEwOlJlcG9zaXRvcnk0MDEyMjAyMA=="

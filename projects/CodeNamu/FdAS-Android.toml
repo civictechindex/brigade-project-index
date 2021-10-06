@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 29_889_321
+is_template = false
 language = "Java"
 name = "FdAS-Android"
 node_id = "MDEwOlJlcG9zaXRvcnkyOTg4OTMyMQ=="

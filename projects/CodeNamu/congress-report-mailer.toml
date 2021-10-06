@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 38_799_385
+is_template = false
 language = "HTML"
 name = "congress-report-mailer"
 node_id = "MDEwOlJlcG9zaXRvcnkzODc5OTM4NQ=="

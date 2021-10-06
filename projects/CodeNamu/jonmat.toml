@@ -20,6 +20,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://codeforseoul.org/jonmat/"
 id = 53_183_616
+is_template = false
 language = "JavaScript"
 name = "jonmat"
 node_id = "MDEwOlJlcG9zaXRvcnk1MzE4MzYxNg=="

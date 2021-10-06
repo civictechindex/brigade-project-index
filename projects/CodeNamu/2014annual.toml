@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = false
 homepage = "http://2014.codeforseoul.org"
 id = 27_600_954
+is_template = false
 language = "CSS"
 name = "2014annual"
 node_id = "MDEwOlJlcG9zaXRvcnkyNzYwMDk1NA=="

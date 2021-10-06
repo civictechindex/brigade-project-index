@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = false
 homepage = "http://codeforseoul.org"
 id = 20_876_072
+is_template = false
 language = "HTML"
 name = "codeforseoul.github.io"
 node_id = "MDEwOlJlcG9zaXRvcnkyMDg3NjA3Mg=="

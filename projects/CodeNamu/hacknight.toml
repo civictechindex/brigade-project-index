@@ -18,6 +18,7 @@ has_pages = false
 has_projects = true
 has_wiki = true
 id = 42_912_416
+is_template = false
 name = "hacknight"
 node_id = "MDEwOlJlcG9zaXRvcnk0MjkxMjQxNg=="
 open_issues_within = 0

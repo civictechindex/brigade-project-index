@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://codeforseoul.org/how-much-shoveling/"
 id = 31_518_524
+is_template = false
 language = "Python"
 name = "how-much-shoveling"
 node_id = "MDEwOlJlcG9zaXRvcnkzMTUxODUyNA=="

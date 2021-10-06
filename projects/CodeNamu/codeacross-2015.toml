@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 homepage = "http://codeforseoul.org/codeacross"
 id = 30_388_255
+is_template = false
 language = "CSS"
 name = "codeacross-2015"
 node_id = "MDEwOlJlcG9zaXRvcnkzMDM4ODI1NQ=="
