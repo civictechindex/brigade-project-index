@@ -25,12 +25,12 @@ is_template = false
 language = "CSS"
 name = "identity-saml-sinatra"
 node_id = "MDEwOlJlcG9zaXRvcnk1Njg3OTc5MA=="
-open_issues_within = 10
+open_issues_within = 0
 private = false
 pushed_within = "week"
 stargazers_within = 10
 topics = [ "login-gov" ]
-updated_within = "month"
+updated_within = "week"
 visibility = "public"
 watchers_within = 10
 
