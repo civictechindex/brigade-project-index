@@ -3,5 +3,4 @@ git_branch = "main"
 git_url = "git://github.com/uscensusbureau/the-opportunity-project.git"
 last_pushed_within = "week"
 name = "the-opportunity-project"
-open_issues_within = 10
 organization_name = "US Census Bureau"
