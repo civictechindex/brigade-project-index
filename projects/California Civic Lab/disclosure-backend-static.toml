@@ -36,7 +36,7 @@ name = "disclosure-backend-static"
 node_id = "MDEwOlJlcG9zaXRvcnk2NzQ1NzY3Mg=="
 open_issues_within = 100
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 10
 topics = [
   "california",
@@ -46,7 +46,7 @@ topics = [
   "ruby",
   "static-site"
 ]
-updated_within = "month"
+updated_within = "week"
 visibility = "public"
 watchers_within = 10
 
