@@ -4,7 +4,7 @@ organization_name = "Chi Hack Night"
 
 [github]
 allow_forking = true
-archived = false
+archived = true
 created_at = "2012-09-19T01:16:59Z"
 default_branch = "master"
 description = "Checks the Chicago Open311 server every few minutees and plays a noise when new service requests are submitted or updated. "
@@ -31,7 +31,7 @@ stargazers_within = 10
 subscribers_count = 6
 temp_clone_token = ""
 topics = [ ]
-updated_within = "over_a_year"
+updated_within = "week"
 visibility = "public"
 watchers_within = 10
 
