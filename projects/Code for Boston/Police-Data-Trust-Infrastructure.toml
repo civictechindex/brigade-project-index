@@ -1,0 +1,46 @@
+code_url = "https://github.com/codeforboston/Police-Data-Trust-Infrastructure"
+git_url = "git://github.com/codeforboston/Police-Data-Trust-Infrastructure.git"
+name = "Police-Data-Trust-Infrastructure"
+organization_name = "Code for Boston"
+
+[github]
+allow_forking = true
+archived = false
+created_at = "2021-10-07T20:02:49Z"
+default_branch = "main"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "codeforboston/Police-Data-Trust-Infrastructure"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+id = 414_741_394
+is_template = false
+name = "Police-Data-Trust-Infrastructure"
+node_id = "R_kgDOGLhzkg"
+open_issues_within = 0
+private = false
+pushed_within = "week"
+stargazers_within = 0
+topics = [ ]
+updated_within = "week"
+visibility = "public"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_533_182
+  login = "codeforboston"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI1MzMxODI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  maintain = false
+  pull = true
+  push = false
+  triage = false
