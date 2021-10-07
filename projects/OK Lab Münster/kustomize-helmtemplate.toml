@@ -1,6 +1,6 @@
 code_url = "https://github.com/codeformuenster/kustomize-helmtemplate"
 git_branch = "master"
 git_url = "git://github.com/codeformuenster/kustomize-helmtemplate.git"
-last_pushed_within = "year"
+last_pushed_within = "over_a_year"
 name = "kustomize-helmtemplate"
 organization_name = "OK Lab Münster"
