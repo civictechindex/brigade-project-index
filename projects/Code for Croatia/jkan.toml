@@ -1,13 +1,17 @@
 code_url = "https://github.com/codeforcroatia/jkan"
+description = "Code for Croatia Open Data Portal"
 git_url = "git://github.com/codeforcroatia/jkan.git"
+link_url = "https://data.codeforcroatia.org"
 name = "jkan"
 organization_name = "Code for Croatia"
+topics = [ "croatia", "open-data", "open-datasets" ]
 
 [github]
 allow_forking = true
 archived = false
 created_at = "2020-05-30T11:20:12Z"
 default_branch = "gh-pages"
+description = "Code for Croatia Open Data Portal"
 disabled = false
 fork = false
 forks_within = 10
@@ -17,17 +21,18 @@ has_issues = true
 has_pages = true
 has_projects = false
 has_wiki = false
+homepage = "https://data.codeforcroatia.org"
 id = 268_064_834
 is_template = false
 language = "HTML"
 name = "jkan"
 node_id = "MDEwOlJlcG9zaXRvcnkyNjgwNjQ4MzQ="
-open_issues_within = 100
+open_issues_within = 10
 private = false
 pushed_within = "week"
 stargazers_within = 0
-topics = [ ]
-updated_within = "year"
+topics = [ "croatia", "open-data", "open-datasets" ]
+updated_within = "week"
 visibility = "public"
 watchers_within = 0
 
