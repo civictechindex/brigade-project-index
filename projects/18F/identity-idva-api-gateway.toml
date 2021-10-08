@@ -25,9 +25,9 @@ is_template = false
 language = "Shell"
 name = "identity-idva-api-gateway"
 node_id = "MDEwOlJlcG9zaXRvcnkyOTA2MDAzNTE="
-open_issues_within = 10
+open_issues_within = 100
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
 updated_within = "month"
