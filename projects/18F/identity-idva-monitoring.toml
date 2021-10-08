@@ -25,7 +25,7 @@ is_template = false
 language = "Shell"
 name = "identity-idva-monitoring"
 node_id = "MDEwOlJlcG9zaXRvcnkzNjg5MDg1MDU="
-open_issues_within = 0
+open_issues_within = 10
 private = false
 pushed_within = "week"
 stargazers_within = 0
