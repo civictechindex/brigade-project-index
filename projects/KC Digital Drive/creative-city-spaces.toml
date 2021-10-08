@@ -7,4 +7,10 @@ link_url = "https://creative-city-spaces.github.io/"
 name = "creative-city-spaces"
 open_issues_within = 100
 organization_name = "KC Digital Drive"
-topics = [ "arts", "code-for-america", "code-for-kc" ]
+topics = [
+  "arts",
+  "civictechindex",
+  "code-for-america",
+  "code-for-kc",
+  "kc-digital-drive"
+]

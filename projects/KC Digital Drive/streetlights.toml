@@ -7,8 +7,10 @@ name = "streetlights"
 open_issues_within = 100
 organization_name = "KC Digital Drive"
 topics = [
+  "civictechindex",
   "code-for-america",
   "code-for-kc",
   "infrastructure",
-  "smart-city"
+  "smart-city",
+  "streetlights"
 ]
