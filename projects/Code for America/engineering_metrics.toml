@@ -1,6 +1,6 @@
 code_url = "https://github.com/codeforamerica/engineering_metrics"
 git_branch = "main"
 git_url = "git://github.com/codeforamerica/engineering_metrics.git"
-last_pushed_within = "year"
+last_pushed_within = "week"
 name = "engineering_metrics"
 organization_name = "Code for America"
