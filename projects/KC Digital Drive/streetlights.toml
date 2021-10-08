@@ -4,10 +4,12 @@ git_url = "git://github.com/codeforkansascity/streetlights.git"
 name = "streetlights"
 organization_name = "KC Digital Drive"
 topics = [
+  "civictechindex",
   "code-for-america",
   "code-for-kc",
   "infrastructure",
-  "smart-city"
+  "smart-city",
+  "streetlights"
 ]
 
 [github]
@@ -36,12 +38,14 @@ private = false
 pushed_within = "week"
 stargazers_within = 10
 topics = [
+  "civictechindex",
   "code-for-america",
   "code-for-kc",
   "infrastructure",
-  "smart-city"
+  "smart-city",
+  "streetlights"
 ]
-updated_within = "year"
+updated_within = "week"
 visibility = "public"
 watchers_within = 10
 

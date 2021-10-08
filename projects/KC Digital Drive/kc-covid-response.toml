@@ -4,6 +4,12 @@ git_url = "git://github.com/codeforkansascity/kc-covid-response.git"
 link_url = "https://www.comebackkc.com"
 name = "kc-covid-response"
 organization_name = "KC Digital Drive"
+topics = [
+  "civictechindex",
+  "code-for-america",
+  "code-for-kc",
+  "kc-digital-drive"
+]
 
 [github]
 allow_forking = true
@@ -30,8 +36,13 @@ open_issues_within = 100
 private = false
 pushed_within = "year"
 stargazers_within = 0
-topics = [ ]
-updated_within = "year"
+topics = [
+  "civictechindex",
+  "code-for-america",
+  "code-for-kc",
+  "kc-digital-drive"
+]
+updated_within = "week"
 visibility = "public"
 watchers_within = 0
 

@@ -4,7 +4,13 @@ git_url = "git://github.com/codeforkansascity/creative-city-spaces.git"
 link_url = "https://creative-city-spaces.github.io/"
 name = "creative-city-spaces"
 organization_name = "KC Digital Drive"
-topics = [ "arts", "code-for-america", "code-for-kc" ]
+topics = [
+  "arts",
+  "civictechindex",
+  "code-for-america",
+  "code-for-kc",
+  "kc-digital-drive"
+]
 
 [github]
 allow_forking = true
@@ -31,8 +37,14 @@ open_issues_within = 100
 private = false
 pushed_within = "week"
 stargazers_within = 0
-topics = [ "arts", "code-for-america", "code-for-kc" ]
-updated_within = "over_a_year"
+topics = [
+  "arts",
+  "civictechindex",
+  "code-for-america",
+  "code-for-kc",
+  "kc-digital-drive"
+]
+updated_within = "week"
 visibility = "public"
 watchers_within = 0
 
