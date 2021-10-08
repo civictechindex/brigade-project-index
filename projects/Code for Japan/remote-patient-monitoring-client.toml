@@ -26,12 +26,12 @@ is_template = false
 language = "Vue"
 name = "remote-patient-monitoring-client"
 node_id = "MDEwOlJlcG9zaXRvcnkzMjUyOTEyMjY="
-open_issues_within = 100
+open_issues_within = 10
 private = false
 pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
-updated_within = "month"
+updated_within = "week"
 visibility = "public"
 watchers_within = 10
 
