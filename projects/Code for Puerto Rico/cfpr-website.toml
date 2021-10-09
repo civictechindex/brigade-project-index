@@ -1,6 +1,6 @@
 code_url = "https://github.com/Code4PuertoRico/cfpr-website"
 git_url = "git://github.com/Code4PuertoRico/cfpr-website.git"
-link_url = "https://peaceful-ardinghelli-f8d784.netlify.app/"
+link_url = "https://www.code4puertorico.org"
 name = "cfpr-website"
 organization_name = "Code for Puerto Rico"
 
@@ -18,7 +18,7 @@ has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = true
-homepage = "https://peaceful-ardinghelli-f8d784.netlify.app/"
+homepage = "https://www.code4puertorico.org"
 id = 357_708_481
 is_template = false
 language = "JavaScript"
@@ -26,10 +26,10 @@ name = "cfpr-website"
 node_id = "MDEwOlJlcG9zaXRvcnkzNTc3MDg0ODE="
 open_issues_within = 100
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
-updated_within = "month"
+updated_within = "week"
 visibility = "public"
 watchers_within = 10
 
