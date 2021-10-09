@@ -28,7 +28,7 @@ network_count = 7
 node_id = "MDEwOlJlcG9zaXRvcnkxMjQwMTM1NTg="
 open_issues_within = 10
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 10
 subscribers_count = 16
 temp_clone_token = ""
@@ -40,7 +40,7 @@ topics = [
   "oakland",
   "openoakland"
 ]
-updated_within = "month"
+updated_within = "week"
 visibility = "public"
 watchers_within = 10
 
