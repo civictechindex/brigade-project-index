@@ -1,6 +1,6 @@
 code_url = "https://github.com/openelections/electionware"
 git_branch = "main"
 git_url = "git://github.com/openelections/electionware.git"
-last_pushed_within = "year"
+last_pushed_within = "over_a_year"
 name = "electionware"
 organization_name = "Open Elections"
