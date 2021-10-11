@@ -1,7 +1,7 @@
 code_url = "https://github.com/code4romania/tfsg.code4.ro"
 description = "Website for the Tech for Social Good program"
 git_url = "git://github.com/code4romania/tfsg.code4.ro.git"
-link_url = "https://tfsg.code4.ro/"
+link_url = "https://tfsg.code4.ro"
 name = "tfsg.code4.ro"
 organization_name = "Code for Romania: Iasi Chapter"
 
@@ -20,7 +20,7 @@ has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = true
-homepage = "https://tfsg.code4.ro/"
+homepage = "https://tfsg.code4.ro"
 id = 171_124_984
 is_template = false
 language = "HTML"
