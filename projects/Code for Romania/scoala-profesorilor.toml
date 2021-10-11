@@ -4,4 +4,5 @@ git_branch = "master"
 git_url = "git://github.com/code4romania/scoala-profesorilor.git"
 last_pushed_within = "week"
 name = "scoala-profesorilor"
+open_issues_within = 10
 organization_name = "Code for Romania"
