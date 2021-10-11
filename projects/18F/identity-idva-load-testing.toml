@@ -22,9 +22,9 @@ is_template = false
 language = "Python"
 name = "identity-idva-load-testing"
 node_id = "MDEwOlJlcG9zaXRvcnkzNDIzMjg2MzY="
-open_issues_within = 0
+open_issues_within = 10
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 0
 topics = [ ]
 updated_within = "year"
