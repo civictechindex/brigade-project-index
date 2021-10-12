@@ -2,6 +2,7 @@ code_url = "https://github.com/Open-SGF/motherhood-reclaimed-website"
 git_url = "git://github.com/Open-SGF/motherhood-reclaimed-website.git"
 name = "motherhood-reclaimed-website"
 organization_name = "Open SGF"
+topics = [ "hacktoberfest" ]
 
 [github]
 allow_forking = true
@@ -17,6 +18,7 @@ has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = true
+homepage = ""
 id = 366_206_540
 is_template = false
 language = "SCSS"
@@ -26,8 +28,8 @@ open_issues_within = 10
 private = false
 pushed_within = "month"
 stargazers_within = 10
-topics = [ ]
-updated_within = "month"
+topics = [ "hacktoberfest" ]
+updated_within = "week"
 visibility = "public"
 watchers_within = 10
 
