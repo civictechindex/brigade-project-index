@@ -6,3 +6,4 @@ last_pushed_within = "year"
 link_url = "https://www.opensgf.org/"
 name = "opensgf.org"
 organization_name = "Open SGF"
+topics = [ "hacktoberfest" ]
