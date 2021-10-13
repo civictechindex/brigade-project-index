@@ -1,0 +1,48 @@
+code_url = "https://github.com/OpenUpSA/wazimap-ng-boundaries"
+description = "Shapefiles formatted for Wazimap NG"
+git_url = "git://github.com/OpenUpSA/wazimap-ng-boundaries.git"
+name = "wazimap-ng-boundaries"
+organization_name = "OpenUp"
+
+[github]
+allow_forking = true
+archived = false
+created_at = "2021-10-13T09:15:20Z"
+default_branch = "main"
+description = "Shapefiles formatted for Wazimap NG"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "OpenUpSA/wazimap-ng-boundaries"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+id = 416_667_393
+is_template = false
+name = "wazimap-ng-boundaries"
+node_id = "R_kgDOGNXXAQ"
+open_issues_within = 0
+private = false
+pushed_within = "week"
+stargazers_within = 0
+topics = [ ]
+updated_within = "week"
+visibility = "public"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 26_482_663
+  login = "OpenUpSA"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI2NDgyNjYz"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  maintain = false
+  pull = true
+  push = false
+  triage = false
