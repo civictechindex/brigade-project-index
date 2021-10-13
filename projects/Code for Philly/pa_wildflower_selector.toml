@@ -1,5 +1,5 @@
 code_url = "https://github.com/CodeForPhilly/pa-wildflower-selector"
-link_url = "https://public.tableau.com/views/PAWildflowerLookup/PANativePlantView"
+link_url = "https://www.choosenativeplants.com"
 name = "pa_wildflower_selector"
 organization_name = "Code for Philly"
 status = "Prototyping"
@@ -67,4 +67,4 @@ watchers_within = 10
 
 [projects_list_extra]
 chat_channel = "pa-wildflower-selector"
-title = "PA Wildflower Selector"
+title = "Choose Native Plants PA (Formerly PA Wildflower Lookup and Only Plant Natives)"
