@@ -35,7 +35,7 @@ name = "covid19-pr-dashboard"
 node_id = "MDEwOlJlcG9zaXRvcnkyNTcwMzI2NTU="
 open_issues_within = 100
 private = false
-pushed_within = "week"
+pushed_within = "month"
 stargazers_within = 10
 topics = [
   "civic-tech",
