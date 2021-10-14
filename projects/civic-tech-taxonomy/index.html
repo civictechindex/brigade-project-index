@@ -775,7 +775,10 @@ A comprehensive and intuitive projects categorization is critical in order to av
 </ul>
 <p>As of now, the Taxonomy has been built as bottom-up, this taxonomy categorizes (via synonims) the majority of &ldquo;topics&rdquo; extracted by the <a href="../crawler/">Crawler</a> from all the scanned projects.
 Ideally there may need both a bottom-up and a top-down taxonomies that hopefully will converge.</p>
-<p>There are github action and python scripts that load the taxonomy data (toml files) in a <a href="https://codeforamerica.github.io/nac-sandbox-cluster/civic-tech-taxonomy/mysql/">relational database</a> which allows for more data analysis</p>
+<p>There are github action and python scripts that load the taxonomy data (toml files) in a <a href="https://codeforamerica.github.io/nac-sandbox-cluster/civic-tech-taxonomy/mysql/">relational database</a> which allows for more data analysis.</p>
+<p>The current way to change the content of the Taxonomy is via a PR in the <a href="https://codeforamerica.github.io/civic-tech-taxonomy/">Github repo</a>. In the <a href="https://github.com/codeforamerica/civic-tech-taxonomy/tree/master/taxonomies">taxonomy folder</a> a user can update the toml files and then submit a PR that once approved and merged will propagate the changes (in the SQL database, API, UI).
+We have a <a href="https://codeforamerica.github.io/civic-tech-taxonomy/editor-ui/editor.html">Taxonomy Editor prototype</a> by which we hope one day to maintain the Taxonomy via drag&amp;drop functionality (through a &ldquo;Save&rdquo; button it will create a Github repo PR).</p>
+<p>The relevant Taxonomy datasets have been recently integrated in the <a href="../statusboard">Statusboard</a> via the Taxonomy API. Other users/tools are welcome to invoke the API and ask or make API improvements.</p>
 <h2 id="next-enhancements">Next Enhancements<a class="headerlink" href="#next-enhancements" title="Permanent link"> ¶</a></h2>
 <p>We are discussing some enhancements focused on the Taxonomy</p>
 <ul>
@@ -783,8 +786,8 @@ Ideally there may need both a bottom-up and a top-down taxonomies that hopefully
 <li>Decided if bottom-up is the right approach</li>
 <li>Decide how to keep this list up to date (integrate the taxonomy with the <a href="../crawler/">crawler</a></li>
 <li>Decided whether to separate items that are not &ldquo;topics&rdquo; from the large list extracted by the crawler</li>
-<li>Provide a proper UI to the taxonomy</li>
-<li>Integrate the taxonomy in the <a href="../statusboard.md">Statusboard</a> and <a href="../publiccode-helper">PublicCode Editor</a></li>
+<li>Provide a proper UI and Editor to the taxonomy</li>
+<li>Integrate the taxonomy in the <a href="../publiccode-helper">PublicCode Editor</a></li>
 </ul>
                 
               
