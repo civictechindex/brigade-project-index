@@ -36,7 +36,7 @@ name = "covid-19-stiri-oficiale"
 node_id = "MDEwOlJlcG9zaXRvcnkyNDY5MTg4NDc="
 open_issues_within = 0
 private = false
-pushed_within = "week"
+pushed_within = "month"
 stargazers_within = 100
 topics = [
   "alpinejs",
@@ -46,7 +46,7 @@ topics = [
   "php",
   "tailwindcss"
 ]
-updated_within = "week"
+updated_within = "month"
 visibility = "public"
 watchers_within = 100
 
