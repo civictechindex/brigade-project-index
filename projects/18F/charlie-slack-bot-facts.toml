@@ -1,7 +1,7 @@
-code_url = "https://github.com/18F/18f-bot-facts"
+code_url = "https://github.com/18F/charlie-slack-bot-facts"
 description = "Lists of facts used by 18F bot"
-git_url = "git://github.com/18F/18f-bot-facts.git"
-name = "18f-bot-facts"
+git_url = "git://github.com/18F/charlie-slack-bot-facts.git"
+name = "charlie-slack-bot-facts"
 organization_name = "18F"
 topics = [ "bot", "bot-responses", "charlie", "maintained" ]
 
@@ -14,7 +14,7 @@ description = "Lists of facts used by 18F bot"
 disabled = false
 fork = false
 forks_within = 100
-full_name = "18F/18f-bot-facts"
+full_name = "18F/charlie-slack-bot-facts"
 has_downloads = true
 has_issues = true
 has_pages = false
@@ -24,7 +24,7 @@ homepage = ""
 id = 163_341_988
 is_template = false
 language = "JavaScript"
-name = "18f-bot-facts"
+name = "charlie-slack-bot-facts"
 node_id = "MDEwOlJlcG9zaXRvcnkxNjMzNDE5ODg="
 open_issues_within = 0
 private = false
