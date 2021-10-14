@@ -1,8 +1,8 @@
-code_url = "https://github.com/18F/18f-bot-facts"
+code_url = "https://github.com/18F/charlie-slack-bot-facts"
 description = "Lists of facts used by 18F bot"
 git_branch = "main"
-git_url = "git://github.com/18F/18f-bot-facts.git"
+git_url = "git://github.com/18F/charlie-slack-bot-facts.git"
 last_pushed_within = "week"
-name = "18f-bot-facts"
+name = "charlie-slack-bot-facts"
 organization_name = "18F"
 topics = [ "bot", "bot-responses", "charlie", "maintained" ]
