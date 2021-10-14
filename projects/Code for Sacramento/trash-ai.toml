@@ -1,37 +1,40 @@
-code_url = "https://github.com/code4sac/neighborhood-connect-api"
-description = "API and backend for the Neighborhood Connect project"
-git_url = "git://github.com/code4sac/neighborhood-connect-api.git"
-name = "neighborhood-connect-api"
+code_url = "https://github.com/code4sac/trash-ai"
+git_url = "git://github.com/code4sac/trash-ai.git"
+name = "trash-ai"
 organization_name = "Code for Sacramento"
 
 [github]
 allow_forking = true
 archived = false
-created_at = "2019-07-20T17:27:03Z"
-default_branch = "dev"
-description = "API and backend for the Neighborhood Connect project"
+created_at = "2021-10-14T03:10:54Z"
+default_branch = "main"
 disabled = false
 fork = false
-forks_within = 10
-full_name = "code4sac/neighborhood-connect-api"
+forks_within = 0
+full_name = "code4sac/trash-ai"
 has_downloads = true
 has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = true
-id = 197_961_741
+id = 416_972_396
 is_template = false
-language = "JavaScript"
-name = "neighborhood-connect-api"
-node_id = "MDEwOlJlcG9zaXRvcnkxOTc5NjE3NDE="
+name = "trash-ai"
+node_id = "R_kgDOGNp-bA"
 open_issues_within = 10
 private = false
 pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
-updated_within = "year"
+updated_within = "week"
 visibility = "public"
 watchers_within = 10
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
 
   [github.owner]
   gravatar_id = ""
