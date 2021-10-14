@@ -24,7 +24,12 @@ There are some significant challenges to achieve such a good taxonomy
 As of now, the Taxonomy has been built as bottom-up, this taxonomy categorizes (via synonims) the majority of "topics" extracted by the [Crawler](crawler/README.md) from all the scanned projects.
 Ideally there may need both a bottom-up and a top-down taxonomies that hopefully will converge.
 
-There are github action and python scripts that load the taxonomy data (toml files) in a [relational database](https://codeforamerica.github.io/nac-sandbox-cluster/civic-tech-taxonomy/mysql/) which allows for more data analysis
+There are github action and python scripts that load the taxonomy data (toml files) in a [relational database](https://codeforamerica.github.io/nac-sandbox-cluster/civic-tech-taxonomy/mysql/) which allows for more data analysis.
+
+The current way to change the content of the Taxonomy is via a PR in the [Github repo](https://codeforamerica.github.io/civic-tech-taxonomy/). In the [taxonomy folder](https://github.com/codeforamerica/civic-tech-taxonomy/tree/master/taxonomies) a user can update the toml files and then submit a PR that once approved and merged will propagate the changes (in the SQL database, API, UI).
+We have a [Taxonomy Editor prototype](https://codeforamerica.github.io/civic-tech-taxonomy/editor-ui/editor.html) by which we hope one day to maintain the Taxonomy via drag&drop functionality (through a "Save" button it will create a Github repo PR).
+
+The relevant Taxonomy datasets have been recently integrated in the [Statusboard](../statusboard) via the Taxonomy API. Other users/tools are welcome to invoke the API and ask or make API improvements.
 
 ## Next Enhancements
 
@@ -34,5 +39,5 @@ We are discussing some enhancements focused on the Taxonomy
 - Decided if bottom-up is the right approach
 - Decide how to keep this list up to date (integrate the taxonomy with the [crawler](crawler/README.md)
 - Decided whether to separate items that are not "topics" from the large list extracted by the crawler
-- Provide a proper UI to the taxonomy
-- Integrate the taxonomy in the [Statusboard](../statusboard.md) and [PublicCode Editor](../publiccode-helper)
+- Provide a proper UI and Editor to the taxonomy
+- Integrate the taxonomy in the [PublicCode Editor](../publiccode-helper)
