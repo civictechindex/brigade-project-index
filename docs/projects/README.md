@@ -15,7 +15,7 @@ In general, the large group meets on [Zoom](https://codeforamerica.zoom.us/j/965
 | Project | Homepage | Maintainer(s) |
 |-|-|-|
 | [Project Index Crawler](crawler/README.md) | [github.com/codeforamerica/brigade-project-index](https://github.com/codeforamerica/brigade-project-index) | Chris |
-| [Project Index Statusboard](statusboard.md) | [projects.brigade.network](https://projects.brigade.network/) | Melanie |
+| [Project Index Statusboard](statusboard.md) | [projects.brigade.network](https://projects.brigade.network/) | Gio |
 | [Civic Tech Index](civic-tech-index.md) | [civictechindex.org](http://civictechindex.org/) | Bonnie, Olivia |
 | [DemocracyLab](democracy-lab.md) | [democracylab.org](https://democracylab.org/) | Mark |
 | [Civic Tech Taxonomy](civic-tech-taxonomy.md) | [github.com/codeforamerica/civic-tech-taxonomy](https://github.com/codeforamerica/civic-tech-taxonomy) | Gio |
