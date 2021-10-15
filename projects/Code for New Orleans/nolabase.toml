@@ -24,12 +24,12 @@ is_template = false
 language = "Go"
 name = "nolabase"
 node_id = "MDEwOlJlcG9zaXRvcnkzMzA3NjYwNTU="
-open_issues_within = 10
+open_issues_within = 0
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
-updated_within = "month"
+updated_within = "week"
 visibility = "public"
 watchers_within = 10
 
