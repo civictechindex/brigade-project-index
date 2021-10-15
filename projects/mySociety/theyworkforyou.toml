@@ -40,7 +40,7 @@ name = "theyworkforyou"
 node_id = "MDEwOlJlcG9zaXRvcnk1MDA3OTU="
 open_issues_within = 1_000
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 1_000
 topics = [
   "civic-tech",
@@ -54,7 +54,7 @@ topics = [
   "transparency",
   "uk"
 ]
-updated_within = "month"
+updated_within = "week"
 visibility = "public"
 watchers_within = 1_000
 
