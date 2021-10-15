@@ -35,7 +35,7 @@ has_wiki = true
 homepage = "https://homeunite.us/"
 id = 228_981_080
 is_template = false
-language = "TypeScript"
+language = "Python"
 name = "HomeUniteUs"
 node_id = "MDEwOlJlcG9zaXRvcnkyMjg5ODEwODA="
 open_issues_within = 100
@@ -55,7 +55,7 @@ topics = [
   "poc",
   "youth"
 ]
-updated_within = "month"
+updated_within = "week"
 visibility = "public"
 watchers_within = 100
 
