@@ -23,14 +23,15 @@ has_wiki = true
 homepage = ""
 id = 407_938_075
 is_template = false
+language = "Go"
 name = "codeweek-2021-prometheus"
 node_id = "MDEwOlJlcG9zaXRvcnk0MDc5MzgwNzU="
 open_issues_within = 0
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 0
 topics = [ "hacktoberfest" ]
-updated_within = "month"
+updated_within = "week"
 visibility = "public"
 watchers_within = 0
 
