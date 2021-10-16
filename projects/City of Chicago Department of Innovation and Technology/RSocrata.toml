@@ -29,10 +29,10 @@ name = "RSocrata"
 node_id = "MDEwOlJlcG9zaXRvcnkxMjg3ODc2NQ=="
 open_issues_within = 100
 private = false
-pushed_within = "month"
+pushed_within = "year"
 stargazers_within = 1_000
 topics = [ "chicago", "government", "open-data", "r", "socrata", "soda" ]
-updated_within = "month"
+updated_within = "year"
 visibility = "public"
 watchers_within = 1_000
 
