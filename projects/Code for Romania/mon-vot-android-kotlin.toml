@@ -39,7 +39,7 @@ name = "mon-vot-android-kotlin"
 node_id = "MDEwOlJlcG9zaXRvcnkyMDM4MzY2Nzg="
 open_issues_within = 100
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 10
 topics = [
   "civic-hacking",
@@ -52,7 +52,7 @@ topics = [
   "monitoring",
   "monitoring-elections"
 ]
-updated_within = "month"
+updated_within = "week"
 visibility = "public"
 watchers_within = 10
 
