@@ -41,7 +41,7 @@ name = "monitorizare-vot"
 node_id = "MDEwOlJlcG9zaXRvcnk2MDgzNzU0Ng=="
 open_issues_within = 100
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 100
 topics = [
   "api",
