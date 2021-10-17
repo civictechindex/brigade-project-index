@@ -39,7 +39,7 @@ name = "monitorizare-vot-ong"
 node_id = "MDEwOlJlcG9zaXRvcnk3MTIzNjExMw=="
 open_issues_within = 100
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 100
 topics = [
   "civic-hacking",
@@ -52,7 +52,7 @@ topics = [
   "monitoring",
   "monitoring-elections"
 ]
-updated_within = "month"
+updated_within = "week"
 visibility = "public"
 watchers_within = 100
 
