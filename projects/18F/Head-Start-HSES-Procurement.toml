@@ -1,5 +1,5 @@
 code_url = "https://github.com/18F/Head-Start-HSES-Procurement"
-description = "This is the place for publicly-available procurement work for the Head Start Enterprise System, RFI and RFQ work primarily."
+description = "This is the place for publicly-available procurement efforts related to the Head Start Enterprise System."
 git_url = "git://github.com/18F/Head-Start-HSES-Procurement.git"
 name = "Head-Start-HSES-Procurement"
 organization_name = "18F"
@@ -9,7 +9,7 @@ allow_forking = true
 archived = false
 created_at = "2021-10-15T16:11:07Z"
 default_branch = "main"
-description = "This is the place for publicly-available procurement work for the Head Start Enterprise System, RFI and RFQ work primarily."
+description = "This is the place for publicly-available procurement efforts related to the Head Start Enterprise System."
 disabled = false
 fork = false
 forks_within = 0
