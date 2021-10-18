@@ -2,6 +2,7 @@ code_url = "https://github.com/code4romania/rezultate-vot-api"
 git_url = "git://github.com/code4romania/rezultate-vot-api.git"
 name = "rezultate-vot-api"
 organization_name = "Code for Romania: Iasi Chapter"
+topics = [ "hacktoberfest" ]
 
 [github]
 allow_forking = true
@@ -17,6 +18,7 @@ has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = true
+homepage = ""
 id = 295_978_595
 is_template = false
 language = "C#"
@@ -24,10 +26,10 @@ name = "rezultate-vot-api"
 node_id = "MDEwOlJlcG9zaXRvcnkyOTU5Nzg1OTU="
 open_issues_within = 100
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 10
-topics = [ ]
-updated_within = "year"
+topics = [ "hacktoberfest" ]
+updated_within = "week"
 visibility = "public"
 watchers_within = 10
 
