@@ -3,6 +3,6 @@ git_branch = "master"
 git_url = "git://github.com/codeforUV/ruralnet.git"
 last_pushed_within = "week"
 name = "ruralnet"
-open_issues_within = 100
+open_issues_within = 10
 organization_name = "Code for Upper Valley"
 topics = [ "internet" ]
