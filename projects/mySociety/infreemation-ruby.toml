@@ -24,9 +24,9 @@ is_template = false
 language = "Ruby"
 name = "infreemation-ruby"
 node_id = "MDEwOlJlcG9zaXRvcnkxMzAzNDM2NDY="
-open_issues_within = 10
+open_issues_within = 100
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 0
 topics = [ ]
 updated_within = "year"
