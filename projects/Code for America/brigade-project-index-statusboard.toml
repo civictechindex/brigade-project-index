@@ -9,6 +9,10 @@ open_issues_within = 100
 organization_name = "Code for America"
 topics = [
   "brigade",
+  "civic-tech",
+  "civic-tech-index",
+  "civic-tech-projects-catalog",
+  "civic-tech-projects-index",
   "code-for-america",
   "hacktoberfest",
   "react",
