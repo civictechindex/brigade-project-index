@@ -5,5 +5,5 @@ git_url = "git://github.com/18F/fedramp-automation.git"
 last_pushed_within = "week"
 link_url = "https://www.fedramp.gov/using-the-fedramp-oscal-resources-and-templates/"
 name = "fedramp-automation"
-open_issues_within = 100
+open_issues_within = 1_000
 organization_name = "18F"
