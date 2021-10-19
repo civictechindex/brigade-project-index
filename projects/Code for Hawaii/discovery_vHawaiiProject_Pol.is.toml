@@ -1,6 +1,6 @@
-code_url = "https://github.com/CodeforHawaii/discovery_HIPolicyProcess_Pol.is"
-git_url = "git://github.com/CodeforHawaii/discovery_HIPolicyProcess_Pol.is.git"
-name = "discovery_HIPolicyProcess_Pol.is"
+code_url = "https://github.com/CodeforHawaii/discovery_vHawaiiProject_Pol.is"
+git_url = "git://github.com/CodeforHawaii/discovery_vHawaiiProject_Pol.is.git"
+name = "discovery_vHawaiiProject_Pol.is"
 organization_name = "Code for Hawaii"
 
 [github]
@@ -11,7 +11,7 @@ default_branch = "main"
 disabled = false
 fork = false
 forks_within = 0
-full_name = "CodeforHawaii/discovery_HIPolicyProcess_Pol.is"
+full_name = "CodeforHawaii/discovery_vHawaiiProject_Pol.is"
 has_downloads = true
 has_issues = true
 has_pages = false
@@ -19,7 +19,7 @@ has_projects = true
 has_wiki = true
 id = 418_783_522
 is_template = false
-name = "discovery_HIPolicyProcess_Pol.is"
+name = "discovery_vHawaiiProject_Pol.is"
 node_id = "R_kgDOGPYhIg"
 open_issues_within = 0
 private = false
