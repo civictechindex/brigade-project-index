@@ -1,0 +1,8 @@
+code_url = "https://github.com/mysociety/django-pipeline"
+description = "Pipeline is an asset packaging library for Django."
+git_branch = "master"
+git_url = "git://github.com/mysociety/django-pipeline.git"
+last_pushed_within = "year"
+link_url = "https://django-pipeline.readthedocs.io/"
+name = "django-pipeline"
+organization_name = "mySociety"
