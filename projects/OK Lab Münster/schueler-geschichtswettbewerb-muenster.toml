@@ -1,13 +1,17 @@
 code_url = "https://github.com/codeformuenster/schueler-geschichtswettbewerb-muenster"
+description = "Eine Webanwendung zur Visualisierung und Recherche in den Beiträgen von münsteraner Schülern zum Geschichtswettbewerb des Bundespräsidenten."
 git_url = "git://github.com/codeformuenster/schueler-geschichtswettbewerb-muenster.git"
+link_url = "https://www.geschichtswettbewerb-ms.de"
 name = "schueler-geschichtswettbewerb-muenster"
 organization_name = "OK Lab Münster"
+topics = [ "django", "history" ]
 
 [github]
 allow_forking = true
 archived = false
 created_at = "2021-09-29T15:14:21Z"
 default_branch = "master"
+description = "Eine Webanwendung zur Visualisierung und Recherche in den Beiträgen von münsteraner Schülern zum Geschichtswettbewerb des Bundespräsidenten."
 disabled = false
 fork = false
 forks_within = 0
@@ -17,17 +21,18 @@ has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = true
+homepage = "https://www.geschichtswettbewerb-ms.de"
 id = 411_724_182
 is_template = false
 language = "Python"
 name = "schueler-geschichtswettbewerb-muenster"
 node_id = "R_kgDOGIpplg"
-open_issues_within = 10
+open_issues_within = 0
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 10
-topics = [ ]
-updated_within = "month"
+topics = [ "django", "history" ]
+updated_within = "week"
 visibility = "public"
 watchers_within = 10
 
