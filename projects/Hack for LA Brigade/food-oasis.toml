@@ -42,7 +42,7 @@ is_template = false
 language = "JavaScript"
 name = "food-oasis"
 node_id = "MDEwOlJlcG9zaXRvcnkyMTU2NjY4ODQ="
-open_issues_within = 100
+open_issues_within = 1_000
 private = false
 pushed_within = "week"
 score = 1
