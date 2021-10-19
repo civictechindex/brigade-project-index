@@ -3,4 +3,5 @@ git_branch = "main"
 git_url = "git://github.com/codeforkansascity/KS-CMR.git"
 last_pushed_within = "year"
 name = "KS-CMR"
+open_issues_within = 10
 organization_name = "KC Digital Drive"
