@@ -1,7 +1,9 @@
 code_url = "https://github.com/codeformuenster/schueler-geschichtswettbewerb-muenster"
+description = "Eine Webanwendung zur Visualisierung und Recherche in den Beiträgen von münsteraner Schülern zum Geschichtswettbewerb des Bundespräsidenten."
 git_branch = "master"
 git_url = "git://github.com/codeformuenster/schueler-geschichtswettbewerb-muenster.git"
-last_pushed_within = "month"
+last_pushed_within = "week"
+link_url = "https://www.geschichtswettbewerb-ms.de"
 name = "schueler-geschichtswettbewerb-muenster"
-open_issues_within = 10
 organization_name = "OK Lab Münster"
+topics = [ "django", "history" ]
