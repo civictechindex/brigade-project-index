@@ -28,7 +28,7 @@ name = "analytics-reporter"
 node_id = "MDEwOlJlcG9zaXRvcnkyNzQxMTcyOQ=="
 open_issues_within = 100
 private = false
-pushed_within = "week"
+pushed_within = "month"
 stargazers_within = 1_000
 topics = [ "analytics", "google-analytics" ]
 updated_within = "year"
