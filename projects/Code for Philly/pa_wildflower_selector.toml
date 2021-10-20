@@ -37,10 +37,10 @@ visibility = "public"
 watchers_within = 10
 
   [github.license]
-  key = "mit"
-  name = "MIT License"
-  node_id = "MDc6TGljZW5zZTEz"
-  spdx_id = "MIT"
+  key = "gpl-3.0"
+  name = "GNU General Public License v3.0"
+  node_id = "MDc6TGljZW5zZTk="
+  spdx_id = "GPL-3.0"
 
   [github.organization]
   gravatar_id = ""
