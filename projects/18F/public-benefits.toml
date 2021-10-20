@@ -1,7 +1,7 @@
 code_url = "https://github.com/18F/public-benefits"
 description = "An index of 18F and TTS work in the human services space"
 git_url = "git://github.com/18F/public-benefits.git"
-link_url = "https://portfolios.18f.gov/human-services/"
+link_url = "https://portfolios.18f.gov/public-benefits"
 name = "public-benefits"
 organization_name = "18F"
 
@@ -20,18 +20,17 @@ has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = true
-homepage = "https://portfolios.18f.gov/human-services/"
+homepage = "https://portfolios.18f.gov/public-benefits"
 id = 139_626_565
 is_template = false
-language = "HTML"
 name = "public-benefits"
 node_id = "MDEwOlJlcG9zaXRvcnkxMzk2MjY1NjU="
 open_issues_within = 100
 private = false
-pushed_within = "over_a_year"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
-updated_within = "year"
+updated_within = "week"
 visibility = "public"
 watchers_within = 10
 
