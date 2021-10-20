@@ -7,4 +7,9 @@ link_url = "https://maineballot.org"
 name = "maineballot"
 open_issues_within = 10
 organization_name = "Open Maine"
-topics = [ "codeforamerica" ]
+topics = [
+  "brigade",
+  "code-for-america",
+  "paa-voting-rights",
+  "voting-rights"
+]
