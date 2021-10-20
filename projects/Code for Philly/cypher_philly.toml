@@ -1,7 +1,7 @@
 code_url = "https://github.com/untitledfolder/cypherphilly"
 description = "The [Philly Graph DB](https://www.meetup.com/Philly-GraphDB/) meetup group has started a new initiative called Cypher Philly. The initiative is intended to inspire and equip citizen journalists, data enthusiasts and social activists with the tools and data to do good for the city and citizens of Philadelphia."
 git_branch = "develop"
-last_pushed_within = "month"
+last_pushed_within = "year"
 link_url = "http://cypherphil.ly/"
 name = "cypher_philly"
 open_issues_within = 100
