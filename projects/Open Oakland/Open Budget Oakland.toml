@@ -24,7 +24,7 @@ id = 7_845_579
 is_template = false
 language = "JavaScript"
 name = "openbudgetoakland"
-network_count = 135
+network_count = 136
 node_id = "MDEwOlJlcG9zaXRvcnk3ODQ1NTc5"
 open_issues_within = 100
 private = false
@@ -41,7 +41,7 @@ topics = [
   "data-visualization",
   "openoakland"
 ]
-updated_within = "month"
+updated_within = "week"
 visibility = "public"
 watchers_within = 100
 
