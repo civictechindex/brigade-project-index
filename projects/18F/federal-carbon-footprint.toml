@@ -5,4 +5,5 @@ git_url = "git://github.com/18F/federal-carbon-footprint.git"
 last_pushed_within = "week"
 link_url = "https://federalist-c3fa68f6-ee2f-4053-9a71-252d9abebb5f.app.cloud.gov/site/18f/federal-carbon-footprint/"
 name = "federal-carbon-footprint"
+open_issues_within = 10
 organization_name = "18F"
