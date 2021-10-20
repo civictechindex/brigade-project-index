@@ -1,0 +1,55 @@
+code_url = "https://github.com/mysociety/twfy_voting_records_change_tracking"
+description = "Notebooks to store and track changes in TWFY voting records calculations"
+git_url = "git://github.com/mysociety/twfy_voting_records_change_tracking.git"
+name = "twfy_voting_records_change_tracking"
+organization_name = "mySociety"
+
+[github]
+allow_forking = true
+archived = false
+created_at = "2021-09-24T09:40:01Z"
+default_branch = "main"
+description = "Notebooks to store and track changes in TWFY voting records calculations"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "mysociety/twfy_voting_records_change_tracking"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+id = 409_910_178
+is_template = false
+language = "Jupyter Notebook"
+name = "twfy_voting_records_change_tracking"
+node_id = "R_kgDOGG67og"
+open_issues_within = 0
+private = false
+pushed_within = "week"
+stargazers_within = 0
+topics = [ ]
+updated_within = "week"
+visibility = "public"
+watchers_within = 0
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 141_338
+  login = "mysociety"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE0MTMzOA=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  maintain = false
+  pull = true
+  push = false
+  triage = false
