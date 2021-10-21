@@ -1,7 +1,7 @@
 code_url = "https://github.com/CodeForPhilly/prevention-point"
 description = "[Prevention Point](http://ppponline.org/) is a private nonprofit organization providing harm reduction services to Philadelphia and the surrounding area."
 git_branch = "master"
-last_pushed_within = "month"
+last_pushed_within = "year"
 name = "prevention_point_unified_reporting_system"
 open_issues_within = 100
 organization_name = "Code for Philly"
