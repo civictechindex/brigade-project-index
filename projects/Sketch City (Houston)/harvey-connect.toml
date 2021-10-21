@@ -1,7 +1,7 @@
 code_url = "https://github.com/sketch-city/harvey-connect"
 git_branch = "master"
 git_url = "git://github.com/sketch-city/harvey-connect.git"
-last_pushed_within = "month"
+last_pushed_within = "year"
 name = "harvey-connect"
 open_issues_within = 10
 organization_name = "Sketch City (Houston)"
