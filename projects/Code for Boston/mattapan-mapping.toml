@@ -1,7 +1,7 @@
 code_url = "https://github.com/codeforboston/mattapan-mapping"
 description = "Mattapan Mapping application. A collaborative between powerfulpathways.org & codeforboston.org . Ideation phase."
 git_url = "git://github.com/codeforboston/mattapan-mapping.git"
-link_url = "https://codeforboston.github.io/mattapan-mapping"
+link_url = "https://mattapan-mapping.netlify.app/"
 name = "mattapan-mapping"
 organization_name = "Code for Boston"
 
@@ -20,7 +20,7 @@ has_issues = true
 has_pages = true
 has_projects = true
 has_wiki = true
-homepage = "https://codeforboston.github.io/mattapan-mapping"
+homepage = "https://mattapan-mapping.netlify.app/"
 id = 357_734_112
 is_template = false
 language = "TypeScript"
