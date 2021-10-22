@@ -9,7 +9,7 @@ organization_name = "18F"
 allow_forking = true
 archived = false
 created_at = "2015-09-01T01:17:29Z"
-default_branch = "master"
+default_branch = "main"
 description = "Suggestions, schedules, and other information about the Engineering Chapter's Tech Talk meetings."
 disabled = false
 fork = false
@@ -31,7 +31,7 @@ private = false
 pushed_within = "week"
 stargazers_within = 100
 topics = [ ]
-updated_within = "month"
+updated_within = "week"
 visibility = "public"
 watchers_within = 100
 
