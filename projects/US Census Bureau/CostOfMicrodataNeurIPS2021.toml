@@ -1,0 +1,48 @@
+code_url = "https://github.com/uscensusbureau/CostOfMicrodataNeurIPS2021"
+description = "Code and data for the NeurIPS 2021 paper “An Uncertainty Principle is a Price of Privacy-Preserving Microdata”"
+git_url = "git://github.com/uscensusbureau/CostOfMicrodataNeurIPS2021.git"
+name = "CostOfMicrodataNeurIPS2021"
+organization_name = "US Census Bureau"
+
+[github]
+allow_forking = true
+archived = false
+created_at = "2021-10-22T12:30:40Z"
+default_branch = "main"
+description = "Code and data for the NeurIPS 2021 paper “An Uncertainty Principle is a Price of Privacy-Preserving Microdata”"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "uscensusbureau/CostOfMicrodataNeurIPS2021"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+id = 420_090_909
+is_template = false
+name = "CostOfMicrodataNeurIPS2021"
+node_id = "R_kgDOGQoUHQ"
+open_issues_within = 0
+private = false
+pushed_within = "week"
+stargazers_within = 0
+topics = [ ]
+updated_within = "week"
+visibility = "public"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 10_234_353
+  login = "uscensusbureau"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjEwMjM0MzUz"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  maintain = false
+  pull = true
+  push = false
+  triage = false
