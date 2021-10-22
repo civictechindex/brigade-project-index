@@ -16,7 +16,7 @@ forks_within = 10
 full_name = "OpenMaine/rent-calculator"
 has_downloads = true
 has_issues = true
-has_pages = false
+has_pages = true
 has_projects = true
 has_wiki = true
 id = 332_532_141
@@ -29,7 +29,7 @@ private = false
 pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
-updated_within = "year"
+updated_within = "week"
 visibility = "public"
 watchers_within = 10
 
