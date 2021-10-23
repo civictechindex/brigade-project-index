@@ -24,9 +24,9 @@ is_template = false
 language = "Python"
 name = "openelections-data-la"
 node_id = "MDEwOlJlcG9zaXRvcnkzMjQ5MzUwOA=="
-open_issues_within = 0
+open_issues_within = 10
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
 updated_within = "year"
