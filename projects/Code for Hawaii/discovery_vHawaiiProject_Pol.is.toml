@@ -1,5 +1,7 @@
 code_url = "https://github.com/CodeforHawaii/discovery_vHawaiiProject_Pol.is"
+description = "The vHawaii Project, re-imagining the way democracy is done in Hawai'i. A proud partner of Code for Hawai'i."
 git_url = "git://github.com/CodeforHawaii/discovery_vHawaiiProject_Pol.is.git"
+link_url = "https://www.codeforhawaii.org"
 name = "discovery_vHawaiiProject_Pol.is"
 organization_name = "Code for Hawaii"
 
@@ -8,6 +10,7 @@ allow_forking = true
 archived = false
 created_at = "2021-10-19T05:30:42Z"
 default_branch = "main"
+description = "The vHawaii Project, re-imagining the way democracy is done in Hawai'i. A proud partner of Code for Hawai'i."
 disabled = false
 fork = false
 forks_within = 0
@@ -17,6 +20,7 @@ has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = true
+homepage = "https://www.codeforhawaii.org"
 id = 418_783_522
 is_template = false
 name = "discovery_vHawaiiProject_Pol.is"
