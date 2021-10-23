@@ -12,7 +12,7 @@ default_branch = "master"
 description = "data source: http://www.easycard.com.tw/news/post-page.aspx?id=1581"
 disabled = false
 fork = false
-forks_within = 0
+forks_within = 10
 full_name = "g0v/easycard-donation"
 has_downloads = true
 has_issues = true
