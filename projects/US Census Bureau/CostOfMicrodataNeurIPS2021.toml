@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 id = 420_090_909
 is_template = false
+language = "Julia"
 name = "CostOfMicrodataNeurIPS2021"
 node_id = "R_kgDOGQoUHQ"
 open_issues_within = 0
