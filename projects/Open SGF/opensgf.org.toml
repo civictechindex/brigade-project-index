@@ -27,9 +27,9 @@ is_template = false
 language = "Nunjucks"
 name = "opensgf.org"
 node_id = "MDEwOlJlcG9zaXRvcnkzMTk0NzgyMjg="
-open_issues_within = 0
+open_issues_within = 10
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 0
 topics = [ "hacktoberfest" ]
 updated_within = "month"
