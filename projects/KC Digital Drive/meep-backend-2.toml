@@ -1,32 +1,32 @@
-code_url = "https://github.com/codeforkansascity/KS-CMR"
-git_url = "git://github.com/codeforkansascity/KS-CMR.git"
-name = "KS-CMR"
+code_url = "https://github.com/codeforkansascity/meep-backend-2"
+git_url = "git://github.com/codeforkansascity/meep-backend-2.git"
+name = "meep-backend-2"
 organization_name = "KC Digital Drive"
 
 [github]
 allow_forking = true
 archived = false
-created_at = "2021-08-10T00:40:54Z"
+created_at = "2021-10-26T00:11:33Z"
 default_branch = "main"
 disabled = false
 fork = false
 forks_within = 0
-full_name = "codeforkansascity/KS-CMR"
+full_name = "codeforkansascity/meep-backend-2"
 has_downloads = true
 has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = true
-id = 394_481_653
+id = 421_223_343
 is_template = false
-name = "KS-CMR"
-node_id = "MDEwOlJlcG9zaXRvcnkzOTQ0ODE2NTM="
-open_issues_within = 10
+name = "meep-backend-2"
+node_id = "R_kgDOGRtbrw"
+open_issues_within = 0
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 0
 topics = [ ]
-updated_within = "month"
+updated_within = "week"
 visibility = "public"
 watchers_within = 0
 
