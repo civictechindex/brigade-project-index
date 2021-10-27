@@ -21,7 +21,7 @@ id = 5_781_303
 is_template = false
 language = "JavaScript"
 name = "city_developer_resources"
-network_count = 4
+network_count = 5
 node_id = "MDEwOlJlcG9zaXRvcnk1NzgxMzAz"
 open_issues_within = 0
 private = false
@@ -67,7 +67,7 @@ watchers_within = 0
   pushed_within = "over_a_year"
   stargazers_within = 10
   topics = [ ]
-  updated_within = "over_a_year"
+  updated_within = "week"
   visibility = "public"
   watchers_within = 10
 
@@ -111,7 +111,7 @@ watchers_within = 0
   pushed_within = "over_a_year"
   stargazers_within = 10
   topics = [ ]
-  updated_within = "over_a_year"
+  updated_within = "week"
   visibility = "public"
   watchers_within = 10
 
