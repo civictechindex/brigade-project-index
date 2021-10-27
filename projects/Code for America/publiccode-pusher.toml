@@ -29,11 +29,11 @@ node_id = "MDEwOlJlcG9zaXRvcnkzNjc0ODQwODY="
 open_issues_within = 100
 private = false
 pushed_within = "month"
-stargazers_within = 0
+stargazers_within = 10
 topics = [ "codeforamerica", "publiccode", "publiccode-editor" ]
-updated_within = "month"
+updated_within = "week"
 visibility = "public"
-watchers_within = 0
+watchers_within = 10
 
   [github.license]
   key = "gpl-3.0"
