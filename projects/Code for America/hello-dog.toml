@@ -12,7 +12,7 @@ default_branch = "master"
 description = "Our IRC/Campfire bot based on Hubot"
 disabled = false
 fork = false
-forks_within = 10
+forks_within = 100
 full_name = "codeforamerica/hello-dog"
 has_downloads = true
 has_issues = true
@@ -30,7 +30,7 @@ private = false
 pushed_within = "over_a_year"
 stargazers_within = 10
 topics = [ ]
-updated_within = "over_a_year"
+updated_within = "week"
 visibility = "public"
 watchers_within = 10
 

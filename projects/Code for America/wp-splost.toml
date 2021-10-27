@@ -13,7 +13,7 @@ default_branch = "master"
 description = "This is the Wordpress theme for Macon's SPLOST website."
 disabled = false
 fork = false
-forks_within = 10
+forks_within = 100
 full_name = "codeforamerica/wp-splost"
 has_downloads = true
 has_issues = true
@@ -31,7 +31,7 @@ private = false
 pushed_within = "over_a_year"
 stargazers_within = 100
 topics = [ ]
-updated_within = "year"
+updated_within = "week"
 visibility = "public"
 watchers_within = 100
 
