@@ -11,7 +11,7 @@ created_at = "2014-05-31T20:49:55Z"
 default_branch = "master"
 disabled = false
 fork = false
-forks_within = 0
+forks_within = 10
 full_name = "opensatx/workforsa"
 has_downloads = true
 has_issues = true
@@ -26,11 +26,11 @@ node_id = "MDEwOlJlcG9zaXRvcnkyMDM2NDkwNQ=="
 open_issues_within = 0
 private = false
 pushed_within = "over_a_year"
-stargazers_within = 0
+stargazers_within = 10
 topics = [ ]
-updated_within = "over_a_year"
+updated_within = "week"
 visibility = "public"
-watchers_within = 0
+watchers_within = 10
 
   [github.owner]
   gravatar_id = ""
