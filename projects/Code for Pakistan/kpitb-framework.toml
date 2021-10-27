@@ -1,7 +1,7 @@
 code_url = "https://github.com/codeforpakistan/kpitb-framework"
 description = "KPITB Digital Services Framework"
 git_url = "git://github.com/codeforpakistan/kpitb-framework.git"
-link_url = "https://kpgov.tech"
+link_url = "https://codeforpakistan.github.io/kpitb-framework/"
 name = "kpitb-framework"
 organization_name = "Code for Pakistan"
 
@@ -17,10 +17,10 @@ forks_within = 0
 full_name = "codeforpakistan/kpitb-framework"
 has_downloads = true
 has_issues = true
-has_pages = false
+has_pages = true
 has_projects = true
 has_wiki = false
-homepage = "https://kpgov.tech"
+homepage = "https://codeforpakistan.github.io/kpitb-framework/"
 id = 331_265_204
 is_template = false
 language = "JavaScript"
@@ -28,10 +28,10 @@ name = "kpitb-framework"
 node_id = "MDEwOlJlcG9zaXRvcnkzMzEyNjUyMDQ="
 open_issues_within = 10
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 0
 topics = [ ]
-updated_within = "year"
+updated_within = "week"
 visibility = "public"
 watchers_within = 0
 
