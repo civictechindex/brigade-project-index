@@ -1,9 +1,9 @@
-code_url = "https://github.com/phlask"
-description = "PHLASK is an Ecosystem for Finding and Sharing Water in Philadelphia"
+code_url = "https://github.com/phlask/phlask-map/"
+description = "PHLASK: An Ecosystem For Finding and Sharing Resources in Philadelphia"
 link_url = "http://phlask.me"
 name = "phlask--life-liberty_and_the_pursuit_of_water"
 organization_name = "Code for Philly"
-status = "Prototyping"
+status = "Maintaining"
 topics = [
   "CivicEngagement",
   "Environment",
@@ -14,6 +14,62 @@ topics = [
   "water resources"
 ]
 
+[github]
+allow_forking = true
+archived = false
+created_at = "2018-12-16T19:24:23Z"
+default_branch = "develop"
+description = "Code behind the Phlask Web Map"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "phlask/phlask-map"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 162_033_435
+is_template = false
+language = "JavaScript"
+name = "phlask-map"
+network_count = 8
+node_id = "MDEwOlJlcG9zaXRvcnkxNjIwMzM0MzU="
+open_issues_within = 100
+private = false
+pushed_within = "week"
+stargazers_within = 10
+subscribers_count = 8
+temp_clone_token = ""
+topics = [ "docker", "es6", "map", "phlask-map", "reactjs" ]
+updated_within = "month"
+visibility = "public"
+watchers_within = 10
+
+  [github.organization]
+  gravatar_id = ""
+  id = 36_461_240
+  login = "phlask"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM2NDYxMjQw"
+  site_admin = false
+  type = "Organization"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 36_461_240
+  login = "phlask"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM2NDYxMjQw"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  maintain = false
+  pull = true
+  push = false
+  triage = false
+
 [projects_list_extra]
 chat_channel = "phlask"
-title = "PHLASK: Life, Liberty and the Pursuit of Water"
+title = "PHLASK: An Ecosystem For Finding and Sharing Resources in Philadelphia"
