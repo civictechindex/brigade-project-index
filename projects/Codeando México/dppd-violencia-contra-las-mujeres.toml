@@ -4,4 +4,5 @@ git_branch = "main"
 git_url = "git://github.com/CodeandoMexico/dppd-violencia-contra-las-mujeres.git"
 last_pushed_within = "month"
 name = "dppd-violencia-contra-las-mujeres"
+open_issues_within = 10
 organization_name = "Codeando México"
