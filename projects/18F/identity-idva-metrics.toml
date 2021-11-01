@@ -19,9 +19,10 @@ has_projects = true
 has_wiki = true
 id = 423_396_082
 is_template = false
+language = "Shell"
 name = "identity-idva-metrics"
 node_id = "R_kgDOGTyC8g"
-open_issues_within = 10
+open_issues_within = 0
 private = false
 pushed_within = "week"
 stargazers_within = 0
@@ -29,6 +30,12 @@ topics = [ ]
 updated_within = "week"
 visibility = "public"
 watchers_within = 0
+
+  [github.license]
+  key = "other"
+  name = "Other"
+  node_id = "MDc6TGljZW5zZTA="
+  spdx_id = "NOASSERTION"
 
   [github.owner]
   gravatar_id = ""
