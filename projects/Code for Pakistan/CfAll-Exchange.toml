@@ -1,0 +1,46 @@
+code_url = "https://github.com/codeforpakistan/CfAll-Exchange"
+git_url = "git://github.com/codeforpakistan/CfAll-Exchange.git"
+name = "CfAll-Exchange"
+organization_name = "Code for Pakistan"
+
+[github]
+allow_forking = true
+archived = false
+created_at = "2021-11-01T10:22:30Z"
+default_branch = "main"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "codeforpakistan/CfAll-Exchange"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+id = 423_422_030
+is_template = false
+name = "CfAll-Exchange"
+node_id = "R_kgDOGTzoTg"
+open_issues_within = 0
+private = false
+pushed_within = "week"
+stargazers_within = 0
+topics = [ ]
+updated_within = "week"
+visibility = "public"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 4_421_892
+  login = "codeforpakistan"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjQ0MjE4OTI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  maintain = false
+  pull = true
+  push = false
+  triage = false
