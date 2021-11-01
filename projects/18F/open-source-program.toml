@@ -1,0 +1,9 @@
+code_url = "https://github.com/18F/open-source-program"
+description = "Artifacts an organization can use to bootstrap an open source program. (Policy is in open-source-policy repo.)"
+git_branch = "18f-pages"
+git_url = "git://github.com/18F/open-source-program.git"
+last_pushed_within = "week"
+link_url = "https://pages.18f.gov/open-source-program/"
+name = "open-source-program"
+open_issues_within = 100
+organization_name = "18F"
