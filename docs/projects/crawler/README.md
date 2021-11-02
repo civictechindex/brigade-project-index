@@ -9,7 +9,7 @@ Our core goal is to publish a rich and constantly-updated database of projects t
 This tool collects data about civic tech projects crawling Github or other projects repositories (as provided by civic tech organizations)
 
 - URL: [https://projects.brigade.network](https://projects.brigade.network/)
-- Contacts: Chris at ... (ok to display email?)
+- Contacts: Chris at chris@codeforphilly.org
 - Status: The current system is available and doesn’t have major known issues
 - Project needs: The project is looking for ...
 - How to collaborate: [Join Us](/docs/join-us.md#how-to-participate)
