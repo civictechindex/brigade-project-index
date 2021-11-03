@@ -4,6 +4,6 @@ git_branch = "master"
 git_url = "git://github.com/codeforsanjose/e-immigrate.git"
 last_pushed_within = "year"
 name = "e-immigrate"
-open_issues_within = 10
+open_issues_within = 100
 organization_name = "Code for San Jose"
 topics = [ "immigration", "mongodb", "react", "website" ]
