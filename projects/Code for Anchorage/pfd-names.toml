@@ -27,12 +27,12 @@ is_template = false
 language = "HTML"
 name = "pfd-names"
 node_id = "MDEwOlJlcG9zaXRvcnkyNzQ1Njc0ODQ="
-open_issues_within = 0
+open_issues_within = 10
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ "alaska", "government", "names", "open-data", "pfd" ]
-updated_within = "year"
+updated_within = "week"
 visibility = "public"
 watchers_within = 10
 
