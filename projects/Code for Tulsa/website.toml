@@ -19,6 +19,7 @@ has_projects = true
 has_wiki = true
 id = 424_031_484
 is_template = false
+language = "JavaScript"
 name = "website"
 node_id = "R_kgDOGUY0_A"
 open_issues_within = 0
@@ -29,6 +30,12 @@ topics = [ ]
 updated_within = "week"
 visibility = "public"
 watchers_within = 10
+
+  [github.license]
+  key = "0bsd"
+  name = "BSD Zero Clause License"
+  node_id = "MDc6TGljZW5zZTM1"
+  spdx_id = "0BSD"
 
   [github.owner]
   gravatar_id = ""
