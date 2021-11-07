@@ -1,8 +1,8 @@
-code_url = "https://github.com/CodeforAustralia/council-emissions-calculator-spike"
+code_url = "https://github.com/CodeforAustralia/council-emissions-calculator"
 description = "An experiment to test the initial design of Civic Maker's 2021 Council Emissions Calculator project."
-git_url = "git://github.com/CodeforAustralia/council-emissions-calculator-spike.git"
+git_url = "git://github.com/CodeforAustralia/council-emissions-calculator.git"
 link_url = "council-emissions-calculator-spike-flax.vercel.app"
-name = "council-emissions-calculator-spike"
+name = "council-emissions-calculator"
 organization_name = "Code for Australia"
 
 [github]
@@ -14,7 +14,7 @@ description = "An experiment to test the initial design of Civic Maker's 2021 Co
 disabled = false
 fork = false
 forks_within = 10
-full_name = "CodeforAustralia/council-emissions-calculator-spike"
+full_name = "CodeforAustralia/council-emissions-calculator"
 has_downloads = true
 has_issues = true
 has_pages = true
@@ -24,14 +24,14 @@ homepage = "council-emissions-calculator-spike-flax.vercel.app"
 id = 385_742_430
 is_template = false
 language = "JavaScript"
-name = "council-emissions-calculator-spike"
+name = "council-emissions-calculator"
 node_id = "MDEwOlJlcG9zaXRvcnkzODU3NDI0MzA="
 open_issues_within = 0
 private = false
 pushed_within = "month"
 stargazers_within = 0
 topics = [ ]
-updated_within = "month"
+updated_within = "week"
 visibility = "public"
 watchers_within = 0
 
