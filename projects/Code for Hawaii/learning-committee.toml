@@ -1,0 +1,48 @@
+code_url = "https://github.com/CodeforHawaii/learning-committee"
+description = "Task manager & planning repo for Learning Committee"
+git_url = "git://github.com/CodeforHawaii/learning-committee.git"
+name = "learning-committee"
+organization_name = "Code for Hawaii"
+
+[github]
+allow_forking = true
+archived = false
+created_at = "2021-11-09T00:01:20Z"
+default_branch = "main"
+description = "Task manager & planning repo for Learning Committee"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "CodeforHawaii/learning-committee"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+id = 426_032_746
+is_template = false
+name = "learning-committee"
+node_id = "R_kgDOGWS-ag"
+open_issues_within = 0
+private = false
+pushed_within = "week"
+stargazers_within = 0
+topics = [ ]
+updated_within = "week"
+visibility = "public"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_244_195
+  login = "CodeforHawaii"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjYyNDQxOTU="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  maintain = false
+  pull = true
+  push = false
+  triage = false
