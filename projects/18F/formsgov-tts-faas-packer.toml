@@ -1,6 +1,6 @@
 code_url = "https://github.com/18F/formsgov-tts-faas-packer"
 git_branch = "master"
 git_url = "git://github.com/18F/formsgov-tts-faas-packer.git"
-last_pushed_within = "week"
+last_pushed_within = "month"
 name = "formsgov-tts-faas-packer"
 organization_name = "18F"
