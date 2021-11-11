@@ -1,0 +1,56 @@
+code_url = "https://github.com/code4sac/TACO"
+description = "🌮 Trash Annotations in Context Dataset Toolkit"
+git_url = "git://github.com/code4sac/TACO.git"
+link_url = "http://tacodataset.org"
+name = "TACO"
+organization_name = "Code for Sacramento"
+
+[github]
+allow_forking = true
+archived = false
+created_at = "2021-11-11T03:27:53Z"
+default_branch = "master"
+description = "🌮 Trash Annotations in Context Dataset Toolkit"
+disabled = false
+fork = true
+forks_within = 0
+full_name = "code4sac/TACO"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://tacodataset.org"
+id = 426_858_166
+is_template = false
+name = "TACO"
+node_id = "R_kgDOGXFWtg"
+open_issues_within = 0
+private = false
+pushed_within = "week"
+stargazers_within = 0
+topics = [ ]
+updated_within = "week"
+visibility = "public"
+watchers_within = 0
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 3_915_088
+  login = "code4sac"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM5MTUwODg="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  maintain = false
+  pull = true
+  push = false
+  triage = false
