@@ -1,6 +1,7 @@
 code_url = "https://github.com/CodeForFtL/trolley-tracker"
-description = "Code for Fort Lauderdale's trolley tracking system"
+description = "Code for Fort Lauderdale's trolley tracking system. Using demo data and deployed at http://trolleytracking.herokuapp.com"
 git_url = "git://github.com/CodeForFtL/trolley-tracker.git"
+link_url = "http://trolleytracking.herokuapp.com"
 name = "trolley-tracker"
 organization_name = "Code for Fort Lauderdale"
 
@@ -9,7 +10,7 @@ allow_forking = true
 archived = false
 created_at = "2016-03-16T23:12:05Z"
 default_branch = "master"
-description = "Code for Fort Lauderdale's trolley tracking system"
+description = "Code for Fort Lauderdale's trolley tracking system. Using demo data and deployed at http://trolleytracking.herokuapp.com"
 disabled = false
 fork = false
 forks_within = 0
@@ -19,7 +20,7 @@ has_issues = false
 has_pages = false
 has_projects = true
 has_wiki = true
-homepage = ""
+homepage = "http://trolleytracking.herokuapp.com"
 id = 54_072_965
 is_template = false
 language = "JavaScript"
@@ -30,7 +31,7 @@ private = false
 pushed_within = "over_a_year"
 stargazers_within = 0
 topics = [ ]
-updated_within = "over_a_year"
+updated_within = "week"
 visibility = "public"
 watchers_within = 0
 
