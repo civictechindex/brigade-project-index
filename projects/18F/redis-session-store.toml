@@ -26,9 +26,9 @@ is_template = false
 language = "Ruby"
 name = "redis-session-store"
 node_id = "MDEwOlJlcG9zaXRvcnk4MzU4MzAzMQ=="
-open_issues_within = 0
+open_issues_within = 10
 private = false
-pushed_within = "over_a_year"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
 updated_within = "week"
