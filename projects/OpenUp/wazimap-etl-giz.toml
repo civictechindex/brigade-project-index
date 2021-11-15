@@ -1,0 +1,54 @@
+code_url = "https://github.com/OpenUpSA/wazimap-etl-giz"
+description = "ETL data repo for Wazimap."
+git_url = "git://github.com/OpenUpSA/wazimap-etl-giz.git"
+name = "wazimap-etl-giz"
+organization_name = "OpenUp"
+
+[github]
+allow_forking = true
+archived = false
+created_at = "2021-11-15T10:12:30Z"
+default_branch = "main"
+description = "ETL data repo for Wazimap."
+disabled = false
+fork = false
+forks_within = 0
+full_name = "OpenUpSA/wazimap-etl-giz"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+id = 428_213_360
+is_template = false
+name = "wazimap-etl-giz"
+node_id = "R_kgDOGYYEcA"
+open_issues_within = 0
+private = false
+pushed_within = "week"
+stargazers_within = 0
+topics = [ ]
+updated_within = "week"
+visibility = "public"
+watchers_within = 0
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 26_482_663
+  login = "OpenUpSA"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI2NDgyNjYz"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  maintain = false
+  pull = true
+  push = false
+  triage = false
