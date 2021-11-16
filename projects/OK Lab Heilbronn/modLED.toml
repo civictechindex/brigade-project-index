@@ -3,6 +3,16 @@ description = "Modular LED panels"
 git_url = "git://github.com/opendata-heilbronn/modLED.git"
 name = "modLED"
 organization_name = "OK Lab Heilbronn"
+topics = [
+  "artnet",
+  "hacktoberfest",
+  "led",
+  "led-mapping",
+  "led-matrix",
+  "openpixelcontrol",
+  "rgb",
+  "stm32"
+]
 
 [github]
 allow_forking = true
@@ -19,6 +29,7 @@ has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = true
+homepage = ""
 id = 147_515_986
 is_template = false
 language = "C"
@@ -28,7 +39,16 @@ open_issues_within = 10
 private = false
 pushed_within = "week"
 stargazers_within = 10
-topics = [ ]
+topics = [
+  "artnet",
+  "hacktoberfest",
+  "led",
+  "led-mapping",
+  "led-matrix",
+  "openpixelcontrol",
+  "rgb",
+  "stm32"
+]
 updated_within = "week"
 visibility = "public"
 watchers_within = 10
