@@ -1,7 +1,7 @@
 code_url = "https://github.com/CodeForBoulder/upswyng"
 description = "UpSwyng is a mobile-ready, digital directory of resources to assist the unhoused and at-risk communities of Boulder, CO"
 git_url = "git://github.com/CodeForBoulder/upswyng.git"
-link_url = "https://beta.upswyng.org"
+link_url = "https://www.upswyng.org"
 name = "upswyng"
 organization_name = "Code for Boulder"
 topics = [
@@ -28,7 +28,7 @@ has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = true
-homepage = "https://beta.upswyng.org"
+homepage = "https://www.upswyng.org"
 id = 172_246_870
 is_template = false
 language = "TypeScript"
