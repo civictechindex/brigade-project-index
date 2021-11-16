@@ -6,3 +6,13 @@ last_pushed_within = "week"
 name = "modLED"
 open_issues_within = 10
 organization_name = "OK Lab Heilbronn"
+topics = [
+  "artnet",
+  "hacktoberfest",
+  "led",
+  "led-mapping",
+  "led-matrix",
+  "openpixelcontrol",
+  "rgb",
+  "stm32"
+]
