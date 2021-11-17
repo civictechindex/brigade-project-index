@@ -22,9 +22,9 @@ is_template = false
 language = "Python"
 name = "identity-idva-usps"
 node_id = "MDEwOlJlcG9zaXRvcnkyOTA2MDA0ODE="
-open_issues_within = 0
+open_issues_within = 10
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 0
 topics = [ ]
 updated_within = "month"
