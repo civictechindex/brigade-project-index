@@ -1,8 +1,10 @@
 code_url = "https://github.com/codeforanchorage/realtime-bus-sms"
 description = 'Text back current arrival time for buses given a texted in bus stop number for People Mover. AddressLookup branch would allow texting "Arctic and Fireweed"'
 git_url = "git://github.com/codeforanchorage/realtime-bus-sms.git"
+link_url = "https://bus.codeforanchorage.org"
 name = "realtime-bus-sms"
 organization_name = "Code for Anchorage"
+topics = [ "transportation" ]
 
 [github]
 allow_forking = true
@@ -19,7 +21,7 @@ has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = true
-homepage = ""
+homepage = "https://bus.codeforanchorage.org"
 id = 27_556_566
 is_template = false
 language = "JavaScript"
@@ -29,8 +31,8 @@ open_issues_within = 100
 private = false
 pushed_within = "month"
 stargazers_within = 100
-topics = [ ]
-updated_within = "month"
+topics = [ "transportation" ]
+updated_within = "week"
 visibility = "public"
 watchers_within = 100
 

@@ -1,8 +1,10 @@
 code_url = "https://github.com/codeforanchorage/courtbot"
 description = "Your friendly neighborhood court robot. Provides an api for getting court case information."
 git_url = "git://github.com/codeforanchorage/courtbot.git"
+link_url = "https://courtbot.codeforanchorage.org"
 name = "courtbot"
 organization_name = "Code for Anchorage"
+topics = [ "court-reminder" ]
 
 [github]
 allow_forking = true
@@ -19,7 +21,7 @@ has_issues = true
 has_pages = true
 has_projects = true
 has_wiki = true
-homepage = ""
+homepage = "https://courtbot.codeforanchorage.org"
 id = 63_516_180
 is_template = false
 language = "JavaScript"
@@ -29,8 +31,8 @@ open_issues_within = 100
 private = false
 pushed_within = "month"
 stargazers_within = 10
-topics = [ ]
-updated_within = "month"
+topics = [ "court-reminder" ]
+updated_within = "week"
 visibility = "public"
 watchers_within = 10
 
