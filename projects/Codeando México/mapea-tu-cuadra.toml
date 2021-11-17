@@ -1,5 +1,6 @@
 code_url = "https://github.com/CodeandoMexico/mapea-tu-cuadra"
 git_url = "git://github.com/CodeandoMexico/mapea-tu-cuadra.git"
+link_url = "https://mapeatucuadra.org"
 name = "mapea-tu-cuadra"
 organization_name = "Codeando México"
 
@@ -17,6 +18,7 @@ has_issues = true
 has_pages = true
 has_projects = true
 has_wiki = true
+homepage = "https://mapeatucuadra.org"
 id = 427_184_209
 is_template = false
 name = "mapea-tu-cuadra"
