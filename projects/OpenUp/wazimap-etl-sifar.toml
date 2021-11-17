@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 id = 428_212_288
 is_template = false
+language = "Jupyter Notebook"
 name = "wazimap-etl-sifar"
 node_id = "R_kgDOGYYAQA"
 open_issues_within = 0
