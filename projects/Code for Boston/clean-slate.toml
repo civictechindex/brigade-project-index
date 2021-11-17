@@ -32,7 +32,7 @@ node_id = "MDEwOlJlcG9zaXRvcnkzMzExNjU1MDI="
 open_issues_within = 100
 private = false
 pushed_within = "year"
-stargazers_within = 0
+stargazers_within = 10
 topics = [
   "code-for-america",
   "code-for-boston",
@@ -40,9 +40,9 @@ topics = [
   "expungement",
   "record-sealing"
 ]
-updated_within = "year"
+updated_within = "week"
 visibility = "public"
-watchers_within = 0
+watchers_within = 10
 
   [github.owner]
   gravatar_id = ""
