@@ -12,7 +12,7 @@ default_branch = "main"
 description = "Scraper for collecting data about motions filed by public defenders in county courts"
 disabled = false
 fork = true
-forks_within = 0
+forks_within = 10
 full_name = "open-austin/indigent-defense-scraper"
 has_downloads = true
 has_issues = true
@@ -26,11 +26,11 @@ node_id = "MDEwOlJlcG9zaXRvcnkzODUwNDgyOTM="
 open_issues_within = 10
 private = false
 pushed_within = "year"
-stargazers_within = 0
+stargazers_within = 10
 topics = [ ]
-updated_within = "year"
+updated_within = "week"
 visibility = "public"
-watchers_within = 0
+watchers_within = 10
 
   [github.owner]
   gravatar_id = ""

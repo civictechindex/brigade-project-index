@@ -13,7 +13,7 @@ default_branch = "master"
 description = ":deciduous_tree: Cordova for Austin Green Map"
 disabled = false
 fork = false
-forks_within = 0
+forks_within = 10
 full_name = "open-austin/austingreenmap-cordova"
 has_downloads = true
 has_issues = true
@@ -31,7 +31,7 @@ private = false
 pushed_within = "over_a_year"
 stargazers_within = 10
 topics = [ ]
-updated_within = "year"
+updated_within = "week"
 visibility = "public"
 watchers_within = 10
 

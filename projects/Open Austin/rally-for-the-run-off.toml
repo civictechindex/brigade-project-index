@@ -12,7 +12,7 @@ default_branch = "master"
 description = "Travis County needs help in gathering a list of potential poll-workers to facilitate the primary run-off elections on July 14th, 2020."
 disabled = false
 fork = false
-forks_within = 0
+forks_within = 10
 full_name = "open-austin/rally-for-the-run-off"
 has_downloads = true
 has_issues = false
@@ -26,11 +26,11 @@ node_id = "MDEwOlJlcG9zaXRvcnkyNzA0MzEyOTY="
 open_issues_within = 0
 private = false
 pushed_within = "over_a_year"
-stargazers_within = 0
+stargazers_within = 10
 topics = [ ]
-updated_within = "year"
+updated_within = "week"
 visibility = "public"
-watchers_within = 0
+watchers_within = 10
 
   [github.owner]
   gravatar_id = ""

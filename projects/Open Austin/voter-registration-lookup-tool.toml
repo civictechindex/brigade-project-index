@@ -12,7 +12,7 @@ default_branch = "master"
 description = "Project in collaboration with the League of Women Voters Austin Area - https://voterlookup.ballotapi.org/"
 disabled = false
 fork = false
-forks_within = 0
+forks_within = 10
 full_name = "open-austin/voter-registration-lookup-tool"
 has_downloads = true
 has_issues = true
@@ -27,11 +27,11 @@ node_id = "R_kgDOGV7Djw"
 open_issues_within = 0
 private = false
 pushed_within = "month"
-stargazers_within = 0
+stargazers_within = 10
 topics = [ ]
-updated_within = "month"
+updated_within = "week"
 visibility = "public"
-watchers_within = 0
+watchers_within = 10
 
   [github.license]
   key = "mit"
