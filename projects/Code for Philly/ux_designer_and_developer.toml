@@ -13,7 +13,7 @@ default_branch = "master"
 description = "Modular hospital finder app. Uses hospital data lists and matches user with the closest hospital. Currently implemented for PA hospitals."
 disabled = false
 fork = false
-forks_within = 0
+forks_within = 10
 full_name = "crsmyz/hospital-finder"
 has_downloads = true
 has_issues = true
@@ -25,7 +25,7 @@ id = 193_394_219
 is_template = false
 language = "TypeScript"
 name = "hospital-finder"
-network_count = 0
+network_count = 1
 node_id = "MDEwOlJlcG9zaXRvcnkxOTMzOTQyMTk="
 open_issues_within = 0
 private = false
