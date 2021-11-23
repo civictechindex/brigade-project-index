@@ -1,7 +1,7 @@
 code_url = "https://github.com/smartercleanup/duwamish"
 description = "A community of residents and stakeholders who are monitoring the cleanup of toxic waste in Seattle's Duwamish River."
 git_branch = "master"
-last_pushed_within = "week"
+last_pushed_within = "month"
 link_url = "http://heyduwamish.org"
 name = "Hey Duwamish - River Cleanup Project"
 open_issues_within = 100
