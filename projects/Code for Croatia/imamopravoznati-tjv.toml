@@ -27,12 +27,12 @@ is_template = false
 language = "Python"
 name = "imamopravoznati-tjv"
 node_id = "MDEwOlJlcG9zaXRvcnkyMjIxNjY3ODg="
-open_issues_within = 0
+open_issues_within = 10
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 0
 topics = [ "opendata", "scraper" ]
-updated_within = "month"
+updated_within = "week"
 visibility = "public"
 watchers_within = 0
 
