@@ -5,53 +5,5 @@ organization_name = "Code for Philly"
 status = "Commenting"
 topics = [ "Budgets", "Education", "Philadelphia" ]
 
-[github]
-allow_forking = true
-archived = false
-created_at = "2018-10-28T20:41:49Z"
-default_branch = "master"
-description = "Turn the School District of Philadelphia's budget PDFs into combined tables"
-disabled = false
-fork = false
-forks_within = 10
-full_name = "grahamalama/school_budget_aggregator"
-has_downloads = true
-has_issues = true
-has_pages = false
-has_projects = true
-has_wiki = true
-homepage = "https://hackersandslackers.com/liberating-data-from-pdfs-with-tabula-and-pandas/"
-id = 155_113_685
-is_template = false
-language = "Jupyter Notebook"
-name = "school_budget_aggregator"
-network_count = 2
-node_id = "MDEwOlJlcG9zaXRvcnkxNTUxMTM2ODU="
-open_issues_within = 0
-private = false
-pushed_within = "over_a_year"
-stargazers_within = 10
-subscribers_count = 0
-temp_clone_token = ""
-topics = [ ]
-updated_within = "year"
-visibility = "public"
-watchers_within = 10
-
-  [github.owner]
-  gravatar_id = ""
-  id = 20_747_904
-  login = "grahamalama"
-  node_id = "MDQ6VXNlcjIwNzQ3OTA0"
-  site_admin = false
-  type = "User"
-
-  [github.permissions]
-  admin = false
-  maintain = false
-  pull = true
-  push = false
-  triage = false
-
 [projects_list_extra]
 title = "School Budget Aggregator"

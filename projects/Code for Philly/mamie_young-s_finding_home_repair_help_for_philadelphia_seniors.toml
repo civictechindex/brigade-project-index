@@ -6,59 +6,6 @@ organization_name = "Code for Philly"
 status = "Bootstrapping"
 topics = [ "help for homes", "repair people", "Seniors" ]
 
-[github]
-allow_forking = true
-archived = false
-created_at = "2018-12-13T20:59:28Z"
-default_branch = "master"
-disabled = false
-fork = false
-forks_within = 0
-full_name = "CodeForPhilly/home-repairs-for-seniors"
-has_downloads = true
-has_issues = true
-has_pages = false
-has_projects = true
-has_wiki = true
-id = 161_694_282
-is_template = false
-name = "home-repairs-for-seniors"
-network_count = 0
-node_id = "MDEwOlJlcG9zaXRvcnkxNjE2OTQyODI="
-open_issues_within = 0
-private = false
-pushed_within = "over_a_year"
-stargazers_within = 0
-subscribers_count = 10
-temp_clone_token = ""
-topics = [ ]
-updated_within = "over_a_year"
-visibility = "public"
-watchers_within = 0
-
-  [github.organization]
-  gravatar_id = ""
-  id = 1_451_716
-  login = "CodeForPhilly"
-  node_id = "MDEyOk9yZ2FuaXphdGlvbjE0NTE3MTY="
-  site_admin = false
-  type = "Organization"
-
-  [github.owner]
-  gravatar_id = ""
-  id = 1_451_716
-  login = "CodeForPhilly"
-  node_id = "MDEyOk9yZ2FuaXphdGlvbjE0NTE3MTY="
-  site_admin = false
-  type = "Organization"
-
-  [github.permissions]
-  admin = false
-  maintain = false
-  pull = true
-  push = false
-  triage = false
-
 [projects_list_extra]
 chat_channel = "homerepairforseniors"
 title = "Mamie Young's Finding Home Repair Help for Philadelphia Seniors"

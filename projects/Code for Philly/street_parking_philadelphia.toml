@@ -1,6 +1,5 @@
 code_url = "https://github.com/CfABrigadePhiladelphia/StreetParkingPhiladelphia.git"
 description = "Street parking dataset for kiosk-metered zones has been requested from Streets department, likely ETA is 2015."
-github = false
 link_url = "http://parkadelphia.org"
 name = "street_parking_philadelphia"
 organization_name = "Code for Philly"

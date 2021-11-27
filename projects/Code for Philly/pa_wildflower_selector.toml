@@ -4,67 +4,6 @@ name = "pa_wildflower_selector"
 organization_name = "Code for Philly"
 status = "Prototyping"
 
-[github]
-allow_forking = true
-archived = false
-created_at = "2021-05-19T23:40:52Z"
-default_branch = "main"
-description = "Project Repository for the Pennsylvania Wildflower Selector "
-disabled = false
-fork = false
-forks_within = 10
-full_name = "CodeForPhilly/pa-wildflower-selector"
-has_downloads = true
-has_issues = true
-has_pages = false
-has_projects = true
-has_wiki = true
-id = 369_027_859
-is_template = false
-language = "JavaScript"
-name = "pa-wildflower-selector"
-network_count = 3
-node_id = "MDEwOlJlcG9zaXRvcnkzNjkwMjc4NTk="
-open_issues_within = 100
-private = false
-pushed_within = "month"
-stargazers_within = 10
-subscribers_count = 6
-temp_clone_token = ""
-topics = [ ]
-updated_within = "month"
-visibility = "public"
-watchers_within = 10
-
-  [github.license]
-  key = "gpl-3.0"
-  name = "GNU General Public License v3.0"
-  node_id = "MDc6TGljZW5zZTk="
-  spdx_id = "GPL-3.0"
-
-  [github.organization]
-  gravatar_id = ""
-  id = 1_451_716
-  login = "CodeForPhilly"
-  node_id = "MDEyOk9yZ2FuaXphdGlvbjE0NTE3MTY="
-  site_admin = false
-  type = "Organization"
-
-  [github.owner]
-  gravatar_id = ""
-  id = 1_451_716
-  login = "CodeForPhilly"
-  node_id = "MDEyOk9yZ2FuaXphdGlvbjE0NTE3MTY="
-  site_admin = false
-  type = "Organization"
-
-  [github.permissions]
-  admin = false
-  maintain = false
-  pull = true
-  push = false
-  triage = false
-
 [projects_list_extra]
 chat_channel = "pa-wildflower-selector"
 title = "Choose Native Plants PA (Formerly PA Wildflower Lookup and Only Plant Natives)"

@@ -5,59 +5,6 @@ name = "code_for_philly_-_creating_new_projects_and_partnerships"
 organization_name = "Code for Philly"
 status = "Prototyping"
 
-[github]
-allow_forking = true
-archived = false
-created_at = "2020-02-21T18:27:26Z"
-default_branch = "master"
-disabled = false
-fork = false
-forks_within = 10
-full_name = "CodeForPhilly/partnerships"
-has_downloads = true
-has_issues = true
-has_pages = true
-has_projects = true
-has_wiki = true
-id = 242_204_745
-is_template = false
-name = "partnerships"
-network_count = 1
-node_id = "MDEwOlJlcG9zaXRvcnkyNDIyMDQ3NDU="
-open_issues_within = 10
-private = false
-pushed_within = "over_a_year"
-stargazers_within = 0
-subscribers_count = 8
-temp_clone_token = ""
-topics = [ ]
-updated_within = "over_a_year"
-visibility = "public"
-watchers_within = 0
-
-  [github.organization]
-  gravatar_id = ""
-  id = 1_451_716
-  login = "CodeForPhilly"
-  node_id = "MDEyOk9yZ2FuaXphdGlvbjE0NTE3MTY="
-  site_admin = false
-  type = "Organization"
-
-  [github.owner]
-  gravatar_id = ""
-  id = 1_451_716
-  login = "CodeForPhilly"
-  node_id = "MDEyOk9yZ2FuaXphdGlvbjE0NTE3MTY="
-  site_admin = false
-  type = "Organization"
-
-  [github.permissions]
-  admin = false
-  maintain = false
-  pull = true
-  push = false
-  triage = false
-
 [projects_list_extra]
 chat_channel = "partnerships"
 title = "Code for Philly - Creating New Projects and Partnerships"

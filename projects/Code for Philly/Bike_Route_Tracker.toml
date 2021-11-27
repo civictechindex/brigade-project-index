@@ -6,67 +6,6 @@ organization_name = "Code for Philly"
 status = "Drifting"
 topics = [ "Biking", "Cycling", "Transit", "Transportation" ]
 
-[github]
-allow_forking = true
-archived = false
-created_at = "2014-09-17T18:12:13Z"
-default_branch = "develop"
-description = "Ride. Record. Reimagine your routes."
-disabled = false
-fork = false
-forks_within = 100
-full_name = "CodeForPhilly/CyclePhilly-iOS-app"
-has_downloads = true
-has_issues = true
-has_pages = false
-has_projects = true
-has_wiki = true
-id = 24_156_380
-is_template = false
-language = "Objective-C"
-name = "CyclePhilly-iOS-app"
-network_count = 25
-node_id = "MDEwOlJlcG9zaXRvcnkyNDE1NjM4MA=="
-open_issues_within = 10
-private = false
-pushed_within = "over_a_year"
-stargazers_within = 100
-subscribers_count = 10
-temp_clone_token = ""
-topics = [ ]
-updated_within = "over_a_year"
-visibility = "public"
-watchers_within = 100
-
-  [github.license]
-  key = "gpl-3.0"
-  name = "GNU General Public License v3.0"
-  node_id = "MDc6TGljZW5zZTk="
-  spdx_id = "GPL-3.0"
-
-  [github.organization]
-  gravatar_id = ""
-  id = 1_451_716
-  login = "CodeForPhilly"
-  node_id = "MDEyOk9yZ2FuaXphdGlvbjE0NTE3MTY="
-  site_admin = false
-  type = "Organization"
-
-  [github.owner]
-  gravatar_id = ""
-  id = 1_451_716
-  login = "CodeForPhilly"
-  node_id = "MDEyOk9yZ2FuaXphdGlvbjE0NTE3MTY="
-  site_admin = false
-  type = "Organization"
-
-  [github.permissions]
-  admin = false
-  maintain = false
-  pull = true
-  push = false
-  triage = false
-
 [projects_list_extra]
 chat_channel = "cyclephilly"
 title = "Bike Route Tracker (CyclePhilly)"

@@ -6,53 +6,6 @@ organization_name = "Code for Philly"
 status = "Maintaining"
 topics = [ "Education" ]
 
-[github]
-allow_forking = true
-archived = false
-created_at = "2016-03-16T19:08:21Z"
-default_branch = "master"
-description = "App Where User Guesses Information about Census Block"
-disabled = false
-fork = false
-forks_within = 10
-full_name = "Pherman09/BlockIQ"
-has_downloads = true
-has_issues = true
-has_pages = false
-has_projects = true
-has_wiki = true
-id = 54_059_308
-is_template = false
-language = "JavaScript"
-name = "BlockIQ"
-network_count = 5
-node_id = "MDEwOlJlcG9zaXRvcnk1NDA1OTMwOA=="
-open_issues_within = 10
-private = false
-pushed_within = "over_a_year"
-stargazers_within = 10
-subscribers_count = 1
-temp_clone_token = ""
-topics = [ ]
-updated_within = "over_a_year"
-visibility = "public"
-watchers_within = 10
-
-  [github.owner]
-  gravatar_id = ""
-  id = 16_779_483
-  login = "Pherman09"
-  node_id = "MDQ6VXNlcjE2Nzc5NDgz"
-  site_admin = false
-  type = "User"
-
-  [github.permissions]
-  admin = false
-  maintain = false
-  pull = true
-  push = false
-  triage = false
-
 [projects_list_extra]
 chat_channel = "blockiq"
 title = "Block IQ"
