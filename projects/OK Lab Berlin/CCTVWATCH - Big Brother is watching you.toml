@@ -12,3 +12,57 @@ link_url = "http://cctv.antares.uberspace.de/"
 name = "CCTVWATCH - Big Brother is watching you"
 organization_name = "OK Lab Berlin"
 type = "Community Plattform"
+
+[github]
+allow_forking = true
+archived = false
+created_at = "2014-03-12T19:53:24Z"
+default_branch = "master"
+description = "Map application that displays cctv cameras and lets you upload new ones"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "moklick/cctvwatch"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 17_681_755
+is_template = false
+language = "JavaScript"
+name = "cctvwatch"
+network_count = 0
+node_id = "MDEwOlJlcG9zaXRvcnkxNzY4MTc1NQ=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+subscribers_count = 5
+temp_clone_token = ""
+topics = [ ]
+updated_within = "year"
+visibility = "public"
+watchers_within = 10
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_857_535
+  login = "moklick"
+  node_id = "MDQ6VXNlcjI4NTc1MzU="
+  site_admin = false
+  type = "User"
+
+  [github.permissions]
+  admin = false
+  maintain = false
+  pull = true
+  push = false
+  triage = false
