@@ -5,5 +5,59 @@ organization_name = "Code for Philly"
 status = "Commenting"
 topics = [ "SEPTA" ]
 
+[github]
+allow_forking = true
+archived = false
+created_at = "2014-03-31T01:18:45Z"
+default_branch = "master"
+description = "Working on a Pebble watch app for SEPTA (Philadelphia transit system) - used example weather app as a start"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "christophernies/watchSEPTA"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 18_278_282
+is_template = false
+language = "C"
+name = "watchSEPTA"
+network_count = 0
+node_id = "MDEwOlJlcG9zaXRvcnkxODI3ODI4Mg=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+subscribers_count = 1
+temp_clone_token = ""
+topics = [ ]
+updated_within = "over_a_year"
+visibility = "public"
+watchers_within = 10
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 1_483_104
+  login = "christophernies"
+  node_id = "MDQ6VXNlcjE0ODMxMDQ="
+  site_admin = false
+  type = "User"
+
+  [github.permissions]
+  admin = false
+  maintain = false
+  pull = true
+  push = false
+  triage = false
+
 [projects_list_extra]
 title = "watchSEPTA"

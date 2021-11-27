@@ -6,5 +6,60 @@ organization_name = "Code for Philly"
 status = "Maintaining"
 topics = [ "GIS", "Maps" ]
 
+[github]
+allow_forking = true
+archived = true
+created_at = "2013-03-26T00:22:26Z"
+default_branch = "master"
+description = "A simple and intuitive console for the ArcGIS REST API."
+disabled = false
+fork = false
+forks_within = 10
+full_name = "CityOfPhiladelphia/arc-console"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+id = 9_019_271
+is_template = false
+language = "JavaScript"
+name = "arc-console"
+network_count = 4
+node_id = "MDEwOlJlcG9zaXRvcnk5MDE5Mjcx"
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+subscribers_count = 33
+temp_clone_token = ""
+topics = [ ]
+updated_within = "over_a_year"
+visibility = "public"
+watchers_within = 10
+
+  [github.organization]
+  gravatar_id = ""
+  id = 2_641_050
+  login = "CityOfPhiladelphia"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI2NDEwNTA="
+  site_admin = false
+  type = "Organization"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_641_050
+  login = "CityOfPhiladelphia"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI2NDEwNTA="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  maintain = false
+  pull = true
+  push = false
+  triage = false
+
 [projects_list_extra]
 title = "ArcConsole"

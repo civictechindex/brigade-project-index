@@ -15,5 +15,53 @@ topics = [
   "vacantland"
 ]
 
+[github]
+allow_forking = true
+archived = false
+created_at = "2013-05-19T03:06:46Z"
+default_branch = "master"
+description = "Map of historic jazz locations in Philly"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "mheadd/philly-jazz-app"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "http://mheadd.github.io/philly-jazz-app/"
+id = 10_150_297
+is_template = false
+language = "JavaScript"
+name = "philly-jazz-app"
+network_count = 3
+node_id = "MDEwOlJlcG9zaXRvcnkxMDE1MDI5Nw=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+subscribers_count = 4
+temp_clone_token = ""
+topics = [ ]
+updated_within = "over_a_year"
+visibility = "public"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 58_419
+  login = "mheadd"
+  node_id = "MDQ6VXNlcjU4NDE5"
+  site_admin = false
+  type = "User"
+
+  [github.permissions]
+  admin = false
+  maintain = false
+  pull = true
+  push = false
+  triage = false
+
 [projects_list_extra]
 title = "All That Philly Jazz"

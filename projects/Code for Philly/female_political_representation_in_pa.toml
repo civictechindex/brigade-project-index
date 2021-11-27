@@ -5,6 +5,52 @@ organization_name = "Code for Philly"
 status = "Bootstrapping"
 topics = [ "Equality", "Politics", "Women's Rights" ]
 
+[github]
+allow_forking = true
+archived = false
+created_at = "2015-11-06T01:49:16Z"
+default_branch = "master"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "TRys8/Female-Political-Representation-in-PA"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+id = 45_652_237
+is_template = false
+language = "JavaScript"
+name = "Female-Political-Representation-in-PA"
+network_count = 5
+node_id = "MDEwOlJlcG9zaXRvcnk0NTY1MjIzNw=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+subscribers_count = 5
+temp_clone_token = ""
+topics = [ ]
+updated_within = "over_a_year"
+visibility = "public"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 15_115_513
+  login = "TRys8"
+  node_id = "MDQ6VXNlcjE1MTE1NTEz"
+  site_admin = false
+  type = "User"
+
+  [github.permissions]
+  admin = false
+  maintain = false
+  pull = true
+  push = false
+  triage = false
+
 [projects_list_extra]
 chat_channel = "female_political_rep"
 title = "Female Political Representation in PA"

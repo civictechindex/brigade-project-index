@@ -5,5 +5,52 @@ organization_name = "Code for Philly"
 status = "Commenting"
 topics = [ "Data Science", "renewable energy" ]
 
+[github]
+allow_forking = true
+archived = false
+created_at = "2015-04-28T23:21:42Z"
+default_branch = "master"
+description = "A near real-time dashboard indicating the availability of electricity from solar and wind in the Philadelphia area"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "JohnYagecic/PhillyRenewablesDashboard"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+id = 34_761_128
+is_template = false
+language = "R"
+name = "PhillyRenewablesDashboard"
+network_count = 0
+node_id = "MDEwOlJlcG9zaXRvcnkzNDc2MTEyOA=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+subscribers_count = 1
+temp_clone_token = ""
+topics = [ ]
+updated_within = "over_a_year"
+visibility = "public"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 7_224_291
+  login = "JohnYagecic"
+  node_id = "MDQ6VXNlcjcyMjQyOTE="
+  site_admin = false
+  type = "User"
+
+  [github.permissions]
+  admin = false
+  maintain = false
+  pull = true
+  push = false
+  triage = false
+
 [projects_list_extra]
 title = "Philly Renewables Dashboard"

@@ -13,6 +13,52 @@ topics = [
   "Urban housing"
 ]
 
+[github]
+allow_forking = true
+archived = false
+created_at = "2019-03-31T01:47:30Z"
+default_branch = "develop"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "mattschaff/phillyresourcemap"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+id = 178_630_583
+is_template = false
+language = "PHP"
+name = "phillyresourcemap"
+network_count = 1
+node_id = "MDEwOlJlcG9zaXRvcnkxNzg2MzA1ODM="
+open_issues_within = 100
+private = false
+pushed_within = "year"
+stargazers_within = 10
+subscribers_count = 1
+temp_clone_token = ""
+topics = [ ]
+updated_within = "over_a_year"
+visibility = "public"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 25_593_671
+  login = "mattschaff"
+  node_id = "MDQ6VXNlcjI1NTkzNjcx"
+  site_admin = false
+  type = "User"
+
+  [github.permissions]
+  admin = false
+  maintain = false
+  pull = true
+  push = false
+  triage = false
+
 [projects_list_extra]
 chat_channel = "resource-philly-map"
 title = "Resource Philly Map"

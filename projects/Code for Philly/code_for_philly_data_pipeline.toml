@@ -5,6 +5,61 @@ name = "code_for_philly_data_pipeline"
 organization_name = "Code for Philly"
 status = "Bootstrapping"
 
+[github]
+allow_forking = true
+archived = false
+created_at = "2021-01-03T19:54:32Z"
+default_branch = "master"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "CodeForPhilly/cfp-data-pipeline"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 326_489_314
+is_template = false
+language = "Python"
+name = "cfp-data-pipeline"
+network_count = 3
+node_id = "MDEwOlJlcG9zaXRvcnkzMjY0ODkzMTQ="
+open_issues_within = 10
+private = false
+pushed_within = "year"
+stargazers_within = 10
+subscribers_count = 5
+temp_clone_token = ""
+topics = [ "civic-tech-template" ]
+updated_within = "year"
+visibility = "public"
+watchers_within = 10
+
+  [github.organization]
+  gravatar_id = ""
+  id = 1_451_716
+  login = "CodeForPhilly"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE0NTE3MTY="
+  site_admin = false
+  type = "Organization"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 1_451_716
+  login = "CodeForPhilly"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE0NTE3MTY="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  maintain = false
+  pull = true
+  push = false
+  triage = false
+
 [projects_list_extra]
 chat_channel = "cfp-dashboard"
 title = "Code for Philly Data Pipeline"

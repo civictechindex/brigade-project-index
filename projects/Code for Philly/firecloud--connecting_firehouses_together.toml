@@ -11,6 +11,58 @@ topics = [
   "Safety"
 ]
 
+[github]
+allow_forking = true
+archived = false
+created_at = "2017-06-20T16:04:45Z"
+default_branch = "master"
+description = "Connecting Firehouses Together"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "engine03/firecloud"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+id = 94_910_371
+is_template = false
+name = "firecloud"
+network_count = 0
+node_id = "MDEwOlJlcG9zaXRvcnk5NDkxMDM3MQ=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+subscribers_count = 0
+temp_clone_token = ""
+topics = [ ]
+updated_within = "year"
+visibility = "public"
+watchers_within = 0
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 29_578_502
+  login = "engine03"
+  node_id = "MDQ6VXNlcjI5NTc4NTAy"
+  site_admin = false
+  type = "User"
+
+  [github.permissions]
+  admin = false
+  maintain = false
+  pull = true
+  push = false
+  triage = false
+
 [projects_list_extra]
 chat_channel = "firecloud"
 title = "FIRECLOUD: Connecting Firehouses Together"
