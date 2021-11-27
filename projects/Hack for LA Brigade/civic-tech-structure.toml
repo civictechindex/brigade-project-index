@@ -24,7 +24,7 @@ forks_within = 10
 full_name = "hackforla/civic-tech-structure"
 has_downloads = true
 has_issues = true
-has_pages = false
+has_pages = true
 has_projects = true
 has_wiki = true
 homepage = ""
@@ -34,7 +34,7 @@ name = "civic-tech-structure"
 node_id = "MDEwOlJlcG9zaXRvcnkyOTM5MDcwNDk="
 open_issues_within = 10
 private = false
-pushed_within = "year"
+pushed_within = "week"
 score = 1
 stargazers_within = 10
 topics = [
