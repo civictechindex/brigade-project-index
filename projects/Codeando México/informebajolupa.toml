@@ -1,7 +1,8 @@
 code_url = "https://github.com/CodeandoMexico/informebajolupa"
-description = ":mag_right: Verificación de informe de gobierno de alcaldes."
+description = ":mag_right: Plataforma web y metodología para la verificación de informes de gobiernos locales."
 git_branch = "master"
 git_url = "git://github.com/CodeandoMexico/informebajolupa.git"
 last_pushed_within = "week"
 name = "informebajolupa"
 organization_name = "Codeando México"
+topics = [ "citizen-participation", "factchecking", "transparency" ]
