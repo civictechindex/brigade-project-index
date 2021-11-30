@@ -4,5 +4,5 @@ git_branch = "main"
 git_url = "git://github.com/18F/public-benefits-studio.git"
 last_pushed_within = "month"
 name = "public-benefits-studio"
-open_issues_within = 100
+open_issues_within = 10
 organization_name = "18F"
