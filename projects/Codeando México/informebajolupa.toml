@@ -9,7 +9,7 @@ topics = [ "citizen-participation", "factchecking", "transparency" ]
 allow_forking = true
 archived = false
 created_at = "2021-10-26T17:00:42Z"
-default_branch = "master"
+default_branch = "main"
 description = ":mag_right: Plataforma web y metodología para la verificación de informes de gobiernos locales."
 disabled = false
 fork = true
@@ -23,7 +23,6 @@ has_wiki = true
 homepage = ""
 id = 421_512_413
 is_template = false
-language = "SCSS"
 name = "informebajolupa"
 node_id = "R_kgDOGR_E3Q"
 open_issues_within = 0
@@ -36,10 +35,10 @@ visibility = "public"
 watchers_within = 0
 
   [github.license]
-  key = "mit"
-  name = "MIT License"
-  node_id = "MDc6TGljZW5zZTEz"
-  spdx_id = "MIT"
+  key = "other"
+  name = "Other"
+  node_id = "MDc6TGljZW5zZTA="
+  spdx_id = "NOASSERTION"
 
   [github.owner]
   gravatar_id = ""
