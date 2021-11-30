@@ -5,4 +5,5 @@ git_url = "git://github.com/codeforamerica/shiba.git"
 last_pushed_within = "week"
 link_url = "https://www.mnbenefits.org"
 name = "shiba"
+open_issues_within = 10
 organization_name = "Code for America"
