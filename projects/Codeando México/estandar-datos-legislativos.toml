@@ -3,6 +3,7 @@ description = "En este proyecto buscamos una forma sencilla para los ciudadanos 
 git_url = "git://github.com/CodeandoMexico/estandar-datos-legislativos.git"
 name = "estandar-datos-legislativos"
 organization_name = "Codeando México"
+topics = [ "open-standard" ]
 
 [github]
 allow_forking = true
@@ -28,8 +29,8 @@ open_issues_within = 10
 private = false
 pushed_within = "week"
 stargazers_within = 10
-topics = [ ]
-updated_within = "month"
+topics = [ "open-standard" ]
+updated_within = "week"
 visibility = "public"
 watchers_within = 10
 
