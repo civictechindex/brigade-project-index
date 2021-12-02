@@ -1,6 +1,6 @@
-code_url = "https://github.com/codeforpakistan/Product-Regustration-System-and-Stasu-Raaye-app"
-git_url = "git://github.com/codeforpakistan/Product-Regustration-System-and-Stasu-Raaye-app.git"
-name = "Product-Regustration-System-and-Stasu-Raaye-app"
+code_url = "https://github.com/codeforpakistan/Product-Registration-System-and-Stasu-Raaye-app"
+git_url = "git://github.com/codeforpakistan/Product-Registration-System-and-Stasu-Raaye-app.git"
+name = "Product-Registration-System-and-Stasu-Raaye-app"
 organization_name = "Code for Pakistan"
 
 [github]
@@ -11,7 +11,7 @@ default_branch = "main"
 disabled = false
 fork = false
 forks_within = 0
-full_name = "codeforpakistan/Product-Regustration-System-and-Stasu-Raaye-app"
+full_name = "codeforpakistan/Product-Registration-System-and-Stasu-Raaye-app"
 has_downloads = true
 has_issues = true
 has_pages = false
@@ -19,14 +19,14 @@ has_projects = true
 has_wiki = true
 id = 430_576_974
 is_template = false
-name = "Product-Regustration-System-and-Stasu-Raaye-app"
+name = "Product-Registration-System-and-Stasu-Raaye-app"
 node_id = "R_kgDOGaoVTg"
 open_issues_within = 0
 private = false
 pushed_within = "month"
 stargazers_within = 0
 topics = [ ]
-updated_within = "month"
+updated_within = "week"
 visibility = "public"
 watchers_within = 0
 
