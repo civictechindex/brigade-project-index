@@ -1,5 +1,5 @@
 code_url = "https://github.com/CodeForAsheville/pdf-case-compare"
-description = "This is for the pdf records used in the record expungement process a tool to use in order to scan two pdfs and within their contents compare cases"
+description = "The pdf-case-compare project originated as a request from the legal aid community. Code for Asheville was asked if it might be able to help a non-profit legal aid organization, that was helping people get their records expunged per North Carolina law. Code for Asheville was asked to write a computer program to help lawyers collect the information needed to prepare an application for expungement. The result was a Python program, with a Windows 10 GUI, delivered as a stand-alone desktop app. The program compares two PDF report files, one generated through the LexisNexis Public Records database, and the other through the North Carolina Criminal and Infraction Public Records Search (CIPRS) database. The program identifies court cases that are found in the LexisNexis PDF file, but which do not seem to appear in the CIPRS PDF file. The output is shown on the screen as well as sent to a text file."
 git_branch = "main"
 git_url = "git://github.com/CodeForAsheville/pdf-case-compare.git"
 last_pushed_within = "week"
