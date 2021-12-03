@@ -18,7 +18,7 @@ has_downloads = true
 has_issues = true
 has_pages = false
 has_projects = true
-has_wiki = true
+has_wiki = false
 id = 35_165_971
 is_template = false
 language = "HTML"
@@ -29,7 +29,7 @@ private = false
 pushed_within = "month"
 stargazers_within = 100
 topics = [ ]
-updated_within = "month"
+updated_within = "week"
 visibility = "public"
 watchers_within = 100
 
