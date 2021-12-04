@@ -1,5 +1,6 @@
 code_url = "https://github.com/hackforla/GreenEarthOS"
 git_url = "git://github.com/hackforla/GreenEarthOS.git"
+link_url = "https://greenearthos.org"
 name = "GreenEarthOS"
 organization_name = "Hack for LA Brigade"
 topics = [
@@ -24,7 +25,7 @@ has_issues = true
 has_pages = true
 has_projects = true
 has_wiki = true
-homepage = ""
+homepage = "https://greenearthos.org"
 id = 302_142_959
 is_template = false
 language = "JavaScript"
@@ -32,7 +33,7 @@ name = "GreenEarthOS"
 node_id = "MDEwOlJlcG9zaXRvcnkzMDIxNDI5NTk="
 open_issues_within = 100
 private = false
-pushed_within = "month"
+pushed_within = "week"
 score = 1
 stargazers_within = 0
 topics = [
@@ -42,7 +43,7 @@ topics = [
   "environment",
   "hack-for-la"
 ]
-updated_within = "month"
+updated_within = "week"
 visibility = "public"
 watchers_within = 0
 
