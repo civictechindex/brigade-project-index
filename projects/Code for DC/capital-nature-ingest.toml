@@ -1,0 +1,48 @@
+code_url = "https://github.com/codefordc/capital-nature-ingest"
+description = "Scripts for ingesting data for Capital Nature"
+git_url = "git://github.com/codefordc/capital-nature-ingest.git"
+name = "capital-nature-ingest"
+organization_name = "Code for DC"
+
+[github]
+allow_forking = true
+archived = false
+created_at = "2021-12-04T19:39:46Z"
+default_branch = "master"
+description = "Scripts for ingesting data for Capital Nature"
+disabled = false
+fork = true
+forks_within = 0
+full_name = "codefordc/capital-nature-ingest"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+id = 434_993_053
+is_template = false
+name = "capital-nature-ingest"
+node_id = "R_kgDOGe13nQ"
+open_issues_within = 0
+private = false
+pushed_within = "year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "week"
+visibility = "public"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_768_897
+  login = "codefordc"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI3Njg4OTc="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  maintain = false
+  pull = true
+  push = false
+  triage = false
