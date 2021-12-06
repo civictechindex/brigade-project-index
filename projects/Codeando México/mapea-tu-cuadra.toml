@@ -21,14 +21,15 @@ has_wiki = true
 homepage = "https://mapeatucuadra.org"
 id = 427_184_209
 is_template = false
+language = "JavaScript"
 name = "mapea-tu-cuadra"
 node_id = "R_kgDOGXZQUQ"
-open_issues_within = 10
+open_issues_within = 0
 private = false
 pushed_within = "week"
 stargazers_within = 0
 topics = [ ]
-updated_within = "month"
+updated_within = "week"
 visibility = "public"
 watchers_within = 0
 
