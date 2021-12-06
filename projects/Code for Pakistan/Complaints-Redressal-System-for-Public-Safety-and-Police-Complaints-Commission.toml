@@ -19,6 +19,7 @@ has_projects = true
 has_wiki = true
 id = 430_575_896
 is_template = false
+language = "JavaScript"
 name = "Complaints-Redressal-System-for-Public-Safety-and-Police-Complaints-Commission"
 node_id = "R_kgDOGaoRGA"
 open_issues_within = 0
@@ -26,15 +27,9 @@ private = false
 pushed_within = "week"
 stargazers_within = 0
 topics = [ ]
-updated_within = "month"
+updated_within = "week"
 visibility = "public"
 watchers_within = 0
-
-  [github.license]
-  key = "gpl-3.0"
-  name = "GNU General Public License v3.0"
-  node_id = "MDc6TGljZW5zZTk="
-  spdx_id = "GPL-3.0"
 
   [github.owner]
   gravatar_id = ""
