@@ -29,7 +29,7 @@ network_count = 1
 node_id = "MDEwOlJlcG9zaXRvcnk0ODQwODQxMQ=="
 open_issues_within = 100
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 10
 subscribers_count = 3
 temp_clone_token = ""
@@ -39,7 +39,7 @@ topics = [
   "food-pantries",
   "food-pantry-admin"
 ]
-updated_within = "year"
+updated_within = "week"
 visibility = "public"
 watchers_within = 10
 
