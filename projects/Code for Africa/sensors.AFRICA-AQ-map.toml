@@ -47,7 +47,7 @@ name = "sensors.AFRICA-AQ-map"
 node_id = "MDEwOlJlcG9zaXRvcnk5NTY0OTM5NA=="
 open_issues_within = 10
 private = false
-pushed_within = "year"
+pushed_within = "over_a_year"
 stargazers_within = 10
 topics = [
   "abuja",
@@ -68,7 +68,7 @@ topics = [
   "sensors-data-collection",
   "tanzania"
 ]
-updated_within = "year"
+updated_within = "over_a_year"
 visibility = "public"
 watchers_within = 10
 
