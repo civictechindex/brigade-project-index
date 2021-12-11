@@ -33,7 +33,7 @@ name = "waterbeacon"
 node_id = "MDEwOlJlcG9zaXRvcnk2OTc3MTc5Nw=="
 open_issues_within = 10
 private = false
-pushed_within = "week"
+pushed_within = "month"
 stargazers_within = 10
 topics = [
   "code-for-america",
@@ -42,7 +42,7 @@ topics = [
   "water",
   "waterquality"
 ]
-updated_within = "week"
+updated_within = "month"
 visibility = "public"
 watchers_within = 10
 
