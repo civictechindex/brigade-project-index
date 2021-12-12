@@ -3,6 +3,7 @@ description = "National Day of Civic Hacking Planning"
 git_url = "git://github.com/cforlando/NDoCH-Planning.git"
 name = "NDoCH-Planning"
 organization_name = "Code for Orlando"
+topics = [ "code-for-america", "event-management" ]
 
 [github]
 allow_forking = true
@@ -19,6 +20,7 @@ has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = true
+homepage = ""
 id = 58_233_676
 is_template = false
 name = "NDoCH-Planning"
@@ -27,8 +29,8 @@ open_issues_within = 10
 private = false
 pushed_within = "over_a_year"
 stargazers_within = 0
-topics = [ ]
-updated_within = "over_a_year"
+topics = [ "code-for-america", "event-management" ]
+updated_within = "week"
 visibility = "public"
 watchers_within = 0
 
