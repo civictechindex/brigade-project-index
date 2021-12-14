@@ -1,0 +1,56 @@
+code_url = "https://github.com/CodeandoMexico/ppf"
+description = "Framework for Digitally enabled citizen-led participatory processes"
+git_url = "git://github.com/CodeandoMexico/ppf.git"
+link_url = "https://codeforpakistan.github.io/ppf/"
+name = "ppf"
+organization_name = "Codeando México"
+
+[github]
+allow_forking = true
+archived = false
+created_at = "2021-12-14T16:11:47Z"
+default_branch = "master"
+description = "Framework for Digitally enabled citizen-led participatory processes"
+disabled = false
+fork = true
+forks_within = 0
+full_name = "CodeandoMexico/ppf"
+has_downloads = true
+has_issues = false
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "https://codeforpakistan.github.io/ppf/"
+id = 438_318_446
+is_template = false
+name = "ppf"
+node_id = "R_kgDOGiA1bg"
+open_issues_within = 0
+private = false
+pushed_within = "week"
+stargazers_within = 0
+topics = [ ]
+updated_within = "week"
+visibility = "public"
+watchers_within = 0
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_940_113
+  login = "CodeandoMexico"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI5NDAxMTM="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  maintain = false
+  pull = true
+  push = false
+  triage = false
