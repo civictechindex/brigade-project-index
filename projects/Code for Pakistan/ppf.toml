@@ -1,5 +1,7 @@
 code_url = "https://github.com/codeforpakistan/ppf"
+description = "Framework for Digitally enabled citizen-led participatory processes"
 git_url = "git://github.com/codeforpakistan/ppf.git"
+link_url = "https://codeforpakistan.github.io/ppf/"
 name = "ppf"
 organization_name = "Code for Pakistan"
 
@@ -8,6 +10,7 @@ allow_forking = true
 archived = false
 created_at = "2021-12-10T07:30:52Z"
 default_branch = "master"
+description = "Framework for Digitally enabled citizen-led participatory processes"
 disabled = false
 fork = false
 forks_within = 10
@@ -17,6 +20,7 @@ has_issues = true
 has_pages = true
 has_projects = true
 has_wiki = true
+homepage = "https://codeforpakistan.github.io/ppf/"
 id = 436_889_957
 is_template = false
 name = "ppf"
