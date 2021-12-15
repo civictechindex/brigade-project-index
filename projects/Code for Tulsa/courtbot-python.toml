@@ -38,7 +38,7 @@ name = "courtbot-python"
 node_id = "MDEwOlJlcG9zaXRvcnkxNzAwNjM1Njg="
 open_issues_within = 100
 private = false
-pushed_within = "week"
+pushed_within = "month"
 stargazers_within = 100
 topics = [
   "civictechindex",
@@ -50,7 +50,7 @@ topics = [
   "criminal-justice",
   "twilio"
 ]
-updated_within = "week"
+updated_within = "month"
 visibility = "public"
 watchers_within = 100
 
