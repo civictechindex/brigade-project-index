@@ -1,7 +1,7 @@
 code_url = "https://github.com/18F/formsgov-demo"
 git_branch = "develop"
 git_url = "git://github.com/18F/formsgov-demo.git"
-last_pushed_within = "week"
+last_pushed_within = "month"
 name = "formsgov-demo"
 open_issues_within = 100
 organization_name = "18F"
