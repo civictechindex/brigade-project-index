@@ -22,7 +22,7 @@ is_template = false
 language = "JavaScript"
 name = "court-notifications"
 node_id = "MDEwOlJlcG9zaXRvcnkzNDU3MDA3MTU="
-open_issues_within = 10
+open_issues_within = 100
 private = false
 pushed_within = "week"
 stargazers_within = 10
