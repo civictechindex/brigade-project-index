@@ -1,0 +1,54 @@
+code_url = "https://github.com/OpenEugene/sig-mod"
+description = "Oqtane module for drawing a signature"
+git_url = "git://github.com/OpenEugene/sig-mod.git"
+name = "sig-mod"
+organization_name = "Open Eugene"
+
+[github]
+allow_forking = true
+archived = false
+created_at = "2021-12-19T00:50:13Z"
+default_branch = "main"
+description = "Oqtane module for drawing a signature"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "OpenEugene/sig-mod"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+id = 439_745_823
+is_template = false
+name = "sig-mod"
+node_id = "R_kgDOGjX9Hw"
+open_issues_within = 0
+private = false
+pushed_within = "week"
+stargazers_within = 0
+topics = [ ]
+updated_within = "week"
+visibility = "public"
+watchers_within = 0
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 37_278_948
+  login = "OpenEugene"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM3Mjc4OTQ4"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  maintain = false
+  pull = true
+  push = false
+  triage = false
