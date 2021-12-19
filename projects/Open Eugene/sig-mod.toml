@@ -21,16 +21,17 @@ has_projects = true
 has_wiki = true
 id = 439_745_823
 is_template = false
+language = "C#"
 name = "sig-mod"
 node_id = "R_kgDOGjX9Hw"
 open_issues_within = 0
 private = false
 pushed_within = "week"
-stargazers_within = 0
+stargazers_within = 10
 topics = [ ]
 updated_within = "week"
 visibility = "public"
-watchers_within = 0
+watchers_within = 10
 
   [github.license]
   key = "mit"
