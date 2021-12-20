@@ -25,7 +25,7 @@ id = 216_936_227
 is_template = false
 language = "Python"
 name = "paws-data-pipeline"
-network_count = 2
+network_count = 3
 node_id = "MDEwOlJlcG9zaXRvcnkyMTY5MzYyMjc="
 open_issues_within = 100
 private = false
