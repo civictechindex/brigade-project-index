@@ -17,13 +17,13 @@ forks_within = 10
 full_name = "codeformuenster/sitzplan-rat"
 has_downloads = true
 has_issues = true
-has_pages = false
+has_pages = true
 has_projects = true
 has_wiki = true
 homepage = "https://rat-muenster.netlify.com/"
 id = 163_442_619
 is_template = false
-language = "CSS"
+language = "HTML"
 name = "sitzplan-rat"
 node_id = "MDEwOlJlcG9zaXRvcnkxNjM0NDI2MTk="
 open_issues_within = 0
@@ -31,7 +31,7 @@ private = false
 pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
-updated_within = "year"
+updated_within = "week"
 visibility = "public"
 watchers_within = 10
 
