@@ -4,5 +4,4 @@ git_branch = "main"
 git_url = "git://github.com/18F/identity-idva-orchestration.git"
 last_pushed_within = "week"
 name = "identity-idva-orchestration"
-open_issues_within = 10
 organization_name = "18F"
