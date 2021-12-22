@@ -24,9 +24,9 @@ is_template = false
 language = "Go"
 name = "identity-idva-cf-metrics"
 node_id = "MDEwOlJlcG9zaXRvcnkzNzE3NDg5NDY="
-open_issues_within = 0
+open_issues_within = 10
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
 updated_within = "month"
