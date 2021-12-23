@@ -21,15 +21,15 @@ has_projects = true
 has_wiki = true
 id = 238_632_429
 is_template = false
-language = "JavaScript"
+language = "TypeScript"
 name = "sdvv-backend"
 node_id = "MDEwOlJlcG9zaXRvcnkyMzg2MzI0Mjk="
-open_issues_within = 10
+open_issues_within = 0
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 0
 topics = [ ]
-updated_within = "year"
+updated_within = "week"
 visibility = "public"
 watchers_within = 0
 
