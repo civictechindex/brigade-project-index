@@ -27,12 +27,12 @@ is_template = false
 language = "JavaScript"
 name = "speedlify-cfa"
 node_id = "MDEwOlJlcG9zaXRvcnkyOTg1Mzg0OTc="
-open_issues_within = 10
+open_issues_within = 0
 private = false
 pushed_within = "week"
 stargazers_within = 10
 topics = [ "a11y", "netlify", "performance", "speedlify" ]
-updated_within = "year"
+updated_within = "week"
 visibility = "public"
 watchers_within = 10
 
