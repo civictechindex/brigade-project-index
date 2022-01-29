@@ -27,12 +27,12 @@ is_template = false
 language = "JavaScript"
 name = "inclucivics"
 node_id = "MDEwOlJlcG9zaXRvcnkyNzA1NDEwMw=="
-open_issues_within = 10
+open_issues_within = 100
 private = false
-pushed_within = "year"
+pushed_within = "month"
 stargazers_within = 100
 topics = [ "civic-tech", "data-viz", "diversity-measurement" ]
-updated_within = "month"
+updated_within = "year"
 visibility = "public"
 watchers_within = 100
 
