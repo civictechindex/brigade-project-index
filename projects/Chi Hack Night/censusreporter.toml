@@ -22,11 +22,11 @@ id = 10_183_514
 is_template = false
 language = "HTML"
 name = "censusreporter"
-network_count = 128
+network_count = 130
 node_id = "MDEwOlJlcG9zaXRvcnkxMDE4MzUxNA=="
 open_issues_within = 100
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 1_000
 subscribers_count = 40
 temp_clone_token = ""

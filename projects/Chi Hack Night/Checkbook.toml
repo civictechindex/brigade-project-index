@@ -26,12 +26,12 @@ network_count = 17
 node_id = "MDEwOlJlcG9zaXRvcnk5NDgwMTc3"
 open_issues_within = 100
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 100
 subscribers_count = 19
 temp_clone_token = ""
 topics = [ "checkbook-nyc", "comptroller-nyc-gov" ]
-updated_within = "year"
+updated_within = "month"
 visibility = "public"
 watchers_within = 100
 
