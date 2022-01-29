@@ -1,37 +1,36 @@
-code_url = "https://github.com/CodeandoMexico/mexico-creativo"
-git_url = "git://github.com/CodeandoMexico/mexico-creativo.git"
-link_url = "http://resonancias.cultura.gob.mx/"
-name = "mexico-creativo"
+code_url = "https://github.com/CodeandoMexico/socorro"
+git_url = "git://github.com/CodeandoMexico/socorro.git"
+link_url = "http://github.codeandomexico.org/socorro/"
+name = "socorro"
 organization_name = "Codeando México"
 
 [github]
 allow_forking = true
 archived = false
-created_at = "2020-11-18T16:23:15Z"
+created_at = "2022-01-20T17:01:23Z"
 default_branch = "main"
 disabled = false
 fork = false
 forks_within = 0
-full_name = "CodeandoMexico/mexico-creativo"
+full_name = "CodeandoMexico/socorro"
 has_downloads = true
 has_issues = true
-has_pages = false
+has_pages = true
 has_projects = true
 has_wiki = true
-homepage = "http://resonancias.cultura.gob.mx/"
-id = 313_991_272
+homepage = "http://github.codeandomexico.org/socorro/"
+id = 450_184_523
 is_template = false
-language = "Vue"
-name = "mexico-creativo"
-node_id = "MDEwOlJlcG9zaXRvcnkzMTM5OTEyNzI="
-open_issues_within = 0
+name = "socorro"
+node_id = "R_kgDOGtVFSw"
+open_issues_within = 10
 private = false
-pushed_within = "month"
-stargazers_within = 0
+pushed_within = "week"
+stargazers_within = 10
 topics = [ ]
 updated_within = "week"
 visibility = "public"
-watchers_within = 0
+watchers_within = 10
 
   [github.owner]
   gravatar_id = ""
