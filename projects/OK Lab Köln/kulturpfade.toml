@@ -1,0 +1,48 @@
+code_url = "https://github.com/codeforcologne/kulturpfade"
+description = "Projekt für die Kulturpfade"
+git_url = "git://github.com/codeforcologne/kulturpfade.git"
+name = "kulturpfade"
+organization_name = "OK Lab Köln"
+
+[github]
+allow_forking = true
+archived = false
+created_at = "2022-01-06T05:18:44Z"
+default_branch = "main"
+description = "Projekt für die Kulturpfade"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "codeforcologne/kulturpfade"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+id = 445_049_758
+is_template = false
+name = "kulturpfade"
+node_id = "R_kgDOGobrng"
+open_issues_within = 0
+private = false
+pushed_within = "month"
+stargazers_within = 0
+topics = [ ]
+updated_within = "month"
+visibility = "public"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 14_066_251
+  login = "codeforcologne"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE0MDY2MjUx"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  maintain = false
+  pull = true
+  push = false
+  triage = false

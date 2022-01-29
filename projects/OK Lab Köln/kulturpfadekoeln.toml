@@ -1,0 +1,50 @@
+code_url = "https://github.com/codeforcologne/kulturpfadekoeln"
+description = "Interaktive Karte der Kulturpfade in Köln"
+git_url = "git://github.com/codeforcologne/kulturpfadekoeln.git"
+link_url = "https://chfinke.github.io/kulturpfadekoeln/index.html"
+name = "kulturpfadekoeln"
+organization_name = "OK Lab Köln"
+
+[github]
+allow_forking = true
+archived = false
+created_at = "2022-01-08T13:54:00Z"
+default_branch = "master"
+description = "Interaktive Karte der Kulturpfade in Köln"
+disabled = false
+fork = true
+forks_within = 0
+full_name = "codeforcologne/kulturpfadekoeln"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "https://chfinke.github.io/kulturpfadekoeln/index.html"
+id = 445_833_063
+is_template = false
+name = "kulturpfadekoeln"
+node_id = "R_kgDOGpLfZw"
+open_issues_within = 0
+private = false
+pushed_within = "year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "week"
+visibility = "public"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 14_066_251
+  login = "codeforcologne"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE0MDY2MjUx"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  maintain = false
+  pull = true
+  push = false
+  triage = false
