@@ -77,12 +77,12 @@ watchers_within = 0
   language = "Python"
   name = "seed"
   node_id = "MDEwOlJlcG9zaXRvcnkyNTQ1MDcxNA=="
-  open_issues_within = 100
+  open_issues_within = 1_000
   private = false
   pushed_within = "week"
   stargazers_within = 100
   topics = [ "buildings", "commercial", "energy" ]
-  updated_within = "week"
+  updated_within = "month"
   visibility = "public"
   watchers_within = 100
 
@@ -128,12 +128,12 @@ watchers_within = 0
   language = "Python"
   name = "seed"
   node_id = "MDEwOlJlcG9zaXRvcnkyNTQ1MDcxNA=="
-  open_issues_within = 100
+  open_issues_within = 1_000
   private = false
   pushed_within = "week"
   stargazers_within = 100
   topics = [ "buildings", "commercial", "energy" ]
-  updated_within = "week"
+  updated_within = "month"
   visibility = "public"
   watchers_within = 100
 
