@@ -1,41 +1,35 @@
-code_url = "https://github.com/codeforkansascity/locale-kc"
-git_url = "git://github.com/codeforkansascity/locale-kc.git"
-name = "locale-kc"
+code_url = "https://github.com/codeforkansascity/DedupeSQSReaderService"
+git_url = "git://github.com/codeforkansascity/DedupeSQSReaderService.git"
+name = "DedupeSQSReaderService"
 organization_name = "KC Digital Drive"
 
 [github]
 allow_forking = true
 archived = false
-created_at = "2018-09-27T19:30:05Z"
-default_branch = "master"
+created_at = "2022-01-17T15:22:42Z"
+default_branch = "main"
 disabled = false
 fork = false
 forks_within = 0
-full_name = "codeforkansascity/locale-kc"
+full_name = "codeforkansascity/DedupeSQSReaderService"
 has_downloads = true
 has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = true
-id = 150_637_858
+id = 448_946_242
 is_template = false
-language = "JavaScript"
-name = "locale-kc"
-node_id = "MDEwOlJlcG9zaXRvcnkxNTA2Mzc4NTg="
-open_issues_within = 100
+language = "C#"
+name = "DedupeSQSReaderService"
+node_id = "R_kgDOGsJgQg"
+open_issues_within = 0
 private = false
 pushed_within = "month"
 stargazers_within = 0
 topics = [ ]
-updated_within = "over_a_year"
+updated_within = "month"
 visibility = "public"
 watchers_within = 0
-
-  [github.license]
-  key = "mit"
-  name = "MIT License"
-  node_id = "MDc6TGljZW5zZTEz"
-  spdx_id = "MIT"
 
   [github.owner]
   gravatar_id = ""
