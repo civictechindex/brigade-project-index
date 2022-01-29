@@ -1,39 +1,37 @@
-code_url = "https://github.com/codeforamerica/court.atlantaga.gov"
-description = "Atlanta's official court website. "
-git_url = "git://github.com/codeforamerica/court.atlantaga.gov.git"
-link_url = "http://court.atlantaga.gov/"
-name = "court.atlantaga.gov"
+code_url = "https://github.com/codeforamerica/shiba-colorado"
+description = "spike - trying to use SHIBA to recreate the Colorado Change Reporting flow"
+git_url = "git://github.com/codeforamerica/shiba-colorado.git"
+name = "shiba-colorado"
 organization_name = "Code for America"
 
 [github]
 allow_forking = true
 archived = false
-created_at = "2014-02-19T01:12:47Z"
-default_branch = "gh-pages"
-description = "Atlanta's official court website. "
+created_at = "2022-01-04T22:10:36Z"
+default_branch = "main"
+description = "spike - trying to use SHIBA to recreate the Colorado Change Reporting flow"
 disabled = false
 fork = false
-forks_within = 100
-full_name = "codeforamerica/court.atlantaga.gov"
+forks_within = 0
+full_name = "codeforamerica/shiba-colorado"
 has_downloads = true
 has_issues = true
-has_pages = true
+has_pages = false
 has_projects = true
 has_wiki = true
-homepage = "http://court.atlantaga.gov/"
-id = 16_969_900
+id = 444_578_003
 is_template = false
-language = "HTML"
-name = "court.atlantaga.gov"
-node_id = "MDEwOlJlcG9zaXRvcnkxNjk2OTkwMA=="
+language = "Java"
+name = "shiba-colorado"
+node_id = "R_kgDOGn-40w"
 open_issues_within = 10
 private = false
-pushed_within = "over_a_year"
-stargazers_within = 100
+pushed_within = "week"
+stargazers_within = 0
 topics = [ ]
 updated_within = "month"
 visibility = "public"
-watchers_within = 100
+watchers_within = 0
 
   [github.license]
   key = "other"
