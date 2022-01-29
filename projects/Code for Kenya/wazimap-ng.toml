@@ -1,13 +1,16 @@
 code_url = "https://github.com/CodeForAfrica/wazimap-ng"
+description = "Backend for Wazimap-NG. See also https://github.com/OpenUpSA/wazimap-ng-ui/"
 git_url = "git://github.com/CodeForAfrica/wazimap-ng.git"
+link_url = "https://geo.vulekamali.gov.za/"
 name = "wazimap-ng"
 organization_name = "Code for Kenya"
 
 [github]
 allow_forking = true
 archived = false
-created_at = "2021-01-11T15:13:24Z"
+created_at = "2022-01-11T11:05:15Z"
 default_branch = "staging"
+description = "Backend for Wazimap-NG. See also https://github.com/OpenUpSA/wazimap-ng-ui/"
 disabled = false
 fork = true
 forks_within = 0
@@ -17,17 +20,18 @@ has_issues = false
 has_pages = false
 has_projects = true
 has_wiki = true
-id = 328_703_561
+homepage = "https://geo.vulekamali.gov.za/"
+id = 446_786_883
 is_template = false
 language = "Python"
 name = "wazimap-ng"
-node_id = "MDEwOlJlcG9zaXRvcnkzMjg3MDM1NjE="
-open_issues_within = 10
+node_id = "R_kgDOGqFtQw"
+open_issues_within = 0
 private = false
-pushed_within = "year"
+pushed_within = "month"
 stargazers_within = 0
 topics = [ ]
-updated_within = "year"
+updated_within = "month"
 visibility = "public"
 watchers_within = 0
 
