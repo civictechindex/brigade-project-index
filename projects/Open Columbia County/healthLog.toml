@@ -1,37 +1,47 @@
-code_url = "https://github.com/Open-Columbia-County/occ-django"
-description = "Open Columbia County Main site built in Django"
-git_url = "git://github.com/Open-Columbia-County/occ-django.git"
-link_url = "https://opencolumbiaco.org/"
-name = "occ-django"
+code_url = "https://github.com/Open-Columbia-County/healthLog"
+description = "Mental Well-being Log"
+git_url = "git://github.com/Open-Columbia-County/healthLog.git"
+link_url = "https://healthlog.opencolumbiaco.org/"
+name = "healthLog"
 organization_name = "Open Columbia County"
-topics = [ "code-for-america", "open-columbia-county" ]
+topics = [
+  "brigade",
+  "code-for-america",
+  "open-columbia-co",
+  "open-columbia-county"
+]
 
 [github]
 allow_forking = true
 archived = false
-created_at = "2021-07-01T10:41:51Z"
+created_at = "2022-01-24T07:16:03Z"
 default_branch = "main"
-description = "Open Columbia County Main site built in Django"
+description = "Mental Well-being Log"
 disabled = false
-fork = false
+fork = true
 forks_within = 0
-full_name = "Open-Columbia-County/occ-django"
+full_name = "Open-Columbia-County/healthLog"
 has_downloads = true
-has_issues = true
+has_issues = false
 has_pages = false
 has_projects = true
 has_wiki = true
-homepage = "https://opencolumbiaco.org/"
-id = 381_998_600
+homepage = "https://healthlog.opencolumbiaco.org/"
+id = 451_355_937
 is_template = false
 language = "HTML"
-name = "occ-django"
-node_id = "MDEwOlJlcG9zaXRvcnkzODE5OTg2MDA="
+name = "healthLog"
+node_id = "R_kgDOGuclIQ"
 open_issues_within = 0
 private = false
 pushed_within = "week"
 stargazers_within = 0
-topics = [ "code-for-america", "open-columbia-county" ]
+topics = [
+  "brigade",
+  "code-for-america",
+  "open-columbia-co",
+  "open-columbia-county"
+]
 updated_within = "week"
 visibility = "public"
 watchers_within = 0
