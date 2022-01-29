@@ -12,7 +12,7 @@ default_branch = "master"
 description = "The good governance project (GGP) is a non-partisan democracy reform group."
 disabled = false
 fork = false
-forks_within = 10
+forks_within = 100
 full_name = "codeforboston/advocacy-maps"
 has_downloads = true
 has_issues = true
@@ -25,12 +25,12 @@ is_template = false
 language = "JavaScript"
 name = "advocacy-maps"
 node_id = "MDEwOlJlcG9zaXRvcnkzMjY0NDk0NTg="
-open_issues_within = 100
+open_issues_within = 10
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
-updated_within = "year"
+updated_within = "week"
 visibility = "public"
 watchers_within = 10
 
