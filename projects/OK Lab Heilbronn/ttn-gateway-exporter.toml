@@ -1,42 +1,43 @@
-code_url = "https://github.com/opendata-heilbronn/rc3-world-map"
-description = "rc3 world map for the Unterland assembly"
-git_url = "git://github.com/opendata-heilbronn/rc3-world-map.git"
-name = "rc3-world-map"
+code_url = "https://github.com/opendata-heilbronn/ttn-gateway-exporter"
+description = "Exports The Things Network gateway status as Prometheus metrics"
+git_url = "git://github.com/opendata-heilbronn/ttn-gateway-exporter.git"
+name = "ttn-gateway-exporter"
 organization_name = "OK Lab Heilbronn"
 
 [github]
 allow_forking = true
 archived = false
-created_at = "2020-11-18T19:10:56Z"
+created_at = "2022-01-08T15:45:25Z"
 default_branch = "main"
-description = "rc3 world map for the Unterland assembly"
+description = "Exports The Things Network gateway status as Prometheus metrics"
 disabled = false
 fork = false
 forks_within = 0
-full_name = "opendata-heilbronn/rc3-world-map"
+full_name = "opendata-heilbronn/ttn-gateway-exporter"
 has_downloads = true
 has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = true
-id = 314_032_680
+id = 445_860_230
 is_template = false
-name = "rc3-world-map"
-node_id = "MDEwOlJlcG9zaXRvcnkzMTQwMzI2ODA="
+language = "Go"
+name = "ttn-gateway-exporter"
+node_id = "R_kgDOGpNJhg"
 open_issues_within = 0
 private = false
-pushed_within = "over_a_year"
+pushed_within = "month"
 stargazers_within = 0
 topics = [ ]
-updated_within = "over_a_year"
+updated_within = "month"
 visibility = "public"
 watchers_within = 0
 
   [github.license]
-  key = "apache-2.0"
-  name = "Apache License 2.0"
-  node_id = "MDc6TGljZW5zZTI="
-  spdx_id = "Apache-2.0"
+  key = "agpl-3.0"
+  name = "GNU Affero General Public License v3.0"
+  node_id = "MDc6TGljZW5zZTE="
+  spdx_id = "AGPL-3.0"
 
   [github.owner]
   gravatar_id = ""

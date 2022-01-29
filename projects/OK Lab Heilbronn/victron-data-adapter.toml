@@ -1,5 +1,5 @@
 code_url = "https://github.com/opendata-heilbronn/victron-data-adapter"
-description = ".NET Core Adapter to forward the streaming data from a Victron solar charge controller to a InfluxDB"
+description = ".NET Standard implementation of the protocols (Text and Hex) used by Victron Solar Charge Controllers (BlueSolar/SmartSolar) + Adapter to write streaming data from a Victron solar charge controller to InfluxDB."
 git_url = "git://github.com/opendata-heilbronn/victron-data-adapter.git"
 name = "victron-data-adapter"
 organization_name = "OK Lab Heilbronn"
@@ -17,7 +17,7 @@ allow_forking = true
 archived = false
 created_at = "2019-01-01T20:33:00Z"
 default_branch = "master"
-description = ".NET Core Adapter to forward the streaming data from a Victron solar charge controller to a InfluxDB"
+description = ".NET Standard implementation of the protocols (Text and Hex) used by Victron Solar Charge Controllers (BlueSolar/SmartSolar) + Adapter to write streaming data from a Victron solar charge controller to InfluxDB."
 disabled = false
 fork = false
 forks_within = 0
@@ -27,6 +27,7 @@ has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = true
+homepage = ""
 id = 163_764_666
 is_template = false
 language = "C#"
@@ -34,7 +35,7 @@ name = "victron-data-adapter"
 node_id = "MDEwOlJlcG9zaXRvcnkxNjM3NjQ2NjY="
 open_issues_within = 0
 private = false
-pushed_within = "over_a_year"
+pushed_within = "month"
 stargazers_within = 0
 topics = [
   "docker",
@@ -44,7 +45,7 @@ topics = [
   "ve-direct",
   "victron"
 ]
-updated_within = "over_a_year"
+updated_within = "month"
 visibility = "public"
 watchers_within = 0
 
