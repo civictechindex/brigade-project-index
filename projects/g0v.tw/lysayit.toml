@@ -1,39 +1,35 @@
-code_url = "https://github.com/g0v/g0v.tw"
-description = "g0v.tw site"
-git_url = "git://github.com/g0v/g0v.tw.git"
-link_url = "g0v.tw"
-name = "g0v.tw"
+code_url = "https://github.com/g0v/lysayit"
+git_url = "git://github.com/g0v/lysayit.git"
+name = "lysayit"
 organization_name = "g0v.tw"
 
 [github]
 allow_forking = true
 archived = false
-created_at = "2013-01-19T14:48:13Z"
-default_branch = "master"
-description = "g0v.tw site"
+created_at = "2021-12-01T09:51:29Z"
+default_branch = "gh-pages"
 disabled = false
 fork = false
-forks_within = 100
-full_name = "g0v/g0v.tw"
+forks_within = 10
+full_name = "g0v/lysayit"
 has_downloads = true
 has_issues = true
 has_pages = true
 has_projects = true
 has_wiki = true
-homepage = "g0v.tw"
-id = 7_704_312
+id = 433_769_534
 is_template = false
-language = "Pug"
-name = "g0v.tw"
-node_id = "MDEwOlJlcG9zaXRvcnk3NzA0MzEy"
-open_issues_within = 100
+language = "HTML"
+name = "lysayit"
+node_id = "R_kgDOGdrMPg"
+open_issues_within = 0
 private = false
 pushed_within = "month"
-stargazers_within = 1_000
+stargazers_within = 10
 topics = [ ]
 updated_within = "month"
 visibility = "public"
-watchers_within = 1_000
+watchers_within = 10
 
   [github.owner]
   gravatar_id = ""
