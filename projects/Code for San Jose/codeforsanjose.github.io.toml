@@ -38,8 +38,8 @@ name = "codeforsanjose.github.io"
 node_id = "MDEwOlJlcG9zaXRvcnkyNDgzNTYwNg=="
 open_issues_within = 10
 private = false
-pushed_within = "year"
-stargazers_within = 100
+pushed_within = "month"
+stargazers_within = 10
 topics = [
   "brigade",
   "code-for-america",
@@ -50,9 +50,9 @@ topics = [
   "sass",
   "website"
 ]
-updated_within = "year"
+updated_within = "week"
 visibility = "public"
-watchers_within = 100
+watchers_within = 10
 
   [github.license]
   key = "gpl-3.0"
