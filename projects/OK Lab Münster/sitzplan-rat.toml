@@ -1,9 +1,17 @@
 code_url = "https://github.com/codeformuenster/sitzplan-rat"
 description = "Der Sitzplan der Sitzungen des Rats Münster als Webseite"
 git_url = "git://github.com/codeformuenster/sitzplan-rat.git"
-link_url = "https://rat-muenster.netlify.com/"
+link_url = "http://sitzplan.rat-muenster.de/"
 name = "sitzplan-rat"
 organization_name = "OK Lab Münster"
+topics = [
+  "city-council",
+  "kommunalpolitik",
+  "muenster",
+  "oparl",
+  "opendata",
+  "politics"
+]
 
 [github]
 allow_forking = true
@@ -20,7 +28,7 @@ has_issues = true
 has_pages = true
 has_projects = true
 has_wiki = true
-homepage = "https://rat-muenster.netlify.com/"
+homepage = "http://sitzplan.rat-muenster.de/"
 id = 163_442_619
 is_template = false
 language = "HTML"
@@ -28,10 +36,17 @@ name = "sitzplan-rat"
 node_id = "MDEwOlJlcG9zaXRvcnkxNjM0NDI2MTk="
 open_issues_within = 0
 private = false
-pushed_within = "week"
+pushed_within = "month"
 stargazers_within = 10
-topics = [ ]
-updated_within = "week"
+topics = [
+  "city-council",
+  "kommunalpolitik",
+  "muenster",
+  "oparl",
+  "opendata",
+  "politics"
+]
+updated_within = "month"
 visibility = "public"
 watchers_within = 10
 
