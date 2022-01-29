@@ -1,31 +1,30 @@
-code_url = "https://github.com/mysociety/packaging"
-description = "mySociety Debian Package builds"
-git_url = "git://github.com/mysociety/packaging.git"
-link_url = "https://www.mysociety.org/"
-name = "packaging"
+code_url = "https://github.com/mysociety/puppet-redis"
+description = "Puppet Module to manage Redis"
+git_url = "git://github.com/mysociety/puppet-redis.git"
+link_url = "https://forge.puppet.com/puppet/redis"
+name = "puppet-redis"
 organization_name = "mySociety"
 
 [github]
 allow_forking = true
 archived = false
-created_at = "2021-02-25T14:56:02Z"
+created_at = "2022-01-13T10:16:34Z"
 default_branch = "master"
-description = "mySociety Debian Package builds"
+description = "Puppet Module to manage Redis"
 disabled = false
-fork = false
+fork = true
 forks_within = 0
-full_name = "mysociety/packaging"
+full_name = "mysociety/puppet-redis"
 has_downloads = true
-has_issues = true
+has_issues = false
 has_pages = false
 has_projects = true
-has_wiki = true
-homepage = "https://www.mysociety.org/"
-id = 342_279_587
+has_wiki = false
+homepage = "https://forge.puppet.com/puppet/redis"
+id = 447_553_084
 is_template = false
-language = "Jinja"
-name = "packaging"
-node_id = "MDEwOlJlcG9zaXRvcnkzNDIyNzk1ODc="
+name = "puppet-redis"
+node_id = "R_kgDOGq0ePA"
 open_issues_within = 0
 private = false
 pushed_within = "year"
@@ -34,6 +33,12 @@ topics = [ ]
 updated_within = "year"
 visibility = "public"
 watchers_within = 0
+
+  [github.license]
+  key = "apache-2.0"
+  name = "Apache License 2.0"
+  node_id = "MDc6TGljZW5zZTI="
+  spdx_id = "Apache-2.0"
 
   [github.owner]
   gravatar_id = ""

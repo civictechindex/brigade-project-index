@@ -1,37 +1,35 @@
-code_url = "https://github.com/mysociety/packaging"
-description = "mySociety Debian Package builds"
-git_url = "git://github.com/mysociety/packaging.git"
-link_url = "https://www.mysociety.org/"
-name = "packaging"
+code_url = "https://github.com/mysociety/notebook-auto-template"
+description = "Template to create new notebook"
+git_url = "git://github.com/mysociety/notebook-auto-template.git"
+name = "notebook-auto-template"
 organization_name = "mySociety"
 
 [github]
 allow_forking = true
 archived = false
-created_at = "2021-02-25T14:56:02Z"
-default_branch = "master"
-description = "mySociety Debian Package builds"
+created_at = "2021-09-08T16:36:41Z"
+default_branch = "main"
+description = "Template to create new notebook"
 disabled = false
 fork = false
 forks_within = 0
-full_name = "mysociety/packaging"
+full_name = "mysociety/notebook-auto-template"
 has_downloads = true
 has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = true
-homepage = "https://www.mysociety.org/"
-id = 342_279_587
-is_template = false
-language = "Jinja"
-name = "packaging"
-node_id = "MDEwOlJlcG9zaXRvcnkzNDIyNzk1ODc="
+homepage = ""
+id = 404_421_402
+is_template = true
+name = "notebook-auto-template"
+node_id = "MDEwOlJlcG9zaXRvcnk0MDQ0MjE0MDI="
 open_issues_within = 0
 private = false
 pushed_within = "year"
 stargazers_within = 0
 topics = [ ]
-updated_within = "year"
+updated_within = "week"
 visibility = "public"
 watchers_within = 0
 

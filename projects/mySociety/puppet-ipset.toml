@@ -23,14 +23,15 @@ has_wiki = true
 homepage = "https://forge.puppet.com/puppet/ipset"
 id = 244_882_615
 is_template = false
+language = "Ruby"
 name = "puppet-ipset"
 node_id = "MDEwOlJlcG9zaXRvcnkyNDQ4ODI2MTU="
 open_issues_within = 0
 private = false
-pushed_within = "over_a_year"
+pushed_within = "month"
 stargazers_within = 0
 topics = [ ]
-updated_within = "over_a_year"
+updated_within = "month"
 visibility = "public"
 watchers_within = 0
 
