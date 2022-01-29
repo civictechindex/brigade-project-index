@@ -18,7 +18,7 @@ topics = [
 allow_forking = true
 archived = false
 created_at = "2019-08-16T06:50:27Z"
-default_branch = "master"
+default_branch = "main"
 description = "A bot that debunks claims shared on social media by sharing a fact check. Powered by Google Sheets and the rains in Africa. Accessible at https://debunkbot.codeforafrica.org/"
 disabled = false
 fork = false
@@ -48,7 +48,7 @@ topics = [
   "python",
   "socialmedia"
 ]
-updated_within = "week"
+updated_within = "month"
 visibility = "public"
 watchers_within = 10
 
