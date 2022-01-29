@@ -34,7 +34,7 @@ name = "codefordenver-scout"
 node_id = "MDEwOlJlcG9zaXRvcnkxODQxNzY5NzY="
 open_issues_within = 100
 private = false
-pushed_within = "year"
+pushed_within = "over_a_year"
 stargazers_within = 10
 topics = [
   "bot",
@@ -43,7 +43,7 @@ topics = [
   "code-for-denver",
   "discord"
 ]
-updated_within = "year"
+updated_within = "over_a_year"
 visibility = "public"
 watchers_within = 10
 
