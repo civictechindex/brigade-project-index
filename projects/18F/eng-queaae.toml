@@ -1,41 +1,36 @@
-code_url = "https://github.com/18F/identity-idva-metrics"
-git_url = "git://github.com/18F/identity-idva-metrics.git"
-name = "identity-idva-metrics"
+code_url = "https://github.com/18F/eng-queaae"
+description = "Repository for 18F Engineering's (soon to be renamed) \"QUEAAE\" cohort."
+git_url = "git://github.com/18F/eng-queaae.git"
+name = "eng-queaae"
 organization_name = "18F"
 
 [github]
 allow_forking = true
 archived = false
-created_at = "2021-11-01T08:49:07Z"
+created_at = "2022-01-10T18:45:54Z"
 default_branch = "main"
+description = "Repository for 18F Engineering's (soon to be renamed) \"QUEAAE\" cohort."
 disabled = false
 fork = false
-forks_within = 10
-full_name = "18F/identity-idva-metrics"
+forks_within = 0
+full_name = "18F/eng-queaae"
 has_downloads = true
 has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = true
-id = 423_396_082
+id = 446_543_097
 is_template = false
-language = "Shell"
-name = "identity-idva-metrics"
-node_id = "R_kgDOGTyC8g"
+name = "eng-queaae"
+node_id = "R_kgDOGp20-Q"
 open_issues_within = 0
 private = false
-pushed_within = "year"
+pushed_within = "month"
 stargazers_within = 0
 topics = [ ]
-updated_within = "year"
+updated_within = "month"
 visibility = "public"
 watchers_within = 0
-
-  [github.license]
-  key = "other"
-  name = "Other"
-  node_id = "MDc6TGljZW5zZTA="
-  spdx_id = "NOASSERTION"
 
   [github.owner]
   gravatar_id = ""
