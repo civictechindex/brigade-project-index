@@ -40,7 +40,7 @@ name = "HURUmap-UI"
 node_id = "MDEwOlJlcG9zaXRvcnkxOTQwNTM4ODc="
 open_issues_within = 10
 private = false
-pushed_within = "year"
+pushed_within = "month"
 stargazers_within = 10
 topics = [
   "charts",
@@ -54,7 +54,7 @@ topics = [
   "reactjs",
   "storybook"
 ]
-updated_within = "year"
+updated_within = "month"
 visibility = "public"
 watchers_within = 10
 
