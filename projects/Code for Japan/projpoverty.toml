@@ -1,37 +1,37 @@
-code_url = "https://github.com/codeforjapan/stopcovid19"
-description = "StopCovid19 全国版 dashboard"
-git_url = "git://github.com/codeforjapan/stopcovid19.git"
-link_url = "https://stopcovid19.code4japan.org/"
-name = "stopcovid19"
+code_url = "https://github.com/codeforjapan/projpoverty"
+description = "包摂研究会（proj-poverty）の Githubです"
+git_url = "git://github.com/codeforjapan/projpoverty.git"
+link_url = "https://codeforjapan.github.io/projpoverty/"
+name = "projpoverty"
 organization_name = "Code for Japan"
 
 [github]
 allow_forking = true
 archived = false
-created_at = "2020-03-16T02:30:52Z"
-default_branch = "master"
-description = "StopCovid19 全国版 dashboard"
+created_at = "2021-11-18T07:01:15Z"
+default_branch = "gh-pages"
+description = "包摂研究会（proj-poverty）の Githubです"
 disabled = false
 fork = false
 forks_within = 10
-full_name = "codeforjapan/stopcovid19"
+full_name = "codeforjapan/projpoverty"
 has_downloads = true
 has_issues = true
-has_pages = false
+has_pages = true
 has_projects = true
 has_wiki = true
-homepage = "https://stopcovid19.code4japan.org/"
-id = 247_593_216
+homepage = "https://codeforjapan.github.io/projpoverty/"
+id = 429_328_633
 is_template = false
-language = "Vue"
-name = "stopcovid19"
-node_id = "MDEwOlJlcG9zaXRvcnkyNDc1OTMyMTY="
-open_issues_within = 100
+language = "SCSS"
+name = "projpoverty"
+node_id = "R_kgDOGZcI-Q"
+open_issues_within = 10
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
-updated_within = "year"
+updated_within = "week"
 visibility = "public"
 watchers_within = 10
 
