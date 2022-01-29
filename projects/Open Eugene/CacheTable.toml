@@ -21,14 +21,15 @@ has_projects = true
 has_wiki = true
 id = 319_170_433
 is_template = false
+language = "C#"
 name = "CacheTable"
 node_id = "MDEwOlJlcG9zaXRvcnkzMTkxNzA0MzM="
 open_issues_within = 0
 private = false
-pushed_within = "over_a_year"
+pushed_within = "year"
 stargazers_within = 0
 topics = [ ]
-updated_within = "over_a_year"
+updated_within = "year"
 visibility = "public"
 watchers_within = 0
 
