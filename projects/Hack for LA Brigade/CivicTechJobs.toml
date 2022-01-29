@@ -1,51 +1,48 @@
-code_url = "https://github.com/hackforla/civic-tech-structure"
-description = "A place for tools to create/maintain civic tech organizations"
-git_url = "git://github.com/hackforla/civic-tech-structure.git"
-name = "civic-tech-structure"
+code_url = "https://github.com/hackforla/CivicTechJobs"
+git_url = "git://github.com/hackforla/CivicTechJobs.git"
+name = "CivicTechJobs"
 organization_name = "Hack for LA Brigade"
 topics = [
-  "civic-tech",
   "civictechindex",
   "code-for-all",
   "code-for-america",
   "hack-for-la",
-  "structure"
+  "volunteer-opportunities"
 ]
 
 [github]
 allow_forking = true
 archived = false
-created_at = "2020-09-08T19:25:21Z"
+created_at = "2020-09-22T00:19:51Z"
 default_branch = "main"
-description = "A place for tools to create/maintain civic tech organizations"
 disabled = false
 fork = false
 forks_within = 10
-full_name = "hackforla/civic-tech-structure"
+full_name = "hackforla/CivicTechJobs"
 has_downloads = true
 has_issues = true
 has_pages = true
 has_projects = true
 has_wiki = true
 homepage = ""
-id = 293_907_049
+id = 297_491_982
 is_template = false
-name = "civic-tech-structure"
-node_id = "MDEwOlJlcG9zaXRvcnkyOTM5MDcwNDk="
-open_issues_within = 10
+language = "JavaScript"
+name = "CivicTechJobs"
+node_id = "MDEwOlJlcG9zaXRvcnkyOTc0OTE5ODI="
+open_issues_within = 100
 private = false
-pushed_within = "year"
+pushed_within = "week"
 score = 1
 stargazers_within = 10
 topics = [
-  "civic-tech",
   "civictechindex",
   "code-for-all",
   "code-for-america",
   "hack-for-la",
-  "structure"
+  "volunteer-opportunities"
 ]
-updated_within = "year"
+updated_within = "week"
 visibility = "public"
 watchers_within = 10
 

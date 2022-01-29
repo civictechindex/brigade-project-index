@@ -33,7 +33,7 @@ name = ".github"
 node_id = "MDEwOlJlcG9zaXRvcnkxOTIyNzk4Mjg="
 open_issues_within = 10
 private = false
-pushed_within = "year"
+pushed_within = "over_a_year"
 score = 1
 stargazers_within = 10
 topics = [
@@ -43,7 +43,7 @@ topics = [
   "template",
   "wiki"
 ]
-updated_within = "year"
+updated_within = "over_a_year"
 visibility = "public"
 watchers_within = 10
 
