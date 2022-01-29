@@ -30,9 +30,15 @@ private = false
 pushed_within = "year"
 stargazers_within = 10
 topics = [ ]
-updated_within = "year"
+updated_within = "month"
 visibility = "public"
 watchers_within = 10
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
 
   [github.owner]
   gravatar_id = ""
