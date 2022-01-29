@@ -19,22 +19,17 @@ has_projects = true
 has_wiki = true
 id = 428_978_644
 is_template = false
+language = "JavaScript"
 name = "alex-client"
 node_id = "R_kgDOGZGx1A"
 open_issues_within = 0
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
-updated_within = "year"
+updated_within = "week"
 visibility = "public"
 watchers_within = 10
-
-  [github.license]
-  key = "mpl-2.0"
-  name = "Mozilla Public License 2.0"
-  node_id = "MDc6TGljZW5zZTE0"
-  spdx_id = "MPL-2.0"
 
   [github.owner]
   gravatar_id = ""
