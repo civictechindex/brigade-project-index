@@ -1,37 +1,36 @@
-code_url = "https://github.com/openelections/openelections-data-nv"
-description = "Converted CSVs of Nevada election results"
-git_url = "git://github.com/openelections/openelections-data-nv.git"
-name = "openelections-data-nv"
+code_url = "https://github.com/openelections/openelections-data-md"
+description = "Custom election results data for Maryland elections"
+git_url = "git://github.com/openelections/openelections-data-md.git"
+name = "openelections-data-md"
 organization_name = "Open Elections"
 
 [github]
 allow_forking = true
 archived = false
-created_at = "2014-12-26T19:48:16Z"
-default_branch = "master"
-description = "Converted CSVs of Nevada election results"
+created_at = "2022-01-09T22:12:42Z"
+default_branch = "main"
+description = "Custom election results data for Maryland elections"
 disabled = false
 fork = false
-forks_within = 10
-full_name = "openelections/openelections-data-nv"
+forks_within = 0
+full_name = "openelections/openelections-data-md"
 has_downloads = true
 has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = true
-id = 28_519_636
+id = 446_214_913
 is_template = false
-language = "Python"
-name = "openelections-data-nv"
-node_id = "MDEwOlJlcG9zaXRvcnkyODUxOTYzNg=="
-open_issues_within = 10
+name = "openelections-data-md"
+node_id = "R_kgDOGpizAQ"
+open_issues_within = 0
 private = false
-pushed_within = "year"
-stargazers_within = 10
+pushed_within = "month"
+stargazers_within = 0
 topics = [ ]
-updated_within = "year"
+updated_within = "month"
 visibility = "public"
-watchers_within = 10
+watchers_within = 0
 
   [github.license]
   key = "mit"
