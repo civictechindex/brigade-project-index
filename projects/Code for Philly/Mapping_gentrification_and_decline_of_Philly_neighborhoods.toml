@@ -1,10 +1,8 @@
 code_url = "https://github.com/jimRsmiley/phila-construction-permit-heatmap"
 description = "Mapping the change in construction permits over time to see if it indicates neighborhoods in change."
-git_branch = "master"
-last_pushed_within = "over_a_year"
+flags = [ "github_404" ]
 link_url = "http://constructionpermits.phl.io"
 name = "Mapping_gentrification_and_decline_of_Philly_neighborhoods"
-open_issues_within = 10
 organization_name = "Code for Philly"
 status = "Maintaining"
 topics = [ "Maps" ]

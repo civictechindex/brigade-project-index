@@ -1,0 +1,7 @@
+code_url = "https://github.com/codeforpdx/orion"
+description = "Fetches transit data (realtime vehicle locations) and saves it to S3"
+git_branch = "master"
+git_url = "git://github.com/codeforpdx/orion.git"
+last_pushed_within = "year"
+name = "orion"
+organization_name = "Code for PDX"

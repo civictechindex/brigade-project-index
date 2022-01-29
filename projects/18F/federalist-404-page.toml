@@ -1,0 +1,8 @@
+code_url = "https://github.com/18F/federalist-404-page"
+description = "Default 404 page for Federalist client websites"
+git_branch = "master"
+git_url = "git://github.com/18F/federalist-404-page.git"
+last_pushed_within = "month"
+name = "federalist-404-page"
+organization_name = "18F"
+topics = [ "federalist" ]

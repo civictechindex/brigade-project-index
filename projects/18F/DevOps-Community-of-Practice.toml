@@ -4,4 +4,5 @@ git_branch = "main"
 git_url = "git://github.com/18F/DevOps-Community-of-Practice.git"
 last_pushed_within = "over_a_year"
 name = "DevOps-Community-of-Practice"
+open_issues_within = 10
 organization_name = "18F"

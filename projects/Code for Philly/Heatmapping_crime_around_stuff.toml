@@ -1,7 +1,6 @@
 code_url = "https://github.com/jimRsmiley/septa-regional-rail-crime-heatmap"
 description = "Note: this project is heavy on data manipulation and coding."
-git_branch = "master"
-last_pushed_within = "over_a_year"
+flags = [ "github_404" ]
 link_url = "http://jimrsmiley.github.io/septa-regional-rail-crime-heatmap/"
 name = "Heatmapping_crime_around_stuff"
 organization_name = "Code for Philly"
