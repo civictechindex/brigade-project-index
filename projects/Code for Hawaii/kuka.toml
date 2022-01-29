@@ -21,15 +21,15 @@ has_projects = true
 has_wiki = true
 id = 285_471_007
 is_template = false
-language = "Java"
+language = "TypeScript"
 name = "kuka"
 node_id = "MDEwOlJlcG9zaXRvcnkyODU0NzEwMDc="
-open_issues_within = 100
+open_issues_within = 10
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
-updated_within = "year"
+updated_within = "month"
 visibility = "public"
 watchers_within = 10
 
