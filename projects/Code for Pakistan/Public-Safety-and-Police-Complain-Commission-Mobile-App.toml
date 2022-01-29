@@ -1,41 +1,35 @@
-code_url = "https://github.com/codeforpakistan/Livestock-lab-management-system"
-git_url = "git://github.com/codeforpakistan/Livestock-lab-management-system.git"
-name = "Livestock-lab-management-system"
+code_url = "https://github.com/codeforpakistan/Public-Safety-and-Police-Complain-Commission-Mobile-App"
+git_url = "git://github.com/codeforpakistan/Public-Safety-and-Police-Complain-Commission-Mobile-App.git"
+name = "Public-Safety-and-Police-Complain-Commission-Mobile-App"
 organization_name = "Code for Pakistan"
 
 [github]
 allow_forking = true
 archived = false
-created_at = "2020-12-09T10:44:32Z"
-default_branch = "main"
+created_at = "2022-01-20T08:12:25Z"
+default_branch = "master"
 disabled = false
 fork = false
 forks_within = 0
-full_name = "codeforpakistan/Livestock-lab-management-system"
+full_name = "codeforpakistan/Public-Safety-and-Police-Complain-Commission-Mobile-App"
 has_downloads = true
 has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = true
-id = 319_924_613
+id = 450_009_318
 is_template = false
-language = "HTML"
-name = "Livestock-lab-management-system"
-node_id = "MDEwOlJlcG9zaXRvcnkzMTk5MjQ2MTM="
+language = "Java"
+name = "Public-Safety-and-Police-Complain-Commission-Mobile-App"
+node_id = "R_kgDOGtKY5g"
 open_issues_within = 0
 private = false
-pushed_within = "over_a_year"
+pushed_within = "month"
 stargazers_within = 0
 topics = [ ]
-updated_within = "over_a_year"
+updated_within = "week"
 visibility = "public"
 watchers_within = 0
-
-  [github.license]
-  key = "mit"
-  name = "MIT License"
-  node_id = "MDc6TGljZW5zZTEz"
-  spdx_id = "MIT"
 
   [github.owner]
   gravatar_id = ""

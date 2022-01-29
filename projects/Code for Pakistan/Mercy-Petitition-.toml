@@ -19,7 +19,7 @@ has_projects = true
 has_wiki = true
 id = 430_566_600
 is_template = false
-language = "Less"
+language = "Blade"
 name = "Mercy-Petitition-"
 node_id = "R_kgDOGansyA"
 open_issues_within = 10
@@ -27,7 +27,7 @@ private = false
 pushed_within = "week"
 stargazers_within = 0
 topics = [ ]
-updated_within = "week"
+updated_within = "month"
 visibility = "public"
 watchers_within = 0
 

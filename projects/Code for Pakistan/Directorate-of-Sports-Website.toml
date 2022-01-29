@@ -1,41 +1,41 @@
-code_url = "https://github.com/codeforpakistan/Livestock-lab-management-system"
-git_url = "git://github.com/codeforpakistan/Livestock-lab-management-system.git"
-name = "Livestock-lab-management-system"
+code_url = "https://github.com/codeforpakistan/Directorate-of-Sports-Website"
+git_url = "git://github.com/codeforpakistan/Directorate-of-Sports-Website.git"
+name = "Directorate-of-Sports-Website"
 organization_name = "Code for Pakistan"
 
 [github]
 allow_forking = true
 archived = false
-created_at = "2020-12-09T10:44:32Z"
+created_at = "2022-01-20T09:01:03Z"
 default_branch = "main"
 disabled = false
 fork = false
 forks_within = 0
-full_name = "codeforpakistan/Livestock-lab-management-system"
+full_name = "codeforpakistan/Directorate-of-Sports-Website"
 has_downloads = true
 has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = true
-id = 319_924_613
+id = 450_023_992
 is_template = false
-language = "HTML"
-name = "Livestock-lab-management-system"
-node_id = "MDEwOlJlcG9zaXRvcnkzMTk5MjQ2MTM="
-open_issues_within = 0
+language = "PHP"
+name = "Directorate-of-Sports-Website"
+node_id = "R_kgDOGtLSOA"
+open_issues_within = 10
 private = false
-pushed_within = "over_a_year"
+pushed_within = "month"
 stargazers_within = 0
 topics = [ ]
-updated_within = "over_a_year"
+updated_within = "month"
 visibility = "public"
 watchers_within = 0
 
   [github.license]
-  key = "mit"
-  name = "MIT License"
-  node_id = "MDc6TGljZW5zZTEz"
-  spdx_id = "MIT"
+  key = "other"
+  name = "Other"
+  node_id = "MDc6TGljZW5zZTA="
+  spdx_id = "NOASSERTION"
 
   [github.owner]
   gravatar_id = ""

@@ -1,41 +1,40 @@
-code_url = "https://github.com/codeforpakistan/Livestock-lab-management-system"
-git_url = "git://github.com/codeforpakistan/Livestock-lab-management-system.git"
-name = "Livestock-lab-management-system"
+code_url = "https://github.com/codeforpakistan/Halal-Food-Authority-Website"
+git_url = "git://github.com/codeforpakistan/Halal-Food-Authority-Website.git"
+name = "Halal-Food-Authority-Website"
 organization_name = "Code for Pakistan"
 
 [github]
 allow_forking = true
 archived = false
-created_at = "2020-12-09T10:44:32Z"
+created_at = "2022-01-20T06:23:01Z"
 default_branch = "main"
 disabled = false
 fork = false
 forks_within = 0
-full_name = "codeforpakistan/Livestock-lab-management-system"
+full_name = "codeforpakistan/Halal-Food-Authority-Website"
 has_downloads = true
 has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = true
-id = 319_924_613
+id = 449_979_631
 is_template = false
-language = "HTML"
-name = "Livestock-lab-management-system"
-node_id = "MDEwOlJlcG9zaXRvcnkzMTk5MjQ2MTM="
+name = "Halal-Food-Authority-Website"
+node_id = "R_kgDOGtIk7w"
 open_issues_within = 0
 private = false
-pushed_within = "over_a_year"
+pushed_within = "month"
 stargazers_within = 0
 topics = [ ]
-updated_within = "over_a_year"
+updated_within = "month"
 visibility = "public"
 watchers_within = 0
 
   [github.license]
-  key = "mit"
-  name = "MIT License"
-  node_id = "MDc6TGljZW5zZTEz"
-  spdx_id = "MIT"
+  key = "gpl-3.0"
+  name = "GNU General Public License v3.0"
+  node_id = "MDc6TGljZW5zZTk="
+  spdx_id = "GPL-3.0"
 
   [github.owner]
   gravatar_id = ""

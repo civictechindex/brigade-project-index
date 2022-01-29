@@ -1,33 +1,35 @@
-code_url = "https://github.com/codeforpakistan/Livestock-lab-management-system"
-git_url = "git://github.com/codeforpakistan/Livestock-lab-management-system.git"
-name = "Livestock-lab-management-system"
+code_url = "https://github.com/codeforpakistan/HCAIs-Surveillance-Backend"
+description = "HCAIs Survelliance App's Web Dashboard and APIs"
+git_url = "git://github.com/codeforpakistan/HCAIs-Surveillance-Backend.git"
+name = "HCAIs-Surveillance-Backend"
 organization_name = "Code for Pakistan"
 
 [github]
 allow_forking = true
 archived = false
-created_at = "2020-12-09T10:44:32Z"
-default_branch = "main"
+created_at = "2022-01-12T08:04:46Z"
+default_branch = "master"
+description = "HCAIs Survelliance App's Web Dashboard and APIs"
 disabled = false
 fork = false
 forks_within = 0
-full_name = "codeforpakistan/Livestock-lab-management-system"
+full_name = "codeforpakistan/HCAIs-Surveillance-Backend"
 has_downloads = true
 has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = true
-id = 319_924_613
+id = 447_128_110
 is_template = false
-language = "HTML"
-name = "Livestock-lab-management-system"
-node_id = "MDEwOlJlcG9zaXRvcnkzMTk5MjQ2MTM="
-open_issues_within = 0
+language = "TypeScript"
+name = "HCAIs-Surveillance-Backend"
+node_id = "R_kgDOGqaiLg"
+open_issues_within = 100
 private = false
-pushed_within = "over_a_year"
+pushed_within = "week"
 stargazers_within = 0
 topics = [ ]
-updated_within = "over_a_year"
+updated_within = "month"
 visibility = "public"
 watchers_within = 0
 

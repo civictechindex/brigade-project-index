@@ -1,27 +1,29 @@
-code_url = "https://github.com/codeforpakistan/Monitoring-and-Evaluation-System-for-KPITB"
-git_url = "git://github.com/codeforpakistan/Monitoring-and-Evaluation-System-for-KPITB.git"
-name = "Monitoring-and-Evaluation-System-for-KPITB"
+code_url = "https://github.com/codeforpakistan/Case-Management-System-Advocate-General-Office"
+description = "Case Management System Advocate General Office"
+git_url = "git://github.com/codeforpakistan/Case-Management-System-Advocate-General-Office.git"
+name = "Case-Management-System-Advocate-General-Office"
 organization_name = "Code for Pakistan"
 
 [github]
 allow_forking = true
 archived = false
-created_at = "2021-12-06T11:38:58Z"
+created_at = "2022-01-20T08:53:14Z"
 default_branch = "main"
+description = "Case Management System Advocate General Office"
 disabled = false
 fork = false
 forks_within = 0
-full_name = "codeforpakistan/Monitoring-and-Evaluation-System-for-KPITB"
+full_name = "codeforpakistan/Case-Management-System-Advocate-General-Office"
 has_downloads = true
 has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = true
-id = 435_473_551
+id = 450_021_570
 is_template = false
 language = "HTML"
-name = "Monitoring-and-Evaluation-System-for-KPITB"
-node_id = "R_kgDOGfTMjw"
+name = "Case-Management-System-Advocate-General-Office"
+node_id = "R_kgDOGtLIwg"
 open_issues_within = 0
 private = false
 pushed_within = "week"
@@ -32,10 +34,10 @@ visibility = "public"
 watchers_within = 0
 
   [github.license]
-  key = "gpl-3.0"
-  name = "GNU General Public License v3.0"
-  node_id = "MDc6TGljZW5zZTk="
-  spdx_id = "GPL-3.0"
+  key = "other"
+  name = "Other"
+  node_id = "MDc6TGljZW5zZTA="
+  spdx_id = "NOASSERTION"
 
   [github.owner]
   gravatar_id = ""
