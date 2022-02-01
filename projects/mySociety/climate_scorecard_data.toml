@@ -1,0 +1,48 @@
+code_url = "https://github.com/mysociety/climate_scorecard_data"
+description = "Repository for climate scorecard data"
+git_url = "git://github.com/mysociety/climate_scorecard_data.git"
+name = "climate_scorecard_data"
+organization_name = "mySociety"
+
+[github]
+allow_forking = true
+archived = false
+created_at = "2022-01-14T11:19:12Z"
+default_branch = "main"
+description = "Repository for climate scorecard data"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "mysociety/climate_scorecard_data"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+id = 447_941_458
+is_template = false
+name = "climate_scorecard_data"
+node_id = "R_kgDOGrMLUg"
+open_issues_within = 0
+private = false
+pushed_within = "week"
+stargazers_within = 0
+topics = [ ]
+updated_within = "week"
+visibility = "public"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 141_338
+  login = "mysociety"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE0MTMzOA=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  maintain = false
+  pull = true
+  push = false
+  triage = false
