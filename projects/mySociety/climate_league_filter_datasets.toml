@@ -1,0 +1,8 @@
+code_url = "https://github.com/mysociety/climate_league_filter_datasets"
+description = "Process to create filter groupings for council climate league options"
+git_branch = "main"
+git_url = "git://github.com/mysociety/climate_league_filter_datasets.git"
+last_pushed_within = "month"
+name = "climate_league_filter_datasets"
+open_issues_within = 10
+organization_name = "mySociety"
