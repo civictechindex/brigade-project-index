@@ -1,0 +1,55 @@
+code_url = "https://github.com/18F/identity-idva-proxy"
+description = "Provides controlled egress for apps in a restricted-egress cloud.gov space"
+git_url = "git://github.com/18F/identity-idva-proxy.git"
+name = "identity-idva-proxy"
+organization_name = "18F"
+
+[github]
+allow_forking = true
+archived = false
+created_at = "2022-02-01T17:37:23Z"
+default_branch = "main"
+description = "Provides controlled egress for apps in a restricted-egress cloud.gov space"
+disabled = false
+fork = true
+forks_within = 0
+full_name = "18F/identity-idva-proxy"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = false
+homepage = ""
+id = 454_486_482
+is_template = false
+name = "identity-idva-proxy"
+node_id = "R_kgDOGxbp0g"
+open_issues_within = 0
+private = false
+pushed_within = "week"
+stargazers_within = 0
+topics = [ ]
+updated_within = "week"
+visibility = "public"
+watchers_within = 0
+
+  [github.license]
+  key = "other"
+  name = "Other"
+  node_id = "MDc6TGljZW5zZTA="
+  spdx_id = "NOASSERTION"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_233_994
+  login = "18F"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjYyMzM5OTQ="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  maintain = false
+  pull = true
+  push = false
+  triage = false
