@@ -3,6 +3,7 @@ description = "A Twitter-based disinformation tracking tool built on a web-based
 git_url = "git://github.com/CodeForAfrica/TwoopsTracker.git"
 name = "TwoopsTracker"
 organization_name = "Code for Kenya"
+topics = [ "social-network", "twitter" ]
 
 [github]
 allow_forking = true
@@ -19,6 +20,7 @@ has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = false
+homepage = ""
 id = 417_019_147
 is_template = false
 language = "Python"
@@ -28,8 +30,8 @@ open_issues_within = 0
 private = false
 pushed_within = "week"
 stargazers_within = 0
-topics = [ ]
-updated_within = "month"
+topics = [ "social-network", "twitter" ]
+updated_within = "week"
 visibility = "public"
 watchers_within = 0
 
