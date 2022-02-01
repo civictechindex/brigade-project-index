@@ -3,6 +3,7 @@ description = "Glossary for terms encountered at TTS. Machine- and human-readabl
 git_url = "git://github.com/18F/the-glossary.git"
 name = "the-glossary"
 organization_name = "18F"
+topics = [ "maintained" ]
 
 [github]
 allow_forking = true
@@ -19,6 +20,7 @@ has_issues = true
 has_pages = false
 has_projects = false
 has_wiki = false
+homepage = ""
 id = 453_195_140
 is_template = false
 language = "Ruby"
@@ -28,7 +30,7 @@ open_issues_within = 10
 private = false
 pushed_within = "week"
 stargazers_within = 0
-topics = [ ]
+topics = [ "maintained" ]
 updated_within = "week"
 visibility = "public"
 watchers_within = 0
