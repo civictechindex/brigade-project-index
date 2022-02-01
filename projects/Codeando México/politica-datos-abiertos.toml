@@ -1,0 +1,54 @@
+code_url = "https://github.com/CodeandoMexico/politica-datos-abiertos"
+description = "Política de Datos Abiertos para Gobiernos Locales"
+git_url = "git://github.com/CodeandoMexico/politica-datos-abiertos.git"
+name = "politica-datos-abiertos"
+organization_name = "Codeando México"
+
+[github]
+allow_forking = true
+archived = false
+created_at = "2022-02-01T04:10:28Z"
+default_branch = "main"
+description = "Política de Datos Abiertos para Gobiernos Locales"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "CodeandoMexico/politica-datos-abiertos"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+id = 454_257_344
+is_template = false
+name = "politica-datos-abiertos"
+node_id = "R_kgDOGxNqwA"
+open_issues_within = 0
+private = false
+pushed_within = "week"
+stargazers_within = 0
+topics = [ ]
+updated_within = "week"
+visibility = "public"
+watchers_within = 0
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_940_113
+  login = "CodeandoMexico"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI5NDAxMTM="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  maintain = false
+  pull = true
+  push = false
+  triage = false
