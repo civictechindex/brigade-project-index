@@ -1,4 +1,5 @@
 code_url = "https://github.com/18F/formservice-iac"
+description = "IAC for deploying Forms Service to each environment."
 git_branch = "main"
 git_url = "git://github.com/18F/formservice-iac.git"
 last_pushed_within = "week"
