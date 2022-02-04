@@ -23,15 +23,15 @@ has_wiki = true
 homepage = ""
 id = 265_000_998
 is_template = false
-language = "Python"
+language = "HTML"
 name = "votong"
 node_id = "MDEwOlJlcG9zaXRvcnkyNjUwMDA5OTg="
 open_issues_within = 10
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ "hacktoberfest" ]
-updated_within = "year"
+updated_within = "week"
 visibility = "public"
 watchers_within = 10
 
