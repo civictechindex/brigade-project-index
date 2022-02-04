@@ -7,4 +7,10 @@ link_url = "https://secure.login.gov/"
 name = "identity-idp"
 open_issues_within = 10
 organization_name = "18F"
-topics = [ "idp", "login-gov" ]
+topics = [
+  "civic-tech",
+  "identity",
+  "identity-provider",
+  "oidc",
+  "rails"
+]
