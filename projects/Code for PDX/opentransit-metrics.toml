@@ -5,5 +5,4 @@ git_url = "git://github.com/codeforpdx/opentransit-metrics.git"
 last_pushed_within = "week"
 link_url = "https://muni.opentransit.city"
 name = "opentransit-metrics"
-open_issues_within = 10
 organization_name = "Code for PDX"
