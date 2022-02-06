@@ -1,7 +1,7 @@
 code_url = "https://github.com/mysociety/la_distance"
 git_branch = "main"
 git_url = "git://github.com/mysociety/la_distance.git"
-last_pushed_within = "month"
+last_pushed_within = "year"
 name = "la_distance"
 open_issues_within = 10
 organization_name = "mySociety"
