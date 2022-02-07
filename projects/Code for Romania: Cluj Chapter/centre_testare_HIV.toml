@@ -1,5 +1,6 @@
 code_url = "https://github.com/code4romania/centre_testare_HIV"
 git_url = "git://github.com/code4romania/centre_testare_HIV.git"
+link_url = "centre-testare-hiv.vercel.app"
 name = "centre_testare_HIV"
 organization_name = "Code for Romania: Cluj Chapter"
 
@@ -17,6 +18,7 @@ has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = true
+homepage = "centre-testare-hiv.vercel.app"
 id = 454_832_237
 is_template = false
 language = "JavaScript"
