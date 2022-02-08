@@ -27,9 +27,9 @@ is_template = false
 language = "HTML"
 name = "accessibility"
 node_id = "MDEwOlJlcG9zaXRvcnkzMDAyNzY1MA=="
-open_issues_within = 100
+open_issues_within = 10
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 1_000
 topics = [ "a11y", "accessibility", "best-practices" ]
 updated_within = "month"
