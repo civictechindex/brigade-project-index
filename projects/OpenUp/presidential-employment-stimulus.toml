@@ -19,15 +19,15 @@ has_projects = true
 has_wiki = true
 id = 341_168_998
 is_template = false
-language = "Jupyter Notebook"
+language = "HTML"
 name = "presidential-employment-stimulus"
 node_id = "MDEwOlJlcG9zaXRvcnkzNDExNjg5OTg="
 open_issues_within = 10
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
-updated_within = "year"
+updated_within = "week"
 visibility = "public"
 watchers_within = 10
 
