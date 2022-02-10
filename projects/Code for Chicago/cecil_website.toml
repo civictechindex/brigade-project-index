@@ -1,6 +1,7 @@
 code_url = "https://github.com/Code-For-Chicago/cecil_website"
 git_branch = "master"
 git_url = "git://github.com/Code-For-Chicago/cecil_website.git"
-last_pushed_within = "over_a_year"
+last_pushed_within = "week"
 name = "cecil_website"
+open_issues_within = 10
 organization_name = "Code for Chicago"
