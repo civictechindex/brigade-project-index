@@ -5,6 +5,5 @@ git_url = "git://github.com/CodeForAfrica/gmmp.git"
 last_pushed_within = "week"
 link_url = "http://app.gmmp.ngo"
 name = "gmmp"
-open_issues_within = 10
 organization_name = "Code for Africa"
 topics = [ "gender", "gmmp", "media", "media-monitoring" ]
