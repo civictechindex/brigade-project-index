@@ -1,43 +1,36 @@
-code_url = "https://github.com/mysociety/notebook_helper"
-description = "Tools to tidy up jupyter notebook use"
-git_url = "git://github.com/mysociety/notebook_helper.git"
-name = "notebook_helper"
+code_url = "https://github.com/mysociety/email-templates"
+git_url = "git://github.com/mysociety/email-templates.git"
+link_url = "https://www.mysociety.org/"
+name = "email-templates"
 organization_name = "mySociety"
 
 [github]
 allow_forking = true
 archived = false
-created_at = "2021-03-16T11:42:30Z"
+created_at = "2022-02-11T10:59:42Z"
 default_branch = "main"
-description = "Tools to tidy up jupyter notebook use"
 disabled = false
 fork = false
 forks_within = 0
-full_name = "mysociety/notebook_helper"
+full_name = "mysociety/email-templates"
 has_downloads = true
 has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = true
-id = 348_325_518
+homepage = "https://www.mysociety.org/"
+id = 458_150_491
 is_template = false
-language = "Python"
-name = "notebook_helper"
-node_id = "MDEwOlJlcG9zaXRvcnkzNDgzMjU1MTg="
+name = "email-templates"
+node_id = "R_kgDOG07SWw"
 open_issues_within = 0
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 0
 topics = [ ]
-updated_within = "year"
+updated_within = "week"
 visibility = "public"
 watchers_within = 0
-
-  [github.license]
-  key = "mit"
-  name = "MIT License"
-  node_id = "MDc6TGljZW5zZTEz"
-  spdx_id = "MIT"
 
   [github.owner]
   gravatar_id = ""
