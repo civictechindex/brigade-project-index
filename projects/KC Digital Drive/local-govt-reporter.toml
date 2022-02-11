@@ -30,9 +30,9 @@ is_template = false
 language = "TypeScript"
 name = "local-govt-reporter"
 node_id = "MDEwOlJlcG9zaXRvcnkyNTQ2OTMwMzM="
-open_issues_within = 0
+open_issues_within = 10
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 10
 topics = [
   "code-for-america",
