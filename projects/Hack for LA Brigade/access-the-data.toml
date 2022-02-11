@@ -40,7 +40,7 @@ open_issues_within = 100
 private = false
 pushed_within = "month"
 score = 1
-stargazers_within = 10
+stargazers_within = 100
 topics = [
   "citizen-science",
   "city-data",
@@ -54,7 +54,7 @@ topics = [
 ]
 updated_within = "week"
 visibility = "public"
-watchers_within = 10
+watchers_within = 100
 
   [github.license]
   key = "gpl-2.0"
