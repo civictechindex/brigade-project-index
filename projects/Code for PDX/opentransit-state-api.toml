@@ -1,8 +1,8 @@
-code_url = "https://github.com/codeforpdx/tryn-api"
+code_url = "https://github.com/codeforpdx/opentransit-state-api"
 description = "OpenTransit API for historical transit vehicle location data"
 git_branch = "master"
-git_url = "git://github.com/codeforpdx/tryn-api.git"
+git_url = "git://github.com/codeforpdx/opentransit-state-api.git"
 last_pushed_within = "week"
-name = "tryn-api"
+name = "opentransit-state-api"
 open_issues_within = 10
 organization_name = "Code for PDX"
