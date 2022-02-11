@@ -1,0 +1,55 @@
+code_url = "https://github.com/Code4Newark/designsbyzay.github.io-master"
+description = "2021"
+git_url = "git://github.com/Code4Newark/designsbyzay.github.io-master.git"
+name = "designsbyzay.github.io-master"
+organization_name = "Code for Newark"
+
+[github]
+allow_forking = true
+archived = false
+created_at = "2022-02-11T22:02:17Z"
+default_branch = "2021"
+description = "2021"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "Code4Newark/designsbyzay.github.io-master"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+id = 458_353_019
+is_template = false
+language = "JavaScript"
+name = "designsbyzay.github.io-master"
+node_id = "R_kgDOG1Hpew"
+open_issues_within = 0
+private = false
+pushed_within = "week"
+stargazers_within = 0
+topics = [ ]
+updated_within = "week"
+visibility = "public"
+watchers_within = 0
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 17_065_281
+  login = "Code4Newark"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE3MDY1Mjgx"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  maintain = false
+  pull = true
+  push = false
+  triage = false
