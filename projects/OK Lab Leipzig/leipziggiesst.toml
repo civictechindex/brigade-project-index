@@ -1,7 +1,7 @@
-code_url = "https://github.com/CodeforLeipzig/tsb-trees-frontend"
-git_url = "git://github.com/CodeforLeipzig/tsb-trees-frontend.git"
+code_url = "https://github.com/CodeforLeipzig/leipziggiesst"
+git_url = "git://github.com/CodeforLeipzig/leipziggiesst.git"
 link_url = "https://giessdeinviertel.codeforleipzig.de/"
-name = "tsb-trees-frontend"
+name = "leipziggiesst"
 organization_name = "OK Lab Leipzig"
 
 [github]
@@ -12,7 +12,7 @@ default_branch = "master"
 disabled = false
 fork = true
 forks_within = 0
-full_name = "CodeforLeipzig/tsb-trees-frontend"
+full_name = "CodeforLeipzig/leipziggiesst"
 has_downloads = true
 has_issues = true
 has_pages = false
@@ -22,14 +22,14 @@ homepage = "https://giessdeinviertel.codeforleipzig.de/"
 id = 265_856_245
 is_template = false
 language = "TypeScript"
-name = "tsb-trees-frontend"
+name = "leipziggiesst"
 node_id = "MDEwOlJlcG9zaXRvcnkyNjU4NTYyNDU="
 open_issues_within = 100
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
-updated_within = "year"
+updated_within = "week"
 visibility = "public"
 watchers_within = 10
 
