@@ -21,6 +21,7 @@ has_wiki = true
 homepage = "http://github.codeandomexico.org/socorro/"
 id = 450_184_523
 is_template = false
+language = "SCSS"
 name = "socorro"
 node_id = "R_kgDOGtVFSw"
 open_issues_within = 10
@@ -28,7 +29,7 @@ private = false
 pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
-updated_within = "month"
+updated_within = "week"
 visibility = "public"
 watchers_within = 10
 
