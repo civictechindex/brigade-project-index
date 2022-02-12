@@ -4,4 +4,5 @@ git_url = "git://github.com/CodeforLeipzig/tsb-trees-frontend.git"
 last_pushed_within = "year"
 link_url = "https://giessdeinviertel.codeforleipzig.de/"
 name = "tsb-trees-frontend"
+open_issues_within = 10
 organization_name = "OK Lab Leipzig"
