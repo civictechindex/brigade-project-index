@@ -29,7 +29,7 @@ name = "research-repository"
 node_id = "MDEwOlJlcG9zaXRvcnk4MjkyNDIzNg=="
 open_issues_within = 10
 private = false
-pushed_within = "month"
+pushed_within = "year"
 stargazers_within = 10
 topics = [ "django", "mysociety", "python", "repository", "research" ]
 updated_within = "year"
