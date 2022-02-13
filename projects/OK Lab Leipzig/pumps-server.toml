@@ -1,0 +1,49 @@
+code_url = "https://github.com/CodeforLeipzig/pumps-server"
+description = "Management of Leipzig pumps"
+git_url = "git://github.com/CodeforLeipzig/pumps-server.git"
+name = "pumps-server"
+organization_name = "OK Lab Leipzig"
+
+[github]
+allow_forking = true
+archived = false
+created_at = "2022-02-13T20:28:19Z"
+default_branch = "main"
+description = "Management of Leipzig pumps"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "CodeforLeipzig/pumps-server"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+id = 458_923_284
+is_template = false
+language = "Kotlin"
+name = "pumps-server"
+node_id = "R_kgDOG1qdFA"
+open_issues_within = 0
+private = false
+pushed_within = "week"
+stargazers_within = 0
+topics = [ ]
+updated_within = "week"
+visibility = "public"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 7_286_986
+  login = "CodeforLeipzig"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjcyODY5ODY="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  maintain = false
+  pull = true
+  push = false
+  triage = false
