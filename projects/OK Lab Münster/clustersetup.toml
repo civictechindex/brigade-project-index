@@ -34,7 +34,7 @@ name = "clustersetup"
 node_id = "MDEwOlJlcG9zaXRvcnkzMDQ0NDg2MzY="
 open_issues_within = 0
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 0
 topics = [
   "ansible",
@@ -43,7 +43,7 @@ topics = [
   "kubeadm",
   "kubernetes"
 ]
-updated_within = "year"
+updated_within = "week"
 visibility = "public"
 watchers_within = 0
 
