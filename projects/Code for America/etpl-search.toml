@@ -23,7 +23,7 @@ forks_within = 10
 full_name = "codeforamerica/etpl-search"
 has_downloads = true
 has_issues = true
-has_pages = false
+has_pages = true
 has_projects = true
 has_wiki = true
 homepage = "https://findtraining.org"
@@ -34,7 +34,7 @@ name = "etpl-search"
 node_id = "MDEwOlJlcG9zaXRvcnkxNTQ4NjcwOTU="
 open_issues_within = 0
 private = false
-pushed_within = "over_a_year"
+pushed_within = "week"
 stargazers_within = 10
 topics = [
   "codeforamerica-workforce",
@@ -42,7 +42,7 @@ topics = [
   "jobs",
   "workforce-development"
 ]
-updated_within = "year"
+updated_within = "week"
 visibility = "public"
 watchers_within = 10
 
