@@ -24,7 +24,7 @@ has_wiki = false
 homepage = "https://federalist-ce810add-9092-4627-8246-9b65cf94623c.app.cloud.gov/site/18f/federalist-uswds-jekyll/"
 id = 166_146_615
 is_template = true
-language = "HTML"
+language = "SCSS"
 name = "federalist-uswds-jekyll"
 node_id = "MDEwOlJlcG9zaXRvcnkxNjYxNDY2MTU="
 open_issues_within = 100
@@ -32,7 +32,7 @@ private = false
 pushed_within = "week"
 stargazers_within = 100
 topics = [ "federalist" ]
-updated_within = "year"
+updated_within = "week"
 visibility = "public"
 watchers_within = 100
 
