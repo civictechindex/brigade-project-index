@@ -1,6 +1,7 @@
 code_url = "https://github.com/codeforanchorage/brewery-bike-tour"
 git_branch = "master"
 git_url = "git://github.com/codeforanchorage/brewery-bike-tour.git"
-last_pushed_within = "over_a_year"
+last_pushed_within = "week"
 name = "brewery-bike-tour"
+open_issues_within = 10
 organization_name = "Code for Anchorage"
