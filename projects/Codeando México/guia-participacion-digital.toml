@@ -1,8 +1,8 @@
-code_url = "https://github.com/CodeandoMexico/ppf"
+code_url = "https://github.com/CodeandoMexico/guia-participacion-digital"
 description = "Guía para Procesos Digitales de Participación Ciudadana"
-git_url = "git://github.com/CodeandoMexico/ppf.git"
-link_url = "http://github.codeandomexico.org/ppf/"
-name = "ppf"
+git_url = "git://github.com/CodeandoMexico/guia-participacion-digital.git"
+link_url = "http://github.codeandomexico.org/guia-participacion-digital/"
+name = "guia-participacion-digital"
 organization_name = "Codeando México"
 
 [github]
@@ -14,16 +14,16 @@ description = "Guía para Procesos Digitales de Participación Ciudadana"
 disabled = false
 fork = true
 forks_within = 0
-full_name = "CodeandoMexico/ppf"
+full_name = "CodeandoMexico/guia-participacion-digital"
 has_downloads = true
 has_issues = false
 has_pages = true
 has_projects = true
 has_wiki = true
-homepage = "http://github.codeandomexico.org/ppf/"
+homepage = "http://github.codeandomexico.org/guia-participacion-digital/"
 id = 460_173_633
 is_template = false
-name = "ppf"
+name = "guia-participacion-digital"
 node_id = "R_kgDOG22xQQ"
 open_issues_within = 0
 private = false
