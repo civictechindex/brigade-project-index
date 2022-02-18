@@ -5,7 +5,6 @@ git_url = "git://github.com/CodeForAfrica/GenderGap.AFRICA.git"
 last_pushed_within = "week"
 link_url = "https://gendergap.africa/"
 name = "GenderGap.AFRICA"
-open_issues_within = 10
 organization_name = "Code for Kenya"
 topics = [
   "africa",
