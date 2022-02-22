@@ -65,6 +65,7 @@
             "type": "node",
             "request": "launch",
             "name": "Crawl organizations",
+            "console": "integratedTerminal",
             "program": "${workspaceFolder}/crawler/run.js",
             "cwd": "${workspaceFolder}",
             "env": {
@@ -84,6 +85,7 @@
             "type": "node",
             "request": "launch",
             "name": "Crawl projects",
+            "console": "integratedTerminal",
             "program": "${workspaceFolder}/crawler/run.js",
             "cwd": "${workspaceFolder}",
             "env": {
@@ -104,6 +106,7 @@
             "type": "node",
             "request": "launch",
             "name": "Crawl all",
+            "console": "integratedTerminal",
             "program": "${workspaceFolder}/crawler/run.js",
             "cwd": "${workspaceFolder}",
             "env": {
