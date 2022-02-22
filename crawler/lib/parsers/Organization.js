@@ -1,4 +1,4 @@
-const repositoryClasses = require('../repositories/projects');
+const repositoryClasses = require('../repositories/projects/index');
 
 /**
  * Collection of methods for analyzing and manipulating organization data

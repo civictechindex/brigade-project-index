@@ -5,7 +5,7 @@ const GitSheets = require('gitsheets');
 
 const CodeForAmericaNetwork = require('./lib/repositories/organizations/CodeForAmericaNetwork.js');
 const Organization = require('./lib/parsers/Organization.js');
-const decorateProject = require('./lib/decorators');
+const decorateProject = require('./lib/decorators/index');
 
 const EMPTY_TREE_HASH = '4b825dc642cb6eb9a060e54bf8d69288fbee4904';
 
