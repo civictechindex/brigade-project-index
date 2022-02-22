@@ -1,3 +1,5 @@
+const urlRegex = new RegExp('^(https?://)?(www\.)?github\.com/(?<ownerName>[^/?]+)/(?<repoName>[^/?]+)/?$');
+
 const ONE_DAY = 1000 * 60 * 60 * 24;
 const ONE_WEEK = ONE_DAY * 7;
 const ONE_MONTH = ONE_DAY * 30;
@@ -37,6 +39,22 @@ const bucketedTimestampProperties = {
  * @class
  */
 module.exports = class GitHubRepository {
+
+    /**
+     * Determines whether a given Git URL looks like it's hosted on GitHub
+     */
+    static isGitHubUrl (gitUrl) {
+        return urlRegex.test(gitUrl);
+    }
+
+    /**
+     * Determines whether a given Git URL looks like it's hosted on GitHub
+     */
+    static parseGitHubUrl (gitUrl) {
+        const { ownerName, repoName } =  urlRegex.exec(gitUrl).groups;
+        return { ownerName, repoName };
+    }
+
     /**
      * Build a set of defaults for a standard "project" object from raw GitHub object data
      */

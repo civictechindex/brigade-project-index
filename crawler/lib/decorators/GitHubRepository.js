@@ -3,8 +3,6 @@ const logger = require('winston');
 const github = require('../connections/github.js');
 const GitHubRepository = require('../parsers/GitHubRepository.js');
 
-const urlRegex = new RegExp('^(https?://)?(www\.)?github\.com/(?<ownerName>[^/?]+)/(?<repoName>[^/?]+)/?$');
-
 /**
  * Decorate a project with GitHub repository data
  * @class
@@ -16,11 +14,11 @@ module.exports = class GitHubRepositoryDecorator {
             return false;
         }
 
-        return urlRegex.test(code_url);
+        return GitHubRepository.isGitHubUrl(code_url);
     }
 
     static async decorate (projectData) {
-        const { ownerName, repoName } = urlRegex.exec(projectData.code_url).groups;
+        const { ownerName, repoName } = GitHubRepository.parseGitHubUrl(projectData.code_url);
 
         let response;
 
