@@ -23,14 +23,14 @@ id = 462_396_013
 is_template = false
 name = "fns-snap-qcs"
 node_id = "R_kgDOG4-abQ"
-open_issues_within = 0
+open_issues_within = 100
 private = false
 pushed_within = "week"
-stargazers_within = 0
+stargazers_within = 10
 topics = [ ]
 updated_within = "week"
 visibility = "public"
-watchers_within = 0
+watchers_within = 10
 
   [github.owner]
   gravatar_id = ""
