@@ -5,4 +5,5 @@ git_url = "git://github.com/CodeForAfrica/web-tools.git"
 last_pushed_within = "week"
 link_url = "https://tools.mediacloud.org"
 name = "web-tools"
+open_issues_within = 10
 organization_name = "Code for Ghana"
