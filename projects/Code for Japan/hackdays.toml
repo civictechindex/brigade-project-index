@@ -1,6 +1,7 @@
 code_url = "https://github.com/codeforjapan/hackdays"
 description = "Next version of Social Hackday website."
 git_url = "git://github.com/codeforjapan/hackdays.git"
+link_url = "hackdays-c4j.vercel.app"
 name = "hackdays"
 organization_name = "Code for Japan"
 
@@ -19,6 +20,7 @@ has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = true
+homepage = "hackdays-c4j.vercel.app"
 id = 458_474_557
 is_template = false
 language = "TypeScript"
