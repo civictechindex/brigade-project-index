@@ -39,7 +39,7 @@ topics = [
   "food-pantries",
   "food-pantry-admin"
 ]
-updated_within = "week"
+updated_within = "month"
 visibility = "public"
 watchers_within = 10
 
