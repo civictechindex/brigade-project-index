@@ -19,7 +19,7 @@ has_projects = true
 has_wiki = true
 id = 181_248_408
 is_template = false
-language = "CSS"
+language = "SCSS"
 name = "code-for-chicago-jekyll"
 node_id = "MDEwOlJlcG9zaXRvcnkxODEyNDg0MDg="
 open_issues_within = 10
@@ -27,7 +27,7 @@ private = false
 pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
-updated_within = "year"
+updated_within = "week"
 visibility = "public"
 watchers_within = 10
 
