@@ -1,7 +1,7 @@
 code_url = "https://github.com/mysociety/email-templates"
 git_branch = "master"
 git_url = "git://github.com/mysociety/email-templates.git"
-last_pushed_within = "week"
+last_pushed_within = "month"
 link_url = "https://www.mysociety.org/"
 name = "email-templates"
 organization_name = "mySociety"
