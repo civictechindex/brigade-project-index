@@ -4,5 +4,6 @@ git_branch = "master"
 git_url = "git://github.com/open-austin/Odyssey-Court-Records-to-JSON.git"
 last_pushed_within = "month"
 name = "Odyssey-Court-Records-to-JSON"
+open_issues_within = 10
 organization_name = "Open Austin"
 topics = [ "court-cases", "parser", "python", "scraper" ]
