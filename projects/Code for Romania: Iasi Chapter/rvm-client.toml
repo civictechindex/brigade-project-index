@@ -12,7 +12,7 @@ default_branch = "master"
 description = "Project for managing resources and volunteers for DSU (Departamentul pt Situatii de Urgenta)"
 disabled = false
 fork = false
-forks_within = 10
+forks_within = 100
 full_name = "code4romania/rvm-client"
 has_downloads = true
 has_issues = true
@@ -27,7 +27,7 @@ name = "rvm-client"
 node_id = "MDEwOlJlcG9zaXRvcnkxODk2MDk2NjA="
 open_issues_within = 100
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
 updated_within = "year"
