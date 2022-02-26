@@ -1,8 +1,8 @@
 code_url = "https://github.com/CodeForAsheville/pdf-case-compare"
-description = "The pdf-case-compare project originated as a request to Code for Asheville, to help a non-profit legal aid organization, which was helping people get their records expunged per North Carolina law. The resulting Python program compares two PDF report files, one generated through the LexisNexis Public Records database, and the other through the North Carolina Criminal and Infraction Public Records Search (CIPRS) database. The program identifies court cases that are found in the LexisNexis PDF file, but which do not seem to appear in the CIPRS PDF file. The output is shown on the screen as well as sent to a text file. The Python program, with a Windows 10 GUI (via PyQt5), is delivered as a stand-alone desktop app using pyinstaller."
+description = "Help attorney do due diligence for expungement by searching for cases in LexisNexis report that are not in North Carolina Criminal and Infraction Public Records Search (CIPRS) report."
 git_branch = "main"
 git_url = "git://github.com/CodeForAsheville/pdf-case-compare.git"
-last_pushed_within = "year"
+last_pushed_within = "week"
 name = "pdf-case-compare"
 organization_name = "Code for Asheville"
 topics = [ "ciprs", "expungement", "lexisnexis" ]
