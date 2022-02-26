@@ -1,7 +1,7 @@
 code_url = "https://github.com/18F/saml_idp"
 git_branch = "main"
 git_url = "git://github.com/18F/saml_idp.git"
-last_pushed_within = "month"
+last_pushed_within = "week"
 name = "saml_idp"
 open_issues_within = 10
 organization_name = "18F"
