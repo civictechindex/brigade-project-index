@@ -1,35 +1,42 @@
-code_url = "https://github.com/code4romania/alex-client"
-git_url = "git://github.com/code4romania/alex-client.git"
-name = "alex-client"
+code_url = "https://github.com/code4romania/website-factory"
+git_url = "git://github.com/code4romania/website-factory.git"
+name = "website-factory"
 organization_name = "Code for Romania: Cluj Chapter"
 
 [github]
 allow_forking = true
 archived = false
-created_at = "2021-11-17T09:14:15Z"
+created_at = "2021-07-03T15:36:40Z"
 default_branch = "main"
 disabled = false
 fork = false
 forks_within = 0
-full_name = "code4romania/alex-client"
+full_name = "code4romania/website-factory"
 has_downloads = true
 has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = true
-id = 428_978_644
+homepage = ""
+id = 382_650_348
 is_template = false
-language = "JavaScript"
-name = "alex-client"
-node_id = "R_kgDOGZGx1A"
+language = "PHP"
+name = "website-factory"
+node_id = "MDEwOlJlcG9zaXRvcnkzODI2NTAzNDg="
 open_issues_within = 0
 private = false
-pushed_within = "month"
-stargazers_within = 10
+pushed_within = "week"
+stargazers_within = 0
 topics = [ ]
-updated_within = "year"
+updated_within = "week"
 visibility = "public"
-watchers_within = 10
+watchers_within = 0
+
+  [github.license]
+  key = "mpl-2.0"
+  name = "Mozilla Public License 2.0"
+  node_id = "MDc6TGljZW5zZTE0"
+  spdx_id = "MPL-2.0"
 
   [github.owner]
   gravatar_id = ""
