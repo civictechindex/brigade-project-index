@@ -2,5 +2,7 @@ code_url = "https://github.com/sarl-hackerspace/nova-planning"
 git_branch = "main"
 git_url = "git://github.com/sarl-hackerspace/nova-planning.git"
 last_pushed_within = "week"
+link_url = "https://www.meetup.com/Code-for-NoVA"
 name = "nova-planning"
 organization_name = "Code for NoVA"
+topics = [ "codeforamerica-brigade", "meetup" ]
