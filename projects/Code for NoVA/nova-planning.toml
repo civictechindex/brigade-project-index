@@ -1,7 +1,9 @@
 code_url = "https://github.com/sarl-hackerspace/nova-planning"
 git_url = "git://github.com/sarl-hackerspace/nova-planning.git"
+link_url = "https://www.meetup.com/Code-for-NoVA"
 name = "nova-planning"
 organization_name = "Code for NoVA"
+topics = [ "codeforamerica-brigade", "meetup" ]
 
 [github]
 allow_forking = true
@@ -17,6 +19,7 @@ has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = true
+homepage = "https://www.meetup.com/Code-for-NoVA"
 id = 460_645_190
 is_template = false
 name = "nova-planning"
@@ -25,8 +28,8 @@ open_issues_within = 0
 private = false
 pushed_within = "week"
 stargazers_within = 0
-topics = [ ]
-updated_within = "month"
+topics = [ "codeforamerica-brigade", "meetup" ]
+updated_within = "week"
 visibility = "public"
 watchers_within = 0
 
