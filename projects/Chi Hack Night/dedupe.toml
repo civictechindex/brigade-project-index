@@ -1,6 +1,6 @@
 code_url = "https://github.com/datamade/dedupe"
 git_branch = "master"
-last_pushed_within = "week"
+last_pushed_within = "month"
 link_url = "https://docs.dedupe.io"
 name = "dedupe"
 open_issues_within = 100
