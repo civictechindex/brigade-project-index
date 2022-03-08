@@ -1,7 +1,7 @@
 code_url = "https://github.com/mysociety/pfi-fault-reporting"
 git_branch = "master"
 git_url = "git://github.com/mysociety/pfi-fault-reporting.git"
-last_pushed_within = "year"
+last_pushed_within = "over_a_year"
 link_url = "https://mysociety.github.io/pfi-fault-reporting/"
 name = "pfi-fault-reporting"
 open_issues_within = 10
