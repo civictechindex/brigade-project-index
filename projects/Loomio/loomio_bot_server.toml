@@ -1,0 +1,8 @@
+code_url = "https://github.com/loomio/loomio_bot_server"
+description = "Provides chatbot functionality for Loomio"
+git_branch = "main"
+git_url = "git://github.com/loomio/loomio_bot_server.git"
+last_pushed_within = "week"
+name = "loomio_bot_server"
+open_issues_within = 10
+organization_name = "Loomio"
