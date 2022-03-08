@@ -1,7 +1,7 @@
 code_url = "https://github.com/CodeForPhilly/philly-ward-leaders"
 description = "How many of you have heard of all of the judges who ran in the last election? How about all the Council at-large candidates? How about all the State Representative candidates? Most people who show up to vote have not heard of all the candidates. Instead, they're given flyers on the way in, often by their neighbors, suggesting who they should vote for. But who determines what's on the flyers? [Ward leaders](http://younginvolvedphila.org/politics/in-case-you-missed-it-politics-101/). And how many of you know who your ward leader is?"
 git_branch = "master"
-last_pushed_within = "week"
+last_pushed_within = "month"
 link_url = "http://phillywardleaders.com"
 name = "philly_ward_leaders"
 open_issues_within = 100
