@@ -1,7 +1,7 @@
 code_url = "https://github.com/codeforboston/codeforboston.org"
 description = "Code for Boston's website."
 git_url = "git://github.com/codeforboston/codeforboston.org.git"
-link_url = "http://codeforboston.org"
+link_url = "https://www.codeforboston.org"
 name = "codeforboston.org"
 organization_name = "Code for Boston"
 
@@ -20,7 +20,7 @@ has_issues = true
 has_pages = true
 has_projects = true
 has_wiki = true
-homepage = "http://codeforboston.org"
+homepage = "https://www.codeforboston.org"
 id = 35_163_517
 is_template = false
 language = "HTML"
@@ -31,7 +31,7 @@ private = false
 pushed_within = "week"
 stargazers_within = 100
 topics = [ ]
-updated_within = "year"
+updated_within = "week"
 visibility = "public"
 watchers_within = 100
 
