@@ -1,7 +1,8 @@
 code_url = "https://github.com/18F/nih-oite-experiments"
 description = "Experiments in support of NIH OITE project"
-git_branch = "main"
+git_branch = "netlify-cms"
 git_url = "git://github.com/18F/nih-oite-experiments.git"
 last_pushed_within = "week"
 name = "nih-oite-experiments"
+open_issues_within = 10
 organization_name = "18F"
