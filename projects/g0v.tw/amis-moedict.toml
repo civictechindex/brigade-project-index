@@ -18,7 +18,7 @@ forks_within = 10
 full_name = "g0v/amis-moedict"
 has_downloads = true
 has_issues = true
-has_pages = false
+has_pages = true
 has_projects = true
 has_wiki = true
 homepage = "https://amis.moedict.tw"
@@ -29,7 +29,7 @@ name = "amis-moedict"
 node_id = "MDEwOlJlcG9zaXRvcnkxMTEzMjg4ODc="
 open_issues_within = 10
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ "amis", "cordova", "g0v", "moedict", "nodejs" ]
 updated_within = "month"
