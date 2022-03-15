@@ -1,5 +1,6 @@
 code_url = "https://github.com/CodeandoMexico/webdedatosmexicana"
 git_url = "git://github.com/CodeandoMexico/webdedatosmexicana.git"
+link_url = "http://github.codeandomexico.org/webdedatosmexicana/"
 name = "webdedatosmexicana"
 organization_name = "Codeando México"
 
@@ -17,6 +18,7 @@ has_issues = true
 has_pages = true
 has_projects = true
 has_wiki = true
+homepage = "http://github.codeandomexico.org/webdedatosmexicana/"
 id = 465_946_304
 is_template = false
 language = "Jupyter Notebook"
@@ -27,7 +29,7 @@ private = false
 pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
-updated_within = "month"
+updated_within = "week"
 visibility = "public"
 watchers_within = 10
 
