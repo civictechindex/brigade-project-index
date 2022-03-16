@@ -3,6 +3,12 @@ description = "Example code for the ACS Summary File"
 git_url = "git://github.com/uscensusbureau/acs-summary-file.git"
 name = "acs-summary-file"
 organization_name = "US Census Bureau"
+topics = [
+  "american-community-survey",
+  "census-api",
+  "census-bureau",
+  "census-data"
+]
 
 [github]
 allow_forking = true
@@ -19,6 +25,7 @@ has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = true
+homepage = ""
 id = 443_403_660
 is_template = false
 language = "SAS"
@@ -27,11 +34,22 @@ node_id = "R_kgDOGm3NjA"
 open_issues_within = 10
 private = false
 pushed_within = "week"
-stargazers_within = 0
-topics = [ ]
-updated_within = "month"
+stargazers_within = 10
+topics = [
+  "american-community-survey",
+  "census-api",
+  "census-bureau",
+  "census-data"
+]
+updated_within = "week"
 visibility = "public"
-watchers_within = 0
+watchers_within = 10
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
 
   [github.owner]
   gravatar_id = ""
