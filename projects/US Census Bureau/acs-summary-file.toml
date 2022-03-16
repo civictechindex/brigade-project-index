@@ -6,3 +6,9 @@ last_pushed_within = "week"
 name = "acs-summary-file"
 open_issues_within = 10
 organization_name = "US Census Bureau"
+topics = [
+  "american-community-survey",
+  "census-api",
+  "census-bureau",
+  "census-data"
+]
