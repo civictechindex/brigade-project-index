@@ -24,7 +24,7 @@ is_template = false
 language = "HCL"
 name = "federalist-infra"
 node_id = "MDEwOlJlcG9zaXRvcnkyNjM0NDA4MzI="
-open_issues_within = 10
+open_issues_within = 0
 private = false
 pushed_within = "week"
 stargazers_within = 10
