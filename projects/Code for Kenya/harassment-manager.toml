@@ -1,0 +1,55 @@
+code_url = "https://github.com/CodeForAfrica/harassment-manager"
+description = "Harassment Manager is a web application that aims to empower users to document and take action on abuse targeted at them on online platforms."
+git_url = "git://github.com/CodeForAfrica/harassment-manager.git"
+name = "harassment-manager"
+organization_name = "Code for Kenya"
+
+[github]
+allow_forking = true
+archived = false
+created_at = "2022-03-17T12:27:28Z"
+default_branch = "main"
+description = "Harassment Manager is a web application that aims to empower users to document and take action on abuse targeted at them on online platforms."
+disabled = false
+fork = true
+forks_within = 0
+full_name = "CodeForAfrica/harassment-manager"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 470_984_719
+is_template = false
+name = "harassment-manager"
+node_id = "R_kgDOHBKoDw"
+open_issues_within = 0
+private = false
+pushed_within = "month"
+stargazers_within = 0
+topics = [ ]
+updated_within = "week"
+visibility = "public"
+watchers_within = 0
+
+  [github.license]
+  key = "apache-2.0"
+  name = "Apache License 2.0"
+  node_id = "MDc6TGljZW5zZTI="
+  spdx_id = "Apache-2.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_786_364
+  login = "CodeForAfrica"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI3ODYzNjQ="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  maintain = false
+  pull = true
+  push = false
+  triage = false
