@@ -23,15 +23,15 @@ has_wiki = false
 homepage = "http://opengazettes.org.za"
 id = 65_151_792
 is_template = false
-language = "HTML"
+language = "SCSS"
 name = "opengazettes"
 node_id = "MDEwOlJlcG9zaXRvcnk2NTE1MTc5Mg=="
 open_issues_within = 10
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
-updated_within = "year"
+updated_within = "week"
 visibility = "public"
 watchers_within = 10
 
