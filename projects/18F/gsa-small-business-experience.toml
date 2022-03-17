@@ -1,7 +1,7 @@
 code_url = "https://github.com/18F/gsa-small-business-experience"
 git_branch = "main"
 git_url = "git://github.com/18F/gsa-small-business-experience.git"
-last_pushed_within = "week"
+last_pushed_within = "month"
 name = "gsa-small-business-experience"
 open_issues_within = 100
 organization_name = "18F"
