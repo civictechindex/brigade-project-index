@@ -1,0 +1,54 @@
+code_url = "https://github.com/CodeForAfrica/sensors.AFRICA-AQ-sensors-hardware"
+description = "These are the design files for the sensors.AFRICA AQ kits PCB."
+git_url = "git://github.com/CodeForAfrica/sensors.AFRICA-AQ-sensors-hardware.git"
+name = "sensors.AFRICA-AQ-sensors-hardware"
+organization_name = "Code for Nigeria"
+
+[github]
+allow_forking = true
+archived = false
+created_at = "2019-05-17T06:22:05Z"
+default_branch = "master"
+description = "These are the design files for the sensors.AFRICA AQ kits PCB."
+disabled = false
+fork = false
+forks_within = 0
+full_name = "CodeForAfrica/sensors.AFRICA-AQ-sensors-hardware"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+id = 187_158_401
+is_template = false
+name = "sensors.AFRICA-AQ-sensors-hardware"
+node_id = "MDEwOlJlcG9zaXRvcnkxODcxNTg0MDE="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "week"
+visibility = "public"
+watchers_within = 0
+
+  [github.license]
+  key = "gpl-3.0"
+  name = "GNU General Public License v3.0"
+  node_id = "MDc6TGljZW5zZTk="
+  spdx_id = "GPL-3.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_786_364
+  login = "CodeForAfrica"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI3ODYzNjQ="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  maintain = false
+  pull = true
+  push = false
+  triage = false
