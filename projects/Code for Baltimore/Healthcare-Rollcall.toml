@@ -39,7 +39,7 @@ name = "Healthcare-Rollcall"
 node_id = "MDEwOlJlcG9zaXRvcnkyMjA3MjIwNzE="
 open_issues_within = 100
 private = false
-pushed_within = "week"
+pushed_within = "month"
 stargazers_within = 10
 topics = [
   "baltimore-city",
@@ -52,7 +52,7 @@ topics = [
   "rapid-response",
   "vuejs"
 ]
-updated_within = "week"
+updated_within = "month"
 visibility = "public"
 watchers_within = 10
 
