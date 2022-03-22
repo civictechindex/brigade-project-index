@@ -1,7 +1,7 @@
 code_url = "https://github.com/codeforpdx/opentransit-metrics"
 description = "Prototype of public transit data visualization system"
 git_url = "git://github.com/codeforpdx/opentransit-metrics.git"
-link_url = "https://muni.opentransit.city"
+link_url = "https://opentransit-pdx.herokuapp.com/"
 name = "opentransit-metrics"
 organization_name = "Code for PDX"
 
@@ -20,13 +20,13 @@ has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = true
-homepage = "https://muni.opentransit.city"
+homepage = "https://opentransit-pdx.herokuapp.com/"
 id = 243_687_188
 is_template = false
 language = "Python"
 name = "opentransit-metrics"
 node_id = "MDEwOlJlcG9zaXRvcnkyNDM2ODcxODg="
-open_issues_within = 10
+open_issues_within = 100
 private = false
 pushed_within = "month"
 stargazers_within = 10
