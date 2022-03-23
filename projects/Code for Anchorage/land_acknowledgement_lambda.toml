@@ -1,0 +1,55 @@
+code_url = "https://github.com/codeforanchorage/land_acknowledgement_lambda"
+description = "Land acknowledgement SMS services for AWS lambda"
+git_url = "git://github.com/codeforanchorage/land_acknowledgement_lambda.git"
+name = "land_acknowledgement_lambda"
+organization_name = "Code for Anchorage"
+
+[github]
+allow_forking = true
+archived = false
+created_at = "2022-03-23T01:08:44Z"
+default_branch = "main"
+description = "Land acknowledgement SMS services for AWS lambda"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "codeforanchorage/land_acknowledgement_lambda"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+id = 472_991_484
+is_template = false
+language = "Python"
+name = "land_acknowledgement_lambda"
+node_id = "R_kgDOHDFG_A"
+open_issues_within = 0
+private = false
+pushed_within = "week"
+stargazers_within = 0
+topics = [ ]
+updated_within = "week"
+visibility = "public"
+watchers_within = 0
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 3_999_742
+  login = "codeforanchorage"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM5OTk3NDI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  maintain = false
+  pull = true
+  push = false
+  triage = false
