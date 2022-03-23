@@ -5,9 +5,13 @@
   "author": "Chris Alfano <chris@jarv.us>",
   "license": "Apache-2.0",
   "dependencies": {
+    "async-exit-hook": "^2.0.1",
     "axios": "^0.19.2",
     "csv-parser": "^2.3.3",
+    "git-up": "^4.0.1",
     "gitsheets": "^0.2.2",
+    "js-yaml": "^3.13.1",
+    "p-queue": "^6.3.0",
     "parse-link-header": "^1.0.1",
     "progress": "^2.0.3",
     "yargs": "^14.2.3"
