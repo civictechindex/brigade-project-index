@@ -1,6 +1,7 @@
 code_url = "https://github.com/opensandiego/sandiego-food-map"
 description = "A (future) map of food resources in San Diego"
 git_url = "git://github.com/opensandiego/sandiego-food-map.git"
+last_commit = "2021-04-07T03:13:06Z"
 name = "sandiego-food-map"
 organization_name = "Open San Diego"
 topics = [ "civic-tech", "map" ]

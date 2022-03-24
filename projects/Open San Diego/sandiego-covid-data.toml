@@ -1,6 +1,7 @@
 code_url = "https://github.com/opensandiego/sandiego-covid-data"
 description = "Tools for tracking / visualizing COVID-19 in San Diego"
 git_url = "git://github.com/opensandiego/sandiego-covid-data.git"
+last_commit = "2020-04-27T22:48:02Z"
 name = "sandiego-covid-data"
 organization_name = "Open San Diego"
 topics = [ "covid-19", "opensandiego" ]
