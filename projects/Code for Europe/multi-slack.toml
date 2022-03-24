@@ -1,6 +1,7 @@
 code_url = "https://github.com/codeforeurope/multi-slack"
 description = "Slack team to team communication"
 git_url = "git://github.com/codeforeurope/multi-slack.git"
+last_commit = "2017-04-24T20:35:54Z"
 name = "multi-slack"
 organization_name = "Code for Europe"
 topics = [ "communication", "slack" ]

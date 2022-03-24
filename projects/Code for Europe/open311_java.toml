@@ -1,6 +1,7 @@
 code_url = "https://github.com/codeforeurope/open311_java"
 description = "Java language binding (wrapper) to the Open311 REST API"
 git_url = "git://github.com/codeforeurope/open311_java.git"
+last_commit = "2017-04-19T08:37:56Z"
 name = "open311_java"
 organization_name = "Code for Europe"
 topics = [ "java", "open311" ]

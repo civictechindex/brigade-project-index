@@ -1,6 +1,7 @@
 code_url = "https://github.com/codeforeurope/docker-attendize"
 description = "Docker for https://www.attendize.com"
 git_url = "git://github.com/codeforeurope/docker-attendize.git"
+last_commit = "2016-12-20T21:01:56Z"
 name = "docker-attendize"
 organization_name = "Code for Europe"
 
