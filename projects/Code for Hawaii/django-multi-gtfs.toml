@@ -1,6 +1,7 @@
 code_url = "https://github.com/CodeforHawaii/django-multi-gtfs"
 description = "Django app to import and export General Transit Feed Specification (GTFS)"
 git_url = "git://github.com/CodeforHawaii/django-multi-gtfs.git"
+last_commit = "2016-08-02T12:58:08Z"
 link_url = "http://tulsawebdevs.org/"
 name = "django-multi-gtfs"
 organization_name = "Code for Hawaii"

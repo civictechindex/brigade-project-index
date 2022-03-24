@@ -1,6 +1,7 @@
 code_url = "https://github.com/CodeforHawaii/uipa_org"
 description = "Managing all the changes from the original froide installation for uipa.org"
 git_url = "git://github.com/CodeforHawaii/uipa_org.git"
+last_commit = "2018-10-11T07:44:43Z"
 link_url = "http://uipa.org"
 name = "uipa_org"
 organization_name = "Code for Hawaii"
@@ -28,7 +29,7 @@ name = "uipa_org"
 node_id = "MDEwOlJlcG9zaXRvcnk0MjQ3MzM3Mw=="
 open_issues_within = 10
 private = false
-pushed_within = "month"
+pushed_within = "year"
 stargazers_within = 10
 topics = [ ]
 updated_within = "year"

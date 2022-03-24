@@ -1,6 +1,7 @@
 code_url = "https://github.com/CodeforHawaii/puppet-solr"
 description = "Puppet module for installing solr with a stand alone jetty server"
 git_url = "git://github.com/CodeforHawaii/puppet-solr.git"
+last_commit = "2016-08-24T08:41:35Z"
 name = "puppet-solr"
 organization_name = "Code for Hawaii"
 
