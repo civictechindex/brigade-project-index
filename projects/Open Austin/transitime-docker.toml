@@ -1,6 +1,7 @@
 code_url = "https://github.com/open-austin/transitime-docker"
 description = "Dockerfile for transitime. Don't use this! Its just an experiment."
 git_url = "git://github.com/open-austin/transitime-docker.git"
+last_commit = "2015-11-22T22:09:47Z"
 name = "transitime-docker"
 organization_name = "Open Austin"
 topics = [ "transportation" ]

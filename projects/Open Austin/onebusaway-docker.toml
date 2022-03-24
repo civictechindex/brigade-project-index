@@ -1,6 +1,7 @@
 code_url = "https://github.com/open-austin/onebusaway-docker"
 description = "Docker scripts to start a oneBusAway server. Do not use this."
 git_url = "git://github.com/open-austin/onebusaway-docker.git"
+last_commit = "2016-01-26T01:00:08Z"
 name = "onebusaway-docker"
 organization_name = "Open Austin"
 
