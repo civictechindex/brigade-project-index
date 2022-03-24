@@ -1,6 +1,7 @@
 code_url = "https://github.com/DataSF/muni-satori"
 description = "Node server to push nextbus vehicle locations to Satori"
 git_url = "git://github.com/DataSF/muni-satori.git"
+last_commit = "2017-04-17T18:26:33Z"
 name = "muni-satori"
 organization_name = "Data SF"
 

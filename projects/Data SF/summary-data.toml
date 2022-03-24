@@ -1,6 +1,7 @@
 code_url = "https://github.com/DataSF/summary-data"
 description = "A general store for summary data in CSV format pivoted from our data catalog to support our data hub products."
 git_url = "git://github.com/DataSF/summary-data.git"
+last_commit = "2016-03-09T18:19:25Z"
 name = "summary-data"
 organization_name = "Data SF"
 

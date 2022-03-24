@@ -1,6 +1,7 @@
 code_url = "https://github.com/DataSF/migrate-sftp-data"
 description = "Migrates CSV files on the SFTP server to the open data portal"
 git_url = "git://github.com/DataSF/migrate-sftp-data.git"
+last_commit = "2017-10-26T18:31:38Z"
 name = "migrate-sftp-data"
 organization_name = "Data SF"
 topics = [ "etl", "extract", "load" ]

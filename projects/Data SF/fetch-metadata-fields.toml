@@ -1,6 +1,7 @@
 code_url = "https://github.com/DataSF/fetch-metadata-fields"
 description = "Utility node and python scripts to grab and update socrata field and metadata information"
 git_url = "git://github.com/DataSF/fetch-metadata-fields.git"
+last_commit = "2017-10-04T00:21:48Z"
 name = "fetch-metadata-fields"
 organization_name = "Data SF"
 
