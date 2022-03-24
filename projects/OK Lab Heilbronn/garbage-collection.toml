@@ -1,6 +1,7 @@
 code_url = "https://github.com/opendata-heilbronn/garbage-collection"
 description = "Image scraping of garbage collection schedules in Germany using pdfjs / canvas"
 git_url = "git://github.com/opendata-heilbronn/garbage-collection.git"
+last_commit = "2015-11-13T10:13:35Z"
 name = "garbage-collection"
 organization_name = "OK Lab Heilbronn"
 

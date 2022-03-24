@@ -1,6 +1,7 @@
 code_url = "https://github.com/opendata-heilbronn/codeweek-2021-go"
 description = "Go Workshop presentation for the Code Week 2021"
 git_url = "git://github.com/opendata-heilbronn/codeweek-2021-go.git"
+last_commit = "2021-10-14T06:46:32Z"
 name = "codeweek-2021-go"
 organization_name = "OK Lab Heilbronn"
 topics = [ "hacktoberfest" ]

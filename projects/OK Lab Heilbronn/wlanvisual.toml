@@ -1,6 +1,7 @@
 code_url = "https://github.com/opendata-heilbronn/wlanvisual"
 description = "WLAN RSSI Visualisation with ESP8266 and WS2812b-LEDs (and a little OLED Display)"
 git_url = "git://github.com/opendata-heilbronn/wlanvisual.git"
+last_commit = "2018-04-01T21:06:55Z"
 name = "wlanvisual"
 organization_name = "OK Lab Heilbronn"
 

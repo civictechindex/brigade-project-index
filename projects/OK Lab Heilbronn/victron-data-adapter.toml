@@ -1,6 +1,7 @@
 code_url = "https://github.com/opendata-heilbronn/victron-data-adapter"
 description = ".NET Standard implementation of the protocols (Text and Hex) used by Victron Solar Charge Controllers (BlueSolar/SmartSolar) + Adapter to write streaming data from a Victron solar charge controller to InfluxDB."
 git_url = "git://github.com/opendata-heilbronn/victron-data-adapter.git"
+last_commit = "2022-01-09T06:12:20Z"
 name = "victron-data-adapter"
 organization_name = "OK Lab Heilbronn"
 topics = [
