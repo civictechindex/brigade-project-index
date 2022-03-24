@@ -1,6 +1,7 @@
 code_url = "https://github.com/OpenDataDE/html2csv"
 description = "Reads HTML files, converting tables into CSV files"
 git_url = "git://github.com/OpenDataDE/html2csv.git"
+last_commit = "2018-12-06T00:31:32Z"
 name = "html2csv"
 organization_name = "Open Data Delaware"
 
