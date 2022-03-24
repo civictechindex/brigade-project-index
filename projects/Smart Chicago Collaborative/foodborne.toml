@@ -1,6 +1,7 @@
 code_url = "https://github.com/smartchicago/foodborne"
 description = "Manages tweets about food poisoning in Chicago and presents Open311 form for reporting incidents."
 git_url = "git://github.com/smartchicago/foodborne.git"
+last_commit = "2017-01-25T16:25:47Z"
 link_url = "http://foodborne.smartchicagoapps.org/"
 name = "foodborne"
 organization_name = "Smart Chicago Collaborative"

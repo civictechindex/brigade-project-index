@@ -1,6 +1,7 @@
 code_url = "https://github.com/smartchicago/TweetCollector"
 description = "A simple node.js application that allows a user to collect tweets from Twitter's search API, and write them to a MongoDB collection."
 git_url = "git://github.com/smartchicago/TweetCollector.git"
+last_commit = "2015-07-26T01:55:26Z"
 link_url = "http://foodborne.smartchicagoapps.org/"
 name = "TweetCollector"
 organization_name = "Smart Chicago Collaborative"
