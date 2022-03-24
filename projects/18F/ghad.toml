@@ -1,6 +1,7 @@
 code_url = "https://github.com/18F/ghad"
 description = "GitHub administration command line tool"
 git_url = "git://github.com/18F/ghad.git"
+last_commit = "2021-09-21T20:58:14Z"
 name = "ghad"
 organization_name = "18F"
 
@@ -26,7 +27,7 @@ name = "ghad"
 node_id = "MDEwOlJlcG9zaXRvcnkyMDQ2MjMwNDE="
 open_issues_within = 10
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 100
 topics = [ ]
 updated_within = "month"

@@ -1,6 +1,7 @@
 code_url = "https://github.com/18F/identity-idva-proxy"
 description = "Provides controlled egress for apps in a restricted-egress cloud.gov space"
 git_url = "git://github.com/18F/identity-idva-proxy.git"
+last_commit = "2022-02-12T00:45:20Z"
 name = "identity-idva-proxy"
 organization_name = "18F"
 

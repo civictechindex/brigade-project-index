@@ -1,6 +1,7 @@
 code_url = "https://github.com/18F/watchtower"
 description = "A run-anywhere, Cloud Foundry drift detection service."
 git_url = "git://github.com/18F/watchtower.git"
+last_commit = "2022-03-16T20:44:50Z"
 name = "watchtower"
 organization_name = "18F"
 

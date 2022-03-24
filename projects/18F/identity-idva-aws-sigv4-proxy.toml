@@ -1,6 +1,7 @@
 code_url = "https://github.com/18F/identity-idva-aws-sigv4-proxy"
 description = "This project signs and proxies HTTP requests with Sigv4"
 git_url = "git://github.com/18F/identity-idva-aws-sigv4-proxy.git"
+last_commit = "2021-11-05T18:10:30Z"
 name = "identity-idva-aws-sigv4-proxy"
 organization_name = "18F"
 

@@ -1,6 +1,7 @@
 code_url = "https://github.com/18F/pages-redirects"
 description = "Redirects traffic from previous pages.18f.gov sites to their new URLs."
 git_url = "git://github.com/18F/pages-redirects.git"
+last_commit = "2021-12-20T22:04:28Z"
 name = "pages-redirects"
 organization_name = "18F"
 

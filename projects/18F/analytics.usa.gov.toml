@@ -1,6 +1,7 @@
 code_url = "https://github.com/18F/analytics.usa.gov"
 description = "The US federal government's web traffic."
 git_url = "git://github.com/18F/analytics.usa.gov.git"
+last_commit = "2022-03-01T16:28:25Z"
 link_url = "https://analytics.usa.gov"
 name = "analytics.usa.gov"
 organization_name = "18F"
@@ -35,7 +36,7 @@ name = "analytics.usa.gov"
 node_id = "MDEwOlJlcG9zaXRvcnkyODY0MzkzNg=="
 open_issues_within = 100
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 1_000
 topics = [
   "analytics",

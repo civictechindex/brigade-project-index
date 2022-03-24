@@ -1,6 +1,7 @@
 code_url = "https://github.com/18F/rails-template"
 description = "18F-flavored Rails app template - very much still a Work In Progress"
 git_url = "git://github.com/18F/rails-template.git"
+last_commit = "2022-03-24T13:21:00Z"
 name = "rails-template"
 organization_name = "18F"
 
@@ -12,7 +13,7 @@ default_branch = "main"
 description = "18F-flavored Rails app template - very much still a Work In Progress"
 disabled = false
 fork = false
-forks_within = 0
+forks_within = 10
 full_name = "18F/rails-template"
 has_downloads = true
 has_issues = true

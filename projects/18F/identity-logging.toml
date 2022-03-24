@@ -1,6 +1,7 @@
 code_url = "https://github.com/18F/identity-logging"
 description = "Logging helpers for login.gov rails apps"
 git_url = "git://github.com/18F/identity-logging.git"
+last_commit = "2021-03-01T20:56:39Z"
 name = "identity-logging"
 organization_name = "18F"
 
