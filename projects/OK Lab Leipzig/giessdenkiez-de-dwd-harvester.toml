@@ -1,6 +1,7 @@
 code_url = "https://github.com/CodeforLeipzig/giessdenkiez-de-dwd-harvester"
 description = "Gather precipitation data from DWD's radolan data set, for the region of Berlin and connect to the trees DB"
 git_url = "git://github.com/CodeforLeipzig/giessdenkiez-de-dwd-harvester.git"
+last_commit = "2021-06-06T13:01:12Z"
 name = "giessdenkiez-de-dwd-harvester"
 organization_name = "OK Lab Leipzig"
 
