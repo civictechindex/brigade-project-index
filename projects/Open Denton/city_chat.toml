@@ -1,6 +1,7 @@
 code_url = "https://github.com/opendenton/city_chat"
 description = "Ask me questions, get answers.... hopefully, give it a second."
 git_url = "git://github.com/opendenton/city_chat.git"
+last_commit = "2018-03-04T20:58:39Z"
 name = "city_chat"
 organization_name = "Open Denton"
 topics = [ "axios", "city-chat", "civic-tech", "react", "yarn" ]
