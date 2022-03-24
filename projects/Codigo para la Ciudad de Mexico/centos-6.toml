@@ -1,6 +1,7 @@
 code_url = "https://github.com/LabPLC/centos-6"
 description = "Acordeon para instalar, configurar y operar nuestro servidor CentOS 6.x"
 git_url = "git://github.com/LabPLC/centos-6.git"
+last_commit = "2014-06-15T04:40:13Z"
 name = "centos-6"
 organization_name = "Codigo para la Ciudad de Mexico"
 
