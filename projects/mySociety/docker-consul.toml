@@ -1,6 +1,7 @@
 code_url = "https://github.com/mysociety/docker-consul"
 description = "Prodcution-ready Docker deployments for CONSUL"
 git_url = "git://github.com/mysociety/docker-consul.git"
+last_commit = "2019-03-07T12:03:49Z"
 link_url = "https://www.mysociety.org/"
 name = "docker-consul"
 organization_name = "mySociety"

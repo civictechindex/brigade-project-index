@@ -1,6 +1,7 @@
 code_url = "https://github.com/mysociety/django-pipeline-csscompressor"
 description = "A django-pipeline compressor to compress css files using the 100% Python csscompressor"
 git_url = "git://github.com/mysociety/django-pipeline-csscompressor.git"
+last_commit = "2016-05-26T13:05:22Z"
 name = "django-pipeline-csscompressor"
 organization_name = "mySociety"
 

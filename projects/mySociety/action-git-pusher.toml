@@ -1,6 +1,7 @@
 code_url = "https://github.com/mysociety/action-git-pusher"
 description = "GithHub Action to push git things somewhere else"
 git_url = "git://github.com/mysociety/action-git-pusher.git"
+last_commit = "2021-03-11T14:25:53Z"
 link_url = "https://www.mysociety.org/"
 name = "action-git-pusher"
 organization_name = "mySociety"

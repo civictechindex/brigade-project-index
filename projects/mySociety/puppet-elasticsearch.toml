@@ -1,6 +1,7 @@
 code_url = "https://github.com/mysociety/puppet-elasticsearch"
 description = "A basic Puppet module for handling legacy Elasticsearch installations"
 git_url = "git://github.com/mysociety/puppet-elasticsearch.git"
+last_commit = "2021-07-23T13:40:49Z"
 link_url = "https://www.mysociety.org/"
 name = "puppet-elasticsearch"
 organization_name = "mySociety"

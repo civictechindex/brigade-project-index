@@ -1,6 +1,7 @@
 code_url = "https://github.com/mysociety/countries"
 description = "All sorts of useful information about every country packaged as convenient little country objects. It includes data from ISO 3166 (countries and states/subdivisions ), ISO 4217 (currency), and E.164 (phone numbers)."
 git_url = "git://github.com/mysociety/countries.git"
+last_commit = "2017-03-06T13:26:29Z"
 name = "countries"
 organization_name = "mySociety"
 

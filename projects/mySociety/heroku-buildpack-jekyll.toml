@@ -1,5 +1,6 @@
 code_url = "https://github.com/mysociety/heroku-buildpack-jekyll"
 git_url = "git://github.com/mysociety/heroku-buildpack-jekyll.git"
+last_commit = "2017-04-19T13:55:47Z"
 name = "heroku-buildpack-jekyll"
 organization_name = "mySociety"
 

@@ -1,6 +1,7 @@
 code_url = "https://github.com/mysociety/slurp"
 description = "A tool for retrieving anonymised stats from deployments of our software."
 git_url = "git://github.com/mysociety/slurp.git"
+last_commit = "2015-08-19T11:55:39Z"
 name = "slurp"
 organization_name = "mySociety"
 

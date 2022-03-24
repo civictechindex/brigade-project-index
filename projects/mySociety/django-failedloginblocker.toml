@@ -1,6 +1,7 @@
 code_url = "https://github.com/mysociety/django-failedloginblocker"
 description = "Fork which is packaged and released on PyPI"
 git_url = "git://github.com/mysociety/django-failedloginblocker.git"
+last_commit = "2013-08-16T15:09:14Z"
 name = "django-failedloginblocker"
 organization_name = "mySociety"
 

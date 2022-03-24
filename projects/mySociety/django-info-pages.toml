@@ -1,6 +1,7 @@
 code_url = "https://github.com/mysociety/django-info-pages"
 description = "Simple support for static information pages, which can also be used for blog posts"
 git_url = "git://github.com/mysociety/django-info-pages.git"
+last_commit = "2019-04-12T08:32:46Z"
 link_url = "https://pypi.org/project/django-info-pages/"
 name = "django-info-pages"
 organization_name = "mySociety"

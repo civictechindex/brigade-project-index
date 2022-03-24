@@ -1,6 +1,7 @@
 code_url = "https://github.com/mysociety/django-profiler-middleware"
 description = "A profiler middleware for Django"
 git_url = "git://github.com/mysociety/django-profiler-middleware.git"
+last_commit = "2014-12-02T15:40:37Z"
 name = "django-profiler-middleware"
 organization_name = "mySociety"
 

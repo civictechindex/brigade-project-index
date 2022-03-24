@@ -1,6 +1,7 @@
 code_url = "https://github.com/mysociety/demographics_explorer"
 description = "Django project to process and render demographics information from services"
 git_url = "git://github.com/mysociety/demographics_explorer.git"
+last_commit = "2021-03-30T11:44:09Z"
 name = "demographics_explorer"
 organization_name = "mySociety"
 

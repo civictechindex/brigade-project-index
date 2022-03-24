@@ -1,6 +1,7 @@
 code_url = "https://github.com/mysociety/xapian-full"
 description = "Ruby Xapian bindings, including xapian-core"
 git_url = "git://github.com/mysociety/xapian-full.git"
+last_commit = "2020-05-21T14:46:52Z"
 name = "xapian-full"
 organization_name = "mySociety"
 topics = [ "alaveteli" ]

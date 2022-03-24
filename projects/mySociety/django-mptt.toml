@@ -1,6 +1,7 @@
 code_url = "https://github.com/mysociety/django-mptt"
 description = "Utilities for implementing a modified pre-order traversal tree in django."
 git_url = "git://github.com/mysociety/django-mptt.git"
+last_commit = "2013-04-04T11:02:37Z"
 name = "django-mptt"
 organization_name = "mySociety"
 

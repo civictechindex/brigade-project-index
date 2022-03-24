@@ -1,6 +1,7 @@
 code_url = "https://github.com/mysociety/django-images"
 description = "Attach images to any Django model, with helpful admin"
 git_url = "git://github.com/mysociety/django-images.git"
+last_commit = "2016-03-24T11:02:51Z"
 name = "django-images"
 organization_name = "mySociety"
 

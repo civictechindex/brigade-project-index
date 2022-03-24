@@ -1,6 +1,7 @@
 code_url = "https://github.com/mysociety/research_common"
 description = "Common django app between research projects"
 git_url = "git://github.com/mysociety/research_common.git"
+last_commit = "2021-03-25T01:10:24Z"
 name = "research_common"
 organization_name = "mySociety"
 

@@ -1,6 +1,7 @@
 code_url = "https://github.com/mysociety/writeinpublic-ansible"
 description = "Fork of https://github.com/jcalazan/ansible-django-stack for running WriteInPublic on AWS"
 git_url = "git://github.com/mysociety/writeinpublic-ansible.git"
+last_commit = "2017-08-11T16:00:30Z"
 name = "writeinpublic-ansible"
 organization_name = "mySociety"
 

@@ -1,6 +1,7 @@
 code_url = "https://github.com/mysociety/foi_monitor"
 description = "Django app to process FOI statistics and compare to WDTK"
 git_url = "git://github.com/mysociety/foi_monitor.git"
+last_commit = "2021-05-28T12:50:49Z"
 name = "foi_monitor"
 organization_name = "mySociety"
 

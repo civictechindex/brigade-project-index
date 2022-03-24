@@ -1,6 +1,7 @@
 code_url = "https://github.com/mysociety/check_lsi_raid"
 description = "Monitoring plugin to check MegaRAID controllers"
 git_url = "git://github.com/mysociety/check_lsi_raid.git"
+last_commit = "2020-08-26T08:51:23Z"
 name = "check_lsi_raid"
 organization_name = "mySociety"
 

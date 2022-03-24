@@ -1,6 +1,7 @@
 code_url = "https://github.com/mysociety/django-sluggable"
 description = "Manage your slugs and redirect old slugs to the new one"
 git_url = "git://github.com/mysociety/django-sluggable.git"
+last_commit = "2019-04-10T11:19:41Z"
 link_url = "django-sluggable.rtfd.org"
 name = "django-sluggable"
 organization_name = "mySociety"

@@ -1,6 +1,7 @@
 code_url = "https://github.com/mysociety/django-slug-helpers"
 description = "A simple model for redirecting from old slugs"
 git_url = "git://github.com/mysociety/django-slug-helpers.git"
+last_commit = "2016-04-11T11:55:03Z"
 name = "django-slug-helpers"
 organization_name = "mySociety"
 

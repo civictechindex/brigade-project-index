@@ -1,6 +1,7 @@
 code_url = "https://github.com/mysociety/sync-ep-to-jkan"
 description = "Syncs EveryPolitician data to mySociety's data portal."
 git_url = "git://github.com/mysociety/sync-ep-to-jkan.git"
+last_commit = "2018-04-04T13:04:41Z"
 link_url = "http://data.mysociety.org/sources/everypolitician/"
 name = "sync-ep-to-jkan"
 organization_name = "mySociety"

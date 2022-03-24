@@ -1,6 +1,7 @@
 code_url = "https://github.com/mysociety/django-debug-queries"
 description = "A context manager for printing Django SQL queries to the terminal"
 git_url = "git://github.com/mysociety/django-debug-queries.git"
+last_commit = "2016-07-06T17:12:22Z"
 name = "django-debug-queries"
 organization_name = "mySociety"
 

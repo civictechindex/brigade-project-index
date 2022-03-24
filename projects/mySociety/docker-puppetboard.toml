@@ -1,6 +1,7 @@
 code_url = "https://github.com/mysociety/docker-puppetboard"
 description = "Configuration and scripts for running a Docker-based Puppetboard service"
 git_url = "git://github.com/mysociety/docker-puppetboard.git"
+last_commit = "2021-09-30T08:36:49Z"
 link_url = "https://www.mysociety.org/"
 name = "docker-puppetboard"
 organization_name = "mySociety"

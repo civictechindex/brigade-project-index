@@ -1,6 +1,7 @@
 code_url = "https://github.com/mysociety/alaveteli-capistrano-vm"
 description = "Alaveteli Capistano Test VM"
 git_url = "git://github.com/mysociety/alaveteli-capistrano-vm.git"
+last_commit = "2015-05-29T09:21:20Z"
 name = "alaveteli-capistrano-vm"
 organization_name = "mySociety"
 topics = [ "alaveteli" ]

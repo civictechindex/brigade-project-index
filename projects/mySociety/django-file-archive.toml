@@ -1,6 +1,7 @@
 code_url = "https://github.com/mysociety/django-file-archive"
 description = "Simple facility for uploading files in the Django admin"
 git_url = "git://github.com/mysociety/django-file-archive.git"
+last_commit = "2016-04-20T08:17:53Z"
 name = "django-file-archive"
 organization_name = "mySociety"
 
