@@ -1,7 +1,7 @@
 code_url = "https://github.com/mysociety/caps"
 description = "A simple, open database of local government climate action plan documents and emissions data. "
 git_url = "git://github.com/mysociety/caps.git"
-last_commit = "2022-03-23T09:49:34Z"
+last_commit = "2022-03-10T09:48:52Z"
 link_url = "https://data.climateemergency.uk"
 name = "caps"
 organization_name = "mySociety"
@@ -33,7 +33,7 @@ has_wiki = true
 homepage = "https://data.climateemergency.uk"
 id = 289_357_345
 is_template = false
-language = "HTML"
+language = "Python"
 name = "caps"
 node_id = "MDEwOlJlcG9zaXRvcnkyODkzNTczNDU="
 open_issues_within = 100
@@ -49,7 +49,7 @@ topics = [
   "mapit",
   "vagrant"
 ]
-updated_within = "year"
+updated_within = "week"
 visibility = "public"
 watchers_within = 10
 
