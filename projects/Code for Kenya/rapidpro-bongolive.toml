@@ -1,6 +1,7 @@
 code_url = "https://github.com/CodeForAfrica/rapidpro-bongolive"
 description = "A tiny express.js app to serve SMSs from BongoLive to RapidPro."
 git_url = "git://github.com/CodeForAfrica/rapidpro-bongolive.git"
+last_commit = "2019-01-04T08:13:24Z"
 name = "rapidpro-bongolive"
 organization_name = "Code for Kenya"
 topics = [
