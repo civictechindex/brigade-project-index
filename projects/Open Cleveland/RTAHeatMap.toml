@@ -1,6 +1,7 @@
 code_url = "https://github.com/opencleveland/RTAHeatMap"
 description = "Python Scripts to generate the distance and time to walk to the nearest public transportation stop in Cuyahoga County and then represent this data as an isochrone map."
 git_url = "git://github.com/opencleveland/RTAHeatMap.git"
+last_commit = "2017-11-05T19:42:42Z"
 name = "RTAHeatMap"
 organization_name = "Open Cleveland"
 

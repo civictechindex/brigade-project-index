@@ -1,6 +1,7 @@
 code_url = "https://github.com/opencleveland/drocer-webapp"
 description = "webapp to search, browse City Council legislative minutes"
 git_url = "git://github.com/opencleveland/drocer-webapp.git"
+last_commit = "2021-04-28T22:45:06Z"
 name = "drocer-webapp"
 organization_name = "Open Cleveland"
 topics = [ "cleveland", "extractor", "legislation" ]
