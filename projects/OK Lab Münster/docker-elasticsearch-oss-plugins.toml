@@ -1,5 +1,6 @@
 code_url = "https://github.com/codeformuenster/docker-elasticsearch-oss-plugins"
 git_url = "git://github.com/codeformuenster/docker-elasticsearch-oss-plugins.git"
+last_commit = "2019-10-23T20:46:16Z"
 name = "docker-elasticsearch-oss-plugins"
 organization_name = "OK Lab Münster"
 topics = [ "dockerfile", "elasticsearch" ]

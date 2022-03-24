@@ -1,6 +1,7 @@
 code_url = "https://github.com/codeformuenster/event-scraper-unims"
 description = "Python scraper for events published by the University of Münster"
 git_url = "git://github.com/codeformuenster/event-scraper-unims.git"
+last_commit = "2017-07-25T18:12:00Z"
 name = "event-scraper-unims"
 organization_name = "OK Lab Münster"
 topics = [ "event-scraper" ]

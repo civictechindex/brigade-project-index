@@ -1,6 +1,7 @@
 code_url = "https://github.com/codeformuenster/event-scraper-muenster"
 description = "scraping events from muenster.de"
 git_url = "git://github.com/codeformuenster/event-scraper-muenster.git"
+last_commit = "2017-10-22T22:23:42Z"
 name = "event-scraper-muenster"
 organization_name = "OK Lab Münster"
 topics = [ "event-scraper" ]
