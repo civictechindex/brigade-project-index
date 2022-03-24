@@ -1,6 +1,7 @@
 code_url = "https://github.com/CodeforChemnitz/SensorProvisioning"
 description = "Provisioning of a sensor node. Mainly to init the Wifi with SSID and password."
 git_url = "git://github.com/CodeforChemnitz/SensorProvisioning.git"
+last_commit = "2015-12-26T20:35:57Z"
 name = "SensorProvisioning"
 organization_name = "OK Lab Chemnitz"
 
