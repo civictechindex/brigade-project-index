@@ -1,6 +1,7 @@
 code_url = "https://github.com/uscensusbureau/SABLE"
 description = "Scraping Assisted by Learning"
 git_url = "git://github.com/uscensusbureau/SABLE.git"
+last_commit = "2020-05-01T14:34:12Z"
 name = "SABLE"
 organization_name = "US Census Bureau"
 topics = [ "machine-learning", "text-classification", "web-scraping" ]
