@@ -1,6 +1,7 @@
 code_url = "https://github.com/OpenCLTBrigade/cats-tweet-analyzer"
 description = "A library to provide access to LYNX Blue Line Service Alerts (they're currently published to Twitter)"
 git_url = "git://github.com/OpenCLTBrigade/cats-tweet-analyzer.git"
+last_commit = "2019-10-21T19:30:57Z"
 name = "cats-tweet-analyzer"
 organization_name = "Open Charlotte Brigade"
 topics = [ "clt", "opendata", "transit" ]
