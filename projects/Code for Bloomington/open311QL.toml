@@ -1,6 +1,7 @@
 code_url = "https://github.com/BMGhack/open311QL"
 description = "An Express hosted GraphQL server to expose the Open311 (GeoReport v2) API"
 git_url = "git://github.com/BMGhack/open311QL.git"
+last_commit = "2018-04-16T04:09:31Z"
 name = "open311QL"
 organization_name = "Code for Bloomington"
 
