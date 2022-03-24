@@ -1,6 +1,7 @@
 code_url = "https://github.com/OpenEugene/bring-client"
 description = "A web portal for uploading photos for organizations to review. The organization may log in and respond to photos using the admin portal, sending messages back to the uploader."
 git_url = "git://github.com/OpenEugene/bring-client.git"
+last_commit = "2020-11-08T20:57:56Z"
 name = "bring-client"
 organization_name = "Open Eugene"
 
