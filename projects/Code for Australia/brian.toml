@@ -1,6 +1,7 @@
 code_url = "https://github.com/CodeforAustralia/brian"
 description = "A case management tool to develop greater trust between offenders and case managers"
 git_url = "git://github.com/CodeforAustralia/brian.git"
+last_commit = "2017-12-13T09:50:27Z"
 name = "brian"
 organization_name = "Code for Australia"
 topics = [ "australia", "corrections", "justice" ]
