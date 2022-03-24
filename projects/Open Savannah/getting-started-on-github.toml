@@ -1,6 +1,7 @@
 code_url = "https://github.com/opensavannah/getting-started-on-github"
 description = "An overview for new Brigade members of how to manage and collaborate on Brigade documents via GitHub with Markdown styling"
 git_url = "git://github.com/opensavannah/getting-started-on-github.git"
+last_commit = "2017-03-16T01:14:57Z"
 name = "getting-started-on-github"
 organization_name = "Open Savannah"
 topics = [ "git", "github", "markdown", "versioning" ]

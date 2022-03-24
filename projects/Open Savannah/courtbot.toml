@@ -1,6 +1,7 @@
 code_url = "https://github.com/opensavannah/courtbot"
 description = "Your friendly neighborhood court robot. Provides an API for getting court case data. Intended to be modular and interoperable."
 git_url = "git://github.com/opensavannah/courtbot.git"
+last_commit = "2018-06-14T08:14:56Z"
 link_url = "https://opensavannah.github.io/courtbot"
 name = "courtbot"
 organization_name = "Open Savannah"
