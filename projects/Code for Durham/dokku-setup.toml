@@ -1,6 +1,7 @@
 code_url = "https://github.com/codefordurham/dokku-setup"
 description = "An ansible playbook to manage a dokku server on AWS."
 git_url = "git://github.com/codefordurham/dokku-setup.git"
+last_commit = "2018-10-27T12:21:39Z"
 name = "dokku-setup"
 organization_name = "Code for Durham"
 
