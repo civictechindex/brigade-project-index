@@ -1,6 +1,7 @@
 code_url = "https://github.com/caciviclab/fetch-swagger-schema"
 description = "Given a url to a swagger api-docs spec, loads it and all related resource declarations as one JSON object."
 git_url = "git://github.com/caciviclab/fetch-swagger-schema.git"
+last_commit = "2015-11-07T19:58:35Z"
 name = "fetch-swagger-schema"
 organization_name = "California Civic Lab"
 
