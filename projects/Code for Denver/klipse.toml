@@ -1,6 +1,7 @@
 code_url = "https://github.com/codefordenver/klipse"
 description = "A simple client-side code evaluator pluggable on any web page: clojure, ruby, javascript, python, scheme, es2017, jsx, brainfuck, c++, reagent, lua, ocaml, reasonml"
 git_url = "git://github.com/codefordenver/klipse.git"
+last_commit = "2017-11-30T11:25:30Z"
 link_url = "http://blog.klipse.tech/"
 name = "klipse"
 organization_name = "Code for Denver"

@@ -1,6 +1,7 @@
 code_url = "https://github.com/codefordenver/mattermost-server"
 description = "Open source Slack-alternative in Golang and React - Mattermost"
 git_url = "git://github.com/codefordenver/mattermost-server.git"
+last_commit = "2020-01-24T14:49:49Z"
 link_url = "https://mattermost.com"
 name = "mattermost-server"
 organization_name = "Code for Denver"
