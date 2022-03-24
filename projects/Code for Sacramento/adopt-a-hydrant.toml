@@ -1,6 +1,7 @@
 code_url = "https://github.com/code4sac/adopt-a-hydrant"
 description = 'A Ruby on Rails application that allows citizens to "adopt" civic infrastructure, such as fire hydrants.'
 git_url = "git://github.com/code4sac/adopt-a-hydrant.git"
+last_commit = "2013-08-01T20:14:22Z"
 link_url = "http://adopt-a-hydrant.heroku.com"
 name = "adopt-a-hydrant"
 organization_name = "Code for Sacramento"

@@ -1,6 +1,7 @@
 code_url = "https://github.com/code4sac/fiscal-elastic-kibana"
 description = "Downloads Fiscal Data (http://fiscalca.opengov.com) and imports it into Elasticsearch.  Kibana is installed to explore the data and create custom visualizations and dashboards."
 git_url = "git://github.com/code4sac/fiscal-elastic-kibana.git"
+last_commit = "2019-04-18T00:23:16Z"
 name = "fiscal-elastic-kibana"
 organization_name = "Code for Sacramento"
 
