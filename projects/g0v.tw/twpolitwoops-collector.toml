@@ -1,6 +1,7 @@
 code_url = "https://github.com/g0v/twpolitwoops-collector"
 description = "Python workers that collect tweets/feeds from the twitter/facebook streaming api and track deletions"
 git_url = "git://github.com/g0v/twpolitwoops-collector.git"
+last_commit = "2015-02-26T13:50:52Z"
 name = "twpolitwoops-collector"
 organization_name = "g0v.tw"
 

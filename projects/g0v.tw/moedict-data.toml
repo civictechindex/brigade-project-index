@@ -1,6 +1,7 @@
 code_url = "https://github.com/g0v/moedict-data"
 description = "教育部重編國語辭典 資料檔; 若有建議或 bug 請在 moedict-process 反應"
 git_url = "git://github.com/g0v/moedict-data.git"
+last_commit = "2018-01-03T05:23:29Z"
 link_url = "https://github.com/g0v/moedict-process"
 name = "moedict-data"
 organization_name = "g0v.tw"

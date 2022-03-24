@@ -1,6 +1,7 @@
 code_url = "https://github.com/g0v/tcbus"
 description = "臺中市公車地圖 (採用 leaflet 連 OSM 底圖)"
 git_url = "git://github.com/g0v/tcbus.git"
+last_commit = "2017-01-18T12:53:50Z"
 name = "tcbus"
 organization_name = "g0v.tw"
 
