@@ -1,6 +1,7 @@
 code_url = "https://github.com/openelections/openelections-results-fl"
 description = "OpenElections-style baked results for Florida elections"
 git_url = "git://github.com/openelections/openelections-results-fl.git"
+last_commit = "2019-03-04T14:48:23Z"
 name = "openelections-results-fl"
 organization_name = "Open Elections"
 topics = [ "elections", "florida" ]

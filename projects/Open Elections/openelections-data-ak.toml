@@ -1,6 +1,7 @@
 code_url = "https://github.com/openelections/openelections-data-ak"
 description = "Pre-processed CSV files of certified election results from Alaska"
 git_url = "git://github.com/openelections/openelections-data-ak.git"
+last_commit = "2021-11-06T17:34:43Z"
 name = "openelections-data-ak"
 organization_name = "Open Elections"
 

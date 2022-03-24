@@ -1,6 +1,7 @@
 code_url = "https://github.com/openelections/fec_results"
 description = "Federal election results data from the Federal Election Commission"
 git_url = "git://github.com/openelections/fec_results.git"
+last_commit = "2016-10-03T12:37:20Z"
 link_url = "http://openelections.github.io/fec_results/"
 name = "fec_results"
 organization_name = "Open Elections"

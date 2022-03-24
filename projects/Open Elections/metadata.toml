@@ -1,6 +1,7 @@
 code_url = "https://github.com/openelections/metadata"
 description = "Python API wrapper for OpenElections metadata API"
 git_url = "git://github.com/openelections/metadata.git"
+last_commit = "2015-09-30T01:12:01Z"
 name = "metadata"
 organization_name = "Open Elections"
 

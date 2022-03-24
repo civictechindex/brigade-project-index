@@ -1,6 +1,7 @@
 code_url = "https://github.com/openelections/openelections-sources"
 description = "Page for latest source file additions"
 git_url = "git://github.com/openelections/openelections-sources.git"
+last_commit = "2016-11-30T01:17:03Z"
 name = "openelections-sources"
 organization_name = "Open Elections"
 

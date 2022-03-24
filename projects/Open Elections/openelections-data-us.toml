@@ -1,6 +1,7 @@
 code_url = "https://github.com/openelections/openelections-data-us"
 description = "Pre-processed nationwide election results for contests (president, congress, governor)"
 git_url = "git://github.com/openelections/openelections-data-us.git"
+last_commit = "2021-12-05T19:52:20Z"
 name = "openelections-data-us"
 organization_name = "Open Elections"
 

@@ -1,6 +1,7 @@
 code_url = "https://github.com/openelections/openelections-data-mt"
 description = "Pre-processed results for Montana elections"
 git_url = "git://github.com/openelections/openelections-data-mt.git"
+last_commit = "2021-11-20T17:45:52Z"
 name = "openelections-data-mt"
 organization_name = "Open Elections"
 topics = [ "elections", "montana" ]
