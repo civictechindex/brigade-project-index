@@ -1,6 +1,7 @@
 code_url = "https://github.com/CodeForAsheville/rjc-aws"
 description = "CloudFormation stack template describing and managing an API Gateway and related resources in AWS for proxying requests to the Action Network API for the Racial Justice Coalition."
 git_url = "git://github.com/CodeForAsheville/rjc-aws.git"
+last_commit = "2020-12-13T23:50:28Z"
 name = "rjc-aws"
 organization_name = "Code for Asheville"
 

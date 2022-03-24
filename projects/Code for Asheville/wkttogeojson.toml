@@ -1,6 +1,7 @@
 code_url = "https://github.com/CodeForAsheville/wkttogeojson"
 description = "Give a URL that produces a CSV, and convert a field from WKT to GeoJSON."
 git_url = "git://github.com/CodeForAsheville/wkttogeojson.git"
+last_commit = "2015-04-30T18:31:41Z"
 name = "wkttogeojson"
 organization_name = "Code for Asheville"
 

@@ -1,6 +1,7 @@
 code_url = "https://github.com/CodeForAsheville/pdf-case-compare"
 description = "Help attorney do due diligence for expungement by searching for cases in LexisNexis report that are not in North Carolina Criminal and Infraction Public Records Search (CIPRS) report."
 git_url = "git://github.com/CodeForAsheville/pdf-case-compare.git"
+last_commit = "2022-02-26T19:05:13Z"
 name = "pdf-case-compare"
 organization_name = "Code for Asheville"
 topics = [ "ciprs", "expungement", "lexisnexis" ]

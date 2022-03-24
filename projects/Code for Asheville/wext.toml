@@ -1,6 +1,7 @@
 code_url = "https://github.com/CodeForAsheville/wext"
 description = "Petition form generation app to streamline expunction process in North Carolina"
 git_url = "git://github.com/CodeForAsheville/wext.git"
+last_commit = "2021-10-15T01:49:57Z"
 name = "wext"
 organization_name = "Code for Asheville"
 topics = [ "hacktoberfest", "hacktoberfest2021" ]
