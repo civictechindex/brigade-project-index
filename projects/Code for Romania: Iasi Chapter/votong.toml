@@ -1,6 +1,7 @@
 code_url = "https://github.com/code4romania/votong"
 description = "Platform to help NGOs and Associations within the Civic Society nominate candidates and vote in several rounds of elections"
 git_url = "git://github.com/code4romania/votong.git"
+last_commit = "2022-03-17T09:41:59Z"
 name = "votong"
 organization_name = "Code for Romania: Iasi Chapter"
 topics = [ "hacktoberfest" ]
