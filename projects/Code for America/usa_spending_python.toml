@@ -1,6 +1,7 @@
 code_url = "https://github.com/codeforamerica/usa_spending_python"
 description = "Python wrapper for the USA Spending API"
 git_url = "git://github.com/codeforamerica/usa_spending_python.git"
+last_commit = "2011-08-08T19:14:19Z"
 link_url = "http://usaspending.gov/data?carryfilters=on"
 name = "usa_spending_python"
 organization_name = "Code for America"

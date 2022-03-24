@@ -1,6 +1,7 @@
 code_url = "https://github.com/codeforamerica/node-gtfs-zip-proxy"
 description = "microservice to create Google transit compatible zip files from gtfs on github"
 git_url = "git://github.com/codeforamerica/node-gtfs-zip-proxy.git"
+last_commit = "2014-07-22T19:11:14Z"
 name = "node-gtfs-zip-proxy"
 organization_name = "Code for America"
 

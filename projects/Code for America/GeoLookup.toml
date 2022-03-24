@@ -1,6 +1,7 @@
 code_url = "https://github.com/codeforamerica/GeoLookup"
 description = "A python script to do coordinate lookups on addresses using the Google Maps Geocoding API."
 git_url = "git://github.com/codeforamerica/GeoLookup.git"
+last_commit = "2012-06-17T02:33:43Z"
 name = "GeoLookup"
 organization_name = "Code for America"
 

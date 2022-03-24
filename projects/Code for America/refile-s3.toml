@@ -1,6 +1,7 @@
 code_url = "https://github.com/codeforamerica/refile-s3"
 description = "Amazon S3 Backend for Refile (forked by CfA to add encryption)"
 git_url = "git://github.com/codeforamerica/refile-s3.git"
+last_commit = "2016-09-14T19:20:32Z"
 name = "refile-s3"
 organization_name = "Code for America"
 

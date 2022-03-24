@@ -1,6 +1,7 @@
 code_url = "https://github.com/codeforamerica/courtbot-reporter"
 description = "performs ETL on courtbot data, then produces insights and interactive data visualizations"
 git_url = "git://github.com/codeforamerica/courtbot-reporter.git"
+last_commit = "2016-02-03T21:33:21Z"
 link_url = "https://courtbot-reporter.herokuapp.com/"
 name = "courtbot-reporter"
 organization_name = "Code for America"

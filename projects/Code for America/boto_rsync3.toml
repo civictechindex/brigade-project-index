@@ -1,6 +1,7 @@
 code_url = "https://github.com/codeforamerica/boto_rsync3"
 description = "An rsync-like utility using boto's S3 and Google Storage interfaces for python 3"
 git_url = "git://github.com/codeforamerica/boto_rsync3.git"
+last_commit = "2017-03-16T18:17:04Z"
 name = "boto_rsync3"
 organization_name = "Code for America"
 

@@ -1,6 +1,7 @@
 code_url = "https://github.com/codeforamerica/address-normalizer"
 description = "A simple tool that takes a CSV file with addresses and normalizes them."
 git_url = "git://github.com/codeforamerica/address-normalizer.git"
+last_commit = "2013-06-22T22:53:02Z"
 name = "address-normalizer"
 organization_name = "Code for America"
 

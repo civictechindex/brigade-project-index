@@ -1,6 +1,7 @@
 code_url = "https://github.com/codeforamerica/tracker-git"
 description = "Integrations with Pivotal Tracker based on current Git repository."
 git_url = "git://github.com/codeforamerica/tracker-git.git"
+last_commit = "2017-11-17T00:36:31Z"
 name = "tracker-git"
 organization_name = "Code for America"
 

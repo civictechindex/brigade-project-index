@@ -1,6 +1,7 @@
 code_url = "https://github.com/codeforamerica/heroku-pdftk-java-buildpack"
 description = "Install pdftk-java on Heroku"
 git_url = "git://github.com/codeforamerica/heroku-pdftk-java-buildpack.git"
+last_commit = "2020-02-03T19:23:24Z"
 name = "heroku-pdftk-java-buildpack"
 organization_name = "Code for America"
 

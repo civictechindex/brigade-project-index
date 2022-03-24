@@ -1,6 +1,7 @@
 code_url = "https://github.com/codeforamerica/bors-hubot-for-slack"
 description = "The hubot running on CfA's Slack"
 git_url = "git://github.com/codeforamerica/bors-hubot-for-slack.git"
+last_commit = "2015-09-29T04:28:42Z"
 name = "bors-hubot-for-slack"
 organization_name = "Code for America"
 

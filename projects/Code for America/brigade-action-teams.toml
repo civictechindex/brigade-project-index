@@ -1,6 +1,7 @@
 code_url = "https://github.com/codeforamerica/brigade-action-teams"
 description = "List the active Brigade Action Teams (BATs) in the Code for America brigade network"
 git_url = "git://github.com/codeforamerica/brigade-action-teams.git"
+last_commit = "2019-03-30T03:39:58Z"
 name = "brigade-action-teams"
 organization_name = "Code for America"
 

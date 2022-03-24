@@ -1,6 +1,7 @@
 code_url = "https://github.com/codeforamerica/forum"
 description = "A light weight forum powered by GitHub Issues. It can be pointed towards any GitHub repository."
 git_url = "git://github.com/codeforamerica/forum.git"
+last_commit = "2015-03-16T03:41:29Z"
 name = "forum"
 organization_name = "Code for America"
 
