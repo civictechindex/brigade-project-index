@@ -1,6 +1,7 @@
 code_url = "https://github.com/CodeForBrazil/datapusher"
 description = "A standalone web service that pushes data files from a CKAN site's resources into its DataStore"
 git_url = "git://github.com/CodeForBrazil/datapusher.git"
+last_commit = "2015-10-26T12:43:13Z"
 link_url = "http://docs.ckan.org/projects/datapusher"
 name = "datapusher"
 organization_name = "Code for Brazil"

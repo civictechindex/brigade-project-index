@@ -1,6 +1,7 @@
 code_url = "https://github.com/CodeForBrazil/ckan-docker"
 description = "Developing and deploying CKAN with Docker"
 git_url = "git://github.com/CodeForBrazil/ckan-docker.git"
+last_commit = "2016-03-05T13:11:18Z"
 name = "ckan-docker"
 organization_name = "Code for Brazil"
 
