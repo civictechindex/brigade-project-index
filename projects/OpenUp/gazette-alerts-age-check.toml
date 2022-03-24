@@ -1,6 +1,7 @@
 code_url = "https://github.com/OpenUpSA/gazette-alerts-age-check"
 description = "Automated check to inform us when gazette search alerts aren't going out to users."
 git_url = "git://github.com/OpenUpSA/gazette-alerts-age-check.git"
+last_commit = "2019-08-18T11:30:53Z"
 name = "gazette-alerts-age-check"
 organization_name = "OpenUp"
 

@@ -1,6 +1,7 @@
 code_url = "https://github.com/OpenUpSA/docker-elk"
 description = "The ELK stack powered by Docker and Compose."
 git_url = "git://github.com/OpenUpSA/docker-elk.git"
+last_commit = "2018-07-24T07:36:45Z"
 name = "docker-elk"
 organization_name = "OpenUp"
 

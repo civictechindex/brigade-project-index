@@ -1,6 +1,7 @@
 code_url = "https://github.com/OpenUpSA/wazimap-dynamic-profile"
 description = "django package to generate wazimap census profiles dynamically"
 git_url = "git://github.com/OpenUpSA/wazimap-dynamic-profile.git"
+last_commit = "2020-01-27T09:17:59Z"
 name = "wazimap-dynamic-profile"
 organization_name = "OpenUp"
 

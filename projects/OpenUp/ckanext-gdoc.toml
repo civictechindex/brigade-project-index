@@ -1,6 +1,7 @@
 code_url = "https://github.com/OpenUpSA/ckanext-gdoc"
 description = "A previewer for CKAN that uses the Google Doc Previewer to view documents"
 git_url = "git://github.com/OpenUpSA/ckanext-gdoc.git"
+last_commit = "2017-10-13T09:36:46Z"
 name = "ckanext-gdoc"
 organization_name = "OpenUp"
 

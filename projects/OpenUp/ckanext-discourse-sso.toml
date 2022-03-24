@@ -1,6 +1,7 @@
 code_url = "https://github.com/OpenUpSA/ckanext-discourse-sso"
 description = "Discourse SSO with CKAN as the user authority"
 git_url = "git://github.com/OpenUpSA/ckanext-discourse-sso.git"
+last_commit = "2018-03-15T11:05:37Z"
 name = "ckanext-discourse-sso"
 organization_name = "OpenUp"
 

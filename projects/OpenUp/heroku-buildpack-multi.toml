@@ -1,6 +1,7 @@
 code_url = "https://github.com/OpenUpSA/heroku-buildpack-multi"
 description = "DEPRECATED: Composable buildpacks"
 git_url = "git://github.com/OpenUpSA/heroku-buildpack-multi.git"
+last_commit = "2019-09-04T06:51:24Z"
 name = "heroku-buildpack-multi"
 organization_name = "OpenUp"
 

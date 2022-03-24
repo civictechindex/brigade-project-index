@@ -1,6 +1,7 @@
 code_url = "https://github.com/OpenUpSA/terraform-spike"
 description = "An experiment in provisioning resources using terraform"
 git_url = "git://github.com/OpenUpSA/terraform-spike.git"
+last_commit = "2019-04-13T00:51:10Z"
 name = "terraform-spike"
 organization_name = "OpenUp"
 

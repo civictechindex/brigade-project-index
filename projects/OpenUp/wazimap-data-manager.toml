@@ -1,6 +1,7 @@
 code_url = "https://github.com/OpenUpSA/wazimap-data-manager"
 description = "django application to upload datasets to wazimap"
 git_url = "git://github.com/OpenUpSA/wazimap-data-manager.git"
+last_commit = "2020-01-20T13:06:06Z"
 name = "wazimap-data-manager"
 organization_name = "OpenUp"
 

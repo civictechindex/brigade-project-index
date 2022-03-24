@@ -1,6 +1,7 @@
 code_url = "https://github.com/OpenUpSA/docker-elasticsearch"
 description = "Customised ElasticSearch Docker image"
 git_url = "git://github.com/OpenUpSA/docker-elasticsearch.git"
+last_commit = "2015-11-13T15:07:12Z"
 name = "docker-elasticsearch"
 organization_name = "OpenUp"
 

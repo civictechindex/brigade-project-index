@@ -1,6 +1,7 @@
 code_url = "https://github.com/OpenUpSA/wkhtmltopdf-buildpack"
 description = "Heroku buildpack for WKHTMLTOPDF"
 git_url = "git://github.com/OpenUpSA/wkhtmltopdf-buildpack.git"
+last_commit = "2018-03-09T16:13:33Z"
 name = "wkhtmltopdf-buildpack"
 organization_name = "OpenUp"
 

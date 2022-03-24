@@ -1,6 +1,7 @@
 code_url = "https://github.com/OpenUpSA/gazettes-aleph-dokku-worker"
 description = "Repo to be able to deploy aleph (worker) via dockerfile"
 git_url = "git://github.com/OpenUpSA/gazettes-aleph-dokku-worker.git"
+last_commit = "2020-04-20T11:12:08Z"
 name = "gazettes-aleph-dokku-worker"
 organization_name = "OpenUp"
 

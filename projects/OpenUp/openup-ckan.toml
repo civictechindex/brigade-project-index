@@ -1,6 +1,7 @@
 code_url = "https://github.com/OpenUpSA/openup-ckan"
 description = "Dokku Dockerfile-based deployment repository for CKAN for OpenUp's data portal"
 git_url = "git://github.com/OpenUpSA/openup-ckan.git"
+last_commit = "2020-05-03T18:11:35Z"
 name = "openup-ckan"
 organization_name = "OpenUp"
 
