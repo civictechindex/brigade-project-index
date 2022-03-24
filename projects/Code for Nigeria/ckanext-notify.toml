@@ -1,6 +1,7 @@
 code_url = "https://github.com/CodeForAfrica/ckanext-notify"
 description = "[EXPERIMENTAL] CKAN extension to provide more options for notifications such as Slack notifications."
 git_url = "git://github.com/CodeForAfrica/ckanext-notify.git"
+last_commit = "2017-11-13T14:00:57Z"
 name = "ckanext-notify"
 organization_name = "Code for Nigeria"
 topics = [

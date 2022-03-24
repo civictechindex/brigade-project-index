@@ -1,6 +1,7 @@
 code_url = "https://github.com/CodeForAfrica/cors-anywhere"
 description = "CORS Anywhere is a NodeJS reverse proxy which adds CORS headers to the proxied request."
 git_url = "git://github.com/CodeForAfrica/cors-anywhere.git"
+last_commit = "2019-03-25T16:01:42Z"
 name = "cors-anywhere"
 organization_name = "Code for Nigeria"
 

@@ -1,6 +1,7 @@
 code_url = "https://github.com/CodeForAfrica/outline-server"
 description = "Outline Manager, developed by Jigsaw. The Outline Manager application creates and manages Outline servers, powered by Shadowsocks. It uses the Electron framework to offer support for Windows, macOS and Linux."
 git_url = "git://github.com/CodeForAfrica/outline-server.git"
+last_commit = "2019-02-01T18:13:22Z"
 link_url = "https://getoutline.org/"
 name = "outline-server"
 organization_name = "Code for Nigeria"
