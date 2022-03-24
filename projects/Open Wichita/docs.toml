@@ -1,6 +1,7 @@
 code_url = "https://github.com/openwichita/docs"
 description = "Various organizational documents! Feel free to offer changes and suggestions."
 git_url = "git://github.com/openwichita/docs.git"
+last_commit = "2017-08-12T23:06:42Z"
 name = "docs"
 organization_name = "Open Wichita"
 topics = [ "documentation", "markdown" ]
