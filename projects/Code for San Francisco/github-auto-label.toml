@@ -1,6 +1,7 @@
 code_url = "https://github.com/sfbrigade/github-auto-label"
 description = "A small Node.js webhook service to auto-label new issues or PRs on submission"
 git_url = "git://github.com/sfbrigade/github-auto-label.git"
+last_commit = "2016-04-06T02:42:02Z"
 name = "github-auto-label"
 organization_name = "Code for San Francisco"
 

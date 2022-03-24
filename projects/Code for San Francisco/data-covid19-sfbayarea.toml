@@ -1,6 +1,7 @@
 code_url = "https://github.com/sfbrigade/data-covid19-sfbayarea"
 description = "Manual and automated processes of sourcing data for the stop-covid19-sfbayarea project"
 git_url = "git://github.com/sfbrigade/data-covid19-sfbayarea.git"
+last_commit = "2021-12-28T16:47:12Z"
 name = "data-covid19-sfbayarea"
 organization_name = "Code for San Francisco"
 topics = [ "covid-19", "data", "python", "web-scraping" ]
