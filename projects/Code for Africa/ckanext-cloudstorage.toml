@@ -1,6 +1,7 @@
 code_url = "https://github.com/CodeForAfrica/ckanext-cloudstorage"
 description = "Implements support for resource storage against multiple popular providers via apache-libcloud (S3, Azure Storage, etc...)"
 git_url = "git://github.com/CodeForAfrica/ckanext-cloudstorage.git"
+last_commit = "2019-06-06T00:14:47Z"
 name = "ckanext-cloudstorage"
 organization_name = "Code for Africa"
 

@@ -1,6 +1,7 @@
 code_url = "https://github.com/CodeForAfrica/ckanext-socialite"
 description = "[EXPERIMENTAL] A CKAN extension to allow login using Google, Facebook, Twitter or Github."
 git_url = "git://github.com/CodeForAfrica/ckanext-socialite.git"
+last_commit = "2017-11-29T09:11:24Z"
 name = "ckanext-socialite"
 organization_name = "Code for Africa"
 topics = [

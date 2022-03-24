@@ -1,6 +1,7 @@
 code_url = "https://github.com/CodeForAfrica/ckanext-s3-resources"
 description = "CKAN Extension to upload resources to AWS S3 https://data.gov.sg"
 git_url = "git://github.com/CodeForAfrica/ckanext-s3-resources.git"
+last_commit = "2018-03-07T18:39:04Z"
 name = "ckanext-s3-resources"
 organization_name = "Code for Africa"
 

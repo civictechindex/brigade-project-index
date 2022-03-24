@@ -1,6 +1,7 @@
 code_url = "https://github.com/CodeForAfrica/ckanext-embed"
 description = "Making for easy, beautiful embeds of organizations, groups, and datasets from CKAN."
 git_url = "git://github.com/CodeForAfrica/ckanext-embed.git"
+last_commit = "2017-10-18T11:28:45Z"
 name = "ckanext-embed"
 organization_name = "Code for Africa"
 topics = [
