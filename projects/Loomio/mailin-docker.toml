@@ -1,6 +1,7 @@
 code_url = "https://github.com/loomio/mailin-docker"
 description = "Dockerfile to build an image with Mailin - http://mailin.io/"
 git_url = "git://github.com/loomio/mailin-docker.git"
+last_commit = "2022-02-03T01:06:48Z"
 name = "mailin-docker"
 organization_name = "Loomio"
 
