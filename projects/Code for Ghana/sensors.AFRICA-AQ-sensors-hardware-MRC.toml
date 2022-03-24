@@ -1,5 +1,6 @@
 code_url = "https://github.com/CodeForAfrica/sensors.AFRICA-AQ-sensors-hardware-MRC"
 git_url = "git://github.com/CodeForAfrica/sensors.AFRICA-AQ-sensors-hardware-MRC.git"
+last_commit = "2020-11-23T11:55:46Z"
 name = "sensors.AFRICA-AQ-sensors-hardware-MRC"
 organization_name = "Code for Ghana"
 
@@ -26,7 +27,7 @@ private = false
 pushed_within = "over_a_year"
 stargazers_within = 0
 topics = [ ]
-updated_within = "week"
+updated_within = "month"
 visibility = "public"
 watchers_within = 0
 

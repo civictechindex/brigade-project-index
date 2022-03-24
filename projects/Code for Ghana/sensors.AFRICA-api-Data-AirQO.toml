@@ -1,6 +1,7 @@
 code_url = "https://github.com/CodeForAfrica/sensors.AFRICA-api-Data-AirQO"
 description = "A serverless python application that pulls airqo data and push them to sensors.AFRICA api"
 git_url = "git://github.com/CodeForAfrica/sensors.AFRICA-api-Data-AirQO.git"
+last_commit = "2021-01-29T10:22:01Z"
 name = "sensors.AFRICA-api-Data-AirQO"
 organization_name = "Code for Ghana"
 

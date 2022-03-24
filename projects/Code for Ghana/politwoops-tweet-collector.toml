@@ -1,6 +1,7 @@
 code_url = "https://github.com/CodeForAfrica/politwoops-tweet-collector"
 description = "Python workers that collect tweets from the twitter streaming api and track deletions"
 git_url = "git://github.com/CodeForAfrica/politwoops-tweet-collector.git"
+last_commit = "2021-09-27T14:14:28Z"
 name = "politwoops-tweet-collector"
 organization_name = "Code for Ghana"
 

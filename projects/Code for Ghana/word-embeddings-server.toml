@@ -1,6 +1,7 @@
 code_url = "https://github.com/CodeForAfrica/word-embeddings-server"
 description = "Helpful micro-service to return results from word2vec models"
 git_url = "git://github.com/CodeForAfrica/word-embeddings-server.git"
+last_commit = "2021-02-11T18:35:07Z"
 name = "word-embeddings-server"
 organization_name = "Code for Ghana"
 

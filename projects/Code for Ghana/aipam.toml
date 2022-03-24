@@ -1,6 +1,7 @@
 code_url = "https://github.com/CodeForAfrica/aipam"
 description = "Clustering PAM data using a tsne algorithm, visualising in clips on a 2D mosaic and allowing users to catagorise sounds."
 git_url = "git://github.com/CodeForAfrica/aipam.git"
+last_commit = "2019-01-18T08:48:12Z"
 name = "aipam"
 organization_name = "Code for Ghana"
 

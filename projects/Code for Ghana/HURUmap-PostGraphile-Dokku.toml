@@ -1,6 +1,7 @@
 code_url = "https://github.com/CodeForAfrica/HURUmap-PostGraphile-Dokku"
 description = "Dokku deployment for PostGraphile. Accessible at https://graphql.hurumap.org/"
 git_url = "git://github.com/CodeForAfrica/HURUmap-PostGraphile-Dokku.git"
+last_commit = "2021-04-14T12:51:26Z"
 name = "HURUmap-PostGraphile-Dokku"
 organization_name = "Code for Ghana"
 
