@@ -1,6 +1,7 @@
 code_url = "https://github.com/milwaukeedata/ckanext-issues"
 description = "CKAN extension that allows issue reporting with datasets."
 git_url = "git://github.com/milwaukeedata/ckanext-issues.git"
+last_commit = "2016-09-07T21:32:39Z"
 name = "ckanext-issues"
 organization_name = "Milwaukee Data Initiative"
 
