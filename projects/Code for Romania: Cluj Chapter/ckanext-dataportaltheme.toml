@@ -1,6 +1,7 @@
 code_url = "https://github.com/code4romania/ckanext-dataportaltheme"
 description = "Data Portal - theme"
 git_url = "git://github.com/code4romania/ckanext-dataportaltheme.git"
+last_commit = "2021-04-21T11:54:14Z"
 name = "ckanext-dataportaltheme"
 organization_name = "Code for Romania: Cluj Chapter"
 topics = [ "ckan", "dataportal", "theme" ]
