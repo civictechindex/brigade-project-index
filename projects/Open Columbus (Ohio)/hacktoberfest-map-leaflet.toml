@@ -1,6 +1,7 @@
 code_url = "https://github.com/SCODEMeetup/hacktoberfest-map-leaflet"
 description = "Simple Leaflet.js map showing Smart Columbus Experience Center location"
 git_url = "git://github.com/SCODEMeetup/hacktoberfest-map-leaflet.git"
+last_commit = "2018-10-04T20:09:46Z"
 name = "hacktoberfest-map-leaflet"
 organization_name = "Open Columbus (Ohio)"
 topics = [ "leaflet", "leafletjs", "leaflet-layer", "leaflet-map" ]
