@@ -1,6 +1,7 @@
 code_url = "https://github.com/OpenMaine/covid19-website"
 description = "The covid19 subdomain on the openmaine.org website. COVID-19 projects will generally have their own repos."
 git_url = "git://github.com/OpenMaine/covid19-website.git"
+last_commit = "2020-03-22T19:40:43Z"
 name = "covid19-website"
 organization_name = "Open Maine"
 
