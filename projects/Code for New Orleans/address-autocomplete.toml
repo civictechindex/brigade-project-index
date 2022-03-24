@@ -1,6 +1,7 @@
 code_url = "https://github.com/codefornola/address-autocomplete"
 description = "A tool to autocomplete valid New Orleans addresses in html forms"
 git_url = "git://github.com/codefornola/address-autocomplete.git"
+last_commit = "2017-08-27T18:05:26Z"
 name = "address-autocomplete"
 organization_name = "Code for New Orleans"
 topics = [ "civic-tech", "new-orleans", "public-data", "street-address" ]
