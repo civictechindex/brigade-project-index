@@ -1,6 +1,7 @@
 code_url = "https://github.com/Code4HR/norfolkart-tiles"
 description = "A tile server instance for the iArtNorfolk map tiles."
 git_url = "git://github.com/Code4HR/norfolkart-tiles.git"
+last_commit = "2017-10-31T02:29:54Z"
 name = "norfolkart-tiles"
 organization_name = "Code for Hampton Roads"
 topics = [ "deprecated" ]

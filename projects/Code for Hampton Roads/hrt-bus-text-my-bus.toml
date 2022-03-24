@@ -1,6 +1,7 @@
 code_url = "https://github.com/Code4HR/hrt-bus-text-my-bus"
 description = "text to find in realtime when the bus is coming. powered by the hrtb.us api"
 git_url = "git://github.com/Code4HR/hrt-bus-text-my-bus.git"
+last_commit = "2015-01-18T14:23:32Z"
 name = "hrt-bus-text-my-bus"
 organization_name = "Code for Hampton Roads"
 topics = [ "deprecated" ]

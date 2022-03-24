@@ -1,6 +1,7 @@
 code_url = "https://github.com/Code4HR/open-health-inspection-scraper"
 description = "Scraper for the open-health-inspector app."
 git_url = "git://github.com/Code4HR/open-health-inspection-scraper.git"
+last_commit = "2017-05-28T20:35:10Z"
 name = "open-health-inspection-scraper"
 organization_name = "Code for Hampton Roads"
 topics = [ "official", "ohi" ]

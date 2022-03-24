@@ -1,6 +1,7 @@
 code_url = "https://github.com/Code4HR/hrt-bus-healthcheck"
 description = "lambda + alarm to notify when bus app is down"
 git_url = "git://github.com/Code4HR/hrt-bus-healthcheck.git"
+last_commit = "2018-03-22T03:11:30Z"
 name = "hrt-bus-healthcheck"
 organization_name = "Code for Hampton Roads"
 

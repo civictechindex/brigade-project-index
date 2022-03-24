@@ -1,6 +1,7 @@
 code_url = "https://github.com/Code4HR/hercules-dockerfile-base"
 description = "For faster docker image builds, put compose and requirements in it's own image"
 git_url = "git://github.com/Code4HR/hercules-dockerfile-base.git"
+last_commit = "2016-01-19T17:13:56Z"
 name = "hercules-dockerfile-base"
 organization_name = "Code for Hampton Roads"
 topics = [ "hackathon", "hercules" ]
