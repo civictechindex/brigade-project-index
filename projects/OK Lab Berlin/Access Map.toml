@@ -4,6 +4,7 @@ description = """
 Kleines Projekt das mit einem Slider visualisiert, wie barrierefrei 
 Nahverkehrssysteme sind, indem nicht barrierefreie Stationen ausradiert 
 werden. Bisher für New York, London, Hamburg und Berlin umgesetzt."""
+last_commit = "2015-02-23T22:27:31Z"
 link_url = "https://arduina.github.io/access_map/"
 name = "Access Map"
 organization_name = "OK Lab Berlin"
