@@ -1,6 +1,7 @@
 code_url = "https://github.com/CodeandoMexico/ckan"
 description = "CKAN is an open-source DMS (data management system) for powering data hubs and data portals. CKAN makes it easy to publish, share and use data. It powers the http://thedatahub.org/ and http://data.gov.uk/ among many other sites."
 git_url = "git://github.com/CodeandoMexico/ckan.git"
+last_commit = "2013-08-19T11:54:12Z"
 link_url = "http://ckan.org/"
 name = "ckan"
 organization_name = "Codeando México"
