@@ -1,6 +1,7 @@
 code_url = "https://github.com/codefordc/slack-doorbell"
 description = '"Doorbell", so members can text Twilio and it alerts us all on Slack'
 git_url = "git://github.com/codefordc/slack-doorbell.git"
+last_commit = "2015-11-17T01:34:14Z"
 name = "slack-doorbell"
 organization_name = "Code for DC"
 

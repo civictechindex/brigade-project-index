@@ -1,6 +1,7 @@
 code_url = "https://github.com/codefordc/adopt-a-hydrant"
 description = 'A Ruby on Rails application that allows citizens to "adopt" civic infrastructure, such as fire hydrants.'
 git_url = "git://github.com/codefordc/adopt-a-hydrant.git"
+last_commit = "2013-01-23T08:12:39Z"
 link_url = "http://hydrants.codefordc.org"
 name = "adopt-a-hydrant"
 organization_name = "Code for DC"
