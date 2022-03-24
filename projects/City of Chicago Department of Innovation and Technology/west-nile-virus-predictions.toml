@@ -1,6 +1,7 @@
 code_url = "https://github.com/Chicago/west-nile-virus-predictions"
 description = "Algorithm to predict repeated positive results for West Nile Virus for mosquitoes captured in traps across Chicago."
 git_url = "git://github.com/Chicago/west-nile-virus-predictions.git"
+last_commit = "2019-06-11T15:09:49Z"
 name = "west-nile-virus-predictions"
 organization_name = "City of Chicago Department of Innovation and Technology"
 topics = [
@@ -47,7 +48,7 @@ topics = [
   "r",
   "west-nile-virus"
 ]
-updated_within = "week"
+updated_within = "month"
 visibility = "public"
 watchers_within = 100
 

@@ -1,6 +1,7 @@
 code_url = "https://github.com/Chicago/osd-bike-routes"
 description = "Open source release of bike routes in Chicago."
 git_url = "git://github.com/Chicago/osd-bike-routes.git"
+last_commit = "2015-08-25T08:35:32Z"
 name = "osd-bike-routes"
 organization_name = "City of Chicago Department of Innovation and Technology"
 topics = [

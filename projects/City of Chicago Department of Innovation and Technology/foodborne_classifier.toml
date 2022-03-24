@@ -1,6 +1,7 @@
 code_url = "https://github.com/Chicago/foodborne_classifier"
 description = "The classifier used in the http://foodborne.smartchicagoapps.org/ application."
 git_url = "git://github.com/Chicago/foodborne_classifier.git"
+last_commit = "2013-04-23T18:42:47Z"
 name = "foodborne_classifier"
 organization_name = "City of Chicago Department of Innovation and Technology"
 topics = [ "cdph" ]

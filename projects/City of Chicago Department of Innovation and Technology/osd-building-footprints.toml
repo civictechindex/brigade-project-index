@@ -1,6 +1,7 @@
 code_url = "https://github.com/Chicago/osd-building-footprints"
 description = "Open source release of building footprints in Chicago."
 git_url = "git://github.com/Chicago/osd-building-footprints.git"
+last_commit = "2015-08-15T01:05:09Z"
 name = "osd-building-footprints"
 organization_name = "City of Chicago Department of Innovation and Technology"
 topics = [ "chicago", "geojson-data", "government", "open-data" ]

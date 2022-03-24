@@ -1,6 +1,7 @@
 code_url = "https://github.com/Chicago/journal-chicago"
 description = 'An "RMarkdown HTML theme" for a bootstrapped, modern, clean interface intended for technical writings. This design is a modification of the Bootswatch Journal theme.'
 git_url = "git://github.com/Chicago/journal-chicago.git"
+last_commit = "2014-12-14T02:59:29Z"
 name = "journal-chicago"
 organization_name = "City of Chicago Department of Innovation and Technology"
 topics = [ "chicago", "r", "rmarkdown" ]
