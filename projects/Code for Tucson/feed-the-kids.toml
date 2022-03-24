@@ -1,6 +1,7 @@
 code_url = "https://github.com/CodeForTucson/feed-the-kids"
 description = "A mapping project created for NDoCH 2020. This Mapbox map displays where free and reduced lunches are available for school students in Arizona."
 git_url = "git://github.com/CodeForTucson/feed-the-kids.git"
+last_commit = "2020-09-12T22:07:38Z"
 name = "feed-the-kids"
 organization_name = "Code for Tucson"
 topics = [ "code-for-america", "code-for-tucson", "covid-19" ]
