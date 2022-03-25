@@ -1,6 +1,7 @@
 code_url = "https://github.com/Code4PuertoRico/yatse"
 description = "Yet Another Text Search Engine is a template to help create static sites with Lunr.js search."
 git_url = "git://github.com/Code4PuertoRico/yatse.git"
+last_commit = "2020-08-29T21:03:34Z"
 name = "yatse"
 organization_name = "Code for Puerto Rico"
 topics = [ "lunrjs", "nextjs", "reactjs", "search" ]
