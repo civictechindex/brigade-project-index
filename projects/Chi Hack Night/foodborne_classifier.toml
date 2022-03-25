@@ -1,4 +1,5 @@
 code_url = "https://github.com/corynissen/foodborne_classifier"
+last_commit = "2017-04-19T13:14:30Z"
 name = "foodborne_classifier"
 organization_name = "Chi Hack Night"
 
@@ -21,7 +22,7 @@ id = 9_628_942
 is_template = false
 language = "R"
 name = "foodborne_classifier"
-network_count = 139
+network_count = 140
 node_id = "MDEwOlJlcG9zaXRvcnk5NjI4OTQy"
 open_issues_within = 10
 private = false
