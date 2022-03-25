@@ -1,6 +1,7 @@
 code_url = "https://github.com/codeforboston/GovLens"
 description = "We scan thousands of government websites to check how well they stack up on security, accessibility, and public accountability."
 git_url = "git://github.com/codeforboston/GovLens.git"
+last_commit = "2020-02-26T01:32:54Z"
 name = "GovLens"
 organization_name = "Code for Boston"
 topics = [

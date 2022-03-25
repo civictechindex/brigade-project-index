@@ -1,5 +1,6 @@
 code_url = "https://github.com/codeforboston/plogalong"
 git_url = "git://github.com/codeforboston/plogalong.git"
+last_commit = "2021-06-20T21:43:24Z"
 name = "plogalong"
 organization_name = "Code for Boston"
 
@@ -24,7 +25,7 @@ name = "plogalong"
 node_id = "MDEwOlJlcG9zaXRvcnkxNzI4MjE2MDc="
 open_issues_within = 100
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 100
 topics = [ ]
 updated_within = "year"
