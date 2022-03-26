@@ -1,6 +1,6 @@
 code_url = "https://github.com/18F/oes-federalist"
 git_url = "git://github.com/18F/oes-federalist.git"
-last_commit = "2022-03-23T01:01:10Z"
+last_commit = "2022-03-25T19:55:19Z"
 name = "oes-federalist"
 organization_name = "18F"
 
@@ -23,7 +23,7 @@ is_template = false
 language = "CSS"
 name = "oes-federalist"
 node_id = "R_kgDOG-xi_Q"
-open_issues_within = 0
+open_issues_within = 10
 private = false
 pushed_within = "week"
 stargazers_within = 0

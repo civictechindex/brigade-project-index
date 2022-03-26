@@ -1,7 +1,7 @@
 code_url = "https://github.com/18F/charlie"
 description = "18F's Slack bot, Charlie. Based on Hubot."
 git_url = "git://github.com/18F/charlie.git"
-last_commit = "2022-03-22T14:35:28Z"
+last_commit = "2022-03-25T21:06:52Z"
 name = "charlie"
 organization_name = "18F"
 topics = [ "maintained" ]
@@ -32,7 +32,7 @@ private = false
 pushed_within = "week"
 stargazers_within = 100
 topics = [ "maintained" ]
-updated_within = "year"
+updated_within = "week"
 visibility = "public"
 watchers_within = 100
 

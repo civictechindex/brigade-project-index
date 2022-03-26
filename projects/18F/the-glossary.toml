@@ -14,7 +14,7 @@ default_branch = "main"
 description = "Glossary for terms encountered at TTS. Machine- and human-readable. Standing on the shoulders of https://github.com/18F/procurement-glossary"
 disabled = false
 fork = false
-forks_within = 0
+forks_within = 10
 full_name = "18F/the-glossary"
 has_downloads = true
 has_issues = true
@@ -32,7 +32,7 @@ private = false
 pushed_within = "year"
 stargazers_within = 10
 topics = [ "maintained" ]
-updated_within = "month"
+updated_within = "year"
 visibility = "public"
 watchers_within = 10
 
