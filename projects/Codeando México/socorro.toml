@@ -1,6 +1,6 @@
 code_url = "https://github.com/CodeandoMexico/socorro"
 git_url = "git://github.com/CodeandoMexico/socorro.git"
-last_commit = "2022-03-08T02:30:39Z"
+last_commit = "2022-03-27T02:28:04Z"
 link_url = "http://github.codeandomexico.org/socorro/"
 name = "socorro"
 organization_name = "Codeando México"
@@ -22,15 +22,15 @@ has_wiki = true
 homepage = "http://github.codeandomexico.org/socorro/"
 id = 450_184_523
 is_template = false
-language = "SCSS"
+language = "HTML"
 name = "socorro"
 node_id = "R_kgDOGtVFSw"
 open_issues_within = 0
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
-updated_within = "year"
+updated_within = "week"
 visibility = "public"
 watchers_within = 10
 
