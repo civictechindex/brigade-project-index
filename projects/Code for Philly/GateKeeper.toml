@@ -1,6 +1,6 @@
 code_url = "https://github.com/JarvusInnovations/GateKeeper"
 description = "GateKeeper is a web application designed to sit between internal API endpoints and public users, acting as a proxy. It provides a central facility for logging, analyzing, rate-limiting, and credentialing access."
-last_commit = "2021-03-16T20:50:28Z"
+last_commit = "2022-03-28T04:31:01Z"
 link_url = "http://gatekeeper.phlapi.com/"
 name = "GateKeeper"
 organization_name = "Code for Philly"
@@ -29,12 +29,12 @@ network_count = 6
 node_id = "MDEwOlJlcG9zaXRvcnkxNDA1NzYxOQ=="
 open_issues_within = 100
 private = false
-pushed_within = "over_a_year"
+pushed_within = "week"
 stargazers_within = 100
 subscribers_count = 7
 temp_clone_token = ""
 topics = [ ]
-updated_within = "over_a_year"
+updated_within = "week"
 visibility = "public"
 watchers_within = 100
 
