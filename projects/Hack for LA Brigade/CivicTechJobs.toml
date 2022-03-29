@@ -1,6 +1,6 @@
 code_url = "https://github.com/hackforla/CivicTechJobs"
 git_url = "git://github.com/hackforla/CivicTechJobs.git"
-last_commit = "2022-03-17T02:50:48Z"
+last_commit = "2022-03-29T17:15:28Z"
 name = "CivicTechJobs"
 organization_name = "Hack for LA Brigade"
 topics = [
@@ -33,7 +33,7 @@ name = "CivicTechJobs"
 node_id = "MDEwOlJlcG9zaXRvcnkyOTc0OTE5ODI="
 open_issues_within = 100
 private = false
-pushed_within = "month"
+pushed_within = "week"
 score = 1
 stargazers_within = 10
 topics = [
