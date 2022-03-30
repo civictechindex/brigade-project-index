@@ -12,8 +12,6 @@ The index automatically pulls data from the [brigade-information project](https:
    2. **“tags”** should include "Brigade" and "Code for America".
 3. If your brigade is _not_ listed there or you want to consider other ways to include your brigade’s projects, choose one of the methods below.
 
-Note that currently, non-US and non-brigade organizations aren’t currently pulled into the Project Index Statusboard.
-
 ## Ways to index your brigade’s projects
 
 ### Method 1: Using your brigade’s GitHub URL
