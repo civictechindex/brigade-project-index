@@ -1,5 +1,6 @@
 const decoratorClasses = {
     GitHubRepository: require('./GitHubRepository.js'),
+    GitHubLastCommit: require('./GitHubLastCommit.js'),
 };
 
 /**
