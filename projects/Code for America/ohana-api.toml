@@ -1,7 +1,7 @@
 code_url = "https://github.com/codeforamerica/ohana-api"
 description = "The open source API directory of community social services."
 git_url = "git://github.com/codeforamerica/ohana-api.git"
-last_commit = "2022-03-15T01:23:03Z"
+last_commit = "2022-03-30T23:00:12Z"
 link_url = "http://ohana-api-demo.herokuapp.com/api"
 name = "ohana-api"
 organization_name = "Code for America"
@@ -29,7 +29,7 @@ name = "ohana-api"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDA2MjM5Ng=="
 open_issues_within = 100
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 1_000
 topics = [ ]
 updated_within = "month"
