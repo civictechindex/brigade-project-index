@@ -1,8 +1,8 @@
 code_url = "https://github.com/code4sac/trash-ai"
 description = "Web based trash image classification"
 git_url = "git://github.com/code4sac/trash-ai.git"
-last_commit = "2022-03-13T00:13:45Z"
-link_url = "https://trashai-staging.codefordev.org/"
+last_commit = "2022-03-31T03:51:15Z"
+link_url = "https://www.trashai.org"
 name = "trash-ai"
 organization_name = "Code for Sacramento"
 
@@ -21,7 +21,7 @@ has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = true
-homepage = "https://trashai-staging.codefordev.org/"
+homepage = "https://www.trashai.org"
 id = 416_972_396
 is_template = false
 language = "Jupyter Notebook"
@@ -32,7 +32,7 @@ private = false
 pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
-updated_within = "month"
+updated_within = "week"
 visibility = "public"
 watchers_within = 10
 
