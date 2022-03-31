@@ -4,5 +4,4 @@ git_branch = "main"
 git_url = "git://github.com/18F/us-federal-holidays.git"
 last_pushed_within = "week"
 name = "us-federal-holidays"
-open_issues_within = 10
 organization_name = "18F"
