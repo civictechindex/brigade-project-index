@@ -1,7 +1,7 @@
 code_url = "https://github.com/g0v/moedict-data-twblg"
 description = "臺灣閩南語常用詞辭典 資料檔"
 git_url = "git://github.com/g0v/moedict-data-twblg.git"
-last_commit = "2021-01-22T06:29:35Z"
+last_commit = "2022-03-31T06:24:41Z"
 name = "moedict-data-twblg"
 organization_name = "g0v.tw"
 
@@ -27,10 +27,10 @@ name = "moedict-data-twblg"
 node_id = "MDEwOlJlcG9zaXRvcnk5MDk2NTA5"
 open_issues_within = 100
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 100
 topics = [ ]
-updated_within = "month"
+updated_within = "week"
 visibility = "public"
 watchers_within = 100
 
