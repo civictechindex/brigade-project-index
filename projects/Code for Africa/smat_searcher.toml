@@ -1,44 +1,38 @@
-code_url = "https://github.com/CodeForAfrica/ui"
-git_url = "git://github.com/CodeForAfrica/ui.git"
-last_commit = "2022-03-31T09:30:21Z"
-name = "ui"
+code_url = "https://github.com/CodeForAfrica/smat_searcher"
+git_url = "git://github.com/CodeForAfrica/smat_searcher.git"
+last_commit = "2022-04-01T08:23:33Z"
+name = "smat_searcher"
 organization_name = "Code for Africa"
-topics = [ "mui", "nextjs", "react" ]
+topics = [ "python", "smat", "telegram" ]
 
 [github]
 allow_forking = true
 archived = false
-created_at = "2022-03-03T11:17:40Z"
+created_at = "2022-03-31T12:55:41Z"
 default_branch = "main"
 disabled = false
 fork = false
 forks_within = 0
-full_name = "CodeForAfrica/ui"
+full_name = "CodeForAfrica/smat_searcher"
 has_downloads = true
 has_issues = true
 has_pages = false
 has_projects = true
-has_wiki = false
+has_wiki = true
 homepage = ""
-id = 465_687_843
+id = 476_305_562
 is_template = false
-language = "JavaScript"
-name = "ui"
-node_id = "R_kgDOG8HVIw"
-open_issues_within = 10
+language = "Jupyter Notebook"
+name = "smat_searcher"
+node_id = "R_kgDOHGPYmg"
+open_issues_within = 0
 private = false
 pushed_within = "week"
-stargazers_within = 0
-topics = [ "mui", "nextjs", "react" ]
+stargazers_within = 10
+topics = [ "python", "smat", "telegram" ]
 updated_within = "week"
 visibility = "public"
-watchers_within = 0
-
-  [github.license]
-  key = "mit"
-  name = "MIT License"
-  node_id = "MDc6TGljZW5zZTEz"
-  spdx_id = "MIT"
+watchers_within = 10
 
   [github.owner]
   gravatar_id = ""
