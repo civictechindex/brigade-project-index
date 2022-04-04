@@ -1,6 +1,6 @@
 code_url = "https://github.com/code4romania/website-factory"
 git_url = "git://github.com/code4romania/website-factory.git"
-last_commit = "2022-02-25T08:46:05Z"
+last_commit = "2022-04-04T14:46:50Z"
 name = "website-factory"
 organization_name = "Code for Romania"
 
@@ -26,7 +26,7 @@ name = "website-factory"
 node_id = "MDEwOlJlcG9zaXRvcnkzODI2NTAzNDg="
 open_issues_within = 0
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 0
 topics = [ ]
 updated_within = "year"
