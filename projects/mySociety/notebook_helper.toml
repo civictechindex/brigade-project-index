@@ -1,7 +1,7 @@
 code_url = "https://github.com/mysociety/notebook_helper"
 description = "Tools to tidy up jupyter notebook use"
 git_url = "git://github.com/mysociety/notebook_helper.git"
-last_commit = "2022-03-03T12:12:52Z"
+last_commit = "2022-04-04T14:01:24Z"
 name = "notebook_helper"
 organization_name = "mySociety"
 
@@ -27,7 +27,7 @@ name = "notebook_helper"
 node_id = "MDEwOlJlcG9zaXRvcnkzNDgzMjU1MTg="
 open_issues_within = 0
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 0
 topics = [ ]
 updated_within = "year"
