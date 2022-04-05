@@ -13,7 +13,7 @@ default_branch = "develop"
 description = "Share video testimony."
 disabled = false
 fork = false
-forks_within = 0
+forks_within = 10
 full_name = "CodeforHawaii/kuka"
 has_downloads = true
 has_issues = true
@@ -27,7 +27,7 @@ name = "kuka"
 node_id = "MDEwOlJlcG9zaXRvcnkyODU0NzEwMDc="
 open_issues_within = 10
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
 updated_within = "month"
