@@ -1,0 +1,7 @@
+code_url = "https://github.com/OpenUpSA/ansible-modules-bitwarden"
+description = "Bitwarden integrations for Ansible"
+git_branch = "master"
+git_url = "git://github.com/OpenUpSA/ansible-modules-bitwarden.git"
+last_pushed_within = "week"
+name = "ansible-modules-bitwarden"
+organization_name = "OpenUp"
