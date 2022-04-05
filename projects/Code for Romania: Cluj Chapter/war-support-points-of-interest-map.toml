@@ -1,6 +1,7 @@
 code_url = "https://github.com/code4romania/war-support-points-of-interest-map"
 git_url = "git://github.com/code4romania/war-support-points-of-interest-map.git"
 last_commit = "2022-03-11T21:26:16Z"
+link_url = "war-support-points-of-interest-map.vercel.app"
 name = "war-support-points-of-interest-map"
 organization_name = "Code for Romania: Cluj Chapter"
 
@@ -18,6 +19,7 @@ has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = true
+homepage = "war-support-points-of-interest-map.vercel.app"
 id = 469_173_218
 is_template = false
 language = "JavaScript"
@@ -28,7 +30,7 @@ private = false
 pushed_within = "month"
 stargazers_within = 0
 topics = [ ]
-updated_within = "month"
+updated_within = "week"
 visibility = "public"
 watchers_within = 0
 
