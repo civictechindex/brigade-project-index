@@ -1,7 +1,7 @@
 code_url = "https://github.com/codeforpakistan/codeforpakistan.org"
 description = "Official Website. A work in progress"
 git_url = "git://github.com/codeforpakistan/codeforpakistan.org.git"
-last_commit = "2022-03-22T17:38:56Z"
+last_commit = "2022-04-05T10:05:18Z"
 link_url = "https://code-for-pakistan.web.app/"
 name = "codeforpakistan.org"
 organization_name = "Code for Pakistan"
@@ -29,7 +29,7 @@ name = "codeforpakistan.org"
 node_id = "MDEwOlJlcG9zaXRvcnkyNDYwNjczNQ=="
 open_issues_within = 10
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 0
 topics = [ ]
 updated_within = "year"
