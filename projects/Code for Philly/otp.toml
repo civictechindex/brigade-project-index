@@ -27,7 +27,7 @@ id = 14_910_243
 is_template = false
 language = "Java"
 name = "OpenTripPlanner"
-network_count = 915
+network_count = 916
 node_id = "MDEwOlJlcG9zaXRvcnkxNDkxMDI0Mw=="
 open_issues_within = 0
 private = false
@@ -127,7 +127,7 @@ watchers_within = 10
   pushed_within = "week"
   stargazers_within = "over_1000"
   topics = [ ]
-  updated_within = "week"
+  updated_within = "month"
   visibility = "public"
   watchers_within = "over_1000"
 
