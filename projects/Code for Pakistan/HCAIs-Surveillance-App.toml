@@ -1,7 +1,7 @@
 code_url = "https://github.com/codeforpakistan/HCAIs-Surveillance-App"
 description = "HCAIs Surveillance Mobile App"
 git_url = "git://github.com/codeforpakistan/HCAIs-Surveillance-App.git"
-last_commit = "2022-04-05T11:03:14Z"
+last_commit = "2022-04-06T09:20:26Z"
 name = "HCAIs-Surveillance-App"
 organization_name = "Code for Pakistan"
 
@@ -33,6 +33,12 @@ topics = [ ]
 updated_within = "year"
 visibility = "public"
 watchers_within = 0
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
 
   [github.owner]
   gravatar_id = ""
