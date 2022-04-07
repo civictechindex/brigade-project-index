@@ -1,7 +1,7 @@
 code_url = "https://github.com/code4sac/trash-ai"
 description = "Web based trash image classification"
 git_url = "git://github.com/code4sac/trash-ai.git"
-last_commit = "2022-03-31T06:17:06Z"
+last_commit = "2022-04-07T03:47:08Z"
 link_url = "https://www.trashai.org"
 name = "trash-ai"
 organization_name = "Code for Sacramento"
@@ -32,7 +32,7 @@ private = false
 pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
-updated_within = "week"
+updated_within = "month"
 visibility = "public"
 watchers_within = 10
 
