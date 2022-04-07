@@ -13,7 +13,7 @@ default_branch = "master"
 description = "A new Code for Tucson website."
 disabled = false
 fork = false
-forks_within = 0
+forks_within = 10
 full_name = "CodeForTucson/new-cft-website"
 has_downloads = true
 has_issues = true
@@ -25,7 +25,7 @@ is_template = false
 language = "HTML"
 name = "new-cft-website"
 node_id = "MDEwOlJlcG9zaXRvcnkxNjA0NDQ5NTI="
-open_issues_within = 0
+open_issues_within = 10
 private = false
 pushed_within = "year"
 stargazers_within = 0
