@@ -1,7 +1,7 @@
 code_url = "https://github.com/CodeForAfrica/HealthTools.ZA-Ezolwaluko"
 description = "Ezolwaluko / Intiation Watch App is tool to provide an easy way in which initiates and their families can check whether the traditional surgeons they have chosen are registered with the Eastern Cape Department of Health. Accessible at https://ezolwaluko.org.za/en"
 git_url = "git://github.com/CodeForAfrica/HealthTools.ZA-Ezolwaluko.git"
-last_commit = "2018-06-22T11:42:06Z"
+last_commit = "2022-04-07T07:55:12Z"
 link_url = "https://ezolwaluko.org.za/en"
 name = "HealthTools.ZA-Ezolwaluko"
 organization_name = "Code for Africa"
@@ -26,7 +26,7 @@ topics = [
 allow_forking = true
 archived = false
 created_at = "2018-06-18T13:15:28Z"
-default_branch = "master"
+default_branch = "main"
 description = "Ezolwaluko / Intiation Watch App is tool to provide an easy way in which initiates and their families can check whether the traditional surgeons they have chosen are registered with the Eastern Cape Department of Health. Accessible at https://ezolwaluko.org.za/en"
 disabled = false
 fork = false
@@ -63,7 +63,7 @@ topics = [
   "traditional-surgeon",
   "za"
 ]
-updated_within = "over_a_year"
+updated_within = "week"
 visibility = "public"
 watchers_within = 10
 
