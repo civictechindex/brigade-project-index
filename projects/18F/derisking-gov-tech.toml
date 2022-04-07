@@ -1,7 +1,7 @@
 code_url = "https://github.com/18F/derisking-gov-tech"
 git_branch = "master"
 git_url = "git://github.com/18F/derisking-gov-tech.git"
-last_pushed_within = "year"
+last_pushed_within = "week"
 link_url = "https://derisking-guide.18f.gov/"
 name = "derisking-gov-tech"
 open_issues_within = 10
