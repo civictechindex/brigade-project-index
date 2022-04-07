@@ -1,7 +1,7 @@
 code_url = "https://github.com/codeforboston/police-data-trust"
 description = "A national archive of police data collected by journalists, lawyers, and activists around the country."
 git_url = "git://github.com/codeforboston/police-data-trust.git"
-last_commit = "2022-03-22T23:41:50Z"
+last_commit = "2022-04-06T01:40:22Z"
 name = "police-data-trust"
 organization_name = "Code for Boston"
 topics = [
@@ -42,7 +42,7 @@ topics = [
   "police-misconduct",
   "transparency"
 ]
-updated_within = "week"
+updated_within = "month"
 visibility = "public"
 watchers_within = 100
 
