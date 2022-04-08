@@ -2,6 +2,7 @@ code_url = "https://github.com/codeforjapan/ccc2022-website"
 description = "Website for Civictech Challenge Cup U-22 2022"
 git_url = "git://github.com/codeforjapan/ccc2022-website.git"
 last_commit = "2022-04-07T12:13:49Z"
+link_url = "ccc2022-website.vercel.app"
 name = "ccc2022-website"
 organization_name = "Code for Japan"
 
@@ -20,6 +21,7 @@ has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = true
+homepage = "ccc2022-website.vercel.app"
 id = 475_728_766
 is_template = false
 language = "TypeScript"
