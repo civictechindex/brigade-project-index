@@ -1,7 +1,7 @@
 code_url = "https://github.com/codeforireland/vacanthomes_website"
 git_branch = "master"
 git_url = "git://github.com/codeforireland/vacanthomes_website.git"
-last_pushed_within = "year"
+last_pushed_within = "week"
 name = "vacanthomes_website"
 open_issues_within = 10
 organization_name = "Code for Ireland"
