@@ -2,9 +2,10 @@ code_url = "https://github.com/codeformuenster/sitzplan-rat"
 description = "Der Sitzplan der Sitzungen des Rats Münster als Webseite"
 git_branch = "master"
 git_url = "git://github.com/codeformuenster/sitzplan-rat.git"
-last_pushed_within = "year"
+last_pushed_within = "week"
 link_url = "http://sitzplan.rat-muenster.de/"
 name = "sitzplan-rat"
+open_issues_within = 10
 organization_name = "OK Lab Münster"
 topics = [
   "city-council",
