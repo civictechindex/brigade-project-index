@@ -1,7 +1,7 @@
 code_url = "https://github.com/18F/eng-hiring"
 description = "18F Engineering's guide to candidate selection, from resume screen to offer."
 git_url = "git://github.com/18F/eng-hiring.git"
-last_commit = "2021-07-23T16:50:44Z"
+last_commit = "2022-04-08T18:56:53Z"
 link_url = "https://eng-hiring.18f.gov/"
 name = "eng-hiring"
 organization_name = "18F"
@@ -27,12 +27,12 @@ is_template = false
 language = "HTML"
 name = "eng-hiring"
 node_id = "MDEwOlJlcG9zaXRvcnk2ODM5NTU2MQ=="
-open_issues_within = 100
+open_issues_within = 10
 private = false
 pushed_within = "week"
 stargazers_within = 100
 topics = [ ]
-updated_within = "year"
+updated_within = "week"
 visibility = "public"
 watchers_within = 100
 
