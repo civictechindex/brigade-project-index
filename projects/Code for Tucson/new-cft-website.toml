@@ -1,7 +1,7 @@
 code_url = "https://github.com/CodeForTucson/new-cft-website"
 description = "A new Code for Tucson website."
 git_url = "git://github.com/CodeForTucson/new-cft-website.git"
-last_commit = "2022-03-02T06:00:14Z"
+last_commit = "2022-04-09T04:46:16Z"
 name = "new-cft-website"
 organization_name = "Code for Tucson"
 
@@ -27,7 +27,7 @@ name = "new-cft-website"
 node_id = "MDEwOlJlcG9zaXRvcnkxNjA0NDQ5NTI="
 open_issues_within = 10
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 0
 topics = [ ]
 updated_within = "week"
