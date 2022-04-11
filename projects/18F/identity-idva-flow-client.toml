@@ -1,7 +1,7 @@
-code_url = "https://github.com/18F/identity-identity-flow-client"
-git_url = "git://github.com/18F/identity-identity-flow-client.git"
+code_url = "https://github.com/18F/identity-idva-flow-client"
+git_url = "git://github.com/18F/identity-idva-flow-client.git"
 last_commit = "2022-04-08T18:52:11Z"
-name = "identity-identity-flow-client"
+name = "identity-idva-flow-client"
 organization_name = "18F"
 
 [github]
@@ -12,7 +12,7 @@ default_branch = "main"
 disabled = false
 fork = false
 forks_within = 0
-full_name = "18F/identity-identity-flow-client"
+full_name = "18F/identity-idva-flow-client"
 has_downloads = true
 has_issues = true
 has_pages = false
@@ -21,7 +21,7 @@ has_wiki = true
 id = 479_492_379
 is_template = false
 language = "Python"
-name = "identity-identity-flow-client"
+name = "identity-idva-flow-client"
 node_id = "R_kgDOHJR5Gw"
 open_issues_within = 0
 private = false
