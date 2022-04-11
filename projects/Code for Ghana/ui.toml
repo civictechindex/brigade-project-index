@@ -1,6 +1,6 @@
 code_url = "https://github.com/CodeForAfrica/ui"
 git_url = "git://github.com/CodeForAfrica/ui.git"
-last_commit = "2022-04-08T12:45:09Z"
+last_commit = "2022-04-11T07:32:52Z"
 name = "ui"
 organization_name = "Code for Ghana"
 topics = [ "mui", "nextjs", "react" ]
@@ -25,7 +25,7 @@ is_template = false
 language = "JavaScript"
 name = "ui"
 node_id = "R_kgDOG8HVIw"
-open_issues_within = 10
+open_issues_within = 100
 private = false
 pushed_within = "week"
 stargazers_within = 0
