@@ -1,6 +1,7 @@
 code_url = "https://github.com/code4romania/war-harta-sprijin-de-urgenta"
 git_url = "git://github.com/code4romania/war-harta-sprijin-de-urgenta.git"
 last_commit = "2022-03-18T17:42:26Z"
+link_url = "harta-sdu-prod.vercel.app"
 name = "war-harta-sprijin-de-urgenta"
 organization_name = "Code for Romania: Iasi Chapter"
 
@@ -18,6 +19,7 @@ has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = true
+homepage = "harta-sdu-prod.vercel.app"
 id = 467_496_819
 is_template = false
 language = "JavaScript"
@@ -28,7 +30,7 @@ private = false
 pushed_within = "month"
 stargazers_within = 0
 topics = [ ]
-updated_within = "year"
+updated_within = "week"
 visibility = "public"
 watchers_within = 0
 
