@@ -1,7 +1,7 @@
 code_url = "https://github.com/SCODEMeetup/cbus-biking-LOC"
 description = "Building a realt time indicator of bike inicdents and level of comfort"
 git_url = "git://github.com/SCODEMeetup/cbus-biking-LOC.git"
-last_commit = "2022-01-25T21:14:29Z"
+last_commit = "2022-04-11T03:12:12Z"
 name = "cbus-biking-LOC"
 organization_name = "Open Columbus (Ohio)"
 
@@ -27,7 +27,7 @@ name = "cbus-biking-LOC"
 node_id = "MDEwOlJlcG9zaXRvcnkyODM1Njg4NzU="
 open_issues_within = 0
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 0
 topics = [ ]
 updated_within = "year"
