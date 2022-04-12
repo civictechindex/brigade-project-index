@@ -1,7 +1,7 @@
 code_url = "https://github.com/Code-For-Chicago/Voma"
 description = "Repo for frontend of Voma"
 git_url = "git://github.com/Code-For-Chicago/Voma.git"
-last_commit = "2022-04-10T02:29:12Z"
+last_commit = "2022-04-12T11:49:15Z"
 name = "Voma"
 organization_name = "Code for Chicago"
 
@@ -30,7 +30,7 @@ private = false
 pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
-updated_within = "week"
+updated_within = "month"
 visibility = "public"
 watchers_within = 10
 
