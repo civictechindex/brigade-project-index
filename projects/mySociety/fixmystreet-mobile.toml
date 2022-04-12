@@ -1,7 +1,7 @@
 code_url = "https://github.com/mysociety/fixmystreet-mobile"
 description = "Cordova application for making reports to FixMyStreet"
 git_url = "git://github.com/mysociety/fixmystreet-mobile.git"
-last_commit = "2019-11-28T16:19:09Z"
+last_commit = "2022-04-08T09:23:33Z"
 name = "fixmystreet-mobile"
 organization_name = "mySociety"
 topics = [
@@ -46,7 +46,7 @@ topics = [
   "mobile",
   "mysociety"
 ]
-updated_within = "year"
+updated_within = "week"
 visibility = "public"
 watchers_within = 100
 
