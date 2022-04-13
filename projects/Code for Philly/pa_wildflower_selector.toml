@@ -1,10 +1,10 @@
 code_url = "https://github.com/CodeForPhilly/pa-wildflower-selector"
-description = "Native plants are really important... https://www.audubon.org/content/why-native-plants-matter"
-last_commit = "2022-03-30T17:27:13Z"
+description = "Native plants are really important for the environment."
+last_commit = "2022-04-12T22:38:07Z"
 link_url = "https://www.choosenativeplants.com"
 name = "pa_wildflower_selector"
 organization_name = "Code for Philly"
-status = "Prototyping"
+status = "Testing"
 
 [github]
 allow_forking = true
@@ -29,7 +29,7 @@ network_count = 8
 node_id = "MDEwOlJlcG9zaXRvcnkzNjkwMjc4NTk="
 open_issues_within = 100
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 10
 subscribers_count = 8
 temp_clone_token = ""
@@ -69,4 +69,4 @@ watchers_within = 10
 
 [projects_list_extra]
 chat_channel = "pa-wildflower-selector"
-title = "Choose Native Plants PA (Formerly PA Wildflower Lookup and Only Plant Natives)"
+title = "Choose Native Plants PA"
