@@ -1,0 +1,54 @@
+code_url = "https://github.com/codeforamerica/form-flow-builder"
+git_url = "git://github.com/codeforamerica/form-flow-builder.git"
+last_commit = "2022-04-12T00:02:03Z"
+name = "form-flow-builder"
+organization_name = "Code for America"
+
+[github]
+allow_forking = true
+archived = false
+created_at = "2022-04-12T21:28:53Z"
+default_branch = "main"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "codeforamerica/form-flow-builder"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+id = 480_978_504
+is_template = true
+language = "Java"
+name = "form-flow-builder"
+node_id = "R_kgDOHKsmSA"
+open_issues_within = 10
+private = false
+pushed_within = "week"
+stargazers_within = 0
+topics = [ ]
+updated_within = "week"
+visibility = "public"
+watchers_within = 0
+
+  [github.license]
+  key = "other"
+  name = "Other"
+  node_id = "MDc6TGljZW5zZTA="
+  spdx_id = "NOASSERTION"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 337_792
+  login = "codeforamerica"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjMzNzc5Mg=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  maintain = false
+  pull = true
+  push = false
+  triage = false
