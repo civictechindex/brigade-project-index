@@ -23,11 +23,11 @@ id = 12_878_765
 is_template = false
 language = "R"
 name = "RSocrata"
-network_count = 84
+network_count = 85
 node_id = "MDEwOlJlcG9zaXRvcnkxMjg3ODc2NQ=="
 open_issues_within = 100
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 1_000
 subscribers_count = 23
 temp_clone_token = ""
