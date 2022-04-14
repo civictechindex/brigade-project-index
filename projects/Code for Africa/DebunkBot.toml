@@ -1,5 +1,5 @@
 code_url = "https://github.com/CodeForAfrica/DebunkBot"
-description = "A bot that debunks claims shared on social media by sharing a fact check. Powered by Google Sheets and the rains in Africa. Accessible at https://debunkbot.codeforafrica.org/"
+description = "A bot that debunks claims shared on social media by sharing a fact check. Powered by Google Sheets and the rains in Africa. Accessible at https://debunkbot.dev.pesacheck.org/"
 git_url = "git://github.com/CodeForAfrica/DebunkBot.git"
 last_commit = "2022-04-12T06:46:47Z"
 link_url = "https://twitter.com/DebunkBotAfrica"
@@ -20,7 +20,7 @@ allow_forking = true
 archived = false
 created_at = "2019-08-16T06:50:27Z"
 default_branch = "main"
-description = "A bot that debunks claims shared on social media by sharing a fact check. Powered by Google Sheets and the rains in Africa. Accessible at https://debunkbot.codeforafrica.org/"
+description = "A bot that debunks claims shared on social media by sharing a fact check. Powered by Google Sheets and the rains in Africa. Accessible at https://debunkbot.dev.pesacheck.org/"
 disabled = false
 fork = false
 forks_within = 0
@@ -49,7 +49,7 @@ topics = [
   "python",
   "socialmedia"
 ]
-updated_within = "year"
+updated_within = "week"
 visibility = "public"
 watchers_within = 10
 
