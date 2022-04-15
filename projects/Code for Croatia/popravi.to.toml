@@ -1,7 +1,7 @@
 code_url = "https://github.com/codeforcroatia/popravi.to"
 description = 'This is popular map-based reporting platform FixMyStreet for Croatia named "Popravi.to"'
 git_url = "git://github.com/codeforcroatia/popravi.to.git"
-last_commit = "2022-01-18T15:06:11Z"
+last_commit = "2022-04-15T18:00:42Z"
 link_url = "http://popravi.to"
 name = "popravi.to"
 organization_name = "Code for Croatia"
@@ -30,7 +30,7 @@ name = "popravi.to"
 node_id = "MDEwOlJlcG9zaXRvcnkzMjYyMzEzNzc="
 open_issues_within = 100
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ "croatia", "fixmystreet", "map", "open311", "open-source" ]
 updated_within = "year"
