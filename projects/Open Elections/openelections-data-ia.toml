@@ -1,7 +1,7 @@
 code_url = "https://github.com/openelections/openelections-data-ia"
 description = "Election results for Iowa"
 git_url = "git://github.com/openelections/openelections-data-ia.git"
-last_commit = "2021-11-10T11:58:35Z"
+last_commit = "2022-04-14T18:48:47Z"
 name = "openelections-data-ia"
 organization_name = "Open Elections"
 
@@ -27,7 +27,7 @@ name = "openelections-data-ia"
 node_id = "MDEwOlJlcG9zaXRvcnkyMDAzNTA3NQ=="
 open_issues_within = 10
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
 updated_within = "year"
