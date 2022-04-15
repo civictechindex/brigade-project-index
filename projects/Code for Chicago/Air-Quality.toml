@@ -1,6 +1,6 @@
 code_url = "https://github.com/Code-For-Chicago/Air-Quality"
 git_url = "git://github.com/Code-For-Chicago/Air-Quality.git"
-last_commit = "2022-04-14T03:30:48Z"
+last_commit = "2022-04-15T20:52:45Z"
 name = "Air-Quality"
 organization_name = "Code for Chicago"
 
@@ -28,7 +28,7 @@ private = false
 pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
-updated_within = "year"
+updated_within = "week"
 visibility = "public"
 watchers_within = 10
 
