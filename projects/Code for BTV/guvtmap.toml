@@ -1,0 +1,55 @@
+code_url = "https://github.com/codeforbtv/guvtmap"
+description = "Public facing map for Green Up data viewing"
+git_url = "git://github.com/codeforbtv/guvtmap.git"
+last_commit = "2022-04-17T17:48:22Z"
+name = "guvtmap"
+organization_name = "Code for BTV"
+
+[github]
+allow_forking = true
+archived = false
+created_at = "2022-04-17T17:48:21Z"
+default_branch = "main"
+description = "Public facing map for Green Up data viewing"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "codeforbtv/guvtmap"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+id = 482_593_579
+is_template = false
+name = "guvtmap"
+node_id = "R_kgDOHMPLKw"
+open_issues_within = 0
+private = false
+pushed_within = "week"
+stargazers_within = 0
+topics = [ ]
+updated_within = "week"
+visibility = "public"
+watchers_within = 0
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 3_893_216
+  login = "codeforbtv"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM4OTMyMTY="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  maintain = false
+  pull = true
+  push = false
+  triage = false
