@@ -1,7 +1,7 @@
 code_url = "https://github.com/codeforbtv/guvtmap"
 description = "Public facing map for Green Up data viewing"
 git_url = "git://github.com/codeforbtv/guvtmap.git"
-last_commit = "2022-04-17T17:48:22Z"
+last_commit = "2022-04-18T04:33:26Z"
 name = "guvtmap"
 organization_name = "Code for BTV"
 
@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 id = 482_593_579
 is_template = false
+language = "HTML"
 name = "guvtmap"
 node_id = "R_kgDOHMPLKw"
 open_issues_within = 0
