@@ -1,9 +1,15 @@
 code_url = "https://github.com/codeforcroatia/imamopravoznati-akcije"
-description = "Microsite za ImamoPravoZnati.org akcije i kampanje"
+description = "Microsite za ImamoPravoZnati.org akcije i kampanje - akcije.imamopravoznati.org"
 git_branch = "gh-pages"
 git_url = "git://github.com/codeforcroatia/imamopravoznati-akcije.git"
 last_pushed_within = "week"
-link_url = "https://akcije.imamopravoznati.org"
+link_url = "https://codeforcroatia.github.io/imamopravoznati-akcije"
 name = "imamopravoznati-akcije"
 open_issues_within = 10
 organization_name = "Code for Croatia"
+topics = [
+  "campaigns",
+  "campaign-website",
+  "government-data",
+  "open-data"
+]
