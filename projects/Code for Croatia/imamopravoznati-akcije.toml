@@ -1,7 +1,7 @@
 code_url = "https://github.com/codeforcroatia/imamopravoznati-akcije"
 description = "Microsite za ImamoPravoZnati.org akcije i kampanje - akcije.imamopravoznati.org"
 git_url = "git://github.com/codeforcroatia/imamopravoznati-akcije.git"
-last_commit = "2022-04-18T12:02:46Z"
+last_commit = "2022-04-19T18:41:43Z"
 link_url = "https://codeforcroatia.github.io/imamopravoznati-akcije"
 name = "imamopravoznati-akcije"
 organization_name = "Code for Croatia"
@@ -33,7 +33,7 @@ is_template = false
 language = "SCSS"
 name = "imamopravoznati-akcije"
 node_id = "R_kgDOHL9KHg"
-open_issues_within = 10
+open_issues_within = 0
 private = false
 pushed_within = "week"
 stargazers_within = 0
