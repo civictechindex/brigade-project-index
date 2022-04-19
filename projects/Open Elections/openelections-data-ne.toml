@@ -1,7 +1,7 @@
 code_url = "https://github.com/openelections/openelections-data-ne"
 description = "Raw election results for Nebraska elections"
 git_url = "git://github.com/openelections/openelections-data-ne.git"
-last_commit = "2021-11-20T17:45:28Z"
+last_commit = "2022-04-18T16:11:58Z"
 name = "openelections-data-ne"
 organization_name = "Open Elections"
 
@@ -27,7 +27,7 @@ name = "openelections-data-ne"
 node_id = "MDEwOlJlcG9zaXRvcnkzMjQ1ODIyNA=="
 open_issues_within = 10
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
 updated_within = "year"

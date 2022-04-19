@@ -1,7 +1,7 @@
 code_url = "https://github.com/openelections/openelections-data-mt"
 description = "Pre-processed results for Montana elections"
 git_url = "git://github.com/openelections/openelections-data-mt.git"
-last_commit = "2021-11-20T17:45:52Z"
+last_commit = "2022-04-18T16:11:28Z"
 name = "openelections-data-mt"
 organization_name = "Open Elections"
 topics = [ "elections", "montana" ]
@@ -28,7 +28,7 @@ name = "openelections-data-mt"
 node_id = "MDEwOlJlcG9zaXRvcnk1MDQ3MDAyOA=="
 open_issues_within = 0
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ "elections", "montana" ]
 updated_within = "year"

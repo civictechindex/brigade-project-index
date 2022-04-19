@@ -1,7 +1,7 @@
 code_url = "https://github.com/openelections/openelections-data-nd"
 description = "Pre-processed results for North Dakota elections"
 git_url = "git://github.com/openelections/openelections-data-nd.git"
-last_commit = "2021-11-20T17:45:35Z"
+last_commit = "2022-04-18T16:11:48Z"
 name = "openelections-data-nd"
 organization_name = "Open Elections"
 
@@ -27,7 +27,7 @@ name = "openelections-data-nd"
 node_id = "MDEwOlJlcG9zaXRvcnk3MTA2MjMxMw=="
 open_issues_within = 10
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
 updated_within = "year"
