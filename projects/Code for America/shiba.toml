@@ -1,8 +1,8 @@
 code_url = "https://github.com/codeforamerica/shiba"
 description = "State Hosted Integrated Benefits Application"
 git_url = "git://github.com/codeforamerica/shiba.git"
-last_commit = "2022-04-13T23:35:12Z"
-link_url = "https://www.mnbenefits.mn.gov"
+last_commit = "2022-04-18T22:10:01Z"
+link_url = "https://mnbenefits.mn.gov"
 name = "shiba"
 organization_name = "Code for America"
 
@@ -21,7 +21,7 @@ has_issues = false
 has_pages = false
 has_projects = false
 has_wiki = false
-homepage = "https://www.mnbenefits.mn.gov"
+homepage = "https://mnbenefits.mn.gov"
 id = 261_803_317
 is_template = false
 language = "Java"
@@ -32,7 +32,7 @@ private = false
 pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
-updated_within = "year"
+updated_within = "week"
 visibility = "public"
 watchers_within = 10
 
