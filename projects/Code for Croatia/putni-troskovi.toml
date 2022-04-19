@@ -1,14 +1,23 @@
 code_url = "https://github.com/codeforcroatia/putni-troskovi"
+description = "Proaktivna objava troškova putovanja članova Vlade Republike Hrvatske - kampanja u cilju ukazivanja na potrebu proaktivne objave troškova putovanja visokih dužnosnika (članovi vlade, ministri i ministrice"
 git_url = "git://github.com/codeforcroatia/putni-troskovi.git"
-last_commit = "2022-04-18T12:13:07Z"
+last_commit = "2022-04-19T05:33:59Z"
+link_url = "https://codeforcroatia.github.io/putni-troskovi"
 name = "putni-troskovi"
 organization_name = "Code for Croatia"
+topics = [
+  "campaign",
+  "government-data",
+  "open-data",
+  "travel-expense-report"
+]
 
 [github]
 allow_forking = true
 archived = false
 created_at = "2017-08-28T19:21:52Z"
 default_branch = "gh-pages"
+description = "Proaktivna objava troškova putovanja članova Vlade Republike Hrvatske - kampanja u cilju ukazivanja na potrebu proaktivne objave troškova putovanja visokih dužnosnika (članovi vlade, ministri i ministrice"
 disabled = false
 fork = false
 forks_within = 10
@@ -18,6 +27,7 @@ has_issues = true
 has_pages = true
 has_projects = false
 has_wiki = false
+homepage = "https://codeforcroatia.github.io/putni-troskovi"
 id = 101_679_272
 is_template = false
 language = "JavaScript"
@@ -27,7 +37,12 @@ open_issues_within = 10
 private = false
 pushed_within = "week"
 stargazers_within = 0
-topics = [ ]
+topics = [
+  "campaign",
+  "government-data",
+  "open-data",
+  "travel-expense-report"
+]
 updated_within = "week"
 visibility = "public"
 watchers_within = 0
