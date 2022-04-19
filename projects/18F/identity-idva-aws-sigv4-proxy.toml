@@ -1,7 +1,0 @@
-code_url = "https://github.com/18F/identity-idva-aws-sigv4-proxy"
-description = "This project signs and proxies HTTP requests with Sigv4"
-git_branch = "main"
-git_url = "git://github.com/18F/identity-idva-aws-sigv4-proxy.git"
-last_pushed_within = "year"
-name = "identity-idva-aws-sigv4-proxy"
-organization_name = "18F"
