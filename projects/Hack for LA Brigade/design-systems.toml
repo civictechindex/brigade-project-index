@@ -1,6 +1,6 @@
 code_url = "https://github.com/hackforla/design-systems"
 git_url = "git://github.com/hackforla/design-systems.git"
-last_commit = "2022-03-03T16:19:58Z"
+last_commit = "2022-04-20T02:11:11Z"
 name = "design-systems"
 organization_name = "Hack for LA Brigade"
 topics = [ "hack-for-la" ]
@@ -27,7 +27,7 @@ name = "design-systems"
 node_id = "MDEwOlJlcG9zaXRvcnkzODU3NTE4ODQ="
 open_issues_within = 100
 private = false
-pushed_within = "year"
+pushed_within = "week"
 score = 1
 stargazers_within = 10
 topics = [ "hack-for-la" ]
