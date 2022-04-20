@@ -1,7 +1,7 @@
 code_url = "https://github.com/loomio/loomio_channel_server"
 description = "websocket server for loomio collaboration features"
 git_url = "git://github.com/loomio/loomio_channel_server.git"
-last_commit = "2022-04-05T03:22:48Z"
+last_commit = "2022-04-20T02:08:03Z"
 name = "loomio_channel_server"
 organization_name = "Loomio"
 
@@ -27,7 +27,7 @@ name = "loomio_channel_server"
 node_id = "MDEwOlJlcG9zaXRvcnkyODYzNTk5Mjg="
 open_issues_within = 10
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
 updated_within = "year"
