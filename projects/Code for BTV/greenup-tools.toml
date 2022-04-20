@@ -1,7 +1,7 @@
 code_url = "https://github.com/codeforbtv/greenup-tools"
 description = "Tools for maintaining the GU firebase stuff"
 git_url = "git://github.com/codeforbtv/greenup-tools.git"
-last_commit = "2022-04-20T02:54:46Z"
+last_commit = "2022-04-20T13:50:18Z"
 name = "greenup-tools"
 organization_name = "Code for BTV"
 
@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 id = 483_485_626
 is_template = false
+language = "JavaScript"
 name = "greenup-tools"
 node_id = "R_kgDOHNFnug"
 open_issues_within = 0
