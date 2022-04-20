@@ -1,6 +1,6 @@
 code_url = "https://github.com/18F/formsgov-tools"
 git_url = "git://github.com/18F/formsgov-tools.git"
-last_commit = "2022-03-17T22:13:19Z"
+last_commit = "2022-04-19T16:11:18Z"
 name = "formsgov-tools"
 organization_name = "18F"
 
@@ -23,7 +23,7 @@ is_template = false
 language = "Java"
 name = "formsgov-tools"
 node_id = "MDEwOlJlcG9zaXRvcnkyOTkzNjYxNzE="
-open_issues_within = 10
+open_issues_within = 0
 private = false
 pushed_within = "week"
 stargazers_within = 10
