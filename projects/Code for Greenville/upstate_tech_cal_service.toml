@@ -1,7 +1,7 @@
 code_url = "https://github.com/codeforgreenville/upstate_tech_cal_service"
 description = "API for Greenville Tech Calendar events"
 git_url = "git://github.com/codeforgreenville/upstate_tech_cal_service.git"
-last_commit = "2022-03-24T00:00:47Z"
+last_commit = "2022-04-20T15:16:51Z"
 name = "upstate_tech_cal_service"
 organization_name = "Code for Greenville"
 
@@ -28,7 +28,7 @@ name = "upstate_tech_cal_service"
 node_id = "MDEwOlJlcG9zaXRvcnkxMTI5NjY0NTc="
 open_issues_within = 10
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
 updated_within = "year"
