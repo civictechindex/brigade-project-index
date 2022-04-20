@@ -1,38 +1,37 @@
-code_url = "https://github.com/codeforbtv/courtbot-vt"
-description = "CourtBot code specific for Vermont"
-git_url = "git://github.com/codeforbtv/courtbot-vt.git"
-last_commit = "2021-12-02T14:19:16Z"
-name = "courtbot-vt"
+code_url = "https://github.com/codeforbtv/greenup-tools"
+description = "Tools for maintaining the GU firebase stuff"
+git_url = "git://github.com/codeforbtv/greenup-tools.git"
+last_commit = "2022-04-20T02:54:46Z"
+name = "greenup-tools"
 organization_name = "Code for BTV"
 
 [github]
 allow_forking = true
 archived = false
-created_at = "2020-12-11T00:47:22Z"
+created_at = "2022-04-20T02:54:45Z"
 default_branch = "main"
-description = "CourtBot code specific for Vermont"
+description = "Tools for maintaining the GU firebase stuff"
 disabled = false
 fork = false
-forks_within = 10
-full_name = "codeforbtv/courtbot-vt"
+forks_within = 0
+full_name = "codeforbtv/greenup-tools"
 has_downloads = true
 has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = true
-id = 320_427_262
+id = 483_485_626
 is_template = false
-language = "HTML"
-name = "courtbot-vt"
-node_id = "MDEwOlJlcG9zaXRvcnkzMjA0MjcyNjI="
-open_issues_within = 10
+name = "greenup-tools"
+node_id = "R_kgDOHNFnug"
+open_issues_within = 0
 private = false
 pushed_within = "week"
-stargazers_within = 10
+stargazers_within = 0
 topics = [ ]
-updated_within = "month"
+updated_within = "week"
 visibility = "public"
-watchers_within = 10
+watchers_within = 0
 
   [github.license]
   key = "mit"
