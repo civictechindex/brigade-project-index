@@ -1,8 +1,7 @@
 code_url = "https://github.com/18F/identity-idva-proxy"
-description = "Provides controlled egress for apps in a restricted-egress cloud.gov space"
+description = "An outbound proxy used for the IDVA project using the Caddy2 server."
 git_branch = "main"
 git_url = "git://github.com/18F/identity-idva-proxy.git"
 last_pushed_within = "week"
 name = "identity-idva-proxy"
-open_issues_within = 10
 organization_name = "18F"
