@@ -1,7 +1,7 @@
 code_url = "https://github.com/100Automations/Website"
 git_branch = "gh-pages"
 git_url = "git://github.com/100Automations/Website.git"
-last_pushed_within = "week"
+last_pushed_within = "month"
 name = "Website"
 open_issues_within = 1_000
 organization_name = "Hack for LA Brigade"
