@@ -1,36 +1,37 @@
-code_url = "https://github.com/mysociety/notebook_helper"
-description = "Tools to tidy up jupyter notebook use"
-git_url = "git://github.com/mysociety/notebook_helper.git"
-last_commit = "2022-04-04T14:01:24Z"
-name = "notebook_helper"
+code_url = "https://github.com/mysociety/template_data_repo"
+description = "Template repository for data processing, notebooks, and charting"
+git_url = "git://github.com/mysociety/template_data_repo.git"
+last_commit = "2022-02-04T10:52:28Z"
+name = "template_data_repo"
 organization_name = "mySociety"
 
 [github]
 allow_forking = true
 archived = false
-created_at = "2021-03-16T11:42:30Z"
+created_at = "2021-03-16T12:43:55Z"
 default_branch = "main"
-description = "Tools to tidy up jupyter notebook use"
+description = "Template repository for data processing, notebooks, and charting"
 disabled = false
 fork = false
-forks_within = 0
-full_name = "mysociety/notebook_helper"
+forks_within = 10
+full_name = "mysociety/template_data_repo"
 has_downloads = true
 has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = true
-id = 348_325_518
+homepage = ""
+id = 348_343_776
 is_template = false
-language = "Python"
-name = "notebook_helper"
-node_id = "MDEwOlJlcG9zaXRvcnkzNDgzMjU1MTg="
+language = "Jupyter Notebook"
+name = "template_data_repo"
+node_id = "MDEwOlJlcG9zaXRvcnkzNDgzNDM3NzY="
 open_issues_within = 0
 private = false
-pushed_within = "month"
+pushed_within = "year"
 stargazers_within = 0
 topics = [ ]
-updated_within = "year"
+updated_within = "week"
 visibility = "public"
 watchers_within = 0
 
