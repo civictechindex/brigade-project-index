@@ -1,30 +1,31 @@
-code_url = "https://github.com/mysociety/data_common"
+code_url = "https://github.com/mysociety/data_common_old"
 description = "Common tools for dataset and notebook transformation"
-git_url = "git://github.com/mysociety/data_common.git"
-last_commit = "2022-04-22T10:55:32Z"
-name = "data_common"
+git_url = "git://github.com/mysociety/data_common_old.git"
+last_commit = "2022-04-22T08:34:18Z"
+name = "data_common_old"
 organization_name = "mySociety"
 
 [github]
 allow_forking = true
 archived = false
-created_at = "2022-04-22T09:47:05Z"
+created_at = "2021-03-16T11:42:30Z"
 default_branch = "main"
 description = "Common tools for dataset and notebook transformation"
 disabled = false
 fork = false
 forks_within = 0
-full_name = "mysociety/data_common"
+full_name = "mysociety/data_common_old"
 has_downloads = true
 has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = true
-id = 484_379_520
+homepage = ""
+id = 348_325_518
 is_template = false
 language = "Python"
-name = "data_common"
-node_id = "R_kgDOHN8LgA"
+name = "data_common_old"
+node_id = "MDEwOlJlcG9zaXRvcnkzNDgzMjU1MTg="
 open_issues_within = 0
 private = false
 pushed_within = "week"

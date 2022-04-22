@@ -1,7 +1,7 @@
 code_url = "https://github.com/mysociety/template_data_repo"
 description = "Template repository for data processing, notebooks, and charting"
 git_url = "git://github.com/mysociety/template_data_repo.git"
-last_commit = "2022-04-21T16:55:15Z"
+last_commit = "2022-04-22T12:18:19Z"
 name = "template_data_repo"
 organization_name = "mySociety"
 
@@ -17,7 +17,7 @@ forks_within = 10
 full_name = "mysociety/template_data_repo"
 has_downloads = true
 has_issues = true
-has_pages = false
+has_pages = true
 has_projects = true
 has_wiki = true
 homepage = ""

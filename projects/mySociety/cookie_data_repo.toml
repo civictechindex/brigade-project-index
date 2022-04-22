@@ -1,36 +1,36 @@
-code_url = "https://github.com/mysociety/notebook-auto-template"
-description = "Template to create new notebook"
-git_url = "git://github.com/mysociety/notebook-auto-template.git"
-last_commit = "2021-09-16T09:37:05Z"
-name = "notebook-auto-template"
+code_url = "https://github.com/mysociety/cookie_data_repo"
+description = "Cookie Cutter template for jupyter notebook"
+git_url = "git://github.com/mysociety/cookie_data_repo.git"
+last_commit = "2022-04-22T12:56:19Z"
+name = "cookie_data_repo"
 organization_name = "mySociety"
 
 [github]
 allow_forking = true
 archived = false
-created_at = "2021-09-08T16:36:41Z"
+created_at = "2021-09-08T15:20:57Z"
 default_branch = "main"
-description = "Template to create new notebook"
+description = "Cookie Cutter template for jupyter notebook"
 disabled = false
 fork = false
 forks_within = 0
-full_name = "mysociety/notebook-auto-template"
+full_name = "mysociety/cookie_data_repo"
 has_downloads = true
 has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = true
-homepage = ""
-id = 404_421_402
-is_template = true
-name = "notebook-auto-template"
-node_id = "MDEwOlJlcG9zaXRvcnk0MDQ0MjE0MDI="
+id = 404_397_410
+is_template = false
+language = "Python"
+name = "cookie_data_repo"
+node_id = "MDEwOlJlcG9zaXRvcnk0MDQzOTc0MTA="
 open_issues_within = 0
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 0
 topics = [ ]
-updated_within = "year"
+updated_within = "week"
 visibility = "public"
 watchers_within = 0
 
