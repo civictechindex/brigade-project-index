@@ -1,0 +1,49 @@
+code_url = "https://github.com/cforlando/operation-supernatural"
+description = "A repo to help identify local problems and strengthen Code for Orlando's relationship with the community."
+git_url = "git://github.com/cforlando/operation-supernatural.git"
+last_commit = "2022-04-21T22:42:12Z"
+name = "operation-supernatural"
+organization_name = "Code for Orlando"
+
+[github]
+allow_forking = true
+archived = false
+created_at = "2022-04-21T20:18:57Z"
+default_branch = "main"
+description = "A repo to help identify local problems and strengthen Code for Orlando's relationship with the community."
+disabled = false
+fork = false
+forks_within = 10
+full_name = "cforlando/operation-supernatural"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+id = 484_193_105
+is_template = false
+name = "operation-supernatural"
+node_id = "R_kgDOHNwzUQ"
+open_issues_within = 0
+private = false
+pushed_within = "week"
+stargazers_within = 0
+topics = [ ]
+updated_within = "week"
+visibility = "public"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 5_225_505
+  login = "cforlando"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjUyMjU1MDU="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  maintain = false
+  pull = true
+  push = false
+  triage = false
