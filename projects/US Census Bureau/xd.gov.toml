@@ -1,6 +1,6 @@
 code_url = "https://github.com/uscensusbureau/xd.gov"
 git_url = "git://github.com/uscensusbureau/xd.gov.git"
-last_commit = "2022-03-22T14:10:09Z"
+last_commit = "2022-04-22T13:00:57Z"
 name = "xd.gov"
 organization_name = "US Census Bureau"
 
@@ -25,7 +25,7 @@ name = "xd.gov"
 node_id = "MDEwOlJlcG9zaXRvcnkyMjM0Mzk4MTg="
 open_issues_within = 10
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 0
 topics = [ ]
 updated_within = "year"
