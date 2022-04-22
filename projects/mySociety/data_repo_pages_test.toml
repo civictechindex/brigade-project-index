@@ -1,0 +1,7 @@
+code_url = "https://github.com/mysociety/data_repo_pages_test"
+description = "Test of auto github pages repo."
+git_branch = "main"
+git_url = "git://github.com/mysociety/data_repo_pages_test.git"
+last_pushed_within = "week"
+name = "data_repo_pages_test"
+organization_name = "mySociety"
