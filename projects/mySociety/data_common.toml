@@ -1,7 +1,7 @@
 code_url = "https://github.com/mysociety/data_common"
 description = "Common tools for dataset and notebook transformation"
 git_url = "git://github.com/mysociety/data_common.git"
-last_commit = "2022-04-04T14:01:24Z"
+last_commit = "2022-04-21T15:47:53Z"
 name = "data_common"
 organization_name = "mySociety"
 
@@ -28,7 +28,7 @@ name = "data_common"
 node_id = "MDEwOlJlcG9zaXRvcnkzNDgzMjU1MTg="
 open_issues_within = 0
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 0
 topics = [ ]
 updated_within = "week"
