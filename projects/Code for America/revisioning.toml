@@ -1,0 +1,49 @@
+code_url = "https://github.com/codeforamerica/revisioning"
+description = "Tracking and updating the recommendation & implementation of the Network ReVisioning project"
+git_url = "git://github.com/codeforamerica/revisioning.git"
+last_commit = "2022-04-21T19:36:26Z"
+name = "revisioning"
+organization_name = "Code for America"
+
+[github]
+allow_forking = true
+archived = false
+created_at = "2022-04-21T19:20:59Z"
+default_branch = "main"
+description = "Tracking and updating the recommendation & implementation of the Network ReVisioning project"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "codeforamerica/revisioning"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+id = 484_177_619
+is_template = false
+name = "revisioning"
+node_id = "R_kgDOHNv20w"
+open_issues_within = 10
+private = false
+pushed_within = "week"
+stargazers_within = 0
+topics = [ ]
+updated_within = "week"
+visibility = "public"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 337_792
+  login = "codeforamerica"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjMzNzc5Mg=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  maintain = false
+  pull = true
+  push = false
+  triage = false
