@@ -1,7 +1,7 @@
 code_url = "https://github.com/openelections/openelections-data-vt"
 description = "Pre-processed results for Vermont elections"
 git_url = "git://github.com/openelections/openelections-data-vt.git"
-last_commit = "2021-12-11T17:16:02Z"
+last_commit = "2022-04-23T17:15:54Z"
 name = "openelections-data-vt"
 organization_name = "Open Elections"
 
@@ -24,7 +24,7 @@ id = 70_146_903
 is_template = false
 name = "openelections-data-vt"
 node_id = "MDEwOlJlcG9zaXRvcnk3MDE0NjkwMw=="
-open_issues_within = 10
+open_issues_within = 0
 private = false
 pushed_within = "week"
 stargazers_within = 0
