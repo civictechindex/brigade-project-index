@@ -3,5 +3,5 @@ git_branch = "main"
 git_url = "git://github.com/Code-For-Chicago/code-for-chicago-jekyll.git"
 last_pushed_within = "week"
 name = "code-for-chicago-jekyll"
-open_issues_within = 100
+open_issues_within = 10
 organization_name = "Code for Chicago"
