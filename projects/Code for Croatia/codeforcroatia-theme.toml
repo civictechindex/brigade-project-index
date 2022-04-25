@@ -1,14 +1,18 @@
 code_url = "https://github.com/codeforcroatia/codeforcroatia-theme"
+description = "A base bootstrap theme for Code for Croatia apps, delivered as CSS and SASS."
 git_url = "git://github.com/codeforcroatia/codeforcroatia-theme.git"
-last_commit = "2022-04-24T13:04:56Z"
+last_commit = "2022-04-25T20:03:50Z"
+link_url = "https://codeforcroatia.github.io/codeforcroatia-theme"
 name = "codeforcroatia-theme"
 organization_name = "Code for Croatia"
+topics = [ "bootstrap", "bootstrap3", "css", "html", "theme" ]
 
 [github]
 allow_forking = true
 archived = false
 created_at = "2022-04-24T11:41:16Z"
 default_branch = "main"
+description = "A base bootstrap theme for Code for Croatia apps, delivered as CSS and SASS."
 disabled = false
 fork = false
 forks_within = 0
@@ -18,6 +22,7 @@ has_issues = true
 has_pages = true
 has_projects = true
 has_wiki = true
+homepage = "https://codeforcroatia.github.io/codeforcroatia-theme"
 id = 485_011_030
 is_template = false
 language = "SCSS"
@@ -27,10 +32,16 @@ open_issues_within = 0
 private = false
 pushed_within = "week"
 stargazers_within = 0
-topics = [ ]
+topics = [ "bootstrap", "bootstrap3", "css", "html", "theme" ]
 updated_within = "week"
 visibility = "public"
 watchers_within = 0
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
 
   [github.owner]
   gravatar_id = ""
