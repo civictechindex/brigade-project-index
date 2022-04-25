@@ -1,7 +1,7 @@
 code_url = "https://github.com/codeforpdx/website"
 description = "Official Code for PDX website"
 git_url = "git://github.com/codeforpdx/website.git"
-last_commit = "2022-04-21T02:17:27Z"
+last_commit = "2022-04-24T23:59:57Z"
 link_url = "https://www.codeforpdx.org"
 name = "website"
 organization_name = "Code for PDX"
@@ -33,7 +33,7 @@ private = false
 pushed_within = "week"
 stargazers_within = 10
 topics = [ "pdx" ]
-updated_within = "week"
+updated_within = "month"
 visibility = "public"
 watchers_within = 10
 
