@@ -1,7 +1,7 @@
 code_url = "https://github.com/codefortulsa/website"
 description = "Code For Tulsa Website Update 2022"
 git_url = "git://github.com/codefortulsa/website.git"
-last_commit = "2021-12-21T17:51:29Z"
+last_commit = "2022-04-25T22:13:41Z"
 link_url = "https://www.figma.com/file/maf7XD1XhbIKlJn77P2tIS/Code-for-Tulsa-Website?node-id=0%3A1"
 name = "website"
 organization_name = "Code for Tulsa"
@@ -24,7 +24,7 @@ has_wiki = true
 homepage = "https://www.figma.com/file/maf7XD1XhbIKlJn77P2tIS/Code-for-Tulsa-Website?node-id=0%3A1"
 id = 424_031_484
 is_template = false
-language = "JavaScript"
+language = "TypeScript"
 name = "website"
 node_id = "R_kgDOGUY0_A"
 open_issues_within = 100
@@ -32,7 +32,7 @@ private = false
 pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
-updated_within = "month"
+updated_within = "week"
 visibility = "public"
 watchers_within = 10
 
