@@ -1,7 +1,7 @@
 code_url = "https://github.com/Open-SGF/discord-bot"
 description = "Our little discord bot"
 git_url = "git://github.com/Open-SGF/discord-bot.git"
-last_commit = "2022-04-25T23:43:51Z"
+last_commit = "2022-04-25T23:44:41Z"
 name = "discord-bot"
 organization_name = "Open SGF"
 
@@ -22,9 +22,10 @@ has_projects = true
 has_wiki = true
 id = 485_569_867
 is_template = false
+language = "JavaScript"
 name = "discord-bot"
 node_id = "R_kgDOHPE1Sw"
-open_issues_within = 0
+open_issues_within = 10
 private = false
 pushed_within = "week"
 stargazers_within = 0
