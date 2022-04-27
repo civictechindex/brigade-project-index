@@ -9,6 +9,7 @@ topics = [
   "campaigns",
   "campaign-website",
   "government-data",
+  "jekyll",
   "open-data"
 ]
 
@@ -35,15 +36,16 @@ name = "imamopravoznati-akcije"
 node_id = "R_kgDOHL9KHg"
 open_issues_within = 0
 private = false
-pushed_within = "week"
+pushed_within = "month"
 stargazers_within = 0
 topics = [
   "campaigns",
   "campaign-website",
   "government-data",
+  "jekyll",
   "open-data"
 ]
-updated_within = "month"
+updated_within = "week"
 visibility = "public"
 watchers_within = 0
 

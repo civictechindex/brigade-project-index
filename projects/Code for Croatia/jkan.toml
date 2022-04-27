@@ -5,7 +5,7 @@ last_commit = "2022-04-14T13:14:14Z"
 link_url = "https://data.codeforcroatia.org"
 name = "jkan"
 organization_name = "Code for Croatia"
-topics = [ "croatia", "open-data", "open-datasets" ]
+topics = [ "croatia", "jekyll", "open-data", "open-datasets" ]
 
 [github]
 allow_forking = true
@@ -32,8 +32,8 @@ open_issues_within = 0
 private = false
 pushed_within = "month"
 stargazers_within = 0
-topics = [ "croatia", "open-data", "open-datasets" ]
-updated_within = "year"
+topics = [ "croatia", "jekyll", "open-data", "open-datasets" ]
+updated_within = "week"
 visibility = "public"
 watchers_within = 0
 
