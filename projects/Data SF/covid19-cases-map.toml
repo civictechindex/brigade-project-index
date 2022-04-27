@@ -14,7 +14,7 @@ default_branch = "master"
 description = "Mapbox map to display COVID-19 cases and related data"
 disabled = false
 fork = false
-forks_within = 0
+forks_within = 10
 full_name = "DataSF/covid19-cases-map"
 has_downloads = true
 has_issues = true
@@ -29,7 +29,7 @@ name = "covid19-cases-map"
 node_id = "MDEwOlJlcG9zaXRvcnkyNjI5ODM2MTc="
 open_issues_within = 10
 private = false
-pushed_within = "month"
+pushed_within = "year"
 stargazers_within = 10
 topics = [ ]
 updated_within = "year"
