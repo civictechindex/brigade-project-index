@@ -1,7 +1,7 @@
 code_url = "https://github.com/CodeforAustralia/stella-fine-art-forked"
 description = "stella art forked"
 git_url = "git://github.com/CodeforAustralia/stella-fine-art-forked.git"
-last_commit = "2022-04-26T23:58:58Z"
+last_commit = "2022-04-28T04:18:30Z"
 name = "stella-fine-art-forked"
 organization_name = "Code for Australia"
 
@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 id = 485_985_963
 is_template = false
+language = "JavaScript"
 name = "stella-fine-art-forked"
 node_id = "R_kgDOHPeOqw"
 open_issues_within = 0
@@ -29,7 +30,7 @@ private = false
 pushed_within = "week"
 stargazers_within = 0
 topics = [ ]
-updated_within = "year"
+updated_within = "week"
 visibility = "public"
 watchers_within = 0
 
