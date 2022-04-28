@@ -1,42 +1,38 @@
-code_url = "https://github.com/18F/eca-exchanges-wordpress-site"
-git_url = "git://github.com/18F/eca-exchanges-wordpress-site.git"
-last_commit = "2022-03-31T19:29:22Z"
-name = "eca-exchanges-wordpress-site"
+code_url = "https://github.com/18F/cloud.gov-hugo-uswds-prototype"
+description = "A static site generator prototype using USWDS, cloud.gov, and Hugo. "
+git_url = "git://github.com/18F/cloud.gov-hugo-uswds-prototype.git"
+last_commit = "2022-04-27T16:57:00Z"
+name = "cloud.gov-hugo-uswds-prototype"
 organization_name = "18F"
 
 [github]
 allow_forking = true
 archived = false
-created_at = "2022-02-25T20:56:24Z"
+created_at = "2022-04-27T16:19:43Z"
 default_branch = "main"
+description = "A static site generator prototype using USWDS, cloud.gov, and Hugo. "
 disabled = false
 fork = false
 forks_within = 0
-full_name = "18F/eca-exchanges-wordpress-site"
+full_name = "18F/cloud.gov-hugo-uswds-prototype"
 has_downloads = true
 has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = true
-id = 463_673_272
+id = 486_267_380
 is_template = false
-language = "SCSS"
-name = "eca-exchanges-wordpress-site"
-node_id = "R_kgDOG6MXuA"
+language = "HTML"
+name = "cloud.gov-hugo-uswds-prototype"
+node_id = "R_kgDOHPvZ9A"
 open_issues_within = 0
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 0
 topics = [ ]
-updated_within = "year"
+updated_within = "week"
 visibility = "public"
 watchers_within = 0
-
-  [github.license]
-  key = "other"
-  name = "Other"
-  node_id = "MDc6TGljZW5zZTA="
-  spdx_id = "NOASSERTION"
 
   [github.owner]
   gravatar_id = ""
