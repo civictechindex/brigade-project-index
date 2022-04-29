@@ -1,7 +1,8 @@
 code_url = "https://github.com/18F/cloud.gov-hugo-uswds-prototype"
 description = "A static site generator prototype using USWDS, cloud.gov, and Hugo. "
 git_url = "git://github.com/18F/cloud.gov-hugo-uswds-prototype.git"
-last_commit = "2022-04-27T16:57:00Z"
+last_commit = "2022-04-28T23:12:10Z"
+link_url = "https://federalist-3f857e16-26c9-489c-861b-a4ea06fc6314.app.cloud.gov/site/18f/cloud.gov-hugo-uswds-prototype/"
 name = "cloud.gov-hugo-uswds-prototype"
 organization_name = "18F"
 
@@ -20,6 +21,7 @@ has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = true
+homepage = "https://federalist-3f857e16-26c9-489c-861b-a4ea06fc6314.app.cloud.gov/site/18f/cloud.gov-hugo-uswds-prototype/"
 id = 486_267_380
 is_template = false
 language = "HTML"

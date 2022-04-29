@@ -1,7 +1,7 @@
 code_url = "https://github.com/18F/federalist-garden-build"
 description = "A container image that builds each site as part of the Federalist platform"
 git_url = "git://github.com/18F/federalist-garden-build.git"
-last_commit = "2022-04-20T17:08:16Z"
+last_commit = "2022-04-28T17:12:59Z"
 name = "federalist-garden-build"
 organization_name = "18F"
 topics = [ "federalist", "federalist-core" ]
@@ -27,9 +27,9 @@ is_template = false
 language = "Python"
 name = "federalist-garden-build"
 node_id = "MDEwOlJlcG9zaXRvcnk0MzkzNTQxMA=="
-open_issues_within = 10
+open_issues_within = 100
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 100
 topics = [ "federalist", "federalist-core" ]
 updated_within = "year"
