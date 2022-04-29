@@ -1,6 +1,6 @@
 code_url = "https://github.com/CodeForAfrica/ui"
 git_url = "git://github.com/CodeForAfrica/ui.git"
-last_commit = "2022-04-29T05:40:58Z"
+last_commit = "2022-04-29T12:25:32Z"
 name = "ui"
 organization_name = "Code for Nigeria"
 topics = [ "mui", "nextjs", "react" ]
@@ -30,7 +30,7 @@ private = false
 pushed_within = "week"
 stargazers_within = 0
 topics = [ "mui", "nextjs", "react" ]
-updated_within = "month"
+updated_within = "year"
 visibility = "public"
 watchers_within = 0
 
