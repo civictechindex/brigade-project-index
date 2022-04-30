@@ -1,7 +1,7 @@
 code_url = "https://github.com/mysociety/wob-knop-theme"
 description = "Alaveteli theme for The Netherlands"
 git_url = "git://github.com/mysociety/wob-knop-theme.git"
-last_commit = "2021-03-30T12:09:12Z"
+last_commit = "2022-04-29T09:10:39Z"
 name = "wob-knop-theme"
 organization_name = "mySociety"
 topics = [ "alaveteli", "alaveteli-theme" ]
@@ -31,7 +31,7 @@ private = false
 pushed_within = "week"
 stargazers_within = 0
 topics = [ "alaveteli", "alaveteli-theme" ]
-updated_within = "over_a_year"
+updated_within = "week"
 visibility = "public"
 watchers_within = 0
 
