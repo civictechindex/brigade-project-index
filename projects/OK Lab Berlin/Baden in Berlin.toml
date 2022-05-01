@@ -1,7 +1,7 @@
 code_url = "https://github.com/MagdaN/berliner-badestellen"
 description = "Die Badesaison hat erföffnet! Erfahre, wo gebadet werden kann und wie die Wasserqualität an den einzelnen Badestellen ist."
 git_branch = "master"
-last_pushed_within = "month"
+last_pushed_within = "week"
 link_url = "http://berlin.codefor.de/badestellen/"
 name = "Baden in Berlin"
 open_issues_within = 10
