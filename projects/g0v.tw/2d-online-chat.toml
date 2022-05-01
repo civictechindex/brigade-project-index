@@ -1,6 +1,6 @@
 code_url = "https://github.com/g0v/2d-online-chat"
 git_url = "git://github.com/g0v/2d-online-chat.git"
-last_commit = "2020-05-23T08:44:00Z"
+last_commit = "2022-05-01T06:01:28Z"
 name = "2d-online-chat"
 organization_name = "g0v.tw"
 
@@ -25,10 +25,10 @@ name = "2d-online-chat"
 node_id = "MDEwOlJlcG9zaXRvcnkyNDk2MDcwODY="
 open_issues_within = 0
 private = false
-pushed_within = "over_a_year"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
-updated_within = "year"
+updated_within = "week"
 visibility = "public"
 watchers_within = 10
 
