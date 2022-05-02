@@ -1,6 +1,6 @@
 code_url = "https://github.com/18F/usda-loan-assitant"
 git_url = "git://github.com/18F/usda-loan-assitant.git"
-last_commit = "2022-04-22T18:49:11Z"
+last_commit = "2022-05-02T17:22:57Z"
 name = "usda-loan-assitant"
 organization_name = "18F"
 
@@ -23,7 +23,7 @@ is_template = false
 language = "HTML"
 name = "usda-loan-assitant"
 node_id = "R_kgDOHPVRVA"
-open_issues_within = 10
+open_issues_within = 0
 private = false
 pushed_within = "week"
 stargazers_within = 0
