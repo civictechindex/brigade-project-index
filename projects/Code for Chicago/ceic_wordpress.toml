@@ -1,7 +1,7 @@
 code_url = "https://github.com/Code-For-Chicago/ceic_wordpress"
 description = "Repository for work related to the Cannabis Equity Illinois Coalition Website"
 git_url = "git://github.com/Code-For-Chicago/ceic_wordpress.git"
-last_commit = "2021-12-08T14:10:23Z"
+last_commit = "2022-05-02T20:10:38Z"
 name = "ceic_wordpress"
 organization_name = "Code for Chicago"
 
@@ -27,7 +27,7 @@ name = "ceic_wordpress"
 node_id = "MDEwOlJlcG9zaXRvcnkyMzczMjgyOTI="
 open_issues_within = 0
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
 updated_within = "year"
