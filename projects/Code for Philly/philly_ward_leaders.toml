@@ -21,7 +21,7 @@ default_branch = "master"
 description = "The players behind elections"
 disabled = false
 fork = false
-forks_within = 10
+forks_within = 100
 full_name = "CodeForPhilly/philly-ward-leaders"
 has_downloads = true
 has_issues = true
@@ -33,7 +33,7 @@ id = 33_057_625
 is_template = false
 language = "JavaScript"
 name = "philly-ward-leaders"
-network_count = 10
+network_count = 11
 node_id = "MDEwOlJlcG9zaXRvcnkzMzA1NzYyNQ=="
 open_issues_within = 100
 private = false
