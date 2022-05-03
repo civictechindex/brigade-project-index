@@ -1,7 +1,7 @@
 code_url = "https://github.com/CodeforHawaii/newwebsite"
 description = "Website v2"
 git_url = "git://github.com/CodeforHawaii/newwebsite.git"
-last_commit = "2022-04-12T04:40:45Z"
+last_commit = "2022-05-03T05:21:37Z"
 name = "newwebsite"
 organization_name = "Code for Hawaii"
 
@@ -27,7 +27,7 @@ name = "newwebsite"
 node_id = "MDEwOlJlcG9zaXRvcnkzNDM2NjM0ODk="
 open_issues_within = 10
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
 updated_within = "year"
