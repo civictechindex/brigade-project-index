@@ -1,7 +1,7 @@
-code_url = "https://github.com/codeforbtv/courtbot-btv"
-git_url = "git://github.com/codeforbtv/courtbot-btv.git"
+code_url = "https://github.com/codeforbtv/courtbot-vt-frontend"
+git_url = "git://github.com/codeforbtv/courtbot-vt-frontend.git"
 last_commit = "2022-02-17T04:05:37Z"
-name = "courtbot-btv"
+name = "courtbot-vt-frontend"
 organization_name = "Code for BTV"
 
 [github]
@@ -12,7 +12,7 @@ default_branch = "main"
 disabled = false
 fork = true
 forks_within = 0
-full_name = "codeforbtv/courtbot-btv"
+full_name = "codeforbtv/courtbot-vt-frontend"
 has_downloads = true
 has_issues = true
 has_pages = false
@@ -21,14 +21,14 @@ has_wiki = true
 id = 390_162_560
 is_template = false
 language = "TypeScript"
-name = "courtbot-btv"
+name = "courtbot-vt-frontend"
 node_id = "MDEwOlJlcG9zaXRvcnkzOTAxNjI1NjA="
 open_issues_within = 10
 private = false
 pushed_within = "year"
 stargazers_within = 0
 topics = [ ]
-updated_within = "year"
+updated_within = "week"
 visibility = "public"
 watchers_within = 0
 
