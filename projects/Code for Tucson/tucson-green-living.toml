@@ -1,7 +1,7 @@
 code_url = "https://github.com/CodeForTucson/tucson-green-living"
 description = "A website to promote living sustainably in Tucson."
 git_url = "git://github.com/CodeForTucson/tucson-green-living.git"
-last_commit = "2022-04-21T01:44:15Z"
+last_commit = "2022-05-05T04:22:47Z"
 name = "tucson-green-living"
 organization_name = "Code for Tucson"
 
@@ -22,22 +22,23 @@ has_projects = true
 has_wiki = true
 id = 483_870_122
 is_template = false
+language = "Vue"
 name = "tucson-green-living"
 node_id = "R_kgDOHNdFqg"
 open_issues_within = 10
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
-updated_within = "month"
+updated_within = "week"
 visibility = "public"
 watchers_within = 10
 
   [github.license]
-  key = "gpl-3.0"
-  name = "GNU General Public License v3.0"
-  node_id = "MDc6TGljZW5zZTk="
-  spdx_id = "GPL-3.0"
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
 
   [github.owner]
   gravatar_id = ""
