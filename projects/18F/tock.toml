@@ -1,7 +1,7 @@
 code_url = "https://github.com/18F/tock"
 description = "We use Tock to track and report our time at 18F"
 git_url = "git://github.com/18F/tock.git"
-last_commit = "2022-04-23T00:58:44Z"
+last_commit = "2022-05-04T23:56:31Z"
 link_url = "https://18f.gsa.gov/2015/05/21/TockingTime/"
 name = "tock"
 organization_name = "18F"
@@ -29,7 +29,7 @@ name = "tock"
 node_id = "MDEwOlJlcG9zaXRvcnkzMDE2MjAwOA=="
 open_issues_within = 100
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 1_000
 topics = [ ]
 updated_within = "year"
