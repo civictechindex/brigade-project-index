@@ -1,6 +1,6 @@
 code_url = "https://github.com/code4romania/ec-contest-be"
 git_url = "git://github.com/code4romania/ec-contest-be.git"
-last_commit = "2022-05-03T21:22:30Z"
+last_commit = "2022-05-05T11:46:24Z"
 name = "ec-contest-be"
 organization_name = "Code for Romania"
 
@@ -28,7 +28,7 @@ private = false
 pushed_within = "week"
 stargazers_within = 0
 topics = [ ]
-updated_within = "week"
+updated_within = "month"
 visibility = "public"
 watchers_within = 0
 
