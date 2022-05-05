@@ -1,7 +1,7 @@
 code_url = "https://github.com/18F/identity-idva-cf-metrics"
 description = "Copy of https://github.com/alphagov/paas-prometheus-exporter for exporting application metrics in cloud.gov"
 git_url = "git://github.com/18F/identity-idva-cf-metrics.git"
-last_commit = "2022-03-17T13:53:50Z"
+last_commit = "2022-05-05T16:20:11Z"
 name = "identity-idva-cf-metrics"
 organization_name = "18F"
 
@@ -25,7 +25,7 @@ is_template = false
 language = "Go"
 name = "identity-idva-cf-metrics"
 node_id = "MDEwOlJlcG9zaXRvcnkzNzE3NDg5NDY="
-open_issues_within = 10
+open_issues_within = 0
 private = false
 pushed_within = "week"
 stargazers_within = 10
