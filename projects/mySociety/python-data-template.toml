@@ -1,7 +1,7 @@
 code_url = "https://github.com/mysociety/python-data-template"
 description = "Template to create new notebook"
 git_url = "git://github.com/mysociety/python-data-template.git"
-last_commit = "2022-04-22T12:30:43Z"
+last_commit = "2022-05-05T09:45:42Z"
 name = "python-data-template"
 organization_name = "mySociety"
 
@@ -27,7 +27,7 @@ name = "python-data-template"
 node_id = "MDEwOlJlcG9zaXRvcnk0MDQ0MjE0MDI="
 open_issues_within = 0
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 0
 topics = [ ]
 updated_within = "month"
