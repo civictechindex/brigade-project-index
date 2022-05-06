@@ -1,42 +1,38 @@
-code_url = "https://github.com/codeforpakistan/Car-Dost"
-git_url = "git://github.com/codeforpakistan/Car-Dost.git"
-last_commit = "2018-08-05T12:04:17Z"
-name = "Car-Dost"
+code_url = "https://github.com/codeforpakistan/KPODP-CKAN-THEME-EXT"
+description = "KP Open Data Portal CAKN Custom Theme Extension."
+git_url = "git://github.com/codeforpakistan/KPODP-CKAN-THEME-EXT.git"
+last_commit = "2020-06-08T16:30:33Z"
+name = "KPODP-CKAN-THEME-EXT"
 organization_name = "Code for Pakistan"
 
 [github]
 allow_forking = true
 archived = false
-created_at = "2018-08-04T17:44:30Z"
+created_at = "2022-05-06T13:24:21Z"
 default_branch = "master"
+description = "KP Open Data Portal CAKN Custom Theme Extension."
 disabled = false
 fork = true
-forks_within = 10
-full_name = "codeforpakistan/Car-Dost"
+forks_within = 0
+full_name = "codeforpakistan/KPODP-CKAN-THEME-EXT"
 has_downloads = true
 has_issues = false
 has_pages = false
 has_projects = true
 has_wiki = true
-id = 143_549_973
+homepage = ""
+id = 489_363_902
 is_template = false
-language = "JavaScript"
-name = "Car-Dost"
-node_id = "MDEwOlJlcG9zaXRvcnkxNDM1NDk5NzM="
-open_issues_within = 10
+name = "KPODP-CKAN-THEME-EXT"
+node_id = "R_kgDOHSsZvg"
+open_issues_within = 0
 private = false
-pushed_within = "month"
+pushed_within = "over_a_year"
 stargazers_within = 0
 topics = [ ]
 updated_within = "over_a_year"
 visibility = "public"
 watchers_within = 0
-
-  [github.license]
-  key = "mit"
-  name = "MIT License"
-  node_id = "MDc6TGljZW5zZTEz"
-  spdx_id = "MIT"
 
   [github.owner]
   gravatar_id = ""
