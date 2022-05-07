@@ -1,6 +1,6 @@
 code_url = "https://github.com/codeforamerica/Reimagine911"
 git_url = "git://github.com/codeforamerica/Reimagine911.git"
-last_commit = "2022-02-16T18:38:04Z"
+last_commit = "2022-05-05T17:59:28Z"
 name = "Reimagine911"
 organization_name = "Code for America"
 
@@ -22,12 +22,12 @@ id = 460_127_219
 is_template = false
 name = "Reimagine911"
 node_id = "R_kgDOG2z78w"
-open_issues_within = 10
+open_issues_within = 100
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 0
 topics = [ ]
-updated_within = "year"
+updated_within = "week"
 visibility = "public"
 watchers_within = 0
 
