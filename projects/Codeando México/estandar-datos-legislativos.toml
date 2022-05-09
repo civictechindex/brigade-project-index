@@ -1,7 +1,7 @@
 code_url = "https://github.com/CodeandoMexico/estandar-datos-legislativos"
 description = "En este proyecto buscamos una forma sencilla para los ciudadanos de saber quién los representa en los congresos locales y federales."
 git_url = "git://github.com/CodeandoMexico/estandar-datos-legislativos.git"
-last_commit = "2022-05-03T16:41:35Z"
+last_commit = "2022-05-09T20:38:58Z"
 name = "estandar-datos-legislativos"
 organization_name = "Codeando México"
 topics = [ "open-standard" ]
@@ -36,10 +36,10 @@ visibility = "public"
 watchers_within = 10
 
   [github.license]
-  key = "other"
-  name = "Other"
-  node_id = "MDc6TGljZW5zZTA="
-  spdx_id = "NOASSERTION"
+  key = "cc-by-sa-4.0"
+  name = "Creative Commons Attribution Share Alike 4.0 International"
+  node_id = "MDc6TGljZW5zZTI2"
+  spdx_id = "CC-BY-SA-4.0"
 
   [github.owner]
   gravatar_id = ""
