@@ -1,6 +1,7 @@
 code_url = "https://github.com/CodeForAfrica/ui"
 git_url = "git://github.com/CodeForAfrica/ui.git"
-last_commit = "2022-04-29T12:25:32Z"
+last_commit = "2022-05-09T13:52:40Z"
+link_url = "codeforafrica.vercel.app"
 name = "ui"
 organization_name = "Code for Nigeria"
 topics = [ "mui", "nextjs", "react" ]
@@ -19,7 +20,7 @@ has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = false
-homepage = ""
+homepage = "codeforafrica.vercel.app"
 id = 465_687_843
 is_template = false
 language = "JavaScript"
@@ -30,7 +31,7 @@ private = false
 pushed_within = "week"
 stargazers_within = 0
 topics = [ "mui", "nextjs", "react" ]
-updated_within = "year"
+updated_within = "week"
 visibility = "public"
 watchers_within = 0
 
