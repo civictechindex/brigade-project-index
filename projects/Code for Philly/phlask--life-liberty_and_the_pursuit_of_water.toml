@@ -1,6 +1,6 @@
 code_url = "https://github.com/phlask/phlask-map/"
 description = "PHLASK: An Ecosystem For Finding and Sharing Resources in Philadelphia"
-last_commit = "2022-04-05T03:26:33Z"
+last_commit = "2022-05-10T13:34:00Z"
 link_url = "http://phlask.me"
 name = "phlask--life-liberty_and_the_pursuit_of_water"
 organization_name = "Code for Philly"
@@ -41,7 +41,7 @@ open_issues_within = 100
 private = false
 pushed_within = "week"
 stargazers_within = 10
-subscribers_count = 13
+subscribers_count = 12
 temp_clone_token = ""
 topics = [ "docker", "es6", "map", "phlask-map", "reactjs" ]
 updated_within = "year"
