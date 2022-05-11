@@ -1,7 +1,7 @@
 code_url = "https://github.com/18F/identity-idva-proxy-build"
 description = "Pre-compiled CaddyV2 binaries with the forwardproxy plugin."
 git_url = "git://github.com/18F/identity-idva-proxy-build.git"
-last_commit = "2022-04-19T22:44:40Z"
+last_commit = "2022-05-10T16:18:12Z"
 name = "identity-idva-proxy-build"
 organization_name = "18F"
 
@@ -13,7 +13,7 @@ default_branch = "main"
 description = "Pre-compiled CaddyV2 binaries with the forwardproxy plugin."
 disabled = false
 fork = false
-forks_within = 0
+forks_within = 10
 full_name = "18F/identity-idva-proxy-build"
 has_downloads = true
 has_issues = true
@@ -27,7 +27,7 @@ name = "identity-idva-proxy-build"
 node_id = "R_kgDOHNBESA"
 open_issues_within = 0
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 0
 topics = [ ]
 updated_within = "month"
