@@ -1,7 +1,7 @@
 code_url = "https://github.com/g0v/moedict-webkit"
 description = "萌典網站"
 git_url = "git://github.com/g0v/moedict-webkit.git"
-last_commit = "2020-11-22T23:09:01Z"
+last_commit = "2022-05-11T11:26:10Z"
 link_url = "https://www.moedict.tw/"
 name = "moedict-webkit"
 organization_name = "g0v.tw"
@@ -30,10 +30,10 @@ name = "moedict-webkit"
 node_id = "MDEwOlJlcG9zaXRvcnk3OTQyMTg2"
 open_issues_within = 1_000
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 1_000
 topics = [ "cordova", "g0v", "moedict", "nodejs" ]
-updated_within = "month"
+updated_within = "week"
 visibility = "public"
 watchers_within = 1_000
 
