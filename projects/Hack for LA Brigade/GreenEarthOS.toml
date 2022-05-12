@@ -1,6 +1,6 @@
 code_url = "https://github.com/hackforla/GreenEarthOS"
 git_url = "git://github.com/hackforla/GreenEarthOS.git"
-last_commit = "2022-02-03T03:45:49Z"
+last_commit = "2022-05-12T02:38:54Z"
 link_url = "https://greenearthos.org"
 name = "GreenEarthOS"
 organization_name = "Hack for LA Brigade"
@@ -34,7 +34,7 @@ name = "GreenEarthOS"
 node_id = "MDEwOlJlcG9zaXRvcnkzMDIxNDI5NTk="
 open_issues_within = 100
 private = false
-pushed_within = "year"
+pushed_within = "week"
 score = 1
 stargazers_within = 0
 topics = [
