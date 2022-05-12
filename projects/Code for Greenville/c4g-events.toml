@@ -1,0 +1,56 @@
+code_url = "https://github.com/codeforgreenville/c4g-events"
+description = "An automated bot that posts local events in Greenville, SC. Event data is sourced from Code 4 Greenville's OpenEvents API."
+git_url = "git://github.com/codeforgreenville/c4g-events.git"
+last_commit = "2022-05-12T03:09:41Z"
+name = "c4g-events"
+organization_name = "Code for Greenville"
+
+[github]
+allow_forking = true
+archived = false
+created_at = "2022-03-16T23:44:44Z"
+default_branch = "dev"
+description = "An automated bot that posts local events in Greenville, SC. Event data is sourced from Code 4 Greenville's OpenEvents API."
+disabled = false
+fork = false
+forks_within = 0
+full_name = "codeforgreenville/c4g-events"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+id = 470_786_285
+is_template = false
+language = "Python"
+name = "c4g-events"
+node_id = "R_kgDOHA-g7Q"
+open_issues_within = 10
+private = false
+pushed_within = "week"
+stargazers_within = 0
+topics = [ ]
+updated_within = "week"
+visibility = "public"
+watchers_within = 0
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 7_353_466
+  login = "codeforgreenville"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjczNTM0NjY="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  maintain = false
+  pull = true
+  push = false
+  triage = false
