@@ -1,7 +1,7 @@
 code_url = "https://github.com/18F/federalist.18f.gov"
 description = "Homepage for the Federalist platform"
 git_url = "git://github.com/18F/federalist.18f.gov.git"
-last_commit = "2022-05-03T19:30:17Z"
+last_commit = "2022-05-13T16:36:46Z"
 link_url = "https://federalist.18f.gov"
 name = "federalist.18f.gov"
 organization_name = "18F"
@@ -28,7 +28,7 @@ is_template = false
 language = "HTML"
 name = "federalist.18f.gov"
 node_id = "MDEwOlJlcG9zaXRvcnk0ODQ0OTM0Mg=="
-open_issues_within = 100
+open_issues_within = 10
 private = false
 pushed_within = "week"
 stargazers_within = 100
