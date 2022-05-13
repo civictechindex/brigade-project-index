@@ -1,7 +1,7 @@
 code_url = "https://github.com/hackforla/product-management"
 description = "A repository for the Product Management Community of Practice"
 git_url = "git://github.com/hackforla/product-management.git"
-last_commit = "2022-05-03T02:39:26Z"
+last_commit = "2022-05-13T14:52:02Z"
 link_url = "https://hackforla.org/communities-of-practice"
 name = "product-management"
 organization_name = "Hack for LA Brigade"
@@ -37,7 +37,7 @@ name = "product-management"
 node_id = "MDEwOlJlcG9zaXRvcnkyNzUwNDI2MzM="
 open_issues_within = 1_000
 private = false
-pushed_within = "month"
+pushed_within = "week"
 score = 1
 stargazers_within = 100
 topics = [
