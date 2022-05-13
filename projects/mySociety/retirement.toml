@@ -1,7 +1,7 @@
 code_url = "https://github.com/mysociety/retirement"
 description = "A holding page and banner for old websites we are retiring."
 git_url = "git://github.com/mysociety/retirement.git"
-last_commit = "2021-11-19T13:41:33Z"
+last_commit = "2022-05-13T13:57:36Z"
 name = "retirement"
 organization_name = "mySociety"
 
@@ -28,7 +28,7 @@ name = "retirement"
 node_id = "MDEwOlJlcG9zaXRvcnkyODkxMjY4MA=="
 open_issues_within = 10
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 0
 topics = [ ]
 updated_within = "year"
