@@ -1,7 +1,7 @@
 code_url = "https://github.com/code4sac/codeforsacramento.org"
 description = "Pull requests welcome!"
 git_url = "git://github.com/code4sac/codeforsacramento.org.git"
-last_commit = "2022-01-11T01:48:26Z"
+last_commit = "2022-05-12T17:34:32Z"
 link_url = "http://codeforsacramento.org"
 name = "codeforsacramento.org"
 organization_name = "Code for Sacramento"
@@ -27,12 +27,12 @@ is_template = false
 language = "JavaScript"
 name = "codeforsacramento.org"
 node_id = "MDEwOlJlcG9zaXRvcnkyODQyODc1MA=="
-open_issues_within = 100
+open_issues_within = 10
 private = false
 pushed_within = "week"
 stargazers_within = 100
 topics = [ ]
-updated_within = "year"
+updated_within = "week"
 visibility = "public"
 watchers_within = 100
 
