@@ -1,7 +1,7 @@
 code_url = "https://github.com/mysociety/parlparse"
 description = "The scraper/parser that produces data for TheyWorkForYou, PublicWhip, etc"
 git_url = "git://github.com/mysociety/parlparse.git"
-last_commit = "2022-05-04T11:04:52Z"
+last_commit = "2022-05-14T16:53:06Z"
 name = "parlparse"
 organization_name = "mySociety"
 
@@ -28,7 +28,7 @@ name = "parlparse"
 node_id = "MDEwOlJlcG9zaXRvcnkxMzkzMDMwNQ=="
 open_issues_within = 100
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 100
 topics = [ ]
 updated_within = "month"
