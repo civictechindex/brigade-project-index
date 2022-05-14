@@ -39,10 +39,10 @@ visibility = "public"
 watchers_within = 0
 
   [github.license]
-  key = "gpl-3.0"
-  name = "GNU General Public License v3.0"
-  node_id = "MDc6TGljZW5zZTk="
-  spdx_id = "GPL-3.0"
+  key = "other"
+  name = "Other"
+  node_id = "MDc6TGljZW5zZTA="
+  spdx_id = "NOASSERTION"
 
   [github.owner]
   gravatar_id = ""
