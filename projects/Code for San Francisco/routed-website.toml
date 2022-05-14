@@ -1,5 +1,6 @@
 code_url = "https://github.com/sfbrigade/routed-website"
 git_url = "git://github.com/sfbrigade/routed-website.git"
+last_commit = "2022-05-14T02:14:42Z"
 name = "routed-website"
 organization_name = "Code for San Francisco"
 
@@ -14,21 +15,22 @@ forks_within = 0
 full_name = "sfbrigade/routed-website"
 has_downloads = true
 has_issues = true
-has_pages = false
+has_pages = true
 has_projects = true
 has_wiki = true
 id = 491_352_088
 is_template = false
+language = "JavaScript"
 name = "routed-website"
 node_id = "R_kgDOHUlwGA"
 open_issues_within = 0
 private = false
 pushed_within = "week"
-stargazers_within = 0
+stargazers_within = 10
 topics = [ ]
 updated_within = "week"
 visibility = "public"
-watchers_within = 0
+watchers_within = 10
 
   [github.owner]
   gravatar_id = ""
