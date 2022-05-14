@@ -1,8 +1,8 @@
 code_url = "https://github.com/loomio/loomio"
 description = "Loomio is a collaborative decision making tool"
 git_url = "git://github.com/loomio/loomio.git"
-last_commit = "2022-05-13T01:18:27Z"
-link_url = "https://www.loomio.org"
+last_commit = "2022-05-13T11:04:14Z"
+link_url = "https://www.loomio.com"
 name = "loomio"
 organization_name = "Loomio"
 
@@ -21,7 +21,7 @@ has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = false
-homepage = "https://www.loomio.org"
+homepage = "https://www.loomio.com"
 id = 2_731_301
 is_template = false
 language = "Ruby"
