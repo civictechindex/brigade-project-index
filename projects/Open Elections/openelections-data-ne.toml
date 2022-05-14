@@ -13,7 +13,7 @@ default_branch = "master"
 description = "Raw election results for Nebraska elections"
 disabled = false
 fork = false
-forks_within = 10
+forks_within = 100
 full_name = "openelections/openelections-data-ne"
 has_downloads = true
 has_issues = true
@@ -27,7 +27,7 @@ name = "openelections-data-ne"
 node_id = "MDEwOlJlcG9zaXRvcnkzMjQ1ODIyNA=="
 open_issues_within = 10
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
 updated_within = "year"
