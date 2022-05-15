@@ -41,7 +41,7 @@ node_id = "MDEwOlJlcG9zaXRvcnkyMjA3MjIwNzE="
 open_issues_within = 100
 private = false
 pushed_within = "month"
-stargazers_within = 100
+stargazers_within = 10
 topics = [
   "baltimore-city",
   "civic-tech",
@@ -55,7 +55,7 @@ topics = [
 ]
 updated_within = "week"
 visibility = "public"
-watchers_within = 100
+watchers_within = 10
 
   [github.license]
   key = "apache-2.0"
