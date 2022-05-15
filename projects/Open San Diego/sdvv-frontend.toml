@@ -1,7 +1,7 @@
 code_url = "https://github.com/opensandiego/sdvv-frontend"
 description = "Frontend for Voter's Voice website"
 git_url = "git://github.com/opensandiego/sdvv-frontend.git"
-last_commit = "2022-05-09T04:32:55Z"
+last_commit = "2022-05-14T23:20:57Z"
 link_url = "https://followthemoneysandiego.org/"
 name = "sdvv-frontend"
 organization_name = "Open San Diego"
@@ -27,7 +27,7 @@ is_template = false
 language = "TypeScript"
 name = "sdvv-frontend"
 node_id = "MDEwOlJlcG9zaXRvcnkyMzg2MzI1Mzg="
-open_issues_within = 100
+open_issues_within = 10
 private = false
 pushed_within = "week"
 stargazers_within = 10
