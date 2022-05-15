@@ -4,5 +4,5 @@ git_branch = "main"
 git_url = "git://github.com/CodeForTucson/green-welcome-package-astro.git"
 last_pushed_within = "week"
 name = "green-welcome-package-astro"
-open_issues_within = 10
+open_issues_within = 100
 organization_name = "Code for Tucson"
