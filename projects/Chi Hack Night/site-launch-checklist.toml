@@ -1,5 +1,5 @@
 code_url = "https://github.com/datamade/site-launch-checklist"
-last_commit = "2020-12-21T20:36:17Z"
+last_commit = "2022-05-16T02:52:34Z"
 name = "site-launch-checklist"
 organization_name = "Chi Hack Night"
 
@@ -26,12 +26,12 @@ network_count = 29
 node_id = "MDEwOlJlcG9zaXRvcnk0MDYwNzc1Nw=="
 open_issues_within = 10
 private = false
-pushed_within = "over_a_year"
+pushed_within = "week"
 stargazers_within = 1_000
 subscribers_count = 8
 temp_clone_token = ""
 topics = [ "checklist", "guide" ]
-updated_within = "month"
+updated_within = "week"
 visibility = "public"
 watchers_within = 1_000
 
