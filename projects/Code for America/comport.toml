@@ -37,10 +37,10 @@ visibility = "public"
 watchers_within = 100
 
   [github.license]
-  key = "bsd-3-clause"
-  name = 'BSD 3-Clause "New" or "Revised" License'
-  node_id = "MDc6TGljZW5zZTU="
-  spdx_id = "BSD-3-Clause"
+  key = "other"
+  name = "Other"
+  node_id = "MDc6TGljZW5zZTA="
+  spdx_id = "NOASSERTION"
 
   [github.owner]
   gravatar_id = ""
