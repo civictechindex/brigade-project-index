@@ -1,7 +1,7 @@
 code_url = "https://github.com/codeforpdx/dwellingly-app"
 description = "Application for property managers to communicate with social workers"
 git_url = "git://github.com/codeforpdx/dwellingly-app.git"
-last_commit = "2022-05-05T02:16:33Z"
+last_commit = "2022-05-16T01:14:44Z"
 name = "dwellingly-app"
 organization_name = "Code for PDX"
 topics = [
@@ -41,7 +41,7 @@ name = "dwellingly-app"
 node_id = "MDEwOlJlcG9zaXRvcnkxODA3MDM2NzM="
 open_issues_within = 100
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 100
 topics = [
   "bulma",
