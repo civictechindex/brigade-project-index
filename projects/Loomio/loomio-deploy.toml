@@ -1,7 +1,7 @@
 code_url = "https://github.com/loomio/loomio-deploy"
 description = "Install Loomio on your own server"
 git_url = "git://github.com/loomio/loomio-deploy.git"
-last_commit = "2022-04-19T20:50:50Z"
+last_commit = "2022-05-17T02:29:51Z"
 name = "loomio-deploy"
 organization_name = "Loomio"
 
@@ -28,7 +28,7 @@ name = "loomio-deploy"
 node_id = "MDEwOlJlcG9zaXRvcnk1MzY1NzEzMA=="
 open_issues_within = 10
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 1_000
 topics = [ ]
 updated_within = "week"
