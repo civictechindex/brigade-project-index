@@ -1,7 +1,7 @@
 code_url = "https://github.com/mysociety/commonlib"
 description = "mySociety code common to several projects"
 git_url = "git://github.com/mysociety/commonlib.git"
-last_commit = "2022-03-23T10:29:58Z"
+last_commit = "2022-05-17T08:34:52Z"
 name = "commonlib"
 organization_name = "mySociety"
 
@@ -28,7 +28,7 @@ name = "commonlib"
 node_id = "MDEwOlJlcG9zaXRvcnkxNDIyMjQ2"
 open_issues_within = 10
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 100
 topics = [ ]
 updated_within = "year"
