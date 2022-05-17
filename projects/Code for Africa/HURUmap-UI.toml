@@ -1,7 +1,7 @@
 code_url = "https://github.com/CodeForAfrica/HURUmap-UI"
 description = "HURUmap UI React chart and visualisation components powering geo-data platforms across Africa. Accessible at https://codeforafrica.github.io/HURUmap-UI/"
 git_url = "git://github.com/CodeForAfrica/HURUmap-UI.git"
-last_commit = "2022-03-25T07:55:13Z"
+last_commit = "2022-05-17T05:44:41Z"
 link_url = "https://codeforafrica.github.io/HURUmap-UI/"
 name = "HURUmap-UI"
 organization_name = "Code for Africa"
@@ -41,7 +41,7 @@ name = "HURUmap-UI"
 node_id = "MDEwOlJlcG9zaXRvcnkxOTQwNTM4ODc="
 open_issues_within = 10
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 10
 topics = [
   "charts",
