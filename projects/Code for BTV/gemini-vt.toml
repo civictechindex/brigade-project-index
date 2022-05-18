@@ -1,34 +1,36 @@
-code_url = "https://github.com/codeforbtv/courtbot-vt-frontend"
-git_url = "git://github.com/codeforbtv/courtbot-vt-frontend.git"
-last_commit = "2022-02-17T04:05:37Z"
-name = "courtbot-vt-frontend"
+code_url = "https://github.com/codeforbtv/gemini-vt"
+description = "Make Music Day Code"
+git_url = "git://github.com/codeforbtv/gemini-vt.git"
+last_commit = "2022-05-18T00:50:47Z"
+name = "gemini-vt"
 organization_name = "Code for BTV"
 
 [github]
 allow_forking = true
 archived = false
-created_at = "2021-07-28T00:15:35Z"
+created_at = "2022-05-17T23:21:19Z"
 default_branch = "main"
+description = "Make Music Day Code"
 disabled = false
-fork = true
+fork = false
 forks_within = 0
-full_name = "codeforbtv/courtbot-vt-frontend"
+full_name = "codeforbtv/gemini-vt"
 has_downloads = true
 has_issues = true
-has_pages = false
+has_pages = true
 has_projects = true
 has_wiki = true
-id = 390_162_560
+id = 493_442_349
 is_template = false
-language = "TypeScript"
-name = "courtbot-vt-frontend"
-node_id = "MDEwOlJlcG9zaXRvcnkzOTAxNjI1NjA="
-open_issues_within = 10
+language = "HTML"
+name = "gemini-vt"
+node_id = "R_kgDOHWlVLQ"
+open_issues_within = 0
 private = false
 pushed_within = "week"
 stargazers_within = 0
 topics = [ ]
-updated_within = "month"
+updated_within = "week"
 visibility = "public"
 watchers_within = 0
 
