@@ -1,7 +1,7 @@
 code_url = "https://github.com/hackforla/food-oasis"
 description = "Repository for the current redevelopment of the Food Oasis Los Angeles website"
 git_url = "git://github.com/hackforla/food-oasis.git"
-last_commit = "2022-05-18T00:29:08Z"
+last_commit = "2022-05-18T16:17:38Z"
 link_url = "https://foodoasis.la"
 name = "food-oasis"
 organization_name = "Hack for LA Brigade"
@@ -64,7 +64,7 @@ topics = [
   "hacktoberfest2021",
   "los-angeles"
 ]
-updated_within = "month"
+updated_within = "week"
 visibility = "public"
 watchers_within = 100
 
