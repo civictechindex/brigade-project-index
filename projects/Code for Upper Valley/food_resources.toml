@@ -1,7 +1,7 @@
 code_url = "https://github.com/codeforUV/food_resources"
 description = "A project that aims to increase food access for residents of the Upper Valley region of VT/NH"
 git_url = "git://github.com/codeforUV/food_resources.git"
-last_commit = "2022-04-15T01:47:40Z"
+last_commit = "2022-05-19T04:58:06Z"
 link_url = "https://food-resources.herokuapp.com"
 name = "food_resources"
 organization_name = "Code for Upper Valley"
@@ -42,7 +42,7 @@ name = "food_resources"
 node_id = "MDEwOlJlcG9zaXRvcnkyNjc3MDAzNzA="
 open_issues_within = 10
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 10
 topics = [
   "codeforamerica",
