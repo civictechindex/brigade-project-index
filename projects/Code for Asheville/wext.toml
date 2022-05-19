@@ -1,7 +1,7 @@
 code_url = "https://github.com/CodeForAsheville/wext"
 description = "Petition form generation app to streamline expunction process in North Carolina"
 git_url = "git://github.com/CodeForAsheville/wext.git"
-last_commit = "2021-10-15T01:49:57Z"
+last_commit = "2022-05-19T01:11:52Z"
 name = "wext"
 organization_name = "Code for Asheville"
 topics = [ "hacktoberfest", "hacktoberfest2021" ]
@@ -29,7 +29,7 @@ name = "wext"
 node_id = "MDEwOlJlcG9zaXRvcnkzNTIzMzY3NTU="
 open_issues_within = 10
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ "hacktoberfest", "hacktoberfest2021" ]
 updated_within = "year"
