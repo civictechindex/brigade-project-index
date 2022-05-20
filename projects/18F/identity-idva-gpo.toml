@@ -1,6 +1,6 @@
 code_url = "https://github.com/18F/identity-idva-gpo"
 git_url = "git://github.com/18F/identity-idva-gpo.git"
-last_commit = "2022-01-28T17:03:42Z"
+last_commit = "2022-05-19T20:56:32Z"
 name = "identity-idva-gpo"
 organization_name = "18F"
 
@@ -20,16 +20,23 @@ has_projects = true
 has_wiki = true
 id = 453_149_695
 is_template = false
+language = "Python"
 name = "identity-idva-gpo"
 node_id = "R_kgDOGwKD_w"
-open_issues_within = 10
+open_issues_within = 0
 private = false
 pushed_within = "week"
 stargazers_within = 0
 topics = [ ]
-updated_within = "month"
+updated_within = "week"
 visibility = "public"
 watchers_within = 0
+
+  [github.license]
+  key = "other"
+  name = "Other"
+  node_id = "MDc6TGljZW5zZTA="
+  spdx_id = "NOASSERTION"
 
   [github.owner]
   gravatar_id = ""
