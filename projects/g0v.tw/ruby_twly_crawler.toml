@@ -1,7 +1,7 @@
 code_url = "https://github.com/g0v/ruby_twly_crawler"
 description = "立法院爬蟲，抓取立委資訊並可隨屆次分割。"
 git_url = "git://github.com/g0v/ruby_twly_crawler.git"
-last_commit = "2020-02-03T11:56:43Z"
+last_commit = "2022-05-20T06:06:02Z"
 name = "ruby_twly_crawler"
 organization_name = "g0v.tw"
 
@@ -31,7 +31,7 @@ private = false
 pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
-updated_within = "over_a_year"
+updated_within = "week"
 visibility = "public"
 watchers_within = 10
 
