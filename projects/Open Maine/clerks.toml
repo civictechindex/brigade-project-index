@@ -1,0 +1,46 @@
+code_url = "https://github.com/OpenMaine/clerks"
+git_url = "git://github.com/OpenMaine/clerks.git"
+name = "clerks"
+organization_name = "Open Maine"
+
+[github]
+allow_forking = true
+archived = false
+created_at = "2022-05-20T14:10:32Z"
+default_branch = "main"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "OpenMaine/clerks"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+id = 494_489_905
+is_template = false
+name = "clerks"
+node_id = "R_kgDOHXlRMQ"
+open_issues_within = 0
+private = false
+pushed_within = "week"
+stargazers_within = 0
+topics = [ ]
+updated_within = "week"
+visibility = "public"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 31_015_387
+  login = "OpenMaine"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjMxMDE1Mzg3"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  maintain = false
+  pull = true
+  push = false
+  triage = false
