@@ -1,6 +1,6 @@
 code_url = "https://github.com/mysociety/noiseworks"
 git_url = "git://github.com/mysociety/noiseworks.git"
-last_commit = "2022-03-04T09:33:20Z"
+last_commit = "2022-05-22T08:11:35Z"
 name = "noiseworks"
 organization_name = "mySociety"
 
@@ -25,7 +25,7 @@ name = "noiseworks"
 node_id = "MDEwOlJlcG9zaXRvcnkzNjYxMDA1NDI="
 open_issues_within = 100
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 0
 topics = [ ]
 updated_within = "year"
