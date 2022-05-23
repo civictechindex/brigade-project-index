@@ -1,6 +1,6 @@
 code_url = "https://github.com/CodeForAfrica/sensors.AFRICA-Noise-sensors-hardware"
 git_url = "git://github.com/CodeForAfrica/sensors.AFRICA-Noise-sensors-hardware.git"
-last_commit = "2022-05-11T10:55:02Z"
+last_commit = "2022-05-23T08:07:16Z"
 name = "sensors.AFRICA-Noise-sensors-hardware"
 organization_name = "Code for Ghana"
 
@@ -24,7 +24,7 @@ name = "sensors.AFRICA-Noise-sensors-hardware"
 node_id = "R_kgDOHKANHg"
 open_issues_within = 0
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 0
 topics = [ ]
 updated_within = "year"
