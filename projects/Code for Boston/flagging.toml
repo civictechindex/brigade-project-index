@@ -1,7 +1,7 @@
 code_url = "https://github.com/codeforboston/flagging"
 description = "Flagging website for CRWA"
 git_url = "git://github.com/codeforboston/flagging.git"
-last_commit = "2022-05-04T18:05:27Z"
+last_commit = "2022-05-22T21:36:24Z"
 name = "flagging"
 organization_name = "Code for Boston"
 
@@ -28,7 +28,7 @@ name = "flagging"
 node_id = "MDEwOlJlcG9zaXRvcnkyNjE2MjAyOTc="
 open_issues_within = 10
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
 updated_within = "year"
