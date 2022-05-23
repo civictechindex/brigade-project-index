@@ -26,12 +26,12 @@ network_count = 29
 node_id = "MDEwOlJlcG9zaXRvcnk0MDYwNzc1Nw=="
 open_issues_within = 10
 private = false
-pushed_within = "week"
+pushed_within = "month"
 stargazers_within = 1_000
 subscribers_count = 8
 temp_clone_token = ""
 topics = [ "checklist", "guide" ]
-updated_within = "week"
+updated_within = "month"
 visibility = "public"
 watchers_within = 1_000
 
