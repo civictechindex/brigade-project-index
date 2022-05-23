@@ -1,7 +1,7 @@
 code_url = "https://github.com/CodeForAfrica/Dominion.AFRICA"
 description = "Dominion gives journalist and civic activists useful facts and data about land ownership in Africa. Accessible at https://dominion.africa"
 git_url = "git://github.com/CodeForAfrica/Dominion.AFRICA.git"
-last_commit = "2022-05-13T09:52:08Z"
+last_commit = "2022-05-23T06:34:00Z"
 link_url = "https://dominion.africa"
 name = "Dominion.AFRICA"
 organization_name = "Code for Africa"
@@ -41,7 +41,7 @@ name = "Dominion.AFRICA"
 node_id = "MDEwOlJlcG9zaXRvcnkxOTc0MDI0MTU="
 open_issues_within = 10
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 0
 topics = [
   "africa",
