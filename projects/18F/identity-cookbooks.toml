@@ -1,7 +1,7 @@
 code_url = "https://github.com/18F/identity-cookbooks"
 description = "Open source cookbooks used by the login.gov team"
 git_url = "git://github.com/18F/identity-cookbooks.git"
-last_commit = "2022-04-27T00:35:12Z"
+last_commit = "2022-05-23T17:46:17Z"
 name = "identity-cookbooks"
 organization_name = "18F"
 
@@ -27,7 +27,7 @@ name = "identity-cookbooks"
 node_id = "MDEwOlJlcG9zaXRvcnkxMjk0NTUzODQ="
 open_issues_within = 10
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
 updated_within = "month"
