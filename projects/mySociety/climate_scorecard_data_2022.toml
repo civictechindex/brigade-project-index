@@ -1,7 +1,7 @@
 code_url = "https://github.com/mysociety/climate_scorecard_data_2022"
 description = "Data behind Climate Emergency's 2022 Climate Scorecards"
 git_url = "git://github.com/mysociety/climate_scorecard_data_2022.git"
-last_commit = "2022-04-22T12:51:30Z"
+last_commit = "2022-05-23T19:14:15Z"
 name = "climate_scorecard_data_2022"
 organization_name = "mySociety"
 
@@ -27,7 +27,7 @@ name = "climate_scorecard_data_2022"
 node_id = "R_kgDOHN_YiA"
 open_issues_within = 0
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 0
 topics = [ ]
 updated_within = "year"
