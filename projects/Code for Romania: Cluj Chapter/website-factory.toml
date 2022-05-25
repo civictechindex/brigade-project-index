@@ -1,6 +1,6 @@
 code_url = "https://github.com/code4romania/website-factory"
 git_url = "git://github.com/code4romania/website-factory.git"
-last_commit = "2022-05-23T14:40:16Z"
+last_commit = "2022-05-24T18:41:50Z"
 name = "website-factory"
 organization_name = "Code for Romania: Cluj Chapter"
 
@@ -27,11 +27,11 @@ node_id = "MDEwOlJlcG9zaXRvcnkzODI2NTAzNDg="
 open_issues_within = 100
 private = false
 pushed_within = "week"
-stargazers_within = 0
+stargazers_within = 10
 topics = [ ]
-updated_within = "year"
+updated_within = "week"
 visibility = "public"
-watchers_within = 0
+watchers_within = 10
 
   [github.license]
   key = "mpl-2.0"
