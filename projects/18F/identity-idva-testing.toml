@@ -1,6 +1,6 @@
 code_url = "https://github.com/18F/identity-idva-testing"
 git_url = "git://github.com/18F/identity-idva-testing.git"
-last_commit = "2022-05-19T21:42:16Z"
+last_commit = "2022-05-25T16:13:09Z"
 name = "identity-idva-testing"
 organization_name = "18F"
 
@@ -23,7 +23,7 @@ is_template = false
 language = "Shell"
 name = "identity-idva-testing"
 node_id = "MDEwOlJlcG9zaXRvcnkzNDIzMjg2MzY="
-open_issues_within = 10
+open_issues_within = 0
 private = false
 pushed_within = "week"
 stargazers_within = 0
