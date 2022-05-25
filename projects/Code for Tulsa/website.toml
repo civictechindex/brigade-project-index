@@ -1,7 +1,7 @@
 code_url = "https://github.com/codefortulsa/website"
 description = "Code For Tulsa Website Update 2022"
 git_url = "git://github.com/codefortulsa/website.git"
-last_commit = "2022-04-26T23:46:12Z"
+last_commit = "2022-05-25T00:01:56Z"
 link_url = "https://www.figma.com/file/maf7XD1XhbIKlJn77P2tIS/Code-for-Tulsa-Website?node-id=0%3A1"
 name = "website"
 organization_name = "Code for Tulsa"
@@ -32,15 +32,9 @@ private = false
 pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
-updated_within = "month"
+updated_within = "week"
 visibility = "public"
 watchers_within = 10
-
-  [github.license]
-  key = "0bsd"
-  name = "BSD Zero Clause License"
-  node_id = "MDc6TGljZW5zZTM1"
-  spdx_id = "0BSD"
 
   [github.owner]
   gravatar_id = ""
