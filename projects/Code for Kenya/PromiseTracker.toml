@@ -1,7 +1,7 @@
 code_url = "https://github.com/CodeForAfrica/PromiseTracker"
 description = "Promise Tracker is a tool designed to help journalists and civil society watchdogs track campaign/promises/pledges by government officials. Accessible at https://promisetracker.dev.codeforafrica.org/"
 git_url = "git://github.com/CodeForAfrica/PromiseTracker.git"
-last_commit = "2022-05-23T07:35:15Z"
+last_commit = "2022-05-25T05:07:42Z"
 link_url = "https://promisetracker.dev.codeforafrica.org/"
 name = "PromiseTracker"
 organization_name = "Code for Kenya"
@@ -73,7 +73,7 @@ topics = [
   "tracker",
   "trello"
 ]
-updated_within = "month"
+updated_within = "year"
 visibility = "public"
 watchers_within = 10
 
