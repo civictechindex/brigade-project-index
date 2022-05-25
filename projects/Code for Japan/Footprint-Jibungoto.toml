@@ -1,6 +1,6 @@
 code_url = "https://github.com/codeforjapan/Footprint-Jibungoto"
 git_url = "git://github.com/codeforjapan/Footprint-Jibungoto.git"
-last_commit = "2022-03-26T03:35:32Z"
+last_commit = "2022-05-25T09:24:30Z"
 name = "Footprint-Jibungoto"
 organization_name = "Code for Japan"
 
@@ -20,7 +20,7 @@ has_projects = true
 has_wiki = true
 id = 450_720_355
 is_template = false
-language = "Vue"
+language = "TypeScript"
 name = "Footprint-Jibungoto"
 node_id = "R_kgDOGt1yYw"
 open_issues_within = 10
@@ -28,7 +28,7 @@ private = false
 pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
-updated_within = "year"
+updated_within = "week"
 visibility = "public"
 watchers_within = 10
 
