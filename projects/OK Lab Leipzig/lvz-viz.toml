@@ -1,7 +1,7 @@
 code_url = "https://github.com/CodeforLeipzig/lvz-viz"
 description = "Visualization of LVZ police ticker"
 git_url = "git://github.com/CodeforLeipzig/lvz-viz.git"
-last_commit = "2021-11-17T12:29:00Z"
+last_commit = "2022-05-25T21:28:06Z"
 name = "lvz-viz"
 organization_name = "OK Lab Leipzig"
 
@@ -27,7 +27,7 @@ name = "lvz-viz"
 node_id = "MDEwOlJlcG9zaXRvcnkyMDQxMzczNw=="
 open_issues_within = 100
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 100
 topics = [ ]
 updated_within = "year"
