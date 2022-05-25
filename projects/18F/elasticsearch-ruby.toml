@@ -1,0 +1,57 @@
+code_url = "https://github.com/18F/elasticsearch-ruby"
+description = "Ruby integrations for Elasticsearch"
+git_url = "git://github.com/18F/elasticsearch-ruby.git"
+last_commit = "2022-02-03T13:16:52Z"
+link_url = "https://www.elastic.co/guide/en/elasticsearch/client/ruby-api/current/index.html"
+name = "elasticsearch-ruby"
+organization_name = "18F"
+
+[github]
+allow_forking = true
+archived = false
+created_at = "2022-05-24T15:26:13Z"
+default_branch = "main"
+description = "Ruby integrations for Elasticsearch"
+disabled = false
+fork = true
+forks_within = 0
+full_name = "18F/elasticsearch-ruby"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = false
+homepage = "https://www.elastic.co/guide/en/elasticsearch/client/ruby-api/current/index.html"
+id = 495_881_704
+is_template = false
+name = "elasticsearch-ruby"
+node_id = "R_kgDOHY6N6A"
+open_issues_within = 0
+private = false
+pushed_within = "week"
+stargazers_within = 0
+topics = [ ]
+updated_within = "month"
+visibility = "public"
+watchers_within = 0
+
+  [github.license]
+  key = "apache-2.0"
+  name = "Apache License 2.0"
+  node_id = "MDc6TGljZW5zZTI="
+  spdx_id = "Apache-2.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_233_994
+  login = "18F"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjYyMzM5OTQ="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  maintain = false
+  pull = true
+  push = false
+  triage = false
