@@ -1,6 +1,6 @@
 code_url = "https://github.com/hackforla/design-systems"
 git_url = "git://github.com/hackforla/design-systems.git"
-last_commit = "2022-05-23T23:52:22Z"
+last_commit = "2022-05-25T19:06:41Z"
 name = "design-systems"
 organization_name = "Hack for LA Brigade"
 topics = [ "hack-for-la" ]
@@ -29,11 +29,11 @@ open_issues_within = 100
 private = false
 pushed_within = "week"
 score = 1
-stargazers_within = 100
+stargazers_within = 10
 topics = [ "hack-for-la" ]
 updated_within = "week"
 visibility = "public"
-watchers_within = 100
+watchers_within = 10
 
   [github.license]
   key = "gpl-2.0"
