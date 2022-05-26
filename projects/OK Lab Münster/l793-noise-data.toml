@@ -33,10 +33,10 @@ visibility = "public"
 watchers_within = 0
 
   [github.license]
-  key = "other"
-  name = "Other"
-  node_id = "MDc6TGljZW5zZTA="
-  spdx_id = "NOASSERTION"
+  key = "odbl-1.0"
+  name = "ODC Open Database License v1.0"
+  node_id = "MDc6TGljZW5zZTM3"
+  spdx_id = "ODbL-1.0"
 
   [github.owner]
   gravatar_id = ""
