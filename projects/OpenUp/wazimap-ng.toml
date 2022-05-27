@@ -1,7 +1,7 @@
 code_url = "https://github.com/OpenUpSA/wazimap-ng"
 description = "Backend for Wazimap-NG. See also https://github.com/OpenUpSA/wazimap-ng-ui/"
 git_url = "git://github.com/OpenUpSA/wazimap-ng.git"
-last_commit = "2022-05-20T06:17:46Z"
+last_commit = "2022-05-27T06:38:51Z"
 link_url = "https://geo.vulekamali.gov.za/"
 name = "wazimap-ng"
 organization_name = "OpenUp"
@@ -30,11 +30,11 @@ node_id = "MDEwOlJlcG9zaXRvcnkyMjk0MzUxMTk="
 open_issues_within = 100
 private = false
 pushed_within = "week"
-stargazers_within = 100
+stargazers_within = 10
 topics = [ ]
-updated_within = "month"
+updated_within = "week"
 visibility = "public"
-watchers_within = 100
+watchers_within = 10
 
   [github.license]
   key = "apache-2.0"
