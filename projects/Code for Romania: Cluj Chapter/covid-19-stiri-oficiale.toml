@@ -5,7 +5,6 @@ git_url = "git://github.com/code4romania/covid-19-stiri-oficiale.git"
 last_pushed_within = "week"
 link_url = "https://stirioficiale.ro"
 name = "covid-19-stiri-oficiale"
-open_issues_within = 10
 organization_name = "Code for Romania: Cluj Chapter"
 topics = [
   "alpinejs",
