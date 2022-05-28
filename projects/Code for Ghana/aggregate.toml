@@ -37,10 +37,10 @@ visibility = "public"
 watchers_within = 0
 
   [github.license]
-  key = "apache-2.0"
-  name = "Apache License 2.0"
-  node_id = "MDc6TGljZW5zZTI="
-  spdx_id = "Apache-2.0"
+  key = "other"
+  name = "Other"
+  node_id = "MDc6TGljZW5zZTA="
+  spdx_id = "NOASSERTION"
 
   [github.owner]
   gravatar_id = ""
