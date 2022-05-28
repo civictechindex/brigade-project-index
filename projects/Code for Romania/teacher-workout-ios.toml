@@ -1,7 +1,7 @@
 code_url = "https://github.com/code4romania/teacher-workout-ios"
 description = "Teacher Workout iOS app"
 git_url = "git://github.com/code4romania/teacher-workout-ios.git"
-last_commit = "2022-01-29T12:23:07Z"
+last_commit = "2022-05-28T11:14:54Z"
 name = "teacher-workout-ios"
 organization_name = "Code for Romania"
 
@@ -25,7 +25,7 @@ is_template = false
 language = "Swift"
 name = "teacher-workout-ios"
 node_id = "MDEwOlJlcG9zaXRvcnkzNzkyNzE0MTI="
-open_issues_within = 100
+open_issues_within = 10
 private = false
 pushed_within = "week"
 stargazers_within = 10
