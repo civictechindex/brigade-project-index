@@ -1,7 +1,7 @@
 code_url = "https://github.com/openoakland/openbudgetoakland"
 description = "The mission of Open Budget Oakland is to transform the mountain of City budget data into an interactive display of charts and diagrams that is easy and even fun to use."
 git_branch = "master"
-last_pushed_within = "month"
+last_pushed_within = "year"
 link_url = "http://openbudgetoakland.org"
 name = "Open Budget Oakland"
 open_issues_within = 100
