@@ -1,7 +1,7 @@
 code_url = "https://github.com/code4romania/covid-19-stiri-oficiale"
 description = "Platform which centralizes all the official press releases, press conferences and decisions of the Committee for Special Emergency Situations"
 git_url = "git://github.com/code4romania/covid-19-stiri-oficiale.git"
-last_commit = "2022-05-07T14:56:48Z"
+last_commit = "2022-05-28T16:03:29Z"
 link_url = "https://stirioficiale.ro"
 name = "covid-19-stiri-oficiale"
 organization_name = "Code for Romania: Iasi Chapter"
@@ -35,7 +35,7 @@ is_template = false
 language = "PHP"
 name = "covid-19-stiri-oficiale"
 node_id = "MDEwOlJlcG9zaXRvcnkyNDY5MTg4NDc="
-open_issues_within = 10
+open_issues_within = 0
 private = false
 pushed_within = "week"
 stargazers_within = 100
