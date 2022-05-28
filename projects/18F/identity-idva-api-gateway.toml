@@ -1,7 +1,7 @@
 code_url = "https://github.com/18F/identity-idva-api-gateway"
 description = "The IDVA API Gateway cloud.gov application and configuration."
 git_url = "git://github.com/18F/identity-idva-api-gateway.git"
-last_commit = "2022-05-26T21:16:19Z"
+last_commit = "2022-05-27T20:08:46Z"
 name = "identity-idva-api-gateway"
 organization_name = "18F"
 
@@ -26,7 +26,7 @@ is_template = false
 language = "Shell"
 name = "identity-idva-api-gateway"
 node_id = "MDEwOlJlcG9zaXRvcnkyOTA2MDAzNTE="
-open_issues_within = 10
+open_issues_within = 0
 private = false
 pushed_within = "week"
 stargazers_within = 10

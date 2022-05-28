@@ -1,36 +1,37 @@
-code_url = "https://github.com/18F/identity-oidc-sinatra"
-description = "Example OpenID Connect relying party as a Sinatra app"
-git_url = "git://github.com/18F/identity-oidc-sinatra.git"
-last_commit = "2022-05-20T18:10:42Z"
-name = "identity-oidc-sinatra"
+code_url = "https://github.com/18F/content-guide"
+description = "18F Content Guide"
+git_url = "git://github.com/18F/content-guide.git"
+last_commit = "2022-02-01T00:57:27Z"
+link_url = "https://content-guide.18f.gov/"
+name = "content-guide"
 organization_name = "18F"
-topics = [ "login-gov" ]
 
 [github]
 allow_forking = true
 archived = false
-created_at = "2017-02-09T16:45:52Z"
-default_branch = "main"
-description = "Example OpenID Connect relying party as a Sinatra app"
+created_at = "2015-07-01T18:26:02Z"
+default_branch = "18f-pages"
+description = "18F Content Guide"
 disabled = false
 fork = false
-forks_within = 10
-full_name = "18F/identity-oidc-sinatra"
+forks_within = 100
+full_name = "18F/content-guide"
 has_downloads = true
 has_issues = true
 has_pages = false
-has_projects = false
-has_wiki = false
-id = 81_472_081
+has_projects = true
+has_wiki = true
+homepage = "https://content-guide.18f.gov/"
+id = 38_387_697
 is_template = false
-language = "Ruby"
-name = "identity-oidc-sinatra"
-node_id = "MDEwOlJlcG9zaXRvcnk4MTQ3MjA4MQ=="
+language = "HTML"
+name = "content-guide"
+node_id = "MDEwOlJlcG9zaXRvcnkzODM4NzY5Nw=="
 open_issues_within = 10
 private = false
 pushed_within = "week"
 stargazers_within = 100
-topics = [ "login-gov" ]
+topics = [ ]
 updated_within = "week"
 visibility = "public"
 watchers_within = 100

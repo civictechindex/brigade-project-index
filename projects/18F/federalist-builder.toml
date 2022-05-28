@@ -1,7 +1,7 @@
 code_url = "https://github.com/18F/federalist-builder"
 description = "This application is used to launch build tasks for Federalist in an AWS ECS Docker container based on messages from an AWS SQS queue"
 git_url = "git://github.com/18F/federalist-builder.git"
-last_commit = "2022-05-27T14:49:45Z"
+last_commit = "2022-05-27T20:57:37Z"
 name = "federalist-builder"
 organization_name = "18F"
 topics = [ "federalist" ]
