@@ -1,6 +1,6 @@
 code_url = "https://github.com/codeforamerica/form-flow-starter"
 git_url = "git://github.com/codeforamerica/form-flow-starter.git"
-last_commit = "2022-05-26T23:56:44Z"
+last_commit = "2022-05-28T00:21:04Z"
 name = "form-flow-starter"
 organization_name = "Code for America"
 
@@ -23,7 +23,7 @@ is_template = true
 language = "HTML"
 name = "form-flow-starter"
 node_id = "R_kgDOHMoj7g"
-open_issues_within = 10
+open_issues_within = 0
 private = false
 pushed_within = "week"
 stargazers_within = 10
