@@ -1,7 +1,7 @@
 code_url = "https://github.com/codeforboston/mattapan-mapping"
 description = "Mattapan Mapping application. A collaborative between powerfulpathways.org & codeforboston.org . Ideation phase."
 git_url = "git://github.com/codeforboston/mattapan-mapping.git"
-last_commit = "2022-05-04T04:31:41Z"
+last_commit = "2022-05-30T23:45:42Z"
 link_url = "https://mattapan-mapping.netlify.app/"
 name = "mattapan-mapping"
 organization_name = "Code for Boston"
@@ -29,7 +29,7 @@ name = "mattapan-mapping"
 node_id = "MDEwOlJlcG9zaXRvcnkzNTc3MzQxMTI="
 open_issues_within = 100
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
 updated_within = "year"
