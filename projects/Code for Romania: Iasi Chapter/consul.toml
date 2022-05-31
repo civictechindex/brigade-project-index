@@ -1,7 +1,7 @@
 code_url = "https://github.com/code4romania/consul"
 description = "Consul - Open Government and E-Participation Web Software"
 git_url = "git://github.com/code4romania/consul.git"
-last_commit = "2022-04-29T15:40:55Z"
+last_commit = "2022-05-31T11:41:31Z"
 link_url = "https://consulproject.org"
 name = "consul"
 organization_name = "Code for Romania: Iasi Chapter"
@@ -29,7 +29,7 @@ name = "consul"
 node_id = "MDEwOlJlcG9zaXRvcnkzODc1MTQ1NDg="
 open_issues_within = 10
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 0
 topics = [ ]
 updated_within = "year"
