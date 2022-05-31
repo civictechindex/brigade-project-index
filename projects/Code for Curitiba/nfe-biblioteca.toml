@@ -12,7 +12,7 @@ created_at = "2016-08-17T16:47:28Z"
 default_branch = "master"
 description = "API em javascript para carregar dados sobre Nota Fiscal de Consumidor Eletrônica através do link exibido no DANFE"
 disabled = false
-fork = true
+fork = false
 forks_within = 0
 full_name = "CodeForCuritiba/nfe-biblioteca"
 has_downloads = true
@@ -30,7 +30,7 @@ private = false
 pushed_within = "over_a_year"
 stargazers_within = 0
 topics = [ ]
-updated_within = "over_a_year"
+updated_within = "week"
 visibility = "public"
 watchers_within = 0
 
