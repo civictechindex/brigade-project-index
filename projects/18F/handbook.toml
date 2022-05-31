@@ -31,11 +31,11 @@ node_id = "MDEwOlJlcG9zaXRvcnk2OTY5MjkyOA=="
 open_issues_within = 100
 private = false
 pushed_within = "week"
-stargazers_within = 100
+stargazers_within = 1_000
 topics = [ "tts-handbook" ]
 updated_within = "week"
 visibility = "public"
-watchers_within = 100
+watchers_within = 1_000
 
   [github.license]
   key = "other"
