@@ -1,7 +1,7 @@
 code_url = "https://github.com/codeforjapan/codeofconduct"
 description = "Code for Japan のイベントにおける行動規範"
 git_url = "git://github.com/codeforjapan/codeofconduct.git"
-last_commit = "2021-06-08T00:51:44Z"
+last_commit = "2022-05-31T23:52:41Z"
 name = "codeofconduct"
 organization_name = "Code for Japan"
 
@@ -25,12 +25,12 @@ id = 26_836_060
 is_template = false
 name = "codeofconduct"
 node_id = "MDEwOlJlcG9zaXRvcnkyNjgzNjA2MA=="
-open_issues_within = 10
+open_issues_within = 0
 private = false
 pushed_within = "week"
 stargazers_within = 100
 topics = [ ]
-updated_within = "year"
+updated_within = "week"
 visibility = "public"
 watchers_within = 100
 
