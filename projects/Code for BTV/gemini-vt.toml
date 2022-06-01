@@ -1,7 +1,7 @@
 code_url = "https://github.com/codeforbtv/gemini-vt"
 description = "Make Music Day Code"
 git_url = "git://github.com/codeforbtv/gemini-vt.git"
-last_commit = "2022-05-18T00:50:47Z"
+last_commit = "2022-06-01T04:24:16Z"
 name = "gemini-vt"
 organization_name = "Code for BTV"
 
@@ -27,7 +27,7 @@ name = "gemini-vt"
 node_id = "R_kgDOHWlVLQ"
 open_issues_within = 0
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 0
 topics = [ ]
 updated_within = "month"
