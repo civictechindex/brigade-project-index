@@ -1,6 +1,6 @@
 code_url = "https://github.com/code4romania/ec-contest-fe"
 git_url = "git://github.com/code4romania/ec-contest-fe.git"
-last_commit = "2022-05-20T13:03:46Z"
+last_commit = "2022-06-02T09:19:15Z"
 name = "ec-contest-fe"
 organization_name = "Code for Romania"
 
@@ -25,7 +25,7 @@ name = "ec-contest-fe"
 node_id = "R_kgDOHD80Cg"
 open_issues_within = 10
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 0
 topics = [ ]
 updated_within = "year"
