@@ -1,7 +1,7 @@
-code_url = "https://github.com/code4sac/school-grant-data"
-git_url = "git://github.com/code4sac/school-grant-data.git"
-last_commit = "2022-05-05T06:33:10Z"
-name = "school-grant-data"
+code_url = "https://github.com/code4sac/learning-blocks"
+git_url = "git://github.com/code4sac/learning-blocks.git"
+last_commit = "2022-06-02T02:35:01Z"
+name = "learning-blocks"
 organization_name = "Code for Sacramento"
 
 [github]
@@ -12,7 +12,7 @@ default_branch = "main"
 disabled = false
 fork = false
 forks_within = 10
-full_name = "code4sac/school-grant-data"
+full_name = "code4sac/learning-blocks"
 has_downloads = true
 has_issues = true
 has_pages = false
@@ -21,14 +21,14 @@ has_wiki = true
 id = 457_607_725
 is_template = false
 language = "Python"
-name = "school-grant-data"
+name = "learning-blocks"
 node_id = "R_kgDOG0aKLQ"
 open_issues_within = 10
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 0
 topics = [ ]
-updated_within = "year"
+updated_within = "week"
 visibility = "public"
 watchers_within = 0
 
