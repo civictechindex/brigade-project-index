@@ -3,4 +3,5 @@ git_branch = "master"
 git_url = "git://github.com/Open-NC/hurricane-response.git"
 last_pushed_within = "over_a_year"
 name = "hurricane-response"
+open_issues_within = 10
 organization_name = "Open Raleigh Brigade"
