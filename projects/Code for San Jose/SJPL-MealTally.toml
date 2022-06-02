@@ -37,7 +37,7 @@ name = "SJPL-MealTally"
 node_id = "MDEwOlJlcG9zaXRvcnk4MzgyNjg3NQ=="
 open_issues_within = 100
 private = false
-pushed_within = "year"
+pushed_within = "over_a_year"
 stargazers_within = 10
 topics = [
   "food",
@@ -48,7 +48,7 @@ topics = [
   "san-jose",
   "youth"
 ]
-updated_within = "year"
+updated_within = "over_a_year"
 visibility = "public"
 watchers_within = 10
 

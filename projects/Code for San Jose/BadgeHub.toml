@@ -28,7 +28,7 @@ name = "BadgeHub"
 node_id = "MDEwOlJlcG9zaXRvcnk0NjA5OTU0Ng=="
 open_issues_within = 100
 private = false
-pushed_within = "year"
+pushed_within = "over_a_year"
 stargazers_within = 100
 topics = [ "google-sheets", "meta", "printer", "python", "raspberry-pi" ]
 updated_within = "year"
