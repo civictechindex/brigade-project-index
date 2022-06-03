@@ -1,6 +1,6 @@
 code_url = "https://github.com/18F/eca-exchanges-federalist-site"
 git_url = "git://github.com/18F/eca-exchanges-federalist-site.git"
-last_commit = "2022-03-31T20:11:25Z"
+last_commit = "2022-06-01T23:35:32Z"
 name = "eca-exchanges-federalist-site"
 organization_name = "18F"
 
@@ -25,7 +25,7 @@ name = "eca-exchanges-federalist-site"
 node_id = "R_kgDOHC7-Ww"
 open_issues_within = 10
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 0
 topics = [ ]
 updated_within = "year"
