@@ -1,6 +1,6 @@
 code_url = "https://github.com/code4romania/donors-platform"
 git_url = "git://github.com/code4romania/donors-platform.git"
-last_commit = "2021-10-01T18:10:36Z"
+last_commit = "2022-06-04T13:57:55Z"
 name = "donors-platform"
 organization_name = "Code for Romania"
 topics = [ "hacktoberfest" ]
@@ -27,7 +27,7 @@ name = "donors-platform"
 node_id = "MDEwOlJlcG9zaXRvcnkyODIzMTcwMTI="
 open_issues_within = 0
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ "hacktoberfest" ]
 updated_within = "year"
