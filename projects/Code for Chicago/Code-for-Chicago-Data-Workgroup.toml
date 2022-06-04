@@ -1,7 +1,7 @@
 code_url = "https://github.com/Code-For-Chicago/Code-for-Chicago-Data-Workgroup"
 description = "Exploring datasets for potential Code for Chicago projects"
 git_url = "git://github.com/Code-For-Chicago/Code-for-Chicago-Data-Workgroup.git"
-last_commit = "2022-05-12T03:36:42Z"
+last_commit = "2022-06-03T16:25:17Z"
 name = "Code-for-Chicago-Data-Workgroup"
 organization_name = "Code for Chicago"
 
@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 id = 491_316_109
 is_template = false
+language = "Python"
 name = "Code-for-Chicago-Data-Workgroup"
 node_id = "R_kgDOHUjjjQ"
 open_issues_within = 10
@@ -29,7 +30,7 @@ private = false
 pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
-updated_within = "month"
+updated_within = "week"
 visibility = "public"
 watchers_within = 10
 
