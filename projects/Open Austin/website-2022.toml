@@ -1,0 +1,66 @@
+code_url = "https://github.com/open-austin/website-2022"
+description = "New public-facing website for Open Austin (work in progress)"
+git_url = "git://github.com/open-austin/website-2022.git"
+last_commit = "2022-06-07T17:13:22Z"
+name = "website-2022"
+organization_name = "Open Austin"
+topics = [
+  "chakra-ui",
+  "nextjs",
+  "nonprofit-organization",
+  "react",
+  "typescript",
+  "website"
+]
+
+[github]
+allow_forking = true
+archived = false
+created_at = "2022-06-07T17:10:08Z"
+default_branch = "main"
+description = "New public-facing website for Open Austin (work in progress)"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "open-austin/website-2022"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 500_934_063
+is_template = false
+language = "TypeScript"
+name = "website-2022"
+node_id = "R_kgDOHdulrw"
+open_issues_within = 0
+private = false
+pushed_within = "week"
+stargazers_within = 0
+topics = [
+  "chakra-ui",
+  "nextjs",
+  "nonprofit-organization",
+  "react",
+  "typescript",
+  "website"
+]
+updated_within = "week"
+visibility = "public"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 970_084
+  login = "open-austin"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjk3MDA4NA=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  maintain = false
+  pull = true
+  push = false
+  triage = false
