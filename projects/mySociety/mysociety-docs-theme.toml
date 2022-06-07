@@ -1,8 +1,8 @@
 code_url = "https://github.com/mysociety/mysociety-docs-theme"
 description = "Theme used for e.g. fixmystreet.org"
-git_branch = "master"
+git_branch = "main"
 git_url = "git://github.com/mysociety/mysociety-docs-theme.git"
-last_pushed_within = "over_a_year"
+last_pushed_within = "week"
 name = "mysociety-docs-theme"
 open_issues_within = 10
 organization_name = "mySociety"
