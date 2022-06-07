@@ -5,6 +5,7 @@ git_url = "git://github.com/CodeForAfrica/PesaYetu.git"
 last_pushed_within = "week"
 link_url = "https://pesayetu.dev.codeforafrica.org"
 name = "PesaYetu"
+open_issues_within = 10
 organization_name = "Code for Ghana"
 topics = [
   "africa",
