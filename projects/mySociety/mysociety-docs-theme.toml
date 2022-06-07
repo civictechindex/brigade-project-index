@@ -1,7 +1,7 @@
 code_url = "https://github.com/mysociety/mysociety-docs-theme"
 description = "Theme used for e.g. fixmystreet.org"
 git_url = "git://github.com/mysociety/mysociety-docs-theme.git"
-last_commit = "2018-06-19T07:17:40Z"
+last_commit = "2022-06-07T14:38:19Z"
 name = "mysociety-docs-theme"
 organization_name = "mySociety"
 
@@ -9,7 +9,7 @@ organization_name = "mySociety"
 allow_forking = true
 archived = false
 created_at = "2014-04-03T11:11:27Z"
-default_branch = "master"
+default_branch = "main"
 description = "Theme used for e.g. fixmystreet.org"
 disabled = false
 fork = false
@@ -22,15 +22,15 @@ has_projects = true
 has_wiki = true
 id = 18_400_202
 is_template = false
-language = "CSS"
+language = "SCSS"
 name = "mysociety-docs-theme"
 node_id = "MDEwOlJlcG9zaXRvcnkxODQwMDIwMg=="
 open_issues_within = 10
 private = false
-pushed_within = "over_a_year"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
-updated_within = "over_a_year"
+updated_within = "week"
 visibility = "public"
 watchers_within = 10
 
