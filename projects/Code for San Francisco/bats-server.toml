@@ -1,6 +1,6 @@
 code_url = "https://github.com/sfbrigade/bats-server"
 git_url = "git://github.com/sfbrigade/bats-server.git"
-last_commit = "2022-05-19T01:32:56Z"
+last_commit = "2022-06-07T00:05:09Z"
 name = "bats-server"
 organization_name = "Code for San Francisco"
 
@@ -25,7 +25,7 @@ name = "bats-server"
 node_id = "MDEwOlJlcG9zaXRvcnkyODE1ODU1OTg="
 open_issues_within = 10
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
 updated_within = "month"
