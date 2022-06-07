@@ -1,6 +1,6 @@
 code_url = "https://github.com/OpenUpSA/nu-land-parcel-map"
 git_url = "git://github.com/OpenUpSA/nu-land-parcel-map.git"
-last_commit = "2022-05-25T09:16:00Z"
+last_commit = "2022-06-07T14:42:59Z"
 name = "nu-land-parcel-map"
 organization_name = "OpenUp"
 
@@ -25,7 +25,7 @@ name = "nu-land-parcel-map"
 node_id = "R_kgDOHQDMLA"
 open_issues_within = 0
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 0
 topics = [ ]
 updated_within = "year"
