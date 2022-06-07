@@ -1,7 +1,7 @@
 code_url = "https://github.com/codeforgreenville/c4g-events"
 description = "An automated bot that posts local events in Greenville, SC. Event data is sourced from Code 4 Greenville's OpenEvents API."
 git_url = "git://github.com/codeforgreenville/c4g-events.git"
-last_commit = "2022-05-12T03:09:41Z"
+last_commit = "2022-06-07T22:51:42Z"
 name = "c4g-events"
 organization_name = "Code for Greenville"
 
@@ -27,7 +27,7 @@ name = "c4g-events"
 node_id = "R_kgDOHA-g7Q"
 open_issues_within = 10
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 0
 topics = [ ]
 updated_within = "month"
