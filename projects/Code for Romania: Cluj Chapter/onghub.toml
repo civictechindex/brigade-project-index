@@ -1,7 +1,7 @@
-code_url = "https://github.com/code4romania/ong_hub"
-git_url = "git://github.com/code4romania/ong_hub.git"
+code_url = "https://github.com/code4romania/onghub"
+git_url = "git://github.com/code4romania/onghub.git"
 last_commit = "2022-06-06T12:33:03Z"
-name = "ong_hub"
+name = "onghub"
 organization_name = "Code for Romania: Cluj Chapter"
 
 [github]
@@ -12,7 +12,7 @@ default_branch = "main"
 disabled = false
 fork = false
 forks_within = 0
-full_name = "code4romania/ong_hub"
+full_name = "code4romania/onghub"
 has_downloads = true
 has_issues = true
 has_pages = false
@@ -20,7 +20,7 @@ has_projects = true
 has_wiki = true
 id = 500_425_812
 is_template = false
-name = "ong_hub"
+name = "onghub"
 node_id = "R_kgDOHdPkVA"
 open_issues_within = 0
 private = false
