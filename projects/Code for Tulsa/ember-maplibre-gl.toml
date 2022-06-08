@@ -1,0 +1,58 @@
+code_url = "https://github.com/codefortulsa/ember-maplibre-gl"
+description = "Ember integration for Mapbox GL JS"
+git_url = "git://github.com/codefortulsa/ember-maplibre-gl.git"
+last_commit = "2022-06-07T23:51:09Z"
+link_url = "https://kturney.github.io/ember-mapbox-gl"
+name = "ember-maplibre-gl"
+organization_name = "Code for Tulsa"
+
+[github]
+allow_forking = true
+archived = false
+created_at = "2022-06-07T23:48:24Z"
+default_branch = "master"
+description = "Ember integration for Mapbox GL JS"
+disabled = false
+fork = true
+forks_within = 0
+full_name = "codefortulsa/ember-maplibre-gl"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "https://kturney.github.io/ember-mapbox-gl"
+id = 501_038_307
+is_template = false
+language = "JavaScript"
+name = "ember-maplibre-gl"
+node_id = "R_kgDOHd084w"
+open_issues_within = 0
+private = false
+pushed_within = "week"
+stargazers_within = 0
+topics = [ ]
+updated_within = "week"
+visibility = "public"
+watchers_within = 0
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 4_308_649
+  login = "codefortulsa"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjQzMDg2NDk="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  maintain = false
+  pull = true
+  push = false
+  triage = false
