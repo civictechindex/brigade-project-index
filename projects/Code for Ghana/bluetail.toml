@@ -1,7 +1,7 @@
 code_url = "https://github.com/CodeForAfrica/bluetail"
 description = "An alpha project combining beneficial ownership and contracting data"
 git_url = "git://github.com/CodeForAfrica/bluetail.git"
-last_commit = "2022-02-08T07:59:11Z"
+last_commit = "2022-06-08T13:51:32Z"
 name = "bluetail"
 organization_name = "Code for Ghana"
 
@@ -13,7 +13,7 @@ default_branch = "master"
 description = "An alpha project combining beneficial ownership and contracting data"
 disabled = false
 fork = true
-forks_within = 0
+forks_within = 10
 full_name = "CodeForAfrica/bluetail"
 has_downloads = true
 has_issues = false
@@ -28,7 +28,7 @@ name = "bluetail"
 node_id = "R_kgDOGw4YAQ"
 open_issues_within = 0
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
 updated_within = "year"
