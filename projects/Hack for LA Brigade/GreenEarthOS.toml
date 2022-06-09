@@ -36,7 +36,7 @@ open_issues_within = 100
 private = false
 pushed_within = "month"
 score = 1
-stargazers_within = 0
+stargazers_within = 10
 topics = [
   "civictechindex",
   "code-for-all",
@@ -44,9 +44,9 @@ topics = [
   "environment",
   "hack-for-la"
 ]
-updated_within = "year"
+updated_within = "week"
 visibility = "public"
-watchers_within = 0
+watchers_within = 10
 
   [github.owner]
   gravatar_id = ""
