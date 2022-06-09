@@ -1,7 +1,7 @@
 code_url = "https://github.com/open-austin/Odyssey-Court-Records-to-JSON"
 description = "A web scraper for collecting and processing public case records from sites using Tyler Technology's Odyssey court records database software."
 git_url = "git://github.com/open-austin/Odyssey-Court-Records-to-JSON.git"
-last_commit = "2022-04-04T05:52:59Z"
+last_commit = "2022-06-09T18:09:56Z"
 name = "Odyssey-Court-Records-to-JSON"
 organization_name = "Open Austin"
 topics = [ "court-cases", "parser", "python", "scraper" ]
@@ -32,7 +32,7 @@ private = false
 pushed_within = "week"
 stargazers_within = 10
 topics = [ "court-cases", "parser", "python", "scraper" ]
-updated_within = "month"
+updated_within = "week"
 visibility = "public"
 watchers_within = 10
 
