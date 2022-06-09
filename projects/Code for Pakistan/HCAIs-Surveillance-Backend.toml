@@ -1,7 +1,7 @@
 code_url = "https://github.com/codeforpakistan/HCAIs-Surveillance-Backend"
 description = "HCAIs Survelliance App's Web Dashboard and APIs"
 git_url = "git://github.com/codeforpakistan/HCAIs-Surveillance-Backend.git"
-last_commit = "2022-05-06T13:14:24Z"
+last_commit = "2022-06-09T05:44:10Z"
 name = "HCAIs-Surveillance-Backend"
 organization_name = "Code for Pakistan"
 
@@ -27,7 +27,7 @@ name = "HCAIs-Surveillance-Backend"
 node_id = "R_kgDOGqaiLg"
 open_issues_within = 10
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 0
 topics = [ ]
 updated_within = "year"
