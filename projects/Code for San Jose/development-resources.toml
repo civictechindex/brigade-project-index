@@ -1,7 +1,7 @@
 code_url = "https://github.com/codeforsanjose/development-resources"
 description = "Resources for frontend developers to learn and follow from"
 git_url = "git://github.com/codeforsanjose/development-resources.git"
-last_commit = "2022-03-19T22:54:57Z"
+last_commit = "2022-06-10T18:00:13Z"
 name = "development-resources"
 organization_name = "Code for San Jose"
 
@@ -27,7 +27,7 @@ name = "development-resources"
 node_id = "MDEwOlJlcG9zaXRvcnkzMTA3MDg3MDU="
 open_issues_within = 10
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
 updated_within = "year"
