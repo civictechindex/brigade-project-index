@@ -1,6 +1,6 @@
 code_url = "https://github.com/CodeForAfrica/ui"
 git_url = "git://github.com/CodeForAfrica/ui.git"
-last_commit = "2022-06-07T23:36:15Z"
+last_commit = "2022-06-10T12:26:42Z"
 link_url = "codeforafrica.vercel.app"
 name = "ui"
 organization_name = "Code for Africa"
@@ -31,7 +31,7 @@ private = false
 pushed_within = "week"
 stargazers_within = 0
 topics = [ "mui", "nextjs", "react" ]
-updated_within = "month"
+updated_within = "year"
 visibility = "public"
 watchers_within = 0
 
