@@ -1,7 +1,7 @@
 code_url = "https://github.com/codefordenver/Comrad"
 description = "Open-source web application for radio stations to manage show schedules, traffic and compliance"
 git_url = "git://github.com/codefordenver/Comrad.git"
-last_commit = "2021-09-29T13:17:45Z"
+last_commit = "2022-06-10T21:55:27Z"
 name = "Comrad"
 organization_name = "Code for Denver"
 topics = [
@@ -34,7 +34,7 @@ name = "Comrad"
 node_id = "MDEwOlJlcG9zaXRvcnkxMzcwMDg1MjI="
 open_issues_within = 100
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 100
 topics = [
   "code-for-america",
@@ -42,7 +42,7 @@ topics = [
   "community-radio",
   "process-improvement"
 ]
-updated_within = "year"
+updated_within = "week"
 visibility = "public"
 watchers_within = 100
 
