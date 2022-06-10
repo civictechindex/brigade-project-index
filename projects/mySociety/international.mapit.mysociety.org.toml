@@ -1,6 +1,6 @@
 code_url = "https://github.com/mysociety/international.mapit.mysociety.org"
 git_url = "git://github.com/mysociety/international.mapit.mysociety.org.git"
-last_commit = "2022-03-23T10:24:10Z"
+last_commit = "2022-06-10T13:09:15Z"
 link_url = "https://www.mysociety.org/"
 name = "international.mapit.mysociety.org"
 organization_name = "mySociety"
@@ -25,7 +25,7 @@ is_template = false
 language = "Python"
 name = "international.mapit.mysociety.org"
 node_id = "MDEwOlJlcG9zaXRvcnk5NDUyNjA5Ng=="
-open_issues_within = 10
+open_issues_within = 0
 private = false
 pushed_within = "week"
 stargazers_within = 0
