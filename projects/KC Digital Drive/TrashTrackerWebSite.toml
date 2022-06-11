@@ -1,0 +1,53 @@
+code_url = "https://github.com/codeforkansascity/TrashTrackerWebSite"
+git_url = "git://github.com/codeforkansascity/TrashTrackerWebSite.git"
+last_commit = "2022-06-10T15:56:15Z"
+name = "TrashTrackerWebSite"
+organization_name = "KC Digital Drive"
+
+[github]
+allow_forking = true
+archived = false
+created_at = "2022-06-10T15:56:14Z"
+default_branch = "main"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "codeforkansascity/TrashTrackerWebSite"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+id = 502_101_261
+is_template = false
+name = "TrashTrackerWebSite"
+node_id = "R_kgDOHe11DQ"
+open_issues_within = 0
+private = false
+pushed_within = "week"
+stargazers_within = 0
+topics = [ ]
+updated_within = "week"
+visibility = "public"
+watchers_within = 0
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 5_272_305
+  login = "codeforkansascity"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjUyNzIzMDU="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  maintain = false
+  pull = true
+  push = false
+  triage = false
