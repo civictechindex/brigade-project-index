@@ -1,42 +1,38 @@
-code_url = "https://github.com/18F/usda-loan-assitant-walkthrough"
-git_url = "git://github.com/18F/usda-loan-assitant-walkthrough.git"
-last_commit = "2022-06-10T20:53:35Z"
-name = "usda-loan-assitant-walkthrough"
+code_url = "https://github.com/18F/bridgetown-uswds-template"
+description = "A Bridgetown SSG template using USWDS"
+git_url = "git://github.com/18F/bridgetown-uswds-template.git"
+last_commit = "2022-06-10T21:17:36Z"
+name = "bridgetown-uswds-template"
 organization_name = "18F"
 
 [github]
 allow_forking = true
 archived = false
-created_at = "2022-04-26T15:14:40Z"
+created_at = "2022-06-10T18:57:56Z"
 default_branch = "main"
+description = "A Bridgetown SSG template using USWDS"
 disabled = false
 fork = false
 forks_within = 0
-full_name = "18F/usda-loan-assitant-walkthrough"
+full_name = "18F/bridgetown-uswds-template"
 has_downloads = true
 has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = true
-id = 485_839_188
+id = 502_150_881
 is_template = false
-language = "HTML"
-name = "usda-loan-assitant-walkthrough"
-node_id = "R_kgDOHPVRVA"
+language = "Liquid"
+name = "bridgetown-uswds-template"
+node_id = "R_kgDOHe424Q"
 open_issues_within = 0
 private = false
 pushed_within = "week"
 stargazers_within = 0
 topics = [ ]
-updated_within = "year"
+updated_within = "week"
 visibility = "public"
 watchers_within = 0
-
-  [github.license]
-  key = "apache-2.0"
-  name = "Apache License 2.0"
-  node_id = "MDc6TGljZW5zZTI="
-  spdx_id = "Apache-2.0"
 
   [github.owner]
   gravatar_id = ""

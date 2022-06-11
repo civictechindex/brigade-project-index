@@ -1,6 +1,6 @@
 code_url = "https://github.com/18F/identity-idva-flow-client"
 git_url = "git://github.com/18F/identity-idva-flow-client.git"
-last_commit = "2022-04-08T18:07:04Z"
+last_commit = "2022-06-10T20:56:26Z"
 name = "identity-idva-flow-client"
 organization_name = "18F"
 
@@ -20,14 +20,15 @@ has_projects = true
 has_wiki = true
 id = 479_492_379
 is_template = false
+language = "Python"
 name = "identity-idva-flow-client"
 node_id = "R_kgDOHJR5Gw"
-open_issues_within = 10
+open_issues_within = 0
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 0
 topics = [ ]
-updated_within = "year"
+updated_within = "week"
 visibility = "public"
 watchers_within = 0
 
