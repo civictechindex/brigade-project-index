@@ -1,6 +1,6 @@
 code_url = "https://github.com/codeforpakistan/rehnuma-api"
 git_url = "git://github.com/codeforpakistan/rehnuma-api.git"
-last_commit = "2021-06-21T07:44:11Z"
+last_commit = "2022-06-12T09:52:54Z"
 name = "rehnuma-api"
 organization_name = "Code for Pakistan"
 
@@ -25,10 +25,10 @@ name = "rehnuma-api"
 node_id = "MDEwOlJlcG9zaXRvcnkzMzEyMzM0NDk="
 open_issues_within = 10
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 0
 topics = [ ]
-updated_within = "year"
+updated_within = "week"
 visibility = "public"
 watchers_within = 0
 

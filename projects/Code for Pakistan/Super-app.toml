@@ -1,6 +1,6 @@
 code_url = "https://github.com/codeforpakistan/Super-app"
 git_url = "git://github.com/codeforpakistan/Super-app.git"
-last_commit = "2021-06-29T08:04:24Z"
+last_commit = "2022-06-12T12:01:53Z"
 link_url = "https://play.google.com/apps/internaltest/4700180691063195913"
 name = "Super-app"
 organization_name = "Code for Pakistan"
@@ -27,10 +27,10 @@ name = "Super-app"
 node_id = "MDEwOlJlcG9zaXRvcnkzMzEyNTEwODc="
 open_issues_within = 100
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 0
 topics = [ ]
-updated_within = "year"
+updated_within = "week"
 visibility = "public"
 watchers_within = 0
 
