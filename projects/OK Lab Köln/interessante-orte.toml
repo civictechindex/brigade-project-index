@@ -1,0 +1,55 @@
+code_url = "https://github.com/codeforcologne/interessante-orte"
+description = "Schritt für Schritt wirst Du eine einfache Kartenanwendung erstellen, mit der Du interessante Orte visualisieren kannst."
+git_url = "git://github.com/codeforcologne/interessante-orte.git"
+last_commit = "2022-06-12T06:21:12Z"
+name = "interessante-orte"
+organization_name = "OK Lab Köln"
+
+[github]
+allow_forking = true
+archived = false
+created_at = "2022-06-12T06:21:11Z"
+default_branch = "main"
+description = "Schritt für Schritt wirst Du eine einfache Kartenanwendung erstellen, mit der Du interessante Orte visualisieren kannst."
+disabled = false
+fork = false
+forks_within = 0
+full_name = "codeforcologne/interessante-orte"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+id = 502_535_880
+is_template = false
+name = "interessante-orte"
+node_id = "R_kgDOHfQWyA"
+open_issues_within = 0
+private = false
+pushed_within = "week"
+stargazers_within = 0
+topics = [ ]
+updated_within = "week"
+visibility = "public"
+watchers_within = 0
+
+  [github.license]
+  key = "cc0-1.0"
+  name = "Creative Commons Zero v1.0 Universal"
+  node_id = "MDc6TGljZW5zZTY="
+  spdx_id = "CC0-1.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 14_066_251
+  login = "codeforcologne"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE0MDY2MjUx"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  maintain = false
+  pull = true
+  push = false
+  triage = false
