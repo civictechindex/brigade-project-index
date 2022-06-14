@@ -3,7 +3,6 @@ git_url = "git://github.com/code4romania/donors-platform.git"
 last_commit = "2022-06-04T13:57:55Z"
 name = "donors-platform"
 organization_name = "Code for Romania: Iasi Chapter"
-topics = [ "hacktoberfest" ]
 
 [github]
 allow_forking = true
@@ -29,8 +28,8 @@ open_issues_within = 0
 private = false
 pushed_within = "month"
 stargazers_within = 10
-topics = [ "hacktoberfest" ]
-updated_within = "year"
+topics = [ ]
+updated_within = "week"
 visibility = "public"
 watchers_within = 10
 
