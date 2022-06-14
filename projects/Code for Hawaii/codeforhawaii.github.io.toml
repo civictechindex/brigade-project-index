@@ -1,7 +1,7 @@
 code_url = "https://github.com/CodeforHawaii/codeforhawaii.github.io"
 description = "Our website."
 git_url = "git://github.com/CodeforHawaii/codeforhawaii.github.io.git"
-last_commit = "2022-04-15T23:32:19Z"
+last_commit = "2022-06-14T06:10:08Z"
 link_url = "http://codeforhawaii.org"
 name = "codeforhawaii.github.io"
 organization_name = "Code for Hawaii"
@@ -29,7 +29,7 @@ name = "codeforhawaii.github.io"
 node_id = "MDEwOlJlcG9zaXRvcnkzNDI4MjgzNw=="
 open_issues_within = 10
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
 updated_within = "year"
