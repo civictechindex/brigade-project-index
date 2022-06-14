@@ -1,7 +1,7 @@
 code_url = "https://github.com/18F/watchtower"
 description = "A run-anywhere, Cloud Foundry drift detection service."
 git_url = "git://github.com/18F/watchtower.git"
-last_commit = "2022-05-02T15:38:31Z"
+last_commit = "2022-06-14T16:28:56Z"
 name = "watchtower"
 organization_name = "18F"
 
@@ -25,9 +25,9 @@ is_template = false
 language = "Go"
 name = "watchtower"
 node_id = "R_kgDOGZ7qSw"
-open_issues_within = 0
+open_issues_within = 10
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
 updated_within = "year"
