@@ -1,7 +1,7 @@
 code_url = "https://github.com/18F/federalist-proxy"
 description = "Proxies traffic from the Federalist S3 bucket"
 git_url = "git://github.com/18F/federalist-proxy.git"
-last_commit = "2022-06-08T17:26:33Z"
+last_commit = "2022-06-13T17:33:37Z"
 name = "federalist-proxy"
 organization_name = "18F"
 topics = [ "federalist", "federalistapp" ]

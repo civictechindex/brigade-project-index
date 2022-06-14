@@ -1,6 +1,6 @@
 code_url = "https://github.com/18F/identity-idva-flow-client"
 git_url = "git://github.com/18F/identity-idva-flow-client.git"
-last_commit = "2022-06-10T20:56:26Z"
+last_commit = "2022-06-13T16:04:53Z"
 name = "identity-idva-flow-client"
 organization_name = "18F"
 
@@ -23,7 +23,7 @@ is_template = false
 language = "Python"
 name = "identity-idva-flow-client"
 node_id = "R_kgDOHJR5Gw"
-open_issues_within = 10
+open_issues_within = 0
 private = false
 pushed_within = "week"
 stargazers_within = 0

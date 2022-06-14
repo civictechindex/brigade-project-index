@@ -14,7 +14,7 @@ default_branch = "master"
 description = "Sandbox for exploring GOV.UK Notify API"
 disabled = false
 fork = true
-forks_within = 0
+forks_within = 10
 full_name = "18F/notifications-api"
 has_downloads = true
 has_issues = false
@@ -26,14 +26,14 @@ id = 499_295_033
 is_template = false
 name = "notifications-api"
 node_id = "R_kgDOHcKjOQ"
-open_issues_within = 0
+open_issues_within = 10
 private = false
 pushed_within = "week"
-stargazers_within = 0
+stargazers_within = 10
 topics = [ ]
-updated_within = "month"
+updated_within = "week"
 visibility = "public"
-watchers_within = 0
+watchers_within = 10
 
   [github.license]
   key = "mit"

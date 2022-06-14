@@ -1,7 +1,7 @@
 code_url = "https://github.com/18F/identity-idva-proxy"
 description = "An outbound proxy used for the IDVA project using the Caddy2 server."
 git_url = "git://github.com/18F/identity-idva-proxy.git"
-last_commit = "2022-04-20T17:45:42Z"
+last_commit = "2022-06-13T16:36:37Z"
 name = "identity-idva-proxy"
 organization_name = "18F"
 
@@ -13,7 +13,7 @@ default_branch = "main"
 description = "An outbound proxy used for the IDVA project using the Caddy2 server."
 disabled = false
 fork = false
-forks_within = 0
+forks_within = 10
 full_name = "18F/identity-idva-proxy"
 has_downloads = true
 has_issues = true
@@ -27,7 +27,7 @@ name = "identity-idva-proxy"
 node_id = "R_kgDOHNTh2g"
 open_issues_within = 0
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 0
 topics = [ ]
 updated_within = "year"

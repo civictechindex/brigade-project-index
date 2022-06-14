@@ -1,7 +1,7 @@
 code_url = "https://github.com/18F/identity-terraform"
 description = "Terraform modules published by the Login.gov team"
 git_url = "git://github.com/18F/identity-terraform.git"
-last_commit = "2022-05-12T15:02:19Z"
+last_commit = "2022-06-13T14:48:43Z"
 name = "identity-terraform"
 organization_name = "18F"
 
@@ -27,7 +27,7 @@ name = "identity-terraform"
 node_id = "MDEwOlJlcG9zaXRvcnkxMzQ2MjM1OTA="
 open_issues_within = 10
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 100
 topics = [ ]
 updated_within = "month"
