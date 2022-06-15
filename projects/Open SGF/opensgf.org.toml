@@ -1,7 +1,7 @@
 code_url = "https://github.com/Open-SGF/opensgf.org"
 description = "Organization website"
 git_url = "git://github.com/Open-SGF/opensgf.org.git"
-last_commit = "2022-06-10T02:43:45Z"
+last_commit = "2022-06-15T01:24:52Z"
 link_url = "https://www.opensgf.org/"
 name = "opensgf.org"
 organization_name = "Open SGF"
@@ -25,7 +25,7 @@ has_wiki = true
 homepage = "https://www.opensgf.org/"
 id = 319_478_228
 is_template = false
-language = "CSS"
+language = "TypeScript"
 name = "opensgf.org"
 node_id = "MDEwOlJlcG9zaXRvcnkzMTk0NzgyMjg="
 open_issues_within = 10
