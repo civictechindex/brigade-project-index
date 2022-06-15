@@ -1,7 +1,7 @@
 code_url = "https://github.com/SCODEMeetup/cbus-biking-LOC-api"
 description = "API for cbus-biking-LOC application"
 git_url = "git://github.com/SCODEMeetup/cbus-biking-LOC-api.git"
-last_commit = "2022-01-23T21:22:49Z"
+last_commit = "2022-06-15T22:05:52Z"
 name = "cbus-biking-LOC-api"
 organization_name = "Open Columbus (Ohio)"
 
@@ -27,7 +27,7 @@ name = "cbus-biking-LOC-api"
 node_id = "MDEwOlJlcG9zaXRvcnkzMTA0MDU4NDI="
 open_issues_within = 0
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 0
 topics = [ ]
 updated_within = "year"
