@@ -1,6 +1,6 @@
 code_url = "https://github.com/18F/notifications-api"
 description = "Sandbox for exploring GOV.UK Notify API"
-git_branch = "master"
+git_branch = "main"
 git_url = "git://github.com/18F/notifications-api.git"
 last_pushed_within = "week"
 link_url = "https://www.notifications.service.gov.uk/documentation"
