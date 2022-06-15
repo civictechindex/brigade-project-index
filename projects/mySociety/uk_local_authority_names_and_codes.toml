@@ -1,7 +1,7 @@
 code_url = "https://github.com/mysociety/uk_local_authority_names_and_codes"
 description = "Data and lookups between different kinds of local authority"
 git_url = "git://github.com/mysociety/uk_local_authority_names_and_codes.git"
-last_commit = "2022-01-17T17:51:04Z"
+last_commit = "2022-06-15T11:01:48Z"
 name = "uk_local_authority_names_and_codes"
 organization_name = "mySociety"
 
@@ -17,7 +17,7 @@ forks_within = 10
 full_name = "mysociety/uk_local_authority_names_and_codes"
 has_downloads = true
 has_issues = true
-has_pages = false
+has_pages = true
 has_projects = true
 has_wiki = true
 homepage = ""
@@ -28,12 +28,18 @@ name = "uk_local_authority_names_and_codes"
 node_id = "R_kgDOGfyIdg"
 open_issues_within = 10
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
 updated_within = "month"
 visibility = "public"
 watchers_within = 10
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
 
   [github.owner]
   gravatar_id = ""

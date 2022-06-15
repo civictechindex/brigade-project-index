@@ -1,7 +1,7 @@
 code_url = "https://github.com/mysociety/template_data_repo"
 description = "Template repository for data processing, notebooks, and charting"
 git_url = "git://github.com/mysociety/template_data_repo.git"
-last_commit = "2022-06-07T14:54:39Z"
+last_commit = "2022-06-15T08:47:49Z"
 name = "template_data_repo"
 organization_name = "mySociety"
 
@@ -28,7 +28,7 @@ name = "template_data_repo"
 node_id = "MDEwOlJlcG9zaXRvcnkzNDgzNDM3NzY="
 open_issues_within = 0
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 0
 topics = [ ]
 updated_within = "year"
