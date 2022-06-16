@@ -1,6 +1,6 @@
 code_url = "https://github.com/18F/imls-library-wifi-estimation"
 git_url = "git://github.com/18F/imls-library-wifi-estimation.git"
-last_commit = "2022-06-09T16:27:09Z"
+last_commit = "2022-06-16T21:56:42Z"
 name = "imls-library-wifi-estimation"
 organization_name = "18F"
 
@@ -20,7 +20,7 @@ has_projects = true
 has_wiki = true
 id = 501_743_809
 is_template = false
-language = "JavaScript"
+language = "Go"
 name = "imls-library-wifi-estimation"
 node_id = "R_kgDOHegAwQ"
 open_issues_within = 10
