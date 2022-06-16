@@ -1,8 +1,8 @@
-code_url = "https://github.com/CodeforHawaii/newwebsite"
+code_url = "https://github.com/CodeforHawaii/website"
 description = "Website v2"
-git_url = "git://github.com/CodeforHawaii/newwebsite.git"
+git_url = "git://github.com/CodeforHawaii/website.git"
 last_commit = "2022-06-14T06:10:40Z"
-name = "newwebsite"
+name = "website"
 organization_name = "Code for Hawaii"
 
 [github]
@@ -14,7 +14,7 @@ description = "Website v2"
 disabled = false
 fork = false
 forks_within = 10
-full_name = "CodeforHawaii/newwebsite"
+full_name = "CodeforHawaii/website"
 has_downloads = true
 has_issues = true
 has_pages = true
@@ -23,14 +23,14 @@ has_wiki = true
 id = 343_663_489
 is_template = false
 language = "CSS"
-name = "newwebsite"
+name = "website"
 node_id = "MDEwOlJlcG9zaXRvcnkzNDM2NjM0ODk="
 open_issues_within = 10
 private = false
 pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
-updated_within = "year"
+updated_within = "week"
 visibility = "public"
 watchers_within = 10
 
