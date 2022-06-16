@@ -1,7 +1,7 @@
-code_url = "https://github.com/18F/imls-library-wifi-tracking"
-git_url = "git://github.com/18F/imls-library-wifi-tracking.git"
+code_url = "https://github.com/18F/imls-library-wifi-estimation"
+git_url = "git://github.com/18F/imls-library-wifi-estimation.git"
 last_commit = "2022-06-09T16:27:09Z"
-name = "imls-library-wifi-tracking"
+name = "imls-library-wifi-estimation"
 organization_name = "18F"
 
 [github]
@@ -12,7 +12,7 @@ default_branch = "main"
 disabled = false
 fork = false
 forks_within = 0
-full_name = "18F/imls-library-wifi-tracking"
+full_name = "18F/imls-library-wifi-estimation"
 has_downloads = true
 has_issues = true
 has_pages = false
@@ -21,7 +21,7 @@ has_wiki = true
 id = 501_743_809
 is_template = false
 language = "JavaScript"
-name = "imls-library-wifi-tracking"
+name = "imls-library-wifi-estimation"
 node_id = "R_kgDOHegAwQ"
 open_issues_within = 10
 private = false
