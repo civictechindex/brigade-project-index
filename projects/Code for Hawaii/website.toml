@@ -1,8 +1,8 @@
-code_url = "https://github.com/CodeforHawaii/newwebsite"
+code_url = "https://github.com/CodeforHawaii/website"
 description = "Website v2"
 git_branch = "main"
-git_url = "git://github.com/CodeforHawaii/newwebsite.git"
+git_url = "git://github.com/CodeforHawaii/website.git"
 last_pushed_within = "week"
-name = "newwebsite"
+name = "website"
 open_issues_within = 10
 organization_name = "Code for Hawaii"
