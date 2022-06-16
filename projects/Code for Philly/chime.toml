@@ -1,7 +1,7 @@
 code_url = "https://github.com/CodeForPhilly/chime"
 description = "Hey! If you're at this page you're hopefully looking to help out with the CHIME project. Please join us in Slack or on github to join in!"
 git_branch = "develop"
-last_pushed_within = "month"
+last_pushed_within = "year"
 link_url = "https://penn-chime.phl.io/"
 name = "chime"
 open_issues_within = 100
