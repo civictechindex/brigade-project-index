@@ -1,7 +1,7 @@
 code_url = "https://github.com/codeforsanjose/heartofthevalley"
 description = "Map visualization of murals and public art in South Bay (Bay Area, California)"
 git_url = "git://github.com/codeforsanjose/heartofthevalley.git"
-last_commit = "2022-04-07T00:05:01Z"
+last_commit = "2022-06-17T04:50:59Z"
 link_url = "https://codeforsanjose.github.io/heartofthevalley/"
 name = "heartofthevalley"
 organization_name = "Code for San Jose"
@@ -51,7 +51,7 @@ name = "heartofthevalley"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDYyMzQ2OTk="
 open_issues_within = 100
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 10
 topics = [
   "art",
