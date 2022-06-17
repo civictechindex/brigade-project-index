@@ -1,8 +1,7 @@
 code_url = "https://github.com/18F/notifications-api"
 description = "Sandbox for exploring GOV.UK Notify API"
 git_url = "git://github.com/18F/notifications-api.git"
-last_commit = "2022-06-01T15:02:17Z"
-link_url = "https://www.notifications.service.gov.uk/documentation"
+last_commit = "2022-06-17T18:23:11Z"
 name = "notifications-api"
 organization_name = "18F"
 
@@ -21,9 +20,10 @@ has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = true
-homepage = "https://www.notifications.service.gov.uk/documentation"
+homepage = ""
 id = 499_295_033
 is_template = false
+language = "Python"
 name = "notifications-api"
 node_id = "R_kgDOHcKjOQ"
 open_issues_within = 10
