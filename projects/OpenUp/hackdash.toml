@@ -1,7 +1,7 @@
 code_url = "https://github.com/OpenUpSA/hackdash"
 description = "Ideas for a hackathon"
 git_url = "git://github.com/OpenUpSA/hackdash.git"
-last_commit = "2022-05-05T17:20:28Z"
+last_commit = "2022-06-16T18:51:16Z"
 link_url = "http://hackdash.org"
 name = "hackdash"
 organization_name = "OpenUp"
@@ -29,7 +29,7 @@ name = "hackdash"
 node_id = "MDEwOlJlcG9zaXRvcnkzNDEyNDk0NzM="
 open_issues_within = 10
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 0
 topics = [ ]
 updated_within = "year"
