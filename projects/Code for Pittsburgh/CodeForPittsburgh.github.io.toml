@@ -30,11 +30,11 @@ node_id = "MDEwOlJlcG9zaXRvcnk1MTU1MTM4MA=="
 open_issues_within = 10
 private = false
 pushed_within = "week"
-stargazers_within = 10
+stargazers_within = 100
 topics = [ ]
-updated_within = "year"
+updated_within = "week"
 visibility = "public"
-watchers_within = 10
+watchers_within = 100
 
   [github.license]
   key = "other"
