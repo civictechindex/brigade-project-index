@@ -1,7 +1,7 @@
 code_url = "https://github.com/18F/notifications-admin"
 description = "Sandbox for exploring GOV.UK Notify frontend application"
 git_url = "git://github.com/18F/notifications-admin.git"
-last_commit = "2022-06-08T12:37:58Z"
+last_commit = "2022-06-17T21:05:07Z"
 link_url = "https://www.gov.uk/notify"
 name = "notifications-admin"
 organization_name = "18F"
@@ -27,7 +27,7 @@ is_template = false
 language = "Python"
 name = "notifications-admin"
 node_id = "R_kgDOHeM8xg"
-open_issues_within = 10
+open_issues_within = 0
 private = false
 pushed_within = "week"
 stargazers_within = 0
