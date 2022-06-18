@@ -1,6 +1,6 @@
 code_url = "https://github.com/g0v/slack-export-cleaner"
 git_url = "git://github.com/g0v/slack-export-cleaner.git"
-last_commit = "2022-05-17T07:15:13Z"
+last_commit = "2022-06-18T02:54:04Z"
 name = "slack-export-cleaner"
 organization_name = "g0v.tw"
 
@@ -25,7 +25,7 @@ name = "slack-export-cleaner"
 node_id = "R_kgDOHWSuZg"
 open_issues_within = 0
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 0
 topics = [ ]
 updated_within = "year"
