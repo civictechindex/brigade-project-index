@@ -1,6 +1,7 @@
 code_url = "https://github.com/openchattanooga/search311"
 description = "Search 311 data via Elasticsearch"
 git_url = "git://github.com/openchattanooga/search311.git"
+last_commit = "2013-06-03T03:48:34Z"
 name = "search311"
 organization_name = "Open Chattanooga"
 
@@ -8,7 +9,7 @@ organization_name = "Open Chattanooga"
 allow_forking = true
 archived = false
 created_at = "2013-06-01T16:28:07Z"
-default_branch = "main"
+default_branch = "master"
 description = "Search 311 data via Elasticsearch"
 disabled = false
 fork = false
