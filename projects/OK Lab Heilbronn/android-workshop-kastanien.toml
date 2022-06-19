@@ -1,6 +1,7 @@
 code_url = "https://github.com/opendata-heilbronn/android-workshop-kastanien"
 description = "Demo App mit der Anzeige der Kastanienbilder"
 git_url = "git://github.com/opendata-heilbronn/android-workshop-kastanien.git"
+last_commit = "2015-10-13T09:49:07Z"
 name = "android-workshop-kastanien"
 organization_name = "OK Lab Heilbronn"
 
@@ -8,7 +9,7 @@ organization_name = "OK Lab Heilbronn"
 allow_forking = true
 archived = false
 created_at = "2015-10-13T09:24:20Z"
-default_branch = "main"
+default_branch = "master"
 description = "Demo App mit der Anzeige der Kastanienbilder"
 disabled = false
 fork = false
