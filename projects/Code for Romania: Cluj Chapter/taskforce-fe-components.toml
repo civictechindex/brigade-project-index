@@ -1,7 +1,7 @@
 code_url = "https://github.com/code4romania/taskforce-fe-components"
 description = "reusable frontend components for taskforce projects"
 git_url = "git://github.com/code4romania/taskforce-fe-components.git"
-last_commit = "2020-12-22T12:10:04Z"
+last_commit = "2022-06-20T14:34:54Z"
 link_url = "https://taskforce-fe-components.now.sh"
 name = "taskforce-fe-components"
 organization_name = "Code for Romania: Cluj Chapter"
@@ -30,10 +30,10 @@ name = "taskforce-fe-components"
 node_id = "MDEwOlJlcG9zaXRvcnkyNDczNDExNjE="
 open_issues_within = 10
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 100
 topics = [ "hacktoberfest" ]
-updated_within = "over_a_year"
+updated_within = "week"
 visibility = "public"
 watchers_within = 100
 
