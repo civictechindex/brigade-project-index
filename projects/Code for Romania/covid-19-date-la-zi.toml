@@ -1,7 +1,7 @@
 code_url = "https://github.com/code4romania/covid-19-date-la-zi"
 description = "Vizualization App to track the COVID-19 epidemic"
 git_url = "git://github.com/code4romania/covid-19-date-la-zi.git"
-last_commit = "2022-04-21T14:06:16Z"
+last_commit = "2022-06-20T14:57:42Z"
 link_url = "https://datelazi.ro"
 name = "covid-19-date-la-zi"
 organization_name = "Code for Romania"
@@ -11,7 +11,7 @@ topics = [ "civic-tech", "covid-19" ]
 allow_forking = true
 archived = false
 created_at = "2020-03-13T11:10:56Z"
-default_branch = "develop"
+default_branch = "master"
 description = "Vizualization App to track the COVID-19 epidemic"
 disabled = false
 fork = false
@@ -30,7 +30,7 @@ name = "covid-19-date-la-zi"
 node_id = "MDEwOlJlcG9zaXRvcnkyNDcwNTMwMDY="
 open_issues_within = 10
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 100
 topics = [ "civic-tech", "covid-19" ]
 updated_within = "year"
