@@ -1,6 +1,6 @@
 code_url = "https://github.com/code4romania/onghub"
 git_url = "git://github.com/code4romania/onghub.git"
-last_commit = "2022-06-06T12:33:03Z"
+last_commit = "2022-06-20T14:00:44Z"
 name = "onghub"
 organization_name = "Code for Romania: Iasi Chapter"
 
@@ -20,14 +20,15 @@ has_projects = true
 has_wiki = true
 id = 500_425_812
 is_template = false
+language = "TypeScript"
 name = "onghub"
 node_id = "R_kgDOHdPkVA"
 open_issues_within = 0
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 0
 topics = [ ]
-updated_within = "month"
+updated_within = "week"
 visibility = "public"
 watchers_within = 0
 
