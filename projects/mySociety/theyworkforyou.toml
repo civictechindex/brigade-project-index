@@ -1,7 +1,7 @@
 code_url = "https://github.com/mysociety/theyworkforyou"
 description = "Keeping tabs on the UK's parliaments and assemblies"
 git_url = "git://github.com/mysociety/theyworkforyou.git"
-last_commit = "2022-05-11T08:22:11Z"
+last_commit = "2022-06-21T12:58:26Z"
 link_url = "http://www.theyworkforyou.com/"
 name = "theyworkforyou"
 organization_name = "mySociety"
@@ -55,7 +55,7 @@ topics = [
   "transparency",
   "uk"
 ]
-updated_within = "year"
+updated_within = "week"
 visibility = "public"
 watchers_within = 1_000
 

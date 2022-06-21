@@ -1,7 +1,7 @@
 code_url = "https://github.com/mysociety/fixmystreet.com"
 description = "Deploy-specific scripts for fixmystreet.com. The FixMyStreet code is at https://github.com/mysociety/fixmystreet"
 git_url = "git://github.com/mysociety/fixmystreet.com.git"
-last_commit = "2022-01-26T10:36:23Z"
+last_commit = "2022-04-14T09:51:34Z"
 link_url = "https://www.fixmystreet.com/"
 name = "fixmystreet.com"
 organization_name = "mySociety"
@@ -29,7 +29,7 @@ name = "fixmystreet.com"
 node_id = "MDEwOlJlcG9zaXRvcnkxMzAzNjg4NDU="
 open_issues_within = 10
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 0
 topics = [ ]
 updated_within = "year"
