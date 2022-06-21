@@ -1,6 +1,6 @@
 code_url = "https://github.com/codeforkansascity/TrashTrackerWebSite"
 git_url = "git://github.com/codeforkansascity/TrashTrackerWebSite.git"
-last_commit = "2022-06-10T15:56:15Z"
+last_commit = "2022-06-21T00:02:56Z"
 name = "TrashTrackerWebSite"
 organization_name = "KC Digital Drive"
 
@@ -20,11 +20,12 @@ has_projects = true
 has_wiki = true
 id = 502_101_261
 is_template = false
+language = "JavaScript"
 name = "TrashTrackerWebSite"
 node_id = "R_kgDOHe11DQ"
 open_issues_within = 0
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
 updated_within = "week"
