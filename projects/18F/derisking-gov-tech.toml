@@ -1,6 +1,6 @@
 code_url = "https://github.com/18F/derisking-gov-tech"
 git_url = "git://github.com/18F/derisking-gov-tech.git"
-last_commit = "2022-06-17T19:32:18Z"
+last_commit = "2022-06-21T21:47:43Z"
 link_url = "https://derisking-guide.18f.gov/"
 name = "derisking-gov-tech"
 organization_name = "18F"
@@ -28,11 +28,11 @@ node_id = "MDEwOlJlcG9zaXRvcnkyNjUzMDg1NzI="
 open_issues_within = 10
 private = false
 pushed_within = "week"
-stargazers_within = 10
+stargazers_within = 100
 topics = [ ]
-updated_within = "year"
+updated_within = "week"
 visibility = "public"
-watchers_within = 10
+watchers_within = 100
 
   [github.license]
   key = "other"

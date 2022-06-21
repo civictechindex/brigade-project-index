@@ -1,7 +1,7 @@
 code_url = "https://github.com/18F/agile"
 description = "Agile Principles and Practice, documented by the 18F Agile Guild"
 git_url = "git://github.com/18F/agile.git"
-last_commit = "2021-09-15T19:55:07Z"
+last_commit = "2022-06-21T20:49:59Z"
 link_url = "https://agile.18f.gov"
 name = "agile"
 organization_name = "18F"
@@ -24,7 +24,7 @@ has_wiki = false
 homepage = "https://agile.18f.gov"
 id = 30_204_713
 is_template = false
-language = "SCSS"
+language = "HTML"
 name = "agile"
 node_id = "MDEwOlJlcG9zaXRvcnkzMDIwNDcxMw=="
 open_issues_within = 10
