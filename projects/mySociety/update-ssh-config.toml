@@ -1,0 +1,8 @@
+code_url = "https://github.com/mysociety/update-ssh-config"
+git_branch = "master"
+git_url = "git://github.com/mysociety/update-ssh-config.git"
+last_pushed_within = "week"
+link_url = "https://www.mysociety.org/"
+name = "update-ssh-config"
+open_issues_within = 10
+organization_name = "mySociety"
