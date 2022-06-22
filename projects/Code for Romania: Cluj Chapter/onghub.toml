@@ -1,6 +1,6 @@
 code_url = "https://github.com/code4romania/onghub"
 git_url = "git://github.com/code4romania/onghub.git"
-last_commit = "2022-06-21T14:53:41Z"
+last_commit = "2022-06-22T11:19:14Z"
 name = "onghub"
 organization_name = "Code for Romania: Cluj Chapter"
 
@@ -23,7 +23,7 @@ is_template = false
 language = "TypeScript"
 name = "onghub"
 node_id = "R_kgDOHdPkVA"
-open_issues_within = 0
+open_issues_within = 10
 private = false
 pushed_within = "week"
 stargazers_within = 0
