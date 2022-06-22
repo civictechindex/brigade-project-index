@@ -1,0 +1,50 @@
+code_url = "https://github.com/mysociety/update-ssh-config"
+git_url = "git://github.com/mysociety/update-ssh-config.git"
+last_commit = "2022-06-22T12:33:41Z"
+link_url = "https://www.mysociety.org/"
+name = "update-ssh-config"
+organization_name = "mySociety"
+
+[github]
+allow_forking = true
+archived = false
+created_at = "2022-06-22T12:30:19Z"
+default_branch = "master"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "mysociety/update-ssh-config"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "https://www.mysociety.org/"
+id = 506_238_540
+is_template = false
+language = "Python"
+name = "update-ssh-config"
+node_id = "R_kgDOHiyWTA"
+open_issues_within = 10
+private = false
+pushed_within = "week"
+stargazers_within = 0
+topics = [ ]
+updated_within = "week"
+visibility = "public"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 141_338
+  login = "mysociety"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE0MTMzOA=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  maintain = false
+  pull = true
+  push = false
+  triage = false
