@@ -1,7 +1,7 @@
 code_url = "https://github.com/codeforamerica/civic-tech-taxonomy"
 description = "Standardized identifiers for categorizing civic technology projects"
 git_url = "git://github.com/codeforamerica/civic-tech-taxonomy.git"
-last_commit = "2022-01-06T16:43:25Z"
+last_commit = "2022-06-22T23:38:15Z"
 link_url = "https://codeforamerica.github.io/civic-tech-taxonomy/"
 name = "civic-tech-taxonomy"
 organization_name = "Code for America"
@@ -30,7 +30,7 @@ name = "civic-tech-taxonomy"
 node_id = "MDEwOlJlcG9zaXRvcnk3Mjg3OTE4Mg=="
 open_issues_within = 100
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 100
 topics = [ "civic-tech", "civic-tech-taxonomy", "code-for-america" ]
 updated_within = "year"
