@@ -1,7 +1,7 @@
 code_url = "https://github.com/18F/formservice-iac-modules"
 description = "Reusable IAC modules used to deploy the Forms Service."
 git_url = "git://github.com/18F/formservice-iac-modules.git"
-last_commit = "2022-06-08T18:56:12Z"
+last_commit = "2022-06-22T21:43:10Z"
 name = "formservice-iac-modules"
 organization_name = "18F"
 
@@ -28,7 +28,7 @@ name = "formservice-iac-modules"
 node_id = "MDEwOlJlcG9zaXRvcnkzMDk3NzA4MjI="
 open_issues_within = 0
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
 updated_within = "month"
