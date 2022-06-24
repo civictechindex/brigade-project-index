@@ -1,33 +1,34 @@
-code_url = "https://github.com/codeforjapan/OpenDataTools"
-git_url = "git://github.com/codeforjapan/OpenDataTools.git"
-last_commit = "2022-06-17T09:13:17Z"
-name = "OpenDataTools"
+code_url = "https://github.com/codeforjapan/JibungotoPlanet-backend"
+description = "https://github.com/codeforjapan/JibungotoPlanet のバックエンド環境です"
+git_url = "git://github.com/codeforjapan/JibungotoPlanet-backend.git"
+name = "JibungotoPlanet-backend"
 organization_name = "Code for Japan"
 
 [github]
 allow_forking = true
 archived = false
-created_at = "2022-06-17T09:13:16Z"
+created_at = "2022-06-24T10:00:23Z"
 default_branch = "main"
+description = "https://github.com/codeforjapan/JibungotoPlanet のバックエンド環境です"
 disabled = false
 fork = false
 forks_within = 0
-full_name = "codeforjapan/OpenDataTools"
+full_name = "codeforjapan/JibungotoPlanet-backend"
 has_downloads = true
 has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = true
-id = 504_467_714
+id = 506_961_680
 is_template = false
-name = "OpenDataTools"
-node_id = "R_kgDOHhGRAg"
-open_issues_within = 10
+name = "JibungotoPlanet-backend"
+node_id = "R_kgDOHjefEA"
+open_issues_within = 0
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 0
 topics = [ ]
-updated_within = "month"
+updated_within = "week"
 visibility = "public"
 watchers_within = 0
 

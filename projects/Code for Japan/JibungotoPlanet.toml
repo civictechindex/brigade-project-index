@@ -1,7 +1,7 @@
-code_url = "https://github.com/codeforjapan/Footprint-Jibungoto"
-git_url = "git://github.com/codeforjapan/Footprint-Jibungoto.git"
+code_url = "https://github.com/codeforjapan/JibungotoPlanet"
+git_url = "git://github.com/codeforjapan/JibungotoPlanet.git"
 last_commit = "2022-06-21T02:51:09Z"
-name = "Footprint-Jibungoto"
+name = "JibungotoPlanet"
 organization_name = "Code for Japan"
 
 [github]
@@ -12,7 +12,7 @@ default_branch = "main"
 disabled = false
 fork = false
 forks_within = 10
-full_name = "codeforjapan/Footprint-Jibungoto"
+full_name = "codeforjapan/JibungotoPlanet"
 has_downloads = true
 has_issues = true
 has_pages = false
@@ -21,14 +21,14 @@ has_wiki = true
 id = 450_720_355
 is_template = false
 language = "TypeScript"
-name = "Footprint-Jibungoto"
+name = "JibungotoPlanet"
 node_id = "R_kgDOGt1yYw"
 open_issues_within = 100
 private = false
 pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
-updated_within = "month"
+updated_within = "week"
 visibility = "public"
 watchers_within = 10
 
