@@ -1,39 +1,39 @@
-code_url = "https://github.com/18F/notifications-api"
-description = "Sandbox for exploring GOV.UK Notify API"
-git_url = "git://github.com/18F/notifications-api.git"
-last_commit = "2022-06-23T22:50:30Z"
-name = "notifications-api"
+code_url = "https://github.com/18F/netlify-cms"
+description = "A Git-based CMS for Static Site Generators"
+git_url = "git://github.com/18F/netlify-cms.git"
+last_commit = "2021-05-19T18:52:50Z"
+link_url = "https://www.netlifycms.org"
+name = "netlify-cms"
 organization_name = "18F"
 
 [github]
 allow_forking = true
 archived = false
-created_at = "2022-06-02T21:23:13Z"
-default_branch = "main"
-description = "Sandbox for exploring GOV.UK Notify API"
+created_at = "2021-05-20T22:13:33Z"
+default_branch = "master"
+description = "A Git-based CMS for Static Site Generators"
 disabled = false
-fork = false
-forks_within = 10
-full_name = "18F/notifications-api"
+fork = true
+forks_within = 0
+full_name = "18F/netlify-cms"
 has_downloads = true
-has_issues = true
+has_issues = false
 has_pages = false
 has_projects = true
 has_wiki = true
-homepage = ""
-id = 499_295_033
+homepage = "https://www.netlifycms.org"
+id = 369_350_637
 is_template = false
-language = "Python"
-name = "notifications-api"
-node_id = "R_kgDOHcKjOQ"
+name = "netlify-cms"
+node_id = "MDEwOlJlcG9zaXRvcnkzNjkzNTA2Mzc="
 open_issues_within = 10
 private = false
 pushed_within = "week"
-stargazers_within = 10
+stargazers_within = 0
 topics = [ ]
 updated_within = "week"
 visibility = "public"
-watchers_within = 10
+watchers_within = 0
 
   [github.license]
   key = "mit"

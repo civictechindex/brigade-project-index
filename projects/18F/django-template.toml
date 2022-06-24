@@ -1,32 +1,30 @@
-code_url = "https://github.com/18F/notifications-api"
-description = "Sandbox for exploring GOV.UK Notify API"
-git_url = "git://github.com/18F/notifications-api.git"
-last_commit = "2022-06-23T22:50:30Z"
-name = "notifications-api"
+code_url = "https://github.com/18F/django-template"
+description = "18F-flavored Django app template"
+git_url = "git://github.com/18F/django-template.git"
+last_commit = "2022-06-23T18:52:09Z"
+name = "django-template"
 organization_name = "18F"
 
 [github]
 allow_forking = true
 archived = false
-created_at = "2022-06-02T21:23:13Z"
+created_at = "2022-06-23T18:52:08Z"
 default_branch = "main"
-description = "Sandbox for exploring GOV.UK Notify API"
+description = "18F-flavored Django app template"
 disabled = false
 fork = false
-forks_within = 10
-full_name = "18F/notifications-api"
+forks_within = 0
+full_name = "18F/django-template"
 has_downloads = true
 has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = true
-homepage = ""
-id = 499_295_033
+id = 506_756_523
 is_template = false
-language = "Python"
-name = "notifications-api"
-node_id = "R_kgDOHcKjOQ"
-open_issues_within = 10
+name = "django-template"
+node_id = "R_kgDOHjR9qw"
+open_issues_within = 0
 private = false
 pushed_within = "week"
 stargazers_within = 10
@@ -34,12 +32,6 @@ topics = [ ]
 updated_within = "week"
 visibility = "public"
 watchers_within = 10
-
-  [github.license]
-  key = "mit"
-  name = "MIT License"
-  node_id = "MDc6TGljZW5zZTEz"
-  spdx_id = "MIT"
 
   [github.owner]
   gravatar_id = ""
