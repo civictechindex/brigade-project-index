@@ -1,7 +1,7 @@
 code_url = "https://github.com/18F/django-template"
 description = "18F-flavored Django app template"
 git_url = "git://github.com/18F/django-template.git"
-last_commit = "2022-06-23T18:52:09Z"
+last_commit = "2022-06-24T20:09:39Z"
 name = "django-template"
 organization_name = "18F"
 
@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 id = 506_756_523
 is_template = false
+language = "Python"
 name = "django-template"
 node_id = "R_kgDOHjR9qw"
 open_issues_within = 0
