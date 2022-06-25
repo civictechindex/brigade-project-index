@@ -1,7 +1,7 @@
 code_url = "https://github.com/mattschaff/phillyresourcemap"
 description = "Resource Philly Map (RPM) aims to make accessing critical services across the city quick and easy for people in need."
 git_branch = "develop"
-last_pushed_within = "month"
+last_pushed_within = "year"
 link_url = "https://dev-link-love.pantheonsite.io"
 name = "resource_philly_map"
 open_issues_within = 100
