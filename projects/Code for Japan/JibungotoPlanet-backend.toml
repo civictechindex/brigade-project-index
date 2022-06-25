@@ -1,6 +1,7 @@
 code_url = "https://github.com/codeforjapan/JibungotoPlanet-backend"
 description = "https://github.com/codeforjapan/JibungotoPlanet のバックエンド環境です"
 git_url = "git://github.com/codeforjapan/JibungotoPlanet-backend.git"
+last_commit = "2022-06-25T05:14:26Z"
 name = "JibungotoPlanet-backend"
 organization_name = "Code for Japan"
 
@@ -21,6 +22,7 @@ has_projects = true
 has_wiki = true
 id = 506_961_680
 is_template = false
+language = "TypeScript"
 name = "JibungotoPlanet-backend"
 node_id = "R_kgDOHjefEA"
 open_issues_within = 0
