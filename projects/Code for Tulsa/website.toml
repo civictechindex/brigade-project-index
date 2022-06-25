@@ -18,7 +18,7 @@ forks_within = 10
 full_name = "codefortulsa/website"
 has_downloads = true
 has_issues = true
-has_pages = true
+has_pages = false
 has_projects = true
 has_wiki = true
 homepage = "https://www.figma.com/file/maf7XD1XhbIKlJn77P2tIS/Code-for-Tulsa-Website?node-id=0%3A1"
@@ -29,10 +29,10 @@ name = "website"
 node_id = "R_kgDOGUY0_A"
 open_issues_within = 100
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
-updated_within = "year"
+updated_within = "week"
 visibility = "public"
 watchers_within = 10
 
