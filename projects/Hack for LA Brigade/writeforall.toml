@@ -1,7 +1,7 @@
 code_url = "https://github.com/hackforla/writeforall"
 description = "Write for All TM is A project to help cities replace gender exclusive language with gender inclusive language."
 git_url = "git://github.com/hackforla/writeforall.git"
-last_commit = "2020-06-19T20:55:06Z"
+last_commit = "2022-06-25T23:20:18Z"
 name = "writeforall"
 organization_name = "Hack for LA Brigade"
 topics = [
@@ -49,7 +49,7 @@ topics = [
   "gender-neutral-language",
   "hack-for-la"
 ]
-updated_within = "year"
+updated_within = "week"
 visibility = "public"
 watchers_within = 100
 
