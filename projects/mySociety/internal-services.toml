@@ -1,7 +1,7 @@
 code_url = "https://github.com/mysociety/internal-services"
 description = "Internal services (e.g. rate limiting, representatives, email utils)"
 git_url = "git://github.com/mysociety/internal-services.git"
-last_commit = "2020-01-14T15:12:25Z"
+last_commit = "2022-06-20T13:30:29Z"
 name = "internal-services"
 organization_name = "mySociety"
 
@@ -30,7 +30,7 @@ private = false
 pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
-updated_within = "over_a_year"
+updated_within = "week"
 visibility = "public"
 watchers_within = 10
 
