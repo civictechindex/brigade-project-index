@@ -1,6 +1,6 @@
 code_url = "https://github.com/18F/datagov-11ty"
 git_url = "git://github.com/18F/datagov-11ty.git"
-last_commit = "2022-06-02T14:39:21Z"
+last_commit = "2022-06-27T17:26:44Z"
 name = "datagov-11ty"
 organization_name = "18F"
 
@@ -25,7 +25,7 @@ name = "datagov-11ty"
 node_id = "R_kgDOHM868A"
 open_issues_within = 10
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
 updated_within = "year"
