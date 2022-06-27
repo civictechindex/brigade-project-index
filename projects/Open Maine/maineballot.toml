@@ -36,16 +36,16 @@ node_id = "MDEwOlJlcG9zaXRvcnkxNjU5MTA1NDQ="
 open_issues_within = 100
 private = false
 pushed_within = "week"
-stargazers_within = 10
+stargazers_within = 100
 topics = [
   "brigade",
   "code-for-america",
   "paa-voting-rights",
   "voting-rights"
 ]
-updated_within = "year"
+updated_within = "week"
 visibility = "public"
-watchers_within = 10
+watchers_within = 100
 
   [github.license]
   key = "mit"
