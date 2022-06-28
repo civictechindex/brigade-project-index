@@ -1,7 +1,7 @@
 code_url = "https://github.com/CodeForAfrica/actNOW"
 description = "A public engagement toolkit that enables a media house or civil society organisation to easily set up channels for engagement."
 git_url = "git://github.com/CodeForAfrica/actNOW.git"
-last_commit = "2022-06-27T12:19:46Z"
+last_commit = "2022-06-28T10:38:02Z"
 name = "actNOW"
 organization_name = "Code for Nigeria"
 
@@ -33,6 +33,7 @@ topics = [ ]
 updated_within = "year"
 visibility = "public"
 watchers_within = 10
+web_commit_signoff_required = false
 
   [github.license]
   key = "gpl-3.0"
