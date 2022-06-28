@@ -36,6 +36,7 @@ topics = [ ]
 updated_within = "over_a_year"
 visibility = "public"
 watchers_within = 10
+web_commit_signoff_required = false
 
   [github.license]
   key = "apache-2.0"
@@ -87,6 +88,7 @@ watchers_within = 10
   updated_within = "over_a_year"
   visibility = "public"
   watchers_within = 10
+  web_commit_signoff_required = false
 
     [github.parent.license]
     key = "apache-2.0"
@@ -137,6 +139,7 @@ watchers_within = 10
   updated_within = "over_a_year"
   visibility = "public"
   watchers_within = 10
+  web_commit_signoff_required = false
 
     [github.source.license]
     key = "apache-2.0"
