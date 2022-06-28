@@ -33,6 +33,7 @@ topics = [ "civic-tech", "open-data" ]
 updated_within = "over_a_year"
 visibility = "public"
 watchers_within = 10
+web_commit_signoff_required = false
 
   [github.owner]
   gravatar_id = ""
