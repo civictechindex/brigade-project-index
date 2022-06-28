@@ -36,6 +36,7 @@ topics = [ "covid-19", "directory", "mexico", "open-data" ]
 updated_within = "year"
 visibility = "public"
 watchers_within = 100
+web_commit_signoff_required = false
 
   [github.owner]
   gravatar_id = ""
