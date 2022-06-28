@@ -36,6 +36,7 @@ topics = [ "brigade", "cfa", "code-for-dc", "washington-dc" ]
 updated_within = "year"
 visibility = "public"
 watchers_within = 100
+web_commit_signoff_required = false
 
   [github.license]
   key = "gpl-2.0"
