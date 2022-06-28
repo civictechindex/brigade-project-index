@@ -34,6 +34,7 @@ topics = [ "chicago", "geojson-data", "government", "open-data" ]
 updated_within = "over_a_year"
 visibility = "public"
 watchers_within = 100
+web_commit_signoff_required = false
 
   [github.license]
   key = "mit"

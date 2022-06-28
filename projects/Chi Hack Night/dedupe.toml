@@ -1,5 +1,5 @@
 code_url = "https://github.com/datamade/dedupe"
-last_commit = "2022-06-28T00:54:30Z"
+last_commit = "2022-06-28T18:27:59Z"
 name = "dedupe"
 organization_name = "Chi Hack Night"
 
@@ -45,6 +45,7 @@ topics = [
 updated_within = "week"
 visibility = "public"
 watchers_within = "over_1000"
+web_commit_signoff_required = false
 
   [github.license]
   key = "mit"

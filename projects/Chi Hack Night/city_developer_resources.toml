@@ -34,6 +34,7 @@ topics = [ ]
 updated_within = "over_a_year"
 visibility = "public"
 watchers_within = 0
+web_commit_signoff_required = false
 
   [github.owner]
   gravatar_id = ""
@@ -71,6 +72,7 @@ watchers_within = 0
   updated_within = "year"
   visibility = "public"
   watchers_within = 10
+  web_commit_signoff_required = false
 
     [github.parent.owner]
     gravatar_id = ""
@@ -115,6 +117,7 @@ watchers_within = 0
   updated_within = "year"
   visibility = "public"
   watchers_within = 10
+  web_commit_signoff_required = false
 
     [github.source.owner]
     gravatar_id = ""
