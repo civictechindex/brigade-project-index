@@ -28,12 +28,13 @@ name = "citygram"
 node_id = "MDEwOlJlcG9zaXRvcnkxOTc1MDg1MQ=="
 open_issues_within = 100
 private = false
-pushed_within = "over_a_year"
+pushed_within = "week"
 stargazers_within = 1_000
 topics = [ ]
 updated_within = "year"
 visibility = "public"
 watchers_within = 1_000
+web_commit_signoff_required = false
 
   [github.license]
   key = "mit"
