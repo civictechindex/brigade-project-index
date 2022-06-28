@@ -1,7 +1,7 @@
 code_url = "https://github.com/EnCiv/undebate"
 description = "Not debates, but recorded online video Q&A with candidates so voters can quickly can get to know them, for every candidate, for every election, across the US."
 git_url = "git://github.com/EnCiv/undebate.git"
-last_commit = "2021-05-28T18:18:47Z"
+last_commit = "2022-06-27T22:17:47Z"
 name = "undebate"
 organization_name = "Hack for LA Brigade"
 topics = [
@@ -38,7 +38,7 @@ name = "undebate"
 node_id = "MDEwOlJlcG9zaXRvcnkyMjEwNzAxODY="
 open_issues_within = 1_000
 private = false
-pushed_within = "month"
+pushed_within = "week"
 score = 1
 stargazers_within = 100
 topics = [
@@ -51,7 +51,7 @@ topics = [
   "reactjs",
   "webrtc"
 ]
-updated_within = "year"
+updated_within = "week"
 visibility = "public"
 watchers_within = 100
 
