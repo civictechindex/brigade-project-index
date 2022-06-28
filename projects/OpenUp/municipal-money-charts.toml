@@ -25,12 +25,13 @@ name = "municipal-money-charts"
 node_id = "MDEwOlJlcG9zaXRvcnkzMDU5Mzg3MDQ="
 open_issues_within = 10
 private = false
-pushed_within = "over_a_year"
+pushed_within = "week"
 stargazers_within = 0
 topics = [ ]
 updated_within = "over_a_year"
 visibility = "public"
 watchers_within = 0
+web_commit_signoff_required = false
 
   [github.license]
   key = "mit"
