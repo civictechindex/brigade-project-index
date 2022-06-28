@@ -31,6 +31,7 @@ topics = [ ]
 updated_within = "year"
 visibility = "public"
 watchers_within = 10
+web_commit_signoff_required = false
 
   [github.license]
   key = "mpl-2.0"
