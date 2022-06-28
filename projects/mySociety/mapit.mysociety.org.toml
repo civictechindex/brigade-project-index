@@ -1,7 +1,7 @@
 code_url = "https://github.com/mysociety/mapit.mysociety.org"
 description = "A Django project for running mySociety's main instance of MapIt for the UK"
 git_url = "git://github.com/mysociety/mapit.mysociety.org.git"
-last_commit = "2022-05-23T10:58:44Z"
+last_commit = "2022-06-07T14:09:42Z"
 link_url = "http://mapit.mysociety.org"
 name = "mapit.mysociety.org"
 organization_name = "mySociety"
@@ -29,12 +29,13 @@ name = "mapit.mysociety.org"
 node_id = "MDEwOlJlcG9zaXRvcnkzMjUyOTk3NA=="
 open_issues_within = 100
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
 updated_within = "year"
 visibility = "public"
 watchers_within = 10
+web_commit_signoff_required = false
 
   [github.license]
   key = "other"

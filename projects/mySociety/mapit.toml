@@ -1,7 +1,7 @@
 code_url = "https://github.com/mysociety/mapit"
 description = "A web service to map postcodes to administrative boundaries and more"
 git_url = "git://github.com/mysociety/mapit.git"
-last_commit = "2022-05-18T13:59:16Z"
+last_commit = "2022-06-23T12:41:22Z"
 name = "mapit"
 organization_name = "mySociety"
 
@@ -34,6 +34,7 @@ topics = [ ]
 updated_within = "month"
 visibility = "public"
 watchers_within = 1_000
+web_commit_signoff_required = false
 
   [github.license]
   key = "other"

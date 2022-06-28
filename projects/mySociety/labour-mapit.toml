@@ -27,12 +27,13 @@ name = "labour-mapit"
 node_id = "R_kgDOGfY3aA"
 open_issues_within = 0
 private = false
-pushed_within = "week"
+pushed_within = "month"
 stargazers_within = 0
 topics = [ ]
 updated_within = "year"
 visibility = "public"
 watchers_within = 0
+web_commit_signoff_required = false
 
   [github.license]
   key = "other"
