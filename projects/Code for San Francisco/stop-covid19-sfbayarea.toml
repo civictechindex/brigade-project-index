@@ -1,7 +1,7 @@
 code_url = "https://github.com/sfbrigade/stop-covid19-sfbayarea"
 description = "Publish COVID-19 data and FAQ local to the Bay Area"
 git_url = "git://github.com/sfbrigade/stop-covid19-sfbayarea.git"
-last_commit = "2022-06-28T00:07:03Z"
+last_commit = "2022-06-28T16:02:43Z"
 link_url = "https://panda.baybrigades.org/"
 name = "stop-covid19-sfbayarea"
 organization_name = "Code for San Francisco"
@@ -36,6 +36,7 @@ topics = [ "covid-19" ]
 updated_within = "year"
 visibility = "public"
 watchers_within = 100
+web_commit_signoff_required = false
 
   [github.license]
   key = "mit"
