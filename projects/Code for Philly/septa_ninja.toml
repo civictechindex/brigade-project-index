@@ -39,6 +39,7 @@ topics = [ ]
 updated_within = "over_a_year"
 visibility = "public"
 watchers_within = 10
+web_commit_signoff_required = false
 
   [github.license]
   key = "mit"
@@ -83,6 +84,7 @@ watchers_within = 10
   updated_within = "year"
   visibility = "public"
   watchers_within = 100
+  web_commit_signoff_required = false
 
     [github.parent.license]
     key = "mit"
@@ -134,6 +136,7 @@ watchers_within = 10
   updated_within = "year"
   visibility = "public"
   watchers_within = 100
+  web_commit_signoff_required = false
 
     [github.source.license]
     key = "mit"
