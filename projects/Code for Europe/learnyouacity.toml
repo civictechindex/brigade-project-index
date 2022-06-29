@@ -33,6 +33,7 @@ topics = [ ]
 updated_within = "month"
 visibility = "public"
 watchers_within = 0
+web_commit_signoff_required = false
 
   [github.owner]
   gravatar_id = ""
