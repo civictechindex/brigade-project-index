@@ -1,7 +1,7 @@
 code_url = "https://github.com/18F/identity-handbook"
 description = "login.gov handbook"
 git_url = "git://github.com/18F/identity-handbook.git"
-last_commit = "2022-06-27T17:20:46Z"
+last_commit = "2022-06-28T18:48:18Z"
 name = "identity-handbook"
 organization_name = "18F"
 
@@ -34,6 +34,7 @@ topics = [ ]
 updated_within = "month"
 visibility = "public"
 watchers_within = 10
+web_commit_signoff_required = false
 
   [github.owner]
   gravatar_id = ""

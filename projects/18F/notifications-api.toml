@@ -1,7 +1,7 @@
 code_url = "https://github.com/18F/notifications-api"
 description = "Sandbox for exploring GOV.UK Notify API"
 git_url = "git://github.com/18F/notifications-api.git"
-last_commit = "2022-06-26T01:38:52Z"
+last_commit = "2022-06-28T22:30:09Z"
 name = "notifications-api"
 organization_name = "18F"
 
@@ -34,6 +34,7 @@ topics = [ ]
 updated_within = "month"
 visibility = "public"
 watchers_within = 10
+web_commit_signoff_required = false
 
   [github.license]
   key = "mit"

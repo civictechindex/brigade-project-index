@@ -23,14 +23,15 @@ is_template = false
 language = "Shell"
 name = "identity-idva-testing"
 node_id = "MDEwOlJlcG9zaXRvcnkzNDIzMjg2MzY="
-open_issues_within = 0
+open_issues_within = 10
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 0
 topics = [ ]
 updated_within = "year"
 visibility = "public"
 watchers_within = 0
+web_commit_signoff_required = false
 
   [github.license]
   key = "other"

@@ -1,7 +1,7 @@
 code_url = "https://github.com/18F/fedramp-automation"
 description = "FedRAMP Automation"
 git_url = "git://github.com/18F/fedramp-automation.git"
-last_commit = "2022-06-27T19:16:17Z"
+last_commit = "2022-06-28T22:05:47Z"
 link_url = "https://federalist-2372d2fd-fc94-42fe-bcc7-a8af4f664a51.app.cloud.gov/site/18f/fedramp-automation/"
 name = "fedramp-automation"
 organization_name = "18F"
@@ -35,6 +35,7 @@ topics = [ ]
 updated_within = "month"
 visibility = "public"
 watchers_within = 100
+web_commit_signoff_required = false
 
   [github.license]
   key = "other"

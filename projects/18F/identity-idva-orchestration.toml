@@ -1,7 +1,7 @@
 code_url = "https://github.com/18F/identity-idva-orchestration"
 description = "Orchestration component of IDVA"
 git_url = "git://github.com/18F/identity-idva-orchestration.git"
-last_commit = "2022-06-17T16:11:24Z"
+last_commit = "2022-06-28T14:14:13Z"
 name = "identity-idva-orchestration"
 organization_name = "18F"
 
@@ -34,6 +34,7 @@ topics = [ ]
 updated_within = "year"
 visibility = "public"
 watchers_within = 10
+web_commit_signoff_required = false
 
   [github.license]
   key = "cc0-1.0"

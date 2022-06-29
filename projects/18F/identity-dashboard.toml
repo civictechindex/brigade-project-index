@@ -1,7 +1,7 @@
 code_url = "https://github.com/18F/identity-dashboard"
 description = "Identity developer dashboard"
 git_url = "git://github.com/18F/identity-dashboard.git"
-last_commit = "2022-06-27T13:17:27Z"
+last_commit = "2022-06-28T19:05:39Z"
 name = "identity-dashboard"
 organization_name = "18F"
 topics = [ "login-gov" ]
@@ -34,6 +34,7 @@ topics = [ "login-gov" ]
 updated_within = "month"
 visibility = "public"
 watchers_within = 100
+web_commit_signoff_required = false
 
   [github.owner]
   gravatar_id = ""
