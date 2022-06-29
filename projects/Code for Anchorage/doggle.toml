@@ -1,7 +1,7 @@
 code_url = "https://github.com/codeforanchorage/doggle"
 description = "A fun dog name based Wordle clone made using React, Typescript, and Tailwind"
 git_url = "git://github.com/codeforanchorage/doggle.git"
-last_commit = "2022-06-02T22:38:07Z"
+last_commit = "2022-06-29T03:00:39Z"
 link_url = "https://reactle.vercel.app/"
 name = "doggle"
 organization_name = "Code for Anchorage"
@@ -29,7 +29,7 @@ name = "doggle"
 node_id = "R_kgDOHR0EWA"
 open_issues_within = 0
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 0
 topics = [ ]
 updated_within = "year"
