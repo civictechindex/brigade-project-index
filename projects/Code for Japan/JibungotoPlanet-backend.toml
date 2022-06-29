@@ -1,7 +1,7 @@
 code_url = "https://github.com/codeforjapan/JibungotoPlanet-backend"
 description = "https://github.com/codeforjapan/JibungotoPlanet のバックエンド環境です"
 git_url = "git://github.com/codeforjapan/JibungotoPlanet-backend.git"
-last_commit = "2022-06-28T22:36:11Z"
+last_commit = "2022-06-29T11:39:56Z"
 name = "JibungotoPlanet-backend"
 organization_name = "Code for Japan"
 
@@ -13,7 +13,7 @@ default_branch = "main"
 description = "https://github.com/codeforjapan/JibungotoPlanet のバックエンド環境です"
 disabled = false
 fork = false
-forks_within = 0
+forks_within = 10
 full_name = "codeforjapan/JibungotoPlanet-backend"
 has_downloads = true
 has_issues = true
@@ -25,7 +25,7 @@ is_template = false
 language = "TypeScript"
 name = "JibungotoPlanet-backend"
 node_id = "R_kgDOHjefEA"
-open_issues_within = 0
+open_issues_within = 10
 private = false
 pushed_within = "week"
 stargazers_within = 0
