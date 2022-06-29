@@ -1,6 +1,6 @@
 code_url = "https://github.com/Code-For-Chicago/ceic-jekyll"
 git_url = "git://github.com/Code-For-Chicago/ceic-jekyll.git"
-last_commit = "2022-06-26T01:01:40Z"
+last_commit = "2022-06-28T23:15:06Z"
 name = "ceic-jekyll"
 organization_name = "Code for Chicago"
 
@@ -31,6 +31,7 @@ topics = [ ]
 updated_within = "month"
 visibility = "public"
 watchers_within = 0
+web_commit_signoff_required = false
 
   [github.owner]
   gravatar_id = ""
