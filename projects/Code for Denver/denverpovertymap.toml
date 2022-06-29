@@ -25,12 +25,13 @@ name = "denverpovertymap"
 node_id = "MDEwOlJlcG9zaXRvcnkyMTUxNzQ2NzQ="
 open_issues_within = 10
 private = false
-pushed_within = "week"
+pushed_within = "month"
 stargazers_within = 10
 topics = [ ]
 updated_within = "year"
 visibility = "public"
 watchers_within = 10
+web_commit_signoff_required = false
 
   [github.owner]
   gravatar_id = ""

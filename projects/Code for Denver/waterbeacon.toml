@@ -34,7 +34,7 @@ name = "waterbeacon"
 node_id = "MDEwOlJlcG9zaXRvcnk2OTc3MTc5Nw=="
 open_issues_within = 100
 private = false
-pushed_within = "week"
+pushed_within = "month"
 stargazers_within = 10
 topics = [
   "code-for-america",
@@ -46,6 +46,7 @@ topics = [
 updated_within = "year"
 visibility = "public"
 watchers_within = 10
+web_commit_signoff_required = false
 
   [github.owner]
   gravatar_id = ""
