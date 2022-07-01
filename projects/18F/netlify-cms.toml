@@ -1,7 +1,7 @@
 code_url = "https://github.com/18F/netlify-cms"
 description = "A Git-based CMS for Static Site Generators"
 git_url = "git://github.com/18F/netlify-cms.git"
-last_commit = "2021-05-19T18:52:50Z"
+last_commit = "2022-05-27T10:25:53Z"
 link_url = "https://www.netlifycms.org"
 name = "netlify-cms"
 organization_name = "18F"
@@ -24,6 +24,7 @@ has_wiki = true
 homepage = "https://www.netlifycms.org"
 id = 369_350_637
 is_template = false
+language = "JavaScript"
 name = "netlify-cms"
 node_id = "MDEwOlJlcG9zaXRvcnkzNjkzNTA2Mzc="
 open_issues_within = 10
