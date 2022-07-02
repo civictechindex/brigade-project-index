@@ -1,6 +1,7 @@
 code_url = "https://github.com/codeforjapan/designAssets"
+description = "This repo will be archived 🗄️ in the future"
 git_url = "git://github.com/codeforjapan/designAssets.git"
-last_commit = "2016-05-09T06:32:17Z"
+last_commit = "2022-07-02T04:26:52Z"
 name = "designAssets"
 organization_name = "Code for Japan"
 
@@ -9,6 +10,7 @@ allow_forking = true
 archived = false
 created_at = "2014-04-29T09:40:46Z"
 default_branch = "master"
+description = "This repo will be archived 🗄️ in the future"
 disabled = false
 fork = false
 forks_within = 0
@@ -18,16 +20,17 @@ has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = true
+homepage = ""
 id = 19_271_287
 is_template = false
 name = "designAssets"
 node_id = "MDEwOlJlcG9zaXRvcnkxOTI3MTI4Nw=="
 open_issues_within = 0
 private = false
-pushed_within = "over_a_year"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
-updated_within = "over_a_year"
+updated_within = "week"
 visibility = "public"
 watchers_within = 10
 web_commit_signoff_required = false

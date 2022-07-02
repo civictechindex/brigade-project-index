@@ -1,7 +1,7 @@
 code_url = "https://github.com/codeforjapan/JibungotoPlanet-backend"
 description = "https://github.com/codeforjapan/JibungotoPlanet のバックエンド環境です"
 git_url = "git://github.com/codeforjapan/JibungotoPlanet-backend.git"
-last_commit = "2022-06-29T11:39:56Z"
+last_commit = "2022-07-02T04:23:59Z"
 name = "JibungotoPlanet-backend"
 organization_name = "Code for Japan"
 
@@ -30,7 +30,7 @@ private = false
 pushed_within = "week"
 stargazers_within = 0
 topics = [ ]
-updated_within = "week"
+updated_within = "month"
 visibility = "public"
 watchers_within = 0
 web_commit_signoff_required = false

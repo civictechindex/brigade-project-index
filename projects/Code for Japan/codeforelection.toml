@@ -1,7 +1,7 @@
 code_url = "https://github.com/codeforjapan/codeforelection"
-description = "衆院選2017候補者データベース作成プロジェクト"
+description = "衆院選2017候補者データベース作成プロジェクト  This repo will be archived 🗄️ in the future"
 git_url = "git://github.com/codeforjapan/codeforelection.git"
-last_commit = "2017-11-28T11:51:15Z"
+last_commit = "2022-07-02T05:34:31Z"
 name = "codeforelection"
 organization_name = "Code for Japan"
 
@@ -10,7 +10,7 @@ allow_forking = true
 archived = false
 created_at = "2017-09-29T08:11:03Z"
 default_branch = "master"
-description = "衆院選2017候補者データベース作成プロジェクト"
+description = "衆院選2017候補者データベース作成プロジェクト  This repo will be archived 🗄️ in the future"
 disabled = false
 fork = false
 forks_within = 10
@@ -28,10 +28,10 @@ name = "codeforelection"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDUyNDcwNzY="
 open_issues_within = 100
 private = false
-pushed_within = "over_a_year"
+pushed_within = "week"
 stargazers_within = 100
 topics = [ ]
-updated_within = "year"
+updated_within = "week"
 visibility = "public"
 watchers_within = 100
 web_commit_signoff_required = false
