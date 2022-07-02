@@ -1,6 +1,7 @@
 code_url = "https://github.com/codeforjapan/OPEN-EATS-JAPAN"
+description = "This repo will be archived 🗄️ in the future"
 git_url = "git://github.com/codeforjapan/OPEN-EATS-JAPAN.git"
-last_commit = "2020-12-15T00:26:11Z"
+last_commit = "2022-07-02T06:27:42Z"
 name = "OPEN-EATS-JAPAN"
 organization_name = "Code for Japan"
 
@@ -9,6 +10,7 @@ allow_forking = true
 archived = false
 created_at = "2020-07-22T21:50:44Z"
 default_branch = "master"
+description = "This repo will be archived 🗄️ in the future"
 disabled = false
 fork = false
 forks_within = 10
@@ -18,16 +20,17 @@ has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = true
+homepage = ""
 id = 281_790_065
 is_template = false
 name = "OPEN-EATS-JAPAN"
 node_id = "MDEwOlJlcG9zaXRvcnkyODE3OTAwNjU="
 open_issues_within = 100
 private = false
-pushed_within = "over_a_year"
+pushed_within = "week"
 stargazers_within = 100
 topics = [ ]
-updated_within = "over_a_year"
+updated_within = "week"
 visibility = "public"
 watchers_within = 100
 web_commit_signoff_required = false
