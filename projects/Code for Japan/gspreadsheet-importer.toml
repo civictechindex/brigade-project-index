@@ -1,8 +1,8 @@
 code_url = "https://github.com/codeforjapan/gspreadsheet-importer"
-description = "import csv files to specified google spreadsheet automatically"
+description = "import csv files to specified google spreadsheet automatically　This repo will be archived 🗄️ in the future"
 git_branch = "master"
 git_url = "git://github.com/codeforjapan/gspreadsheet-importer.git"
-last_pushed_within = "over_a_year"
+last_pushed_within = "week"
 name = "gspreadsheet-importer"
 open_issues_within = 10
 organization_name = "Code for Japan"
