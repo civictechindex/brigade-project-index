@@ -1,6 +1,6 @@
 code_url = "https://github.com/mysociety/ssl-scripts"
 git_url = "git://github.com/mysociety/ssl-scripts.git"
-last_commit = "2021-09-17T07:44:23Z"
+last_commit = "2022-07-01T12:54:18Z"
 link_url = "https://www.mysociety.org/"
 name = "ssl-scripts"
 organization_name = "mySociety"
@@ -27,10 +27,10 @@ name = "ssl-scripts"
 node_id = "MDEwOlJlcG9zaXRvcnk2NzYyODg2Mw=="
 open_issues_within = 10
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
-updated_within = "year"
+updated_within = "week"
 visibility = "public"
 watchers_within = 10
 web_commit_signoff_required = false
