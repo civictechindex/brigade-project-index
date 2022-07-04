@@ -1,6 +1,6 @@
 code_url = "https://github.com/CodeForAsheville/court-notifications"
 git_url = "git://github.com/CodeForAsheville/court-notifications.git"
-last_commit = "2022-06-18T16:34:32Z"
+last_commit = "2022-07-04T14:39:24Z"
 name = "court-notifications"
 organization_name = "Code for Asheville"
 
@@ -25,7 +25,7 @@ name = "court-notifications"
 node_id = "MDEwOlJlcG9zaXRvcnkzNDU3MDA3MTU="
 open_issues_within = 100
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
 updated_within = "year"
