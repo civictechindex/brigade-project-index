@@ -38,7 +38,7 @@ topics = [
   "entity-resolution",
   "record-linkage"
 ]
-updated_within = "week"
+updated_within = "month"
 visibility = "public"
 watchers_within = 1_000
 web_commit_signoff_required = false
