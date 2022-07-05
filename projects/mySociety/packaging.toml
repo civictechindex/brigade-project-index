@@ -1,7 +1,7 @@
 code_url = "https://github.com/mysociety/packaging"
 description = "mySociety Debian Package builds"
 git_url = "git://github.com/mysociety/packaging.git"
-last_commit = "2021-12-03T15:15:01Z"
+last_commit = "2022-07-05T13:47:42Z"
 link_url = "https://www.mysociety.org/"
 name = "packaging"
 organization_name = "mySociety"
@@ -29,7 +29,7 @@ name = "packaging"
 node_id = "MDEwOlJlcG9zaXRvcnkzNDIyNzk1ODc="
 open_issues_within = 0
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 0
 topics = [ ]
 updated_within = "year"

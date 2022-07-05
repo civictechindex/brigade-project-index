@@ -1,7 +1,7 @@
 code_url = "https://github.com/mysociety/internal-services"
 description = "Internal services (e.g. rate limiting, representatives, email utils)"
 git_url = "git://github.com/mysociety/internal-services.git"
-last_commit = "2022-07-04T14:31:23Z"
+last_commit = "2022-07-05T17:25:13Z"
 name = "internal-services"
 organization_name = "mySociety"
 
