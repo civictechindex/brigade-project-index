@@ -82,7 +82,7 @@ web_commit_signoff_required = false
   node_id = "MDEwOlJlcG9zaXRvcnkxOTc1MDg1MQ=="
   open_issues_within = 100
   private = false
-  pushed_within = "week"
+  pushed_within = "month"
   stargazers_within = 1_000
   topics = [ ]
   updated_within = "year"
@@ -134,7 +134,7 @@ web_commit_signoff_required = false
   node_id = "MDEwOlJlcG9zaXRvcnkxOTc1MDg1MQ=="
   open_issues_within = 100
   private = false
-  pushed_within = "week"
+  pushed_within = "month"
   stargazers_within = 1_000
   topics = [ ]
   updated_within = "year"
