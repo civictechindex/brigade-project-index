@@ -25,9 +25,9 @@ id = 236_300_966
 is_template = false
 name = "docker-python-nodejs"
 node_id = "MDEwOlJlcG9zaXRvcnkyMzYzMDA5NjY="
-open_issues_within = 0
+open_issues_within = 10
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 0
 topics = [ ]
 updated_within = "over_a_year"
