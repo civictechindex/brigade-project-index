@@ -1,7 +1,7 @@
 code_url = "https://github.com/code4romania/centre_testare_HIV"
 git_branch = "develop"
 git_url = "git://github.com/code4romania/centre_testare_HIV.git"
-last_pushed_within = "year"
+last_pushed_within = "week"
 link_url = "centre-testare-hiv.vercel.app"
 name = "centre_testare_HIV"
 organization_name = "Code for Romania: Iasi Chapter"
