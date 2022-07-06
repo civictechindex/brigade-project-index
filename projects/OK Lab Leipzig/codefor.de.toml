@@ -1,7 +1,7 @@
 code_url = "https://github.com/CodeforLeipzig/codefor.de"
 description = "The next iteration of the website for Code for Germany."
 git_url = "git://github.com/CodeforLeipzig/codefor.de.git"
-last_commit = "2021-10-06T15:50:45Z"
+last_commit = "2022-07-05T21:06:22Z"
 link_url = "https://codefor.de"
 name = "codefor.de"
 organization_name = "OK Lab Leipzig"
@@ -24,15 +24,15 @@ has_wiki = true
 homepage = "https://codefor.de"
 id = 305_050_386
 is_template = false
-language = "HTML"
+language = "SCSS"
 name = "codefor.de"
 node_id = "MDEwOlJlcG9zaXRvcnkzMDUwNTAzODY="
 open_issues_within = 0
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 0
 topics = [ ]
-updated_within = "year"
+updated_within = "week"
 visibility = "public"
 watchers_within = 0
 web_commit_signoff_required = false
