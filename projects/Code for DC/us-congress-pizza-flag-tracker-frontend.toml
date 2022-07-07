@@ -1,7 +1,7 @@
 code_url = "https://github.com/codefordc/us-congress-pizza-flag-tracker-frontend"
 description = "https://github.com/codefordc/us-congress-pizza-flag-tracker"
 git_url = "git://github.com/codefordc/us-congress-pizza-flag-tracker-frontend.git"
-last_commit = "2022-06-29T23:50:38Z"
+last_commit = "2022-07-06T23:29:32Z"
 name = "us-congress-pizza-flag-tracker-frontend"
 organization_name = "Code for DC"
 
@@ -31,7 +31,7 @@ private = false
 pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
-updated_within = "week"
+updated_within = "month"
 visibility = "public"
 watchers_within = 10
 web_commit_signoff_required = false
