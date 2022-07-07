@@ -1,5 +1,5 @@
 code_url = "https://github.com/datamade/dedupe"
-last_commit = "2022-07-06T15:53:40Z"
+last_commit = "2022-07-06T23:23:02Z"
 name = "dedupe"
 organization_name = "Chi Hack Night"
 
@@ -29,7 +29,7 @@ open_issues_within = 100
 private = false
 pushed_within = "week"
 stargazers_within = "over_1000"
-subscribers_count = 122
+subscribers_count = 121
 temp_clone_token = ""
 topics = [
   "clustering",
