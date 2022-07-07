@@ -1,7 +1,7 @@
 code_url = "https://github.com/CodeForTucson/govtracker-az"
 description = "Making local AZ government info available to citizens."
 git_url = "git://github.com/CodeForTucson/govtracker-az.git"
-last_commit = "2021-10-19T07:02:24Z"
+last_commit = "2022-07-07T03:13:13Z"
 name = "govtracker-az"
 organization_name = "Code for Tucson"
 
@@ -27,7 +27,7 @@ name = "govtracker-az"
 node_id = "MDEwOlJlcG9zaXRvcnk3MjU4NzA2Ng=="
 open_issues_within = 100
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
 updated_within = "year"
