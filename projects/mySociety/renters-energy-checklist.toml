@@ -1,7 +1,7 @@
 code_url = "https://github.com/mysociety/renters-energy-checklist"
 description = "A prototype built as part of mySociety’s July 2022 prototyping week exploring digital services to improve energy efficiency in private rented homes."
 git_url = "git://github.com/mysociety/renters-energy-checklist.git"
-last_commit = "2022-06-16T11:36:52Z"
+last_commit = "2022-07-07T16:18:39Z"
 link_url = "https://mysociety.github.io/renters-energy-checklist"
 name = "renters-energy-checklist"
 organization_name = "mySociety"
@@ -24,7 +24,7 @@ has_wiki = true
 homepage = "https://mysociety.github.io/renters-energy-checklist"
 id = 511_478_173
 is_template = false
-language = "SCSS"
+language = "HTML"
 name = "renters-energy-checklist"
 node_id = "R_kgDOHnyJnQ"
 open_issues_within = 0
