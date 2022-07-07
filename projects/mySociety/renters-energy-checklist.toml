@@ -1,0 +1,53 @@
+code_url = "https://github.com/mysociety/renters-energy-checklist"
+description = "A prototype built as part of mySociety’s July 2022 prototyping week exploring digital services to improve energy efficiency in private rented homes."
+git_url = "git://github.com/mysociety/renters-energy-checklist.git"
+last_commit = "2022-06-16T11:36:52Z"
+link_url = "https://mysociety.github.io/renters-energy-checklist"
+name = "renters-energy-checklist"
+organization_name = "mySociety"
+
+[github]
+allow_forking = true
+archived = false
+created_at = "2022-07-07T10:12:50Z"
+default_branch = "main"
+description = "A prototype built as part of mySociety’s July 2022 prototyping week exploring digital services to improve energy efficiency in private rented homes."
+disabled = false
+fork = false
+forks_within = 0
+full_name = "mysociety/renters-energy-checklist"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "https://mysociety.github.io/renters-energy-checklist"
+id = 511_478_173
+is_template = false
+language = "SCSS"
+name = "renters-energy-checklist"
+node_id = "R_kgDOHnyJnQ"
+open_issues_within = 0
+private = false
+pushed_within = "week"
+stargazers_within = 0
+topics = [ ]
+updated_within = "week"
+visibility = "public"
+watchers_within = 0
+web_commit_signoff_required = false
+
+  [github.owner]
+  gravatar_id = ""
+  id = 141_338
+  login = "mysociety"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE0MTMzOA=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  maintain = false
+  pull = true
+  push = false
+  triage = false
