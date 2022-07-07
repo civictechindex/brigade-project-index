@@ -1,8 +1,7 @@
 code_url = "https://github.com/CodeForTucson/new-cft-website"
-description = "A new Code for Tucson website."
-git_branch = "master"
+description = "Netlify-based website for Code for Tucson created in July 2022."
+git_branch = "main"
 git_url = "git://github.com/CodeForTucson/new-cft-website.git"
 last_pushed_within = "year"
 name = "new-cft-website"
-open_issues_within = 10
 organization_name = "Code for Tucson"
