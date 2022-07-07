@@ -23,7 +23,7 @@ is_template = false
 language = "JavaScript"
 name = "bats-server"
 node_id = "MDEwOlJlcG9zaXRvcnkyODE1ODU1OTg="
-open_issues_within = 10
+open_issues_within = 100
 private = false
 pushed_within = "week"
 stargazers_within = 10
