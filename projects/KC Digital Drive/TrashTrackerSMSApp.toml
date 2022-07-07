@@ -1,6 +1,6 @@
 code_url = "https://github.com/codeforkansascity/TrashTrackerSMSApp"
 git_url = "git://github.com/codeforkansascity/TrashTrackerSMSApp.git"
-last_commit = "2022-07-06T21:51:48Z"
+last_commit = "2022-07-07T00:35:40Z"
 name = "TrashTrackerSMSApp"
 organization_name = "KC Digital Drive"
 
@@ -23,7 +23,7 @@ is_template = false
 language = "JavaScript"
 name = "TrashTrackerSMSApp"
 node_id = "R_kgDOHe12dw"
-open_issues_within = 0
+open_issues_within = 10
 private = false
 pushed_within = "week"
 stargazers_within = 10
