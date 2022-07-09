@@ -1,7 +1,7 @@
 code_url = "https://github.com/18F/cg-deploy-action"
 description = "Github Action for deploying a cloud.gov application"
 git_url = "git://github.com/18F/cg-deploy-action.git"
-last_commit = "2021-09-08T13:33:02Z"
+last_commit = "2022-07-08T20:09:42Z"
 name = "cg-deploy-action"
 organization_name = "18F"
 
@@ -28,10 +28,10 @@ name = "cg-deploy-action"
 node_id = "MDEwOlJlcG9zaXRvcnkzOTQ3NDA2NTE="
 open_issues_within = 0
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
-updated_within = "year"
+updated_within = "week"
 visibility = "public"
 watchers_within = 10
 web_commit_signoff_required = false

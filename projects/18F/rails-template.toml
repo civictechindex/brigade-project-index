@@ -1,7 +1,7 @@
 code_url = "https://github.com/18F/rails-template"
 description = "18F-flavored Rails app template"
 git_url = "git://github.com/18F/rails-template.git"
-last_commit = "2022-07-06T14:19:42Z"
+last_commit = "2022-07-08T20:30:44Z"
 name = "rails-template"
 organization_name = "18F"
 
@@ -31,7 +31,7 @@ private = false
 pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
-updated_within = "month"
+updated_within = "year"
 visibility = "public"
 watchers_within = 10
 web_commit_signoff_required = false
