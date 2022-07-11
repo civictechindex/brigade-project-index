@@ -1,0 +1,7 @@
+code_url = "https://github.com/18F/identity-workstation"
+description = "Minimal setup tools to get engineers up and running on Login.gov"
+git_branch = "master"
+git_url = "git://github.com/18F/identity-workstation.git"
+last_pushed_within = "week"
+name = "identity-workstation"
+organization_name = "18F"
