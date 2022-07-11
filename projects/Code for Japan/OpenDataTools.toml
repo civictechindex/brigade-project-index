@@ -1,6 +1,6 @@
 code_url = "https://github.com/codeforjapan/OpenDataTools"
 git_url = "git://github.com/codeforjapan/OpenDataTools.git"
-last_commit = "2022-06-17T09:13:17Z"
+last_commit = "2022-07-11T02:31:37Z"
 name = "OpenDataTools"
 organization_name = "Code for Japan"
 
@@ -20,6 +20,7 @@ has_projects = true
 has_wiki = true
 id = 504_467_714
 is_template = false
+language = "TypeScript"
 name = "OpenDataTools"
 node_id = "R_kgDOHhGRAg"
 open_issues_within = 10
