@@ -1,7 +1,7 @@
 code_url = "https://github.com/18F/django-template"
 description = "18F-flavored Django app template"
 git_url = "git://github.com/18F/django-template.git"
-last_commit = "2022-07-08T17:12:10Z"
+last_commit = "2022-07-11T20:19:25Z"
 name = "django-template"
 organization_name = "18F"
 
@@ -30,7 +30,7 @@ private = false
 pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
-updated_within = "month"
+updated_within = "week"
 visibility = "public"
 watchers_within = 10
 web_commit_signoff_required = false
