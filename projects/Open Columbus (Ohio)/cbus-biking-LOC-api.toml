@@ -4,4 +4,5 @@ git_branch = "master"
 git_url = "git://github.com/SCODEMeetup/cbus-biking-LOC-api.git"
 last_pushed_within = "month"
 name = "cbus-biking-LOC-api"
+open_issues_within = 10
 organization_name = "Open Columbus (Ohio)"
