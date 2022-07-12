@@ -1,6 +1,6 @@
 code_url = "https://github.com/uscensusbureau/the-opportunity-project"
 git_url = "git://github.com/uscensusbureau/the-opportunity-project.git"
-last_commit = "2022-07-11T20:41:37Z"
+last_commit = "2022-07-12T18:26:27Z"
 name = "the-opportunity-project"
 organization_name = "US Census Bureau"
 
@@ -28,7 +28,7 @@ private = false
 pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
-updated_within = "week"
+updated_within = "month"
 visibility = "public"
 watchers_within = 10
 web_commit_signoff_required = false
