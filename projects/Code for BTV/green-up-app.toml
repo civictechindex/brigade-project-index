@@ -1,7 +1,7 @@
 code_url = "https://github.com/codeforbtv/green-up-app"
 description = "The Official Mobile App for Green Up Day Vermont"
 git_url = "git://github.com/codeforbtv/green-up-app.git"
-last_commit = "2022-04-07T11:47:58Z"
+last_commit = "2022-07-12T21:39:15Z"
 name = "green-up-app"
 organization_name = "Code for BTV"
 
@@ -26,12 +26,12 @@ is_template = false
 language = "JavaScript"
 name = "green-up-app"
 node_id = "MDEwOlJlcG9zaXRvcnkxMjkzMDk0MzA="
-open_issues_within = 100
+open_issues_within = 10
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 100
 topics = [ ]
-updated_within = "year"
+updated_within = "week"
 visibility = "public"
 watchers_within = 100
 web_commit_signoff_required = false
