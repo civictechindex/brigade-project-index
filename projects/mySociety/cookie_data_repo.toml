@@ -1,7 +1,7 @@
 code_url = "https://github.com/mysociety/cookie_data_repo"
 description = "Cookie Cutter template for jupyter notebook"
 git_url = "git://github.com/mysociety/cookie_data_repo.git"
-last_commit = "2022-06-28T10:17:01Z"
+last_commit = "2022-07-12T15:58:38Z"
 name = "cookie_data_repo"
 organization_name = "mySociety"
 
@@ -27,7 +27,7 @@ name = "cookie_data_repo"
 node_id = "MDEwOlJlcG9zaXRvcnk0MDQzOTc0MTA="
 open_issues_within = 10
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 0
 topics = [ ]
 updated_within = "year"
