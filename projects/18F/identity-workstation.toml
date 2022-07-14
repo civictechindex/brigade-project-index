@@ -1,7 +1,7 @@
 code_url = "https://github.com/18F/identity-workstation"
 description = "Minimal setup tools to get engineers up and running on Login.gov"
 git_url = "git://github.com/18F/identity-workstation.git"
-last_commit = "2022-07-11T18:31:02Z"
+last_commit = "2022-07-13T16:30:34Z"
 name = "identity-workstation"
 organization_name = "18F"
 
@@ -24,7 +24,7 @@ id = 512_868_720
 is_template = false
 name = "identity-workstation"
 node_id = "R_kgDOHpHBcA"
-open_issues_within = 10
+open_issues_within = 0
 private = false
 pushed_within = "week"
 stargazers_within = 0
