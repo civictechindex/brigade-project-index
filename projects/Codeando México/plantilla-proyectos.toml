@@ -1,5 +1,5 @@
 code_url = "https://github.com/CodeandoMexico/plantilla-proyectos"
-description = "Este proyecto es una plantilla de referencia para crear proyectos que van a residir en el GitHub de Codeando México."
+description = "Este repositorio funciona como una plantilla de referencia para crear proyectos que van a residir en el GitHub de Codeando México."
 git_url = "git://github.com/CodeandoMexico/plantilla-proyectos.git"
 last_commit = "2022-07-08T16:21:14Z"
 link_url = "http://www.codeandomexico.org"
@@ -12,7 +12,7 @@ allow_forking = true
 archived = false
 created_at = "2017-09-25T18:47:45Z"
 default_branch = "master"
-description = "Este proyecto es una plantilla de referencia para crear proyectos que van a residir en el GitHub de Codeando México."
+description = "Este repositorio funciona como una plantilla de referencia para crear proyectos que van a residir en el GitHub de Codeando México."
 disabled = false
 fork = false
 forks_within = 10
