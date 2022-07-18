@@ -1,5 +1,5 @@
 code_url = "https://github.com/18F/charlie"
-description = "18F's Slack bot, Charlie. Based on Hubot."
+description = "18F's Slack bot, Charlie. Built on Bolt"
 git_url = "git://github.com/18F/charlie.git"
 last_commit = "2022-07-18T16:09:29Z"
 name = "charlie"
@@ -11,7 +11,7 @@ allow_forking = true
 archived = false
 created_at = "2014-09-18T12:23:35Z"
 default_branch = "main"
-description = "18F's Slack bot, Charlie. Based on Hubot."
+description = "18F's Slack bot, Charlie. Built on Bolt"
 disabled = false
 fork = false
 forks_within = 100
