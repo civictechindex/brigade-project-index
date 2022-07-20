@@ -1,5 +1,5 @@
 code_url = "https://github.com/NYCComptroller/Checkbook"
-last_commit = "2022-07-05T14:23:42Z"
+last_commit = "2022-07-19T19:34:24Z"
 name = "Checkbook"
 organization_name = "Chi Hack Night"
 
@@ -27,7 +27,7 @@ network_count = 18
 node_id = "MDEwOlJlcG9zaXRvcnk5NDgwMTc3"
 open_issues_within = 100
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 100
 subscribers_count = 21
 temp_clone_token = ""
