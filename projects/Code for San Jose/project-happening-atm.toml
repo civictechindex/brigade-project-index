@@ -1,9 +1,9 @@
-code_url = "https://github.com/codeforsanjose/gov-agenda-notifier"
+code_url = "https://github.com/codeforsanjose/project-happening-atm"
 description = "Agenda notifications for local government meetings"
-git_url = "git://github.com/codeforsanjose/gov-agenda-notifier.git"
-last_commit = "2022-05-12T12:44:25Z"
+git_url = "git://github.com/codeforsanjose/project-happening-atm.git"
+last_commit = "2022-07-20T02:00:07Z"
 link_url = "https://gov-agenda-notifier.herokuapp.com/"
-name = "gov-agenda-notifier"
+name = "project-happening-atm"
 organization_name = "Code for San Jose"
 
 [github]
@@ -15,7 +15,7 @@ description = "Agenda notifications for local government meetings"
 disabled = false
 fork = false
 forks_within = 100
-full_name = "codeforsanjose/gov-agenda-notifier"
+full_name = "codeforsanjose/project-happening-atm"
 has_downloads = true
 has_issues = true
 has_pages = false
@@ -25,14 +25,14 @@ homepage = "https://gov-agenda-notifier.herokuapp.com/"
 id = 296_203_553
 is_template = false
 language = "JavaScript"
-name = "gov-agenda-notifier"
+name = "project-happening-atm"
 node_id = "MDEwOlJlcG9zaXRvcnkyOTYyMDM1NTM="
 open_issues_within = 100
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 100
 topics = [ ]
-updated_within = "month"
+updated_within = "week"
 visibility = "public"
 watchers_within = 100
 web_commit_signoff_required = false
