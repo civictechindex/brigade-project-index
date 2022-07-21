@@ -1,0 +1,7 @@
+code_url = "https://github.com/mysociety/procurement_data"
+description = "Data for use in procurement prototyping"
+git_branch = "main"
+git_url = "git://github.com/mysociety/procurement_data.git"
+last_pushed_within = "week"
+name = "procurement_data"
+organization_name = "mySociety"
