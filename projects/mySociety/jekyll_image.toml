@@ -1,0 +1,7 @@
+code_url = "https://github.com/mysociety/jekyll_image"
+description = "Docker image for debugging jekyll and basic python tooling"
+git_branch = "main"
+git_url = "git://github.com/mysociety/jekyll_image.git"
+last_pushed_within = "week"
+name = "jekyll_image"
+organization_name = "mySociety"
