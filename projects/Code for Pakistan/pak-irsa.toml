@@ -1,7 +1,7 @@
 code_url = "https://github.com/codeforpakistan/pak-irsa"
 git_branch = "master"
 git_url = "git://github.com/codeforpakistan/pak-irsa.git"
-last_pushed_within = "month"
+last_pushed_within = "year"
 name = "pak-irsa"
 open_issues_within = 10
 organization_name = "Code for Pakistan"
