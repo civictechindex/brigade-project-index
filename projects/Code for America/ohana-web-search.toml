@@ -1,7 +1,7 @@
 code_url = "https://github.com/codeforamerica/ohana-web-search"
 description = "A mobile-friendly website for finding human and social services in your community"
 git_url = "git://github.com/codeforamerica/ohana-web-search.git"
-last_commit = "2022-07-07T19:15:14Z"
+last_commit = "2022-07-22T15:43:26Z"
 link_url = "http://ohana-web-search-demo.herokuapp.com"
 name = "ohana-web-search"
 organization_name = "Code for America"
@@ -32,7 +32,7 @@ private = false
 pushed_within = "week"
 stargazers_within = 100
 topics = [ ]
-updated_within = "week"
+updated_within = "month"
 visibility = "public"
 watchers_within = 100
 web_commit_signoff_required = false
