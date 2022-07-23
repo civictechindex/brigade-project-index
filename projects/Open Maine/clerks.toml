@@ -1,5 +1,6 @@
 code_url = "https://github.com/OpenMaine/clerks"
 git_url = "git://github.com/OpenMaine/clerks.git"
+last_commit = "2022-07-23T01:02:10Z"
 name = "clerks"
 organization_name = "Open Maine"
 
@@ -19,17 +20,24 @@ has_projects = true
 has_wiki = true
 id = 494_489_905
 is_template = false
+language = "Ruby"
 name = "clerks"
 node_id = "R_kgDOHXlRMQ"
 open_issues_within = 0
 private = false
-pushed_within = "year"
-stargazers_within = 0
+pushed_within = "week"
+stargazers_within = 10
 topics = [ ]
-updated_within = "year"
+updated_within = "week"
 visibility = "public"
-watchers_within = 0
+watchers_within = 10
 web_commit_signoff_required = false
+
+  [github.license]
+  key = "agpl-3.0"
+  name = "GNU Affero General Public License v3.0"
+  node_id = "MDc6TGljZW5zZTE="
+  spdx_id = "AGPL-3.0"
 
   [github.owner]
   gravatar_id = ""
