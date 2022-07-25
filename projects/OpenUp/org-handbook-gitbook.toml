@@ -1,7 +1,7 @@
 code_url = "https://github.com/OpenUpSA/org-handbook-gitbook"
 description = "Synced git repo of our organisational handbook gitbook"
 git_url = "git://github.com/OpenUpSA/org-handbook-gitbook.git"
-last_commit = "2022-04-26T08:50:48Z"
+last_commit = "2022-07-25T15:27:11Z"
 name = "org-handbook-gitbook"
 organization_name = "OpenUp"
 
@@ -26,7 +26,7 @@ name = "org-handbook-gitbook"
 node_id = "MDEwOlJlcG9zaXRvcnkyMzQwNzgyNjQ="
 open_issues_within = 0
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 0
 topics = [ ]
 updated_within = "year"
