@@ -1,7 +1,7 @@
 code_url = "https://github.com/BetaNYC/nyc-boundaries"
 description = " The NYC Boundaries Map – is an open source tool for viewing and querying overlapping administrative boundaries in NYC."
 git_url = "git://github.com/BetaNYC/nyc-boundaries.git"
-last_commit = "2022-07-11T00:40:50Z"
+last_commit = "2022-07-21T17:44:43Z"
 link_url = "https://Boundaries.beta.nyc"
 name = "nyc-boundaries"
 organization_name = "BetaNYC"
@@ -33,7 +33,7 @@ private = false
 pushed_within = "week"
 stargazers_within = 100
 topics = [ "community-districts" ]
-updated_within = "week"
+updated_within = "month"
 visibility = "public"
 watchers_within = 100
 web_commit_signoff_required = false
