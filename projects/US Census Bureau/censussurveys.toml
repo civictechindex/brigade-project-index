@@ -1,7 +1,7 @@
 code_url = "https://github.com/uscensusbureau/censussurveys"
 description = "Census Survey Explorer created for the U.S. Census Bureau that allows users to filter, search, and locate surveys easily as part of my extension for the 2020 Civic Digital Fellowship. "
 git_url = "git://github.com/uscensusbureau/censussurveys.git"
-last_commit = "2021-11-10T16:32:02Z"
+last_commit = "2022-07-26T22:03:58Z"
 link_url = "https://uscensusbureau.github.io/censussurveys/"
 name = "censussurveys"
 organization_name = "US Census Bureau"
@@ -29,7 +29,7 @@ name = "censussurveys"
 node_id = "MDEwOlJlcG9zaXRvcnkzMzgwODQ3ODg="
 open_issues_within = 0
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
 updated_within = "year"
