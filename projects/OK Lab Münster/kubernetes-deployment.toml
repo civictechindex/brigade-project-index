@@ -1,6 +1,6 @@
 code_url = "https://github.com/codeformuenster/kubernetes-deployment"
 git_url = "git://github.com/codeformuenster/kubernetes-deployment.git"
-last_commit = "2021-08-25T11:59:33Z"
+last_commit = "2022-07-26T19:11:50Z"
 name = "kubernetes-deployment"
 organization_name = "OK Lab Münster"
 topics = [
@@ -33,7 +33,7 @@ name = "kubernetes-deployment"
 node_id = "MDEwOlJlcG9zaXRvcnk2OTQ4NDYxNA=="
 open_issues_within = 10
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 100
 topics = [
   "cluster",
@@ -43,7 +43,7 @@ topics = [
   "scaleway",
   "terraform"
 ]
-updated_within = "year"
+updated_within = "week"
 visibility = "public"
 watchers_within = 100
 web_commit_signoff_required = false
