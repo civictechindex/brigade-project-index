@@ -1,6 +1,6 @@
 code_url = "https://github.com/code4romania/paul-api"
 git_url = "git://github.com/code4romania/paul-api.git"
-last_commit = "2022-05-26T12:00:08Z"
+last_commit = "2022-07-27T17:18:05Z"
 name = "paul-api"
 organization_name = "Code for Romania: Iasi Chapter"
 
@@ -8,7 +8,7 @@ organization_name = "Code for Romania: Iasi Chapter"
 allow_forking = true
 archived = false
 created_at = "2020-07-29T07:59:59Z"
-default_branch = "master"
+default_branch = "main"
 disabled = false
 fork = false
 forks_within = 0
@@ -18,6 +18,7 @@ has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = true
+homepage = ""
 id = 283_436_346
 is_template = false
 language = "Python"
@@ -25,10 +26,10 @@ name = "paul-api"
 node_id = "MDEwOlJlcG9zaXRvcnkyODM0MzYzNDY="
 open_issues_within = 10
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 0
 topics = [ ]
-updated_within = "year"
+updated_within = "week"
 visibility = "public"
 watchers_within = 0
 web_commit_signoff_required = false
