@@ -1,7 +1,7 @@
 code_url = "https://github.com/18F/accessibility"
 description = "A repo to organize the guidelines and best practices for accessibility at 18f."
 git_url = "git://github.com/18F/accessibility.git"
-last_commit = "2022-06-22T17:21:09Z"
+last_commit = "2022-07-28T17:46:04Z"
 link_url = "https://accessibility.18f.gov/"
 name = "accessibility"
 organization_name = "18F"
@@ -28,9 +28,9 @@ is_template = false
 language = "HTML"
 name = "accessibility"
 node_id = "MDEwOlJlcG9zaXRvcnkzMDAyNzY1MA=="
-open_issues_within = 100
+open_issues_within = 10
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 1_000
 topics = [ "a11y", "accessibility", "best-practices" ]
 updated_within = "month"
