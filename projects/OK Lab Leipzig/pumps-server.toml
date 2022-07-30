@@ -1,7 +1,7 @@
 code_url = "https://github.com/CodeforLeipzig/pumps-server"
 description = "Management of Leipzig pumps"
 git_url = "git://github.com/CodeforLeipzig/pumps-server.git"
-last_commit = "2022-04-30T11:56:16Z"
+last_commit = "2022-07-30T18:47:31Z"
 name = "pumps-server"
 organization_name = "OK Lab Leipzig"
 
@@ -27,7 +27,7 @@ name = "pumps-server"
 node_id = "R_kgDOG1qdFA"
 open_issues_within = 0
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 0
 topics = [ ]
 updated_within = "year"
