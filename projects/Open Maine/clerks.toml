@@ -1,6 +1,6 @@
 code_url = "https://github.com/OpenMaine/clerks"
 git_url = "git://github.com/OpenMaine/clerks.git"
-last_commit = "2022-07-30T20:19:53Z"
+last_commit = "2022-07-31T18:54:30Z"
 name = "clerks"
 organization_name = "Open Maine"
 
@@ -28,7 +28,7 @@ private = false
 pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
-updated_within = "week"
+updated_within = "month"
 visibility = "public"
 watchers_within = 10
 web_commit_signoff_required = false
