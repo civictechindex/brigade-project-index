@@ -1,7 +1,7 @@
 code_url = "https://github.com/mysociety/mysociety.github.io"
 description = "Dev bucket site"
 git_url = "git://github.com/mysociety/mysociety.github.io.git"
-last_commit = "2020-07-15T08:56:42Z"
+last_commit = "2022-07-25T05:46:51Z"
 link_url = "https://mysociety.github.io/"
 name = "mysociety.github.io"
 organization_name = "mySociety"
@@ -29,10 +29,10 @@ name = "mysociety.github.io"
 node_id = "MDEwOlJlcG9zaXRvcnkxMjU2MTkwMg=="
 open_issues_within = 10
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
-updated_within = "over_a_year"
+updated_within = "week"
 visibility = "public"
 watchers_within = 10
 web_commit_signoff_required = false
