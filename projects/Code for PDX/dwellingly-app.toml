@@ -1,7 +1,7 @@
 code_url = "https://github.com/codeforpdx/dwellingly-app"
 description = "Application for property managers to communicate with social workers"
 git_url = "git://github.com/codeforpdx/dwellingly-app.git"
-last_commit = "2022-07-31T07:25:05Z"
+last_commit = "2022-07-10T08:39:31Z"
 name = "dwellingly-app"
 organization_name = "Code for PDX"
 topics = [
@@ -14,6 +14,7 @@ topics = [
   "frontend",
   "hacktoberfest",
   "javascript",
+  "rails",
   "react",
   "scss"
 ]
@@ -39,7 +40,7 @@ is_template = false
 language = "JavaScript"
 name = "dwellingly-app"
 node_id = "MDEwOlJlcG9zaXRvcnkxODA3MDM2NzM="
-open_issues_within = 100
+open_issues_within = 10
 private = false
 pushed_within = "week"
 stargazers_within = 100
@@ -53,10 +54,11 @@ topics = [
   "frontend",
   "hacktoberfest",
   "javascript",
+  "rails",
   "react",
   "scss"
 ]
-updated_within = "month"
+updated_within = "week"
 visibility = "public"
 watchers_within = 100
 web_commit_signoff_required = false
