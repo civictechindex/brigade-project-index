@@ -35,7 +35,7 @@ id = 162_033_435
 is_template = false
 language = "JavaScript"
 name = "phlask-map"
-network_count = 15
+network_count = 16
 node_id = "MDEwOlJlcG9zaXRvcnkxNjIwMzM0MzU="
 open_issues_within = 100
 private = false
@@ -44,7 +44,7 @@ stargazers_within = 100
 subscribers_count = 13
 temp_clone_token = ""
 topics = [ "docker", "es6", "map", "phlask-map", "reactjs" ]
-updated_within = "week"
+updated_within = "month"
 visibility = "public"
 watchers_within = 100
 web_commit_signoff_required = false
