@@ -33,7 +33,7 @@ name = "kubernetes-deployment"
 node_id = "MDEwOlJlcG9zaXRvcnk2OTQ4NDYxNA=="
 open_issues_within = 10
 private = false
-pushed_within = "week"
+pushed_within = "month"
 stargazers_within = 100
 topics = [
   "cluster",
@@ -43,7 +43,7 @@ topics = [
   "scaleway",
   "terraform"
 ]
-updated_within = "week"
+updated_within = "month"
 visibility = "public"
 watchers_within = 100
 web_commit_signoff_required = false
