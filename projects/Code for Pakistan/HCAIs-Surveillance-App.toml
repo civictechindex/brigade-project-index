@@ -1,7 +1,7 @@
 code_url = "https://github.com/codeforpakistan/HCAIs-Surveillance-App"
 description = "HCAIs Surveillance Mobile App"
 git_url = "git://github.com/codeforpakistan/HCAIs-Surveillance-App.git"
-last_commit = "2022-07-11T13:13:57Z"
+last_commit = "2022-08-03T07:31:23Z"
 name = "HCAIs-Surveillance-App"
 organization_name = "Code for Pakistan"
 
@@ -27,7 +27,7 @@ name = "HCAIs-Surveillance-App"
 node_id = "R_kgDOGqajCg"
 open_issues_within = 100
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 0
 topics = [ ]
 updated_within = "year"
