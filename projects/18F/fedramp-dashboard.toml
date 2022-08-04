@@ -1,7 +1,7 @@
 code_url = "https://github.com/18F/fedramp-dashboard"
 git_branch = "federalist"
 git_url = "git://github.com/18F/fedramp-dashboard.git"
-last_pushed_within = "week"
+last_pushed_within = "month"
 link_url = "https://marketplace.fedramp.gov"
 name = "fedramp-dashboard"
 open_issues_within = 100
