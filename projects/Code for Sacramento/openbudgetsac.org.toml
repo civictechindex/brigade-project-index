@@ -1,7 +1,7 @@
 code_url = "https://github.com/code4sac/openbudgetsac.org"
 description = "Code for Sacramento's Open Budget Project (landing page + D3.js files)"
 git_url = "git://github.com/code4sac/openbudgetsac.org.git"
-last_commit = "2021-12-04T21:23:08Z"
+last_commit = "2022-08-04T02:26:55Z"
 link_url = "http://openbudgetsac.org"
 name = "openbudgetsac.org"
 organization_name = "Code for Sacramento"
@@ -29,7 +29,7 @@ name = "openbudgetsac.org"
 node_id = "MDEwOlJlcG9zaXRvcnk0MzAzNDcxNg=="
 open_issues_within = 10
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 100
 topics = [ ]
 updated_within = "year"
