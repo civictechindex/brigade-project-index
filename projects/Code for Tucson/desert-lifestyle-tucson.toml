@@ -1,7 +1,7 @@
 code_url = "https://github.com/CodeForTucson/desert-lifestyle-tucson"
 description = "A web page for living a desert-adapted lifestyle in Tucson."
 git_url = "git://github.com/CodeForTucson/desert-lifestyle-tucson.git"
-last_commit = "2022-07-09T18:50:09Z"
+last_commit = "2022-08-04T03:20:32Z"
 name = "desert-lifestyle-tucson"
 organization_name = "Code for Tucson"
 
@@ -27,7 +27,7 @@ name = "desert-lifestyle-tucson"
 node_id = "R_kgDOHohnfg"
 open_issues_within = 0
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 0
 topics = [ ]
 updated_within = "month"
