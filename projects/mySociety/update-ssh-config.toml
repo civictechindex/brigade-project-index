@@ -1,6 +1,6 @@
 code_url = "https://github.com/mysociety/update-ssh-config"
 git_url = "git://github.com/mysociety/update-ssh-config.git"
-last_commit = "2022-06-22T12:33:41Z"
+last_commit = "2022-08-04T13:40:40Z"
 link_url = "https://www.mysociety.org/"
 name = "update-ssh-config"
 organization_name = "mySociety"
@@ -27,7 +27,7 @@ name = "update-ssh-config"
 node_id = "R_kgDOHiyWTA"
 open_issues_within = 10
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
 updated_within = "year"
