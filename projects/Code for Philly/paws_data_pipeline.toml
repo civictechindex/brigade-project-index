@@ -27,7 +27,7 @@ id = 216_936_227
 is_template = false
 language = "Python"
 name = "paws-data-pipeline"
-network_count = 5
+network_count = 6
 node_id = "MDEwOlJlcG9zaXRvcnkyMTY5MzYyMjc="
 open_issues_within = 100
 private = false
@@ -36,7 +36,7 @@ stargazers_within = 100
 subscribers_count = 19
 temp_clone_token = ""
 topics = [ ]
-updated_within = "year"
+updated_within = "week"
 visibility = "public"
 watchers_within = 100
 web_commit_signoff_required = false
