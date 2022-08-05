@@ -1,7 +1,7 @@
 code_url = "https://github.com/codeforjapan/mynumbercard_statistics"
 description = "The dashboard of my number card statistics"
 git_url = "git://github.com/codeforjapan/mynumbercard_statistics.git"
-last_commit = "2022-05-17T07:04:22Z"
+last_commit = "2022-08-05T05:57:44Z"
 name = "mynumbercard_statistics"
 organization_name = "Code for Japan"
 
@@ -27,7 +27,7 @@ name = "mynumbercard_statistics"
 node_id = "MDEwOlJlcG9zaXRvcnkyNzcyNjQzOTA="
 open_issues_within = 100
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 100
 topics = [ ]
 updated_within = "year"
