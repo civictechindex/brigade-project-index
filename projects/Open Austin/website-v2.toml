@@ -1,8 +1,8 @@
-code_url = "https://github.com/open-austin/website-2022"
+code_url = "https://github.com/open-austin/website-v2"
 description = "New public-facing website for Open Austin (work in progress)"
-git_url = "git://github.com/open-austin/website-2022.git"
-last_commit = "2022-06-07T17:13:22Z"
-name = "website-2022"
+git_url = "git://github.com/open-austin/website-v2.git"
+last_commit = "2022-08-07T20:03:04Z"
+name = "website-v2"
 organization_name = "Open Austin"
 topics = [
   "chakra-ui",
@@ -22,7 +22,7 @@ description = "New public-facing website for Open Austin (work in progress)"
 disabled = false
 fork = false
 forks_within = 10
-full_name = "open-austin/website-2022"
+full_name = "open-austin/website-v2"
 has_downloads = true
 has_issues = true
 has_pages = false
@@ -32,11 +32,11 @@ homepage = ""
 id = 500_934_063
 is_template = false
 language = "TypeScript"
-name = "website-2022"
+name = "website-v2"
 node_id = "R_kgDOHdulrw"
-open_issues_within = 10
+open_issues_within = 100
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 10
 topics = [
   "chakra-ui",
@@ -46,7 +46,7 @@ topics = [
   "typescript",
   "website"
 ]
-updated_within = "year"
+updated_within = "week"
 visibility = "public"
 watchers_within = 10
 web_commit_signoff_required = false

@@ -1,0 +1,47 @@
+code_url = "https://github.com/open-austin/ywca-anti-displacement"
+git_url = "git://github.com/open-austin/ywca-anti-displacement.git"
+name = "ywca-anti-displacement"
+organization_name = "Open Austin"
+
+[github]
+allow_forking = true
+archived = false
+created_at = "2022-08-07T19:31:54Z"
+default_branch = "main"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "open-austin/ywca-anti-displacement"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+id = 522_305_964
+is_template = false
+name = "ywca-anti-displacement"
+node_id = "R_kgDOHyHBrA"
+open_issues_within = 0
+private = false
+pushed_within = "week"
+stargazers_within = 10
+topics = [ ]
+updated_within = "week"
+visibility = "public"
+watchers_within = 10
+web_commit_signoff_required = false
+
+  [github.owner]
+  gravatar_id = ""
+  id = 970_084
+  login = "open-austin"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjk3MDA4NA=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  maintain = false
+  pull = true
+  push = false
+  triage = false
