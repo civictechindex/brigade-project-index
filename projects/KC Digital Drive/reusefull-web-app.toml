@@ -1,6 +1,6 @@
 code_url = "https://github.com/codeforkansascity/reusefull-web-app"
 git_url = "git://github.com/codeforkansascity/reusefull-web-app.git"
-last_commit = "2022-04-20T15:08:13Z"
+last_commit = "2022-08-07T02:12:05Z"
 name = "reusefull-web-app"
 organization_name = "KC Digital Drive"
 
@@ -20,14 +20,15 @@ has_projects = true
 has_wiki = true
 id = 483_025_356
 is_template = false
+language = "Go"
 name = "reusefull-web-app"
 node_id = "R_kgDOHMphzA"
 open_issues_within = 0
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
-updated_within = "year"
+updated_within = "week"
 visibility = "public"
 watchers_within = 10
 web_commit_signoff_required = false
