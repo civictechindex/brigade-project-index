@@ -1,6 +1,6 @@
 code_url = "https://github.com/codeforjapan/Gussuri"
 git_url = "git://github.com/codeforjapan/Gussuri.git"
-last_commit = "2022-07-25T03:07:46Z"
+last_commit = "2022-08-08T06:45:52Z"
 name = "Gussuri"
 organization_name = "Code for Japan"
 
@@ -25,7 +25,7 @@ name = "Gussuri"
 node_id = "R_kgDOHP3c6Q"
 open_issues_within = 100
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 0
 topics = [ ]
 updated_within = "month"
