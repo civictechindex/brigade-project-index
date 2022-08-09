@@ -1,7 +1,7 @@
 code_url = "https://github.com/openelections/openelections-data-ms"
 description = "Converted CSVs of Mississippi election results"
 git_url = "git://github.com/openelections/openelections-data-ms.git"
-last_commit = "2022-04-17T16:44:22Z"
+last_commit = "2022-08-09T01:08:02Z"
 name = "openelections-data-ms"
 organization_name = "Open Elections"
 
@@ -27,7 +27,7 @@ name = "openelections-data-ms"
 node_id = "MDEwOlJlcG9zaXRvcnkxODkzMTQ5OQ=="
 open_issues_within = 100
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 100
 topics = [ ]
 updated_within = "year"
