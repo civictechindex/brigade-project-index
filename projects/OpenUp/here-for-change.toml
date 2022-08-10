@@ -1,7 +1,7 @@
 code_url = "https://github.com/OpenUpSA/here-for-change"
 description = "A public participation platform at the local level."
 git_url = "git://github.com/OpenUpSA/here-for-change.git"
-last_commit = "2022-08-10T09:21:47Z"
+last_commit = "2022-08-10T11:06:13Z"
 name = "here-for-change"
 organization_name = "OpenUp"
 
@@ -22,15 +22,15 @@ has_projects = true
 has_wiki = true
 id = 520_786_535
 is_template = false
-language = "Python"
+language = "CSS"
 name = "here-for-change"
 node_id = "R_kgDOHwqSZw"
-open_issues_within = 10
+open_issues_within = 0
 private = false
 pushed_within = "week"
 stargazers_within = 0
 topics = [ ]
-updated_within = "month"
+updated_within = "week"
 visibility = "public"
 watchers_within = 0
 web_commit_signoff_required = false
