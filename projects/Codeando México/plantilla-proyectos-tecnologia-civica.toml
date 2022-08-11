@@ -1,9 +1,9 @@
-code_url = "https://github.com/CodeandoMexico/plantilla-proyectos"
+code_url = "https://github.com/CodeandoMexico/plantilla-proyectos-tecnologia-civica"
 description = "Este repositorio funciona como una plantilla de referencia para crear proyectos que van a residir en el GitHub de Codeando México."
 git_branch = "master"
-git_url = "git://github.com/CodeandoMexico/plantilla-proyectos.git"
-last_pushed_within = "year"
+git_url = "git://github.com/CodeandoMexico/plantilla-proyectos-tecnologia-civica.git"
+last_pushed_within = "week"
 link_url = "http://www.codeandomexico.org"
-name = "plantilla-proyectos"
+name = "plantilla-proyectos-tecnologia-civica"
 organization_name = "Codeando México"
 topics = [ "civic-tech", "codeando-mexico", "tecnologia-civica" ]
