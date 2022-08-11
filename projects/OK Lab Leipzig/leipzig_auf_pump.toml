@@ -14,7 +14,7 @@ default_branch = "main"
 description = "Handschwengelpumpenstandorte in Leipzig und ihre Status"
 disabled = false
 fork = false
-forks_within = 0
+forks_within = 10
 full_name = "CodeforLeipzig/leipzig_auf_pump"
 has_downloads = true
 has_issues = true
@@ -27,7 +27,7 @@ is_template = false
 language = "Kotlin"
 name = "leipzig_auf_pump"
 node_id = "MDEwOlJlcG9zaXRvcnkzOTg1MzMzMTU="
-open_issues_within = 0
+open_issues_within = 10
 private = false
 pushed_within = "week"
 stargazers_within = 10
