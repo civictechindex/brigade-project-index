@@ -1,7 +1,7 @@
 code_url = "https://github.com/18F/identity-device-id-demo"
 description = "Small demo app using vendor device identification APIs."
 git_url = "git://github.com/18F/identity-device-id-demo.git"
-last_commit = "2022-07-28T16:48:51Z"
+last_commit = "2022-08-11T21:37:27Z"
 name = "identity-device-id-demo"
 organization_name = "18F"
 
@@ -27,7 +27,7 @@ name = "identity-device-id-demo"
 node_id = "R_kgDOHuPi3w"
 open_issues_within = 0
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 0
 topics = [ ]
 updated_within = "month"
