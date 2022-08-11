@@ -1,7 +1,7 @@
 code_url = "https://github.com/CodeandoMexico/comunidad"
 description = "¡Empieza aquí! Documentación y discusión general sobre principios y prácticas de la comunidad de Codeando México. "
 git_url = "git://github.com/CodeandoMexico/comunidad.git"
-last_commit = "2022-07-15T18:45:26Z"
+last_commit = "2022-08-11T17:42:16Z"
 name = "comunidad"
 organization_name = "Codeando México"
 
@@ -27,7 +27,7 @@ name = "comunidad"
 node_id = "MDEwOlJlcG9zaXRvcnk5MzgwMTQ1Nw=="
 open_issues_within = 0
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 100
 topics = [ ]
 updated_within = "month"
