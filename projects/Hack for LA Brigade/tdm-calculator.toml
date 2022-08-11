@@ -4,7 +4,7 @@ git_branch = "develop"
 git_url = "git://github.com/hackforla/tdm-calculator.git"
 last_pushed_within = "week"
 name = "tdm-calculator"
-open_issues_within = 1_000
+open_issues_within = 100
 organization_name = "Hack for LA Brigade"
 topics = [
   "civictechindex",
