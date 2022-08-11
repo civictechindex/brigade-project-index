@@ -1,7 +1,7 @@
 code_url = "https://github.com/open-austin/lobbying-in-austin"
 description = "Visualization of Austin lobbyist registrations"
 git_url = "git://github.com/open-austin/lobbying-in-austin.git"
-last_commit = "2020-11-19T09:26:20Z"
+last_commit = "2022-08-11T00:18:07Z"
 name = "lobbying-in-austin"
 organization_name = "Open Austin"
 
@@ -31,7 +31,7 @@ private = false
 pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
-updated_within = "year"
+updated_within = "week"
 visibility = "public"
 watchers_within = 10
 web_commit_signoff_required = false
