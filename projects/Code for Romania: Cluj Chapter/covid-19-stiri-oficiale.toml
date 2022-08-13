@@ -1,8 +1,8 @@
 code_url = "https://github.com/code4romania/covid-19-stiri-oficiale"
 description = "Platform which centralizes all the official press releases, press conferences and decisions of the Committee for Special Emergency Situations"
 git_url = "git://github.com/code4romania/covid-19-stiri-oficiale.git"
-last_commit = "2022-06-11T20:27:14Z"
-link_url = "https://stirioficiale.ro"
+last_commit = "2022-08-12T10:11:11Z"
+link_url = "https://covid19.stirioficiale.ro"
 name = "covid-19-stiri-oficiale"
 organization_name = "Code for Romania: Cluj Chapter"
 topics = [
@@ -29,15 +29,15 @@ has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = false
-homepage = "https://stirioficiale.ro"
+homepage = "https://covid19.stirioficiale.ro"
 id = 246_918_847
 is_template = false
 language = "PHP"
 name = "covid-19-stiri-oficiale"
 node_id = "MDEwOlJlcG9zaXRvcnkyNDY5MTg4NDc="
-open_issues_within = 10
+open_issues_within = 0
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 100
 topics = [
   "alpinejs",
@@ -47,7 +47,7 @@ topics = [
   "php",
   "tailwindcss"
 ]
-updated_within = "year"
+updated_within = "week"
 visibility = "public"
 watchers_within = 100
 web_commit_signoff_required = false
