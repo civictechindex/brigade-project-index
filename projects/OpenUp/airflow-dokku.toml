@@ -1,0 +1,7 @@
+code_url = "https://github.com/OpenUpSA/airflow-dokku"
+description = "Deploy airflow on dokku"
+git_branch = "main"
+git_url = "git://github.com/OpenUpSA/airflow-dokku.git"
+last_pushed_within = "week"
+name = "airflow-dokku"
+organization_name = "OpenUp"

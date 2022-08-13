@@ -1,0 +1,7 @@
+code_url = "https://github.com/OpenUpSA/airflow-dags"
+description = "Repository of airflow DAGs for OpenUp"
+git_branch = "main"
+git_url = "git://github.com/OpenUpSA/airflow-dags.git"
+last_pushed_within = "week"
+name = "airflow-dags"
+organization_name = "OpenUp"
