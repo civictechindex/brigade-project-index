@@ -1,30 +1,30 @@
-code_url = "https://github.com/OpenUpSA/airflow-dokku"
-description = "Deploy airflow on dokku"
-git_url = "git://github.com/OpenUpSA/airflow-dokku.git"
-last_commit = "2022-08-13T21:54:37Z"
-name = "airflow-dokku"
+code_url = "https://github.com/OpenUpSA/terraform-config"
+description = "Initial experiment using terraform to manage AWS resources"
+git_url = "git://github.com/OpenUpSA/terraform-config.git"
+last_commit = "2022-08-13T21:52:23Z"
+name = "terraform-config"
 organization_name = "OpenUp"
 
 [github]
 allow_forking = true
 archived = false
-created_at = "2022-08-12T18:49:02Z"
-default_branch = "main"
-description = "Deploy airflow on dokku"
+created_at = "2022-08-13T21:24:08Z"
+default_branch = "master"
+description = "Initial experiment using terraform to manage AWS resources"
 disabled = false
 fork = false
 forks_within = 0
-full_name = "OpenUpSA/airflow-dokku"
+full_name = "OpenUpSA/terraform-config"
 has_downloads = true
 has_issues = true
 has_pages = false
-has_projects = false
-has_wiki = false
-id = 524_193_119
+has_projects = true
+has_wiki = true
+id = 524_511_043
 is_template = false
-language = "Dockerfile"
-name = "airflow-dokku"
-node_id = "R_kgDOHz6NXw"
+language = "HCL"
+name = "terraform-config"
+node_id = "R_kgDOH0NnQw"
 open_issues_within = 0
 private = false
 pushed_within = "week"
@@ -34,12 +34,6 @@ updated_within = "week"
 visibility = "public"
 watchers_within = 0
 web_commit_signoff_required = false
-
-  [github.license]
-  key = "mit"
-  name = "MIT License"
-  node_id = "MDc6TGljZW5zZTEz"
-  spdx_id = "MIT"
 
   [github.owner]
   gravatar_id = ""
