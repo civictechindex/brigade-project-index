@@ -1,7 +1,7 @@
 code_url = "https://github.com/open-austin/ywca-anti-displacement"
 git_branch = "main"
 git_url = "git://github.com/open-austin/ywca-anti-displacement.git"
-last_pushed_within = "week"
+last_pushed_within = "month"
 name = "ywca-anti-displacement"
 open_issues_within = 10
 organization_name = "Open Austin"
