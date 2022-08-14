@@ -1,7 +1,7 @@
 code_url = "https://github.com/OpenUpSA/terraform-config"
 description = "Initial experiment using terraform to manage AWS resources"
 git_url = "git://github.com/OpenUpSA/terraform-config.git"
-last_commit = "2022-08-13T21:52:23Z"
+last_commit = "2022-08-14T10:20:23Z"
 name = "terraform-config"
 organization_name = "OpenUp"
 

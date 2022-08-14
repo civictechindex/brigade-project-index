@@ -1,7 +1,7 @@
 code_url = "https://github.com/OpenUpSA/airflow-dokku"
 description = "Deploy airflow on dokku"
 git_url = "git://github.com/OpenUpSA/airflow-dokku.git"
-last_commit = "2022-08-13T21:54:37Z"
+last_commit = "2022-08-14T15:39:25Z"
 name = "airflow-dokku"
 organization_name = "OpenUp"
 
