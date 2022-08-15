@@ -1,7 +1,7 @@
 code_url = "https://github.com/18F/identity-pki"
 description = "Support PIV/CAC with identity-idp"
 git_url = "git://github.com/18F/identity-pki.git"
-last_commit = "2022-08-03T18:02:49Z"
+last_commit = "2022-08-15T13:33:26Z"
 name = "identity-pki"
 organization_name = "18F"
 topics = [ "login-gov" ]
@@ -28,7 +28,7 @@ name = "identity-pki"
 node_id = "MDEwOlJlcG9zaXRvcnkxMjg4MTAyMTQ="
 open_issues_within = 10
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 100
 topics = [ "login-gov" ]
 updated_within = "year"
