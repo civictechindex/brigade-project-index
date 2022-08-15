@@ -1,7 +1,7 @@
 code_url = "https://github.com/codeforjapan/decidim-module-term_customizer"
 description = "Decidim module that allows customizing the localization terms in the system for specific contexts."
 git_url = "git://github.com/codeforjapan/decidim-module-term_customizer.git"
-last_commit = "2022-02-09T11:45:25Z"
+last_commit = "2022-05-13T08:19:50Z"
 name = "decidim-module-term_customizer"
 organization_name = "Code for Japan"
 
@@ -22,14 +22,15 @@ has_projects = true
 has_wiki = false
 id = 481_892_555
 is_template = false
+language = "Ruby"
 name = "decidim-module-term_customizer"
 node_id = "R_kgDOHLkYyw"
 open_issues_within = 0
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 0
 topics = [ ]
-updated_within = "year"
+updated_within = "week"
 visibility = "public"
 watchers_within = 0
 web_commit_signoff_required = false
