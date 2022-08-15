@@ -1,7 +1,7 @@
 code_url = "https://github.com/CodeforLeipzig/leipzig_auf_pump"
 description = "Handschwengelpumpenstandorte in Leipzig und ihre Status"
 git_url = "git://github.com/CodeforLeipzig/leipzig_auf_pump.git"
-last_commit = "2022-08-13T19:32:53Z"
+last_commit = "2022-08-15T07:33:36Z"
 link_url = "https://codeforleipzig.github.io/leipzig_auf_pump/"
 name = "leipzig_auf_pump"
 organization_name = "OK Lab Leipzig"
@@ -27,7 +27,7 @@ is_template = false
 language = "Kotlin"
 name = "leipzig_auf_pump"
 node_id = "MDEwOlJlcG9zaXRvcnkzOTg1MzMzMTU="
-open_issues_within = 10
+open_issues_within = 0
 private = false
 pushed_within = "week"
 stargazers_within = 10
