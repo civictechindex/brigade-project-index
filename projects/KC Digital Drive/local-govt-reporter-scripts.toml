@@ -1,6 +1,6 @@
 code_url = "https://github.com/codeforkansascity/local-govt-reporter-scripts"
 git_url = "git://github.com/codeforkansascity/local-govt-reporter-scripts.git"
-last_commit = "2021-11-23T14:35:15Z"
+last_commit = "2022-08-16T19:55:58Z"
 name = "local-govt-reporter-scripts"
 organization_name = "KC Digital Drive"
 
@@ -25,7 +25,7 @@ name = "local-govt-reporter-scripts"
 node_id = "MDEwOlJlcG9zaXRvcnkzMTczODI4MDE="
 open_issues_within = 0
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 0
 topics = [ ]
 updated_within = "year"
