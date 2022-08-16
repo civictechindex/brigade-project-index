@@ -1,7 +1,7 @@
 code_url = "https://github.com/18F/ux-guide"
 description = "Resources, norms, and practices for doing user experience research and design work at 18F."
 git_url = "git://github.com/18F/ux-guide.git"
-last_commit = "2022-06-22T14:41:07Z"
+last_commit = "2022-08-16T17:44:16Z"
 name = "ux-guide"
 organization_name = "18F"
 
@@ -28,7 +28,7 @@ name = "ux-guide"
 node_id = "MDEwOlJlcG9zaXRvcnkxMzgwOTI4MDE="
 open_issues_within = 100
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 100
 topics = [ ]
 updated_within = "year"
