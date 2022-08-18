@@ -1,7 +1,7 @@
 code_url = "https://github.com/CodeForAfrica/sensors.AFRICA-api-Data-AirQO"
 description = "A serverless python application that pulls airqo data and push them to sensors.AFRICA api"
 git_url = "git://github.com/CodeForAfrica/sensors.AFRICA-api-Data-AirQO.git"
-last_commit = "2021-01-29T10:22:01Z"
+last_commit = "2022-08-17T06:55:04Z"
 name = "sensors.AFRICA-api-Data-AirQO"
 organization_name = "Code for Nigeria"
 
@@ -28,10 +28,10 @@ name = "sensors.AFRICA-api-Data-AirQO"
 node_id = "MDEwOlJlcG9zaXRvcnkzMjEyOTE3MDk="
 open_issues_within = 0
 private = false
-pushed_within = "over_a_year"
+pushed_within = "week"
 stargazers_within = 0
 topics = [ ]
-updated_within = "over_a_year"
+updated_within = "week"
 visibility = "public"
 watchers_within = 0
 web_commit_signoff_required = false
