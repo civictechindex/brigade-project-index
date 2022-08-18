@@ -1,7 +1,7 @@
 code_url = "https://github.com/OpenUpSA/airflow-dags"
 description = "Repository of airflow DAGs for OpenUp"
 git_url = "git://github.com/OpenUpSA/airflow-dags.git"
-last_commit = "2022-08-16T08:10:12Z"
+last_commit = "2022-08-18T09:02:35Z"
 name = "airflow-dags"
 organization_name = "OpenUp"
 
