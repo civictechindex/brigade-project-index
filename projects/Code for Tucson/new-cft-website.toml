@@ -1,7 +1,7 @@
 code_url = "https://github.com/CodeForTucson/new-cft-website"
 description = "Netlify-based website for Code for Tucson created in July 2022."
 git_url = "git://github.com/CodeForTucson/new-cft-website.git"
-last_commit = "2022-08-10T00:29:53Z"
+last_commit = "2022-08-18T03:40:55Z"
 name = "new-cft-website"
 organization_name = "Code for Tucson"
 
@@ -22,15 +22,15 @@ has_projects = true
 has_wiki = true
 id = 511_351_328
 is_template = false
-language = "CSS"
+language = "Nunjucks"
 name = "new-cft-website"
 node_id = "R_kgDOHnqaIA"
 open_issues_within = 0
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 0
 topics = [ ]
-updated_within = "month"
+updated_within = "week"
 visibility = "public"
 watchers_within = 0
 web_commit_signoff_required = false
