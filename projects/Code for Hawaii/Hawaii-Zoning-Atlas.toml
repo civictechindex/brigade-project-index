@@ -1,5 +1,6 @@
 code_url = "https://github.com/CodeforHawaii/Hawaii-Zoning-Atlas"
 git_url = "git://github.com/CodeforHawaii/Hawaii-Zoning-Atlas.git"
+last_commit = "2022-08-19T03:31:53Z"
 name = "Hawaii-Zoning-Atlas"
 organization_name = "Code for Hawaii"
 
@@ -23,10 +24,10 @@ name = "Hawaii-Zoning-Atlas"
 node_id = "R_kgDOHw4u-Q"
 open_issues_within = 10
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 0
 topics = [ ]
-updated_within = "month"
+updated_within = "week"
 visibility = "public"
 watchers_within = 0
 web_commit_signoff_required = false
