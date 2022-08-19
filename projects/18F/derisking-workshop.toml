@@ -1,7 +1,7 @@
 code_url = "https://github.com/18F/derisking-workshop"
 description = "Supplemental materials for workshops "
 git_url = "git://github.com/18F/derisking-workshop.git"
-last_commit = "2022-08-18T20:58:34Z"
+last_commit = "2022-08-19T20:40:31Z"
 name = "derisking-workshop"
 organization_name = "18F"
 
@@ -17,7 +17,7 @@ forks_within = 0
 full_name = "18F/derisking-workshop"
 has_downloads = true
 has_issues = true
-has_pages = false
+has_pages = true
 has_projects = true
 has_wiki = true
 id = 523_065_609
