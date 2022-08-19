@@ -1,6 +1,6 @@
 code_url = "https://github.com/g0v/10v-points"
 git_url = "git://github.com/g0v/10v-points.git"
-last_commit = "2022-08-17T10:45:57Z"
+last_commit = "2022-08-19T09:10:03Z"
 name = "10v-points"
 organization_name = "g0v.tw"
 
@@ -15,12 +15,12 @@ forks_within = 0
 full_name = "g0v/10v-points"
 has_downloads = true
 has_issues = true
-has_pages = false
+has_pages = true
 has_projects = true
 has_wiki = true
 id = 525_745_027
 is_template = false
-language = "JavaScript"
+language = "Svelte"
 name = "10v-points"
 node_id = "R_kgDOH1Y7gw"
 open_issues_within = 0
