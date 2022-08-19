@@ -1,7 +1,7 @@
 code_url = "https://github.com/CodeForAfrica/web-tools"
 description = "The shared repository for Media Cloud web apps (Explorer, Source Manager, Topic Mapper)"
 git_url = "git://github.com/CodeForAfrica/web-tools.git"
-last_commit = "2022-02-23T12:33:09Z"
+last_commit = "2022-02-23T12:49:01Z"
 link_url = "https://tools.mediacloud.org"
 name = "web-tools"
 organization_name = "Code for Ghana"
@@ -29,7 +29,7 @@ name = "web-tools"
 node_id = "MDEwOlJlcG9zaXRvcnkzMTQ0MjcxODE="
 open_issues_within = 0
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 0
 topics = [ ]
 updated_within = "year"
