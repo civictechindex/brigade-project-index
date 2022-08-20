@@ -4,3 +4,58 @@ last_commit = "2016-12-13T22:58:17Z"
 name = "Housing Platform"
 organization_name = "OpenSMC"
 status = "In Progress"
+
+[github]
+allow_forking = true
+archived = false
+created_at = "2016-08-24T01:52:10Z"
+default_branch = "master"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "opensmc/housing-platform"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+id = 66_419_126
+is_template = false
+language = "Python"
+name = "housing-platform"
+network_count = 1
+node_id = "MDEwOlJlcG9zaXRvcnk2NjQxOTEyNg=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+subscribers_count = 11
+temp_clone_token = ""
+topics = [ ]
+updated_within = "over_a_year"
+visibility = "public"
+watchers_within = 10
+web_commit_signoff_required = false
+
+  [github.organization]
+  gravatar_id = ""
+  id = 16_023_997
+  login = "opensmc"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE2MDIzOTk3"
+  site_admin = false
+  type = "Organization"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 16_023_997
+  login = "opensmc"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE2MDIzOTk3"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  maintain = false
+  pull = true
+  push = false
+  triage = false
