@@ -1,7 +1,7 @@
 code_url = "https://github.com/codefordayton/codeofconduct"
 description = "Code for America's Code of Conduct"
 git_url = "git://github.com/codefordayton/codeofconduct.git"
-last_commit = "2017-09-30T01:49:57Z"
+last_commit = "2020-09-22T21:04:35Z"
 name = "codeofconduct"
 organization_name = "Code for Dayton"
 
@@ -27,10 +27,10 @@ name = "codeofconduct"
 node_id = "MDEwOlJlcG9zaXRvcnkyODA1ODUwNw=="
 open_issues_within = 0
 private = false
-pushed_within = "over_a_year"
+pushed_within = "week"
 stargazers_within = 0
 topics = [ ]
-updated_within = "over_a_year"
+updated_within = "week"
 visibility = "public"
 watchers_within = 0
 web_commit_signoff_required = false
