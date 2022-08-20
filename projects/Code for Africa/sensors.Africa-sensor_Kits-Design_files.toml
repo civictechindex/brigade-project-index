@@ -1,8 +1,8 @@
-code_url = "https://github.com/CodeForAfrica/sensors.Africa-sensor_Kits-Enclosure"
+code_url = "https://github.com/CodeForAfrica/sensors.Africa-sensor_Kits-Design_files"
 description = "Design Files for enclosures to sensors.Africa sensor kits"
-git_url = "git://github.com/CodeForAfrica/sensors.Africa-sensor_Kits-Enclosure.git"
-last_commit = "2022-08-19T11:15:19Z"
-name = "sensors.Africa-sensor_Kits-Enclosure"
+git_url = "git://github.com/CodeForAfrica/sensors.Africa-sensor_Kits-Design_files.git"
+last_commit = "2022-08-19T14:10:06Z"
+name = "sensors.Africa-sensor_Kits-Design_files"
 organization_name = "Code for Africa"
 
 [github]
@@ -14,7 +14,7 @@ description = "Design Files for enclosures to sensors.Africa sensor kits"
 disabled = false
 fork = false
 forks_within = 0
-full_name = "CodeForAfrica/sensors.Africa-sensor_Kits-Enclosure"
+full_name = "CodeForAfrica/sensors.Africa-sensor_Kits-Design_files"
 has_downloads = true
 has_issues = true
 has_pages = false
@@ -23,7 +23,7 @@ has_wiki = true
 homepage = ""
 id = 526_572_870
 is_template = false
-name = "sensors.Africa-sensor_Kits-Enclosure"
+name = "sensors.Africa-sensor_Kits-Design_files"
 node_id = "R_kgDOH2LdRg"
 open_issues_within = 0
 private = false
