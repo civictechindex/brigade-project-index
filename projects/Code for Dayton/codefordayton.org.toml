@@ -1,30 +1,30 @@
-code_url = "https://github.com/codefordayton/codeofconduct"
-description = "Code for America's Code of Conduct"
-git_url = "git://github.com/codefordayton/codeofconduct.git"
-last_commit = "2022-08-20T21:12:53Z"
-name = "codeofconduct"
+code_url = "https://github.com/codefordayton/codefordayton.org"
+description = "Current (as of 2022) Code For Dayton website."
+git_url = "git://github.com/codefordayton/codefordayton.org.git"
+last_commit = "2022-08-20T22:02:26Z"
+name = "codefordayton.org"
 organization_name = "Code for Dayton"
 
 [github]
 allow_forking = true
 archived = false
-created_at = "2014-12-15T22:06:29Z"
-default_branch = "master"
-description = "Code for America's Code of Conduct"
+created_at = "2022-08-20T21:59:46Z"
+default_branch = "main"
+description = "Current (as of 2022) Code For Dayton website."
 disabled = false
-fork = true
+fork = false
 forks_within = 0
-full_name = "codefordayton/codeofconduct"
+full_name = "codefordayton/codefordayton.org"
 has_downloads = true
-has_issues = false
-has_pages = false
+has_issues = true
+has_pages = true
 has_projects = true
 has_wiki = true
-homepage = ""
-id = 28_058_507
+id = 527_048_776
 is_template = false
-name = "codeofconduct"
-node_id = "MDEwOlJlcG9zaXRvcnkyODA1ODUwNw=="
+language = "HTML"
+name = "codefordayton.org"
+node_id = "R_kgDOH2ogSA"
 open_issues_within = 0
 private = false
 pushed_within = "week"
@@ -34,6 +34,12 @@ updated_within = "week"
 visibility = "public"
 watchers_within = 0
 web_commit_signoff_required = false
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
 
   [github.owner]
   gravatar_id = ""
