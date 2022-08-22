@@ -11,7 +11,7 @@ created_at = "2022-02-08T19:44:58Z"
 default_branch = "main"
 disabled = false
 fork = false
-forks_within = 0
+forks_within = 10
 full_name = "codeforUV/ruralnetv2"
 has_downloads = true
 has_issues = true
@@ -26,11 +26,11 @@ node_id = "R_kgDOGz575g"
 open_issues_within = 10
 private = false
 pushed_within = "week"
-stargazers_within = 0
+stargazers_within = 10
 topics = [ ]
-updated_within = "year"
+updated_within = "week"
 visibility = "public"
-watchers_within = 0
+watchers_within = 10
 web_commit_signoff_required = false
 
   [github.owner]
