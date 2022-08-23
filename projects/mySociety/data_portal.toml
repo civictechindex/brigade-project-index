@@ -1,7 +1,7 @@
 code_url = "https://github.com/mysociety/data_portal"
 description = "Jekyll site for data.mysociety.org"
 git_url = "git://github.com/mysociety/data_portal.git"
-last_commit = "2022-07-22T16:14:24Z"
+last_commit = "2022-08-22T14:29:11Z"
 link_url = "https://data.mysociety.org"
 name = "data_portal"
 organization_name = "mySociety"
@@ -29,7 +29,7 @@ name = "data_portal"
 node_id = "R_kgDOHs1mGQ"
 open_issues_within = 0
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 0
 topics = [ ]
 updated_within = "year"
