@@ -43,7 +43,7 @@ topics = [
   "python",
   "python-library"
 ]
-updated_within = "month"
+updated_within = "week"
 visibility = "public"
 watchers_within = "over_1000"
 web_commit_signoff_required = false
