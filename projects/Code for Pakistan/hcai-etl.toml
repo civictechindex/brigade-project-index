@@ -1,5 +1,6 @@
 code_url = "https://github.com/codeforpakistan/hcai-etl"
 git_url = "git://github.com/codeforpakistan/hcai-etl.git"
+last_commit = "2022-08-23T11:02:26Z"
 name = "hcai-etl"
 organization_name = "Code for Pakistan"
 
@@ -19,6 +20,7 @@ has_projects = true
 has_wiki = true
 id = 527_578_663
 is_template = false
+language = "Python"
 name = "hcai-etl"
 node_id = "R_kgDOH3I2Jw"
 open_issues_within = 0
