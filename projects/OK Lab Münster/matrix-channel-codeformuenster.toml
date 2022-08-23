@@ -1,7 +1,7 @@
 code_url = "https://github.com/codeformuenster/matrix-channel-codeformuenster"
 description = "Iframe, der den Inhalt aus unserem Matrix-Channel auf der CodeForMünster Homepage anzeigt."
 git_url = "git://github.com/codeformuenster/matrix-channel-codeformuenster.git"
-last_commit = "2022-06-18T14:04:50Z"
+last_commit = "2022-08-23T18:48:51Z"
 name = "matrix-channel-codeformuenster"
 organization_name = "OK Lab Münster"
 
@@ -27,7 +27,7 @@ name = "matrix-channel-codeformuenster"
 node_id = "R_kgDOHgKITg"
 open_issues_within = 0
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 0
 topics = [ ]
 updated_within = "year"
