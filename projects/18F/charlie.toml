@@ -4,6 +4,6 @@ git_branch = "main"
 git_url = "git://github.com/18F/charlie.git"
 last_pushed_within = "week"
 name = "charlie"
-open_issues_within = 10
+open_issues_within = 100
 organization_name = "18F"
 topics = [ "maintained" ]
