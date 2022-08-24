@@ -1,16 +1,17 @@
 code_url = "https://github.com/mysociety/python-data-auto-template"
-description = "Cookie Cutter template for jupyter notebook"
+description = "Cookie Cutter template for mySociety data projects"
 git_url = "git://github.com/mysociety/python-data-auto-template.git"
-last_commit = "2022-08-24T12:53:41Z"
+last_commit = "2022-08-24T13:31:44Z"
 name = "python-data-auto-template"
 organization_name = "mySociety"
+topics = [ "cookiecutter", "template" ]
 
 [github]
 allow_forking = true
 archived = false
 created_at = "2021-09-08T15:20:57Z"
 default_branch = "main"
-description = "Cookie Cutter template for jupyter notebook"
+description = "Cookie Cutter template for mySociety data projects"
 disabled = false
 fork = false
 forks_within = 0
@@ -20,6 +21,7 @@ has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = true
+homepage = ""
 id = 404_397_410
 is_template = true
 language = "Python"
@@ -29,7 +31,7 @@ open_issues_within = 10
 private = false
 pushed_within = "week"
 stargazers_within = 0
-topics = [ ]
+topics = [ "cookiecutter", "template" ]
 updated_within = "week"
 visibility = "public"
 watchers_within = 0
