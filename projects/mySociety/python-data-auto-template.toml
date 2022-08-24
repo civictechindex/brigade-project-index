@@ -1,8 +1,8 @@
-code_url = "https://github.com/mysociety/cookie_data_repo"
+code_url = "https://github.com/mysociety/python-data-auto-template"
 description = "Cookie Cutter template for jupyter notebook"
-git_url = "git://github.com/mysociety/cookie_data_repo.git"
-last_commit = "2022-07-12T15:58:38Z"
-name = "cookie_data_repo"
+git_url = "git://github.com/mysociety/python-data-auto-template.git"
+last_commit = "2022-08-24T09:45:42Z"
+name = "python-data-auto-template"
 organization_name = "mySociety"
 
 [github]
@@ -14,23 +14,23 @@ description = "Cookie Cutter template for jupyter notebook"
 disabled = false
 fork = false
 forks_within = 0
-full_name = "mysociety/cookie_data_repo"
+full_name = "mysociety/python-data-auto-template"
 has_downloads = true
 has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = true
 id = 404_397_410
-is_template = false
+is_template = true
 language = "Python"
-name = "cookie_data_repo"
+name = "python-data-auto-template"
 node_id = "MDEwOlJlcG9zaXRvcnk0MDQzOTc0MTA="
 open_issues_within = 10
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 0
 topics = [ ]
-updated_within = "year"
+updated_within = "week"
 visibility = "public"
 watchers_within = 0
 web_commit_signoff_required = false
