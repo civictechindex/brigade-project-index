@@ -1,7 +1,7 @@
 code_url = "https://github.com/18F/methods"
 description = "The methods 18F uses to practice human-centered design."
 git_url = "git://github.com/18F/methods.git"
-last_commit = "2022-08-24T16:32:49Z"
+last_commit = "2022-08-24T22:55:53Z"
 link_url = "https://methods.18f.gov/"
 name = "methods"
 organization_name = "18F"
@@ -28,12 +28,12 @@ is_template = false
 language = "SCSS"
 name = "methods"
 node_id = "MDEwOlJlcG9zaXRvcnkzNDM1NDg1OQ=="
-open_issues_within = 100
+open_issues_within = 10
 private = false
 pushed_within = "week"
 stargazers_within = 1_000
 topics = [ "design", "design-methods", "guide", "human-centered-design" ]
-updated_within = "year"
+updated_within = "week"
 visibility = "public"
 watchers_within = 1_000
 web_commit_signoff_required = false
