@@ -1,7 +1,8 @@
 code_url = "https://github.com/mysociety/uk_ruc"
 description = "Unified rural/urban classification for whole UK"
 git_url = "git://github.com/mysociety/uk_ruc.git"
-last_commit = "2022-08-25T13:06:37Z"
+last_commit = "2022-08-25T14:06:27Z"
+link_url = "https://mysociety.github.io/uk_ruc/"
 name = "uk_ruc"
 organization_name = "mySociety"
 
@@ -20,6 +21,7 @@ has_issues = true
 has_pages = true
 has_projects = true
 has_wiki = true
+homepage = "https://mysociety.github.io/uk_ruc/"
 id = 341_612_879
 is_template = false
 language = "Jupyter Notebook"
