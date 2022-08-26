@@ -1,7 +1,7 @@
 code_url = "https://github.com/OpenUpSA/import-webflow-export"
 description = "Import a Webflow export repeatably."
 git_url = "git://github.com/OpenUpSA/import-webflow-export.git"
-last_commit = "2020-11-20T15:05:57Z"
+last_commit = "2022-08-26T11:48:02Z"
 name = "import-webflow-export"
 organization_name = "OpenUp"
 
@@ -27,10 +27,10 @@ name = "import-webflow-export"
 node_id = "MDEwOlJlcG9zaXRvcnkyOTk1NjE3OTc="
 open_issues_within = 10
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
-updated_within = "year"
+updated_within = "week"
 visibility = "public"
 watchers_within = 10
 web_commit_signoff_required = false
