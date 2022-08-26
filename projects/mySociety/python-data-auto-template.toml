@@ -1,7 +1,7 @@
 code_url = "https://github.com/mysociety/python-data-auto-template"
 description = "Cookie Cutter template for mySociety data projects"
 git_url = "git://github.com/mysociety/python-data-auto-template.git"
-last_commit = "2022-08-24T13:31:44Z"
+last_commit = "2022-08-26T07:02:37Z"
 name = "python-data-auto-template"
 organization_name = "mySociety"
 topics = [ "cookiecutter", "template" ]
