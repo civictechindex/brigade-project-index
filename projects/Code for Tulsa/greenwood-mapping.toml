@@ -1,7 +1,7 @@
 code_url = "https://github.com/codefortulsa/greenwood-mapping"
 description = "A project to create an online map and timeline of the historic Greenwood neighborhood in Tulsa, OK"
 git_url = "git://github.com/codefortulsa/greenwood-mapping.git"
-last_commit = "2022-05-25T00:39:11Z"
+last_commit = "2022-08-27T21:12:09Z"
 name = "greenwood-mapping"
 organization_name = "Code for Tulsa"
 
@@ -22,14 +22,15 @@ has_projects = true
 has_wiki = true
 id = 496_018_827
 is_template = false
+language = "Python"
 name = "greenwood-mapping"
 node_id = "R_kgDOHZCliw"
 open_issues_within = 10
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
-updated_within = "month"
+updated_within = "week"
 visibility = "public"
 watchers_within = 10
 web_commit_signoff_required = false
