@@ -1,7 +1,7 @@
 code_url = "https://github.com/codeforpdx/opentransit-collector"
 description = "Fetches transit data (realtime vehicle locations) and saves it to S3"
 git_url = "git://github.com/codeforpdx/opentransit-collector.git"
-last_commit = "2022-03-01T06:05:21Z"
+last_commit = "2022-08-27T19:08:18Z"
 name = "opentransit-collector"
 organization_name = "Code for PDX"
 
@@ -28,7 +28,7 @@ name = "opentransit-collector"
 node_id = "R_kgDOGmtCOA"
 open_issues_within = 10
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
 updated_within = "year"
