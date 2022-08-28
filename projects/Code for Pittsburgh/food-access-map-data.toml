@@ -1,7 +1,7 @@
 code_url = "https://github.com/CodeForPittsburgh/food-access-map-data"
 description = "Data for the food access map"
 git_url = "git://github.com/CodeForPittsburgh/food-access-map-data.git"
-last_commit = "2022-07-30T16:14:51Z"
+last_commit = "2022-08-28T11:41:10Z"
 name = "food-access-map-data"
 organization_name = "Code for Pittsburgh"
 
@@ -27,7 +27,7 @@ name = "food-access-map-data"
 node_id = "MDEwOlJlcG9zaXRvcnkxODQ0ODcyMjk="
 open_issues_within = 100
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
 updated_within = "year"
