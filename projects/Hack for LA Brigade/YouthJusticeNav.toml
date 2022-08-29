@@ -1,7 +1,7 @@
 code_url = "https://github.com/hackforla/YouthJusticeNav"
 description = "A project with UCLA law school to help defendants in the Juvenile Justice system in Los Angeles County"
 git_url = "git://github.com/hackforla/YouthJusticeNav.git"
-last_commit = "2021-07-02T00:51:58Z"
+last_commit = "2022-08-29T22:44:57Z"
 name = "YouthJusticeNav"
 organization_name = "Hack for LA Brigade"
 topics = [
@@ -42,7 +42,7 @@ name = "YouthJusticeNav"
 node_id = "MDEwOlJlcG9zaXRvcnkzMjQwNDg0NjI="
 open_issues_within = 100
 private = false
-pushed_within = "over_a_year"
+pushed_within = "week"
 score = 1
 stargazers_within = 10
 topics = [
@@ -59,7 +59,7 @@ topics = [
   "youth-diversion",
   "youth-rights"
 ]
-updated_within = "year"
+updated_within = "week"
 visibility = "public"
 watchers_within = 10
 web_commit_signoff_required = false
