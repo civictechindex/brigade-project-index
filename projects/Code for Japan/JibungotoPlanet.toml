@@ -1,7 +1,7 @@
 code_url = "https://github.com/codeforjapan/JibungotoPlanet"
 git_url = "git://github.com/codeforjapan/JibungotoPlanet.git"
-last_commit = "2022-08-29T15:55:05Z"
-link_url = "jibungoto-planet.vercel.app"
+last_commit = "2022-08-30T02:09:58Z"
+link_url = "https://www.jibungoto-planet.jp"
 name = "JibungotoPlanet"
 organization_name = "Code for Japan"
 
@@ -19,7 +19,7 @@ has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = true
-homepage = "jibungoto-planet.vercel.app"
+homepage = "https://www.jibungoto-planet.jp"
 id = 450_720_355
 is_template = false
 language = "TypeScript"
@@ -30,7 +30,7 @@ private = false
 pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
-updated_within = "year"
+updated_within = "week"
 visibility = "public"
 watchers_within = 10
 web_commit_signoff_required = false
