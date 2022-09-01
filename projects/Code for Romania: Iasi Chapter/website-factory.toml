@@ -24,12 +24,12 @@ is_template = false
 language = "PHP"
 name = "website-factory"
 node_id = "MDEwOlJlcG9zaXRvcnkzODI2NTAzNDg="
-open_issues_within = 10
+open_issues_within = 100
 private = false
 pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
-updated_within = "month"
+updated_within = "year"
 visibility = "public"
 watchers_within = 10
 web_commit_signoff_required = false
