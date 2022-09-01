@@ -1,7 +1,7 @@
 code_url = "https://github.com/OpenUpSA/lottery-grants"
 description = "Lottery grants data and website"
 git_url = "git://github.com/OpenUpSA/lottery-grants.git"
-last_commit = "2022-08-31T07:56:12Z"
+last_commit = "2022-09-01T09:34:47Z"
 name = "lottery-grants"
 organization_name = "OpenUp"
 
@@ -25,7 +25,7 @@ is_template = false
 language = "CSS"
 name = "lottery-grants"
 node_id = "MDEwOlJlcG9zaXRvcnkzNDY3MjcyNTk="
-open_issues_within = 10
+open_issues_within = 0
 private = false
 pushed_within = "week"
 stargazers_within = 0
