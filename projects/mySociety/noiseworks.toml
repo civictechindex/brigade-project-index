@@ -1,7 +1,7 @@
 code_url = "https://github.com/mysociety/noiseworks"
 git_branch = "master"
 git_url = "git://github.com/mysociety/noiseworks.git"
-last_pushed_within = "month"
+last_pushed_within = "week"
 name = "noiseworks"
 open_issues_within = 100
 organization_name = "mySociety"
