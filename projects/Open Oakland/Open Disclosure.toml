@@ -1,6 +1,6 @@
 code_url = "https://github.com/caciviclab/odca-jekyll"
 description = "Open Disclosure helps Oaklanders understand the role of money in their local politics."
-last_commit = "2022-09-02T16:46:57Z"
+last_commit = "2022-09-04T23:33:02Z"
 link_url = "https://www.opendisclosure.io/"
 name = "Open Disclosure"
 organization_name = "Open Oakland"
@@ -31,7 +31,7 @@ open_issues_within = 100
 private = false
 pushed_within = "week"
 stargazers_within = 100
-subscribers_count = 22
+subscribers_count = 21
 temp_clone_token = ""
 topics = [
   "california",
@@ -42,7 +42,7 @@ topics = [
   "jekyll-site",
   "openoakland"
 ]
-updated_within = "year"
+updated_within = "week"
 visibility = "public"
 watchers_within = 100
 web_commit_signoff_required = false
