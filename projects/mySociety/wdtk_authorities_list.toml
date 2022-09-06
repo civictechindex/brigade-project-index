@@ -1,7 +1,7 @@
 code_url = "https://github.com/mysociety/wdtk_authorities_list"
 description = "Dataset of WDTK authorities"
 git_url = "git://github.com/mysociety/wdtk_authorities_list.git"
-last_commit = "2022-09-05T04:42:29Z"
+last_commit = "2022-09-06T04:44:44Z"
 name = "wdtk_authorities_list"
 organization_name = "mySociety"
 
@@ -25,7 +25,7 @@ is_template = false
 language = "Jupyter Notebook"
 name = "wdtk_authorities_list"
 node_id = "R_kgDOHrMq-w"
-open_issues_within = 0
+open_issues_within = 10
 private = false
 pushed_within = "week"
 stargazers_within = 10
