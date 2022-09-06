@@ -1,7 +1,7 @@
 code_url = "https://github.com/OpenUpSA/opengazettes"
 description = "Open Gazettes South Africa website"
 git_url = "git://github.com/OpenUpSA/opengazettes.git"
-last_commit = "2022-03-17T12:10:09Z"
+last_commit = "2022-09-06T12:12:49Z"
 link_url = "http://opengazettes.org.za"
 name = "opengazettes"
 organization_name = "OpenUp"
@@ -29,7 +29,7 @@ name = "opengazettes"
 node_id = "MDEwOlJlcG9zaXRvcnk2NTE1MTc5Mg=="
 open_issues_within = 10
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
 updated_within = "year"
