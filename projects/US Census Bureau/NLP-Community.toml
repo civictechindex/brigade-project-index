@@ -1,7 +1,7 @@
 code_url = "https://github.com/uscensusbureau/NLP-Community"
 description = "Repository for NLP analysis resources and shared learning. "
 git_url = "git://github.com/uscensusbureau/NLP-Community.git"
-last_commit = "2022-08-23T14:28:07Z"
+last_commit = "2022-09-06T20:53:16Z"
 name = "NLP-Community"
 organization_name = "US Census Bureau"
 
@@ -13,7 +13,7 @@ default_branch = "main"
 description = "Repository for NLP analysis resources and shared learning. "
 disabled = false
 fork = false
-forks_within = 0
+forks_within = 10
 full_name = "uscensusbureau/NLP-Community"
 has_downloads = true
 has_issues = true
@@ -26,7 +26,7 @@ name = "NLP-Community"
 node_id = "R_kgDOH3H_pw"
 open_issues_within = 0
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 0
 topics = [ ]
 updated_within = "week"
