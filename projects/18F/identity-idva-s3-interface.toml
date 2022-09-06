@@ -1,7 +1,7 @@
 code_url = "https://github.com/18F/identity-idva-s3-interface"
 description = "S3 Interface for image fetching/deleting within cloud.gov"
 git_url = "git://github.com/18F/identity-idva-s3-interface.git"
-last_commit = "2022-07-21T16:01:54Z"
+last_commit = "2022-09-06T17:13:19Z"
 name = "identity-idva-s3-interface"
 organization_name = "18F"
 
@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 id = 516_436_407
 is_template = false
+language = "Python"
 name = "identity-idva-s3-interface"
 node_id = "R_kgDOHsgxtw"
 open_issues_within = 10
@@ -29,7 +30,7 @@ private = false
 pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
-updated_within = "year"
+updated_within = "week"
 visibility = "public"
 watchers_within = 10
 web_commit_signoff_required = false
