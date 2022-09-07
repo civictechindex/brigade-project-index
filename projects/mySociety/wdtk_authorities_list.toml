@@ -1,9 +1,11 @@
 code_url = "https://github.com/mysociety/wdtk_authorities_list"
 description = "Dataset of WDTK authorities"
 git_url = "git://github.com/mysociety/wdtk_authorities_list.git"
-last_commit = "2022-09-06T04:44:44Z"
+last_commit = "2022-09-07T10:36:53Z"
+link_url = "https://mysociety.github.io/wdtk_authorities_list/"
 name = "wdtk_authorities_list"
 organization_name = "mySociety"
+topics = [ "dataset" ]
 
 [github]
 allow_forking = true
@@ -20,17 +22,18 @@ has_issues = true
 has_pages = true
 has_projects = true
 has_wiki = true
+homepage = "https://mysociety.github.io/wdtk_authorities_list/"
 id = 515_058_427
 is_template = false
 language = "Jupyter Notebook"
 name = "wdtk_authorities_list"
 node_id = "R_kgDOHrMq-w"
-open_issues_within = 10
+open_issues_within = 0
 private = false
 pushed_within = "week"
 stargazers_within = 10
-topics = [ ]
-updated_within = "month"
+topics = [ "dataset" ]
+updated_within = "week"
 visibility = "public"
 watchers_within = 10
 web_commit_signoff_required = false
