@@ -1,6 +1,6 @@
 code_url = "https://github.com/codeforcroatia/PredizborniProgrami"
 git_url = "git://github.com/codeforcroatia/PredizborniProgrami.git"
-last_commit = "2022-08-25T06:49:00Z"
+last_commit = "2022-09-07T06:51:44Z"
 link_url = "https://codeforcroatia.github.io/PredizborniProgrami"
 name = "PredizborniProgrami"
 organization_name = "Code for Croatia"
@@ -22,6 +22,7 @@ has_wiki = false
 homepage = "https://codeforcroatia.github.io/PredizborniProgrami"
 id = 394_320_858
 is_template = false
+language = "PHP"
 name = "PredizborniProgrami"
 node_id = "MDEwOlJlcG9zaXRvcnkzOTQzMjA4NTg="
 open_issues_within = 10
@@ -29,7 +30,7 @@ private = false
 pushed_within = "week"
 stargazers_within = 0
 topics = [ ]
-updated_within = "month"
+updated_within = "week"
 visibility = "public"
 watchers_within = 0
 web_commit_signoff_required = false
