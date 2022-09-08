@@ -1,6 +1,6 @@
 code_url = "https://github.com/CodeforLeipzig/leipziggiesst"
 git_url = "git://github.com/CodeforLeipzig/leipziggiesst.git"
-last_commit = "2022-08-24T14:40:32Z"
+last_commit = "2022-09-08T20:49:03Z"
 link_url = "https://giessdeinviertel.codeforleipzig.de/"
 name = "leipziggiesst"
 organization_name = "OK Lab Leipzig"
@@ -27,7 +27,7 @@ name = "leipziggiesst"
 node_id = "MDEwOlJlcG9zaXRvcnkyNjU4NTYyNDU="
 open_issues_within = 100
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
 updated_within = "month"
