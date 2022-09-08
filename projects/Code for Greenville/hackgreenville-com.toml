@@ -1,7 +1,7 @@
 code_url = "https://github.com/codeforgreenville/hackgreenville-com"
 description = "HackGreenville's Website"
 git_url = "git://github.com/codeforgreenville/hackgreenville-com.git"
-last_commit = "2022-08-25T16:21:38Z"
+last_commit = "2022-09-08T13:51:48Z"
 link_url = "https://hackgreenville.com"
 name = "hackgreenville-com"
 organization_name = "Code for Greenville"
@@ -29,7 +29,7 @@ name = "hackgreenville-com"
 node_id = "MDEwOlJlcG9zaXRvcnkxNDAzNDA1Njc="
 open_issues_within = 100
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
 updated_within = "month"
