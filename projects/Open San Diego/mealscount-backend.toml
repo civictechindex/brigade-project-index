@@ -1,7 +1,7 @@
 code_url = "https://github.com/opensandiego/mealscount-backend"
 description = "Optimizing a free-meal reimbursement program for K-12 schools"
 git_url = "git://github.com/opensandiego/mealscount-backend.git"
-last_commit = "2022-09-02T15:17:05Z"
+last_commit = "2022-09-09T17:38:20Z"
 name = "mealscount-backend"
 organization_name = "Open San Diego"
 topics = [
@@ -34,7 +34,7 @@ name = "mealscount-backend"
 node_id = "MDEwOlJlcG9zaXRvcnkxMjAxMzcyNTY="
 open_issues_within = 100
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 100
 topics = [
   "community-eligibility-provision",
