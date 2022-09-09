@@ -1,41 +1,38 @@
-code_url = "https://github.com/mysociety/wdtk_authorities_list"
-description = "Dataset of WDTK authorities"
-git_url = "git://github.com/mysociety/wdtk_authorities_list.git"
-last_commit = "2022-09-09T13:28:26Z"
-link_url = "https://mysociety.github.io/wdtk_authorities_list/"
-name = "wdtk_authorities_list"
+code_url = "https://github.com/mysociety/la-plans-promises"
+description = "Datasets related to Local Authority Climate Plans and Promises"
+git_url = "git://github.com/mysociety/la-plans-promises.git"
+last_commit = "2022-09-09T14:08:14Z"
+name = "la-plans-promises"
 organization_name = "mySociety"
-topics = [ "dataset" ]
 
 [github]
 allow_forking = true
 archived = false
-created_at = "2022-07-18T06:18:47Z"
+created_at = "2022-09-09T14:07:51Z"
 default_branch = "main"
-description = "Dataset of WDTK authorities"
+description = "Datasets related to Local Authority Climate Plans and Promises"
 disabled = false
 fork = false
 forks_within = 0
-full_name = "mysociety/wdtk_authorities_list"
+full_name = "mysociety/la-plans-promises"
 has_downloads = true
 has_issues = true
 has_pages = true
 has_projects = true
 has_wiki = true
-homepage = "https://mysociety.github.io/wdtk_authorities_list/"
-id = 515_058_427
+id = 534_668_847
 is_template = false
 language = "Jupyter Notebook"
-name = "wdtk_authorities_list"
-node_id = "R_kgDOHrMq-w"
+name = "la-plans-promises"
+node_id = "R_kgDOH95mLw"
 open_issues_within = 0
 private = false
 pushed_within = "week"
-stargazers_within = 10
-topics = [ "dataset" ]
+stargazers_within = 0
+topics = [ ]
 updated_within = "week"
 visibility = "public"
-watchers_within = 10
+watchers_within = 0
 web_commit_signoff_required = false
 
   [github.license]
