@@ -1,7 +1,7 @@
 code_url = "https://github.com/codeforamerica/honeycrisp-gem"
 description = "A Rails gem with base styles and Javascript for Code for America products"
 git_url = "git://github.com/codeforamerica/honeycrisp-gem.git"
-last_commit = "2022-09-01T22:54:06Z"
+last_commit = "2022-09-09T20:09:59Z"
 link_url = "http://honeycrisp.herokuapp.com"
 name = "honeycrisp-gem"
 organization_name = "Code for America"
@@ -29,7 +29,7 @@ name = "honeycrisp-gem"
 node_id = "MDEwOlJlcG9zaXRvcnkxNDI1MDA1MTY="
 open_issues_within = 100
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 100
 topics = [ ]
 updated_within = "month"
