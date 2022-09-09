@@ -1,7 +1,7 @@
 code_url = "https://github.com/codeforboston/codeforboston.org"
 description = "Code for Boston's website."
 git_url = "git://github.com/codeforboston/codeforboston.org.git"
-last_commit = "2022-08-08T21:18:40Z"
+last_commit = "2022-09-09T00:13:13Z"
 link_url = "https://www.codeforboston.org"
 name = "codeforboston.org"
 organization_name = "Code for Boston"
@@ -29,7 +29,7 @@ name = "codeforboston.org"
 node_id = "MDEwOlJlcG9zaXRvcnkzNTE2MzUxNw=="
 open_issues_within = 100
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 100
 topics = [ ]
 updated_within = "year"
