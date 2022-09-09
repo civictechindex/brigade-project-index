@@ -30,7 +30,7 @@ network_count = 35
 node_id = "MDEwOlJlcG9zaXRvcnkyODEwODMwNQ=="
 open_issues_within = 100
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 100
 subscribers_count = 26
 temp_clone_token = ""
@@ -43,7 +43,7 @@ topics = [
   "python",
   "sustainability"
 ]
-updated_within = "month"
+updated_within = "year"
 visibility = "public"
 watchers_within = 100
 web_commit_signoff_required = false
