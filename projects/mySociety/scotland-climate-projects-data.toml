@@ -1,0 +1,8 @@
+code_url = "https://github.com/mysociety/scotland-climate-projects-data"
+description = "Dataset of projects in Scotland related to emissions reductions"
+git_branch = "main"
+git_url = "git://github.com/mysociety/scotland-climate-projects-data.git"
+last_pushed_within = "week"
+link_url = "https://mysociety.github.io/scotland-climate-projects-data/"
+name = "scotland-climate-projects-data"
+organization_name = "mySociety"
