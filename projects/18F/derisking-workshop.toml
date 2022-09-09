@@ -1,7 +1,7 @@
 code_url = "https://github.com/18F/derisking-workshop"
 description = "Supplemental materials for workshops "
 git_url = "git://github.com/18F/derisking-workshop.git"
-last_commit = "2022-08-23T13:19:31Z"
+last_commit = "2022-09-08T19:46:01Z"
 name = "derisking-workshop"
 organization_name = "18F"
 
@@ -26,10 +26,10 @@ name = "derisking-workshop"
 node_id = "R_kgDOHy1ZCQ"
 open_issues_within = 0
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 0
 topics = [ ]
-updated_within = "month"
+updated_within = "year"
 visibility = "public"
 watchers_within = 0
 web_commit_signoff_required = false
