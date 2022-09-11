@@ -1,7 +1,7 @@
 code_url = "https://github.com/CodeforLeipzig/giessdeibohm"
 description = "Simple solution for Giess den Kiez in Leipziger Westen"
 git_url = "git://github.com/CodeforLeipzig/giessdeibohm.git"
-last_commit = "2022-09-02T20:35:06Z"
+last_commit = "2022-09-10T18:30:36Z"
 link_url = "https://codeforleipzig.github.io/giessdeibohm/"
 name = "giessdeibohm"
 organization_name = "OK Lab Leipzig"
@@ -29,7 +29,7 @@ name = "giessdeibohm"
 node_id = "MDEwOlJlcG9zaXRvcnkyODI3NDk0MTc="
 open_issues_within = 0
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
 updated_within = "year"
