@@ -1,7 +1,8 @@
 code_url = "https://github.com/codeforboston/advocacy-maps"
 description = "The good governance project (GGP) is a non-partisan democracy reform group."
 git_url = "git://github.com/codeforboston/advocacy-maps.git"
-last_commit = "2022-09-11T23:06:01Z"
+last_commit = "2022-09-12T00:34:46Z"
+link_url = "https://mapletestimony.org"
 name = "advocacy-maps"
 organization_name = "Code for Boston"
 
@@ -20,7 +21,7 @@ has_issues = true
 has_pages = true
 has_projects = true
 has_wiki = true
-homepage = ""
+homepage = "https://mapletestimony.org"
 id = 326_449_458
 is_template = false
 language = "TypeScript"
