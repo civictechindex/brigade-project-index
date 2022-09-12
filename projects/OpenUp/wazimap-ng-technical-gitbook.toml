@@ -1,6 +1,6 @@
 code_url = "https://github.com/OpenUpSA/wazimap-ng-technical-gitbook"
 git_url = "git://github.com/OpenUpSA/wazimap-ng-technical-gitbook.git"
-last_commit = "2022-08-16T16:13:41Z"
+last_commit = "2022-09-12T11:46:30Z"
 name = "wazimap-ng-technical-gitbook"
 organization_name = "OpenUp"
 
@@ -24,7 +24,7 @@ name = "wazimap-ng-technical-gitbook"
 node_id = "MDEwOlJlcG9zaXRvcnk0MDcxNjc1MjA="
 open_issues_within = 0
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 0
 topics = [ ]
 updated_within = "year"
