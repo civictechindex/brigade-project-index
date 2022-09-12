@@ -1,5 +1,6 @@
 code_url = "https://github.com/sfbrigade/project-compass"
 git_url = "git://github.com/sfbrigade/project-compass.git"
+last_commit = "2022-09-12T03:08:26Z"
 name = "project-compass"
 organization_name = "Code for San Francisco"
 
@@ -23,7 +24,7 @@ name = "project-compass"
 node_id = "R_kgDOH6RupA"
 open_issues_within = 0
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
 updated_within = "week"
