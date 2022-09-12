@@ -1,6 +1,6 @@
 code_url = "https://github.com/18F/usda-loan-assitant-walkthrough"
 git_url = "git://github.com/18F/usda-loan-assitant-walkthrough.git"
-last_commit = "2022-09-02T15:50:16Z"
+last_commit = "2022-09-12T22:05:36Z"
 name = "usda-loan-assitant-walkthrough"
 organization_name = "18F"
 
@@ -23,7 +23,7 @@ is_template = false
 language = "HTML"
 name = "usda-loan-assitant-walkthrough"
 node_id = "R_kgDOHPVRVA"
-open_issues_within = 10
+open_issues_within = 0
 private = false
 pushed_within = "week"
 stargazers_within = 0
