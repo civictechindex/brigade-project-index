@@ -1,7 +1,7 @@
 code_url = "https://github.com/mysociety/caps_data"
 description = "Test of quick backup of caps data"
 git_url = "git://github.com/mysociety/caps_data.git"
-last_commit = "2022-08-01T03:52:29Z"
+last_commit = "2022-09-12T04:10:40Z"
 name = "caps_data"
 organization_name = "mySociety"
 
@@ -27,7 +27,7 @@ name = "caps_data"
 node_id = "R_kgDOGgEI-w"
 open_issues_within = 0
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 0
 topics = [ ]
 updated_within = "year"
