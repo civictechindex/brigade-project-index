@@ -1,7 +1,7 @@
 code_url = "https://github.com/g0v/tw-rental-house-data"
 description = "Collection of Taiwan Rental House Data from Public Website"
 git_url = "git://github.com/g0v/tw-rental-house-data.git"
-last_commit = "2022-09-11T15:43:21Z"
+last_commit = "2022-09-13T06:32:08Z"
 name = "tw-rental-house-data"
 organization_name = "g0v.tw"
 
@@ -30,7 +30,7 @@ private = false
 pushed_within = "week"
 stargazers_within = 1_000
 topics = [ ]
-updated_within = "month"
+updated_within = "week"
 visibility = "public"
 watchers_within = 1_000
 web_commit_signoff_required = false
