@@ -1,6 +1,6 @@
 code_url = "https://github.com/g0v/10v"
 git_url = "git://github.com/g0v/10v.git"
-last_commit = "2022-09-10T06:35:55Z"
+last_commit = "2022-09-13T15:03:10Z"
 name = "10v"
 organization_name = "g0v.tw"
 
@@ -23,7 +23,7 @@ is_template = false
 language = "LiveScript"
 name = "10v"
 node_id = "R_kgDOHhnjvg"
-open_issues_within = 10
+open_issues_within = 0
 private = false
 pushed_within = "week"
 stargazers_within = 10
