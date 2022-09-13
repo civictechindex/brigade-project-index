@@ -1,7 +1,7 @@
 code_url = "https://github.com/mysociety/tilma"
 description = "Our hosted tile server, handling OS StreetView, hosted OSM, and more"
 git_url = "git://github.com/mysociety/tilma.git"
-last_commit = "2022-08-24T14:09:23Z"
+last_commit = "2022-09-05T15:43:38Z"
 name = "tilma"
 organization_name = "mySociety"
 
@@ -27,7 +27,7 @@ name = "tilma"
 node_id = "MDEwOlJlcG9zaXRvcnk0MzQ4OTU0"
 open_issues_within = 10
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
 updated_within = "year"

@@ -1,7 +1,7 @@
 code_url = "https://github.com/mysociety/local-authority-similarity"
 description = "Distance calculations and composite measure for local authorities"
 git_url = "git://github.com/mysociety/local-authority-similarity.git"
-last_commit = "2022-09-09T13:34:22Z"
+last_commit = "2022-09-13T11:35:20Z"
 link_url = "https://mysociety.github.io/local-authority-similarity/"
 name = "local-authority-similarity"
 organization_name = "mySociety"
@@ -33,7 +33,7 @@ private = false
 pushed_within = "week"
 stargazers_within = 0
 topics = [ "dataset" ]
-updated_within = "week"
+updated_within = "month"
 visibility = "public"
 watchers_within = 0
 web_commit_signoff_required = false
