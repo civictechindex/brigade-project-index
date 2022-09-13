@@ -30,10 +30,10 @@ name = "covid-estados"
 node_id = "MDEwOlJlcG9zaXRvcnkyNjQzMTMyMDM="
 open_issues_within = 100
 private = false
-pushed_within = "week"
+pushed_within = "month"
 stargazers_within = 100
 topics = [ "covid-19", "directory", "mexico", "open-data" ]
-updated_within = "week"
+updated_within = "month"
 visibility = "public"
 watchers_within = 100
 web_commit_signoff_required = false
