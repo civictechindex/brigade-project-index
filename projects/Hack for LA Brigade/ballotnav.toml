@@ -1,7 +1,7 @@
 code_url = "https://github.com/hackforla/ballotnav"
 description = "A repository for HackforLA's BallotNav project"
 git_url = "git://github.com/hackforla/ballotnav.git"
-last_commit = "2022-03-30T00:47:09Z"
+last_commit = "2022-09-13T03:58:01Z"
 link_url = "https://BallotNav.org"
 name = "ballotnav"
 organization_name = "Hack for LA Brigade"
@@ -43,7 +43,7 @@ name = "ballotnav"
 node_id = "MDEwOlJlcG9zaXRvcnkyODg1OTQyMzk="
 open_issues_within = 100
 private = false
-pushed_within = "year"
+pushed_within = "week"
 score = 1
 stargazers_within = 100
 topics = [
