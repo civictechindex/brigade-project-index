@@ -67,7 +67,7 @@ topics = [
   "tanzania",
   "uganda"
 ]
-updated_within = "week"
+updated_within = "month"
 visibility = "public"
 watchers_within = 100
 web_commit_signoff_required = false
