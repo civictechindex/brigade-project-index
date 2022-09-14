@@ -1,7 +1,7 @@
 code_url = "https://github.com/CodeForAfrica/sensors.AFRICA-AQ-sensors-software"
 description = "sourcecode for reading sensor data"
 git_url = "git://github.com/CodeForAfrica/sensors.AFRICA-AQ-sensors-software.git"
-last_commit = "2020-12-02T12:45:17Z"
+last_commit = "2022-09-14T06:03:06Z"
 name = "sensors.AFRICA-AQ-sensors-software"
 organization_name = "Code for Kenya"
 topics = [ "air-quality", "sensors", "sensors-africa" ]
@@ -26,12 +26,12 @@ is_template = true
 language = "C++"
 name = "sensors.AFRICA-AQ-sensors-software"
 node_id = "MDEwOlJlcG9zaXRvcnk5NDQwMzU0Mg=="
-open_issues_within = 10
+open_issues_within = 0
 private = false
 pushed_within = "week"
 stargazers_within = 10
 topics = [ "air-quality", "sensors", "sensors-africa" ]
-updated_within = "month"
+updated_within = "week"
 visibility = "public"
 watchers_within = 10
 web_commit_signoff_required = false
