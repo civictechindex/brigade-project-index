@@ -34,7 +34,7 @@ name = "police-data-trust"
 node_id = "MDEwOlJlcG9zaXRvcnkzNDI1NzA5Nzc="
 open_issues_within = 10
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 100
 topics = [
   "accountability",
@@ -42,7 +42,7 @@ topics = [
   "police-misconduct",
   "transparency"
 ]
-updated_within = "month"
+updated_within = "week"
 visibility = "public"
 watchers_within = 100
 web_commit_signoff_required = false
