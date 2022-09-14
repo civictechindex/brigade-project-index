@@ -1,7 +1,7 @@
 code_url = "https://github.com/mysociety/wdtk_authorities_list"
 description = "Dataset of WDTK authorities"
 git_url = "git://github.com/mysociety/wdtk_authorities_list.git"
-last_commit = "2022-09-13T11:02:52Z"
+last_commit = "2022-09-14T04:36:16Z"
 link_url = "https://mysociety.github.io/wdtk_authorities_list/"
 name = "wdtk_authorities_list"
 organization_name = "mySociety"
@@ -33,7 +33,7 @@ private = false
 pushed_within = "week"
 stargazers_within = 10
 topics = [ "dataset" ]
-updated_within = "week"
+updated_within = "month"
 visibility = "public"
 watchers_within = 10
 web_commit_signoff_required = false
