@@ -3,6 +3,7 @@ description = "Water article search"
 git_branch = "master"
 git_url = "git://github.com/OpenUpSA/ccij-water-search.git"
 last_pushed_within = "month"
+link_url = "https://ccij-water-search.openup.org.za/"
 name = "ccij-water-search"
 open_issues_within = 10
 organization_name = "OpenUp"
