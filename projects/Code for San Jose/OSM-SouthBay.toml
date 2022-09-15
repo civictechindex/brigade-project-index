@@ -1,7 +1,7 @@
 code_url = "https://github.com/codeforsanjose/OSM-SouthBay"
 description = "Making the best possible map of San José and the South Bay"
 git_url = "git://github.com/codeforsanjose/OSM-SouthBay.git"
-last_commit = "2022-09-02T08:32:19Z"
+last_commit = "2022-09-15T17:52:45Z"
 link_url = "https://www.openstreetmap.org/#map=12/37.3358/-121.8906"
 name = "OSM-SouthBay"
 organization_name = "Code for San Jose"
@@ -38,7 +38,7 @@ name = "OSM-SouthBay"
 node_id = "MDEwOlJlcG9zaXRvcnk5NzE4MzgwOA=="
 open_issues_within = 100
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 100
 topics = [
   "gis",
