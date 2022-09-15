@@ -1,7 +1,7 @@
 code_url = "https://github.com/mysociety/contract-countdown"
 git_branch = "master"
 git_url = "git://github.com/mysociety/contract-countdown.git"
-last_pushed_within = "year"
+last_pushed_within = "week"
 link_url = "https://mysociety.github.io/contract-countdown/"
 name = "contract-countdown"
 open_issues_within = 100
