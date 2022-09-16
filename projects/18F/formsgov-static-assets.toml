@@ -1,7 +1,0 @@
-code_url = "https://github.com/18F/formsgov-static-assets"
-description = "Contains all of the static assets used within the form.io deployment.  This includes logos for Form Manager and FormViewPro display, as well as e-mail templates.  It currently also contains static json data used within the Made In America form select boxes."
-git_branch = "develop"
-git_url = "git://github.com/18F/formsgov-static-assets.git"
-last_pushed_within = "year"
-name = "formsgov-static-assets"
-organization_name = "18F"
