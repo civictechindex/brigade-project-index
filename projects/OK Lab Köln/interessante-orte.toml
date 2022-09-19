@@ -1,7 +1,7 @@
 code_url = "https://github.com/codeforcologne/interessante-orte"
 description = "Schritt für Schritt wirst Du eine einfache Kartenanwendung erstellen, mit der Du interessante Orte visualisieren kannst."
 git_url = "git://github.com/codeforcologne/interessante-orte.git"
-last_commit = "2022-06-24T16:51:07Z"
+last_commit = "2022-09-19T18:41:56Z"
 name = "interessante-orte"
 organization_name = "OK Lab Köln"
 
@@ -27,7 +27,7 @@ name = "interessante-orte"
 node_id = "R_kgDOHfQWyA"
 open_issues_within = 0
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 0
 topics = [ ]
 updated_within = "year"
