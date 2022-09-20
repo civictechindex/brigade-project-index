@@ -1,7 +1,7 @@
 code_url = "https://github.com/CodeForTucson/green-welcome-package-astro"
 description = "Website to spread sustainability ideas"
 git_url = "git://github.com/CodeForTucson/green-welcome-package-astro.git"
-last_commit = "2022-05-13T03:10:59Z"
+last_commit = "2022-09-20T06:41:31Z"
 name = "green-welcome-package-astro"
 organization_name = "Code for Tucson"
 
@@ -28,7 +28,7 @@ name = "green-welcome-package-astro"
 node_id = "R_kgDOHS5QUg"
 open_issues_within = 100
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
 updated_within = "month"
