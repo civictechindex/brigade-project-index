@@ -1,7 +1,7 @@
 code_url = "https://github.com/codeformuenster/codeformuenster.github.io"
 description = "Das Repository für unsere CodeForMünster-Webseite."
 git_url = "git://github.com/codeformuenster/codeformuenster.github.io.git"
-last_commit = "2022-09-11T17:18:06Z"
+last_commit = "2022-09-20T19:26:25Z"
 link_url = "http://codeformuenster.org"
 name = "codeformuenster.github.io"
 organization_name = "OK Lab Münster"
@@ -29,7 +29,7 @@ name = "codeformuenster.github.io"
 node_id = "MDEwOlJlcG9zaXRvcnkyOTM4ODgzOQ=="
 open_issues_within = 10
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
 updated_within = "year"

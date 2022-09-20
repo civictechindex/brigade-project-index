@@ -1,6 +1,6 @@
 code_url = "https://github.com/codeformuenster/muenster-jetzt"
 git_url = "git://github.com/codeformuenster/muenster-jetzt.git"
-last_commit = "2022-08-22T14:23:38Z"
+last_commit = "2022-09-20T19:48:49Z"
 name = "muenster-jetzt"
 organization_name = "OK Lab Münster"
 
@@ -25,7 +25,7 @@ name = "muenster-jetzt"
 node_id = "MDEwOlJlcG9zaXRvcnkyNzc4NTQxMjk="
 open_issues_within = 100
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
 updated_within = "year"
