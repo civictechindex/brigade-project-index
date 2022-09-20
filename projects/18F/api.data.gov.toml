@@ -1,7 +1,7 @@
 code_url = "https://github.com/18F/api.data.gov"
 description = "A hosted, shared-service that provides an API key, analytics, and proxy solution for government web services."
 git_url = "git://github.com/18F/api.data.gov.git"
-last_commit = "2022-09-09T22:56:34Z"
+last_commit = "2022-09-19T16:35:07Z"
 link_url = "https://api.data.gov"
 name = "api.data.gov"
 organization_name = "18F"
@@ -29,7 +29,7 @@ name = "api.data.gov"
 node_id = "MDEwOlJlcG9zaXRvcnkxMTQ2Nzg0MA=="
 open_issues_within = 100
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 100
 topics = [ ]
 updated_within = "week"
