@@ -1,6 +1,6 @@
 code_url = "https://github.com/OpenMaine/clerks"
 git_url = "git://github.com/OpenMaine/clerks.git"
-last_commit = "2022-07-31T22:53:18Z"
+last_commit = "2022-09-20T20:47:51Z"
 name = "clerks"
 organization_name = "Open Maine"
 
@@ -23,9 +23,9 @@ is_template = false
 language = "Ruby"
 name = "clerks"
 node_id = "R_kgDOHXlRMQ"
-open_issues_within = 0
+open_issues_within = 10
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
 updated_within = "year"
