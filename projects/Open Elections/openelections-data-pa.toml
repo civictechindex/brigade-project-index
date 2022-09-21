@@ -1,7 +1,7 @@
 code_url = "https://github.com/openelections/openelections-data-pa"
 description = "Pre-processed election results for Pennsylvania elections"
 git_url = "git://github.com/openelections/openelections-data-pa.git"
-last_commit = "2022-09-10T16:27:26Z"
+last_commit = "2022-09-21T00:03:54Z"
 name = "openelections-data-pa"
 organization_name = "Open Elections"
 
@@ -27,7 +27,7 @@ name = "openelections-data-pa"
 node_id = "MDEwOlJlcG9zaXRvcnkyMDExODAyNw=="
 open_issues_within = 100
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 100
 topics = [ ]
 updated_within = "year"
