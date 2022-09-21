@@ -1,7 +1,7 @@
 code_url = "https://github.com/CodeForAfrica/HTOOLS-AVG_DATA_PSQL_QUERIES"
 description = "A collection of PSQL queries to get average sensor data for given time periods"
 git_url = "git://github.com/CodeForAfrica/HTOOLS-AVG_DATA_PSQL_QUERIES.git"
-last_commit = "2022-09-12T14:41:51Z"
+last_commit = "2022-09-21T18:44:48Z"
 name = "HTOOLS-AVG_DATA_PSQL_QUERIES"
 organization_name = "Code for Kenya"
 
@@ -27,7 +27,7 @@ name = "HTOOLS-AVG_DATA_PSQL_QUERIES"
 node_id = "R_kgDOH7TD3Q"
 open_issues_within = 0
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 0
 topics = [ ]
 updated_within = "month"
