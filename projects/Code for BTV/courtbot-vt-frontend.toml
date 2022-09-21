@@ -1,6 +1,6 @@
 code_url = "https://github.com/codeforbtv/courtbot-vt-frontend"
 git_url = "git://github.com/codeforbtv/courtbot-vt-frontend.git"
-last_commit = "2022-08-15T02:27:00Z"
+last_commit = "2022-09-21T11:55:49Z"
 name = "courtbot-vt-frontend"
 organization_name = "Code for BTV"
 
@@ -25,10 +25,10 @@ name = "courtbot-vt-frontend"
 node_id = "MDEwOlJlcG9zaXRvcnkzOTAxNjI1NjA="
 open_issues_within = 10
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
-updated_within = "year"
+updated_within = "week"
 visibility = "public"
 watchers_within = 10
 web_commit_signoff_required = false
