@@ -1,7 +1,7 @@
 code_url = "https://github.com/codefordc/us-congress-pizza-flag-tracker"
 git_branch = "main"
 git_url = "git://github.com/codefordc/us-congress-pizza-flag-tracker.git"
-last_pushed_within = "week"
+last_pushed_within = "month"
 link_url = "https://codefordc-flag.netlify.app/"
 name = "us-congress-pizza-flag-tracker"
 open_issues_within = 100
