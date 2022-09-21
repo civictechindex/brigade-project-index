@@ -1,7 +1,7 @@
 code_url = "https://github.com/codeforanchorage/land_acknowledgement"
 description = "Land Acknowledgement SMS Application"
 git_url = "git://github.com/codeforanchorage/land_acknowledgement.git"
-last_commit = "2021-12-01T21:42:00Z"
+last_commit = "2022-09-21T03:45:01Z"
 link_url = "https://land.codeforanchorage.org/"
 name = "land_acknowledgement"
 organization_name = "Code for Anchorage"
@@ -36,7 +36,7 @@ name = "land_acknowledgement"
 node_id = "MDEwOlJlcG9zaXRvcnkyNzExNjcxMTg="
 open_issues_within = 10
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 100
 topics = [
   "heroku",
