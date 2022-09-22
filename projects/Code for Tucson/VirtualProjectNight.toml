@@ -1,0 +1,50 @@
+code_url = "https://github.com/CodeForTucson/VirtualProjectNight"
+description = "Welcome for newcomers on our biweekly project nights"
+git_url = "git://github.com/CodeForTucson/VirtualProjectNight.git"
+last_commit = "2022-09-22T03:11:54Z"
+name = "VirtualProjectNight"
+organization_name = "Code for Tucson"
+
+[github]
+allow_forking = true
+archived = false
+created_at = "2022-09-22T02:14:44Z"
+default_branch = "main"
+description = "Welcome for newcomers on our biweekly project nights"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "CodeForTucson/VirtualProjectNight"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+id = 539_761_385
+is_template = false
+name = "VirtualProjectNight"
+node_id = "R_kgDOICwa6Q"
+open_issues_within = 0
+private = false
+pushed_within = "week"
+stargazers_within = 0
+topics = [ ]
+updated_within = "week"
+visibility = "public"
+watchers_within = 0
+web_commit_signoff_required = false
+
+  [github.owner]
+  gravatar_id = ""
+  id = 5_103_176
+  login = "CodeForTucson"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjUxMDMxNzY="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  maintain = false
+  pull = true
+  push = false
+  triage = false
