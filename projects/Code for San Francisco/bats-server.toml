@@ -1,5 +1,5 @@
 code_url = "https://github.com/sfbrigade/bats-server"
-git_branch = "master"
+git_branch = "main"
 git_url = "git://github.com/sfbrigade/bats-server.git"
 last_pushed_within = "week"
 name = "bats-server"
