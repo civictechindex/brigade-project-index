@@ -1,6 +1,6 @@
 code_url = "https://github.com/sfbrigade/bats-server"
 git_url = "git://github.com/sfbrigade/bats-server.git"
-last_commit = "2022-09-08T04:01:21Z"
+last_commit = "2022-09-22T02:12:20Z"
 name = "bats-server"
 organization_name = "Code for San Francisco"
 
@@ -8,7 +8,7 @@ organization_name = "Code for San Francisco"
 allow_forking = true
 archived = false
 created_at = "2020-07-22T05:41:00Z"
-default_branch = "master"
+default_branch = "main"
 disabled = false
 fork = false
 forks_within = 10
