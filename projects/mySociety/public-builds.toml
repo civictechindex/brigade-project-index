@@ -30,7 +30,7 @@ name = "public-builds"
 node_id = "MDEwOlJlcG9zaXRvcnkxNTAyMzE5NDU="
 open_issues_within = 10
 private = false
-pushed_within = "week"
+pushed_within = "month"
 stargazers_within = 0
 topics = [ "docker", "packer" ]
 updated_within = "year"
