@@ -1,0 +1,17 @@
+code_url = "https://github.com/18F/10x-workshare"
+description = "10x Phase 2 Investigation: Workshare Unemployment Program"
+git_branch = "master"
+git_url = "git://github.com/18F/10x-workshare.git"
+last_pushed_within = "over_a_year"
+name = "10x-workshare"
+organization_name = "18F"
+topics = [
+  "10x",
+  "18f",
+  "data",
+  "jobs",
+  "labor",
+  "technology",
+  "unemployment",
+  "workshare"
+]
