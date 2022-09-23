@@ -1,7 +1,7 @@
 code_url = "https://github.com/18F/identity-idp"
 description = "Login.gov Core App: Identity Provider (IdP)"
 git_url = "git://github.com/18F/identity-idp.git"
-last_commit = "2022-09-22T15:12:37Z"
+last_commit = "2022-09-22T23:04:50Z"
 link_url = "https://secure.login.gov/"
 name = "identity-idp"
 organization_name = "18F"
@@ -45,7 +45,7 @@ topics = [
   "oidc",
   "rails"
 ]
-updated_within = "month"
+updated_within = "week"
 visibility = "public"
 watchers_within = 1_000
 web_commit_signoff_required = false
