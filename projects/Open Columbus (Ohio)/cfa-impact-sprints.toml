@@ -1,7 +1,7 @@
 code_url = "https://github.com/SCODEMeetup/cfa-impact-sprints"
 git_branch = "main"
 git_url = "git://github.com/SCODEMeetup/cfa-impact-sprints.git"
-last_pushed_within = "month"
+last_pushed_within = "year"
 name = "cfa-impact-sprints"
 open_issues_within = 100
 organization_name = "Open Columbus (Ohio)"
