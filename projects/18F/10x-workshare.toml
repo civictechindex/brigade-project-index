@@ -1,0 +1,70 @@
+code_url = "https://github.com/18F/10x-workshare"
+description = "10x Phase 2 Investigation: Workshare Unemployment Program"
+git_url = "git://github.com/18F/10x-workshare.git"
+last_commit = "2020-09-01T15:56:20Z"
+name = "10x-workshare"
+organization_name = "18F"
+topics = [
+  "10x",
+  "18f",
+  "data",
+  "jobs",
+  "labor",
+  "technology",
+  "unemployment",
+  "workshare"
+]
+
+[github]
+allow_forking = true
+archived = false
+created_at = "2020-07-24T16:25:17Z"
+default_branch = "master"
+description = "10x Phase 2 Investigation: Workshare Unemployment Program"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "18F/10x-workshare"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 282_267_239
+is_template = false
+name = "10x-workshare"
+node_id = "MDEwOlJlcG9zaXRvcnkyODIyNjcyMzk="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [
+  "10x",
+  "18f",
+  "data",
+  "jobs",
+  "labor",
+  "technology",
+  "unemployment",
+  "workshare"
+]
+updated_within = "week"
+visibility = "public"
+watchers_within = 10
+web_commit_signoff_required = false
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_233_994
+  login = "18F"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjYyMzM5OTQ="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  maintain = false
+  pull = true
+  push = false
+  triage = false
