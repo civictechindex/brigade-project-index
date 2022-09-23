@@ -1,7 +1,7 @@
 code_url = "https://github.com/codeforsapporo/5374"
 description = "5374(ゴミナシ).jp for Sapporo"
 git_url = "git://github.com/codeforsapporo/5374.git"
-last_commit = "2021-09-28T01:05:38Z"
+last_commit = "2022-09-23T11:17:05Z"
 name = "5374"
 organization_name = "Code for Sapporo"
 
@@ -28,10 +28,10 @@ name = "5374"
 node_id = "MDEwOlJlcG9zaXRvcnkxNzA3NjA4NA=="
 open_issues_within = 10
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
-updated_within = "year"
+updated_within = "week"
 visibility = "public"
 watchers_within = 10
 web_commit_signoff_required = false
