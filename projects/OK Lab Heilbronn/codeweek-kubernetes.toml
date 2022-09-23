@@ -1,0 +1,50 @@
+code_url = "https://github.com/opendata-heilbronn/codeweek-kubernetes"
+description = "Demo-Repository for the Codeweek Kubernetes workshop"
+git_url = "git://github.com/opendata-heilbronn/codeweek-kubernetes.git"
+last_commit = "2022-09-23T21:04:35Z"
+name = "codeweek-kubernetes"
+organization_name = "OK Lab Heilbronn"
+
+[github]
+allow_forking = true
+archived = false
+created_at = "2022-09-23T21:02:44Z"
+default_branch = "main"
+description = "Demo-Repository for the Codeweek Kubernetes workshop"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "opendata-heilbronn/codeweek-kubernetes"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+id = 540_616_341
+is_template = false
+name = "codeweek-kubernetes"
+node_id = "R_kgDOIDkmlQ"
+open_issues_within = 0
+private = false
+pushed_within = "week"
+stargazers_within = 0
+topics = [ ]
+updated_within = "week"
+visibility = "public"
+watchers_within = 0
+web_commit_signoff_required = false
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_741_385
+  login = "opendata-heilbronn"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjY3NDEzODU="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  maintain = false
+  pull = true
+  push = false
+  triage = false
