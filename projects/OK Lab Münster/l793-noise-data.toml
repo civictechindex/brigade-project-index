@@ -35,7 +35,7 @@ web_commit_signoff_required = false
 
   [github.license]
   key = "odbl-1.0"
-  name = "ODC Open Database License v1.0"
+  name = "Open Data Commons Open Database License v1.0"
   node_id = "MDc6TGljZW5zZTM3"
   spdx_id = "ODbL-1.0"
 
