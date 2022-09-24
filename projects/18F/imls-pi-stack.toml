@@ -1,7 +1,7 @@
 code_url = "https://github.com/18F/imls-pi-stack"
 git_branch = "main"
 git_url = "git://github.com/18F/imls-pi-stack.git"
-last_pushed_within = "week"
+last_pushed_within = "month"
 name = "imls-pi-stack"
 open_issues_within = 100
 organization_name = "18F"
