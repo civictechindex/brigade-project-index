@@ -1,7 +1,7 @@
 code_url = "https://github.com/codeformuenster/muensterhack"
 description = "Dokumentation der Projekte des Münsterhack"
 git_url = "git://github.com/codeformuenster/muensterhack.git"
-last_commit = "2022-09-24T13:36:02Z"
+last_commit = "2022-09-25T15:29:15Z"
 name = "muensterhack"
 organization_name = "OK Lab Münster"
 topics = [ "mshack", "muensterhack" ]
@@ -31,7 +31,7 @@ private = false
 pushed_within = "week"
 stargazers_within = 100
 topics = [ "mshack", "muensterhack" ]
-updated_within = "year"
+updated_within = "week"
 visibility = "public"
 watchers_within = 100
 web_commit_signoff_required = false
