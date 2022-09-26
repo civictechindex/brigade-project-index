@@ -1,6 +1,6 @@
 code_url = "https://github.com/CodeforLeipzig/tsb-tree-api-now-express"
 git_url = "git://github.com/CodeforLeipzig/tsb-tree-api-now-express.git"
-last_commit = "2022-04-30T23:07:31Z"
+last_commit = "2022-09-25T20:37:56Z"
 link_url = "https://tsb-tree-api-now-express.now.sh"
 name = "tsb-tree-api-now-express"
 organization_name = "OK Lab Leipzig"
@@ -27,7 +27,7 @@ name = "tsb-tree-api-now-express"
 node_id = "MDEwOlJlcG9zaXRvcnkyODQyODE2NTU="
 open_issues_within = 0
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 0
 topics = [ ]
 updated_within = "year"
