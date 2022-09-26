@@ -1,5 +1,7 @@
 code_url = "https://github.com/lukemckinstry/11Corners"
 description = "Driving directions for the safety inclined"
+git_branch = "master"
+last_pushed_within = "over_a_year"
 name = "corners"
 organization_name = "Code for Philly"
 status = "Prototyping"
