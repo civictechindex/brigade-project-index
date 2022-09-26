@@ -1,7 +1,7 @@
 code_url = "https://github.com/OpenUpSA/water-wazi-landing-site"
 description = "Repository for deploying static hosting for the water wazi landing site webflow export"
 git_url = "git://github.com/OpenUpSA/water-wazi-landing-site.git"
-last_commit = "2022-08-26T20:39:57Z"
+last_commit = "2022-09-26T13:44:39Z"
 link_url = "water-wazi-landing-site.vercel.app"
 name = "water-wazi-landing-site"
 organization_name = "OpenUp"
@@ -29,7 +29,7 @@ name = "water-wazi-landing-site"
 node_id = "R_kgDOH3GOjw"
 open_issues_within = 0
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 0
 topics = [ ]
 updated_within = "year"
