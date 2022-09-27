@@ -1,7 +1,7 @@
 code_url = "https://github.com/code4romania/.github"
 description = "Code for Romania default community health files"
 git_url = "git://github.com/code4romania/.github.git"
-last_commit = "2022-05-14T08:42:50Z"
+last_commit = "2022-09-27T13:23:25Z"
 name = ".github"
 organization_name = "Code for Romania: Cluj Chapter"
 
@@ -27,7 +27,7 @@ name = ".github"
 node_id = "MDEwOlJlcG9zaXRvcnkyODE3OTI0MjU="
 open_issues_within = 0
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
 updated_within = "year"
