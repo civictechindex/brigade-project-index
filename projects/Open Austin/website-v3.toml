@@ -1,5 +1,6 @@
 code_url = "https://github.com/open-austin/website-v3"
 git_url = "git://github.com/open-austin/website-v3.git"
+last_commit = "2022-09-28T20:47:15Z"
 name = "website-v3"
 organization_name = "Open Austin"
 
@@ -7,7 +8,7 @@ organization_name = "Open Austin"
 allow_forking = true
 archived = false
 created_at = "2022-09-27T21:59:26Z"
-default_branch = "main"
+default_branch = "master"
 disabled = false
 fork = false
 forks_within = 0
@@ -19,6 +20,7 @@ has_projects = true
 has_wiki = true
 id = 542_304_446
 is_template = false
+language = "TypeScript"
 name = "website-v3"
 node_id = "R_kgDOIFLovg"
 open_issues_within = 0
