@@ -1,7 +1,7 @@
 code_url = "https://github.com/uscensusbureau/acs-summary-file"
 description = "Technical documentation and example code for the new ACS Summary File"
 git_url = "git://github.com/uscensusbureau/acs-summary-file.git"
-last_commit = "2022-09-09T14:27:11Z"
+last_commit = "2022-09-28T17:14:07Z"
 name = "acs-summary-file"
 organization_name = "US Census Bureau"
 topics = [
@@ -34,7 +34,7 @@ name = "acs-summary-file"
 node_id = "R_kgDOGm3NjA"
 open_issues_within = 10
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 10
 topics = [
   "american-community-survey",
@@ -42,7 +42,7 @@ topics = [
   "census-bureau",
   "census-data"
 ]
-updated_within = "month"
+updated_within = "week"
 visibility = "public"
 watchers_within = 10
 web_commit_signoff_required = false
