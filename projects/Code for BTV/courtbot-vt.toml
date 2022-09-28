@@ -1,7 +1,7 @@
 code_url = "https://github.com/codeforbtv/courtbot-vt"
 description = "CourtBot code specific for Vermont"
 git_url = "git://github.com/codeforbtv/courtbot-vt.git"
-last_commit = "2022-06-06T02:08:29Z"
+last_commit = "2022-09-28T13:45:53Z"
 name = "courtbot-vt"
 organization_name = "Code for BTV"
 
@@ -27,7 +27,7 @@ name = "courtbot-vt"
 node_id = "MDEwOlJlcG9zaXRvcnkzMjA0MjcyNjI="
 open_issues_within = 10
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
 updated_within = "month"
