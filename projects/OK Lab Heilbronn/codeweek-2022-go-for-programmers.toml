@@ -1,40 +1,38 @@
-code_url = "https://github.com/opendata-heilbronn/codeweek-2021-go"
-description = "Go Workshop presentation for the Code Week 2021"
-git_url = "git://github.com/opendata-heilbronn/codeweek-2021-go.git"
+code_url = "https://github.com/opendata-heilbronn/codeweek-2022-go-for-programmers"
+description = "Go Workshop presentation for the Code Week 2022"
+git_url = "git://github.com/opendata-heilbronn/codeweek-2022-go-for-programmers.git"
 last_commit = "2021-10-14T06:46:32Z"
-name = "codeweek-2021-go"
+name = "codeweek-2022-go-for-programmers"
 organization_name = "OK Lab Heilbronn"
-topics = [ "hacktoberfest" ]
 
 [github]
 allow_forking = true
 archived = false
-created_at = "2021-09-30T17:20:49Z"
+created_at = "2022-09-28T17:47:34Z"
 default_branch = "main"
-description = "Go Workshop presentation for the Code Week 2021"
+description = "Go Workshop presentation for the Code Week 2022"
 disabled = false
-fork = false
-forks_within = 10
-full_name = "opendata-heilbronn/codeweek-2021-go"
+fork = true
+forks_within = 0
+full_name = "opendata-heilbronn/codeweek-2022-go-for-programmers"
 has_downloads = true
-has_issues = true
+has_issues = false
 has_pages = false
 has_projects = true
 has_wiki = true
 homepage = ""
-id = 412_157_327
+id = 542_719_400
 is_template = false
-language = "JavaScript"
-name = "codeweek-2021-go"
-node_id = "R_kgDOGJEFjw"
+name = "codeweek-2022-go-for-programmers"
+node_id = "R_kgDOIFk9qA"
 open_issues_within = 0
 private = false
 pushed_within = "year"
-stargazers_within = 10
-topics = [ "hacktoberfest" ]
-updated_within = "year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "week"
 visibility = "public"
-watchers_within = 10
+watchers_within = 0
 web_commit_signoff_required = false
 
   [github.owner]
