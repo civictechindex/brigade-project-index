@@ -3,6 +3,6 @@ git_branch = "main"
 git_url = "git://github.com/CodeForAfrica/api.git"
 last_pushed_within = "week"
 name = "api"
-open_issues_within = 100
+open_issues_within = 10
 organization_name = "Code for Africa"
 topics = [ "django", "django-rest-framework", "python" ]
