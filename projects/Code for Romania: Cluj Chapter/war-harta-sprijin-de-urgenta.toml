@@ -1,6 +1,6 @@
 code_url = "https://github.com/code4romania/war-harta-sprijin-de-urgenta"
 git_url = "git://github.com/code4romania/war-harta-sprijin-de-urgenta.git"
-last_commit = "2022-04-29T07:08:53Z"
+last_commit = "2022-09-28T13:23:19Z"
 link_url = "harta-sdu-prod.vercel.app"
 name = "war-harta-sprijin-de-urgenta"
 organization_name = "Code for Romania: Cluj Chapter"
@@ -27,7 +27,7 @@ name = "war-harta-sprijin-de-urgenta"
 node_id = "R_kgDOG91vcw"
 open_issues_within = 0
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 0
 topics = [ ]
 updated_within = "year"
