@@ -1,5 +1,5 @@
 code_url = "https://github.com/censusreporter/censusreporter"
-last_commit = "2022-09-25T01:58:18Z"
+last_commit = "2022-09-28T20:45:43Z"
 name = "censusreporter"
 organization_name = "Chi Hack Night"
 
@@ -32,7 +32,7 @@ stargazers_within = 1_000
 subscribers_count = 42
 temp_clone_token = ""
 topics = [ ]
-updated_within = "month"
+updated_within = "week"
 visibility = "public"
 watchers_within = 1_000
 web_commit_signoff_required = false
