@@ -1,7 +1,7 @@
 code_url = "https://github.com/hackforla/access-the-data"
 description = "The Access the Data project was created to address the growing gaps between new technology development and decisions impacting our communities with the underlying systems and data that drive those initiatives"
 git_url = "git://github.com/hackforla/access-the-data.git"
-last_commit = "2022-07-12T22:36:56Z"
+last_commit = "2022-09-28T23:51:11Z"
 name = "access-the-data"
 organization_name = "Hack for LA Brigade"
 topics = [
@@ -39,7 +39,7 @@ name = "access-the-data"
 node_id = "MDEwOlJlcG9zaXRvcnkzMzA4MDAwNzk="
 open_issues_within = 100
 private = false
-pushed_within = "year"
+pushed_within = "week"
 score = 1
 stargazers_within = 100
 topics = [
