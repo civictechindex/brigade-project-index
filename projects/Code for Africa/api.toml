@@ -1,6 +1,6 @@
 code_url = "https://github.com/CodeForAfrica/api"
 git_url = "git://github.com/CodeForAfrica/api.git"
-last_commit = "2022-09-28T05:58:58Z"
+last_commit = "2022-09-29T08:50:08Z"
 name = "api"
 organization_name = "Code for Africa"
 topics = [ "django", "django-rest-framework", "python" ]
@@ -25,7 +25,7 @@ is_template = false
 language = "Python"
 name = "api"
 node_id = "R_kgDOHFx4Cg"
-open_issues_within = 100
+open_issues_within = 10
 private = false
 pushed_within = "week"
 stargazers_within = 0
