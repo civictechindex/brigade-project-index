@@ -30,7 +30,7 @@ name = "puppet-dovecot"
 node_id = "MDEwOlJlcG9zaXRvcnk4NjY5MjE2MQ=="
 open_issues_within = 10
 private = false
-pushed_within = "over_a_year"
+pushed_within = "week"
 stargazers_within = 0
 topics = [ "dovecot", "puppet" ]
 updated_within = "over_a_year"
