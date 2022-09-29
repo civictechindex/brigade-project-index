@@ -1,7 +1,7 @@
 code_url = "https://github.com/Code-For-Chicago/Code-for-Chicago-Data-Workgroup"
 description = "Exploring datasets for potential Code for Chicago projects"
 git_url = "git://github.com/Code-For-Chicago/Code-for-Chicago-Data-Workgroup.git"
-last_commit = "2022-09-08T00:28:18Z"
+last_commit = "2022-09-29T00:18:09Z"
 name = "Code-for-Chicago-Data-Workgroup"
 organization_name = "Code for Chicago"
 
@@ -27,7 +27,7 @@ name = "Code-for-Chicago-Data-Workgroup"
 node_id = "R_kgDOHUjjjQ"
 open_issues_within = 100
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
 updated_within = "year"
