@@ -1,7 +1,7 @@
 code_url = "https://github.com/CodeForAfrica/harassment-manager"
 description = "Harassment Manager is a web application that aims to empower users to document and take action on abuse targeted at them on online platforms."
 git_url = "git://github.com/CodeForAfrica/harassment-manager.git"
-last_commit = "2022-09-27T12:02:44Z"
+last_commit = "2022-09-29T11:12:56Z"
 name = "harassment-manager"
 organization_name = "Code for Ghana"
 
@@ -26,7 +26,7 @@ is_template = false
 language = "TypeScript"
 name = "harassment-manager"
 node_id = "R_kgDOHBKoDw"
-open_issues_within = 0
+open_issues_within = 10
 private = false
 pushed_within = "week"
 stargazers_within = 10
