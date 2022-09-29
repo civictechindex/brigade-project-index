@@ -1,7 +1,7 @@
 code_url = "https://github.com/codeforjapan/bad-opendata-temple"
 description = "BADオープンデータ供養寺 建立予定地"
 git_url = "git://github.com/codeforjapan/bad-opendata-temple.git"
-last_commit = "2022-01-01T05:57:21Z"
+last_commit = "2022-09-29T01:31:06Z"
 name = "bad-opendata-temple"
 organization_name = "Code for Japan"
 
@@ -27,7 +27,7 @@ name = "bad-opendata-temple"
 node_id = "MDEwOlJlcG9zaXRvcnkyODI1Nzg3ODY="
 open_issues_within = 10
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 100
 topics = [ ]
 updated_within = "year"
