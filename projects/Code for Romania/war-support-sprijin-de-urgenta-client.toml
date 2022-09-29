@@ -1,7 +1,6 @@
 code_url = "https://github.com/code4romania/war-support-sprijin-de-urgenta-client"
 git_url = "git://github.com/code4romania/war-support-sprijin-de-urgenta-client.git"
-last_commit = "2022-08-30T21:22:46Z"
-link_url = "war-support-sprijin-de-urgenta-client.vercel.app"
+last_commit = "2022-09-28T13:07:05Z"
 name = "war-support-sprijin-de-urgenta-client"
 organization_name = "Code for Romania"
 
@@ -19,7 +18,7 @@ has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = true
-homepage = "war-support-sprijin-de-urgenta-client.vercel.app"
+homepage = ""
 id = 463_957_415
 is_template = false
 language = "TypeScript"
@@ -30,7 +29,7 @@ private = false
 pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
-updated_within = "year"
+updated_within = "week"
 visibility = "public"
 watchers_within = 10
 web_commit_signoff_required = false
