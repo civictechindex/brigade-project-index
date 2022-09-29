@@ -1,6 +1,6 @@
 code_url = "https://github.com/codefordc/us-congress-pizza-flag-tracker"
 git_url = "git://github.com/codefordc/us-congress-pizza-flag-tracker.git"
-last_commit = "2022-08-18T00:49:32Z"
+last_commit = "2022-09-29T00:37:59Z"
 link_url = "https://codefordc-flag.netlify.app/"
 name = "us-congress-pizza-flag-tracker"
 organization_name = "Code for DC"
@@ -27,7 +27,7 @@ name = "us-congress-pizza-flag-tracker"
 node_id = "MDEwOlJlcG9zaXRvcnkzMTk0OTI4MDI="
 open_issues_within = 100
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
 updated_within = "year"
