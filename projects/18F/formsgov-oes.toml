@@ -1,7 +1,7 @@
 code_url = "https://github.com/18F/formsgov-oes"
 git_branch = "oldmain"
 git_url = "git://github.com/18F/formsgov-oes.git"
-last_pushed_within = "month"
+last_pushed_within = "year"
 name = "formsgov-oes"
 open_issues_within = 100
 organization_name = "18F"
