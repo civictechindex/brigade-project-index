@@ -1,7 +1,7 @@
 code_url = "https://github.com/18F/dns"
 description = "DNS configuration for domains managed by GSA TTS"
 git_url = "git://github.com/18F/dns.git"
-last_commit = "2022-09-09T15:25:58Z"
+last_commit = "2022-09-29T18:56:59Z"
 link_url = "https://github.com/18F/dns/blob/master/doc/architecture.md"
 name = "dns"
 organization_name = "18F"
@@ -29,7 +29,7 @@ name = "dns"
 node_id = "MDEwOlJlcG9zaXRvcnk2MjY2NTUwMA=="
 open_issues_within = 10
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 100
 topics = [ ]
 updated_within = "year"
