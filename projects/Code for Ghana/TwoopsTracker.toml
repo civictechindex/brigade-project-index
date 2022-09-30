@@ -1,7 +1,7 @@
 code_url = "https://github.com/CodeForAfrica/TwoopsTracker"
 description = "A Twitter-based disinformation tracking tool built on a web-based dashboard that collects deleted tweet content from previously identified trolls and disinformation actors."
 git_url = "git://github.com/CodeForAfrica/TwoopsTracker.git"
-last_commit = "2022-09-28T05:40:36Z"
+last_commit = "2022-09-30T06:07:46Z"
 name = "TwoopsTracker"
 organization_name = "Code for Ghana"
 topics = [ "social-network", "twitter" ]
