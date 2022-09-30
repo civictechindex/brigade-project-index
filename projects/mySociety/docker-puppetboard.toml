@@ -30,10 +30,10 @@ name = "docker-puppetboard"
 node_id = "MDEwOlJlcG9zaXRvcnkxNzA3MjQ1OTU="
 open_issues_within = 0
 private = false
-pushed_within = "year"
+pushed_within = "over_a_year"
 stargazers_within = 0
 topics = [ "deployment", "docker", "puppetboard" ]
-updated_within = "year"
+updated_within = "over_a_year"
 visibility = "public"
 watchers_within = 0
 web_commit_signoff_required = false
