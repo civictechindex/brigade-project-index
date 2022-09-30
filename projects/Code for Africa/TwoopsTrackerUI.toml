@@ -1,6 +1,6 @@
 code_url = "https://github.com/CodeForAfrica/TwoopsTrackerUI"
 git_url = "git://github.com/CodeForAfrica/TwoopsTrackerUI.git"
-last_commit = "2022-09-19T05:37:49Z"
+last_commit = "2022-09-30T10:23:11Z"
 link_url = "twoops-tracker-ui.vercel.app"
 name = "TwoopsTrackerUI"
 organization_name = "Code for Africa"
@@ -25,7 +25,7 @@ is_template = false
 language = "JavaScript"
 name = "TwoopsTrackerUI"
 node_id = "R_kgDOGODrgg"
-open_issues_within = 10
+open_issues_within = 0
 private = false
 pushed_within = "week"
 stargazers_within = 0
