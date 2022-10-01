@@ -1,6 +1,6 @@
 code_url = "https://github.com/g0v/10v"
 git_url = "git://github.com/g0v/10v.git"
-last_commit = "2022-09-18T17:28:13Z"
+last_commit = "2022-10-01T05:39:06Z"
 name = "10v"
 organization_name = "g0v.tw"
 
@@ -20,15 +20,15 @@ has_projects = true
 has_wiki = true
 id = 505_013_182
 is_template = false
-language = "LiveScript"
+language = "JavaScript"
 name = "10v"
 node_id = "R_kgDOHhnjvg"
 open_issues_within = 0
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
-updated_within = "year"
+updated_within = "week"
 visibility = "public"
 watchers_within = 10
 web_commit_signoff_required = false
