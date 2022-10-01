@@ -1,9 +1,10 @@
 code_url = "https://github.com/codefordayton/npverify"
 description = "Nonprofit verifier for DaytonServes"
 git_url = "git://github.com/codefordayton/npverify.git"
-last_commit = "2022-09-22T00:43:50Z"
+last_commit = "2022-10-01T14:48:07Z"
 name = "npverify"
 organization_name = "Code for Dayton"
+topics = [ "django", "hacktoberfest", "python" ]
 
 [github]
 allow_forking = true
@@ -20,6 +21,7 @@ has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = true
+homepage = ""
 id = 532_918_648
 is_template = false
 language = "Python"
@@ -27,10 +29,10 @@ name = "npverify"
 node_id = "R_kgDOH8OxeA"
 open_issues_within = 10
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 0
-topics = [ ]
-updated_within = "month"
+topics = [ "django", "hacktoberfest", "python" ]
+updated_within = "week"
 visibility = "public"
 watchers_within = 0
 web_commit_signoff_required = false
