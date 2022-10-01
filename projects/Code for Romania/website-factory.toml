@@ -5,3 +5,4 @@ last_pushed_within = "week"
 name = "website-factory"
 open_issues_within = 10
 organization_name = "Code for Romania"
+topics = [ "hacktoberfest", "laravel", "tailwindcss", "website-builder" ]
