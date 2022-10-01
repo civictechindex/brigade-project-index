@@ -1,7 +1,7 @@
 code_url = "https://github.com/18F/pages-redirects"
 description = "Redirects traffic from previous pages.18f.gov sites to their new URLs."
 git_url = "git://github.com/18F/pages-redirects.git"
-last_commit = "2022-08-17T17:34:29Z"
+last_commit = "2022-09-30T21:05:49Z"
 name = "pages-redirects"
 organization_name = "18F"
 
@@ -28,7 +28,7 @@ name = "pages-redirects"
 node_id = "MDEwOlJlcG9zaXRvcnk4NTg4MzAzOA=="
 open_issues_within = 10
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
 updated_within = "year"
