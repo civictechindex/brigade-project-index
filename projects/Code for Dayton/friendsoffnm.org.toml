@@ -1,9 +1,10 @@
 code_url = "https://github.com/codefordayton/friendsoffnm.org"
 description = "Website for Friends of Florence Nightingale Museum."
 git_url = "git://github.com/codefordayton/friendsoffnm.org.git"
-last_commit = "2022-09-10T22:36:34Z"
+last_commit = "2022-10-01T15:19:16Z"
 name = "friendsoffnm.org"
 organization_name = "Code for Dayton"
+topics = [ "hacktoberfest", "jekyll" ]
 
 [github]
 allow_forking = true
@@ -20,17 +21,18 @@ has_issues = true
 has_pages = true
 has_projects = true
 has_wiki = true
+homepage = ""
 id = 534_847_575
 is_template = false
 language = "HTML"
 name = "friendsoffnm.org"
 node_id = "R_kgDOH-EgVw"
-open_issues_within = 0
+open_issues_within = 10
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 0
-topics = [ ]
-updated_within = "month"
+topics = [ "hacktoberfest", "jekyll" ]
+updated_within = "week"
 visibility = "public"
 watchers_within = 0
 web_commit_signoff_required = false
