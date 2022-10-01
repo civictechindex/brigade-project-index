@@ -3,6 +3,7 @@ git_url = "git://github.com/code4romania/website-factory.git"
 last_commit = "2022-09-30T15:10:10Z"
 name = "website-factory"
 organization_name = "Code for Romania: Cluj Chapter"
+topics = [ "hacktoberfest", "laravel", "tailwindcss", "website-builder" ]
 
 [github]
 allow_forking = true
@@ -17,7 +18,7 @@ has_downloads = true
 has_issues = true
 has_pages = false
 has_projects = true
-has_wiki = true
+has_wiki = false
 homepage = ""
 id = 382_650_348
 is_template = false
@@ -28,8 +29,8 @@ open_issues_within = 10
 private = false
 pushed_within = "week"
 stargazers_within = 10
-topics = [ ]
-updated_within = "year"
+topics = [ "hacktoberfest", "laravel", "tailwindcss", "website-builder" ]
+updated_within = "week"
 visibility = "public"
 watchers_within = 10
 web_commit_signoff_required = false
