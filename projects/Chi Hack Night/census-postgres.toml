@@ -1,6 +1,6 @@
 code_url = "https://github.com/censusreporter/census-postgres"
 git_branch = "master"
-last_pushed_within = "week"
+last_pushed_within = "month"
 name = "census-postgres"
 open_issues_within = 10
 organization_name = "Chi Hack Night"
