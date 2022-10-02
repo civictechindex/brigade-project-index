@@ -1,7 +1,7 @@
 code_url = "https://github.com/OpenMaine/maineballot"
 description = "The goal of MaineBallot.org is to provide concise, non-partisan information to make it easy to understand the ballot questions pending in Maine."
 git_url = "git://github.com/OpenMaine/maineballot.git"
-last_commit = "2022-07-26T22:27:58Z"
+last_commit = "2022-10-02T17:53:32Z"
 link_url = "https://maineballot.org"
 name = "maineballot"
 organization_name = "Open Maine"
@@ -35,7 +35,7 @@ name = "maineballot"
 node_id = "MDEwOlJlcG9zaXRvcnkxNjU5MTA1NDQ="
 open_issues_within = 100
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 100
 topics = [
   "brigade",
