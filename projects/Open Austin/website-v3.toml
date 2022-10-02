@@ -1,6 +1,7 @@
 code_url = "https://github.com/open-austin/website-v3"
-git_branch = "master"
+git_branch = "main"
 git_url = "git://github.com/open-austin/website-v3.git"
 last_pushed_within = "week"
 name = "website-v3"
+open_issues_within = 10
 organization_name = "Open Austin"
