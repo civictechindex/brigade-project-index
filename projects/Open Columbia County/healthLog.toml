@@ -1,13 +1,15 @@
 code_url = "https://github.com/Open-Columbia-County/healthLog"
 description = "Mental Well-being Log"
 git_url = "git://github.com/Open-Columbia-County/healthLog.git"
-last_commit = "2022-02-04T03:41:17Z"
+last_commit = "2022-10-02T19:26:42Z"
 link_url = "https://healthlog.opencolumbiaco.org/"
 name = "healthLog"
 organization_name = "Open Columbia County"
 topics = [
   "brigade",
   "code-for-america",
+  "hacktoberfest",
+  "hacktoberfest2022",
   "open-columbia-co",
   "open-columbia-county"
 ]
@@ -30,20 +32,22 @@ has_wiki = true
 homepage = "https://healthlog.opencolumbiaco.org/"
 id = 451_355_937
 is_template = false
-language = "HTML"
+language = "Python"
 name = "healthLog"
 node_id = "R_kgDOGuclIQ"
 open_issues_within = 0
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 0
 topics = [
   "brigade",
   "code-for-america",
+  "hacktoberfest",
+  "hacktoberfest2022",
   "open-columbia-co",
   "open-columbia-county"
 ]
-updated_within = "year"
+updated_within = "week"
 visibility = "public"
 watchers_within = 0
 web_commit_signoff_required = false
