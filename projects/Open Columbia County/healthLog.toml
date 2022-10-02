@@ -2,13 +2,15 @@ code_url = "https://github.com/Open-Columbia-County/healthLog"
 description = "Mental Well-being Log"
 git_branch = "main"
 git_url = "git://github.com/Open-Columbia-County/healthLog.git"
-last_pushed_within = "year"
+last_pushed_within = "week"
 link_url = "https://healthlog.opencolumbiaco.org/"
 name = "healthLog"
 organization_name = "Open Columbia County"
 topics = [
   "brigade",
   "code-for-america",
+  "hacktoberfest",
+  "hacktoberfest2022",
   "open-columbia-co",
   "open-columbia-county"
 ]
