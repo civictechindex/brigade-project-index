@@ -4,3 +4,4 @@ git_url = "git://github.com/Open-Columbia-County/militaryFamilySite.git"
 last_pushed_within = "year"
 name = "militaryFamilySite"
 organization_name = "Open Columbia County"
+topics = [ "hacktoberfest", "hacktoberfest2022" ]
