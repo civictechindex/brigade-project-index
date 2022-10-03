@@ -5,7 +5,6 @@ last_commit = "2022-06-20T14:34:54Z"
 link_url = "https://taskforce-fe-components.now.sh"
 name = "taskforce-fe-components"
 organization_name = "Code for Romania: Iasi Chapter"
-topics = [ "hacktoberfest" ]
 
 [github]
 allow_forking = true
@@ -32,8 +31,8 @@ open_issues_within = 10
 private = false
 pushed_within = "year"
 stargazers_within = 100
-topics = [ "hacktoberfest" ]
-updated_within = "year"
+topics = [ ]
+updated_within = "week"
 visibility = "public"
 watchers_within = 100
 web_commit_signoff_required = false

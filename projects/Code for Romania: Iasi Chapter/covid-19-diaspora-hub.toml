@@ -5,7 +5,7 @@ last_commit = "2021-10-01T13:41:18Z"
 link_url = "https://diasporahub.ro"
 name = "covid-19-diaspora-hub"
 organization_name = "Code for Romania: Iasi Chapter"
-topics = [ "civic-tech", "covid-19", "hacktoberfest" ]
+topics = [ "civic-tech", "covid-19" ]
 
 [github]
 allow_forking = true
@@ -32,8 +32,8 @@ open_issues_within = 10
 private = false
 pushed_within = "year"
 stargazers_within = 10
-topics = [ "civic-tech", "covid-19", "hacktoberfest" ]
-updated_within = "over_a_year"
+topics = [ "civic-tech", "covid-19" ]
+updated_within = "week"
 visibility = "public"
 watchers_within = 10
 web_commit_signoff_required = false
