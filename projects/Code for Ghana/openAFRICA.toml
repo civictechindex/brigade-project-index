@@ -73,7 +73,7 @@ topics = [
   "south-africa",
   "tanzania"
 ]
-updated_within = "month"
+updated_within = "year"
 visibility = "public"
 watchers_within = 100
 web_commit_signoff_required = false
