@@ -5,14 +5,7 @@ last_commit = "2022-08-12T10:11:11Z"
 link_url = "https://covid19.stirioficiale.ro"
 name = "covid-19-stiri-oficiale"
 organization_name = "Code for Romania"
-topics = [
-  "alpinejs",
-  "covid-19",
-  "hacktoberfest",
-  "laravel",
-  "php",
-  "tailwindcss"
-]
+topics = [ "alpinejs", "covid-19", "laravel", "php", "tailwindcss" ]
 
 [github]
 allow_forking = true
@@ -39,15 +32,8 @@ open_issues_within = 0
 private = false
 pushed_within = "year"
 stargazers_within = 100
-topics = [
-  "alpinejs",
-  "covid-19",
-  "hacktoberfest",
-  "laravel",
-  "php",
-  "tailwindcss"
-]
-updated_within = "year"
+topics = [ "alpinejs", "covid-19", "laravel", "php", "tailwindcss" ]
+updated_within = "week"
 visibility = "public"
 watchers_within = 100
 web_commit_signoff_required = false
