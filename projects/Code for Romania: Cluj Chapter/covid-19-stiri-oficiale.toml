@@ -6,11 +6,4 @@ last_pushed_within = "year"
 link_url = "https://covid19.stirioficiale.ro"
 name = "covid-19-stiri-oficiale"
 organization_name = "Code for Romania: Cluj Chapter"
-topics = [
-  "alpinejs",
-  "covid-19",
-  "hacktoberfest",
-  "laravel",
-  "php",
-  "tailwindcss"
-]
+topics = [ "alpinejs", "covid-19", "laravel", "php", "tailwindcss" ]
