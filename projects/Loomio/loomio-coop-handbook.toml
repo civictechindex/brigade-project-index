@@ -1,7 +1,7 @@
 code_url = "https://github.com/loomio/loomio-coop-handbook"
 description = "All the processes of the Loomio Cooperative. See loomio.coop for more info."
 git_url = "git://github.com/loomio/loomio-coop-handbook.git"
-last_commit = "2022-06-28T08:25:25Z"
+last_commit = "2022-10-03T01:20:20Z"
 link_url = "http://loomio.coop"
 name = "loomio-coop-handbook"
 organization_name = "Loomio"
@@ -29,7 +29,7 @@ name = "loomio-coop-handbook"
 node_id = "MDEwOlJlcG9zaXRvcnk4NTEzNjg3"
 open_issues_within = 10
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 100
 topics = [ ]
 updated_within = "year"
