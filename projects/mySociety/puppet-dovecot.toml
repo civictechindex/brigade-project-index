@@ -1,7 +1,7 @@
 code_url = "https://github.com/mysociety/puppet-dovecot"
 description = "Simple puppet module for managing Dovecot"
 git_url = "git://github.com/mysociety/puppet-dovecot.git"
-last_commit = "2021-07-23T14:35:50Z"
+last_commit = "2022-09-28T15:02:48Z"
 link_url = "https://github.com/mysociety/puppet-dovecot"
 name = "puppet-dovecot"
 organization_name = "mySociety"
@@ -25,7 +25,7 @@ has_wiki = true
 homepage = "https://github.com/mysociety/puppet-dovecot"
 id = 86_692_161
 is_template = false
-language = "Puppet"
+language = "HTML"
 name = "puppet-dovecot"
 node_id = "MDEwOlJlcG9zaXRvcnk4NjY5MjE2MQ=="
 open_issues_within = 10
@@ -33,7 +33,7 @@ private = false
 pushed_within = "week"
 stargazers_within = 0
 topics = [ "dovecot", "puppet" ]
-updated_within = "over_a_year"
+updated_within = "week"
 visibility = "public"
 watchers_within = 0
 web_commit_signoff_required = false

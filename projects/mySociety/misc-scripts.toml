@@ -1,7 +1,7 @@
 code_url = "https://github.com/mysociety/misc-scripts"
 description = "Miscellaneous scripts (deploying, log rotation, lockfiles, git hooks, server config, etc)"
 git_url = "git://github.com/mysociety/misc-scripts.git"
-last_commit = "2022-07-05T10:26:57Z"
+last_commit = "2022-10-03T11:09:39Z"
 name = "misc-scripts"
 organization_name = "mySociety"
 
@@ -27,7 +27,7 @@ name = "misc-scripts"
 node_id = "MDEwOlJlcG9zaXRvcnkxNjI3NzgyMg=="
 open_issues_within = 10
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
 updated_within = "year"
