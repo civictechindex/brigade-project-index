@@ -3,6 +3,7 @@ git_url = "git://github.com/Open-Columbia-County/militaryFamilySite.git"
 last_commit = "2021-10-04T06:51:51Z"
 name = "militaryFamilySite"
 organization_name = "Open Columbia County"
+topics = [ "hacktoberfest", "hacktoberfest2022" ]
 
 [github]
 allow_forking = true
@@ -18,6 +19,7 @@ has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = true
+homepage = ""
 id = 381_993_820
 is_template = false
 language = "Python"
@@ -27,8 +29,8 @@ open_issues_within = 0
 private = false
 pushed_within = "year"
 stargazers_within = 10
-topics = [ ]
-updated_within = "year"
+topics = [ "hacktoberfest", "hacktoberfest2022" ]
+updated_within = "week"
 visibility = "public"
 watchers_within = 10
 web_commit_signoff_required = false
