@@ -1,7 +1,7 @@
 code_url = "https://github.com/codeforsanjose/project-happening-atm"
 description = "Agenda notifications for local government meetings"
 git_url = "git://github.com/codeforsanjose/project-happening-atm.git"
-last_commit = "2022-09-24T18:41:31Z"
+last_commit = "2022-10-02T16:09:34Z"
 link_url = "https://gov-agenda-notifier.herokuapp.com/"
 name = "project-happening-atm"
 organization_name = "Code for San Jose"
@@ -29,7 +29,7 @@ name = "project-happening-atm"
 node_id = "MDEwOlJlcG9zaXRvcnkyOTYyMDM1NTM="
 open_issues_within = 100
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 100
 topics = [ ]
 updated_within = "year"
