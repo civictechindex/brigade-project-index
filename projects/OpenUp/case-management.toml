@@ -3,5 +3,7 @@ description = "A Django and React web-app for community case officers and manage
 git_branch = "master"
 git_url = "git://github.com/OpenUpSA/case-management.git"
 last_pushed_within = "week"
+link_url = "case-management-app.vercel.app"
 name = "case-management"
+open_issues_within = 10
 organization_name = "OpenUp"
