@@ -1,7 +1,7 @@
 code_url = "https://github.com/CodeForAfrica/DebunkBot"
 description = "A bot that debunks claims shared on social media by sharing a fact check. Powered by Google Sheets and the rains in Africa. Accessible at https://debunkbot.dev.pesacheck.org/"
 git_url = "git://github.com/CodeForAfrica/DebunkBot.git"
-last_commit = "2022-09-14T05:51:07Z"
+last_commit = "2022-10-04T05:46:59Z"
 link_url = "https://twitter.com/DebunkBotAfrica"
 name = "DebunkBot"
 organization_name = "Code for Africa"
@@ -38,7 +38,7 @@ name = "DebunkBot"
 node_id = "MDEwOlJlcG9zaXRvcnkyMDI2NzQ0NTk="
 open_issues_within = 10
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 10
 topics = [
   "africa",

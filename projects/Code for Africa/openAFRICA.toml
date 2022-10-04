@@ -50,7 +50,7 @@ name = "openAFRICA"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDE4ODg5ODE="
 open_issues_within = 10
 private = false
-pushed_within = "week"
+pushed_within = "month"
 stargazers_within = 100
 topics = [
   "africa",
@@ -73,7 +73,7 @@ topics = [
   "south-africa",
   "tanzania"
 ]
-updated_within = "month"
+updated_within = "year"
 visibility = "public"
 watchers_within = 100
 web_commit_signoff_required = false
