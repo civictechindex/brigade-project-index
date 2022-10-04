@@ -1,7 +1,7 @@
 code_url = "https://github.com/Open-Columbia-County/militaryFamilySite"
 git_branch = "main"
 git_url = "git://github.com/Open-Columbia-County/militaryFamilySite.git"
-last_pushed_within = "year"
+last_pushed_within = "over_a_year"
 name = "militaryFamilySite"
 organization_name = "Open Columbia County"
 topics = [ "hacktoberfest", "hacktoberfest2022" ]
