@@ -1,7 +1,7 @@
 code_url = "https://github.com/Open-Columbia-County/healthLog"
 description = "Mental Well-being Log"
 git_url = "git://github.com/Open-Columbia-County/healthLog.git"
-last_commit = "2022-10-03T15:53:23Z"
+last_commit = "2022-10-04T04:21:08Z"
 link_url = "https://healthlog.opencolumbiaco.org/"
 name = "healthLog"
 organization_name = "Open Columbia County"
@@ -32,7 +32,7 @@ has_wiki = true
 homepage = "https://healthlog.opencolumbiaco.org/"
 id = 451_355_937
 is_template = false
-language = "HTML"
+language = "CSS"
 name = "healthLog"
 node_id = "R_kgDOGuclIQ"
 open_issues_within = 0
