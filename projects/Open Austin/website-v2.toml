@@ -1,7 +1,7 @@
 code_url = "https://github.com/open-austin/website-v2"
 description = "New public-facing website for Open Austin (work in progress)"
 git_url = "git://github.com/open-austin/website-v2.git"
-last_commit = "2022-08-31T15:51:13Z"
+last_commit = "2022-10-04T05:21:00Z"
 name = "website-v2"
 organization_name = "Open Austin"
 topics = [
@@ -36,7 +36,7 @@ name = "website-v2"
 node_id = "R_kgDOHdulrw"
 open_issues_within = 100
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 10
 topics = [
   "chakra-ui",
