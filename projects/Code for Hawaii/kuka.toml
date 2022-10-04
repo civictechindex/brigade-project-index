@@ -1,7 +1,7 @@
 code_url = "https://github.com/CodeforHawaii/kuka"
 description = "Share video testimony."
 git_url = "git://github.com/CodeforHawaii/kuka.git"
-last_commit = "2022-05-02T18:38:56Z"
+last_commit = "2022-10-04T04:32:45Z"
 name = "kuka"
 organization_name = "Code for Hawaii"
 
@@ -25,9 +25,9 @@ is_template = false
 language = "TypeScript"
 name = "kuka"
 node_id = "MDEwOlJlcG9zaXRvcnkyODU0NzEwMDc="
-open_issues_within = 100
+open_issues_within = 10
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
 updated_within = "year"
