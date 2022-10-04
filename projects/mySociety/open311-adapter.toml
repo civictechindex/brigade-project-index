@@ -1,7 +1,7 @@
 code_url = "https://github.com/mysociety/open311-adapter"
 description = "An Open311 adapter to receive Open311 reports from FixMyStreet and send them on to non-Open311 services"
 git_url = "git://github.com/mysociety/open311-adapter.git"
-last_commit = "2022-07-22T08:19:12Z"
+last_commit = "2022-10-04T15:55:14Z"
 name = "open311-adapter"
 organization_name = "mySociety"
 
@@ -25,7 +25,7 @@ is_template = false
 language = "Perl"
 name = "open311-adapter"
 node_id = "MDEwOlJlcG9zaXRvcnk2NjM1OTM1Mg=="
-open_issues_within = 100
+open_issues_within = 10
 private = false
 pushed_within = "week"
 stargazers_within = 10
