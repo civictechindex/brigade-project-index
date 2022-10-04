@@ -3,6 +3,7 @@ description = "New public-facing website for Open Austin (work in progress)"
 git_branch = "dev"
 git_url = "git://github.com/open-austin/website-v2.git"
 last_pushed_within = "week"
+link_url = "https://open-austin.github.io/website-v2"
 name = "website-v2"
 open_issues_within = 100
 organization_name = "Open Austin"
