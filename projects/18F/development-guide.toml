@@ -1,7 +1,7 @@
 code_url = "https://github.com/18F/development-guide"
 description = "A set of guidelines and best practices for an awesome software engineering team"
 git_url = "git://github.com/18F/development-guide.git"
-last_commit = "2022-09-26T13:41:44Z"
+last_commit = "2022-10-03T21:02:45Z"
 link_url = "https://engineering.18f.gov"
 name = "development-guide"
 organization_name = "18F"
@@ -29,7 +29,7 @@ name = "development-guide"
 node_id = "MDEwOlJlcG9zaXRvcnk0MjMzNDYzMg=="
 open_issues_within = 100
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 1_000
 topics = [ ]
 updated_within = "week"
