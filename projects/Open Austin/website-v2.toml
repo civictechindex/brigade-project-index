@@ -1,7 +1,8 @@
 code_url = "https://github.com/open-austin/website-v2"
 description = "New public-facing website for Open Austin (work in progress)"
 git_url = "git://github.com/open-austin/website-v2.git"
-last_commit = "2022-10-04T05:21:00Z"
+last_commit = "2022-10-04T07:25:45Z"
+link_url = "https://open-austin.github.io/website-v2"
 name = "website-v2"
 organization_name = "Open Austin"
 topics = [
@@ -25,10 +26,10 @@ forks_within = 10
 full_name = "open-austin/website-v2"
 has_downloads = true
 has_issues = true
-has_pages = false
+has_pages = true
 has_projects = true
 has_wiki = true
-homepage = ""
+homepage = "https://open-austin.github.io/website-v2"
 id = 500_934_063
 is_template = false
 language = "TypeScript"
@@ -46,7 +47,7 @@ topics = [
   "typescript",
   "website"
 ]
-updated_within = "month"
+updated_within = "week"
 visibility = "public"
 watchers_within = 10
 web_commit_signoff_required = false
