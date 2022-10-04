@@ -1,7 +1,7 @@
 code_url = "https://github.com/uscensusbureau/coil-site"
 description = "Jekyll site for showcasing the projects and people that make up Census Open Innovation Labs"
 git_url = "git://github.com/uscensusbureau/coil-site.git"
-last_commit = "2022-10-04T15:26:14Z"
+last_commit = "2022-10-04T17:48:12Z"
 name = "coil-site"
 organization_name = "US Census Bureau"
 
@@ -25,12 +25,12 @@ is_template = false
 language = "SCSS"
 name = "coil-site"
 node_id = "MDEwOlJlcG9zaXRvcnkzODQ1MzAzNDE="
-open_issues_within = 10
+open_issues_within = 0
 private = false
 pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
-updated_within = "year"
+updated_within = "week"
 visibility = "public"
 watchers_within = 10
 web_commit_signoff_required = false
