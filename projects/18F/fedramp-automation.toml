@@ -5,5 +5,5 @@ git_url = "git://github.com/18F/fedramp-automation.git"
 last_pushed_within = "week"
 link_url = "https://federalist-2372d2fd-fc94-42fe-bcc7-a8af4f664a51.app.cloud.gov/site/18f/fedramp-automation/"
 name = "fedramp-automation"
-open_issues_within = 100
+open_issues_within = 1_000
 organization_name = "18F"
