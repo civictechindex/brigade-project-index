@@ -6,11 +6,4 @@ last_pushed_within = "year"
 name = "partner-finder"
 open_issues_within = 100
 organization_name = "Code for Denver"
-topics = [
-  "civic-tech",
-  "flask",
-  "hacktoberfest",
-  "python",
-  "react",
-  "rest-api"
-]
+topics = [ "civic-tech", "flask", "python", "react", "rest-api" ]
