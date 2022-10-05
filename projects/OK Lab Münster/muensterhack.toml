@@ -1,7 +1,7 @@
 code_url = "https://github.com/codeformuenster/muensterhack"
 description = "Dokumentation der Projekte des Münsterhack"
 git_url = "git://github.com/codeformuenster/muensterhack.git"
-last_commit = "2022-09-29T07:51:33Z"
+last_commit = "2022-10-05T12:56:11Z"
 name = "muensterhack"
 organization_name = "OK Lab Münster"
 topics = [ "mshack", "muensterhack" ]
@@ -14,7 +14,7 @@ default_branch = "master"
 description = "Dokumentation der Projekte des Münsterhack"
 disabled = false
 fork = false
-forks_within = 10
+forks_within = 100
 full_name = "codeformuenster/muensterhack"
 has_downloads = true
 has_issues = true
