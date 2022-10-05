@@ -1,7 +1,7 @@
 code_url = "https://github.com/codeforgreenville/codeforgreenville.github.io"
 description = "the Code for Greenville Brigade Blog"
 git_url = "git://github.com/codeforgreenville/codeforgreenville.github.io.git"
-last_commit = "2021-06-02T11:53:36Z"
+last_commit = "2022-10-05T02:56:57Z"
 name = "codeforgreenville.github.io"
 organization_name = "Code for Greenville"
 
@@ -27,7 +27,7 @@ name = "codeforgreenville.github.io"
 node_id = "MDEwOlJlcG9zaXRvcnkxOTM2MzAzMg=="
 open_issues_within = 10
 private = false
-pushed_within = "over_a_year"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
 updated_within = "week"
