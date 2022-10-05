@@ -27,12 +27,12 @@ is_template = false
 language = "PHP"
 name = "hackgreenville-com"
 node_id = "MDEwOlJlcG9zaXRvcnkxNDAzNDA1Njc="
-open_issues_within = 100
+open_issues_within = 10
 private = false
 pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
-updated_within = "year"
+updated_within = "week"
 visibility = "public"
 watchers_within = 10
 web_commit_signoff_required = false
