@@ -1,7 +1,7 @@
 code_url = "https://github.com/DataSF/datasf.github.io"
 description = "The website for DataSF - empowering use of the City's data"
 git_url = "git://github.com/DataSF/datasf.github.io.git"
-last_commit = "2022-09-14T16:27:55Z"
+last_commit = "2022-10-04T22:00:20Z"
 link_url = "https://datasf.org"
 name = "datasf.github.io"
 organization_name = "Data SF"
@@ -29,7 +29,7 @@ name = "datasf.github.io"
 node_id = "MDEwOlJlcG9zaXRvcnkyODI1MjUzOA=="
 open_issues_within = 100
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 100
 topics = [ ]
 updated_within = "year"
