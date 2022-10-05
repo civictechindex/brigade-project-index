@@ -1,6 +1,6 @@
 code_url = "https://github.com/CodeForPhilly/paws-data-pipeline"
 description = "WHO IS PAWS - As the city's largest animal rescue partner and no-kill animal shelter, PAWS is working to make Philadelphia a place where every healthy and treatable pet is guaranteed a home. Since inception over 10 years ago, PAWS has rescued and placed 27,000+ animals in adoptive and foster homes, and has worked to prevent pet homelessness by providing 86,000+ low-cost spay/neuter services and affordable vet care to 227,000+ clinic patients. Just in 2018, 3,584 animals were rescued and 36,871 clinic patients were served. PAWS is funded 100% through donations, with 91 cents of every dollar collected going directly to the animals. Therefore, PAWS' rescue work (including 3 shelters and all rescue and animal care programs), administration and development efforts are coordinated by only about 70 staff members complemented by over 1500 volunteers."
-last_commit = "2022-08-02T23:25:56Z"
+last_commit = "2022-10-04T22:31:47Z"
 link_url = "https://phillypaws.org/"
 name = "paws_data_pipeline"
 organization_name = "Code for Philly"
@@ -31,7 +31,7 @@ network_count = 7
 node_id = "MDEwOlJlcG9zaXRvcnkyMTY5MzYyMjc="
 open_issues_within = 100
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 100
 subscribers_count = 19
 temp_clone_token = ""

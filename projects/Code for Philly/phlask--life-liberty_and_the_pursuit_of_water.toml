@@ -35,13 +35,13 @@ id = 162_033_435
 is_template = false
 language = "JavaScript"
 name = "phlask-map"
-network_count = 16
+network_count = 17
 node_id = "MDEwOlJlcG9zaXRvcnkxNjIwMzM0MzU="
 open_issues_within = 100
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 100
-subscribers_count = 12
+subscribers_count = 13
 temp_clone_token = ""
 topics = [ "docker", "es6", "map", "phlask-map", "reactjs" ]
 updated_within = "week"

@@ -1,6 +1,6 @@
 code_url = "https://github.com/CfABrigadePhiladelphia/laddr"
 description = "The site you're looking at right now"
-last_commit = "2022-08-06T19:02:10Z"
+last_commit = "2022-10-05T00:53:10Z"
 link_url = "http://codeforphilly.org/"
 name = "laddr"
 organization_name = "Code for Philly"
@@ -30,7 +30,7 @@ network_count = 35
 node_id = "MDEwOlJlcG9zaXRvcnkxODQ3NDg2OA=="
 open_issues_within = 100
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 100
 subscribers_count = 19
 temp_clone_token = ""
