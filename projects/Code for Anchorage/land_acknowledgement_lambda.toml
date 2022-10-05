@@ -1,7 +1,7 @@
 code_url = "https://github.com/codeforanchorage/land_acknowledgement_lambda"
 description = "Land acknowledgement SMS services for AWS lambda"
 git_url = "git://github.com/codeforanchorage/land_acknowledgement_lambda.git"
-last_commit = "2022-09-07T04:40:00Z"
+last_commit = "2022-10-05T04:02:55Z"
 name = "land_acknowledgement_lambda"
 organization_name = "Code for Anchorage"
 
@@ -17,7 +17,7 @@ forks_within = 0
 full_name = "codeforanchorage/land_acknowledgement_lambda"
 has_downloads = true
 has_issues = true
-has_pages = false
+has_pages = true
 has_projects = true
 has_wiki = true
 id = 472_991_484
@@ -27,7 +27,7 @@ name = "land_acknowledgement_lambda"
 node_id = "R_kgDOHDFG_A"
 open_issues_within = 0
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 0
 topics = [ ]
 updated_within = "year"
