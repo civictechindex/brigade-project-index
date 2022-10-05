@@ -4,14 +4,7 @@ git_url = "git://github.com/codefordenver/partner-finder.git"
 last_commit = "2022-01-02T20:00:07Z"
 name = "partner-finder"
 organization_name = "Code for Denver"
-topics = [
-  "civic-tech",
-  "flask",
-  "hacktoberfest",
-  "python",
-  "react",
-  "rest-api"
-]
+topics = [ "civic-tech", "flask", "python", "react", "rest-api" ]
 
 [github]
 allow_forking = true
@@ -38,15 +31,8 @@ open_issues_within = 100
 private = false
 pushed_within = "year"
 stargazers_within = 10
-topics = [
-  "civic-tech",
-  "flask",
-  "hacktoberfest",
-  "python",
-  "react",
-  "rest-api"
-]
-updated_within = "year"
+topics = [ "civic-tech", "flask", "python", "react", "rest-api" ]
+updated_within = "week"
 visibility = "public"
 watchers_within = 10
 web_commit_signoff_required = false
