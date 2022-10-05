@@ -1,7 +1,7 @@
 code_url = "https://github.com/codeforgreenville/OpenData"
 description = "Open data projects, including real-time and reusable data for local tech meetups, events, and map layers."
 git_url = "git://github.com/codeforgreenville/OpenData.git"
-last_commit = "2021-03-20T14:50:26Z"
+last_commit = "2022-10-05T14:55:13Z"
 name = "OpenData"
 organization_name = "Code for Greenville"
 
@@ -28,7 +28,7 @@ name = "OpenData"
 node_id = "MDEwOlJlcG9zaXRvcnkyMTMyNTUzNw=="
 open_issues_within = 100
 private = false
-pushed_within = "over_a_year"
+pushed_within = "week"
 stargazers_within = 100
 topics = [ ]
 updated_within = "week"
