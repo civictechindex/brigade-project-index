@@ -1,7 +1,7 @@
 code_url = "https://github.com/OpenUpSA/case-management"
 description = "A Django and React web-app for community case officers and managers."
 git_url = "git://github.com/OpenUpSA/case-management.git"
-last_commit = "2022-10-05T09:45:26Z"
+last_commit = "2022-10-06T13:17:35Z"
 link_url = "case-management-app.vercel.app"
 name = "case-management"
 organization_name = "OpenUp"
@@ -27,7 +27,7 @@ is_template = false
 language = "TypeScript"
 name = "case-management"
 node_id = "MDEwOlJlcG9zaXRvcnkzODM3NDI2NTM="
-open_issues_within = 10
+open_issues_within = 0
 private = false
 pushed_within = "week"
 stargazers_within = 10
