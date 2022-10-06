@@ -4,6 +4,7 @@ git_url = "git://github.com/CodeforHawaii/kuka.git"
 last_commit = "2022-10-04T04:32:45Z"
 name = "kuka"
 organization_name = "Code for Hawaii"
+topics = [ "civic-tech", "firebase", "react", "react-native" ]
 
 [github]
 allow_forking = true
@@ -20,6 +21,7 @@ has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = true
+homepage = ""
 id = 285_471_007
 is_template = false
 language = "TypeScript"
@@ -29,8 +31,8 @@ open_issues_within = 10
 private = false
 pushed_within = "week"
 stargazers_within = 10
-topics = [ ]
-updated_within = "year"
+topics = [ "civic-tech", "firebase", "react", "react-native" ]
+updated_within = "week"
 visibility = "public"
 watchers_within = 10
 web_commit_signoff_required = false
