@@ -5,5 +5,6 @@ git_url = "git://github.com/mysociety/composite_uk_imd.git"
 last_pushed_within = "month"
 link_url = "https://mysociety.github.io/composite_uk_imd/"
 name = "composite_uk_imd"
+open_issues_within = 10
 organization_name = "mySociety"
 topics = [ "dataset" ]
