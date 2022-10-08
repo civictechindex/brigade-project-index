@@ -26,9 +26,9 @@ is_template = false
 language = "Shell"
 name = "loomio-deploy"
 node_id = "MDEwOlJlcG9zaXRvcnk1MzY1NzEzMA=="
-open_issues_within = 10
+open_issues_within = 100
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 1_000
 topics = [ ]
 updated_within = "week"
