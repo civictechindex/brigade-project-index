@@ -30,10 +30,10 @@ name = "puppet-dovecot"
 node_id = "MDEwOlJlcG9zaXRvcnk4NjY5MjE2MQ=="
 open_issues_within = 10
 private = false
-pushed_within = "week"
+pushed_within = "month"
 stargazers_within = 0
 topics = [ "dovecot", "puppet" ]
-updated_within = "week"
+updated_within = "month"
 visibility = "public"
 watchers_within = 0
 web_commit_signoff_required = false
