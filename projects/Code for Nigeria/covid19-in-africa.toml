@@ -1,7 +1,7 @@
 code_url = "https://github.com/CodeForAfrica/covid19-in-africa"
 description = "Daily Update on Covid-19 Cases Reported for Countries in Africa. "
 git_url = "git://github.com/CodeForAfrica/covid19-in-africa.git"
-last_commit = "2022-10-10T08:55:03Z"
+last_commit = "2022-10-11T08:54:16Z"
 name = "covid19-in-africa"
 organization_name = "Code for Nigeria"
 topics = [ "africa", "covid19-data" ]
@@ -32,7 +32,7 @@ private = false
 pushed_within = "week"
 stargazers_within = 10
 topics = [ "africa", "covid19-data" ]
-updated_within = "month"
+updated_within = "year"
 visibility = "public"
 watchers_within = 10
 web_commit_signoff_required = false
