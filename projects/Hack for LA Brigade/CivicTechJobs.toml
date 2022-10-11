@@ -33,7 +33,7 @@ name = "CivicTechJobs"
 node_id = "MDEwOlJlcG9zaXRvcnkyOTc0OTE5ODI="
 open_issues_within = 1_000
 private = false
-pushed_within = "month"
+pushed_within = "week"
 score = 1
 stargazers_within = 10
 topics = [
@@ -43,7 +43,7 @@ topics = [
   "hack-for-la",
   "volunteer-opportunities"
 ]
-updated_within = "week"
+updated_within = "month"
 visibility = "public"
 watchers_within = 10
 web_commit_signoff_required = false
