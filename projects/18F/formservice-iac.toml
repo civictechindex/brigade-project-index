@@ -1,7 +1,7 @@
 code_url = "https://github.com/18F/formservice-iac"
 description = "IAC for deploying Forms Service to each environment."
 git_url = "git://github.com/18F/formservice-iac.git"
-last_commit = "2022-09-15T19:18:05Z"
+last_commit = "2022-10-11T17:30:08Z"
 name = "formservice-iac"
 organization_name = "18F"
 
@@ -28,7 +28,7 @@ name = "formservice-iac"
 node_id = "MDEwOlJlcG9zaXRvcnkzMDA2Nzc2MzQ="
 open_issues_within = 0
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
 updated_within = "year"
