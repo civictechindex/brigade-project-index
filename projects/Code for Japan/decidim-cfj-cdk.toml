@@ -1,6 +1,6 @@
 code_url = "https://github.com/codeforjapan/decidim-cfj-cdk"
 git_url = "git://github.com/codeforjapan/decidim-cfj-cdk.git"
-last_commit = "2022-08-26T08:06:47Z"
+last_commit = "2022-10-12T00:13:27Z"
 name = "decidim-cfj-cdk"
 organization_name = "Code for Japan"
 
@@ -20,7 +20,7 @@ has_projects = true
 has_wiki = true
 id = 529_168_213
 is_template = false
-language = "JavaScript"
+language = "TypeScript"
 name = "decidim-cfj-cdk"
 node_id = "R_kgDOH4p3VQ"
 open_issues_within = 10
@@ -28,7 +28,7 @@ private = false
 pushed_within = "week"
 stargazers_within = 0
 topics = [ ]
-updated_within = "year"
+updated_within = "week"
 visibility = "public"
 watchers_within = 0
 web_commit_signoff_required = false
