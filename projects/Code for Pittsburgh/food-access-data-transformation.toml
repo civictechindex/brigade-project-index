@@ -4,5 +4,5 @@ git_branch = "main"
 git_url = "git://github.com/CodeForPittsburgh/food-access-data-transformation.git"
 last_pushed_within = "year"
 name = "food-access-data-transformation"
-open_issues_within = 10
+open_issues_within = 100
 organization_name = "Code for Pittsburgh"
