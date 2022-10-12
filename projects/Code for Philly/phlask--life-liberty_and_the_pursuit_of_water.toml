@@ -39,12 +39,12 @@ network_count = 17
 node_id = "MDEwOlJlcG9zaXRvcnkxNjIwMzM0MzU="
 open_issues_within = 100
 private = false
-pushed_within = "week"
+pushed_within = "month"
 stargazers_within = 100
 subscribers_count = 14
 temp_clone_token = ""
 topics = [ "docker", "es6", "map", "phlask-map", "reactjs" ]
-updated_within = "week"
+updated_within = "month"
 visibility = "public"
 watchers_within = 100
 web_commit_signoff_required = false

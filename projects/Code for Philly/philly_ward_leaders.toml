@@ -37,12 +37,12 @@ network_count = 14
 node_id = "MDEwOlJlcG9zaXRvcnkzMzA1NzYyNQ=="
 open_issues_within = 100
 private = false
-pushed_within = "week"
+pushed_within = "month"
 stargazers_within = 100
 subscribers_count = 9
 temp_clone_token = ""
 topics = [ ]
-updated_within = "year"
+updated_within = "week"
 visibility = "public"
 watchers_within = 100
 web_commit_signoff_required = false
