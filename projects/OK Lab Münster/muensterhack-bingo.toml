@@ -1,7 +1,7 @@
 code_url = "https://github.com/codeformuenster/muensterhack-bingo"
 description = "Das inoffizielle Münsterhack-Abschlusspitch-Bingo"
 git_url = "git://github.com/codeformuenster/muensterhack-bingo.git"
-last_commit = "2022-09-27T19:08:02Z"
+last_commit = "2022-10-13T11:27:08Z"
 link_url = "https://codeformuenster.github.io/muensterhack-bingo"
 name = "muensterhack-bingo"
 organization_name = "OK Lab Münster"
@@ -29,7 +29,7 @@ name = "muensterhack-bingo"
 node_id = "R_kgDOIFGz9w"
 open_issues_within = 0
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 0
 topics = [ ]
 updated_within = "month"
