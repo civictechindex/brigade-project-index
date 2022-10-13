@@ -1,7 +1,7 @@
 code_url = "https://github.com/18F/handbook"
 description = "The home of policies and guidelines that make up TTS."
 git_url = "git://github.com/18F/handbook.git"
-last_commit = "2022-10-07T12:44:36Z"
+last_commit = "2022-10-12T15:32:52Z"
 link_url = "https://handbook.tts.gsa.gov/"
 name = "handbook"
 organization_name = "18F"
@@ -33,7 +33,7 @@ private = false
 pushed_within = "week"
 stargazers_within = 1_000
 topics = [ "tts-handbook" ]
-updated_within = "year"
+updated_within = "week"
 visibility = "public"
 watchers_within = 1_000
 web_commit_signoff_required = false
