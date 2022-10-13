@@ -1,7 +1,7 @@
 code_url = "https://github.com/mysociety/twfy_representative_portraits"
 description = "Images and sourcing script for representative portraits."
 git_url = "git://github.com/mysociety/twfy_representative_portraits.git"
-last_commit = "2022-08-24T08:52:23Z"
+last_commit = "2022-10-13T10:29:24Z"
 name = "twfy_representative_portraits"
 organization_name = "mySociety"
 
@@ -27,7 +27,7 @@ name = "twfy_representative_portraits"
 node_id = "MDEwOlJlcG9zaXRvcnkzNTMwNjM5NzM="
 open_issues_within = 10
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 0
 topics = [ ]
 updated_within = "year"
