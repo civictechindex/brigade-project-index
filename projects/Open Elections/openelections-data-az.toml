@@ -1,7 +1,7 @@
 code_url = "https://github.com/openelections/openelections-data-az"
 description = "Pre-processed election results for Arizona"
 git_url = "git://github.com/openelections/openelections-data-az.git"
-last_commit = "2022-04-13T02:27:22Z"
+last_commit = "2022-10-13T00:39:57Z"
 name = "openelections-data-az"
 organization_name = "Open Elections"
 
@@ -27,7 +27,7 @@ name = "openelections-data-az"
 node_id = "MDEwOlJlcG9zaXRvcnk0MDUzOTMyOQ=="
 open_issues_within = 100
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
 updated_within = "year"

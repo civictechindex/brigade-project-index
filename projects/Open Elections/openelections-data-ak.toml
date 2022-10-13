@@ -1,7 +1,7 @@
 code_url = "https://github.com/openelections/openelections-data-ak"
 description = "Pre-processed CSV files of certified election results from Alaska"
 git_url = "git://github.com/openelections/openelections-data-ak.git"
-last_commit = "2022-04-13T19:14:41Z"
+last_commit = "2022-10-13T00:40:25Z"
 name = "openelections-data-ak"
 organization_name = "Open Elections"
 
@@ -28,7 +28,7 @@ name = "openelections-data-ak"
 node_id = "MDEwOlJlcG9zaXRvcnkyMjUxNDQ0OA=="
 open_issues_within = 10
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
 updated_within = "year"
