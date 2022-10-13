@@ -1,7 +1,7 @@
 code_url = "https://github.com/CodeForAfrica/GenderGap.AFRICA"
 description = "GenderGap.AFRICA is a tool designed to help users calculate the gender pay gap in any African country. Accessible at https://gendergap.africa/"
 git_url = "git://github.com/CodeForAfrica/GenderGap.AFRICA.git"
-last_commit = "2022-10-13T07:45:25Z"
+last_commit = "2022-10-13T11:03:40Z"
 link_url = "https://gendergap.africa/"
 name = "GenderGap.AFRICA"
 organization_name = "Code for Kenya"
@@ -39,7 +39,7 @@ is_template = false
 language = "JavaScript"
 name = "GenderGap.AFRICA"
 node_id = "MDEwOlJlcG9zaXRvcnk4NTcxNDMyNQ=="
-open_issues_within = 10
+open_issues_within = 0
 private = false
 pushed_within = "week"
 stargazers_within = 10
