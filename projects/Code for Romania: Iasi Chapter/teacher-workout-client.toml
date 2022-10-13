@@ -1,7 +1,7 @@
 code_url = "https://github.com/code4romania/teacher-workout-client"
 description = "Web client for Teacher Workout"
 git_url = "git://github.com/code4romania/teacher-workout-client.git"
-last_commit = "2021-11-27T16:50:46Z"
+last_commit = "2022-10-13T16:56:30Z"
 link_url = "https://teacher-workout-staging.vercel.app/"
 name = "teacher-workout-client"
 organization_name = "Code for Romania: Iasi Chapter"
@@ -27,9 +27,9 @@ is_template = false
 language = "JavaScript"
 name = "teacher-workout-client"
 node_id = "MDEwOlJlcG9zaXRvcnkzNzg4OTM3ODY="
-open_issues_within = 100
+open_issues_within = 10
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
 updated_within = "year"
