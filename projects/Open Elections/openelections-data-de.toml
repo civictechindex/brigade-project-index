@@ -1,7 +1,7 @@
 code_url = "https://github.com/openelections/openelections-data-de"
 description = "Pre-processed results for Delaware elections"
 git_url = "git://github.com/openelections/openelections-data-de.git"
-last_commit = "2022-04-13T21:32:36Z"
+last_commit = "2022-10-14T11:02:54Z"
 name = "openelections-data-de"
 organization_name = "Open Elections"
 
@@ -25,7 +25,7 @@ is_template = false
 language = "Python"
 name = "openelections-data-de"
 node_id = "MDEwOlJlcG9zaXRvcnk2NTIwMjg2MQ=="
-open_issues_within = 10
+open_issues_within = 0
 private = false
 pushed_within = "week"
 stargazers_within = 10
