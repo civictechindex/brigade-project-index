@@ -27,7 +27,7 @@ is_template = false
 language = "TypeScript"
 name = "fedramp-automation"
 node_id = "MDEwOlJlcG9zaXRvcnkzMDY3MDI2MzM="
-open_issues_within = 100
+open_issues_within = 1_000
 private = false
 pushed_within = "week"
 stargazers_within = 100
