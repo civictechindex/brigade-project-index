@@ -1,9 +1,0 @@
-code_url = "https://github.com/mysociety/puppet-mariadb"
-git_branch = "master"
-git_url = "git://github.com/mysociety/puppet-mariadb.git"
-last_pushed_within = "over_a_year"
-link_url = "https://www.mysociety.org/"
-name = "puppet-mariadb"
-open_issues_within = 10
-organization_name = "mySociety"
-topics = [ "mariadb", "puppet" ]
