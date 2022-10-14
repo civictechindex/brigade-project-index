@@ -1,7 +1,7 @@
 code_url = "https://github.com/codeforamerica/redirect"
 description = "Redirect places."
 git_url = "git://github.com/codeforamerica/redirect.git"
-last_commit = "2022-09-07T00:29:35Z"
+last_commit = "2022-10-14T19:29:12Z"
 link_url = "http://c4a.me"
 name = "redirect"
 organization_name = "Code for America"
@@ -29,7 +29,7 @@ name = "redirect"
 node_id = "MDEwOlJlcG9zaXRvcnkzNjUzMDE5NQ=="
 open_issues_within = 0
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
 updated_within = "year"
