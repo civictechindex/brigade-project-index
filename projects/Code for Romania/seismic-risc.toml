@@ -1,7 +1,7 @@
 code_url = "https://github.com/code4romania/seismic-risc"
 description = "Web app for keeping track of buildings in danger of collapsing in the event of an earthquake"
 git_url = "git://github.com/code4romania/seismic-risc.git"
-last_commit = "2022-10-03T13:05:53Z"
+last_commit = "2022-10-14T10:53:09Z"
 link_url = "https://seismic-risc.vercel.app/"
 name = "seismic-risc"
 organization_name = "Code for Romania"
@@ -40,7 +40,7 @@ name = "seismic-risc"
 node_id = "MDEwOlJlcG9zaXRvcnkxOTkwMzE3Njk="
 open_issues_within = 100
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 100
 topics = [
   "civic-tech",
