@@ -1,7 +1,7 @@
 code_url = "https://github.com/g0v/g0v.asia"
 description = "g0v.asia landing page"
 git_url = "git://github.com/g0v/g0v.asia.git"
-last_commit = "2021-01-18T10:20:31Z"
+last_commit = "2022-10-15T12:28:05Z"
 link_url = "http://g0v.asia/"
 name = "g0v.asia"
 organization_name = "g0v.tw"
@@ -29,10 +29,10 @@ name = "g0v.asia"
 node_id = "MDEwOlJlcG9zaXRvcnkxNTgwMzUwMA=="
 open_issues_within = 10
 private = false
-pushed_within = "over_a_year"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
-updated_within = "over_a_year"
+updated_within = "week"
 visibility = "public"
 watchers_within = 10
 web_commit_signoff_required = false
