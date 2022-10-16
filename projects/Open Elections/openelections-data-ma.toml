@@ -1,7 +1,7 @@
 code_url = "https://github.com/openelections/openelections-data-ma"
 description = "Raw election results for Massachusetts"
 git_url = "git://github.com/openelections/openelections-data-ma.git"
-last_commit = "2022-04-16T12:49:35Z"
+last_commit = "2022-10-16T16:51:39Z"
 name = "openelections-data-ma"
 organization_name = "Open Elections"
 
@@ -27,7 +27,7 @@ name = "openelections-data-ma"
 node_id = "MDEwOlJlcG9zaXRvcnkzMTgyNTczNQ=="
 open_issues_within = 10
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
 updated_within = "year"
