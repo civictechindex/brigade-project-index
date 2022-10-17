@@ -4,7 +4,7 @@ last_commit = "2018-03-30T19:18:44Z"
 name = "vibedetector"
 organization_name = "Code for Philly"
 status = "Commenting"
-topics = [ "Crime", "Sales" ]
+topics = [ "Crime" ]
 
 [github]
 allow_forking = true
