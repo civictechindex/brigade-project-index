@@ -1,7 +1,7 @@
 code_url = "https://github.com/open-austin/open-austin.github.io"
 description = "Open Austin's website"
 git_url = "git://github.com/open-austin/open-austin.github.io.git"
-last_commit = "2022-08-11T04:22:02Z"
+last_commit = "2022-10-18T04:29:46Z"
 link_url = "http://open-austin.org"
 name = "open-austin.github.io"
 organization_name = "Open Austin"
@@ -29,7 +29,7 @@ name = "open-austin.github.io"
 node_id = "MDEwOlJlcG9zaXRvcnk0MTMzNjYyOQ=="
 open_issues_within = 0
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 100
 topics = [ ]
 updated_within = "month"
