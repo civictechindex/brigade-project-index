@@ -1,7 +1,7 @@
 code_url = "https://github.com/openelections/openelections-data-md"
 description = "Custom election results data for Maryland elections"
 git_url = "git://github.com/openelections/openelections-data-md.git"
-last_commit = "2022-04-16T18:10:46Z"
+last_commit = "2022-10-18T02:26:45Z"
 name = "openelections-data-md"
 organization_name = "Open Elections"
 
@@ -26,7 +26,7 @@ name = "openelections-data-md"
 node_id = "R_kgDOGpizAQ"
 open_issues_within = 0
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 0
 topics = [ ]
 updated_within = "year"

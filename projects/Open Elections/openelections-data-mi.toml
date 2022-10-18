@@ -1,7 +1,7 @@
 code_url = "https://github.com/openelections/openelections-data-mi"
 description = "Pre-processed results for Michigan elections"
 git_url = "git://github.com/openelections/openelections-data-mi.git"
-last_commit = "2022-04-17T16:40:01Z"
+last_commit = "2022-10-18T02:26:15Z"
 name = "openelections-data-mi"
 organization_name = "Open Elections"
 
@@ -27,7 +27,7 @@ name = "openelections-data-mi"
 node_id = "MDEwOlJlcG9zaXRvcnk1MTA5NzUxMg=="
 open_issues_within = 10
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
 updated_within = "year"
