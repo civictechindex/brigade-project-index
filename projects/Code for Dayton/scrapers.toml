@@ -1,7 +1,7 @@
 code_url = "https://github.com/codefordayton/scrapers"
 description = "Various web scrapers used to collect open data."
 git_url = "git://github.com/codefordayton/scrapers.git"
-last_commit = "2020-11-14T15:16:14Z"
+last_commit = "2022-10-18T01:09:31Z"
 name = "scrapers"
 organization_name = "Code for Dayton"
 
@@ -27,10 +27,10 @@ name = "scrapers"
 node_id = "MDEwOlJlcG9zaXRvcnkxNTU1NDI3OQ=="
 open_issues_within = 10
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
-updated_within = "over_a_year"
+updated_within = "week"
 visibility = "public"
 watchers_within = 10
 web_commit_signoff_required = false
