@@ -1,7 +1,7 @@
 code_url = "https://github.com/codeforamerica/classifyr"
 description = "A tool for aggregating and crowd-sourcing the classification emergency call data"
 git_url = "git://github.com/codeforamerica/classifyr.git"
-last_commit = "2022-09-13T21:22:42Z"
+last_commit = "2022-10-18T19:11:51Z"
 name = "classifyr"
 organization_name = "Code for America"
 
@@ -27,7 +27,7 @@ name = "classifyr"
 node_id = "R_kgDOHFojXQ"
 open_issues_within = 100
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 0
 topics = [ ]
 updated_within = "week"
