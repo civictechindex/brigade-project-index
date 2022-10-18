@@ -1,0 +1,59 @@
+code_url = "https://github.com/code4romania/terraform-azure-website-factory"
+description = "Azure terraform for Website Factory"
+git_url = "git://github.com/code4romania/terraform-azure-website-factory.git"
+last_commit = "2022-09-22T17:46:06Z"
+name = "terraform-azure-website-factory"
+organization_name = "Code for Romania"
+topics = [ "azure", "infrastructure", "terraform", "website-factory" ]
+
+[github]
+allow_forking = true
+archived = false
+created_at = "2022-09-20T17:40:42Z"
+default_branch = "main"
+description = "Azure terraform for Website Factory"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "code4romania/terraform-azure-website-factory"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = false
+homepage = ""
+id = 539_117_026
+is_template = false
+language = "HCL"
+name = "terraform-azure-website-factory"
+node_id = "R_kgDOICJF4g"
+open_issues_within = 0
+private = false
+pushed_within = "month"
+stargazers_within = 0
+topics = [ "azure", "infrastructure", "terraform", "website-factory" ]
+updated_within = "week"
+visibility = "public"
+watchers_within = 0
+web_commit_signoff_required = false
+
+  [github.license]
+  key = "mpl-2.0"
+  name = "Mozilla Public License 2.0"
+  node_id = "MDc6TGljZW5zZTE0"
+  spdx_id = "MPL-2.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 18_010_308
+  login = "code4romania"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE4MDEwMzA4"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  maintain = false
+  pull = true
+  push = false
+  triage = false
