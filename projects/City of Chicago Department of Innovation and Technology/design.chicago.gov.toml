@@ -1,7 +1,7 @@
 code_url = "https://github.com/Chicago/design.chicago.gov"
 description = "The Chicago Design System is a guide for producing delightful technology products and services for the residents of the City of Chicago."
 git_url = "git://github.com/Chicago/design.chicago.gov.git"
-last_commit = "2022-01-20T17:38:24Z"
+last_commit = "2022-10-17T19:53:42Z"
 link_url = "https://design.chicago.gov"
 name = "design.chicago.gov"
 organization_name = "City of Chicago Department of Innovation and Technology"
@@ -29,7 +29,7 @@ name = "design.chicago.gov"
 node_id = "MDEwOlJlcG9zaXRvcnkxMTgxNTI3MTA="
 open_issues_within = 10
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 100
 topics = [ ]
 updated_within = "year"
