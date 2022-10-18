@@ -1,0 +1,8 @@
+code_url = "https://github.com/code4romania/terraform-azure-paul"
+description = "Azure terraform for Paul"
+git_branch = "main"
+git_url = "git://github.com/code4romania/terraform-azure-paul.git"
+last_pushed_within = "week"
+name = "terraform-azure-paul"
+organization_name = "Code for Romania: Cluj Chapter"
+topics = [ "azure", "infrastructure", "paul", "terraform" ]

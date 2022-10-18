@@ -1,0 +1,8 @@
+code_url = "https://github.com/code4romania/terraform-aws-website-factory"
+description = "AWS terraform for Website Factory"
+git_branch = "main"
+git_url = "git://github.com/code4romania/terraform-aws-website-factory.git"
+last_pushed_within = "month"
+name = "terraform-aws-website-factory"
+organization_name = "Code for Romania: Cluj Chapter"
+topics = [ "aws", "infrastructure", "terraform", "website-factory" ]
