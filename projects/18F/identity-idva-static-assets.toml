@@ -1,7 +1,7 @@
 code_url = "https://github.com/18F/identity-idva-static-assets"
 description = "The home for all IDVA static web assets. Hosted in cloud.gov."
 git_url = "git://github.com/18F/identity-idva-static-assets.git"
-last_commit = "2022-09-15T20:44:15Z"
+last_commit = "2022-10-19T17:22:10Z"
 name = "identity-idva-static-assets"
 organization_name = "18F"
 
@@ -27,7 +27,7 @@ name = "identity-idva-static-assets"
 node_id = "R_kgDOGfxGiA"
 open_issues_within = 10
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 0
 topics = [ ]
 updated_within = "year"
