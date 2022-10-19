@@ -1,7 +1,7 @@
 code_url = "https://github.com/18F/identity-idp"
 description = "Login.gov Core App: Identity Provider (IdP)"
 git_url = "git://github.com/18F/identity-idp.git"
-last_commit = "2022-10-18T13:06:51Z"
+last_commit = "2022-10-18T20:50:55Z"
 link_url = "https://secure.login.gov/"
 name = "identity-idp"
 organization_name = "18F"
@@ -21,7 +21,7 @@ default_branch = "main"
 description = "Login.gov Core App: Identity Provider (IdP)"
 disabled = false
 fork = false
-forks_within = 100
+forks_within = 1_000
 full_name = "18F/identity-idp"
 has_downloads = true
 has_issues = true
