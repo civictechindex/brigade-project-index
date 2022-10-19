@@ -1,0 +1,57 @@
+code_url = "https://github.com/codeforjapan/decidim-module-decidim_awesome"
+description = "Additional components and Opt-In usability and UX tweaks for Decidim."
+git_url = "git://github.com/codeforjapan/decidim-module-decidim_awesome.git"
+last_commit = "2022-05-06T13:39:00Z"
+name = "decidim-module-decidim_awesome"
+organization_name = "Code for Japan"
+
+[github]
+allow_forking = true
+archived = false
+created_at = "2022-10-19T09:02:01Z"
+default_branch = "main"
+description = "Additional components and Opt-In usability and UX tweaks for Decidim."
+disabled = false
+fork = true
+forks_within = 0
+full_name = "codeforjapan/decidim-module-decidim_awesome"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 554_106_569
+is_template = false
+name = "decidim-module-decidim_awesome"
+node_id = "R_kgDOIQb-yQ"
+open_issues_within = 0
+private = false
+pushed_within = "month"
+stargazers_within = 0
+topics = [ ]
+updated_within = "year"
+visibility = "public"
+watchers_within = 0
+web_commit_signoff_required = false
+
+  [github.license]
+  key = "agpl-3.0"
+  name = "GNU Affero General Public License v3.0"
+  node_id = "MDc6TGljZW5zZTE="
+  spdx_id = "AGPL-3.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 5_137_738
+  login = "codeforjapan"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjUxMzc3Mzg="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  maintain = false
+  pull = true
+  push = false
+  triage = false
