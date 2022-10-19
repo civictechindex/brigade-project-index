@@ -1,7 +1,7 @@
 code_url = "https://github.com/open-data-standards/permitdata.org"
 description = ":hammer: A website for the BLDS Data Specification"
 git_url = "git://github.com/open-data-standards/permitdata.org.git"
-last_commit = "2020-10-14T19:06:16Z"
+last_commit = "2022-10-18T20:58:19Z"
 link_url = "https://permitdata.org"
 name = "permitdata.org"
 organization_name = "Open Data Standards"
@@ -30,10 +30,10 @@ name = "permitdata.org"
 node_id = "MDEwOlJlcG9zaXRvcnkzMjA3OTk3Nw=="
 open_issues_within = 100
 private = false
-pushed_within = "over_a_year"
+pushed_within = "week"
 stargazers_within = 100
 topics = [ "government", "open-data", "opendata", "pemits", "standards" ]
-updated_within = "month"
+updated_within = "week"
 visibility = "public"
 watchers_within = 100
 web_commit_signoff_required = false
