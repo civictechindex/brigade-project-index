@@ -1,5 +1,5 @@
 code_url = "https://github.com/censusreporter/census-api"
-last_commit = "2022-09-28T20:45:19Z"
+last_commit = "2022-10-18T21:05:34Z"
 name = "census-api"
 organization_name = "Chi Hack Night"
 
@@ -27,7 +27,7 @@ network_count = 48
 node_id = "MDEwOlJlcG9zaXRvcnk5ODc5OTUz"
 open_issues_within = 10
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 1_000
 subscribers_count = 13
 temp_clone_token = ""
