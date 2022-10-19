@@ -1,8 +1,0 @@
-code_url = "https://github.com/18F/federalist-jekyll-netlify-cms-guides"
-description = "Example of content management and developer guides for a Federalist-Jekyll site with Netlify CMS."
-git_branch = "main"
-git_url = "git://github.com/18F/federalist-jekyll-netlify-cms-guides.git"
-last_pushed_within = "year"
-name = "federalist-jekyll-netlify-cms-guides"
-organization_name = "18F"
-topics = [ "cms", "content-management", "guides", "jekyll", "netlify" ]
