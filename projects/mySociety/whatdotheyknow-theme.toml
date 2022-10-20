@@ -1,7 +1,7 @@
 code_url = "https://github.com/mysociety/whatdotheyknow-theme"
 description = "The Alaveteli theme for WhatDoTheyKnow (UK)"
 git_url = "git://github.com/mysociety/whatdotheyknow-theme.git"
-last_commit = "2022-09-06T08:15:04Z"
+last_commit = "2022-10-20T11:52:35Z"
 link_url = "http://www.whatdotheyknow.com/"
 name = "whatdotheyknow-theme"
 organization_name = "mySociety"
@@ -30,7 +30,7 @@ name = "whatdotheyknow-theme"
 node_id = "MDEwOlJlcG9zaXRvcnkxODkzMTcz"
 open_issues_within = 1_000
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 100
 topics = [ "alaveteli", "alaveteli-theme", "whatdotheyknow" ]
 updated_within = "week"
