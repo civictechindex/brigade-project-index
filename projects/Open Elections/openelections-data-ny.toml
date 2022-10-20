@@ -1,7 +1,7 @@
 code_url = "https://github.com/openelections/openelections-data-ny"
 description = "Election results for New York"
 git_url = "git://github.com/openelections/openelections-data-ny.git"
-last_commit = "2022-04-19T18:10:48Z"
+last_commit = "2022-10-20T01:21:07Z"
 name = "openelections-data-ny"
 organization_name = "Open Elections"
 topics = [ "elections", "new-york" ]
@@ -28,7 +28,7 @@ name = "openelections-data-ny"
 node_id = "MDEwOlJlcG9zaXRvcnkyMDgzNjc5MA=="
 open_issues_within = 100
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 100
 topics = [ "elections", "new-york" ]
 updated_within = "year"

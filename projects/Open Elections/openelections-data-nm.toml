@@ -1,7 +1,7 @@
 code_url = "https://github.com/openelections/openelections-data-nm"
 description = "Pre-processed election results for New Mexico"
 git_url = "git://github.com/openelections/openelections-data-nm.git"
-last_commit = "2022-04-19T18:10:30Z"
+last_commit = "2022-10-20T01:20:49Z"
 name = "openelections-data-nm"
 organization_name = "Open Elections"
 
@@ -27,7 +27,7 @@ name = "openelections-data-nm"
 node_id = "MDEwOlJlcG9zaXRvcnk1MzYxMDY3Mw=="
 open_issues_within = 10
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
 updated_within = "year"

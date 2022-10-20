@@ -1,7 +1,7 @@
 code_url = "https://github.com/openelections/openelections-data-nv"
 description = "Converted CSVs of Nevada election results"
 git_url = "git://github.com/openelections/openelections-data-nv.git"
-last_commit = "2022-04-19T18:10:38Z"
+last_commit = "2022-10-20T01:20:58Z"
 name = "openelections-data-nv"
 organization_name = "Open Elections"
 
@@ -27,7 +27,7 @@ name = "openelections-data-nv"
 node_id = "MDEwOlJlcG9zaXRvcnkyODUxOTYzNg=="
 open_issues_within = 10
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
 updated_within = "year"
