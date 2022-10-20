@@ -1,7 +1,7 @@
 code_url = "https://github.com/CodeforHawaii/HZA-Data"
 git_branch = "main"
 git_url = "git://github.com/CodeforHawaii/HZA-Data.git"
-last_pushed_within = "month"
+last_pushed_within = "year"
 name = "HZA-Data"
 open_issues_within = 10
 organization_name = "Code for Hawaii"
