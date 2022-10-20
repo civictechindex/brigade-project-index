@@ -1,7 +1,7 @@
 code_url = "https://github.com/sfbrigade/analytics"
 description = "Analytics project, encompassing metrics for engagement and more. "
 git_url = "git://github.com/sfbrigade/analytics.git"
-last_commit = "2022-02-16T06:35:19Z"
+last_commit = "2022-10-20T03:01:14Z"
 name = "analytics"
 organization_name = "Code for San Francisco"
 
@@ -27,10 +27,10 @@ name = "analytics"
 node_id = "MDEwOlJlcG9zaXRvcnkzODU3NjMzOTQ="
 open_issues_within = 100
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
-updated_within = "year"
+updated_within = "week"
 visibility = "public"
 watchers_within = 10
 web_commit_signoff_required = false
