@@ -1,7 +1,7 @@
 code_url = "https://github.com/CodeforHawaii/Hawaii-Zoning-Atlas"
 description = "Front-end code for the Zoning Atlas Leaflet.js map"
 git_url = "git://github.com/CodeforHawaii/Hawaii-Zoning-Atlas.git"
-last_commit = "2022-10-19T17:47:58Z"
+last_commit = "2022-10-20T07:41:10Z"
 name = "Hawaii-Zoning-Atlas"
 organization_name = "Code for Hawaii"
 
@@ -25,7 +25,7 @@ is_template = false
 language = "JavaScript"
 name = "Hawaii-Zoning-Atlas"
 node_id = "R_kgDOH7d20A"
-open_issues_within = 100
+open_issues_within = 10
 private = false
 pushed_within = "week"
 stargazers_within = 0
