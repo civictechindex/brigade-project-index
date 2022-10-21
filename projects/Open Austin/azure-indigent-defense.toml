@@ -1,0 +1,49 @@
+code_url = "https://github.com/open-austin/azure-indigent-defense"
+git_url = "git://github.com/open-austin/azure-indigent-defense.git"
+last_commit = "2022-10-21T00:11:27Z"
+name = "azure-indigent-defense"
+organization_name = "Open Austin"
+
+[github]
+allow_forking = true
+archived = false
+created_at = "2022-10-20T23:50:38Z"
+default_branch = "main"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "open-austin/azure-indigent-defense"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+id = 555_090_551
+is_template = false
+language = "Python"
+name = "azure-indigent-defense"
+node_id = "R_kgDOIRYCdw"
+open_issues_within = 10
+private = false
+pushed_within = "week"
+stargazers_within = 0
+topics = [ ]
+updated_within = "week"
+visibility = "public"
+watchers_within = 0
+web_commit_signoff_required = false
+
+  [github.owner]
+  gravatar_id = ""
+  id = 970_084
+  login = "open-austin"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjk3MDA4NA=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  maintain = false
+  pull = true
+  push = false
+  triage = false
