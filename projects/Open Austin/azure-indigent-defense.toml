@@ -5,3 +5,4 @@ last_pushed_within = "week"
 name = "azure-indigent-defense"
 open_issues_within = 10
 organization_name = "Open Austin"
+topics = [ "azure-functions", "hacktoberfest", "python", "scraping" ]
