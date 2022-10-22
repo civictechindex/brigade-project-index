@@ -1,7 +1,7 @@
 code_url = "https://github.com/openelections/openelections-data-oh"
 description = "Pre-processed election results from Ohio"
 git_url = "git://github.com/openelections/openelections-data-oh.git"
-last_commit = "2022-04-19T18:10:59Z"
+last_commit = "2022-10-22T00:05:54Z"
 name = "openelections-data-oh"
 organization_name = "Open Elections"
 topics = [ "elections", "ohio", "openelections" ]
