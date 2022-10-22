@@ -1,7 +1,7 @@
 code_url = "https://github.com/18F/identity-dev-docs"
 description = "Login.gov developer documentation"
 git_url = "git://github.com/18F/identity-dev-docs.git"
-last_commit = "2022-10-19T17:30:01Z"
+last_commit = "2022-10-21T17:55:50Z"
 link_url = "https://developers.login.gov"
 name = "identity-dev-docs"
 organization_name = "18F"
@@ -28,7 +28,7 @@ is_template = false
 language = "HTML"
 name = "identity-dev-docs"
 node_id = "MDEwOlJlcG9zaXRvcnk1OTA1MDUxMg=="
-open_issues_within = 100
+open_issues_within = 10
 private = false
 pushed_within = "week"
 stargazers_within = 100
