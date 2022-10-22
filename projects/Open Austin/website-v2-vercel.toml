@@ -1,6 +1,6 @@
 code_url = "https://github.com/open-austin/website-v2-vercel"
 git_url = "git://github.com/open-austin/website-v2-vercel.git"
-last_commit = "2022-10-15T01:03:09Z"
+last_commit = "2022-10-22T00:52:04Z"
 link_url = "http://next-js-boilerplate-three-alpha.vercel.app"
 name = "website-v2-vercel"
 organization_name = "Open Austin"
@@ -31,7 +31,7 @@ private = false
 pushed_within = "week"
 stargazers_within = 0
 topics = [ "hacktoberfest", "nextjs", "react" ]
-updated_within = "week"
+updated_within = "month"
 visibility = "public"
 watchers_within = 0
 web_commit_signoff_required = false
