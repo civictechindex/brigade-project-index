@@ -23,9 +23,9 @@ is_template = false
 language = "Python"
 name = "intentional-walk-server"
 node_id = "MDEwOlJlcG9zaXRvcnkyNDIyNTQ0NTc="
-open_issues_within = 10
+open_issues_within = 100
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
 updated_within = "year"
