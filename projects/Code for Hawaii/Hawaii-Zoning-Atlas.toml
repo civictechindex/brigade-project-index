@@ -4,5 +4,5 @@ git_branch = "main"
 git_url = "git://github.com/CodeforHawaii/Hawaii-Zoning-Atlas.git"
 last_pushed_within = "week"
 name = "Hawaii-Zoning-Atlas"
-open_issues_within = 100
+open_issues_within = 10
 organization_name = "Code for Hawaii"
