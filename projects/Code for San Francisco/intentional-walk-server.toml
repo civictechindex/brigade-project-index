@@ -1,6 +1,6 @@
 code_url = "https://github.com/sfbrigade/intentional-walk-server"
 git_url = "git://github.com/sfbrigade/intentional-walk-server.git"
-last_commit = "2022-09-10T02:43:44Z"
+last_commit = "2022-10-22T20:26:31Z"
 name = "intentional-walk-server"
 organization_name = "Code for San Francisco"
 
@@ -23,7 +23,7 @@ is_template = false
 language = "Python"
 name = "intentional-walk-server"
 node_id = "MDEwOlJlcG9zaXRvcnkyNDIyNTQ0NTc="
-open_issues_within = 100
+open_issues_within = 10
 private = false
 pushed_within = "week"
 stargazers_within = 10
