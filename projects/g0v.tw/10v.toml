@@ -1,6 +1,6 @@
 code_url = "https://github.com/g0v/10v"
 git_url = "git://github.com/g0v/10v.git"
-last_commit = "2022-10-14T07:42:20Z"
+last_commit = "2022-10-23T01:59:05Z"
 name = "10v"
 organization_name = "g0v.tw"
 
@@ -25,7 +25,7 @@ name = "10v"
 node_id = "R_kgDOHhnjvg"
 open_issues_within = 0
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
 updated_within = "month"
