@@ -1,7 +1,7 @@
 code_url = "https://github.com/code4romania/tfsg.code4.ro"
 description = "Website for the Tech for Social Good program"
 git_url = "git://github.com/code4romania/tfsg.code4.ro.git"
-last_commit = "2022-09-16T09:32:38Z"
+last_commit = "2022-10-24T09:43:12Z"
 link_url = "https://tfsg.code4.ro"
 name = "tfsg.code4.ro"
 organization_name = "Code for Romania"
@@ -29,10 +29,10 @@ name = "tfsg.code4.ro"
 node_id = "MDEwOlJlcG9zaXRvcnkxNzExMjQ5ODQ="
 open_issues_within = 0
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
-updated_within = "year"
+updated_within = "week"
 visibility = "public"
 watchers_within = 10
 web_commit_signoff_required = false
