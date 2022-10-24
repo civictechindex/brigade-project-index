@@ -1,7 +1,7 @@
 code_url = "https://github.com/openelections/openelections-data-tn"
 description = "Pre-processed election results for Tennessee elections"
 git_url = "git://github.com/openelections/openelections-data-tn.git"
-last_commit = "2022-04-21T18:24:06Z"
+last_commit = "2022-10-24T00:08:56Z"
 name = "openelections-data-tn"
 organization_name = "Open Elections"
 
@@ -27,7 +27,7 @@ name = "openelections-data-tn"
 node_id = "MDEwOlJlcG9zaXRvcnk0MTYzNTY2Nw=="
 open_issues_within = 10
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
 updated_within = "year"

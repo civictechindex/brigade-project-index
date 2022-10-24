@@ -1,7 +1,7 @@
 code_url = "https://github.com/openelections/openelections-data-sc"
 description = "Pre-processed results for South Carolina elections"
 git_url = "git://github.com/openelections/openelections-data-sc.git"
-last_commit = "2022-04-20T18:56:43Z"
+last_commit = "2022-10-24T00:08:29Z"
 name = "openelections-data-sc"
 organization_name = "Open Elections"
 
@@ -27,7 +27,7 @@ name = "openelections-data-sc"
 node_id = "MDEwOlJlcG9zaXRvcnk1MTEwMDc1Nw=="
 open_issues_within = 10
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
 updated_within = "year"

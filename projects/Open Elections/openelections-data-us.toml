@@ -1,7 +1,7 @@
 code_url = "https://github.com/openelections/openelections-data-us"
 description = "Pre-processed nationwide election results for contests (president, congress, governor)"
 git_url = "git://github.com/openelections/openelections-data-us.git"
-last_commit = "2022-04-21T18:23:45Z"
+last_commit = "2022-10-24T00:09:12Z"
 name = "openelections-data-us"
 organization_name = "Open Elections"
 
@@ -27,7 +27,7 @@ name = "openelections-data-us"
 node_id = "MDEwOlJlcG9zaXRvcnk5OTA2Mzg0Mw=="
 open_issues_within = 10
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
 updated_within = "year"
