@@ -1,6 +1,6 @@
 code_url = "https://github.com/18F/identity-idp-attempts-tracker-events"
 git_url = "git://github.com/18F/identity-idp-attempts-tracker-events.git"
-last_commit = "2022-10-21T18:06:24Z"
+last_commit = "2022-10-24T14:49:40Z"
 name = "identity-idp-attempts-tracker-events"
 organization_name = "18F"
 
@@ -23,7 +23,7 @@ is_template = false
 language = "Ruby"
 name = "identity-idp-attempts-tracker-events"
 node_id = "R_kgDOINglqg"
-open_issues_within = 10
+open_issues_within = 0
 private = false
 pushed_within = "week"
 stargazers_within = 0

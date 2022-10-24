@@ -1,7 +1,7 @@
 code_url = "https://github.com/18F/identity-oidc-sinatra"
 description = "Example OpenID Connect relying party as a Sinatra app"
 git_url = "git://github.com/18F/identity-oidc-sinatra.git"
-last_commit = "2022-10-21T15:46:53Z"
+last_commit = "2022-10-24T12:45:40Z"
 name = "identity-oidc-sinatra"
 organization_name = "18F"
 topics = [ "login-gov" ]

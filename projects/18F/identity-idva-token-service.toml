@@ -1,7 +1,7 @@
 code_url = "https://github.com/18F/identity-idva-token-service"
 description = "Lightweight token generator/validator for IDVA"
 git_url = "git://github.com/18F/identity-idva-token-service.git"
-last_commit = "2022-10-07T15:54:25Z"
+last_commit = "2022-10-24T16:02:05Z"
 name = "identity-idva-token-service"
 organization_name = "18F"
 
@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 id = 547_392_336
 is_template = false
+language = "Python"
 name = "identity-idva-token-service"
 node_id = "R_kgDOIKCLUA"
 open_issues_within = 10
@@ -29,10 +30,16 @@ private = false
 pushed_within = "week"
 stargazers_within = 0
 topics = [ ]
-updated_within = "month"
+updated_within = "week"
 visibility = "public"
 watchers_within = 0
 web_commit_signoff_required = false
+
+  [github.license]
+  key = "other"
+  name = "Other"
+  node_id = "MDc6TGljZW5zZTA="
+  spdx_id = "NOASSERTION"
 
   [github.owner]
   gravatar_id = ""

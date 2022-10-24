@@ -1,7 +1,7 @@
 code_url = "https://github.com/18F/piipan"
 description = "A privacy-preserving system for storing and matching de-identified Personal Identifiable Information (PII) records."
 git_url = "git://github.com/18F/piipan.git"
-last_commit = "2022-10-21T21:44:35Z"
+last_commit = "2022-10-24T22:22:08Z"
 name = "piipan"
 organization_name = "18F"
 
@@ -31,7 +31,7 @@ private = false
 pushed_within = "week"
 stargazers_within = 100
 topics = [ ]
-updated_within = "week"
+updated_within = "month"
 visibility = "public"
 watchers_within = 100
 web_commit_signoff_required = false
