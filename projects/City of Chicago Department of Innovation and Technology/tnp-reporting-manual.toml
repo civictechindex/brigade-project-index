@@ -1,7 +1,7 @@
 code_url = "https://github.com/Chicago/tnp-reporting-manual"
 description = "Chicago data reporting rules for Transportation Network Providers"
 git_url = "git://github.com/Chicago/tnp-reporting-manual.git"
-last_commit = "2022-06-16T20:24:05Z"
+last_commit = "2022-10-24T14:58:17Z"
 link_url = "https://chicago.github.io/tnp-reporting-manual"
 name = "tnp-reporting-manual"
 organization_name = "City of Chicago Department of Innovation and Technology"
@@ -29,7 +29,7 @@ name = "tnp-reporting-manual"
 node_id = "MDEwOlJlcG9zaXRvcnk3MDgzMTI3Mw=="
 open_issues_within = 10
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
 updated_within = "year"
