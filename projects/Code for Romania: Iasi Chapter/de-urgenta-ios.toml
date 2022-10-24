@@ -1,7 +1,7 @@
 code_url = "https://github.com/code4romania/de-urgenta-ios"
 description = "De Urgență mobile app (iOS)"
 git_url = "git://github.com/code4romania/de-urgenta-ios.git"
-last_commit = "2022-10-04T09:18:10Z"
+last_commit = "2022-10-24T12:34:06Z"
 name = "de-urgenta-ios"
 organization_name = "Code for Romania: Iasi Chapter"
 
@@ -27,7 +27,7 @@ name = "de-urgenta-ios"
 node_id = "MDEwOlJlcG9zaXRvcnkzNTIwNjk0MTI="
 open_issues_within = 10
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
 updated_within = "year"
