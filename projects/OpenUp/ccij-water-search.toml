@@ -1,7 +1,7 @@
 code_url = "https://github.com/OpenUpSA/ccij-water-search"
 description = "Water article search"
 git_url = "git://github.com/OpenUpSA/ccij-water-search.git"
-last_commit = "2022-08-23T09:20:57Z"
+last_commit = "2022-10-24T14:38:07Z"
 link_url = "https://ccij-water-search.openup.org.za/"
 name = "ccij-water-search"
 organization_name = "OpenUp"
@@ -29,7 +29,7 @@ name = "ccij-water-search"
 node_id = "MDEwOlJlcG9zaXRvcnkyODg5NzQ4NDA="
 open_issues_within = 10
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 0
 topics = [ ]
 updated_within = "year"
