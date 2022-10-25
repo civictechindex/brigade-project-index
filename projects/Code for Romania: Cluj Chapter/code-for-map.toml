@@ -1,7 +1,7 @@
 code_url = "https://github.com/code4romania/code-for-map"
 description = "Code for Romania digital strategy map application"
 git_url = "git://github.com/code4romania/code-for-map.git"
-last_commit = "2022-03-24T09:36:04Z"
+last_commit = "2022-10-25T13:41:59Z"
 link_url = "https://code4.ro/putem"
 name = "code-for-map"
 organization_name = "Code for Romania: Cluj Chapter"
@@ -29,7 +29,7 @@ name = "code-for-map"
 node_id = "MDEwOlJlcG9zaXRvcnkzMTE5OTIzNTU="
 open_issues_within = 10
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 0
 topics = [ ]
 updated_within = "year"
