@@ -1,0 +1,51 @@
+code_url = "https://github.com/18F/guides-and-methods-hugo"
+description = "18F Guides and Methods using Hugo site engine"
+git_url = "git://github.com/18F/guides-and-methods-hugo.git"
+last_commit = "2022-10-25T03:40:07Z"
+name = "guides-and-methods-hugo"
+organization_name = "18F"
+
+[github]
+allow_forking = true
+archived = false
+created_at = "2022-10-25T03:37:50Z"
+default_branch = "main"
+description = "18F Guides and Methods using Hugo site engine"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "18F/guides-and-methods-hugo"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+id = 557_085_191
+is_template = false
+language = "SCSS"
+name = "guides-and-methods-hugo"
+node_id = "R_kgDOITRyBw"
+open_issues_within = 0
+private = false
+pushed_within = "week"
+stargazers_within = 0
+topics = [ ]
+updated_within = "week"
+visibility = "public"
+watchers_within = 0
+web_commit_signoff_required = false
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_233_994
+  login = "18F"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjYyMzM5OTQ="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  maintain = false
+  pull = true
+  push = false
+  triage = false
