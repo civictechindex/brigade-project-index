@@ -1,0 +1,59 @@
+code_url = "https://github.com/mysociety/uk_westminster_constituency_names_and_codes"
+description = "Lookup between different ways of naming and coding UK westminster parliamentary constituencies"
+git_url = "git://github.com/mysociety/uk_westminster_constituency_names_and_codes.git"
+last_commit = "2022-10-25T12:35:59Z"
+link_url = "https://mysociety.github.io/uk_westminster_constituency_names_and_codes/"
+name = "uk_westminster_constituency_names_and_codes"
+organization_name = "mySociety"
+
+[github]
+allow_forking = true
+archived = false
+created_at = "2022-10-24T10:23:47Z"
+default_branch = "main"
+description = "Lookup between different ways of naming and coding UK westminster parliamentary constituencies"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "mysociety/uk_westminster_constituency_names_and_codes"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "https://mysociety.github.io/uk_westminster_constituency_names_and_codes/"
+id = 556_689_646
+is_template = false
+language = "Jupyter Notebook"
+name = "uk_westminster_constituency_names_and_codes"
+node_id = "R_kgDOIS5o7g"
+open_issues_within = 0
+private = false
+pushed_within = "week"
+stargazers_within = 0
+topics = [ ]
+updated_within = "week"
+visibility = "public"
+watchers_within = 0
+web_commit_signoff_required = false
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 141_338
+  login = "mysociety"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE0MTMzOA=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  maintain = false
+  pull = true
+  push = false
+  triage = false
