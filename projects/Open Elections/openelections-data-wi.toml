@@ -1,7 +1,7 @@
 code_url = "https://github.com/openelections/openelections-data-wi"
 description = "Pre-processed election results for Wisconsin elections"
 git_url = "git://github.com/openelections/openelections-data-wi.git"
-last_commit = "2022-04-23T17:15:38Z"
+last_commit = "2022-10-24T23:59:13Z"
 name = "openelections-data-wi"
 organization_name = "Open Elections"
 
@@ -27,7 +27,7 @@ name = "openelections-data-wi"
 node_id = "MDEwOlJlcG9zaXRvcnk0NjA2MTE0MQ=="
 open_issues_within = 10
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
 updated_within = "year"

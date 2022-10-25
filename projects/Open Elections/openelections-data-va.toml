@@ -1,7 +1,7 @@
 code_url = "https://github.com/openelections/openelections-data-va"
 description = "Pre-processed election results for Virginia"
 git_url = "git://github.com/openelections/openelections-data-va.git"
-last_commit = "2022-04-23T17:16:03Z"
+last_commit = "2022-10-24T23:58:30Z"
 name = "openelections-data-va"
 organization_name = "Open Elections"
 
@@ -26,7 +26,7 @@ name = "openelections-data-va"
 node_id = "MDEwOlJlcG9zaXRvcnk1Mzc5Njg1MA=="
 open_issues_within = 10
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
 updated_within = "year"

@@ -1,7 +1,7 @@
 code_url = "https://github.com/openelections/openelections-data-ut"
 description = "Pre-processed election results for Utah"
 git_url = "git://github.com/openelections/openelections-data-ut.git"
-last_commit = "2022-08-21T19:06:48Z"
+last_commit = "2022-10-24T23:58:21Z"
 name = "openelections-data-ut"
 organization_name = "Open Elections"
 
@@ -27,7 +27,7 @@ name = "openelections-data-ut"
 node_id = "MDEwOlJlcG9zaXRvcnk1Mzc2ODg2Nw=="
 open_issues_within = 100
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
 updated_within = "year"
