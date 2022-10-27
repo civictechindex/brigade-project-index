@@ -1,7 +1,7 @@
 code_url = "https://github.com/CodeForPittsburgh/food-access-data-transformation"
 description = "Data Transformation Scripts for the Code For Pittsburgh Food Access Map"
 git_url = "git://github.com/CodeForPittsburgh/food-access-data-transformation.git"
-last_commit = "2022-08-31T22:55:46Z"
+last_commit = "2022-10-26T22:21:56Z"
 name = "food-access-data-transformation"
 organization_name = "Code for Pittsburgh"
 
@@ -25,7 +25,7 @@ is_template = false
 language = "Python"
 name = "food-access-data-transformation"
 node_id = "R_kgDOGdBRMg"
-open_issues_within = 100
+open_issues_within = 10
 private = false
 pushed_within = "week"
 stargazers_within = 10
