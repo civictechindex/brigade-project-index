@@ -52,7 +52,7 @@ topics = [
   "santa-monica",
   "urban-forest"
 ]
-updated_within = "year"
+updated_within = "week"
 visibility = "public"
 watchers_within = 100
 web_commit_signoff_required = false
