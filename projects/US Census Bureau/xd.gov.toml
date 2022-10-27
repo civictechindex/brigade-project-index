@@ -3,5 +3,4 @@ git_branch = "master"
 git_url = "git://github.com/uscensusbureau/xd.gov.git"
 last_pushed_within = "week"
 name = "xd.gov"
-open_issues_within = 10
 organization_name = "US Census Bureau"
