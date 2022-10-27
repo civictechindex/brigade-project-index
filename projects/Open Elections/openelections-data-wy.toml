@@ -1,7 +1,7 @@
 code_url = "https://github.com/openelections/openelections-data-wy"
 description = "Certified election results for Wyoming elections."
 git_url = "git://github.com/openelections/openelections-data-wy.git"
-last_commit = "2022-04-23T17:15:17Z"
+last_commit = "2022-10-27T01:17:08Z"
 name = "openelections-data-wy"
 organization_name = "Open Elections"
 
@@ -26,7 +26,7 @@ name = "openelections-data-wy"
 node_id = "MDEwOlJlcG9zaXRvcnkyMDIwMjA0Nw=="
 open_issues_within = 10
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 0
 topics = [ ]
 updated_within = "year"
