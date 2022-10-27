@@ -1,6 +1,6 @@
 code_url = "https://github.com/govmeeting/govmeeting"
 description = "Software to improve involvement in local government."
-last_commit = "2022-07-07T16:31:41Z"
+last_commit = "2022-10-26T23:48:01Z"
 name = "govmeeting"
 organization_name = "Code for Philly"
 status = "Prototyping"
@@ -30,7 +30,7 @@ network_count = 6
 node_id = "MDEwOlJlcG9zaXRvcnk1MzU5MjMzMQ=="
 open_issues_within = 100
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 100
 subscribers_count = 4
 temp_clone_token = ""
