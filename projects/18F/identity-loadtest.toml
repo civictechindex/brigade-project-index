@@ -1,7 +1,7 @@
 code_url = "https://github.com/18F/identity-loadtest"
 description = "Load testing infrastructure for the Login.gov IdP"
 git_url = "git://github.com/18F/identity-loadtest.git"
-last_commit = "2022-10-26T22:40:46Z"
+last_commit = "2022-10-28T01:01:24Z"
 name = "identity-loadtest"
 organization_name = "18F"
 
@@ -30,7 +30,7 @@ private = false
 pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
-updated_within = "week"
+updated_within = "month"
 visibility = "public"
 watchers_within = 10
 web_commit_signoff_required = false
