@@ -29,10 +29,10 @@ name = "SABLE"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDU4MTY0Mjc="
 open_issues_within = 0
 private = false
-pushed_within = "week"
+pushed_within = "month"
 stargazers_within = 100
 topics = [ "machine-learning", "text-classification", "web-scraping" ]
-updated_within = "week"
+updated_within = "month"
 visibility = "public"
 watchers_within = 100
 web_commit_signoff_required = false
