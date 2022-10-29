@@ -1,6 +1,6 @@
 code_url = "https://github.com/Code-For-Chicago/code-for-chicago-jekyll"
 git_url = "git://github.com/Code-For-Chicago/code-for-chicago-jekyll.git"
-last_commit = "2022-10-08T03:00:15Z"
+last_commit = "2022-10-28T20:15:50Z"
 name = "code-for-chicago-jekyll"
 organization_name = "Code for Chicago"
 
@@ -25,7 +25,7 @@ name = "code-for-chicago-jekyll"
 node_id = "MDEwOlJlcG9zaXRvcnkxODEyNDg0MDg="
 open_issues_within = 100
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
 updated_within = "year"
