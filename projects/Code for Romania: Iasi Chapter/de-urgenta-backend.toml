@@ -1,7 +1,7 @@
 code_url = "https://github.com/code4romania/de-urgenta-backend"
 description = "De Urgență backend - web & mobile"
 git_url = "git://github.com/code4romania/de-urgenta-backend.git"
-last_commit = "2022-01-29T10:05:02Z"
+last_commit = "2022-10-29T08:58:49Z"
 link_url = "https://de-urgenta-backend-mu.vercel.app/"
 name = "de-urgenta-backend"
 organization_name = "Code for Romania: Iasi Chapter"
@@ -29,10 +29,10 @@ name = "de-urgenta-backend"
 node_id = "MDEwOlJlcG9zaXRvcnkzNTMzMTg1Mjc="
 open_issues_within = 10
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
-updated_within = "month"
+updated_within = "week"
 visibility = "public"
 watchers_within = 10
 web_commit_signoff_required = false
