@@ -1,7 +1,7 @@
 code_url = "https://github.com/codeforkansascity/codeforkansascity.github.io"
 description = "Code for Kansas City Website"
 git_url = "git://github.com/codeforkansascity/codeforkansascity.github.io.git"
-last_commit = "2022-01-04T00:00:45Z"
+last_commit = "2022-10-29T22:02:26Z"
 link_url = "http://codeforkc.org"
 name = "codeforkansascity.github.io"
 organization_name = "KC Digital Drive"
@@ -29,7 +29,7 @@ name = "codeforkansascity.github.io"
 node_id = "MDEwOlJlcG9zaXRvcnkzMDU3NzM4Nw=="
 open_issues_within = 100
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
 updated_within = "year"
