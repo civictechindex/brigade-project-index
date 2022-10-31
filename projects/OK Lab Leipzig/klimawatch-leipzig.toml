@@ -1,0 +1,56 @@
+code_url = "https://github.com/CodeforLeipzig/klimawatch-leipzig"
+description = "Analysis and visualizations of climate relevant data for the city of Leipzig "
+git_url = "git://github.com/CodeforLeipzig/klimawatch-leipzig.git"
+last_commit = "2022-10-31T17:12:18Z"
+name = "klimawatch-leipzig"
+organization_name = "OK Lab Leipzig"
+
+[github]
+allow_forking = true
+archived = false
+created_at = "2022-10-31T17:12:17Z"
+default_branch = "main"
+description = "Analysis and visualizations of climate relevant data for the city of Leipzig "
+disabled = false
+fork = false
+forks_within = 0
+full_name = "CodeforLeipzig/klimawatch-leipzig"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+id = 560_069_196
+is_template = false
+name = "klimawatch-leipzig"
+node_id = "R_kgDOIWH6TA"
+open_issues_within = 0
+private = false
+pushed_within = "week"
+stargazers_within = 0
+topics = [ ]
+updated_within = "week"
+visibility = "public"
+watchers_within = 0
+web_commit_signoff_required = false
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 7_286_986
+  login = "CodeforLeipzig"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjcyODY5ODY="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  maintain = false
+  pull = true
+  push = false
+  triage = false
