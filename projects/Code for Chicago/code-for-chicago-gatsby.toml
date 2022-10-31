@@ -1,0 +1,49 @@
+code_url = "https://github.com/Code-For-Chicago/code-for-chicago-gatsby"
+git_url = "git://github.com/Code-For-Chicago/code-for-chicago-gatsby.git"
+last_commit = "2022-10-30T00:32:18Z"
+name = "code-for-chicago-gatsby"
+organization_name = "Code for Chicago"
+
+[github]
+allow_forking = true
+archived = false
+created_at = "2022-10-30T23:24:48Z"
+default_branch = "main"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "Code-For-Chicago/code-for-chicago-gatsby"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+id = 559_710_934
+is_template = false
+language = "JavaScript"
+name = "code-for-chicago-gatsby"
+node_id = "R_kgDOIVyC1g"
+open_issues_within = 10
+private = false
+pushed_within = "week"
+stargazers_within = 10
+topics = [ ]
+updated_within = "week"
+visibility = "public"
+watchers_within = 10
+web_commit_signoff_required = false
+
+  [github.owner]
+  gravatar_id = ""
+  id = 31_515_336
+  login = "Code-For-Chicago"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjMxNTE1MzM2"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  maintain = false
+  pull = true
+  push = false
+  triage = false
