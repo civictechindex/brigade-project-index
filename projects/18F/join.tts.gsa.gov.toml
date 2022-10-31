@@ -1,6 +1,6 @@
 code_url = "https://github.com/18F/join.tts.gsa.gov"
 git_url = "git://github.com/18F/join.tts.gsa.gov.git"
-last_commit = "2022-10-28T16:24:17Z"
+last_commit = "2022-10-31T14:42:30Z"
 link_url = "https://join.tts.gsa.gov/"
 name = "join.tts.gsa.gov"
 organization_name = "18F"
@@ -30,7 +30,7 @@ private = false
 pushed_within = "week"
 stargazers_within = 100
 topics = [ ]
-updated_within = "year"
+updated_within = "week"
 visibility = "public"
 watchers_within = 100
 web_commit_signoff_required = false
