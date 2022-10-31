@@ -1,7 +1,7 @@
 code_url = "https://github.com/codeforkyana/power-outage-data"
 description = "Data scraped from LG&E/KU's outage map"
 git_url = "git://github.com/codeforkyana/power-outage-data.git"
-last_commit = "2022-10-31T06:53:58Z"
+last_commit = "2022-10-31T09:08:22Z"
 link_url = "http://poweroutages.codeforkentuckiana.org"
 name = "power-outage-data"
 organization_name = "Code for Kentuckiana"
@@ -32,7 +32,7 @@ private = false
 pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
-updated_within = "year"
+updated_within = "week"
 visibility = "public"
 watchers_within = 10
 web_commit_signoff_required = false
