@@ -1,6 +1,6 @@
 code_url = "https://github.com/mysociety/local-intelligence-hub"
 git_url = "git://github.com/mysociety/local-intelligence-hub.git"
-last_commit = "2022-10-26T15:53:26Z"
+last_commit = "2022-10-31T12:21:42Z"
 link_url = "https://mysociety.github.io/local-intelligence-hub"
 name = "local-intelligence-hub"
 organization_name = "mySociety"
@@ -22,7 +22,7 @@ has_wiki = true
 homepage = "https://mysociety.github.io/local-intelligence-hub"
 id = 521_337_439
 is_template = false
-language = "Python"
+language = "HTML"
 name = "local-intelligence-hub"
 node_id = "R_kgDOHxL6Xw"
 open_issues_within = 100
