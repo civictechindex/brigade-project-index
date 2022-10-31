@@ -1,6 +1,6 @@
 code_url = "https://github.com/code4romania/code4ro-k8s"
 git_url = "git://github.com/code4romania/code4ro-k8s.git"
-last_commit = "2022-10-10T17:53:55Z"
+last_commit = "2022-10-31T14:46:51Z"
 name = "code4ro-k8s"
 organization_name = "Code for Romania: Cluj Chapter"
 
@@ -24,7 +24,7 @@ name = "code4ro-k8s"
 node_id = "R_kgDOGU3oHA"
 open_issues_within = 0
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
 updated_within = "year"
