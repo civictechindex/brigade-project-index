@@ -1,7 +1,7 @@
 code_url = "https://github.com/18F/fedramp-data"
 description = "A repository for the data underlying the FedRamp Dashboard"
 git_url = "git://github.com/18F/fedramp-data.git"
-last_commit = "2022-10-31T04:41:02Z"
+last_commit = "2022-11-01T04:40:58Z"
 name = "fedramp-data"
 organization_name = "18F"
 
@@ -31,7 +31,7 @@ private = false
 pushed_within = "week"
 stargazers_within = 100
 topics = [ ]
-updated_within = "month"
+updated_within = "week"
 visibility = "public"
 watchers_within = 100
 web_commit_signoff_required = false
