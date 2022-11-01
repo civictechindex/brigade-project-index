@@ -1,7 +1,7 @@
 code_url = "https://github.com/mysociety/research-repository"
 description = "A place for mySociety to keep its research in a sensibly organised and presented manner."
 git_url = "git://github.com/mysociety/research-repository.git"
-last_commit = "2022-08-30T15:25:56Z"
+last_commit = "2022-10-31T17:15:22Z"
 link_url = "http://research.mysociety.org/"
 name = "research-repository"
 organization_name = "mySociety"
@@ -30,10 +30,10 @@ name = "research-repository"
 node_id = "MDEwOlJlcG9zaXRvcnk4MjkyNDIzNg=="
 open_issues_within = 10
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ "django", "mysociety", "python", "repository", "research" ]
-updated_within = "year"
+updated_within = "week"
 visibility = "public"
 watchers_within = 10
 web_commit_signoff_required = false
