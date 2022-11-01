@@ -1,7 +1,7 @@
 code_url = "https://github.com/CodeForPittsburgh/fishfryform"
 description = "The data entry companion and database interface for the Fish Fry Map"
 git_url = "git://github.com/CodeForPittsburgh/fishfryform.git"
-last_commit = "2022-02-20T18:15:10Z"
+last_commit = "2022-11-01T20:33:40Z"
 link_url = "http://fishfry.codeforpgh.com"
 name = "fishfryform"
 organization_name = "Code for Pittsburgh"
@@ -38,7 +38,7 @@ name = "fishfryform"
 node_id = "MDEwOlJlcG9zaXRvcnk4MDM5MzI3Mg=="
 open_issues_within = 10
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 10
 topics = [
   "bootstrap",
