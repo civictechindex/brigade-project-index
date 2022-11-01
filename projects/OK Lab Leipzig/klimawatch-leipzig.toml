@@ -1,7 +1,7 @@
 code_url = "https://github.com/CodeforLeipzig/klimawatch-leipzig"
 description = "Analysis and visualizations of climate relevant data for the city of Leipzig "
 git_url = "git://github.com/CodeforLeipzig/klimawatch-leipzig.git"
-last_commit = "2022-10-31T17:12:18Z"
+last_commit = "2022-10-31T18:56:21Z"
 name = "klimawatch-leipzig"
 organization_name = "OK Lab Leipzig"
 
@@ -22,6 +22,7 @@ has_projects = true
 has_wiki = true
 id = 560_069_196
 is_template = false
+language = "Kotlin"
 name = "klimawatch-leipzig"
 node_id = "R_kgDOIWH6TA"
 open_issues_within = 0
