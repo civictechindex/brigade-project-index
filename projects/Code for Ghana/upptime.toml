@@ -1,7 +1,7 @@
 code_url = "https://github.com/CodeForAfrica/upptime"
 description = "Uptime for monitoring CFA projects"
 git_url = "git://github.com/CodeForAfrica/upptime.git"
-last_commit = "2022-11-01T01:10:41Z"
+last_commit = "2022-11-01T01:53:09Z"
 link_url = "https://codeforafrica.github.io/upptime"
 name = "upptime"
 organization_name = "Code for Ghana"
@@ -32,7 +32,7 @@ private = false
 pushed_within = "week"
 stargazers_within = 10
 topics = [ "status-page", "upptime", "uptime-monitor" ]
-updated_within = "year"
+updated_within = "week"
 visibility = "public"
 watchers_within = 10
 web_commit_signoff_required = false
