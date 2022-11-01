@@ -4,6 +4,7 @@ git_url = "git://github.com/codeforamerica/classifyr.git"
 last_commit = "2022-10-25T17:42:35Z"
 name = "classifyr"
 organization_name = "Code for America"
+topics = [ "classifier", "code-for-america", "data-classification" ]
 
 [github]
 allow_forking = true
@@ -20,6 +21,7 @@ has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = true
+homepage = ""
 id = 475_669_341
 is_template = false
 language = "Ruby"
@@ -29,8 +31,8 @@ open_issues_within = 100
 private = false
 pushed_within = "week"
 stargazers_within = 0
-topics = [ ]
-updated_within = "month"
+topics = [ "classifier", "code-for-america", "data-classification" ]
+updated_within = "week"
 visibility = "public"
 watchers_within = 0
 web_commit_signoff_required = false
