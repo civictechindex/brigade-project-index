@@ -1,8 +1,7 @@
 code_url = "https://github.com/OpenUpSA/action-takers"
 git_branch = "master"
 git_url = "git://github.com/OpenUpSA/action-takers.git"
-last_pushed_within = "month"
+last_pushed_within = "week"
 link_url = "http://actiontakers.co.za/"
 name = "action-takers"
-open_issues_within = 10
 organization_name = "OpenUp"
