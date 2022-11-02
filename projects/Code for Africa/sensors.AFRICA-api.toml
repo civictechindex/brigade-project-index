@@ -1,7 +1,7 @@
 code_url = "https://github.com/CodeForAfrica/sensors.AFRICA-api"
 description = "The sensors.AFRICA API receiving, storing, and processing data received from sensors across the continentent. Accessible at https://api.sensors.africa/"
 git_url = "git://github.com/CodeForAfrica/sensors.AFRICA-api.git"
-last_commit = "2021-10-07T09:15:52Z"
+last_commit = "2022-11-02T07:11:42Z"
 link_url = "https://api.sensors.africa/"
 name = "sensors.AFRICA-api"
 organization_name = "Code for Africa"
@@ -57,7 +57,7 @@ topics = [
   "sensors-api",
   "sensors-data"
 ]
-updated_within = "year"
+updated_within = "week"
 visibility = "public"
 watchers_within = 100
 web_commit_signoff_required = false
