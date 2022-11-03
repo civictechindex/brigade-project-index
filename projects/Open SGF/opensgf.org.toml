@@ -1,7 +1,7 @@
 code_url = "https://github.com/Open-SGF/opensgf.org"
 description = "Organization website"
 git_url = "git://github.com/Open-SGF/opensgf.org.git"
-last_commit = "2022-11-01T22:54:59Z"
+last_commit = "2022-11-03T02:10:04Z"
 link_url = "https://www.opensgf.org/"
 name = "opensgf.org"
 organization_name = "Open SGF"
@@ -33,7 +33,7 @@ private = false
 pushed_within = "week"
 stargazers_within = 10
 topics = [ "hacktoberfest" ]
-updated_within = "year"
+updated_within = "week"
 visibility = "public"
 watchers_within = 10
 web_commit_signoff_required = false
