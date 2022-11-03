@@ -1,6 +1,6 @@
 code_url = "https://github.com/code4romania/centre_testare_HIV"
 git_url = "git://github.com/code4romania/centre_testare_HIV.git"
-last_commit = "2022-07-07T14:19:44Z"
+last_commit = "2022-11-03T11:16:23Z"
 link_url = "centre-testare-hiv.vercel.app"
 name = "centre_testare_HIV"
 organization_name = "Code for Romania"
@@ -27,7 +27,7 @@ name = "centre_testare_HIV"
 node_id = "R_kgDOGxwwbQ"
 open_issues_within = 0
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
 updated_within = "year"
