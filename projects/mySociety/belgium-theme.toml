@@ -1,7 +1,7 @@
 code_url = "https://github.com/mysociety/belgium-theme"
 description = "The Alaveteli theme for Belgian site Transparencia"
 git_url = "git://github.com/mysociety/belgium-theme.git"
-last_commit = "2022-02-01T14:56:11Z"
+last_commit = "2022-11-02T09:52:03Z"
 link_url = "https://transparencia.be/"
 name = "belgium-theme"
 organization_name = "mySociety"
@@ -30,7 +30,7 @@ name = "belgium-theme"
 node_id = "MDEwOlJlcG9zaXRvcnk2NTAxNzMyNw=="
 open_issues_within = 10
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ "alaveteli", "alaveteli-theme" ]
 updated_within = "year"
