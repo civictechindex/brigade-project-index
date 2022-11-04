@@ -1,5 +1,6 @@
 code_url = "https://github.com/codeforamerica/50-states-2023"
 git_url = "git://github.com/codeforamerica/50-states-2023.git"
+last_commit = "2022-11-04T01:00:12Z"
 name = "50-states-2023"
 organization_name = "Code for America"
 
@@ -19,14 +20,15 @@ has_projects = true
 has_wiki = true
 id = 557_967_947
 is_template = false
+language = "JavaScript"
 name = "50-states-2023"
 node_id = "R_kgDOIUHqSw"
 open_issues_within = 0
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 0
 topics = [ ]
-updated_within = "month"
+updated_within = "week"
 visibility = "public"
 watchers_within = 0
 web_commit_signoff_required = false

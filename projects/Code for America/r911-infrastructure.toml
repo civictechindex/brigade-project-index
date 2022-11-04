@@ -1,7 +1,7 @@
 code_url = "https://github.com/codeforamerica/r911-infrastructure"
 description = "Infrastructure for Code for America's Reimagine911 project."
 git_url = "git://github.com/codeforamerica/r911-infrastructure.git"
-last_commit = "2022-10-13T16:52:49Z"
+last_commit = "2022-11-04T16:50:08Z"
 name = "r911-infrastructure"
 organization_name = "Code for America"
 
@@ -27,7 +27,7 @@ name = "r911-infrastructure"
 node_id = "R_kgDOHzJyPQ"
 open_issues_within = 0
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 0
 topics = [ ]
 updated_within = "year"
