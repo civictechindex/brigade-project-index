@@ -1,42 +1,42 @@
-code_url = "https://github.com/code4romania/code4ro-k8s"
-git_url = "git://github.com/code4romania/code4ro-k8s.git"
-last_commit = "2022-11-04T14:07:56Z"
-name = "code4ro-k8s"
+code_url = "https://github.com/code4romania/ureport-online"
+git_url = "git://github.com/code4romania/ureport-online.git"
+last_commit = "2022-02-03T10:38:04Z"
+name = "ureport-online"
 organization_name = "Code for Romania: Cluj Chapter"
 
 [github]
 allow_forking = true
 archived = false
-created_at = "2021-11-04T09:21:05Z"
+created_at = "2022-11-03T14:16:14Z"
 default_branch = "main"
 disabled = false
-fork = false
-forks_within = 0
-full_name = "code4romania/code4ro-k8s"
+fork = true
+forks_within = 10
+full_name = "code4romania/ureport-online"
 has_downloads = true
-has_issues = true
+has_issues = false
 has_pages = false
 has_projects = true
 has_wiki = true
-id = 424_536_092
+id = 561_358_090
 is_template = false
-name = "code4ro-k8s"
-node_id = "R_kgDOGU3oHA"
+name = "ureport-online"
+node_id = "R_kgDOIXWlCg"
 open_issues_within = 0
 private = false
-pushed_within = "week"
-stargazers_within = 10
+pushed_within = "year"
+stargazers_within = 0
 topics = [ ]
-updated_within = "week"
+updated_within = "year"
 visibility = "public"
-watchers_within = 10
+watchers_within = 0
 web_commit_signoff_required = false
 
   [github.license]
-  key = "mpl-2.0"
-  name = "Mozilla Public License 2.0"
-  node_id = "MDc6TGljZW5zZTE0"
-  spdx_id = "MPL-2.0"
+  key = "agpl-3.0"
+  name = "GNU Affero General Public License v3.0"
+  node_id = "MDc6TGljZW5zZTE="
+  spdx_id = "AGPL-3.0"
 
   [github.owner]
   gravatar_id = ""
