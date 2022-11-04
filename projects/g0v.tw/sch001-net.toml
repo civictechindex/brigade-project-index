@@ -1,7 +1,7 @@
 code_url = "https://github.com/g0v/sch001-net"
 description = "sch001 landing page"
 git_url = "git://github.com/g0v/sch001-net.git"
-last_commit = "2022-11-01T14:00:51Z"
+last_commit = "2022-11-03T14:02:36Z"
 link_url = "https://sch001.g0v.tw"
 name = "sch001-net"
 organization_name = "g0v.tw"
@@ -32,7 +32,7 @@ private = false
 pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
-updated_within = "year"
+updated_within = "week"
 visibility = "public"
 watchers_within = 10
 web_commit_signoff_required = false
