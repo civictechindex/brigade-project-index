@@ -1,7 +1,7 @@
 code_url = "https://github.com/codeforboston/maple"
 description = "The MAssachusetts Platform for Legislative Engagement (MAPLE) is a non-partisan democracy reform group."
 git_url = "git://github.com/codeforboston/maple.git"
-last_commit = "2022-11-02T00:22:25Z"
+last_commit = "2022-11-03T21:47:58Z"
 link_url = "https://mapletestimony.org"
 name = "maple"
 organization_name = "Code for Boston"
@@ -32,7 +32,7 @@ private = false
 pushed_within = "week"
 stargazers_within = 100
 topics = [ ]
-updated_within = "month"
+updated_within = "week"
 visibility = "public"
 watchers_within = 100
 web_commit_signoff_required = false
