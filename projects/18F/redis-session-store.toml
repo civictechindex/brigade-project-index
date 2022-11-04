@@ -1,0 +1,9 @@
+code_url = "https://github.com/18F/redis-session-store"
+description = "A simple session store for Rails based on Redis."
+git_branch = "master"
+git_url = "git://github.com/18F/redis-session-store.git"
+last_pushed_within = "week"
+link_url = "http://github.com/roidrage/redis-session-store"
+name = "redis-session-store"
+open_issues_within = 10
+organization_name = "18F"
