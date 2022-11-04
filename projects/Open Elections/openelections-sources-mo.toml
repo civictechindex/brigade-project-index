@@ -1,7 +1,7 @@
 code_url = "https://github.com/openelections/openelections-sources-mo"
 description = "Original source files from Missouri elections"
 git_url = "git://github.com/openelections/openelections-sources-mo.git"
-last_commit = "2022-08-29T13:35:23Z"
+last_commit = "2022-11-04T00:12:40Z"
 name = "openelections-sources-mo"
 organization_name = "Open Elections"
 
@@ -27,7 +27,7 @@ name = "openelections-sources-mo"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDUzODEyMTk="
 open_issues_within = 10
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
 updated_within = "year"
