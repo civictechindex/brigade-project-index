@@ -1,7 +1,7 @@
 code_url = "https://github.com/mysociety/uk_ruc"
 description = "Unified rural/urban classification for whole UK"
 git_url = "git://github.com/mysociety/uk_ruc.git"
-last_commit = "2022-09-13T11:13:46Z"
+last_commit = "2022-11-03T18:59:28Z"
 link_url = "https://mysociety.github.io/uk_ruc/"
 name = "uk_ruc"
 organization_name = "mySociety"
@@ -27,9 +27,9 @@ is_template = false
 language = "Jupyter Notebook"
 name = "uk_ruc"
 node_id = "MDEwOlJlcG9zaXRvcnkzNDE2MTI4Nzk="
-open_issues_within = 10
+open_issues_within = 0
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
 updated_within = "year"

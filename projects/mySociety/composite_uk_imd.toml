@@ -1,7 +1,7 @@
 code_url = "https://github.com/mysociety/composite_uk_imd"
 description = "Composite version of UK and GB wide deprivation indexes for small areas."
 git_url = "git://github.com/mysociety/composite_uk_imd.git"
-last_commit = "2022-09-13T11:24:11Z"
+last_commit = "2022-11-03T15:10:06Z"
 link_url = "https://mysociety.github.io/composite_uk_imd/"
 name = "composite_uk_imd"
 organization_name = "mySociety"
@@ -28,9 +28,9 @@ is_template = false
 language = "Jupyter Notebook"
 name = "composite_uk_imd"
 node_id = "MDEwOlJlcG9zaXRvcnkzMzU5NDIzOTk="
-open_issues_within = 10
+open_issues_within = 0
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 100
 topics = [ "dataset" ]
 updated_within = "month"
