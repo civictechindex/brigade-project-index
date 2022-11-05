@@ -1,7 +1,7 @@
 code_url = "https://github.com/OpenUpSA/ckanext-gdoc"
 description = "A previewer for CKAN that uses the Google Doc Previewer to view documents"
 git_url = "git://github.com/OpenUpSA/ckanext-gdoc.git"
-last_commit = "2017-10-13T09:36:46Z"
+last_commit = "2022-11-05T11:38:34Z"
 name = "ckanext-gdoc"
 organization_name = "OpenUp"
 
@@ -27,10 +27,10 @@ name = "ckanext-gdoc"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDYzNzM0MTc="
 open_issues_within = 0
 private = false
-pushed_within = "over_a_year"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
-updated_within = "over_a_year"
+updated_within = "week"
 visibility = "public"
 watchers_within = 10
 web_commit_signoff_required = false
