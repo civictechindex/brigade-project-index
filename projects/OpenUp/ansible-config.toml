@@ -1,7 +1,7 @@
 code_url = "https://github.com/OpenUpSA/ansible-config"
 description = "Ansible playbooks and inventory for OpenUp"
 git_url = "git://github.com/OpenUpSA/ansible-config.git"
-last_commit = "2022-10-26T08:45:40Z"
+last_commit = "2022-11-04T11:43:05Z"
 name = "ansible-config"
 organization_name = "OpenUp"
 
