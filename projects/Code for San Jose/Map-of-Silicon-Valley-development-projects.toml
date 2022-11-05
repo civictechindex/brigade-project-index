@@ -1,7 +1,7 @@
 code_url = "https://github.com/codeforsanjose/Map-of-Silicon-Valley-development-projects"
 description = "Building an interactive map of development projects for a local non-profit, Catalyze SV. The map will be on Catalyze SV's website."
 git_url = "git://github.com/codeforsanjose/Map-of-Silicon-Valley-development-projects.git"
-last_commit = "2022-11-04T06:07:10Z"
+last_commit = "2022-11-05T06:57:38Z"
 link_url = "https://www.catalyzesv.org/map"
 name = "Map-of-Silicon-Valley-development-projects"
 organization_name = "Code for San Jose"
@@ -10,7 +10,7 @@ organization_name = "Code for San Jose"
 allow_forking = true
 archived = false
 created_at = "2019-05-19T20:26:02Z"
-default_branch = "main"
+default_branch = "develop"
 description = "Building an interactive map of development projects for a local non-profit, Catalyze SV. The map will be on Catalyze SV's website."
 disabled = false
 fork = false
