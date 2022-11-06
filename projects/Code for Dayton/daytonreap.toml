@@ -1,7 +1,7 @@
 code_url = "https://github.com/codefordayton/daytonreap"
 description = "Web application to streamline Dayton's REAP (Real Estate Acquisition Process) Program"
 git_url = "git://github.com/codefordayton/daytonreap.git"
-last_commit = "2022-10-18T01:38:38Z"
+last_commit = "2022-11-05T21:38:38Z"
 name = "daytonreap"
 organization_name = "Code for Dayton"
 
@@ -27,7 +27,7 @@ name = "daytonreap"
 node_id = "MDEwOlJlcG9zaXRvcnkyNDY3NjQ3NQ=="
 open_issues_within = 10
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
 updated_within = "week"
