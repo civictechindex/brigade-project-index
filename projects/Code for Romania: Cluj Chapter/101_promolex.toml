@@ -1,6 +1,7 @@
 code_url = "https://github.com/code4romania/101_promolex"
 git_url = "git://github.com/code4romania/101_promolex.git"
 last_commit = "2022-11-05T19:57:23Z"
+link_url = "101-promolex.vercel.app"
 name = "101_promolex"
 organization_name = "Code for Romania: Cluj Chapter"
 
@@ -18,6 +19,7 @@ has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = true
+homepage = "101-promolex.vercel.app"
 id = 561_763_841
 is_template = false
 language = "TypeScript"
