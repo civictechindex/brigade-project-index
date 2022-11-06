@@ -1,7 +1,10 @@
 code_url = "https://github.com/CodeforHawaii/HACC2022"
+description = "Code for Hawaii's Hawaii Annual Code Challenge 2022 submission"
 git_branch = "main"
 git_url = "git://github.com/CodeforHawaii/HACC2022.git"
 last_pushed_within = "week"
+link_url = "https://menehune.azurewebsites.net/"
 name = "HACC2022"
 open_issues_within = 100
 organization_name = "Code for Hawaii"
+topics = [ "codeforhawaii" ]
