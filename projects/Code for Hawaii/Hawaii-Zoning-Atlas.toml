@@ -3,6 +3,7 @@ description = " Interactive map showing how outdated zoning laws make it hard to
 git_branch = "main"
 git_url = "git://github.com/CodeforHawaii/Hawaii-Zoning-Atlas.git"
 last_pushed_within = "week"
+link_url = "https://hawaiizoningatlas.com"
 name = "Hawaii-Zoning-Atlas"
 open_issues_within = 10
 organization_name = "Code for Hawaii"
