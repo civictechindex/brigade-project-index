@@ -1,7 +1,7 @@
 code_url = "https://github.com/CodeForAfrica/PesaYetu"
 description = "PesaYetu, an easy-to-use visualization tool that helps journalists quickly find, analyse and compare government budget data to help fact-check claims about resource allocations, public procurement and development plans or services. Accessible at  https://pesayetu.dev.codeforafrica.org"
 git_url = "git://github.com/CodeForAfrica/PesaYetu.git"
-last_commit = "2022-10-10T10:31:37Z"
+last_commit = "2022-11-07T10:25:31Z"
 link_url = "https://pesayetu.dev.codeforafrica.org"
 name = "PesaYetu"
 organization_name = "Code for Nigeria"
@@ -39,7 +39,7 @@ name = "PesaYetu"
 node_id = "MDEwOlJlcG9zaXRvcnkyMDc3Mzc3MTQ="
 open_issues_within = 10
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 10
 topics = [
   "africa",
