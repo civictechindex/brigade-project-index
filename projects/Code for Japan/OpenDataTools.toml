@@ -1,6 +1,6 @@
 code_url = "https://github.com/codeforjapan/OpenDataTools"
 git_url = "git://github.com/codeforjapan/OpenDataTools.git"
-last_commit = "2022-11-04T21:16:10Z"
+last_commit = "2022-11-07T07:11:58Z"
 link_url = "open-data-tools.vercel.app"
 name = "OpenDataTools"
 organization_name = "Code for Japan"
@@ -30,7 +30,7 @@ private = false
 pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
-updated_within = "week"
+updated_within = "month"
 visibility = "public"
 watchers_within = 10
 web_commit_signoff_required = false
