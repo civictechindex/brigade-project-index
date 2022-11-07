@@ -1,6 +1,6 @@
 code_url = "https://github.com/openelections/openelections-sources-wv"
 description = "Source data for West Virginia results"
-git_branch = "main"
+git_branch = "master"
 git_url = "git://github.com/openelections/openelections-sources-wv.git"
 last_pushed_within = "over_a_year"
 name = "openelections-sources-wv"
