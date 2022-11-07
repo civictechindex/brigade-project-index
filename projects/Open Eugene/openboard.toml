@@ -1,6 +1,7 @@
 code_url = "https://github.com/OpenEugene/openboard"
 description = "An open source switchboard, written in Elm and Go. "
 git_url = "git://github.com/OpenEugene/openboard.git"
+last_commit = "2022-03-31T01:39:57Z"
 name = "openboard"
 organization_name = "Open Eugene"
 topics = [ "mozsprint", "openeugene" ]
