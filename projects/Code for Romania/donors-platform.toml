@@ -1,6 +1,6 @@
 code_url = "https://github.com/code4romania/donors-platform"
 git_url = "git://github.com/code4romania/donors-platform.git"
-last_commit = "2022-10-31T14:42:05Z"
+last_commit = "2022-11-07T15:01:53Z"
 name = "donors-platform"
 organization_name = "Code for Romania"
 
@@ -29,7 +29,7 @@ private = false
 pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
-updated_within = "week"
+updated_within = "month"
 visibility = "public"
 watchers_within = 10
 web_commit_signoff_required = false
