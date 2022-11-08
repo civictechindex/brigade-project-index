@@ -17,6 +17,7 @@ disabled = false
 fork = false
 forks_within = 10
 full_name = "codeforpdx/website"
+has_discussions = false
 has_downloads = true
 has_issues = true
 has_pages = true
@@ -30,7 +31,7 @@ name = "website"
 node_id = "MDEwOlJlcG9zaXRvcnkyNjY2NjQ5NDI="
 open_issues_within = 10
 private = false
-pushed_within = "month"
+pushed_within = "year"
 stargazers_within = 10
 topics = [ "pdx" ]
 updated_within = "year"
