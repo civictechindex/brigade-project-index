@@ -13,6 +13,7 @@ disabled = false
 fork = false
 forks_within = 1_000
 full_name = "Chicago/food-inspections-evaluation"
+has_discussions = false
 has_downloads = true
 has_issues = true
 has_pages = true
