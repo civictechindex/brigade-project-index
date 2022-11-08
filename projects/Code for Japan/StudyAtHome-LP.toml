@@ -13,6 +13,7 @@ disabled = false
 fork = false
 forks_within = 10
 full_name = "codeforjapan/StudyAtHome-LP"
+has_discussions = false
 has_downloads = true
 has_issues = true
 has_pages = false
@@ -25,7 +26,7 @@ name = "StudyAtHome-LP"
 node_id = "MDEwOlJlcG9zaXRvcnkyNjQ3MjUxMTY="
 open_issues_within = 100
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
 updated_within = "over_a_year"
