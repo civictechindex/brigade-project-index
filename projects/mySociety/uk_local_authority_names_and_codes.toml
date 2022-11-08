@@ -5,5 +5,6 @@ git_url = "git://github.com/mysociety/uk_local_authority_names_and_codes.git"
 last_pushed_within = "year"
 link_url = "https://mysociety.github.io/uk_local_authority_names_and_codes/"
 name = "uk_local_authority_names_and_codes"
+open_issues_within = 10
 organization_name = "mySociety"
 topics = [ "dataset" ]
