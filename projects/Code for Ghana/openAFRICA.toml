@@ -37,6 +37,7 @@ disabled = false
 fork = false
 forks_within = 10
 full_name = "CodeForAfrica/openAFRICA"
+has_discussions = false
 has_downloads = true
 has_issues = true
 has_pages = false
@@ -50,7 +51,7 @@ name = "openAFRICA"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDE4ODg5ODE="
 open_issues_within = 10
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 100
 topics = [
   "africa",
