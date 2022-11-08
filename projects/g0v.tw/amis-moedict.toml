@@ -17,6 +17,7 @@ disabled = false
 fork = false
 forks_within = 10
 full_name = "g0v/amis-moedict"
+has_discussions = false
 has_downloads = true
 has_issues = true
 has_pages = true
@@ -28,7 +29,7 @@ is_template = false
 language = "JavaScript"
 name = "amis-moedict"
 node_id = "MDEwOlJlcG9zaXRvcnkxMTEzMjg4ODc="
-open_issues_within = 10
+open_issues_within = 100
 private = false
 pushed_within = "week"
 stargazers_within = 100
