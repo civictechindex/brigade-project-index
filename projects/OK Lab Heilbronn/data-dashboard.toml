@@ -16,6 +16,7 @@ disabled = false
 fork = true
 forks_within = 10
 full_name = "opendata-heilbronn/data-dashboard"
+has_discussions = false
 has_downloads = true
 has_issues = true
 has_pages = false
