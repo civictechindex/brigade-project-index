@@ -1,7 +1,7 @@
 code_url = "https://github.com/hackforla/website"
 description = "Hack for LA's website"
 git_url = "git://github.com/hackforla/website.git"
-last_commit = "2022-11-07T11:19:18Z"
+last_commit = "2022-11-08T01:39:33Z"
 link_url = "https://www.hackforla.org"
 name = "website"
 organization_name = "Hack for LA Brigade"
@@ -24,6 +24,7 @@ disabled = false
 fork = false
 forks_within = 1_000
 full_name = "hackforla/website"
+has_discussions = true
 has_downloads = true
 has_issues = true
 has_pages = true
