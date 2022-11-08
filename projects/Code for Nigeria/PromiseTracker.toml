@@ -37,6 +37,7 @@ disabled = false
 fork = false
 forks_within = 10
 full_name = "CodeForAfrica/PromiseTracker"
+has_discussions = false
 has_downloads = true
 has_issues = true
 has_pages = false
@@ -50,7 +51,7 @@ name = "PromiseTracker"
 node_id = "MDEwOlJlcG9zaXRvcnkyMDc1MDg4NzE="
 open_issues_within = 10
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 10
 topics = [
   "africa",
