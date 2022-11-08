@@ -1,8 +1,19 @@
 code_url = "https://github.com/hackforla/design-systems"
+description = "Empowering every HfLA team to create their own design system. 🛠️ 🧰 Please see our readme for more info!"
 git_branch = "main"
 git_url = "git://github.com/hackforla/design-systems.git"
 last_pushed_within = "year"
 name = "design-systems"
 open_issues_within = 100
 organization_name = "Hack for LA Brigade"
-topics = [ "hack-for-la" ]
+topics = [
+  "civictechindex",
+  "component-library",
+  "design",
+  "designops",
+  "design-pattern",
+  "design-system",
+  "figma",
+  "hack-for-la",
+  "hackforla"
+]
