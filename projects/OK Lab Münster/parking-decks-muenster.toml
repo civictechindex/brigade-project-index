@@ -1,7 +1,7 @@
 code_url = "https://github.com/codeformuenster/parking-decks-muenster"
 description = "Archivierung der Belegung der Münsteraner Parkhäuser und Wartezeiten im Bürgerbüro"
 git_url = "git://github.com/codeformuenster/parking-decks-muenster.git"
-last_commit = "2022-11-06T23:20:01Z"
+last_commit = "2022-11-07T23:20:01Z"
 link_url = "https://github.com/codeformuenster/parking-decks-muenster"
 name = "parking-decks-muenster"
 organization_name = "OK Lab Münster"
@@ -16,6 +16,7 @@ disabled = false
 fork = false
 forks_within = 0
 full_name = "codeformuenster/parking-decks-muenster"
+has_discussions = false
 has_downloads = true
 has_issues = true
 has_pages = false
