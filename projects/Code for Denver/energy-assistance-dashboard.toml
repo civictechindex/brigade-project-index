@@ -15,6 +15,7 @@ disabled = false
 fork = false
 forks_within = 10
 full_name = "codefordenver/energy-assistance-dashboard"
+has_discussions = false
 has_downloads = true
 has_issues = true
 has_pages = false
@@ -27,7 +28,7 @@ name = "energy-assistance-dashboard"
 node_id = "MDEwOlJlcG9zaXRvcnkyNjMxOTA0NzQ="
 open_issues_within = 100
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
 updated_within = "over_a_year"
