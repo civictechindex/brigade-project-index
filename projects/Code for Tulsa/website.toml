@@ -1,7 +1,7 @@
 code_url = "https://github.com/codefortulsa/website"
 description = "Code For Tulsa Website Update 2022"
 git_url = "git://github.com/codefortulsa/website.git"
-last_commit = "2022-11-01T04:16:09Z"
+last_commit = "2022-11-08T01:58:52Z"
 link_url = "https://www.figma.com/file/maf7XD1XhbIKlJn77P2tIS/Code-for-Tulsa-Website?node-id=0%3A1"
 name = "website"
 organization_name = "Code for Tulsa"
@@ -16,6 +16,7 @@ disabled = false
 fork = false
 forks_within = 10
 full_name = "codefortulsa/website"
+has_discussions = false
 has_downloads = true
 has_issues = true
 has_pages = false

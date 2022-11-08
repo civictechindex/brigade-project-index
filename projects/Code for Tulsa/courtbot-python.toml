@@ -26,6 +26,7 @@ disabled = false
 fork = false
 forks_within = 100
 full_name = "codefortulsa/courtbot-python"
+has_discussions = false
 has_downloads = true
 has_issues = true
 has_pages = false
