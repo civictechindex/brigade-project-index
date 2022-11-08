@@ -1,7 +1,7 @@
 code_url = "https://github.com/18F/identity-terraform"
 description = "Terraform modules published by the Login.gov team"
 git_url = "git://github.com/18F/identity-terraform.git"
-last_commit = "2022-11-03T18:51:11Z"
+last_commit = "2022-11-07T21:30:11Z"
 name = "identity-terraform"
 organization_name = "18F"
 
@@ -15,6 +15,7 @@ disabled = false
 fork = false
 forks_within = 10
 full_name = "18F/identity-terraform"
+has_discussions = false
 has_downloads = true
 has_issues = true
 has_pages = false

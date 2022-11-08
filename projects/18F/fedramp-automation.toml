@@ -16,6 +16,7 @@ disabled = false
 fork = true
 forks_within = 10
 full_name = "18F/fedramp-automation"
+has_discussions = true
 has_downloads = true
 has_issues = true
 has_pages = false
@@ -29,7 +30,7 @@ name = "fedramp-automation"
 node_id = "MDEwOlJlcG9zaXRvcnkzMDY3MDI2MzM="
 open_issues_within = 100
 private = false
-pushed_within = "week"
+pushed_within = "month"
 stargazers_within = 100
 topics = [ ]
 updated_within = "year"
