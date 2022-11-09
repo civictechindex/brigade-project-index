@@ -3,7 +3,16 @@ description = "Building an interactive map of development projects for a local n
 git_branch = "develop"
 git_url = "git://github.com/codeforsanjose/Map-of-Silicon-Valley-development-projects.git"
 last_pushed_within = "week"
-link_url = "https://www.catalyzesv.org/map"
+link_url = "https://www.catalyzesiliconvalley.org/map"
 name = "Map-of-Silicon-Valley-development-projects"
 open_issues_within = 10
 organization_name = "Code for San Jose"
+topics = [
+  "css",
+  "es6",
+  "html",
+  "javascript",
+  "mapbox",
+  "mapbox-gl-js",
+  "wix"
+]
