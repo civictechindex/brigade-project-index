@@ -1,7 +1,7 @@
 code_url = "https://github.com/hackforla/design-systems"
 description = "Empowering every HfLA team to create their own design system. 🛠️ 🧰 Please see our readme for more info!"
 git_url = "git://github.com/hackforla/design-systems.git"
-last_commit = "2022-09-26T22:03:33Z"
+last_commit = "2022-11-09T00:21:50Z"
 name = "design-systems"
 organization_name = "Hack for LA Brigade"
 topics = [
@@ -40,7 +40,7 @@ name = "design-systems"
 node_id = "MDEwOlJlcG9zaXRvcnkzODU3NTE4ODQ="
 open_issues_within = 100
 private = false
-pushed_within = "year"
+pushed_within = "week"
 score = 1
 stargazers_within = 100
 topics = [
