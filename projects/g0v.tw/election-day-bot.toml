@@ -1,6 +1,6 @@
 code_url = "https://github.com/g0v/election-day-bot"
 git_url = "git://github.com/g0v/election-day-bot.git"
-last_commit = "2022-05-01T13:17:31Z"
+last_commit = "2022-11-09T11:30:09Z"
 link_url = "https://twitter.com/ElectionDay_bot/"
 name = "election-day-bot"
 organization_name = "g0v.tw"
@@ -28,7 +28,7 @@ name = "election-day-bot"
 node_id = "MDEwOlJlcG9zaXRvcnkxNzI3Mzk5Mjg="
 open_issues_within = 0
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 0
 topics = [ ]
 updated_within = "year"
