@@ -1,0 +1,68 @@
+code_url = "https://github.com/machow/siuba"
+description = "This project has two major goals:"
+last_commit = "2022-10-28T00:55:35Z"
+link_url = "https://siuba.org"
+name = "siuba--fast-flexible_data_science_with_python"
+organization_name = "Code for Philly"
+status = "Testing"
+topics = [ "Data", "Data Science", "Education" ]
+
+[github]
+allow_forking = true
+archived = false
+created_at = "2019-02-09T18:24:10Z"
+default_branch = "main"
+description = "Python library for using dplyr like syntax with pandas and SQL"
+disabled = false
+fork = false
+forks_within = 100
+full_name = "machow/siuba"
+has_discussions = false
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "https://siuba.org"
+id = 169_898_535
+is_template = false
+language = "Python"
+name = "siuba"
+network_count = 40
+node_id = "MDEwOlJlcG9zaXRvcnkxNjk4OTg1MzU="
+open_issues_within = 1_000
+private = false
+pushed_within = "month"
+stargazers_within = 1_000
+subscribers_count = 19
+temp_clone_token = ""
+topics = [ "data-analysis", "dplyr", "pandas", "python", "sql" ]
+updated_within = "week"
+visibility = "public"
+watchers_within = 1_000
+web_commit_signoff_required = false
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_574_498
+  login = "machow"
+  node_id = "MDQ6VXNlcjI1NzQ0OTg="
+  site_admin = false
+  type = "User"
+
+  [github.permissions]
+  admin = false
+  maintain = false
+  pull = true
+  push = false
+  triage = false
+
+[projects_list_extra]
+chat_channel = "siuba"
+title = "Siuba: fast, flexible data science with python"
