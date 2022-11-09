@@ -1,0 +1,19 @@
+code_url = "https://github.com/machow/siuba"
+description = "This project has two major goals:"
+git_branch = "main"
+last_pushed_within = "month"
+link_url = "https://siuba.org"
+name = "siuba--fast-flexible_data_science_with_python"
+open_issues_within = 1_000
+organization_name = "Code for Philly"
+status = "Testing"
+topics = [
+  "Data",
+  "Data Science",
+  "Education",
+  "data-analysis",
+  "dplyr",
+  "pandas",
+  "python",
+  "sql"
+]
