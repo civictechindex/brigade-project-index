@@ -1,10 +1,19 @@
 code_url = "https://github.com/codeforsanjose/Map-of-Silicon-Valley-development-projects"
 description = "Building an interactive map of development projects for a local non-profit, Catalyze SV. The map will be on Catalyze SV's website."
 git_url = "git://github.com/codeforsanjose/Map-of-Silicon-Valley-development-projects.git"
-last_commit = "2022-11-05T06:57:38Z"
-link_url = "https://www.catalyzesv.org/map"
+last_commit = "2022-11-09T07:13:10Z"
+link_url = "https://www.catalyzesiliconvalley.org/map"
 name = "Map-of-Silicon-Valley-development-projects"
 organization_name = "Code for San Jose"
+topics = [
+  "css",
+  "es6",
+  "html",
+  "javascript",
+  "mapbox",
+  "mapbox-gl-js",
+  "wix"
+]
 
 [github]
 allow_forking = true
@@ -22,7 +31,7 @@ has_issues = true
 has_pages = true
 has_projects = true
 has_wiki = true
-homepage = "https://www.catalyzesv.org/map"
+homepage = "https://www.catalyzesiliconvalley.org/map"
 id = 187_524_555
 is_template = false
 language = "HTML"
@@ -32,8 +41,16 @@ open_issues_within = 10
 private = false
 pushed_within = "week"
 stargazers_within = 10
-topics = [ ]
-updated_within = "over_a_year"
+topics = [
+  "css",
+  "es6",
+  "html",
+  "javascript",
+  "mapbox",
+  "mapbox-gl-js",
+  "wix"
+]
+updated_within = "week"
 visibility = "public"
 watchers_within = 10
 web_commit_signoff_required = false
