@@ -1,7 +1,7 @@
 code_url = "https://github.com/mysociety/asktheeu-theme"
 description = "The Alavateli theme for AskTheEU (EU)"
 git_url = "git://github.com/mysociety/asktheeu-theme.git"
-last_commit = "2022-03-16T10:28:48Z"
+last_commit = "2022-11-09T14:42:03Z"
 link_url = "https://www.asktheeu.org"
 name = "asktheeu-theme"
 organization_name = "mySociety"
@@ -31,7 +31,7 @@ name = "asktheeu-theme"
 node_id = "MDEwOlJlcG9zaXRvcnkyNjQ4OTA1Mw=="
 open_issues_within = 10
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ "alaveteli", "alaveteli-theme" ]
 updated_within = "year"
