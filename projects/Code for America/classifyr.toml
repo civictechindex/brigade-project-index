@@ -1,7 +1,7 @@
 code_url = "https://github.com/codeforamerica/classifyr"
 description = "A tool for aggregating and crowd-sourcing the classification emergency call data"
 git_url = "git://github.com/codeforamerica/classifyr.git"
-last_commit = "2022-11-07T16:31:20Z"
+last_commit = "2022-11-09T16:08:31Z"
 name = "classifyr"
 organization_name = "Code for America"
 topics = [ "classifier", "code-for-america", "data-classification" ]
