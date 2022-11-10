@@ -1,7 +1,7 @@
 code_url = "https://github.com/caciviclab/disclosure-backend-static"
 description = "Campaign finance data powering Open Disclosure California"
 git_url = "git://github.com/caciviclab/disclosure-backend-static.git"
-last_commit = "2022-11-09T02:16:04Z"
+last_commit = "2022-11-10T02:14:44Z"
 link_url = "https://caciviclab.org/odca-jekyll/"
 name = "disclosure-backend-static"
 organization_name = "California Civic Lab"
@@ -48,7 +48,7 @@ topics = [
   "ruby",
   "static-site"
 ]
-updated_within = "week"
+updated_within = "month"
 visibility = "public"
 watchers_within = 100
 web_commit_signoff_required = false
