@@ -1,7 +1,7 @@
 code_url = "https://github.com/codeforamerica/foundational-project-2022"
 description = "2022 Software Engineer Apprentice Foundational Project"
 git_url = "git://github.com/codeforamerica/foundational-project-2022.git"
-last_commit = "2022-11-10T22:54:35Z"
+last_commit = "2022-11-10T23:09:14Z"
 name = "foundational-project-2022"
 organization_name = "Code for America"
 
@@ -31,7 +31,7 @@ private = false
 pushed_within = "week"
 stargazers_within = 0
 topics = [ ]
-updated_within = "month"
+updated_within = "year"
 visibility = "public"
 watchers_within = 0
 web_commit_signoff_required = false

@@ -1,6 +1,6 @@
 code_url = "https://github.com/codeforamerica/50-states-2023"
 git_url = "git://github.com/codeforamerica/50-states-2023.git"
-last_commit = "2022-11-07T19:07:54Z"
+last_commit = "2022-11-10T23:49:16Z"
 name = "50-states-2023"
 organization_name = "Code for America"
 
@@ -29,7 +29,7 @@ private = false
 pushed_within = "week"
 stargazers_within = 0
 topics = [ ]
-updated_within = "week"
+updated_within = "month"
 visibility = "public"
 watchers_within = 0
 web_commit_signoff_required = false
