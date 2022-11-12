@@ -5,6 +5,6 @@ git_url = "git://github.com/CodeforHawaii/Hawaii-Zoning-Atlas.git"
 last_pushed_within = "week"
 link_url = "https://hawaiizoningatlas.com"
 name = "Hawaii-Zoning-Atlas"
-open_issues_within = 10
+open_issues_within = 100
 organization_name = "Code for Hawaii"
 topics = [ "codeforhawaii", "hawaii", "zoning" ]
