@@ -26,9 +26,9 @@ is_template = false
 language = "CSS"
 name = "lottery-grants"
 node_id = "MDEwOlJlcG9zaXRvcnkzNDY3MjcyNTk="
-open_issues_within = 0
+open_issues_within = 10
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 0
 topics = [ ]
 updated_within = "year"
