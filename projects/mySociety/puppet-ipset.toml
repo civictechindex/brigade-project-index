@@ -1,7 +1,7 @@
 code_url = "https://github.com/mysociety/puppet-ipset"
 description = "Puppet module to manage ipset tooling and actual sets"
 git_url = "git://github.com/mysociety/puppet-ipset.git"
-last_commit = "2022-01-14T09:27:06Z"
+last_commit = "2022-11-09T09:38:44Z"
 link_url = "https://forge.puppet.com/puppet/ipset"
 name = "puppet-ipset"
 organization_name = "mySociety"
@@ -30,7 +30,7 @@ name = "puppet-ipset"
 node_id = "MDEwOlJlcG9zaXRvcnkyNDQ4ODI2MTU="
 open_issues_within = 0
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 0
 topics = [ ]
 updated_within = "year"
