@@ -1,7 +1,7 @@
 code_url = "https://github.com/mysociety/puppet-ipset"
 description = "Puppet module to manage ipset tooling and actual sets"
 git_url = "git://github.com/mysociety/puppet-ipset.git"
-last_commit = "2022-11-09T09:38:44Z"
+last_commit = "2022-11-14T10:42:30Z"
 link_url = "https://forge.puppet.com/puppet/ipset"
 name = "puppet-ipset"
 organization_name = "mySociety"
