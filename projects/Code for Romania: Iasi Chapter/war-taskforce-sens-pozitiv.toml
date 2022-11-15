@@ -1,40 +1,44 @@
-code_url = "https://github.com/code4romania/catalog-data-chambers"
-git_url = "git://github.com/code4romania/catalog-data-chambers.git"
-last_commit = "2019-11-23T05:38:27Z"
-link_url = "http://code4.ro/proiect/catalog-politic/"
-name = "catalog-data-chambers"
+code_url = "https://github.com/code4romania/war-taskforce-sens-pozitiv"
+git_url = "git://github.com/code4romania/war-taskforce-sens-pozitiv.git"
+last_commit = "2022-09-28T12:38:26Z"
+name = "war-taskforce-sens-pozitiv"
 organization_name = "Code for Romania: Iasi Chapter"
 
 [github]
 allow_forking = true
 archived = false
-created_at = "2016-10-01T14:20:31Z"
+created_at = "2022-03-29T08:29:24Z"
 default_branch = "develop"
 disabled = false
 fork = false
 forks_within = 10
-full_name = "code4romania/catalog-data-chambers"
+full_name = "code4romania/war-taskforce-sens-pozitiv"
 has_discussions = false
 has_downloads = true
 has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = true
-homepage = "http://code4.ro/proiect/catalog-politic/"
-id = 69_742_804
+id = 475_350_117
 is_template = false
 language = "Python"
-name = "catalog-data-chambers"
-node_id = "MDEwOlJlcG9zaXRvcnk2OTc0MjgwNA=="
-open_issues_within = 10
+name = "war-taskforce-sens-pozitiv"
+node_id = "R_kgDOHFVEZQ"
+open_issues_within = 0
 private = false
-pushed_within = "month"
-stargazers_within = 0
+pushed_within = "year"
+stargazers_within = 10
 topics = [ ]
-updated_within = "over_a_year"
+updated_within = "week"
 visibility = "public"
-watchers_within = 0
+watchers_within = 10
 web_commit_signoff_required = false
+
+  [github.license]
+  key = "mpl-2.0"
+  name = "Mozilla Public License 2.0"
+  node_id = "MDc6TGljZW5zZTE0"
+  spdx_id = "MPL-2.0"
 
   [github.owner]
   gravatar_id = ""
