@@ -1,7 +1,7 @@
 code_url = "https://github.com/18F/18f.gsa.gov"
 description = "This repository contains 18F's website."
 git_url = "git://github.com/18F/18f.gsa.gov.git"
-last_commit = "2022-11-09T16:05:48Z"
+last_commit = "2022-11-14T21:15:48Z"
 link_url = "https://18f.gsa.gov"
 name = "18f.gsa.gov"
 organization_name = "18F"
@@ -34,7 +34,7 @@ private = false
 pushed_within = "week"
 stargazers_within = 1_000
 topics = [ "active", "federalist" ]
-updated_within = "year"
+updated_within = "week"
 visibility = "public"
 watchers_within = 1_000
 web_commit_signoff_required = false
