@@ -1,7 +1,7 @@
 code_url = "https://github.com/mysociety/writetothem"
 description = "Write to your MP, MEP, & other elected representatives."
 git_url = "git://github.com/mysociety/writetothem.git"
-last_commit = "2022-11-02T13:55:43Z"
+last_commit = "2022-11-16T10:31:37Z"
 link_url = "https://www.writetothem.com"
 name = "writetothem"
 organization_name = "mySociety"
@@ -39,7 +39,7 @@ name = "writetothem"
 node_id = "MDEwOlJlcG9zaXRvcnk0Nzg4MDQ="
 open_issues_within = 1_000
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 100
 topics = [
   "civic-tech",
@@ -50,7 +50,7 @@ topics = [
   "php",
   "representatives"
 ]
-updated_within = "year"
+updated_within = "week"
 visibility = "public"
 watchers_within = 100
 web_commit_signoff_required = false
