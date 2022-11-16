@@ -1,6 +1,6 @@
 code_url = "https://github.com/openoakland/councilmatic"
 description = "We make the Oakland City Council meetings easily accessible to the citizens of Oakland."
-last_commit = "2022-08-11T00:56:52Z"
+last_commit = "2022-11-16T00:28:36Z"
 link_url = "http://councilmatic.aws.openoakland.org/pc/"
 name = "Councilmatic"
 organization_name = "Open Oakland"
@@ -30,7 +30,7 @@ network_count = 6
 node_id = "MDEwOlJlcG9zaXRvcnkxMjQwMTM1NTg="
 open_issues_within = 10
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 10
 subscribers_count = 15
 temp_clone_token = ""
