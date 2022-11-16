@@ -1,0 +1,58 @@
+code_url = "https://github.com/18F/tts-common-controls"
+description = "[WIP] development of Inspec tests using the Heimdall Data Format (HDF) specification to create baseline and inheritable Security Controls and Documentation for reuse by TTS Systems"
+git_url = "git://github.com/18F/tts-common-controls.git"
+last_commit = "2021-10-26T17:34:41Z"
+name = "tts-common-controls"
+organization_name = "18F"
+
+[github]
+allow_forking = true
+archived = false
+created_at = "2021-04-05T16:19:49Z"
+default_branch = "main"
+description = "[WIP] development of Inspec tests using the Heimdall Data Format (HDF) specification to create baseline and inheritable Security Controls and Documentation for reuse by TTS Systems"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "18F/tts-common-controls"
+has_discussions = false
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+id = 354_895_972
+is_template = false
+language = "Ruby"
+name = "tts-common-controls"
+node_id = "MDEwOlJlcG9zaXRvcnkzNTQ4OTU5NzI="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "week"
+visibility = "public"
+watchers_within = 10
+web_commit_signoff_required = false
+
+  [github.license]
+  key = "other"
+  name = "Other"
+  node_id = "MDc6TGljZW5zZTA="
+  spdx_id = "NOASSERTION"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_233_994
+  login = "18F"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjYyMzM5OTQ="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  maintain = false
+  pull = true
+  push = false
+  triage = false
