@@ -1,6 +1,6 @@
 code_url = "https://github.com/code4sac/learning-blocks"
 git_url = "git://github.com/code4sac/learning-blocks.git"
-last_commit = "2022-07-07T02:25:16Z"
+last_commit = "2022-11-17T02:55:06Z"
 name = "learning-blocks"
 organization_name = "Code for Sacramento"
 
@@ -26,7 +26,7 @@ name = "learning-blocks"
 node_id = "R_kgDOG0aKLQ"
 open_issues_within = 100
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
 updated_within = "month"
