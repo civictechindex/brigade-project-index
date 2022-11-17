@@ -1,6 +1,6 @@
 code_url = "https://github.com/codeforUV/ruralnetv2"
 git_url = "git://github.com/codeforUV/ruralnetv2.git"
-last_commit = "2022-11-06T19:43:12Z"
+last_commit = "2022-11-17T22:49:24Z"
 name = "ruralnetv2"
 organization_name = "Code for Upper Valley"
 
@@ -26,7 +26,7 @@ name = "ruralnetv2"
 node_id = "R_kgDOGz575g"
 open_issues_within = 10
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
 updated_within = "month"
