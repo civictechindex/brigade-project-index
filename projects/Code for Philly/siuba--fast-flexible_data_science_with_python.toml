@@ -1,6 +1,6 @@
 code_url = "https://github.com/machow/siuba"
 description = "This project has two major goals:"
-last_commit = "2022-10-28T00:55:35Z"
+last_commit = "2022-11-16T18:03:25Z"
 link_url = "https://siuba.org"
 name = "siuba--fast-flexible_data_science_with_python"
 organization_name = "Code for Philly"
@@ -30,9 +30,9 @@ language = "Python"
 name = "siuba"
 network_count = 40
 node_id = "MDEwOlJlcG9zaXRvcnkxNjk4OTg1MzU="
-open_issues_within = 1_000
+open_issues_within = 100
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 1_000
 subscribers_count = 20
 temp_clone_token = ""
