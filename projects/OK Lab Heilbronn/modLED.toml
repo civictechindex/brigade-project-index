@@ -39,7 +39,7 @@ name = "modLED"
 node_id = "MDEwOlJlcG9zaXRvcnkxNDc1MTU5ODY="
 open_issues_within = 10
 private = false
-pushed_within = "year"
+pushed_within = "over_a_year"
 stargazers_within = 10
 topics = [
   "artnet",
@@ -51,7 +51,7 @@ topics = [
   "rgb",
   "stm32"
 ]
-updated_within = "year"
+updated_within = "over_a_year"
 visibility = "public"
 watchers_within = 10
 web_commit_signoff_required = false
