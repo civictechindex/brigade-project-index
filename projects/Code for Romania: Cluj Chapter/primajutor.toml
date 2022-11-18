@@ -1,0 +1,55 @@
+code_url = "https://github.com/code4romania/primajutor"
+git_url = "git://github.com/code4romania/primajutor.git"
+last_commit = "2022-11-18T07:36:44Z"
+name = "primajutor"
+organization_name = "Code for Romania: Cluj Chapter"
+
+[github]
+allow_forking = true
+archived = false
+created_at = "2022-11-18T07:36:42Z"
+default_branch = "main"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "code4romania/primajutor"
+has_discussions = false
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+id = 567_623_920
+is_template = false
+name = "primajutor"
+node_id = "R_kgDOIdVA8A"
+open_issues_within = 0
+private = false
+pushed_within = "week"
+stargazers_within = 0
+topics = [ ]
+updated_within = "week"
+visibility = "public"
+watchers_within = 0
+web_commit_signoff_required = false
+
+  [github.license]
+  key = "mpl-2.0"
+  name = "Mozilla Public License 2.0"
+  node_id = "MDc6TGljZW5zZTE0"
+  spdx_id = "MPL-2.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 18_010_308
+  login = "code4romania"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE4MDEwMzA4"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  maintain = false
+  pull = true
+  push = false
+  triage = false
