@@ -1,7 +1,7 @@
 code_url = "https://github.com/CodeForAfrica/outbreak.AFRICA"
 description = "Coronavirus Disease 2019 Edition"
 git_url = "git://github.com/CodeForAfrica/outbreak.AFRICA.git"
-last_commit = "2022-11-09T06:55:19Z"
+last_commit = "2022-11-18T05:51:37Z"
 link_url = "https://covid19.dev.hurumap.org/"
 name = "outbreak.AFRICA"
 organization_name = "Code for Ghana"
@@ -30,7 +30,7 @@ name = "outbreak.AFRICA"
 node_id = "MDEwOlJlcG9zaXRvcnkyNDg0MTYwNDI="
 open_issues_within = 10
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
 updated_within = "year"
