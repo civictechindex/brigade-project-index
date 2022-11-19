@@ -1,7 +1,7 @@
 code_url = "https://github.com/18F/terraform-cloudgov"
 description = "Terraform modules for cloud.gov managed services"
 git_url = "git://github.com/18F/terraform-cloudgov.git"
-last_commit = "2022-09-13T16:55:45Z"
+last_commit = "2022-11-18T19:37:27Z"
 name = "terraform-cloudgov"
 organization_name = "18F"
 
@@ -28,12 +28,12 @@ name = "terraform-cloudgov"
 node_id = "R_kgDOH9Jpbg"
 open_issues_within = 0
 private = false
-pushed_within = "year"
-stargazers_within = 0
+pushed_within = "week"
+stargazers_within = 10
 topics = [ ]
-updated_within = "year"
+updated_within = "week"
 visibility = "public"
-watchers_within = 0
+watchers_within = 10
 web_commit_signoff_required = false
 
   [github.owner]
