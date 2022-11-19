@@ -1,7 +1,7 @@
 code_url = "https://github.com/code4sac/trash-ai"
 description = "Web based trash image classification"
 git_url = "git://github.com/code4sac/trash-ai.git"
-last_commit = "2022-11-18T21:22:09Z"
+last_commit = "2022-11-18T23:18:08Z"
 link_url = "https://www.trashai.org"
 name = "trash-ai"
 organization_name = "Code for Sacramento"
@@ -28,7 +28,7 @@ is_template = false
 language = "Jupyter Notebook"
 name = "trash-ai"
 node_id = "R_kgDOGNp-bA"
-open_issues_within = 100
+open_issues_within = 10
 private = false
 pushed_within = "week"
 stargazers_within = 100
