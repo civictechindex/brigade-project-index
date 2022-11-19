@@ -1,6 +1,6 @@
 code_url = "https://github.com/codeforcologne/OpenDataWizzard"
 git_url = "git://github.com/codeforcologne/OpenDataWizzard.git"
-last_commit = "2022-04-26T15:08:04Z"
+last_commit = "2022-11-19T10:04:42Z"
 name = "OpenDataWizzard"
 organization_name = "OK Lab Köln"
 
@@ -26,7 +26,7 @@ name = "OpenDataWizzard"
 node_id = "R_kgDOGUU-3A"
 open_issues_within = 0
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
 updated_within = "year"
