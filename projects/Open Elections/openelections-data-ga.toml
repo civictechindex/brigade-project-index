@@ -1,7 +1,7 @@
 code_url = "https://github.com/openelections/openelections-data-ga"
 description = "Pre-processed raw election results for Georgia election results"
 git_url = "git://github.com/openelections/openelections-data-ga.git"
-last_commit = "2022-10-15T23:49:29Z"
+last_commit = "2022-11-19T20:53:24Z"
 name = "openelections-data-ga"
 organization_name = "Open Elections"
 topics = [ "georgia-election", "hacktoberfest" ]
@@ -30,7 +30,7 @@ name = "openelections-data-ga"
 node_id = "MDEwOlJlcG9zaXRvcnkzMTgzNDIyNg=="
 open_issues_within = 10
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 100
 topics = [ "georgia-election", "hacktoberfest" ]
 updated_within = "over_a_year"
