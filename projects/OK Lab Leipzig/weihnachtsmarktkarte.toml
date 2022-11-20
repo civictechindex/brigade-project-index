@@ -1,8 +1,8 @@
 code_url = "https://github.com/CodeforLeipzig/weihnachtsmarktkarte"
 description = "A map of christmas markets in Leipzig based on Open Data"
 git_url = "git://github.com/CodeforLeipzig/weihnachtsmarktkarte.git"
-last_commit = "2022-11-20T12:42:44Z"
-link_url = "https://main--weihnachtsmarktkarte.netlify.app/"
+last_commit = "2022-11-20T19:02:14Z"
+link_url = "https://leipziger-weihnachtsmaerkte.netlify.app/"
 name = "weihnachtsmarktkarte"
 organization_name = "OK Lab Leipzig"
 
@@ -22,9 +22,10 @@ has_issues = false
 has_pages = false
 has_projects = true
 has_wiki = true
-homepage = "https://main--weihnachtsmarktkarte.netlify.app/"
+homepage = "https://leipziger-weihnachtsmaerkte.netlify.app/"
 id = 568_476_704
 is_template = false
+language = "TypeScript"
 name = "weihnachtsmarktkarte"
 node_id = "R_kgDOIeJEIA"
 open_issues_within = 0
