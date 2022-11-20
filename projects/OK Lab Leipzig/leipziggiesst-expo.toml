@@ -1,7 +1,7 @@
 code_url = "https://github.com/CodeforLeipzig/leipziggiesst-expo"
 description = "leipziggiesst mobile apps with expo.dev"
 git_url = "git://github.com/CodeforLeipzig/leipziggiesst-expo.git"
-last_commit = "2022-10-03T11:26:28Z"
+last_commit = "2022-11-19T17:45:22Z"
 link_url = "https://apps.apple.com/de/app/leipzig-gie%C3%9Ft/id6443637713"
 name = "leipziggiesst-expo"
 organization_name = "OK Lab Leipzig"
@@ -31,7 +31,7 @@ name = "leipziggiesst-expo"
 node_id = "R_kgDOICdNIg"
 open_issues_within = 0
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 0
 topics = [ "expo", "ios", "mobile", "react-native", "trees", "watering" ]
 updated_within = "week"
