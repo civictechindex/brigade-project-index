@@ -1,0 +1,59 @@
+code_url = "https://github.com/CodeforLeipzig/weihnachtsmarktkarte"
+description = "A map of christmas markets in Leipzig based on Open Data"
+git_url = "git://github.com/CodeforLeipzig/weihnachtsmarktkarte.git"
+last_commit = "2022-11-20T12:42:44Z"
+link_url = "https://main--weihnachtsmarktkarte.netlify.app/"
+name = "weihnachtsmarktkarte"
+organization_name = "OK Lab Leipzig"
+
+[github]
+allow_forking = true
+archived = false
+created_at = "2022-11-20T16:50:16Z"
+default_branch = "main"
+description = "A map of christmas markets in Leipzig based on Open Data"
+disabled = false
+fork = true
+forks_within = 0
+full_name = "CodeforLeipzig/weihnachtsmarktkarte"
+has_discussions = false
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "https://main--weihnachtsmarktkarte.netlify.app/"
+id = 568_476_704
+is_template = false
+name = "weihnachtsmarktkarte"
+node_id = "R_kgDOIeJEIA"
+open_issues_within = 0
+private = false
+pushed_within = "week"
+stargazers_within = 0
+topics = [ ]
+updated_within = "week"
+visibility = "public"
+watchers_within = 0
+web_commit_signoff_required = false
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 7_286_986
+  login = "CodeforLeipzig"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjcyODY5ODY="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  maintain = false
+  pull = true
+  push = false
+  triage = false
