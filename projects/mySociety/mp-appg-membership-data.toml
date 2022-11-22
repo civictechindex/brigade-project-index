@@ -1,0 +1,7 @@
+code_url = "https://github.com/mysociety/mp-appg-membership-data"
+description = "Dataset on APPG membership amongst MPs"
+git_branch = "main"
+git_url = "git://github.com/mysociety/mp-appg-membership-data.git"
+last_pushed_within = "week"
+name = "mp-appg-membership-data"
+organization_name = "mySociety"
