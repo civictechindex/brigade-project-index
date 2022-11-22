@@ -1,7 +1,7 @@
 code_url = "https://github.com/mysociety/fixmystreet"
 description = "This is mySociety's popular map-based reporting platform: easy to install in new countries and regions"
 git_url = "git://github.com/mysociety/fixmystreet.git"
-last_commit = "2022-11-18T18:37:54Z"
+last_commit = "2022-11-18T14:38:49Z"
 link_url = "http://fixmystreet.org/"
 name = "fixmystreet"
 organization_name = "mySociety"
@@ -52,7 +52,7 @@ topics = [
   "mysociety",
   "reporting"
 ]
-updated_within = "month"
+updated_within = "week"
 visibility = "public"
 watchers_within = 1_000
 web_commit_signoff_required = false

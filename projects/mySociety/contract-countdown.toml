@@ -1,6 +1,6 @@
 code_url = "https://github.com/mysociety/contract-countdown"
 git_url = "git://github.com/mysociety/contract-countdown.git"
-last_commit = "2022-11-17T14:56:08Z"
+last_commit = "2022-11-22T09:41:04Z"
 link_url = "https://mysociety.github.io/contract-countdown/"
 name = "contract-countdown"
 organization_name = "mySociety"
@@ -26,7 +26,7 @@ is_template = false
 language = "Python"
 name = "contract-countdown"
 node_id = "R_kgDOHIZBuw"
-open_issues_within = 100
+open_issues_within = 10
 private = false
 pushed_within = "week"
 stargazers_within = 0
