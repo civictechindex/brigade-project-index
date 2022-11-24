@@ -1,7 +1,7 @@
 code_url = "https://github.com/CodeandoMexico/decidim-monterrey"
 description = "Plataforma de participación ciudadana para el municipio de Monterrey, Nuevo León, México."
 git_url = "git://github.com/CodeandoMexico/decidim-monterrey.git"
-last_commit = "2022-11-12T00:33:23Z"
+last_commit = "2022-11-24T02:21:39Z"
 name = "decidim-monterrey"
 organization_name = "Codeando México"
 topics = [
@@ -39,7 +39,7 @@ name = "decidim-monterrey"
 node_id = "R_kgDOGurE0Q"
 open_issues_within = 0
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 10
 topics = [
   "citizen-participation",
