@@ -1,7 +1,7 @@
 code_url = "https://github.com/codefornola/nola-transit-map"
 description = "Realtime view of all NOLA public transit vehicles https://nolatransit.fly.dev/"
 git_url = "git://github.com/codefornola/nola-transit-map.git"
-last_commit = "2022-11-12T19:23:48Z"
+last_commit = "2022-11-23T22:39:11Z"
 name = "nola-transit-map"
 organization_name = "Code for New Orleans"
 
@@ -28,7 +28,7 @@ name = "nola-transit-map"
 node_id = "R_kgDOIWMS3A"
 open_issues_within = 10
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
 updated_within = "month"
