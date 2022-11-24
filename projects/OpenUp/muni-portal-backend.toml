@@ -1,7 +1,7 @@
 code_url = "https://github.com/OpenUpSA/muni-portal-backend"
 description = "The backend to the Cape Agulhas Municipality app"
 git_url = "git://github.com/OpenUpSA/muni-portal-backend.git"
-last_commit = "2022-09-07T07:44:58Z"
+last_commit = "2022-11-24T07:32:45Z"
 name = "muni-portal-backend"
 organization_name = "OpenUp"
 
@@ -28,7 +28,7 @@ name = "muni-portal-backend"
 node_id = "MDEwOlJlcG9zaXRvcnkyODczMjg4Mjc="
 open_issues_within = 10
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
 updated_within = "year"
