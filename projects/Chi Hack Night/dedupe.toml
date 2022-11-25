@@ -24,13 +24,13 @@ id = 4_087_724
 is_template = false
 language = "Python"
 name = "dedupe"
-network_count = 485
+network_count = 486
 node_id = "MDEwOlJlcG9zaXRvcnk0MDg3NzI0"
 open_issues_within = 100
 private = false
 pushed_within = "week"
 stargazers_within = "over_1000"
-subscribers_count = 121
+subscribers_count = 120
 temp_clone_token = ""
 topics = [
   "clustering",
