@@ -1,6 +1,6 @@
 code_url = "https://github.com/g0v/domain"
 git_url = "git://github.com/g0v/domain.git"
-last_commit = "2022-10-12T03:58:32Z"
+last_commit = "2022-11-26T12:31:18Z"
 name = "domain"
 organization_name = "g0v.tw"
 
@@ -25,7 +25,7 @@ name = "domain"
 node_id = "MDEwOlJlcG9zaXRvcnk3OTY1NTk0Nw=="
 open_issues_within = 100
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
 updated_within = "over_a_year"
