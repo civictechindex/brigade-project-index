@@ -1,0 +1,57 @@
+code_url = "https://github.com/OpenEugene/eug-social"
+description = "Issues and docs for the EUG.social Mastodon server"
+git_url = "git://github.com/OpenEugene/eug-social.git"
+last_commit = "2022-11-27T01:08:02Z"
+name = "eug-social"
+organization_name = "Open Eugene"
+
+[github]
+allow_forking = true
+archived = false
+created_at = "2022-11-27T01:08:01Z"
+default_branch = "main"
+description = "Issues and docs for the EUG.social Mastodon server"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "OpenEugene/eug-social"
+has_discussions = false
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+id = 571_046_056
+is_template = false
+name = "eug-social"
+node_id = "R_kgDOIgl4qA"
+open_issues_within = 10
+private = false
+pushed_within = "week"
+stargazers_within = 0
+topics = [ ]
+updated_within = "week"
+visibility = "public"
+watchers_within = 0
+web_commit_signoff_required = false
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 37_278_948
+  login = "OpenEugene"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM3Mjc4OTQ4"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  maintain = false
+  pull = true
+  push = false
+  triage = false
