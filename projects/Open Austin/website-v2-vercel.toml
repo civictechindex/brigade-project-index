@@ -1,6 +1,6 @@
 code_url = "https://github.com/open-austin/website-v2-vercel"
 git_url = "git://github.com/open-austin/website-v2-vercel.git"
-last_commit = "2022-11-25T19:57:05Z"
+last_commit = "2022-11-27T03:07:41Z"
 link_url = "http://next-js-boilerplate-three-alpha.vercel.app"
 name = "website-v2-vercel"
 organization_name = "Open Austin"
@@ -27,7 +27,7 @@ is_template = false
 language = "TypeScript"
 name = "website-v2-vercel"
 node_id = "R_kgDOIIfHOA"
-open_issues_within = 100
+open_issues_within = 10
 private = false
 pushed_within = "week"
 stargazers_within = 0
