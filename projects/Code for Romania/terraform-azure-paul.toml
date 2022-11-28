@@ -1,7 +1,7 @@
 code_url = "https://github.com/code4romania/terraform-azure-paul"
 description = "Azure terraform for Paul"
 git_url = "git://github.com/code4romania/terraform-azure-paul.git"
-last_commit = "2022-10-11T16:29:26Z"
+last_commit = "2022-11-27T20:36:12Z"
 name = "terraform-azure-paul"
 organization_name = "Code for Romania"
 topics = [ "azure", "infrastructure", "paul", "terraform" ]
@@ -30,7 +30,7 @@ name = "terraform-azure-paul"
 node_id = "R_kgDOH7W5tg"
 open_issues_within = 0
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 0
 topics = [ "azure", "infrastructure", "paul", "terraform" ]
 updated_within = "year"
