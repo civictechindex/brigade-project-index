@@ -1,6 +1,6 @@
 code_url = "https://github.com/opendata-heilbronn/dlc3-website"
 git_url = "git://github.com/opendata-heilbronn/dlc3-website.git"
-last_commit = "2022-11-28T18:52:24Z"
+last_commit = "2022-11-28T20:48:29Z"
 name = "dlc3-website"
 organization_name = "OK Lab Heilbronn"
 
@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 id = 571_715_860
 is_template = false
+language = "Ruby"
 name = "dlc3-website"
 node_id = "R_kgDOIhOxFA"
 open_issues_within = 0
