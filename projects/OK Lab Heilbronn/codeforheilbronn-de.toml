@@ -1,7 +1,7 @@
 code_url = "https://github.com/opendata-heilbronn/codeforheilbronn-de"
 description = "Repository für unsere Vereinshomepage"
 git_url = "git://github.com/opendata-heilbronn/codeforheilbronn-de.git"
-last_commit = "2022-03-05T19:09:14Z"
+last_commit = "2022-11-29T21:02:54Z"
 link_url = "http://codeforheilbronn.de"
 name = "codeforheilbronn-de"
 organization_name = "OK Lab Heilbronn"
@@ -31,7 +31,7 @@ name = "codeforheilbronn-de"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDk3MzU5MjM="
 open_issues_within = 10
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 0
 topics = [ "hacktoberfest" ]
 updated_within = "year"
