@@ -1,6 +1,6 @@
 code_url = "https://github.com/codeformuenster/COVID-19-NRW"
 git_url = "git://github.com/codeformuenster/COVID-19-NRW.git"
-last_commit = "2022-11-28T14:44:54Z"
+last_commit = "2022-11-29T14:44:03Z"
 link_url = "https://codeformuenster.org/COVID-19-NRW/index.html"
 name = "COVID-19-NRW"
 organization_name = "OK Lab Münster"
@@ -31,7 +31,7 @@ private = false
 pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
-updated_within = "month"
+updated_within = "week"
 visibility = "public"
 watchers_within = 10
 web_commit_signoff_required = false
