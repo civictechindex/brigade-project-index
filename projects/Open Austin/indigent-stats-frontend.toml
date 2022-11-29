@@ -1,5 +1,6 @@
 code_url = "https://github.com/open-austin/indigent-stats-frontend"
 git_url = "git://github.com/open-austin/indigent-stats-frontend.git"
+last_commit = "2022-11-29T18:36:22Z"
 name = "indigent-stats-frontend"
 organization_name = "Open Austin"
 
@@ -20,6 +21,7 @@ has_projects = true
 has_wiki = true
 id = 571_309_914
 is_template = false
+language = "TypeScript"
 name = "indigent-stats-frontend"
 node_id = "R_kgDOIg1_Wg"
 open_issues_within = 0
