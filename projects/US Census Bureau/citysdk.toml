@@ -1,7 +1,7 @@
 code_url = "https://github.com/uscensusbureau/citysdk"
 description = "Convenient JavaScript utilities for working with Census APIs: Statistics, Cartographic GeoJSON, lat/lng -> FIPS, and other niceties (written in ClojureScript)"
 git_url = "git://github.com/uscensusbureau/citysdk.git"
-last_commit = "2022-10-20T13:44:18Z"
+last_commit = "2022-11-29T15:50:09Z"
 link_url = "https://uscensusbureau.github.io/citysdk"
 name = "citysdk"
 organization_name = "US Census Bureau"
@@ -30,7 +30,7 @@ name = "citysdk"
 node_id = "MDEwOlJlcG9zaXRvcnkzMDE5MDI4NA=="
 open_issues_within = 10
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 1_000
 topics = [ ]
 updated_within = "week"
