@@ -1,10 +1,10 @@
 code_url = "https://github.com/hackforla/writeforall"
 description = "Write for All TM is A project to help cities replace gender exclusive language with gender inclusive language."
-git_branch = "master"
+git_branch = "main"
 git_url = "git://github.com/hackforla/writeforall.git"
-last_pushed_within = "year"
+last_pushed_within = "week"
 name = "writeforall"
-open_issues_within = 10
+open_issues_within = 100
 organization_name = "Hack for LA Brigade"
 topics = [
   "abelist-language",
