@@ -1,6 +1,6 @@
 code_url = "https://github.com/codeforamerica/tax-benefits-foundational-project-2022-11"
 git_url = "git://github.com/codeforamerica/tax-benefits-foundational-project-2022-11.git"
-last_commit = "2022-11-17T14:44:25Z"
+last_commit = "2022-11-29T17:56:12Z"
 name = "tax-benefits-foundational-project-2022-11"
 organization_name = "Code for America"
 
@@ -29,7 +29,7 @@ private = false
 pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
-updated_within = "month"
+updated_within = "week"
 visibility = "public"
 watchers_within = 10
 web_commit_signoff_required = false
