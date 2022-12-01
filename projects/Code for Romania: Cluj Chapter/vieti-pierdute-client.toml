@@ -1,7 +1,7 @@
 code_url = "https://github.com/code4romania/vieti-pierdute-client"
 git_branch = "main"
 git_url = "git://github.com/code4romania/vieti-pierdute-client.git"
-last_pushed_within = "year"
+last_pushed_within = "over_a_year"
 link_url = "vieti-pierdute.vercel.app"
 name = "vieti-pierdute-client"
 organization_name = "Code for Romania: Cluj Chapter"
