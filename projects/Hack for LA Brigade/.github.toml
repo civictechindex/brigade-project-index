@@ -1,7 +1,7 @@
 code_url = "https://github.com/hackforla/.github"
 description = "This is a template repository that a default kanban project board,  readme and wiki for new Hack for LA projects.  The repository currently also has some issue templates but these are turning out not to be very useful for projects.  In future the repo will have default issues pre created so that new projects can get started quickly"
 git_url = "git://github.com/hackforla/.github.git"
-last_commit = "2022-02-24T16:32:43Z"
+last_commit = "2022-11-30T23:51:19Z"
 name = ".github"
 organization_name = "Hack for LA Brigade"
 topics = [
@@ -30,12 +30,12 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 192_279_828
-is_template = true
+is_template = false
 name = ".github"
 node_id = "MDEwOlJlcG9zaXRvcnkxOTIyNzk4Mjg="
 open_issues_within = 10
 private = false
-pushed_within = "year"
+pushed_within = "week"
 score = 1
 stargazers_within = 10
 topics = [
@@ -45,7 +45,7 @@ topics = [
   "template",
   "wiki"
 ]
-updated_within = "year"
+updated_within = "week"
 visibility = "public"
 watchers_within = 10
 web_commit_signoff_required = false

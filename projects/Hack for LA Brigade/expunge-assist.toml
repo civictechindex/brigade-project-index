@@ -1,7 +1,7 @@
 code_url = "https://github.com/hackforla/expunge-assist"
 description = "Expunge Assist helps people with criminal records reduce, dismiss, or seal their record in California as a result of Prop 47 & Prop 64"
 git_url = "git://github.com/hackforla/expunge-assist.git"
-last_commit = "2022-11-07T22:55:23Z"
+last_commit = "2022-12-01T03:45:48Z"
 name = "expunge-assist"
 organization_name = "Hack for LA Brigade"
 topics = [
@@ -52,7 +52,7 @@ topics = [
   "record-clearance",
   "record-expungement"
 ]
-updated_within = "week"
+updated_within = "month"
 visibility = "public"
 watchers_within = 100
 web_commit_signoff_required = false
