@@ -1,7 +1,7 @@
 code_url = "https://github.com/CodeforLeipzig/klimawatch-leipzig"
 description = "Analysis and visualizations of climate relevant data for the city of Leipzig "
 git_url = "git://github.com/CodeforLeipzig/klimawatch-leipzig.git"
-last_commit = "2022-11-23T20:09:11Z"
+last_commit = "2022-12-01T15:29:49Z"
 name = "klimawatch-leipzig"
 organization_name = "OK Lab Leipzig"
 
@@ -28,7 +28,7 @@ name = "klimawatch-leipzig"
 node_id = "R_kgDOIWH6TA"
 open_issues_within = 0
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 0
 topics = [ ]
 updated_within = "year"
