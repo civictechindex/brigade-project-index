@@ -46,7 +46,7 @@ name = "food-oasis"
 node_id = "MDEwOlJlcG9zaXRvcnkyMTU2NjY4ODQ="
 open_issues_within = 1_000
 private = false
-pushed_within = "month"
+pushed_within = "week"
 score = 1
 stargazers_within = 100
 topics = [
@@ -65,7 +65,7 @@ topics = [
   "hacktoberfest2021",
   "los-angeles"
 ]
-updated_within = "month"
+updated_within = "week"
 visibility = "public"
 watchers_within = 100
 web_commit_signoff_required = false
