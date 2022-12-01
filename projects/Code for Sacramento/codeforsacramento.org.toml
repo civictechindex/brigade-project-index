@@ -28,12 +28,12 @@ is_template = false
 language = "JavaScript"
 name = "codeforsacramento.org"
 node_id = "MDEwOlJlcG9zaXRvcnkyODQyODc1MA=="
-open_issues_within = 10
+open_issues_within = 100
 private = false
 pushed_within = "month"
 stargazers_within = 100
 topics = [ ]
-updated_within = "month"
+updated_within = "week"
 visibility = "public"
 watchers_within = 100
 web_commit_signoff_required = false
