@@ -1,6 +1,6 @@
 code_url = "https://github.com/18F/django_logingov_oidc"
 git_url = "git://github.com/18F/django_logingov_oidc.git"
-last_commit = "2022-11-22T18:05:14Z"
+last_commit = "2022-12-01T20:59:28Z"
 name = "django_logingov_oidc"
 organization_name = "18F"
 
@@ -24,7 +24,7 @@ is_template = false
 language = "Python"
 name = "django_logingov_oidc"
 node_id = "R_kgDOIemaDg"
-open_issues_within = 10
+open_issues_within = 0
 private = false
 pushed_within = "week"
 stargazers_within = 0
@@ -35,10 +35,10 @@ watchers_within = 0
 web_commit_signoff_required = false
 
   [github.license]
-  key = "cc0-1.0"
-  name = "Creative Commons Zero v1.0 Universal"
-  node_id = "MDc6TGljZW5zZTY="
-  spdx_id = "CC0-1.0"
+  key = "apache-2.0"
+  name = "Apache License 2.0"
+  node_id = "MDc6TGljZW5zZTI="
+  spdx_id = "Apache-2.0"
 
   [github.owner]
   gravatar_id = ""
