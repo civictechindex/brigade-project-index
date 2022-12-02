@@ -1,7 +1,7 @@
 code_url = "https://github.com/codeforamerica/vita-min"
 description = "Now Get Your Refund, Minimal VITA web application for EITC pilot (2019-2020)"
 git_url = "git://github.com/codeforamerica/vita-min.git"
-last_commit = "2022-12-01T19:25:53Z"
+last_commit = "2022-12-02T18:17:23Z"
 name = "vita-min"
 organization_name = "Code for America"
 topics = [ "get-your-refund", "gyr" ]
@@ -33,7 +33,7 @@ private = false
 pushed_within = "week"
 stargazers_within = 100
 topics = [ "get-your-refund", "gyr" ]
-updated_within = "month"
+updated_within = "week"
 visibility = "public"
 watchers_within = 100
 web_commit_signoff_required = false
