@@ -1,7 +1,7 @@
 code_url = "https://github.com/g0v/g0v-dashboard"
 description = "g0v社群的各種資料統計"
 git_url = "git://github.com/g0v/g0v-dashboard.git"
-last_commit = "2022-03-25T11:27:27Z"
+last_commit = "2022-12-03T07:50:53Z"
 link_url = "http://g0v.github.io/g0v-dashboard"
 name = "g0v-dashboard"
 organization_name = "g0v.tw"
@@ -30,7 +30,7 @@ name = "g0v-dashboard"
 node_id = "MDEwOlJlcG9zaXRvcnkzMTEyNjQzMzQ="
 open_issues_within = 10
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
 updated_within = "year"
