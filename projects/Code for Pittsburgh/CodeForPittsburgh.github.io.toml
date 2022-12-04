@@ -1,7 +1,7 @@
 code_url = "https://github.com/CodeForPittsburgh/CodeForPittsburgh.github.io"
 description = "Code For Pittsburgh Github pages repository."
 git_url = "git://github.com/CodeForPittsburgh/CodeForPittsburgh.github.io.git"
-last_commit = "2022-12-03T13:03:26Z"
+last_commit = "2022-12-04T13:04:23Z"
 link_url = "http://CodeForPittsburgh.github.io"
 name = "CodeForPittsburgh.github.io"
 organization_name = "Code for Pittsburgh"
@@ -33,7 +33,7 @@ private = false
 pushed_within = "week"
 stargazers_within = 100
 topics = [ ]
-updated_within = "year"
+updated_within = "week"
 visibility = "public"
 watchers_within = 100
 web_commit_signoff_required = false
