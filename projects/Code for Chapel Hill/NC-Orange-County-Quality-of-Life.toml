@@ -2,6 +2,6 @@ code_url = "https://github.com/code-for-chapel-hill/NC-Orange-County-Quality-of-
 description = "Created from the Mecklenburg County Quality of Life Dashboard, this interactive website looks at the economic, environmental, housing, safety, and social conditions of Chapel Hill and Orange County, NC."
 git_branch = "dev"
 git_url = "git://github.com/code-for-chapel-hill/NC-Orange-County-Quality-of-Life.git"
-last_pushed_within = "year"
+last_pushed_within = "over_a_year"
 name = "NC-Orange-County-Quality-of-Life"
 organization_name = "Code for Chapel Hill"
