@@ -1,7 +1,7 @@
 code_url = "https://github.com/hackforla/.github"
 description = "This is a template repository that a default kanban project board,  readme and wiki for new Hack for LA projects.  The repository currently also has some issue templates but these are turning out not to be very useful for projects.  In future the repo will have default issues pre created so that new projects can get started quickly"
 git_url = "git://github.com/hackforla/.github.git"
-last_commit = "2022-11-30T23:51:19Z"
+last_commit = "2022-12-04T01:00:48Z"
 name = ".github"
 organization_name = "Hack for LA Brigade"
 topics = [
