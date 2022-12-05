@@ -1,6 +1,7 @@
 code_url = "https://github.com/g0v/contribar"
 git_branch = "master"
 git_url = "git://github.com/g0v/contribar.git"
-last_pushed_within = "over_a_year"
+last_pushed_within = "week"
 name = "contribar"
+open_issues_within = 10
 organization_name = "g0v.tw"
