@@ -1,6 +1,6 @@
 code_url = "https://github.com/OpenUpSA/municipal-money-gitbook"
 git_url = "git://github.com/OpenUpSA/municipal-money-gitbook.git"
-last_commit = "2022-11-23T13:14:39Z"
+last_commit = "2022-12-05T09:11:56Z"
 name = "municipal-money-gitbook"
 organization_name = "OpenUp"
 
@@ -25,7 +25,7 @@ name = "municipal-money-gitbook"
 node_id = "MDEwOlJlcG9zaXRvcnkyNzQxMjk1NTg="
 open_issues_within = 0
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 0
 topics = [ ]
 updated_within = "over_a_year"
