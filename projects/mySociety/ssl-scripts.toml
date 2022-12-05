@@ -1,6 +1,6 @@
 code_url = "https://github.com/mysociety/ssl-scripts"
 git_url = "git://github.com/mysociety/ssl-scripts.git"
-last_commit = "2022-12-01T11:08:43Z"
+last_commit = "2022-12-05T09:58:52Z"
 link_url = "https://www.mysociety.org/"
 name = "ssl-scripts"
 organization_name = "mySociety"
@@ -26,7 +26,7 @@ is_template = false
 language = "Python"
 name = "ssl-scripts"
 node_id = "MDEwOlJlcG9zaXRvcnk2NzYyODg2Mw=="
-open_issues_within = 10
+open_issues_within = 0
 private = false
 pushed_within = "week"
 stargazers_within = 10
