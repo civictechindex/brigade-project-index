@@ -1,7 +1,7 @@
 code_url = "https://github.com/18F/identity-site"
 description = "This is the Login.gov main website where the public is able to learn about their one account for government."
 git_url = "git://github.com/18F/identity-site.git"
-last_commit = "2022-11-29T16:08:36Z"
+last_commit = "2022-12-05T20:11:27Z"
 link_url = "https://login.gov"
 name = "identity-site"
 organization_name = "18F"
@@ -29,12 +29,12 @@ is_template = false
 language = "HTML"
 name = "identity-site"
 node_id = "MDEwOlJlcG9zaXRvcnk4NDM0MDUzNQ=="
-open_issues_within = 10
+open_issues_within = 0
 private = false
 pushed_within = "week"
 stargazers_within = 100
 topics = [ "gov", "identity", "login-gov" ]
-updated_within = "month"
+updated_within = "week"
 visibility = "public"
 watchers_within = 100
 web_commit_signoff_required = false
