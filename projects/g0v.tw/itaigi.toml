@@ -1,7 +1,7 @@
 code_url = "https://github.com/g0v/itaigi"
 description = "新台語·運動"
 git_url = "git://github.com/g0v/itaigi.git"
-last_commit = "2021-12-22T06:34:05Z"
+last_commit = "2022-12-06T13:47:08Z"
 link_url = "https://itaigi.tw/"
 name = "itaigi"
 organization_name = "g0v.tw"
@@ -30,10 +30,10 @@ name = "itaigi"
 node_id = "MDEwOlJlcG9zaXRvcnkyOTQxODg2Mw=="
 open_issues_within = 100
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 1_000
 topics = [ ]
-updated_within = "week"
+updated_within = "month"
 visibility = "public"
 watchers_within = 1_000
 web_commit_signoff_required = false
