@@ -1,7 +1,7 @@
 code_url = "https://github.com/codeforcroatia/jkan"
 description = "Code for Croatia Open Data Portal"
 git_url = "git://github.com/codeforcroatia/jkan.git"
-last_commit = "2022-07-22T07:17:34Z"
+last_commit = "2022-12-06T10:11:54Z"
 link_url = "https://data.codeforcroatia.org"
 name = "jkan"
 organization_name = "Code for Croatia"
@@ -31,7 +31,7 @@ name = "jkan"
 node_id = "MDEwOlJlcG9zaXRvcnkyNjgwNjQ4MzQ="
 open_issues_within = 10
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 0
 topics = [ "croatia", "jekyll", "open-data", "open-datasets" ]
 updated_within = "year"
