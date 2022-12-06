@@ -1,7 +1,7 @@
 code_url = "https://github.com/18F/brand"
 description = "18F Brand"
 git_url = "git://github.com/18F/brand.git"
-last_commit = "2022-08-19T20:33:49Z"
+last_commit = "2022-12-06T15:57:28Z"
 link_url = "https://brand.18f.gov"
 name = "brand"
 organization_name = "18F"
@@ -34,7 +34,7 @@ private = false
 pushed_within = "week"
 stargazers_within = 100
 topics = [ "brand" ]
-updated_within = "month"
+updated_within = "week"
 visibility = "public"
 watchers_within = 100
 web_commit_signoff_required = false
