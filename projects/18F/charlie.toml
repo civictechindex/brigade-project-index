@@ -1,7 +1,7 @@
 code_url = "https://github.com/18F/charlie"
 description = "18F's Slack bot, Charlie. Built on Bolt"
 git_url = "git://github.com/18F/charlie.git"
-last_commit = "2022-12-02T19:52:52Z"
+last_commit = "2022-12-05T21:19:15Z"
 name = "charlie"
 organization_name = "18F"
 topics = [ "maintained" ]
