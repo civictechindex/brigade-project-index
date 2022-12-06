@@ -1,6 +1,6 @@
 code_url = "https://github.com/codeforamerica/tax-benefits-foundational-project-2022-11"
 git_url = "git://github.com/codeforamerica/tax-benefits-foundational-project-2022-11.git"
-last_commit = "2022-12-05T17:03:36Z"
+last_commit = "2022-12-06T18:59:33Z"
 name = "tax-benefits-foundational-project-2022-11"
 organization_name = "Code for America"
 
@@ -24,12 +24,12 @@ is_template = false
 language = "Ruby"
 name = "tax-benefits-foundational-project-2022-11"
 node_id = "R_kgDOIcK94w"
-open_issues_within = 10
+open_issues_within = 0
 private = false
 pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
-updated_within = "week"
+updated_within = "month"
 visibility = "public"
 watchers_within = 10
 web_commit_signoff_required = false
