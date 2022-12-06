@@ -1,6 +1,6 @@
 code_url = "https://github.com/mysociety/climate-petitions-test"
 git_url = "git://github.com/mysociety/climate-petitions-test.git"
-last_commit = "2022-11-15T17:02:00Z"
+last_commit = "2022-12-01T13:46:37Z"
 link_url = "https://www.mysociety.org/"
 name = "climate-petitions-test"
 organization_name = "mySociety"
@@ -26,7 +26,7 @@ is_template = false
 language = "Python"
 name = "climate-petitions-test"
 node_id = "R_kgDOIcMV1Q"
-open_issues_within = 10
+open_issues_within = 0
 private = false
 pushed_within = "week"
 stargazers_within = 0
