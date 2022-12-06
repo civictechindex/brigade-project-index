@@ -1,7 +1,7 @@
 code_url = "https://github.com/codeforatlanta/mappingforimpact-explorer"
 description = "Interactive data viewer for Mapping for Impact campaigns"
 git_url = "git://github.com/codeforatlanta/mappingforimpact-explorer.git"
-last_commit = "2022-09-12T22:03:26Z"
+last_commit = "2022-12-06T12:16:41Z"
 name = "mappingforimpact-explorer"
 organization_name = "Code for Atlanta"
 
@@ -27,7 +27,7 @@ name = "mappingforimpact-explorer"
 node_id = "R_kgDOIfDWcw"
 open_issues_within = 0
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 0
 topics = [ ]
 updated_within = "year"
