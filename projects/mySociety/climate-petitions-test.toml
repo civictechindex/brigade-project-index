@@ -4,5 +4,4 @@ git_url = "git://github.com/mysociety/climate-petitions-test.git"
 last_pushed_within = "week"
 link_url = "https://www.mysociety.org/"
 name = "climate-petitions-test"
-open_issues_within = 10
 organization_name = "mySociety"
