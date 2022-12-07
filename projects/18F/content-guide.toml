@@ -1,7 +1,7 @@
 code_url = "https://github.com/18F/content-guide"
 description = "18F Content Guide"
 git_url = "git://github.com/18F/content-guide.git"
-last_commit = "2022-12-06T20:01:04Z"
+last_commit = "2022-12-06T20:23:41Z"
 link_url = "https://content-guide.18f.gov/"
 name = "content-guide"
 organization_name = "18F"
@@ -33,7 +33,7 @@ private = false
 pushed_within = "week"
 stargazers_within = 100
 topics = [ ]
-updated_within = "year"
+updated_within = "week"
 visibility = "public"
 watchers_within = 100
 web_commit_signoff_required = false
