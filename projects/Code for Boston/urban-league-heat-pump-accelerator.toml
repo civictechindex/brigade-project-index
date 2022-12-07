@@ -1,7 +1,7 @@
 code_url = "https://github.com/codeforboston/urban-league-heat-pump-accelerator"
 description = "Urban League Heat Pump Accelerator Project"
 git_url = "git://github.com/codeforboston/urban-league-heat-pump-accelerator.git"
-last_commit = "2022-12-05T02:44:53Z"
+last_commit = "2022-12-07T02:28:00Z"
 name = "urban-league-heat-pump-accelerator"
 organization_name = "Code for Boston"
 
@@ -13,7 +13,7 @@ default_branch = "main"
 description = "Urban League Heat Pump Accelerator Project"
 disabled = false
 fork = false
-forks_within = 10
+forks_within = 100
 full_name = "codeforboston/urban-league-heat-pump-accelerator"
 has_discussions = false
 has_downloads = true
