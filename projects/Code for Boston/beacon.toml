@@ -26,9 +26,9 @@ is_template = false
 language = "TypeScript"
 name = "beacon"
 node_id = "MDEwOlJlcG9zaXRvcnkyNDcxNjMzNzI="
-open_issues_within = 10
+open_issues_within = 100
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
 updated_within = "over_a_year"
