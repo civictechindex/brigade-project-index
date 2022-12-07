@@ -1,6 +1,7 @@
 code_url = "https://github.com/codeforpakistan/citizenconnect"
 git_branch = "master"
 git_url = "git://github.com/codeforpakistan/citizenconnect.git"
-last_pushed_within = "over_a_year"
+last_pushed_within = "week"
 name = "citizenconnect"
+open_issues_within = 10
 organization_name = "Code for Pakistan"
