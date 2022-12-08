@@ -28,9 +28,9 @@ is_template = false
 language = "HTML"
 name = "exit-plan"
 node_id = "MDEwOlJlcG9zaXRvcnkxNzM4NTQ5NjQ="
-open_issues_within = 10
+open_issues_within = 100
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 0
 topics = [ ]
 updated_within = "over_a_year"
