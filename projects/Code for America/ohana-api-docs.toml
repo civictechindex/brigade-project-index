@@ -1,7 +1,7 @@
 code_url = "https://github.com/codeforamerica/ohana-api-docs"
 description = "Documentation for the Ohana API"
 git_url = "git://github.com/codeforamerica/ohana-api-docs.git"
-last_commit = "2022-10-21T14:01:20Z"
+last_commit = "2022-12-08T16:12:11Z"
 link_url = "http://codeforamerica.github.io/ohana-api-docs/"
 name = "ohana-api-docs"
 organization_name = "Code for America"
@@ -28,7 +28,7 @@ is_template = false
 language = "JavaScript"
 name = "ohana-api-docs"
 node_id = "MDEwOlJlcG9zaXRvcnkyNDYxMDA0MQ=="
-open_issues_within = 10
+open_issues_within = 0
 private = false
 pushed_within = "week"
 stargazers_within = 10
