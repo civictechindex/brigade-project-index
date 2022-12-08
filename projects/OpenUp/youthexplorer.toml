@@ -26,9 +26,9 @@ is_template = false
 language = "TSQL"
 name = "youthexplorer"
 node_id = "MDEwOlJlcG9zaXRvcnkyMTgwMzM1Nzk="
-open_issues_within = 10
+open_issues_within = 100
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 0
 topics = [ ]
 updated_within = "over_a_year"
