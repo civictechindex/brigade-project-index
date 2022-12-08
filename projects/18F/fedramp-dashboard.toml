@@ -1,6 +1,6 @@
 code_url = "https://github.com/18F/fedramp-dashboard"
 git_url = "git://github.com/18F/fedramp-dashboard.git"
-last_commit = "2022-11-30T21:45:56Z"
+last_commit = "2022-12-07T21:40:07Z"
 link_url = "https://marketplace.fedramp.gov"
 name = "fedramp-dashboard"
 organization_name = "18F"
@@ -31,7 +31,7 @@ private = false
 pushed_within = "week"
 stargazers_within = 100
 topics = [ ]
-updated_within = "week"
+updated_within = "month"
 visibility = "public"
 watchers_within = 100
 web_commit_signoff_required = false
