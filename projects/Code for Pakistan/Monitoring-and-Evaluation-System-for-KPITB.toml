@@ -1,7 +1,7 @@
 code_url = "https://github.com/codeforpakistan/Monitoring-and-Evaluation-System-for-KPITB"
 git_branch = "main"
 git_url = "git://github.com/codeforpakistan/Monitoring-and-Evaluation-System-for-KPITB.git"
-last_pushed_within = "year"
+last_pushed_within = "week"
 name = "Monitoring-and-Evaluation-System-for-KPITB"
 open_issues_within = 10
 organization_name = "Code for Pakistan"
