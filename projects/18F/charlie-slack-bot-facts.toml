@@ -1,7 +1,7 @@
 code_url = "https://github.com/18F/charlie-slack-bot-facts"
 description = "Lists of facts used by 18F bot"
 git_url = "git://github.com/18F/charlie-slack-bot-facts.git"
-last_commit = "2022-11-25T14:24:00Z"
+last_commit = "2022-12-08T13:17:13Z"
 name = "charlie-slack-bot-facts"
 organization_name = "18F"
 topics = [ "bot", "bot-responses", "charlie", "maintained" ]
@@ -27,12 +27,12 @@ id = 163_341_988
 is_template = false
 name = "charlie-slack-bot-facts"
 node_id = "MDEwOlJlcG9zaXRvcnkxNjMzNDE5ODg="
-open_issues_within = 10
+open_issues_within = 0
 private = false
 pushed_within = "week"
 stargazers_within = 100
 topics = [ "bot", "bot-responses", "charlie", "maintained" ]
-updated_within = "year"
+updated_within = "week"
 visibility = "public"
 watchers_within = 100
 web_commit_signoff_required = false
