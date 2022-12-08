@@ -1,6 +1,6 @@
 code_url = "https://github.com/code4romania/primajutor"
 git_url = "git://github.com/code4romania/primajutor.git"
-last_commit = "2022-12-06T21:23:12Z"
+last_commit = "2022-12-07T21:54:15Z"
 name = "primajutor"
 organization_name = "Code for Romania: Iasi Chapter"
 
@@ -22,10 +22,10 @@ has_wiki = true
 homepage = ""
 id = 567_623_920
 is_template = false
-language = "JavaScript"
+language = "PHP"
 name = "primajutor"
 node_id = "R_kgDOIdVA8A"
-open_issues_within = 100
+open_issues_within = 10
 private = false
 pushed_within = "week"
 stargazers_within = 0
