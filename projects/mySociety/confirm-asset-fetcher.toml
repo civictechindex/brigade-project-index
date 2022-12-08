@@ -1,7 +1,7 @@
 code_url = "https://github.com/mysociety/confirm-asset-fetcher"
 git_branch = "master"
 git_url = "git://github.com/mysociety/confirm-asset-fetcher.git"
-last_pushed_within = "year"
+last_pushed_within = "week"
 link_url = "https://www.mysociety.org/"
 name = "confirm-asset-fetcher"
 open_issues_within = 10

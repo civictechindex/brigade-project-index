@@ -1,7 +1,7 @@
 code_url = "https://github.com/andrewguenthner/oo_oam"
 description = "Mapping art galleries and murals for the Art Murmur, Oakland's monthly art walk"
 git_branch = "master"
-last_pushed_within = "year"
+last_pushed_within = "week"
 name = "Art Map"
 open_issues_within = 10
 organization_name = "Open Oakland"

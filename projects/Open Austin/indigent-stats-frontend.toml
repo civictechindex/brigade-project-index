@@ -1,6 +1,8 @@
 code_url = "https://github.com/open-austin/indigent-stats-frontend"
 git_branch = "main"
 git_url = "git://github.com/open-austin/indigent-stats-frontend.git"
-last_pushed_within = "month"
+last_pushed_within = "week"
+link_url = "indigent-stats-frontend-psi.vercel.app"
 name = "indigent-stats-frontend"
+open_issues_within = 10
 organization_name = "Open Austin"
