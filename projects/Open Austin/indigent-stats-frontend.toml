@@ -1,6 +1,6 @@
 code_url = "https://github.com/open-austin/indigent-stats-frontend"
 git_url = "git://github.com/open-austin/indigent-stats-frontend.git"
-last_commit = "2022-12-07T22:35:00Z"
+last_commit = "2022-12-08T19:34:19Z"
 link_url = "indigent-stats-frontend-psi.vercel.app"
 name = "indigent-stats-frontend"
 organization_name = "Open Austin"
@@ -26,7 +26,7 @@ is_template = false
 language = "TypeScript"
 name = "indigent-stats-frontend"
 node_id = "R_kgDOIg1_Wg"
-open_issues_within = 10
+open_issues_within = 0
 private = false
 pushed_within = "week"
 stargazers_within = 10
