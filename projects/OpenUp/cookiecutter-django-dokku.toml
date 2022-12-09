@@ -1,7 +1,7 @@
 code_url = "https://github.com/OpenUpSA/cookiecutter-django-dokku"
 description = "Cookiecutter for Django on docker using dokku in prod and docker-compose in dev and test."
 git_url = "git://github.com/OpenUpSA/cookiecutter-django-dokku.git"
-last_commit = "2022-09-02T13:40:32Z"
+last_commit = "2022-12-08T15:30:31Z"
 name = "cookiecutter-django-dokku"
 organization_name = "OpenUp"
 
