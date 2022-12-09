@@ -1,7 +1,7 @@
 code_url = "https://github.com/uscensusbureau/bias-toolkit-frontend"
 description = "A frontend website for the Combating Bias Toolkit."
 git_url = "git://github.com/uscensusbureau/bias-toolkit-frontend.git"
-last_commit = "2022-05-10T14:02:27Z"
+last_commit = "2022-12-08T21:43:44Z"
 name = "bias-toolkit-frontend"
 organization_name = "US Census Bureau"
 
@@ -28,7 +28,7 @@ name = "bias-toolkit-frontend"
 node_id = "MDEwOlJlcG9zaXRvcnkzOTk5Mzg1NzI="
 open_issues_within = 0
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
 updated_within = "year"
