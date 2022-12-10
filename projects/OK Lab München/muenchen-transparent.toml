@@ -1,7 +1,7 @@
 code_url = "https://github.com/codeformunich/muenchen-transparent"
 description = "Ein alternatives Ratsinformationssystem mit E-Mail-Benachrichtigungen, Volltextsuche und vielem mehr."
 git_url = "git://github.com/codeformunich/muenchen-transparent.git"
-last_commit = "2022-12-04T16:54:49Z"
+last_commit = "2022-12-10T11:54:25Z"
 link_url = "https://www.muenchen-transparent.de"
 name = "muenchen-transparent"
 organization_name = "OK Lab München"
@@ -34,7 +34,7 @@ private = false
 pushed_within = "week"
 stargazers_within = 100
 topics = [ "oparl", "ratsinformationssystem" ]
-updated_within = "year"
+updated_within = "week"
 visibility = "public"
 watchers_within = 100
 web_commit_signoff_required = false
