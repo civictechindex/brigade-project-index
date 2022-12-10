@@ -1,7 +1,7 @@
 code_url = "https://github.com/hackforla/website"
 description = "Hack for LA's website"
 git_url = "git://github.com/hackforla/website.git"
-last_commit = "2022-12-07T09:25:48Z"
+last_commit = "2022-12-10T03:23:58Z"
 link_url = "https://www.hackforla.org"
 name = "website"
 organization_name = "Hack for LA Brigade"
@@ -49,7 +49,7 @@ topics = [
   "hack-for-la",
   "jekyll"
 ]
-updated_within = "month"
+updated_within = "week"
 visibility = "public"
 watchers_within = 1_000
 web_commit_signoff_required = false
