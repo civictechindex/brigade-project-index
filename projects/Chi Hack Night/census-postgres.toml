@@ -1,5 +1,5 @@
 code_url = "https://github.com/censusreporter/census-postgres"
-last_commit = "2022-09-25T01:06:56Z"
+last_commit = "2022-12-10T14:43:33Z"
 name = "census-postgres"
 organization_name = "Chi Hack Night"
 
@@ -28,7 +28,7 @@ network_count = 69
 node_id = "MDEwOlJlcG9zaXRvcnk5MDg1MzMx"
 open_issues_within = 10
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 100
 subscribers_count = 17
 temp_clone_token = ""
