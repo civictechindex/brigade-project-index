@@ -1,5 +1,5 @@
 code_url = "https://github.com/datamade/dedupe"
-last_commit = "2022-10-31T16:27:20Z"
+last_commit = "2022-12-11T15:52:40Z"
 name = "dedupe"
 organization_name = "Chi Hack Night"
 
@@ -24,7 +24,7 @@ id = 4_087_724
 is_template = false
 language = "Python"
 name = "dedupe"
-network_count = 490
+network_count = 491
 node_id = "MDEwOlJlcG9zaXRvcnk0MDg3NzI0"
 open_issues_within = 100
 private = false
