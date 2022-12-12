@@ -1,7 +1,7 @@
 code_url = "https://github.com/CodeforHawaii/Hawaii-Zoning-Atlas"
 description = " Interactive map showing how outdated zoning laws make it hard to build diverse, affordable housing in Hawaii."
 git_url = "git://github.com/CodeforHawaii/Hawaii-Zoning-Atlas.git"
-last_commit = "2022-12-04T00:44:11Z"
+last_commit = "2022-12-12T02:24:00Z"
 link_url = "https://hawaiizoningatlas.com"
 name = "Hawaii-Zoning-Atlas"
 organization_name = "Code for Hawaii"
@@ -34,7 +34,7 @@ private = false
 pushed_within = "week"
 stargazers_within = 10
 topics = [ "codeforhawaii", "hawaii", "zoning" ]
-updated_within = "week"
+updated_within = "month"
 visibility = "public"
 watchers_within = 10
 web_commit_signoff_required = false
