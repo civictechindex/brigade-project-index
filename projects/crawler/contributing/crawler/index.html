@@ -1034,6 +1034,13 @@
 <h1 id="crawler">Crawler<a class="headerlink" href="#crawler" title="Permanent link"> ¶</a></h1>
 <p>The Crawler is built with Node.js and development is primarily supported for <a href="https://code.visualstudio.com/">Visual Studio Code</a>.</p>
 <h2 id="after-cloning-or-pulling">After Cloning or Pulling<a class="headerlink" href="#after-cloning-or-pulling" title="Permanent link"> ¶</a></h2>
+<p>Make sure you&rsquo;re using node 14:</p>
+<div class="highlight"><pre><span></span><code>node --version
+</code></pre></div>
+<p>On Mac with node installed via Homebrew, you can switch your current shell to node 14:</p>
+<div class="highlight"><pre><span></span><code>brew install node@14
+<span class="nb">export</span> <span class="nv">PATH</span><span class="o">=</span><span class="s2">&quot;/usr/local/opt/node@14/bin:</span><span class="nv">$PATH</span><span class="s2">&quot;</span>
+</code></pre></div>
 <p>Install node modules:</p>
 <div class="highlight"><pre><span></span><code><span class="nb">cd</span> crawler
 npm install
