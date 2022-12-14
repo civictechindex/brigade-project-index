@@ -1,0 +1,52 @@
+code_url = "https://github.com/CodeForAfrica/mediacloud_sre_scripts"
+description = "Scripts for SRE & Devops Tasks used in Mediacloud"
+git_url = "git://github.com/CodeForAfrica/mediacloud_sre_scripts.git"
+last_commit = "2022-12-14T06:59:16Z"
+name = "mediacloud_sre_scripts"
+organization_name = "Code for Africa"
+
+[github]
+allow_forking = true
+archived = false
+created_at = "2022-12-14T06:56:29Z"
+default_branch = "main"
+description = "Scripts for SRE & Devops Tasks used in Mediacloud"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "CodeForAfrica/mediacloud_sre_scripts"
+has_discussions = false
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+id = 578_062_309
+is_template = false
+language = "Python"
+name = "mediacloud_sre_scripts"
+node_id = "R_kgDOInSH5Q"
+open_issues_within = 0
+private = false
+pushed_within = "week"
+stargazers_within = 0
+topics = [ ]
+updated_within = "week"
+visibility = "public"
+watchers_within = 0
+web_commit_signoff_required = false
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_786_364
+  login = "CodeForAfrica"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI3ODYzNjQ="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  maintain = false
+  pull = true
+  push = false
+  triage = false
