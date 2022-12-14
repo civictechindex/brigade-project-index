@@ -4,6 +4,19 @@ The Crawler is built with Node.js and development is primarily supported for [Vi
 
 ## After Cloning or Pulling
 
+Make sure you're using node 14:
+
+```bash
+node --version
+```
+
+On Mac with node installed via Homebrew, you can switch your current shell to node 14:
+
+```bash
+brew install node@14
+export PATH="/usr/local/opt/node@14/bin:$PATH"
+```
+
 Install node modules:
 
 ```bash
