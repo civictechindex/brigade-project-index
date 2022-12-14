@@ -5,7 +5,8 @@
   "author": "Chris Alfano <chris@jarv.us>",
   "license": "Apache-2.0",
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^1.2.1",
+    "axios-retry-after": "^2.0.0",
     "csv-parser": "^2.3.3",
     "gitsheets": "^0.2.2",
     "parse-link-header": "^1.0.1",
