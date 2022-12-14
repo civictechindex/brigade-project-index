@@ -30,7 +30,7 @@ has_projects = true
 has_wiki = true
 homepage = ""
 id = 192_279_828
-is_template = false
+is_template = true
 name = ".github"
 node_id = "MDEwOlJlcG9zaXRvcnkxOTIyNzk4Mjg="
 open_issues_within = 10
@@ -45,7 +45,7 @@ topics = [
   "template",
   "wiki"
 ]
-updated_within = "month"
+updated_within = "week"
 visibility = "public"
 watchers_within = 10
 web_commit_signoff_required = false
