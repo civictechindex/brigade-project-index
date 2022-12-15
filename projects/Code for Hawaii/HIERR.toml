@@ -2,6 +2,7 @@ code_url = "https://github.com/CodeforHawaii/HIERR"
 description = "A Human-Centered Digital Engagement Process for the Hawai‘i Economic Recovery & Resilience Project with the State Office of Planning & Sustainable Development"
 git_url = "git://github.com/CodeforHawaii/HIERR.git"
 last_commit = "2022-12-14T07:02:39Z"
+link_url = "https://codeforhawaii.github.io/HIERR/"
 name = "HIERR"
 organization_name = "Code for Hawaii"
 
@@ -21,6 +22,7 @@ has_issues = true
 has_pages = true
 has_projects = true
 has_wiki = true
+homepage = "https://codeforhawaii.github.io/HIERR/"
 id = 577_634_927
 is_template = false
 language = "JavaScript"
