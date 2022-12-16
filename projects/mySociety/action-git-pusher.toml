@@ -1,7 +1,7 @@
 code_url = "https://github.com/mysociety/action-git-pusher"
 description = "GithHub Action to push git things somewhere else"
 git_url = "git://github.com/mysociety/action-git-pusher.git"
-last_commit = "2021-03-11T14:25:53Z"
+last_commit = "2022-12-15T13:59:05Z"
 link_url = "https://www.mysociety.org/"
 name = "action-git-pusher"
 organization_name = "mySociety"
@@ -29,12 +29,12 @@ is_template = false
 language = "Shell"
 name = "action-git-pusher"
 node_id = "MDEwOlJlcG9zaXRvcnkzNDY0MTE2Mzg="
-open_issues_within = 10
+open_issues_within = 0
 private = false
 pushed_within = "week"
 stargazers_within = 0
 topics = [ "actions", "git" ]
-updated_within = "over_a_year"
+updated_within = "week"
 visibility = "public"
 watchers_within = 0
 web_commit_signoff_required = false
