@@ -1,7 +1,7 @@
 code_url = "https://github.com/BetaNYC/playground-map"
 description = "A map of playgrounds in nyc. searchable by address and filterable by access types."
 git_url = "git://github.com/BetaNYC/playground-map.git"
-last_commit = "2022-08-24T13:42:42Z"
+last_commit = "2022-12-15T20:50:37Z"
 link_url = "https://BetaNYC.github.io/playground-map/"
 name = "playground-map"
 organization_name = "BetaNYC"
@@ -31,7 +31,7 @@ name = "playground-map"
 node_id = "R_kgDOHuRL-g"
 open_issues_within = 0
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ "open-data", "parks", "parks-and-recreation" ]
 updated_within = "year"
