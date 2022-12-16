@@ -1,6 +1,6 @@
 code_url = "https://github.com/codeforamerica/notifications"
 git_url = "git://github.com/codeforamerica/notifications.git"
-last_commit = "2022-12-15T22:10:24Z"
+last_commit = "2022-12-16T04:59:33Z"
 name = "notifications"
 organization_name = "Code for America"
 
@@ -24,7 +24,7 @@ is_template = false
 language = "Ruby"
 name = "notifications"
 node_id = "R_kgDOIUPfSg"
-open_issues_within = 10
+open_issues_within = 0
 private = false
 pushed_within = "week"
 stargazers_within = 0
