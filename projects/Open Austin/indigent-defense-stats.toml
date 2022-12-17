@@ -1,7 +1,7 @@
 code_url = "https://github.com/open-austin/indigent-defense-stats"
 description = "A web scraper for collecting and processing public case records from sites using Tyler Technology's Odyssey court records database software."
 git_url = "git://github.com/open-austin/indigent-defense-stats.git"
-last_commit = "2022-08-22T13:35:48Z"
+last_commit = "2022-12-17T00:42:32Z"
 name = "indigent-defense-stats"
 organization_name = "Open Austin"
 topics = [ "court-cases", "parser", "python", "scraper" ]
