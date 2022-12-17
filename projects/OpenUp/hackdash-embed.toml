@@ -1,7 +1,7 @@
 code_url = "https://github.com/OpenUpSA/hackdash-embed"
 git_branch = "master"
 git_url = "git://github.com/OpenUpSA/hackdash-embed.git"
-last_pushed_within = "week"
+last_pushed_within = "month"
 name = "hackdash-embed"
 open_issues_within = 100
 organization_name = "OpenUp"
