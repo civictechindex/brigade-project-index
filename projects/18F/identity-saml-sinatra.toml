@@ -1,7 +1,7 @@
 code_url = "https://github.com/18F/identity-saml-sinatra"
 description = "Mock relying party (user app) to send requests to ID server"
 git_url = "git://github.com/18F/identity-saml-sinatra.git"
-last_commit = "2022-12-02T18:15:24Z"
+last_commit = "2022-12-20T18:24:44Z"
 name = "identity-saml-sinatra"
 organization_name = "18F"
 topics = [ "login-gov" ]
