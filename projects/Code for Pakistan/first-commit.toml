@@ -1,6 +1,6 @@
 code_url = "https://github.com/codeforpakistan/first-commit"
 git_url = "git://github.com/codeforpakistan/first-commit.git"
-last_commit = "2022-12-21T15:10:12Z"
+last_commit = "2022-12-21T17:35:54Z"
 name = "first-commit"
 organization_name = "Code for Pakistan"
 
@@ -21,6 +21,7 @@ has_projects = true
 has_wiki = true
 id = 580_736_648
 is_template = false
+language = "HTML"
 name = "first-commit"
 node_id = "R_kgDOIp1WiA"
 open_issues_within = 100
