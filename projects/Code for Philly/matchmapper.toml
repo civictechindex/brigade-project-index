@@ -1,6 +1,6 @@
 code_url = "https://github.com/CodeForPhilly/MATchMapper"
 description = "Philadelphia is among the cities hit hardest by the opioid crisis. Medication-assisted treatment (MAT), particularly [buprenorphine](https://dbhids.org/addiction-services/bupe-works), is identified as [“the gold standard of care” for opioid use disorder](https://www1.pewtrusts.org/en/research-and-analysis/articles/2021/02/04/how-pew-is-helping-to-address-philadelphias-pandemic-intensified-opioid-crisis). Unfortunately, information on the availability of MAT is currently spread across multiple databases and search tools. Furthermore, many listings are outdated. Any given search thus risks both wasting time on options that no longer exist and leaving out good possibilities!"
-last_commit = "2022-06-12T19:27:43Z"
+last_commit = "2022-12-20T19:49:41Z"
 name = "matchmapper"
 organization_name = "Code for Philly"
 status = "Prototyping"
@@ -35,7 +35,7 @@ network_count = 5
 node_id = "MDEwOlJlcG9zaXRvcnkyODE5ODY2ODA="
 open_issues_within = 100
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 10
 subscribers_count = 15
 temp_clone_token = ""
