@@ -1,0 +1,59 @@
+code_url = "https://github.com/mysociety/acts_as_versioned"
+description = "ActiveRecord plugin for versioning your models."
+git_url = "git://github.com/mysociety/acts_as_versioned.git"
+last_commit = "2022-12-21T12:57:53Z"
+name = "acts_as_versioned"
+organization_name = "mySociety"
+
+[github]
+allow_forking = true
+archived = false
+created_at = "2022-12-21T12:57:13Z"
+default_branch = "master"
+description = "ActiveRecord plugin for versioning your models."
+disabled = false
+fork = true
+forks_within = 0
+full_name = "mysociety/acts_as_versioned"
+has_discussions = false
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 580_787_111
+is_template = false
+language = "Ruby"
+name = "acts_as_versioned"
+node_id = "R_kgDOIp4bpw"
+open_issues_within = 0
+private = false
+pushed_within = "week"
+stargazers_within = 0
+topics = [ ]
+updated_within = "week"
+visibility = "public"
+watchers_within = 0
+web_commit_signoff_required = false
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 141_338
+  login = "mysociety"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE0MTMzOA=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  maintain = false
+  pull = true
+  push = false
+  triage = false

@@ -1,7 +1,7 @@
 code_url = "https://github.com/mysociety/alaveteli"
 description = "Provide a Freedom of Information request system for your jurisdiction"
 git_url = "git://github.com/mysociety/alaveteli.git"
-last_commit = "2022-12-19T17:37:03Z"
+last_commit = "2022-12-21T15:56:57Z"
 link_url = "https://alaveteli.org"
 name = "alaveteli"
 organization_name = "mySociety"
@@ -44,7 +44,7 @@ topics = [
   "freedom-of-information",
   "right-to-know"
 ]
-updated_within = "week"
+updated_within = "month"
 visibility = "public"
 watchers_within = 1_000
 web_commit_signoff_required = false
