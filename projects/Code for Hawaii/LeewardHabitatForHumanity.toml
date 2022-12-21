@@ -1,7 +1,7 @@
 code_url = "https://github.com/CodeforHawaii/LeewardHabitatForHumanity"
 description = "Supporting Leeward Oahu Habitat for Humanity"
 git_url = "git://github.com/CodeforHawaii/LeewardHabitatForHumanity.git"
-last_commit = "2022-12-19T07:57:26Z"
+last_commit = "2022-12-21T10:06:29Z"
 name = "LeewardHabitatForHumanity"
 organization_name = "Code for Hawaii"
 
@@ -15,7 +15,7 @@ disabled = false
 fork = false
 forks_within = 0
 full_name = "CodeforHawaii/LeewardHabitatForHumanity"
-has_discussions = false
+has_discussions = true
 has_downloads = true
 has_issues = true
 has_pages = false
