@@ -1,7 +1,7 @@
 code_url = "https://github.com/codeforamerica/speedlify-cfa"
 description = "A leader board of sites based on performance metrics."
 git_url = "git://github.com/codeforamerica/speedlify-cfa.git"
-last_commit = "2022-04-19T22:35:47Z"
+last_commit = "2022-12-21T17:34:15Z"
 link_url = "https://speedlify.codeforamerica.org/"
 name = "speedlify-cfa"
 organization_name = "Code for America"
@@ -31,7 +31,7 @@ name = "speedlify-cfa"
 node_id = "MDEwOlJlcG9zaXRvcnkyOTg1Mzg0OTc="
 open_issues_within = 0
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ "a11y", "netlify", "performance", "speedlify" ]
 updated_within = "year"
