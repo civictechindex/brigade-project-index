@@ -1,7 +1,7 @@
 code_url = "https://github.com/openelections/openelections-sources-ny"
 description = "Source files for New York results"
 git_url = "git://github.com/openelections/openelections-sources-ny.git"
-last_commit = "2021-03-02T22:17:01Z"
+last_commit = "2022-12-20T23:44:03Z"
 name = "openelections-sources-ny"
 organization_name = "Open Elections"
 
@@ -28,10 +28,10 @@ name = "openelections-sources-ny"
 node_id = "MDEwOlJlcG9zaXRvcnk1NjgwNjczNw=="
 open_issues_within = 10
 private = false
-pushed_within = "over_a_year"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
-updated_within = "over_a_year"
+updated_within = "week"
 visibility = "public"
 watchers_within = 10
 web_commit_signoff_required = false
