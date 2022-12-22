@@ -1,7 +1,10 @@
 code_url = "https://github.com/Code-For-Chicago/rescue-chicago"
+description = "Repository for work related to a interactive data dashboard that can be used to analyze how different dog characteristics may correlate with average length of stay in a shelter prior to adoption."
 git_branch = "main"
 git_url = "git://github.com/Code-For-Chicago/rescue-chicago.git"
 last_pushed_within = "week"
+link_url = "https://codeforchicago-rescuechi.herokuapp.com/"
 name = "rescue-chicago"
 open_issues_within = 100
 organization_name = "Code for Chicago"
+topics = [ "data-visualization", "pandas", "python" ]
