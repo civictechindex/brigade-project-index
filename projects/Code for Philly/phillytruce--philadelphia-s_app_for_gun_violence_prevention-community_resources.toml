@@ -1,6 +1,6 @@
 code_url = "https://github.com/GTTPortal/phillytruce"
 description = "PHILLY TRUCE: Mediation, Referral and Peace Patrol (or Street Outreach) are the primary services we provide."
-last_commit = "2021-07-28T12:09:29Z"
+last_commit = "2022-12-22T06:29:59Z"
 link_url = "https://www.instagram.com/phillytruce/?hl=en"
 name = "phillytruce--philadelphia-s_app_for_gun_violence_prevention-community_resources"
 organization_name = "Code for Philly"
@@ -31,7 +31,7 @@ network_count = 0
 node_id = "MDEwOlJlcG9zaXRvcnkzOTAzMjI5Mzk="
 open_issues_within = 10
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 0
 subscribers_count = 2
 temp_clone_token = ""
@@ -39,7 +39,13 @@ topics = [ ]
 updated_within = "year"
 visibility = "public"
 watchers_within = 0
-web_commit_signoff_required = false
+web_commit_signoff_required = true
+
+  [github.license]
+  key = "agpl-3.0"
+  name = "GNU Affero General Public License v3.0"
+  node_id = "MDc6TGljZW5zZTE="
+  spdx_id = "AGPL-3.0"
 
   [github.owner]
   gravatar_id = ""
