@@ -1,14 +1,18 @@
 code_url = "https://github.com/Code-For-Chicago/rescue-chicago"
+description = "Repository for work related to a interactive data dashboard that can be used to analyze how different dog characteristics may correlate with average length of stay in a shelter prior to adoption."
 git_url = "git://github.com/Code-For-Chicago/rescue-chicago.git"
 last_commit = "2022-12-20T19:41:39Z"
+link_url = "https://codeforchicago-rescuechi.herokuapp.com/"
 name = "rescue-chicago"
 organization_name = "Code for Chicago"
+topics = [ "data-visualization", "pandas", "python" ]
 
 [github]
 allow_forking = true
 archived = false
 created_at = "2022-11-10T01:56:14Z"
 default_branch = "main"
+description = "Repository for work related to a interactive data dashboard that can be used to analyze how different dog characteristics may correlate with average length of stay in a shelter prior to adoption."
 disabled = false
 fork = false
 forks_within = 0
@@ -19,6 +23,7 @@ has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = true
+homepage = "https://codeforchicago-rescuechi.herokuapp.com/"
 id = 564_103_667
 is_template = false
 language = "Jupyter Notebook"
@@ -28,8 +33,8 @@ open_issues_within = 100
 private = false
 pushed_within = "week"
 stargazers_within = 0
-topics = [ ]
-updated_within = "year"
+topics = [ "data-visualization", "pandas", "python" ]
+updated_within = "week"
 visibility = "public"
 watchers_within = 0
 web_commit_signoff_required = false
