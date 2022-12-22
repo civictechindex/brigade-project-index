@@ -42,7 +42,7 @@ name = "tdm-calculator"
 node_id = "MDEwOlJlcG9zaXRvcnkxOTc0NTI0NTk="
 open_issues_within = 100
 private = false
-pushed_within = "month"
+pushed_within = "week"
 score = 1
 stargazers_within = 100
 topics = [
@@ -58,7 +58,7 @@ topics = [
   "traffic-demand-management",
   "transportation"
 ]
-updated_within = "month"
+updated_within = "year"
 visibility = "public"
 watchers_within = 100
 web_commit_signoff_required = false
