@@ -1,7 +1,7 @@
 code_url = "https://github.com/codeforgermany/click_that_hood"
 description = "A game where users must identify a city's neighborhoods as fast as possible"
 git_url = "git://github.com/codeforgermany/click_that_hood.git"
-last_commit = "2022-08-03T14:48:43Z"
+last_commit = "2022-12-22T21:57:55Z"
 link_url = "http://click-that-hood.com"
 name = "click_that_hood"
 organization_name = "Code for Germany"
@@ -30,7 +30,7 @@ name = "click_that_hood"
 node_id = "MDEwOlJlcG9zaXRvcnk3OTY4MjUz"
 open_issues_within = 100
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 1_000
 topics = [ ]
 updated_within = "week"
