@@ -1,6 +1,6 @@
 code_url = "https://github.com/OpenUpSA/presidential-employment-stimulus"
 git_url = "git://github.com/OpenUpSA/presidential-employment-stimulus.git"
-last_commit = "2022-10-02T14:02:27Z"
+last_commit = "2022-12-22T16:07:18Z"
 name = "presidential-employment-stimulus"
 organization_name = "OpenUp"
 
@@ -26,7 +26,7 @@ name = "presidential-employment-stimulus"
 node_id = "MDEwOlJlcG9zaXRvcnkzNDExNjg5OTg="
 open_issues_within = 10
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
 updated_within = "year"
