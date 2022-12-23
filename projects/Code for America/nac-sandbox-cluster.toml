@@ -1,7 +1,7 @@
 code_url = "https://github.com/codeforamerica/nac-sandbox-cluster"
 description = "An experimental Kubernetes cluster for some NAC-owned deployments"
 git_url = "git://github.com/codeforamerica/nac-sandbox-cluster.git"
-last_commit = "2022-06-29T00:22:15Z"
+last_commit = "2022-12-23T02:03:41Z"
 link_url = "https://codeforamerica.github.io/nac-sandbox-cluster/"
 name = "nac-sandbox-cluster"
 organization_name = "Code for America"
@@ -29,7 +29,7 @@ name = "nac-sandbox-cluster"
 node_id = "MDEwOlJlcG9zaXRvcnkzNzUxNTQyNDA="
 open_issues_within = 0
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
 updated_within = "over_a_year"
