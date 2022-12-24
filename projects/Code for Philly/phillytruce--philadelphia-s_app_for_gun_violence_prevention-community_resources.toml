@@ -16,7 +16,7 @@ description = "PHILLY TRUCE APP"
 disabled = false
 fork = false
 forks_within = 0
-full_name = "GTTPortal/phillytruce"
+full_name = "PHILLY-TRUCE-FOUNDATION/phillytruce"
 has_discussions = false
 has_downloads = true
 has_issues = true
@@ -50,7 +50,7 @@ web_commit_signoff_required = true
   [github.owner]
   gravatar_id = ""
   id = 88_089_257
-  login = "GTTPortal"
+  login = "PHILLY-TRUCE-FOUNDATION"
   node_id = "MDQ6VXNlcjg4MDg5MjU3"
   site_admin = false
   type = "User"
