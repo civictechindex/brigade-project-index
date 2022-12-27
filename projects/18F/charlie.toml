@@ -4,7 +4,6 @@ git_url = "git://github.com/18F/charlie.git"
 last_commit = "2022-12-21T18:54:32Z"
 name = "charlie"
 organization_name = "18F"
-topics = [ "maintained" ]
 
 [github]
 allow_forking = true
@@ -32,8 +31,8 @@ open_issues_within = 10
 private = false
 pushed_within = "week"
 stargazers_within = 100
-topics = [ "maintained" ]
-updated_within = "month"
+topics = [ ]
+updated_within = "week"
 visibility = "public"
 watchers_within = 100
 web_commit_signoff_required = false
