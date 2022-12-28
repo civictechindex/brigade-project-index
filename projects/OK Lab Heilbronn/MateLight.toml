@@ -1,7 +1,7 @@
 code_url = "https://github.com/opendata-heilbronn/MateLight"
 description = "A blinking wall of Mate bottles"
 git_url = "git://github.com/opendata-heilbronn/MateLight.git"
-last_commit = "2022-09-10T08:24:49Z"
+last_commit = "2022-12-28T16:21:35Z"
 link_url = "https://matelight.de"
 name = "MateLight"
 organization_name = "OK Lab Heilbronn"
@@ -30,7 +30,7 @@ name = "MateLight"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDUyMDMyMzU="
 open_issues_within = 10
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
 updated_within = "year"
