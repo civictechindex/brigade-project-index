@@ -1,0 +1,7 @@
+code_url = "https://github.com/codeforpakistan/mna-attendance"
+description = "Dowload, parse, and compile Pakistan MNA attendance records"
+git_branch = "main"
+git_url = "git://github.com/codeforpakistan/mna-attendance.git"
+last_pushed_within = "week"
+name = "mna-attendance"
+organization_name = "Code for Pakistan"
