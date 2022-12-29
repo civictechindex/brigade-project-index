@@ -1,7 +1,6 @@
 code_url = "https://github.com/codeforkansascity/address-api"
 description = "A address database accessible through an API that will return attributes about the address, neighborhood, council district, zoning..."
 git_url = "git://github.com/codeforkansascity/address-api.git"
-last_commit = "2020-07-21T01:52:14Z"
 link_url = "http://address-api.codeforkc.org"
 name = "address-api"
 organization_name = "KC Digital Drive"
