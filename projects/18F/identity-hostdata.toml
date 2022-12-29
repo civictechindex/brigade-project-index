@@ -1,7 +1,7 @@
 code_url = "https://github.com/18F/identity-hostdata"
 description = "Ruby gem to help read per-host configs"
 git_url = "git://github.com/18F/identity-hostdata.git"
-last_commit = "2021-12-29T19:23:28Z"
+last_commit = "2022-12-29T00:37:36Z"
 name = "identity-hostdata"
 organization_name = "18F"
 
@@ -26,7 +26,7 @@ is_template = false
 language = "Ruby"
 name = "identity-hostdata"
 node_id = "MDEwOlJlcG9zaXRvcnkxMDQzODI4NTI="
-open_issues_within = 10
+open_issues_within = 0
 private = false
 pushed_within = "week"
 stargazers_within = 10
