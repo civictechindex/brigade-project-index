@@ -1,7 +1,7 @@
 code_url = "https://github.com/openelections/openelections-data-tx"
 description = "Pre-processed results for Texas elections"
 git_url = "git://github.com/openelections/openelections-data-tx.git"
-last_commit = "2022-10-24T00:09:04Z"
+last_commit = "2022-12-30T17:58:00Z"
 name = "openelections-data-tx"
 organization_name = "Open Elections"
 
@@ -28,7 +28,7 @@ name = "openelections-data-tx"
 node_id = "MDEwOlJlcG9zaXRvcnk1MTcyMDg0Ng=="
 open_issues_within = 100
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 100
 topics = [ ]
 updated_within = "year"
