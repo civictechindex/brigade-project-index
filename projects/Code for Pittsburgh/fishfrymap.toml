@@ -1,7 +1,7 @@
 code_url = "https://github.com/CodeForPittsburgh/fishfrymap"
 description = "Fish Fry Map project repository"
 git_url = "git://github.com/CodeForPittsburgh/fishfrymap.git"
-last_commit = "2022-01-01T16:43:20Z"
+last_commit = "2023-01-01T16:54:40Z"
 link_url = "https://fishfry.codeforpgh.com/map"
 name = "fishfrymap"
 organization_name = "Code for Pittsburgh"
@@ -47,7 +47,7 @@ name = "fishfrymap"
 node_id = "MDEwOlJlcG9zaXRvcnk3NzY0NDM4Nw=="
 open_issues_within = 10
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 100
 topics = [
   "bootleaf",
