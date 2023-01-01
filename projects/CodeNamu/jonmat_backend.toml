@@ -1,5 +1,6 @@
 code_url = "https://github.com/codeforseoul/jonmat_backend"
 git_url = "git://github.com/codeforseoul/jonmat_backend.git"
+last_commit = "2016-03-05T06:39:28Z"
 name = "jonmat_backend"
 organization_name = "CodeNamu"
 
@@ -7,7 +8,7 @@ organization_name = "CodeNamu"
 allow_forking = true
 archived = false
 created_at = "2016-03-05T05:49:14Z"
-default_branch = "main"
+default_branch = "master"
 disabled = false
 fork = false
 forks_within = 0
