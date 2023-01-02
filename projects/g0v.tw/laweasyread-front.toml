@@ -1,7 +1,7 @@
 code_url = "https://github.com/g0v/laweasyread-front"
 description = "an extension for browsers to view Taiwan's law articles/websites easier"
 git_url = "git://github.com/g0v/laweasyread-front.git"
-last_commit = "2023-01-02T03:40:15Z"
+last_commit = "2023-01-02T11:03:10Z"
 link_url = "http://hack.g0v.tw/laweasyread"
 name = "laweasyread-front"
 organization_name = "g0v.tw"
@@ -33,7 +33,7 @@ private = false
 pushed_within = "week"
 stargazers_within = 100
 topics = [ ]
-updated_within = "year"
+updated_within = "week"
 visibility = "public"
 watchers_within = 100
 web_commit_signoff_required = false
