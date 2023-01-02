@@ -1,7 +1,7 @@
 code_url = "https://github.com/openelections/openelections-data-ca"
 description = "Pre-processed election results for California elections"
 git_url = "git://github.com/openelections/openelections-data-ca.git"
-last_commit = "2022-10-13T00:39:47Z"
+last_commit = "2023-01-02T18:44:28Z"
 name = "openelections-data-ca"
 organization_name = "Open Elections"
 topics = [ "california-elections", "openelections-data" ]
@@ -29,7 +29,7 @@ name = "openelections-data-ca"
 node_id = "MDEwOlJlcG9zaXRvcnk0MDgzMDcxMA=="
 open_issues_within = 100
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 100
 topics = [ "california-elections", "openelections-data" ]
 updated_within = "month"

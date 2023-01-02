@@ -1,7 +1,7 @@
 code_url = "https://github.com/openelections/openelections-data-al"
 description = "Pre-processed results for Alabama elections"
 git_url = "git://github.com/openelections/openelections-data-al.git"
-last_commit = "2022-10-13T00:40:08Z"
+last_commit = "2023-01-02T18:25:10Z"
 name = "openelections-data-al"
 organization_name = "Open Elections"
 
@@ -28,7 +28,7 @@ name = "openelections-data-al"
 node_id = "MDEwOlJlcG9zaXRvcnk3Nzk2OTk5Mg=="
 open_issues_within = 10
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 0
 topics = [ ]
 updated_within = "over_a_year"
