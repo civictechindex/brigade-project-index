@@ -1,7 +1,7 @@
 code_url = "https://github.com/g0v/laweasyread-front"
 description = "an extension for browsers to view Taiwan's law articles/websites easier"
 git_url = "git://github.com/g0v/laweasyread-front.git"
-last_commit = "2022-08-28T08:33:19Z"
+last_commit = "2023-01-02T03:40:15Z"
 link_url = "http://hack.g0v.tw/laweasyread"
 name = "laweasyread-front"
 organization_name = "g0v.tw"
@@ -10,7 +10,7 @@ organization_name = "g0v.tw"
 allow_forking = true
 archived = false
 created_at = "2013-08-09T12:27:44Z"
-default_branch = "v1.x"
+default_branch = "v2.x"
 description = "an extension for browsers to view Taiwan's law articles/websites easier"
 disabled = false
 fork = true
@@ -39,10 +39,10 @@ watchers_within = 100
 web_commit_signoff_required = false
 
   [github.license]
-  key = "mit"
-  name = "MIT License"
-  node_id = "MDc6TGljZW5zZTEz"
-  spdx_id = "MIT"
+  key = "other"
+  name = "Other"
+  node_id = "MDc6TGljZW5zZTA="
+  spdx_id = "NOASSERTION"
 
   [github.owner]
   gravatar_id = ""
