@@ -1,7 +1,7 @@
 code_url = "https://github.com/openelections/openelections-data-ga"
 description = "Pre-processed raw election results for Georgia election results"
 git_url = "git://github.com/openelections/openelections-data-ga.git"
-last_commit = "2023-01-02T18:49:45Z"
+last_commit = "2023-01-03T02:36:49Z"
 name = "openelections-data-ga"
 organization_name = "Open Elections"
 topics = [ "georgia-election", "hacktoberfest" ]
