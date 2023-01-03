@@ -1,7 +1,7 @@
 code_url = "https://github.com/opensandiego/sdvv-backend"
 description = "Backend repository for Voter's Voice website. "
 git_url = "git://github.com/opensandiego/sdvv-backend.git"
-last_commit = "2023-01-01T02:43:52Z"
+last_commit = "2023-01-03T04:01:14Z"
 name = "sdvv-backend"
 organization_name = "Open San Diego"
 
@@ -26,7 +26,7 @@ is_template = false
 language = "TypeScript"
 name = "sdvv-backend"
 node_id = "MDEwOlJlcG9zaXRvcnkyMzg2MzI0Mjk="
-open_issues_within = 10
+open_issues_within = 0
 private = false
 pushed_within = "week"
 stargazers_within = 0
