@@ -1,6 +1,6 @@
 code_url = "https://github.com/code4romania/war-taskforce-k8s"
 git_url = "git://github.com/code4romania/war-taskforce-k8s.git"
-last_commit = "2022-09-28T12:46:10Z"
+last_commit = "2023-01-03T16:04:42Z"
 name = "war-taskforce-k8s"
 organization_name = "Code for Romania: Iasi Chapter"
 
@@ -25,7 +25,7 @@ name = "war-taskforce-k8s"
 node_id = "R_kgDOG8hOtg"
 open_issues_within = 10
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 0
 topics = [ ]
 updated_within = "year"
