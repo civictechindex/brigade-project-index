@@ -1,7 +1,7 @@
 code_url = "https://github.com/openelections/openelections-data-ct"
 description = "Pre-processed election results for Connecticut elections"
 git_url = "git://github.com/openelections/openelections-data-ct.git"
-last_commit = "2022-10-14T11:03:12Z"
+last_commit = "2023-01-04T01:35:58Z"
 name = "openelections-data-ct"
 organization_name = "Open Elections"
 
@@ -27,7 +27,7 @@ name = "openelections-data-ct"
 node_id = "MDEwOlJlcG9zaXRvcnkzNzQ2MzgzOQ=="
 open_issues_within = 10
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
 updated_within = "over_a_year"

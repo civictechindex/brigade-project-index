@@ -1,7 +1,7 @@
 code_url = "https://github.com/openelections/openelections-data-dc"
 description = "Pre-processed election results for District of Columbia elections"
 git_url = "git://github.com/openelections/openelections-data-dc.git"
-last_commit = "2022-10-14T11:03:02Z"
+last_commit = "2023-01-04T01:36:08Z"
 name = "openelections-data-dc"
 organization_name = "Open Elections"
 
@@ -28,7 +28,7 @@ name = "openelections-data-dc"
 node_id = "MDEwOlJlcG9zaXRvcnk0MTI3NTAyMA=="
 open_issues_within = 10
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 0
 topics = [ ]
 updated_within = "over_a_year"
