@@ -1,6 +1,6 @@
 code_url = "https://github.com/CodeforLeipzig/klimawatch-leipzig-vue"
 git_url = "git://github.com/CodeforLeipzig/klimawatch-leipzig-vue.git"
-last_commit = "2022-11-09T20:44:19Z"
+last_commit = "2023-01-04T19:20:48Z"
 name = "klimawatch-leipzig-vue"
 organization_name = "OK Lab Leipzig"
 
@@ -21,14 +21,15 @@ has_projects = true
 has_wiki = true
 id = 561_047_483
 is_template = false
+language = "Vue"
 name = "klimawatch-leipzig-vue"
 node_id = "R_kgDOIXDnuw"
 open_issues_within = 0
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 0
 topics = [ ]
-updated_within = "year"
+updated_within = "week"
 visibility = "public"
 watchers_within = 0
 web_commit_signoff_required = false
