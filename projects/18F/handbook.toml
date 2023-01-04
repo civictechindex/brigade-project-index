@@ -1,7 +1,7 @@
 code_url = "https://github.com/18F/handbook"
 description = "The home of policies and guidelines that make up TTS."
 git_url = "git://github.com/18F/handbook.git"
-last_commit = "2023-01-03T16:02:55Z"
+last_commit = "2023-01-04T14:37:07Z"
 link_url = "https://handbook.tts.gsa.gov/"
 name = "handbook"
 organization_name = "18F"
@@ -26,7 +26,7 @@ has_wiki = false
 homepage = "https://handbook.tts.gsa.gov/"
 id = 69_692_928
 is_template = false
-language = "JavaScript"
+language = "HTML"
 name = "handbook"
 node_id = "MDEwOlJlcG9zaXRvcnk2OTY5MjkyOA=="
 open_issues_within = 100
