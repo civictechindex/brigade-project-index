@@ -1,7 +1,7 @@
 code_url = "https://github.com/BetaNYC/batch-geocoder-nyc"
 description = "Batch geocoder for nyc. Fueled by Planning Lab's GeoSearch. Inspired by Erik Willems' Batch geocoder for journalists."
 git_url = "git://github.com/BetaNYC/batch-geocoder-nyc.git"
-last_commit = "2023-01-03T02:42:18Z"
+last_commit = "2023-01-04T03:19:15Z"
 link_url = "https://www.geocoder.nyc"
 name = "batch-geocoder-nyc"
 organization_name = "BetaNYC"
@@ -10,7 +10,7 @@ organization_name = "BetaNYC"
 allow_forking = true
 archived = false
 created_at = "2020-04-20T03:44:28Z"
-default_branch = "master"
+default_branch = "main"
 description = "Batch geocoder for nyc. Fueled by Planning Lab's GeoSearch. Inspired by Erik Willems' Batch geocoder for journalists."
 disabled = false
 fork = false
@@ -28,7 +28,7 @@ is_template = false
 language = "Svelte"
 name = "batch-geocoder-nyc"
 node_id = "MDEwOlJlcG9zaXRvcnkyNTcxNjQxNjg="
-open_issues_within = 100
+open_issues_within = 10
 private = false
 pushed_within = "week"
 stargazers_within = 10
