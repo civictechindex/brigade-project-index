@@ -1,6 +1,7 @@
 code_url = "https://github.com/codeforUV/ruralnet"
+description = "This project has moved to https://github.com/codeforUV/ruralnetv2"
 git_url = "git://github.com/codeforUV/ruralnet.git"
-last_commit = "2021-10-25T23:05:11Z"
+last_commit = "2023-01-05T11:36:21Z"
 name = "ruralnet"
 organization_name = "Code for Upper Valley"
 topics = [ "internet" ]
@@ -10,6 +11,7 @@ allow_forking = true
 archived = false
 created_at = "2020-07-23T22:35:40Z"
 default_branch = "master"
+description = "This project has moved to https://github.com/codeforUV/ruralnetv2"
 disabled = false
 fork = false
 forks_within = 10
@@ -28,7 +30,7 @@ name = "ruralnet"
 node_id = "MDEwOlJlcG9zaXRvcnkyODIwNzA2MTE="
 open_issues_within = 0
 private = false
-pushed_within = "over_a_year"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ "internet" ]
 updated_within = "week"
