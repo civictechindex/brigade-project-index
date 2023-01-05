@@ -1,7 +1,7 @@
 code_url = "https://github.com/codeforamerica/form-flow-starter-app"
 description = "A Java Spring Boot starter app that uses the form-flow library."
 git_url = "git://github.com/codeforamerica/form-flow-starter-app.git"
-last_commit = "2023-01-04T22:47:04Z"
+last_commit = "2023-01-05T00:09:35Z"
 name = "form-flow-starter-app"
 organization_name = "Code for America"
 
@@ -27,7 +27,7 @@ is_template = true
 language = "JavaScript"
 name = "form-flow-starter-app"
 node_id = "R_kgDOICmgMg"
-open_issues_within = 10
+open_issues_within = 0
 private = false
 pushed_within = "week"
 stargazers_within = 10
