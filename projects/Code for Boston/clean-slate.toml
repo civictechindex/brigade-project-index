@@ -33,7 +33,7 @@ name = "clean-slate"
 node_id = "MDEwOlJlcG9zaXRvcnkzMzExNjU1MDI="
 open_issues_within = 100
 private = false
-pushed_within = "year"
+pushed_within = "over_a_year"
 stargazers_within = 10
 topics = [
   "code-for-america",
@@ -42,7 +42,7 @@ topics = [
   "expungement",
   "record-sealing"
 ]
-updated_within = "year"
+updated_within = "over_a_year"
 visibility = "public"
 watchers_within = 10
 web_commit_signoff_required = false
