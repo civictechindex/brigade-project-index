@@ -1,7 +1,7 @@
 code_url = "https://github.com/openelections/openelections-data-il"
 description = "Raw and pre-processed election results from Illinois"
 git_url = "git://github.com/openelections/openelections-data-il.git"
-last_commit = "2022-10-15T23:48:46Z"
+last_commit = "2023-01-05T01:11:17Z"
 name = "openelections-data-il"
 organization_name = "Open Elections"
 
@@ -28,7 +28,7 @@ name = "openelections-data-il"
 node_id = "MDEwOlJlcG9zaXRvcnkzMjYxNjU1OQ=="
 open_issues_within = 0
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
 updated_within = "year"
