@@ -1,7 +1,8 @@
 code_url = "https://github.com/codeforUV/ruralnet"
+description = "This project has moved to https://github.com/codeforUV/ruralnetv2"
 git_branch = "master"
 git_url = "git://github.com/codeforUV/ruralnet.git"
-last_pushed_within = "over_a_year"
+last_pushed_within = "week"
 name = "ruralnet"
 organization_name = "Code for Upper Valley"
 topics = [ "internet" ]

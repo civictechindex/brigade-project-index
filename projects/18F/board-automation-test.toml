@@ -1,0 +1,8 @@
+code_url = "https://github.com/18F/board-automation-test"
+description = "Temporary repo for testing automations"
+git_branch = "main"
+git_url = "git://github.com/18F/board-automation-test.git"
+last_pushed_within = "week"
+name = "board-automation-test"
+open_issues_within = 10
+organization_name = "18F"
