@@ -1,6 +1,6 @@
 code_url = "https://github.com/hackforla/guides"
 git_url = "git://github.com/hackforla/guides.git"
-last_commit = "2022-04-01T14:46:52Z"
+last_commit = "2023-01-06T02:04:18Z"
 name = "guides"
 organization_name = "Hack for LA Brigade"
 topics = [ "hack-for-la" ]
@@ -27,7 +27,7 @@ name = "guides"
 node_id = "MDEwOlJlcG9zaXRvcnkzODYzMjMwNjE="
 open_issues_within = 100
 private = false
-pushed_within = "year"
+pushed_within = "week"
 score = 1
 stargazers_within = 10
 topics = [ "hack-for-la" ]
