@@ -1,6 +1,6 @@
 code_url = "https://github.com/codeforamerica/cmr-entity-verify-script"
 git_url = "git://github.com/codeforamerica/cmr-entity-verify-script.git"
-last_commit = "2023-01-06T17:18:07Z"
+last_commit = "2023-01-06T18:39:35Z"
 name = "cmr-entity-verify-script"
 organization_name = "Code for America"
 
@@ -24,7 +24,7 @@ is_template = false
 language = "Python"
 name = "cmr-entity-verify-script"
 node_id = "R_kgDOIn-a7g"
-open_issues_within = 0
+open_issues_within = 10
 private = false
 pushed_within = "week"
 stargazers_within = 0
