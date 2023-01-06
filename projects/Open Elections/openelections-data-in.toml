@@ -1,7 +1,7 @@
 code_url = "https://github.com/openelections/openelections-data-in"
 description = "Pre-processed election results for Indiana elections"
 git_url = "git://github.com/openelections/openelections-data-in.git"
-last_commit = "2022-10-16T16:52:11Z"
+last_commit = "2023-01-06T17:27:02Z"
 name = "openelections-data-in"
 organization_name = "Open Elections"
 
@@ -28,7 +28,7 @@ name = "openelections-data-in"
 node_id = "MDEwOlJlcG9zaXRvcnk0MjA2ODk0Nw=="
 open_issues_within = 10
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
 updated_within = "year"
