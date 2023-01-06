@@ -1,0 +1,58 @@
+code_url = "https://github.com/codeforgso/system-design-primer"
+description = "Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards."
+git_url = "git://github.com/codeforgso/system-design-primer.git"
+last_commit = "2022-12-11T20:06:51Z"
+name = "system-design-primer"
+organization_name = "Code for Greensboro"
+
+[github]
+allow_forking = true
+archived = false
+created_at = "2023-01-06T14:55:21Z"
+default_branch = "master"
+description = "Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards."
+disabled = false
+fork = true
+forks_within = 0
+full_name = "codeforgso/system-design-primer"
+has_discussions = false
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 585_958_028
+is_template = false
+name = "system-design-primer"
+node_id = "R_kgDOIu0CjA"
+open_issues_within = 0
+private = false
+pushed_within = "week"
+stargazers_within = 0
+topics = [ ]
+updated_within = "week"
+visibility = "public"
+watchers_within = 0
+web_commit_signoff_required = false
+
+  [github.license]
+  key = "other"
+  name = "Other"
+  node_id = "MDc6TGljZW5zZTA="
+  spdx_id = "NOASSERTION"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 11_655_503
+  login = "codeforgso"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjExNjU1NTAz"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  maintain = false
+  pull = true
+  push = false
+  triage = false
