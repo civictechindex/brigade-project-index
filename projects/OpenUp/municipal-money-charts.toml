@@ -3,5 +3,5 @@ git_branch = "main"
 git_url = "git://github.com/OpenUpSA/municipal-money-charts.git"
 last_pushed_within = "week"
 name = "municipal-money-charts"
-open_issues_within = 10
+open_issues_within = 100
 organization_name = "OpenUp"
