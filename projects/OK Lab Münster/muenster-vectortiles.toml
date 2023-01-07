@@ -1,6 +1,7 @@
 code_url = "https://github.com/codeformuenster/muenster-vectortiles"
 description = "POC for MVT tile generation, based on Github workflow, tilemaker and osmctools. Updates hourly."
 git_url = "git://github.com/codeformuenster/muenster-vectortiles.git"
+last_commit = "2021-12-04T20:14:47Z"
 link_url = "https://typebrook.github.io/mapstew"
 name = "muenster-vectortiles"
 organization_name = "OK Lab Münster"
