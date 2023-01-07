@@ -1,7 +1,7 @@
 code_url = "https://github.com/codeforcroatia/zero"
 description = "Short URL service for Code for Croatia"
 git_url = "git://github.com/codeforcroatia/zero.git"
-last_commit = "2022-09-01T07:19:43Z"
+last_commit = "2023-01-07T07:53:45Z"
 name = "zero"
 organization_name = "Code for Croatia"
 topics = [ "jekyll" ]
@@ -27,9 +27,9 @@ is_template = false
 language = "HTML"
 name = "zero"
 node_id = "MDEwOlJlcG9zaXRvcnkxMzU3OTkxNDY="
-open_issues_within = 10
+open_issues_within = 0
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 0
 topics = [ "jekyll" ]
 updated_within = "year"
