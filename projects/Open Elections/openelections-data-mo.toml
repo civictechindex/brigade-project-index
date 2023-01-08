@@ -1,7 +1,7 @@
 code_url = "https://github.com/openelections/openelections-data-mo"
 description = "Pre-processed election results for Missouri elections"
 git_url = "git://github.com/openelections/openelections-data-mo.git"
-last_commit = "2022-10-18T02:26:36Z"
+last_commit = "2023-01-07T22:47:44Z"
 name = "openelections-data-mo"
 organization_name = "Open Elections"
 
@@ -28,7 +28,7 @@ name = "openelections-data-mo"
 node_id = "MDEwOlJlcG9zaXRvcnk0NTMxODY0OA=="
 open_issues_within = 100
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
 updated_within = "year"
