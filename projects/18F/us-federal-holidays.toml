@@ -1,7 +1,7 @@
 code_url = "https://github.com/18F/us-federal-holidays"
 description = "A Node.js package for getting US federal holidays for a given year, or determining if a date is a federal holiday."
 git_url = "git://github.com/18F/us-federal-holidays.git"
-last_commit = "2022-09-26T21:02:19Z"
+last_commit = "2023-01-09T16:30:41Z"
 name = "us-federal-holidays"
 organization_name = "18F"
 
@@ -26,7 +26,7 @@ is_template = false
 language = "JavaScript"
 name = "us-federal-holidays"
 node_id = "MDEwOlJlcG9zaXRvcnk1MjY4ODM4Mg=="
-open_issues_within = 10
+open_issues_within = 0
 private = false
 pushed_within = "week"
 stargazers_within = 100
