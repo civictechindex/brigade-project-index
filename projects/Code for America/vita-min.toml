@@ -1,7 +1,7 @@
 code_url = "https://github.com/codeforamerica/vita-min"
 description = "Get Your Refund & GetCTC code, originally named b/c it helps VITA in a minimal way"
 git_url = "git://github.com/codeforamerica/vita-min.git"
-last_commit = "2023-01-06T22:21:00Z"
+last_commit = "2023-01-09T19:42:34Z"
 name = "vita-min"
 organization_name = "Code for America"
 topics = [ "get-your-refund", "gyr" ]
@@ -33,7 +33,7 @@ private = false
 pushed_within = "week"
 stargazers_within = 100
 topics = [ "get-your-refund", "gyr" ]
-updated_within = "month"
+updated_within = "week"
 visibility = "public"
 watchers_within = 100
 web_commit_signoff_required = false
