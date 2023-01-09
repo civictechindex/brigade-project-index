@@ -4,6 +4,7 @@ git_branch = "master"
 last_pushed_within = "over_a_year"
 link_url = "https://play.google.com/store/apps/details?id=name.jugglerdave.minimalindego"
 name = "minimal_blue_bikes_philly"
+open_issues_within = 10
 organization_name = "Code for Philly"
 status = "Maintaining"
 topics = [ "bike sharing", "Biking", "Cycling", "Transportation" ]
