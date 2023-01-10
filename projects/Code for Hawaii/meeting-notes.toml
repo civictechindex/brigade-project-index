@@ -1,7 +1,7 @@
 code_url = "https://github.com/CodeforHawaii/meeting-notes"
 description = "Meeting Notes"
 git_url = "git://github.com/CodeforHawaii/meeting-notes.git"
-last_commit = "2022-12-20T07:15:40Z"
+last_commit = "2023-01-10T06:06:58Z"
 name = "meeting-notes"
 organization_name = "Code for Hawaii"
 
@@ -27,7 +27,7 @@ name = "meeting-notes"
 node_id = "R_kgDOHgFoCQ"
 open_issues_within = 0
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 0
 topics = [ ]
 updated_within = "year"
