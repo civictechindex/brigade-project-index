@@ -1,7 +1,7 @@
 code_url = "https://github.com/codeforpakistan/airpak-backend"
 git_branch = "master"
 git_url = "git://github.com/codeforpakistan/airpak-backend.git"
-last_pushed_within = "month"
+last_pushed_within = "year"
 name = "airpak-backend"
 open_issues_within = 10
 organization_name = "Code for Pakistan"
