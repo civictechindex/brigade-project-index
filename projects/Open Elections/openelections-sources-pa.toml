@@ -1,7 +1,7 @@
 code_url = "https://github.com/openelections/openelections-sources-pa"
 description = "Source election results files from Pennsylvania"
 git_url = "git://github.com/openelections/openelections-sources-pa.git"
-last_commit = "2023-01-05T17:46:30Z"
+last_commit = "2023-01-09T20:47:28Z"
 name = "openelections-sources-pa"
 organization_name = "Open Elections"
 
@@ -31,7 +31,7 @@ private = false
 pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
-updated_within = "year"
+updated_within = "week"
 visibility = "public"
 watchers_within = 10
 web_commit_signoff_required = false
