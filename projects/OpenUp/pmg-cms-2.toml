@@ -44,7 +44,7 @@ topics = [
   "parliamentary-monitoring",
   "python"
 ]
-updated_within = "year"
+updated_within = "over_a_year"
 visibility = "public"
 watchers_within = 10
 web_commit_signoff_required = false
