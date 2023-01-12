@@ -1,7 +1,7 @@
 code_url = "https://github.com/18F/identity-loadtest"
 description = "Load testing infrastructure for the Login.gov IdP"
 git_url = "git://github.com/18F/identity-loadtest.git"
-last_commit = "2023-01-11T09:25:22Z"
+last_commit = "2023-01-11T22:45:44Z"
 name = "identity-loadtest"
 organization_name = "18F"
 
