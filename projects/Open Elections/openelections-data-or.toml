@@ -1,7 +1,7 @@
 code_url = "https://github.com/openelections/openelections-data-or"
 description = "Pre-processed results for Oregon elections"
 git_url = "git://github.com/openelections/openelections-data-or.git"
-last_commit = "2022-10-22T00:06:12Z"
+last_commit = "2023-01-12T01:49:26Z"
 name = "openelections-data-or"
 organization_name = "Open Elections"
 topics = [ "elections", "openelections-data", "oregon" ]
@@ -29,7 +29,7 @@ name = "openelections-data-or"
 node_id = "MDEwOlJlcG9zaXRvcnkzNTAwNDUzMA=="
 open_issues_within = 100
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 100
 topics = [ "elections", "openelections-data", "oregon" ]
 updated_within = "over_a_year"

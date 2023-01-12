@@ -1,7 +1,7 @@
 code_url = "https://github.com/openelections/openelections-data-oh"
 description = "Pre-processed election results from Ohio"
 git_url = "git://github.com/openelections/openelections-data-oh.git"
-last_commit = "2022-10-22T00:05:54Z"
+last_commit = "2023-01-12T01:48:46Z"
 name = "openelections-data-oh"
 organization_name = "Open Elections"
 topics = [ "elections", "ohio", "openelections" ]
@@ -29,7 +29,7 @@ name = "openelections-data-oh"
 node_id = "MDEwOlJlcG9zaXRvcnkzNDk0NTg4NQ=="
 open_issues_within = 10
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 100
 topics = [ "elections", "ohio", "openelections" ]
 updated_within = "year"

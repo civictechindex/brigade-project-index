@@ -1,7 +1,7 @@
 code_url = "https://github.com/openelections/openelections-data-ri"
 description = "Pre-processed election results from Rhode Island"
 git_url = "git://github.com/openelections/openelections-data-ri.git"
-last_commit = "2022-10-22T00:06:30Z"
+last_commit = "2023-01-12T01:49:52Z"
 name = "openelections-data-ri"
 organization_name = "Open Elections"
 
@@ -29,7 +29,7 @@ name = "openelections-data-ri"
 node_id = "MDEwOlJlcG9zaXRvcnkzMDExMjYyMw=="
 open_issues_within = 10
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 0
 topics = [ ]
 updated_within = "over_a_year"
