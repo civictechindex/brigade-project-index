@@ -1,7 +1,7 @@
 code_url = "https://github.com/CodeforLeipzig/leipzigmaps"
 git_url = "git://github.com/CodeforLeipzig/leipzigmaps.git"
 last_commit = "2023-01-08T10:15:36Z"
-link_url = "leipzig-maps.vercel.app"
+link_url = "https://codeforleipzig.github.io/leipzigmaps/"
 name = "leipzigmaps"
 organization_name = "OK Lab Leipzig"
 
@@ -20,7 +20,7 @@ has_issues = false
 has_pages = true
 has_projects = true
 has_wiki = true
-homepage = "leipzig-maps.vercel.app"
+homepage = "https://codeforleipzig.github.io/leipzigmaps/"
 id = 586_343_782
 is_template = false
 language = "JavaScript"
