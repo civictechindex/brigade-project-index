@@ -1,7 +1,7 @@
 code_url = "https://github.com/18F/product-guide"
 description = "A handbook for the 18F product team and to promote our product management best practices."
 git_url = "git://github.com/18F/product-guide.git"
-last_commit = "2022-06-22T18:36:08Z"
+last_commit = "2023-01-12T19:46:33Z"
 link_url = "https://product-guide.18f.gov"
 name = "product-guide"
 organization_name = "18F"
@@ -30,7 +30,7 @@ name = "product-guide"
 node_id = "MDEwOlJlcG9zaXRvcnk0ODM4NzM1OQ=="
 open_issues_within = 10
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 100
 topics = [ ]
 updated_within = "week"
