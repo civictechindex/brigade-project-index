@@ -1,6 +1,6 @@
 code_url = "https://github.com/18F/saml_idp"
 git_url = "git://github.com/18F/saml_idp.git"
-last_commit = "2022-10-04T15:56:37Z"
+last_commit = "2023-01-12T16:18:41Z"
 name = "saml_idp"
 organization_name = "18F"
 
@@ -26,7 +26,7 @@ name = "saml_idp"
 node_id = "MDEwOlJlcG9zaXRvcnk2NjAzMjU3MA=="
 open_issues_within = 10
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
 updated_within = "year"
