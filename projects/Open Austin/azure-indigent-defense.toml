@@ -1,6 +1,6 @@
 code_url = "https://github.com/open-austin/azure-indigent-defense"
 git_url = "git://github.com/open-austin/azure-indigent-defense.git"
-last_commit = "2022-12-18T20:53:27Z"
+last_commit = "2023-01-13T02:14:34Z"
 name = "azure-indigent-defense"
 organization_name = "Open Austin"
 topics = [ "azure-functions", "hacktoberfest", "python", "scraping" ]
@@ -28,7 +28,7 @@ name = "azure-indigent-defense"
 node_id = "R_kgDOIRYCdw"
 open_issues_within = 10
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 0
 topics = [ "azure-functions", "hacktoberfest", "python", "scraping" ]
 updated_within = "year"
