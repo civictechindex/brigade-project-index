@@ -1,7 +1,7 @@
 code_url = "https://github.com/OpenUpSA/municipal-data"
 description = "API and website for exploring municipal financial performance."
 git_url = "git://github.com/OpenUpSA/municipal-data.git"
-last_commit = "2023-01-12T09:21:42Z"
+last_commit = "2023-01-13T14:28:28Z"
 link_url = "https://municipalmoney.gov.za/"
 name = "municipal-data"
 organization_name = "OpenUp"
@@ -34,7 +34,7 @@ private = false
 pushed_within = "week"
 stargazers_within = 100
 topics = [ "babbage", "fiscaldata", "opendata" ]
-updated_within = "year"
+updated_within = "week"
 visibility = "public"
 watchers_within = 100
 web_commit_signoff_required = false
