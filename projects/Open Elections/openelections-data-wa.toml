@@ -1,7 +1,7 @@
 code_url = "https://github.com/openelections/openelections-data-wa"
 description = "Extracted CSVs of Washington election results"
 git_url = "git://github.com/openelections/openelections-data-wa.git"
-last_commit = "2022-10-24T23:58:53Z"
+last_commit = "2023-01-14T02:09:15Z"
 name = "openelections-data-wa"
 organization_name = "Open Elections"
 
@@ -28,7 +28,7 @@ name = "openelections-data-wa"
 node_id = "MDEwOlJlcG9zaXRvcnkyMDIzMDEwOQ=="
 open_issues_within = 10
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
 updated_within = "over_a_year"
