@@ -1,7 +1,7 @@
 code_url = "https://github.com/OpenEugene/bring-client"
 description = "A web portal for uploading photos for organizations to review. The organization may log in and respond to photos using the admin portal, sending messages back to the uploader."
 git_url = "git://github.com/OpenEugene/bring-client.git"
-last_commit = "2020-11-08T20:57:56Z"
+last_commit = "2021-04-04T23:25:19Z"
 name = "bring-client"
 organization_name = "Open Eugene"
 
@@ -15,7 +15,7 @@ disabled = false
 fork = true
 forks_within = 0
 full_name = "OpenEugene/bring-client"
-has_discussions = false
+has_discussions = true
 has_downloads = true
 has_issues = false
 has_pages = false
@@ -24,14 +24,15 @@ has_wiki = true
 homepage = ""
 id = 319_170_031
 is_template = false
+language = "JavaScript"
 name = "bring-client"
 node_id = "MDEwOlJlcG9zaXRvcnkzMTkxNzAwMzE="
 open_issues_within = 0
 private = false
-pushed_within = "over_a_year"
+pushed_within = "week"
 stargazers_within = 0
 topics = [ ]
-updated_within = "over_a_year"
+updated_within = "week"
 visibility = "public"
 watchers_within = 0
 web_commit_signoff_required = false
