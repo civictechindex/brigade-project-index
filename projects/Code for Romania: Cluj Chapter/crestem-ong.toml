@@ -1,28 +1,28 @@
-code_url = "https://github.com/code4romania/crestem-ong-frontend"
-git_url = "git://github.com/code4romania/crestem-ong-frontend.git"
-last_commit = "2023-01-11T12:43:58Z"
-name = "crestem-ong-frontend"
+code_url = "https://github.com/code4romania/crestem-ong"
+git_url = "git://github.com/code4romania/crestem-ong.git"
+last_commit = "2023-01-16T13:33:09Z"
+name = "crestem-ong"
 organization_name = "Code for Romania: Cluj Chapter"
 
 [github]
 allow_forking = true
 archived = false
-created_at = "2023-01-11T12:43:56Z"
+created_at = "2023-01-11T12:43:04Z"
 default_branch = "main"
 disabled = false
 fork = false
 forks_within = 0
-full_name = "code4romania/crestem-ong-frontend"
+full_name = "code4romania/crestem-ong"
 has_discussions = false
 has_downloads = true
 has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = true
-id = 587_724_178
+id = 587_723_857
 is_template = false
-name = "crestem-ong-frontend"
-node_id = "R_kgDOIwf1kg"
+name = "crestem-ong"
+node_id = "R_kgDOIwf0UQ"
 open_issues_within = 0
 private = false
 pushed_within = "week"

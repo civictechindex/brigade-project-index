@@ -1,28 +1,28 @@
-code_url = "https://github.com/code4romania/crestem-ong-api"
-git_url = "git://github.com/code4romania/crestem-ong-api.git"
-last_commit = "2023-01-11T12:43:07Z"
-name = "crestem-ong-api"
+code_url = "https://github.com/code4romania/teo"
+git_url = "git://github.com/code4romania/teo.git"
+last_commit = "2023-01-16T11:25:36Z"
+name = "teo"
 organization_name = "Code for Romania: Cluj Chapter"
 
 [github]
 allow_forking = true
 archived = false
-created_at = "2023-01-11T12:43:04Z"
+created_at = "2023-01-16T11:25:33Z"
 default_branch = "main"
 disabled = false
 fork = false
 forks_within = 0
-full_name = "code4romania/crestem-ong-api"
+full_name = "code4romania/teo"
 has_discussions = false
 has_downloads = true
 has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = true
-id = 587_723_857
+id = 589_545_536
 is_template = false
-name = "crestem-ong-api"
-node_id = "R_kgDOIwf0UQ"
+name = "teo"
+node_id = "R_kgDOIyPAQA"
 open_issues_within = 0
 private = false
 pushed_within = "week"
