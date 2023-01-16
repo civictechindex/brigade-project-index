@@ -1,7 +1,7 @@
 code_url = "https://github.com/CodeforLeipzig/trinkwasser"
 description = "Visualisierung von Trinkwasserdaten"
 git_url = "git://github.com/CodeforLeipzig/trinkwasser.git"
-last_commit = "2021-12-12T09:54:17Z"
+last_commit = "2023-01-16T21:44:33Z"
 link_url = "https://trinkwasser.codefor.de/"
 name = "trinkwasser"
 organization_name = "OK Lab Leipzig"
@@ -31,7 +31,7 @@ name = "trinkwasser"
 node_id = "MDEwOlJlcG9zaXRvcnk4Mzg5MTQxOQ=="
 open_issues_within = 10
 private = false
-pushed_within = "over_a_year"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ "geojson", "javascript", "open-data" ]
 updated_within = "over_a_year"
