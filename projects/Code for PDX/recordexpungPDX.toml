@@ -1,7 +1,7 @@
 code_url = "https://github.com/codeforpdx/recordexpungPDX"
 description = "A project to automate the expungement of qualifying criminal records in Oregon. This project is done in conjunction with Qiu-Qiu Law."
 git_url = "git://github.com/codeforpdx/recordexpungPDX.git"
-last_commit = "2023-01-16T05:04:26Z"
+last_commit = "2023-01-16T18:35:09Z"
 link_url = "https://recordsponge.com"
 name = "recordexpungPDX"
 organization_name = "Code for PDX"
@@ -46,7 +46,7 @@ topics = [
   "record-clear",
   "record-expungement"
 ]
-updated_within = "year"
+updated_within = "week"
 visibility = "public"
 watchers_within = 100
 web_commit_signoff_required = false
