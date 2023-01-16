@@ -1,7 +1,7 @@
 code_url = "https://github.com/OpenUpSA/municipal-structures-compliance"
 description = "Django web-form system for DCOG."
 git_url = "git://github.com/OpenUpSA/municipal-structures-compliance.git"
-last_commit = "2022-06-06T09:47:47Z"
+last_commit = "2023-01-16T13:54:29Z"
 name = "municipal-structures-compliance"
 organization_name = "OpenUp"
 
@@ -28,7 +28,7 @@ name = "municipal-structures-compliance"
 node_id = "MDEwOlJlcG9zaXRvcnkzOTU2NDAwNjY="
 open_issues_within = 10
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 0
 topics = [ ]
 updated_within = "over_a_year"
