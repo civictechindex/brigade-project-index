@@ -1,6 +1,7 @@
 code_url = "https://github.com/sfbrigade/datasci_justice-by-public-defender"
 description = "NLP and inferential stats to identify which public defenders more consistently seek plea bargains for their defendants, independent of case merits."
 git_url = "git://github.com/sfbrigade/datasci_justice-by-public-defender.git"
+last_commit = "2016-12-05T07:49:27Z"
 name = "datasci_justice-by-public-defender"
 organization_name = "Code for San Francisco"
 topics = [
