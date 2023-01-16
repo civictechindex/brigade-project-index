@@ -1,7 +1,7 @@
 code_url = "https://github.com/code4romania/terraform-aws-website-factory"
 description = "AWS terraform for Website Factory"
 git_url = "git://github.com/code4romania/terraform-aws-website-factory.git"
-last_commit = "2022-09-28T10:03:33Z"
+last_commit = "2023-01-16T12:48:59Z"
 name = "terraform-aws-website-factory"
 organization_name = "Code for Romania"
 topics = [ "aws", "infrastructure", "terraform", "website-factory" ]
@@ -30,7 +30,7 @@ name = "terraform-aws-website-factory"
 node_id = "R_kgDOICFa_A"
 open_issues_within = 0
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 0
 topics = [ "aws", "infrastructure", "terraform", "website-factory" ]
 updated_within = "year"
