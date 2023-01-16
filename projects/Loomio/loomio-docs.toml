@@ -1,7 +1,7 @@
 code_url = "https://github.com/loomio/loomio-docs"
 description = "Loomio help, guides and policies"
 git_url = "git://github.com/loomio/loomio-docs.git"
-last_commit = "2022-11-29T16:59:07Z"
+last_commit = "2023-01-15T23:08:00Z"
 name = "loomio-docs"
 organization_name = "Loomio"
 
@@ -28,7 +28,7 @@ name = "loomio-docs"
 node_id = "MDEwOlJlcG9zaXRvcnk0MDcwNDA0MDk="
 open_issues_within = 0
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 0
 topics = [ ]
 updated_within = "over_a_year"
