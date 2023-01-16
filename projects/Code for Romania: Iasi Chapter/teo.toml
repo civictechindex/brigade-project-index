@@ -1,39 +1,36 @@
-code_url = "https://github.com/code4romania/teacher-workout-ios"
-description = "Teacher Workout iOS app"
-git_url = "git://github.com/code4romania/teacher-workout-ios.git"
-last_commit = "2022-05-28T11:14:54Z"
-name = "teacher-workout-ios"
+code_url = "https://github.com/code4romania/teo"
+git_url = "git://github.com/code4romania/teo.git"
+last_commit = "2023-01-16T11:25:36Z"
+name = "teo"
 organization_name = "Code for Romania: Iasi Chapter"
 
 [github]
 allow_forking = true
 archived = false
-created_at = "2021-06-22T13:02:00Z"
-default_branch = "develop"
-description = "Teacher Workout iOS app"
+created_at = "2023-01-16T11:25:33Z"
+default_branch = "main"
 disabled = false
 fork = false
-forks_within = 10
-full_name = "code4romania/teacher-workout-ios"
+forks_within = 0
+full_name = "code4romania/teo"
 has_discussions = false
 has_downloads = true
 has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = true
-id = 379_271_412
+id = 589_545_536
 is_template = false
-language = "Swift"
-name = "teacher-workout-ios"
-node_id = "MDEwOlJlcG9zaXRvcnkzNzkyNzE0MTI="
-open_issues_within = 10
+name = "teo"
+node_id = "R_kgDOIyPAQA"
+open_issues_within = 0
 private = false
-pushed_within = "year"
-stargazers_within = 10
+pushed_within = "week"
+stargazers_within = 0
 topics = [ ]
-updated_within = "year"
+updated_within = "week"
 visibility = "public"
-watchers_within = 10
+watchers_within = 0
 web_commit_signoff_required = false
 
   [github.license]
