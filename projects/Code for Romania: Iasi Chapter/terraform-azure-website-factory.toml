@@ -1,7 +1,7 @@
 code_url = "https://github.com/code4romania/terraform-azure-website-factory"
 description = "Azure terraform for Website Factory"
 git_url = "git://github.com/code4romania/terraform-azure-website-factory.git"
-last_commit = "2022-09-22T17:46:06Z"
+last_commit = "2023-01-16T12:49:37Z"
 name = "terraform-azure-website-factory"
 organization_name = "Code for Romania: Iasi Chapter"
 topics = [ "azure", "infrastructure", "terraform", "website-factory" ]
@@ -30,7 +30,7 @@ name = "terraform-azure-website-factory"
 node_id = "R_kgDOICJF4g"
 open_issues_within = 0
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 0
 topics = [ "azure", "infrastructure", "terraform", "website-factory" ]
 updated_within = "year"
