@@ -1,10 +1,10 @@
 code_url = "https://github.com/open-austin/website-v2-vercel"
 git_url = "git://github.com/open-austin/website-v2-vercel.git"
-last_commit = "2022-12-19T20:48:32Z"
-link_url = "https://open-austin.org/"
+last_commit = "2023-01-17T03:35:33Z"
+link_url = "https://open-austin.org"
 name = "website-v2-vercel"
 organization_name = "Open Austin"
-topics = [ "hacktoberfest", "nextjs", "react" ]
+topics = [ "civic-tech", "nextjs", "non-profit", "open-source" ]
 
 [github]
 allow_forking = true
@@ -21,7 +21,7 @@ has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = true
-homepage = "https://open-austin.org/"
+homepage = "https://open-austin.org"
 id = 545_769_272
 is_template = false
 language = "TypeScript"
@@ -31,8 +31,8 @@ open_issues_within = 100
 private = false
 pushed_within = "week"
 stargazers_within = 0
-topics = [ "hacktoberfest", "nextjs", "react" ]
-updated_within = "month"
+topics = [ "civic-tech", "nextjs", "non-profit", "open-source" ]
+updated_within = "week"
 visibility = "public"
 watchers_within = 0
 web_commit_signoff_required = false
