@@ -39,7 +39,7 @@ node_id = "R_kgDOGuclIQ"
 open_issues_within = 0
 private = false
 pushed_within = "month"
-stargazers_within = 0
+stargazers_within = 10
 topics = [
   "brigade",
   "code-for-america",
@@ -48,9 +48,9 @@ topics = [
   "open-columbia-co",
   "open-columbia-county"
 ]
-updated_within = "year"
+updated_within = "week"
 visibility = "public"
-watchers_within = 0
+watchers_within = 10
 web_commit_signoff_required = false
 
   [github.license]
