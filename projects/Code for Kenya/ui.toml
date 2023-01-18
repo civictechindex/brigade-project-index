@@ -1,6 +1,6 @@
 code_url = "https://github.com/CodeForAfrica/ui"
 git_url = "git://github.com/CodeForAfrica/ui.git"
-last_commit = "2023-01-17T15:18:31Z"
+last_commit = "2023-01-18T06:20:40Z"
 link_url = "https://cfa.dev.codeforafrica.org"
 name = "ui"
 organization_name = "Code for Kenya"
@@ -32,7 +32,7 @@ private = false
 pushed_within = "week"
 stargazers_within = 10
 topics = [ "mui", "nextjs", "react" ]
-updated_within = "month"
+updated_within = "week"
 visibility = "public"
 watchers_within = 10
 web_commit_signoff_required = false
