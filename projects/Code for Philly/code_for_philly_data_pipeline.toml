@@ -28,7 +28,7 @@ language = "Python"
 name = "cfp-data-pipeline"
 network_count = 3
 node_id = "MDEwOlJlcG9zaXRvcnkzMjY0ODkzMTQ="
-open_issues_within = 10
+open_issues_within = 100
 private = false
 pushed_within = "over_a_year"
 stargazers_within = 10
