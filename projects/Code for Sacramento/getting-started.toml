@@ -1,7 +1,7 @@
 code_url = "https://github.com/code4sac/getting-started"
 description = "Repo for getting started contributing to Code for Sacramento"
 git_url = "git://github.com/code4sac/getting-started.git"
-last_commit = "2023-01-19T03:39:26Z"
+last_commit = "2023-01-19T16:23:00Z"
 name = "getting-started"
 organization_name = "Code for Sacramento"
 
@@ -13,7 +13,7 @@ default_branch = "main"
 description = "Repo for getting started contributing to Code for Sacramento"
 disabled = false
 fork = false
-forks_within = 0
+forks_within = 10
 full_name = "code4sac/getting-started"
 has_discussions = false
 has_downloads = true
@@ -25,7 +25,7 @@ id = 590_725_442
 is_template = false
 name = "getting-started"
 node_id = "R_kgDOIzXBQg"
-open_issues_within = 10
+open_issues_within = 0
 private = false
 pushed_within = "week"
 stargazers_within = 0
