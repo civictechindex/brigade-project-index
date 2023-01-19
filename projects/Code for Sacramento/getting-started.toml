@@ -4,4 +4,5 @@ git_branch = "main"
 git_url = "git://github.com/code4sac/getting-started.git"
 last_pushed_within = "week"
 name = "getting-started"
+open_issues_within = 10
 organization_name = "Code for Sacramento"
