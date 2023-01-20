@@ -1,7 +1,7 @@
 code_url = "https://github.com/18F/ux-guide"
 description = "Resources, norms, and practices for doing user experience research and design work at 18F."
 git_url = "git://github.com/18F/ux-guide.git"
-last_commit = "2023-01-18T16:54:50Z"
+last_commit = "2023-01-20T18:30:24Z"
 link_url = "https://ux-guide.18f.gov"
 name = "ux-guide"
 organization_name = "18F"
@@ -34,7 +34,7 @@ private = false
 pushed_within = "week"
 stargazers_within = 100
 topics = [ "18f", "ux", "ux-research" ]
-updated_within = "month"
+updated_within = "week"
 visibility = "public"
 watchers_within = 100
 web_commit_signoff_required = false
