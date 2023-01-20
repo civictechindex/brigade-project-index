@@ -1,6 +1,6 @@
 code_url = "https://github.com/codeforamerica/child-care-model-illinois"
 git_url = "git://github.com/codeforamerica/child-care-model-illinois.git"
-last_commit = "2023-01-19T15:10:31Z"
+last_commit = "2023-01-19T23:47:23Z"
 name = "child-care-model-illinois"
 organization_name = "Code for America"
 
@@ -24,7 +24,7 @@ is_template = false
 language = "JavaScript"
 name = "child-care-model-illinois"
 node_id = "R_kgDOIvz-kw"
-open_issues_within = 10
+open_issues_within = 0
 private = false
 pushed_within = "week"
 stargazers_within = 10
