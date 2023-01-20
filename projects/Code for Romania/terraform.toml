@@ -1,6 +1,6 @@
 code_url = "https://github.com/code4romania/terraform"
 git_branch = "main"
 git_url = "git://github.com/code4romania/terraform.git"
-last_pushed_within = "month"
+last_pushed_within = "year"
 name = "terraform"
 organization_name = "Code for Romania"
