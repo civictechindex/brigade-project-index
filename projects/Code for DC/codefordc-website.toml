@@ -1,6 +1,6 @@
 code_url = "https://github.com/codefordc/codefordc-website"
 git_url = "git://github.com/codefordc/codefordc-website.git"
-last_commit = "2021-04-16T15:26:01Z"
+last_commit = "2023-01-20T20:12:23Z"
 name = "codefordc-website"
 organization_name = "Code for DC"
 
@@ -26,10 +26,10 @@ name = "codefordc-website"
 node_id = "MDEwOlJlcG9zaXRvcnkxMjgxNDA5MzE="
 open_issues_within = 100
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
-updated_within = "year"
+updated_within = "week"
 visibility = "public"
 watchers_within = 10
 web_commit_signoff_required = false
