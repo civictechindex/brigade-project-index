@@ -1,7 +1,7 @@
 code_url = "https://github.com/CodeforHawaii/LeewardHabitatForHumanity"
 description = "Supporting Leeward Oahu Habitat for Humanity"
 git_url = "git://github.com/CodeforHawaii/LeewardHabitatForHumanity.git"
-last_commit = "2023-01-08T20:27:31Z"
+last_commit = "2023-01-21T20:33:23Z"
 name = "LeewardHabitatForHumanity"
 organization_name = "Code for Hawaii"
 
@@ -28,7 +28,7 @@ name = "LeewardHabitatForHumanity"
 node_id = "R_kgDOIoKQgg"
 open_issues_within = 10
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
 updated_within = "month"
