@@ -1,6 +1,6 @@
 code_url = "https://github.com/CodeforLeipzig/leipzigmaps"
 git_url = "git://github.com/CodeforLeipzig/leipzigmaps.git"
-last_commit = "2023-01-08T10:15:36Z"
+last_commit = "2023-01-22T11:59:34Z"
 link_url = "https://codeforleipzig.github.io/leipzigmaps/"
 name = "leipzigmaps"
 organization_name = "OK Lab Leipzig"
@@ -28,7 +28,7 @@ name = "leipzigmaps"
 node_id = "R_kgDOIvLlZg"
 open_issues_within = 0
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 0
 topics = [ ]
 updated_within = "month"

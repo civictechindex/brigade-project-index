@@ -1,6 +1,6 @@
 code_url = "https://github.com/CodeforLeipzig/wo-ist-testzentrum"
 git_url = "git://github.com/CodeforLeipzig/wo-ist-testzentrum.git"
-last_commit = "2022-12-07T23:44:51Z"
+last_commit = "2023-01-22T13:12:36Z"
 link_url = "https://wo-ist-testzentrum.de/#leipzig"
 name = "wo-ist-testzentrum"
 organization_name = "OK Lab Leipzig"
@@ -28,7 +28,7 @@ name = "wo-ist-testzentrum"
 node_id = "MDEwOlJlcG9zaXRvcnkzNTcwMDA2MDc="
 open_issues_within = 10
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
 updated_within = "year"
