@@ -1,7 +1,7 @@
 code_url = "https://github.com/18F/dns"
 description = "DNS configuration for domains managed by GSA TTS"
 git_url = "git://github.com/18F/dns.git"
-last_commit = "2023-01-17T17:49:27Z"
+last_commit = "2023-01-22T21:11:31Z"
 link_url = "https://github.com/18F/dns/blob/master/doc/architecture.md"
 name = "dns"
 organization_name = "18F"
