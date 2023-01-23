@@ -1,7 +1,7 @@
 code_url = "https://github.com/open-austin/azure-indigent-defense"
 git_branch = "main"
 git_url = "git://github.com/open-austin/azure-indigent-defense.git"
-last_pushed_within = "month"
+last_pushed_within = "week"
 name = "azure-indigent-defense"
 open_issues_within = 10
 organization_name = "Open Austin"
