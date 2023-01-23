@@ -1,6 +1,6 @@
 code_url = "https://github.com/OpenUpSA/municipal-money-charts"
 git_url = "git://github.com/OpenUpSA/municipal-money-charts.git"
-last_commit = "2022-09-13T07:48:58Z"
+last_commit = "2023-01-23T09:44:23Z"
 name = "municipal-money-charts"
 organization_name = "OpenUp"
 
@@ -24,9 +24,9 @@ is_template = false
 language = "JavaScript"
 name = "municipal-money-charts"
 node_id = "MDEwOlJlcG9zaXRvcnkzMDU5Mzg3MDQ="
-open_issues_within = 100
+open_issues_within = 10
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 0
 topics = [ ]
 updated_within = "year"
