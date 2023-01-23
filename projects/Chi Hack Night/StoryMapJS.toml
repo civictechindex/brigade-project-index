@@ -24,7 +24,7 @@ id = 11_586_630
 is_template = false
 language = "JavaScript"
 name = "StoryMapJS"
-network_count = 31
+network_count = 32
 node_id = "MDEwOlJlcG9zaXRvcnkxMTU4NjYzMA=="
 open_issues_within = 1_000
 private = false
@@ -33,7 +33,7 @@ stargazers_within = 1_000
 subscribers_count = 11
 temp_clone_token = ""
 topics = [ ]
-updated_within = "month"
+updated_within = "week"
 visibility = "public"
 watchers_within = 1_000
 web_commit_signoff_required = false
