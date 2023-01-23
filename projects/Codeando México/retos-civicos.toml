@@ -1,7 +1,7 @@
 code_url = "https://github.com/CodeandoMexico/retos-civicos"
 description = "Plataforma de retos cívicos"
 git_url = "git://github.com/CodeandoMexico/retos-civicos.git"
-last_commit = "2023-01-21T22:23:12Z"
+last_commit = "2023-01-23T04:05:12Z"
 link_url = "https://retos.codeandomexico.org"
 name = "retos-civicos"
 organization_name = "Codeando México"
@@ -10,7 +10,7 @@ organization_name = "Codeando México"
 allow_forking = true
 archived = false
 created_at = "2015-05-28T20:03:24Z"
-default_branch = "master"
+default_branch = "main"
 description = "Plataforma de retos cívicos"
 disabled = false
 fork = false
