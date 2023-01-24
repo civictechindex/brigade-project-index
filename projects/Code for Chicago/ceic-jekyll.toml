@@ -1,6 +1,6 @@
 code_url = "https://github.com/Code-For-Chicago/ceic-jekyll"
 git_url = "git://github.com/Code-For-Chicago/ceic-jekyll.git"
-last_commit = "2023-01-06T18:52:12Z"
+last_commit = "2023-01-24T14:57:42Z"
 name = "ceic-jekyll"
 organization_name = "Code for Chicago"
 
@@ -26,7 +26,7 @@ name = "ceic-jekyll"
 node_id = "R_kgDOHEfCkg"
 open_issues_within = 10
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
 updated_within = "week"
