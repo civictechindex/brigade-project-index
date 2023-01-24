@@ -1,7 +1,7 @@
 code_url = "https://github.com/mysociety/caps"
 description = "A simple, open database of local government climate action plan documents and emissions data. "
 git_url = "git://github.com/mysociety/caps.git"
-last_commit = "2022-12-22T07:11:19Z"
+last_commit = "2023-01-24T14:31:14Z"
 link_url = "https://data.climateemergency.uk"
 name = "caps"
 organization_name = "mySociety"
@@ -39,7 +39,7 @@ name = "caps"
 node_id = "MDEwOlJlcG9zaXRvcnkyODkzNTczNDU="
 open_issues_within = 100
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 10
 topics = [
   "citizen-participation",
