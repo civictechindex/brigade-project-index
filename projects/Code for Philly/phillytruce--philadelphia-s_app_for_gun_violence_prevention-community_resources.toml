@@ -15,7 +15,7 @@ default_branch = "main"
 description = "PHILLY TRUCE APP"
 disabled = false
 fork = false
-forks_within = 0
+forks_within = 10
 full_name = "PHILLY-TRUCE-FOUNDATION/phillytruce"
 has_discussions = false
 has_downloads = true
@@ -27,7 +27,7 @@ id = 390_322_939
 is_template = false
 language = "Dart"
 name = "phillytruce"
-network_count = 0
+network_count = 1
 node_id = "MDEwOlJlcG9zaXRvcnkzOTAzMjI5Mzk="
 open_issues_within = 10
 private = false
