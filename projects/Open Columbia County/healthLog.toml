@@ -48,7 +48,7 @@ topics = [
   "open-columbia-co",
   "open-columbia-county"
 ]
-updated_within = "week"
+updated_within = "month"
 visibility = "public"
 watchers_within = 10
 web_commit_signoff_required = false
