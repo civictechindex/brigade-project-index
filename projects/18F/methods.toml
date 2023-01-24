@@ -1,7 +1,7 @@
 code_url = "https://github.com/18F/methods"
 description = "The methods 18F uses to practice human-centered design."
 git_url = "git://github.com/18F/methods.git"
-last_commit = "2023-01-24T17:57:09Z"
+last_commit = "2023-01-24T20:01:26Z"
 link_url = "https://methods.18f.gov/"
 name = "methods"
 organization_name = "18F"
@@ -34,7 +34,7 @@ private = false
 pushed_within = "week"
 stargazers_within = 1_000
 topics = [ "design", "design-methods", "guide", "human-centered-design" ]
-updated_within = "month"
+updated_within = "week"
 visibility = "public"
 watchers_within = 1_000
 web_commit_signoff_required = false
