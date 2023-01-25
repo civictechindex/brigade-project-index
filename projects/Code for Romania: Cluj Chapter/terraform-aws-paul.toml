@@ -1,7 +1,7 @@
 code_url = "https://github.com/code4romania/terraform-aws-paul"
 description = "AWS terraform for Paul"
 git_url = "git://github.com/code4romania/terraform-aws-paul.git"
-last_commit = "2023-01-16T18:56:36Z"
+last_commit = "2023-01-25T12:03:59Z"
 name = "terraform-aws-paul"
 organization_name = "Code for Romania: Cluj Chapter"
 
@@ -28,7 +28,7 @@ name = "terraform-aws-paul"
 node_id = "R_kgDOICJwFQ"
 open_issues_within = 10
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 0
 topics = [ ]
 updated_within = "year"
