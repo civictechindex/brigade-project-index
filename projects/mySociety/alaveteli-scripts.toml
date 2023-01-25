@@ -1,7 +1,7 @@
 code_url = "https://github.com/mysociety/alaveteli-scripts"
 git_branch = "main"
 git_url = "git://github.com/mysociety/alaveteli-scripts.git"
-last_pushed_within = "week"
+last_pushed_within = "month"
 link_url = "https://www.mysociety.org/"
 name = "alaveteli-scripts"
 open_issues_within = 10
