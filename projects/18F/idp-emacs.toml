@@ -1,46 +1,46 @@
-code_url = "https://github.com/18F/join.tts.gsa.gov"
-git_url = "git://github.com/18F/join.tts.gsa.gov.git"
-last_commit = "2023-01-27T16:37:14Z"
-link_url = "https://join.tts.gsa.gov/"
-name = "join.tts.gsa.gov"
+code_url = "https://github.com/18F/idp-emacs"
+description = "Login.gov identity-idp package for Emacs development"
+git_url = "git://github.com/18F/idp-emacs.git"
+last_commit = "2023-01-27T17:21:06Z"
+name = "idp-emacs"
 organization_name = "18F"
 
 [github]
 allow_forking = true
 archived = false
-created_at = "2017-12-21T20:25:27Z"
+created_at = "2023-01-27T17:00:29Z"
 default_branch = "main"
+description = "Login.gov identity-idp package for Emacs development"
 disabled = false
 fork = false
-forks_within = 100
-full_name = "18F/join.tts.gsa.gov"
+forks_within = 0
+full_name = "18F/idp-emacs"
 has_discussions = false
 has_downloads = true
 has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = true
-homepage = "https://join.tts.gsa.gov/"
-id = 115_044_125
+id = 594_127_046
 is_template = false
-language = "HTML"
-name = "join.tts.gsa.gov"
-node_id = "MDEwOlJlcG9zaXRvcnkxMTUwNDQxMjU="
-open_issues_within = 100
+language = "Emacs Lisp"
+name = "idp-emacs"
+node_id = "R_kgDOI2moxg"
+open_issues_within = 0
 private = false
 pushed_within = "week"
-stargazers_within = 100
+stargazers_within = 0
 topics = [ ]
-updated_within = "month"
+updated_within = "week"
 visibility = "public"
-watchers_within = 100
+watchers_within = 0
 web_commit_signoff_required = false
 
   [github.license]
-  key = "other"
-  name = "Other"
-  node_id = "MDc6TGljZW5zZTA="
-  spdx_id = "NOASSERTION"
+  key = "cc0-1.0"
+  name = "Creative Commons Zero v1.0 Universal"
+  node_id = "MDc6TGljZW5zZTY="
+  spdx_id = "CC0-1.0"
 
   [github.owner]
   gravatar_id = ""
