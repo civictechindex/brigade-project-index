@@ -1,7 +1,7 @@
 code_url = "https://github.com/codefortulsa/oscn"
 description = "Python utilities for scraping OSCN cases."
 git_url = "git://github.com/codefortulsa/oscn.git"
-last_commit = "2021-08-14T20:22:33Z"
+last_commit = "2023-01-26T23:16:05Z"
 name = "oscn"
 organization_name = "Code for Tulsa"
 
@@ -28,10 +28,10 @@ name = "oscn"
 node_id = "MDEwOlJlcG9zaXRvcnkxNDAyMjc5NjI="
 open_issues_within = 10
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 100
 topics = [ ]
-updated_within = "year"
+updated_within = "week"
 visibility = "public"
 watchers_within = 100
 web_commit_signoff_required = false
