@@ -44,7 +44,7 @@ topics = [
   "philadelphia",
   "philadelphia-traffic-court"
 ]
-updated_within = "month"
+updated_within = "week"
 visibility = "public"
 watchers_within = 100
 web_commit_signoff_required = false
