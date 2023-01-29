@@ -1,7 +1,7 @@
 code_url = "https://github.com/code4romania/redirectioneaza"
 description = "Helping NGOs collect the 230 tax form"
 git_url = "git://github.com/code4romania/redirectioneaza.git"
-last_commit = "2023-01-14T11:42:12Z"
+last_commit = "2023-01-29T14:32:07Z"
 link_url = "https://redirectioneaza.ro"
 name = "redirectioneaza"
 organization_name = "Code for Romania: Iasi Chapter"
@@ -39,7 +39,7 @@ name = "redirectioneaza"
 node_id = "MDEwOlJlcG9zaXRvcnkxMjU0MTcyMTk="
 open_issues_within = 100
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 100
 topics = [
   "civic-hacking",
