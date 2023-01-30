@@ -1,7 +1,7 @@
 code_url = "https://github.com/g0v/bridge"
 description = "Matterbridge to connect slack workspaces and chat rooms"
 git_url = "git://github.com/g0v/bridge.git"
-last_commit = "2023-01-16T02:50:16Z"
+last_commit = "2023-01-30T00:54:02Z"
 name = "bridge"
 organization_name = "g0v.tw"
 
@@ -28,7 +28,7 @@ name = "bridge"
 node_id = "MDEwOlJlcG9zaXRvcnkzNTM4MDA3NDY="
 open_issues_within = 10
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 0
 topics = [ ]
 updated_within = "month"
