@@ -1,6 +1,6 @@
 code_url = "https://github.com/mysociety/ceuk-marking"
 git_url = "git://github.com/mysociety/ceuk-marking.git"
-last_commit = "2022-12-21T14:14:48Z"
+last_commit = "2023-01-30T12:10:27Z"
 name = "ceuk-marking"
 organization_name = "mySociety"
 
@@ -26,7 +26,7 @@ name = "ceuk-marking"
 node_id = "R_kgDOInD6Yg"
 open_issues_within = 10
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 0
 topics = [ ]
 updated_within = "week"
