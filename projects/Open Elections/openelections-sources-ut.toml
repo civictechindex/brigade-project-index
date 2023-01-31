@@ -1,7 +1,7 @@
 code_url = "https://github.com/openelections/openelections-sources-ut"
 description = "Source election results data from Utah"
 git_url = "git://github.com/openelections/openelections-sources-ut.git"
-last_commit = "2023-01-23T16:49:47Z"
+last_commit = "2023-01-31T18:02:39Z"
 name = "openelections-sources-ut"
 organization_name = "Open Elections"
 
@@ -28,7 +28,7 @@ name = "openelections-sources-ut"
 node_id = "MDEwOlJlcG9zaXRvcnk0NzM1MDE1Nw=="
 open_issues_within = 10
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
 updated_within = "year"
