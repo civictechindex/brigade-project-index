@@ -1,6 +1,6 @@
 code_url = "https://github.com/CodeForAfrica/api"
 git_url = "git://github.com/CodeForAfrica/api.git"
-last_commit = "2023-01-20T06:27:58Z"
+last_commit = "2023-01-31T06:14:34Z"
 name = "api"
 organization_name = "Code for Nigeria"
 topics = [ "django", "django-rest-framework", "python" ]
@@ -29,11 +29,11 @@ node_id = "R_kgDOHFx4Cg"
 open_issues_within = 10
 private = false
 pushed_within = "week"
-stargazers_within = 0
+stargazers_within = 10
 topics = [ "django", "django-rest-framework", "python" ]
-updated_within = "year"
+updated_within = "week"
 visibility = "public"
-watchers_within = 0
+watchers_within = 10
 web_commit_signoff_required = false
 
   [github.license]
