@@ -1,39 +1,37 @@
-code_url = "https://github.com/g0v/logbot-logs"
-description = "Dump logs from logbot.g0v.tw"
-git_url = "git://github.com/g0v/logbot-logs.git"
-last_commit = "2023-01-31T08:24:13Z"
-name = "logbot-logs"
+code_url = "https://github.com/g0v/badge-frontend"
+git_url = "git://github.com/g0v/badge-frontend.git"
+last_commit = "2023-01-31T07:09:51Z"
+name = "badge-frontend"
 organization_name = "g0v.tw"
 
 [github]
 allow_forking = true
 archived = false
-created_at = "2020-03-22T15:12:56Z"
-default_branch = "master"
-description = "Dump logs from logbot.g0v.tw"
+created_at = "2023-01-31T06:59:30Z"
+default_branch = "main"
 disabled = false
 fork = false
-forks_within = 10
-full_name = "g0v/logbot-logs"
+forks_within = 0
+full_name = "g0v/badge-frontend"
 has_discussions = false
 has_downloads = true
 has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = true
-id = 249_209_693
+id = 595_482_272
 is_template = false
-language = "PHP"
-name = "logbot-logs"
-node_id = "MDEwOlJlcG9zaXRvcnkyNDkyMDk2OTM="
+language = "JavaScript"
+name = "badge-frontend"
+node_id = "R_kgDOI35WoA"
 open_issues_within = 0
 private = false
 pushed_within = "week"
-stargazers_within = 10
+stargazers_within = 0
 topics = [ ]
 updated_within = "week"
 visibility = "public"
-watchers_within = 10
+watchers_within = 0
 web_commit_signoff_required = false
 
   [github.owner]
