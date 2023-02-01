@@ -1,7 +1,7 @@
 code_url = "https://github.com/codeforcroatia/open-data"
 description = "Croatia open data repository (Open Data HR)"
 git_url = "git://github.com/codeforcroatia/open-data.git"
-last_commit = "2023-01-01T08:08:03Z"
+last_commit = "2023-02-01T07:53:41Z"
 link_url = "http://codeforcroatia.github.io/open-data"
 name = "open-data"
 organization_name = "Code for Croatia"
@@ -30,7 +30,7 @@ name = "open-data"
 node_id = "MDEwOlJlcG9zaXRvcnkxNzM0NzM1Mg=="
 open_issues_within = 100
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ "data", "datasets", "open-data", "opendata", "open-datasets" ]
 updated_within = "year"
