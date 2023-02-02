@@ -1,6 +1,6 @@
 code_url = "https://github.com/opendata-heilbronn/ckan-cfhn"
 git_branch = "main"
 git_url = "git://github.com/opendata-heilbronn/ckan-cfhn.git"
-last_pushed_within = "year"
+last_pushed_within = "over_a_year"
 name = "ckan-cfhn"
 organization_name = "OK Lab Heilbronn"
