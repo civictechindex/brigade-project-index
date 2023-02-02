@@ -1,7 +1,7 @@
 code_url = "https://github.com/opencleveland/refundcleveland"
 description = "website for residents to adjust the city of Cleveland proposed budget to reflect their priorities. "
 git_url = "git://github.com/opencleveland/refundcleveland.git"
-last_commit = "2022-11-22T23:22:00Z"
+last_commit = "2023-02-01T22:53:31Z"
 name = "refundcleveland"
 organization_name = "Open Cleveland"
 
@@ -29,10 +29,10 @@ name = "refundcleveland"
 node_id = "MDEwOlJlcG9zaXRvcnkzMDAwODMyMzg="
 open_issues_within = 100
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
-updated_within = "year"
+updated_within = "week"
 visibility = "public"
 watchers_within = 10
 web_commit_signoff_required = false
