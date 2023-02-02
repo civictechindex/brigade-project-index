@@ -1,7 +1,7 @@
 code_url = "https://github.com/CodeForAfrica/COMMONS-UI"
 description = "This library packages React components used to develop various UIs."
 git_url = "git://github.com/CodeForAfrica/COMMONS-UI.git"
-last_commit = "2023-01-09T15:16:00Z"
+last_commit = "2023-02-02T05:57:20Z"
 link_url = "https://codeforafrica.github.io/COMMONS-UI"
 name = "COMMONS-UI"
 organization_name = "Code for Ghana"
@@ -31,7 +31,7 @@ name = "COMMONS-UI"
 node_id = "MDEwOlJlcG9zaXRvcnkyNTIxNzEzMjc="
 open_issues_within = 10
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 0
 topics = [ "javascript", "material-ui", "storybook" ]
 updated_within = "month"
