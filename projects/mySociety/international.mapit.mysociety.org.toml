@@ -1,7 +1,7 @@
 code_url = "https://github.com/mysociety/international.mapit.mysociety.org"
 git_branch = "master"
 git_url = "git://github.com/mysociety/international.mapit.mysociety.org.git"
-last_pushed_within = "year"
+last_pushed_within = "week"
 link_url = "https://www.mysociety.org/"
 name = "international.mapit.mysociety.org"
 open_issues_within = 10
