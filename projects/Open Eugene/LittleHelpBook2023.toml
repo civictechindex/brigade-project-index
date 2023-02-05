@@ -1,7 +1,7 @@
 code_url = "https://github.com/OpenEugene/LittleHelpBook2023"
 description = "Yet another version of the LHB"
 git_url = "git://github.com/OpenEugene/LittleHelpBook2023.git"
-last_commit = "2023-02-04T23:45:09Z"
+last_commit = "2023-02-05T00:40:02Z"
 name = "LittleHelpBook2023"
 organization_name = "Open Eugene"
 
@@ -23,7 +23,7 @@ has_projects = true
 has_wiki = true
 id = 592_039_828
 is_template = false
-language = "C#"
+language = "HTML"
 name = "LittleHelpBook2023"
 node_id = "R_kgDOI0nPlA"
 open_issues_within = 0
