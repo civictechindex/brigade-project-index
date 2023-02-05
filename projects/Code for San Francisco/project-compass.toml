@@ -1,6 +1,6 @@
 code_url = "https://github.com/sfbrigade/project-compass"
 git_url = "git://github.com/sfbrigade/project-compass.git"
-last_commit = "2022-10-02T03:13:06Z"
+last_commit = "2023-02-04T22:12:56Z"
 name = "project-compass"
 organization_name = "Code for San Francisco"
 
@@ -21,7 +21,7 @@ has_projects = true
 has_wiki = true
 id = 530_869_924
 is_template = false
-language = "JavaScript"
+language = "TypeScript"
 name = "project-compass"
 node_id = "R_kgDOH6RupA"
 open_issues_within = 10
@@ -29,7 +29,7 @@ private = false
 pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
-updated_within = "year"
+updated_within = "week"
 visibility = "public"
 watchers_within = 10
 web_commit_signoff_required = false
