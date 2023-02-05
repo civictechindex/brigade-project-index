@@ -1,7 +1,7 @@
 code_url = "https://github.com/OpenEugene/LittleHelpBook2023"
 description = "Yet another version of the LHB"
 git_url = "git://github.com/OpenEugene/LittleHelpBook2023.git"
-last_commit = "2023-01-22T18:34:23Z"
+last_commit = "2023-02-04T23:45:09Z"
 name = "LittleHelpBook2023"
 organization_name = "Open Eugene"
 
@@ -23,14 +23,15 @@ has_projects = true
 has_wiki = true
 id = 592_039_828
 is_template = false
+language = "C#"
 name = "LittleHelpBook2023"
 node_id = "R_kgDOI0nPlA"
 open_issues_within = 0
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 0
 topics = [ ]
-updated_within = "month"
+updated_within = "week"
 visibility = "public"
 watchers_within = 0
 web_commit_signoff_required = false
