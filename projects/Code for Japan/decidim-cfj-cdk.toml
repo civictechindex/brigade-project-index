@@ -3,4 +3,5 @@ git_branch = "main"
 git_url = "git://github.com/codeforjapan/decidim-cfj-cdk.git"
 last_pushed_within = "week"
 name = "decidim-cfj-cdk"
+open_issues_within = 10
 organization_name = "Code for Japan"
