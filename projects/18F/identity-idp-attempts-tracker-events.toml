@@ -1,6 +1,6 @@
 code_url = "https://github.com/18F/identity-idp-attempts-tracker-events"
 git_url = "git://github.com/18F/identity-idp-attempts-tracker-events.git"
-last_commit = "2023-01-25T18:42:49Z"
+last_commit = "2023-02-06T20:41:23Z"
 name = "identity-idp-attempts-tracker-events"
 organization_name = "18F"
 
@@ -26,7 +26,7 @@ name = "identity-idp-attempts-tracker-events"
 node_id = "R_kgDOINglqg"
 open_issues_within = 0
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 0
 topics = [ ]
 updated_within = "year"
