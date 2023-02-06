@@ -1,7 +1,7 @@
 code_url = "https://github.com/OpenUpSA/ansible-config"
 description = "Ansible playbooks and inventory for OpenUp"
 git_url = "git://github.com/OpenUpSA/ansible-config.git"
-last_commit = "2023-01-16T15:07:54Z"
+last_commit = "2023-02-06T10:05:42Z"
 name = "ansible-config"
 organization_name = "OpenUp"
 
@@ -29,7 +29,7 @@ name = "ansible-config"
 node_id = "MDEwOlJlcG9zaXRvcnkxOTEzMjE1MzU="
 open_issues_within = 10
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
 updated_within = "year"
