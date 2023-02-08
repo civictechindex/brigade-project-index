@@ -1,7 +1,7 @@
 code_url = "https://github.com/codeforamerica/form-flow-starter-app"
 description = "A Java Spring Boot starter app that uses the form-flow library."
 git_url = "git://github.com/codeforamerica/form-flow-starter-app.git"
-last_commit = "2023-02-07T18:45:49Z"
+last_commit = "2023-02-08T16:31:51Z"
 name = "form-flow-starter-app"
 organization_name = "Code for America"
 
@@ -32,7 +32,7 @@ private = false
 pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
-updated_within = "month"
+updated_within = "year"
 visibility = "public"
 watchers_within = 10
 web_commit_signoff_required = false
