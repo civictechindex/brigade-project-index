@@ -24,7 +24,7 @@ id = 37_384_762
 is_template = false
 language = "CSS"
 name = "csv-to-html-table"
-network_count = 297
+network_count = 298
 node_id = "MDEwOlJlcG9zaXRvcnkzNzM4NDc2Mg=="
 open_issues_within = 100
 private = false
@@ -33,7 +33,7 @@ stargazers_within = 1_000
 subscribers_count = 41
 temp_clone_token = ""
 topics = [ ]
-updated_within = "month"
+updated_within = "week"
 visibility = "public"
 watchers_within = 1_000
 web_commit_signoff_required = false
