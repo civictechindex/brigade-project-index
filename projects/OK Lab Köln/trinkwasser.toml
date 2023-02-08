@@ -1,7 +1,7 @@
 code_url = "https://github.com/codeforcologne/trinkwasser"
 git_url = "git://github.com/codeforcologne/trinkwasser.git"
 last_commit = "2023-02-04T19:41:01Z"
-link_url = "http://opendatalab.de/projects/trinkwasser/"
+link_url = "https://codeforcologne.github.io/trinkwasser/src"
 name = "trinkwasser"
 organization_name = "OK Lab Köln"
 
@@ -20,13 +20,13 @@ has_issues = false
 has_pages = false
 has_projects = true
 has_wiki = true
-homepage = "http://opendatalab.de/projects/trinkwasser/"
+homepage = "https://codeforcologne.github.io/trinkwasser/src"
 id = 597_455_830
 is_template = false
 language = "JavaScript"
 name = "trinkwasser"
 node_id = "R_kgDOI5xz1g"
-open_issues_within = 0
+open_issues_within = 10
 private = false
 pushed_within = "week"
 stargazers_within = 0
