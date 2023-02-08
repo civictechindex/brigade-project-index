@@ -1,7 +1,7 @@
 code_url = "https://github.com/openelections/openelections-sources-az"
 description = "Official election result source files"
 git_url = "git://github.com/openelections/openelections-sources-az.git"
-last_commit = "2022-08-12T10:39:24Z"
+last_commit = "2023-02-08T13:11:41Z"
 name = "openelections-sources-az"
 organization_name = "Open Elections"
 
@@ -27,7 +27,7 @@ name = "openelections-sources-az"
 node_id = "MDEwOlJlcG9zaXRvcnkzMTQ4NzQ0OTU="
 open_issues_within = 10
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 0
 topics = [ ]
 updated_within = "year"

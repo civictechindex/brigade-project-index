@@ -1,7 +1,7 @@
 code_url = "https://github.com/openelections/openelections-data-ny"
 description = "Election results for New York"
 git_url = "git://github.com/openelections/openelections-data-ny.git"
-last_commit = "2023-02-07T02:13:11Z"
+last_commit = "2023-02-08T12:18:44Z"
 name = "openelections-data-ny"
 organization_name = "Open Elections"
 topics = [ "elections", "new-york" ]
