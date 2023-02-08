@@ -1,6 +1,6 @@
 code_url = "https://github.com/codeforamerica/notifications"
 git_branch = "main"
 git_url = "git://github.com/codeforamerica/notifications.git"
-last_pushed_within = "week"
+last_pushed_within = "month"
 name = "notifications"
 organization_name = "Code for America"
