@@ -1,7 +1,7 @@
 code_url = "https://github.com/18F/identity-saml-sinatra"
 description = "Mock relying party (user app) to send requests to ID server"
 git_url = "git://github.com/18F/identity-saml-sinatra.git"
-last_commit = "2023-01-06T20:38:06Z"
+last_commit = "2023-02-09T19:58:57Z"
 name = "identity-saml-sinatra"
 organization_name = "18F"
 topics = [ "login-gov" ]
@@ -29,10 +29,10 @@ name = "identity-saml-sinatra"
 node_id = "MDEwOlJlcG9zaXRvcnk1Njg3OTc5MA=="
 open_issues_within = 10
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 100
 topics = [ "login-gov" ]
-updated_within = "year"
+updated_within = "week"
 visibility = "public"
 watchers_within = 100
 web_commit_signoff_required = false
