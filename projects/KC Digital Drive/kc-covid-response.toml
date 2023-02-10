@@ -1,7 +1,7 @@
 code_url = "https://github.com/codeforkansascity/kc-covid-response"
 description = "Website for Comeback KC"
 git_url = "git://github.com/codeforkansascity/kc-covid-response.git"
-last_commit = "2021-08-16T23:48:11Z"
+last_commit = "2023-02-10T16:06:18Z"
 link_url = "https://www.comebackkc.com"
 name = "kc-covid-response"
 organization_name = "KC Digital Drive"
@@ -36,7 +36,7 @@ name = "kc-covid-response"
 node_id = "MDEwOlJlcG9zaXRvcnkyNTc4OTE2MzE="
 open_issues_within = 100
 private = false
-pushed_within = "over_a_year"
+pushed_within = "week"
 stargazers_within = 0
 topics = [
   "civictechindex",
