@@ -1,7 +1,7 @@
 code_url = "https://github.com/18F/team-ada-test-investigation"
 description = "A place for code and stuff relating to team Ada's Friday investigation of our test suite"
 git_url = "git://github.com/18F/team-ada-test-investigation.git"
-last_commit = "2023-02-02T02:10:21Z"
+last_commit = "2023-02-10T17:19:59Z"
 name = "team-ada-test-investigation"
 organization_name = "18F"
 
@@ -26,12 +26,12 @@ is_template = false
 language = "Ruby"
 name = "team-ada-test-investigation"
 node_id = "R_kgDOI5ba6Q"
-open_issues_within = 0
+open_issues_within = 10
 private = false
 pushed_within = "week"
 stargazers_within = 0
 topics = [ ]
-updated_within = "week"
+updated_within = "month"
 visibility = "public"
 watchers_within = 0
 web_commit_signoff_required = false
