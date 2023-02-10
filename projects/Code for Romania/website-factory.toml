@@ -1,6 +1,6 @@
 code_url = "https://github.com/code4romania/website-factory"
 git_url = "git://github.com/code4romania/website-factory.git"
-last_commit = "2023-02-02T12:32:02Z"
+last_commit = "2023-02-10T15:44:51Z"
 name = "website-factory"
 organization_name = "Code for Romania"
 topics = [ "laravel", "tailwindcss", "website-builder" ]
@@ -28,7 +28,7 @@ name = "website-factory"
 node_id = "MDEwOlJlcG9zaXRvcnkzODI2NTAzNDg="
 open_issues_within = 10
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ "laravel", "tailwindcss", "website-builder" ]
 updated_within = "month"
