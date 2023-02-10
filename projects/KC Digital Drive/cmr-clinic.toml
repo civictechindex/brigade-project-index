@@ -1,7 +1,7 @@
 code_url = "https://github.com/codeforkansascity/cmr-clinic"
 git_branch = "develop"
 git_url = "git://github.com/codeforkansascity/cmr-clinic.git"
-last_pushed_within = "year"
+last_pushed_within = "over_a_year"
 name = "cmr-clinic"
 open_issues_within = 100
 organization_name = "KC Digital Drive"
