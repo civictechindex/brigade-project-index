@@ -19,7 +19,7 @@ default_branch = "master"
 description = "Technical documentation and example code for the new ACS Summary File"
 disabled = false
 fork = false
-forks_within = 0
+forks_within = 10
 full_name = "uscensusbureau/acs-summary-file"
 has_discussions = true
 has_downloads = true
@@ -35,7 +35,7 @@ name = "acs-summary-file"
 node_id = "R_kgDOGm3NjA"
 open_issues_within = 10
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 10
 topics = [
   "american-community-survey",
