@@ -1,7 +1,7 @@
 code_url = "https://github.com/codeforpakistan/Rehnuma"
 description = "Simplified City Answers"
 git_url = "git://github.com/codeforpakistan/Rehnuma.git"
-last_commit = "2015-02-16T17:23:36Z"
+last_commit = "2023-02-10T15:50:04Z"
 link_url = "http://rehnuma.herokuapp.com/"
 name = "Rehnuma"
 organization_name = "Code for Pakistan"
@@ -30,10 +30,10 @@ name = "Rehnuma"
 node_id = "MDEwOlJlcG9zaXRvcnkxODEzMDYzMA=="
 open_issues_within = 10
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
-updated_within = "over_a_year"
+updated_within = "week"
 visibility = "public"
 watchers_within = 10
 web_commit_signoff_required = false
