@@ -1,7 +1,7 @@
 code_url = "https://github.com/OpenUpSA/mpr_analysis"
 git_branch = "master"
 git_url = "git://github.com/OpenUpSA/mpr_analysis.git"
-last_pushed_within = "over_a_year"
+last_pushed_within = "week"
 name = "mpr_analysis"
-open_issues_within = 10
+open_issues_within = 100
 organization_name = "OpenUp"
