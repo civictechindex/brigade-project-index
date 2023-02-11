@@ -1,7 +1,7 @@
 code_url = "https://github.com/codefordayton/codefordayton.org"
 description = "Current (as of 2022) Code For Dayton website."
 git_url = "git://github.com/codefordayton/codefordayton.org.git"
-last_commit = "2022-12-11T14:10:33Z"
+last_commit = "2023-02-11T17:39:41Z"
 name = "codefordayton.org"
 organization_name = "Code for Dayton"
 
@@ -28,7 +28,7 @@ name = "codefordayton.org"
 node_id = "R_kgDOH2ogSA"
 open_issues_within = 0
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
 updated_within = "year"
