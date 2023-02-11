@@ -24,9 +24,9 @@ is_template = false
 language = "Jupyter Notebook"
 name = "mpr_analysis"
 node_id = "MDEwOlJlcG9zaXRvcnk5MTY3NzU1OQ=="
-open_issues_within = 10
+open_issues_within = 100
 private = false
-pushed_within = "over_a_year"
+pushed_within = "week"
 stargazers_within = 0
 topics = [ ]
 updated_within = "over_a_year"
