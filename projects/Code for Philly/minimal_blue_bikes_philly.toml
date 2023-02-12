@@ -1,6 +1,6 @@
 code_url = "https://github.com/davetorok/MinimalBlueBikesPhilly"
 description = 'Miniaml Blue Bikes Philly is an Android app displays station status for the Indego Bike Share in Philadelphia. There is NO MAP, NO GPS, and works on Android 2.3+.  It shows the station name, distance and direction from a reference "current" station, a color icon showing status / how full, and number of bikes/docks available.  There is a summary statistics page, a station detail w/ address and location hint.'
-last_commit = "2019-05-05T20:52:35Z"
+last_commit = "2023-02-12T17:43:27Z"
 link_url = "https://play.google.com/store/apps/details?id=name.jugglerdave.minimalindego"
 name = "minimal_blue_bikes_philly"
 organization_name = "Code for Philly"
@@ -32,12 +32,12 @@ network_count = 0
 node_id = "MDEwOlJlcG9zaXRvcnkzOTcwOTk1Nw=="
 open_issues_within = 10
 private = false
-pushed_within = "over_a_year"
+pushed_within = "week"
 stargazers_within = 0
 subscribers_count = 1
 temp_clone_token = ""
 topics = [ ]
-updated_within = "over_a_year"
+updated_within = "week"
 visibility = "public"
 watchers_within = 0
 web_commit_signoff_required = false
