@@ -1,7 +1,7 @@
 code_url = "https://github.com/mysociety/mysoc-dataset"
 description = "Tool to download mySociety datasets"
 git_url = "git://github.com/mysociety/mysoc-dataset.git"
-last_commit = "2022-09-12T08:17:21Z"
+last_commit = "2023-02-13T13:59:00Z"
 name = "mysoc-dataset"
 organization_name = "mySociety"
 
@@ -28,7 +28,7 @@ name = "mysoc-dataset"
 node_id = "R_kgDOH9iKPA"
 open_issues_within = 0
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 0
 topics = [ ]
 updated_within = "year"

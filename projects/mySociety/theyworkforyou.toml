@@ -1,7 +1,7 @@
 code_url = "https://github.com/mysociety/theyworkforyou"
 description = "Keeping tabs on the UK's parliaments and assemblies"
 git_url = "git://github.com/mysociety/theyworkforyou.git"
-last_commit = "2022-12-15T15:25:26Z"
+last_commit = "2023-02-13T10:28:07Z"
 link_url = "http://www.theyworkforyou.com/"
 name = "theyworkforyou"
 organization_name = "mySociety"
@@ -42,7 +42,7 @@ name = "theyworkforyou"
 node_id = "MDEwOlJlcG9zaXRvcnk1MDA3OTU="
 open_issues_within = 1_000
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 1_000
 topics = [
   "civic-tech",
