@@ -1,7 +1,7 @@
 code_url = "https://github.com/18F/idp-emacs"
 description = "Login.gov identity-idp package for Emacs development"
 git_url = "git://github.com/18F/idp-emacs.git"
-last_commit = "2023-02-02T21:24:19Z"
+last_commit = "2023-02-13T17:03:45Z"
 name = "idp-emacs"
 organization_name = "18F"
 
@@ -28,7 +28,7 @@ name = "idp-emacs"
 node_id = "R_kgDOI2moxg"
 open_issues_within = 0
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
 updated_within = "week"
