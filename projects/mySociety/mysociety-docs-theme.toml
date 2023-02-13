@@ -1,7 +1,7 @@
 code_url = "https://github.com/mysociety/mysociety-docs-theme"
 description = "Theme used for e.g. fixmystreet.org"
 git_url = "git://github.com/mysociety/mysociety-docs-theme.git"
-last_commit = "2022-09-09T12:57:10Z"
+last_commit = "2023-02-13T15:27:40Z"
 name = "mysociety-docs-theme"
 organization_name = "mySociety"
 
@@ -28,7 +28,7 @@ name = "mysociety-docs-theme"
 node_id = "MDEwOlJlcG9zaXRvcnkxODQwMDIwMg=="
 open_issues_within = 10
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
 updated_within = "year"
