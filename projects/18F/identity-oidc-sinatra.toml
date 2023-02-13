@@ -1,7 +1,7 @@
 code_url = "https://github.com/18F/identity-oidc-sinatra"
 description = "Example OpenID Connect relying party as a Sinatra app"
 git_url = "git://github.com/18F/identity-oidc-sinatra.git"
-last_commit = "2023-01-31T16:49:33Z"
+last_commit = "2023-02-13T16:00:44Z"
 name = "identity-oidc-sinatra"
 organization_name = "18F"
 topics = [ "login-gov" ]
@@ -29,7 +29,7 @@ name = "identity-oidc-sinatra"
 node_id = "MDEwOlJlcG9zaXRvcnk4MTQ3MjA4MQ=="
 open_issues_within = 10
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 100
 topics = [ "login-gov" ]
 updated_within = "month"
