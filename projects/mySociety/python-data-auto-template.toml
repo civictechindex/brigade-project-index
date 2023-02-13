@@ -1,7 +1,7 @@
 code_url = "https://github.com/mysociety/python-data-auto-template"
 description = "Cookie Cutter template for mySociety data projects"
 git_url = "git://github.com/mysociety/python-data-auto-template.git"
-last_commit = "2022-08-31T16:56:34Z"
+last_commit = "2023-02-13T17:36:58Z"
 name = "python-data-auto-template"
 organization_name = "mySociety"
 topics = [ "cookiecutter", "template" ]
@@ -30,7 +30,7 @@ name = "python-data-auto-template"
 node_id = "MDEwOlJlcG9zaXRvcnk0MDQzOTc0MTA="
 open_issues_within = 10
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ "cookiecutter", "template" ]
 updated_within = "year"

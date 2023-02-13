@@ -1,7 +1,7 @@
 code_url = "https://github.com/mysociety/uk_local_authority_names_and_codes"
 description = "Data and lookups between different kinds of local authority"
 git_url = "git://github.com/mysociety/uk_local_authority_names_and_codes.git"
-last_commit = "2022-09-13T10:45:06Z"
+last_commit = "2023-02-13T17:18:45Z"
 link_url = "https://mysociety.github.io/uk_local_authority_names_and_codes/"
 name = "uk_local_authority_names_and_codes"
 organization_name = "mySociety"
@@ -31,7 +31,7 @@ name = "uk_local_authority_names_and_codes"
 node_id = "R_kgDOGfyIdg"
 open_issues_within = 10
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ "dataset" ]
 updated_within = "year"

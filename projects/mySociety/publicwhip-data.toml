@@ -1,39 +1,39 @@
-code_url = "https://github.com/mysociety/data_common"
-description = "Common tools for dataset and notebook transformation"
-git_url = "git://github.com/mysociety/data_common.git"
-last_commit = "2023-02-13T16:57:55Z"
-name = "data_common"
+code_url = "https://github.com/mysociety/publicwhip-data"
+description = "More accessible version of public whip database"
+git_url = "git://github.com/mysociety/publicwhip-data.git"
+last_commit = "2023-02-13T17:36:33Z"
+name = "publicwhip-data"
 organization_name = "mySociety"
 
 [github]
 allow_forking = true
 archived = false
-created_at = "2022-04-22T09:47:05Z"
+created_at = "2023-02-13T17:26:20Z"
 default_branch = "main"
-description = "Common tools for dataset and notebook transformation"
+description = "More accessible version of public whip database"
 disabled = false
 fork = false
 forks_within = 0
-full_name = "mysociety/data_common"
+full_name = "mysociety/publicwhip-data"
 has_discussions = false
 has_downloads = true
 has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = true
-id = 484_379_520
+id = 601_254_261
 is_template = false
-language = "Python"
-name = "data_common"
-node_id = "R_kgDOHN8LgA"
-open_issues_within = 10
+language = "Jupyter Notebook"
+name = "publicwhip-data"
+node_id = "R_kgDOI9ZpdQ"
+open_issues_within = 0
 private = false
 pushed_within = "week"
-stargazers_within = 10
+stargazers_within = 0
 topics = [ ]
-updated_within = "year"
+updated_within = "week"
 visibility = "public"
-watchers_within = 10
+watchers_within = 0
 web_commit_signoff_required = false
 
   [github.license]
