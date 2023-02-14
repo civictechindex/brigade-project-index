@@ -1,6 +1,6 @@
 code_url = "https://github.com/g0v/badge.g0v.tw"
 git_url = "git://github.com/g0v/badge.g0v.tw.git"
-last_commit = "2023-01-17T09:15:13Z"
+last_commit = "2023-02-14T08:21:24Z"
 name = "badge.g0v.tw"
 organization_name = "g0v.tw"
 
@@ -26,7 +26,7 @@ name = "badge.g0v.tw"
 node_id = "R_kgDOInbEuw"
 open_issues_within = 0
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 0
 topics = [ ]
 updated_within = "year"
