@@ -1,7 +1,8 @@
 code_url = "https://github.com/mysociety/publicwhip-data"
 description = "More accessible version of public whip database"
 git_url = "git://github.com/mysociety/publicwhip-data.git"
-last_commit = "2023-02-13T17:36:33Z"
+last_commit = "2023-02-14T10:14:57Z"
+link_url = "http://pages.mysociety.org/publicwhip-data/"
 name = "publicwhip-data"
 organization_name = "mySociety"
 
@@ -18,9 +19,10 @@ full_name = "mysociety/publicwhip-data"
 has_discussions = false
 has_downloads = true
 has_issues = true
-has_pages = false
+has_pages = true
 has_projects = true
 has_wiki = true
+homepage = "http://pages.mysociety.org/publicwhip-data/"
 id = 601_254_261
 is_template = false
 language = "Jupyter Notebook"
