@@ -1,6 +1,6 @@
 code_url = "https://github.com/codeforamerica/child-care-model-illinois"
 git_url = "git://github.com/codeforamerica/child-care-model-illinois.git"
-last_commit = "2023-01-23T18:01:23Z"
+last_commit = "2023-02-13T22:32:45Z"
 name = "child-care-model-illinois"
 organization_name = "Code for America"
 
@@ -33,6 +33,12 @@ updated_within = "month"
 visibility = "public"
 watchers_within = 10
 web_commit_signoff_required = false
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
 
   [github.owner]
   gravatar_id = ""
