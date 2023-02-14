@@ -1,0 +1,51 @@
+code_url = "https://github.com/codefordc/ballot-initiative-dashboard"
+description = "Future Ballot Initiatives Dashboard Project"
+git_url = "git://github.com/codefordc/ballot-initiative-dashboard.git"
+last_commit = "2023-02-14T02:22:27Z"
+name = "ballot-initiative-dashboard"
+organization_name = "Code for DC"
+
+[github]
+allow_forking = true
+archived = false
+created_at = "2023-02-14T02:22:27Z"
+default_branch = "main"
+description = "Future Ballot Initiatives Dashboard Project"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "codefordc/ballot-initiative-dashboard"
+has_discussions = false
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+id = 601_414_017
+is_template = false
+name = "ballot-initiative-dashboard"
+node_id = "R_kgDOI9jZgQ"
+open_issues_within = 0
+private = false
+pushed_within = "week"
+stargazers_within = 0
+topics = [ ]
+updated_within = "week"
+visibility = "public"
+watchers_within = 0
+web_commit_signoff_required = false
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_768_897
+  login = "codefordc"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI3Njg4OTc="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  maintain = false
+  pull = true
+  push = false
+  triage = false
