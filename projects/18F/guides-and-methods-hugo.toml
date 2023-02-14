@@ -5,7 +5,7 @@ last_commit = "2023-02-14T05:49:31Z"
 link_url = "https://federalist-1d60e1c6-edfd-4ed3-b30a-e8a2a15b5cae.sites.pages.cloud.gov/site/18f/guides-and-methods-hugo/"
 name = "guides-and-methods-hugo"
 organization_name = "18F"
-topics = [ "18f", "guides", "hugo", "methods" ]
+topics = [ "18f", "guides", "hugo", "maintained", "methods" ]
 
 [github]
 allow_forking = true
@@ -33,8 +33,8 @@ open_issues_within = 10
 private = false
 pushed_within = "week"
 stargazers_within = 0
-topics = [ "18f", "guides", "hugo", "methods" ]
-updated_within = "year"
+topics = [ "18f", "guides", "hugo", "maintained", "methods" ]
+updated_within = "week"
 visibility = "public"
 watchers_within = 0
 web_commit_signoff_required = false
