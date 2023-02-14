@@ -1,6 +1,6 @@
 code_url = "https://github.com/code4romania/teo"
 git_url = "git://github.com/code4romania/teo.git"
-last_commit = "2023-02-13T14:14:23Z"
+last_commit = "2023-02-14T09:47:54Z"
 name = "teo"
 organization_name = "Code for Romania: Cluj Chapter"
 
@@ -24,7 +24,7 @@ is_template = false
 language = "TypeScript"
 name = "teo"
 node_id = "R_kgDOIyPAQA"
-open_issues_within = 0
+open_issues_within = 10
 private = false
 pushed_within = "week"
 stargazers_within = 0
