@@ -1,6 +1,6 @@
 code_url = "https://github.com/sfbrigade/intentional-walk"
 git_url = "git://github.com/sfbrigade/intentional-walk.git"
-last_commit = "2023-02-02T03:48:40Z"
+last_commit = "2023-02-14T23:39:26Z"
 name = "intentional-walk"
 organization_name = "Code for San Francisco"
 
@@ -24,7 +24,7 @@ is_template = false
 language = "JavaScript"
 name = "intentional-walk"
 node_id = "MDEwOlJlcG9zaXRvcnkyMzQyMzg3MTE="
-open_issues_within = 100
+open_issues_within = 10
 private = false
 pushed_within = "week"
 stargazers_within = 10
