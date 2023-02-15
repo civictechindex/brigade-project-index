@@ -1,7 +1,7 @@
 code_url = "https://github.com/mysociety/stringprint2"
 description = "Document conversion tool for research publications"
 git_url = "git://github.com/mysociety/stringprint2.git"
-last_commit = "2022-10-31T12:07:09Z"
+last_commit = "2023-02-15T14:26:54Z"
 name = "stringprint2"
 organization_name = "mySociety"
 
@@ -28,7 +28,7 @@ name = "stringprint2"
 node_id = "MDEwOlJlcG9zaXRvcnkxODQ1ODUwMjI="
 open_issues_within = 10
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 0
 topics = [ ]
 updated_within = "over_a_year"
