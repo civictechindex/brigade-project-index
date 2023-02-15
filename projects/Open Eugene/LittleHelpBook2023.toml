@@ -1,7 +1,7 @@
 code_url = "https://github.com/OpenEugene/LittleHelpBook2023"
 description = "Yet another version of the LHB"
 git_url = "git://github.com/OpenEugene/LittleHelpBook2023.git"
-last_commit = "2023-02-05T00:40:02Z"
+last_commit = "2023-02-14T22:36:52Z"
 name = "LittleHelpBook2023"
 organization_name = "Open Eugene"
 
@@ -28,7 +28,7 @@ name = "LittleHelpBook2023"
 node_id = "R_kgDOI0nPlA"
 open_issues_within = 10
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
 updated_within = "week"
