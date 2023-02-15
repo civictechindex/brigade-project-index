@@ -1,6 +1,6 @@
 code_url = "https://github.com/code4romania/teo"
 git_url = "git://github.com/code4romania/teo.git"
-last_commit = "2023-02-14T16:13:22Z"
+last_commit = "2023-02-15T09:53:04Z"
 name = "teo"
 organization_name = "Code for Romania: Cluj Chapter"
 
@@ -11,7 +11,7 @@ created_at = "2023-01-16T11:25:33Z"
 default_branch = "main"
 disabled = false
 fork = false
-forks_within = 0
+forks_within = 10
 full_name = "code4romania/teo"
 has_discussions = false
 has_downloads = true
