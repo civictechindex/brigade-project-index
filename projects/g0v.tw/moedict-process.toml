@@ -1,7 +1,7 @@
 code_url = "https://github.com/g0v/moedict-process"
 description = "教育部重編國語辭典 資料處理"
 git_url = "git://github.com/g0v/moedict-process.git"
-last_commit = "2018-01-03T05:09:05Z"
+last_commit = "2023-02-16T00:52:26Z"
 name = "moedict-process"
 organization_name = "g0v.tw"
 
@@ -32,7 +32,7 @@ private = false
 pushed_within = "week"
 stargazers_within = 100
 topics = [ ]
-updated_within = "year"
+updated_within = "week"
 visibility = "public"
 watchers_within = 100
 web_commit_signoff_required = false
