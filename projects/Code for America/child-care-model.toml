@@ -1,7 +1,7 @@
-code_url = "https://github.com/codeforamerica/child-care-model-illinois"
-git_url = "git://github.com/codeforamerica/child-care-model-illinois.git"
+code_url = "https://github.com/codeforamerica/child-care-model"
+git_url = "git://github.com/codeforamerica/child-care-model.git"
 last_commit = "2023-02-13T22:32:45Z"
-name = "child-care-model-illinois"
+name = "child-care-model"
 organization_name = "Code for America"
 
 [github]
@@ -12,7 +12,7 @@ default_branch = "main"
 disabled = false
 fork = false
 forks_within = 0
-full_name = "codeforamerica/child-care-model-illinois"
+full_name = "codeforamerica/child-care-model"
 has_discussions = false
 has_downloads = true
 has_issues = true
@@ -22,14 +22,14 @@ has_wiki = true
 id = 587_005_587
 is_template = false
 language = "HTML"
-name = "child-care-model-illinois"
+name = "child-care-model"
 node_id = "R_kgDOIvz-kw"
 open_issues_within = 10
 private = false
 pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
-updated_within = "month"
+updated_within = "week"
 visibility = "public"
 watchers_within = 10
 web_commit_signoff_required = false
