@@ -1,48 +1,46 @@
-code_url = "https://github.com/mysociety/ol2"
-description = "OpenLayers 2"
-git_url = "git://github.com/mysociety/ol2.git"
-last_commit = "2023-01-18T10:43:03Z"
-link_url = "http://openlayers.org/two/"
-name = "ol2"
+code_url = "https://github.com/mysociety/eir_analysis"
+description = "Quick exploration of EIR data in WDTK"
+git_url = "git://github.com/mysociety/eir_analysis.git"
+last_commit = "2023-02-17T11:36:37Z"
+name = "eir_analysis"
 organization_name = "mySociety"
 
 [github]
 allow_forking = true
 archived = false
-created_at = "2018-08-23T10:53:48Z"
-default_branch = "master"
-description = "OpenLayers 2"
+created_at = "2023-02-17T11:36:08Z"
+default_branch = "main"
+description = "Quick exploration of EIR data in WDTK"
 disabled = false
-fork = true
+fork = false
 forks_within = 0
-full_name = "mysociety/ol2"
+full_name = "mysociety/eir_analysis"
 has_discussions = false
 has_downloads = true
-has_issues = false
+has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = true
-homepage = "http://openlayers.org/two/"
-id = 145_840_787
+id = 602_990_451
 is_template = false
-language = "JavaScript"
-name = "ol2"
-node_id = "MDEwOlJlcG9zaXRvcnkxNDU4NDA3ODc="
+language = "Jupyter Notebook"
+name = "eir_analysis"
+node_id = "R_kgDOI_Dncw"
 open_issues_within = 0
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 0
 topics = [ ]
-updated_within = "year"
+updated_within = "week"
 visibility = "public"
 watchers_within = 0
 web_commit_signoff_required = false
 
   [github.license]
-  key = "other"
-  name = "Other"
-  node_id = "MDc6TGljZW5zZTA="
-  spdx_id = "NOASSERTION"
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
 
   [github.owner]
   gravatar_id = ""
