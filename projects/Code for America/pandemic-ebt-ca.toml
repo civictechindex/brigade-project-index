@@ -1,7 +1,7 @@
 code_url = "https://github.com/codeforamerica/pandemic-ebt-ca"
 description = "Rails app to support Pandemic EBT (P-EBT) applications in California"
 git_url = "git://github.com/codeforamerica/pandemic-ebt-ca.git"
-last_commit = "2021-04-30T20:02:07Z"
+last_commit = "2023-02-19T15:58:07Z"
 link_url = "https://ca.p-ebt.org"
 name = "pandemic-ebt-ca"
 organization_name = "Code for America"
@@ -31,10 +31,10 @@ name = "pandemic-ebt-ca"
 node_id = "MDEwOlJlcG9zaXRvcnkyNTI1MzE3MDM="
 open_issues_within = 10
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ "civic-tech", "coronavirus", "covid-19" ]
-updated_within = "over_a_year"
+updated_within = "week"
 visibility = "public"
 watchers_within = 10
 web_commit_signoff_required = false
