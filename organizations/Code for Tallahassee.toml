@@ -3,6 +3,7 @@ events_url = "https://www.meetup.com/code-for-tallahassee/"
 latitude = "30.4380556"
 longitude = "-84.2808333"
 name = "Code for Tallahassee"
+projects_list_url = "https://github.com/codefortallahassee"
 social_profiles = { }
 tags = [ "Brigade", "Code for America", "Official" ]
 type = "Brigade, Code for America, Official"

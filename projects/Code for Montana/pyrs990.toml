@@ -1,0 +1,9 @@
+code_url = "https://github.com/code-for-montana/pyrs990"
+description = "A utility to extract and serialize IRS Form 990 data on nonprofit organizations."
+git_branch = "master"
+git_url = "git://github.com/code-for-montana/pyrs990.git"
+last_pushed_within = "month"
+link_url = "https://pypi.org/project/pyrs990/"
+name = "pyrs990"
+open_issues_within = 10
+organization_name = "Code for Montana"

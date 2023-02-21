@@ -1,0 +1,8 @@
+code_url = "https://github.com/codefordetroit/Airtime"
+description = "Airtime is Sourcefabric’s open source radio software for scheduling and remote station management. Airtime provides a reliable audio playout with sub-second precision, an improved interface with modern usability features, advanced user management supporting roles and a Google-style calendar to schedule and move shows and playlists."
+git_branch = "2.5.x"
+git_url = "git://github.com/codefordetroit/Airtime.git"
+last_pushed_within = "over_a_year"
+link_url = "http://airtime.sourcefabric.org"
+name = "Airtime"
+organization_name = "Code for Detroit"

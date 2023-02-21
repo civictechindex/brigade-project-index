@@ -3,6 +3,7 @@ events_url = "https://www.meetup.com/Code-for-Detroit/"
 latitude = "42.3314"
 longitude = "-83.0458"
 name = "Code for Detroit"
+projects_list_url = "https://github.com/codefordetroit"
 social_profiles = { }
 tags = [ "Brigade", "Code for America", "Official" ]
 type = "Brigade, Code for America, Official"

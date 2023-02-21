@@ -3,6 +3,7 @@ events_url = "http://www.meetup.com/OKLab-Bonn/"
 latitude = "50.7374"
 longitude = "7.0982"
 name = "OK Lab Bonn"
+projects_list_url = "https://github.com/OKLabBonn"
 tags = [ "Brigade", "OK Lab" ]
 type = "Brigade, OK Lab"
 website = "http://codefor.de/bonn/"

@@ -1,0 +1,8 @@
+code_url = "https://github.com/code-for-charlottesville/Fire-Risk"
+description = "Building a risk score to describe the expected severity of a fire on every parcel of land in Charlottesville, VA, and building a website to report these scores and help citizens reduce their fire risk."
+git_branch = "master"
+git_url = "git://github.com/code-for-charlottesville/Fire-Risk.git"
+last_pushed_within = "over_a_year"
+name = "Fire-Risk"
+open_issues_within = 10
+organization_name = "Code for Charlottesville"

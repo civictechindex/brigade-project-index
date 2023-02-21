@@ -1,0 +1,8 @@
+code_url = "https://github.com/OpenToledo/ToDo"
+description = "Maintaining a list of things that need to be done to get our brigade off the ground"
+git_branch = "master"
+git_url = "git://github.com/OpenToledo/ToDo.git"
+last_pushed_within = "over_a_year"
+name = "ToDo"
+open_issues_within = 10
+organization_name = "Open Toledo"
