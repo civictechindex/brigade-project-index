@@ -1,0 +1,51 @@
+code_url = "https://github.com/CodeForVegas/Graphics"
+description = "These are all the art files for Code For Vegas"
+git_url = "git://github.com/CodeForVegas/Graphics.git"
+last_commit = "2022-09-15T04:00:09Z"
+name = "Graphics"
+organization_name = "Code for Las Vegas"
+
+[github]
+allow_forking = true
+archived = false
+created_at = "2022-06-28T23:00:27Z"
+default_branch = "master"
+description = "These are all the art files for Code For Vegas"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "CodeForVegas/Graphics"
+has_discussions = false
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+id = 508_478_778
+is_template = false
+name = "Graphics"
+node_id = "R_kgDOHk7FOg"
+open_issues_within = 0
+private = false
+pushed_within = "year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "year"
+visibility = "public"
+watchers_within = 0
+web_commit_signoff_required = false
+
+  [github.owner]
+  gravatar_id = ""
+  id = 116_455_076
+  login = "CodeForVegas"
+  node_id = "O_kgDOBvD2pA"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  maintain = false
+  pull = true
+  push = false
+  triage = false
