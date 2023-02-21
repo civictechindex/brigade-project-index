@@ -1,0 +1,50 @@
+code_url = "https://github.com/OpenToledo/cot_kpi_viz"
+git_url = "git://github.com/OpenToledo/cot_kpi_viz.git"
+last_commit = "2021-09-02T10:53:29Z"
+name = "cot_kpi_viz"
+organization_name = "Open Toledo"
+
+[github]
+allow_forking = true
+archived = false
+created_at = "2019-01-16T19:15:22Z"
+default_branch = "develop"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "OpenToledo/cot_kpi_viz"
+has_discussions = false
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+id = 166_096_166
+is_template = false
+language = "Python"
+name = "cot_kpi_viz"
+node_id = "MDEwOlJlcG9zaXRvcnkxNjYwOTYxNjY="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+visibility = "public"
+watchers_within = 10
+web_commit_signoff_required = false
+
+  [github.owner]
+  gravatar_id = ""
+  id = 17_861_929
+  login = "OpenToledo"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE3ODYxOTI5"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  maintain = false
+  pull = true
+  push = false
+  triage = false
