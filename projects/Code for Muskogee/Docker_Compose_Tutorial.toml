@@ -1,0 +1,51 @@
+code_url = "https://github.com/codeformuskogee/Docker_Compose_Tutorial"
+description = "This is the Docker Compose Tutorial!"
+git_url = "git://github.com/codeformuskogee/Docker_Compose_Tutorial.git"
+last_commit = "2018-06-11T23:55:32Z"
+name = "Docker_Compose_Tutorial"
+organization_name = "Code for Muskogee"
+
+[github]
+allow_forking = true
+archived = false
+created_at = "2018-03-13T00:07:13Z"
+default_branch = "master"
+description = "This is the Docker Compose Tutorial!"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codeformuskogee/Docker_Compose_Tutorial"
+has_discussions = false
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+id = 124_967_078
+is_template = false
+name = "Docker_Compose_Tutorial"
+node_id = "MDEwOlJlcG9zaXRvcnkxMjQ5NjcwNzg="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+visibility = "public"
+watchers_within = 0
+web_commit_signoff_required = false
+
+  [github.owner]
+  gravatar_id = ""
+  id = 34_636_185
+  login = "codeformuskogee"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM0NjM2MTg1"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  maintain = false
+  pull = true
+  push = false
+  triage = false

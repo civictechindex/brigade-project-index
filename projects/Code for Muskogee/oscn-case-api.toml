@@ -1,0 +1,52 @@
+code_url = "https://github.com/codeformuskogee/oscn-case-api"
+description = "An API for getting Oklahoma State Court Network data as JSON."
+git_url = "git://github.com/codeformuskogee/oscn-case-api.git"
+last_commit = "2017-08-02T01:40:18Z"
+name = "oscn-case-api"
+organization_name = "Code for Muskogee"
+
+[github]
+allow_forking = true
+archived = false
+created_at = "2018-08-28T00:21:02Z"
+default_branch = "master"
+description = "An API for getting Oklahoma State Court Network data as JSON."
+disabled = false
+fork = true
+forks_within = 0
+full_name = "codeformuskogee/oscn-case-api"
+has_discussions = false
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+id = 146_369_114
+is_template = false
+language = "JavaScript"
+name = "oscn-case-api"
+node_id = "MDEwOlJlcG9zaXRvcnkxNDYzNjkxMTQ="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+visibility = "public"
+watchers_within = 0
+web_commit_signoff_required = false
+
+  [github.owner]
+  gravatar_id = ""
+  id = 34_636_185
+  login = "codeformuskogee"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM0NjM2MTg1"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  maintain = false
+  pull = true
+  push = false
+  triage = false

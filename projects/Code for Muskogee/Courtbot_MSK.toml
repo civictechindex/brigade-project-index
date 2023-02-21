@@ -1,0 +1,52 @@
+code_url = "https://github.com/codeformuskogee/Courtbot_MSK"
+description = "Courtbot Application and frontend website"
+git_url = "git://github.com/codeformuskogee/Courtbot_MSK.git"
+last_commit = "2019-02-12T02:19:18Z"
+name = "Courtbot_MSK"
+organization_name = "Code for Muskogee"
+
+[github]
+allow_forking = true
+archived = false
+created_at = "2017-12-18T05:17:51Z"
+default_branch = "master"
+description = "Courtbot Application and frontend website"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codeformuskogee/Courtbot_MSK"
+has_discussions = false
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+id = 114_598_691
+is_template = false
+language = "HTML"
+name = "Courtbot_MSK"
+node_id = "MDEwOlJlcG9zaXRvcnkxMTQ1OTg2OTE="
+open_issues_within = 100
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+visibility = "public"
+watchers_within = 10
+web_commit_signoff_required = false
+
+  [github.owner]
+  gravatar_id = ""
+  id = 34_636_185
+  login = "codeformuskogee"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM0NjM2MTg1"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  maintain = false
+  pull = true
+  push = false
+  triage = false
