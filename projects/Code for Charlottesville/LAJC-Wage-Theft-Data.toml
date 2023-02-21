@@ -1,0 +1,52 @@
+code_url = "https://github.com/code-for-charlottesville/LAJC-Wage-Theft-Data"
+git_url = "git://github.com/code-for-charlottesville/LAJC-Wage-Theft-Data.git"
+last_commit = "2019-11-05T21:40:28Z"
+name = "LAJC-Wage-Theft-Data"
+organization_name = "Code for Charlottesville"
+topics = [ "charlottesville-virginia", "code-for-america", "uva" ]
+
+[github]
+allow_forking = true
+archived = false
+created_at = "2019-09-06T18:34:34Z"
+default_branch = "master"
+disabled = false
+fork = false
+forks_within = 100
+full_name = "code-for-charlottesville/LAJC-Wage-Theft-Data"
+has_discussions = false
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 206_853_185
+is_template = false
+language = "Jupyter Notebook"
+name = "LAJC-Wage-Theft-Data"
+node_id = "MDEwOlJlcG9zaXRvcnkyMDY4NTMxODU="
+open_issues_within = 100
+private = false
+pushed_within = "year"
+stargazers_within = 10
+topics = [ "charlottesville-virginia", "code-for-america", "uva" ]
+updated_within = "over_a_year"
+visibility = "public"
+watchers_within = 10
+web_commit_signoff_required = false
+
+  [github.owner]
+  gravatar_id = ""
+  id = 47_369_979
+  login = "code-for-charlottesville"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjQ3MzY5OTc5"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  maintain = false
+  pull = true
+  push = false
+  triage = false

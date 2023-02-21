@@ -1,0 +1,52 @@
+code_url = "https://github.com/code-for-charlottesville/Fire-Risk"
+description = "Building a risk score to describe the expected severity of a fire on every parcel of land in Charlottesville, VA, and building a website to report these scores and help citizens reduce their fire risk."
+git_url = "git://github.com/code-for-charlottesville/Fire-Risk.git"
+last_commit = "2020-08-31T21:32:23Z"
+name = "Fire-Risk"
+organization_name = "Code for Charlottesville"
+
+[github]
+allow_forking = true
+archived = false
+created_at = "2019-11-05T21:35:41Z"
+default_branch = "master"
+description = "Building a risk score to describe the expected severity of a fire on every parcel of land in Charlottesville, VA, and building a website to report these scores and help citizens reduce their fire risk."
+disabled = false
+fork = false
+forks_within = 100
+full_name = "code-for-charlottesville/Fire-Risk"
+has_discussions = false
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+id = 219_855_010
+is_template = false
+language = "Jupyter Notebook"
+name = "Fire-Risk"
+node_id = "MDEwOlJlcG9zaXRvcnkyMTk4NTUwMTA="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "year"
+visibility = "public"
+watchers_within = 10
+web_commit_signoff_required = false
+
+  [github.owner]
+  gravatar_id = ""
+  id = 47_369_979
+  login = "code-for-charlottesville"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjQ3MzY5OTc5"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  maintain = false
+  pull = true
+  push = false
+  triage = false

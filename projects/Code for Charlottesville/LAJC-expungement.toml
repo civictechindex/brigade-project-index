@@ -1,0 +1,53 @@
+code_url = "https://github.com/code-for-charlottesville/LAJC-expungement"
+description = "Data and analysis to support expanding criminal record expungement eligibility in Virginia"
+git_url = "git://github.com/code-for-charlottesville/LAJC-expungement.git"
+last_commit = "2022-07-25T23:19:26Z"
+name = "LAJC-expungement"
+organization_name = "Code for Charlottesville"
+
+[github]
+allow_forking = true
+archived = false
+created_at = "2021-02-28T21:08:10Z"
+default_branch = "main"
+description = "Data and analysis to support expanding criminal record expungement eligibility in Virginia"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "code-for-charlottesville/LAJC-expungement"
+has_discussions = false
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 343_215_136
+is_template = false
+language = "HTML"
+name = "LAJC-expungement"
+node_id = "MDEwOlJlcG9zaXRvcnkzNDMyMTUxMzY="
+open_issues_within = 0
+private = false
+pushed_within = "year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "year"
+visibility = "public"
+watchers_within = 10
+web_commit_signoff_required = false
+
+  [github.owner]
+  gravatar_id = ""
+  id = 47_369_979
+  login = "code-for-charlottesville"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjQ3MzY5OTc5"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  maintain = false
+  pull = true
+  push = false
+  triage = false
