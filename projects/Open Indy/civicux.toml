@@ -1,0 +1,59 @@
+code_url = "https://github.com/open-indy/civicux"
+description = "Website for projects created by Open Indy Brigade's Civic UX Group"
+git_url = "git://github.com/open-indy/civicux.git"
+last_commit = "2017-04-12T20:37:32Z"
+link_url = "https://open-indy.github.io/civicux"
+name = "civicux"
+organization_name = "Open Indy"
+
+[github]
+allow_forking = true
+archived = false
+created_at = "2017-04-12T20:37:32Z"
+default_branch = "gh-pages"
+description = "Website for projects created by Open Indy Brigade's Civic UX Group"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "open-indy/civicux"
+has_discussions = false
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "https://open-indy.github.io/civicux"
+id = 88_094_112
+is_template = false
+name = "civicux"
+node_id = "MDEwOlJlcG9zaXRvcnk4ODA5NDExMg=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+visibility = "public"
+watchers_within = 0
+web_commit_signoff_required = false
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 13_556_602
+  login = "open-indy"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjEzNTU2NjAy"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  maintain = false
+  pull = true
+  push = false
+  triage = false
