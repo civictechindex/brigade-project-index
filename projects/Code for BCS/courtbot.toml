@@ -1,0 +1,59 @@
+code_url = "https://github.com/codeforbcs/courtbot"
+description = "Your friendly neighborhood court robot. Provides an api for getting court case information."
+git_url = "git://github.com/codeforbcs/courtbot.git"
+last_commit = "2019-08-06T03:46:53Z"
+name = "courtbot"
+organization_name = "Code for BCS"
+
+[github]
+allow_forking = true
+archived = false
+created_at = "2019-01-06T23:15:38Z"
+default_branch = "master"
+description = "Your friendly neighborhood court robot. Provides an api for getting court case information."
+disabled = false
+fork = true
+forks_within = 10
+full_name = "codeforbcs/courtbot"
+has_discussions = false
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 164_353_780
+is_template = false
+language = "JavaScript"
+name = "courtbot"
+node_id = "MDEwOlJlcG9zaXRvcnkxNjQzNTM3ODA="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+visibility = "public"
+watchers_within = 10
+web_commit_signoff_required = false
+
+  [github.license]
+  key = "isc"
+  name = "ISC License"
+  node_id = "MDc6TGljZW5zZTEw"
+  spdx_id = "ISC"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 46_301_206
+  login = "codeforbcs"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjQ2MzAxMjA2"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  maintain = false
+  pull = true
+  push = false
+  triage = false

@@ -1,0 +1,52 @@
+code_url = "https://github.com/codeforbcs/codeofconduct"
+description = "Code for America's Code of Conduct"
+git_url = "git://github.com/codeforbcs/codeofconduct.git"
+last_commit = "2019-03-13T04:04:48Z"
+name = "codeofconduct"
+organization_name = "Code for BCS"
+
+[github]
+allow_forking = true
+archived = false
+created_at = "2019-03-13T04:02:10Z"
+default_branch = "master"
+description = "Code for America's Code of Conduct"
+disabled = false
+fork = true
+forks_within = 0
+full_name = "codeforbcs/codeofconduct"
+has_discussions = false
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 175_343_624
+is_template = false
+name = "codeofconduct"
+node_id = "MDEwOlJlcG9zaXRvcnkxNzUzNDM2MjQ="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+visibility = "public"
+watchers_within = 0
+web_commit_signoff_required = false
+
+  [github.owner]
+  gravatar_id = ""
+  id = 46_301_206
+  login = "codeforbcs"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjQ2MzAxMjA2"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  maintain = false
+  pull = true
+  push = false
+  triage = false
