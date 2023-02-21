@@ -1,7 +1,7 @@
 code_url = "https://github.com/codeforamerica/brigade-information"
 description = "Data about Code for America brigades and other civic tech organizations for the CfA API"
 git_url = "git://github.com/codeforamerica/brigade-information.git"
-last_commit = "2021-11-02T21:49:42Z"
+last_commit = "2023-02-21T17:21:31Z"
 name = "brigade-information"
 organization_name = "Code for America"
 
@@ -28,7 +28,7 @@ name = "brigade-information"
 node_id = "MDEwOlJlcG9zaXRvcnk0ODQ0NzM3Nw=="
 open_issues_within = 10
 private = false
-pushed_within = "over_a_year"
+pushed_within = "week"
 stargazers_within = 100
 topics = [ ]
 updated_within = "over_a_year"
