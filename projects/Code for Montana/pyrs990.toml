@@ -1,0 +1,54 @@
+code_url = "https://github.com/code-for-montana/pyrs990"
+description = "A utility to extract and serialize IRS Form 990 data on nonprofit organizations."
+git_url = "git://github.com/code-for-montana/pyrs990.git"
+last_commit = "2020-03-05T02:01:59Z"
+link_url = "https://pypi.org/project/pyrs990/"
+name = "pyrs990"
+organization_name = "Code for Montana"
+
+[github]
+allow_forking = true
+archived = false
+created_at = "2020-02-04T01:21:29Z"
+default_branch = "master"
+description = "A utility to extract and serialize IRS Form 990 data on nonprofit organizations."
+disabled = false
+fork = false
+forks_within = 10
+full_name = "code-for-montana/pyrs990"
+has_discussions = false
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "https://pypi.org/project/pyrs990/"
+id = 238_097_018
+is_template = false
+language = "Python"
+name = "pyrs990"
+node_id = "MDEwOlJlcG9zaXRvcnkyMzgwOTcwMTg="
+open_issues_within = 10
+private = false
+pushed_within = "month"
+stargazers_within = 10
+topics = [ ]
+updated_within = "year"
+visibility = "public"
+watchers_within = 10
+web_commit_signoff_required = false
+
+  [github.owner]
+  gravatar_id = ""
+  id = 54_483_192
+  login = "code-for-montana"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjU0NDgzMTky"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  maintain = false
+  pull = true
+  push = false
+  triage = false
