@@ -3,6 +3,7 @@ events_url = "https://www.meetup.com/Code-for-Muskogee/"
 latitude = "35.7478769"
 longitude = "-95.3696909"
 name = "Code for Muskogee"
+projects_list_url = "https://github.com/codeformuskogee"
 rss = "https://google.com/alerts/feeds/06912685966400056337/15266640778775469291"
 social_profiles = { }
 tags = [
