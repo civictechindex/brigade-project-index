@@ -1,0 +1,51 @@
+code_url = "https://github.com/code4ikoma/i10s4ikoma"
+description = "Infographics for Ikoma"
+git_url = "git://github.com/code4ikoma/i10s4ikoma.git"
+last_commit = "2016-03-13T08:23:19Z"
+name = "i10s4ikoma"
+organization_name = "Code for Ikoma"
+
+[github]
+allow_forking = true
+archived = false
+created_at = "2016-03-08T16:16:56Z"
+default_branch = "master"
+description = "Infographics for Ikoma"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "code4ikoma/i10s4ikoma"
+has_discussions = false
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+id = 53_426_576
+is_template = false
+name = "i10s4ikoma"
+node_id = "MDEwOlJlcG9zaXRvcnk1MzQyNjU3Ng=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+visibility = "public"
+watchers_within = 0
+web_commit_signoff_required = false
+
+  [github.owner]
+  gravatar_id = ""
+  id = 11_582_910
+  login = "code4ikoma"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjExNTgyOTEw"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  maintain = false
+  pull = true
+  push = false
+  triage = false

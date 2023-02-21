@@ -1,0 +1,52 @@
+code_url = "https://github.com/code4ikoma/elderlyCommunicationPF"
+description = "買い物弱者送迎支援プラットフォーム「いきいきの輪」"
+git_url = "git://github.com/code4ikoma/elderlyCommunicationPF.git"
+last_commit = "2021-02-06T13:53:59Z"
+name = "elderlyCommunicationPF"
+organization_name = "Code for Ikoma"
+
+[github]
+allow_forking = true
+archived = false
+created_at = "2019-07-21T08:18:26Z"
+default_branch = "master"
+description = "買い物弱者送迎支援プラットフォーム「いきいきの輪」"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "code4ikoma/elderlyCommunicationPF"
+has_discussions = false
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+id = 198_031_042
+is_template = false
+language = "JavaScript"
+name = "elderlyCommunicationPF"
+node_id = "MDEwOlJlcG9zaXRvcnkxOTgwMzEwNDI="
+open_issues_within = 10
+private = false
+pushed_within = "year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+visibility = "public"
+watchers_within = 0
+web_commit_signoff_required = false
+
+  [github.owner]
+  gravatar_id = ""
+  id = 11_582_910
+  login = "code4ikoma"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjExNTgyOTEw"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  maintain = false
+  pull = true
+  push = false
+  triage = false
