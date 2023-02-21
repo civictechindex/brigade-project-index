@@ -5,4 +5,5 @@ git_url = "git://github.com/BetaNYC/Bike-Share-Data-Best-Practices.git"
 last_pushed_within = "over_a_year"
 link_url = "https://github.com/BetaNYC/Bike-Share-Data-Best-Practices/wiki"
 name = "Bike-Share-Data-Best-Practices"
+open_issues_within = 10
 organization_name = "BetaNYC"
