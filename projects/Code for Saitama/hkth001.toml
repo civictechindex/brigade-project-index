@@ -1,0 +1,52 @@
+code_url = "https://github.com/CodeforSAITAMA/hkth001"
+description = "ハッカソンチーム001"
+git_url = "git://github.com/CodeforSAITAMA/hkth001.git"
+last_commit = "2016-01-17T02:24:56Z"
+name = "hkth001"
+organization_name = "Code for Saitama"
+
+[github]
+allow_forking = true
+archived = false
+created_at = "2015-09-11T08:52:56Z"
+default_branch = "master"
+description = "ハッカソンチーム001"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "CodeforSAITAMA/hkth001"
+has_discussions = false
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+id = 42_298_021
+is_template = false
+language = "JavaScript"
+name = "hkth001"
+node_id = "MDEwOlJlcG9zaXRvcnk0MjI5ODAyMQ=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+visibility = "public"
+watchers_within = 0
+web_commit_signoff_required = false
+
+  [github.owner]
+  gravatar_id = ""
+  id = 14_232_001
+  login = "CodeforSAITAMA"
+  node_id = "MDQ6VXNlcjE0MjMyMDAx"
+  site_admin = false
+  type = "User"
+
+  [github.permissions]
+  admin = false
+  maintain = false
+  pull = true
+  push = false
+  triage = false

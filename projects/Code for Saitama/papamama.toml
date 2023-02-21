@@ -1,0 +1,60 @@
+code_url = "https://github.com/CodeforSAITAMA/papamama"
+description = "「さっぽろ保育園マップ」ソースコード"
+git_url = "git://github.com/CodeforSAITAMA/papamama.git"
+last_commit = "2015-10-18T17:01:12Z"
+link_url = "http://papamama.codeforsapporo.org"
+name = "papamama"
+organization_name = "Code for Saitama"
+
+[github]
+allow_forking = true
+archived = false
+created_at = "2015-12-07T09:50:10Z"
+default_branch = "master"
+description = "「さっぽろ保育園マップ」ソースコード"
+disabled = false
+fork = true
+forks_within = 0
+full_name = "CodeforSAITAMA/papamama"
+has_discussions = false
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://papamama.codeforsapporo.org"
+id = 47_543_576
+is_template = false
+language = "JavaScript"
+name = "papamama"
+node_id = "MDEwOlJlcG9zaXRvcnk0NzU0MzU3Ng=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+visibility = "public"
+watchers_within = 0
+web_commit_signoff_required = false
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 14_232_001
+  login = "CodeforSAITAMA"
+  node_id = "MDQ6VXNlcjE0MjMyMDAx"
+  site_admin = false
+  type = "User"
+
+  [github.permissions]
+  admin = false
+  maintain = false
+  pull = true
+  push = false
+  triage = false
