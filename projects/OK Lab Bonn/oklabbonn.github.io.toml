@@ -1,0 +1,52 @@
+code_url = "https://github.com/OKLabBonn/oklabbonn.github.io"
+description = "Webseiten des OK Lab Bonn"
+git_url = "git://github.com/OKLabBonn/oklabbonn.github.io.git"
+last_commit = "2015-03-25T13:07:53Z"
+name = "oklabbonn.github.io"
+organization_name = "OK Lab Bonn"
+
+[github]
+allow_forking = true
+archived = false
+created_at = "2015-03-25T10:55:51Z"
+default_branch = "master"
+description = "Webseiten des OK Lab Bonn"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "OKLabBonn/oklabbonn.github.io"
+has_discussions = false
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+id = 32_858_979
+is_template = false
+language = "HTML"
+name = "oklabbonn.github.io"
+node_id = "MDEwOlJlcG9zaXRvcnkzMjg1ODk3OQ=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+visibility = "public"
+watchers_within = 10
+web_commit_signoff_required = false
+
+  [github.owner]
+  gravatar_id = ""
+  id = 11_390_108
+  login = "OKLabBonn"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjExMzkwMTA4"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  maintain = false
+  pull = true
+  push = false
+  triage = false
