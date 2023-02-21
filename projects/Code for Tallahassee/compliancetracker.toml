@@ -1,0 +1,57 @@
+code_url = "https://github.com/codefortallahassee/compliancetracker"
+description = "Manage complex certifications, education, licensing, qualifications and compliance requirements without writing any code."
+git_url = "git://github.com/codefortallahassee/compliancetracker.git"
+last_commit = "2016-05-17T20:32:46Z"
+name = "compliancetracker"
+organization_name = "Code for Tallahassee"
+
+[github]
+allow_forking = true
+archived = false
+created_at = "2016-05-17T20:32:46Z"
+default_branch = "master"
+description = "Manage complex certifications, education, licensing, qualifications and compliance requirements without writing any code."
+disabled = false
+fork = false
+forks_within = 0
+full_name = "codefortallahassee/compliancetracker"
+has_discussions = false
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+id = 59_056_669
+is_template = false
+name = "compliancetracker"
+node_id = "MDEwOlJlcG9zaXRvcnk1OTA1NjY2OQ=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+visibility = "public"
+watchers_within = 0
+web_commit_signoff_required = false
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 17_890_912
+  login = "codefortallahassee"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE3ODkwOTEy"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  maintain = false
+  pull = true
+  push = false
+  triage = false

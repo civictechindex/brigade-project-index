@@ -1,0 +1,57 @@
+code_url = "https://github.com/codefortallahassee/eventhub"
+description = "Experiments in new innovative ways of visualizing community events by integrating social media sites and sentiment analysis with online event publication sites and geocoding."
+git_url = "git://github.com/codefortallahassee/eventhub.git"
+last_commit = "2016-05-19T23:55:12Z"
+name = "eventhub"
+organization_name = "Code for Tallahassee"
+
+[github]
+allow_forking = true
+archived = false
+created_at = "2016-05-18T03:07:28Z"
+default_branch = "master"
+description = "Experiments in new innovative ways of visualizing community events by integrating social media sites and sentiment analysis with online event publication sites and geocoding."
+disabled = false
+fork = false
+forks_within = 0
+full_name = "codefortallahassee/eventhub"
+has_discussions = false
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+id = 59_077_579
+is_template = false
+name = "eventhub"
+node_id = "MDEwOlJlcG9zaXRvcnk1OTA3NzU3OQ=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+visibility = "public"
+watchers_within = 0
+web_commit_signoff_required = false
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 17_890_912
+  login = "codefortallahassee"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE3ODkwOTEy"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  maintain = false
+  pull = true
+  push = false
+  triage = false

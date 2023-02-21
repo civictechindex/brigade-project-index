@@ -1,0 +1,59 @@
+code_url = "https://github.com/codefortallahassee/microwebscraper"
+description = "A simple, lightweight, yet powerful recursive XPath web scraper that uses pure JSON for both input & output, no coding necessary."
+git_url = "git://github.com/codefortallahassee/microwebscraper.git"
+last_commit = "2016-04-13T02:32:13Z"
+name = "microwebscraper"
+organization_name = "Code for Tallahassee"
+
+[github]
+allow_forking = true
+archived = false
+created_at = "2016-03-17T03:08:44Z"
+default_branch = "master"
+description = "A simple, lightweight, yet powerful recursive XPath web scraper that uses pure JSON for both input & output, no coding necessary."
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codefortallahassee/microwebscraper"
+has_discussions = false
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 54_084_563
+is_template = false
+language = "Python"
+name = "microwebscraper"
+node_id = "MDEwOlJlcG9zaXRvcnk1NDA4NDU2Mw=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+visibility = "public"
+watchers_within = 10
+web_commit_signoff_required = false
+
+  [github.license]
+  key = "other"
+  name = "Other"
+  node_id = "MDc6TGljZW5zZTA="
+  spdx_id = "NOASSERTION"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 17_890_912
+  login = "codefortallahassee"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE3ODkwOTEy"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  maintain = false
+  pull = true
+  push = false
+  triage = false
