@@ -1,0 +1,60 @@
+code_url = "https://github.com/CodeForJerseyCity/CodeAcross2016"
+description = "CodeAcross 2016 Hackathon Jersey City"
+git_url = "git://github.com/CodeForJerseyCity/CodeAcross2016.git"
+last_commit = "2016-03-20T13:30:02Z"
+link_url = "http://codeforjc.org/CodeAcross2016/"
+name = "CodeAcross2016"
+organization_name = "Code for Jersey City"
+
+[github]
+allow_forking = true
+archived = false
+created_at = "2016-03-10T03:12:27Z"
+default_branch = "gh-pages"
+description = "CodeAcross 2016 Hackathon Jersey City"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "CodeForJerseyCity/CodeAcross2016"
+has_discussions = false
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = false
+homepage = "http://codeforjc.org/CodeAcross2016/"
+id = 53_551_042
+is_template = false
+language = "HTML"
+name = "CodeAcross2016"
+node_id = "MDEwOlJlcG9zaXRvcnk1MzU1MTA0Mg=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+visibility = "public"
+watchers_within = 0
+web_commit_signoff_required = false
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_127_403
+  login = "CodeForJerseyCity"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjYxMjc0MDM="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  maintain = false
+  pull = true
+  push = false
+  triage = false

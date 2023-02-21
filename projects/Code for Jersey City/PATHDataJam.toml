@@ -1,0 +1,52 @@
+code_url = "https://github.com/CodeForJerseyCity/PATHDataJam"
+description = "Landing page for the PATH Data Jam on February 21st, 2015 (as part of CodeAcross)"
+git_url = "git://github.com/CodeForJerseyCity/PATHDataJam.git"
+last_commit = "2015-03-02T01:29:27Z"
+name = "PATHDataJam"
+organization_name = "Code for Jersey City"
+
+[github]
+allow_forking = true
+archived = false
+created_at = "2015-02-04T01:10:37Z"
+default_branch = "gh-pages"
+description = "Landing page for the PATH Data Jam on February 21st, 2015 (as part of CodeAcross)"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "CodeForJerseyCity/PATHDataJam"
+has_discussions = false
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = false
+id = 30_273_871
+is_template = false
+language = "HTML"
+name = "PATHDataJam"
+node_id = "MDEwOlJlcG9zaXRvcnkzMDI3Mzg3MQ=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+visibility = "public"
+watchers_within = 0
+web_commit_signoff_required = false
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_127_403
+  login = "CodeForJerseyCity"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjYxMjc0MDM="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  maintain = false
+  pull = true
+  push = false
+  triage = false
