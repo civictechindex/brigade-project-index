@@ -3,6 +3,7 @@ events_url = "http://www.meetup.com/Open-Indy-Brigade/"
 latitude = "39.7669"
 longitude = "-86.1500"
 name = "Open Indy"
+projects_list_url = "https://github.com/open-indy"
 tags = [ "Brigade" ]
 type = "Brigade"
 website = "http://www.openindybrigade.com/"
