@@ -1,0 +1,50 @@
+code_url = "https://github.com/code4ka/gtemap"
+git_url = "git://github.com/code4ka/gtemap.git"
+last_commit = "2020-10-25T15:11:48Z"
+name = "gtemap"
+organization_name = "Code for Kashiwa"
+
+[github]
+allow_forking = true
+archived = false
+created_at = "2020-10-25T15:05:56Z"
+default_branch = "main"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "code4ka/gtemap"
+has_discussions = false
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+id = 307_124_753
+is_template = false
+language = "Python"
+name = "gtemap"
+node_id = "MDEwOlJlcG9zaXRvcnkzMDcxMjQ3NTM="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+visibility = "public"
+watchers_within = 0
+web_commit_signoff_required = false
+
+  [github.owner]
+  gravatar_id = ""
+  id = 67_143_654
+  login = "code4ka"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjY3MTQzNjU0"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  maintain = false
+  pull = true
+  push = false
+  triage = false

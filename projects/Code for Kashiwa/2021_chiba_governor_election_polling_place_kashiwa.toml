@@ -1,0 +1,51 @@
+code_url = "https://github.com/code4ka/2021_chiba_governor_election_polling_place_kashiwa"
+description = "千葉県柏市内の第21回千葉県知事選挙期日前投票所データです。"
+git_url = "git://github.com/code4ka/2021_chiba_governor_election_polling_place_kashiwa.git"
+last_commit = "2021-03-08T10:17:29Z"
+name = "2021_chiba_governor_election_polling_place_kashiwa"
+organization_name = "Code for Kashiwa"
+
+[github]
+allow_forking = true
+archived = false
+created_at = "2021-03-08T10:13:50Z"
+default_branch = "main"
+description = "千葉県柏市内の第21回千葉県知事選挙期日前投票所データです。"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "code4ka/2021_chiba_governor_election_polling_place_kashiwa"
+has_discussions = false
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+id = 345_613_079
+is_template = false
+name = "2021_chiba_governor_election_polling_place_kashiwa"
+node_id = "MDEwOlJlcG9zaXRvcnkzNDU2MTMwNzk="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+visibility = "public"
+watchers_within = 0
+web_commit_signoff_required = false
+
+  [github.owner]
+  gravatar_id = ""
+  id = 67_143_654
+  login = "code4ka"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjY3MTQzNjU0"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  maintain = false
+  pull = true
+  push = false
+  triage = false
