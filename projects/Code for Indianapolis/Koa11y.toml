@@ -1,0 +1,10 @@
+code_url = "https://github.com/open-indy/Koa11y"
+description = "Easily check for website accessibility issues"
+git_branch = "4.0"
+git_url = "git://github.com/open-indy/Koa11y.git"
+last_pushed_within = "year"
+link_url = "https://open-indy.github.io/Koa11y"
+name = "Koa11y"
+open_issues_within = 100
+organization_name = "Code for Indianapolis"
+topics = [ "a11y", "accessibility", "desktop-app", "gui", "pa11y" ]

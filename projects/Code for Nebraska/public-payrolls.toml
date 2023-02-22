@@ -1,0 +1,9 @@
+code_url = "https://github.com/codefornebraska/public-payrolls"
+description = "A site for exploring the components of pay for public servants in Nebraska's myriad government entities."
+git_branch = "main"
+git_url = "git://github.com/codefornebraska/public-payrolls.git"
+last_pushed_within = "year"
+link_url = "http://public-payrolls.vercel.app"
+name = "public-payrolls"
+open_issues_within = 10
+organization_name = "Code for Nebraska"

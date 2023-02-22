@@ -1,0 +1,9 @@
+code_url = "https://github.com/codefornebraska/tif"
+description = "Nebraska TIF Report (Tax Increment Financing)"
+git_branch = "main"
+git_url = "git://github.com/codefornebraska/tif.git"
+last_pushed_within = "year"
+link_url = "http://nebraska.tif.report"
+name = "tif"
+open_issues_within = 10
+organization_name = "Code for Nebraska"

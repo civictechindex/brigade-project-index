@@ -1,0 +1,10 @@
+code_url = "https://github.com/code-for-syracuse/eatsafecny"
+description = ":hamburger: A web application that makes it easy to find restaurant inspection results in CNY"
+git_branch = "master"
+git_url = "git://github.com/code-for-syracuse/eatsafecny.git"
+last_pushed_within = "year"
+link_url = "https://eatsafecny.org"
+name = "eatsafecny"
+open_issues_within = 10
+organization_name = "Code for Syracuse"
+topics = [ "food", "inspections", "opendata", "restaurant", "safety" ]

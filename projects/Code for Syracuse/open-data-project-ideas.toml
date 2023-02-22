@@ -1,0 +1,9 @@
+code_url = "https://github.com/code-for-syracuse/open-data-project-ideas"
+description = "A place to collect, collaborate and comment on project ideas for working with open data from Upstate cities."
+git_branch = "master"
+git_url = "git://github.com/code-for-syracuse/open-data-project-ideas.git"
+last_pushed_within = "over_a_year"
+name = "open-data-project-ideas"
+open_issues_within = 10
+organization_name = "Code for Syracuse"
+topics = [ "albany", "buffalo", "new-york", "opendata", "syracuse" ]
