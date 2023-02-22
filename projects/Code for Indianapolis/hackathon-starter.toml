@@ -1,0 +1,60 @@
+code_url = "https://github.com/open-indy/hackathon-starter"
+description = "A boilerplate for Node.js web applications"
+git_url = "git://github.com/open-indy/hackathon-starter.git"
+last_commit = "2016-04-28T20:22:28Z"
+link_url = "http://hackathonstarter.herokuapp.com"
+name = "hackathon-starter"
+organization_name = "Code for Indianapolis"
+
+[github]
+allow_forking = true
+archived = false
+created_at = "2016-04-30T22:56:58Z"
+default_branch = "master"
+description = "A boilerplate for Node.js web applications"
+disabled = false
+fork = true
+forks_within = 0
+full_name = "open-indy/hackathon-starter"
+has_discussions = false
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = false
+homepage = "http://hackathonstarter.herokuapp.com"
+id = 57_465_312
+is_template = false
+language = "CSS"
+name = "hackathon-starter"
+node_id = "MDEwOlJlcG9zaXRvcnk1NzQ2NTMxMg=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+visibility = "public"
+watchers_within = 10
+web_commit_signoff_required = false
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 13_556_602
+  login = "open-indy"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjEzNTU2NjAy"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  maintain = false
+  pull = true
+  push = false
+  triage = false
