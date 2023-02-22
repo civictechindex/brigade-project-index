@@ -1,0 +1,53 @@
+code_url = "https://github.com/codefordallas/DCCCD"
+description = "Dallas County Community College District"
+git_url = "git://github.com/codefordallas/DCCCD.git"
+last_commit = "2015-03-01T08:43:12Z"
+name = "DCCCD"
+organization_name = "Code for Dallas"
+
+[github]
+allow_forking = true
+archived = false
+created_at = "2015-03-01T07:16:19Z"
+default_branch = "master"
+description = "Dallas County Community College District"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codefordallas/DCCCD"
+has_discussions = false
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 31_489_707
+is_template = false
+language = "JavaScript"
+name = "DCCCD"
+node_id = "MDEwOlJlcG9zaXRvcnkzMTQ4OTcwNw=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+visibility = "public"
+watchers_within = 0
+web_commit_signoff_required = false
+
+  [github.owner]
+  gravatar_id = ""
+  id = 11_253_569
+  login = "codefordallas"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjExMjUzNTY5"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  maintain = false
+  pull = true
+  push = false
+  triage = false

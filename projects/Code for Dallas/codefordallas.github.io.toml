@@ -1,0 +1,52 @@
+code_url = "https://github.com/codefordallas/codefordallas.github.io"
+description = "Code for Dallas Website"
+git_url = "git://github.com/codefordallas/codefordallas.github.io.git"
+last_commit = "2020-08-02T23:06:51Z"
+name = "codefordallas.github.io"
+organization_name = "Code for Dallas"
+
+[github]
+allow_forking = true
+archived = false
+created_at = "2020-07-23T23:55:31Z"
+default_branch = "master"
+description = "Code for Dallas Website"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codefordallas/codefordallas.github.io"
+has_discussions = false
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+id = 282_080_967
+is_template = false
+language = "JavaScript"
+name = "codefordallas.github.io"
+node_id = "MDEwOlJlcG9zaXRvcnkyODIwODA5Njc="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+visibility = "public"
+watchers_within = 10
+web_commit_signoff_required = false
+
+  [github.owner]
+  gravatar_id = ""
+  id = 11_253_569
+  login = "codefordallas"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjExMjUzNTY5"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  maintain = false
+  pull = true
+  push = false
+  triage = false
