@@ -1,0 +1,51 @@
+code_url = "https://github.com/CodeRGV/national-day-2015-datasets"
+description = "Code#RGV National Day of Civic Hacking Collection of public API's and Datasets"
+git_url = "git://github.com/CodeRGV/national-day-2015-datasets.git"
+last_commit = "2015-05-22T01:35:10Z"
+name = "national-day-2015-datasets"
+organization_name = "Code for RGV (Rio Grande Valley)"
+
+[github]
+allow_forking = true
+archived = false
+created_at = "2015-05-22T01:34:05Z"
+default_branch = "master"
+description = "Code#RGV National Day of Civic Hacking Collection of public API's and Datasets"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "CodeRGV/national-day-2015-datasets"
+has_discussions = false
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+id = 36_045_898
+is_template = false
+name = "national-day-2015-datasets"
+node_id = "MDEwOlJlcG9zaXRvcnkzNjA0NTg5OA=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+visibility = "public"
+watchers_within = 0
+web_commit_signoff_required = false
+
+  [github.owner]
+  gravatar_id = ""
+  id = 7_059_399
+  login = "CodeRGV"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjcwNTkzOTk="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  maintain = false
+  pull = true
+  push = false
+  triage = false

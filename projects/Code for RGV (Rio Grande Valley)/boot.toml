@@ -1,0 +1,57 @@
+code_url = "https://github.com/CodeRGV/boot"
+description = "All things (boot)!"
+git_url = "git://github.com/CodeRGV/boot.git"
+last_commit = "2016-12-11T00:43:23Z"
+name = "boot"
+organization_name = "Code for RGV (Rio Grande Valley)"
+
+[github]
+allow_forking = true
+archived = false
+created_at = "2016-06-21T18:49:28Z"
+default_branch = "master"
+description = "All things (boot)!"
+disabled = false
+fork = false
+forks_within = 100
+full_name = "CodeRGV/boot"
+has_discussions = false
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+id = 61_658_706
+is_template = false
+name = "boot"
+node_id = "MDEwOlJlcG9zaXRvcnk2MTY1ODcwNg=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+visibility = "public"
+watchers_within = 10
+web_commit_signoff_required = false
+
+  [github.license]
+  key = "cc0-1.0"
+  name = "Creative Commons Zero v1.0 Universal"
+  node_id = "MDc6TGljZW5zZTY="
+  spdx_id = "CC0-1.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 7_059_399
+  login = "CodeRGV"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjcwNTkzOTk="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  maintain = false
+  pull = true
+  push = false
+  triage = false

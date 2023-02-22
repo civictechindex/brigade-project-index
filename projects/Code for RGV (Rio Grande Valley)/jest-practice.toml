@@ -1,0 +1,50 @@
+code_url = "https://github.com/CodeRGV/jest-practice"
+git_url = "git://github.com/CodeRGV/jest-practice.git"
+last_commit = "2016-07-08T15:57:35Z"
+name = "jest-practice"
+organization_name = "Code for RGV (Rio Grande Valley)"
+
+[github]
+allow_forking = true
+archived = false
+created_at = "2016-10-03T18:19:30Z"
+default_branch = "master"
+disabled = false
+fork = true
+forks_within = 0
+full_name = "CodeRGV/jest-practice"
+has_discussions = false
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+id = 69_897_879
+is_template = false
+language = "JavaScript"
+name = "jest-practice"
+node_id = "MDEwOlJlcG9zaXRvcnk2OTg5Nzg3OQ=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+visibility = "public"
+watchers_within = 0
+web_commit_signoff_required = false
+
+  [github.owner]
+  gravatar_id = ""
+  id = 7_059_399
+  login = "CodeRGV"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjcwNTkzOTk="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  maintain = false
+  pull = true
+  push = false
+  triage = false
