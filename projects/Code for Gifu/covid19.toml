@@ -1,0 +1,60 @@
+code_url = "https://github.com/CODE-for-GIFU/covid19"
+description = "岐阜県 新型コロナウイルス感染症対策サイト / Gifu COVID-19 Task Force website"
+git_url = "git://github.com/CODE-for-GIFU/covid19.git"
+last_commit = "2022-10-05T00:41:40Z"
+link_url = "https://covid19-gifu.netlify.app"
+name = "covid19"
+organization_name = "Code for Gifu"
+
+[github]
+allow_forking = true
+archived = false
+created_at = "2020-03-11T06:15:57Z"
+default_branch = "development"
+description = "岐阜県 新型コロナウイルス感染症対策サイト / Gifu COVID-19 Task Force website"
+disabled = false
+fork = true
+forks_within = 10
+full_name = "CODE-for-GIFU/covid19"
+has_discussions = false
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = false
+has_wiki = false
+homepage = "https://covid19-gifu.netlify.app"
+id = 246_490_369
+is_template = false
+language = "Vue"
+name = "covid19"
+node_id = "MDEwOlJlcG9zaXRvcnkyNDY0OTAzNjk="
+open_issues_within = 100
+private = false
+pushed_within = "year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "year"
+visibility = "public"
+watchers_within = 10
+web_commit_signoff_required = false
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 34_079_961
+  login = "CODE-for-GIFU"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM0MDc5OTYx"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  maintain = false
+  pull = true
+  push = false
+  triage = false
