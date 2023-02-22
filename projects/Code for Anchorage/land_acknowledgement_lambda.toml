@@ -4,4 +4,5 @@ git_branch = "main"
 git_url = "git://github.com/codeforanchorage/land_acknowledgement_lambda.git"
 last_pushed_within = "month"
 name = "land_acknowledgement_lambda"
+open_issues_within = 10
 organization_name = "Code for Anchorage"

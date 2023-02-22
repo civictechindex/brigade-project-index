@@ -1,0 +1,9 @@
+code_url = "https://github.com/CODE-for-GIFU/covid19"
+description = "岐阜県 新型コロナウイルス感染症対策サイト / Gifu COVID-19 Task Force website"
+git_branch = "development"
+git_url = "git://github.com/CODE-for-GIFU/covid19.git"
+last_pushed_within = "year"
+link_url = "https://covid19-gifu.netlify.app"
+name = "covid19"
+open_issues_within = 100
+organization_name = "Code for Gifu"

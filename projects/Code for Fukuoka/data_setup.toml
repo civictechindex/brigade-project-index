@@ -1,0 +1,8 @@
+code_url = "https://github.com/Code-for-Fukuoka/data_setup"
+description = "data generation tool for fukuoka-city covid19"
+git_branch = "master"
+git_url = "git://github.com/Code-for-Fukuoka/data_setup.git"
+last_pushed_within = "over_a_year"
+name = "data_setup"
+open_issues_within = 10
+organization_name = "Code for Fukuoka"

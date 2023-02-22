@@ -1,0 +1,9 @@
+code_url = "https://github.com/Code-for-Fukuoka/covid19"
+description = "福岡市 新型コロナウイルス感染症対策ポータルサイト"
+git_branch = "development"
+git_url = "git://github.com/Code-for-Fukuoka/covid19.git"
+last_pushed_within = "year"
+link_url = "https://stopcovid19.codeforfukuoka.org/"
+name = "covid19"
+open_issues_within = 10
+organization_name = "Code for Fukuoka"
