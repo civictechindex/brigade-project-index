@@ -1,0 +1,52 @@
+code_url = "https://github.com/codefornebraska/localboards-ui"
+description = "front interface using simple html5, bootstrab & knockout"
+git_url = "git://github.com/codefornebraska/localboards-ui.git"
+last_commit = "2013-12-28T21:28:13Z"
+name = "localboards-ui"
+organization_name = "Code for Nebraska"
+
+[github]
+allow_forking = true
+archived = false
+created_at = "2013-11-26T00:17:38Z"
+default_branch = "master"
+description = "front interface using simple html5, bootstrab & knockout"
+disabled = false
+fork = true
+forks_within = 0
+full_name = "codefornebraska/localboards-ui"
+has_discussions = false
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+id = 14_702_530
+is_template = false
+language = "Ruby"
+name = "localboards-ui"
+node_id = "MDEwOlJlcG9zaXRvcnkxNDcwMjUzMA=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+visibility = "public"
+watchers_within = 0
+web_commit_signoff_required = false
+
+  [github.owner]
+  gravatar_id = ""
+  id = 5_042_049
+  login = "codefornebraska"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjUwNDIwNDk="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  maintain = false
+  pull = true
+  push = false
+  triage = false

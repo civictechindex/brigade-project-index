@@ -1,0 +1,60 @@
+code_url = "https://github.com/codefornebraska/public-payrolls"
+description = "A site for exploring the components of pay for public servants in Nebraska's myriad government entities."
+git_url = "git://github.com/codefornebraska/public-payrolls.git"
+last_commit = "2022-11-29T13:37:10Z"
+link_url = "http://public-payrolls.vercel.app"
+name = "public-payrolls"
+organization_name = "Code for Nebraska"
+
+[github]
+allow_forking = true
+archived = false
+created_at = "2021-05-19T18:01:38Z"
+default_branch = "main"
+description = "A site for exploring the components of pay for public servants in Nebraska's myriad government entities."
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codefornebraska/public-payrolls"
+has_discussions = false
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://public-payrolls.vercel.app"
+id = 368_958_458
+is_template = false
+language = "TypeScript"
+name = "public-payrolls"
+node_id = "MDEwOlJlcG9zaXRvcnkzNjg5NTg0NTg="
+open_issues_within = 10
+private = false
+pushed_within = "year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "year"
+visibility = "public"
+watchers_within = 0
+web_commit_signoff_required = false
+
+  [github.license]
+  key = "gpl-3.0"
+  name = "GNU General Public License v3.0"
+  node_id = "MDc6TGljZW5zZTk="
+  spdx_id = "GPL-3.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 5_042_049
+  login = "codefornebraska"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjUwNDIwNDk="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  maintain = false
+  pull = true
+  push = false
+  triage = false

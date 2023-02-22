@@ -1,0 +1,50 @@
+code_url = "https://github.com/codefornebraska/landlords-api"
+git_url = "git://github.com/codefornebraska/landlords-api.git"
+last_commit = "2021-04-28T00:28:04Z"
+name = "landlords-api"
+organization_name = "Code for Nebraska"
+
+[github]
+allow_forking = true
+archived = false
+created_at = "2020-12-23T03:01:02Z"
+default_branch = "main"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codefornebraska/landlords-api"
+has_discussions = false
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+id = 323_787_836
+is_template = false
+language = "TypeScript"
+name = "landlords-api"
+node_id = "MDEwOlJlcG9zaXRvcnkzMjM3ODc4MzY="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+visibility = "public"
+watchers_within = 10
+web_commit_signoff_required = false
+
+  [github.owner]
+  gravatar_id = ""
+  id = 5_042_049
+  login = "codefornebraska"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjUwNDIwNDk="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  maintain = false
+  pull = true
+  push = false
+  triage = false

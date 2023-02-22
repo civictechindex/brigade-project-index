@@ -1,0 +1,59 @@
+code_url = "https://github.com/codefornebraska/interface-workshop-projects"
+description = "Code from attendees at our Interface School workshop on civic hacking"
+git_url = "git://github.com/codefornebraska/interface-workshop-projects.git"
+last_commit = "2014-08-02T18:54:41Z"
+name = "interface-workshop-projects"
+organization_name = "Code for Nebraska"
+
+[github]
+allow_forking = true
+archived = false
+created_at = "2014-08-02T14:48:27Z"
+default_branch = "master"
+description = "Code from attendees at our Interface School workshop on civic hacking"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codefornebraska/interface-workshop-projects"
+has_discussions = false
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 22_548_045
+is_template = false
+language = "Ruby"
+name = "interface-workshop-projects"
+node_id = "MDEwOlJlcG9zaXRvcnkyMjU0ODA0NQ=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+visibility = "public"
+watchers_within = 10
+web_commit_signoff_required = false
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 5_042_049
+  login = "codefornebraska"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjUwNDIwNDk="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  maintain = false
+  pull = true
+  push = false
+  triage = false

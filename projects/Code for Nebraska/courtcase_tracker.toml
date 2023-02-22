@@ -1,51 +1,34 @@
-code_url = "https://github.com/codefornebraska/landlord"
-description = "Douglas County Nebraska Parcels"
-git_url = "git://github.com/codefornebraska/landlord.git"
-last_commit = "2022-12-13T04:20:56Z"
-link_url = "https://codefornebraska.github.io/landlord/"
-name = "landlord"
+code_url = "https://github.com/codefornebraska/courtcase_tracker"
+git_url = "git://github.com/codefornebraska/courtcase_tracker.git"
+last_commit = "2021-03-27T05:45:17Z"
+name = "courtcase_tracker"
 organization_name = "Code for Nebraska"
-topics = [
-  "actions",
-  "civic-hacking",
-  "hacktoberfest",
-  "hacktoberfest2020",
-  "react"
-]
 
 [github]
 allow_forking = true
 archived = false
-created_at = "2020-08-11T21:56:12Z"
+created_at = "2020-12-23T03:04:48Z"
 default_branch = "master"
-description = "Douglas County Nebraska Parcels"
 disabled = false
 fork = false
 forks_within = 10
-full_name = "codefornebraska/landlord"
+full_name = "codefornebraska/courtcase_tracker"
 has_discussions = false
 has_downloads = true
 has_issues = true
-has_pages = true
+has_pages = false
 has_projects = true
 has_wiki = true
-homepage = "https://codefornebraska.github.io/landlord/"
-id = 286_855_776
+id = 323_788_513
 is_template = false
-language = "JavaScript"
-name = "landlord"
-node_id = "MDEwOlJlcG9zaXRvcnkyODY4NTU3NzY="
+language = "Python"
+name = "courtcase_tracker"
+node_id = "MDEwOlJlcG9zaXRvcnkzMjM3ODg1MTM="
 open_issues_within = 10
 private = false
-pushed_within = "year"
+pushed_within = "over_a_year"
 stargazers_within = 10
-topics = [
-  "actions",
-  "civic-hacking",
-  "hacktoberfest",
-  "hacktoberfest2020",
-  "react"
-]
+topics = [ ]
 updated_within = "over_a_year"
 visibility = "public"
 watchers_within = 10
