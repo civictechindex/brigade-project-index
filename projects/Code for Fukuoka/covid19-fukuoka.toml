@@ -1,0 +1,60 @@
+code_url = "https://github.com/Code-for-Fukuoka/covid19-fukuoka"
+description = "福岡県 新型コロナウイルス感染症対策ポータルサイト"
+git_url = "git://github.com/Code-for-Fukuoka/covid19-fukuoka.git"
+last_commit = "2021-04-01T03:38:31Z"
+link_url = "https://fukuoka.stopcovid19.jp"
+name = "covid19-fukuoka"
+organization_name = "Code for Fukuoka"
+
+[github]
+allow_forking = true
+archived = false
+created_at = "2020-03-25T03:23:27Z"
+default_branch = "development"
+description = "福岡県 新型コロナウイルス感染症対策ポータルサイト"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "Code-for-Fukuoka/covid19-fukuoka"
+has_discussions = false
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "https://fukuoka.stopcovid19.jp"
+id = 249_877_222
+is_template = false
+language = "Vue"
+name = "covid19-fukuoka"
+node_id = "MDEwOlJlcG9zaXRvcnkyNDk4NzcyMjI="
+open_issues_within = 100
+private = false
+pushed_within = "month"
+stargazers_within = 100
+topics = [ ]
+updated_within = "month"
+visibility = "public"
+watchers_within = 100
+web_commit_signoff_required = false
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 62_051_699
+  login = "Code-for-Fukuoka"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjYyMDUxNjk5"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  maintain = false
+  pull = true
+  push = false
+  triage = false

@@ -1,0 +1,52 @@
+code_url = "https://github.com/Code-for-Fukuoka/data_setup"
+description = "data generation tool for fukuoka-city covid19"
+git_url = "git://github.com/Code-for-Fukuoka/data_setup.git"
+last_commit = "2021-03-15T02:27:05Z"
+name = "data_setup"
+organization_name = "Code for Fukuoka"
+
+[github]
+allow_forking = true
+archived = false
+created_at = "2020-03-16T09:31:39Z"
+default_branch = "master"
+description = "data generation tool for fukuoka-city covid19"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "Code-for-Fukuoka/data_setup"
+has_discussions = false
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+id = 247_661_485
+is_template = false
+language = "Python"
+name = "data_setup"
+node_id = "MDEwOlJlcG9zaXRvcnkyNDc2NjE0ODU="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+visibility = "public"
+watchers_within = 10
+web_commit_signoff_required = false
+
+  [github.owner]
+  gravatar_id = ""
+  id = 62_051_699
+  login = "Code-for-Fukuoka"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjYyMDUxNjk5"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  maintain = false
+  pull = true
+  push = false
+  triage = false
