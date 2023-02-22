@@ -1,0 +1,55 @@
+code_url = "https://github.com/CodeForChofu/brownbag"
+git_url = "git://github.com/CodeForChofu/brownbag.git"
+last_commit = "2020-04-05T14:55:37Z"
+name = "brownbag"
+organization_name = "Code for Chofu"
+
+[github]
+allow_forking = true
+archived = false
+created_at = "2020-04-09T22:48:34Z"
+default_branch = "master"
+disabled = false
+fork = true
+forks_within = 0
+full_name = "CodeForChofu/brownbag"
+has_discussions = false
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+id = 254_494_297
+is_template = false
+name = "brownbag"
+node_id = "MDEwOlJlcG9zaXRvcnkyNTQ0OTQyOTc="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+visibility = "public"
+watchers_within = 0
+web_commit_signoff_required = false
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 7_628_029
+  login = "CodeForChofu"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjc2MjgwMjk="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  maintain = false
+  pull = true
+  push = false
+  triage = false
