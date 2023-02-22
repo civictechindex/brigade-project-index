@@ -1,0 +1,9 @@
+code_url = "https://github.com/code4shiogama/covid19-miyagi"
+description = "（非公式）宮城県新型コロナウイルス感染症対策サイト / Miyagi COVID-19 Task Force website"
+git_branch = "development"
+git_url = "git://github.com/code4shiogama/covid19-miyagi.git"
+last_pushed_within = "year"
+link_url = "https://covid19-miyagi.netlify.com/"
+name = "covid19-miyagi"
+open_issues_within = 10
+organization_name = "Code for Shiogama"

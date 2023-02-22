@@ -1,0 +1,7 @@
+code_url = "https://github.com/code4ka/covid19bot"
+git_branch = "develop"
+git_url = "git://github.com/code4ka/covid19bot.git"
+last_pushed_within = "year"
+name = "covid19bot"
+open_issues_within = 10
+organization_name = "Code for Kashiwa"
