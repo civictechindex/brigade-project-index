@@ -1,7 +1,7 @@
 code_url = "https://github.com/codeforanchorage/click_that_hood"
 description = "A game where users must identify a city's neighborhoods as fast as possible"
 git_url = "git://github.com/codeforanchorage/click_that_hood.git"
-last_commit = "2022-02-23T03:58:44Z"
+last_commit = "2022-12-22T21:57:55Z"
 name = "click_that_hood"
 organization_name = "Code for Anchorage"
 
@@ -29,7 +29,7 @@ name = "click_that_hood"
 node_id = "MDEwOlJlcG9zaXRvcnkyNTM4MTM3NQ=="
 open_issues_within = 0
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 0
 topics = [ ]
 updated_within = "year"
