@@ -1,0 +1,51 @@
+code_url = "https://github.com/code-for-syracuse/CitizensReviewBoardChatBot"
+description = "Beta Chatbot we created using Twilio to allow users to be able to complete a Syracuse Police Complaint by text message."
+git_url = "git://github.com/code-for-syracuse/CitizensReviewBoardChatBot.git"
+last_commit = "2020-07-17T02:13:22Z"
+name = "CitizensReviewBoardChatBot"
+organization_name = "Code for Syracuse"
+
+[github]
+allow_forking = true
+archived = false
+created_at = "2020-07-17T02:04:33Z"
+default_branch = "master"
+description = "Beta Chatbot we created using Twilio to allow users to be able to complete a Syracuse Police Complaint by text message."
+disabled = false
+fork = false
+forks_within = 0
+full_name = "code-for-syracuse/CitizensReviewBoardChatBot"
+has_discussions = false
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+id = 280_302_798
+is_template = false
+name = "CitizensReviewBoardChatBot"
+node_id = "MDEwOlJlcG9zaXRvcnkyODAzMDI3OTg="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+visibility = "public"
+watchers_within = 0
+web_commit_signoff_required = false
+
+  [github.owner]
+  gravatar_id = ""
+  id = 50_877_232
+  login = "code-for-syracuse"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjUwODc3MjMy"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  maintain = false
+  pull = true
+  push = false
+  triage = false

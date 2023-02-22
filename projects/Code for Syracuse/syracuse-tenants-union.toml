@@ -1,0 +1,50 @@
+code_url = "https://github.com/code-for-syracuse/syracuse-tenants-union"
+git_url = "git://github.com/code-for-syracuse/syracuse-tenants-union.git"
+last_commit = "2019-09-24T23:51:21Z"
+name = "syracuse-tenants-union"
+organization_name = "Code for Syracuse"
+
+[github]
+allow_forking = true
+archived = false
+created_at = "2019-08-27T23:05:26Z"
+default_branch = "master"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "code-for-syracuse/syracuse-tenants-union"
+has_discussions = false
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+id = 204_805_129
+is_template = false
+language = "CSS"
+name = "syracuse-tenants-union"
+node_id = "MDEwOlJlcG9zaXRvcnkyMDQ4MDUxMjk="
+open_issues_within = 10
+private = false
+pushed_within = "year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+visibility = "public"
+watchers_within = 10
+web_commit_signoff_required = false
+
+  [github.owner]
+  gravatar_id = ""
+  id = 50_877_232
+  login = "code-for-syracuse"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjUwODc3MjMy"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  maintain = false
+  pull = true
+  push = false
+  triage = false

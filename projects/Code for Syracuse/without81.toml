@@ -1,0 +1,61 @@
+code_url = "https://github.com/code-for-syracuse/without81"
+description = ":car: Get travels directions in Central New York while avoiding Route 81 through Downtown Syracuse"
+git_url = "git://github.com/code-for-syracuse/without81.git"
+last_commit = "2020-07-01T18:08:12Z"
+link_url = "https://without81.com"
+name = "without81"
+organization_name = "Code for Syracuse"
+topics = [ "civic-tech", "javascript", "syracuse" ]
+
+[github]
+allow_forking = true
+archived = false
+created_at = "2016-08-09T17:45:00Z"
+default_branch = "gh-pages"
+description = ":car: Get travels directions in Central New York while avoiding Route 81 through Downtown Syracuse"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "code-for-syracuse/without81"
+has_discussions = false
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "https://without81.com"
+id = 65_315_874
+is_template = false
+language = "HTML"
+name = "without81"
+node_id = "MDEwOlJlcG9zaXRvcnk2NTMxNTg3NA=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ "civic-tech", "javascript", "syracuse" ]
+updated_within = "over_a_year"
+visibility = "public"
+watchers_within = 0
+web_commit_signoff_required = false
+
+  [github.license]
+  key = "bsd-3-clause"
+  name = 'BSD 3-Clause "New" or "Revised" License'
+  node_id = "MDc6TGljZW5zZTU="
+  spdx_id = "BSD-3-Clause"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 50_877_232
+  login = "code-for-syracuse"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjUwODc3MjMy"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  maintain = false
+  pull = true
+  push = false
+  triage = false
