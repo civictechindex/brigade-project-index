@@ -1,7 +1,7 @@
 code_url = "https://github.com/loomio/loomio-deploy"
 description = "Install Loomio on your own server"
 git_url = "git://github.com/loomio/loomio-deploy.git"
-last_commit = "2023-02-22T04:41:50Z"
+last_commit = "2023-02-23T01:17:42Z"
 name = "loomio-deploy"
 organization_name = "Loomio"
 
@@ -24,7 +24,7 @@ has_wiki = false
 homepage = ""
 id = 53_657_130
 is_template = false
-language = "Shell"
+language = "Dockerfile"
 name = "loomio-deploy"
 node_id = "MDEwOlJlcG9zaXRvcnk1MzY1NzEzMA=="
 open_issues_within = 10
@@ -32,7 +32,7 @@ private = false
 pushed_within = "week"
 stargazers_within = 1_000
 topics = [ ]
-updated_within = "year"
+updated_within = "week"
 visibility = "public"
 watchers_within = 1_000
 web_commit_signoff_required = false
