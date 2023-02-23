@@ -1,0 +1,7 @@
+code_url = "https://github.com/mysociety/politician_data"
+description = "Spreadsheet versions of TWFY's people.json"
+git_branch = "main"
+git_url = "git://github.com/mysociety/politician_data.git"
+last_pushed_within = "week"
+name = "politician_data"
+organization_name = "mySociety"
