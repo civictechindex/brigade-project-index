@@ -1,7 +1,7 @@
 code_url = "https://github.com/BetaNYC/odw-websites"
 description = "Archived versions of open-data.nyc"
 git_url = "git://github.com/BetaNYC/odw-websites.git"
-last_commit = "2022-09-16T03:19:32Z"
+last_commit = "2023-02-24T01:16:53Z"
 name = "odw-websites"
 organization_name = "BetaNYC"
 
@@ -29,7 +29,7 @@ name = "odw-websites"
 node_id = "R_kgDOIAY_3Q"
 open_issues_within = 0
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
 updated_within = "year"
