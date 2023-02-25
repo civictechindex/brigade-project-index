@@ -1,7 +1,7 @@
 code_url = "https://github.com/CodeforLeipzig/codingdavinciost2018"
 description = "Some helper projects for organizing / supporting Coding da Vinci Ost 2018"
 git_url = "git://github.com/CodeforLeipzig/codingdavinciost2018.git"
-last_commit = "2021-01-17T20:41:46Z"
+last_commit = "2023-02-25T16:25:28Z"
 link_url = "http://damals.in"
 name = "codingdavinciost2018"
 organization_name = "OK Lab Leipzig"
@@ -30,10 +30,10 @@ name = "codingdavinciost2018"
 node_id = "MDEwOlJlcG9zaXRvcnkxMTU1MTU2MTY="
 open_issues_within = 100
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
-updated_within = "over_a_year"
+updated_within = "week"
 visibility = "public"
 watchers_within = 10
 web_commit_signoff_required = false
