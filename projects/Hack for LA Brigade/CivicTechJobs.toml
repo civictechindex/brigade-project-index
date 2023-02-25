@@ -1,6 +1,6 @@
 code_url = "https://github.com/hackforla/CivicTechJobs"
 git_url = "git://github.com/hackforla/CivicTechJobs.git"
-last_commit = "2022-08-17T04:33:56Z"
+last_commit = "2023-02-24T23:55:48Z"
 name = "CivicTechJobs"
 organization_name = "Hack for LA Brigade"
 topics = [
@@ -29,7 +29,7 @@ has_wiki = true
 homepage = ""
 id = 297_491_982
 is_template = false
-language = "JavaScript"
+language = "TypeScript"
 name = "CivicTechJobs"
 node_id = "MDEwOlJlcG9zaXRvcnkyOTc0OTE5ODI="
 open_issues_within = 1_000
@@ -44,7 +44,7 @@ topics = [
   "hack-for-la",
   "volunteer-opportunities"
 ]
-updated_within = "month"
+updated_within = "week"
 visibility = "public"
 watchers_within = 10
 web_commit_signoff_required = false
