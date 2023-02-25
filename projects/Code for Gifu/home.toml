@@ -1,7 +1,7 @@
 code_url = "https://github.com/CODE-for-GIFU/home"
 description = "CODE for GIFUのホームページです"
 git_url = "git://github.com/CODE-for-GIFU/home.git"
-last_commit = "2023-01-14T05:57:58Z"
+last_commit = "2023-02-24T22:16:47Z"
 name = "home"
 organization_name = "Code for Gifu"
 
@@ -28,7 +28,7 @@ name = "home"
 node_id = "MDEwOlJlcG9zaXRvcnkyNDU3MTE2NzA="
 open_issues_within = 0
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
 updated_within = "over_a_year"
