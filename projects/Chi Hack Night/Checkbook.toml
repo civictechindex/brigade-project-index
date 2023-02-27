@@ -1,6 +1,6 @@
 code_url = "https://github.com/NYCComptroller/Checkbook"
 git_branch = "develop"
-last_pushed_within = "month"
+last_pushed_within = "year"
 link_url = "https://checkbooknyc.com/"
 name = "Checkbook"
 open_issues_within = 100
