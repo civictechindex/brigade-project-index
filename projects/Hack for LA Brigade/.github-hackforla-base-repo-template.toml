@@ -35,7 +35,7 @@ name = ".github-hackforla-base-repo-template"
 node_id = "MDEwOlJlcG9zaXRvcnkxOTIyNzk4Mjg="
 open_issues_within = 10
 private = false
-pushed_within = "week"
+pushed_within = "month"
 score = 1
 stargazers_within = 10
 topics = [
@@ -45,7 +45,7 @@ topics = [
   "template",
   "wiki"
 ]
-updated_within = "week"
+updated_within = "month"
 visibility = "public"
 watchers_within = 10
 web_commit_signoff_required = false
