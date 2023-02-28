@@ -1,7 +1,8 @@
 code_url = "https://github.com/mysociety/politician_data"
 description = "Spreadsheet versions of TWFY's people.json"
 git_url = "git://github.com/mysociety/politician_data.git"
-last_commit = "2023-02-22T21:51:45Z"
+last_commit = "2023-02-28T11:33:42Z"
+link_url = "http://pages.mysociety.org/politician_data/"
 name = "politician_data"
 organization_name = "mySociety"
 
@@ -18,9 +19,10 @@ full_name = "mysociety/politician_data"
 has_discussions = false
 has_downloads = true
 has_issues = true
-has_pages = false
+has_pages = true
 has_projects = true
 has_wiki = true
+homepage = "http://pages.mysociety.org/politician_data/"
 id = 605_302_305
 is_template = false
 language = "Jupyter Notebook"
