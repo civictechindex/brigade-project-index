@@ -1,6 +1,6 @@
 code_url = "https://github.com/CodeForPhilly/chime"
 description = "Hey! If you're at this page you're hopefully looking to help out with the CHIME project. Please join us in Slack or on github to join in!"
-last_commit = "2022-08-03T00:20:09Z"
+last_commit = "2023-03-01T16:20:43Z"
 link_url = "https://penn-chime.phl.io/"
 name = "chime"
 organization_name = "Code for Philly"
@@ -32,7 +32,7 @@ network_count = 152
 node_id = "MDEwOlJlcG9zaXRvcnkyNDgwMTE1MDk="
 open_issues_within = 100
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 1_000
 subscribers_count = 26
 temp_clone_token = ""
