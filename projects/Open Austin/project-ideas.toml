@@ -1,7 +1,7 @@
 code_url = "https://github.com/open-austin/project-ideas"
 description = ":bulb: A place to collect ideas for Open Austin projects"
 git_url = "git://github.com/open-austin/project-ideas.git"
-last_commit = "2018-04-07T03:21:31Z"
+last_commit = "2023-03-02T19:41:42Z"
 name = "project-ideas"
 organization_name = "Open Austin"
 
@@ -28,7 +28,7 @@ name = "project-ideas"
 node_id = "MDEwOlJlcG9zaXRvcnkzODMyOTMxMw=="
 open_issues_within = 100
 private = false
-pushed_within = "over_a_year"
+pushed_within = "week"
 stargazers_within = 1_000
 topics = [ ]
 updated_within = "week"
