@@ -1,7 +1,7 @@
 code_url = "https://github.com/codeforatlanta/atlanta-candidate-ui"
 description = "UI for https://github.com/jordanstreiff/atlanta-candidate-api"
 git_url = "git://github.com/codeforatlanta/atlanta-candidate-ui.git"
-last_commit = "2023-02-23T13:05:23Z"
+last_commit = "2023-03-02T14:59:46Z"
 name = "atlanta-candidate-ui"
 organization_name = "Code for Atlanta"
 
@@ -28,7 +28,7 @@ name = "atlanta-candidate-ui"
 node_id = "MDEwOlJlcG9zaXRvcnk5Mzc3MjE4OQ=="
 open_issues_within = 10
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
 updated_within = "month"
