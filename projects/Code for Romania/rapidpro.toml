@@ -1,0 +1,59 @@
+code_url = "https://github.com/code4romania/rapidpro"
+description = "Dockerfiles for a RapidPro installation"
+git_url = "git://github.com/code4romania/rapidpro.git"
+last_commit = "2023-03-03T12:01:29Z"
+name = "rapidpro"
+organization_name = "Code for Romania"
+
+[github]
+allow_forking = true
+archived = false
+created_at = "2023-03-03T10:24:41Z"
+default_branch = "main"
+description = "Dockerfiles for a RapidPro installation"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "code4romania/rapidpro"
+has_discussions = false
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = false
+has_wiki = true
+homepage = ""
+id = 609_075_961
+is_template = false
+language = "Dockerfile"
+name = "rapidpro"
+node_id = "R_kgDOJE3C-Q"
+open_issues_within = 0
+private = false
+pushed_within = "week"
+stargazers_within = 0
+topics = [ ]
+updated_within = "week"
+visibility = "public"
+watchers_within = 0
+web_commit_signoff_required = false
+
+  [github.license]
+  key = "mpl-2.0"
+  name = "Mozilla Public License 2.0"
+  node_id = "MDc6TGljZW5zZTE0"
+  spdx_id = "MPL-2.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 18_010_308
+  login = "code4romania"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE4MDEwMzA4"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  maintain = false
+  pull = true
+  push = false
+  triage = false
