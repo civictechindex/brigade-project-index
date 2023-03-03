@@ -1,7 +1,7 @@
 code_url = "https://github.com/code-for-syracuse/syracuse-tenants-union"
 git_branch = "master"
 git_url = "git://github.com/code-for-syracuse/syracuse-tenants-union.git"
-last_pushed_within = "year"
+last_pushed_within = "week"
 name = "syracuse-tenants-union"
 open_issues_within = 10
 organization_name = "Code for Syracuse"
