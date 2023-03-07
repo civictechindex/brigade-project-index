@@ -1,7 +1,7 @@
 code_url = "https://github.com/mysociety/writetothem"
 description = "Write to your MP, MEP, & other elected representatives."
 git_url = "git://github.com/mysociety/writetothem.git"
-last_commit = "2022-11-21T12:24:54Z"
+last_commit = "2023-02-14T08:48:42Z"
 link_url = "https://www.writetothem.com"
 name = "writetothem"
 organization_name = "mySociety"
@@ -39,7 +39,7 @@ name = "writetothem"
 node_id = "MDEwOlJlcG9zaXRvcnk0Nzg4MDQ="
 open_issues_within = 1_000
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 100
 topics = [
   "civic-tech",
