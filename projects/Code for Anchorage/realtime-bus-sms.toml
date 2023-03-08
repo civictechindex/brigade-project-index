@@ -1,7 +1,7 @@
 code_url = "https://github.com/codeforanchorage/realtime-bus-sms"
 description = 'Text back current arrival time for buses given a texted in bus stop number for People Mover. AddressLookup branch would allow texting "Arctic and Fireweed"'
 git_url = "git://github.com/codeforanchorage/realtime-bus-sms.git"
-last_commit = "2023-03-06T21:20:33Z"
+last_commit = "2023-03-08T04:56:03Z"
 link_url = "https://bus.codeforanchorage.org"
 name = "realtime-bus-sms"
 organization_name = "Code for Anchorage"
@@ -20,7 +20,7 @@ full_name = "codeforanchorage/realtime-bus-sms"
 has_discussions = false
 has_downloads = true
 has_issues = true
-has_pages = false
+has_pages = true
 has_projects = true
 has_wiki = true
 homepage = "https://bus.codeforanchorage.org"
