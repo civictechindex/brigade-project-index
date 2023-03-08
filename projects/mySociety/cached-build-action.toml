@@ -1,7 +1,7 @@
 code_url = "https://github.com/mysociety/cached-build-action"
 description = "Assuming a top-level Dockerfile and docker-compose, build cached images to the current repo register"
 git_url = "git://github.com/mysociety/cached-build-action.git"
-last_commit = "2023-03-08T07:24:52Z"
+last_commit = "2023-03-08T12:21:47Z"
 name = "cached-build-action"
 organization_name = "mySociety"
 
