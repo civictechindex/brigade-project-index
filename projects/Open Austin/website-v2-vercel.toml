@@ -1,4 +1,5 @@
 code_url = "https://github.com/open-austin/website-v2-vercel"
+description = "The latest incarnation of the Open Austin website!"
 git_branch = "main"
 git_url = "git://github.com/open-austin/website-v2-vercel.git"
 last_pushed_within = "month"
