@@ -1,7 +1,7 @@
 code_url = "https://github.com/mysociety/open311-adapter"
 description = "An Open311 adapter to receive Open311 reports from FixMyStreet and send them on to non-Open311 services"
 git_url = "git://github.com/mysociety/open311-adapter.git"
-last_commit = "2023-03-03T20:17:48Z"
+last_commit = "2023-03-07T17:22:17Z"
 name = "open311-adapter"
 organization_name = "mySociety"
 
