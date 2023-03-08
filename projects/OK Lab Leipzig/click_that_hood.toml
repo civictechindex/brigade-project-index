@@ -1,0 +1,59 @@
+code_url = "https://github.com/CodeforLeipzig/click_that_hood"
+description = "A game where users must identify a city's neighborhoods as fast as possible"
+git_url = "git://github.com/CodeforLeipzig/click_that_hood.git"
+last_commit = "2023-02-23T14:24:51Z"
+link_url = "http://click-that-hood.com"
+name = "click_that_hood"
+organization_name = "OK Lab Leipzig"
+
+[github]
+allow_forking = true
+archived = false
+created_at = "2023-03-08T20:29:35Z"
+default_branch = "main"
+description = "A game where users must identify a city's neighborhoods as fast as possible"
+disabled = false
+fork = true
+forks_within = 0
+full_name = "CodeforLeipzig/click_that_hood"
+has_discussions = false
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://click-that-hood.com"
+id = 611_436_117
+is_template = false
+name = "click_that_hood"
+node_id = "R_kgDOJHHGVQ"
+open_issues_within = 0
+private = false
+pushed_within = "week"
+stargazers_within = 0
+topics = [ ]
+updated_within = "week"
+visibility = "public"
+watchers_within = 0
+web_commit_signoff_required = false
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 7_286_986
+  login = "CodeforLeipzig"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjcyODY5ODY="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  maintain = false
+  pull = true
+  push = false
+  triage = false
