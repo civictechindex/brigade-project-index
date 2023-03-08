@@ -1,38 +1,45 @@
-code_url = "https://github.com/mysociety/front_page_screenshots"
-git_url = "git://github.com/mysociety/front_page_screenshots.git"
-last_commit = "2023-03-08T08:06:28Z"
-name = "front_page_screenshots"
+code_url = "https://github.com/mysociety/run-in-devcontainer"
+description = "Run a series of commands inside the default devcontainer"
+git_url = "git://github.com/mysociety/run-in-devcontainer.git"
+last_commit = "2023-03-08T07:41:25Z"
+name = "run-in-devcontainer"
 organization_name = "mySociety"
 
 [github]
 allow_forking = true
 archived = false
-created_at = "2022-07-15T13:58:47Z"
+created_at = "2023-03-08T07:29:25Z"
 default_branch = "main"
+description = "Run a series of commands inside the default devcontainer"
 disabled = false
 fork = false
 forks_within = 0
-full_name = "mysociety/front_page_screenshots"
+full_name = "mysociety/run-in-devcontainer"
 has_discussions = false
 has_downloads = true
 has_issues = true
 has_pages = false
 has_projects = true
 has_wiki = true
-id = 514_289_141
+id = 611_135_581
 is_template = false
-language = "Jinja"
-name = "front_page_screenshots"
-node_id = "R_kgDOHqdt9Q"
+name = "run-in-devcontainer"
+node_id = "R_kgDOJG0wXQ"
 open_issues_within = 0
 private = false
 pushed_within = "week"
-stargazers_within = 10
+stargazers_within = 0
 topics = [ ]
-updated_within = "year"
+updated_within = "week"
 visibility = "public"
-watchers_within = 10
+watchers_within = 0
 web_commit_signoff_required = false
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
 
   [github.owner]
   gravatar_id = ""
