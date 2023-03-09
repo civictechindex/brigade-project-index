@@ -1,7 +1,7 @@
 code_url = "https://github.com/CodeForChofu/tokyo-chofu-open-data"
 description = "東京都調布市が公開しているオープンデータをいろいろと活用していきます。"
 git_url = "git://github.com/CodeForChofu/tokyo-chofu-open-data.git"
-last_commit = "2022-10-10T03:02:26Z"
+last_commit = "2023-03-09T00:55:09Z"
 link_url = "https://codeforchofu.github.io/tokyo-chofu-open-data/"
 name = "tokyo-chofu-open-data"
 organization_name = "Code for Chofu"
@@ -30,7 +30,7 @@ name = "tokyo-chofu-open-data"
 node_id = "R_kgDOIK2LTw"
 open_issues_within = 0
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 0
 topics = [ ]
 updated_within = "year"
