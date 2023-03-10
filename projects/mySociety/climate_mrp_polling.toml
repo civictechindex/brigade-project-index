@@ -1,7 +1,8 @@
 code_url = "https://github.com/mysociety/climate_mrp_polling"
 description = "Adapt climate related constituency MRP results to LAs"
 git_url = "git://github.com/mysociety/climate_mrp_polling.git"
-last_commit = "2023-03-09T12:36:33Z"
+last_commit = "2023-03-10T11:51:11Z"
+link_url = "https://pages.mysociety.org/climate_mrp_polling/"
 name = "climate_mrp_polling"
 organization_name = "mySociety"
 
@@ -18,9 +19,10 @@ full_name = "mysociety/climate_mrp_polling"
 has_discussions = false
 has_downloads = true
 has_issues = true
-has_pages = false
+has_pages = true
 has_projects = true
 has_wiki = true
+homepage = "https://pages.mysociety.org/climate_mrp_polling/"
 id = 611_683_293
 is_template = false
 language = "Jupyter Notebook"
