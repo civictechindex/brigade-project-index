@@ -15,7 +15,7 @@ description = "Modular hospital finder app. Uses hospital data lists and matches
 disabled = false
 fork = false
 forks_within = 10
-full_name = "crsmyz/hospital-finder"
+full_name = "medy-io/hospital-finder"
 has_discussions = false
 has_downloads = true
 has_issues = true
@@ -44,7 +44,7 @@ web_commit_signoff_required = false
   [github.owner]
   gravatar_id = ""
   id = 6_206_785
-  login = "crsmyz"
+  login = "medy-io"
   node_id = "MDQ6VXNlcjYyMDY3ODU="
   site_admin = false
   type = "User"
