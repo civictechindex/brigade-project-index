@@ -1,7 +1,7 @@
 code_url = "https://github.com/18F/redis-session-store"
 description = "A simple session store for Rails based on Redis."
 git_url = "git://github.com/18F/redis-session-store.git"
-last_commit = "2022-11-27T22:02:08Z"
+last_commit = "2023-03-10T19:05:05Z"
 link_url = "http://github.com/roidrage/redis-session-store"
 name = "redis-session-store"
 organization_name = "18F"
@@ -28,7 +28,7 @@ is_template = false
 language = "Ruby"
 name = "redis-session-store"
 node_id = "MDEwOlJlcG9zaXRvcnk4MzU4MzAzMQ=="
-open_issues_within = 10
+open_issues_within = 0
 private = false
 pushed_within = "week"
 stargazers_within = 10
