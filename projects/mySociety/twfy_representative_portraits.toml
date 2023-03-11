@@ -1,7 +1,7 @@
 code_url = "https://github.com/mysociety/twfy_representative_portraits"
 description = "Images and sourcing script for representative portraits."
 git_url = "git://github.com/mysociety/twfy_representative_portraits.git"
-last_commit = "2023-03-08T08:26:49Z"
+last_commit = "2023-03-10T16:56:44Z"
 name = "twfy_representative_portraits"
 organization_name = "mySociety"
 
@@ -23,7 +23,7 @@ has_projects = true
 has_wiki = true
 id = 353_063_973
 is_template = false
-language = "Jupyter Notebook"
+language = "Python"
 name = "twfy_representative_portraits"
 node_id = "MDEwOlJlcG9zaXRvcnkzNTMwNjM5NzM="
 open_issues_within = 10
@@ -31,7 +31,7 @@ private = false
 pushed_within = "week"
 stargazers_within = 0
 topics = [ ]
-updated_within = "over_a_year"
+updated_within = "week"
 visibility = "public"
 watchers_within = 0
 web_commit_signoff_required = false
