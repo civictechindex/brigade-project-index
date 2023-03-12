@@ -1,5 +1,6 @@
 code_url = "https://github.com/g0v/nobody"
 git_url = "git://github.com/g0v/nobody.git"
+last_commit = "2023-03-12T07:51:12Z"
 name = "nobody"
 organization_name = "g0v.tw"
 
@@ -22,7 +23,7 @@ id = 235_003_194
 is_template = false
 name = "nobody"
 node_id = "MDEwOlJlcG9zaXRvcnkyMzUwMDMxOTQ="
-open_issues_within = 10
+open_issues_within = 0
 private = false
 pushed_within = "week"
 stargazers_within = 0
