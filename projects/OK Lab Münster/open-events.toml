@@ -1,7 +1,7 @@
 code_url = "https://github.com/codeformuenster/open-events"
 description = "Freie Termindatenbank inklusive diverse Scraper zum Auslesen von Terminen."
 git_url = "git://github.com/codeformuenster/open-events.git"
-last_commit = "2023-02-05T14:34:37Z"
+last_commit = "2023-03-11T14:08:10Z"
 link_url = "http://events.input23.de/"
 name = "open-events"
 organization_name = "OK Lab Münster"
@@ -30,7 +30,7 @@ name = "open-events"
 node_id = "MDEwOlJlcG9zaXRvcnkzMjQ3NzIwOA=="
 open_issues_within = 10
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
 updated_within = "year"
