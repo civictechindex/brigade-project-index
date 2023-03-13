@@ -1,6 +1,6 @@
 code_url = "https://github.com/Open-SGF/motherhood-reclaimed-website"
 git_url = "git://github.com/Open-SGF/motherhood-reclaimed-website.git"
-last_commit = "2021-11-01T04:10:00Z"
+last_commit = "2023-03-12T22:39:05Z"
 name = "motherhood-reclaimed-website"
 organization_name = "Open SGF"
 topics = [ "hacktoberfest" ]
@@ -28,7 +28,7 @@ name = "motherhood-reclaimed-website"
 node_id = "MDEwOlJlcG9zaXRvcnkzNjYyMDY1NDA="
 open_issues_within = 10
 private = false
-pushed_within = "over_a_year"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ "hacktoberfest" ]
 updated_within = "year"
