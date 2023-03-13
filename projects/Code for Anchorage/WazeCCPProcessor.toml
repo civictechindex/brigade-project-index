@@ -1,6 +1,7 @@
 code_url = "https://github.com/codeforanchorage/WazeCCPProcessor"
 description = "Takes Waze CCP data feed and processes it in Amazon AWS for querying."
 git_url = "git://github.com/codeforanchorage/WazeCCPProcessor.git"
+last_commit = "2017-11-16T21:43:06Z"
 name = "WazeCCPProcessor"
 organization_name = "Code for Anchorage"
 
