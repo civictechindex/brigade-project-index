@@ -1,7 +1,7 @@
 code_url = "https://github.com/18F/charlie"
 description = "18F's Slack bot, Charlie. Built on Bolt"
 git_url = "git://github.com/18F/charlie.git"
-last_commit = "2023-02-27T21:03:27Z"
+last_commit = "2023-03-13T18:39:23Z"
 name = "charlie"
 organization_name = "18F"
 
@@ -29,7 +29,7 @@ name = "charlie"
 node_id = "MDEwOlJlcG9zaXRvcnkyNDE4NzA3Nw=="
 open_issues_within = 10
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 100
 topics = [ ]
 updated_within = "year"
