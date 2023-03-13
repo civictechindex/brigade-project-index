@@ -1,6 +1,7 @@
 code_url = "https://github.com/Chicago/tweetstreamwrapper"
 description = "Wrapper for python tweetstream library; handles connection failures, makes it easier to put tweets in mongo / redis / etc. Definitely under construction."
 git_url = "git://github.com/Chicago/tweetstreamwrapper.git"
+last_commit = "2012-04-22T15:40:45Z"
 name = "tweetstreamwrapper"
 organization_name = "City of Chicago Department of Innovation and Technology"
 
