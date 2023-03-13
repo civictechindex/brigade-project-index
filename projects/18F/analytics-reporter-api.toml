@@ -1,39 +1,39 @@
-code_url = "https://github.com/18F/join.tts.gsa.gov"
-git_url = "git://github.com/18F/join.tts.gsa.gov.git"
-last_commit = "2023-03-13T17:53:57Z"
-link_url = "https://join.tts.gsa.gov/"
-name = "join.tts.gsa.gov"
+code_url = "https://github.com/18F/analytics-reporter-api"
+description = "The Analytics API maintains the schema for the database that the Analytics Reporter writes to."
+git_url = "git://github.com/18F/analytics-reporter-api.git"
+last_commit = "2021-08-02T15:24:26Z"
+name = "analytics-reporter-api"
 organization_name = "18F"
 
 [github]
 allow_forking = true
 archived = false
-created_at = "2017-12-21T20:25:27Z"
-default_branch = "main"
+created_at = "2017-03-09T17:56:57Z"
+default_branch = "master"
+description = "The Analytics API maintains the schema for the database that the Analytics Reporter writes to."
 disabled = false
 fork = false
-forks_within = 100
-full_name = "18F/join.tts.gsa.gov"
+forks_within = 10
+full_name = "18F/analytics-reporter-api"
 has_discussions = false
 has_downloads = true
 has_issues = true
 has_pages = false
 has_projects = true
-has_wiki = true
-homepage = "https://join.tts.gsa.gov/"
-id = 115_044_125
+has_wiki = false
+id = 84_472_607
 is_template = false
-language = "HTML"
-name = "join.tts.gsa.gov"
-node_id = "MDEwOlJlcG9zaXRvcnkxMTUwNDQxMjU="
+language = "JavaScript"
+name = "analytics-reporter-api"
+node_id = "MDEwOlJlcG9zaXRvcnk4NDQ3MjYwNw=="
 open_issues_within = 100
 private = false
 pushed_within = "week"
-stargazers_within = 100
+stargazers_within = 10
 topics = [ ]
 updated_within = "week"
 visibility = "public"
-watchers_within = 100
+watchers_within = 10
 web_commit_signoff_required = false
 
   [github.license]
