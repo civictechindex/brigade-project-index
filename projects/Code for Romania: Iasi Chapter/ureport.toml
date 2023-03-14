@@ -1,7 +1,7 @@
 code_url = "https://github.com/code4romania/ureport"
 description = "Dashboard module for UReport working against RapidPro data"
 git_url = "git://github.com/code4romania/ureport.git"
-last_commit = "2023-03-13T08:16:29Z"
+last_commit = "2023-03-14T14:00:02Z"
 name = "ureport"
 organization_name = "Code for Romania: Iasi Chapter"
 
@@ -24,6 +24,7 @@ has_wiki = true
 homepage = ""
 id = 613_279_471
 is_template = false
+language = "Python"
 name = "ureport"
 node_id = "R_kgDOJI3m7w"
 open_issues_within = 0
