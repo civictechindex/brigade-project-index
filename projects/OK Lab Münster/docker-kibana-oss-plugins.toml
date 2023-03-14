@@ -1,5 +1,6 @@
 code_url = "https://github.com/codeformuenster/docker-kibana-oss-plugins"
 git_url = "git://github.com/codeformuenster/docker-kibana-oss-plugins.git"
+last_commit = "2019-10-23T03:24:36Z"
 name = "docker-kibana-oss-plugins"
 organization_name = "OK Lab Münster"
 topics = [ "dockerfile", "kibana" ]

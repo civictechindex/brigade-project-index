@@ -1,6 +1,7 @@
 code_url = "https://github.com/codeformuenster/immo-scraper"
 description = "Scraping offers for real estate markets."
 git_url = "git://github.com/codeformuenster/immo-scraper.git"
+last_commit = "2020-02-04T21:48:26Z"
 name = "immo-scraper"
 organization_name = "OK Lab Münster"
 topics = [ "dockerfile", "scraper" ]

@@ -1,6 +1,7 @@
 code_url = "https://github.com/codeformuenster/monitoring"
 description = "Prometheus deployment for monitoring our projects"
 git_url = "git://github.com/codeformuenster/monitoring.git"
+last_commit = "2018-05-29T19:26:51Z"
 name = "monitoring"
 organization_name = "OK Lab Münster"
 

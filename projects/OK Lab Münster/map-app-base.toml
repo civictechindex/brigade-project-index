@@ -1,6 +1,7 @@
 code_url = "https://github.com/codeformuenster/map-app-base"
 description = "[WIP] Code base for web apps with need for a map and search"
 git_url = "git://github.com/codeformuenster/map-app-base.git"
+last_commit = "2018-10-09T18:47:46Z"
 name = "map-app-base"
 organization_name = "OK Lab Münster"
 topics = [ "elasticsearch", "gatsby", "kinto", "react" ]
