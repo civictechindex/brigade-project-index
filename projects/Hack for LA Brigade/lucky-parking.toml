@@ -1,7 +1,7 @@
 code_url = "https://github.com/hackforla/lucky-parking"
 description = "Visualization of parking data to assist in understanding of the effects of parking policies on a neighborhood by neighborhood basis in the City of Los Angeles"
 git_url = "git://github.com/hackforla/lucky-parking.git"
-last_commit = "2023-03-02T01:44:51Z"
+last_commit = "2023-03-14T01:35:27Z"
 link_url = "https://www.hackforla.org/projects/lucky-parking.html"
 name = "lucky-parking"
 organization_name = "Hack for LA Brigade"
@@ -37,7 +37,7 @@ is_template = false
 language = "Jupyter Notebook"
 name = "lucky-parking"
 node_id = "MDEwOlJlcG9zaXRvcnkyMTY4NTQ5MjM="
-open_issues_within = 100
+open_issues_within = 1_000
 private = false
 pushed_within = "week"
 score = 1
