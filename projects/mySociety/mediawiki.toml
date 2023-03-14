@@ -1,6 +1,6 @@
 code_url = "https://github.com/mysociety/mediawiki"
 git_url = "git://github.com/mysociety/mediawiki.git"
-last_commit = "2023-02-21T10:10:05Z"
+last_commit = "2023-03-03T16:54:32Z"
 link_url = "https://www.mysociety.org/"
 name = "mediawiki"
 organization_name = "mySociety"
@@ -28,7 +28,7 @@ name = "mediawiki"
 node_id = "MDEwOlJlcG9zaXRvcnkxODA0MDc5OTQ="
 open_issues_within = 10
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 0
 topics = [ ]
 updated_within = "over_a_year"
