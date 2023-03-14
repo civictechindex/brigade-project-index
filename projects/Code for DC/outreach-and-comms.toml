@@ -1,7 +1,7 @@
 code_url = "https://github.com/codefordc/outreach-and-comms"
 description = "Centralizing common communication materials that we could use to reach out to our local community"
 git_url = "git://github.com/codefordc/outreach-and-comms.git"
-last_commit = "2023-02-28T00:43:18Z"
+last_commit = "2023-03-14T13:46:33Z"
 name = "outreach-and-comms"
 organization_name = "Code for DC"
 
@@ -25,9 +25,9 @@ id = 601_410_122
 is_template = false
 name = "outreach-and-comms"
 node_id = "R_kgDOI9jKSg"
-open_issues_within = 10
+open_issues_within = 0
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
 updated_within = "month"
