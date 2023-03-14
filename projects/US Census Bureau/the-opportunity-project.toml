@@ -1,6 +1,6 @@
 code_url = "https://github.com/uscensusbureau/the-opportunity-project"
 git_url = "git://github.com/uscensusbureau/the-opportunity-project.git"
-last_commit = "2023-03-13T16:35:09Z"
+last_commit = "2023-03-14T15:30:08Z"
 name = "the-opportunity-project"
 organization_name = "US Census Bureau"
 
@@ -24,7 +24,7 @@ is_template = false
 language = "SCSS"
 name = "the-opportunity-project"
 node_id = "MDEwOlJlcG9zaXRvcnkyNjU4NzUwNTI="
-open_issues_within = 100
+open_issues_within = 10
 private = false
 pushed_within = "week"
 stargazers_within = 10
