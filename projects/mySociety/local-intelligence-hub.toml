@@ -1,6 +1,6 @@
 code_url = "https://github.com/mysociety/local-intelligence-hub"
 git_url = "git://github.com/mysociety/local-intelligence-hub.git"
-last_commit = "2023-03-01T12:01:45Z"
+last_commit = "2023-03-15T10:45:31Z"
 link_url = "https://mysociety.github.io/local-intelligence-hub"
 name = "local-intelligence-hub"
 organization_name = "mySociety"
@@ -28,7 +28,7 @@ name = "local-intelligence-hub"
 node_id = "R_kgDOHxL6Xw"
 open_issues_within = 100
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 0
 topics = [ ]
 updated_within = "year"
