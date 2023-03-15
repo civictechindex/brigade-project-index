@@ -32,9 +32,9 @@ is_template = false
 language = "Mustache"
 name = "kubernetes-deployment"
 node_id = "MDEwOlJlcG9zaXRvcnk2OTQ4NDYxNA=="
-open_issues_within = 10
+open_issues_within = 100
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 100
 topics = [
   "cluster",
