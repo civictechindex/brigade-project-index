@@ -1,7 +1,7 @@
 code_url = "https://github.com/CodeandoMexico/mapmap"
 description = "Kit de código abierto para mapeo de rutas de transporte público."
 git_url = "git://github.com/CodeandoMexico/mapmap.git"
-last_commit = "2023-01-26T23:09:45Z"
+last_commit = "2023-03-15T02:42:24Z"
 name = "mapmap"
 organization_name = "Codeando México"
 
@@ -26,9 +26,9 @@ is_template = false
 language = "JavaScript"
 name = "mapmap"
 node_id = "R_kgDOI0tceA"
-open_issues_within = 0
+open_issues_within = 10
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
 updated_within = "year"
