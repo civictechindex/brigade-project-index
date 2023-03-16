@@ -1,7 +1,7 @@
 code_url = "https://github.com/codefordc/ballot-initiative-dashboard"
 description = "Future Ballot Initiatives Dashboard Project"
 git_url = "git://github.com/codefordc/ballot-initiative-dashboard.git"
-last_commit = "2023-02-14T02:22:27Z"
+last_commit = "2023-03-15T22:55:56Z"
 name = "ballot-initiative-dashboard"
 organization_name = "Code for DC"
 
@@ -27,7 +27,7 @@ name = "ballot-initiative-dashboard"
 node_id = "R_kgDOI9jZgQ"
 open_issues_within = 0
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 0
 topics = [ ]
 updated_within = "month"
