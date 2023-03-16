@@ -1,7 +1,7 @@
 code_url = "https://github.com/open-austin/iced-coffee"
 description = ":snowflake::coffee: Leadership Team To-Dos!"
 git_url = "git://github.com/open-austin/iced-coffee.git"
-last_commit = "2019-02-19T15:43:18Z"
+last_commit = "2023-03-16T04:09:48Z"
 name = "iced-coffee"
 organization_name = "Open Austin"
 topics = [ "civic-tech" ]
@@ -29,10 +29,10 @@ name = "iced-coffee"
 node_id = "MDEwOlJlcG9zaXRvcnk0NTA4MDA1Nw=="
 open_issues_within = 100
 private = false
-pushed_within = "over_a_year"
+pushed_within = "week"
 stargazers_within = 100
 topics = [ "civic-tech" ]
-updated_within = "year"
+updated_within = "week"
 visibility = "public"
 watchers_within = 100
 web_commit_signoff_required = false
