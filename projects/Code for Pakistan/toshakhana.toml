@@ -1,0 +1,61 @@
+code_url = "https://github.com/codeforpakistan/toshakhana"
+description = "Details of Toshakhana Gifts from 2002 onwards till to date"
+git_url = "git://github.com/codeforpakistan/toshakhana.git"
+last_commit = "2023-03-17T07:06:41Z"
+link_url = "https://docs.google.com/spreadsheets/d/1BcityOQx93ldMWiKJ7qFiIDWu65iv6H-/edit?usp=sharing&ouid=109637457666764154501&rtpof=true&sd=true"
+name = "toshakhana"
+organization_name = "Code for Pakistan"
+topics = [ "data", "google", "pdf", "sheets", "tabula" ]
+
+[github]
+allow_forking = true
+archived = false
+created_at = "2023-03-17T06:37:14Z"
+default_branch = "main"
+description = "Details of Toshakhana Gifts from 2002 onwards till to date"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "codeforpakistan/toshakhana"
+has_discussions = false
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = false
+has_wiki = false
+homepage = "https://docs.google.com/spreadsheets/d/1BcityOQx93ldMWiKJ7qFiIDWu65iv6H-/edit?usp=sharing&ouid=109637457666764154501&rtpof=true&sd=true"
+id = 615_192_862
+is_template = false
+language = "Jupyter Notebook"
+name = "toshakhana"
+node_id = "R_kgDOJKsZHg"
+open_issues_within = 0
+private = false
+pushed_within = "week"
+stargazers_within = 0
+topics = [ "data", "google", "pdf", "sheets", "tabula" ]
+updated_within = "week"
+visibility = "public"
+watchers_within = 0
+web_commit_signoff_required = false
+
+  [github.license]
+  key = "cc0-1.0"
+  name = "Creative Commons Zero v1.0 Universal"
+  node_id = "MDc6TGljZW5zZTY="
+  spdx_id = "CC0-1.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 4_421_892
+  login = "codeforpakistan"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjQ0MjE4OTI="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  maintain = false
+  pull = true
+  push = false
+  triage = false
