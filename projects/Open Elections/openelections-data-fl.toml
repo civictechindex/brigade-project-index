@@ -1,7 +1,7 @@
 code_url = "https://github.com/openelections/openelections-data-fl"
 description = "Converted CSV files of precinct-level election results"
 git_url = "git://github.com/openelections/openelections-data-fl.git"
-last_commit = "2023-03-07T23:10:26Z"
+last_commit = "2023-03-17T18:53:29Z"
 name = "openelections-data-fl"
 organization_name = "Open Elections"
 
@@ -28,7 +28,7 @@ name = "openelections-data-fl"
 node_id = "MDEwOlJlcG9zaXRvcnkyMjQwMDI5NDU="
 open_issues_within = 10
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
 updated_within = "month"
