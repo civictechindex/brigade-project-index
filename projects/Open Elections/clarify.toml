@@ -1,7 +1,7 @@
 code_url = "https://github.com/openelections/clarify"
 description = "Discover and parse results for jurisdictions that use Clarity-based election systems."
 git_url = "git://github.com/openelections/clarify.git"
-last_commit = "2023-02-22T13:56:06Z"
+last_commit = "2023-03-16T18:44:38Z"
 name = "clarify"
 organization_name = "Open Elections"
 topics = [ "clarity", "election", "python", "xml" ]
@@ -29,7 +29,7 @@ name = "clarify"
 node_id = "MDEwOlJlcG9zaXRvcnkyNjU5MDEyOQ=="
 open_issues_within = 100
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 100
 topics = [ "clarity", "election", "python", "xml" ]
 updated_within = "month"

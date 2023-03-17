@@ -1,7 +1,7 @@
 code_url = "https://github.com/openelections/specs"
 description = "Specs for OpenElections Data"
 git_url = "git://github.com/openelections/specs.git"
-last_commit = "2017-03-09T00:15:39Z"
+last_commit = "2023-03-16T15:24:56Z"
 name = "specs"
 organization_name = "Open Elections"
 
@@ -27,10 +27,10 @@ name = "specs"
 node_id = "MDEwOlJlcG9zaXRvcnk5NTQ0Nzgw"
 open_issues_within = 10
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
-updated_within = "over_a_year"
+updated_within = "week"
 visibility = "public"
 watchers_within = 10
 web_commit_signoff_required = false
