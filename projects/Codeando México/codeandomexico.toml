@@ -1,7 +1,7 @@
 code_url = "https://github.com/CodeandoMexico/codeandomexico"
 description = "Código de la página actual de Codeando México"
 git_url = "git://github.com/CodeandoMexico/codeandomexico.git"
-last_commit = "2020-09-30T00:09:28Z"
+last_commit = "2023-03-17T18:45:24Z"
 name = "codeandomexico"
 organization_name = "Codeando México"
 
@@ -28,10 +28,10 @@ name = "codeandomexico"
 node_id = "MDEwOlJlcG9zaXRvcnkxMzQ2MDUzNDQ="
 open_issues_within = 10
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
-updated_within = "year"
+updated_within = "week"
 visibility = "public"
 watchers_within = 10
 web_commit_signoff_required = false
