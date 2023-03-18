@@ -1,7 +1,7 @@
 code_url = "https://github.com/code4romania/rapidpro"
 description = "Dockerfiles for a RapidPro installation"
 git_url = "git://github.com/code4romania/rapidpro.git"
-last_commit = "2023-03-17T13:46:42Z"
+last_commit = "2023-03-17T18:02:39Z"
 name = "rapidpro"
 organization_name = "Code for Romania: Cluj Chapter"
 
@@ -32,7 +32,7 @@ private = false
 pushed_within = "week"
 stargazers_within = 0
 topics = [ ]
-updated_within = "month"
+updated_within = "week"
 visibility = "public"
 watchers_within = 0
 web_commit_signoff_required = false
