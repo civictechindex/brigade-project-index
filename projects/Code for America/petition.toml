@@ -1,6 +1,7 @@
 code_url = "https://github.com/codeforamerica/petition"
 description = "Drupal installation profile powering We The People at petitions.whitehouse.gov"
 git_url = "git://github.com/codeforamerica/petition.git"
+last_commit = "2012-09-05T00:19:53Z"
 link_url = "https://petitions.whitehouse.gov/"
 name = "petition"
 organization_name = "Code for America"

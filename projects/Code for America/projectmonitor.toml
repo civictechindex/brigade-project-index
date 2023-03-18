@@ -1,6 +1,7 @@
 code_url = "https://github.com/codeforamerica/projectmonitor"
 description = "ProjectMonitor is a CI display aggregator. It displays the status of multiple Continuous Integration builds on a single web page."
 git_url = "git://github.com/codeforamerica/projectmonitor.git"
+last_commit = "2015-07-13T22:45:52Z"
 link_url = "cfa-project-monitor.herokuapp.com"
 name = "projectmonitor"
 organization_name = "Code for America"

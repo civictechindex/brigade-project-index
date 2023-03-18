@@ -1,6 +1,7 @@
 code_url = "https://github.com/codeforamerica/heroku-buildpack-ruby"
 description = "Heroku's Ruby Buildpack for Cedar"
 git_url = "git://github.com/codeforamerica/heroku-buildpack-ruby.git"
+last_commit = "2012-06-28T00:34:36Z"
 name = "heroku-buildpack-ruby"
 organization_name = "Code for America"
 

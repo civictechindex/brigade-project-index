@@ -1,6 +1,7 @@
 code_url = "https://github.com/codeforamerica/intake"
 description = "A Django project behind the Clear My Record website"
 git_url = "git://github.com/codeforamerica/intake.git"
+last_commit = "2021-11-15T19:37:23Z"
 link_url = "https://clearmyrecord.codeforamerica.org"
 name = "intake"
 organization_name = "Code for America"

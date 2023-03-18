@@ -1,6 +1,7 @@
 code_url = "https://github.com/codeforamerica/oracle-connection-tester"
 description = "Tests ability to make a connection to an Oracle database"
 git_url = "git://github.com/codeforamerica/oracle-connection-tester.git"
+last_commit = "2016-06-07T07:52:03Z"
 name = "oracle-connection-tester"
 organization_name = "Code for America"
 
