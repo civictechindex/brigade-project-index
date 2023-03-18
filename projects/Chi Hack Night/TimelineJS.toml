@@ -2,3 +2,67 @@ code_url = "https://github.com/NUKnightLab/TimelineJS"
 last_commit = "2018-08-13T20:54:11Z"
 name = "TimelineJS"
 organization_name = "Chi Hack Night"
+
+[github]
+allow_forking = true
+archived = false
+created_at = "2012-03-06T02:12:20Z"
+default_branch = "master"
+description = "TimelineJS: A Storytelling Timeline built in JavaScript. "
+disabled = false
+fork = false
+forks_within = "over_1000"
+full_name = "NUKnightLab/TimelineJS"
+has_discussions = false
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = false
+homepage = "http://timeline.knightlab.com"
+id = 3_633_690
+is_template = false
+language = "JavaScript"
+name = "TimelineJS"
+network_count = 1_600
+node_id = "MDEwOlJlcG9zaXRvcnkzNjMzNjkw"
+open_issues_within = 1_000
+private = false
+pushed_within = "year"
+stargazers_within = "over_1000"
+subscribers_count = 409
+temp_clone_token = ""
+topics = [ ]
+updated_within = "week"
+visibility = "public"
+watchers_within = "over_1000"
+web_commit_signoff_required = false
+
+  [github.license]
+  key = "other"
+  name = "Other"
+  node_id = "MDc6TGljZW5zZTA="
+  spdx_id = "NOASSERTION"
+
+  [github.organization]
+  gravatar_id = ""
+  id = 1_273_909
+  login = "NUKnightLab"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjEyNzM5MDk="
+  site_admin = false
+  type = "Organization"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 1_273_909
+  login = "NUKnightLab"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjEyNzM5MDk="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  maintain = false
+  pull = true
+  push = false
+  triage = false

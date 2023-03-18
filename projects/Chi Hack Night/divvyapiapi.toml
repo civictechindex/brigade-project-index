@@ -2,3 +2,52 @@ code_url = "https://github.com/iandees/divvyapiapi"
 last_commit = "2016-09-08T14:01:24Z"
 name = "divvyapiapi"
 organization_name = "Chi Hack Night"
+
+[github]
+allow_forking = true
+archived = false
+created_at = "2013-07-01T16:00:06Z"
+default_branch = "master"
+description = "An API for the Divvy bike share API."
+disabled = false
+fork = false
+forks_within = 100
+full_name = "iandees/divvyapiapi"
+has_discussions = false
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+id = 11_100_018
+is_template = false
+language = "HTML"
+name = "divvyapiapi"
+network_count = 11
+node_id = "MDEwOlJlcG9zaXRvcnkxMTEwMDAxOA=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 100
+subscribers_count = 6
+temp_clone_token = ""
+topics = [ ]
+updated_within = "over_a_year"
+visibility = "public"
+watchers_within = 100
+web_commit_signoff_required = false
+
+  [github.owner]
+  gravatar_id = ""
+  id = 261_584
+  login = "iandees"
+  node_id = "MDQ6VXNlcjI2MTU4NA=="
+  site_admin = false
+  type = "User"
+
+  [github.permissions]
+  admin = false
+  maintain = false
+  pull = true
+  push = false
+  triage = false

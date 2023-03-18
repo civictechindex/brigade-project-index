@@ -2,3 +2,59 @@ code_url = "https://github.com/derekeder/csv-to-html-table"
 last_commit = "2023-03-02T19:57:15Z"
 name = "csv-to-html-table"
 organization_name = "Chi Hack Night"
+
+[github]
+allow_forking = true
+archived = false
+created_at = "2015-06-13T19:23:11Z"
+default_branch = "master"
+description = ":arrow_down_small: Display any CSV (comma separated values) file as a searchable, filterable, pretty HTML table"
+disabled = false
+fork = false
+forks_within = 1_000
+full_name = "derekeder/csv-to-html-table"
+has_discussions = false
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "http://derekeder.github.io/csv-to-html-table/"
+id = 37_384_762
+is_template = false
+language = "CSS"
+name = "csv-to-html-table"
+network_count = 307
+node_id = "MDEwOlJlcG9zaXRvcnkzNzM4NDc2Mg=="
+open_issues_within = 100
+private = false
+pushed_within = "month"
+stargazers_within = 1_000
+subscribers_count = 41
+temp_clone_token = ""
+topics = [ ]
+updated_within = "month"
+visibility = "public"
+watchers_within = 1_000
+web_commit_signoff_required = false
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 919_583
+  login = "derekeder"
+  node_id = "MDQ6VXNlcjkxOTU4Mw=="
+  site_admin = false
+  type = "User"
+
+  [github.permissions]
+  admin = false
+  maintain = false
+  pull = true
+  push = false
+  triage = false

@@ -2,3 +2,59 @@ code_url = "https://github.com/AnalyticsMJ/prf"
 last_commit = "2013-10-25T16:21:40Z"
 name = "prf"
 organization_name = "Chi Hack Night"
+
+[github]
+allow_forking = true
+archived = false
+created_at = "2013-09-20T15:05:52Z"
+default_branch = "master"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "AnalyticsMJ/prf"
+has_discussions = false
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+id = 12_976_410
+is_template = false
+language = "Shell"
+name = "prf"
+network_count = 3
+node_id = "MDEwOlJlcG9zaXRvcnkxMjk3NjQxMA=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+subscribers_count = 2
+temp_clone_token = ""
+topics = [ ]
+updated_within = "over_a_year"
+visibility = "public"
+watchers_within = 10
+web_commit_signoff_required = false
+
+  [github.organization]
+  gravatar_id = ""
+  id = 5_502_544
+  login = "AnalyticsMJ"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjU1MDI1NDQ="
+  site_admin = false
+  type = "Organization"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 5_502_544
+  login = "AnalyticsMJ"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjU1MDI1NDQ="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  maintain = false
+  pull = true
+  push = false
+  triage = false

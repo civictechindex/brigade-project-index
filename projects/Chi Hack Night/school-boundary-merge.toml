@@ -2,3 +2,60 @@ code_url = "https://github.com/datamade/school-boundary-merge"
 last_commit = "2014-02-16T00:00:28Z"
 name = "school-boundary-merge"
 organization_name = "Chi Hack Night"
+
+[github]
+allow_forking = true
+archived = false
+created_at = "2014-02-15T23:18:13Z"
+default_branch = "master"
+description = "Scripts and source data to create one file with all the attendance boundaries for all public schools in Chicago"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "datamade/school-boundary-merge"
+has_discussions = false
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+id = 16_874_060
+is_template = false
+language = "Python"
+name = "school-boundary-merge"
+network_count = 2
+node_id = "MDEwOlJlcG9zaXRvcnkxNjg3NDA2MA=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+subscribers_count = 6
+temp_clone_token = ""
+topics = [ ]
+updated_within = "over_a_year"
+visibility = "public"
+watchers_within = 10
+web_commit_signoff_required = false
+
+  [github.organization]
+  gravatar_id = ""
+  id = 3_723_931
+  login = "datamade"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM3MjM5MzE="
+  site_admin = false
+  type = "Organization"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 3_723_931
+  login = "datamade"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM3MjM5MzE="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  maintain = false
+  pull = true
+  push = false
+  triage = false

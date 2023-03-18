@@ -2,3 +2,67 @@ code_url = "https://github.com/open-city/second-city-zoning"
 last_commit = "2022-09-23T16:50:44Z"
 name = "second-city-zoning"
 organization_name = "Chi Hack Night"
+
+[github]
+allow_forking = true
+archived = false
+created_at = "2012-08-14T22:32:35Z"
+default_branch = "main"
+description = "🏙 2nd City Zoning is an interactive map that lets you find out how your building is zoned, learn where to locate your business and explore zoning patterns throughout Chicago"
+disabled = false
+fork = false
+forks_within = 100
+full_name = "datamade/second-city-zoning"
+has_discussions = false
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "https://secondcityzoning.org"
+id = 5_419_447
+is_template = false
+language = "HTML"
+name = "second-city-zoning"
+network_count = 19
+node_id = "MDEwOlJlcG9zaXRvcnk1NDE5NDQ3"
+open_issues_within = 0
+private = false
+pushed_within = "year"
+stargazers_within = 100
+subscribers_count = 7
+temp_clone_token = ""
+topics = [ "chicago", "city-zoning", "javascript" ]
+updated_within = "year"
+visibility = "public"
+watchers_within = 100
+web_commit_signoff_required = false
+
+  [github.license]
+  key = "other"
+  name = "Other"
+  node_id = "MDc6TGljZW5zZTA="
+  spdx_id = "NOASSERTION"
+
+  [github.organization]
+  gravatar_id = ""
+  id = 3_723_931
+  login = "datamade"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM3MjM5MzE="
+  site_admin = false
+  type = "Organization"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 3_723_931
+  login = "datamade"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM3MjM5MzE="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  maintain = false
+  pull = true
+  push = false
+  triage = false
