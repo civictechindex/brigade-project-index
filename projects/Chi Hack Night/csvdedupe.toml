@@ -2,3 +2,73 @@ code_url = "https://github.com/datamade/csvdedupe"
 last_commit = "2020-03-31T20:36:58Z"
 name = "csvdedupe"
 organization_name = "Chi Hack Night"
+
+[github]
+allow_forking = true
+archived = false
+created_at = "2013-07-11T14:23:33Z"
+default_branch = "master"
+description = ":id: Command line tool for deduplicating CSV files"
+disabled = false
+fork = false
+forks_within = 100
+full_name = "dedupeio/csvdedupe"
+has_discussions = false
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = false
+homepage = ""
+id = 11_343_900
+is_template = false
+language = "Python"
+name = "csvdedupe"
+network_count = 80
+node_id = "MDEwOlJlcG9zaXRvcnkxMTM0MzkwMA=="
+open_issues_within = 100
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 1_000
+subscribers_count = 15
+temp_clone_token = ""
+topics = [
+  "cli",
+  "csv-files",
+  "dedupe",
+  "entity-resolution",
+  "record-linkage"
+]
+updated_within = "month"
+visibility = "public"
+watchers_within = 1_000
+web_commit_signoff_required = false
+
+  [github.license]
+  key = "other"
+  name = "Other"
+  node_id = "MDc6TGljZW5zZTA="
+  spdx_id = "NOASSERTION"
+
+  [github.organization]
+  gravatar_id = ""
+  id = 27_521_766
+  login = "dedupeio"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI3NTIxNzY2"
+  site_admin = false
+  type = "Organization"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 27_521_766
+  login = "dedupeio"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI3NTIxNzY2"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  maintain = false
+  pull = true
+  push = false
+  triage = false
