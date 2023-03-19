@@ -1,7 +1,6 @@
 code_url = "https://github.com/code4romania/terraform-aws-website-factory"
 description = "AWS terraform for Website Factory"
 git_url = "git://github.com/code4romania/terraform-aws-website-factory.git"
-last_commit = "2023-01-25T13:43:42Z"
 name = "terraform-aws-website-factory"
 organization_name = "Code for Romania: Cluj Chapter"
 topics = [ "aws", "infrastructure", "terraform", "website-factory" ]
