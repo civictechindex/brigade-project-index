@@ -1,6 +1,6 @@
 code_url = "https://github.com/ncosd/food-pantry-app"
 description = "Food Pantry App is a web app created to make it easier to operate a food pantry or food bank, reduce food insecurity, and help people in need."
-last_commit = "2023-03-04T20:57:17Z"
+last_commit = "2023-03-19T14:57:56Z"
 name = "food_pantry_app"
 organization_name = "Code for Philly"
 status = "Maintaining"
@@ -31,7 +31,7 @@ network_count = 2
 node_id = "MDEwOlJlcG9zaXRvcnk0ODQwODQxMQ=="
 open_issues_within = 100
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 10
 subscribers_count = 3
 temp_clone_token = ""
