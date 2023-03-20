@@ -1,7 +1,7 @@
 code_url = "https://github.com/code4romania/rapidpro"
 description = "Dockerfiles for a RapidPro installation"
 git_url = "git://github.com/code4romania/rapidpro.git"
-last_commit = "2023-03-17T18:02:39Z"
+last_commit = "2023-03-20T13:55:30Z"
 name = "rapidpro"
 organization_name = "Code for Romania: Iasi Chapter"
 
@@ -24,7 +24,7 @@ has_wiki = true
 homepage = ""
 id = 609_075_961
 is_template = false
-language = "HCL"
+language = "Python"
 name = "rapidpro"
 node_id = "R_kgDOJE3C-Q"
 open_issues_within = 0
