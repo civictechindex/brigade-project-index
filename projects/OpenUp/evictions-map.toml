@@ -1,6 +1,6 @@
 code_url = "https://github.com/OpenUpSA/evictions-map"
 git_branch = "main"
 git_url = "git://github.com/OpenUpSA/evictions-map.git"
-last_pushed_within = "week"
+last_pushed_within = "month"
 name = "evictions-map"
 organization_name = "OpenUp"
