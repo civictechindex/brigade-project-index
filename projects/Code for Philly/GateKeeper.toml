@@ -1,6 +1,5 @@
 code_url = "https://github.com/JarvusInnovations/GateKeeper"
 description = "GateKeeper is a web application designed to sit between internal API endpoints and public users, acting as a proxy. It provides a central facility for logging, analyzing, rate-limiting, and credentialing access."
-last_commit = "2022-03-28T04:31:01Z"
 link_url = "http://gatekeeper.phlapi.com/"
 name = "GateKeeper"
 organization_name = "Code for Philly"
