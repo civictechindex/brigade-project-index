@@ -1,7 +1,10 @@
 code_url = "https://github.com/codeforphilly/cityx/"
 description = "DeputyDashboard"
+git_branch = "master"
+last_pushed_within = "over_a_year"
 link_url = "https://github.com/codeforphilly/cityx/"
 name = "deputy-dashboard"
+open_issues_within = 10
 organization_name = "Code for Philly"
 status = "Testing"
 topics = [ "Parcel", "permits", "Property", "violations" ]
