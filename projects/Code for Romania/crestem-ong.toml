@@ -1,6 +1,6 @@
 code_url = "https://github.com/code4romania/crestem-ong"
 git_url = "git://github.com/code4romania/crestem-ong.git"
-last_commit = "2023-03-12T18:43:51Z"
+last_commit = "2023-03-21T12:16:18Z"
 link_url = "https://crestem-ong.vercel.app"
 name = "crestem-ong"
 organization_name = "Code for Romania"
@@ -28,7 +28,7 @@ name = "crestem-ong"
 node_id = "R_kgDOIwf0UQ"
 open_issues_within = 0
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 0
 topics = [ ]
 updated_within = "month"
