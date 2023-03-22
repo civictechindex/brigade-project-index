@@ -1,7 +1,7 @@
 code_url = "https://github.com/CodeForAfrica/gmmp"
 description = "The Global Media Monitoring Project (GMMP) is the largest and longest longitudinal study on the gender in the world’s media.  It is also the largest advocacy initiative in the world on changing the representation of women in the media. This is the survey tool used by GMMP researchers in over 114 countries."
 git_url = "git://github.com/CodeForAfrica/gmmp.git"
-last_commit = "2022-04-25T06:10:08Z"
+last_commit = "2023-03-22T05:17:08Z"
 link_url = "https://2020.gmmp.ngo"
 name = "gmmp"
 organization_name = "Code for Kenya"
@@ -29,7 +29,7 @@ is_template = false
 language = "Python"
 name = "gmmp"
 node_id = "MDEwOlJlcG9zaXRvcnkyMjExMTY1OTM="
-open_issues_within = 10
+open_issues_within = 0
 private = false
 pushed_within = "week"
 stargazers_within = 10
