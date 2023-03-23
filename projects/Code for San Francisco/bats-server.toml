@@ -1,6 +1,6 @@
 code_url = "https://github.com/sfbrigade/bats-server"
 git_url = "git://github.com/sfbrigade/bats-server.git"
-last_commit = "2023-03-22T15:52:24Z"
+last_commit = "2023-03-22T22:19:49Z"
 name = "bats-server"
 organization_name = "Code for San Francisco"
 
@@ -29,7 +29,7 @@ private = false
 pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
-updated_within = "week"
+updated_within = "month"
 visibility = "public"
 watchers_within = 10
 web_commit_signoff_required = false
