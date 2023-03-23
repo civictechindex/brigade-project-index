@@ -4,4 +4,5 @@ git_branch = "main"
 git_url = "git://github.com/codeforamerica/la-doc-uploader.git"
 last_pushed_within = "week"
 name = "la-doc-uploader"
+open_issues_within = 10
 organization_name = "Code for America"
