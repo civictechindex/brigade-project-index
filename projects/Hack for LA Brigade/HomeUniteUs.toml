@@ -1,7 +1,7 @@
 code_url = "https://github.com/hackforla/HomeUniteUs"
 description = "We're working with community non-profits who have a Host Home or empty bedrooms initiative to develop a workflow management tool to make the process scalable (across all providers), reduce institutional bias, and effectively capture data."
 git_url = "git://github.com/hackforla/HomeUniteUs.git"
-last_commit = "2023-03-22T01:44:25Z"
+last_commit = "2023-03-23T00:32:32Z"
 link_url = "https://homeunite.us/"
 name = "HomeUniteUs"
 organization_name = "Hack for LA Brigade"
@@ -40,7 +40,7 @@ is_template = false
 language = "TypeScript"
 name = "HomeUniteUs"
 node_id = "MDEwOlJlcG9zaXRvcnkyMjg5ODEwODA="
-open_issues_within = 1_000
+open_issues_within = 100
 private = false
 pushed_within = "week"
 score = 1
