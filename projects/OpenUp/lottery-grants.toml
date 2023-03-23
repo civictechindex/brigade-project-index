@@ -1,7 +1,7 @@
 code_url = "https://github.com/OpenUpSA/lottery-grants"
 description = "Lottery grants data and website"
 git_url = "git://github.com/OpenUpSA/lottery-grants.git"
-last_commit = "2023-01-12T15:41:44Z"
+last_commit = "2023-03-23T11:48:41Z"
 name = "lottery-grants"
 organization_name = "OpenUp"
 
@@ -28,7 +28,7 @@ name = "lottery-grants"
 node_id = "MDEwOlJlcG9zaXRvcnkzNDY3MjcyNTk="
 open_issues_within = 0
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 0
 topics = [ ]
 updated_within = "over_a_year"
