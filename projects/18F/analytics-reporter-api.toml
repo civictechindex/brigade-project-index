@@ -1,7 +1,7 @@
 code_url = "https://github.com/18F/analytics-reporter-api"
 description = "The Analytics API maintains the schema for the database that the Analytics Reporter writes to."
 git_url = "git://github.com/18F/analytics-reporter-api.git"
-last_commit = "2021-08-02T15:24:26Z"
+last_commit = "2023-03-24T20:24:54Z"
 name = "analytics-reporter-api"
 organization_name = "18F"
 
@@ -28,10 +28,10 @@ name = "analytics-reporter-api"
 node_id = "MDEwOlJlcG9zaXRvcnk4NDQ3MjYwNw=="
 open_issues_within = 100
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
-updated_within = "month"
+updated_within = "week"
 visibility = "public"
 watchers_within = 10
 web_commit_signoff_required = false
