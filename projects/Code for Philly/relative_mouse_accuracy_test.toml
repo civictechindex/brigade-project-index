@@ -1,0 +1,9 @@
+description = "Eye-tracking is an amazing accessibility tool, but there are so few ways to figure out your best setup to get the best results."
+name = "relative_mouse_accuracy_test"
+organization_name = "Code for Philly"
+status = "Bootstrapping"
+topics = [ "Accessiblilty", "Data", "Education", "Survey" ]
+
+[projects_list_extra]
+chat_channel = "relative-mouse-accuracy-test"
+title = "Relative Mouse Accuracy Test"
