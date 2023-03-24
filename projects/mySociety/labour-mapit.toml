@@ -1,6 +1,6 @@
 code_url = "https://github.com/mysociety/labour-mapit"
 git_url = "git://github.com/mysociety/labour-mapit.git"
-last_commit = "2022-02-11T21:18:57Z"
+last_commit = "2023-01-18T15:39:01Z"
 link_url = "https://www.mysociety.org/"
 name = "labour-mapit"
 organization_name = "mySociety"
@@ -26,7 +26,7 @@ is_template = false
 language = "Python"
 name = "labour-mapit"
 node_id = "R_kgDOGfY3aA"
-open_issues_within = 10
+open_issues_within = 0
 private = false
 pushed_within = "week"
 stargazers_within = 0
