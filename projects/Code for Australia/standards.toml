@@ -1,6 +1,7 @@
 code_url = "https://github.com/CodeforAustralia/standards"
 description = "Guidelines for new Code for Australia repositories. "
 git_url = "git://github.com/CodeforAustralia/standards.git"
+last_commit = "2020-07-16T04:13:04Z"
 name = "standards"
 organization_name = "Code for Australia"
 topics = [ "civictech", "guidelines", "oss" ]
