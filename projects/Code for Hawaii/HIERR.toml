@@ -1,7 +1,7 @@
 code_url = "https://github.com/CodeforHawaii/HIERR"
 description = "A Human-Centered Digital Engagement Process for the Hawai‘i Economic Recovery & Resilience Project with the State Office of Planning & Sustainable Development"
 git_url = "git://github.com/CodeforHawaii/HIERR.git"
-last_commit = "2023-03-23T04:13:09Z"
+last_commit = "2023-03-25T07:47:58Z"
 link_url = "https://hierr.vercel.app/"
 name = "HIERR"
 organization_name = "Code for Hawaii"
@@ -33,7 +33,7 @@ private = false
 pushed_within = "week"
 stargazers_within = 0
 topics = [ ]
-updated_within = "month"
+updated_within = "year"
 visibility = "public"
 watchers_within = 0
 web_commit_signoff_required = false
