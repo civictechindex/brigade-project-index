@@ -1,7 +1,7 @@
 code_url = "https://github.com/code4ikoma/5374"
 description = "奈良県生駒市版5374.jp"
 git_url = "git://github.com/code4ikoma/5374.git"
-last_commit = "2022-05-23T12:14:29Z"
+last_commit = "2023-03-26T12:31:27Z"
 name = "5374"
 organization_name = "Code for Ikoma"
 
@@ -28,7 +28,7 @@ name = "5374"
 node_id = "MDEwOlJlcG9zaXRvcnkzMjYyNDAyMw=="
 open_issues_within = 10
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 0
 topics = [ ]
 updated_within = "year"
