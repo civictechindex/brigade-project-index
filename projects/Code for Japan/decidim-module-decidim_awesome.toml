@@ -1,7 +1,7 @@
 code_url = "https://github.com/codeforjapan/decidim-module-decidim_awesome"
 description = "Additional components and Opt-In usability and UX tweaks for Decidim."
 git_url = "git://github.com/codeforjapan/decidim-module-decidim_awesome.git"
-last_commit = "2022-05-06T13:39:00Z"
+last_commit = "2023-02-27T11:17:36Z"
 name = "decidim-module-decidim_awesome"
 organization_name = "Code for Japan"
 
@@ -24,14 +24,15 @@ has_wiki = true
 homepage = ""
 id = 554_106_569
 is_template = false
+language = "Ruby"
 name = "decidim-module-decidim_awesome"
 node_id = "R_kgDOIQb-yQ"
 open_issues_within = 0
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 0
 topics = [ ]
-updated_within = "year"
+updated_within = "week"
 visibility = "public"
 watchers_within = 0
 web_commit_signoff_required = false
