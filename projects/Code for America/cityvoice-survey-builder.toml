@@ -1,6 +1,7 @@
 code_url = "https://github.com/codeforamerica/cityvoice-survey-builder"
 description = "Deploy an instance of CityVoice to Heroku without ever leaving the comfort of your web browser"
 git_url = "git://github.com/codeforamerica/cityvoice-survey-builder.git"
+last_commit = "2015-12-21T06:31:52Z"
 link_url = "https://cityvoice-setup.codeforamerica.org"
 name = "cityvoice-survey-builder"
 organization_name = "Code for America"
