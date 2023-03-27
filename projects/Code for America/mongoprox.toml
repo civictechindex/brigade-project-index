@@ -1,6 +1,7 @@
 code_url = "https://github.com/codeforamerica/mongoprox"
 description = "A proxy server for any MongoHQ instances REST API."
 git_url = "git://github.com/codeforamerica/mongoprox.git"
+last_commit = "2012-05-10T18:54:12Z"
 link_url = "http://mongoprox.herokuapp.com/databases/?limit=10"
 name = "mongoprox"
 organization_name = "Code for America"
