@@ -1,7 +1,6 @@
 code_url = "https://github.com/18F/identity-terraform"
 description = "Terraform modules published by the Login.gov team"
 git_url = "git://github.com/18F/identity-terraform.git"
-last_commit = "2023-03-14T22:40:30Z"
 name = "identity-terraform"
 organization_name = "18F"
 

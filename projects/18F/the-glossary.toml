@@ -1,7 +1,6 @@
 code_url = "https://github.com/18F/the-glossary"
 description = "Glossary for terms encountered at TTS. Machine- and human-readable. Standing on the shoulders of https://github.com/18F/procurement-glossary"
 git_url = "git://github.com/18F/the-glossary.git"
-last_commit = "2023-02-21T13:58:15Z"
 name = "the-glossary"
 organization_name = "18F"
 topics = [ "maintained" ]
