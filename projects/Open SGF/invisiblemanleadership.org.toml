@@ -1,6 +1,6 @@
 code_url = "https://github.com/Open-SGF/invisiblemanleadership.org"
 git_url = "git://github.com/Open-SGF/invisiblemanleadership.org.git"
-last_commit = "2023-03-22T00:57:15Z"
+last_commit = "2023-03-29T00:53:15Z"
 name = "invisiblemanleadership.org"
 organization_name = "Open SGF"
 
@@ -24,7 +24,7 @@ is_template = false
 language = "SCSS"
 name = "invisiblemanleadership.org"
 node_id = "R_kgDOI1hbvQ"
-open_issues_within = 10
+open_issues_within = 100
 private = false
 pushed_within = "week"
 stargazers_within = 10
