@@ -1,6 +1,6 @@
 code_url = "https://github.com/openkawasaki/govote-kawasaki"
 git_url = "git://github.com/openkawasaki/govote-kawasaki.git"
-last_commit = "2023-03-29T11:26:59Z"
+last_commit = "2023-03-29T16:46:29Z"
 name = "govote-kawasaki"
 organization_name = "Code for Kawasaki"
 
@@ -35,10 +35,10 @@ watchers_within = 0
 web_commit_signoff_required = false
 
   [github.license]
-  key = "mit"
-  name = "MIT License"
-  node_id = "MDc6TGljZW5zZTEz"
-  spdx_id = "MIT"
+  key = "other"
+  name = "Other"
+  node_id = "MDc6TGljZW5zZTA="
+  spdx_id = "NOASSERTION"
 
   [github.owner]
   gravatar_id = ""
