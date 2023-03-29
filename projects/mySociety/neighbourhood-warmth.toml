@@ -1,7 +1,7 @@
 code_url = "https://github.com/mysociety/neighbourhood-warmth"
 description = "A prototype built as part of mySociety’s April 2022 prototyping week exploring conditional commitment services around home energy."
 git_url = "git://github.com/mysociety/neighbourhood-warmth.git"
-last_commit = "2022-04-29T08:47:42Z"
+last_commit = "2023-03-17T17:21:18Z"
 link_url = "https://mysociety.github.io/neighbourhood-warmth"
 name = "neighbourhood-warmth"
 organization_name = "mySociety"
@@ -28,7 +28,7 @@ is_template = false
 language = "HTML"
 name = "neighbourhood-warmth"
 node_id = "R_kgDOHPvGbg"
-open_issues_within = 10
+open_issues_within = 100
 private = false
 pushed_within = "week"
 stargazers_within = 0
