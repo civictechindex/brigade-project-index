@@ -1,8 +1,8 @@
-code_url = "https://github.com/codeforcologne/FAQ"
+code_url = "https://github.com/codeforcologne/Lab"
 description = "Fragen und Antworten zum OKLab Köln"
-git_url = "git://github.com/codeforcologne/FAQ.git"
-last_commit = "2016-05-09T03:23:58Z"
-name = "FAQ"
+git_url = "git://github.com/codeforcologne/Lab.git"
+last_commit = "2023-03-28T09:36:45Z"
+name = "Lab"
 organization_name = "OK Lab Köln"
 
 [github]
@@ -14,7 +14,7 @@ description = "Fragen und Antworten zum OKLab Köln"
 disabled = false
 fork = false
 forks_within = 0
-full_name = "codeforcologne/FAQ"
+full_name = "codeforcologne/Lab"
 has_discussions = false
 has_downloads = true
 has_issues = true
@@ -23,14 +23,14 @@ has_projects = true
 has_wiki = true
 id = 44_768_117
 is_template = false
-name = "FAQ"
+name = "Lab"
 node_id = "MDEwOlJlcG9zaXRvcnk0NDc2ODExNw=="
 open_issues_within = 10
 private = false
-pushed_within = "over_a_year"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
-updated_within = "over_a_year"
+updated_within = "week"
 visibility = "public"
 watchers_within = 10
 web_commit_signoff_required = false
