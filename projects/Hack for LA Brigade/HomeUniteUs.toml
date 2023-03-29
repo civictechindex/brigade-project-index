@@ -40,7 +40,7 @@ is_template = false
 language = "TypeScript"
 name = "HomeUniteUs"
 node_id = "MDEwOlJlcG9zaXRvcnkyMjg5ODEwODA="
-open_issues_within = 100
+open_issues_within = 1_000
 private = false
 pushed_within = "week"
 score = 1
