@@ -1,6 +1,6 @@
 code_url = "https://github.com/openkawasaki/govote-kawasaki"
 git_url = "git://github.com/openkawasaki/govote-kawasaki.git"
-last_commit = "2023-03-29T02:58:29Z"
+last_commit = "2023-03-29T07:43:29Z"
 name = "govote-kawasaki"
 organization_name = "Code for Kawasaki"
 
@@ -13,7 +13,7 @@ disabled = false
 fork = false
 forks_within = 0
 full_name = "openkawasaki/govote-kawasaki"
-has_discussions = false
+has_discussions = true
 has_downloads = true
 has_issues = true
 has_pages = true
@@ -24,7 +24,7 @@ is_template = false
 language = "TypeScript"
 name = "govote-kawasaki"
 node_id = "R_kgDOJPhlBQ"
-open_issues_within = 0
+open_issues_within = 10
 private = false
 pushed_within = "week"
 stargazers_within = 0
