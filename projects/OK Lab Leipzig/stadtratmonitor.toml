@@ -1,7 +1,7 @@
 code_url = "https://github.com/CodeforLeipzig/stadtratmonitor"
 description = "Stadtratmonitor - Frontend"
 git_url = "git://github.com/CodeforLeipzig/stadtratmonitor.git"
-last_commit = "2020-09-20T21:17:53Z"
+last_commit = "2023-03-29T19:50:16Z"
 link_url = "https://stadtratmonitor.leipzig.codefor.de/"
 name = "stadtratmonitor"
 organization_name = "OK Lab Leipzig"
@@ -30,10 +30,10 @@ name = "stadtratmonitor"
 node_id = "MDEwOlJlcG9zaXRvcnk1MDM3MjM4OA=="
 open_issues_within = 100
 private = false
-pushed_within = "year"
+pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
-updated_within = "over_a_year"
+updated_within = "week"
 visibility = "public"
 watchers_within = 10
 web_commit_signoff_required = false
