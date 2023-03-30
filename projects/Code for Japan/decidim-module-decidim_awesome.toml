@@ -1,7 +1,7 @@
 code_url = "https://github.com/codeforjapan/decidim-module-decidim_awesome"
 description = "Additional components and Opt-In usability and UX tweaks for Decidim."
 git_url = "git://github.com/codeforjapan/decidim-module-decidim_awesome.git"
-last_commit = "2023-02-27T11:17:36Z"
+last_commit = "2023-03-30T07:17:24Z"
 name = "decidim-module-decidim_awesome"
 organization_name = "Code for Japan"
 
@@ -13,7 +13,7 @@ default_branch = "main"
 description = "Additional components and Opt-In usability and UX tweaks for Decidim."
 disabled = false
 fork = true
-forks_within = 0
+forks_within = 10
 full_name = "codeforjapan/decidim-module-decidim_awesome"
 has_discussions = false
 has_downloads = true
