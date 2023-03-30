@@ -1,7 +1,7 @@
 code_url = "https://github.com/open-austin/energy-outage"
 description = "Scrapes data from power utilities using the Kubra storm center product"
 git_url = "git://github.com/open-austin/energy-outage.git"
-last_commit = "2023-02-23T14:54:55Z"
+last_commit = "2023-03-30T00:49:29Z"
 name = "energy-outage"
 organization_name = "Open Austin"
 
@@ -27,9 +27,9 @@ is_template = false
 language = "Python"
 name = "energy-outage"
 node_id = "R_kgDOI_O3bQ"
-open_issues_within = 10
+open_issues_within = 0
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 0
 topics = [ ]
 updated_within = "month"
