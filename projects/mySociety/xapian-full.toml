@@ -1,7 +1,7 @@
 code_url = "https://github.com/mysociety/xapian-full"
 description = "Ruby Xapian bindings, including xapian-core"
 git_url = "git://github.com/mysociety/xapian-full.git"
-last_commit = "2022-12-06T16:17:06Z"
+last_commit = "2023-03-30T11:53:01Z"
 name = "xapian-full"
 organization_name = "mySociety"
 topics = [ "alaveteli" ]
@@ -30,7 +30,7 @@ name = "xapian-full"
 node_id = "MDEwOlJlcG9zaXRvcnkzMzE5NDg0OQ=="
 open_issues_within = 10
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 0
 topics = [ "alaveteli" ]
 updated_within = "year"
