@@ -1,7 +1,7 @@
 code_url = "https://github.com/18F/analytics-reporter"
 description = "Lightweight analytics reporting and publishing tool for Google Analytics data. Powers https://analytics.usa.gov, http://analytics.phila.gov, http://analytics.cityofsacramento.org, and more."
 git_url = "git://github.com/18F/analytics-reporter.git"
-last_commit = "2023-03-29T03:43:54Z"
+last_commit = "2023-03-30T18:51:05Z"
 name = "analytics-reporter"
 organization_name = "18F"
 topics = [ "analytics", "google-analytics" ]
