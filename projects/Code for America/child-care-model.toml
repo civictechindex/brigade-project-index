@@ -1,6 +1,6 @@
 code_url = "https://github.com/codeforamerica/child-care-model"
 git_url = "git://github.com/codeforamerica/child-care-model.git"
-last_commit = "2023-03-30T15:51:54Z"
+last_commit = "2023-03-30T20:46:33Z"
 name = "child-care-model"
 organization_name = "Code for America"
 
@@ -21,7 +21,7 @@ has_projects = true
 has_wiki = true
 id = 587_005_587
 is_template = false
-language = "HTML"
+language = "JavaScript"
 name = "child-care-model"
 node_id = "R_kgDOIvz-kw"
 open_issues_within = 10
@@ -29,7 +29,7 @@ private = false
 pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
-updated_within = "year"
+updated_within = "week"
 visibility = "public"
 watchers_within = 10
 web_commit_signoff_required = false
