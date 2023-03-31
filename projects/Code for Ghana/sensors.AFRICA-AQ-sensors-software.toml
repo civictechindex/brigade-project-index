@@ -1,6 +1,7 @@
 code_url = "https://github.com/CodeForAfrica/sensors.AFRICA-AQ-sensors-software"
 description = "sourcecode for reading sensor data"
 git_url = "git://github.com/CodeForAfrica/sensors.AFRICA-AQ-sensors-software.git"
+last_commit = "2022-09-14T06:03:06Z"
 name = "sensors.AFRICA-AQ-sensors-software"
 organization_name = "Code for Ghana"
 topics = [ "air-quality", "sensors", "sensors-africa" ]
