@@ -1,6 +1,7 @@
 code_url = "https://github.com/code4sac/wicit"
 description = "A simple node/express app for finding locations that accept WIC in California, using data from the new California Department of Public Health open data portal."
 git_url = "git://github.com/code4sac/wicit.git"
+last_commit = "2021-10-11T23:50:05Z"
 link_url = "http://findwic.com/"
 name = "wicit"
 organization_name = "Code for Sacramento"
