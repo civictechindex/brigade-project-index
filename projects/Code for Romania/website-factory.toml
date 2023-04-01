@@ -3,6 +3,6 @@ git_branch = "main"
 git_url = "git://github.com/code4romania/website-factory.git"
 last_pushed_within = "week"
 name = "website-factory"
-open_issues_within = 100
+open_issues_within = 10
 organization_name = "Code for Romania"
 topics = [ "laravel", "tailwindcss", "website-builder" ]
