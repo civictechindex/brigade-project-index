@@ -1,6 +1,7 @@
 code_url = "https://github.com/codefortulsa/courtbot-engine-data-courtbook"
 description = "A data source for courtbot that pulls data from a courtbook instance."
 git_url = "git://github.com/codefortulsa/courtbot-engine-data-courtbook.git"
+last_commit = "2017-04-22T16:47:45Z"
 name = "courtbot-engine-data-courtbook"
 organization_name = "Code for Tulsa"
 topics = [ "courtbot" ]
