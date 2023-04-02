@@ -1,6 +1,6 @@
 code_url = "https://github.com/code4romania/bursa-binelui"
 git_url = "git://github.com/code4romania/bursa-binelui.git"
-last_commit = "2023-03-22T12:06:24Z"
+last_commit = "2023-04-02T15:55:11Z"
 name = "bursa-binelui"
 organization_name = "Code for Romania: Cluj Chapter"
 
@@ -21,14 +21,15 @@ has_projects = true
 has_wiki = true
 id = 588_190_983
 is_template = false
+language = "Twig"
 name = "bursa-binelui"
 node_id = "R_kgDOIw8VBw"
-open_issues_within = 10
+open_issues_within = 0
 private = false
 pushed_within = "week"
 stargazers_within = 0
 topics = [ ]
-updated_within = "year"
+updated_within = "week"
 visibility = "public"
 watchers_within = 0
 web_commit_signoff_required = false
