@@ -1,7 +1,7 @@
 code_url = "https://github.com/opensandiego/sdvv-backend"
 description = "Backend for the Campaign Finance Transparency Dashboard"
 git_url = "git://github.com/opensandiego/sdvv-backend.git"
-last_commit = "2023-04-02T21:59:33Z"
+last_commit = "2023-04-03T00:27:27Z"
 name = "sdvv-backend"
 organization_name = "Open San Diego"
 
@@ -32,7 +32,7 @@ private = false
 pushed_within = "week"
 stargazers_within = 10
 topics = [ ]
-updated_within = "week"
+updated_within = "month"
 visibility = "public"
 watchers_within = 10
 web_commit_signoff_required = false
