@@ -1,6 +1,7 @@
 code_url = "https://github.com/codeforamerica/heroku-buildpack-pygeo"
 description = "Python buildpack"
 git_url = "git://github.com/codeforamerica/heroku-buildpack-pygeo.git"
+last_commit = "2015-03-11T23:39:47Z"
 name = "heroku-buildpack-pygeo"
 organization_name = "Code for America"
 

@@ -1,6 +1,7 @@
 code_url = "https://github.com/codeforamerica/node-sparkxml"
 description = 'Parse XML according to the "Spark" convention (http://wiki.open311.org/JSON_and_XML_Conversion#The_Spark_Convention).'
 git_url = "git://github.com/codeforamerica/node-sparkxml.git"
+last_commit = "2017-06-01T00:17:35Z"
 name = "node-sparkxml"
 organization_name = "Code for America"
 

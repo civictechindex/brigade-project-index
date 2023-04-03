@@ -1,6 +1,7 @@
 code_url = "https://github.com/codeforamerica/publiccode-pusher"
 description = "PublicCode editor customized for Code for America. The tool facilitate creating a publiccode yaml file and push it to a Github repository."
 git_url = "git://github.com/codeforamerica/publiccode-pusher.git"
+last_commit = "2021-10-19T23:33:41Z"
 name = "publiccode-pusher"
 organization_name = "Code for America"
 topics = [ "codeforamerica", "publiccode", "publiccode-editor" ]
