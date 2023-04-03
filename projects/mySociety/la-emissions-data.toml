@@ -1,7 +1,7 @@
 code_url = "https://github.com/mysociety/la-emissions-data"
 description = "Transformed and enhanced version of the BEIS LA emissions dataset"
 git_url = "git://github.com/mysociety/la-emissions-data.git"
-last_commit = "2023-03-08T10:37:42Z"
+last_commit = "2023-04-03T09:34:48Z"
 link_url = "https://pages.mysociety.org/la-emissions-data/"
 name = "la-emissions-data"
 organization_name = "mySociety"
@@ -31,7 +31,7 @@ name = "la-emissions-data"
 node_id = "R_kgDOH6Xc6Q"
 open_issues_within = 0
 private = false
-pushed_within = "month"
+pushed_within = "week"
 stargazers_within = 0
 topics = [ "dataset" ]
 updated_within = "month"
